@@ -695,7 +695,7 @@ Investigative Direction: Obtain the underlying warrant to verify the quoted lang
 
 ---
 
-**C-3536** Officer Go Forth's testimony referenced a partial license-plate match process
+**C-3536** Officer Goforth's Testimony Referenced a Partial License-Plate Match Process
 
 Claim Timestamp: 00:53:00
 

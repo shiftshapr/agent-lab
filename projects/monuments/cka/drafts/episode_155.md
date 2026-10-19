@@ -43,7 +43,7 @@
 
 ## II. Executive Summary
 
-The episode advances two parallel threads. The first extends the host's ongoing scrutiny of the Sept 10 prosecution narrative by introducing footage artifacts displayed in the episode (parking garage stills depicting the "Maroon Boy" vehicle sitting at the top level for ~8 minutes, and TMZ timestamped 8:07 AM footage showing Robinson already parked off campus) and by formally logging the host's stated correction that prior-episode timeline data was sourced from the Sept 15 search warrant rather than Agent Hull's preliminary-hearing testimony. The second thread is the introduction of a new adversarial podcast pairing (Blake Neff / Jeremy Boreing), anchored by their promotional photo, their pre-release promo clip, a separate Bobby Sausalito prediction clip played and endorsed as "almost spot on" by the host, and a Jeremy Boreing X post read on air. Two additional clusters are introduced: Woodbury Building / Baugh family / N88 plane framing (host-stated research only, no displayed artifact) and a midterm-electability commentary cluster anchored by four read-aloud X posts and a JD Vance video clip. Structurally, the episode's evidentiary center of mass is the Neff/Boring interview material; investigative structural importance lies in the new Sept 10 footage and the formally logged warrant-vs-testimony narrative shift.
+The episode advances two parallel threads. The first extends the host's ongoing scrutiny of the Sept 10 prosecution narrative by introducing footage artifacts displayed in the episode (parking garage stills depicting the "Maroon Boy" vehicle sitting at the top level for ~8 minutes, and TMZ timestamped 8:07 AM footage showing Robinson already parked off campus) and by formally logging the host's stated correction that prior-episode timeline data was sourced from the Sept 15 search warrant rather than Agent Hull's preliminary-hearing testimony. The second thread is the introduction of a new adversarial podcast pairing (Blake Neff / Jeremy Boreing), anchored by their promotional photo, their pre-release promo clip, a separate Bobby Sausalito prediction clip played and endorsed as "almost spot on" by the host, and a Jeremy Boreing X post read on air. Two additional clusters are introduced: Woodbury Building / Baugh family / N88 plane framing (host-stated research only, no displayed artifact) and a midterm-electability commentary cluster anchored by four read-aloud X posts and a JD Vance video clip. Structurally, the episode's evidentiary center of mass is the Neff/Boreing interview material; investigative structural importance lies in the new Sept 10 footage and the formally logged warrant-vs-testimony narrative shift.
 
 ---
 
@@ -65,7 +65,7 @@ Confidence Level: High
 
 **A-2406** Bobby Sausalito Prediction Audio Bundle
 
-**A-2406.1** Audio clip of Bobby Sausalito delivering pre-release predictions about the Neff/Boring podcast, played on air
+**A-2406.1** Audio clip of Bobby Sausalito delivering pre-release predictions about the Neff/Boreing podcast, played on air
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -79,7 +79,7 @@ Confidence Level: High
 
 **A-2407** Blake Neff Podcast Promo Clip Bundle
 
-**A-2407.1** Promo clip distributed by the Neff/Boring podcast, containing on-camera statements by Neff about Candace Owens, Tucker Carlson, Erika Kirk, and Turning Point USA
+**A-2407.1** Promo clip distributed by the Neff/Boreing podcast, containing on-camera statements by Neff about Candace Owens, Tucker Carlson, Erika Kirk, and Turning Point USA
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -673,7 +673,7 @@ The host's commentary on prediction-market odds, X posts and critics of the part
 
 ## V. Claim Register
 
-**C-3513** Neff/Boring Joint Podcast Announced via Promotional Materials
+**C-3513** Neff/Boreing Joint Podcast Announced via Promotional Materials
 
 Claim Timestamp: 00:00:00–00:00:01
 
@@ -692,7 +692,7 @@ Investigative Direction: Obtain the full released episode and compare its conten
 
 Claim Timestamp: 00:33:23–00:36:12
 
-Claim: Bobby Sausalito predicted, prior to release, that the Neff/Boring podcast would primarily consist of criticism of Candace Owens and Tucker Carlson, defense of TPUSA figures (Erika Kirk, Mikey McCoy, Frank Turek), and calls for lawsuits/jail time against the host.
+Claim: Bobby Sausalito predicted, prior to release, that the Neff/Boreing podcast would primarily consist of criticism of Candace Owens and Tucker Carlson, defense of TPUSA figures (Erika Kirk, Mikey McCoy, Frank Turek), and calls for lawsuits/jail time against the host.
 
 Anchored Artifacts: A-2406.1
 Mentions: N-901, N-160, N-367, N-22, N-3, N-191, N-2, N-7
@@ -722,14 +722,14 @@ Investigative Direction: Document the host's specific concurrence with each item
 
 Claim Timestamp: 00:36:51–00:37:44
 
-Claim: In the Neff/Boring promo clip, Blake Neff stated that Candace Owens is a "malicious, hateful, dishonest, destructive actor in American life."
+Claim: In the Neff/Boreing promo clip, Blake Neff stated that Candace Owens is a "malicious, hateful, dishonest, destructive actor in American life."
 
 Anchored Artifacts: A-2407.1
 Mentions: N-3, N-160
 
 Related Nodes:
 
-Investigative Direction: Obtain full Neff/Boring episode to confirm statement context and surrounding statements.
+Investigative Direction: Obtain full Neff/Boreing episode to confirm statement context and surrounding statements.
 
 ---
 
@@ -737,14 +737,14 @@ Investigative Direction: Obtain full Neff/Boring episode to confirm statement co
 
 Claim Timestamp: 00:36:51–00:37:44
 
-Claim: In the Neff/Boring promo clip, Blake Neff stated that Candace Owens "wants the person who killed Charlie to get away with it."
+Claim: In the Neff/Boreing promo clip, Blake Neff stated that Candace Owens "wants the person who killed Charlie to get away with it."
 
 Anchored Artifacts: A-2407.1
-Mentions: N-3, N-160, N-1
+Mentions: N-3, N-160, N-1, N-367
 
 Related Nodes:
 
-Investigative Direction: Verify exact quote and context in the full Neff/Boring episode.
+Investigative Direction: Verify exact quote and context in the full Neff/Boreing episode.
 
 ---
 
@@ -752,14 +752,14 @@ Investigative Direction: Verify exact quote and context in the full Neff/Boring 
 
 Claim Timestamp: 00:36:51–00:37:44
 
-Claim: In the Neff/Boring promo clip, Blake Neff stated that Tucker Carlson "has extended maximum grace to Candace Owens."
+Claim: In the Neff/Boreing promo clip, Blake Neff stated that Tucker Carlson "has extended maximum grace to Candace Owens."
 
 Anchored Artifacts: A-2407.1
-Mentions: N-22, N-3, N-160
+Mentions: N-22, N-3, N-160, N-367
 
 Related Nodes:
 
-Investigative Direction: Verify exact quote and context in the full Neff/Boring episode.
+Investigative Direction: Verify exact quote and context in the full Neff/Boreing episode.
 
 ---
 
@@ -1097,7 +1097,7 @@ Investigative Direction: Pull garage exit and admin-lot exit camera timestamps f
 
 **C-11867** Host Says Hull Never Suggested the Challenger Was Tracked Off Campus
 
-Claim Timestamp: 00:07:13
+Claim Timestamp: 00:06:25
 
 Claim: The host says the only Challenger footage the prosecution shows runs from about 8:30 to 9:33 a.m., and that Agent Hull does not suggest investigators tracked Maroon Boy's Challenger off campus or saw him change outfits.
 
@@ -1652,7 +1652,7 @@ Claim Timestamp: 00:35:43
 
 Claim: In the clip the host plays, Sausalito predicts that Boreing wants to continue getting paid by Turning Point, so he needs to run cover for everything they say and rebrand their speakers.
 
-Transcript Snippet: Germs wants to get paid by Turning Point.
+Transcript Snippet: Jeremy wants to get paid by Turning Point.
 
 Anchored Artifacts: A-2406.1
 Mentions: N-901, N-367
@@ -1744,7 +1744,7 @@ Investigative Direction: Ask the speaker for the date and medium of that private
 
 Claim Timestamp: 00:37:44
 
-Claim: The host says Boreing sued her privately for years throughout court and now, being tired or having no means to sue her since he was forced out of the Daily Wire, brings people on who say she should be sued.
+Claim: The host says Boreing sued her privately for years throughout court and now, being tired or having no means to sue her since he was forced out of the Daily Wire, brings people on and talks about how she should be sued.
 
 Transcript Snippet: But the calls to sue me, like he sued me privately for years throughout court.
 

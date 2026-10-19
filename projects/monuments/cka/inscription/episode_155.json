@@ -49,7 +49,7 @@
           "@type": "Artifact",
           "@id": "A-2406.1",
           "ref": "A-2406.1",
-          "description": "Audio clip of Bobby Sausalito delivering pre-release predictions about the Neff/Boring podcast, played on air",
+          "description": "Audio clip of Bobby Sausalito delivering pre-release predictions about the Neff/Boreing podcast, played on air",
           "related_claims": [
             "C-3514",
             "C-3515"
@@ -74,7 +74,7 @@
           "@type": "Artifact",
           "@id": "A-2407.1",
           "ref": "A-2407.1",
-          "description": "Promo clip distributed by the Neff/Boring podcast, containing on-camera statements by Neff about Candace Owens, Tucker Carlson, Erika Kirk, and Turning Point USA",
+          "description": "Promo clip distributed by the Neff/Boreing podcast, containing on-camera statements by Neff about Candace Owens, Tucker Carlson, Erika Kirk, and Turning Point USA",
           "related_claims": [
             "C-3513",
             "C-3516",
@@ -1435,7 +1435,7 @@
       "@type": "Claim",
       "@id": "C-3513",
       "ref": "C-3513",
-      "label": "Neff/Boring Joint Podcast Announced via Promotional Materials",
+      "label": "Neff/Boreing Joint Podcast Announced via Promotional Materials",
       "claim": "The host says Blake Neff and Jeremy Boreing consciously selected a photo to promote their upcoming sitdown, which she says will undoubtedly be about her.",
       "anchored_artifacts": [
         "A-2405.1",
@@ -1455,7 +1455,7 @@
       "@id": "C-3514",
       "ref": "C-3514",
       "label": "Sausalito Predicted Podcast Content Pre-Release",
-      "claim": "Bobby Sausalito predicted, prior to release, that the Neff/Boring podcast would primarily consist of criticism of Candace Owens and Tucker Carlson, defense of TPUSA figures (Erika Kirk, Mikey McCoy, Frank Turek), and calls for lawsuits/jail time against the host.",
+      "claim": "Bobby Sausalito predicted, prior to release, that the Neff/Boreing podcast would primarily consist of criticism of Candace Owens and Tucker Carlson, defense of TPUSA figures (Erika Kirk, Mikey McCoy, Frank Turek), and calls for lawsuits/jail time against the host.",
       "anchored_artifacts": [
         "A-2406.1"
       ],
@@ -1498,14 +1498,14 @@
       "@id": "C-3516",
       "ref": "C-3516",
       "label": "Neff Characterized Candace Owens as \"Malicious, Hateful, Dishonest, Destructive\"",
-      "claim": "In the Neff/Boring promo clip, Blake Neff stated that Candace Owens is a \"malicious, hateful, dishonest, destructive actor in American life.\"",
+      "claim": "In the Neff/Boreing promo clip, Blake Neff stated that Candace Owens is a \"malicious, hateful, dishonest, destructive actor in American life.\"",
       "anchored_artifacts": [
         "A-2407.1"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:51–00:37:44",
-      "investigative_direction": "Obtain full Neff/Boring episode to confirm statement context and surrounding statements.",
+      "investigative_direction": "Obtain full Neff/Boreing episode to confirm statement context and surrounding statements.",
       "mentions_person_refs": [
         "N-3",
         "N-160"
@@ -1516,18 +1516,19 @@
       "@id": "C-3517",
       "ref": "C-3517",
       "label": "Neff Stated Candace Wants Kirk's Killer to \"Get Away With It\"",
-      "claim": "In the Neff/Boring promo clip, Blake Neff stated that Candace Owens \"wants the person who killed Charlie to get away with it.\"",
+      "claim": "In the Neff/Boreing promo clip, Blake Neff stated that Candace Owens \"wants the person who killed Charlie to get away with it.\"",
       "anchored_artifacts": [
         "A-2407.1"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:51–00:37:44",
-      "investigative_direction": "Verify exact quote and context in the full Neff/Boring episode.",
+      "investigative_direction": "Verify exact quote and context in the full Neff/Boreing episode.",
       "mentions_person_refs": [
         "N-3",
         "N-160",
-        "N-1"
+        "N-1",
+        "N-367"
       ]
     },
     {
@@ -1535,18 +1536,19 @@
       "@id": "C-3518",
       "ref": "C-3518",
       "label": "Neff Asserted Tucker Carlson \"Extended Maximum Grace\" to Candace",
-      "claim": "In the Neff/Boring promo clip, Blake Neff stated that Tucker Carlson \"has extended maximum grace to Candace Owens.\"",
+      "claim": "In the Neff/Boreing promo clip, Blake Neff stated that Tucker Carlson \"has extended maximum grace to Candace Owens.\"",
       "anchored_artifacts": [
         "A-2407.1"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:51–00:37:44",
-      "investigative_direction": "Verify exact quote and context in the full Neff/Boring episode.",
+      "investigative_direction": "Verify exact quote and context in the full Neff/Boreing episode.",
       "mentions_person_refs": [
         "N-22",
         "N-3",
-        "N-160"
+        "N-160",
+        "N-367"
       ]
     },
     {
@@ -1993,7 +1995,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:07:13",
+      "claim_timestamp": "00:06:25",
       "investigative_direction": "Check the hearing transcript for any testimony on tracking the Challenger after 9:33 a.m. and for any off-campus license-plate-reader hits.",
       "transcript_snippet": "Agent Hull doesn't even so much as try to suggest that they tracked Maroon Boy Dodge Challenger off campus.",
       "mentions_person_refs": [
@@ -2793,7 +2795,7 @@
       ],
       "claim_timestamp": "00:35:43",
       "investigative_direction": "Seek any contract, sponsorship or payment record between Boreing's company and Turning Point USA.",
-      "transcript_snippet": "Germs wants to get paid by Turning Point.",
+      "transcript_snippet": "Jeremy wants to get paid by Turning Point.",
       "mentions_person_refs": [
         "N-901",
         "N-367"
@@ -2917,7 +2919,7 @@
       "@id": "C-11907",
       "ref": "C-11907",
       "label": "Host Says Boreing Sued Her Privately for Years",
-      "claim": "The host says Boreing sued her privately for years throughout court and now, being tired or having no means to sue her since he was forced out of the Daily Wire, brings people on who say she should be sued.",
+      "claim": "The host says Boreing sued her privately for years throughout court and now, being tired or having no means to sue her since he was forced out of the Daily Wire, brings people on and talks about how she should be sued.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10900"

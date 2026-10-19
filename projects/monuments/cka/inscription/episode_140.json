@@ -170,13 +170,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2270",
       "family_ref": "A-2270",
-      "bundle_name": "Agent Hoole Testimony Audio Bundle",
+      "bundle_name": "Agent Hull Testimony Audio Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2270.1",
           "ref": "A-2270.1",
-          "description": "Audio excerpt of Agent Hoole testimony describing a vehicle stopping and making contact with a security officer identified as Officer Goforth",
+          "description": "Audio excerpt of Agent Hull testimony describing a vehicle stopping and making contact with a security officer identified as Officer Goforth",
           "related_claims": [
             "C-3266"
           ],
@@ -244,13 +244,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2273",
       "family_ref": "A-2273",
-      "bundle_name": "\"No Soup For You\" / Britta Weidner Identification Bundle",
+      "bundle_name": "\"No Soup for Knowles\" / Britta Weidner Identification Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2273.1",
           "ref": "A-2273.1",
-          "description": "Public records / identification linking the \"No Soup For You\" / \"No Soup For Noels\" X account to a 40–45-year-old woman",
+          "description": "Public records / identification linking the \"No Soup for Knowles\" / \"No Soup for Knowles\" X account to a 40–45-year-old woman",
           "related_claims": [
             "C-3269"
           ],
@@ -283,7 +283,7 @@
           "@type": "Artifact",
           "@id": "A-2273.3",
           "ref": "A-2273.3",
-          "description": "Tweet-counter account output showing 4,040 tweets by \"No Soup For You\" account about Candace Owens over 11 months",
+          "description": "Tweet-counter account output showing 4,040 tweets by \"No Soup for Knowles\" account about Candace Owens over 11 months",
           "related_claims": [
             "C-3270",
             "C-3271"
@@ -1071,7 +1071,7 @@
       "ref": "N-368",
       "name": "Danny Philip",
       "type": "person",
-      "description": "Danny Phillip in the transcript; the host says McCoy was on a 10-minute call with him.",
+      "description": "Danny Philip in the transcript; the host says McCoy was on a 10-minute call with him.",
       "related_artifacts": [],
       "related_claims": [
         "C-10488"
@@ -1301,7 +1301,7 @@
       "ref": "N-10416",
       "name": "Daily Wire Stalking Pattern",
       "type": "investigation_target",
-      "description": "Existing topic reused for Widener's alleged targeting.",
+      "description": "Existing topic reused for Weidner's alleged targeting.",
       "related_artifacts": [],
       "related_claims": [
         "C-10463"
@@ -1476,7 +1476,7 @@
       "ref": "N-865",
       "name": "Officer Goforth",
       "type": "person",
-      "description": "First named by the host at 00:18:42 in episode 140. Security-detail officer identified in Agent Hoole's testimony as the officer a vehicle made contact with.",
+      "description": "First named by the host at 00:18:42 in episode 140. Security-detail officer identified in Agent Hull's testimony as the officer a vehicle made contact with.",
       "related_artifacts": [],
       "related_claims": [
         "C-10444",
@@ -1511,7 +1511,7 @@
       "ref": "N-867",
       "name": "Britta Weidner",
       "type": "person",
-      "description": "First named by the host at 00:31:45 in episode 140 (spelled Britta Whitener and Brita in the transcript). Owner of the No Soup For You / No Soup for Noels X account.",
+      "description": "First named by the host at 00:31:45 in episode 140 (spelled Britta Weidner and Brita in the transcript). Owner of the No Soup for Knowles / No Soup for Knowles X account.",
       "related_artifacts": [],
       "related_claims": [
         "C-10462",
@@ -1721,14 +1721,14 @@
       "@id": "C-3266",
       "ref": "C-3266",
       "label": "Tyler Robinson's vehicle reportedly stopped and made contact with Officer Goforth during security detail",
-      "claim": "According to Agent Hoole's testimony as played in the episode, the suspect vehicle \"made contact with an officer that was doing security detail,\" identified as Officer Goforth.",
+      "claim": "According to Agent Hull's testimony as played in the episode, the suspect vehicle \"made contact with an officer who was doing security detail,\" identified as Officer Goforth.",
       "anchored_artifacts": [
         "A-2270.1"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:18:42",
-      "investigative_direction": "Obtain the full Agent Hoole testimony transcript and Officer Goforth's body-cam footage; verify the encounter's actual content (stop vs. drive-by).",
+      "investigative_direction": "Obtain the full Agent Hull testimony transcript and Officer Goforth's body-cam footage; verify the encounter's actual content (stop vs. drive-by).",
       "mentions_person_refs": [
         "N-40",
         "N-864",
@@ -1775,8 +1775,8 @@
       "@type": "Claim",
       "@id": "C-3269",
       "ref": "C-3269",
-      "label": "Host Says Britta Weidner (No Soup For You Account) Is Approximately 45 Years Old",
-      "claim": "The host says the account \"No Soup For You\" / \"No Soup For Noels,\" which she had assumed belonged to a teenager, has been revealed to belong to Britta Weidner, whom she describes as almost 45 years old, and she references a DUI photo from last year.",
+      "label": "Host Says Britta Weidner (No Soup for Knowles Account) Is Approximately 45 Years Old",
+      "claim": "The host says the account \"No Soup for Knowles,\" which she had assumed belonged to a teenager, has been revealed to belong to Britta Weidner, whom she describes as almost 45 years old, and she references a DUI photo from last year.",
       "anchored_artifacts": [
         "A-2273.1",
         "A-2273.2"
@@ -1795,7 +1795,7 @@
       "@id": "C-3270",
       "ref": "C-3270",
       "label": "Britta Weidner sent 4,040 tweets about Candace Owens in 11 months",
-      "claim": "The host says a tweet-counter account found that \"No Soup For You\" (Britta Weidner) sent 4,040 tweets about her in the 11 months since Charlie Kirk's assassination.",
+      "claim": "The host says a tweet-counter account found that \"No Soup for Knowles\" (Britta Weidner) sent 4,040 tweets about her in the 11 months since Charlie Kirk's assassination.",
       "anchored_artifacts": [
         "A-2273.3"
       ],
@@ -1887,7 +1887,7 @@
       "@id": "C-3275",
       "ref": "C-3275",
       "label": "Tyler Robinson is right-handed per court documents",
-      "claim": "The host states that court documents show Tyler Robinson taking notes with his right hand, establishing right-handedness; this is presented in response to viewer Impala's reference to a phone outline in Tyler's right pocket in a dorm-room photo.",
+      "claim": "The host states that it is in the documents that Tyler Robinson is right-handed and that in 'the court thing' he is taking notes with his right hand; this is presented in response to viewer Impala's reference to a phone outline in Tyler's right pocket in a dorm-room photo.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10793"
@@ -1962,8 +1962,8 @@
       "@type": "Claim",
       "@id": "C-10425",
       "ref": "C-10425",
-      "label": "Host Says No Soup for Noels Was a Daily Wire Super Fan Account",
-      "claim": "The host says the X handle No Soup for Noels was essentially a Daily Wire super fan account that most people assumed belonged to a teenager but that she says belongs to a 45-year-old.",
+      "label": "Host Says No Soup for Knowles Was a Daily Wire Super Fan Account",
+      "claim": "The host says the X handle No Soup for Knowles was essentially a Daily Wire super fan account that most people assumed belonged to a teenager but that she says belongs to a 45-year-old.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10900"
@@ -2342,7 +2342,7 @@
       "@id": "C-10443",
       "ref": "C-10443",
       "label": "Host Says She Wrongly Assumed Robinson Was Pulled Over and Now Reads Hoole as Saying He Stopped to Ask an Officer",
-      "claim": "The host says she wrongly assumed Robinson had been pulled over, but after re-listening to Agent Hoole's testimony she thinks Hoole is saying Tyler stopped his car to ask the police officer a question.",
+      "claim": "The host says she wrongly assumed Robinson had been pulled over, but after re-listening to Agent Hull's testimony she thinks Hoole is saying Tyler stopped his car to ask the police officer a question.",
       "anchored_artifacts": [
         "A-2270.1"
       ],
@@ -2368,7 +2368,7 @@
       "@id": "C-10444",
       "ref": "C-10444",
       "label": "Hoole Audio Says the Vehicle Was Pulling Away East on 800 South",
-      "claim": "In the testimony audio the host plays, Agent Hoole says the vehicle is now pulling away and heading east on 800 South.",
+      "claim": "In the testimony audio the host plays, Agent Hull says the vehicle is now pulling away and heading east on 800 South.",
       "anchored_artifacts": [
         "A-2270.1"
       ],
@@ -2794,7 +2794,7 @@
       "@id": "C-10464",
       "ref": "C-10464",
       "label": "Host Says Loomer Sent About 1,800 Tweets About Her",
-      "claim": "The host says that a couple of weeks earlier she showed that Laura Loomer sent about 1,800 tweets about her, a figure she contrasts with Widener's count.",
+      "claim": "The host says that a couple of weeks earlier she showed that Laura Loomer sent about 1,800 tweets about her, a figure she contrasts with Weidner's count.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3312,8 +3312,8 @@
       "@type": "Claim",
       "@id": "C-10488",
       "ref": "C-10488",
-      "label": "Host Says McCoy Was on the Phone With Danny Phillip for 10 Minutes and They Rode in Separate Cars",
-      "claim": "The host says McCoy was on the phone with Danny Phillip for 10 minutes even though they should have been together, and that they now think the two went to the hospital in separate cars.",
+      "label": "Host Says McCoy Was on the Phone With Danny Philip for 10 Minutes and They Rode in Separate Cars",
+      "claim": "The host says McCoy was on the phone with Danny Philip for 10 minutes even though they should have been together, and that they now think the two went to the hospital in separate cars.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10338"
@@ -3323,7 +3323,7 @@
       ],
       "claim_timestamp": "00:46:41",
       "investigative_direction": "Obtain call logs and hospital-arrival records for McCoy and Phillip and the vehicle manifests for the convoy.",
-      "transcript_snippet": "And then he's like on the phone with Danny Phillip for 10 minutes, but they should be together, but now we're thinking actually they went into two different cars to the hospital.",
+      "transcript_snippet": "And then he's like on the phone with Danny Philip for 10 minutes, but they should be together, but now we're thinking actually they went into two different cars to the hospital.",
       "mentions_person_refs": [
         "N-191",
         "N-368"

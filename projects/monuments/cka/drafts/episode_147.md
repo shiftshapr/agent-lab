@@ -89,7 +89,7 @@ Confidence Level: High
 
 **A-2329** 9/10 Exclusive Footage Bundle
 
-Newly released video footage shown to the audience depicting the post-shot sequence at Charlie Kirk's vehicle. Includes: (1) sprint sequence showing Justin Davis opening the passenger-side door of a vehicle not his own; (2) a "dip and meet" sequence showing Danny Phillip and Mikey McCoy meeting at the front of the vehicle; (3) a clip showing Chris (security) and Nate Walker walking toward the Sorensen building upstairs; (4) a clip of a backpack being ejected from the vehicle's trunk.
+Newly released video footage shown to the audience depicting the post-shot sequence at Charlie Kirk's vehicle. Includes: (1) sprint sequence showing Justin Davis opening the passenger-side door of a vehicle not his own; (2) a "dip and meet" sequence showing Danny Philip and Mikey McCoy meeting at the front of the vehicle; (3) a clip showing Chris (security) and Nate Walker walking toward the Sorensen building upstairs; (4) a clip of a backpack being ejected from the vehicle's trunk.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -107,7 +107,7 @@ Justin Davis running to and opening the passenger-side door of a vehicle he did 
 
 **A-2329.2** "Dip and Meet" Sequence (Danny / Mikey / Justin)
 
-Footage showing Mikey McCoy and Danny Phillip running, meeting in front of Charlie's vehicle, and ducking down together with Justin Davis, as if in coordination.
+Footage showing Mikey McCoy and Danny Philip running, meeting in front of Charlie's vehicle, and ducking down together with Justin Davis, as if in coordination.
 
 *Related: C-3365, C-3366, N-40, N-10820*
 
@@ -125,7 +125,7 @@ Footage (originally surfaced on TikTok, sent to host via Baron Coleman) showing 
 
 **A-2330** Vehicle Positioning Diagram (UVU 9/10)
 
-AI-generated diagram shown to illustrate the arrangement of five relevant vehicles on the UVU lot on September 10, including two security vehicles on the left, two Yukon Denalis in the middle (one carrying Charlie Kirk, one carrying Danny Phillip and Blake Neff), and a Hyundai Palisade on the far right (TPUSA vehicle).
+AI-generated diagram shown to illustrate the arrangement of five relevant vehicles on the UVU lot on September 10, including two security vehicles on the left, two Yukon Denalis in the middle (one carrying Charlie Kirk, one carrying Danny Philip and Blake Neff), and a Hyundai Palisade on the far right (TPUSA vehicle).
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -307,7 +307,7 @@ Named by the host at 00:12:13 in episode 147; first introduced in episode 124.
 
 **N-368** Danny Philip
 
-Footage discussed by the host shows Danny Phillip running, meeting and ducking down with Mikey McCoy in front of Kirk's vehicle.
+Footage discussed by the host shows Danny Philip running, meeting and ducking down with Mikey McCoy in front of Kirk's vehicle.
 
 Evidence Count: 1
 Claim Count: 1
@@ -787,7 +787,7 @@ Claim Timestamp: 00:04:11
 Claim: The host says the court permitted Count 6 to proceed on the basis of Count 5, and in a clip she plays of the ruling the court says the surrounding communications, including the alleged "delete this exchange" instruction, permit a reasonable inference that the defendant intended Twiggs to withhold information from investigators.
 
 Anchored Artifacts: A-2327.1
-Mentions: N-40
+Mentions: N-40, N-54
 
 Related Nodes: N-10826
 
@@ -830,11 +830,11 @@ Related Nodes: N-10822
 
 Investigative Direction: Cross-reference vehicle key logs, security team statements, and any post-event interviews with Davis and Neff to confirm.
 
-**C-3365** Mikey McCoy and Danny Phillip met in a coordinated manner at Kirk's vehicle
+**C-3365** Host Says Mikey McCoy and Danny Philip Met in a Coordinated Manner at Kirk's Vehicle
 
 Claim Timestamp: 00:21:00
 
-Claim: Footage shows Mikey McCoy and Danny Phillip running, meeting, and "ducking down" together in front of Kirk's vehicle, in what the host characterizes as a coordinated sequence.
+Claim: The host says footage she shows has Mikey McCoy and Danny Philip running, meeting, and "ducking down" together with Justin Davis in front of Kirk's vehicle, in what she characterizes as a coordinated sequence.
 
 Anchored Artifacts: A-2329.2
 Mentions: N-368, N-191, N-493
@@ -911,7 +911,7 @@ Investigative Direction: Cross-reference against security radio logs and Christo
 
 Claim Timestamp: 00:26:16
 
-Claim: The host says, citing "sources with direct knowledge," that the three security vehicles (the lead Jeep Wagoneer, the Lincoln Navigator, and the second Yukon Denali) were not driven to the hospital.
+Claim: The host says, citing "sources with direct knowledge," that Danny Philip and Blake Neff's Denali was not driven to the hospital, and says that all three security vehicles (the lead Jeep Wagoneer, the Lincoln Navigator, and the second Yukon Denali) were left behind.
 
 Anchored Artifacts: A-2330, A-2329.1 (footage shows blocked-in configuration)
 Mentions:
@@ -989,10 +989,10 @@ Investigative Direction: Locate the specific post; verify timestamp.
 
 Claim Timestamp: 00:40:36
 
-Claim: Graham Allen posted on X: "Are you kidding me? Are you kidding me? Tyler Robin's defense attorney attacked Charlie Kirk in court. This man is a lunatic."
+Claim: Graham Allen posted on X: "Are you kidding me? Are you kidding me? Tyler Robinson's defense attorney attacked Charlie Kirk in court. This man is a lunatic."
 
 Anchored Artifacts: A-2334
-Mentions: N-1
+Mentions: N-1, N-40, N-609
 
 Related Nodes: N-10824
 
@@ -1260,7 +1260,7 @@ Claim: The host says Robinson's not-guilty plea runs counter to claims from what
 Transcript Snippet: runs counter to the extraordinary claims made by the Department of War propagandists that Tyler's dad turned him in because Tyler confessed to his crime
 
 Anchored Artifacts: 
-Mentions: N-40, N-3
+Mentions: N-40, N-3, N-778
 Related Nodes: N-10888, N-10566
 Supports: C-5041
 Tags: relevance:core
@@ -1277,7 +1277,7 @@ Claim: The host says Tyler Robinson told his father he was not guilty, that his 
 Transcript Snippet: Tyler told his father that he was not guilty. His father believes him.
 
 Anchored Artifacts: 
-Mentions: N-40, N-3
+Mentions: N-40, N-3, N-778
 Related Nodes: N-10566
 Supports: C-5041
 Tags: relevance:core
@@ -1343,7 +1343,7 @@ Claim: The host says Tyler Robinson's father went with him to the police station
 Transcript Snippet: Yes, he went with his son to the police station after they were told they had no other choice.
 
 Anchored Artifacts: 
-Mentions: N-40, N-3
+Mentions: N-40, N-3, N-778
 Related Nodes: N-10021
 Supports: C-5041
 Tags: relevance:core
@@ -1479,13 +1479,13 @@ Investigative Direction: Identify Christopher's full name and role through TPUSA
 
 ---
 
-**C-14812** Host Says Danny Phillip Drove the Second Denali With Blake Neff in the Back Seat
+**C-14812** Host Says Danny Philip Drove the Second Denali With Blake Neff in the Back Seat
 
 Claim Timestamp: 00:14:20
 
-Claim: The host says the second Denali was driven by Danny Phillip with Blake Neff in the back seat, not the front passenger seat.
+Claim: The host says the second Denali was driven by Danny Philip with Blake Neff in the back seat, not the front passenger seat.
 
-Transcript Snippet: when they pull up, you have Danny Phillip driving, and you have Blake Neff in the back seat.
+Transcript Snippet: when they pull up, you have Danny Philip driving, and you have Blake Neff in the back seat.
 
 Anchored Artifacts: A-2330
 Mentions: N-368, N-160
@@ -1640,11 +1640,11 @@ Investigative Direction: Frame-by-frame review of the footage for any exchange o
 
 ---
 
-**C-14822** Host Says Blake Neff Leaves Danny Phillip Out of His Account of the Day
+**C-14822** Host Says Blake Neff Leaves Danny Philip Out of His Account of the Day
 
 Claim Timestamp: 00:23:50
 
-Claim: The host says that when Blake Neff tells the story of what happened he mysteriously keeps leaving Danny Phillip out, despite footage showing Danny running with Mikey while Blake is ahead.
+Claim: The host says that when Blake Neff tells the story of what happened he mysteriously keeps leaving Danny Philip out, despite footage showing Danny running with Mikey while Blake is ahead.
 
 Transcript Snippet: he just mysteriously keeps leaving Danny Philip out of everything.
 
@@ -1676,7 +1676,7 @@ Investigative Direction: Review the parking footage to see who parked where and 
 
 Claim Timestamp: 00:27:20
 
-Claim: The host says that, as told on air by Blake Neff's account, Mikey McCoy as Kirk's chief of staff was tasked with giving updates to Kirk's wife.
+Claim: The host says that, as she says they were told, Mikey McCoy as Kirk's chief of staff was tasked with giving updates to Kirk's wife.
 
 Transcript Snippet: you're the his chief of staff and you are being tasked with providing updates to his wife as we were told
 
@@ -1689,13 +1689,13 @@ Investigative Direction: Check Neff's testimony and Erika Kirk's own accounts of
 
 ---
 
-**C-14825** Host Says Nate Walker, Blake Neff, Danny Phillip and Mikey McCoy Arrived at the Hospital
+**C-14825** Host Says Nate Walker, Blake Neff, Danny Philip and Mikey McCoy Arrived at the Hospital
 
 Claim Timestamp: 00:27:40
 
-Claim: The host says it is known that Nate Walker, Blake Neff, Danny Phillip and Mikey McCoy were the four who arrived at the hospital.
+Claim: The host says it is known that Nate Walker, Blake Neff, Danny Philip and Mikey McCoy were the four who arrived at the hospital.
 
-Transcript Snippet: We know that it's going to be Nate Walker and Blake and Danny Phillip and Mikey McCoy that arrived to the hospital.
+Transcript Snippet: We know that it's going to be Nate Walker and Blake and Danny Philip and Mikey McCoy that arrived to the hospital.
 
 Anchored Artifacts: 
 Mentions: N-505, N-160, N-368, N-191
@@ -1746,7 +1746,7 @@ Claim: In testimony played on air, Blake Neff says that around the time Mikey ca
 Transcript Snippet: I pull out my phone and I call my mom just to say Mom, there's been a a shooting you're going to see it on the news.
 
 Anchored Artifacts: A-2338
-Mentions: N-160, N-191
+Mentions: N-160, N-191, N-2
 Related Nodes: N-10550
 Tags: relevance:core
 Investigative Direction: Check Neff's call log for the time and duration of the call.
@@ -1769,11 +1769,11 @@ Investigative Direction: Check pastors' accounts for the time they first heard f
 
 ---
 
-**C-14830** Host Says Neff and Phillip Had a Big SUV That Was Rented
+**C-14830** Host Says Neff and Philip Had a Big SUV That Was Rented
 
 Claim Timestamp: 00:32:00
 
-Claim: The host says the SUV that Blake Neff and Danny Phillip used was a big SUV that had been rented, and asks why it was not taken to the hospital.
+Claim: The host says the SUV that Blake Neff and Danny Philip used was a big SUV that had been rented, and asks why it was not taken to the hospital.
 
 Transcript Snippet: you have this big SUV that you rented
 
@@ -2045,7 +2045,7 @@ Investigative Direction: Identify who is meant and when each person first learne
 
 Claim Timestamp: 01:00:50
 
-Claim: The host says that if a person is put to death, everyone knows that person is not involved or at least not the individual who murdered Charlie, and this would cause an awakening.
+Claim: The host says that if a person is put to death, everyone knows that person is not involved or at least not the individual who murdered Charlie, and that she believes this would cause an awakening.
 
 Transcript Snippet: we all know that that person is not involved or at least is not the individual who murdered Charlie
 
@@ -2215,7 +2215,7 @@ Confidence: high
 Video Timestamp: 00:23:27
 Speaker: N-3
 Quote: He always develops Danny Philip amnesia in particular.
-Context: Host says Neff leaves Danny Phillip out of his accounts.
+Context: Host says Neff leaves Danny Philip out of his accounts.
 Tags: blake_neff, amnesia
 Confidence: high
 
@@ -2350,7 +2350,7 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty (A-2329.1)**: "Danny Phillip" vs "Danny Philip" – both spellings appear in the transcript. Preserve as appearing; do not normalize.
+- **Name uncertainty (A-2329.1)**: "Danny Philip" vs "Danny Philip" – both spellings appear in the transcript. Preserve as appearing; do not normalize.
 - **Name uncertainty**: "Mikey McCoy" vs "Mikey McCoy" – both appear in the transcript. The "McQuaid" spelling appears once and may be a transcription error.
 - **Name uncertainty (A-2327.1)**: Transcript renders "Lance Twiggs" as "Twigs" in one location within the judge's bench ruling. Preserve as appearing.
 - **Name uncertainty (A-2327.1)**: Transcript renders "Lance Twiggs" as "Twiggs" in most locations; treat Twiggs / Twiggs as the same person.

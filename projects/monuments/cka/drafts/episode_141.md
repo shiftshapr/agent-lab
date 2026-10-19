@@ -695,11 +695,11 @@ Mentions: N-18, N-40, N-1
 
 Investigative Direction: Compare Wilson's stated confidence level against his debate claim that the evidence against Robinson is "overwhelming."
 
-**C-3279** Wilson Could Not Name Any of the Seven Charges Against Tyler Robinson
+**C-3279** Wilson Named Murder, Then Aggravated Murder, When Asked for Robinson's Charges, Per Clip Host Plays
 
 Claim Timestamp: 00:44:42
 
-Claim: When challenged during the debate to name any of the seven charges Tyler Robinson faces, Andrew Wilson could not do so and ultimately named a charge (murder) that Owens stated was not on the list.
+Claim: In a clip the host plays from the debate, when challenged to name any of the seven charges Tyler Robinson faces, Andrew Wilson first said he thought Robinson had been charged with murder, which Owens said was incorrect, and then began listing "aggravated murder" as the first charge.
 
 Anchored Artifacts: A-2277.4
 Mentions: N-18, N-40
@@ -731,11 +731,11 @@ Mentions: N-18, N-3, N-57
 
 Investigative Direction: Verify PBD's role through the published debate recording on his platform; confirm two named team members (Tom and PBD's executive assistant) were present on the pre-debate FaceTime call.
 
-**C-3282** Steven Crowder Was on the Phone With Andrew Wilson Immediately After the Debate
+**C-3282** Host Says Crowder Was Apparently on the Phone With Wilson After the Debate
 
 Claim Timestamp: 01:06:45
 
-Claim: Immediately after the debate concluded, Steven Crowder telephoned Andrew Wilson and asked whether Wilson had been provided hair and makeup services, to which Wilson replied he would have refused them.
+Claim: The host says she guesses Steven Crowder was on the phone with Andrew Wilson right after the debate; in a clip she plays, Crowder asks Wilson whether they gave him makeup, and Wilson replies that he would have refused.
 
 Anchored Artifacts: A-2281.1
 Mentions: N-18, N-260
@@ -743,11 +743,11 @@ Mentions: N-18, N-260
 
 Investigative Direction: Identify any further post-debate coordination between Crowder's organization and Wilson; verify whether the hair/makeup assertion contradicts the published terms of the debate.
 
-**C-3283** Host Says Poly Market Odds on Tyler Robinson Conviction Dropped During the Debate
+**C-3283** Host Says Polymarket Odds on Tyler Robinson Conviction Dropped During the Debate
 
 Claim Timestamp: 01:00:00
 
-Claim: The host says the Poly Market prediction market odds on a Tyler Robinson conviction fell during the debate, and she thinks they hit approximately 34% mid-debate.
+Claim: The host says the Polymarket prediction market odds on a Tyler Robinson conviction fell during the debate, and she thinks they hit approximately 34% mid-debate.
 
 Anchored Artifacts: A-2282.1
 Mentions: N-40
@@ -1021,7 +1021,7 @@ Claim: The host says she told Wilson's side that filming was allowed only inside
 Transcript Snippet: we are not allowing them to film anywhere but inside of this exact studio.
 
 Anchored Artifacts: A-2795.2
-Mentions: N-3, N-18, N-57
+Mentions: N-3, N-18
 Related Nodes: N-11067
 Investigative Direction: Compare the contract's filming clause with the host's account of the FaceTime call.
 

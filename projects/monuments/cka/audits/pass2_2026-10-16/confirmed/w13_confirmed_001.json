@@ -1,0 +1,467 @@
+[
+ {
+  "claim": "C-7571",
+  "episode": 143,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-789",
+    "N-125"
+   ]
+  },
+  "note": "'family friend' who later wrote the statement is Mike Mitchell; N-125 in ep143."
+ },
+ {
+  "claim": "C-6116",
+  "episode": 144,
+  "decision": "amend",
+  "fix": {
+   "label": "Podcast Speaker Relays Burkhart: Defense Would Present Exculpatory Evidence"
+  },
+  "note": "Claim already says Burkhart; Andrea Birkhart rule already exists. Only label needs fixing."
+ },
+ {
+  "claim": "C-6130",
+  "episode": 144,
+  "decision": "amend",
+  "fix": {
+   "claim": "Andrew Kolvet says he tweeted that her central foundational lie is that she and Charlie were friends, asking for proof from the last 12 months, then 18 and 24 months, and that he thinks she showed something at 22 months and he was community noted.",
+   "label": "Kolvet Says He Tweeted That Her Foundational Lie Is Friendship With Charlie",
+   "mentions": [
+    "N-14",
+    "N-1",
+    "N-3"
+   ]
+  },
+  "note": "Kolvet's X post (12/18/24 months, 2018 text) confirmed; host says 'he mentions this clip of Blake'. Dropped names: not a transcription error."
+ },
+ {
+  "claim": "C-6131",
+  "episode": 144,
+  "decision": "accept",
+  "fix": {
+   "claim": "Andrew Kolvet says he thinks Charlie Kirk and Candace Owens were friends in 2018 and part of 2019 and that it did not end well.",
+   "label": "Kolvet Says They Were Friends in 2018 and Part of 2019 but It Ended Badly",
+   "mentions": [
+    "N-14",
+    "N-1",
+    "N-3"
+   ]
+  },
+  "note": "Same speaker as the Kolvet tweet passage; host ties the 2018 line to the man who mentions Blake's clip."
+ },
+ {
+  "claim": "C-3327",
+  "episode": 145,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host calls the Mappins' article \"so powerful to reflect on and to reread.\""
+  },
+  "note": "'black propaganda' line ~07:06, ~80s before 08:27; dropping it leaves content at timestamp."
+ },
+ {
+  "claim": "C-3335",
+  "episode": 145,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per Bill Ackman's post the host shows, Ackman promoted Data Republican's thread three days later as \"an important read on Charlie Kirk and Candace Owens.\""
+  },
+  "note": "Host reads Ackman's post; attribution fix supported."
+ },
+ {
+  "claim": "C-3350",
+  "episode": 146,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip of his conversation with Frank Turek that the host plays, Jack Hibbs says that when his brother called to say \"Charlie's been shot,\" he briefly thought a relative named Charlie, \"cousin Charlie,\" had been shot, not Charlie Kirk.",
+   "mentions": [
+    "N-1",
+    "N-209",
+    "N-7",
+    "N-247"
+   ]
+  },
+  "note": "Clip is the Turek conversation; 'my brother' is Butch (N-247, ep146)."
+ },
+ {
+  "claim": "C-3353",
+  "episode": 146,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Jack Hibbs's brother Butch is 74 years old.",
+   "label": "Host Says Butch Hibbs Is 74 Years Old"
+  },
+  "note": "74 line ~09:28 (ok at 09:43); plaid photo ~05:37 is 4 min earlier and covered by C-7608. Moving to 05:30 would break the 74 part."
+ },
+ {
+  "claim": "C-7604",
+  "episode": 146,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Kaddis hosts a show with Erika Kirk tied to what the host calls Erika's fledgling fashion brand, BIBLEin365.",
+   "names": [
+    {
+     "wrong": "Bible and 365",
+     "right": "BIBLEin365",
+     "source": "https://www.proclaim365.com/biblein365"
+    }
+   ]
+  },
+  "note": "BIBLEin365 confirmed (Erika Kirk program; Kaddis pastoral advisor, Apple Podcasts/Proclaim). No existing rule."
+ },
+ {
+  "claim": "C-7608",
+  "episode": 146,
+  "decision": "amend",
+  "fix": {
+   "label": "Host Says Online Speculation Held Butch Hibbs Was Undercover and Carried a Rode Microphone"
+  },
+  "note": "Claim already says Rode; 'road microphone' rule exists. Only label still says Road."
+ },
+ {
+  "claim": "C-7628",
+  "episode": 146,
+  "decision": "reject",
+  "fix": {},
+  "note": "Claim and label already say Starnes; Todd Starns rule already exists."
+ },
+ {
+  "claim": "C-7646",
+  "episode": 146,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-247",
+    "N-3"
+   ]
+  },
+  "note": "Claim names Charlie; add N-1."
+ },
+ {
+  "claim": "C-3361",
+  "episode": 147,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-54"
+   ]
+  },
+  "note": "Claim names Twiggs; N-54 in ep147."
+ },
+ {
+  "claim": "C-3365",
+  "episode": 147,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says footage she shows has Mikey McCoy and Danny Philip running, meeting, and \"ducking down\" together with Justin Davis in front of Kirk's vehicle, in what she characterizes as a coordinated sequence.",
+   "label": "Host Says Mikey McCoy and Danny Philip Met in a Coordinated Manner at Kirk's Vehicle",
+   "names": [
+    {
+     "wrong": "Danny Phillip",
+     "right": "Danny Philip",
+     "source": "node N-368; Megyn Kelly panel listing (per results_201 C-10488)"
+    }
+   ]
+  },
+  "note": "Host narrates footage incl. Justin Davis; Danny Philip spelling per TBN episode title; Phillip rule is ep140 only."
+ },
+ {
+  "claim": "C-3377",
+  "episode": 147,
+  "decision": "amend",
+  "fix": {
+   "claim": "Graham Allen posted on X: \"Are you kidding me? Are you kidding me? Tyler Robinson's defense attorney attacked Charlie Kirk in court. This man is a lunatic.\"",
+   "mentions": [
+    "N-1",
+    "N-40",
+    "N-609"
+   ]
+  },
+  "note": "Robinson fix and N-40 ok; claim also names Graham Allen (N-609, from ep101), so add him."
+ },
+ {
+  "claim": "C-14798",
+  "episode": 147,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-3",
+    "N-778"
+   ]
+  },
+  "note": "Tyler's father = Matt Robinson (N-778, from ep85)."
+ },
+ {
+  "claim": "C-14799",
+  "episode": 147,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-3",
+    "N-778"
+   ]
+  },
+  "note": "Claim refers to Tyler's father, N-778."
+ },
+ {
+  "claim": "C-14803",
+  "episode": 147,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-3",
+    "N-778"
+   ]
+  },
+  "note": "Claim refers to Tyler's father, N-778."
+ },
+ {
+  "claim": "C-14812",
+  "episode": 147,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the second Denali was driven by Danny Philip with Blake Neff in the back seat, not the front passenger seat.",
+   "label": "Host Says Danny Philip Drove the Second Denali With Blake Neff in the Back Seat",
+   "names": [
+    {
+     "wrong": "Danny Phillip",
+     "right": "Danny Philip",
+     "source": "https://www.tbn.org/programs/charlie-kirk-today/episodes/danny-philip-december-25-2025-charlie-kirk-today"
+    }
+   ]
+  },
+  "note": "Danny Philip confirmed (TBN Charlie Kirk Today episode title; node N-368)."
+ },
+ {
+  "claim": "C-14822",
+  "episode": 147,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that when Blake Neff tells the story of what happened he mysteriously keeps leaving Danny Philip out, despite footage showing Danny running with Mikey while Blake is ahead.",
+   "label": "Host Says Blake Neff Leaves Danny Philip Out of His Account of the Day",
+   "names": [
+    {
+     "wrong": "Danny Phillip",
+     "right": "Danny Philip",
+     "source": "https://www.tbn.org/programs/charlie-kirk-today/episodes/danny-philip-december-25-2025-charlie-kirk-today"
+    }
+   ]
+  },
+  "note": "Danny Philip spelling; transcript itself has 'Danny Philip' here."
+ },
+ {
+  "claim": "C-14824",
+  "episode": 147,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says that, as she says they were told, Mikey McCoy as Kirk's chief of staff was tasked with giving updates to Kirk's wife."
+  },
+  "note": "Host says only 'as we were told'; once Neff is removed from the claim, N-160 should not be added."
+ },
+ {
+  "claim": "C-14825",
+  "episode": 147,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says it is known that Nate Walker, Blake Neff, Danny Philip and Mikey McCoy were the four who arrived at the hospital.",
+   "label": "Host Says Nate Walker, Blake Neff, Danny Philip and Mikey McCoy Arrived at the Hospital",
+   "names": [
+    {
+     "wrong": "Danny Phillip",
+     "right": "Danny Philip",
+     "source": "https://www.tbn.org/programs/charlie-kirk-today/episodes/danny-philip-december-25-2025-charlie-kirk-today"
+    }
+   ]
+  },
+  "note": "Danny Philip spelling."
+ },
+ {
+  "claim": "C-14828",
+  "episode": 147,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-160",
+    "N-191",
+    "N-2"
+   ]
+  },
+  "note": "Claim names Erika; add N-2."
+ },
+ {
+  "claim": "C-14830",
+  "episode": 147,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the SUV that Blake Neff and Danny Philip used was a big SUV that had been rented, and asks why it was not taken to the hospital.",
+   "label": "Host Says Neff and Philip Had a Big SUV That Was Rented",
+   "names": [
+    {
+     "wrong": "Danny Phillip",
+     "right": "Danny Philip",
+     "source": "https://www.tbn.org/programs/charlie-kirk-today/episodes/danny-philip-december-25-2025-charlie-kirk-today"
+    }
+   ]
+  },
+  "note": "Danny Philip spelling."
+ },
+ {
+  "claim": "C-3393",
+  "episode": 148,
+  "decision": "accept",
+  "fix": {
+   "claim": "According to a Deseret News profile piece the host reads, Blake Neff remembers sitting in the waiting room at the Orem, Utah hospital where Kirk was taken on September 10 and talking about how podcaster Candace Owens would react to Charlie's death.",
+   "names": [
+    {
+     "wrong": "Neff from members sitting",
+     "right": "Neff remembers sitting",
+     "source": "https://www.deseret.com/politics/2026/09/07/conspiracy-theories-swirl-around-charlie-kirks-murder/"
+    }
+   ]
+  },
+  "note": "Deseret article checked: 'Neff remembers sitting in the waiting room at the Orem, Utah, hospital'."
+ },
+ {
+  "claim": "C-3565",
+  "episode": 149,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the New York Post article the host shows, headlined along the lines of \"Utah restaurateur claims Tyler Robinson stopped in after Charlie Kirk killing, reveals what the alleged assassin ordered.\"",
+   "timestamp": "00:31:38",
+   "names": [
+    {
+     "wrong": "Utah restaurant tour",
+     "right": "Utah restaurateur",
+     "source": "https://www.aol.com/articles/utah-restaurateur-claims-tyler-robinson-233946195.html"
+    }
+   ]
+  },
+  "note": "Headline ~31:43-31:48, >20s before 32:09; 'Utah restaurateur claims...' confirmed (AOL/NYP syndication)."
+ },
+ {
+  "claim": "C-14871",
+  "episode": 149,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Charlie's announcement that he was abandoning the pro-Israel cause was something Andrew Kolvet \"felt the need to give Tulsi Gabbard's office following his death.\"",
+   "label": "Host Says Kolvet Gave Tulsi Gabbard's Office Information After Charlie's Death"
+  },
+  "note": "Host does not say Kolvet lied to Gabbard's office; fix matches her words."
+ },
+ {
+  "claim": "C-14911",
+  "episode": 149,
+  "decision": "reject",
+  "fix": {},
+  "note": "Label already reads Diligent Denizen; Diligent Dennison rule already exists."
+ },
+ {
+  "claim": "C-3441",
+  "episode": 151,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:16:55"
+  },
+  "note": "Texting described ~17:13, 43s before 17:56; walk-down at 17:56 is within window of 16:55."
+ },
+ {
+  "claim": "C-11778",
+  "episode": 151,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim names no one; Farnsworth is not referred to in claim text."
+ },
+ {
+  "claim": "C-10529",
+  "episode": 152,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Carl also signed warrants for George Zinn's phone and for Charlie's belongings at Timpanogos, and ties this to the question of where Charlie's belongings went.",
+   "names": [
+    {
+     "wrong": "Tempogo",
+     "right": "Timpanogos",
+     "source": "https://lehifreepress.com/2025/09/11/charlie-kirk-mourners-share-grief-at-vigil-on-timpanogos-regional-hospital-grounds"
+    }
+   ]
+  },
+  "note": "'Tempogo' not covered by existing Timpanogos rules; Timpanogos Regional Hospital."
+ },
+ {
+  "claim": "C-10574",
+  "episode": 152,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:50:07"
+  },
+  "note": "Line at ~50:11 and call to skip runs to ~50:30, at or past 75s after 48:56."
+ },
+ {
+  "claim": "C-10587",
+  "episode": 152,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "01:00:18"
+  },
+  "note": "'Brendan is authentic' ~1:00:24, ~36s before 01:01:00; 01:00:18 fits."
+ },
+ {
+  "claim": "C-3466",
+  "episode": 153,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Charlie Kirk's family has filed a notice of claim against the State of Utah, the UVU Police Department, UVU Police Chief Jeffrey Long, former UVU president Astrid Tuminez, and others presently \"unknown\" involved in Charlie Kirk's death."
+  },
+  "note": "Host relays a trend on X; attribution fix supported."
+ },
+ {
+  "claim": "C-3468",
+  "episode": 153,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the Associated Press article the host shows, Astrid Tuminez stated UVU \"will integrate the findings into our efforts to strengthen and improve safety practices for UVU and all of Utah higher education.\""
+  },
+  "note": "Quote read from the AP article the host shows."
+ },
+ {
+  "claim": "C-3472",
+  "episode": 153,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the text message the host shows, Chief Jeffrey Long responded to Dan Flood's rooftop-access request with the message \"I got you covered.\""
+  },
+  "note": "Text exchange shown ~28:12 ('To which he says, I got you covered'); restated at 30:35."
+ },
+ {
+  "claim": "C-15037",
+  "episode": 153,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Turning Point USA has a strong tie to UT Austin through its number one donor, Nelda Buckman."
+  },
+  "note": "Host says Nelda Buckman, not Nell."
+ },
+ {
+  "claim": "C-3512",
+  "episode": 154,
+  "decision": "accept",
+  "fix": {
+   "claim": "Candace concurs with the @Koko Rose observation that footage of Tyler Robinson's precinct turn-in was deleted under a \"retention policy\" while prior footage of him (years-old minor accident) was readily available; host adds that the same two Scripps News reporters also released old footage of Brian Cole Jr., the man blamed for the DC pipe bombs, being pulled over.",
+   "names": [
+    {
+     "wrong": "Scripts News",
+     "right": "Scripps News",
+     "source": "https://en.wikipedia.org/wiki/Scripps_News"
+    }
+   ]
+  },
+  "note": "Old Brian Cole traffic-stop footage, not pipe-bomb footage; Scripps News real (ex-Newsy). The existing rule covers only 'Scriptscripts'."
+ }
+]

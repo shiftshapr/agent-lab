@@ -1150,7 +1150,7 @@
       "@type": "Person",
       "@id": "N-891",
       "ref": "N-891",
-      "name": "Savannah Hernandez",
+      "name": "Savanah Hernandez",
       "type": "person",
       "description": "First named by the host at 00:07:17 in episode 92 (via the Kolvet clip). TPUSA front-lines reporter in the Minneapolis incident cited by Kolvet and Vance.",
       "related_artifacts": [],
@@ -2452,8 +2452,8 @@
       "@type": "Claim",
       "@id": "C-11378",
       "ref": "C-11378",
-      "label": "Kolvet Cites Savannah Hernandez Minneapolis Incident and Says Cancellation Was a First for TPUSA",
-      "claim": "On Fox News, Andrew Kolvet said that cancelling Erika Kirk's appearance was, to his knowledge, the first time TPUSA has had to make such a decision, and pointed to what happened to TPUSA front-lines reporter Savannah Hernandez in Minneapolis.",
+      "label": "Kolvet Cites Savanah Hernandez Minneapolis Incident and Says Cancellation Was a First for TPUSA",
+      "claim": "On Fox News, Andrew Kolvet said that cancelling Erika Kirk's appearance was, to his knowledge, the first time TPUSA has had to make such a decision, and pointed to what happened to TPUSA front-lines reporter Savanah Hernandez in Minneapolis.",
       "anchored_artifacts": [
         "A-1967.1"
       ],
@@ -2464,7 +2464,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:07:17",
-      "investigative_direction": "Obtain the Fox News segment and reporting on the Savannah Hernandez Minneapolis incident, and check TPUSA's history of cancelled appearances.",
+      "investigative_direction": "Obtain the Fox News segment and reporting on the Savanah Hernandez Minneapolis incident, and check TPUSA's history of cancelled appearances.",
       "transcript_snippet": "which I think is the first time that we've ever had to make that decision in Turning Point history.",
       "mentions_person_refs": [
         "N-14",

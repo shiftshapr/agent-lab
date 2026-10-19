@@ -2391,7 +2391,7 @@
       "@id": "C-3256",
       "ref": "C-3256",
       "label": "Rabbi Shmuley Iceland video shows couple confronting him about Israel",
-      "claim": "A video posted by Rabbi Shmuley shows a couple in Iceland confronting him with statements about Israel after initially approaching as fans.",
+      "claim": "A video posted by Rabbi Shmuley shows a couple in Iceland confronting him with statements about Israel; in it he says they had first approached him as fans.",
       "anchored_artifacts": [
         "A-2264.1"
       ],
@@ -3505,7 +3505,7 @@
       "@id": "C-13240",
       "ref": "C-13240",
       "label": "Host Says Lance Was Immersed in Furry Culture With a Persona Called Luna",
-      "claim": "The host says Lance was the one submerged in furry culture and had a persona she calls Luna, an avatar for his personality, which she says is actually a character spelled in a way the transcript renders \"L O N A\".",
+      "claim": "The host says Lance was the one submerged in furry culture and had a persona named Loona (rendered \"Luna\" in the transcript), an avatar for his personality, which an email she reads describes as a character from the animated series Helluva Boss.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10790"
@@ -3638,7 +3638,7 @@
       "@id": "C-13246",
       "ref": "C-13246",
       "label": "Host Says It Is Unclear the Feds Verified Lance's Sleeping Alibi",
-      "claim": "The host asks whether anyone, including the feds, has tested Lance Twiggs's sleeping alibi and says it could easily be checked through cameras, camera requests and his phone activity.",
+      "claim": "The host asks whether anyone, including the feds, has tested Lance Twiggs's sleeping alibi and says it could easily be checked through cameras, a GRAMA records request for cameras and his phone activity.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10598"
@@ -4171,8 +4171,8 @@
       "@type": "Claim",
       "@id": "C-13270",
       "ref": "C-13270",
-      "label": "Viewer Comment Says Erika's Inner Circle Includes a Man Explaining Toddler Cappy Heading Logistics",
-      "claim": "The host reads a comment by Chewing the Void saying it is weirder that Erika's inner circle includes a man who has to explain toddler cat-heading logistics on national television than that her pastor was asked a cat-beheading question, and the host agrees there is weirdness around Erika.",
+      "label": "Viewer Comment Says Erika's Inner Circle Includes a Man Explaining Toddler Cat-Beheading Logistics",
+      "claim": "The host reads a comment by Chewing the Void saying it is weirder that Erika's inner circle includes a man who has to explain toddler cat-beheading logistics on national television than that her pastor was asked a cat-beheading question, and the host agrees there is weirdness around Erika.",
       "anchored_artifacts": [
         "A-3254.2"
       ],
@@ -4193,7 +4193,7 @@
       "@id": "C-13271",
       "ref": "C-13271",
       "label": "Host Says Lindsay Clancy Is Not Guilty and the Doctors Should Be Imprisoned",
-      "claim": "The host says Lindsay Clancy is obviously not guilty and that a fleet of doctors who should be imprisoned for what they put her on.",
+      "claim": "The host says Lindsay Clancy is obviously not guilty and that there is a fleet of doctors who should be imprisoned for what they put her on.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [

@@ -1641,7 +1641,7 @@ Investigative Direction: Review the complete Sept 10 footage from all angles to 
 
 Claim Timestamp: 00:23:34
 
-Claim: The host says she is told that no police officer instructed Farnsworth to take that footage in particular. This stands against the Bowyer account that a law enforcement instruction prompted the removal.
+Claim: The host says she is told that no police officer instructed Farnsworth to take that footage in particular.
 
 Transcript Snippet: Maybe there was some police officer who told him to take that footage in particular. I'm told that didn't happen.
 

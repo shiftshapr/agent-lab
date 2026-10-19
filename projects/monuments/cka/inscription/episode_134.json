@@ -2837,7 +2837,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:37:12",
+      "claim_timestamp": "00:36:14",
       "investigative_direction": "Examine the microphone, shirt and chest injuries for blast or impact evidence.",
       "transcript_snippet": "I am a person who does believe that the microphone exploded on him.",
       "mentions_person_refs": [
@@ -2937,7 +2937,7 @@
       "@id": "C-7462",
       "ref": "C-7462",
       "label": "Prosecution Cites Exhibits 12.1 and 12.4 as Proof of a Screwdriver",
-      "claim": "The host says that in the hearing clip she plays, the prosecution asserts the defendant used a screwdriver and cites exhibits 12.1 and 12.4 as proof.",
+      "claim": "The host says that at the court hearing the prosecution asserted the defendant used a screwdriver and cited exhibits 12.1 and 12.4 as proof.",
       "anchored_artifacts": [
         "A-2882.1"
       ],

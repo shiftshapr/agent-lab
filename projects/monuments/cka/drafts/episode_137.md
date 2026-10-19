@@ -431,7 +431,7 @@ Benny Johnson; host of the show on which Kolvet appeared from the hotel.
 
 **N-125** Mike Mitchell
 
-Mike Mitchell; the host's 'Mitch Mitchell' undercover-officer account of the surrender (name matched by sound; see flags).
+Mike Mitchell; the host's 'Mike Mitchell' undercover-officer account of the surrender (name matched by sound; see flags).
 
 *Related: C-7481*
 
@@ -720,7 +720,7 @@ Investigative Direction: Obtain the full Nicholas Bowling podcast episode audio/
 
 ---
 
-**C-3212** Woodworker email states black nitrile gloves are standard resistance to CA glue and adhesive
+**C-3212** Woodworker Email Says Black Nitrile Gloves Are Most Resistant to CA Glue and Adhesive
 
 Claim Timestamp: 00:07:24
 
@@ -1007,7 +1007,7 @@ Investigative Direction: Review the preliminary hearing exhibit list and discove
 
 Claim Timestamp: 00:05:54
 
-Claim: The host says that, from the beginning, the claim that Tyler Robinson's parents turned him in was never shown, and that instead the public heard a story about 'Mitch Mitchell', whom she describes as an undercover officer his entire life, pressuring Robinson to come in peacefully or officers would knock in the doors.
+Claim: The host says that, from the beginning, the claim that Tyler Robinson's parents turned him in was never shown, and that instead the public heard a story about Mike Mitchell, whom she describes as an undercover officer his entire life, pressuring Robinson to come in peacefully or officers would knock in the doors.
 
 Transcript Snippet: Nothing they have said since the very beginning. Tyler Robinson's parents turned them in. Had they showed us that? Nope.
 
@@ -1101,7 +1101,7 @@ Investigative Direction: Obtain the 911 call audio and CAD record from Utah Coun
 
 Claim Timestamp: 00:08:14
 
-Claim: The host says John Bray showed that the glass for the road microphone is very sticky, and that woodworkers use black nitrile gloves to handle superglue because adhesive wipes off easily.
+Claim: The host says Jon Bray showed that the glass for the Rode microphone is very sticky, and that woodworkers use black nitrile gloves to handle superglue because adhesive wipes off easily.
 
 Transcript Snippet: Remember John Bray showed us that that glass for the road mic is very, very, very sticky.
 
@@ -1371,7 +1371,7 @@ Investigative Direction: Obtain the full trial transcript of Bagley's cross-exam
 
 ---
 
-**C-7504** Bagley Said He Did Not Notice Anybody on the Roof, Then Agreed He Did Not Review the Video for Anyone Between the Jump and His Arrival
+**C-7504** Bagley Said He Did Not Notice Anybody on the Roof; Defense Put It to Him That He Did Not Review the Video
 
 Claim Timestamp: 00:20:18
 
@@ -1594,7 +1594,7 @@ Claim: The host says her team determined that at least some members of the TPUSA
 Transcript Snippet: We were able to determine that the some members at least of the Turning Point USA team stayed at the Asher Adams um autograph collection hotel in Salt Lake City.
 
 Anchored Artifacts: A-2241.1
-Mentions: N-160, N-14, N-3
+Mentions: N-160, N-3
 Related Nodes: N-10732, N-10715
 Supports: C-3215
 Tags: relevance:core
@@ -1667,7 +1667,7 @@ Investigative Direction: Obtain the Sky News investigation and the official US s
 
 ---
 
-**C-7522** In the Sky Clip Trump Says the Strike Was Done by Iran and Hegseth Says It Is Still Being Investigated
+**C-7522** In a Sky News Clip Trump Says the Strike Was Done by Iran and Hegseth Says It Is Still Being Investigated
 
 Claim Timestamp: 00:37:35
 

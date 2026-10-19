@@ -2117,7 +2117,7 @@
       "ref": "N-817",
       "name": "David Sprague",
       "type": "person",
-      "description": "First named by the host at 00:02:40 in episode 138 as the man who started the USA chant after the shot; the host says he was formerly James Rollinsson (transcribed Rollinsson).",
+      "description": "First named by the host at 00:02:40 in episode 138 as the man who started the USA chant after the shot; the host says he was formerly James Rawlinson (transcribed Rollinsson).",
       "related_artifacts": [],
       "related_claims": [
         "C-9090"
@@ -2455,7 +2455,7 @@
       "@type": "Claim",
       "@id": "C-3231",
       "ref": "C-3231",
-      "label": "Mississippi-Area Law Enforcement Has No Records Matching Victor Marx's Account of a Homicide at Age 7",
+      "label": "Piers Morgan Says Mississippi-Area Law Enforcement Has No Records Matching Victor Marx's Account",
       "claim": "Piers Morgan stated during the interview that local law enforcement and sheriffs in the Mississippi area where the alleged event took place have no records, police reports, or unsolved homicides matching Victor Marx's account.",
       "anchored_artifacts": [
         "A-2251.2"
@@ -2510,8 +2510,8 @@
       "@type": "Claim",
       "@id": "C-3234",
       "ref": "C-3234",
-      "label": "The \"Protecting Mrs. Kirk\" Group Chat Was Organized by an Individual Previously Engaged in Israel-Tied Intelligence Gathering",
-      "claim": "The host asserts that the 'Protecting Mrs. Kirk' group chat was brought together by an agent of Israel who previously said he gathers intel and collaborated with a Daily Wire employee and the Gaza Humanitarian Foundation to create files on people for Israel's PR.",
+      "label": "Host Says the \"Protecting Mrs. Kirk\" Group Chat Was Organized by an Agent of Israel",
+      "claim": "The host asserts that the 'Protecting Mrs. Kirk' group chat was brought together by an agent of Israel who previously said they gather intel and collaborated with a Daily Wire employee and the Gaza Humanitarian Foundation to create files on people for Israel's PR.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10780"
@@ -2660,8 +2660,8 @@
       "@type": "Claim",
       "@id": "C-9090",
       "ref": "C-9090",
-      "label": "Host Says David Sprague Changed His Name From James Rollinsson and Told Her His Father Was Tied to Child Crimes",
-      "claim": "The host says the man who started the 'USA, USA' chant goes by David Sprague, used to be James Rollinsson, and confessed to her that his father was mixed up in sex abuse crimes against children.",
+      "label": "Host Says David Sprague Changed His Name From James Rawlinson and Told Her His Father Was Tied to Child Crimes",
+      "claim": "The host says the man who started the 'USA, USA' chant goes by David Sprague, used to be James Rawlinson, and confessed to her that his father was mixed up in sex abuse crimes against children.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -2669,7 +2669,7 @@
       ],
       "claim_timestamp": "00:02:40",
       "investigative_direction": "Verify a legal name change and any court record concerning the father, and obtain the host's source for the confession.",
-      "transcript_snippet": "He goes by David Sprague, but he actually changed his name. It used to be James Rollinsson.",
+      "transcript_snippet": "He goes by David Sprague, but he actually changed his name. It used to be James Rawlinson.",
       "mentions_person_refs": [
         "N-3",
         "N-817"
@@ -3405,7 +3405,7 @@
       "@id": "C-9122",
       "ref": "C-9122",
       "label": "Host Names Accounts in the Chat Including Milk Bar TV, Paramount Not So Tactical and Fake Catholic",
-      "claim": "The host lists accounts she says appear in the 92-member chat: Milk Bar TV, No Soup for Nles, Paramount, Not So Tactical, Bria Dale, Fake Catholic, Insurrection Barbie, and says she blocked them.",
+      "claim": "The host lists accounts she says appear in the 92-member chat: Milk Bar TV, No Soup for Knowles, Paramount Not So Tactical, Bria Dale, Fake Catholic, Insurrection Barbie, and says she blocked them.",
       "anchored_artifacts": [
         "A-2989.2"
       ],
@@ -3418,7 +3418,7 @@
       ],
       "claim_timestamp": "00:20:07",
       "investigative_direction": "Obtain the full member list from the original post and match handles to the accounts.",
-      "transcript_snippet": "Milk Bar TV, No Soup for Nles, Paramount, Not So Tactical, Bria Dale, Fake Catholic, Insurrection, Barbie",
+      "transcript_snippet": "Milk Bar TV, No Soup for Knowles, Paramount, Not So Tactical, Bria Dale, Fake Catholic, Insurrection, Barbie",
       "mentions_person_refs": [
         "N-3"
       ]

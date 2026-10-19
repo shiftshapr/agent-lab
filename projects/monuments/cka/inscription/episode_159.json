@@ -2633,7 +2633,7 @@
       "@id": "C-3610",
       "ref": "C-3610",
       "label": "July 25 2025 Yrefy addendum paid ~$1.25M more solely for Charlie’s fall campus tour",
-      "claim": "Despite the February master deal already covering the year, a July 25 addendum adds ~$1.25M for fall-tour presenting sponsorship / short speaking slot; host ties timing to donor pullouts (e.g., Bob Shillman) and UVU booking pressures; Laine Schoneberger spoke ~5 minutes at UVU.",
+      "claim": "Despite the February master deal already covering the year, a July 25 addendum adds ~$1.25M for fall-tour presenting sponsorship / short speaking slot; host ties timing to donor pullouts (e.g., Bob Shillman) and a tip that Yrefy offered to make up the lost money; Laine Schoneberger spoke ~5 minutes at UVU.",
       "anchored_artifacts": [
         "A-2468.1",
         "A-2467.1"
@@ -2718,7 +2718,7 @@
       "@type": "Claim",
       "@id": "C-3613",
       "ref": "C-3613",
-      "label": "Brian Cole Jr.’s J6 pipe-bomb confession was coerced from an autistic suspect",
+      "label": "Host Says Brian Cole Jr.'s J6 Pipe-Bomb Confession Was Coerced From an Autistic Suspect",
       "claim": "Per the account of Brian Cole Jr.'s interrogation that the host reads, agents ignored his distress and stimming, told him lying to federal agents is another crime, and he said yes to being the man in the video after twice denying recognizing him; the host calls the coerced confession positively sickening and cites Tucker Carlson's interview with Cole's parents.",
       "anchored_artifacts": [
         "A-2471.1"
@@ -3395,7 +3395,7 @@
       "@id": "C-6380",
       "ref": "C-6380",
       "label": "Contract's proposed influencer blitz lists Alex Clark, Riley Gaines, Benny Johnson, Jack Posobiec and others",
-      "claim": "The host reads the contract's list of proposed social media blitz influencers, subject to availability: Alex Clark, Riley, Morgan McMichael, Benny Johnson, Jack Posobiec, Anthony Watson, Isabelle Brown, Lauren Chen, Chrissy Clark and Savannah Hernandez, and says she cannot tell whether any besides Riley took up the offer.",
+      "claim": "The host reads the contract's list of proposed social media blitz influencers, subject to availability: Alex Clark, Riley, Morgonn McMichael, Benny Johnson, Jack Posobiec, Anthony Watson, Isabel Brown, Lauren Chen, Chrissy Clark and Savanah Hernandez, and says she cannot tell whether any besides Riley took up the offer.",
       "anchored_artifacts": [
         "A-2467.1"
       ],
@@ -3405,12 +3405,14 @@
       "tags": [],
       "claim_timestamp": "00:17:29",
       "investigative_direction": "Check each named influencer's posts for Yrefy promotion and any disclosure of sponsorship.",
-      "transcript_snippet": "These are their proposed influencers. May vary on availability. Alex Clark, Riley, Morgan Mcichael, Benny Johnson, Jack Pobic, Anthony Watson, Isabelle Brown, Lauren Chen, Chrissy Clark.",
+      "transcript_snippet": "These are their proposed influencers. May vary on availability. Alex Clark, Riley, Morgan Mcichael, Benny Johnson, Jack Pobic, Anthony Watson, Isabel Brown, Lauren Chen, Chrissy Clark.",
       "mentions_person_refs": [
         "N-99",
         "N-24",
         "N-89",
-        "N-95"
+        "N-95",
+        "N-851",
+        "N-891"
       ]
     },
     {

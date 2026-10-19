@@ -1,0 +1,772 @@
+[
+ {
+  "claim": "C-13253",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13254",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13255",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13256",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13257",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13258",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13259",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13260",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13261",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13262",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13263",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13264",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13265",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13266",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13267",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13268",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13269",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13270",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript 'toddler Cappy heading logistics' is a garble of 'cat beheading' (the comment's question was 'How did you cut a cat's head off'); claim's 'cat-heading' is garbled too.",
+  "fix": {
+   "claim": "The host reads a comment by Chewing the Void saying it is weirder that Erika's inner circle includes a man who has to explain toddler cat-beheading logistics on national television than that her pastor was asked a cat-beheading question, and the host agrees there is weirdness around Erika.",
+   "label": "Viewer Comment Says Erika's Inner Circle Includes a Man Explaining Toddler Cat-Beheading Logistics"
+  }
+ },
+ {
+  "claim": "C-13271",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Claim sentence is ungrammatical ('and that a fleet of doctors who should be'); transcript: 'There are a fleet of doctors who should be imprisoned for what they put her on.'",
+  "fix": {
+   "claim": "The host says Lindsay Clancy is obviously not guilty and that there is a fleet of doctors who should be imprisoned for what they put her on."
+  }
+ },
+ {
+  "claim": "C-13272",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13273",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13274",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host's 'Paramount Notso Tactical' is a jibe at Paramount Tactical; claim fine.",
+  "fix": {}
+ },
+ {
+  "claim": "C-13275",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13276",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13277",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13278",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13279",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3260",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3261",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3262",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3263",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3264",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3265",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3266",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Transcript 'Agent Hoole' is a mis-transcription: the testifying agent was Utah SBI Agent David Hull (Fox News hearing coverage, also naming Officer Goforth). Node N-864 needs renaming.",
+  "fix": {
+   "claim": "According to Agent Hull's testimony as played in the episode, the suspect vehicle \"made contact with an officer who was doing security detail,\" identified as Officer Goforth.",
+   "names": [
+    {
+     "wrong": "Agent Hoole",
+     "right": "Agent David Hull",
+     "source": "https://www.foxnews.com/us/surveillance-video-timeline-tracks-accused-charlie-kirk-assassin-uvu-campus-fatal-rooftop-shot"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-3267",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3268",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3269",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Handle garbled: transcript 'No Soup for Nolles'/'No Soup For You'; the account is @nosoup4knowles ('No Soup for Knowles'), named by the host on X as Britta Weidner. Weidner confirmed.",
+  "fix": {
+   "claim": "The host says the account \"No Soup for Knowles,\" which she had assumed belonged to a teenager, has been revealed to belong to Britta Weidner, whom she describes as almost 45 years old, and she references a DUI photo from last year.",
+   "label": "Host Says Britta Weidner (No Soup for Knowles Account) Is Approximately 45 Years Old",
+   "names": [
+    {
+     "wrong": "No Soup For Noels / No Soup For You",
+     "right": "No Soup for Knowles (@nosoup4knowles)",
+     "source": "https://x.com/RealCandaceO/status/2086210350601404476"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-3270",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Transcript 'No Soup For You Britta Whitener' garbles the handle @nosoup4knowles ('No Soup for Knowles') and the surname Weidner; claim repeats 'No Soup For You'.",
+  "fix": {
+   "claim": "The host says a tweet-counter account found that \"No Soup for Knowles\" (Britta Weidner) sent 4,040 tweets about her in the 11 months since Charlie Kirk's assassination.",
+   "names": [
+    {
+     "wrong": "No Soup For You",
+     "right": "No Soup for Knowles (@nosoup4knowles)",
+     "source": "https://x.com/RealCandaceO/status/2086210350601404476"
+    },
+    {
+     "wrong": "Britta Whitener",
+     "right": "Britta Weidner",
+     "source": "https://x.com/RealCandaceO/status/2086210350601404476"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-3271",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3272",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'Someone pointed out ... routine thing' is at ~38:58, ~30s before the timestamp; the call-in clip itself starts at 39:29; acceptable.",
+  "fix": {}
+ },
+ {
+  "claim": "C-3273",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Claim correctly uses Mikey McCoy; transcript 'Mikey Mcquaid' and Investigative Direction 'McQuaid' are garbles of McCoy (Investigative Direction should be corrected).",
+  "fix": {}
+ },
+ {
+  "claim": "C-3274",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3275",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'It's actually in the documents that he is right-handed. If you go look in the court thing, he's taking notes with his right hand.' Claim merges these into 'court documents show ... taking notes'.",
+  "fix": {
+   "claim": "The host states that it is in the documents that Tyler Robinson is right-handed and that in 'the court thing' he is taking notes with his right hand; this is presented in response to viewer Impala's reference to a phone outline in Tyler's right pocket in a dorm-room photo."
+  }
+ },
+ {
+  "claim": "C-3276",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10423",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10424",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10425",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Transcript 'No Soup for Noels' garbles the X handle @nosoup4knowles ('No Soup for Knowles'), per the host's own X post naming Britta Weidner.",
+  "fix": {
+   "claim": "The host says the X handle No Soup for Knowles was essentially a Daily Wire super fan account that most people assumed belonged to a teenager but that she says belongs to a 45-year-old.",
+   "label": "Host Says No Soup for Knowles Was a Daily Wire Super Fan Account",
+   "names": [
+    {
+     "wrong": "No Soup for Noels",
+     "right": "No Soup for Knowles (@nosoup4knowles)",
+     "source": "https://x.com/RealCandaceO/status/2086210350601404476"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-10426",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10427",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10428",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10429",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10430",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10431",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10432",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10433",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10434",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10435",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10436",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10437",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10438",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

@@ -709,7 +709,7 @@ The dispute over who chose the UVU amphitheater, what UVU said about traffic con
 **C-3466** Notice of Claim Filed Against Utah, UVU PD, Chief Long, Tuminez, and Unknown Others
 
 Claim Timestamp: 00:01:29
-Claim: The Kirk family filed a notice of claim against the State of Utah, the UVU Police Department, UVU Police Chief Jeffrey Long, former UVU president Astrid Tuminez, and others presently "unknown" involved in Charlie Kirk's death.
+Claim: The host says Charlie Kirk's family has filed a notice of claim against the State of Utah, the UVU Police Department, UVU Police Chief Jeffrey Long, former UVU president Astrid Tuminez, and others presently "unknown" involved in Charlie Kirk's death.
 Anchored Artifacts: A-2384.1
 Mentions: N-1, N-272, N-754
 Related Nodes: N-10833
@@ -731,7 +731,7 @@ Investigative Direction: Cross-reference UVU board minutes and the AP wire story
 **C-3468** Tuminez Quoted on Review Purpose
 
 Claim Timestamp: 00:04:55
-Claim: Astrid Tuminez stated UVU "will integrate the findings into our efforts to strengthen and improve safety practices for UVU and all of Utah higher education."
+Claim: Per the Associated Press article the host shows, Astrid Tuminez stated UVU "will integrate the findings into our efforts to strengthen and improve safety practices for UVU and all of Utah higher education."
 Anchored Artifacts: A-2385.1
 Mentions: N-754
 Related Nodes: N-10839
@@ -773,7 +773,7 @@ Investigative Direction: Verify the original text thread metadata (timestamps, s
 **C-3472** Chief Long Responded "I got you covered"
 
 Claim Timestamp: 00:30:35
-Claim: Chief Jeffrey Long responded to Dan Flood's rooftop-access request with the message "I got you covered."
+Claim: Per the text message the host shows, Chief Jeffrey Long responded to Dan Flood's rooftop-access request with the message "I got you covered."
 Anchored Artifacts: A-2387.1
 Mentions: N-271, N-272
 Related Nodes: N-10835
@@ -1570,7 +1570,7 @@ Investigative Direction: Locate the November 2025 episode and compare the map wi
 
 Claim Timestamp: 00:29:09
 
-Claim: The host says officials worried students walking up the stairs and over Charlie's head could throw things such as water bottles down on him, and that the roof is the Hall of Flags roof, beneath which Charlie sat.
+Claim: The host says those on the text thread were worried students walking up the stairs and over Charlie's head could throw things such as water bottles down on him, and that the roof is the Hall of Flags roof, beneath which Charlie sat.
 
 Transcript Snippet: that you could have an incident where uh someone's throwing water bottles, throwing water on Charlie.
 
@@ -1961,7 +1961,7 @@ Investigative Direction: Identify which speaker is Robinson from the full clip.
 
 Claim Timestamp: 00:48:11
 
-Claim: The host says Turning Point USA has a strong tie to UT Austin through its number one donor, whom she names Nell Buckman.
+Claim: The host says Turning Point USA has a strong tie to UT Austin through its number one donor, Nelda Buckman.
 
 Transcript Snippet: Turning Point USA has a very strong tie to UT Austin in the form of their number one donor uh Nelda Buckman.
 
@@ -2010,7 +2010,7 @@ Investigative Direction: Check UT Austin's announcement of the Buckman Center.
 
 Claim Timestamp: 00:49:25
 
-Claim: The host suggests the UT Austin link, through Scripps founder Jim Spencer and donor Buckman, is a side lead to explore on how Scripps obtained the video, and asks that donor resources be used to ask Spencer.
+Claim: The host suggests the UT Austin link, through Scripps founder Jim Spencer and donor Buckman, is a side lead TPUSA could use its resources to explore on how Scripps obtained the video, and that Buckman might help reach out to Spencer.
 
 Transcript Snippet: Help us all figure out how they got a hold of this obscure video.
 

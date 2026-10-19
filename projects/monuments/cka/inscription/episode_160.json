@@ -2081,8 +2081,8 @@
       "@type": "Claim",
       "@id": "C-3627",
       "ref": "C-3627",
-      "label": "Andre told BBC he found 2018 Lutnick-Epstein startup email chain",
-      "claim": "Per the host's BBC-attributed account, Simon Andriesz said he discovered a 2018 email chain in which Howard Lutnick and Jeffrey Epstein discussed prospects of a startup business, which Andre said indicated Lutnick failed to disclose a business relationship with Epstein; the host adds that this came after Epstein's Palm Beach conviction.",
+      "label": "Andriesz Told BBC He Found 2018 Lutnick-Epstein Startup Email Chain",
+      "claim": "Per the host's BBC-attributed account, Simon Andriesz said he discovered a 2018 email chain in which Howard Lutnick and Jeffrey Epstein discussed prospects of a startup business, which Andriesz said indicated Lutnick failed to disclose a business relationship with Epstein; the host adds that this came after Epstein's Palm Beach conviction.",
       "anchored_artifacts": [
         "A-2478.1"
       ],
@@ -2104,7 +2104,7 @@
       "@id": "C-3628",
       "ref": "C-3628",
       "label": "Zach Bryan Free Palestine shirts and Gillette attendance record",
-      "claim": "The host says after Robert Kraft canceled Macklemore for saying Free Palestine at Kraft's Gillette Stadium, weather canceled the scheduled shows, then Zach Bryan played two nights wearing Free Palestine shirts (band included; the drummer's shirt referenced a horrific story about a 5-year-old Palestinian girl) and broke the stadium attendance record previously held by Ed Sheeran.",
+      "claim": "The host says after Robert Kraft canceled Macklemore from performing at Kraft's Gillette Stadium for saying Free Palestine, weather canceled the scheduled shows, then Zach Bryan played two nights wearing Free Palestine shirts (band included; the drummer's shirt referenced a horrific story about a 5-year-old Palestinian girl) and broke the stadium attendance record previously held by Ed Sheeran.",
       "anchored_artifacts": [
         "A-2479.1"
       ],
@@ -3070,7 +3070,7 @@
       "@type": "Claim",
       "@id": "C-9250",
       "ref": "C-9250",
-      "label": "Host speculates the files would show an Mossad network of women under MK Ultra programming",
+      "label": "Host Speculates the Files Would Show a Mossad Network of Women Under MK Ultra Programming",
       "claim": "The host says she thinks the files would reveal fake wives and an entire Mossad network of women pretending to love men who are going through MK Ultra programming from a young age.",
       "anchored_artifacts": [],
       "related_nodes": [

@@ -2355,7 +2355,7 @@
       "@type": "Claim",
       "@id": "C-6116",
       "ref": "C-6116",
-      "label": "Podcast Speaker Relays Birkhart: Defense Would Present Exculpatory Evidence",
+      "label": "Podcast Speaker Relays Burkhart: Defense Would Present Exculpatory Evidence",
       "claim": "A speaker on the Kolvet/Neff show, apparently Kolvet, says Andrea Burkhart told him a defense with exculpatory evidence such as a steakhouse receipt would present it at the preliminary hearing.",
       "anchored_artifacts": [
         "A-2799.1"
@@ -2629,8 +2629,8 @@
       "@type": "Claim",
       "@id": "C-6130",
       "ref": "C-6130",
-      "label": "Neff Says He Tweeted That Her Foundational Lie Is Friendship With Charlie",
-      "claim": "Blake Neff says he tweeted that her central foundational lie is that she and Charlie were friends, asking for proof from the last 12 months, and that he was community noted after she showed something at 22 months.",
+      "label": "Kolvet Says He Tweeted That Her Foundational Lie Is Friendship With Charlie",
+      "claim": "Andrew Kolvet says he tweeted that her central foundational lie is that she and Charlie were friends, asking for proof from the last 12 months, then 18 and 24 months, and that he thinks she showed something at 22 months and he was community noted.",
       "anchored_artifacts": [
         "A-2306.3"
       ],
@@ -2642,7 +2642,7 @@
       "investigative_direction": "Retrieve Neff's tweet, the community note and the item the host posted.",
       "transcript_snippet": "Candace, your central foundational lie is that you and Charlie were friends. You were not friends, right?",
       "mentions_person_refs": [
-        "N-160",
+        "N-14",
         "N-1",
         "N-3"
       ]
@@ -2651,8 +2651,8 @@
       "@type": "Claim",
       "@id": "C-6131",
       "ref": "C-6131",
-      "label": "Neff Says They Were Friends in 2018 and Part of 2019 but It Ended Badly",
-      "claim": "Blake Neff says Charlie Kirk and Candace Owens were friends in 2018 and part of 2019 and that it did not end well.",
+      "label": "Kolvet Says They Were Friends in 2018 and Part of 2019 but It Ended Badly",
+      "claim": "Andrew Kolvet says he thinks Charlie Kirk and Candace Owens were friends in 2018 and part of 2019 and that it did not end well.",
       "anchored_artifacts": [
         "A-2306.3"
       ],
@@ -2664,7 +2664,7 @@
       "investigative_direction": "Test against dated messages and appearances after 2019.",
       "transcript_snippet": "I think Charlie and Candace were friends back in 2018, part of 2019. That did not end well.",
       "mentions_person_refs": [
-        "N-160",
+        "N-14",
         "N-1",
         "N-3"
       ]

@@ -21,7 +21,7 @@
 
 ## 2. Executive Summary
 
-Episode 123 is structured as an "emergency update" presenting previously withheld photographic evidence from the interior of the vehicle in which Charlie Kirk was transported on the day of the shooting. The host displays four car-interior photos and four closeups, claiming they show black tempered (sharded) glass consistent with a shattered lapel/road microphone in the area corresponding to Charlie's chest region. She contrasts this with public statements from Frank Turek and Brian Harpole, who reportedly described only a neck wound and never mentioned shattered glass. A second set of objects is shown – a cardboard-colored piece, an unidentified foil under the floor mat, an item identified via live viewer comment as SantaMedical.com medical equipment, a blood-marked Uber bag, and a coat hanger. The host reports that Charlie's bloody sports coat was returned to Erika Kirk's apartment in Arizona rather than collected into evidence.
+Episode 123 is structured as an "emergency update" presenting previously withheld photographic evidence from the interior of the vehicle in which Charlie Kirk was transported on the day of the shooting. The host displays four car-interior photos and four closeups, claiming they show black tempered (sharded) glass consistent with a shattered lapel/Rode microphone in the area corresponding to Charlie's chest region. She contrasts this with public statements from Frank Turek and Brian Harpole, who reportedly described only a neck wound and never mentioned shattered glass. A second set of objects is shown – a cardboard-colored piece, an unidentified foil under the floor mat, an item identified via live viewer comment as SantaMedical.com medical equipment, a blood-marked Uber bag, and a coat hanger. The host reports that Charlie's bloody sports coat was returned to Erika Kirk's apartment in Arizona rather than collected into evidence.
 
 The episode then pivots to commentary on Turning Point USA's anticipated response, including a viral clip of Mikey McCoy appearing physically ill as Charlie's casket is moved at the hospital, and a prior interview clip of Charlie describing how Erika told him "God wants you to have your phone on" – directly relevant to the Butler shooting anecdote referenced earlier in the series. The host reiterates her position that Tyler Robinson did not fire the shot from the rooftop and supports Jon Bray's microphone-rigging theory.
 
@@ -664,7 +664,7 @@ The host's observation, from images she has not shown, that Charlie's neck was u
 
 Claim Timestamp: 00:06:11–00:17:00
 
-Claim: The host says photographs of the vehicle interior show black tempered shattered glass all over the car where Charlie Kirk's chest region would have been, consistent with her identification of a broken road microphone.
+Claim: The host says photographs of the vehicle interior show black tempered shattered glass all over the car where Charlie Kirk's chest region would have been, consistent with her identification of a broken Rode microphone.
 
 Anchored Artifacts: A-2110.3, A-2111.4
 Mentions: N-1
@@ -816,7 +816,7 @@ Investigative Direction: Obtain official police scanner audio logs from the date
 
 Claim Timestamp: 00:29:24–00:30:20
 
-Claim: The host says TPUSA spokesperson Andrew Kolvet should respond about why or how the road microphone shattered, why Frank Turek and Brian Harpole seem to have forgotten it in their many retellings, and where Charlie's shirt is.
+Claim: The host says TPUSA spokesperson Andrew Kolvet should respond about why or how the Rode microphone shattered, why Frank Turek and Brian Harpole seem to have forgotten it in their many retellings, and where Charlie's shirt is.
 
 Anchored Artifacts: None (claim is about absence of official response)
 Mentions: N-14
@@ -972,9 +972,9 @@ Investigative Direction: Establish when the host received the full photo set and
 
 Claim Timestamp: 00:04:26
 
-Claim: The host says that after the earlier photos were released, critics lied and said the fragments were not the road microphone but something else, such as a pair of sunglasses.
+Claim: The host says that after the earlier photos were released, critics lied and said the fragments were not the Rode microphone but something else, such as a pair of sunglasses.
 
-Transcript Snippet: That's not the road microphone. That's something else. It's a pair of sunglasses and lie they did.
+Transcript Snippet: That's not the Rode microphone. That's something else. It's a pair of sunglasses and lie they did.
 
 Anchored Artifacts: 
 Mentions: N-3

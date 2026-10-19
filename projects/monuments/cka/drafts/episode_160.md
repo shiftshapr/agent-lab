@@ -1098,10 +1098,10 @@ Investigative Direction: Verify Andre identity, death circumstances, and BBC rep
 
 ---
 
-**C-3627** Andre told BBC he found 2018 Lutnick-Epstein startup email chain
+**C-3627** Andriesz Told BBC He Found 2018 Lutnick-Epstein Startup Email Chain
 
 Claim Timestamp: 00:41:13
-Claim: Per the host's BBC-attributed account, Simon Andriesz said he discovered a 2018 email chain in which Howard Lutnick and Jeffrey Epstein discussed prospects of a startup business, which Andre said indicated Lutnick failed to disclose a business relationship with Epstein; the host adds that this came after Epstein's Palm Beach conviction.
+Claim: Per the host's BBC-attributed account, Simon Andriesz said he discovered a 2018 email chain in which Howard Lutnick and Jeffrey Epstein discussed prospects of a startup business, which Andriesz said indicated Lutnick failed to disclose a business relationship with Epstein; the host adds that this came after Epstein's Palm Beach conviction.
 Anchored Artifacts: A-2478.1
 Mentions: N-9, N-166, N-173
 Related Nodes: N-10324, N-10877
@@ -1112,7 +1112,7 @@ Investigative Direction: Locate the BBC interview/article and any produced email
 **C-3628** Zach Bryan Free Palestine shirts and Gillette attendance record
 
 Claim Timestamp: 00:45:05
-Claim: The host says after Robert Kraft canceled Macklemore for saying Free Palestine at Kraft's Gillette Stadium, weather canceled the scheduled shows, then Zach Bryan played two nights wearing Free Palestine shirts (band included; the drummer's shirt referenced a horrific story about a 5-year-old Palestinian girl) and broke the stadium attendance record previously held by Ed Sheeran.
+Claim: The host says after Robert Kraft canceled Macklemore from performing at Kraft's Gillette Stadium for saying Free Palestine, weather canceled the scheduled shows, then Zach Bryan played two nights wearing Free Palestine shirts (band included; the drummer's shirt referenced a horrific story about a 5-year-old Palestinian girl) and broke the stadium attendance record previously held by Ed Sheeran.
 Anchored Artifacts: A-2479.1
 Mentions: N-178, N-195, N-836, N-837
 Related Nodes: N-10878
@@ -1795,7 +1795,7 @@ Investigative Direction: Find Bondi's original remarks and context.
 
 ---
 
-**C-9250** Host speculates the files would show an Mossad network of women under MK Ultra programming
+**C-9250** Host Speculates the Files Would Show a Mossad Network of Women Under MK Ultra Programming
 
 Claim Timestamp: 00:43:00
 

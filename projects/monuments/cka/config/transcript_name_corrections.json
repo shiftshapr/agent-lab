@@ -2067,7 +2067,8 @@
       [
         120,
         123,
-        78
+        78,
+        135
       ]
     ],
     [
@@ -3295,6 +3296,154 @@
       "Nicole Rothstein",
       [
         122
+      ]
+    ],
+    [
+      "\\bAgent Hoole\\b",
+      "Agent Hull",
+      [
+        140
+      ]
+    ],
+    [
+      "\\bBritta Whitener\\b",
+      "Britta Weidner"
+    ],
+    [
+      "\\bWidener\\b",
+      "Weidner",
+      [
+        140
+      ]
+    ],
+    [
+      "\\bDanny Phillip\\b",
+      "Danny Philip",
+      [
+        140,
+        147
+      ]
+    ],
+    [
+      "\\bDevante West\\b",
+      "Devonte West"
+    ],
+    [
+      "\\bJames Rollinsson\\b",
+      "James Rawlinson"
+    ],
+    [
+      "\\bHell of a Boss\\b",
+      "Helluva Boss"
+    ],
+    [
+      "\\bMitch Mitchell\\b",
+      "Mike Mitchell",
+      [
+        137
+      ]
+    ],
+    [
+      "\\bMouser\\b",
+      "Mauser",
+      [
+        133
+      ]
+    ],
+    [
+      "\\bNo Soup [Ff]or (?:Noels|Nles)\\b",
+      "No Soup for Knowles"
+    ],
+    [
+      "\\bNo Soup [Ff]or You\\b",
+      "No Soup for Knowles",
+      [
+        140
+      ]
+    ],
+    [
+      "\\bgamma request\\b",
+      "GRAMA request"
+    ],
+    [
+      "\\broad microphone\\b",
+      "Rode microphone"
+    ],
+    [
+      "\\bBible and 365\\b",
+      "BIBLEin365",
+      [
+        146
+      ]
+    ],
+    [
+      "\\bNeff from members sitting\\b",
+      "Neff remembers sitting",
+      [
+        148
+      ]
+    ],
+    [
+      "\\bScripts News\\b",
+      "Scripps News"
+    ],
+    [
+      "\\bTempogo\\b",
+      "Timpanogos"
+    ],
+    [
+      "\\bUtah restaurant tour\\b",
+      "Utah restaurateur",
+      [
+        149
+      ]
+    ],
+    [
+      "\\bBoring\\b",
+      "Boreing",
+      [
+        155
+      ]
+    ],
+    [
+      "\\bIsabelle Brown\\b",
+      "Isabel Brown"
+    ],
+    [
+      "\\bLake Force(?: [Gg]roup)?\\b",
+      "Lake Forest Group"
+    ],
+    [
+      "\\bMorgan McMichael\\b",
+      "Morgonn McMichael"
+    ],
+    [
+      "\\bNewsweek letter\\b",
+      "weekly newsletter",
+      [
+        154
+      ]
+    ],
+    [
+      "\\bSavannah Hernandez\\b",
+      "Savanah Hernandez"
+    ],
+    [
+      "\\bTumz\\b",
+      "Tuminez",
+      [
+        157
+      ]
+    ],
+    [
+      "\\bGerms [Bb]ore?ing\\b",
+      "Jeremy Boreing"
+    ],
+    [
+      "\\bGerms wants\\b",
+      "Jeremy wants",
+      [
+        155
       ]
     ]
   ]

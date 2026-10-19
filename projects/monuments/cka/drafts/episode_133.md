@@ -704,7 +704,7 @@ Investigative Pressure: Medium
 
 **N-10755** Weapon Discharge Visual Indicators
 
-Question of whether the rooftop footage shows muzzle flash and/or recoil consistent with the alleged weapon (German 98 Mouser family heirloom).
+Question of whether the rooftop footage shows muzzle flash and/or recoil consistent with the alleged weapon (German 98 Mauser family heirloom).
 
 Evidence Count: 1 (A-2198 family)
 Claim Count: 2 (C-3151, C-3152)
@@ -779,7 +779,7 @@ Investigative Direction: Submit original footage for frame-by-frame forensic ana
 **C-3152** Host Says She Saw No Recoil in Rooftop Footage
 
 Claim Timestamp: 00:13:37–00:15:53
-Claim: The host says she saw no visible recoil or kickback in the displayed footage, though the alleged weapon (a German 98 Mouser family heirloom) would be expected to produce a strong one.
+Claim: The host says she saw no visible recoil or kickback in the displayed footage, though the alleged weapon (a German 98 Mauser family heirloom) would be expected to produce a strong one.
 Anchored Artifacts: A-2198.1, A-2198.4
 Related Nodes: N-10755
 Investigative Direction: Frame-by-frame forensic review of original footage; cross-reference with recoil physics of the alleged firearm model.
@@ -789,7 +789,7 @@ Investigative Direction: Frame-by-frame forensic review of original footage; cro
 **C-3153** Host Says a Back-and-Forth Flash Is Visible During the Rooftop Crawl
 
 Claim Timestamp: 00:11:12–00:11:55
-Claim: The host says a flash or back-and-forth light phenomenon is visible in the rooftop footage during the individual's crawl.
+Claim: The host says a flash is visible in the rooftop footage during the individual's crawl, which she runs back and forth, and asks whether it is something being pulled out, a signal mirror, a flag, something in the background or a car.
 Anchored Artifacts: A-2198.1, A-2198.2
 Related Nodes: N-10754
 Investigative Direction: Slow-motion forensic review of original footage to determine whether the flash is environmental (reflective surface, vehicle light) or item-related (signal mirror, flag, etc.).
@@ -801,7 +801,7 @@ Investigative Direction: Slow-motion forensic review of original footage to dete
 Claim Timestamp: 00:29:26
 Claim: The displayed Wikipedia article on John C. Phelan (Secretary of the Navy) contains a tab/subsection titled "Relationship with Jeffrey Epstein."
 Anchored Artifacts: A-2200.1
-Mentions: N-9
+Mentions: N-785, N-9
 Related Nodes: N-10758
 Investigative Direction: Verify current Wikipedia article state at archive.org snapshots and cross-reference with original Epstein document releases.
 
@@ -810,9 +810,9 @@ Investigative Direction: Verify current Wikipedia article state at archive.org s
 **C-3155** Wikipedia states Phelan flew on Epstein's plane on February 27, 2006 (JFK to Luton)
 
 Claim Timestamp: 00:30:00–00:30:41
-Claim: The Wikipedia article states that Phelan flew on Jeffrey Epstein's plane on February 27, 2006, from JFK International Airport to London Luton Airport, per passenger manifests released by the U.S. House Committee in October 2025.
+Claim: The Wikipedia article the host reads states that, per passenger manifests released as part of the Epstein files, Phelan flew on Jeffrey Epstein's plane on February 27, 2006, from JFK International Airport to London Luton Airport.
 Anchored Artifacts: A-2200.2
-Mentions: N-9
+Mentions: N-785, N-9
 Related Nodes: N-10758
 Investigative Direction: Verify against the released October 2025 House Committee manifest documents.
 
@@ -843,7 +843,7 @@ Investigative Direction: Obtain the underlying court exhibit / text record image
 **C-3158** Iranian Lego propaganda video contains lyrics referencing Epstein
 
 Claim Timestamp: 00:35:52–00:38:42
-Claim: In an Iranian Lego video the host plays, repeated lyrics/text reference "Epstein" and "Epstein, Epstein, Epstein."
+Claim: In an Iranian Lego video the host plays, the lyrics reference Epstein ("Stop talking about Epstein. Now listen to the crowd"), followed by a crowd chant of "Epstein"; the host afterwards repeats "Epstein, Epstein, Epstein."
 Anchored Artifacts: A-2202.1
 Mentions: N-9
 Related Nodes:
@@ -1132,7 +1132,7 @@ Claim Timestamp: 00:12:10
 
 Claim: The host says the gun is supposed to be a German 98 Mauser family heirloom used in World War I and World War II that would take the shooter's shoulder out when fired.
 
-Transcript Snippet: this is supposed to be a German 98 Mouser family heirloom gun uh used during World War I and World War II.
+Transcript Snippet: this is supposed to be a German 98 Mauser family heirloom gun uh used during World War I and World War II.
 
 Anchored Artifacts: 
 Mentions: N-3

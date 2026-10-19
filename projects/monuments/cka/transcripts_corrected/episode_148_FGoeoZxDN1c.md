@@ -220,7 +220,7 @@ Uh and yeah, he he fed that monster. I'm not going to make the same mistake of t
 
 [36:34]
 
-Draw you guys, your attention to this. This is wacky, okay? So, they're all sort of giving these interviews right now, coming up upon the 1-year anniversary, and Blake and Neff spoke to Deseret News, which is in Utah. It's like a local news in in New Utah. And here's what it says. It says, Neff read a I guess it's supposed to be like a profile piece. Neff from members sitting in the waiting room at the Orem, Utah hospital where Kirk was taken on September 10th, and talking about how podcaster Candace Owens would react to Charlie's death. He said Charlie was aware of Owens's theories about France's first lady being transgender, as well as what he described as weird stuff about Jewish cults, and that some of her views were part of the reason that TPUSA had become less involved with Owens around 2024.
+Draw you guys, your attention to this. This is wacky, okay? So, they're all sort of giving these interviews right now, coming up upon the 1-year anniversary, and Blake and Neff spoke to Deseret News, which is in Utah. It's like a local news in in New Utah. And here's what it says. It says, Neff read a I guess it's supposed to be like a profile piece. Neff remembers sitting in the waiting room at the Orem, Utah hospital where Kirk was taken on September 10th, and talking about how podcaster Candace Owens would react to Charlie's death. He said Charlie was aware of Owens's theories about France's first lady being transgender, as well as what he described as weird stuff about Jewish cults, and that some of her views were part of the reason that TPUSA had become less involved with Owens around 2024.
 
 [37:23]
 

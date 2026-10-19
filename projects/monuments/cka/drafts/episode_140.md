@@ -39,14 +39,14 @@
   - Artifact Families Introduced: A-2267, A-2268, A-2269, A-2270, A-2271, A-2272, A-2273, A-2274, A-2275, A-2276
   - Claim Range: C-3260–C-3274
   - New People Nodes Introduced: none (Wave 2: local ids removed)
-  - Existing Nodes Reused: N-2, N-3 (Candace), Tyler Robinson node, Lance Twiggs node, George Zinn node, Andrew Wilson node, Agent Hoole node, Mikey McCoy node
+  - Existing Nodes Reused: N-2, N-3 (Candace), Tyler Robinson node, Lance Twiggs node, George Zinn node, Andrew Wilson node, Agent Hull node, Mikey McCoy node
   - New Investigation Target Nodes: N-10791, N-10792, N-10793
 
 ---
 
 ## II. Executive Summary
 
-This episode centers on the presenter's review of newly obtained "4K HD" stills said to be derived from the same parking-garage surveillance footage previously shown to influencers in court. The host argues that the subject of the footage presents physical discrepancies with Tyler Robinson – apparent left-hand dominance, high white socks possibly masking tattoos or scars, and a hat worn above the head as if accommodating a ponytail. The host argues that media outlets deliberately seeded a "Tyler loves maroon" framing by selectively releasing photos from the mother's Facebook while suppressing other-colored shirt photos. Additional segments cover an unidentified device visible during George Zinn's arrest, an update on the 92-member "Protect Erika Kirk" X group chat (with one member identified as Britta Weidner a.k.a. "No Soup For You"), and debate-prep conflicts with Andrew Wilson and his wife Rachel Wilson. The episode's structural importance is the consolidation of the "patsy" hypothesis around physical-trait evidence from the parking-garage footage and the introduction of comparative tweet-count data.
+This episode centers on the presenter's review of newly obtained "4K HD" stills said to be derived from the same parking-garage surveillance footage previously shown to influencers in court. The host argues that the subject of the footage presents physical discrepancies with Tyler Robinson – apparent left-hand dominance, high white socks possibly masking tattoos or scars, and a hat worn above the head as if accommodating a ponytail. The host argues that media outlets deliberately seeded a "Tyler loves maroon" framing by selectively releasing photos from the mother's Facebook while suppressing other-colored shirt photos. Additional segments cover an unidentified device visible during George Zinn's arrest, an update on the 92-member "Protect Erika Kirk" X group chat (with one member identified as Britta Weidner a.k.a. "No Soup for Knowles"), and debate-prep conflicts with Andrew Wilson and his wife Rachel Wilson. The episode's structural importance is the consolidation of the "patsy" hypothesis around physical-trait evidence from the parking-garage footage and the introduction of comparative tweet-count data.
 
 ---
 
@@ -132,9 +132,9 @@ Confidence Level: High (displayed)
 
 ---
 
-**A-2270** Agent Hoole Testimony Audio Bundle
+**A-2270** Agent Hull Testimony Audio Bundle
 
-**A-2270.1** Audio excerpt of Agent Hoole testimony describing a vehicle stopping and making contact with a security officer identified as Officer Goforth
+**A-2270.1** Audio excerpt of Agent Hull testimony describing a vehicle stopping and making contact with a security officer identified as Officer Goforth
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -142,7 +142,7 @@ Video Timestamp: 00:18:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-3266, Agent Hoole node, Officer Goforth (referenced)*
+*Related: C-3266, Agent Hull node, Officer Goforth (referenced)*
 
 ---
 
@@ -172,9 +172,9 @@ Confidence Level: High (displayed)
 
 ---
 
-**A-2273** "No Soup For You" / Britta Weidner Identification Bundle
+**A-2273** "No Soup for Knowles" / Britta Weidner Identification Bundle
 
-**A-2273.1** Public records / identification linking the "No Soup For You" / "No Soup For Noels" X account to a 40–45-year-old woman
+**A-2273.1** Public records / identification linking the "No Soup for Knowles" / "No Soup for Knowles" X account to a 40–45-year-old woman
 
 Video Timestamp: 00:32:20
 Discovery Timestamp: 00:00:00–00:00:01
@@ -191,7 +191,7 @@ Confidence Level: High (displayed)
 
 *Related: C-3269*
 
-**A-2273.3** Tweet-counter account output showing 4,040 tweets by "No Soup For You" account about Candace Owens over 11 months
+**A-2273.3** Tweet-counter account output showing 4,040 tweets by "No Soup for Knowles" account about Candace Owens over 11 months
 
 Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:33:27
@@ -579,7 +579,7 @@ Daily Wire co-founder (transcribed Jeremy Boreing); the host says he worked thro
 
 **N-368** Danny Philip
 
-Danny Phillip in the transcript; the host says McCoy was on a 10-minute call with him.
+Danny Philip in the transcript; the host says McCoy was on a 10-minute call with him.
 
 *Related: C-10488*
 
@@ -683,7 +683,7 @@ Existing topic reused for the Panguitch steak house claim.
 
 **N-10416** Daily Wire Stalking Pattern
 
-Existing topic reused for Widener's alleged targeting.
+Existing topic reused for Weidner's alleged targeting.
 
 *Related: C-10463*
 
@@ -755,7 +755,7 @@ First named by the host at 00:17:43 in episode 140. Investigator whose court tes
 
 **N-865** Officer Goforth
 
-First named by the host at 00:18:42 in episode 140. Security-detail officer identified in Agent Hoole's testimony as the officer a vehicle made contact with.
+First named by the host at 00:18:42 in episode 140. Security-detail officer identified in Agent Hull's testimony as the officer a vehicle made contact with.
 
 *Related: C-10444, C-10445*
 
@@ -771,9 +771,9 @@ First named by the host at 00:29:36 in episode 140. Man the host says was arrest
 
 **N-867** Britta Weidner
 
-First named by the host at 00:31:45 in episode 140 (spelled Britta Whitener and Brita in the transcript). Owner of the No Soup For You / No Soup for Noels X account.
+First named by the host at 00:31:45 in episode 140 (spelled Britta Weidner and Brita in the transcript). Owner of the No Soup for Knowles / No Soup for Knowles X account.
 
-Aliases: No Soup For You; No Soup for Noels; Britta Whitener; Brita
+Aliases: No Soup for Knowles; No Soup for Knowles; Britta Weidner; Brita
 
 *Related: C-10462, C-10463, C-10464*
 
@@ -908,14 +908,14 @@ Investigative Direction: Obtain court records or biographical sources documentin
 
 Claim Timestamp: 00:18:42
 
-Claim: According to Agent Hoole's testimony as played in the episode, the suspect vehicle "made contact with an officer that was doing security detail," identified as Officer Goforth.
+Claim: According to Agent Hull's testimony as played in the episode, the suspect vehicle "made contact with an officer who was doing security detail," identified as Officer Goforth.
 
 Anchored Artifacts: A-2270.1
 Mentions: N-40, N-864, N-865
 
 Related Nodes:
 
-Investigative Direction: Obtain the full Agent Hoole testimony transcript and Officer Goforth's body-cam footage; verify the encounter's actual content (stop vs. drive-by).
+Investigative Direction: Obtain the full Agent Hull testimony transcript and Officer Goforth's body-cam footage; verify the encounter's actual content (stop vs. drive-by).
 
 ---
 
@@ -950,11 +950,11 @@ Investigative Direction: Obtain independent verification of membership size, gro
 
 ---
 
-**C-3269** Host Says Britta Weidner (No Soup For You Account) Is Approximately 45 Years Old
+**C-3269** Host Says Britta Weidner (No Soup for Knowles Account) Is Approximately 45 Years Old
 
 Claim Timestamp: 00:32:22
 
-Claim: The host says the account "No Soup For You" / "No Soup For Noels," which she had assumed belonged to a teenager, has been revealed to belong to Britta Weidner, whom she describes as almost 45 years old, and she references a DUI photo from last year.
+Claim: The host says the account "No Soup for Knowles," which she had assumed belonged to a teenager, has been revealed to belong to Britta Weidner, whom she describes as almost 45 years old, and she references a DUI photo from last year.
 
 Anchored Artifacts: A-2273.1, A-2273.2
 Mentions: N-867, N-3
@@ -969,7 +969,7 @@ Investigative Direction: Confirm identity through public records and account-his
 
 Claim Timestamp: 00:33:27
 
-Claim: The host says a tweet-counter account found that "No Soup For You" (Britta Weidner) sent 4,040 tweets about her in the 11 months since Charlie Kirk's assassination.
+Claim: The host says a tweet-counter account found that "No Soup for Knowles" (Britta Weidner) sent 4,040 tweets about her in the 11 months since Charlie Kirk's assassination.
 
 Anchored Artifacts: A-2273.3
 Mentions: N-867, N-3, N-1
@@ -1039,7 +1039,7 @@ Investigative Direction: Verify the quoted Frank Turek statement against its ori
 
 Claim Timestamp: 00:52:51
 
-Claim: The host states that court documents show Tyler Robinson taking notes with his right hand, establishing right-handedness; this is presented in response to viewer Impala's reference to a phone outline in Tyler's right pocket in a dorm-room photo.
+Claim: The host states that it is in the documents that Tyler Robinson is right-handed and that in 'the court thing' he is taking notes with his right hand; this is presented in response to viewer Impala's reference to a phone outline in Tyler's right pocket in a dorm-room photo.
 
 Anchored Artifacts: A-2275.5 (and underlying court exhibits – not displayed in this episode)
 Mentions: N-40
@@ -1098,11 +1098,11 @@ Investigative Direction: Wait for the moderator's own announcement and the debat
 
 ---
 
-**C-10425** Host Says No Soup for Noels Was a Daily Wire Super Fan Account
+**C-10425** Host Says No Soup for Knowles Was a Daily Wire Super Fan Account
 
 Claim Timestamp: 00:00:45
 
-Claim: The host says the X handle No Soup for Noels was essentially a Daily Wire super fan account that most people assumed belonged to a teenager but that she says belongs to a 45-year-old.
+Claim: The host says the X handle No Soup for Knowles was essentially a Daily Wire super fan account that most people assumed belonged to a teenager but that she says belongs to a 45-year-old.
 
 Transcript Snippet: It was essentially a Daily Wire super fan account, which most people reasonably assumed was like a 13-year-old teenager
 
@@ -1390,7 +1390,7 @@ Investigative Direction: Identify the vehicle-tracking, license-plate or camera 
 
 Claim Timestamp: 00:17:43
 
-Claim: The host says she wrongly assumed Robinson had been pulled over, but after re-listening to Agent Hoole's testimony she thinks Hoole is saying Tyler stopped his car to ask the police officer a question.
+Claim: The host says she wrongly assumed Robinson had been pulled over, but after re-listening to Agent Hull's testimony she thinks Hoole is saying Tyler stopped his car to ask the police officer a question.
 
 Transcript Snippet: I wrongly assumed that he had been pulled over.
 
@@ -1407,7 +1407,7 @@ Investigative Direction: Obtain the full Hoole testimony transcript and the offi
 
 Claim Timestamp: 00:18:42
 
-Claim: In the testimony audio the host plays, Agent Hoole says the vehicle is now pulling away and heading east on 800 South.
+Claim: In the testimony audio the host plays, Agent Hull says the vehicle is now pulling away and heading east on 800 South.
 
 Transcript Snippet: that vehicle is now pulling away and heading east on 800 South.
 
@@ -1729,7 +1729,7 @@ Investigative Direction: Compile the April posts about the host's husband and id
 
 Claim Timestamp: 00:32:30
 
-Claim: The host says that a couple of weeks earlier she showed that Laura Loomer sent about 1,800 tweets about her, a figure she contrasts with Widener's count.
+Claim: The host says that a couple of weeks earlier she showed that Laura Loomer sent about 1,800 tweets about her, a figure she contrasts with Weidner's count.
 
 Transcript Snippet: I think I showed you a couple of weeks ago that like Laura Loomer sent like 1,800 tweets about me
 
@@ -2105,13 +2105,13 @@ Investigative Direction: Obtain the call-detail records for the calls among McCo
 
 ---
 
-**C-10488** Host Says McCoy Was on the Phone With Danny Phillip for 10 Minutes and They Rode in Separate Cars
+**C-10488** Host Says McCoy Was on the Phone With Danny Philip for 10 Minutes and They Rode in Separate Cars
 
 Claim Timestamp: 00:46:41
 
-Claim: The host says McCoy was on the phone with Danny Phillip for 10 minutes even though they should have been together, and that they now think the two went to the hospital in separate cars.
+Claim: The host says McCoy was on the phone with Danny Philip for 10 minutes even though they should have been together, and that they now think the two went to the hospital in separate cars.
 
-Transcript Snippet: And then he's like on the phone with Danny Phillip for 10 minutes, but they should be together, but now we're thinking actually they went into two different cars to the hospital.
+Transcript Snippet: And then he's like on the phone with Danny Philip for 10 minutes, but they should be together, but now we're thinking actually they went into two different cars to the hospital.
 
 Anchored Artifacts: 
 Mentions: N-191, N-368
@@ -2305,7 +2305,7 @@ Investigative Direction: Identify the week and review Kolvet's posts for the cha
 - People nodes use the global people ledger (N-2, N-3, N-10141, plus reused existing character nodes).
 - Non-person investigation targets use the 1000+ range (N-10791, N-10792, N-10793).
 - No speculative claims inscribed as evidence-backed claims; rhetorical framing (e.g., the Dane Cook analogy) is captured as a claim with explicit "analog" wording rather than as evidentiary fact.
-- Names preserved exactly as appearing in transcript (e.g., "No Soup For Noels," "Lance Twiggs," "Britta Weidner").
+- Names preserved exactly as appearing in transcript (e.g., "No Soup for Knowles," "Lance Twiggs," "Britta Weidner").
 
 ---
 
@@ -2463,9 +2463,9 @@ Confidence: high
 
 - **Artifact verbally referenced but not shown:** Court exhibits cited for Tyler Robinson's right-handedness (C-3275); the original court's body-cam footage for the Tyler Robinson / Officer Goforth encounter (C-3266).
 - **Transcript ambiguity:** C-3268 – membership count of the "Protect Erika Kirk" group is reported by the host via an exiting member; no screenshot of the group or its roster is displayed in this episode.
-- **Name uncertainty:** "No Soup For Noels" vs. "No Soup For You" – host uses both forms interchangeably to refer to the same X account; flagged here for cross-episode consistency.
+- **Name uncertainty:** "No Soup for Knowles" vs. "No Soup for Knowles" – host uses both forms interchangeably to refer to the same X account; flagged here for cross-episode consistency.
 - **Host reading aloud / displaying source material:** All viewer comments in A-2275 are explicitly read aloud; treated as artifacts under the read/display rule.
-- **Audio played as artifact:** A-2270.1 (Agent Hoole testimony), A-2274.1 (Andrew Wilson debate clip), A-2276.1 (Dane Cook Vicious Cycle).
+- **Audio played as artifact:** A-2270.1 (Agent Hull testimony), A-2274.1 (Andrew Wilson debate clip), A-2276.1 (Dane Cook Vicious Cycle).
 
 ---
 
@@ -2480,4 +2480,4 @@ A-2267, A-2268, A-2269, A-2270, A-2271, A-2272, A-2273, A-2274, A-2275, A-2276
 
 **New Investigation Target Nodes:** N-10791, N-10792, N-10793
 
-**Existing Nodes Reused:** N-2, N-3 (Candace), Tyler Robinson node, Lance Twiggs node, George Zinn node, Andrew Wilson node, Agent Hoole node, Mikey McCoy node
+**Existing Nodes Reused:** N-2, N-3 (Candace), Tyler Robinson node, Lance Twiggs node, George Zinn node, Andrew Wilson node, Agent Hull node, Mikey McCoy node

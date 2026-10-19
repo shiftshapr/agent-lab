@@ -15,6 +15,11 @@
     ],
     "reviewed": [
       {
+        "claim": "C-11394",
+        "node": "N-891",
+        "reason": "claim text: 'Savannah' (first name, as JD Vance says it) = Savanah Hernandez; pass 2 2026-10-19"
+      },
+      {
         "claim": "C-3090",
         "node": "N-30",
         "reason": "claim text: 'her husband' (George Farmer); pass 2 2026-10-17"
@@ -562,6 +567,13 @@
     "enabled": true,
     "note": "Wave 3 (Transit 73d663b P1-3): a person named in claim/artifact text before their ledger introduction fails as P1 named_before_intro. accepted: reviewed pre-Wave-3 debt (persons merged before Wave 3 whose re-introduction is out of scope); see audits/wave3/named_before_intro_debt.csv.",
     "accepted": [
+      {
+        "id": "N-570",
+        "episodes": [
+          140
+        ],
+        "reason": "'Agent Hull' in ep140 is N-864 David Hull, a duplicate of N-570; merge pending after pass 2 (2026-10-19)"
+      },
       {
         "id": "N-98",
         "episodes": [

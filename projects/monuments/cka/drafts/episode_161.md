@@ -963,7 +963,7 @@ Investigative Direction: Compare Kolvet statement to Discord TPUSA campaign lang
 **C-3688** Erika Kirk clips uploaded to campaign drives September 15 2025 via Enclave staff
 
 Claim Timestamp: 00:21:21
-Claim: Per the Atlantic account the host highlights, Google Drive folders for the TPUSA-linked campaign contained mostly Erika Kirk videos uploaded September 15, 2025 (five days after Charlie's assassination) by Enclave and Key employees Jules Katz, Benjamin Goodman, and Jack O'Hara, with Blake Wynn as Enclave CEO.
+Claim: Per the Atlantic account the host highlights, Google Drive folders for the TPUSA-linked campaign contained mostly Erika Kirk videos uploaded September 15, 2025 (five days after Charlie's assassination), and the campaigns' drive folders were filled with files uploaded by what appear to be Enclave and Key employees Jules Katz, Benjamin Goodman, and Jack O'Hara, with Blake Wynn as Enclave CEO.
 Anchored Artifacts: A-2500.1
 Mentions: N-2, N-1, N-353, N-356, N-357, N-358
 Related Nodes: N-10891, N-10882, N-10887
@@ -1742,7 +1742,7 @@ Investigative Direction: Confirm the platform ban status of Fuentes' accounts.
 
 Claim Timestamp: 00:52:55
 
-Claim: The host says Turning Point USA is obviously in cahoots with the clipping operators, taking Erika around on private planes while trying to position and sell her to the public.
+Claim: The host says Turning Point USA is obviously in cahoots with the Las Vegas-linked people funding the clipping, saying they were taking Erika around on private planes while trying to position and sell her to the public.
 
 Transcript Snippet: Turning Point USA is obviously in cahoots with them. They were taking her around private planes and they are they were trying to get Erika um into a position where they were selling her to us.
 

@@ -122,7 +122,7 @@ Tip that we received is that the call did in fact take place. Not only that, uh 
 
 [18:14]
 
-Uh almost sounds to me almost like a status update uh followed by chaos followed by a voice saying, "Get out of the way." Followed by what sounds like high rates of like speed is coming across or the car is moving quickly. But, here's where it gets super interesting. Also, allegedly, allegedly not for long, the statement, "Get that off of him." is captured on this alleged 911 call. Now, "Get what off of him?" is the first thing I think. "Get what off of him?" Couple of options. Okay? Charlie didn't have much on him. He had a necklace which had broken. He had on a white Freedom t-shirt. He had on a road microphone. There's an off chance that some of that 36 ft of packaging needed to somehow get off of him. That doesn't really make sense because Brian's pretty clear that that went into him.
+Uh almost sounds to me almost like a status update uh followed by chaos followed by a voice saying, "Get out of the way." Followed by what sounds like high rates of like speed is coming across or the car is moving quickly. But, here's where it gets super interesting. Also, allegedly, allegedly not for long, the statement, "Get that off of him." is captured on this alleged 911 call. Now, "Get what off of him?" is the first thing I think. "Get what off of him?" Couple of options. Okay? Charlie didn't have much on him. He had a necklace which had broken. He had on a white Freedom t-shirt. He had on a Rode microphone. There's an off chance that some of that 36 ft of packaging needed to somehow get off of him. That doesn't really make sense because Brian's pretty clear that that went into him.
 
 [19:28]
 
@@ -176,7 +176,7 @@ Here's another clip of this from the same speech and she's going to get a standi
 
 [30:12]
 
-But anyways, I wanted to show you this account on Instagram which will make you chuckle because this is what it reminds me of every time I have to listen to her spew this Christianese. Every time I have to listen to these pastors pretend they're saying something profound. The account holder on Instagram is Devante West and he just mocks broadly speaking. So this is not about Erika. Just this new culture of sweet nothingness Christian girl boss podcasting which just feel everyone Yes. Yes. Yes and nobody really knows what they're saying. Take a listen and a watch. >> And I love this thing my pastor said. He said, "How can you have faith when you've never been faithful?" >> Wow, I love that. >> Right? And it's within that faithfulness that you will have faith.
+But anyways, I wanted to show you this account on Instagram which will make you chuckle because this is what it reminds me of every time I have to listen to her spew this Christianese. Every time I have to listen to these pastors pretend they're saying something profound. The account holder on Instagram is Devonte West and he just mocks broadly speaking. So this is not about Erika. Just this new culture of sweet nothingness Christian girl boss podcasting which just feel everyone Yes. Yes. Yes and nobody really knows what they're saying. Take a listen and a watch. >> And I love this thing my pastor said. He said, "How can you have faith when you've never been faithful?" >> Wow, I love that. >> Right? And it's within that faithfulness that you will have faith.
 
 [30:59]
 

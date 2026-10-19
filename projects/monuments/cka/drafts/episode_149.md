@@ -316,7 +316,7 @@ Video Timestamp: 00:33:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-**A-2433.2** New York Post article: "Utah restaurant tour claims that Tyler Robinson stopped in after Charlie Kirk killing reveals what the alleged assassin ordered"
+**A-2433.2** New York Post article: "Utah restaurateur claims that Tyler Robinson stopped in after Charlie Kirk killing reveals what the alleged assassin ordered"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -1044,7 +1044,7 @@ Investigative Direction: Locate the original FaceTime recording or screenshot; v
 **C-3549** Hospital parking lot eyewitness describes a man exiting the rear hatch of the SUV
 
 Claim Timestamp: 00:16:39
-Claim: A witness who posted his account in September 2025 describes seeing a man in a white hat exit the rear hatch (not the back seat) of the SUV upon hospital arrival, with a bald driver exiting the front.
+Claim: In a clip the host plays, a witness who the host thinks posted his account back in September 2025 describes seeing a man in a white hat exit the rear hatch (not the back seat) of the SUV upon hospital arrival, with a bald driver exiting the front.
 Anchored Artifacts: A-2431.1
 Mentions:
 Related Nodes:
@@ -1117,10 +1117,10 @@ Investigative Direction: Identify scrubs source; cross-reference with hospital l
 
 ---
 
-**C-3556** Host Says Brian Harpole Is Seen Holding a Jacket and a Brown Bag at the UVU Return
+**C-3556** Host Says Brian Harpole Is Seen Holding a Jacket at the UVU Return
 
 Claim Timestamp: 00:25:02
-Claim: The host says footage shows Brian Harpole holding what appears to be a jacket, possibly Charlie's, along with a brown bag, and she believes the other team members' brown bags hold their clothes.
+Claim: The host says footage shows Brian Harpole holding a jacket that could be Charlie's, and that the team members all have brown bags which she believes hold their clothes.
 Anchored Artifacts: A-2432.3
 Mentions: N-267
 Investigative Direction: Higher-resolution frame analysis; cross-reference with clothing inventories.
@@ -1217,8 +1217,8 @@ Investigative Direction: Identify who "Blakey" refers to; obtain original record
 
 **C-3565** The New York Post covered the Cowboy Smokehouse story
 
-Claim Timestamp: 00:32:09
-Claim: The New York Post published an article titled along the lines of "Utah restaurant tour claims that Tyler Robinson stopped in after Charlie Kirk killing reveals what the alleged assassin ordered."
+Claim Timestamp: 00:31:38
+Claim: Per the New York Post article the host shows, headlined along the lines of "Utah restaurateur claims Tyler Robinson stopped in after Charlie Kirk killing, reveals what the alleged assassin ordered."
 Anchored Artifacts: A-2433.2
 Mentions: N-40, N-1
 Related Nodes: N-10898
@@ -1555,11 +1555,11 @@ Investigative Direction: Identify the message or statement by Charlie that the h
 
 ---
 
-**C-14871** Host Says Kolvet Gave Tulsi Gabbard's Office a Lie About Charlie's Israel Position
+**C-14871** Host Says Kolvet Gave Tulsi Gabbard's Office Information After Charlie's Death
 
 Claim Timestamp: 00:08:53
 
-Claim: The host says Andrew Kolvet felt the need to lie to Tulsi Gabbard's office after Charlie's death about his changing views on Israel.
+Claim: The host says Charlie's announcement that he was abandoning the pro-Israel cause was something Andrew Kolvet "felt the need to give Tulsi Gabbard's office following his death."
 
 Transcript Snippet: something that Andrew Kolvet felt the need to give Tulsi Gabbard's office following his death.
 
@@ -2542,7 +2542,7 @@ Investigative Direction: Check the cited research on C15 and cellular aging; spo
 
 Claim Timestamp: 00:44:10
 
-Claim: Responding to a viewer comment saying Blake said in the hospital lobby that Candace would figure this out, the host says that means they had full confidence it was not a conspiracy right after learning Charlie had died, which she finds strange.
+Claim: Responding to a viewer comment saying that what Blake meant in the hospital lobby was that Candace would figure this out, the host says that means they had full confidence it was not a conspiracy right after learning Charlie had died, which she finds strange.
 
 Transcript Snippet: they had full confidence that it wasn't a conspiracy and they had just found out that Charlie had died.
 

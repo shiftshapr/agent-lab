@@ -1,0 +1,228 @@
+[
+ {
+  "claim": "C-11827",
+  "episode": 154,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the parents who told her about the event called it secret because the school, a middle and high school, told them in the weekly newsletter that neither it nor TPUSA would promote it.",
+   "names": [
+    {
+     "wrong": "Newsweek letter",
+     "right": "weekly newsletter",
+     "source": "episode_154 transcript 19:07 and 24:37 (\"weekly newsletter\")"
+    }
+   ]
+  },
+  "note": "Host says 'weekly newsletter' twice in-episode (incl. 'informed of this event in the weekly newsletter ... neither TPUSA nor the school'); 'Newsweek letter' is ASR."
+ },
+ {
+  "claim": "C-11841",
+  "episode": 154,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current claim already says Stew Peters and node N-734 is already 'Stew Peters'; fix changes nothing."
+ },
+ {
+  "claim": "C-3517",
+  "episode": 155,
+  "decision": "amend",
+  "fix": {
+   "claim": "In the Neff/Boreing promo clip, Blake Neff stated that Candace Owens \"wants the person who killed Charlie to get away with it.\"",
+   "names": [
+    {
+     "wrong": "Boring",
+     "right": "Boreing",
+     "source": "node N-367 Jeremy Boreing; ep155 transcript names 'Jeremy Boreing, former CEO of Daily Wire' with Neff"
+    }
+   ],
+   "mentions": [
+    "N-3",
+    "N-160",
+    "N-1",
+    "N-367"
+   ]
+  },
+  "note": "Boreing confirmed in ep155 (photo of Neff and Jeremy Boreing); claim now names Boreing, so add N-367 (in ep155)."
+ },
+ {
+  "claim": "C-3518",
+  "episode": 155,
+  "decision": "amend",
+  "fix": {
+   "claim": "In the Neff/Boreing promo clip, Blake Neff stated that Tucker Carlson \"has extended maximum grace to Candace Owens.\"",
+   "names": [
+    {
+     "wrong": "Boring",
+     "right": "Boreing",
+     "source": "node N-367 Jeremy Boreing; ep155 transcript names 'Jeremy Boreing, former CEO of Daily Wire' with Neff"
+    }
+   ],
+   "mentions": [
+    "N-22",
+    "N-3",
+    "N-160",
+    "N-367"
+   ]
+  },
+  "note": "Boreing confirmed in ep155; claim names Boreing, so add N-367 to Mentions."
+ },
+ {
+  "claim": "C-11867",
+  "episode": 155,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:06:25"
+  },
+  "note": "'between 8:30 and 9:33' spoken ~06:28 (word position in 05:41-07:25 block), ~45s before 07:13."
+ },
+ {
+  "claim": "C-3584",
+  "episode": 157,
+  "decision": "accept",
+  "fix": {
+   "claim": "The Lake Forest Group independent review documents that despite repeated outreach (phone, voicemail, certified letter, and Phoenix senior-staff contact), Brian Harpole, Dan Flood, Maycee Crofts, and the UVU TPUSA club president did not participate, while UVU and public agencies did cooperate.",
+   "names": [
+    {
+     "wrong": "Lake Force",
+     "right": "Lake Forest Group",
+     "source": "https://www.uvu.edu/externalreview/"
+    }
+   ]
+  },
+  "note": "Verified: Lake Forest Group conducted the UVU review (Fox News, KPCW); host says 'Lake Forest Group' in ep158; node N-11076."
+ },
+ {
+  "claim": "C-6172",
+  "episode": 157,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says UVU almost immediately engaged a third party, the Lake Forest Group, to conduct a broad review of the security protocols for September 10, opening the campus and police to interviews.",
+   "names": [
+    {
+     "wrong": "Lake Force group",
+     "right": "Lake Forest Group",
+     "source": "https://www.uvu.edu/externalreview/"
+    }
+   ]
+  },
+  "note": "Verified Lake Forest Group (Fox News, KPCW); no existing correction rule for 'Lake Force'."
+ },
+ {
+  "claim": "C-6196",
+  "episode": 157,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host reads that UVU President Astrid Tuminez requested updates regarding event planning on August 31.",
+   "label": "Review: UVU President Tuminez requested event planning updates on August 31",
+   "names": [
+    {
+     "wrong": "Tumz",
+     "right": "Tuminez",
+     "source": "https://www.deseret.com/education/2026/01/14/uvu-president-astrid-tuminez-to-step-down"
+    }
+   ]
+  },
+  "note": "Astrid Tuminez is UVU president (Fox News); existing rule only covers 'Astred Tumz', not bare 'Tumz'."
+ },
+ {
+  "claim": "C-6214",
+  "episode": 157,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current claim and transcript already say Robin Ebmeyer; proposed fix is identical to the current text."
+ },
+ {
+  "claim": "C-3596",
+  "episode": 158,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:00:08"
+  },
+  "note": "Claim leads with Clara Molot's profile, named ~00:13 (00:01-01:04 block); 01:33 is ~80s late, 00:40 still ~27s after Molot."
+ },
+ {
+  "claim": "C-3606",
+  "episode": 158,
+  "decision": "amend",
+  "fix": {
+   "claim": "Host asserts billionaire Bill Ackman was among the first to retweet/amplify the college-account smear and has since deleted the tweet after it was captured; she notes the smear material was archived on August 5, 2025, when Charlie was with Ackman in the Hamptons.",
+   "label": "Bill Ackman Amplified the Smear Package and Later Deleted the Tweet",
+   "mentions": [
+    "N-3",
+    "N-37",
+    "N-1"
+   ]
+  },
+  "note": "Fix matches transcript (48:56-50:25); new text names Charlie, so add N-1."
+ },
+ {
+  "claim": "C-6294",
+  "episode": 158,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-191",
+    "N-1"
+   ]
+  },
+  "note": "Claim names only McCoy and Charlie; Erika is not named or clearly referred to."
+ },
+ {
+  "claim": "C-6380",
+  "episode": 159,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host reads the contract's list of proposed social media blitz influencers, subject to availability: Alex Clark, Riley, Morgonn McMichael, Benny Johnson, Jack Posobiec, Anthony Watson, Isabel Brown, Lauren Chen, Chrissy Clark and Savanah Hernandez, and says she cannot tell whether any besides Riley took up the offer.",
+   "names": [
+    {
+     "wrong": "Morgan McMichael",
+     "right": "Morgonn McMichael",
+     "source": "https://tpusa.com/contributor/morgonn/"
+    },
+    {
+     "wrong": "Isabelle Brown",
+     "right": "Isabel Brown",
+     "source": "https://en.wikipedia.org/wiki/Isabel_Brown_(American_activist)"
+    },
+    {
+     "wrong": "Savannah Hernandez",
+     "right": "Savanah Hernandez",
+     "source": "https://www.tpusastudents.com/speakersbureau"
+    }
+   ],
+   "mentions": [
+    "N-99",
+    "N-24",
+    "N-89",
+    "N-95",
+    "N-851",
+    "N-891"
+   ]
+  },
+  "note": "Spellings verified on TPUSA pages. Added named Lauren Chen N-851 (ep28) and Hernandez N-891 (ep92; canonical still 'Savannah'). Anthony Watson unresolved."
+ },
+ {
+  "claim": "C-3626",
+  "episode": 160,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current claim and label already use Simon Andriesz; fix only re-applies existing 'Simon Andre' correction rule."
+ },
+ {
+  "claim": "C-3627",
+  "episode": 160,
+  "decision": "amend",
+  "fix": {
+   "claim": "Per the host's BBC-attributed account, Simon Andriesz said he discovered a 2018 email chain in which Howard Lutnick and Jeffrey Epstein discussed prospects of a startup business, which Andriesz said indicated Lutnick failed to disclose a business relationship with Epstein; the host adds that this came after Epstein's Palm Beach conviction.",
+   "label": "Andriesz Told BBC He Found 2018 Lutnick-Epstein Startup Email Chain"
+  },
+  "note": "Fix the leftover 'Andre' in claim and label; drop names entry, since the 'Simon Andre' -> 'Simon Andriesz' rule already exists."
+ },
+ {
+  "claim": "C-9247",
+  "episode": 160,
+  "decision": "reject",
+  "fix": {},
+  "note": "Current claim already says Simon Andriesz; fix is identical and its names entry re-applies an existing rule."
+ }
+]

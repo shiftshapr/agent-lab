@@ -1669,7 +1669,7 @@ Investigative Direction: Hash/store contract PDFs; verify signatories and whethe
 
 Claim Timestamp: 00:20:10
 
-Claim: Despite the February master deal already covering the year, a July 25 addendum adds ~$1.25M for fall-tour presenting sponsorship / short speaking slot; host ties timing to donor pullouts (e.g., Bob Shillman) and UVU booking pressures; Laine Schoneberger spoke ~5 minutes at UVU.
+Claim: Despite the February master deal already covering the year, a July 25 addendum adds ~$1.25M for fall-tour presenting sponsorship / short speaking slot; host ties timing to donor pullouts (e.g., Bob Shillman) and a tip that Yrefy offered to make up the lost money; Laine Schoneberger spoke ~5 minutes at UVU.
 
 Anchored Artifacts: A-2468.1, A-2467.1
 Mentions: N-19, N-98
@@ -1710,7 +1710,7 @@ Investigative Direction: Pull primary NYT passages; verify attendee lists; keep 
 
 ---
 
-**C-3613** Brian Cole Jr.’s J6 pipe-bomb confession was coerced from an autistic suspect
+**C-3613** Host Says Brian Cole Jr.'s J6 Pipe-Bomb Confession Was Coerced From an Autistic Suspect
 
 Claim Timestamp: 00:47:17
 
@@ -2203,12 +2203,12 @@ Investigative Direction: Compare Gaines's actual appearances and posts with the 
 
 Claim Timestamp: 00:17:29
 
-Claim: The host reads the contract's list of proposed social media blitz influencers, subject to availability: Alex Clark, Riley, Morgan McMichael, Benny Johnson, Jack Posobiec, Anthony Watson, Isabelle Brown, Lauren Chen, Chrissy Clark and Savannah Hernandez, and says she cannot tell whether any besides Riley took up the offer.
+Claim: The host reads the contract's list of proposed social media blitz influencers, subject to availability: Alex Clark, Riley, Morgonn McMichael, Benny Johnson, Jack Posobiec, Anthony Watson, Isabel Brown, Lauren Chen, Chrissy Clark and Savanah Hernandez, and says she cannot tell whether any besides Riley took up the offer.
 
-Transcript Snippet: These are their proposed influencers. May vary on availability. Alex Clark, Riley, Morgan Mcichael, Benny Johnson, Jack Pobic, Anthony Watson, Isabelle Brown, Lauren Chen, Chrissy Clark.
+Transcript Snippet: These are their proposed influencers. May vary on availability. Alex Clark, Riley, Morgan Mcichael, Benny Johnson, Jack Pobic, Anthony Watson, Isabel Brown, Lauren Chen, Chrissy Clark.
 
 Anchored Artifacts: A-2467.1
-Mentions: N-99, N-24, N-89, N-95
+Mentions: N-99, N-24, N-89, N-95, N-851, N-891
 Related Nodes: N-10870
 Investigative Direction: Check each named influencer's posts for Yrefy promotion and any disclosure of sponsorship.
 

@@ -868,7 +868,7 @@
       "ref": "N-125",
       "name": "Mike Mitchell",
       "type": "person",
-      "description": "Mike Mitchell; the host's 'Mitch Mitchell' undercover-officer account of the surrender (name matched by sound; see flags).",
+      "description": "Mike Mitchell; the host's 'Mike Mitchell' undercover-officer account of the surrender (name matched by sound; see flags).",
       "related_artifacts": [],
       "related_claims": [
         "C-7481"
@@ -1462,7 +1462,7 @@
       "@type": "Claim",
       "@id": "C-3212",
       "ref": "C-3212",
-      "label": "Woodworker email states black nitrile gloves are standard resistance to CA glue and adhesive",
+      "label": "Woodworker Email Says Black Nitrile Gloves Are Most Resistant to CA Glue and Adhesive",
       "claim": "A woodworker email received by Candace Owens's production states that black nitrile gloves are the most resistant to CA glue (super glue) and spray activator adhesive.",
       "anchored_artifacts": [
         "A-2237.1"
@@ -1823,7 +1823,7 @@
       "@id": "C-7481",
       "ref": "C-7481",
       "label": "Host Says the Claim That Robinson's Parents Turned Him In Was Never Backed With Evidence",
-      "claim": "The host says that, from the beginning, the claim that Tyler Robinson's parents turned him in was never shown, and that instead the public heard a story about 'Mitch Mitchell', whom she describes as an undercover officer his entire life, pressuring Robinson to come in peacefully or officers would knock in the doors.",
+      "claim": "The host says that, from the beginning, the claim that Tyler Robinson's parents turned him in was never shown, and that instead the public heard a story about Mike Mitchell, whom she describes as an undercover officer his entire life, pressuring Robinson to come in peacefully or officers would knock in the doors.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10151"
@@ -1949,7 +1949,7 @@
       "@id": "C-7487",
       "ref": "C-7487",
       "label": "Host Recalls Jon Bray Showed the Road Microphone Glass Is Very Sticky",
-      "claim": "The host says John Bray showed that the glass for the road microphone is very sticky, and that woodworkers use black nitrile gloves to handle superglue because adhesive wipes off easily.",
+      "claim": "The host says Jon Bray showed that the glass for the Rode microphone is very sticky, and that woodworkers use black nitrile gloves to handle superglue because adhesive wipes off easily.",
       "anchored_artifacts": [
         "A-2237.1"
       ],
@@ -2347,7 +2347,7 @@
       "@type": "Claim",
       "@id": "C-7504",
       "ref": "C-7504",
-      "label": "Bagley Said He Did Not Notice Anybody on the Roof, Then Agreed He Did Not Review the Video for Anyone Between the Jump and His Arrival",
+      "label": "Bagley Said He Did Not Notice Anybody on the Roof; Defense Put It to Him That He Did Not Review the Video",
       "claim": "In the played testimony, Bagley answers 'I didn't notice anybody' when asked whether he checked for anyone on the roof between the suspect's jump and his arrival, and the defense attorney then puts to him that he did not review the video to see whether anybody had been on or disturbed the scene.",
       "anchored_artifacts": [
         "A-2242.1"
@@ -2681,7 +2681,6 @@
       ],
       "mentions_person_refs": [
         "N-160",
-        "N-14",
         "N-3"
       ]
     },
@@ -2784,7 +2783,7 @@
       "@type": "Claim",
       "@id": "C-7522",
       "ref": "C-7522",
-      "label": "In the Sky Clip Trump Says the Strike Was Done by Iran and Hegseth Says It Is Still Being Investigated",
+      "label": "In a Sky News Clip Trump Says the Strike Was Done by Iran and Hegseth Says It Is Still Being Investigated",
       "claim": "In the Sky News clip, Donald Trump says his opinion based on what he has seen is that the strike was done by Iran, and Pete Hegseth says it was Iran but that they are certainly investigating.",
       "anchored_artifacts": [
         "A-2239.1"

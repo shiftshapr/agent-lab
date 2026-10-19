@@ -1885,7 +1885,7 @@
       "@id": "C-3350",
       "ref": "C-3350",
       "label": "In Clip Host Plays, Jack Hibbs Says He Initially Confused Charlie Kirk With a Relative Named \"Cousin Charlie\"",
-      "claim": "In a FaceTime clip with Frank Turek that the host plays, Jack Hibbs says that when his brother called to say \"Charlie's been shot,\" he briefly thought a relative named Charlie, \"cousin Charlie,\" had been shot, not Charlie Kirk.",
+      "claim": "In a clip of his conversation with Frank Turek that the host plays, Jack Hibbs says that when his brother called to say \"Charlie's been shot,\" he briefly thought a relative named Charlie, \"cousin Charlie,\" had been shot, not Charlie Kirk.",
       "anchored_artifacts": [
         "A-2322.2"
       ],
@@ -1898,7 +1898,8 @@
       "mentions_person_refs": [
         "N-1",
         "N-209",
-        "N-7"
+        "N-7",
+        "N-247"
       ]
     },
     {
@@ -1944,8 +1945,8 @@
       "@type": "Claim",
       "@id": "C-3353",
       "ref": "C-3353",
-      "label": "Butch Hibbs is 74 years old and was in a plaid shirt at the UVU event",
-      "claim": "The host says Jack Hibbs's brother Butch is 74 years old; she also shows UVU event photography in which Butch wears a plaid shirt and is with security.",
+      "label": "Host Says Butch Hibbs Is 74 Years Old",
+      "claim": "The host says Jack Hibbs's brother Butch is 74 years old.",
       "anchored_artifacts": [
         "A-2322.1",
         "A-2325.1"
@@ -2141,7 +2142,7 @@
       "@id": "C-7604",
       "ref": "C-7604",
       "label": "Host Says Kaddis Hosts a Show With Erika Kirk for Her Bible 365 Brand",
-      "claim": "The host says Kaddis hosts a show with Erika Kirk tied to her fashion brand, which the host calls Bible and 365.",
+      "claim": "The host says Kaddis hosts a show with Erika Kirk tied to what the host calls Erika's fledgling fashion brand, BIBLEin365.",
       "anchored_artifacts": [
         "A-2326.4"
       ],
@@ -2151,7 +2152,7 @@
       ],
       "claim_timestamp": "00:03:42",
       "investigative_direction": "Identify the show and brand by name and confirm Kaddis' role from the brand's own channels.",
-      "transcript_snippet": "He also hosts a show with her with that like fledgling, you know, fashion brand that she has, Bible and 365.",
+      "transcript_snippet": "He also hosts a show with her with that like fledgling, you know, fashion brand that she has, BIBLEin365.",
       "mentions_person_refs": [
         "N-668",
         "N-2"
@@ -2235,8 +2236,8 @@
       "@type": "Claim",
       "@id": "C-7608",
       "ref": "C-7608",
-      "label": "Host Says Online Speculation Held Butch Hibbs Was Undercover and Carried a Road Microphone",
-      "claim": "The host says online chatter speculated that Butch Hibbs was undercover and may have carried a road microphone in his top pocket, and that she did not propagate those theories.",
+      "label": "Host Says Online Speculation Held Butch Hibbs Was Undercover and Carried a Rode Microphone",
+      "claim": "The host says online chatter speculated that Butch Hibbs was undercover and may have carried a Rode microphone in his top pocket, and that she did not propagate those theories.",
       "anchored_artifacts": [
         "A-2325.1"
       ],
@@ -2248,7 +2249,7 @@
       ],
       "claim_timestamp": "00:04:33",
       "investigative_direction": "Zoom on the high-resolution pre-event photo of Butch Hibbs' shirt pocket; the host attributes the theory to others and disclaims it.",
-      "transcript_snippet": "a lot of conspiracies that were drummed up regarding whether or not he was in fact undercover, particularly whether or not, as some people speculated, he may have been carrying a road microphone in his top pocket.",
+      "transcript_snippet": "a lot of conspiracies that were drummed up regarding whether or not he was in fact undercover, particularly whether or not, as some people speculated, he may have been carrying a Rode microphone in his top pocket.",
       "mentions_person_refs": [
         "N-247",
         "N-3"
@@ -3152,6 +3153,7 @@
       "investigative_direction": "Look for any instruction, message or planning document directing staff or guests to film; the host calls this speculation.",
       "transcript_snippet": "I mean, if I didn't know any better, I would think that they were all told to gather footage from different angles and different points.",
       "mentions_person_refs": [
+        "N-1",
         "N-247",
         "N-3"
       ]
@@ -3432,7 +3434,7 @@
       "@type": "Claim",
       "@id": "C-7659",
       "ref": "C-7659",
-      "label": "Host Says Officers Baggley and Hull Could Relay What They Were Told About Robinson's Vehicle and Plates",
+      "label": "Host Says Officers Bagley and Hull Could Relay What They Were Told About Robinson's Vehicle and Plates",
       "claim": "The host says that at this stage officers such as Bagley or Hull can get up and say they were told by someone that Tyler Robinson's vehicle pulled to the side of the road and he remembered the plates.",
       "anchored_artifacts": [],
       "related_nodes": [

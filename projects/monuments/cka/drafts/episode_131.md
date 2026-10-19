@@ -1041,7 +1041,7 @@ Investigative Direction: Obtain the full CBS / Gayle King segment; cross-referen
 
 ---
 
-**C-3136** YouTube Comment Posts Parallels Between Twitch/Allison and Charlie/Erica Cases
+**C-3136** YouTube Comment Posts Parallels Between Twitch/Allison and Charlie/Erika Cases
 
 Claim Timestamp: 00:39:35
 
@@ -1167,11 +1167,11 @@ Investigative Direction: Check marine biology sources on Cymothoa exigua; the ho
 
 ---
 
-**C-13122** Host Says Canaanites Were Ball Worshipers Modeling Themselves After Nimrod
+**C-13122** Host Says Canaanites Were Baal Worshipers Modeling Themselves After Nimrod
 
 Claim Timestamp: 00:04:31
 
-Claim: The host says she showed the previous day that the Canaanites were literal ball worshipers who modeled themselves after Nimrod and are permanently at war with the creator.
+Claim: The host says she showed the previous day that the Canaanites were literal Baal worshipers who modeled themselves after Nimrod and are permanently at war with the creator.
 
 Transcript Snippet: We showed you yesterday Canaanites, literal ball worshipers, modeling themselves after Nimrod, meaning that they are permanently at war with the creator.
 
@@ -1680,7 +1680,7 @@ Investigative Direction: Obtain the Reagan Library event listing and its cancell
 
 Claim Timestamp: 00:20:50
 
-Claim: The host says Gary (transcribed Jabitch; spelling unverified) is in his mid-70s, has lived in Omaha, Nebraska for the last few decades and got one of his degrees there in the 1990s.
+Claim: The host says Gary Javitch is in his mid-70s, has lived in Omaha, Nebraska for the last few decades and got one of his degrees there in the 1990s.
 
 Transcript Snippet: he's older in his 70s mid-70s in Omaha, Nebraska of all places, right?
 
@@ -1890,7 +1890,7 @@ Investigative Direction: Check the Daily Mail page history and correspondence re
 
 Claim Timestamp: 00:32:08
 
-Claim: The host says she received a flurry of unsolicited emails presenting concrete proof that the Daily Mail story came from a family friend of Erika Kirk, whom she says she suspected was Tracy Martin.
+Claim: The host says she received a flurry of unsolicited emails presenting concrete proof that the Daily Mail story came from a family friend of Erika Kirk, and that the friend was Tracy Martin, the person she had suspected.
 
 Transcript Snippet: We received a flurry of emails of people who presented proof concrete proof that the story did indeed come from a family friend of Erika
 

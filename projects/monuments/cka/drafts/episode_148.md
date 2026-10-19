@@ -889,7 +889,7 @@ First named by the host (as Ebro) at 00:28:04 in episode 148. Radio host named i
 
 Claim Timestamp: 00:36:34
 
-Claim: According to a Deseret News profile piece, Blake Neff stated he was with members sitting in the waiting room at the Orem, Utah hospital where Kirk was taken on September 10 and was discussing how podcaster Candace Owens would react to Charlie's death.
+Claim: According to a Deseret News profile piece the host reads, Blake Neff remembers sitting in the waiting room at the Orem, Utah hospital where Kirk was taken on September 10 and talking about how podcaster Candace Owens would react to Charlie's death.
 
 Anchored Artifacts: A-2347.1
 Mentions: N-1, N-160, N-3
@@ -2389,6 +2389,6 @@ Investigative Direction: Identify what offers are meant and any evidence of thei
 - **Name uncertainty ("Salem Media Waterstone" / "Waterstone"):** The viewer's comment reads "Salem Media Waterstone." The host interprets this as Water<|>stone (or a similarly named entity) acquiring Salem Media. Entity identification requires verification.
 - **Entity ambiguity (Andrew Kolvet vs. Andrew Cooper):** These are treated as distinct persons in the transcript – Andrew Kolvet is referenced via viewer comment regarding funeral fireworks, while Andrew Cooper is named by host as the party who delivered the September 9 Zoom-call conversation to Tulsi Gabbard's office. Flagged for confirmation against prior ledger entries.
 - **Artifact verbally referenced but not visually shown (A-2341.1, A-2341.2, A-2341.3):** The host explicitly states she is "borrowing this footage of people on Instagram" and did not record any video herself. The clips are played but original source URLs are not provided in the transcript.
-- **Transcript ambiguity (A-2347.1 quote):** The host's read of the Deseret News article includes the phrase "Neff read a I guess it's supposed to be like a profile piece. Neff from members sitting in the waiting room..." – this transcription is garbled and the precise structure of Neff's quoted statement ("read from members" vs. "recounted to members") should be verified against the original article.
+- **Transcript ambiguity (A-2347.1 quote):** The host's read of the Deseret News article includes the phrase "Neff read a I guess it's supposed to be like a profile piece. Neff remembers sitting in the waiting room..." – this transcription is garbled and the precise structure of Neff's quoted statement ("read from members" vs. "recounted to members") should be verified against the original article.
 - **Claim failed admission test – "Ye had not been back on stage in his hometown in over 6 years":** Host assertion without artifact support; not inscribed.
 - **Episode-anniversary timing note:** The episode airs two days before the one-year anniversary (September 10, 2026); the Deseret News article and Erika Kirk NYT op-ed are positioned as anniversary-cycle artifacts.

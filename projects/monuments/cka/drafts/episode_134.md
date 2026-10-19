@@ -1768,7 +1768,7 @@ Investigative Direction: Review the hospital records and treatment timeline.
 
 **C-7457** Host Says She Believes the Microphone Exploded on Charlie
 
-Claim Timestamp: 00:37:12
+Claim Timestamp: 00:36:14
 
 Claim: The host says she believes the microphone exploded on Charlie, and that there is a chance hemorrhaging in the heart and lungs could come from blunt force trauma to the heart.
 
@@ -1851,7 +1851,7 @@ Investigative Direction: Ask the prosecution and the witnesses whether any conta
 
 Claim Timestamp: 00:38:01
 
-Claim: The host says that in the hearing clip she plays, the prosecution asserts the defendant used a screwdriver and cites exhibits 12.1 and 12.4 as proof.
+Claim: The host says that at the court hearing the prosecution asserted the defendant used a screwdriver and cited exhibits 12.1 and 12.4 as proof.
 
 Transcript Snippet: they cite the exhibits 12.1 and 12.4 as proof of that.
 

@@ -209,13 +209,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2195",
       "family_ref": "A-2195",
-      "bundle_name": "Devante West Instagram Bundle",
+      "bundle_name": "Devonte West Instagram Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2195.1",
           "ref": "A-2195.1",
-          "description": "Devante West Instagram clip mocking contemporary Christianese speaking",
+          "description": "Devonte West Instagram clip mocking contemporary Christianese speaking",
           "related_claims": [
             "C-3146"
           ],
@@ -1789,7 +1789,7 @@
       "@type": "Person",
       "@id": "N-824",
       "ref": "N-824",
-      "name": "Devante West",
+      "name": "Devonte West",
       "type": "person",
       "description": "Instagram account holder whose clip mocking Christian speak the host plays; first named by the host at 00:30:12 in episode 132 (spelled Devonte West once).",
       "related_artifacts": [],
@@ -1912,7 +1912,8 @@
       "investigative_direction": "Obtain independent forensic verification of the disputed messages and compare against Kolvet's stated inability to confirm.",
       "mentions_person_refs": [
         "N-14",
-        "N-3"
+        "N-3",
+        "N-1"
       ]
     },
     {
@@ -2055,8 +2056,8 @@
       "@type": "Claim",
       "@id": "C-3146",
       "ref": "C-3146",
-      "label": "Devante West Instagram account mocked contemporary Christianese",
-      "claim": "Devante West, via an Instagram video, posted content mocking contemporary Christian pastoral rhetoric and its repetition patterns, presented in the episode as a parallel commentary on Erika Kirk's tour speech style.",
+      "label": "Devonte West Instagram Account Mocked Contemporary Christianese",
+      "claim": "Devonte West, via an Instagram video, posted content mocking contemporary Christian pastoral rhetoric and its repetition patterns, presented in the episode as a parallel commentary on Erika Kirk's tour speech style.",
       "anchored_artifacts": [
         "A-2195.1"
       ],
@@ -3010,7 +3011,7 @@
       "@id": "C-9045",
       "ref": "C-9045",
       "label": "Host Lists What Charlie Had on Him: Broken Necklace, White Freedom T-Shirt, Road Microphone",
-      "claim": "The host, speculating about what \"Get that off of him\" meant, says Charlie had on him a necklace which had broken, a white Freedom t-shirt and a road microphone.",
+      "claim": "The host, speculating about what \"Get that off of him\" meant, says Charlie had on him a necklace which had broken, a white Freedom t-shirt and a Rode microphone.",
       "anchored_artifacts": [
         "A-2197.1"
       ],
@@ -3024,7 +3025,7 @@
       ],
       "claim_timestamp": "00:18:14",
       "investigative_direction": "Reconcile with hospital property inventory and clothing chain-of-custody records.",
-      "transcript_snippet": "Charlie didn't have much on him. He had a necklace which had broken. He had on a white Freedom t-shirt. He had on a road microphone.",
+      "transcript_snippet": "Charlie didn't have much on him. He had a necklace which had broken. He had on a white Freedom t-shirt. He had on a Rode microphone.",
       "mentions_person_refs": [
         "N-1",
         "N-3"
@@ -3305,8 +3306,8 @@
       "@type": "Claim",
       "@id": "C-9058",
       "ref": "C-9058",
-      "label": "Host Says the Devante West Account Mocks Christian Speak Broadly and Is Not About Erika",
-      "claim": "The host says the Instagram account holder Devante West mocks the new culture of sweet-nothing Christian girl-boss podcasting broadly, and that his clip is not about Erika Kirk.",
+      "label": "Host Says the Devonte West Account Mocks Christian Speak Broadly and Is Not About Erika",
+      "claim": "The host says the Instagram account holder Devonte West mocks the new culture of sweet-nothing Christian girl-boss podcasting broadly, and that his clip is not about Erika Kirk.",
       "anchored_artifacts": [
         "A-2195.1"
       ],
@@ -3316,7 +3317,7 @@
       ],
       "claim_timestamp": "00:30:12",
       "investigative_direction": "Retrieve the Instagram post and confirm the account holder's name.",
-      "transcript_snippet": "The account holder on Instagram is Devante West and he just mocks broadly speaking. So this is not about Erika.",
+      "transcript_snippet": "The account holder on Instagram is Devonte West and he just mocks broadly speaking. So this is not about Erika.",
       "mentions_person_refs": [
         "N-824",
         "N-2"
@@ -4180,7 +4181,7 @@
           "video_timestamp": "00:31:50",
           "speaker_node_ref": "N-3",
           "quote": "It's a grift. Christianese needs to stop.",
-          "context": "Host closes the Devante West clip.",
+          "context": "Host closes the Devonte West clip.",
           "confidence": "high",
           "tags": [
             "grift",
