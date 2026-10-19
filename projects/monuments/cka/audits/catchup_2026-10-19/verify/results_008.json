@@ -1,0 +1,145 @@
+[
+ {
+  "claim": "C-15483",
+  "episode": 166,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15484",
+  "episode": 166,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15485",
+  "episode": 166,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Hedge dropped: \"Uh but I think that these are two separate bags and that Brian had nothing to do with the police officer story.\"",
+  "fix": {
+   "claim": "The host says the bag offered to Shawn Ryan was Brian Harpole's and is a different bag. In the Tyler Clancy story the officer threw out a bag that matches Frank Turek's, and she says she thinks Harpole had nothing to do with the police officer story."
+  }
+ },
+ {
+  "claim": "C-15486",
+  "episode": 166,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15487",
+  "episode": 166,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15488",
+  "episode": 166,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15489",
+  "episode": 166,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15490",
+  "episode": 166,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"most likely\" overstates: \"I think I think it was it was fire station two in Orem. Um maybe it was Provo.\"",
+  "fix": {
+   "claim": "The host says the reports indicate the captain was from fire station two, \"I believe\", and that she thinks it was in Orem, though maybe Provo."
+  }
+ },
+ {
+  "claim": "C-15491",
+  "episode": 166,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Mentions lists N-1 Charlie Kirk, who is not named or referred to in the claim.",
+  "fix": {
+   "mentions": [
+    "N-7",
+    "N-266"
+   ]
+  }
+ },
+ {
+  "claim": "C-15492",
+  "episode": 166,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15493",
+  "episode": 166,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Redundant parenthetical \"(transcribed \\\"candaceowens.com\\\")\" adds nothing; remove.",
+  "fix": {
+   "claim": "The host asks viewers who know more to email tips at candaceowens.com, and says she wants people with direct knowledge, not people guessing from research."
+  }
+ }
+]

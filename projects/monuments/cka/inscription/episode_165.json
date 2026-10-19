@@ -1987,7 +1987,6 @@
       "investigative_direction": "Idaho Attorney General press release archive.",
       "transcript_snippet": "Val's brother Charles was additionally charged in Meridian with four counts of soliciting a child. Here is the article, which is available on the Idaho Attorney General's website.",
       "mentions_person_refs": [
-        "N-957",
         "N-963"
       ]
     },
@@ -2148,8 +2147,7 @@
       "transcript_snippet": "a modeling agency that was started by the French pervert, Jean-Luc Brunel, who was Jeffrey Epstein's partner.",
       "mentions_person_refs": [
         "N-529",
-        "N-9",
-        "N-2"
+        "N-9"
       ]
     },
     {
@@ -2180,7 +2178,7 @@
       "@id": "C-15362",
       "ref": "C-15362",
       "label": "Host Says Club America Is Being Administratively Forced on High School Students",
-      "claim": "The host says Turning Point under Erika's leadership is focused on high-school access, and Club America is being administratively forced on students who did not sign up, through assemblies.",
+      "claim": "The host says Turning Point under Erika's leadership appears to be especially focused on high-school access, and Club America is being administratively forced on students who did not sign up, through assemblies.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
@@ -2492,7 +2490,7 @@
       "@id": "C-15377",
       "ref": "C-15377",
       "label": "Host Says Katie Zacharia, the New Press Secretary, Was a Fox News Commentator",
-      "claim": "The host says Katie Zacharia is the new White House press secretary and has been providing commentary on Fox News.",
+      "claim": "The host says Katie Zacharia is the new White House press secretary and that people defending her say she has been providing commentary on Fox News.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10075"
@@ -2504,8 +2502,7 @@
       "investigative_direction": "White House announcement of the appointment.",
       "transcript_snippet": "this this Katie Zacharia character, who is the new press secretary, I'm just watching people defend this",
       "mentions_person_refs": [
-        "N-962",
-        "N-5"
+        "N-962"
       ]
     },
     {
@@ -2568,8 +2565,7 @@
       "investigative_direction": "Full press-pool footage of the exchange.",
       "transcript_snippet": ">> did you pass the bar exam? >> When I moved to China. That's her answer.",
       "mentions_person_refs": [
-        "N-962",
-        "N-5"
+        "N-962"
       ]
     },
     {
@@ -2873,7 +2869,7 @@
       "@id": "C-15395",
       "ref": "C-15395",
       "label": "Host Alleges Shapiro Encourages Others to Sue With His Money",
-      "claim": "The host alleges Shapiro encourages others to sue people with his money.",
+      "claim": "The host alleges Shapiro will encourage others to sue people with their money.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11026"

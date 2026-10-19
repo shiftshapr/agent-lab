@@ -3698,6 +3698,31 @@
     [
       "\\bmore tips canon\\.com\\b",
       "moretips@candaceowens.com"
+    ],
+    [
+      "\\bChristine Fecetty\\b",
+      "Christine Fekete"
+    ],
+    [
+      "@?whatthefecetty\\b",
+      "@what.the.fekete",
+      [
+        162
+      ]
+    ],
+    [
+      "\\bHank McIntyre\\b",
+      "Hank McIntire",
+      [
+        164
+      ]
+    ],
+    [
+      "\\bBrandon Blackmon\\b",
+      "Brandon Blackmore",
+      [
+        166
+      ]
     ]
   ]
 }

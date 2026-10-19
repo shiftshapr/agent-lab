@@ -1233,7 +1233,7 @@
       "@type": "Person",
       "@id": "N-968",
       "ref": "N-968",
-      "name": "Brandon Blackmon",
+      "name": "Brandon Blackmore",
       "type": "person",
       "description": "First named by the host at 00:12:48 in episode 166. The officer whose report the Bonners Ferry Herald article cites in the Dodd case.",
       "related_artifacts": [],
@@ -1847,10 +1847,7 @@
       ],
       "claim_timestamp": "00:05:15",
       "investigative_direction": "Provo Police Department evidence-handling policy.",
-      "transcript_snippet": "I'm just struggling over here to believe that it's somehow protocol for a police officer to toss out a bag that's covered in blood from a recently murdered victim.",
-      "mentions_person_refs": [
-        "N-41"
-      ]
+      "transcript_snippet": "I'm just struggling over here to believe that it's somehow protocol for a police officer to toss out a bag that's covered in blood from a recently murdered victim."
     },
     {
       "@type": "Claim",
@@ -2252,8 +2249,8 @@
       "@type": "Claim",
       "@id": "C-15434",
       "ref": "C-15434",
-      "label": "Officer Blackmon's Report Says 116 Images Were Allegedly Saved to Dodd's Phone",
-      "claim": "Per the article the host reads, Officer Brandon Blackmon's report says 116 images had allegedly been downloaded and saved to Dodd's phone, and that Dodd said he had a severe pornography addiction that had escalated to include children.",
+      "label": "Officer Blackmore's Report Says 116 Images Were Allegedly Saved to Dodd's Phone",
+      "claim": "Per the article the host reads, Officer Brandon Blackmore's report says 116 images had allegedly been downloaded and saved to Dodd's phone, and that Dodd said he had a severe pornography addiction that had escalated to include children.",
       "anchored_artifacts": [
         "A-3402.1"
       ],
@@ -2265,7 +2262,7 @@
       ],
       "claim_timestamp": "00:13:05",
       "investigative_direction": "The officer's probable-cause affidavit.",
-      "transcript_snippet": "In his report, Officer Brandon Blackmon said that 116 images had allegedly been downloaded and saved to Dodd's phone.",
+      "transcript_snippet": "In his report, Officer Brandon Blackmore said that 116 images had allegedly been downloaded and saved to Dodd's phone.",
       "mentions_person_refs": [
         "N-968",
         "N-967"
@@ -3083,7 +3080,7 @@
       "@id": "C-15471",
       "ref": "C-15471",
       "label": "Zacharia Says There Is No Chinese Bar and Her Law Degree Was Enough Credential",
-      "claim": "In the clip, Zacharia says there is no Chinese bar for her role and that her law degree was enough credential to handle multi-million-dollar cross-border shareholder agreements.",
+      "claim": "In the clip, Zacharia says \"There's no Chinese bar\" and that her law degree was enough credential to handle multi-million-dollar cross-border shareholder agreements.",
       "anchored_artifacts": [
         "A-3405.2"
       ],
@@ -3389,7 +3386,7 @@
       "@id": "C-15485",
       "ref": "C-15485",
       "label": "Host Says Harpole's Bag Is Separate From the Bag in the Clancy Story, Which Matches Turek's",
-      "claim": "The host says the bag offered to Shawn Ryan was Brian Harpole's and is a different bag. In the Tyler Clancy story the officer threw out a bag that matches Frank Turek's, and she says Harpole had nothing to do with the police officer story.",
+      "claim": "The host says the bag offered to Shawn Ryan was Brian Harpole's and is a different bag. In the Tyler Clancy story the officer threw out a bag that matches Frank Turek's, and she says she thinks Harpole had nothing to do with the police officer story.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11438"
@@ -3501,7 +3498,7 @@
       "@id": "C-15490",
       "ref": "C-15490",
       "label": "Host Believes the Fire Captain Was From Fire Station Two in Orem or Provo",
-      "claim": "The host says the reports indicate the captain was from fire station two, \"I believe\", most likely in Orem, though possibly Provo.",
+      "claim": "The host says the reports indicate the captain was from fire station two, \"I believe\", and that she thinks it was in Orem, though maybe Provo.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10874",
@@ -3540,8 +3537,7 @@
       ],
       "mentions_person_refs": [
         "N-7",
-        "N-266",
-        "N-1"
+        "N-266"
       ]
     },
     {
@@ -3566,7 +3562,7 @@
       "@id": "C-15493",
       "ref": "C-15493",
       "label": "Host Asks for Direct-Knowledge Tips on the Fire Captain",
-      "claim": "The host asks viewers who know more to email tips at candaceowens.com (transcribed \"candaceowens.com\"), and says she wants people with direct knowledge, not people guessing from research.",
+      "claim": "The host asks viewers who know more to email tips at candaceowens.com, and says she wants people with direct knowledge, not people guessing from research.",
       "anchored_artifacts": [
         "A-3398.4"
       ],

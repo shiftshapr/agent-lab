@@ -3352,7 +3352,7 @@
       "@id": "C-15228",
       "ref": "C-15228",
       "label": "Still Shows Mikey, Neff and Philip's Car on the Left, Escorted by an Officer",
-      "claim": "Per the still the host shows, the car on the left carried Mikey McCoy, Blake Neff and Danny Philip to the hospital with an officer, and the car on the right, driven by another officer, carried Christopher Rhoades, Blake Harreff and Blake Gibson.",
+      "claim": "Showing a still, the host says the car on the left carried Mikey McCoy, Blake Neff and Danny Philip to the hospital with an officer, and the car on the right, driven by another officer, carried Christopher Rhoades, Blake Harreff and Blake Gibson.",
       "anchored_artifacts": [
         "A-3374.6"
       ],
@@ -3459,7 +3459,7 @@
       "@id": "C-15233",
       "ref": "C-15233",
       "label": "Host Says Her Theo Von Episode Passed 2 Million Views in 2 Days",
-      "claim": "The host says over 2 million people watched her episode with Theo Von within 2 days, that her children call him Uncle Theo and that he is her neighbor.",
+      "claim": "The host says she thinks over 2 million people watched her episode with Theo Von within 2 days, that her children call him Uncle Theo and that he is her neighbor.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3469,8 +3469,7 @@
       "investigative_direction": "YouTube view count for the episode.",
       "transcript_snippet": "I think like already over 2 million people have watched it. It's just been up for 2 days.",
       "mentions_person_refs": [
-        "N-146",
-        "N-277"
+        "N-146"
       ]
     },
     {

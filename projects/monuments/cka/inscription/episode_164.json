@@ -863,7 +863,7 @@
       "@type": "Person",
       "@id": "N-958",
       "ref": "N-958",
-      "name": "Hank McIntyre",
+      "name": "Hank McIntire",
       "type": "person",
       "description": "First named by the host at 00:08:10 in episode 164. Utah National Guard spokesman quoted in the 2007 article on Peterson.",
       "related_artifacts": [
@@ -1624,8 +1624,8 @@
       "@type": "Claim",
       "@id": "C-15253",
       "ref": "C-15253",
-      "label": "Article Quotes Guard Spokesman Hank McIntyre on Peterson",
-      "claim": "Per the article the host reads, Utah National Guard spokesman Major Hank McIntyre said Peterson, as a Spanish linguist, was uniquely in touch with the needs of the brigade's members.",
+      "label": "Article Quotes Guard Spokesman Hank McIntire on Peterson",
+      "claim": "Per the article the host reads, Utah National Guard spokesman Major Hank McIntire said Peterson, as a Spanish linguist, was uniquely in touch with the needs of the brigade's members.",
       "anchored_artifacts": [
         "A-3382.1"
       ],
@@ -1635,7 +1635,7 @@
       ],
       "claim_timestamp": "00:08:25",
       "investigative_direction": "The original 2007 article.",
-      "transcript_snippet": "Major Hank McIntyre, spokesman for the Utah National Guard, said Peterson, as a Spanish linguist, is uniquely in touch",
+      "transcript_snippet": "Major Hank McIntire, spokesman for the Utah National Guard, said Peterson, as a Spanish linguist, is uniquely in touch",
       "mentions_person_refs": [
         "N-957",
         "N-958"
@@ -1888,7 +1888,7 @@
       "@id": "C-15266",
       "ref": "C-15266",
       "label": "Article Quotes BYU Lacrosse Coach on Clancy's Leadership",
-      "claim": "Per the article, BYU men's lacrosse head coach Matt Schneck (as transcribed) said Clancy's community leadership was mirrored by his leadership on the BYU lacrosse team.",
+      "claim": "Per the article, BYU men's lacrosse head coach Matt Schneck said Clancy's community leadership was mirrored by his leadership on the BYU lacrosse team.",
       "anchored_artifacts": [
         "A-3384.1"
       ],
@@ -2203,7 +2203,7 @@
       "@id": "C-15281",
       "ref": "C-15281",
       "label": "Turek Clip Says Charlie Lay on His Bag, Which Was Full of Blood",
-      "claim": "In the clip, Turek says his bag with his computer, wallet and passport was in the car, that Charlie Kirk had been lying on it across the back seat, and that it was full of blood.",
+      "claim": "In the clip, Turek says his computer bag, wallet and passport were in the car, that Charlie Kirk had been lying on the bag across the back seat, and that it was full of blood.",
       "anchored_artifacts": [
         "A-3385.1"
       ],
@@ -2665,8 +2665,7 @@
       "transcript_snippet": "now we have someone whose name is Katie Zacharia. Okay, it was recently announced that she would have taken over Karoline Leavitt.",
       "mentions_person_refs": [
         "N-962",
-        "N-280",
-        "N-5"
+        "N-280"
       ]
     },
     {
@@ -2766,7 +2765,8 @@
       "investigative_direction": "Degree-verification records for Erika Kirk.",
       "transcript_snippet": "It's like with Erika Kirk when Eric Kirk says that, you know, she was in law school, you know, or rather that she that she has a doctorate. It's hard to confirm that.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-962"
       ]
     },
     {
@@ -3001,7 +3001,8 @@
       "investigative_direction": "Charlie Kirk's recorded statements on September 9, 2025.",
       "transcript_snippet": "one day before his death, he said he is abandoning the pro-Israel cause.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-2"
       ]
     },
     {
@@ -3019,7 +3020,8 @@
       "investigative_direction": "Statements from Erika Kirk's staff on who runs her account.",
       "transcript_snippet": "obviously she doesn't author her tweets.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-1"
       ]
     },
     {

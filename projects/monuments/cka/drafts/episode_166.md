@@ -487,7 +487,7 @@ First named by the host at 00:11:12 in episode 166. Former president of the Club
 
 *Related: C-15429, C-15430, C-15431, C-15432, C-15433, C-15434, C-15435, C-15436, C-15437, C-15438*
 
-**N-968** Brandon Blackmon
+**N-968** Brandon Blackmore
 
 First named by the host at 00:12:48 in episode 166. The officer whose report the Bonners Ferry Herald article cites in the Dodd case.
 
@@ -803,7 +803,7 @@ Claim: The host says she struggles to believe it is protocol for a police office
 Transcript Snippet: I'm just struggling over here to believe that it's somehow protocol for a police officer to toss out a bag that's covered in blood from a recently murdered victim.
 
 Anchored Artifacts:
-Mentions: N-41
+Mentions: 
 Related Nodes: N-11438
 Tags: relevance:core
 Investigative Direction: Provo Police Department evidence-handling policy.
@@ -1100,13 +1100,13 @@ Investigative Direction: The court documents in the Dodd case.
 
 ---
 
-**C-15434** Officer Blackmon's Report Says 116 Images Were Allegedly Saved to Dodd's Phone
+**C-15434** Officer Blackmore's Report Says 116 Images Were Allegedly Saved to Dodd's Phone
 
 Claim Timestamp: 00:13:05
 
-Claim: Per the article the host reads, Officer Brandon Blackmon's report says 116 images had allegedly been downloaded and saved to Dodd's phone, and that Dodd said he had a severe pornography addiction that had escalated to include children.
+Claim: Per the article the host reads, Officer Brandon Blackmore's report says 116 images had allegedly been downloaded and saved to Dodd's phone, and that Dodd said he had a severe pornography addiction that had escalated to include children.
 
-Transcript Snippet: In his report, Officer Brandon Blackmon said that 116 images had allegedly been downloaded and saved to Dodd's phone.
+Transcript Snippet: In his report, Officer Brandon Blackmore said that 116 images had allegedly been downloaded and saved to Dodd's phone.
 
 Anchored Artifacts: A-3402.1
 Mentions: N-968, N-967
@@ -1702,7 +1702,7 @@ Investigative Direction: JunHe Law Offices employment confirmation.
 
 Claim Timestamp: 00:32:10
 
-Claim: In the clip, Zacharia says there is no Chinese bar for her role and that her law degree was enough credential to handle multi-million-dollar cross-border shareholder agreements.
+Claim: In the clip, Zacharia says "There's no Chinese bar" and that her law degree was enough credential to handle multi-million-dollar cross-border shareholder agreements.
 
 Transcript Snippet: There's no Chinese bar. I had the enough credentials, which was my law degree, to be able to do this practice
 
@@ -1927,7 +1927,7 @@ Investigative Direction: The Shawn Ryan Show episode with Brian Harpole.
 
 Claim Timestamp: 00:47:40
 
-Claim: The host says the bag offered to Shawn Ryan was Brian Harpole's and is a different bag. In the Tyler Clancy story the officer threw out a bag that matches Frank Turek's, and she says Harpole had nothing to do with the police officer story.
+Claim: The host says the bag offered to Shawn Ryan was Brian Harpole's and is a different bag. In the Tyler Clancy story the officer threw out a bag that matches Frank Turek's, and she says she thinks Harpole had nothing to do with the police officer story.
 
 Transcript Snippet: No, that's Brian Harpole's bag. It's totally different and again, this the Tyler Clancy story is that the officer did throw out the bag and it matches Frank Turek's.
 
@@ -2008,7 +2008,7 @@ Investigative Direction: The UVU Independent Review, and Orem / Provo Fire Depar
 
 Claim Timestamp: 00:49:08
 
-Claim: The host says the reports indicate the captain was from fire station two, "I believe", most likely in Orem, though possibly Provo.
+Claim: The host says the reports indicate the captain was from fire station two, "I believe", and that she thinks it was in Orem, though maybe Provo.
 
 Transcript Snippet: We uh learned from the reports that they were from fire station two, I believe. Don't quote me on that.
 
@@ -2029,7 +2029,7 @@ Claim: The host says neither Frank Turek, across his many accounts, nor Brian Ha
 Transcript Snippet: neither Frank Turek in his many iterations of what happened, um nor Brian Harpole in his super fantastic story of all that he did, mentioned a fire captain who gave CPR.
 
 Anchored Artifacts:
-Mentions: N-7, N-266, N-1
+Mentions: N-7, N-266
 Related Nodes: N-10874
 Supports: C-3623
 Tags: relevance:core
@@ -2057,7 +2057,7 @@ Investigative Direction: Redactions in the UVU Independent Review, and a public-
 
 Claim Timestamp: 00:49:56
 
-Claim: The host asks viewers who know more to email tips at candaceowens.com (transcribed "candaceowens.com"), and says she wants people with direct knowledge, not people guessing from research.
+Claim: The host asks viewers who know more to email tips at candaceowens.com, and says she wants people with direct knowledge, not people guessing from research.
 
 Transcript Snippet: So, please email us if you know more more tips at candaceowens.com. Again, we want someone with direct knowledge
 
@@ -2382,7 +2382,7 @@ Confidence: high
 - Transcription ambiguity: "the SBI had secured and reviewed the footage" (00:06:50) may be "FBI" or "SBI" (Utah State Bureau of Investigation); kept as transcribed.
 - Transcription ambiguity: "Erika's mother, Superfeed." (00:17:27) is unresolved; not used in claims.
 - Transcription ambiguity: "Taylor Dodd" is also given as "Todd" at 00:11:12. The spelling was not confirmed by a web search ("Taylor Dodd" Bonners Ferry returned nothing). Kept as transcribed. UNRESOLVED.
-- Unresolved names: "Officer Brandon Blackmon" (00:12:48) and "Sergeant DePay" (00:03:12, radio clip) are not verified and kept as transcribed. "Cora Nichols" (00:15:04) is a private letter writer and was not minted as a node.
+- Unresolved names: "Officer Brandon Blackmore" (00:12:48) and "Sergeant DePay" (00:03:12, radio clip) are not verified and kept as transcribed. "Cora Nichols" (00:15:04) is a private letter writer and was not minted as a node.
 - Verified: "Rally Connects Trade Show" in Mona matches the governor's published schedule listing "Speak at Rally Connects 2025, Location: Mona, UT", which is dated Wednesday Sept. 3 within the Sept 8–14, 2025 schedule. That date error is consistent with C-15406. Source: https://governor.utah.gov/uncategorized/news-release-gov-spencer-j-cox-and-lt-gov-deidre-m-henderson-public-schedule-9-8-25-9-14-25
 - Verified: "Jun He Law Firm" is the Chinese firm JunHe Law Offices.
 - Factual note: C-15460 says Anthony Scaramucci was press secretary. He was White House Communications Director. Kept as said.

@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-19T21:34:44Z",
+  "generated_at": "2026-10-19T21:45:31Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -40838,7 +40838,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-15253",
-      "label": "Article Quotes Guard Spokesman Hank McIntyre on Peterson",
+      "label": "Article Quotes Guard Spokesman Hank McIntire on Peterson",
       "node_kind": "claim",
       "episode": 164
     },
@@ -42231,7 +42231,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-15434",
-      "label": "Officer Blackmon's Report Says 116 Images Were Allegedly Saved to Dodd's Phone",
+      "label": "Officer Blackmore's Report Says 116 Images Were Allegedly Saved to Dodd's Phone",
       "node_kind": "claim",
       "episode": 166
     },

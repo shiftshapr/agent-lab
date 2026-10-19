@@ -129,7 +129,7 @@ Um it tells us Taylor Dodd was arrested in early September on seven felony charg
 
 [12:48]
 
-This is they're referring to. He downloaded this April 2026. Documents contend that other apps were also used, such as Telegram, an instant messaging app, and Threads, a text-based social media app by Meta, to purchase and download images. In his report, Officer Brandon Blackmon said that 116 images had allegedly been downloaded and saved to Dodd's phone. He further acknowledged that Dodd said that he had a severe pornography addiction that had escalated to include children to include children.
+This is they're referring to. He downloaded this April 2026. Documents contend that other apps were also used, such as Telegram, an instant messaging app, and Threads, a text-based social media app by Meta, to purchase and download images. In his report, Officer Brandon Blackmore said that 116 images had allegedly been downloaded and saved to Dodd's phone. He further acknowledged that Dodd said that he had a severe pornography addiction that had escalated to include children to include children.
 
 [13:20]
 

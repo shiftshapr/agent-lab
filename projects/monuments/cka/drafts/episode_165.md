@@ -1071,7 +1071,7 @@ Claim: The host says Charles Peterson was additionally charged in Meridian with 
 Transcript Snippet: Val's brother Charles was additionally charged in Meridian with four counts of soliciting a child. Here is the article, which is available on the Idaho Attorney General's website.
 
 Anchored Artifacts: A-3393.2
-Mentions: N-957, N-963
+Mentions: N-963
 Related Nodes: N-11429
 Tags: relevance:context
 Investigative Direction: Idaho Attorney General press release archive.
@@ -1185,7 +1185,7 @@ Claim: The host says the modeling agency was started by Jean-Luc Brunel, whom sh
 Transcript Snippet: a modeling agency that was started by the French pervert, Jean-Luc Brunel, who was Jeffrey Epstein's partner.
 
 Anchored Artifacts:
-Mentions: N-529, N-9, N-2
+Mentions: N-529, N-9
 Related Nodes: N-10532
 Tags: relevance:context
 Investigative Direction: Corporate history of Next Model Management and Brunel's agencies.
@@ -1213,7 +1213,7 @@ Investigative Direction: Lease records for model housing; former Next Model staf
 
 Claim Timestamp: 00:16:52
 
-Claim: The host says Turning Point under Erika's leadership is focused on high-school access, and Club America is being administratively forced on students who did not sign up, through assemblies.
+Claim: The host says Turning Point under Erika's leadership appears to be especially focused on high-school access, and Club America is being administratively forced on students who did not sign up, through assemblies.
 
 Transcript Snippet: Club America, which is being administratively forced upon students who are not signing up for this club. It's assembly time and you got to go.
 
@@ -1453,12 +1453,12 @@ Investigative Direction: Published family photographs; Macron defamation suit fi
 
 Claim Timestamp: 00:27:20
 
-Claim: The host says Katie Zacharia is the new White House press secretary and has been providing commentary on Fox News.
+Claim: The host says Katie Zacharia is the new White House press secretary and that people defending her say she has been providing commentary on Fox News.
 
 Transcript Snippet: this this Katie Zacharia character, who is the new press secretary, I'm just watching people defend this
 
 Anchored Artifacts:
-Mentions: N-962, N-5
+Mentions: N-962
 Related Nodes: N-10075
 Tags: relevance:context
 Investigative Direction: White House announcement of the appointment.
@@ -1506,7 +1506,7 @@ Claim: In a clip the host plays, reporters ask where the press secretary passed 
 Transcript Snippet: >> did you pass the bar exam? >> When I moved to China. That's her answer.
 
 Anchored Artifacts: A-3394.1
-Mentions: N-962, N-5
+Mentions: N-962
 Related Nodes: N-11431
 Tags: relevance:context
 Investigative Direction: Full press-pool footage of the exchange.
@@ -1740,7 +1740,7 @@ Investigative Direction: Court filings in Shapiro- or Daily Wire-related litigat
 
 Claim Timestamp: 00:42:03
 
-Claim: The host alleges Shapiro encourages others to sue people with his money.
+Claim: The host alleges Shapiro will encourage others to sue people with their money.
 
 Transcript Snippet: Like I mean, then he will encourage others to sue you with their money.
 

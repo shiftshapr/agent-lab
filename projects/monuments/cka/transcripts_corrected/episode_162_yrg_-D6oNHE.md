@@ -120,7 +120,7 @@ Yes, Erika, you really are the standard Proverbs 31 wife. Just kind of falls apa
 
 [10:57]
 
-That's that's the real Erika Kirk. That's like that website is the real Erika Kirk. And um I also do want to shout out um the this is a Instagram comedian political commentator named Christine Fecetty. Her Instagram handle is @whatthefecetty because she discovered what I believe is a highly likely possibility um that it was Blake Wynn who gifted Erika with those gaudy Kirk Force 1s that she was wearing on her feet because shortly before Charlie passed, he, meaning Blake Wynn, gifted Charlie with a similar pair, and more appropriate because he was mocking or marking, rather, uh Charlie's South Park episode that debuted when they were calling him the master debater, so he put some South Park characters on sneakers.
+That's that's the real Erika Kirk. That's like that website is the real Erika Kirk. And um I also do want to shout out um the this is a Instagram comedian political commentator named Christine Fekete. Her Instagram handle is @what.the.fekete because she discovered what I believe is a highly likely possibility um that it was Blake Wynn who gifted Erika with those gaudy Kirk Force 1s that she was wearing on her feet because shortly before Charlie passed, he, meaning Blake Wynn, gifted Charlie with a similar pair, and more appropriate because he was mocking or marking, rather, uh Charlie's South Park episode that debuted when they were calling him the master debater, so he put some South Park characters on sneakers.
 
 [11:45]
 

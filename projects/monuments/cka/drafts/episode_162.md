@@ -441,9 +441,9 @@ UVU emergency management director; host says she has heard Ebmeyer is resigning 
 
 *Related: C-15123, C-15124, C-15125, C-15127, C-15128, C-15129, C-15130, A-3367.2, A-3367.1*
 
-**N-949** Christine Fecetty
+**N-949** Christine Fekete
 
-First named by the host at 00:10:57 in episode 162. Instagram comedian and political commentator, handle given as @whatthefecetty; credited with the theory that Blake Wynn gifted Erika's Kirk Force 1s. Spelling unconfirmed.
+First named by the host at 00:10:57 in episode 162. Instagram comedian and political commentator, handle given as @what.the.fekete; credited with the theory that Blake Wynn gifted Erika's Kirk Force 1s. Spelling unconfirmed.
 
 *Related: C-15078, A-3361.1*
 
@@ -876,7 +876,7 @@ Investigative Direction: Monster Lab campaign budgets and payout records.
 
 Claim Timestamp: 00:10:05
 
-Claim: Speaking in Erika's voice satirically, the host alleges that Erika's non-Christian friend directed his employees to market her on a website run by a Latvian man, five days after her husband's assassination.
+Claim: Speaking in Erika's voice satirically, the host alleges that Erika's non-Christian friend is apparently directing his employees to market her on a website run by a Latvian man, five days after her husband's assassination.
 
 Transcript Snippet: my non-Christian friend is apparently directing his employees to market me on a shady website that's run by a Latvian man
 
@@ -892,7 +892,7 @@ Investigative Direction: Atlantic reporting and campaign drive timestamps for Se
 
 Claim Timestamp: 00:10:57
 
-Claim: The host credits Instagram commentator Christine Fecetty with discovering what the host believes is a highly likely possibility that Blake Wynn gave Erika the "Kirk Force 1" sneakers she wore.
+Claim: The host credits Instagram commentator Christine Fekete with discovering what the host believes is a highly likely possibility that Blake Wynn gave Erika the "Kirk Force 1" sneakers she wore.
 
 Transcript Snippet: she discovered what I believe is a highly likely possibility um that it was Blake Wynn who gifted Erika with those gaudy Kirk Force 1s
 
@@ -900,7 +900,7 @@ Anchored Artifacts: A-3361.1
 Mentions: N-949, N-352, N-2
 Related Nodes:
 Tags: relevance:context
-Investigative Direction: Origin of the custom sneakers; @whatthefecetty post.
+Investigative Direction: Origin of the custom sneakers; @what.the.fekete post.
 
 ---
 
@@ -1038,7 +1038,7 @@ Investigative Direction: Talsi school records; statements from the Latvian sourc
 
 Claim Timestamp: 00:15:02
 
-Claim: The host says that, according to his sources, Tabuns started running online businesses after leaving school and that he appears flush with cash according to his Instagram.
+Claim: The host says that, according to her sources, Tabuns started running online businesses after leaving school and that he appears flush with cash according to his Instagram.
 
 Transcript Snippet: He's flushed with cash, according to his Instagram.
 
@@ -1687,7 +1687,7 @@ Claim: Per the review passage the host reads, some committee members continued t
 Transcript Snippet: some of the MEAC members continued to express reservations including Robin Ebmeyer, UVU's director of emergency management and safety.
 
 Anchored Artifacts: A-3367.1
-Mentions: N-751, N-8
+Mentions: N-751
 Related Nodes: N-10839
 Tags: relevance:core
 Investigative Direction: Independent review text.
@@ -1719,7 +1719,7 @@ Claim: The host corrects herself that she should not say Ebmeyer was let go, say
 Transcript Snippet: Sorry, I shouldn't say Robin Ebmeyer I let go. I've heard Robin Ebmeyer resigned.
 
 Anchored Artifacts:
-Mentions: N-751, N-271
+Mentions: N-751
 Related Nodes: N-11417
 Tags: relevance:core
 Investigative Direction: UVU personnel records on the nature of the departures.
@@ -1858,7 +1858,7 @@ Investigative Direction: Show ownership and revenue sources.
 
 Claim Timestamp: 00:44:10
 
-Claim: The host says she pays nothing in advertising, does not use clippers in foreign countries to promote the show, and that anyone clipping the show does so organically.
+Claim: Responding to a viewer comment saying she pays $0 in advertising, the host says "Zero, none," says she does not use clippers in foreign countries to promote the show, and that anyone clipping the show does so organically.
 
 Transcript Snippet: We don't use people and clippers in foreign countries to try to make the show popular. We've never done that.
 
@@ -2403,7 +2403,7 @@ Confidence: medium
 - MISTRANSCRIPTION: "ChatGPT" -> "ChatGPT" (00:23:29) source: https://www.youtube.com/watch?v=yrg_-D6oNHE
 - MISTRANSCRIPTION: "Matiss" -> "Matiss" (00:19:10, 00:44:50, 00:45:05) source: host spells the name at 00:14:33
 - Unresolved name: "Matiss Tabuns" – the host spells the surname T-A-B-U-N-S; a web search found no confirming coverage. Kept as spoken. Possibly the same individual previously recorded as N-351 Matt Servius; the host now says that name was wrong. Integrator should decide whether to merge or relink.
-- Unresolved name: "Christine Fecetty" (@whatthefecetty) – not confirmed by web search; kept as transcribed.
+- Unresolved name: "Christine Fekete" (@what.the.fekete) – not confirmed by web search; kept as transcribed.
 - Unresolved place: "Sky Steel" (00:11:45, in the sneaker video) – possibly Scottsdale; kept as transcribed.
 - Unresolved term: "TPO say official" (00:32:00, Kolvet clip) – unclear; not used in claims.
 - Speaker identity: the sneaker video at 00:11:45 is not identified on air as Blake Wynn; the host frames it in his context. The 00:31:55 clip is introduced by the host as Kolvet but the speaker is not named in the clip.

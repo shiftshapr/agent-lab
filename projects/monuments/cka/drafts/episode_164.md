@@ -380,7 +380,7 @@ Aliases: Val Peterson (transcription)
 
 *Related: C-15246, C-15247, C-15248, C-15249, C-15250, C-15251, C-15252, C-15253, C-15254, C-15255, C-15256, C-15257, C-15258, C-15259, C-15262, C-15265, C-15300, A-3382.1, A-3383.1*
 
-**N-958** Hank McIntyre
+**N-958** Hank McIntire
 
 First named by the host at 00:08:10 in episode 164. Utah National Guard spokesman quoted in the 2007 article on Peterson.
 
@@ -758,13 +758,13 @@ Investigative Direction: The original 2007 article and Utah National Guard chang
 
 ---
 
-**C-15253** Article Quotes Guard Spokesman Hank McIntyre on Peterson
+**C-15253** Article Quotes Guard Spokesman Hank McIntire on Peterson
 
 Claim Timestamp: 00:08:25
 
-Claim: Per the article the host reads, Utah National Guard spokesman Major Hank McIntyre said Peterson, as a Spanish linguist, was uniquely in touch with the needs of the brigade's members.
+Claim: Per the article the host reads, Utah National Guard spokesman Major Hank McIntire said Peterson, as a Spanish linguist, was uniquely in touch with the needs of the brigade's members.
 
-Transcript Snippet: Major Hank McIntyre, spokesman for the Utah National Guard, said Peterson, as a Spanish linguist, is uniquely in touch
+Transcript Snippet: Major Hank McIntire, spokesman for the Utah National Guard, said Peterson, as a Spanish linguist, is uniquely in touch
 
 Anchored Artifacts: A-3382.1
 Mentions: N-957, N-958
@@ -970,7 +970,7 @@ Investigative Direction: The original article.
 
 Claim Timestamp: 00:15:18
 
-Claim: Per the article, BYU men's lacrosse head coach Matt Schneck (as transcribed) said Clancy's community leadership was mirrored by his leadership on the BYU lacrosse team.
+Claim: Per the article, BYU men's lacrosse head coach Matt Schneck said Clancy's community leadership was mirrored by his leadership on the BYU lacrosse team.
 
 Transcript Snippet: Clancy's reputation for community leadership was mirrored by the leadership role that he earned on the BYU lacrosse team
 
@@ -1210,7 +1210,7 @@ Investigative Direction: Police vehicle processing records for the SUV.
 
 Claim Timestamp: 00:21:40
 
-Claim: In the clip, Turek says his bag with his computer, wallet and passport was in the car, that Charlie Kirk had been lying on it across the back seat, and that it was full of blood.
+Claim: In the clip, Turek says his computer bag, wallet and passport were in the car, that Charlie Kirk had been lying on the bag across the back seat, and that it was full of blood.
 
 Transcript Snippet: It turned out that Charlie was laying on it across the back seat.
 
@@ -1556,7 +1556,7 @@ Claim: The host says it was recently announced that Katie Zacharia would take ov
 Transcript Snippet: now we have someone whose name is Katie Zacharia. Okay, it was recently announced that she would have taken over Karoline Leavitt.
 
 Anchored Artifacts:
-Mentions: N-962, N-280, N-5
+Mentions: N-962, N-280
 Related Nodes:
 Tags: relevance:context
 Investigative Direction: White House announcement of the appointment.
@@ -1636,7 +1636,7 @@ Claim: The host compares Zacharia to Erika Kirk, saying Erika Kirk says she was 
 Transcript Snippet: It's like with Erika Kirk when Eric Kirk says that, you know, she was in law school, you know, or rather that she that she has a doctorate. It's hard to confirm that.
 
 Anchored Artifacts:
-Mentions: N-2
+Mentions: N-2, N-962
 Related Nodes: N-10665
 Tags: relevance:core
 Investigative Direction: Degree-verification records for Erika Kirk.
@@ -1828,7 +1828,7 @@ Claim: A viewer comment the host reads says that one day before his death Charli
 Transcript Snippet: one day before his death, he said he is abandoning the pro-Israel cause.
 
 Anchored Artifacts: A-3390.1
-Mentions: N-1
+Mentions: N-1, N-2
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Charlie Kirk's recorded statements on September 9, 2025.
@@ -1844,7 +1844,7 @@ Claim: The host says Erika Kirk has betrayed Charlie's legacy and that she "obvi
 Transcript Snippet: obviously she doesn't author her tweets.
 
 Anchored Artifacts:
-Mentions: N-2
+Mentions: N-2, N-1
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Statements from Erika Kirk's staff on who runs her account.

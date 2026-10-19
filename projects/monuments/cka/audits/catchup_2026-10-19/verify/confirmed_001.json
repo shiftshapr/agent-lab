@@ -1,0 +1,246 @@
+[
+ {
+  "claim": "C-15078",
+  "episode": 162,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host credits Instagram commentator Christine Fekete with discovering what the host believes is a highly likely possibility that Blake Wynn gave Erika the \"Kirk Force 1\" sneakers she wore.",
+   "names": [
+    {
+     "wrong": "Christine Fecetty",
+     "right": "Christine Fekete",
+     "source": "https://www.instagram.com/what.the.fekete/"
+    },
+    {
+     "wrong": "@whatthefecetty",
+     "right": "@what.the.fekete",
+     "source": "https://sageofquay.substack.com/p/former-kirk-show-engineer-exposes"
+    }
+   ]
+  },
+  "note": "Verified: Christine Anne Fekete, Instagram what.the.fekete, comedian/commentator posting on Erika Kirk (X @WhatTheFekete, Sage O'Quay substack)."
+ },
+ {
+  "claim": "C-15127",
+  "episode": 162,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-751"
+   ]
+  },
+  "note": "Claim names only Ebmeyer; Crofts not referred to in the claim."
+ },
+ {
+  "claim": "C-15129",
+  "episode": 162,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-751"
+   ]
+  },
+  "note": "Claim refers only to Ebmeyer; Jeff Long is in a later sentence not covered by the claim."
+ },
+ {
+  "claim": "C-15199",
+  "episode": 163,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-7",
+    "N-492",
+    "N-270",
+    "N-266",
+    "N-487"
+   ]
+  },
+  "note": "Justin Davis (driver) and Dan Flood named in the excerpt; both nodes exist before ep163 (Davis lists 163)."
+ },
+ {
+  "claim": "C-15200",
+  "episode": 163,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-7",
+    "N-492",
+    "N-270",
+    "N-487",
+    "N-266",
+    "N-1"
+   ]
+  },
+  "note": "Justin Davis and Dan Flood named in claim; nodes verified."
+ },
+ {
+  "claim": "C-15233",
+  "episode": 163,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she thinks over 2 million people watched her episode with Theo Von within 2 days, that her children call him Uncle Theo and that he is her neighbor.",
+   "mentions": [
+    "N-146"
+   ]
+  },
+  "note": "Transcript hedges 'I think'; Tim Dillon not in claim."
+ },
+ {
+  "claim": "C-15253",
+  "episode": 164,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the article the host reads, Utah National Guard spokesman Major Hank McIntire said Peterson, as a Spanish linguist, was uniquely in touch with the needs of the brigade's members.",
+   "label": "Article Quotes Guard Spokesman Hank McIntire on Peterson",
+   "names": [
+    {
+     "wrong": "Hank McIntyre",
+     "right": "Hank McIntire",
+     "source": "https://www.ksl.com/article/287403"
+    }
+   ]
+  },
+  "note": "KSL article verified: 'spokesman Maj. Hank McIntire' of Utah Guard."
+ },
+ {
+  "claim": "C-15302",
+  "episode": 164,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-962",
+    "N-280"
+   ]
+  },
+  "note": "Trump not referred to; drop N-5. Relevance change not adopted: sibling Zacharia claims stay context."
+ },
+ {
+  "claim": "C-15307",
+  "episode": 164,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-962"
+   ]
+  },
+  "note": "Claim names Zacharia; N-962 introduced ep164."
+ },
+ {
+  "claim": "C-15319",
+  "episode": 164,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-2"
+   ]
+  },
+  "note": "Claim names Erika Kirk."
+ },
+ {
+  "claim": "C-15320",
+  "episode": 164,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie ('Charlie's legacy')."
+ },
+ {
+  "claim": "C-15353",
+  "episode": 165,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-963"
+   ]
+  },
+  "note": "Claim names only Charles Peterson."
+ },
+ {
+  "claim": "C-15360",
+  "episode": 165,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-529",
+    "N-9"
+   ]
+  },
+  "note": "Claim names only Brunel and Epstein."
+ },
+ {
+  "claim": "C-15377",
+  "episode": 165,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Katie Zacharia is the new White House press secretary and that people defending her say she has been providing commentary on Fox News.",
+   "mentions": [
+    "N-962"
+   ]
+  },
+  "note": "Fox News line is in the host's paraphrase of defenders; Trump not in claim."
+ },
+ {
+  "claim": "C-15380",
+  "episode": 165,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-962"
+   ]
+  },
+  "note": "Trump not named or referred to in claim."
+ },
+ {
+  "claim": "C-15395",
+  "episode": 165,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host alleges Shapiro will encourage others to sue people with their money."
+  },
+  "note": "Transcript: 'sue you with their money'."
+ },
+ {
+  "claim": "C-15415",
+  "episode": 166,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Cox not referred to; claim speaks of a generic police officer."
+ },
+ {
+  "claim": "C-15434",
+  "episode": 166,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the article the host reads, Officer Brandon Blackmore's report says 116 images had allegedly been downloaded and saved to Dodd's phone, and that Dodd said he had a severe pornography addiction that had escalated to include children.",
+   "label": "Officer Blackmore's Report Says 116 Images Were Allegedly Saved to Dodd's Phone",
+   "names": [
+    {
+     "wrong": "Brandon Blackmon",
+     "right": "Brandon Blackmore",
+     "source": "https://bonnersferryherald.com/news/2026/sep/10/young-adult-arrested-child-sexual-exploitative-materials/"
+    }
+   ]
+  },
+  "note": "Bonners Ferry Herald verified: 'Officer Brandon Blackmore'."
+ },
+ {
+  "claim": "C-15491",
+  "episode": 166,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-7",
+    "N-266"
+   ]
+  },
+  "note": "Charlie not named or referred to in claim."
+ }
+]

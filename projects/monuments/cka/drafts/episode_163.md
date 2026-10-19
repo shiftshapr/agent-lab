@@ -1865,7 +1865,7 @@ Investigative Direction: Station 2 shift roster for September 10.
 
 Claim Timestamp: 00:44:25
 
-Claim: Per the still the host shows, the car on the left carried Mikey McCoy, Blake Neff and Danny Philip to the hospital with an officer, and the car on the right, driven by another officer, carried Christopher Rhoades, Blake Harreff and Blake Gibson.
+Claim: Showing a still, the host says the car on the left carried Mikey McCoy, Blake Neff and Danny Philip to the hospital with an officer, and the car on the right, driven by another officer, carried Christopher Rhoades, Blake Harreff and Blake Gibson.
 
 Transcript Snippet: that one on the left-hand side is going to be the Mikey McCoys car, Blake Neff, and Danny Philip to the hospital escorted by an officer
 
@@ -1945,12 +1945,12 @@ Investigative Direction: Later episode announcements.
 
 Claim Timestamp: 00:48:03
 
-Claim: The host says over 2 million people watched her episode with Theo Von within 2 days, that her children call him Uncle Theo and that he is her neighbor.
+Claim: The host says she thinks over 2 million people watched her episode with Theo Von within 2 days, that her children call him Uncle Theo and that he is her neighbor.
 
 Transcript Snippet: I think like already over 2 million people have watched it. It's just been up for 2 days.
 
 Anchored Artifacts:
-Mentions: N-146, N-277
+Mentions: N-146
 Related Nodes:
 Tags: relevance:tangential
 Investigative Direction: YouTube view count for the episode.

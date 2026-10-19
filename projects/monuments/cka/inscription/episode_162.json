@@ -1059,9 +1059,9 @@
       "@type": "Person",
       "@id": "N-949",
       "ref": "N-949",
-      "name": "Christine Fecetty",
+      "name": "Christine Fekete",
       "type": "person",
-      "description": "First named by the host at 00:10:57 in episode 162. Instagram comedian and political commentator, handle given as @whatthefecetty; credited with the theory that Blake Wynn gifted Erika's Kirk Force 1s. Spelling unconfirmed.",
+      "description": "First named by the host at 00:10:57 in episode 162. Instagram comedian and political commentator, handle given as @what.the.fekete; credited with the theory that Blake Wynn gifted Erika's Kirk Force 1s. Spelling unconfirmed.",
       "related_artifacts": [
         "A-3361.1"
       ],
@@ -2057,7 +2057,7 @@
       "@id": "C-15077",
       "ref": "C-15077",
       "label": "Host says Erika's friend directed employees to market her on the Latvian-run site",
-      "claim": "Speaking in Erika's voice satirically, the host alleges that Erika's non-Christian friend directed his employees to market her on a website run by a Latvian man, five days after her husband's assassination.",
+      "claim": "Speaking in Erika's voice satirically, the host alleges that Erika's non-Christian friend is apparently directing his employees to market her on a website run by a Latvian man, five days after her husband's assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10891"
@@ -2078,7 +2078,7 @@
       "@id": "C-15078",
       "ref": "C-15078",
       "label": "Commentator theorizes Blake Wynn gifted Erika's Kirk Force 1s",
-      "claim": "The host credits Instagram commentator Christine Fecetty with discovering what the host believes is a highly likely possibility that Blake Wynn gave Erika the \"Kirk Force 1\" sneakers she wore.",
+      "claim": "The host credits Instagram commentator Christine Fekete with discovering what the host believes is a highly likely possibility that Blake Wynn gave Erika the \"Kirk Force 1\" sneakers she wore.",
       "anchored_artifacts": [
         "A-3361.1"
       ],
@@ -2087,7 +2087,7 @@
         "relevance:context"
       ],
       "claim_timestamp": "00:10:57",
-      "investigative_direction": "Origin of the custom sneakers; @whatthefecetty post.",
+      "investigative_direction": "Origin of the custom sneakers; @what.the.fekete post.",
       "transcript_snippet": "she discovered what I believe is a highly likely possibility um that it was Blake Wynn who gifted Erika with those gaudy Kirk Force 1s",
       "mentions_person_refs": [
         "N-949",
@@ -2275,7 +2275,7 @@
       "@id": "C-15087",
       "ref": "C-15087",
       "label": "Host says Tabuns appears flush with cash on Instagram",
-      "claim": "The host says that, according to his sources, Tabuns started running online businesses after leaving school and that he appears flush with cash according to his Instagram.",
+      "claim": "The host says that, according to her sources, Tabuns started running online businesses after leaving school and that he appears flush with cash according to his Instagram.",
       "anchored_artifacts": [
         "A-3363.1"
       ],
@@ -3150,8 +3150,7 @@
       "investigative_direction": "Independent review text.",
       "transcript_snippet": "some of the MEAC members continued to express reservations including Robin Ebmeyer, UVU's director of emergency management and safety.",
       "mentions_person_refs": [
-        "N-751",
-        "N-8"
+        "N-751"
       ]
     },
     {
@@ -3193,8 +3192,7 @@
       "investigative_direction": "UVU personnel records on the nature of the departures.",
       "transcript_snippet": "Sorry, I shouldn't say Robin Ebmeyer I let go. I've heard Robin Ebmeyer resigned.",
       "mentions_person_refs": [
-        "N-751",
-        "N-271"
+        "N-751"
       ]
     },
     {
@@ -3372,7 +3370,7 @@
       "@id": "C-15138",
       "ref": "C-15138",
       "label": "Host says she does not use paid foreign clippers",
-      "claim": "The host says she pays nothing in advertising, does not use clippers in foreign countries to promote the show, and that anyone clipping the show does so organically.",
+      "claim": "Responding to a viewer comment saying she pays $0 in advertising, the host says \"Zero, none,\" says she does not use clippers in foreign countries to promote the show, and that anyone clipping the show does so organically.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10883"

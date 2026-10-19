@@ -93,7 +93,7 @@ So here we go. It tells us by day Val Peterson of Orem is a seasoned administrat
 
 [08:10]
 
-A large majority of the brigade's members have already or are currently serving deployments in Iraq and Afghanistan. He said it's a great honor and a great responsibility when you think in terms of the amount of individuals and the types of missions. Peterson said, "My thoughts go back to the individual soldiers and being able to support them as best as possible, no matter what the mission is." Major Hank McIntyre, spokesman for the Utah National Guard, said Peterson, as a Spanish linguist, is uniquely in touch with the needs of the 300th uh military intelligence brigade members who split their military duties with civilian careers, making him a great fit for this new assignment.
+A large majority of the brigade's members have already or are currently serving deployments in Iraq and Afghanistan. He said it's a great honor and a great responsibility when you think in terms of the amount of individuals and the types of missions. Peterson said, "My thoughts go back to the individual soldiers and being able to support them as best as possible, no matter what the mission is." Major Hank McIntire, spokesman for the Utah National Guard, said Peterson, as a Spanish linguist, is uniquely in touch with the needs of the 300th uh military intelligence brigade members who split their military duties with civilian careers, making him a great fit for this new assignment.
 
 [08:50]
 
