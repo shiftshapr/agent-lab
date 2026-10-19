@@ -2210,6 +2210,23 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10968",
+      "ref": "N-10968",
+      "name": "The New York Times",
+      "type": "investigation_target",
+      "description": "Newspaper. First cited in this episode, where the host says the New York Times has reported on Russian and Ukrainian spies (intro moved from ep45, 2026-10-19).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10792"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -3003,7 +3020,7 @@
       "claim": "The host says the New York Times has reported on Russian and Ukrainian spies building new lives with new IDs in America and in Brazil.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10898",
+        "N-10968",
         "N-11273"
       ],
       "tags": [

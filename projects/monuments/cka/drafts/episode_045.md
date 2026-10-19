@@ -13,7 +13,6 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-799, N-11162
   - Hole-minted Nodes (reintro-ep045): N-360, N-10367, N-10373, N-10540
-  - Tip-minted Nodes (reintro-ep045): N-10968
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8066–C-8125
   - (see registers)
@@ -40,7 +39,7 @@
 - Artifact Families Introduced: A-1525, A-1526, A-1527, A-1528, A-1529, A-1530, A-1531, A-1532
 - Claim Range: C-1897–C-1911
   - New Nodes Introduced: N-10332, N-10333
-  - Reused Nodes Appearing: N-2, N-16, N-67, N-17, N-46, N-55, N-159, N-190, N-220, N-266, N-267, N-278, N-10000, N-10006, N-10014, N-10025, N-10026, N-10197, N-10201, N-10253, N-10290, N-10326, N-11097, N-10334
+  - Reused Nodes Appearing: N-10968, N-2, N-16, N-67, N-17, N-46, N-55, N-159, N-190, N-220, N-266, N-267, N-278, N-10000, N-10006, N-10014, N-10025, N-10026, N-10197, N-10201, N-10253, N-10290, N-10326, N-11097, N-10334
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), and references to other recurring figures by name (Tucker Carlson, Theo Von, Harris Faulkner, Sergio Gor, Bari Weiss, Milo Yiannopoulos, Blake Neff, Harry, Brian Harpole, Rob McCoy, Mikey, Josh Hammer, Pam Bondi, Tim Pool, Jordan Peterson, Bethany Frankel, Mark, Tara Cross)
 
 ---

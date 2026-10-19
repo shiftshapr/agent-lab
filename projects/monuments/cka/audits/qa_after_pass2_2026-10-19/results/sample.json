@@ -1,0 +1,1398 @@
+{
+ "pool": 13915,
+ "rate": 0.02,
+ "seed": 20261019,
+ "since": null,
+ "sample": [
+  {
+   "claim": "C-1115",
+   "episode": 1,
+   "chunk": 1
+  },
+  {
+   "claim": "C-10654",
+   "episode": 2,
+   "chunk": 1
+  },
+  {
+   "claim": "C-13592",
+   "episode": 3,
+   "chunk": 1
+  },
+  {
+   "claim": "C-4846",
+   "episode": 4,
+   "chunk": 1
+  },
+  {
+   "claim": "C-4852",
+   "episode": 4,
+   "chunk": 1
+  },
+  {
+   "claim": "C-4854",
+   "episode": 4,
+   "chunk": 1
+  },
+  {
+   "claim": "C-4903",
+   "episode": 4,
+   "chunk": 1
+  },
+  {
+   "claim": "C-11956",
+   "episode": 5,
+   "chunk": 1
+  },
+  {
+   "claim": "C-11957",
+   "episode": 5,
+   "chunk": 1
+  },
+  {
+   "claim": "C-1208",
+   "episode": 6,
+   "chunk": 1
+  },
+  {
+   "claim": "C-1227",
+   "episode": 6,
+   "chunk": 1
+  },
+  {
+   "claim": "C-13656",
+   "episode": 6,
+   "chunk": 1
+  },
+  {
+   "claim": "C-10734",
+   "episode": 7,
+   "chunk": 1
+  },
+  {
+   "claim": "C-1259",
+   "episode": 8,
+   "chunk": 1
+  },
+  {
+   "claim": "C-1262",
+   "episode": 8,
+   "chunk": 1
+  },
+  {
+   "claim": "C-12013",
+   "episode": 8,
+   "chunk": 1
+  },
+  {
+   "claim": "C-13681",
+   "episode": 9,
+   "chunk": 1
+  },
+  {
+   "claim": "C-13693",
+   "episode": 9,
+   "chunk": 1
+  },
+  {
+   "claim": "C-3773",
+   "episode": 10,
+   "chunk": 1
+  },
+  {
+   "claim": "C-13819",
+   "episode": 10,
+   "chunk": 1
+  },
+  {
+   "claim": "C-13844",
+   "episode": 11,
+   "chunk": 1
+  },
+  {
+   "claim": "C-9286",
+   "episode": 12,
+   "chunk": 1
+  },
+  {
+   "claim": "C-9301",
+   "episode": 12,
+   "chunk": 1
+  },
+  {
+   "claim": "C-9313",
+   "episode": 12,
+   "chunk": 1
+  },
+  {
+   "claim": "C-1339",
+   "episode": 13,
+   "chunk": 1
+  },
+  {
+   "claim": "C-10792",
+   "episode": 13,
+   "chunk": 1
+  },
+  {
+   "claim": "C-7874",
+   "episode": 14,
+   "chunk": 1
+  },
+  {
+   "claim": "C-7902",
+   "episode": 14,
+   "chunk": 1
+  },
+  {
+   "claim": "C-6453",
+   "episode": 15,
+   "chunk": 1
+  },
+  {
+   "claim": "C-6477",
+   "episode": 15,
+   "chunk": 1
+  },
+  {
+   "claim": "C-9340",
+   "episode": 17,
+   "chunk": 1
+  },
+  {
+   "claim": "C-1443",
+   "episode": 18,
+   "chunk": 1
+  },
+  {
+   "claim": "C-13882",
+   "episode": 18,
+   "chunk": 1
+  },
+  {
+   "claim": "C-13883",
+   "episode": 18,
+   "chunk": 1
+  },
+  {
+   "claim": "C-13928",
+   "episode": 18,
+   "chunk": 1
+  },
+  {
+   "claim": "C-13940",
+   "episode": 19,
+   "chunk": 1
+  },
+  {
+   "claim": "C-13998",
+   "episode": 19,
+   "chunk": 1
+  },
+  {
+   "claim": "C-1501",
+   "episode": 20,
+   "chunk": 1
+  },
+  {
+   "claim": "C-12199",
+   "episode": 20,
+   "chunk": 1
+  },
+  {
+   "claim": "C-12246",
+   "episode": 20,
+   "chunk": 1
+  },
+  {
+   "claim": "C-1533",
+   "episode": 22,
+   "chunk": 2
+  },
+  {
+   "claim": "C-9404",
+   "episode": 22,
+   "chunk": 2
+  },
+  {
+   "claim": "C-9432",
+   "episode": 22,
+   "chunk": 2
+  },
+  {
+   "claim": "C-1557",
+   "episode": 23,
+   "chunk": 2
+  },
+  {
+   "claim": "C-9488",
+   "episode": 24,
+   "chunk": 2
+  },
+  {
+   "claim": "C-6559",
+   "episode": 25,
+   "chunk": 2
+  },
+  {
+   "claim": "C-6589",
+   "episode": 25,
+   "chunk": 2
+  },
+  {
+   "claim": "C-1641",
+   "episode": 28,
+   "chunk": 2
+  },
+  {
+   "claim": "C-9674",
+   "episode": 28,
+   "chunk": 2
+  },
+  {
+   "claim": "C-9675",
+   "episode": 28,
+   "chunk": 2
+  },
+  {
+   "claim": "C-7939",
+   "episode": 29,
+   "chunk": 2
+  },
+  {
+   "claim": "C-9747",
+   "episode": 30,
+   "chunk": 2
+  },
+  {
+   "claim": "C-6608",
+   "episode": 31,
+   "chunk": 2
+  },
+  {
+   "claim": "C-6623",
+   "episode": 31,
+   "chunk": 2
+  },
+  {
+   "claim": "C-1699",
+   "episode": 32,
+   "chunk": 2
+  },
+  {
+   "claim": "C-1712",
+   "episode": 32,
+   "chunk": 2
+  },
+  {
+   "claim": "C-1717",
+   "episode": 33,
+   "chunk": 2
+  },
+  {
+   "claim": "C-12409",
+   "episode": 33,
+   "chunk": 2
+  },
+  {
+   "claim": "C-1737",
+   "episode": 34,
+   "chunk": 2
+  },
+  {
+   "claim": "C-4970",
+   "episode": 34,
+   "chunk": 2
+  },
+  {
+   "claim": "C-1751",
+   "episode": 35,
+   "chunk": 2
+  },
+  {
+   "claim": "C-7995",
+   "episode": 35,
+   "chunk": 2
+  },
+  {
+   "claim": "C-8027",
+   "episode": 35,
+   "chunk": 2
+  },
+  {
+   "claim": "C-8054",
+   "episode": 35,
+   "chunk": 2
+  },
+  {
+   "claim": "C-4986",
+   "episode": 36,
+   "chunk": 2
+  },
+  {
+   "claim": "C-9769",
+   "episode": 37,
+   "chunk": 2
+  },
+  {
+   "claim": "C-9780",
+   "episode": 37,
+   "chunk": 2
+  },
+  {
+   "claim": "C-10953",
+   "episode": 39,
+   "chunk": 2
+  },
+  {
+   "claim": "C-10973",
+   "episode": 39,
+   "chunk": 2
+  },
+  {
+   "claim": "C-11007",
+   "episode": 39,
+   "chunk": 2
+  },
+  {
+   "claim": "C-11016",
+   "episode": 39,
+   "chunk": 2
+  },
+  {
+   "claim": "C-5066",
+   "episode": 40,
+   "chunk": 2
+  },
+  {
+   "claim": "C-5082",
+   "episode": 40,
+   "chunk": 2
+  },
+  {
+   "claim": "C-5106",
+   "episode": 40,
+   "chunk": 2
+  },
+  {
+   "claim": "C-5170",
+   "episode": 41,
+   "chunk": 2
+  },
+  {
+   "claim": "C-1857",
+   "episode": 42,
+   "chunk": 2
+  },
+  {
+   "claim": "C-1895",
+   "episode": 44,
+   "chunk": 2
+  },
+  {
+   "claim": "C-8090",
+   "episode": 45,
+   "chunk": 2
+  },
+  {
+   "claim": "C-8098",
+   "episode": 45,
+   "chunk": 2
+  },
+  {
+   "claim": "C-6678",
+   "episode": 46,
+   "chunk": 2
+  },
+  {
+   "claim": "C-6701",
+   "episode": 46,
+   "chunk": 3
+  },
+  {
+   "claim": "C-1931",
+   "episode": 47,
+   "chunk": 3
+  },
+  {
+   "claim": "C-14028",
+   "episode": 47,
+   "chunk": 3
+  },
+  {
+   "claim": "C-14036",
+   "episode": 47,
+   "chunk": 3
+  },
+  {
+   "claim": "C-14068",
+   "episode": 47,
+   "chunk": 3
+  },
+  {
+   "claim": "C-1961",
+   "episode": 48,
+   "chunk": 3
+  },
+  {
+   "claim": "C-3654",
+   "episode": 48,
+   "chunk": 3
+  },
+  {
+   "claim": "C-5192",
+   "episode": 48,
+   "chunk": 3
+  },
+  {
+   "claim": "C-5201",
+   "episode": 48,
+   "chunk": 3
+  },
+  {
+   "claim": "C-5233",
+   "episode": 48,
+   "chunk": 3
+  },
+  {
+   "claim": "C-5328",
+   "episode": 49,
+   "chunk": 3
+  },
+  {
+   "claim": "C-5361",
+   "episode": 50,
+   "chunk": 3
+  },
+  {
+   "claim": "C-5396",
+   "episode": 50,
+   "chunk": 3
+  },
+  {
+   "claim": "C-5400",
+   "episode": 50,
+   "chunk": 3
+  },
+  {
+   "claim": "C-5417",
+   "episode": 50,
+   "chunk": 3
+  },
+  {
+   "claim": "C-2001",
+   "episode": 51,
+   "chunk": 3
+  },
+  {
+   "claim": "C-6759",
+   "episode": 51,
+   "chunk": 3
+  },
+  {
+   "claim": "C-6772",
+   "episode": 51,
+   "chunk": 3
+  },
+  {
+   "claim": "C-6782",
+   "episode": 51,
+   "chunk": 3
+  },
+  {
+   "claim": "C-6980",
+   "episode": 53,
+   "chunk": 3
+  },
+  {
+   "claim": "C-2029",
+   "episode": 54,
+   "chunk": 3
+  },
+  {
+   "claim": "C-8227",
+   "episode": 54,
+   "chunk": 3
+  },
+  {
+   "claim": "C-8251",
+   "episode": 54,
+   "chunk": 3
+  },
+  {
+   "claim": "C-14138",
+   "episode": 55,
+   "chunk": 3
+  },
+  {
+   "claim": "C-14151",
+   "episode": 55,
+   "chunk": 3
+  },
+  {
+   "claim": "C-2090",
+   "episode": 56,
+   "chunk": 3
+  },
+  {
+   "claim": "C-12537",
+   "episode": 56,
+   "chunk": 3
+  },
+  {
+   "claim": "C-12546",
+   "episode": 56,
+   "chunk": 3
+  },
+  {
+   "claim": "C-12582",
+   "episode": 56,
+   "chunk": 3
+  },
+  {
+   "claim": "C-5460",
+   "episode": 57,
+   "chunk": 3
+  },
+  {
+   "claim": "C-5463",
+   "episode": 57,
+   "chunk": 3
+  },
+  {
+   "claim": "C-9896",
+   "episode": 58,
+   "chunk": 3
+  },
+  {
+   "claim": "C-2125",
+   "episode": 59,
+   "chunk": 3
+  },
+  {
+   "claim": "C-2138",
+   "episode": 59,
+   "chunk": 3
+  },
+  {
+   "claim": "C-14191",
+   "episode": 59,
+   "chunk": 3
+  },
+  {
+   "claim": "C-2154",
+   "episode": 60,
+   "chunk": 3
+  },
+  {
+   "claim": "C-5495",
+   "episode": 60,
+   "chunk": 3
+  },
+  {
+   "claim": "C-5525",
+   "episode": 60,
+   "chunk": 3
+  },
+  {
+   "claim": "C-5547",
+   "episode": 60,
+   "chunk": 3
+  },
+  {
+   "claim": "C-5569",
+   "episode": 60,
+   "chunk": 3
+  },
+  {
+   "claim": "C-11138",
+   "episode": 61,
+   "chunk": 4
+  },
+  {
+   "claim": "C-2192",
+   "episode": 62,
+   "chunk": 4
+  },
+  {
+   "claim": "C-8269",
+   "episode": 62,
+   "chunk": 4
+  },
+  {
+   "claim": "C-8274",
+   "episode": 62,
+   "chunk": 4
+  },
+  {
+   "claim": "C-8282",
+   "episode": 62,
+   "chunk": 4
+  },
+  {
+   "claim": "C-2205",
+   "episode": 63,
+   "chunk": 4
+  },
+  {
+   "claim": "C-7000",
+   "episode": 63,
+   "chunk": 4
+  },
+  {
+   "claim": "C-7033",
+   "episode": 63,
+   "chunk": 4
+  },
+  {
+   "claim": "C-9952",
+   "episode": 64,
+   "chunk": 4
+  },
+  {
+   "claim": "C-9967",
+   "episode": 64,
+   "chunk": 4
+  },
+  {
+   "claim": "C-9976",
+   "episode": 64,
+   "chunk": 4
+  },
+  {
+   "claim": "C-9977",
+   "episode": 64,
+   "chunk": 4
+  },
+  {
+   "claim": "C-5614",
+   "episode": 65,
+   "chunk": 4
+  },
+  {
+   "claim": "C-5624",
+   "episode": 65,
+   "chunk": 4
+  },
+  {
+   "claim": "C-5651",
+   "episode": 65,
+   "chunk": 4
+  },
+  {
+   "claim": "C-8375",
+   "episode": 66,
+   "chunk": 4
+  },
+  {
+   "claim": "C-2273",
+   "episode": 67,
+   "chunk": 4
+  },
+  {
+   "claim": "C-14305",
+   "episode": 67,
+   "chunk": 4
+  },
+  {
+   "claim": "C-12646",
+   "episode": 69,
+   "chunk": 4
+  },
+  {
+   "claim": "C-8399",
+   "episode": 70,
+   "chunk": 4
+  },
+  {
+   "claim": "C-14329",
+   "episode": 71,
+   "chunk": 4
+  },
+  {
+   "claim": "C-14372",
+   "episode": 71,
+   "chunk": 4
+  },
+  {
+   "claim": "C-10074",
+   "episode": 72,
+   "chunk": 4
+  },
+  {
+   "claim": "C-10112",
+   "episode": 72,
+   "chunk": 4
+  },
+  {
+   "claim": "C-10181",
+   "episode": 74,
+   "chunk": 4
+  },
+  {
+   "claim": "C-10207",
+   "episode": 74,
+   "chunk": 4
+  },
+  {
+   "claim": "C-2433",
+   "episode": 76,
+   "chunk": 4
+  },
+  {
+   "claim": "C-2446",
+   "episode": 77,
+   "chunk": 4
+  },
+  {
+   "claim": "C-12740",
+   "episode": 78,
+   "chunk": 4
+  },
+  {
+   "claim": "C-12744",
+   "episode": 78,
+   "chunk": 4
+  },
+  {
+   "claim": "C-2494",
+   "episode": 80,
+   "chunk": 4
+  },
+  {
+   "claim": "C-14436",
+   "episode": 80,
+   "chunk": 4
+  },
+  {
+   "claim": "C-2537",
+   "episode": 81,
+   "chunk": 4
+  },
+  {
+   "claim": "C-11295",
+   "episode": 81,
+   "chunk": 4
+  },
+  {
+   "claim": "C-8509",
+   "episode": 82,
+   "chunk": 4
+  },
+  {
+   "claim": "C-8531",
+   "episode": 82,
+   "chunk": 4
+  },
+  {
+   "claim": "C-12762",
+   "episode": 83,
+   "chunk": 4
+  },
+  {
+   "claim": "C-3777",
+   "episode": 84,
+   "chunk": 4
+  },
+  {
+   "claim": "C-3796",
+   "episode": 84,
+   "chunk": 4
+  },
+  {
+   "claim": "C-14457",
+   "episode": 85,
+   "chunk": 4
+  },
+  {
+   "claim": "C-14468",
+   "episode": 85,
+   "chunk": 5
+  },
+  {
+   "claim": "C-10340",
+   "episode": 86,
+   "chunk": 5
+  },
+  {
+   "claim": "C-10349",
+   "episode": 86,
+   "chunk": 5
+  },
+  {
+   "claim": "C-14598",
+   "episode": 87,
+   "chunk": 5
+  },
+  {
+   "claim": "C-8609",
+   "episode": 88,
+   "chunk": 5
+  },
+  {
+   "claim": "C-8630",
+   "episode": 88,
+   "chunk": 5
+  },
+  {
+   "claim": "C-8711",
+   "episode": 90,
+   "chunk": 5
+  },
+  {
+   "claim": "C-8719",
+   "episode": 90,
+   "chunk": 5
+  },
+  {
+   "claim": "C-8745",
+   "episode": 90,
+   "chunk": 5
+  },
+  {
+   "claim": "C-12842",
+   "episode": 91,
+   "chunk": 5
+  },
+  {
+   "claim": "C-12868",
+   "episode": 91,
+   "chunk": 5
+  },
+  {
+   "claim": "C-11416",
+   "episode": 92,
+   "chunk": 5
+  },
+  {
+   "claim": "C-13349",
+   "episode": 94,
+   "chunk": 5
+  },
+  {
+   "claim": "C-8773",
+   "episode": 96,
+   "chunk": 5
+  },
+  {
+   "claim": "C-8782",
+   "episode": 96,
+   "chunk": 5
+  },
+  {
+   "claim": "C-8793",
+   "episode": 96,
+   "chunk": 5
+  },
+  {
+   "claim": "C-10379",
+   "episode": 97,
+   "chunk": 5
+  },
+  {
+   "claim": "C-10421",
+   "episode": 97,
+   "chunk": 5
+  },
+  {
+   "claim": "C-2844",
+   "episode": 98,
+   "chunk": 5
+  },
+  {
+   "claim": "C-12936",
+   "episode": 99,
+   "chunk": 5
+  },
+  {
+   "claim": "C-3928",
+   "episode": 100,
+   "chunk": 5
+  },
+  {
+   "claim": "C-3929",
+   "episode": 100,
+   "chunk": 5
+  },
+  {
+   "claim": "C-3949",
+   "episode": 101,
+   "chunk": 5
+  },
+  {
+   "claim": "C-2895",
+   "episode": 102,
+   "chunk": 5
+  },
+  {
+   "claim": "C-2903",
+   "episode": 102,
+   "chunk": 5
+  },
+  {
+   "claim": "C-13034",
+   "episode": 102,
+   "chunk": 5
+  },
+  {
+   "claim": "C-13035",
+   "episode": 102,
+   "chunk": 5
+  },
+  {
+   "claim": "C-4024",
+   "episode": 103,
+   "chunk": 5
+  },
+  {
+   "claim": "C-4063",
+   "episode": 104,
+   "chunk": 5
+  },
+  {
+   "claim": "C-4095",
+   "episode": 104,
+   "chunk": 5
+  },
+  {
+   "claim": "C-4102",
+   "episode": 104,
+   "chunk": 5
+  },
+  {
+   "claim": "C-5732",
+   "episode": 107,
+   "chunk": 5
+  },
+  {
+   "claim": "C-5741",
+   "episode": 107,
+   "chunk": 5
+  },
+  {
+   "claim": "C-5778",
+   "episode": 107,
+   "chunk": 5
+  },
+  {
+   "claim": "C-4236",
+   "episode": 108,
+   "chunk": 5
+  },
+  {
+   "claim": "C-4242",
+   "episode": 108,
+   "chunk": 5
+  },
+  {
+   "claim": "C-4243",
+   "episode": 108,
+   "chunk": 5
+  },
+  {
+   "claim": "C-4261",
+   "episode": 108,
+   "chunk": 5
+  },
+  {
+   "claim": "C-2921",
+   "episode": 110,
+   "chunk": 5
+  },
+  {
+   "claim": "C-14706",
+   "episode": 110,
+   "chunk": 5
+  },
+  {
+   "claim": "C-4345",
+   "episode": 111,
+   "chunk": 6
+  },
+  {
+   "claim": "C-4353",
+   "episode": 111,
+   "chunk": 6
+  },
+  {
+   "claim": "C-4380",
+   "episode": 111,
+   "chunk": 6
+  },
+  {
+   "claim": "C-4507",
+   "episode": 114,
+   "chunk": 6
+  },
+  {
+   "claim": "C-4543",
+   "episode": 115,
+   "chunk": 6
+  },
+  {
+   "claim": "C-4573",
+   "episode": 115,
+   "chunk": 6
+  },
+  {
+   "claim": "C-4591",
+   "episode": 115,
+   "chunk": 6
+  },
+  {
+   "claim": "C-4632",
+   "episode": 116,
+   "chunk": 6
+  },
+  {
+   "claim": "C-4659",
+   "episode": 117,
+   "chunk": 6
+  },
+  {
+   "claim": "C-4686",
+   "episode": 117,
+   "chunk": 6
+  },
+  {
+   "claim": "C-4688",
+   "episode": 117,
+   "chunk": 6
+  },
+  {
+   "claim": "C-3753",
+   "episode": 118,
+   "chunk": 6
+  },
+  {
+   "claim": "C-4835",
+   "episode": 119,
+   "chunk": 6
+  },
+  {
+   "claim": "C-2940",
+   "episode": 120,
+   "chunk": 6
+  },
+  {
+   "claim": "C-5823",
+   "episode": 120,
+   "chunk": 6
+  },
+  {
+   "claim": "C-13097",
+   "episode": 121,
+   "chunk": 6
+  },
+  {
+   "claim": "C-13114",
+   "episode": 121,
+   "chunk": 6
+  },
+  {
+   "claim": "C-8858",
+   "episode": 122,
+   "chunk": 6
+  },
+  {
+   "claim": "C-8922",
+   "episode": 122,
+   "chunk": 6
+  },
+  {
+   "claim": "C-7188",
+   "episode": 123,
+   "chunk": 6
+  },
+  {
+   "claim": "C-7191",
+   "episode": 123,
+   "chunk": 6
+  },
+  {
+   "claim": "C-7211",
+   "episode": 124,
+   "chunk": 6
+  },
+  {
+   "claim": "C-7215",
+   "episode": 124,
+   "chunk": 6
+  },
+  {
+   "claim": "C-8952",
+   "episode": 126,
+   "chunk": 6
+  },
+  {
+   "claim": "C-8961",
+   "episode": 126,
+   "chunk": 6
+  },
+  {
+   "claim": "C-8962",
+   "episode": 126,
+   "chunk": 6
+  },
+  {
+   "claim": "C-8984",
+   "episode": 126,
+   "chunk": 6
+  },
+  {
+   "claim": "C-9003",
+   "episode": 126,
+   "chunk": 6
+  },
+  {
+   "claim": "C-7300",
+   "episode": 127,
+   "chunk": 6
+  },
+  {
+   "claim": "C-7307",
+   "episode": 127,
+   "chunk": 6
+  },
+  {
+   "claim": "C-7349",
+   "episode": 127,
+   "chunk": 6
+  },
+  {
+   "claim": "C-3081",
+   "episode": 128,
+   "chunk": 6
+  },
+  {
+   "claim": "C-3129",
+   "episode": 131,
+   "chunk": 6
+  },
+  {
+   "claim": "C-13180",
+   "episode": 131,
+   "chunk": 6
+  },
+  {
+   "claim": "C-7391",
+   "episode": 133,
+   "chunk": 6
+  },
+  {
+   "claim": "C-3169",
+   "episode": 134,
+   "chunk": 6
+  },
+  {
+   "claim": "C-7412",
+   "episode": 134,
+   "chunk": 6
+  },
+  {
+   "claim": "C-7419",
+   "episode": 134,
+   "chunk": 6
+  },
+  {
+   "claim": "C-7450",
+   "episode": 134,
+   "chunk": 6
+  },
+  {
+   "claim": "C-11652",
+   "episode": 135,
+   "chunk": 6
+  },
+  {
+   "claim": "C-11669",
+   "episode": 135,
+   "chunk": 7
+  },
+  {
+   "claim": "C-11688",
+   "episode": 135,
+   "chunk": 7
+  },
+  {
+   "claim": "C-11732",
+   "episode": 136,
+   "chunk": 7
+  },
+  {
+   "claim": "C-3665",
+   "episode": 137,
+   "chunk": 7
+  },
+  {
+   "claim": "C-7497",
+   "episode": 137,
+   "chunk": 7
+  },
+  {
+   "claim": "C-7501",
+   "episode": 137,
+   "chunk": 7
+  },
+  {
+   "claim": "C-7532",
+   "episode": 137,
+   "chunk": 7
+  },
+  {
+   "claim": "C-9149",
+   "episode": 138,
+   "chunk": 7
+  },
+  {
+   "claim": "C-13204",
+   "episode": 139,
+   "chunk": 7
+  },
+  {
+   "claim": "C-13266",
+   "episode": 139,
+   "chunk": 7
+  },
+  {
+   "claim": "C-3276",
+   "episode": 140,
+   "chunk": 7
+  },
+  {
+   "claim": "C-6029",
+   "episode": 141,
+   "chunk": 7
+  },
+  {
+   "claim": "C-9183",
+   "episode": 142,
+   "chunk": 7
+  },
+  {
+   "claim": "C-3308",
+   "episode": 143,
+   "chunk": 7
+  },
+  {
+   "claim": "C-3318",
+   "episode": 144,
+   "chunk": 7
+  },
+  {
+   "claim": "C-7638",
+   "episode": 146,
+   "chunk": 7
+  },
+  {
+   "claim": "C-7661",
+   "episode": 146,
+   "chunk": 7
+  },
+  {
+   "claim": "C-3358",
+   "episode": 147,
+   "chunk": 7
+  },
+  {
+   "claim": "C-3375",
+   "episode": 147,
+   "chunk": 7
+  },
+  {
+   "claim": "C-14826",
+   "episode": 147,
+   "chunk": 7
+  },
+  {
+   "claim": "C-14971",
+   "episode": 150,
+   "chunk": 7
+  },
+  {
+   "claim": "C-10507",
+   "episode": 152,
+   "chunk": 7
+  },
+  {
+   "claim": "C-14981",
+   "episode": 153,
+   "chunk": 7
+  },
+  {
+   "claim": "C-15034",
+   "episode": 153,
+   "chunk": 7
+  },
+  {
+   "claim": "C-15040",
+   "episode": 153,
+   "chunk": 7
+  },
+  {
+   "claim": "C-15042",
+   "episode": 153,
+   "chunk": 7
+  },
+  {
+   "claim": "C-3517",
+   "episode": 155,
+   "chunk": 7
+  },
+  {
+   "claim": "C-3522",
+   "episode": 155,
+   "chunk": 7
+  },
+  {
+   "claim": "C-11873",
+   "episode": 155,
+   "chunk": 7
+  },
+  {
+   "claim": "C-11879",
+   "episode": 155,
+   "chunk": 7
+  },
+  {
+   "claim": "C-11895",
+   "episode": 155,
+   "chunk": 7
+  },
+  {
+   "claim": "C-6231",
+   "episode": 157,
+   "chunk": 7
+  },
+  {
+   "claim": "C-6271",
+   "episode": 157,
+   "chunk": 7
+  },
+  {
+   "claim": "C-6348",
+   "episode": 158,
+   "chunk": 7
+  },
+  {
+   "claim": "C-3625",
+   "episode": 160,
+   "chunk": 7
+  },
+  {
+   "claim": "C-9216",
+   "episode": 160,
+   "chunk": 7
+  },
+  {
+   "claim": "C-3686",
+   "episode": 161,
+   "chunk": 7
+  },
+  {
+   "claim": "C-10630",
+   "episode": 161,
+   "chunk": 7
+  }
+ ]
+}
