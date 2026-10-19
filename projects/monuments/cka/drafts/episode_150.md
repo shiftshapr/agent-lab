@@ -997,11 +997,11 @@ Investigative Direction: Find Erika Kirk's own telling of how she first saw Char
 
 ---
 
-**C-14966** Host Says She and Charlie Were in Israel About Two Weeks After Kanye's Tweet
+**C-14966** Host Says She and Charlie Were in Israel About Two Weeks After Visiting Kanye
 
 Claim Timestamp: 00:12:38
 
-Claim: The host says that about two weeks after Kanye West's tweet about her in 2018, she and Charlie Kirk flew out to see him and were standing in Israel.
+Claim: The host says that after Kanye West's tweet about her in 2018, she and Charlie Kirk flew out to see him, and that about two weeks after that they were standing in Israel.
 
 Transcript Snippet: We fly out to see him in just 2 weeks after that, you and I are standing in Israel.
 

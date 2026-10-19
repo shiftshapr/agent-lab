@@ -934,7 +934,7 @@ Investigative Direction: Pull original bookmark record; await release of Vanity 
 
 ---
 
-**C-3430** Alex Clark cited 2 Timothy 3:6-7 on women and false teachers
+**C-3430** Alex Clark Trailer Cites 2 Timothy 3:6-7 on Women and False Teachers
 
 Claim Timestamp: 00:30:36
 
@@ -947,7 +947,7 @@ Investigative Direction: Pull full Alex Clark episode and verify transcript agai
 
 ---
 
-**C-3431** Alex Clark asserted Christ does not forgive those who do not repent
+**C-3431** Alex Clark Trailer Speaker Says Christ Does Not Forgive Those Who Do Not Repent
 
 Claim Timestamp: 00:30:24
 
@@ -1029,7 +1029,7 @@ Investigative Direction: Compare against any public Commit 100 signup metrics or
 
 Claim Timestamp: 00:17:56–00:24:10
 
-Claim: In the displayed walking footage, the figure in the black long-sleeve shirt bends the right foot fully when descending into position, which host argues is inconsistent with concealing a full-sized firearm in a waistband or pocket on that side.
+Claim: The host says that in the walking footage the figure in the black long-sleeve shirt fully bends his right foot when going down, which she argues makes it hard to believe there is a full gun in his waistband or anywhere in his jeans.
 
 Anchored Artifacts: A-2371.1
 Related Nodes:
@@ -1041,7 +1041,7 @@ Investigative Direction: Forensically examine original footage; compare to publi
 
 Claim Timestamp: 00:14:40–00:17:56
 
-Claim: From side-profile footage, host observes the figure in the black shirt appears bulkier than the figure shown in earlier maroon-shirt imagery, raising a possible decoy hypothesis.
+Claim: From the footage, the host says the figure in the black American-flag shirt appears to her to be bulkier than Tyler Robinson, whom she calls thin, and says the footage supports her belief in multiple coordinated decoys.
 
 Anchored Artifacts: A-2371.1
 Mentions: N-40
@@ -1077,7 +1077,7 @@ Investigative Direction: Identify the source of the footage; confirm provenance;
 
 **C-3441** Host Says the Figure in the Footage Was Texting Before Walking Down the Stairs
 
-Claim Timestamp: 00:17:56
+Claim Timestamp: 00:16:55
 
 Claim: The host says the footage shows the figure standing in one spot for a long time, apparently texting on his phone, before walking down the stairs.
 
@@ -1486,7 +1486,7 @@ Claim: The host says SBI testimony shows investigators were not handed the origi
 Transcript Snippet: the accounts that came from the SBI that testified about what they were handed that they were not handed the original SD cards but were rather given uh the um thumb drives.
 
 Anchored Artifacts: A-3165.1
-Mentions: N-262
+Mentions: 
 Related Nodes: N-10810, N-10100
 Tags: relevance:core
 Investigative Direction: Read the preliminary hearing transcript for the SBI witness's description of what media was received.
@@ -1641,7 +1641,7 @@ Investigative Direction: Screenshot block evidence from affected accounts.
 
 Claim Timestamp: 00:35:21
 
-Claim: The host says her tribute video said Charlie was attending Mass and that people hoped he would become a Catholic, that she was then called a liar, and that 'you' (addressing Alex Clark and others) did a full episode asserting she lied without naming her, mentioning Andrew Kolvet.
+Claim: The host says her tribute video said Charlie was attending Mass and that people hoped he would become a Catholic, that she was then called a liar, and that 'you' (addressing Alex Clark) did a full episode with Andrew Kolvet asserting she lied without naming her.
 
 Transcript Snippet: I mentioned in a sentence that he was we were all hoping he was going to take the next step and become a Catholic that he was attending mass and then you all called me a liar
 

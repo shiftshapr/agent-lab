@@ -1534,7 +1534,7 @@ Claim: The host speculates that the charging document, which she says was signed
 Transcript Snippet: and the charging document rather, which was signed off by Brian Davis.
 
 Anchored Artifacts: 
-Mentions: N-789
+Mentions: N-789, N-125
 Related Nodes: N-10022
 Tags: relevance:core
 Investigative Direction: Pull the charging document and confirm the signing prosecutor.
@@ -1595,7 +1595,7 @@ Investigative Direction: Compare the host's earlier episodes on Mitchell with th
 
 Claim Timestamp: 00:36:06
 
-Claim: In the clip played, Hasan Piker says he cannot like her tweets because she blocked him many, many years ago, before she became his hero.
+Claim: In the clip played, Hasan Piker says he cannot like her tweets because she blocked him many, many years ago, before she became "our hero."
 
 Transcript Snippet: I can't like her tweets cuz she blocked me many, many years ago. This is before she became our hero.
 

@@ -2480,7 +2480,8 @@
       "investigative_direction": "Pull the charging document and confirm the signing prosecutor.",
       "transcript_snippet": "and the charging document rather, which was signed off by Brian Davis.",
       "mentions_person_refs": [
-        "N-789"
+        "N-789",
+        "N-125"
       ]
     },
     {
@@ -2563,7 +2564,7 @@
       "@id": "C-7575",
       "ref": "C-7575",
       "label": "Hasan Says in the Clip That Candace Blocked Him Years Ago",
-      "claim": "In the clip played, Hasan Piker says he cannot like her tweets because she blocked him many, many years ago, before she became his hero.",
+      "claim": "In the clip played, Hasan Piker says he cannot like her tweets because she blocked him many, many years ago, before she became \"our hero.\"",
       "anchored_artifacts": [
         "A-2297.1"
       ],

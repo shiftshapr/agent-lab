@@ -693,7 +693,7 @@ Investigative Direction: Obtain the full October 6, 2025 article from its origin
 
 Claim Timestamp: 00:08:27
 
-Claim: The host calls the Mappins' article "so powerful to reflect on and to reread," and separately says John Mappin described to her what he saw as a "black propaganda campaign" against her.
+Claim: The host calls the Mappins' article "so powerful to reflect on and to reread."
 
 Anchored Artifacts: A-2311.1
 Mentions: N-3, N-155, N-156
@@ -766,7 +766,7 @@ Investigative Direction: Compare the NCRI report publication date to the court d
 
 ---
 
-**C-3333** Data Republican Posted X Thread Alleging Host Creates Permission Structure for Violence Against Erika Kirk
+**C-3333** Data Republican Posted X Thread Arguing Host's Audience Will Eventually Want to Kill Erika Kirk
 
 Claim Timestamp: 00:30:13
 
@@ -796,7 +796,7 @@ Investigative Direction: Retrieve the original Kolvet post; verify timestamp and
 
 Claim Timestamp: 00:31:33
 
-Claim: Bill Ackman publicly promoted Data Republican's content about Charlie Kirk and the host on X.
+Claim: Per Bill Ackman's post the host shows, Ackman promoted Data Republican's thread three days later as "an important read on Charlie Kirk and Candace Owens."
 
 Anchored Artifacts: A-2316.1
 Mentions: N-1, N-37, N-282, N-3

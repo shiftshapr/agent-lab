@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-19T17:07:04Z",
+  "generated_at": "2026-10-19T17:25:06Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -4858,7 +4858,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10527",
-      "label": "Host Says Michael George Carl Signed the First Warrants at About 3:19 pm, 34 Minutes After the Death Announcement",
+      "label": "Host Says Michael George Carl Signed the First Warrants at About 3:19 pm",
       "node_kind": "claim",
       "episode": 152
     },
@@ -4872,7 +4872,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10529",
-      "label": "Host Says Carl's Warrants Also Covered George Zinn's Phone and Charlie's Belongings at Tempogo",
+      "label": "Host Says Carl's Warrants Also Covered George Zinn's Phone and Charlie's Belongings at Timpanogos",
       "node_kind": "claim",
       "episode": 152
     },
@@ -10976,7 +10976,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11378",
-      "label": "Kolvet Cites Savannah Hernandez Minneapolis Incident and Says Cancellation Was a First for TPUSA",
+      "label": "Kolvet Cites Savanah Hernandez Minneapolis Incident and Says Cancellation Was a First for TPUSA",
       "node_kind": "claim",
       "episode": 92
     },
@@ -14623,7 +14623,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11851",
-      "label": "Host Says She Will Be Away About Eight Weeks With Baron Coleman Taking Over",
+      "label": "Host Jokes TPUSA Was Excited She Would Be Gone About Eight Weeks",
       "node_kind": "claim",
       "episode": 154
     },
@@ -37415,7 +37415,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14812",
-      "label": "Host Says Danny Phillip Drove the Second Denali With Blake Neff in the Back Seat",
+      "label": "Host Says Danny Philip Drove the Second Denali With Blake Neff in the Back Seat",
       "node_kind": "claim",
       "episode": 147
     },
@@ -37492,7 +37492,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14822",
-      "label": "Host Says Blake Neff Leaves Danny Phillip Out of His Account of the Day",
+      "label": "Host Says Blake Neff Leaves Danny Philip Out of His Account of the Day",
       "node_kind": "claim",
       "episode": 147
     },
@@ -37513,7 +37513,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14825",
-      "label": "Host Says Nate Walker, Blake Neff, Danny Phillip and Mikey McCoy Arrived at the Hospital",
+      "label": "Host Says Nate Walker, Blake Neff, Danny Philip and Mikey McCoy Arrived at the Hospital",
       "node_kind": "claim",
       "episode": 147
     },
@@ -37555,7 +37555,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14830",
-      "label": "Host Says Neff and Phillip Had a Big SUV That Was Rented",
+      "label": "Host Says Neff and Philip Had a Big SUV That Was Rented",
       "node_kind": "claim",
       "episode": 147
     },
@@ -37870,7 +37870,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14871",
-      "label": "Host Says Kolvet Gave Tulsi Gabbard's Office a Lie About Charlie's Israel Position",
+      "label": "Host Says Kolvet Gave Tulsi Gabbard's Office Information After Charlie's Death",
       "node_kind": "claim",
       "episode": 149
     },
@@ -38591,7 +38591,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14966",
-      "label": "Host Says She and Charlie Were in Israel About Two Weeks After Kanye's Tweet",
+      "label": "Host Says She and Charlie Were in Israel About Two Weeks After Visiting Kanye",
       "node_kind": "claim",
       "episode": 150
     },
@@ -51919,7 +51919,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3333",
-      "label": "Data Republican Posted X Thread Alleging Host Creates Permission Structure for Violence Against Erika Kirk",
+      "label": "Data Republican Posted X Thread Arguing Host's Audience Will Eventually Want to Kill Erika Kirk",
       "node_kind": "claim",
       "episode": 145
     },
@@ -52059,7 +52059,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3353",
-      "label": "Butch Hibbs is 74 years old and was in a plaid shirt at the UVU event",
+      "label": "Host Says Butch Hibbs Is 74 Years Old",
       "node_kind": "claim",
       "episode": 146
     },
@@ -52143,7 +52143,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3365",
-      "label": "Mikey McCoy and Danny Phillip met in a coordinated manner at Kirk's vehicle",
+      "label": "Host Says Mikey McCoy and Danny Philip Met in a Coordinated Manner at Kirk's Vehicle",
       "node_kind": "claim",
       "episode": 147
     },
@@ -52598,14 +52598,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3430",
-      "label": "Alex Clark cited 2 Timothy 3:6-7 on women and false teachers",
+      "label": "Alex Clark Trailer Cites 2 Timothy 3:6-7 on Women and False Teachers",
       "node_kind": "claim",
       "episode": 151
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3431",
-      "label": "Alex Clark asserted Christ does not forgive those who do not repent",
+      "label": "Alex Clark Trailer Speaker Says Christ Does Not Forgive Those Who Do Not Repent",
       "node_kind": "claim",
       "episode": 151
     },
@@ -52808,7 +52808,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3460",
-      "label": "Multiple TPUSA-adjacent individuals and entities share documented connections to trafficking / child sex abuse cases",
+      "label": "Host Lists TPUSA-Adjacent Figures She Connects to Trafficking and Child Sex Abuse",
       "node_kind": "claim",
       "episode": 152
     },
@@ -53172,7 +53172,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3513",
-      "label": "Neff/Boring Joint Podcast Announced via Promotional Materials",
+      "label": "Neff/Boreing Joint Podcast Announced via Promotional Materials",
       "node_kind": "claim",
       "episode": 155
     },
@@ -53333,7 +53333,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3536",
-      "label": "Officer Go Forth's testimony referenced a partial license-plate match process",
+      "label": "Officer Goforth's Testimony Referenced a Partial License-Plate Match Process",
       "node_kind": "claim",
       "episode": 156
     },
@@ -53473,7 +53473,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3556",
-      "label": "Host Says Brian Harpole Is Seen Holding a Jacket and a Brown Bag at the UVU Return",
+      "label": "Host Says Brian Harpole Is Seen Holding a Jacket at the UVU Return",
       "node_kind": "claim",
       "episode": 149
     },
@@ -53816,7 +53816,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3606",
-      "label": "Bill Ackman amplified the smear package and later deleted related posts",
+      "label": "Bill Ackman Amplified the Smear Package and Later Deleted the Tweet",
       "node_kind": "claim",
       "episode": 158
     },
@@ -53865,7 +53865,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3613",
-      "label": "Brian Cole Jr.’s J6 pipe-bomb confession was coerced from an autistic suspect",
+      "label": "Host Says Brian Cole Jr.'s J6 Pipe-Bomb Confession Was Coerced From an Autistic Suspect",
       "node_kind": "claim",
       "episode": 159
     },
@@ -53963,7 +53963,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3627",
-      "label": "Andre told BBC he found 2018 Lutnick-Epstein startup email chain",
+      "label": "Andriesz Told BBC He Found 2018 Lutnick-Epstein Startup Email Chain",
       "node_kind": "claim",
       "episode": 160
     },
@@ -71386,7 +71386,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6116",
-      "label": "Podcast Speaker Relays Birkhart: Defense Would Present Exculpatory Evidence",
+      "label": "Podcast Speaker Relays Burkhart: Defense Would Present Exculpatory Evidence",
       "node_kind": "claim",
       "episode": 144
     },
@@ -71484,14 +71484,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6130",
-      "label": "Neff Says He Tweeted That Her Foundational Lie Is Friendship With Charlie",
+      "label": "Kolvet Says He Tweeted That Her Foundational Lie Is Friendship With Charlie",
       "node_kind": "claim",
       "episode": 144
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6131",
-      "label": "Neff Says They Were Friends in 2018 and Part of 2019 but It Ended Badly",
+      "label": "Kolvet Says They Were Friends in 2018 and Part of 2019 but It Ended Badly",
       "node_kind": "claim",
       "episode": 144
     },
@@ -71778,7 +71778,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6172",
-      "label": "UVU engaged the Lake Force Group almost immediately for a broad security review",
+      "label": "UVU engaged the Lake Forest Group almost immediately for a broad security review",
       "node_kind": "claim",
       "episode": 157
     },
@@ -71946,7 +71946,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6196",
-      "label": "Review: UVU President Tumz requested event planning updates on August 31",
+      "label": "Review: UVU President Tuminez requested event planning updates on August 31",
       "node_kind": "claim",
       "episode": 157
     },
@@ -72835,7 +72835,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6323",
-      "label": "Host Says Headlines Claimed She Is Banned From Australia for Hatred Toward Jews",
+      "label": "Host Says She Is Banned From Australia for Alleged Hatred Toward Jews",
       "node_kind": "claim",
       "episode": 158
     },
@@ -81830,7 +81830,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7608",
-      "label": "Host Says Online Speculation Held Butch Hibbs Was Undercover and Carried a Road Microphone",
+      "label": "Host Says Online Speculation Held Butch Hibbs Was Undercover and Carried a Rode Microphone",
       "node_kind": "claim",
       "episode": 146
     },
@@ -82187,7 +82187,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7659",
-      "label": "Host Says Officers Baggley and Hull Could Relay What They Were Told About Robinson's Vehicle and Plates",
+      "label": "Host Says Officers Bagley and Hull Could Relay What They Were Told About Robinson's Vehicle and Plates",
       "node_kind": "claim",
       "episode": 146
     },
@@ -93324,7 +93324,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9250",
-      "label": "Host speculates the files would show an Mossad network of women under MK Ultra programming",
+      "label": "Host Speculates the Files Would Show a Mossad Network of Women Under MK Ultra Programming",
       "node_kind": "claim",
       "episode": 160
     },
@@ -121933,7 +121933,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2406.1",
-      "label": "Audio clip of Bobby Sausalito delivering pre-release predictions about the Neff/Boring podcast, played on air",
+      "label": "Audio clip of Bobby Sausalito delivering pre-release predictions about the Neff/Boreing podcast, played on air",
       "node_kind": "artifact",
       "episode": 155
     },
@@ -121947,7 +121947,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2407.1",
-      "label": "Promo clip distributed by the Neff/Boring podcast, containing on-camera statements by Neff about Candace Owens, Tucker Carlson, Erika Kirk, and Turning Point USA",
+      "label": "Promo clip distributed by the Neff/Boreing podcast, containing on-camera statements by Neff about Candace Owens, Tucker Carlson, Erika Kirk, and Turning Point USA",
       "node_kind": "artifact",
       "episode": 155
     },
@@ -122395,7 +122395,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2433.2",
-      "label": "New York Post article: \"Utah restaurant tour claims that Tyler Robinson stopped in after Charlie Kirk killing reveals what the alleged assassin ordered\"",
+      "label": "New York Post article: \"Utah restaurateur claims that Tyler Robinson stopped in after Charlie Kirk killing reveals what the alleged assassin ordered\"",
       "node_kind": "artifact",
       "episode": 149
     },
@@ -122717,7 +122717,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2451",
-      "label": "UVU Independent Review (Lake Force) Bundle",
+      "label": "UVU Independent Review (Lake Forest Group) Bundle",
       "node_kind": "artifact",
       "episode": 157
     },

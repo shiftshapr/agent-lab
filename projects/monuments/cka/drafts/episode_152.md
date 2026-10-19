@@ -1227,7 +1227,7 @@ Investigative Direction: Locate primary reporting on the lobbying / cancellation
 
 ---
 
-**C-3460** Multiple TPUSA-adjacent individuals and entities share documented connections to trafficking / child sex abuse cases
+**C-3460** Host Lists TPUSA-Adjacent Figures She Connects to Trafficking and Child Sex Abuse
 
 Claim Timestamp: 00:03:34–00:08:18
 
@@ -1280,7 +1280,7 @@ Investigative Direction: Verify via Bagley's body cam records disclosed in preli
 
 Claim Timestamp: 00:12:41
 
-Claim: The host says George Zinn was sentenced for child sex crimes following his arrest in the immediate aftermath of the September 10 event.
+Claim: The host says George Zinn, who she says shouted "I did it" in the immediate aftermath of the September 10 explosive, was sentenced for child sex crimes after his arrest.
 
 Anchored Artifacts: None visible in this episode
 Mentions: N-42
@@ -1314,7 +1314,7 @@ Investigative Direction: Treat as framing premise – testable only via underlyi
 
 Claim Timestamp: 00:03:34
 
-Claim: The host says she recognized early that people working with and around the figures in the Kirk story are tied to charities connected to Eastern Europe, from Erika Kirk and Romanian Angels to the pastors placed around Charlie, and she walks through a spreadsheet of them.
+Claim: The host says she recognized early a recurring human trafficking theme of people working with and around charities particularly tied to Eastern Europe, from Erika Kirk and her Romanian Angels to the pastors placed around Charlie, and she walks through a spreadsheet of them.
 
 Transcript Snippet: I recognized early on this weird recurring theme regarding human trafficking, right? People working with and around charities that are particularly tied to Eastern Europe
 
@@ -1431,7 +1431,7 @@ Transcript Snippet: Glenn Beck, his daughters were there. Um he was very much in
 
 Anchored Artifacts: A-2382.1
 Mentions: N-238
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Confirm from event footage, attendance records or Beck's own statements who from his family attended and what his September 10 media activity was.
 
 ---
@@ -1734,7 +1734,7 @@ Investigative Direction: Establish the official time of death announcement from 
 
 ---
 
-**C-10527** Host Says Michael George Carl Signed the First Warrants at About 3:19 pm, 34 Minutes After the Death Announcement
+**C-10527** Host Says Michael George Carl Signed the First Warrants at About 3:19 pm
 
 Claim Timestamp: 00:15:26
 
@@ -1768,13 +1768,13 @@ Investigative Direction: Obtain each warrant and return from the Utah courts and
 
 ---
 
-**C-10529** Host Says Carl's Warrants Also Covered George Zinn's Phone and Charlie's Belongings at Tempogo
+**C-10529** Host Says Carl's Warrants Also Covered George Zinn's Phone and Charlie's Belongings at Timpanogos
 
 Claim Timestamp: 00:15:26
 
-Claim: The host says Carl also signed warrants for George Zinn's phone and for Charlie's belongings at Tempogo, and ties this to the question of where Charlie's belongings went.
+Claim: The host says Carl also signed warrants for George Zinn's phone and for Charlie's belongings at Timpanogos, and ties this to the question of where Charlie's belongings went.
 
-Transcript Snippet: George Zinn's phone. Uh, Charlie's belongings at Tempogo. So, we've been talking about, uh, where are Charlie's belongings?
+Transcript Snippet: George Zinn's phone. Uh, Charlie's belongings at Timpanogos. So, we've been talking about, uh, where are Charlie's belongings?
 
 Anchored Artifacts: A-2378.1
 Mentions: N-868, N-42, N-1
@@ -2476,7 +2476,7 @@ Investigative Direction: Identify the three openers and the dates and wording of
 
 **C-10574** Host Says Ed Sheeran's Tour Has Only Three Stops Left
 
-Claim Timestamp: 00:48:56
+Claim Timestamp: 00:50:07
 
 Claim: The host says she thinks there are only three tour stops left on Ed Sheeran's tour and calls on listeners to skip them if he goes ahead.
 
@@ -2673,7 +2673,7 @@ Investigative Direction: A private recollection; confirm via the interview itsel
 
 **C-10587** Host Says She and Tatum Disagree on Turning Point USA and Erika but Remain Friends
 
-Claim Timestamp: 01:01:00
+Claim Timestamp: 01:00:18
 
 Claim: The host says she and Tatum disagree on Turning Point USA and on Erika, that Tatum is authentic in his belief about Erika, and that she expressed her contrary thoughts but it was not a major theme of their call.
 

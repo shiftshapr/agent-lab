@@ -2293,7 +2293,7 @@
       "@type": "Claim",
       "@id": "C-3460",
       "ref": "C-3460",
-      "label": "Multiple TPUSA-adjacent individuals and entities share documented connections to trafficking / child sex abuse cases",
+      "label": "Host Lists TPUSA-Adjacent Figures She Connects to Trafficking and Child Sex Abuse",
       "claim": "The episode displays a spreadsheet and host narration enumerating over fifteen individuals / entities linked to TPUSA or Erika Kirk's circle whom the host connects to trafficking, child sex abuse investigations, or related operations.",
       "anchored_artifacts": [
         "A-2382.1"
@@ -2345,7 +2345,7 @@
       "@id": "C-3463",
       "ref": "C-3463",
       "label": "Host Says George Zinn Was Sentenced for Child Sex Crimes After His Arrest",
-      "claim": "The host says George Zinn was sentenced for child sex crimes following his arrest in the immediate aftermath of the September 10 event.",
+      "claim": "The host says George Zinn, who she says shouted \"I did it\" in the immediate aftermath of the September 10 explosive, was sentenced for child sex crimes after his arrest.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2378,7 +2378,7 @@
       "@id": "C-10500",
       "ref": "C-10500",
       "label": "Host Says She Spotted a Recurring Trafficking Theme Tied to Eastern Europe Charities Early On",
-      "claim": "The host says she recognized early that people working with and around the figures in the Kirk story are tied to charities connected to Eastern Europe, from Erika Kirk and Romanian Angels to the pastors placed around Charlie, and she walks through a spreadsheet of them.",
+      "claim": "The host says she recognized early a recurring human trafficking theme of people working with and around charities particularly tied to Eastern Europe, from Erika Kirk and her Romanian Angels to the pastors placed around Charlie, and she walks through a spreadsheet of them.",
       "anchored_artifacts": [
         "A-2382.1"
       ],
@@ -2539,7 +2539,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:06:14",
       "investigative_direction": "Confirm from event footage, attendance records or Beck's own statements who from his family attended and what his September 10 media activity was.",
@@ -2956,7 +2956,7 @@
       "@type": "Claim",
       "@id": "C-10527",
       "ref": "C-10527",
-      "label": "Host Says Michael George Carl Signed the First Warrants at About 3:19 pm, 34 Minutes After the Death Announcement",
+      "label": "Host Says Michael George Carl Signed the First Warrants at About 3:19 pm",
       "claim": "The host says Michael George Carl signed off on the first warrants at about 3:19 p.m., so he had them ready to go.",
       "anchored_artifacts": [
         "A-2378.1"
@@ -3007,8 +3007,8 @@
       "@type": "Claim",
       "@id": "C-10529",
       "ref": "C-10529",
-      "label": "Host Says Carl's Warrants Also Covered George Zinn's Phone and Charlie's Belongings at Tempogo",
-      "claim": "The host says Carl also signed warrants for George Zinn's phone and for Charlie's belongings at Tempogo, and ties this to the question of where Charlie's belongings went.",
+      "label": "Host Says Carl's Warrants Also Covered George Zinn's Phone and Charlie's Belongings at Timpanogos",
+      "claim": "The host says Carl also signed warrants for George Zinn's phone and for Charlie's belongings at Timpanogos, and ties this to the question of where Charlie's belongings went.",
       "anchored_artifacts": [
         "A-2378.1"
       ],
@@ -3018,7 +3018,7 @@
       ],
       "claim_timestamp": "00:15:26",
       "investigative_direction": "Locate the warrant covering Charlie's belongings and the inventory of what was seized and where it is held.",
-      "transcript_snippet": "George Zinn's phone. Uh, Charlie's belongings at Tempogo. So, we've been talking about, uh, where are Charlie's belongings?",
+      "transcript_snippet": "George Zinn's phone. Uh, Charlie's belongings at Timpanogos. So, we've been talking about, uh, where are Charlie's belongings?",
       "supports_claim_refs": [
         "C-3450"
       ],
@@ -3961,7 +3961,7 @@
       "tags": [
         "relevance:tangential"
       ],
-      "claim_timestamp": "00:48:56",
+      "claim_timestamp": "00:50:07",
       "investigative_direction": "Check the official tour schedule.",
       "transcript_snippet": "I think there's only three um tour stops left.",
       "mentions_person_refs": [
@@ -4219,7 +4219,7 @@
       "tags": [
         "relevance:context"
       ],
-      "claim_timestamp": "01:01:00",
+      "claim_timestamp": "01:00:18",
       "investigative_direction": "Compare with Tatum's own public statements on Erika.",
       "transcript_snippet": "We disagree on Turning Point USA. We disagree on Erika.",
       "mentions_person_refs": [

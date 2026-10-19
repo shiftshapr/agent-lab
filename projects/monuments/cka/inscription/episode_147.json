@@ -138,7 +138,7 @@
       "@id": "A-2330",
       "family_ref": "A-2330",
       "bundle_name": "Vehicle Positioning Diagram (UVU 9/10)",
-      "description": "AI-generated diagram shown to illustrate the arrangement of five relevant vehicles on the UVU lot on September 10, including two security vehicles on the left, two Yukon Denalis in the middle (one carrying Charlie Kirk, one carrying Danny Phillip and Blake Neff), and a Hyundai Palisade on the far right (TPUSA vehicle).",
+      "description": "AI-generated diagram shown to illustrate the arrangement of five relevant vehicles on the UVU lot on September 10, including two security vehicles on the left, two Yukon Denalis in the middle (one carrying Charlie Kirk, one carrying Danny Philip and Blake Neff), and a Hyundai Palisade on the far right (TPUSA vehicle).",
       "related_claims": [
         "C-3371",
         "C-3372"
@@ -731,7 +731,7 @@
       "ref": "N-368",
       "name": "Danny Philip",
       "type": "person",
-      "description": "Footage discussed by the host shows Danny Phillip running, meeting and ducking down with Mikey McCoy in front of Kirk's vehicle.",
+      "description": "Footage discussed by the host shows Danny Philip running, meeting and ducking down with Mikey McCoy in front of Kirk's vehicle.",
       "related_artifacts": [
         "A-2329.2"
       ],
@@ -1647,7 +1647,8 @@
       "claim_timestamp": "00:04:11",
       "investigative_direction": "Determine whether the defense preserved this issue for trial and whether a motion to reconsider or to dismiss post-bindover was filed.",
       "mentions_person_refs": [
-        "N-40"
+        "N-40",
+        "N-54"
       ]
     },
     {
@@ -1708,8 +1709,8 @@
       "@type": "Claim",
       "@id": "C-3365",
       "ref": "C-3365",
-      "label": "Mikey McCoy and Danny Phillip met in a coordinated manner at Kirk's vehicle",
-      "claim": "Footage shows Mikey McCoy and Danny Phillip running, meeting, and \"ducking down\" together in front of Kirk's vehicle, in what the host characterizes as a coordinated sequence.",
+      "label": "Host Says Mikey McCoy and Danny Philip Met in a Coordinated Manner at Kirk's Vehicle",
+      "claim": "The host says footage she shows has Mikey McCoy and Danny Philip running, meeting, and \"ducking down\" together with Justin Davis in front of Kirk's vehicle, in what she characterizes as a coordinated sequence.",
       "anchored_artifacts": [
         "A-2329.2"
       ],
@@ -1822,7 +1823,7 @@
       "@id": "C-3371",
       "ref": "C-3371",
       "label": "Host Says Sources Told Her Three Security Vehicles Were Not Driven to the Hospital",
-      "claim": "The host says, citing \"sources with direct knowledge,\" that the three security vehicles (the lead Jeep Wagoneer, the Lincoln Navigator, and the second Yukon Denali) were not driven to the hospital.",
+      "claim": "The host says, citing \"sources with direct knowledge,\" that Danny Philip and Blake Neff's Denali was not driven to the hospital, and says that all three security vehicles (the lead Jeep Wagoneer, the Lincoln Navigator, and the second Yukon Denali) were left behind.",
       "anchored_artifacts": [
         "A-2330"
       ],
@@ -1935,7 +1936,7 @@
       "@id": "C-3377",
       "ref": "C-3377",
       "label": "Graham Allen X post accused defense counsel of attacking Charlie Kirk in court",
-      "claim": "Graham Allen posted on X: \"Are you kidding me? Are you kidding me? Tyler Robin's defense attorney attacked Charlie Kirk in court. This man is a lunatic.\"",
+      "claim": "Graham Allen posted on X: \"Are you kidding me? Are you kidding me? Tyler Robinson's defense attorney attacked Charlie Kirk in court. This man is a lunatic.\"",
       "anchored_artifacts": [
         "A-2334"
       ],
@@ -1946,7 +1947,9 @@
       "claim_timestamp": "00:40:36",
       "investigative_direction": "Confirm the post remains on X; verify timestamp.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-40",
+        "N-609"
       ]
     },
     {
@@ -2341,7 +2344,8 @@
       ],
       "mentions_person_refs": [
         "N-40",
-        "N-3"
+        "N-3",
+        "N-778"
       ]
     },
     {
@@ -2365,7 +2369,8 @@
       ],
       "mentions_person_refs": [
         "N-40",
-        "N-3"
+        "N-3",
+        "N-778"
       ]
     },
     {
@@ -2455,7 +2460,8 @@
       ],
       "mentions_person_refs": [
         "N-40",
-        "N-3"
+        "N-3",
+        "N-778"
       ]
     },
     {
@@ -2645,8 +2651,8 @@
       "@type": "Claim",
       "@id": "C-14812",
       "ref": "C-14812",
-      "label": "Host Says Danny Phillip Drove the Second Denali With Blake Neff in the Back Seat",
-      "claim": "The host says the second Denali was driven by Danny Phillip with Blake Neff in the back seat, not the front passenger seat.",
+      "label": "Host Says Danny Philip Drove the Second Denali With Blake Neff in the Back Seat",
+      "claim": "The host says the second Denali was driven by Danny Philip with Blake Neff in the back seat, not the front passenger seat.",
       "anchored_artifacts": [
         "A-2330"
       ],
@@ -2659,7 +2665,7 @@
       ],
       "claim_timestamp": "00:14:20",
       "investigative_direction": "Confirm seating from arrival video and from Neff's and Phillip's testimony.",
-      "transcript_snippet": "when they pull up, you have Danny Phillip driving, and you have Blake Neff in the back seat.",
+      "transcript_snippet": "when they pull up, you have Danny Philip driving, and you have Blake Neff in the back seat.",
       "mentions_person_refs": [
         "N-368",
         "N-160"
@@ -2868,8 +2874,8 @@
       "@type": "Claim",
       "@id": "C-14822",
       "ref": "C-14822",
-      "label": "Host Says Blake Neff Leaves Danny Phillip Out of His Account of the Day",
-      "claim": "The host says that when Blake Neff tells the story of what happened he mysteriously keeps leaving Danny Phillip out, despite footage showing Danny running with Mikey while Blake is ahead.",
+      "label": "Host Says Blake Neff Leaves Danny Philip Out of His Account of the Day",
+      "claim": "The host says that when Blake Neff tells the story of what happened he mysteriously keeps leaving Danny Philip out, despite footage showing Danny running with Mikey while Blake is ahead.",
       "anchored_artifacts": [
         "A-2329.2"
       ],
@@ -2912,7 +2918,7 @@
       "@id": "C-14824",
       "ref": "C-14824",
       "label": "Host Says Mikey McCoy as Chief of Staff Was Tasked With Updating Erika Kirk",
-      "claim": "The host says that, as told on air by Blake Neff's account, Mikey McCoy as Kirk's chief of staff was tasked with giving updates to Kirk's wife.",
+      "claim": "The host says that, as she says they were told, Mikey McCoy as Kirk's chief of staff was tasked with giving updates to Kirk's wife.",
       "anchored_artifacts": [
         "A-2338"
       ],
@@ -2937,8 +2943,8 @@
       "@type": "Claim",
       "@id": "C-14825",
       "ref": "C-14825",
-      "label": "Host Says Nate Walker, Blake Neff, Danny Phillip and Mikey McCoy Arrived at the Hospital",
-      "claim": "The host says it is known that Nate Walker, Blake Neff, Danny Phillip and Mikey McCoy were the four who arrived at the hospital.",
+      "label": "Host Says Nate Walker, Blake Neff, Danny Philip and Mikey McCoy Arrived at the Hospital",
+      "claim": "The host says it is known that Nate Walker, Blake Neff, Danny Philip and Mikey McCoy were the four who arrived at the hospital.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10823",
@@ -2949,7 +2955,7 @@
       ],
       "claim_timestamp": "00:27:40",
       "investigative_direction": "Pull hospital arrival footage and testimony to confirm who arrived and in what vehicle.",
-      "transcript_snippet": "We know that it's going to be Nate Walker and Blake and Danny Phillip and Mikey McCoy that arrived to the hospital.",
+      "transcript_snippet": "We know that it's going to be Nate Walker and Blake and Danny Philip and Mikey McCoy that arrived to the hospital.",
       "mentions_person_refs": [
         "N-505",
         "N-160",
@@ -3024,7 +3030,8 @@
       "transcript_snippet": "I pull out my phone and I call my mom just to say Mom, there's been a a shooting you're going to see it on the news.",
       "mentions_person_refs": [
         "N-160",
-        "N-191"
+        "N-191",
+        "N-2"
       ]
     },
     {
@@ -3055,8 +3062,8 @@
       "@type": "Claim",
       "@id": "C-14830",
       "ref": "C-14830",
-      "label": "Host Says Neff and Phillip Had a Big SUV That Was Rented",
-      "claim": "The host says the SUV that Blake Neff and Danny Phillip used was a big SUV that had been rented, and asks why it was not taken to the hospital.",
+      "label": "Host Says Neff and Philip Had a Big SUV That Was Rented",
+      "claim": "The host says the SUV that Blake Neff and Danny Philip used was a big SUV that had been rented, and asks why it was not taken to the hospital.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10823"
@@ -3438,7 +3445,7 @@
       "@id": "C-14847",
       "ref": "C-14847",
       "label": "Host Says It Is Known the Person Facing Death Is Not the Individual Who Murdered Charlie",
-      "claim": "The host says that if a person is put to death, everyone knows that person is not involved or at least not the individual who murdered Charlie, and this would cause an awakening.",
+      "claim": "The host says that if a person is put to death, everyone knows that person is not involved or at least not the individual who murdered Charlie, and that she believes this would cause an awakening.",
       "anchored_artifacts": [
         "A-2340"
       ],
@@ -3682,7 +3689,7 @@
           "video_timestamp": "00:23:27",
           "speaker_node_ref": "N-3",
           "quote": "He always develops Danny Philip amnesia in particular.",
-          "context": "Host says Neff leaves Danny Phillip out of his accounts.",
+          "context": "Host says Neff leaves Danny Philip out of his accounts.",
           "confidence": "high",
           "tags": [
             "blake_neff",

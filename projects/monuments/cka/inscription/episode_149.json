@@ -301,7 +301,7 @@
           "@type": "Artifact",
           "@id": "A-2433.2",
           "ref": "A-2433.2",
-          "description": "New York Post article: \"Utah restaurant tour claims that Tyler Robinson stopped in after Charlie Kirk killing reveals what the alleged assassin ordered\"",
+          "description": "New York Post article: \"Utah restaurateur claims that Tyler Robinson stopped in after Charlie Kirk killing reveals what the alleged assassin ordered\"",
           "related_claims": [],
           "related_nodes": [],
           "tags": [],
@@ -1930,7 +1930,7 @@
       "@id": "C-3549",
       "ref": "C-3549",
       "label": "Hospital parking lot eyewitness describes a man exiting the rear hatch of the SUV",
-      "claim": "A witness who posted his account in September 2025 describes seeing a man in a white hat exit the rear hatch (not the back seat) of the SUV upon hospital arrival, with a bald driver exiting the front.",
+      "claim": "In a clip the host plays, a witness who the host thinks posted his account back in September 2025 describes seeing a man in a white hat exit the rear hatch (not the back seat) of the SUV upon hospital arrival, with a bald driver exiting the front.",
       "anchored_artifacts": [
         "A-2431.1"
       ],
@@ -2050,8 +2050,8 @@
       "@type": "Claim",
       "@id": "C-3556",
       "ref": "C-3556",
-      "label": "Host Says Brian Harpole Is Seen Holding a Jacket and a Brown Bag at the UVU Return",
-      "claim": "The host says footage shows Brian Harpole holding what appears to be a jacket, possibly Charlie's, along with a brown bag, and she believes the other team members' brown bags hold their clothes.",
+      "label": "Host Says Brian Harpole Is Seen Holding a Jacket at the UVU Return",
+      "claim": "The host says footage shows Brian Harpole holding a jacket that could be Charlie's, and that the team members all have brown bags which she believes hold their clothes.",
       "anchored_artifacts": [
         "A-2432.3"
       ],
@@ -2202,7 +2202,7 @@
       "@id": "C-3565",
       "ref": "C-3565",
       "label": "The New York Post covered the Cowboy Smokehouse story",
-      "claim": "The New York Post published an article titled along the lines of \"Utah restaurant tour claims that Tyler Robinson stopped in after Charlie Kirk killing reveals what the alleged assassin ordered.\"",
+      "claim": "Per the New York Post article the host shows, headlined along the lines of \"Utah restaurateur claims Tyler Robinson stopped in after Charlie Kirk killing, reveals what the alleged assassin ordered.\"",
       "anchored_artifacts": [
         "A-2433.2"
       ],
@@ -2210,7 +2210,7 @@
         "N-10898"
       ],
       "tags": [],
-      "claim_timestamp": "00:32:09",
+      "claim_timestamp": "00:31:38",
       "investigative_direction": "Retrieve the original article from the New York Post archive; verify URL and publication date.",
       "mentions_person_refs": [
         "N-40",
@@ -2658,8 +2658,8 @@
       "@type": "Claim",
       "@id": "C-14871",
       "ref": "C-14871",
-      "label": "Host Says Kolvet Gave Tulsi Gabbard's Office a Lie About Charlie's Israel Position",
-      "claim": "The host says Andrew Kolvet felt the need to lie to Tulsi Gabbard's office after Charlie's death about his changing views on Israel.",
+      "label": "Host Says Kolvet Gave Tulsi Gabbard's Office Information After Charlie's Death",
+      "claim": "The host says Charlie's announcement that he was abandoning the pro-Israel cause was something Andrew Kolvet \"felt the need to give Tulsi Gabbard's office following his death.\"",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3940,7 +3940,7 @@
       "@id": "C-14931",
       "ref": "C-14931",
       "label": "Host Says the Hospital-Lobby Remark Implies the Team Were Not Open to a Conspiracy",
-      "claim": "Responding to a viewer comment saying Blake said in the hospital lobby that Candace would figure this out, the host says that means they had full confidence it was not a conspiracy right after learning Charlie had died, which she finds strange.",
+      "claim": "Responding to a viewer comment saying that what Blake meant in the hospital lobby was that Candace would figure this out, the host says that means they had full confidence it was not a conspiracy right after learning Charlie had died, which she finds strange.",
       "anchored_artifacts": [
         "A-2434.1"
       ],

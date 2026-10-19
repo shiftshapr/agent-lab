@@ -24,7 +24,7 @@
 
 ## 2. Executive Summary
 
-This episode centers on the newly published Vanity Fair profile of Erika Kirk (CEO/chair of Turning Point USA) by writer Clara Molot, which the host reads as an unintentionally devastating portrait of a “widow narrative” and “heaven-focused” CEO who grants months of intimate access while refusing basic political questions–contrasted with TPUSA’s non-participation in the UVU Lake Force independent review. The host walks headline photography, faith-hybrid language, Israel/BB bandwidth refusals, preserved-office shrine claims versus Mikey McCoy’s early use of Charlie’s spaces, and the night-of-assassination Aloe Yoga clothing directive (Erika ordering plain black clothes after rejecting a “heaven is my home” shirt for Air Force 2 optics). The piece is framed as vindicating prior host claims: TPUSA leak-paranoia / Candace-obsession (Tucker Carlson quoted advising Andrew Kolvet not to focus on Candace), the Monday-after will-signing appointment (Doug DeGroote), Erika’s privately more anti-Israel posture than Charlie’s (per Carlson) versus public silence, and board vote elevating Erika within ~48 hours. After a break, the host overlays post–UVU-review smear escalation: Daily Mail “Candace in crisis” copy, then a narrative flip from “jealous of Erika / antisemitic” to a fabricated “cheating lesbian / secret Zionist (husband George / Hebrew study)” package built from a real 2008 college Adderall-epidemic journalism final whose YouTube page was first archived July 9, 2025 (same window as Netanyahu-in-DC and the July 10 UVU courtyard ask), with Bill Ackman amplifying the smear. Closing comments restate UVU-review vindication themes and tease Yrefy / contract material for the next show.
+This episode centers on the newly published Vanity Fair profile of Erika Kirk (CEO/chair of Turning Point USA) by writer Clara Molot, which the host reads as an unintentionally devastating portrait of a “widow narrative” and “heaven-focused” CEO who grants months of intimate access while refusing basic political questions–contrasted with TPUSA’s non-participation in the UVU Lake Forest Group independent review. The host walks headline photography, faith-hybrid language, Israel/BB bandwidth refusals, preserved-office shrine claims versus Mikey McCoy’s early use of Charlie’s spaces, and the night-of-assassination Aloe Yoga clothing directive (Erika ordering plain black clothes after rejecting a “heaven is my home” shirt for Air Force 2 optics). The piece is framed as vindicating prior host claims: TPUSA leak-paranoia / Candace-obsession (Tucker Carlson quoted advising Andrew Kolvet not to focus on Candace), the Monday-after will-signing appointment (Doug DeGroote), Erika’s privately more anti-Israel posture than Charlie’s (per Carlson) versus public silence, and board vote elevating Erika within ~48 hours. After a break, the host overlays post–UVU-review smear escalation: Daily Mail “Candace in crisis” copy, then a narrative flip from “jealous of Erika / antisemitic” to a fabricated “cheating lesbian / secret Zionist (husband George / Hebrew study)” package built from a real 2008 college Adderall-epidemic journalism final whose YouTube page was first archived July 9, 2025 (same window as Netanyahu-in-DC and the July 10 UVU courtyard ask), with Bill Ackman amplifying the smear. Closing comments restate UVU-review vindication themes and tease Yrefy / contract material for the next show.
 
 ---
 
@@ -338,7 +338,7 @@ Episode Count: (series-level)
 
 **N-267** Brian Harpole
 
-Referenced in post-review segment as heavily debunked by Lake Force relative to Shawn Ryan narrative.
+Referenced in post-review segment as heavily debunked by Lake Forest Group relative to Shawn Ryan narrative.
 
 Evidence Count: (series-level)
 Claim Count: (series-level)
@@ -434,7 +434,7 @@ Episode Count: (series-level)
 
 **N-10859** TPUSA Non-Participation in UVU Independent Review
 
-Reused: host opens by contrasting Vanity Fair access with refusal to cooperate with Lake Force.
+Reused: host opens by contrasting Vanity Fair access with refusal to cooperate with Lake Forest Group.
 
 Evidence Count: (series-level)
 Claim Count: (series-level)
@@ -751,7 +751,7 @@ Account whose parody video of a smear strategy meeting the host plays at the end
 
 **C-3596** Vanity Fair published an access-heavy Erika Kirk profile that the host reads as exposure, not celebration
 
-Claim Timestamp: 00:01:33
+Claim Timestamp: 00:00:08
 
 Claim: Host asserts Clara Molot's Vanity Fair profile–enabled by months of TPUSA/Erika access including family–reads as a frustrated reporter's portrait of an obvious grift, while TPUSA refused Lake Forest Group review cooperation.
 
@@ -760,7 +760,7 @@ Mentions: N-13, N-2
 
 Related Nodes: N-10859, N-10864
 
-Investigative Direction: Archive the full Vanity Fair piece; list access dates; compare cooperation posture to Lake Force outreach log.
+Investigative Direction: Archive the full Vanity Fair piece; list access dates; compare cooperation posture to Lake Forest Group outreach log.
 
 ---
 
@@ -899,14 +899,14 @@ Investigative Direction: Verify archive timestamps on primary archive.org (or eq
 
 ---
 
-**C-3606** Bill Ackman amplified the smear package and later deleted related posts
+**C-3606** Bill Ackman Amplified the Smear Package and Later Deleted the Tweet
 
 Claim Timestamp: 00:49:14
 
-Claim: Host asserts billionaire Bill Ackman retweeted/amplified the college-account smear during Charlie’s Israel-pressure period and deleted the tweet after it was captured.
+Claim: Host asserts billionaire Bill Ackman was among the first to retweet/amplify the college-account smear and has since deleted the tweet after it was captured; she notes the smear material was archived on August 5, 2025, when Charlie was with Ackman in the Hamptons.
 
 Anchored Artifacts: A-2465.1
-Mentions: N-3, N-37
+Mentions: N-3, N-37, N-1
 
 Related Nodes: N-10868
 
@@ -918,7 +918,7 @@ Investigative Direction: Preserve deleted-tweet captures; confirm handles/dates;
 
 Claim Timestamp: 00:31:10
 
-Claim: Profile/DeGroote state the board voted two days after Charlie’s death to install Erika, delaying public announce toward memorial because of media questions; host rejects the claim that reporters flooded them for a replacement within 24 hours as the real driver.
+Claim: Profile/DeGroote state the board voted two days after Charlie's death to install Erika, hoping to get through the memorial before announcing, but say the media was all over them asking questions; host rejects the claim that reporters flooded them for a replacement within 24 hours as the real driver.
 
 Anchored Artifacts: A-2459.1, A-2462.1
 Mentions: N-2, N-497
@@ -1060,7 +1060,7 @@ Claim: The host says that 12 days after Charlie was murdered Mikey McCoy was tak
 Transcript Snippet: 12 days after Charlie was murdered, Mikey McCoy was taking interviews, taking Fox News hits.
 
 Anchored Artifacts: 
-Mentions: N-191, N-1, N-2
+Mentions: N-191, N-1
 Related Nodes: N-11082, N-10198
 Contradicts: C-6293
 Investigative Direction: Date McCoy's Fox appearances and confirm the room they were filmed in from broadcast stills.
@@ -1496,11 +1496,11 @@ Investigative Direction: Find Kolvet's original statement and its date; compare 
 
 ---
 
-**C-6323** Host Says Headlines Claimed She Is Banned From Australia for Hatred Toward Jews
+**C-6323** Host Says She Is Banned From Australia for Alleged Hatred Toward Jews
 
 Claim Timestamp: 00:39:21
 
-Claim: The host says there were headlines that she is banned from Australia for hatred toward the Jews, which she describes as claims that she made a mockery of the Holocaust.
+Claim: The host says she is banned from Australia for hatred toward the Jews, for making a mockery, they said, of the Holocaust, and that there have been many headlines calling her anti-Semitic.
 
 Transcript Snippet: I'm banned from Australia for hatred towards the Jews, making a mockery, they said, of the Holocaust
 

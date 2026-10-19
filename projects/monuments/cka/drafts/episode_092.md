@@ -684,7 +684,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-891** Savannah Hernandez
+**N-891** Savanah Hernandez
 
 First named by the host at 00:07:17 in episode 92 (via the Kolvet clip). TPUSA front-lines reporter in the Minneapolis incident cited by Kolvet and Vance.
 
@@ -1427,11 +1427,11 @@ Investigative Direction: Check the Vice President's April 2026 public schedule a
 
 ---
 
-**C-11378** Kolvet Cites Savannah Hernandez Minneapolis Incident and Says Cancellation Was a First for TPUSA
+**C-11378** Kolvet Cites Savanah Hernandez Minneapolis Incident and Says Cancellation Was a First for TPUSA
 
 Claim Timestamp: 00:07:17
 
-Claim: On Fox News, Andrew Kolvet said that cancelling Erika Kirk's appearance was, to his knowledge, the first time TPUSA has had to make such a decision, and pointed to what happened to TPUSA front-lines reporter Savannah Hernandez in Minneapolis.
+Claim: On Fox News, Andrew Kolvet said that cancelling Erika Kirk's appearance was, to his knowledge, the first time TPUSA has had to make such a decision, and pointed to what happened to TPUSA front-lines reporter Savanah Hernandez in Minneapolis.
 
 Transcript Snippet: which I think is the first time that we've ever had to make that decision in Turning Point history.
 
@@ -1439,7 +1439,7 @@ Anchored Artifacts: A-1967.1
 Mentions: N-14, N-891, N-2
 Related Nodes: N-10607
 Tags: relevance:core
-Investigative Direction: Obtain the Fox News segment and reporting on the Savannah Hernandez Minneapolis incident, and check TPUSA's history of cancelled appearances.
+Investigative Direction: Obtain the Fox News segment and reporting on the Savanah Hernandez Minneapolis incident, and check TPUSA's history of cancelled appearances.
 
 ---
 

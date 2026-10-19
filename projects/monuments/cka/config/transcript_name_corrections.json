@@ -3320,7 +3320,8 @@
       "\\bDanny Phillip\\b",
       "Danny Philip",
       [
-        140
+        140,
+        147
       ]
     ],
     [
@@ -3367,6 +3368,83 @@
     [
       "\\broad microphone\\b",
       "Rode microphone"
+    ],
+    [
+      "\\bBible and 365\\b",
+      "BIBLEin365",
+      [
+        146
+      ]
+    ],
+    [
+      "\\bNeff from members sitting\\b",
+      "Neff remembers sitting",
+      [
+        148
+      ]
+    ],
+    [
+      "\\bScripts News\\b",
+      "Scripps News"
+    ],
+    [
+      "\\bTempogo\\b",
+      "Timpanogos"
+    ],
+    [
+      "\\bUtah restaurant tour\\b",
+      "Utah restaurateur",
+      [
+        149
+      ]
+    ],
+    [
+      "\\bBoring\\b",
+      "Boreing",
+      [
+        155
+      ]
+    ],
+    [
+      "\\bIsabelle Brown\\b",
+      "Isabel Brown"
+    ],
+    [
+      "\\bLake Force(?: [Gg]roup)?\\b",
+      "Lake Forest Group"
+    ],
+    [
+      "\\bMorgan McMichael\\b",
+      "Morgonn McMichael"
+    ],
+    [
+      "\\bNewsweek letter\\b",
+      "weekly newsletter",
+      [
+        154
+      ]
+    ],
+    [
+      "\\bSavannah Hernandez\\b",
+      "Savanah Hernandez"
+    ],
+    [
+      "\\bTumz\\b",
+      "Tuminez",
+      [
+        157
+      ]
+    ],
+    [
+      "\\bGerms [Bb]ore?ing\\b",
+      "Jeremy Boreing"
+    ],
+    [
+      "\\bGerms wants\\b",
+      "Jeremy wants",
+      [
+        155
+      ]
     ]
   ]
 }

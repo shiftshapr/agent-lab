@@ -915,10 +915,10 @@ Investigative Direction: Cross-reference Mikey McCoy's call logs (previously ref
 
 Claim Timestamp: 00:16:13
 
-Claim: In a FaceTime clip with Frank Turek that the host plays, Jack Hibbs says that when his brother called to say "Charlie's been shot," he briefly thought a relative named Charlie, "cousin Charlie," had been shot, not Charlie Kirk.
+Claim: In a clip of his conversation with Frank Turek that the host plays, Jack Hibbs says that when his brother called to say "Charlie's been shot," he briefly thought a relative named Charlie, "cousin Charlie," had been shot, not Charlie Kirk.
 
 Anchored Artifacts: A-2322.2
-Mentions: N-1, N-209, N-7
+Mentions: N-1, N-209, N-7, N-247
 
 Related Nodes: N-10818
 
@@ -956,11 +956,11 @@ Investigative Direction: Attempt to identify call recipient via phone records; c
 
 ---
 
-**C-3353** Butch Hibbs is 74 years old and was in a plaid shirt at the UVU event
+**C-3353** Host Says Butch Hibbs Is 74 Years Old
 
 Claim Timestamp: 00:09:43
 
-Claim: The host says Jack Hibbs's brother Butch is 74 years old; she also shows UVU event photography in which Butch wears a plaid shirt and is with security.
+Claim: The host says Jack Hibbs's brother Butch is 74 years old.
 
 Anchored Artifacts: A-2322.1, A-2325.1
 Mentions: N-247, N-209
@@ -1099,9 +1099,9 @@ Investigative Direction: Check Calvary Chapel Signal Hill staff listings and TPU
 
 Claim Timestamp: 00:03:42
 
-Claim: The host says Kaddis hosts a show with Erika Kirk tied to her fashion brand, which the host calls Bible and 365.
+Claim: The host says Kaddis hosts a show with Erika Kirk tied to what the host calls Erika's fledgling fashion brand, BIBLEin365.
 
-Transcript Snippet: He also hosts a show with her with that like fledgling, you know, fashion brand that she has, Bible and 365.
+Transcript Snippet: He also hosts a show with her with that like fledgling, you know, fashion brand that she has, BIBLEin365.
 
 Anchored Artifacts: A-2326.4
 Mentions: N-668, N-2
@@ -1160,7 +1160,7 @@ Investigative Direction: Review UVU arrival and walk-in video to confirm Butch H
 
 ---
 
-**C-7608** Host Says Online Speculation Held Butch Hibbs Was Undercover and Carried a Road Microphone
+**C-7608** Host Says Online Speculation Held Butch Hibbs Was Undercover and Carried a Rode Microphone
 
 Claim Timestamp: 00:04:33
 
@@ -1793,7 +1793,7 @@ Claim: The host says that if she did not know better she would think the people 
 Transcript Snippet: I mean, if I didn't know any better, I would think that they were all told to gather footage from different angles and different points.
 
 Anchored Artifacts: A-2324.1
-Mentions: N-247, N-3
+Mentions: N-1, N-247, N-3
 Related Nodes: N-10817
 Tags: relevance:core
 Investigative Direction: Look for any instruction, message or planning document directing staff or guests to film; the host calls this speculation.
@@ -1994,7 +1994,7 @@ Investigative Direction: Review the video testimony to see whether the questioni
 
 ---
 
-**C-7659** Host Says Officers Baggley and Hull Could Relay What They Were Told About Robinson's Vehicle and Plates
+**C-7659** Host Says Officers Bagley and Hull Could Relay What They Were Told About Robinson's Vehicle and Plates
 
 Claim Timestamp: 00:32:38
 

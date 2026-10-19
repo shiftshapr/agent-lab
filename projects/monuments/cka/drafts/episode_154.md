@@ -1025,7 +1025,7 @@ Investigative Direction: Verify whether TPUSA scheduled an anniversary event at 
 
 Claim Timestamp: 00:56:57
 
-Claim: Candace concurs with the @Koko Rose observation that footage of Tyler Robinson's precinct turn-in was deleted under a "retention policy" while prior footage of him (years-old minor accident) was readily available; host adds that the same two Scripts News reporters also released the Brian Cole Jr. pipe-bomb footage.
+Claim: Candace concurs with the @Koko Rose observation that footage of Tyler Robinson's precinct turn-in was deleted under a "retention policy" while prior footage of him (years-old minor accident) was readily available; host adds that the same two Scripps News reporters also released old footage of Brian Cole Jr., the man blamed for the DC pipe bombs, being pulled over.
 
 Anchored Artifacts: A-2404.2
 Mentions: N-25, N-40
@@ -1440,7 +1440,7 @@ Investigative Direction: Retrieve the Vox article from November 2019 and check e
 
 Claim Timestamp: 00:20:36
 
-Claim: The host says the parents who contacted her said in the Newsweek letter that the event was secret because the school, a middle and high school, told them it and TPUSA would not promote it.
+Claim: The host says the parents who told her about the event called it secret because the school, a middle and high school, told them in the weekly newsletter that neither it nor TPUSA would promote it.
 
 Transcript Snippet: they called it secret because the the high school told them
 
@@ -1448,7 +1448,7 @@ Anchored Artifacts: A-3168.1
 Mentions: N-3
 Related Nodes: N-11221, N-10533, N-10841
 Tags: relevance:context
-Investigative Direction: Locate the Newsweek letter and the school newsletter wording.
+Investigative Direction: Locate the weekly newsletter and the school newsletter wording.
 
 ---
 
@@ -1824,7 +1824,7 @@ Investigative Direction: Identify specific hit pieces or lawsuits and whether TP
 
 ---
 
-**C-11851** Host Says She Will Be Away About Eight Weeks With Baron Coleman Taking Over
+**C-11851** Host Jokes TPUSA Was Excited She Would Be Gone About Eight Weeks
 
 Claim Timestamp: 00:55:56
 

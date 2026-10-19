@@ -1883,7 +1883,7 @@
       "@id": "C-3512",
       "ref": "C-3512",
       "label": "Candace Concurs With @Koko Rose Tyler Robinson Footage Observation",
-      "claim": "Candace concurs with the @Koko Rose observation that footage of Tyler Robinson's precinct turn-in was deleted under a \"retention policy\" while prior footage of him (years-old minor accident) was readily available; host adds that the same two Scripts News reporters also released the Brian Cole Jr. pipe-bomb footage.",
+      "claim": "Candace concurs with the @Koko Rose observation that footage of Tyler Robinson's precinct turn-in was deleted under a \"retention policy\" while prior footage of him (years-old minor accident) was readily available; host adds that the same two Scripps News reporters also released old footage of Brian Cole Jr., the man blamed for the DC pipe bombs, being pulled over.",
       "anchored_artifacts": [
         "A-2404.2"
       ],
@@ -2487,7 +2487,7 @@
       "@id": "C-11827",
       "ref": "C-11827",
       "label": "Host Says the Nampa School Told Parents It Would Not Promote the Event and Parents Called It Secret",
-      "claim": "The host says the parents who contacted her said in the Newsweek letter that the event was secret because the school, a middle and high school, told them it and TPUSA would not promote it.",
+      "claim": "The host says the parents who told her about the event called it secret because the school, a middle and high school, told them in the weekly newsletter that neither it nor TPUSA would promote it.",
       "anchored_artifacts": [
         "A-3168.1"
       ],
@@ -2500,7 +2500,7 @@
         "relevance:context"
       ],
       "claim_timestamp": "00:20:36",
-      "investigative_direction": "Locate the Newsweek letter and the school newsletter wording.",
+      "investigative_direction": "Locate the weekly newsletter and the school newsletter wording.",
       "transcript_snippet": "they called it secret because the the high school told them",
       "mentions_person_refs": [
         "N-3"
@@ -3037,7 +3037,7 @@
       "@type": "Claim",
       "@id": "C-11851",
       "ref": "C-11851",
-      "label": "Host Says She Will Be Away About Eight Weeks With Baron Coleman Taking Over",
+      "label": "Host Jokes TPUSA Was Excited She Would Be Gone About Eight Weeks",
       "claim": "Reading a viewer comment that says TPUSA probably cancelled its party on learning Baron Coleman would take over the show, the host jokes that TPUSA was excited because \"she's gone for like eight weeks.\"",
       "anchored_artifacts": [
         "A-3169.1"

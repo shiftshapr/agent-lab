@@ -25,7 +25,7 @@
 
 ## 2. Executive Summary
 
-This episode centers on the newly released UVU third-party independent security review (Lake Force Group), which the host presents as vindication of prior CKA claims about how the September 10 Turning Point USA event was booked, sited, and secured. The host reads extensively from the report: TPUSA-affiliated individuals Brian Harpole (Integrity Solutions), Dan Flood (TPUSA security supervisor), Maycee Crofts (TPUSA senior field representative), and UVU TPUSA club president Caleb Chilcutt did not respond to repeated outreach including certified letters; UVU and public agencies did cooperate. Timeline entries attribute the July 10, 2025 courtyard/fountain request to TPUSA field representative Maycee Crofts directing the club president–an inversion of the normal chapter-request process the host has described across prior episodes. The report further records Crofts insisting on the Fountain Courtyard at the August 25 MEAC meeting despite UVU staff concerns; deferred security decisions to TPUSA; late/non-disclosure of crowd and ticketing data to Chief Jeff Long; an anonymous SIAC threat on September 10 morning referencing an electromagnetic-pulse (EMP) device; and multiple contradictions between Brian Harpole’s Shawn Ryan podcast statements (venue chosen by UVU; airspace/drone constraints; counter-sniper legality) and interview evidence gathered by the review team. The host then overlays a July–August 2025 personal/political timeline for Charlie Kirk (White House/BB confrontation, Instagram purge, Epstein-coverage walk-back, Hamptons retreat, sponsorship addendum, Egyptian-plane movements) against the UVU booking chain, and closes with biographical context on Maycee Crofts (including a public Kip Crofts criminal-case dismissal news clip) plus viewer comments. A preemptive Kirk-family statement blaming UVU security is framed as knowledge that the report was imminent.
+This episode centers on the newly released UVU third-party independent security review (Lake Forest Group), which the host presents as vindication of prior CKA claims about how the September 10 Turning Point USA event was booked, sited, and secured. The host reads extensively from the report: TPUSA-affiliated individuals Brian Harpole (Integrity Solutions), Dan Flood (TPUSA security supervisor), Maycee Crofts (TPUSA senior field representative), and UVU TPUSA club president Caleb Chilcutt did not respond to repeated outreach including certified letters; UVU and public agencies did cooperate. Timeline entries attribute the July 10, 2025 courtyard/fountain request to TPUSA field representative Maycee Crofts directing the club president–an inversion of the normal chapter-request process the host has described across prior episodes. The report further records Crofts insisting on the Fountain Courtyard at the August 25 MEAC meeting despite UVU staff concerns; deferred security decisions to TPUSA; late/non-disclosure of crowd and ticketing data to Chief Jeff Long; an anonymous SIAC threat on September 10 morning referencing an electromagnetic-pulse (EMP) device; and multiple contradictions between Brian Harpole’s Shawn Ryan podcast statements (venue chosen by UVU; airspace/drone constraints; counter-sniper legality) and interview evidence gathered by the review team. The host then overlays a July–August 2025 personal/political timeline for Charlie Kirk (White House/BB confrontation, Instagram purge, Epstein-coverage walk-back, Hamptons retreat, sponsorship addendum, Egyptian-plane movements) against the UVU booking chain, and closes with biographical context on Maycee Crofts (including a public Kip Crofts criminal-case dismissal news clip) plus viewer comments. A preemptive Kirk-family statement blaming UVU security is framed as knowledge that the report was imminent.
 
 ## 6. Meme Register
 
@@ -177,7 +177,7 @@ Confidence: high
 
 ## 3. Artifact Register
 
-**A-2451** UVU Independent Review (Lake Force) Bundle
+**A-2451** UVU Independent Review (Lake Forest Group) Bundle
 
 **A-2451.1** Host on-screen read-through of the third-party independent review of UVU security protocols for the September 10 TPUSA event, including participation/non-participation disclosures (approx. pages 6–7), executive summary language on deferred security decisions, and assessment conclusions.
 
@@ -776,7 +776,7 @@ Episode Count: (series-level)
 
 **N-10859** TPUSA Non-Participation in UVU Independent Review
 
-New topic: documented refusal/non-response by Harpole, Flood, Crofts, club president, and Phoenix senior staff to Lake Force outreach despite public “want the truth” messaging.
+New topic: documented refusal/non-response by Harpole, Flood, Crofts, club president, and Phoenix senior staff to Lake Forest Group outreach despite public “want the truth” messaging.
 
 Evidence Count: 1
 Claim Count: 2
@@ -815,7 +815,7 @@ Investigative Pressure: Medium
 
 **N-10862** Harpole Shawn Ryan Statements vs Independent Review Findings
 
-New topic: systematic comparison of Harpole’s Shawn Ryan podcast assertions (venue chooser, airspace/drone, counter-sniper legality, planning start) against Lake Force interview evidence and timeline.
+New topic: systematic comparison of Harpole’s Shawn Ryan podcast assertions (venue chooser, airspace/drone, counter-sniper legality, planning start) against Lake Forest Group interview evidence and timeline.
 
 Evidence Count: 1
 Claim Count: 2
@@ -1053,7 +1053,7 @@ Named as the Calvary Chapel pastor hosting Erika's July 14 speech (transcript sp
 
 **N-10012** Utah Valley University
 
-Institution commissioning the Lake Force review and hosting the September 10 event.
+Institution commissioning the Lake Forest Group review and hosting the September 10 event.
 
 *Related: C-6172, C-6176, C-6179, C-6196, C-6282*
 
@@ -1336,8 +1336,8 @@ Aliases (transcript spelling): Robin Ebmeyer.
 **N-754** Astrid Tuminez
 
 Node Type: Person
-First named by the host at 00:23:46 in episode 157 as UVU President, in the transcript spelling Tumz.
-Aliases (transcript spelling): Tumz. The full name is not stated in this transcript; it is taken from the UVU presidency and earlier episodes (see claim C-1711).
+First named by the host at 00:23:46 in episode 157 as UVU President, in the transcript spelling Tuminez.
+Aliases (transcript spelling): Tuminez. The full name is not stated in this transcript; it is taken from the UVU presidency and earlier episodes (see claim C-1711).
 
 *Related: C-6196*
 
@@ -1383,7 +1383,7 @@ The host's question about who distributed wristbands to people seated near Charl
 **N-11076** Lake Forest Group
 
 Node Type: Organization
-The third-party firm UVU engaged almost immediately after the assassination to review security protocols for the September 10 event (transcript spelling Lake Force).
+The third-party firm UVU engaged almost immediately after the assassination to review security protocols for the September 10 event (transcript spelling Lake Forest Group).
 
 *Related: C-6172*
 
@@ -1440,7 +1440,7 @@ The story the host says the New York Post ran in the week of the episode implyin
 
 Claim Timestamp: 00:05:20
 
-Claim: The Lake Force independent review documents that despite repeated outreach (phone, voicemail, certified letter, and Phoenix senior-staff contact), Brian Harpole, Dan Flood, Maycee Crofts, and the UVU TPUSA club president did not participate, while UVU and public agencies did cooperate.
+Claim: The Lake Forest Group independent review documents that despite repeated outreach (phone, voicemail, certified letter, and Phoenix senior-staff contact), Brian Harpole, Dan Flood, Maycee Crofts, and the UVU TPUSA club president did not participate, while UVU and public agencies did cooperate.
 
 Anchored Artifacts: A-2452.1, A-2451.1
 Mentions: N-8, N-267, N-271, N-10
@@ -1560,7 +1560,7 @@ Investigative Direction: Obtain ticket-platform export timestamps; compare to UV
 
 Claim Timestamp: 00:56:42
 
-Claim: Host presents Charlie Kirk's July–August 2025 pressures (post–White House/BB confrontation and Instagram purge in June; Epstein-coverage walk-back July 14; Erika travel; formal UVU request July 18; sponsorship addendum July 25; Egyptian-plane movements; August Hamptons retreat) as a concurrent backdrop to the July 10 HQ-driven UVU courtyard request, saying something happened in July while noting some facts on her timeline may not be relevant.
+Claim: Host presents Charlie Kirk's July–August 2025 pressures (Epstein-coverage walk-back July 14; Erika travel; formal UVU request July 18; sponsorship addendum July 25; Egyptian-plane movements; August Hamptons retreat), later adding June events (White House/BB confrontation, Erika's Instagram purge) in reply to a viewer comment, as a concurrent backdrop to the July 10 HQ-driven UVU courtyard request, saying something happened in July while noting some facts on her timeline may not be relevant.
 
 Anchored Artifacts: A-2456.1
 Mentions: N-1, N-2, N-36
@@ -1631,18 +1631,18 @@ Investigative Direction: Obtain contracts, payment records or disclosures showin
 
 ---
 
-**C-6172** UVU engaged the Lake Force Group almost immediately for a broad security review
+**C-6172** UVU engaged the Lake Forest Group almost immediately for a broad security review
 
 Claim Timestamp: 00:03:14
 
-Claim: The host says UVU almost immediately engaged a third party, the Lake Force group, to conduct a broad review of the security protocols for September 10, opening the campus and police to interviews.
+Claim: The host says UVU almost immediately engaged a third party, the Lake Forest Group, to conduct a broad review of the security protocols for September 10, opening the campus and police to interviews.
 
-Transcript Snippet: essentially almost immediately UVU reached out to a third party uh the Lake Force group to conduct a review, a broad review of the security protocols
+Transcript Snippet: essentially almost immediately UVU reached out to a third party uh the Lake Forest Group to conduct a review, a broad review of the security protocols
 
 Anchored Artifacts: A-2451.1
 Mentions: 
 Related Nodes: N-10012, N-10839, N-11076
-Investigative Direction: Obtain UVU's engagement letter or contract with Lake Force Group and its date, scope and publication notice.
+Investigative Direction: Obtain UVU's engagement letter or contract with Lake Forest Group and its date, scope and publication notice.
 
 ---
 
@@ -1992,13 +1992,13 @@ Investigative Direction: Obtain the complaint log and any record of the anonymou
 
 ---
 
-**C-6196** Review: UVU President Tumz requested event planning updates on August 31
+**C-6196** Review: UVU President Tuminez requested event planning updates on August 31
 
 Claim Timestamp: 00:23:46
 
-Claim: The host reads that UVU President Tumz requested updates regarding event planning on August 31.
+Claim: The host reads that UVU President Astrid Tuminez requested updates regarding event planning on August 31.
 
-Transcript Snippet: UVU President Tumz requested updates regarding event planning on the 31st.
+Transcript Snippet: UVU President Tuminez requested updates regarding event planning on the 31st.
 
 Anchored Artifacts: A-2802.4
 Mentions: N-754
@@ -2026,7 +2026,7 @@ Investigative Direction: Obtain the September 2 Long message and any reply from 
 
 Claim Timestamp: 00:24:35
 
-Claim: The host reads that on September 3, seven days before the event, Dan Flood and Chief Long spoke for the first time on a call lasting five minutes and 28 seconds, after which Flood said TPUSA typically has eight to ten security personnel.
+Claim: The host reads that on September 3, seven days before the event, Dan Flood and Chief Long spoke for the first time on a call lasting five minutes and 28 seconds, during which Flood said TPUSA typically has eight to ten security personnel.
 
 Transcript Snippet: Dan Flood and Chief Long get on the phone for just five minutes and 28 seconds.
 

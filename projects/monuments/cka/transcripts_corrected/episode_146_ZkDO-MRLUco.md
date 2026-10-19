@@ -48,7 +48,7 @@ Maybe they're still processing their emotions. I think that decision was probabl
 
 [03:42]
 
-Cameras also captured Andrew Kolvet walking in looking 10 years older. Lies will aid you, my friend. They will age you. And notably, you may not have recognized who this was. This is Pastor James Kaddis. He's the senior pastor of Calvary Chapel in Signal Hill, California. He is also one of Erika Kirk's many problematic TPUSA faith pastors. He also hosts a show with her with that like fledgling, you know, fashion brand that she has, Bible and 365. He's on the never- ending roster of radically pro-Israel pastors who do not exactly live the life that they preach from the stage. He also happens to be morbidly obese. That's why you are seeing him using a scooter to get around. Um, and speaking of Calvary.
+Cameras also captured Andrew Kolvet walking in looking 10 years older. Lies will aid you, my friend. They will age you. And notably, you may not have recognized who this was. This is Pastor James Kaddis. He's the senior pastor of Calvary Chapel in Signal Hill, California. He is also one of Erika Kirk's many problematic TPUSA faith pastors. He also hosts a show with her with that like fledgling, you know, fashion brand that she has, BIBLEin365. He's on the never- ending roster of radically pro-Israel pastors who do not exactly live the life that they preach from the stage. He also happens to be morbidly obese. That's why you are seeing him using a scooter to get around. Um, and speaking of Calvary.
 
 ## Another questionable character on 9/10 and exclusive footage.
 
