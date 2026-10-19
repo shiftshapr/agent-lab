@@ -1,0 +1,4032 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 166,
+    "series": "Candace Kirk Archive",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00-00:51:14",
+    "extraction_timestamp": "2026-10-19T22:30:00Z",
+    "model_version": "claude-manual-extract-seq166",
+    "transcript_sha256": "ff02ec52b5f178bb11692331d4f7a49be8bcb3a964069692849d0006dc7efad3",
+    "analysis_date": "2026-10-19"
+  },
+  "executive_summary": "Episode 403 (2026-10-15). The host opens with a viewer tip that corrected Governor Spencer Cox's published schedule for the week of September 8, 2025: the entries dated September 2 and 3 were, she says, meant to be September 9 and 10. On that reading, she says, Provo officer and state representative Tyler Clancy met Cox privately on the evening of September 9. She plays police radio audio she is told is Clancy en route to Provo Airport to pick up Erika Kirk. She repeats her earlier reporting that Clancy disposed of a bloodied bag, which she deduces was Frank Turek's, and says Clancy allegedly told a different version of why he threw it out. She checks Cox's September 10 schedule (Rally Connects in Mona at 9:00 a.m., a Utah Department of Environmental Quality picnic in Murray at 11:30 a.m.) against her sources' claim that Cox golfed with Val Peterson that morning. She says the governor's office has been asked to confirm or deny.\n\nThe host then reports the arrest of Taylor Dodd, whom she describes as the former president of a Club America chapter in Bonners Ferry, Idaho, who spoke at a Charlie Kirk vigil. She reads from a Bonners Ferry Herald article on seven felony counts of child sexually exploitative material. She alleges that TPUSA had \"Club America\" scrubbed from a local letter to the editor to hide the affiliation. She revisits Turning Point Action: the alleged $10 million in missing money, Justin Streiff's denial, and the \"Statugate\" statue vandalism, which was followed by appeals for the Commit 100 ballot-chasing program. She reads a Turning Point Action email saying it had \"burned through our financial resources faster than planned\", and says her instinct is that the statue episode was a fundraising push.\n\nIn the second half the host covers new White House press secretary Katie Zacharia's admission that she did not pass the bar. She plays a supercut of Zacharia calling herself a lawyer and her explanation to Jack Posobiec (the Jun He Law Firm job in China, the \"surprise baby\"), and says her own check found the bar can be retaken and has no bar on parents sitting it. She criticizes Pete Hegseth's plan to livestream the Fort Hood shooter's execution and plays a Charlie Kirk clip opposing the death penalty. She says Trump's Truth Social post called off the livestream and allowed victims' families to watch. In the comments segment she names Baron Coleman as her stand-in host and says she thinks TPUSA was going to use an \"AI Charlie\". She separates Brian Harpole's bag from the bag in the Clancy story and asks for tips on Tyler Clancy and on the unnamed fire captain who performed CPR on Charlie Kirk.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3398",
+      "family_ref": "A-3398",
+      "bundle_name": "DIA Tip Line Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3398.1",
+          "ref": "A-3398.1",
+          "description": "Host verbal reference to a viewer tip emailed to the tip line correcting Governor Cox's schedule dates",
+          "related_claims": [
+            "C-15405"
+          ],
+          "related_nodes": [
+            "N-41",
+            "N-11437"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:01:31",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3398.2",
+          "ref": "A-3398.2",
+          "description": "Host verbal reference to a sleuth who emailed the Taylor Dodd lead",
+          "related_claims": [
+            "C-15438"
+          ],
+          "related_nodes": [
+            "N-967",
+            "N-11439"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:14:28",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3398.3",
+          "ref": "A-3398.3",
+          "description": "Host verbal request for tips on Tyler Clancy and on Cox promotions, at candaceowens.com, with a floated bounty",
+          "related_claims": [
+            "C-15486",
+            "C-15487",
+            "C-15488",
+            "C-15489"
+          ],
+          "related_nodes": [
+            "N-959",
+            "N-41"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:48:07",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3398.4",
+          "ref": "A-3398.4",
+          "description": "Host verbal request for direct-knowledge tips on the fire captain who performed CPR",
+          "related_claims": [
+            "C-15493"
+          ],
+          "related_nodes": [
+            "N-10874"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:49:45",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3399",
+      "family_ref": "A-3399",
+      "bundle_name": "Governor Cox Schedule Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3399.1",
+          "ref": "A-3399.1",
+          "description": "Governor Cox published public schedule for the week of September 8, 2025, showing entries dated Tuesday September 2 and Wednesday September 3",
+          "related_claims": [
+            "C-15406",
+            "C-15407",
+            "C-15420",
+            "C-15421",
+            "C-15422",
+            "C-15424"
+          ],
+          "related_nodes": [
+            "N-41",
+            "N-11437"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:02:05",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3399.2",
+          "ref": "A-3399.2",
+          "description": "LinkedIn photo posted by the AV company that miked Cox at the Rally Connects Trade Show in Mona",
+          "related_claims": [
+            "C-15423"
+          ],
+          "related_nodes": [
+            "N-41",
+            "N-11437"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:08:30",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3400",
+      "family_ref": "A-3400",
+      "bundle_name": "Provo Police Radio Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3400.1",
+          "ref": "A-3400.1",
+          "description": "Police radio audio the host says she is told is Tyler Clancy reporting he is en route to Provo Airport",
+          "related_claims": [
+            "C-15409",
+            "C-15410"
+          ],
+          "related_nodes": [
+            "N-959",
+            "N-2",
+            "N-10074"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:03:12",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3401",
+      "family_ref": "A-3401",
+      "bundle_name": "Governor Cox Clothing-Change Press Conference Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3401.1",
+          "ref": "A-3401.1",
+          "description": "Clip of Governor Cox answering a question on the clothing change, with Kash Patel behind him",
+          "related_claims": [
+            "C-15418",
+            "C-15419"
+          ],
+          "related_nodes": [
+            "N-41",
+            "N-69",
+            "N-10012"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:07:00",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3402",
+      "family_ref": "A-3402",
+      "bundle_name": "Taylor Dodd Arrest Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3402.1",
+          "ref": "A-3402.1",
+          "description": "Bonners Ferry Herald article headline and text on Taylor Dodd's arrest",
+          "related_claims": [
+            "C-15430",
+            "C-15431",
+            "C-15432",
+            "C-15433",
+            "C-15434",
+            "C-15435",
+            "C-15436"
+          ],
+          "related_nodes": [
+            "N-967",
+            "N-968",
+            "N-11439",
+            "N-11440",
+            "N-10013"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:11:58",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3402.2",
+          "ref": "A-3402.2",
+          "description": "Local news letter to the editor by a Bonners Ferry homeschool hub vice president, which the host says had \"Club America\" removed",
+          "related_claims": [
+            "C-15439",
+            "C-15440"
+          ],
+          "related_nodes": [
+            "N-11439",
+            "N-10533"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:14:58",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3403",
+      "family_ref": "A-3403",
+      "bundle_name": "Statue Vandalism / Commit 100 Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3403.1",
+          "ref": "A-3403.1",
+          "description": "Clip of a speaker (not named on air) saying the Commit 100 program surged after the statue vandalism news",
+          "related_claims": [
+            "C-15451",
+            "C-15452",
+            "C-15453",
+            "C-15454"
+          ],
+          "related_nodes": [
+            "N-11436",
+            "N-10827",
+            "N-10925"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:20:44",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3403.2",
+          "ref": "A-3403.2",
+          "description": "Tyler Bowyer X post on Commit 100 after the vandalism",
+          "related_claims": [
+            "C-15451",
+            "C-15456"
+          ],
+          "related_nodes": [
+            "N-11",
+            "N-11436",
+            "N-10827"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:21:48",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3404",
+      "family_ref": "A-3404",
+      "bundle_name": "Turning Point Action Fundraising Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3404.1",
+          "ref": "A-3404.1",
+          "description": "Turning Point Action email saying it burned through its financial resources",
+          "related_claims": [
+            "C-15404",
+            "C-15447",
+            "C-15457"
+          ],
+          "related_nodes": [
+            "N-11435",
+            "N-10925"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:22:19",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3405",
+      "family_ref": "A-3405",
+      "bundle_name": "Katie Zacharia Lawyer Statements Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3405.1",
+          "ref": "A-3405.1",
+          "description": "Supercut of Katie Zacharia describing herself as a lawyer",
+          "related_claims": [
+            "C-15465",
+            "C-15466"
+          ],
+          "related_nodes": [
+            "N-962",
+            "N-11434"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:28:52",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3405.2",
+          "ref": "A-3405.2",
+          "description": "Clip of Katie Zacharia interviewed by Jack Posobiec on the bar exam",
+          "related_claims": [
+            "C-15467",
+            "C-15468",
+            "C-15469",
+            "C-15470",
+            "C-15471",
+            "C-15472"
+          ],
+          "related_nodes": [
+            "N-962",
+            "N-95",
+            "N-11434",
+            "N-11441",
+            "N-11442"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:30:17",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3406",
+      "family_ref": "A-3406",
+      "bundle_name": "Charlie Kirk Death Penalty Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3406.1",
+          "ref": "A-3406.1",
+          "description": "Clip of Charlie Kirk saying he would oppose the death penalty in America because the government would use the power against the people",
+          "related_claims": [
+            "C-15476"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-11443"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:36:15",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3407",
+      "family_ref": "A-3407",
+      "bundle_name": "Trump Truth Social Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3407.1",
+          "ref": "A-3407.1",
+          "description": "Host verbal description of Donald Trump's Truth Social post on the Fort Hood shooter's execution (not shown on screen per transcript)",
+          "related_claims": [
+            "C-15478",
+            "C-15479",
+            "C-15480"
+          ],
+          "related_nodes": [
+            "N-5",
+            "N-970",
+            "N-11443"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:38:18",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3408",
+      "family_ref": "A-3408",
+      "bundle_name": "Viewer Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3408.1",
+          "ref": "A-3408.1",
+          "description": "Viewer comment (Melissa B) on the never-before-seen Charlie episodes Erika Kirk's team promised",
+          "related_claims": [
+            "C-15482"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1",
+            "N-11444"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:44:11",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3408.2",
+          "ref": "A-3408.2",
+          "description": "Viewer comment (CPTNSL0) saying the bloodied bag was offered to Shawn Ryan",
+          "related_claims": [
+            "C-15484"
+          ],
+          "related_nodes": [
+            "N-224",
+            "N-266"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:47:30",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassination victim. The episode covers his bloodied bag, the fire captain who performed CPR on him, his reported wish to fire Tyler Bowyer, and his death-penalty clip.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15413",
+        "C-15416",
+        "C-15429",
+        "C-15442",
+        "C-15443",
+        "C-15444",
+        "C-15446",
+        "C-15448",
+        "C-15454",
+        "C-15476",
+        "C-15477",
+        "C-15482",
+        "C-15483",
+        "C-15487",
+        "C-15489",
+        "C-15491"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 16,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "TPUSA CEO. The host criticizes her Club America push and says Tyler Clancy allegedly picked her up at Provo Airport.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15408",
+        "C-15409",
+        "C-15428",
+        "C-15446",
+        "C-15454",
+        "C-15482"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15428",
+        "C-15481",
+        "C-15488",
+        "C-15493"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Posted on Truth Social that the Fort Hood shooter's execution would not be livestreamed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15478",
+        "C-15479",
+        "C-15480"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "The host deduces that the bloodied bag Tyler Clancy disposed of was his. She says he did not mention a fire captain giving CPR.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15412",
+        "C-15413",
+        "C-15485",
+        "C-15491"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-11",
+      "ref": "N-11",
+      "name": "Tyler Bowyer",
+      "type": "person",
+      "description": "Turning Point Action head. The host alleges Charlie wanted to fire him and links him to the statue unveiling and the Commit 100 push.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15441",
+        "C-15442",
+        "C-15446",
+        "C-15448",
+        "C-15452",
+        "C-15456"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-15",
+      "ref": "N-15",
+      "name": "Justin Streiff",
+      "type": "person",
+      "description": "The host says he denied the missing Turning Point Action money lead.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15445",
+        "C-15458"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-18",
+      "ref": "N-18",
+      "name": "Andrew Wilson",
+      "type": "person",
+      "description": "The host characterizes him as eager to watch the execution.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15479"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-40",
+      "ref": "N-40",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Accused shooter. The host says she does not believe he acted alone.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15477"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-41",
+      "ref": "N-41",
+      "name": "Spencer Cox",
+      "type": "person",
+      "description": "Utah governor. The episode examines his corrected September 9–10 schedule, his clothing-change statement and his reported golf with Val Peterson.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15405",
+        "C-15406",
+        "C-15407",
+        "C-15415",
+        "C-15416",
+        "C-15417",
+        "C-15418",
+        "C-15419",
+        "C-15420",
+        "C-15421",
+        "C-15422",
+        "C-15423",
+        "C-15424",
+        "C-15425",
+        "C-15426",
+        "C-15487"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 16,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Stood behind Cox during the September 12 clothing-change statement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15418"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-95",
+      "ref": "N-95",
+      "name": "Jack Posobiec",
+      "type": "person",
+      "description": "Interviewed Katie Zacharia on why she did not pass the bar.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15467",
+        "C-15472"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-190",
+      "ref": "N-190",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "The host says (transcribed \"Mikey McCormick\") that he told donors Charlie wanted to fire Tyler Bowyer.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15442"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Shawn Ryan",
+      "type": "person",
+      "description": "A viewer comment says the bloodied bag was offered to him.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15484"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-266",
+      "ref": "N-266",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "The host separates his bag from the Clancy bag story and says he did not mention the fire captain.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15485",
+        "C-15491"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-330",
+      "ref": "N-330",
+      "name": "Baron Coleman",
+      "type": "person",
+      "description": "The host says she selected him to take over the show during her leave.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15481"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-489",
+      "ref": "N-489",
+      "name": "Lori Frantzve",
+      "type": "person",
+      "description": "Erika Kirk's mother. The host (transcribed \"Lori Frantzve\") says she has worked with Tyler Bowyer since before Charlie.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15446"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-592",
+      "ref": "N-592",
+      "name": "Pete Hegseth",
+      "type": "person",
+      "description": "The host says he announced the Fort Hood shooter would be executed on livestream.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15475"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-898",
+      "ref": "N-898",
+      "name": "Bobby Sausalito",
+      "type": "person",
+      "description": "Transcribed \"Bobby Sausalito\". The host credits him with keeping the statue story alive.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15459"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "The host alleges it scrubbed its Club America affiliation from the Taylor Dodd story.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15403",
+        "C-15408",
+        "C-15411",
+        "C-15428",
+        "C-15437",
+        "C-15438",
+        "C-15439",
+        "C-15449",
+        "C-15450",
+        "C-15452",
+        "C-15458",
+        "C-15483"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 12,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10012",
+      "ref": "N-10012",
+      "name": "Utah Valley University",
+      "type": "investigation_target",
+      "description": "Site of the shooting, referenced in Cox's clothing statement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15418"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10013",
+      "ref": "N-10013",
+      "name": "Discord",
+      "type": "investigation_target",
+      "description": "The source of the tip to ICAC in the Taylor Dodd case.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15431"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10062",
+      "ref": "N-10062",
+      "name": "Orem, Utah",
+      "type": "investigation_target",
+      "description": "Possible location of the fire station of the captain who performed CPR.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15490"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10074",
+      "ref": "N-10074",
+      "name": "Provo, Utah",
+      "type": "investigation_target",
+      "description": "Provo Airport pickup and the Provo police service channel.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15409",
+        "C-15490"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10388",
+      "ref": "N-10388",
+      "name": "Missing Money from Turning Point Action",
+      "type": "investigation_target",
+      "description": "The host revisits the lead that $10 million was missing.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15443",
+        "C-15444",
+        "C-15445",
+        "C-15458"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10434",
+      "ref": "N-10434",
+      "name": "Charlie Kirk DOGE Pre-Death Establishment",
+      "type": "investigation_target",
+      "description": "The host (transcribed \"Osha\") says Charlie established DOGE seven days before he died because money was missing.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15443"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10533",
+      "ref": "N-10533",
+      "name": "Club America High School Pushback",
+      "type": "investigation_target",
+      "description": "The host's warning about Club America in schools, tied to the Taylor Dodd arrest.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15428",
+        "C-15429",
+        "C-15440"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10827",
+      "ref": "N-10827",
+      "name": "Statue Vandalism Investigation",
+      "type": "investigation_target",
+      "description": "\"Statugate\": vandalism of the Charlie Kirk statue at TPUSA headquarters and the fundraising that followed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15448",
+        "C-15449",
+        "C-15450",
+        "C-15451",
+        "C-15452",
+        "C-15453",
+        "C-15454",
+        "C-15455",
+        "C-15456",
+        "C-15459"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 10,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10874",
+      "ref": "N-10874",
+      "name": "UVU Independent Review Unnamed Fire Captain CPR Redaction",
+      "type": "investigation_target",
+      "description": "The host repeats her request to identify the fire captain who performed CPR.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15488",
+        "C-15489",
+        "C-15490",
+        "C-15491",
+        "C-15492",
+        "C-15493"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10925",
+      "ref": "N-10925",
+      "name": "Turning Point Action",
+      "type": "investigation_target",
+      "description": "The 501c4 arm. The host says it is out of money and pushed Commit 100 after the vandalism.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15404",
+        "C-15441",
+        "C-15442",
+        "C-15443",
+        "C-15446",
+        "C-15447",
+        "C-15451",
+        "C-15452",
+        "C-15457",
+        "C-15459"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 10,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11313",
+      "ref": "N-11313",
+      "name": "Candace Owens Leave and Baron Coleman Substitute Hosting",
+      "type": "investigation_target",
+      "description": "The host says Baron Coleman will take over the show.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15481"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-962",
+      "ref": "N-962",
+      "name": "Katie Zacharia",
+      "type": "person",
+      "description": "First named by the host at 00:00:01 in episode 166. The new White House press secretary. Aliases: Katie Zacharia (transcript spelling); \"Karine Jean-Pierre\" at 00:27:02 and 00:27:35 is a mis-transcription or slip (see Optional Flags).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15402",
+        "C-15460",
+        "C-15461",
+        "C-15462",
+        "C-15463",
+        "C-15464",
+        "C-15465",
+        "C-15466",
+        "C-15467",
+        "C-15468",
+        "C-15469",
+        "C-15470",
+        "C-15471",
+        "C-15472",
+        "C-15473",
+        "C-15474"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 16,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-959",
+      "ref": "N-959",
+      "name": "Tyler Clancy",
+      "type": "person",
+      "description": "First named by the host at 00:02:40 in episode 166. A Provo police officer and Utah House representative.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15407",
+        "C-15408",
+        "C-15409",
+        "C-15410",
+        "C-15411",
+        "C-15412",
+        "C-15414",
+        "C-15420",
+        "C-15485",
+        "C-15486"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 10,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-957",
+      "ref": "N-957",
+      "name": "Val Peterson",
+      "type": "person",
+      "description": "First named by the host at 00:07:34 in episode 166. The host's sources say he was with Governor Cox on September 10.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15420",
+        "C-15421",
+        "C-15425",
+        "C-15426",
+        "C-15427"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-963",
+      "ref": "N-963",
+      "name": "Charles Peterson",
+      "type": "person",
+      "description": "First named by the host at 00:09:31 in episode 166. Val Peterson's brother (\"Charles, Chuck\"), whom the host says has legal issues.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15427"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-967",
+      "ref": "N-967",
+      "name": "Taylor Dodd",
+      "type": "person",
+      "description": "First named by the host at 00:11:12 in episode 166. Former president of the Club America chapter in Bonners Ferry, Idaho, arrested on child sexually exploitative material charges, per the article the host reads. Alias: Todd (transcript, 00:11:12).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15429",
+        "C-15430",
+        "C-15431",
+        "C-15432",
+        "C-15433",
+        "C-15434",
+        "C-15435",
+        "C-15436",
+        "C-15437",
+        "C-15438"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 10,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-968",
+      "ref": "N-968",
+      "name": "Brandon Blackmore",
+      "type": "person",
+      "description": "First named by the host at 00:12:48 in episode 166. The officer whose report the Bonners Ferry Herald article cites in the Dodd case.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15434"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-969",
+      "ref": "N-969",
+      "name": "Anthony Scaramucci",
+      "type": "person",
+      "description": "First named by the host at 00:27:02 in episode 166. The host cites him as a past press secretary.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15460"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-970",
+      "ref": "N-970",
+      "name": "Nidal Malik Hasan",
+      "type": "person",
+      "description": "First named by the host at 00:38:18 in episode 166. The Fort Hood shooter, a former US Army major.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15475",
+        "C-15478",
+        "C-15479",
+        "C-15480"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11434",
+      "ref": "N-11434",
+      "name": "Katie Zacharia Lawyer Credential Question",
+      "type": "topic",
+      "description": "Whether the new White House press secretary misrepresented herself as a lawyer and general counsel despite not passing the bar, and how credible her explanations are (Pepperdine president advice, China practice, \"surprise baby\").",
+      "related_artifacts": [
+        "A-3405.1",
+        "A-3405.2"
+      ],
+      "related_claims": [
+        "C-15402",
+        "C-15460",
+        "C-15461",
+        "C-15462",
+        "C-15463",
+        "C-15464",
+        "C-15465",
+        "C-15466",
+        "C-15467",
+        "C-15468",
+        "C-15469",
+        "C-15470",
+        "C-15471",
+        "C-15472",
+        "C-15473",
+        "C-15474"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 16,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11435",
+      "ref": "N-11435",
+      "name": "Turning Point Action Funds Depletion Email",
+      "type": "topic",
+      "description": "Turning Point Action's October 2026 \"we're broke\" type email saying it burned through its financial resources on ballot chasing, which the host links to the missing-money lead and the statue fundraising.",
+      "related_artifacts": [
+        "A-3404.1"
+      ],
+      "related_claims": [
+        "C-15404",
+        "C-15447",
+        "C-15457",
+        "C-15458"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11436",
+      "ref": "N-11436",
+      "name": "Commit 100 Ballot-Chasing Program",
+      "type": "topic",
+      "description": "Turning Point Action's program to chase 100 ballots in October, promoted via tpaction.com/100 after the statue vandalism.",
+      "related_artifacts": [
+        "A-3403.1",
+        "A-3403.2"
+      ],
+      "related_claims": [
+        "C-15404",
+        "C-15451",
+        "C-15452",
+        "C-15453",
+        "C-15456"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11437",
+      "ref": "N-11437",
+      "name": "Governor Cox September 9–10, 2025 Schedule",
+      "type": "topic",
+      "description": "Governor Cox's published schedule for the week of September 8, 2025, whose entries the host says were mis-dated September 2 and 3 instead of September 9 and 10. It covers the Tyler Clancy meeting, the Rally Connects keynote in Mona, the Murray Park picnic and the reported golf with Val Peterson.",
+      "related_artifacts": [
+        "A-3398.1",
+        "A-3399.1",
+        "A-3399.2"
+      ],
+      "related_claims": [
+        "C-15405",
+        "C-15406",
+        "C-15407",
+        "C-15420",
+        "C-15421",
+        "C-15422",
+        "C-15423",
+        "C-15424",
+        "C-15425",
+        "C-15426"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 10,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11438",
+      "ref": "N-11438",
+      "name": "Tyler Clancy Bloodied Bag Disposal",
+      "type": "topic",
+      "description": "The host's report that Officer Tyler Clancy disposed of a bloodied bag on September 10, which she deduces was Frank Turek's, and the differing accounts of why.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15411",
+        "C-15412",
+        "C-15413",
+        "C-15414",
+        "C-15415",
+        "C-15485",
+        "C-15486"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11439",
+      "ref": "N-11439",
+      "name": "Taylor Dodd Arrest and Club America Affiliation Scrub",
+      "type": "topic",
+      "description": "The arrest of former Bonners Ferry Club America chapter president Taylor Dodd on child sexually exploitative material charges, and the host's allegation that TPUSA scrubbed its affiliation online.",
+      "related_artifacts": [
+        "A-3398.2",
+        "A-3402.1",
+        "A-3402.2"
+      ],
+      "related_claims": [
+        "C-15403",
+        "C-15429",
+        "C-15430",
+        "C-15431",
+        "C-15432",
+        "C-15433",
+        "C-15434",
+        "C-15435",
+        "C-15436",
+        "C-15437",
+        "C-15438",
+        "C-15439",
+        "C-15440"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 13,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11440",
+      "ref": "N-11440",
+      "name": "Bonners Ferry Herald",
+      "type": "organization",
+      "description": "Local Idaho newspaper whose article on the Taylor Dodd arrest the host reads.",
+      "related_artifacts": [
+        "A-3402.1"
+      ],
+      "related_claims": [
+        "C-15430",
+        "C-15431"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11441",
+      "ref": "N-11441",
+      "name": "Pepperdine University",
+      "type": "organization",
+      "description": "Katie Zacharia's law school. She says its president advised her on how to describe herself, and her father-in-law was an adjunct professor at Pepperdine Law.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15463",
+        "C-15467"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11442",
+      "ref": "N-11442",
+      "name": "Jun He Law Firm",
+      "type": "organization",
+      "description": "Chinese law firm whose international practice division Katie Zacharia says employed her in China.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15470",
+        "C-15471"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11443",
+      "ref": "N-11443",
+      "name": "Fort Hood Shooter Execution Livestream Question",
+      "type": "topic",
+      "description": "The announced plan to livestream the execution of Nidal Malik Hasan, the debate it set off, and Trump's Truth Social reversal.",
+      "related_artifacts": [
+        "A-3406.1",
+        "A-3407.1"
+      ],
+      "related_claims": [
+        "C-15475",
+        "C-15476",
+        "C-15478",
+        "C-15479",
+        "C-15480"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11444",
+      "ref": "N-11444",
+      "name": "TPUSA AI Charlie and Never-Before-Seen Speeches Question",
+      "type": "topic",
+      "description": "Whether TPUSA planned to use an AI-generated Charlie Kirk for its promised \"never before seen\" Charlie speeches.",
+      "related_artifacts": [
+        "A-3408.1"
+      ],
+      "related_claims": [
+        "C-15482",
+        "C-15483"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-15402",
+      "ref": "C-15402",
+      "label": "Host Says Katie Zacharia Now Acknowledges She Is Not an Attorney",
+      "claim": "The host says new press secretary Katie Zacharia has come clean, \"sort of\", and is now acknowledging that she is not an attorney.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11434"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:00:08",
+      "investigative_direction": "Zacharia's public statements and interviews of October 2026, and the State Bar of California attorney search.",
+      "transcript_snippet": "at least she's acknowledging that no, she is not an attorney",
+      "mentions_person_refs": [
+        "N-962"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15403",
+      "ref": "C-15403",
+      "label": "Host Says TPUSA Tried to Scrub Its Affiliation From a Recent Arrest",
+      "claim": "The host says Turning Point USA tried to scrub any affiliation from a recent arrest, which she says shows why she is uneasy about Club America.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-11439"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:00:40",
+      "investigative_direction": "Archived versions of the local article and TPUSA / Club America chapter pages for Bonners Ferry, Idaho.",
+      "transcript_snippet": "a recent arrest that Turning Point USA tried to scrub any affiliation from might help you understand why I feel that way",
+      "mentions_person_refs": [
+        "N-11439"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15404",
+      "ref": "C-15404",
+      "label": "Host Says Turning Point Action Is Sending \"We're Broke\" Emails",
+      "claim": "The host says Turning Point Action is sending \"Hey, we're broke\" type emails, which she says makes her suspicious of the statue vandalism and the push that followed to donate to ballot chasing.",
+      "anchored_artifacts": [
+        "A-3404.1"
+      ],
+      "related_nodes": [
+        "N-10925",
+        "N-11435",
+        "N-11436"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:00:52",
+      "investigative_direction": "The Turning Point Action donor email itself and Turning Point Action / Turning Point PAC FEC filings for September–October 2026.",
+      "transcript_snippet": "did you know that Turning Point Action is sending \"Hey, we're broke\" type emails?",
+      "mentions_person_refs": [
+        "N-11435",
+        "N-11436"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15405",
+      "ref": "C-15405",
+      "label": "Viewer Tip to the Tip Line Flagged a Mistake in Cox's Published Schedule",
+      "claim": "The host says a viewer emailed the tip line noting that the governor's office had made a mistake in Governor Cox's public schedule for the week of September 10, which had appeared to show nothing on September 9 or 10.",
+      "anchored_artifacts": [
+        "A-3398.1"
+      ],
+      "related_nodes": [
+        "N-11437"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:01:52",
+      "investigative_direction": "The governor's office's published schedule release for September 8–14, 2025.",
+      "transcript_snippet": "one of you guys emailed the tip line and noticed that actually the governor's office just made a mistake.",
+      "mentions_person_refs": [
+        "N-41"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15406",
+      "ref": "C-15406",
+      "label": "Host Says Cox's Schedule Entries for September 2 and 3 Were Meant to Be September 9 and 10",
+      "claim": "The host shows Cox's schedule jumping from September 8 to Tuesday September 2 and Wednesday September 3. She says they confirmed, thanks to the viewer, that those two dates were entered incorrectly and are meant to be September 9 and 10.",
+      "anchored_artifacts": [
+        "A-3399.1"
+      ],
+      "related_nodes": [
+        "N-11437"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:22",
+      "investigative_direction": "The governor's office's confirmation of the dates, and the original schedule release for September 8–14, 2025.",
+      "transcript_snippet": "someone just entered those two dates incorrectly. It's meant to be, instead of September 2nd and September 3rd, it's meant to be September 9th and September 10th.",
+      "mentions_person_refs": [
+        "N-41"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15407",
+      "ref": "C-15407",
+      "label": "Host Says Tyler Clancy's Private Meeting With Cox Was on the Evening of September 9",
+      "claim": "The host says the date correction means that Officer and House Representative Tyler Clancy's private one-on-one meeting with the governor took place on the evening of September 9, not September 2 as she had first reported.",
+      "anchored_artifacts": [
+        "A-3399.1"
+      ],
+      "related_nodes": [
+        "N-11437"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:43",
+      "investigative_direction": "The governor's calendar and visitor log for September 9, 2025, and Clancy's own schedule.",
+      "transcript_snippet": "on the evening of September 9th, not on September 2nd as we had initially reported, officer House of Rep Tyler Clancy had that private one-on-one meeting with the governor",
+      "mentions_person_refs": [
+        "N-959",
+        "N-41"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15408",
+      "ref": "C-15408",
+      "label": "Host Says Clancy Allegedly Was Selected to Drive TPUSA Staff to the Airport to Pick Up Erika",
+      "claim": "The host says that the next day, as she had already reported, Tyler Clancy allegedly was the person selected to transport Turning Point employees to the airport to pick up Erika Kirk.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:58",
+      "investigative_direction": "Provo Police Department dispatch and assignment records for September 10, 2025.",
+      "transcript_snippet": "Tyler Clancy allegedly was the person who was selected to transport Turning Point employees to the airport to pick up Erika.",
+      "mentions_person_refs": [
+        "N-959",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15409",
+      "ref": "C-15409",
+      "label": "Radio Audio Has an Officer Saying He and Sergeant DePay Are En Route to Provo Airport",
+      "claim": "In police radio audio the host plays, which she says she is told is Tyler Clancy, a speaker says he and \"Sergeant DePay\" are en route to Provo Airport and that the victim's wife is arriving at 3:30.",
+      "anchored_artifacts": [
+        "A-3400.1"
+      ],
+      "related_nodes": [
+        "N-10074"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:03:40",
+      "investigative_direction": "Provo police radio recordings for September 10, 2025, and identification of the speaker and of \"Sergeant DePay\".",
+      "transcript_snippet": "This will be info for IC, uh myself and Sergeant DePay are in route to Provo Airport.",
+      "mentions_person_refs": [
+        "N-959",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15410",
+      "ref": "C-15410",
+      "label": "Host Says the Radio Voice Sounds Like Clancy in Other Interviews",
+      "claim": "The host says they compared the radio voice with Clancy's voice in other interviews and that it \"certainly sounds a lot like him\".",
+      "anchored_artifacts": [
+        "A-3400.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:03:53",
+      "investigative_direction": "Voice comparison with Clancy's public interviews, and the radio call sign log.",
+      "transcript_snippet": "We listened to his voice in other interviews. It certainly sounds a lot like him.",
+      "mentions_person_refs": [
+        "N-959"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15411",
+      "ref": "C-15411",
+      "label": "Host Says Officer Clancy Disposed of a Bloodied TPUSA-Affiliated Item",
+      "claim": "The host says they reported that Officer Tyler Clancy, at some point that day or evening, disposed of a bloodied item belonging to Turning Point USA or one of its affiliates.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11438",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:02",
+      "investigative_direction": "Provo police evidence and property logs for September 10, 2025, and the statements of Clancy and witnesses.",
+      "transcript_snippet": "it was Officer Tyler Clancy who at some point that same day or evening, telling on whose tongue the story, disposed of a bloodied item that belonged to Turning Point USA or one of their affiliates.",
+      "mentions_person_refs": [
+        "N-959"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15412",
+      "ref": "C-15412",
+      "label": "Host Deduces the Bag Was Frank Turek's Because He Said He Told an Officer to Throw It Out",
+      "claim": "The host says they deduced the item was likely Frank Turek's bloodied bag, because Turek said in an interview that he told a police officer to throw out his bag.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11438"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:15",
+      "investigative_direction": "Turek's interview in which he describes the bag, and Clancy's account.",
+      "transcript_snippet": "we induced that it was likely Frank Turek's bloodied bag since Frank and Bank gave an interview revealing that he instructed a police officer to throw out his bag.",
+      "mentions_person_refs": [
+        "N-7",
+        "N-959"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15413",
+      "ref": "C-15413",
+      "label": "Turek Said Charlie's Body Had Been on Top of the Bag in the Car",
+      "claim": "The host says that, according to Turek, Charlie Kirk's body had been on top of the bag in the car during the ride to the hospital.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11438"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:30",
+      "investigative_direction": "Turek's recorded interview, and the vehicle occupants' accounts of the ride to Timpanogos / Utah Valley hospital.",
+      "transcript_snippet": "Because, according to him, Charlie's body had been on top of it in the car during the chaotic ride over to the hospital.",
+      "mentions_person_refs": [
+        "N-7",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15414",
+      "ref": "C-15414",
+      "label": "Host Is Told Clancy Said He Threw the Bag Out on His Own Because It Was Left in His Car",
+      "claim": "The host says she is told that Clancy told others a slightly different story: that he was not instructed to throw the item out but did so on a whim, because it had been left behind in his car. She adds \"allegedly\".",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11438"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:55",
+      "investigative_direction": "Interviews with the people Clancy reportedly told, and any Provo police report on the item.",
+      "transcript_snippet": "mainly that he was not instructed to do so, but that he did so out of his own volition, on a whim, because the item had been left behind in his car.",
+      "mentions_person_refs": [
+        "N-959"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15415",
+      "ref": "C-15415",
+      "label": "Host Doubts It Is Police Protocol to Toss a Blood-Covered Bag From a Murder Victim",
+      "claim": "The host says she struggles to believe it is protocol for a police officer to throw out a bag covered in a recently murdered victim's blood before anything was known about the suspect or how he died.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11438"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:05:15",
+      "investigative_direction": "Provo Police Department evidence-handling policy.",
+      "transcript_snippet": "I'm just struggling over here to believe that it's somehow protocol for a police officer to toss out a bag that's covered in blood from a recently murdered victim."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15416",
+      "ref": "C-15416",
+      "label": "Host Says Utahns Say Governor Cox's \"Boys\" Were All Over the Kirk Case",
+      "claim": "The host says people in Utah tell her that Governor Cox's \"boys\" were all over the Charlie Kirk case, and that Cox can give people promotions.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:05:58",
+      "investigative_direction": "Personnel assignments in the state agencies on the case, and promotions after September 10, 2025.",
+      "transcript_snippet": "people in Utah say that Governor Cox's boys were all over the Charlie Kirk case.",
+      "mentions_person_refs": [
+        "N-41",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15417",
+      "ref": "C-15417",
+      "label": "Host Says Cox Called It Politically Motivated Immediately, Without Evidence",
+      "claim": "The host says Governor Cox was the one telling the public immediately that this was a politically motivated assassination, despite no evidence confirming that at the time.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:28",
+      "investigative_direction": "Cox's press conferences and statements of September 10–12, 2025.",
+      "transcript_snippet": "it was Governor Cox that was the one telling us instantly that this was a politically motivated assassination despite no evidence uh confirming that at that time.",
+      "mentions_person_refs": [
+        "N-41"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15418",
+      "ref": "C-15418",
+      "label": "Host Says Cox Made the Rooftop Clothing-Change Claim on September 12 With Kash Patel Behind Him",
+      "claim": "The host says Cox put out the narrative that the shooter changed clothes on the roof, and that he said it on September 12 with Kash Patel behind him, long after the footage had been secured and reviewed.",
+      "anchored_artifacts": [
+        "A-3401.1"
+      ],
+      "related_nodes": [
+        "N-10012"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:50",
+      "investigative_direction": "Video of the September 12, 2025 press conference and the timeline of the surveillance footage review.",
+      "transcript_snippet": "He he reported that with Kash Patel behind him on September 12th. So long after the SBI had secured and reviewed the footage.",
+      "supports_claim_refs": [
+        "C-3060",
+        "C-3061"
+      ],
+      "mentions_person_refs": [
+        "N-41",
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15419",
+      "ref": "C-15419",
+      "label": "Clip Has Cox Saying the Shooter Changed Clothes on the Roof and Back",
+      "claim": "In a clip the host plays, Governor Cox says the shooter wore different clothing when first spotted on campus, changed clothing on the roof, and changed back so that his clothing at arrest matched what he wore before the shooting.",
+      "anchored_artifacts": [
+        "A-3401.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:07:05",
+      "investigative_direction": "The charging documents and surveillance footage on the suspect's clothing.",
+      "transcript_snippet": "he has different clothing on and then he changes clothing on the roof and then changed back into that clothing at some point",
+      "supports_claim_refs": [
+        "C-3060"
+      ],
+      "mentions_person_refs": [
+        "N-41"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15420",
+      "ref": "C-15420",
+      "label": "Host Asks Whether Cox Golfed With Val Peterson on September 10 After Seeing Clancy on September 9",
+      "claim": "The host says she wants to explore the governor's movements, because it would be notable if he golfed with Val Peterson on the morning of September 10 after spending the evening of September 9 with Tyler Clancy.",
+      "anchored_artifacts": [
+        "A-3399.1"
+      ],
+      "related_nodes": [
+        "N-11437"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:07:55",
+      "investigative_direction": "Golf-course tee-time records for the morning of September 10, 2025, and the governor's security detail logs.",
+      "transcript_snippet": "if he did indeed golf with Val Peterson on the morning of the 10th after having spent an evening with Tyler Clancy on the 9th.",
+      "mentions_person_refs": [
+        "N-41",
+        "N-957",
+        "N-959"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15421",
+      "ref": "C-15421",
+      "label": "Host Says Golf With Val Peterson Is Not on Cox's Official Schedule",
+      "claim": "The host says golf with Val Peterson does not appear on Cox's official schedule.",
+      "anchored_artifacts": [
+        "A-3399.1"
+      ],
+      "related_nodes": [
+        "N-11437"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:08:10",
+      "investigative_direction": "The published schedule for September 10, 2025.",
+      "transcript_snippet": "He doesn't have golf with Val Peterson on it. Not on his official schedule, anyway.",
+      "mentions_person_refs": [
+        "N-41",
+        "N-957"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15422",
+      "ref": "C-15422",
+      "label": "Host Says Cox Keynoted the Rally Connects Trade Show in Mona at 9:00 a.m. on September 10",
+      "claim": "The host says that on the morning of September 10, Cox was the keynote speaker at the Rally Connects Trade Show in Mona at 9:00 a.m.",
+      "anchored_artifacts": [
+        "A-3399.1"
+      ],
+      "related_nodes": [
+        "N-11437"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:08:18",
+      "investigative_direction": "The Rally Connects 2025 event program and attendee photos.",
+      "transcript_snippet": "He was the keynote speaker at the Rally Connects Trade Show, um which was up in Mona at 9:00 a.m.",
+      "mentions_person_refs": [
+        "N-41"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15423",
+      "ref": "C-15423",
+      "label": "Host Says a LinkedIn Photo From the AV Company Corroborates Cox's Attendance",
+      "claim": "The host says they found a photo on LinkedIn posted by the AV company that miked Cox, which corroborates his attendance at the Mona event.",
+      "anchored_artifacts": [
+        "A-3399.2"
+      ],
+      "related_nodes": [
+        "N-11437"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:08:28",
+      "investigative_direction": "The LinkedIn post and its timestamp, and the AV company's records.",
+      "transcript_snippet": "We were able to find a photo of that on LinkedIn posted from the AV company that miked him, which corroborates that attendance.",
+      "mentions_person_refs": [
+        "N-41"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15424",
+      "ref": "C-15424",
+      "label": "Host Says Cox's Next Event Was a DEQ Staff Picnic in Murray Park at 11:30 a.m.",
+      "claim": "The host says Cox's next scheduled event that day was in Murray Park at 11:30 a.m., speaking at a Utah Department of Environmental Quality staff picnic, and that they confirmed he was there.",
+      "anchored_artifacts": [
+        "A-3399.1"
+      ],
+      "related_nodes": [
+        "N-11437"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:08:40",
+      "investigative_direction": "Utah DEQ records or photos of the September 10, 2025 staff picnic.",
+      "transcript_snippet": "Um and then his next scheduled event was in Murray Park at 11:30 a.m.",
+      "mentions_person_refs": [
+        "N-41"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15425",
+      "ref": "C-15425",
+      "label": "Host Suggests Any Golf With Val Peterson Was Before the 9:00 a.m. Event",
+      "claim": "The host suggests that if Cox and Val Peterson did meet for golf, it was likely before the Mona event, given early tee times.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11437"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:08:55",
+      "investigative_direction": "Golf-course tee sheets for early September 10, 2025, and the travel time to Mona.",
+      "transcript_snippet": "if he and Val Peterson did meet up for golf, it was likely before this, by the way.",
+      "mentions_person_refs": [
+        "N-41",
+        "N-957"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15426",
+      "ref": "C-15426",
+      "label": "Host Says Her Independent Sources Put Val Peterson With Cox on September 10",
+      "claim": "The host says her sources that Val Peterson was with the governor on September 10 are solid and are not aware of one another, and that they have asked the governor's office to confirm or deny.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11437"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:09:13",
+      "investigative_direction": "The governor's office response to the host's inquiry, and records of Val Peterson's whereabouts on September 10, 2025.",
+      "transcript_snippet": "my sources on this, that Val Peterson was with the governor on the on September 10th, are are solid. They're not aware of one another",
+      "mentions_person_refs": [
+        "N-957",
+        "N-41"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15427",
+      "ref": "C-15427",
+      "label": "Host Says Val Peterson's Brother Charles Has Legal Issues",
+      "claim": "The host says they discovered that Val Peterson's brother Charles (\"Chuck\") has \"some legal issues\", which she calls putting it mildly.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:09:43",
+      "investigative_direction": "Idaho court records for Charles Peterson.",
+      "transcript_snippet": "his brother Charles, Chuck, Chuck the boy over there, has some legal issues",
+      "mentions_person_refs": [
+        "N-957",
+        "N-963"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15428",
+      "ref": "C-15428",
+      "label": "Host Alleges Sexual Deviants and Pastors With Checkered Backgrounds Work at TPUSA",
+      "claim": "The host alleges she knows for a fact that sexual deviants and pastors with \"extremely checkered backgrounds\" work at the organization, and that Erika Kirk does not know who she is working with.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10533"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:10:25",
+      "investigative_direction": "Background checks and court records for TPUSA and TPUSA Faith staff.",
+      "transcript_snippet": "I know for a fact that there are sexual deviants, plus pastors with extremely checkered backgrounds that are working at this organization",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15429",
+      "ref": "C-15429",
+      "label": "Host Says Former Bonners Ferry Club America President Taylor Dodd Spoke at Charlie Kirk's Vigil",
+      "claim": "The host says Taylor Dodd, now former president of Club America in Bonners Ferry, Idaho, gave a speech at Charlie Kirk's vigil when he was 17.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11439",
+        "N-10533"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:11:14",
+      "investigative_direction": "Local coverage or video of the Bonners Ferry Charlie Kirk vigil, and Club America chapter listings.",
+      "transcript_snippet": "he's the now former president of Club America in um Bonners Ferry, Idaho. His name is Taylor Dodd. When he was 17 years old, he actually gave a speech at Charlie Kirk's vigil.",
+      "mentions_person_refs": [
+        "N-967",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15430",
+      "ref": "C-15430",
+      "label": "Bonners Ferry Herald Reports Dodd Arrested on Child Sexually Exploitative Material Charges",
+      "claim": "The host says Dodd was arrested on child pornography charges and shows a Bonners Ferry Herald headline on a young adult arrested over child sexually exploitative material.",
+      "anchored_artifacts": [
+        "A-3402.1"
+      ],
+      "related_nodes": [
+        "N-11439",
+        "N-11440"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:11:58",
+      "investigative_direction": "The Bonners Ferry Herald article and the Boundary County court docket.",
+      "transcript_snippet": "He was arrested for child pornography. Here is the headline which was published in the Bonner's Ferry Herald.",
+      "mentions_person_refs": [
+        "N-967"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15431",
+      "ref": "C-15431",
+      "label": "Article Says Dodd Was Arrested in Early September on Seven Felony Counts After a Discord Tip to ICAC",
+      "claim": "Per the article the host reads, Dodd was arrested in early September on seven felony charges of child sexually exploitative material after ICAC received a tip from Discord.",
+      "anchored_artifacts": [
+        "A-3402.1"
+      ],
+      "related_nodes": [
+        "N-11439",
+        "N-11440",
+        "N-10013"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:12:18",
+      "investigative_direction": "The charging documents and the Idaho ICAC case referral.",
+      "transcript_snippet": "Taylor Dodd was arrested in early September on seven felony charges of child sexually exploitative material.",
+      "mentions_person_refs": [
+        "N-967"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15432",
+      "ref": "C-15432",
+      "label": "Article Says the Images Were Downloaded in Early April",
+      "claim": "Per the article the host reads, court documents say the images were downloaded in early April. The host says that means April 2026.",
+      "anchored_artifacts": [
+        "A-3402.1"
+      ],
+      "related_nodes": [
+        "N-11439"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:12:43",
+      "investigative_direction": "The court documents in the Dodd case.",
+      "transcript_snippet": "The images were downloaded in early April, according to court documents.",
+      "mentions_person_refs": [
+        "N-967"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15433",
+      "ref": "C-15433",
+      "label": "Article Says Telegram and Threads Were Also Used to Buy and Download Images",
+      "claim": "Per the article the host reads, documents contend that Telegram and Threads were also used to purchase and download images.",
+      "anchored_artifacts": [
+        "A-3402.1"
+      ],
+      "related_nodes": [
+        "N-11439"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:12:55",
+      "investigative_direction": "The court documents in the Dodd case.",
+      "transcript_snippet": "Documents contend that other apps were also used, such as Telegram, an instant messaging app, and Threads, a text-based social media app by Meta, to purchase and download images.",
+      "mentions_person_refs": [
+        "N-967"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15434",
+      "ref": "C-15434",
+      "label": "Officer Blackmore's Report Says 116 Images Were Allegedly Saved to Dodd's Phone",
+      "claim": "Per the article the host reads, Officer Brandon Blackmore's report says 116 images had allegedly been downloaded and saved to Dodd's phone, and that Dodd said he had a severe pornography addiction that had escalated to include children.",
+      "anchored_artifacts": [
+        "A-3402.1"
+      ],
+      "related_nodes": [
+        "N-11439"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:13:05",
+      "investigative_direction": "The officer's probable-cause affidavit.",
+      "transcript_snippet": "In his report, Officer Brandon Blackmore said that 116 images had allegedly been downloaded and saved to Dodd's phone.",
+      "mentions_person_refs": [
+        "N-968",
+        "N-967"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15435",
+      "ref": "C-15435",
+      "label": "Article Says the Ages Allegedly Ranged From 3 to 15",
+      "claim": "Per the article the host reads, documents indicate the ages of the children depicted allegedly ranged from 3 to 15.",
+      "anchored_artifacts": [
+        "A-3402.1"
+      ],
+      "related_nodes": [
+        "N-11439"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:13:20",
+      "investigative_direction": "The court documents in the Dodd case.",
+      "transcript_snippet": "Documents indicate that the ages allegedly ranged from 3 to 15.",
+      "mentions_person_refs": [
+        "N-967"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15436",
+      "ref": "C-15436",
+      "label": "Article Says Dodd Confessed and Wrote an Apology to His Parents",
+      "claim": "Per the article the host reads, court documents say Dodd confessed to purchasing, watching, downloading and saving the material, and wrote his parents an apology taking full responsibility.",
+      "anchored_artifacts": [
+        "A-3402.1"
+      ],
+      "related_nodes": [
+        "N-11439"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:13:35",
+      "investigative_direction": "The case file and the plea record.",
+      "transcript_snippet": "according to court documents, he confessed that he purchased and watched the videos of child pornography, downloaded them, and saved them to his cell phone.",
+      "mentions_person_refs": [
+        "N-967"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15437",
+      "ref": "C-15437",
+      "label": "Host Says TPUSA Tried to Scrub Its Affiliation, Leaving Broken Links",
+      "claim": "The host says \"they\" tried to scrub their affiliation with Dodd from the internet, leaving many broken links as her team hunted for the information.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-11439"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:14:18",
+      "investigative_direction": "Wayback Machine captures of Club America / TPUSA chapter pages naming Dodd.",
+      "transcript_snippet": "they tried to scrub their affiliation from the internet. So, there were a lot of broken links as we were trying to hunt down this information.",
+      "mentions_person_refs": [
+        "N-967"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15438",
+      "ref": "C-15438",
+      "label": "Host Thanks a Sleuth Who Emailed the Dodd Lead",
+      "claim": "The host thanks a viewer sleuth who emailed her team the Dodd lead.",
+      "anchored_artifacts": [
+        "A-3398.2"
+      ],
+      "related_nodes": [
+        "N-11439",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:14:26",
+      "investigative_direction": "The tip email and its source material.",
+      "transcript_snippet": "Thank you, by the way, to the sleuth that emailed us the lead.",
+      "mentions_person_refs": [
+        "N-967"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15439",
+      "ref": "C-15439",
+      "label": "Host Alleges a Friend Scrubbed \"Club America\" From a Local News Article",
+      "claim": "The host alleges that the first search hit for the Bonners Ferry TPUSA president was a local news article, and that someone, assumed to be a friend, went back and scrubbed the words \"Club America\" from it.",
+      "anchored_artifacts": [
+        "A-3402.2"
+      ],
+      "related_nodes": [
+        "N-11439",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:14:58",
+      "investigative_direction": "Archived versions of the letter to the editor, and the newspaper's edit log.",
+      "transcript_snippet": "they got a friend to go back and just scrub the words Club America from the article.",
+      "mentions_person_refs": [
+        "N-10000"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15440",
+      "ref": "C-15440",
+      "label": "Letter to the Editor Originally Named a Club America Homeschool Hub",
+      "claim": "Per the letter the host shows, the writer introduced herself as vice president of Bonners Ferry's local homeschool hub. The host says the text originally said \"Club America\" and was removed so they could pretend they were not affiliated.",
+      "anchored_artifacts": [
+        "A-3402.2"
+      ],
+      "related_nodes": [
+        "N-11439",
+        "N-10533"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:15:15",
+      "investigative_direction": "Archived versions of the letter to the editor.",
+      "transcript_snippet": "Hello there, my name is Cora Nichols and I'm the vice president of Bonners Ferry's local that did say Club America homeschool hub.",
+      "mentions_person_refs": [
+        "N-10533"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15441",
+      "ref": "C-15441",
+      "label": "Host Alleges Turning Point Action Is Run by \"a Sexual Deviant\", Tyler Bowyer",
+      "claim": "The host alleges, as she says she keeps saying, that Turning Point Action is run by \"a sexual deviant\", Tyler Bowyer.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10925"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:16:24",
+      "investigative_direction": "The basis for the host's allegation, and court or police records if any exist.",
+      "transcript_snippet": "Turning Point Action is run by a sexual deviant, Tyler Bowyer.",
+      "mentions_person_refs": [
+        "N-11"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15442",
+      "ref": "C-15442",
+      "label": "Host Says Mikey McCoy Told Donors Charlie Wanted to Fire Bowyer",
+      "claim": "The host says Charlie wanted to fire Tyler Bowyer before he died, \"if Mikey McCormick [Mikey McCoy] is to be believed\", and that McCoy told donors this.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10925"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:16:30",
+      "investigative_direction": "The donors McCoy reportedly told, and Charlie Kirk's September 2025 personnel emails.",
+      "transcript_snippet": "Charlie wanted to fire uh Tyler Bowyer before he passed. That's if Mikey McCormick is to be believed. Mikey McCormick told donors this.",
+      "supports_claim_refs": [
+        "C-6276"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-11",
+        "N-190"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15443",
+      "ref": "C-15443",
+      "label": "Host Was Told Charlie Set Up DOGE Seven Days Before His Death Because Turning Point Action Money Was Missing",
+      "claim": "The host says she was told twice, as one of her earliest leads, that Charlie established DOGE (transcribed \"Osha\") seven days before he died because money was missing from Turning Point Action.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10434",
+        "N-10388",
+        "N-10925"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:16:45",
+      "investigative_direction": "Charlie Kirk's September 2, 2025 email on the DOGE audit, and Turning Point Action's audited financials.",
+      "transcript_snippet": "the reason that Charlie had established Osha, as I've said to you many times, 7 days before he died, was because money was missing out of Turning Point Action.",
+      "supports_claim_refs": [
+        "C-4055"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15444",
+      "ref": "C-15444",
+      "label": "Host's Sources Said $10 Million Was Missing and Charlie Wanted to Know Where It Went",
+      "claim": "The host says Turning Point insiders and a person who knew Charlie outside TPUSA told her $10 million was missing and that Charlie wanted to know where it went.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10388"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:17:00",
+      "investigative_direction": "Turning Point Action Form 990 and audit reports for 2024–2025.",
+      "transcript_snippet": "was that $10 million was missing. And Charlie wanted to know where it went.",
+      "supports_claim_refs": [
+        "C-4055",
+        "C-4081"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15445",
+      "ref": "C-15445",
+      "label": "Host Says Justin Streiff Denied the Missing-Money Lead",
+      "claim": "The host says that when she put the lead to Justin Streiff, he told her it was not true.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10388"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:17:10",
+      "investigative_direction": "Streiff's response to the host on the record, and Turning Point Action's financial statements.",
+      "transcript_snippet": "when I approached Justin Streiff about this this lead, he came back to me and said, \"No, this is not This is not true.",
+      "mentions_person_refs": [
+        "N-15"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15446",
+      "ref": "C-15446",
+      "label": "Host Says Lori Frantzve and Tyler Bowyer Have Worked Together Since Before Charlie",
+      "claim": "The host says Turning Point Action leads back to Erika Kirk's mother, Lori Frantzve, who she says works with Tyler Bowyer and has known him since before Charlie was in the picture.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10925"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:17:45",
+      "investigative_direction": "Business filings and organizational records linking Lori Frantzve and Tyler Bowyer.",
+      "transcript_snippet": "Lori Frantzve and Tyler Bowyer work together. They have known each other since before Charlie was ever in the picture.",
+      "mentions_person_refs": [
+        "N-489",
+        "N-11",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15447",
+      "ref": "C-15447",
+      "label": "Host Says Turning Point Action Says It Spent Its Money on Ballot Chasing",
+      "claim": "The host says Turning Point Action is at least out of money, and that it says it spent the money on ballot-chasing initiatives.",
+      "anchored_artifacts": [
+        "A-3404.1"
+      ],
+      "related_nodes": [
+        "N-10925",
+        "N-11435"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:15",
+      "investigative_direction": "FEC and IRS filings for Turning Point Action and its PAC, covering September 2026.",
+      "transcript_snippet": "At the very least we can establish that they're out of money. They They say they spent it all on on ballot chasing initiatives.",
+      "mentions_person_refs": [
+        "N-11435"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15448",
+      "ref": "C-15448",
+      "label": "Host Says Tyler Bowyer Presented the Newly Erected Charlie Kirk Statue at Headquarters",
+      "claim": "The host says that in September Tyler Bowyer himself presented the newly erected Charlie Kirk statue in front of TPUSA headquarters.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10827"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:35",
+      "investigative_direction": "TPUSA posts and video of the statue unveiling.",
+      "transcript_snippet": "Back in September, uh you might recall was actually Tyler Bowyer himself. He presented the newly erected Charlie Kirk statue in front of headquarters.",
+      "mentions_person_refs": [
+        "N-11",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15449",
+      "ref": "C-15449",
+      "label": "TPUSA Said the Statue Was Vandalized by the Left at 1:00 a.m.",
+      "claim": "The host says TPUSA said the statue was vandalized over the weekend at 1:00 a.m. by the left, with red spray paint, and that it is unclear how they knew it was the left.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10827",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:52",
+      "investigative_direction": "The Phoenix police report on the statue vandalism.",
+      "transcript_snippet": "they said over the weekend at 1:00 a.m. in the morning the statue was vandalized by the left.",
+      "supports_claim_refs": [
+        "C-3442",
+        "C-11757"
+      ],
+      "mentions_person_refs": [
+        "N-10000"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15450",
+      "ref": "C-15450",
+      "label": "Host Says TPUSA Would Not Share Surveillance Footage of the Vandalism",
+      "claim": "The host says TPUSA declined to share any surveillance footage with the public even though its headquarters is under heavy surveillance, and gave nothing when asked what car was involved.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10827",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:19:08",
+      "investigative_direction": "TPUSA headquarters security footage, and police requests for it.",
+      "transcript_snippet": "Bizarrely, they didn't want to share any of the surveillance footage with the public.",
+      "mentions_person_refs": [
+        "N-10000"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15451",
+      "ref": "C-15451",
+      "label": "Host Says the Only Thing TPUSA Shared Was Links to Donate to Ballot Chasing",
+      "claim": "The host says the one thing TPUSA wanted to share immediately was links and requests to donate to the Turning Point Action ballot-chasing initiative.",
+      "anchored_artifacts": [
+        "A-3403.1",
+        "A-3403.2"
+      ],
+      "related_nodes": [
+        "N-10827",
+        "N-10925",
+        "N-11436"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:19:45",
+      "investigative_direction": "TPUSA and Turning Point Action social posts in the 72 hours after the vandalism.",
+      "transcript_snippet": "Except the one thing that they did want to share immediately, links and requests for us to donate specifically to their ballot chasing initiative via Turning Point Action.",
+      "mentions_person_refs": [
+        "N-10925",
+        "N-11436"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15452",
+      "ref": "C-15452",
+      "label": "Host Says TPUSA Directed People to the 501c4 Action Arm Rather Than the 501c3",
+      "claim": "The host says that after \"Statugate\" TPUSA directed people not to its tax-deductible 501c3 arm but to Tyler Bowyer's Turning Point Action 501c4 arm.",
+      "anchored_artifacts": [
+        "A-3403.1"
+      ],
+      "related_nodes": [
+        "N-10000",
+        "N-10925",
+        "N-11436",
+        "N-10827"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:20:20",
+      "investigative_direction": "The donation links in TPUSA's posts after the vandalism.",
+      "transcript_snippet": "Turning Point USA's response was to direct people not to the tax-deductible uh charitable arm, the 501c3, but rather to Tyler Bowyer's Turning Point Action 501c4 arm.",
+      "mentions_person_refs": [
+        "N-11"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15453",
+      "ref": "C-15453",
+      "label": "Clip Says the Commit 100 Program Surged After the Vandalism News",
+      "claim": "In a clip the host plays, a speaker not named on air says the Commit 100 program surged after the news broke, and directs viewers to tpaction.com/100.",
+      "anchored_artifacts": [
+        "A-3403.1"
+      ],
+      "related_nodes": [
+        "N-11436",
+        "N-10827"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:20:47",
+      "investigative_direction": "The source broadcast of the clip, and Commit 100 sign-up numbers.",
+      "transcript_snippet": "After this news broke, uh the Commit 100 program that we've been pushing on this program is surging.",
+      "supports_claim_refs": [
+        "C-3436"
+      ],
+      "mentions_person_refs": [
+        "N-10827"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15454",
+      "ref": "C-15454",
+      "label": "Clip Says Friends of Charlie and Erika Put Up a $10,000 Reward",
+      "claim": "In the clip, the speaker says friends of Charlie and Erika Kirk put up a $10,000 reward for a tip leading to the arrest of the vandals.",
+      "anchored_artifacts": [
+        "A-3403.1"
+      ],
+      "related_nodes": [
+        "N-10827"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:21:28",
+      "investigative_direction": "The reward announcement, and police tip records.",
+      "transcript_snippet": "we even have some friends of Charlie and Erika that have put up $10,000 reward if anybody has a tip that they can send law enforcement that leads to the arrest of the vandals",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15455",
+      "ref": "C-15455",
+      "label": "Host Says the Vandals Have Not Been Caught",
+      "claim": "The host says the tips apparently did not work and the vandal has not been caught, and that there have been no updates since last month.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10827"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:21:42",
+      "investigative_direction": "The Phoenix police case status on the statue vandalism.",
+      "transcript_snippet": "Update, the vandals who did this the tips apparently did not work. They have not caught the person."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15456",
+      "ref": "C-15456",
+      "label": "Bowyer Tweeted a Surge of Commit 100 Volunteers After the Vandalism",
+      "claim": "Per the Tyler Bowyer X post the host shows, after \"what the left did to our headquarters\" there was a surge of volunteers signing up to go to Arizona for Commit 100, a program to chase 100 ballots in October.",
+      "anchored_artifacts": [
+        "A-3403.2"
+      ],
+      "related_nodes": [
+        "N-11436",
+        "N-10827"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:21:52",
+      "investigative_direction": "Bowyer's X post archive.",
+      "transcript_snippet": "After what the left did to our headquarters today, we have a surge of volunteers signing up to come to Arizona for Commit 100.",
+      "supports_claim_refs": [
+        "C-3427"
+      ],
+      "mentions_person_refs": [
+        "N-11"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15457",
+      "ref": "C-15457",
+      "label": "Turning Point Action Email Says It Burned Through Its Financial Resources Faster Than Planned",
+      "claim": "Per the Turning Point Action email the host reads, September was its busiest month yet, and because of that success it \"burned through our financial resources faster than planned\".",
+      "anchored_artifacts": [
+        "A-3404.1"
+      ],
+      "related_nodes": [
+        "N-10925",
+        "N-11435"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:22:48",
+      "investigative_direction": "The original email, and Turning Point Action's cash-on-hand filings.",
+      "transcript_snippet": "And because of that success we've burned through our financial resources faster than planned.",
+      "mentions_person_refs": [
+        "N-11435"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15458",
+      "ref": "C-15458",
+      "label": "Host Says TPUSA Employees Dispute Streiff's Denial",
+      "claim": "The host says that Justin Streiff disputes the account of how Charlie felt about Turning Point Action, but that people who work at TPUSA dispute what Streiff says. She suggests more money may have disappeared, adding that she does not know this for a fact.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10388",
+        "N-10000",
+        "N-11435"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:23:30",
+      "investigative_direction": "Interviews with TPUSA staff, and Turning Point Action financial statements.",
+      "transcript_snippet": "which I will again say Justin Streiff disputes, but people um who work at Turning Point USA dispute what Justin Streiff says, it feels like they need money.",
+      "mentions_person_refs": [
+        "N-15"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15459",
+      "ref": "C-15459",
+      "label": "Host Suspects the Statue Episode Was Meant as a Fundraiser Push",
+      "claim": "The host says her instinct is that the public is not being told the whole statue story and that it was meant as a fundraising push. She credits Bobby Sausalito (transcribed \"Bobby Sausalito\") with keeping the story alive.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10827",
+        "N-10925"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:23:50",
+      "investigative_direction": "The police vandalism report, the surveillance footage, and donation inflows after the incident.",
+      "transcript_snippet": "my instincts about the statue is that we're not being told the entire story um and that it was meant to be a fundraiser push",
+      "mentions_person_refs": [
+        "N-898"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15460",
+      "ref": "C-15460",
+      "label": "Host Says Being a Lawyer Is Not Required for Press Secretary, Citing Scaramucci",
+      "claim": "The host says being a lawyer is not a requirement for press secretary, and that \"we had Anthony Scaramucci\" as press secretary.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11434"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:27:28",
+      "investigative_direction": "White House staff records. Scaramucci was White House Communications Director in 2017, not press secretary.",
+      "transcript_snippet": "It's not It's not a requirement to be the press secretary. We had Anthony Scaramucci as the as the press secretary.",
+      "mentions_person_refs": [
+        "N-969",
+        "N-962"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15461",
+      "ref": "C-15461",
+      "label": "Host Says Zacharia Calls Her Lawyer Claim a Mix-Up",
+      "claim": "The host says the press secretary (transcribed \"Karine Jean-Pierre\" [Katie Zacharia]) has come clean and says it was a mix-up.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11434"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:27:55",
+      "investigative_direction": "Zacharia's statements to Fox News, CBS News and Jack Posobiec in October 2026.",
+      "transcript_snippet": "But Karine Jean-Pierre, she's now come clean. She has come clean. She says it was a mix-up.",
+      "mentions_person_refs": [
+        "N-962"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15462",
+      "ref": "C-15462",
+      "label": "Host Says the Wall Street Journal Broke That Zacharia Did Not Pass the Bar",
+      "claim": "The host says the Wall Street Journal broke the news that Zacharia did not pass the bar exam, and that she now admits it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11434"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:28:20",
+      "investigative_direction": "The Wall Street Journal report, and California State Bar records.",
+      "transcript_snippet": "Wall Street Journal broke the news that she did not pass the bar exam.",
+      "mentions_person_refs": [
+        "N-962"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15463",
+      "ref": "C-15463",
+      "label": "Host Says Zacharia Was Told by Pepperdine's President She Could Call Herself a Lawyer",
+      "claim": "The host says Zacharia's explanation is that she consulted Pepperdine's president on how to identify herself and was told she could say she was a lawyer as long as she did not use the words \"attorney\" or \"esquire\".",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11434",
+        "N-11441"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:28:30",
+      "investigative_direction": "Pepperdine University comment, and Zacharia's full statement.",
+      "transcript_snippet": "she had consulted with Pepperdine's president as to how to identify herself. And she was told that as long as she didn't use the words attorney or esquire, she was okay to say that she was a lawyer.",
+      "mentions_person_refs": [
+        "N-962"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15464",
+      "ref": "C-15464",
+      "label": "Host Says Zacharia's LinkedIn Lists Her as a General Counsel",
+      "claim": "The host says Zacharia lists herself on LinkedIn as a general counsel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11434"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:28:52",
+      "investigative_direction": "Archived captures of Zacharia's LinkedIn profile.",
+      "transcript_snippet": "on her LinkedIn, she has herself listed as a general counsel.",
+      "mentions_person_refs": [
+        "N-962"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15465",
+      "ref": "C-15465",
+      "label": "Supercut Has Zacharia Calling Herself a Former Corporate Lawyer in China for Three Years",
+      "claim": "In a supercut the host plays, Zacharia describes herself \"as a lawyer and a former corporate lawyer in China for 3 years\".",
+      "anchored_artifacts": [
+        "A-3405.1"
+      ],
+      "related_nodes": [
+        "N-11434"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:29:15",
+      "investigative_direction": "The source broadcasts of each supercut clip.",
+      "transcript_snippet": "especially as a as a lawyer and a former corporate lawyer in China for 3 years.",
+      "mentions_person_refs": [
+        "N-962"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15466",
+      "ref": "C-15466",
+      "label": "Supercut Has Zacharia Saying \"I Am a Lawyer\" and Citing Her Research on Fauci",
+      "claim": "In the supercut, Zacharia says \"I am a lawyer and I'm a rigorous researcher\". In other clips she says \"I'm a lawyer\" and refers to making a case \"because that's what we do as lawyers\".",
+      "anchored_artifacts": [
+        "A-3405.1"
+      ],
+      "related_nodes": [
+        "N-11434"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:29:22",
+      "investigative_direction": "The source broadcasts of the supercut clips.",
+      "transcript_snippet": "And and I mean, I am a lawyer and I'm a rigorous researcher, and I spent the better part of 2020 and 2021 researching this",
+      "mentions_person_refs": [
+        "N-962"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15467",
+      "ref": "C-15467",
+      "label": "Zacharia Says Her Father-in-Law, a Pepperdine Law Adjunct, Introduced Her to Her Husband",
+      "claim": "In the Jack Posobiec interview clip, Zacharia says her husband lived in Beijing and that his father, an adjunct professor at Pepperdine Law, introduced them.",
+      "anchored_artifacts": [
+        "A-3405.2"
+      ],
+      "related_nodes": [
+        "N-11434",
+        "N-11441"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:30:45",
+      "investigative_direction": "Pepperdine Law faculty records.",
+      "transcript_snippet": "His dad was an adjunct professor at Pepperdine Law, and he \"Do you want to meet my son?\"",
+      "mentions_person_refs": [
+        "N-962",
+        "N-95"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15468",
+      "ref": "C-15468",
+      "label": "Zacharia Says She Took the Bar Already Pre-Registered, Knowing They Would Move to China",
+      "claim": "In the clip, Zacharia says she had already pre-registered for the bar and did not want to withdraw, though she and her husband knew they would move to China.",
+      "anchored_artifacts": [
+        "A-3405.2"
+      ],
+      "related_nodes": [
+        "N-11434"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:31:05",
+      "investigative_direction": "California State Bar exam records for 2011.",
+      "transcript_snippet": "I had already pre-registered to take the bar, and I didn't want to withdraw from that, and we knew we would be moving out to China.",
+      "mentions_person_refs": [
+        "N-962"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15469",
+      "ref": "C-15469",
+      "label": "Zacharia Says the Bar Results Were Somewhat Inconsequential Because She Would Not Need the Bar in China",
+      "claim": "In the clip, Zacharia says the results were \"somewhat inconsequential\" because she knew she would not need the bar in China.",
+      "anchored_artifacts": [
+        "A-3405.2"
+      ],
+      "related_nodes": [
+        "N-11434"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:31:30",
+      "investigative_direction": "Her bar exam result record.",
+      "transcript_snippet": "The results are somewhat inconsequential because I knew I wouldn't need the bar in China",
+      "mentions_person_refs": [
+        "N-962"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15470",
+      "ref": "C-15470",
+      "label": "Zacharia Says She Worked in Jun He Law Firm's International Practice Division",
+      "claim": "In the clip, Zacharia says she was offered a job in the international practice division of a Chinese law firm, Jun He Law Firm.",
+      "anchored_artifacts": [
+        "A-3405.2"
+      ],
+      "related_nodes": [
+        "N-11434",
+        "N-11442"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:31:50",
+      "investigative_direction": "JunHe Law Offices employment confirmation.",
+      "transcript_snippet": "I was offered a job at a in an international practice division of a of a Chinese law firm called Jun He Law Firm.",
+      "mentions_person_refs": [
+        "N-962"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15471",
+      "ref": "C-15471",
+      "label": "Zacharia Says There Is No Chinese Bar and Her Law Degree Was Enough Credential",
+      "claim": "In the clip, Zacharia says \"There's no Chinese bar\" and that her law degree was enough credential to handle multi-million-dollar cross-border shareholder agreements.",
+      "anchored_artifacts": [
+        "A-3405.2"
+      ],
+      "related_nodes": [
+        "N-11434",
+        "N-11442"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:32:10",
+      "investigative_direction": "PRC rules on foreign lawyers in Chinese firms.",
+      "transcript_snippet": "There's no Chinese bar. I had the enough credentials, which was my law degree, to be able to do this practice",
+      "mentions_person_refs": [
+        "N-962"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15472",
+      "ref": "C-15472",
+      "label": "Zacharia Says She Did Not Retake the Bar Because of a \"Surprise Baby\"",
+      "claim": "In the clip, asked by Posobiec why she did not retake the bar, Zacharia says that when they moved back they had a \"surprise baby\", her first son, who turns 12 that day.",
+      "anchored_artifacts": [
+        "A-3405.2"
+      ],
+      "related_nodes": [
+        "N-11434"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:32:45",
+      "investigative_direction": "The timeline of Zacharia's return from China.",
+      "transcript_snippet": "Well, when we moved back, Jack, we got a surprise baby. Our our first baby is he's this is birthday today, and he is 12 years old.",
+      "mentions_person_refs": [
+        "N-962",
+        "N-95"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15473",
+      "ref": "C-15473",
+      "label": "Host Says Her Research Shows the Bar Is Given Twice a Year and Can Be Retaken",
+      "claim": "The host says she checked, and that after failing a candidate can take the bar the next time it is administered, which is twice a year.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11434"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:33:40",
+      "investigative_direction": "State Bar of California exam schedule and retake rules.",
+      "transcript_snippet": "The bar is administered twice a year, according to just a little bit of research I did today.",
+      "mentions_person_refs": [
+        "N-962"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15474",
+      "ref": "C-15474",
+      "label": "Host Says Having a Baby Does Not Preclude Taking the Bar",
+      "claim": "The host says she checked and found no preclusion on taking the bar exam while pregnant or with children.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11434"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:34:00",
+      "investigative_direction": "State bar eligibility and accommodation rules.",
+      "transcript_snippet": "even if you have a baby, you can take you can take the bar exam. I checked. There doesn't seem to be any preclusions.",
+      "mentions_person_refs": [
+        "N-962"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15475",
+      "ref": "C-15475",
+      "label": "Host Says Hegseth Announced the Fort Hood Shooter Would Be Executed on Livestream",
+      "claim": "The host says one of Pete Hegseth's recent moves was announcing that the Fort Hood shooter would be executed and that the execution would be livestreamed.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11443"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:34:50",
+      "investigative_direction": "Hegseth's statement and Department of War / Army releases on the Hasan execution.",
+      "transcript_snippet": "one of his recent tough guy things was, we are going to be executing the Fort Hood shooter and we're going to live stream it.",
+      "mentions_person_refs": [
+        "N-592",
+        "N-970"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15476",
+      "ref": "C-15476",
+      "label": "Clip Has Charlie Kirk Saying He Would Oppose the Death Penalty in America for Now",
+      "claim": "In a clip the host plays, Charlie Kirk says that in America he would oppose the death penalty because the current government will use any power it is given against the people.",
+      "anchored_artifacts": [
+        "A-3406.1"
+      ],
+      "related_nodes": [
+        "N-11443"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:36:38",
+      "investigative_direction": "The source episode of the clip and its date.",
+      "transcript_snippet": "I would say in in America I would oppose the death penalty for very specific reason. Because right now the trend is this current government will use any power we give them against us.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15477",
+      "ref": "C-15477",
+      "label": "Host Says in Her Opinion the Epstein Class Set Up Charlie's Assassination and Robinson Did Not Act Alone",
+      "claim": "The host says it is her opinion that the \"Epstein class\" set up Charlie Kirk's assassination, and that she does not believe Tyler Robinson did it alone on a rooftop.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:38:08",
+      "investigative_direction": "Evidence at Robinson's preliminary hearing and trial on co-conspirators.",
+      "transcript_snippet": "I don't believe Tyler Robinson did it alone on a rooftop.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15478",
+      "ref": "C-15478",
+      "label": "Host Says Trump's Truth Social Post Said Hasan's Execution Would Not Be Livestreamed",
+      "claim": "The host says Trump issued a Truth Social post establishing that Nidal Malik Hasan, the former US Army major, \"would not be executed. It would not be live-streamed\". Her later description indicates the post called off the livestream, not the execution.",
+      "anchored_artifacts": [
+        "A-3407.1"
+      ],
+      "related_nodes": [
+        "N-11443"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:38:35",
+      "investigative_direction": "Trump's Truth Social post of October 2026.",
+      "transcript_snippet": "Trump did issue a Truth Social post where he established that Nidal Malik Hasan, who was the former US Army major turned traitor, um would not be executed. It would not be live-streamed.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-970"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15479",
+      "ref": "C-15479",
+      "label": "Host Says Trump's Post Called Hasan Scum but Noted People Would Rather Not Watch Him Die",
+      "claim": "The host says Trump's post called Hasan scum but said well-meaning people would rather not watch him die. She adds that Hasan is paraplegic, and characterizes Andrew Wilson as eager to watch.",
+      "anchored_artifacts": [
+        "A-3407.1"
+      ],
+      "related_nodes": [
+        "N-11443"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:38:52",
+      "investigative_direction": "The text of the Truth Social post, and Andrew Wilson's public comments.",
+      "transcript_snippet": "He said he was scum, uh but there are well-meaning people who would rather not watch him die. Also, he's paraplegic.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-970",
+        "N-18"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15480",
+      "ref": "C-15480",
+      "label": "Host Says Trump's Post Lets Victims' Families View the Execution",
+      "claim": "The host says Trump's Truth Social post said the execution can be viewed by the immediate families of the victims if they choose.",
+      "anchored_artifacts": [
+        "A-3407.1"
+      ],
+      "related_nodes": [
+        "N-11443"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:39:45",
+      "investigative_direction": "The text of the Truth Social post.",
+      "transcript_snippet": "Donald Trump said that the execution can be viewed by people in the immediate families of the victims if they so choose",
+      "mentions_person_refs": [
+        "N-5",
+        "N-970"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15481",
+      "ref": "C-15481",
+      "label": "Host Says She Selected Baron Coleman to Take Over the Show",
+      "claim": "The host says she selected Baron Coleman to take over the show because he has stayed focused, and that they have been sharing information in the background for some time.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11313"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:42:25",
+      "investigative_direction": "Episodes hosted by Baron Coleman during the host's leave.",
+      "transcript_snippet": "I selected Baron Coleman to take over the show because he has been focused",
+      "mentions_person_refs": [
+        "N-330",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15482",
+      "ref": "C-15482",
+      "label": "Viewer Comment Says Erika Kirk's Team Never Released the Promised Never-Before-Seen Charlie Episodes",
+      "claim": "A viewer comment the host reads says none of the \"never before seen\" Charlie episodes that Erika Kirk and her \"henchmen\" were bragging about have appeared.",
+      "anchored_artifacts": [
+        "A-3408.1"
+      ],
+      "related_nodes": [
+        "N-11444"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:44:35",
+      "investigative_direction": "TPUSA announcements promising unreleased Charlie Kirk material, and what was released.",
+      "transcript_snippet": "It's so interesting that we haven't seen any of the never before seen Charlie episodes that Erika and her henchmen were bragging about.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15483",
+      "ref": "C-15483",
+      "label": "Host Thinks TPUSA Was Going to Use an AI Charlie",
+      "claim": "The host says she thinks they were going to employ an \"AI Charlie\" and that they were having discussions with people who do that kind of work.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11444",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:45:05",
+      "investigative_direction": "TPUSA vendor contracts for AI voice or likeness services, and the people in those meetings.",
+      "transcript_snippet": "I do think they were going to employ AI Charlie. It was weird. I mean they were having discussions with people that do that kind of stuff.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15484",
+      "ref": "C-15484",
+      "label": "Viewer Comment Says the Bloodied Bag Was Offered to Shawn Ryan",
+      "claim": "A viewer comment the host reads says the bloodied bag was offered to Shawn Ryan, who declined it because he thought it was weird.",
+      "anchored_artifacts": [
+        "A-3408.2"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:47:33",
+      "investigative_direction": "The Shawn Ryan Show episode with Brian Harpole.",
+      "transcript_snippet": "The bloodied bag was offered to Shawn Ryan.",
+      "supports_claim_refs": [
+        "C-4776"
+      ],
+      "mentions_person_refs": [
+        "N-224"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15485",
+      "ref": "C-15485",
+      "label": "Host Says Harpole's Bag Is Separate From the Bag in the Clancy Story, Which Matches Turek's",
+      "claim": "The host says the bag offered to Shawn Ryan was Brian Harpole's and is a different bag. In the Tyler Clancy story the officer threw out a bag that matches Frank Turek's, and she says she thinks Harpole had nothing to do with the police officer story.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11438"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:47:40",
+      "investigative_direction": "Accounts from Harpole, Turek and Clancy of each bag's chain of custody.",
+      "transcript_snippet": "No, that's Brian Harpole's bag. It's totally different and again, this the Tyler Clancy story is that the officer did throw out the bag and it matches Frank Turek's.",
+      "mentions_person_refs": [
+        "N-266",
+        "N-959",
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15486",
+      "ref": "C-15486",
+      "label": "Host Asks for Information on Tyler Clancy and Says They Sought His Comment Before Publishing",
+      "claim": "The host asks viewers for any information about Tyler Clancy and says they went to him for comment before publishing.",
+      "anchored_artifacts": [
+        "A-3398.3"
+      ],
+      "related_nodes": [
+        "N-11438"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:48:07",
+      "investigative_direction": "Clancy's response to the host's request for comment.",
+      "transcript_snippet": "So, if you know if you have any information pertaining to Tyler Clancy, uh we would like to hear it.",
+      "mentions_person_refs": [
+        "N-959"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15487",
+      "ref": "C-15487",
+      "label": "Host Says She Has a Tip on Another Timely Cox Promotion in October",
+      "claim": "The host says a tip in her inbox concerns another timely promotion, made in October and tied to Charlie on September 10, which she will report next week. She says they will report what Governor Cox's office says.",
+      "anchored_artifacts": [
+        "A-3398.3"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:48:28",
+      "investigative_direction": "Utah state appointment and promotion records for October 2025.",
+      "transcript_snippet": "another promotion, timely promotion that came in October, um that was tangential to Charlie on the 10th.",
+      "mentions_person_refs": [
+        "N-41",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15488",
+      "ref": "C-15488",
+      "label": "Host Asks for Tips at candaceowens.com and Floats a Bounty",
+      "claim": "The host asks viewers to email more tips at candaceowens.com and wonders aloud whether she will have to put up a bounty for information.",
+      "anchored_artifacts": [
+        "A-3398.3"
+      ],
+      "related_nodes": [
+        "N-10874"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:48:37",
+      "investigative_direction": "The tip inbox, and any formal bounty announcement.",
+      "transcript_snippet": "please email us more tips at candaceowens.com and we still still are looking for information.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15489",
+      "ref": "C-15489",
+      "label": "Host Seeks the Identity of the Fire Captain Who Performed CPR on Charlie at the Hospital",
+      "claim": "The host says that, according to the UVU Independent Review, a fire captain performed CPR on Charlie when he arrived at the hospital, and that she wants to know who it was.",
+      "anchored_artifacts": [
+        "A-3398.3"
+      ],
+      "related_nodes": [
+        "N-10874"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:48:45",
+      "investigative_direction": "The UVU Independent Review, and Orem / Provo Fire Department rosters and run reports for September 10, 2025.",
+      "transcript_snippet": "information pertaining to who the fire captain was who performed CPR on Charlie when he arrived to the hospital.",
+      "supports_claim_refs": [
+        "C-3622"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15490",
+      "ref": "C-15490",
+      "label": "Host Believes the Fire Captain Was From Fire Station Two in Orem or Provo",
+      "claim": "The host says the reports indicate the captain was from fire station two, \"I believe\", and that she thinks it was in Orem, though maybe Provo.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10874",
+        "N-10062",
+        "N-10074"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:49:08",
+      "investigative_direction": "Orem Fire Station 2 and Provo Fire Station 2 shift records for September 10, 2025.",
+      "transcript_snippet": "We uh learned from the reports that they were from fire station two, I believe. Don't quote me on that.",
+      "mentions_person_refs": [
+        "N-10062",
+        "N-10074"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15491",
+      "ref": "C-15491",
+      "label": "Host Says Neither Turek Nor Harpole Mentioned the Fire Captain's CPR",
+      "claim": "The host says neither Frank Turek, across his many accounts, nor Brian Harpole mentioned a fire captain giving CPR.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10874"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:49:28",
+      "investigative_direction": "Turek's and Harpole's interview transcripts.",
+      "transcript_snippet": "neither Frank Turek in his many iterations of what happened, um nor Brian Harpole in his super fantastic story of all that he did, mentioned a fire captain who gave CPR.",
+      "supports_claim_refs": [
+        "C-3623"
+      ],
+      "mentions_person_refs": [
+        "N-7",
+        "N-266"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15492",
+      "ref": "C-15492",
+      "label": "Host Is Told the Fire Captain Information Is Being Intentionally Hushed",
+      "claim": "The host says she is told the fire captain's identity is being intentionally hushed, and that she cannot see why, since he would be a hero.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10874"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:49:40",
+      "investigative_direction": "Redactions in the UVU Independent Review, and a public-records request for the fire department's run report.",
+      "transcript_snippet": "I am told that this information is intentionally being hushed."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15493",
+      "ref": "C-15493",
+      "label": "Host Asks for Direct-Knowledge Tips on the Fire Captain",
+      "claim": "The host asks viewers who know more to email tips at candaceowens.com, and says she wants people with direct knowledge, not people guessing from research.",
+      "anchored_artifacts": [
+        "A-3398.4"
+      ],
+      "related_nodes": [
+        "N-10874"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:49:56",
+      "investigative_direction": "The tip inbox.",
+      "transcript_snippet": "So, please email us if you know more more tips at candaceowens.com. Again, we want someone with direct knowledge",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    }
+  ],
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 166,
+          "video_timestamp": "00:01:52",
+          "speaker_node_ref": "N-3",
+          "quote": "one of you guys emailed the tip line and noticed that actually the governor's office just made a mistake.",
+          "context": "Tip payoff: a viewer's tip corrects the dates on Cox's schedule.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "payoff",
+            "Cox schedule"
+          ]
+        },
+        {
+          "episode": 166,
+          "video_timestamp": "00:14:26",
+          "speaker_node_ref": "N-3",
+          "quote": "Thank you, by the way, to the sleuth that emailed us the lead.",
+          "context": "Tip payoff: a viewer's lead on the Taylor Dodd arrest.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "payoff",
+            "Club America"
+          ]
+        },
+        {
+          "episode": 166,
+          "video_timestamp": "00:48:37",
+          "speaker_node_ref": "N-3",
+          "quote": "please email us more tips at candaceowens.com and we still still are looking for information.",
+          "context": "Tip request on Tyler Clancy, Cox promotions and the fire captain.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "request"
+          ]
+        },
+        {
+          "episode": 166,
+          "video_timestamp": "00:48:43",
+          "speaker_node_ref": "N-3",
+          "quote": "I'm going to have to put a bounty up on it, aren't I?",
+          "context": "Floats a bounty for the fire captain's identity.",
+          "confidence": "high",
+          "tags": [
+            "bounty",
+            "fire captain"
+          ]
+        },
+        {
+          "episode": 166,
+          "video_timestamp": "00:49:56",
+          "speaker_node_ref": "N-3",
+          "quote": "So, please email us if you know more more tips at candaceowens.com. Again, we want someone with direct knowledge",
+          "context": "Tip request for direct knowledge of the fire captain.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "request",
+            "fire captain"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-79",
+      "ref": "M-79",
+      "canonical_term": "Pass the Sniff Test",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 166,
+          "video_timestamp": "00:05:28",
+          "speaker_node_ref": "N-3",
+          "quote": "Doesn't pass the sniff test for me",
+          "context": "On an officer throwing out a blood-covered bag.",
+          "confidence": "high",
+          "tags": [
+            "Clancy",
+            "bag"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-26",
+      "ref": "M-26",
+      "canonical_term": "Gaslight",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 166,
+          "video_timestamp": "00:14:36",
+          "speaker_node_ref": "N-3",
+          "quote": "They gaslighting, probably.",
+          "context": "On TPUSA scrubbing its Club America affiliation.",
+          "confidence": "high",
+          "tags": [
+            "TPUSA",
+            "Club America"
+          ]
+        },
+        {
+          "episode": 166,
+          "video_timestamp": "00:15:58",
+          "speaker_node_ref": "N-3",
+          "quote": "I'm just wondering how much longer they're going to gaslight us, threaten us, file lawsuits",
+          "context": "On TPUSA's response to criticism.",
+          "confidence": "high",
+          "tags": [
+            "TPUSA",
+            "lawsuits"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-162",
+      "ref": "M-162",
+      "canonical_term": "Heaven Focused",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 166,
+          "video_timestamp": "00:15:48",
+          "speaker_node_ref": "N-3",
+          "quote": "Not until Turning Point got heaven-focused.",
+          "context": "Dates TPUSA's scandals to its \"heaven-focused\" era.",
+          "confidence": "high",
+          "tags": [
+            "TPUSA",
+            "Erika"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-84",
+      "ref": "M-84",
+      "canonical_term": "Bend the Knee",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 166,
+          "video_timestamp": "00:16:05",
+          "speaker_node_ref": "N-3",
+          "quote": "think that we're going to shut up and I guess like bend the knee to this.",
+          "context": "Refuses to be silenced by TPUSA's lawsuits.",
+          "confidence": "high",
+          "tags": [
+            "TPUSA",
+            "defiance"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-80",
+      "ref": "M-80",
+      "canonical_term": "Jog Your Memory",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 166,
+          "video_timestamp": "00:20:35",
+          "speaker_node_ref": "N-3",
+          "quote": "Take a listen to jog your memory here.",
+          "context": "Introduces the Commit 100 clip.",
+          "confidence": "high",
+          "tags": [
+            "statue",
+            "Commit 100"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-44",
+      "ref": "M-44",
+      "canonical_term": "It's Giving",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 166,
+          "video_timestamp": "00:22:58",
+          "speaker_node_ref": "N-3",
+          "quote": "It's giving Jussie Smollett to me now.",
+          "context": "Compares the statue vandalism to the Smollett hoax.",
+          "confidence": "high",
+          "tags": [
+            "statue",
+            "hoax"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-64",
+      "ref": "M-64",
+      "canonical_term": "Audacity of the Gaslight",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 166,
+          "video_timestamp": "00:27:10",
+          "speaker_node_ref": "N-3",
+          "quote": "I think the audacity of the gaslight I I think I'm a fan of hers now.",
+          "context": "Mocks the press secretary's lawyer claim.",
+          "confidence": "high",
+          "tags": [
+            "Zacharia",
+            "gaslight"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-100",
+      "ref": "M-100",
+      "canonical_term": "Epstein Class",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 166,
+          "video_timestamp": "00:36:10",
+          "speaker_node_ref": "N-3",
+          "quote": "The Epstein class is in power.",
+          "context": "Argues against livestreamed executions.",
+          "confidence": "high",
+          "tags": [
+            "death penalty",
+            "Epstein class"
+          ]
+        },
+        {
+          "episode": 166,
+          "video_timestamp": "00:38:05",
+          "speaker_node_ref": "N-3",
+          "quote": "the Epstein class put him killed Charlie Kirk. Set up his assassination.",
+          "context": "Her opinion on who set up Charlie's assassination.",
+          "confidence": "high",
+          "tags": [
+            "assassination",
+            "Epstein class"
+          ]
+        },
+        {
+          "episode": 166,
+          "video_timestamp": "00:42:58",
+          "speaker_node_ref": "N-3",
+          "quote": "Ignore the Epstein class taking over or we're going to bankrupt you.",
+          "context": "Says lawsuits will not silence her.",
+          "confidence": "high",
+          "tags": [
+            "lawsuits",
+            "Epstein class"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-65",
+      "ref": "M-65",
+      "canonical_term": "Elephant Clipping",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 166,
+          "video_timestamp": "00:42:38",
+          "speaker_node_ref": "N-3",
+          "quote": "Talk about the elephant clipping in the room.",
+          "context": "On the ties around TPUSA.",
+          "confidence": "high",
+          "tags": [
+            "TPUSA",
+            "ties"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-154",
+      "ref": "M-154",
+      "canonical_term": "Second Favorite Shirt",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 166,
+          "video_timestamp": "00:45:30",
+          "speaker_node_ref": "N-3",
+          "quote": "Gift it to somebody. That's what you have to do. And then it's both your second favorite shirts.",
+          "context": "A viewer was accidentally sent an extra second-favorite shirt.",
+          "confidence": "high",
+          "tags": [
+            "merch"
+          ]
+        },
+        {
+          "episode": 166,
+          "video_timestamp": "00:50:15",
+          "speaker_node_ref": "N-3",
+          "quote": "If you do by accident get two second favorite church, you can give it to a friend.",
+          "context": "Merch plug, callback to the viewer comment.",
+          "confidence": "high",
+          "tags": [
+            "merch"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-19",
+      "ref": "M-19",
+      "canonical_term": "Go Max",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 166,
+          "video_timestamp": "00:45:57",
+          "speaker_node_ref": "N-3",
+          "quote": "Jesus is king. Go Max.\"",
+          "context": "The host reads a viewer comment signing off \"Go Max\".",
+          "confidence": "high",
+          "tags": [
+            "viewer comment"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-14",
+      "ref": "M-14",
+      "canonical_term": "Candace Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 166,
+          "video_timestamp": "00:50:25",
+          "speaker_node_ref": "N-3",
+          "quote": "You can buy a CIA hat. The hunter green ones are really great for the fall.",
+          "context": "CIA hat merch plug.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "CIA"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-365",
+      "ref": "M-365",
+      "canonical_term": "Statugate",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 166,
+          "video_timestamp": "00:18:28",
+          "speaker_node_ref": "N-3",
+          "quote": "I sensed this was coming just on the basis of Statugate.",
+          "context": "The host's name for the Charlie Kirk statue vandalism and the fundraising after it.",
+          "confidence": "high",
+          "tags": [
+            "statue",
+            "TPUSA",
+            "Turning Point Action"
+          ]
+        },
+        {
+          "episode": 166,
+          "video_timestamp": "00:18:32",
+          "speaker_node_ref": "N-3",
+          "quote": "You guys remember Statugate?",
+          "context": "Recaps the September statue vandalism.",
+          "confidence": "high",
+          "tags": [
+            "statue"
+          ]
+        },
+        {
+          "episode": 166,
+          "video_timestamp": "00:20:15",
+          "speaker_node_ref": "N-3",
+          "quote": "Well, after StatuGate, Turning Point USA's response was to direct people not to the tax-deductible uh charitable arm",
+          "context": "On the Commit 100 donation push.",
+          "confidence": "high",
+          "tags": [
+            "statue",
+            "Commit 100"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-366",
+      "ref": "M-366",
+      "canonical_term": "Surprise Baby",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 166,
+          "video_timestamp": "00:33:05",
+          "speaker_node_ref": "N-3",
+          "quote": "What's a surprise baby, by the way? I I I would I've heard of surprise pregnancies. I've never heard of surprise baby",
+          "context": "Mocks Katie Zacharia's reason for not retaking the bar.",
+          "confidence": "high",
+          "tags": [
+            "Zacharia",
+            "bar exam"
+          ]
+        },
+        {
+          "episode": 166,
+          "video_timestamp": "00:33:50",
+          "speaker_node_ref": "N-3",
+          "quote": "she decided not to because they had a surprise baby, like a stork dropped it off or something.",
+          "context": "A running riff on the same excuse.",
+          "confidence": "high",
+          "tags": [
+            "Zacharia",
+            "bar exam"
+          ]
+        }
+      ]
+    }
+  ]
+}

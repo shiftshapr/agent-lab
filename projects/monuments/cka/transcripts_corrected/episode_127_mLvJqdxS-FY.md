@@ -88,7 +88,7 @@ Uh this is what this is what he said during his testimony about that moment. >> 
 
 [11:27]
 
->> Let's remind you that this is now 10 months later. And Officer Bagley wants you to believe that a shooting took place, he sprinted into action. He went up on the Lozi rooftop where he believes that a murderer just ran off of, and he he sees a guy in plain clothes holding a gun and he's like, "Hey, I don't even need to know your name. I just trust you. I feel like this is the brotherhood. I saw a badge." Did you check the badge? Was it a real badge? Was the person pretending to be an officer? No, it didn't matter. He had a badge. This is giving the Brian Harpole, I saw the tattoo. But he, at least Brian Harpole saw a tattoo. This guy thinks he saw a badge, doesn't know where it's from, and they just trust this guy to come up on the rooftop with him.
+>> Let's remind you that this is now 10 months later. And Officer Bagley wants you to believe that a shooting took place, he sprinted into action. He went up on the Losee rooftop where he believes that a murderer just ran off of, and he he sees a guy in plain clothes holding a gun and he's like, "Hey, I don't even need to know your name. I just trust you. I feel like this is the brotherhood. I saw a badge." Did you check the badge? Was it a real badge? Was the person pretending to be an officer? No, it didn't matter. He had a badge. This is giving the Brian Harpole, I saw the tattoo. But he, at least Brian Harpole saw a tattoo. This guy thinks he saw a badge, doesn't know where it's from, and they just trust this guy to come up on the rooftop with him.
 
 [12:14]
 

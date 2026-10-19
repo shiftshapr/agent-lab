@@ -186,7 +186,7 @@
           "@type": "Artifact",
           "@id": "A-2211.1",
           "ref": "A-2211.1",
-          "description": "Tim Pool tweet responding to Alex Jones stating that the Lozi rooftop footage \"serves as a counter to the exploding Mike claims\"",
+          "description": "Tim Pool tweet responding to Alex Jones stating that the Losee rooftop footage \"serves as a counter to the exploding Mike claims\"",
           "related_claims": [
             "C-3170"
           ],
@@ -1300,7 +1300,7 @@
       "ref": "N-11143",
       "name": "Rooftop Screwdriver Claim",
       "type": "topic",
-      "description": "The dispute over whether a screwdriver was recovered from or used on the Lozi rooftop: Neff and the prosecution (exhibits 12.1 and 12.4) are cited as asserting it, and the host says no evidence of a screwdriver has been shown.",
+      "description": "The dispute over whether a screwdriver was recovered from or used on the Losee rooftop: Neff and the prosecution (exhibits 12.1 and 12.4) are cited as asserting it, and the host says no evidence of a screwdriver has been shown.",
       "related_artifacts": [],
       "related_claims": [
         "C-7448",
@@ -1359,7 +1359,7 @@
       "@id": "C-3164",
       "ref": "C-3164",
       "label": "Blake Neff Asserts Existence of Another Rooftop Angle",
-      "claim": "Blake Neff posted that there exists another rooftop video from a different angle that captures the moment the rifle is pulled from the shooter's pants, noting this moment is not visible in the Lozi rooftop video.",
+      "claim": "Blake Neff posted that there exists another rooftop video from a different angle that captures the moment the rifle is pulled from the shooter's pants, noting this moment is not visible in the Losee rooftop video.",
       "anchored_artifacts": [
         "A-2212.1"
       ],
@@ -1470,7 +1470,7 @@
       "@id": "C-3170",
       "ref": "C-3170",
       "label": "Tim Pool Characterizes Lozi Footage as Counter to Exploding Mic Claims",
-      "claim": "Tim Pool tweeted in response to Alex Jones that the Lozi rooftop footage \"serves as a counter to the exploding Mike claims.\"",
+      "claim": "Tim Pool tweeted in response to Alex Jones that the Losee rooftop footage \"serves as a counter to the exploding Mike claims.\"",
       "anchored_artifacts": [
         "A-2211.1"
       ],
@@ -1602,7 +1602,7 @@
       "@id": "C-7402",
       "ref": "C-7402",
       "label": "Host Says Exclusive Rooftop Video Released the Day Before Raised Questions",
-      "claim": "The host says her exclusive video released the previous day has the internet asking a lot of questions about what can or cannot be seen on the Lozi rooftop.",
+      "claim": "The host says her exclusive video released the previous day has the internet asking a lot of questions about what can or cannot be seen on the Losee rooftop.",
       "anchored_artifacts": [
         "A-2879.1"
       ],
@@ -2959,7 +2959,7 @@
       "@id": "C-7463",
       "ref": "C-7463",
       "label": "Host Says There Is No Evidence of a Screwdriver or a Gun on the Lozi Rooftop",
-      "claim": "The host says the public has seen no evidence of a screwdriver or a gun on the Lozi rooftop.",
+      "claim": "The host says the public has seen no evidence of a screwdriver or a gun on the Losee rooftop.",
       "anchored_artifacts": [
         "A-2882.1"
       ],

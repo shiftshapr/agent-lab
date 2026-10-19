@@ -2,7 +2,7 @@
   "version": 1,
   "description": "Canonical dictionary of memes, euphemisms, and codes \u2013 shared across monuments",
   "updated": "2026-10-08T19:40:19Z",
-  "next_id": 355,
+  "next_id": 367,
   "entries": {
     "M-1": {
       "canonical_term": "(meme) Grieving Widow",
@@ -3045,6 +3045,102 @@
       "definition": "Host on Terrell.",
       "context": "cka",
       "first_episode": 153
+    },
+    "M-355": {
+      "canonical_term": "(meme) You Make the Rules, We Follow Them",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 162
+    },
+    "M-356": {
+      "canonical_term": "(meme) High-End Sleaze",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 162
+    },
+    "M-357": {
+      "canonical_term": "(meme) Doing the Medical",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 163
+    },
+    "M-358": {
+      "canonical_term": "(meme) Jimmy Neutron",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 164
+    },
+    "M-359": {
+      "canonical_term": "(meme) Wears Many Hats",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 164
+    },
+    "M-360": {
+      "canonical_term": "(meme) Pokemon Stats",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 164
+    },
+    "M-361": {
+      "canonical_term": "(meme) Epstein Society",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 164
+    },
+    "M-362": {
+      "canonical_term": "(meme) Dictator Candace",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 164
+    },
+    "M-363": {
+      "canonical_term": "(meme) Baal Berith Contract",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 165
+    },
+    "M-364": {
+      "canonical_term": "(meme) America Has Fallen",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 165
+    },
+    "M-365": {
+      "canonical_term": "(meme) Statugate",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 166
+    },
+    "M-366": {
+      "canonical_term": "(meme) Surprise Baby",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 166
     }
   },
   "types": {

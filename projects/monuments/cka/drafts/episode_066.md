@@ -1845,7 +1845,7 @@ Confidence: high
 
 Video Timestamp: 00:33:48
 Speaker: N-3
-Quote: Shabbat shalom. Shabbat shalom at Mara Lago
+Quote: Shabbat shalom. Shabbat shalom at Mar-a-Lago
 Context: Host repeats the mock greeting at the gala.
 Tags: mockery, mar-a-lago
 Confidence: high

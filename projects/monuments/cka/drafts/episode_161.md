@@ -1470,7 +1470,7 @@ Claim Timestamp: 00:30:50
 
 Claim: The host reads that Blake Wynn recounted sitting next to Trump at Mar-a-Lago on election night 2024 alongside Elon Musk, UFC CEO Dana White and Steve Witkoff.
 
-Transcript Snippet: recounted sitting next to Trump at Mara Lago on election night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witco, Trump's friend and special envoy.
+Transcript Snippet: recounted sitting next to Trump at Mar-a-Lago on election night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witco, Trump's friend and special envoy.
 
 Anchored Artifacts: A-2500.1
 Mentions: N-352, N-5, N-118, N-869, N-870
@@ -1486,7 +1486,7 @@ Claim Timestamp: 00:31:20
 
 Claim: The host reads that Blake Wynn has posted Instagram photos at small gatherings, the White House and Mar-a-Lago alongside the Kirks and Tulsi Gabbard.
 
-Transcript Snippet: he's posted pictures of himself on Instagram at small gatherings, the White House, and at Mara Lago alongside the Kirks and Tulsi Gabbard, the former director of national intelligence.
+Transcript Snippet: he's posted pictures of himself on Instagram at small gatherings, the White House, and at Mar-a-Lago alongside the Kirks and Tulsi Gabbard, the former director of national intelligence.
 
 Anchored Artifacts: A-2500.1
 Mentions: N-352, N-1, N-2, N-329

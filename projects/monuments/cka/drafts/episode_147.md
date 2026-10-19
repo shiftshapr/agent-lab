@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11406
   - Hole-minted Nodes (reintro-ep147): N-10845
-  - Tip-minted Nodes (reintro-ep147): N-11215
+  - Tip-minted Nodes (reintro-ep147): N-954, N-11215
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-14797–C-14853
   - Reused Nodes Appearing: N-10825, N-10820, N-17, N-18, N-135, N-202, N-270, N-330, N-485, N-10021, N-10025, N-10198, N-10320, N-10338, N-10389, N-10550, N-10566, N-10632, N-10651, N-10686, N-10715, N-10818, N-10888, N-11061, N-11208, N-11262, N-11321
@@ -412,6 +412,14 @@ Subject of the assassination; the host reports his fears, predictions and the te
 Widow and TPUSA CEO; the host says she has not acknowledged lies and is doing the opposite of what Kirk expressed.
 
 *Related: C-14824, C-14850, C-14851*
+
+---
+
+**N-954** Alex Faria
+
+Member of Charlie Kirk's security team; first named by the host in this episode as riding in the lead security vehicle (intro moved from ep163, 2026-10-19).
+
+*Related: C-14806*
 
 ---
 
@@ -1392,7 +1400,7 @@ Claim: The host says the lead security vehicle on the left of the UVU lot diagra
 Transcript Snippet: Alex Faria is in this vehicle. That's one of the security members plus other members on the Charlie's security team.
 
 Anchored Artifacts: A-2330
-Mentions: N-1
+Mentions: N-1, N-954
 Related Nodes: N-10820, N-11321
 Tags: relevance:core
 Investigative Direction: Match the named security members to vehicles using the security testimony, TPUSA staff lists and the video; confirm the spelling of Faria.

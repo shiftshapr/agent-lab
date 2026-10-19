@@ -163,3 +163,8 @@
 | 159 | 2026-10-01 | numbered_show | 396 | q4m-kGzvwjw | LEAKED! Erika’s Texts, TPUSA Contracts, And The J6 Patsy’s Connection To Tyler Robinson. | Ep 396 |
 | 160 | 2026-10-05 | numbered_show | 397 | ms5ChhZegRg | COVER UP! The Mysterious Death Of A Whistleblower. The UVU Review's Major Redaction. | Ep 397 |
 | 161 | 2026-10-06 | numbered_show | 398 | 0pSAhaAZz1w | CAUGHT! Eastern Europe, Erika Kirk, And The SHOCKING Truth Behind TPUSA'S "ANTI-CANDACE" Campaigns. (title omits Ep number; 398 inferred) |
+| 162 | 2026-10-07 | numbered_show | 399 | yrg_-D6oNHE | BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399 |
+| 163 | 2026-10-08 | numbered_show | 400 | UAdBEXs7nNc | More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital… | Ep 400 |
+| 164 | 2026-10-13 | numbered_show | 401 | V-phmW9f0pM | America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 |
+| 165 | 2026-10-14 | numbered_show | 402 | 6jOEN9rBePU | Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 |
+| 166 | 2026-10-15 | numbered_show | 403 | YPIYYHCNPbE | Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (title omits Ep number; 403 inferred from sequence after Ep 402) |

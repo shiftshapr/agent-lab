@@ -1819,6 +1819,23 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-955",
+      "ref": "N-955",
+      "name": "Blake Gibson",
+      "type": "person",
+      "description": "Security team member; first named by the host in this episode as the man in surgical scrubs (intro moved from ep163, 2026-10-19).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14900"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 2,
+      "investigative_pressure": "low"
     }
   ],
   "claims": [
@@ -3312,7 +3329,10 @@
       ],
       "claim_timestamp": "00:25:29",
       "investigative_direction": "Confirm the correct name from the footage; it may be a different name for Blake Harreff or another team member.",
-      "transcript_snippet": "Blake Gibson and surgical scrubs. That's who you see up in the top there."
+      "transcript_snippet": "Blake Gibson and surgical scrubs. That's who you see up in the top there.",
+      "mentions_person_refs": [
+        "N-955"
+      ]
     },
     {
       "@type": "Claim",

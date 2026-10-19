@@ -1550,6 +1550,23 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-954",
+      "ref": "N-954",
+      "name": "Alex Faria",
+      "type": "person",
+      "description": "Member of Charlie Kirk's security team; first named by the host in this episode as riding in the lead security vehicle (intro moved from ep163, 2026-10-19).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14806"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 2,
+      "investigative_pressure": "low"
     }
   ],
   "claims": [
@@ -2526,7 +2543,8 @@
       "investigative_direction": "Match the named security members to vehicles using the security testimony, TPUSA staff lists and the video; confirm the spelling of Faria.",
       "transcript_snippet": "Alex Faria is in this vehicle. That's one of the security members plus other members on the Charlie's security team.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-954"
       ]
     },
     {

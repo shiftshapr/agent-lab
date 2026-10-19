@@ -125,7 +125,7 @@ How quickly that took place. Mikey called. But there is a major problem, you guy
 
 [24:59]
 
-They named Macy Crofts over at headquarters. They didn't care. So, we need to determine how this who this fire captain is and why he was left off the report. I I mean, I feel like it is very important. I just I have a sense. First, I want to remind ourselves of what the review stated. Um, and please you guys, I'm just going to say now, do not inundate us with Google searches. There's been, it makes me sad. It breaks my heart as someone who loves to research to see that so many people are just asking AI questions. We don't want AI answers. We can AI ourselves. Do not we don't want you to just give your thinking over to an AI program. AI is just scraping the internet with answers that are on the internet. It is not actually telling you anything. And if you give it five minutes, it'll tell you something else.
+They named Maycee Crofts over at headquarters. They didn't care. So, we need to determine how this who this fire captain is and why he was left off the report. I I mean, I feel like it is very important. I just I have a sense. First, I want to remind ourselves of what the review stated. Um, and please you guys, I'm just going to say now, do not inundate us with Google searches. There's been, it makes me sad. It breaks my heart as someone who loves to research to see that so many people are just asking AI questions. We don't want AI answers. We can AI ourselves. Do not we don't want you to just give your thinking over to an AI program. AI is just scraping the internet with answers that are on the internet. It is not actually telling you anything. And if you give it five minutes, it'll tell you something else.
 
 [25:48]
 

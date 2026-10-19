@@ -2256,7 +2256,7 @@ Claim Timestamp: 00:35:55
 
 Claim: The host says she does not believe the person who ran across the Losee Center rooftop killed Charlie, that this was another decoy, and that she does not believe the shot came from the Losee Center at all.
 
-Transcript Snippet: I do not believe that the person who ran across Lozi rooftop killed Charlie. I think it was another decoy. I do not believe that shot came from a Losee Center at all.
+Transcript Snippet: I do not believe that the person who ran across Losee rooftop killed Charlie. I think it was another decoy. I do not believe that shot came from a Losee Center at all.
 
 Anchored Artifacts: 
 Mentions: N-1, N-3

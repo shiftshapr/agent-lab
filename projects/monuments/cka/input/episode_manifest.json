@@ -2,15 +2,15 @@
   "monument": "cka",
   "channel": "@RealCandaceO",
   "corpus_cutoff_inclusive": "2025-09-11",
-  "generated_at_utc": "2026-10-07T15:30:00Z",
+  "generated_at_utc": "2026-10-19T20:30:00Z",
   "source": {
     "listing": "https://www.youtube.com/@RealCandaceO/streams",
     "publish_dates": "https://invidious.f5.si"
   },
   "counts": {
-    "manifest_entries": 161,
+    "manifest_entries": 166,
     "kirk_special": 2,
-    "numbered_show": 159
+    "numbered_show": 164
   },
   "episodes": [
     {
@@ -1622,6 +1622,56 @@
       "kind": "numbered_show",
       "notes": "title omits Ep number; 398 inferred from sequence after Ep 397",
       "seq": 161
+    },
+    {
+      "upload_date": "2026-10-07",
+      "youtube_id": "yrg_-D6oNHE",
+      "title": "BREAKING NEWS! UVU Police Chief Resigns. Blake Neff's Freudian Slip About Erika Kirk. | Ep 399",
+      "url": "https://www.youtube.com/watch?v=yrg_-D6oNHE",
+      "candace_ep_number": 399,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 162
+    },
+    {
+      "upload_date": "2026-10-08",
+      "youtube_id": "UAdBEXs7nNc",
+      "title": "More EXCLUSIVE Footage! Another Funny Thing Happened On The Way To Timpanogos Hospital\u2026 | Ep 400",
+      "url": "https://www.youtube.com/watch?v=UAdBEXs7nNc",
+      "candace_ep_number": 400,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 163
+    },
+    {
+      "upload_date": "2026-10-13",
+      "youtube_id": "V-phmW9f0pM",
+      "title": "America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401",
+      "url": "https://www.youtube.com/watch?v=V-phmW9f0pM",
+      "candace_ep_number": 401,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 164
+    },
+    {
+      "upload_date": "2026-10-14",
+      "youtube_id": "6jOEN9rBePU",
+      "title": "Happy 33rd Birthday, Charlie Kirk! You Were Right\u2014Your Death Spawned A Global Awakening\u2026 | Ep 402",
+      "url": "https://www.youtube.com/watch?v=6jOEN9rBePU",
+      "candace_ep_number": 402,
+      "kind": "numbered_show",
+      "notes": null,
+      "seq": 165
+    },
+    {
+      "upload_date": "2026-10-15",
+      "youtube_id": "YPIYYHCNPbE",
+      "title": "Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda).",
+      "url": "https://www.youtube.com/watch?v=YPIYYHCNPbE",
+      "candace_ep_number": 403,
+      "kind": "numbered_show",
+      "notes": "title omits Ep number; 403 inferred from sequence after Ep 402",
+      "seq": 166
     }
   ]
 }
