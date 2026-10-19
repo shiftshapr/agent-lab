@@ -1,0 +1,3406 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 165,
+    "series": "Candace Kirk Archive",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00-00:49:15",
+    "extraction_timestamp": "2026-10-19T21:17:21Z",
+    "model_version": "claude-manual-extract-seq165",
+    "transcript_sha256": "0d71b4adc9a75dcf5c1c75c4b961ff5c2117ac83456673d22d2a9c1c7cf0474f",
+    "analysis_date": "2026-10-19"
+  },
+  "executive_summary": "Episode 402 (2026-10-14), aired on what the host notes would have been Charlie Kirk's 33rd birthday. The host opens with new \"hokey Pokémon\" cards of case figures (Brian Harpole, Frank Turek) and returns to Val Peterson, the UVU vice president introduced the previous day. According to the host, multiple sources with direct knowledge say Peterson was allegedly golfing in Heber, Utah on September 10, possibly in a tournament, and she was told – but says she has not independently verified – that he was with Governor Spencer Cox. She shows that the governor's published schedule lists nothing for September 9 or 10, says Cox has never said where he was when he learned of Charlie's death, and shows a September 2 schedule entry for a 5:00 p.m. meeting with Representative Tyler Clancy at the governor's mansion.\n\nThe host then reports that Val Peterson's brother, whom she names as Charles Peterson, was arrested in 2026 on child-enticement and related charges in Utah and later charged in Meridian, Idaho; she reads Utah statutory definitions and an Idaho Attorney General release (Raul Labrador) that includes the presumption-of-innocence notice. She ties this to a recurring trafficking theme and repeats prior assertions: Trump's July call reprimanding Charlie over the Epstein files, Andrew Kolvet's alleged White House meeting the day before a partial Epstein files release, Pam Bondi's alleged \"collapse of global economies\" remark, the unanswered allegation that Erika Kirk spent time at a Jean-Luc Brunel-founded modeling agency and ran modeling apartments, the French Foreign Legion being on the ground on September 10, and a France–Israel–United States frame built around Jeffrey Epstein. She closes the segment by saying Charlie knew death was coming and that it would spark a wider awakening.\n\nLater segments cover the new White House press secretary Katie Zacharia (transcribed \"Zakaria\"), whom the host alleges did not pass the bar, citing a clip in which Zacharia answers \"When I moved to China\"; Kelly Clarkson's dispute with the Brooklyn store Art of Play over a $15,000 automated bird; and a statement from Danny Trejo's son saying Trejo learned of Ben Shapiro's involvement two weeks into shooting the film Pawn Shop and is contractually unable to walk away, which the host links to her own litigation experience with Shapiro. Viewer comments close the episode, including CIA shirt merch and a plan for more card packs.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3391",
+      "family_ref": "A-3391",
+      "bundle_name": "Hokey Pokémon Cards Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3391.1",
+          "ref": "A-3391.1",
+          "description": "Host shows a show-made Pokémon-style card of Brian Harpole (\"medical\" ability, \"tattoo brothers\").",
+          "related_claims": [
+            "C-15327"
+          ],
+          "related_nodes": [
+            "N-266"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:02:10",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3391.2",
+          "ref": "A-3391.2",
+          "description": "Host shows a show-made Pokémon-style card of \"Yankin Bankin Frank\" (Frank Turek), labelled \"the chain snatcher\".",
+          "related_claims": [
+            "C-15328"
+          ],
+          "related_nodes": [
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:02:40",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3392",
+      "family_ref": "A-3392",
+      "bundle_name": "Governor Spencer Cox Published Schedule Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3392.1",
+          "ref": "A-3392.1",
+          "description": "Governor Cox's published weekly schedule for September 8–14, 2025, showing only Monday the 8th.",
+          "related_claims": [
+            "C-15337"
+          ],
+          "related_nodes": [
+            "N-41",
+            "N-11427"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:05:35",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3392.2",
+          "ref": "A-3392.2",
+          "description": "Governor Cox's published schedule entry for September 2, 2025: 5:00 p.m. meeting with Representative Tyler Clancy at the governor's mansion.",
+          "related_claims": [
+            "C-15340",
+            "C-15341"
+          ],
+          "related_nodes": [
+            "N-41",
+            "N-959",
+            "N-11428"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:06:57",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3393",
+      "family_ref": "A-3393",
+      "bundle_name": "Charles Peterson Charges Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3393.1",
+          "ref": "A-3393.1",
+          "description": "Host reads the Utah statutory definitions of enticing a minor, aggravated sexual exploitation of a minor and distributing material harmful to a minor.",
+          "related_claims": [
+            "C-15345",
+            "C-15346",
+            "C-15347"
+          ],
+          "related_nodes": [
+            "N-963",
+            "N-11429"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:10:00",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3393.2",
+          "ref": "A-3393.2",
+          "description": "Idaho Attorney General website article announcing charges against a Meridian man (Charles Peterson, 52).",
+          "related_claims": [
+            "C-15353",
+            "C-15354",
+            "C-15355",
+            "C-15356"
+          ],
+          "related_nodes": [
+            "N-963",
+            "N-964",
+            "N-11429",
+            "N-11430"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:13:50",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3394",
+      "family_ref": "A-3394",
+      "bundle_name": "Katie Zacharia Bar Exam Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3394.1",
+          "ref": "A-3394.1",
+          "description": "Clip of reporters asking the new press secretary, beside Trump, where she passed the bar exam.",
+          "related_claims": [
+            "C-15380",
+            "C-15381"
+          ],
+          "related_nodes": [
+            "N-962",
+            "N-5",
+            "N-11431"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:28:38",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3395",
+      "family_ref": "A-3395",
+      "bundle_name": "Kelly Clarkson / Art of Play Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3395.1",
+          "ref": "A-3395.1",
+          "description": "Video of \"Molly\", the automated bird at the Art of Play store in Brooklyn.",
+          "related_claims": [
+            "C-15384"
+          ],
+          "related_nodes": [
+            "N-965",
+            "N-11432"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:33:05",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3395.2",
+          "ref": "A-3395.2",
+          "description": "Kelly Clarkson's social media post about Art of Play, read by the host.",
+          "related_claims": [
+            "C-15386",
+            "C-15387"
+          ],
+          "related_nodes": [
+            "N-965",
+            "N-11432"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:35:00",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3396",
+      "family_ref": "A-3396",
+      "bundle_name": "Danny Trejo Pawn Shop Statement Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3396.1",
+          "ref": "A-3396.1",
+          "description": "Statement from Danny Trejo's son, read by the host.",
+          "related_claims": [
+            "C-15392",
+            "C-15393"
+          ],
+          "related_nodes": [
+            "N-966",
+            "N-97",
+            "N-11433"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:40:26",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3397",
+      "family_ref": "A-3397",
+      "bundle_name": "DIA Tip Beats Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3397.1",
+          "ref": "A-3397.1",
+          "description": "Host verbal reference: tips from viewers and UVU faculty on Val Peterson's September 10 whereabouts.",
+          "related_claims": [
+            "C-15332",
+            "C-15333"
+          ],
+          "related_nodes": [
+            "N-957",
+            "N-10012"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:04:15",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3397.2",
+          "ref": "A-3397.2",
+          "description": "Host verbal reference: request that viewers send anything showing where Governor Cox was when he learned of Charlie's death.",
+          "related_claims": [
+            "C-15339"
+          ],
+          "related_nodes": [
+            "N-41"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:06:20",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Subject of the birthday framing (33rd birthday, October 14); host revisits his Epstein focus, Israel stance and Aspen pitch.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15325",
+        "C-15326",
+        "C-15338",
+        "C-15357",
+        "C-15363",
+        "C-15364",
+        "C-15368",
+        "C-15373",
+        "C-15374",
+        "C-15375",
+        "C-15397",
+        "C-15398"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 12,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Host repeats the unanswered modeling-office and modeling-apartment allegations and links TPUSA's high-school focus to her leadership.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15329",
+        "C-15359",
+        "C-15360",
+        "C-15361",
+        "C-15362",
+        "C-15378"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; reports tips, reads documents and comments, references her own litigation with Ben Shapiro.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15326",
+        "C-15327",
+        "C-15332",
+        "C-15339",
+        "C-15367",
+        "C-15369",
+        "C-15373",
+        "C-15394",
+        "C-15396",
+        "C-15398",
+        "C-15400",
+        "C-15401"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 12,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Host says he reprimanded Charlie in July over the Epstein files; his new press secretary is the subject of the bar exam segment.",
+      "related_artifacts": [
+        "A-3394.1"
+      ],
+      "related_claims": [
+        "C-15357",
+        "C-15377",
+        "C-15380",
+        "C-15381"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Depicted as \"Yankin Bankin Frank\", \"the chain snatcher\", on a show card.",
+      "related_artifacts": [
+        "A-3391.2"
+      ],
+      "related_claims": [
+        "C-15328"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-8",
+      "ref": "N-8",
+      "name": "Maycee Crofts",
+      "type": "person",
+      "description": "Host recalls the UVU review saying she was on the call and wanted the event in the amphitheater; links Meridian, Idaho to her.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15350",
+        "C-15351"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Center of the host's France–Israel–US frame and the modeling-agency allegations.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15359",
+        "C-15360",
+        "C-15370",
+        "C-15371"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-12",
+      "ref": "N-12",
+      "name": "Kip Crofts",
+      "type": "person",
+      "description": "Maycee Crofts's uncle; host says he was arrested just outside Nampa, Idaho.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15351"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Host repeats that he was allegedly at the White House the day before the partial Epstein files release.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15365",
+        "C-15367"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-41",
+      "ref": "N-41",
+      "name": "Spencer Cox",
+      "type": "person",
+      "description": "Utah governor; host was told Val Peterson golfed with him on September 10 (unverified); his published schedule shows no September 9–10 entries and a September 2 meeting with Tyler Clancy.",
+      "related_artifacts": [
+        "A-3392.1",
+        "A-3392.2",
+        "A-3397.2"
+      ],
+      "related_claims": [
+        "C-15335",
+        "C-15336",
+        "C-15337",
+        "C-15338",
+        "C-15339",
+        "C-15340",
+        "C-15341"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-47",
+      "ref": "N-47",
+      "name": "Ghislaine Maxwell",
+      "type": "person",
+      "description": "Host notes she was born in France.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15371"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-82",
+      "ref": "N-82",
+      "name": "Brigitte Macron",
+      "type": "person",
+      "description": "Host says no photos exist of her across 30 years; host was covering Brigitte and Epstein while Charlie covered Epstein.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15373",
+        "C-15376"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-85",
+      "ref": "N-85",
+      "name": "Pam Bondi",
+      "type": "person",
+      "description": "Host repeats that Bondi said a full Epstein files release would collapse global economies.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15366"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-97",
+      "ref": "N-97",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Producer on the Danny Trejo film Pawn Shop per the host and the son's statement; host alleges he pursues people through litigation.",
+      "related_artifacts": [
+        "A-3396.1"
+      ],
+      "related_claims": [
+        "C-15390",
+        "C-15391",
+        "C-15392",
+        "C-15393",
+        "C-15394",
+        "C-15395"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-146",
+      "ref": "N-146",
+      "name": "Theo Von",
+      "type": "person",
+      "description": "Named in a joke about the host's hypothetical press secretary.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15396"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-159",
+      "ref": "N-159",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Host says the show should make a card of \"Blake and Neff\".",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15396"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-266",
+      "ref": "N-266",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Depicted on a show Pokémon card with a \"medical\" ability.",
+      "related_artifacts": [
+        "A-3391.1"
+      ],
+      "related_claims": [
+        "C-15327"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-277",
+      "ref": "N-277",
+      "name": "Tim Dillon",
+      "type": "person",
+      "description": "Named in a joke about the host's hypothetical press secretary.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15396"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-520",
+      "ref": "N-520",
+      "name": "Rothschild Family",
+      "type": "person",
+      "description": "Host says Epstein worked directly for the Rothschilds, who credit themselves with creating Israel.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15370"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-529",
+      "ref": "N-529",
+      "name": "Jean-Luc Brunel",
+      "type": "person",
+      "description": "Host says he founded the modeling agency tied to Erika and was Epstein's partner, and that he died in a cell.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15360",
+        "C-15372"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-957",
+      "ref": "N-957",
+      "name": "Val Peterson",
+      "type": "person",
+      "description": "First named by the host at 00:03:11 in episode 165 (introduced on the show the previous day). Vice president of Utah Valley University; host says many call him the most powerful man in Utah.",
+      "related_artifacts": [
+        "A-3397.1"
+      ],
+      "related_claims": [
+        "C-15329",
+        "C-15330",
+        "C-15331",
+        "C-15332",
+        "C-15333",
+        "C-15334",
+        "C-15335",
+        "C-15343",
+        "C-15348",
+        "C-15352",
+        "C-15353"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 11,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-959",
+      "ref": "N-959",
+      "name": "Tyler Clancy",
+      "type": "person",
+      "description": "First named by the host at 00:06:40 in episode 165. Provo police officer and Utah state representative.",
+      "related_artifacts": [
+        "A-3392.2"
+      ],
+      "related_claims": [
+        "C-15340",
+        "C-15341",
+        "C-15342"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-963",
+      "ref": "N-963",
+      "name": "Charles Peterson",
+      "type": "person",
+      "description": "First named by the host at 00:08:25 in episode 165. Host says he is Val Peterson's brother; the Idaho Attorney General's release names him as Charles Peterson, 52.",
+      "related_artifacts": [
+        "A-3393.1",
+        "A-3393.2"
+      ],
+      "related_claims": [
+        "C-15343",
+        "C-15344",
+        "C-15345",
+        "C-15346",
+        "C-15347",
+        "C-15349",
+        "C-15353",
+        "C-15354",
+        "C-15355",
+        "C-15356"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 10,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-964",
+      "ref": "N-964",
+      "name": "Raul Labrador",
+      "type": "person",
+      "description": "First named by the host at 00:13:50 in episode 165. Idaho Attorney General, per the article the host shows.",
+      "related_artifacts": [
+        "A-3393.2"
+      ],
+      "related_claims": [
+        "C-15354"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-962",
+      "ref": "N-962",
+      "name": "Katie Zacharia",
+      "type": "person",
+      "description": "First named by the host at 00:27:04 in episode 165 (transcribed \"Katie Zacharia\"). New White House press secretary.",
+      "related_artifacts": [
+        "A-3394.1"
+      ],
+      "related_claims": [
+        "C-15377",
+        "C-15378",
+        "C-15379",
+        "C-15380",
+        "C-15381"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-965",
+      "ref": "N-965",
+      "name": "Kelly Clarkson",
+      "type": "person",
+      "description": "First named by the host at 00:01:06 in episode 165. Singer and first American Idol winner.",
+      "related_artifacts": [
+        "A-3395.1",
+        "A-3395.2"
+      ],
+      "related_claims": [
+        "C-15382",
+        "C-15383",
+        "C-15384",
+        "C-15385",
+        "C-15386",
+        "C-15387",
+        "C-15388",
+        "C-15389",
+        "C-15399"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-966",
+      "ref": "N-966",
+      "name": "Danny Trejo",
+      "type": "person",
+      "description": "First named by the host at 00:39:51 in episode 165. Actor cast in the film Pawn Shop.",
+      "related_artifacts": [
+        "A-3396.1"
+      ],
+      "related_claims": [
+        "C-15390",
+        "C-15391",
+        "C-15392",
+        "C-15393"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Host says it pushes Club America through mandated high-school assemblies under Erika's leadership.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15329",
+        "C-15351",
+        "C-15362",
+        "C-15374",
+        "C-15397"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10012",
+      "ref": "N-10012",
+      "name": "Utah Valley University",
+      "type": "investigation_target",
+      "description": "Val Peterson's institution; source of faculty tips.",
+      "related_artifacts": [
+        "A-3397.1"
+      ],
+      "related_claims": [
+        "C-15329",
+        "C-15330",
+        "C-15332"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10026",
+      "ref": "N-10026",
+      "name": "Israel",
+      "type": "investigation_target",
+      "description": "Host says Charlie had changed his mind on Israel; Rothschild creation claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15368",
+        "C-15370"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10048",
+      "ref": "N-10048",
+      "name": "Charlie Kirk Assassination Investigation",
+      "type": "investigation_target",
+      "description": "Host disputes the 150-yard shot narrative.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15398"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10075",
+      "ref": "N-10075",
+      "name": "White House",
+      "type": "investigation_target",
+      "description": "Site of Kolvet's alleged meeting, Cox's call and the press secretary segment.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15339",
+        "C-15358",
+        "C-15365",
+        "C-15367",
+        "C-15369",
+        "C-15377",
+        "C-15400"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10148",
+      "ref": "N-10148",
+      "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
+      "type": "investigation_target",
+      "description": "Host repeats that Charlie had changed his mind on Israel.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15368"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10456",
+      "ref": "N-10456",
+      "name": "Charlie Kirk BB Netanyahu Show Refusal",
+      "type": "investigation_target",
+      "description": "Viewer comment refers to Charlie declining BB's offer.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15397"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10290",
+      "ref": "N-10290",
+      "name": "French Foreign Legion US Training August 2025",
+      "type": "investigation_target",
+      "description": "Host repeats that the Legion was on the ground on September 10 and that the White House never disputed it.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15369"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10324",
+      "ref": "N-10324",
+      "name": "Epstein Files Release Status",
+      "type": "investigation_target",
+      "description": "Host repeats the partial release, Bondi's remark and the administration's refusal to release in full.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15357",
+        "C-15358",
+        "C-15365",
+        "C-15366",
+        "C-15373"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10415",
+      "ref": "N-10415",
+      "name": "Charlie Kirk Premonition Pattern",
+      "type": "investigation_target",
+      "description": "Host says Charlie knew death was coming and that it would spark an awakening.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15375"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10532",
+      "ref": "N-10532",
+      "name": "Next Model Management / Erika Kirk Connection",
+      "type": "investigation_target",
+      "description": "Host repeats the unanswered modeling-office and modeling-apartment allegations.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15359",
+        "C-15360",
+        "C-15361"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10533",
+      "ref": "N-10533",
+      "name": "Club America High School Pushback",
+      "type": "investigation_target",
+      "description": "Host says Club America is administratively forced on students.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15362",
+        "C-15363",
+        "C-15364"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10832",
+      "ref": "N-10832",
+      "name": "Trafficking-Pattern Claim (TPUSA / Kirk Circle)",
+      "type": "investigation_target",
+      "description": "Host frames the Peterson charges as part of a recurring trafficking and child-abuse theme around the story.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15343",
+        "C-15356"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10839",
+      "ref": "N-10839",
+      "name": "Independent Review of UVU Security Failures",
+      "type": "investigation_target",
+      "description": "Source the host cites for Val Peterson's duties and his distance from campus, and for Maycee Crofts's amphitheater request.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15330",
+        "C-15331",
+        "C-15350"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10969",
+      "ref": "N-10969",
+      "name": "Trump–Charlie Kirk July 12, 2025 Scolding Call",
+      "type": "investigation_target",
+      "description": "Host repeats that Trump reprimanded Charlie in July over the Epstein files.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15357"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11026",
+      "ref": "N-11026",
+      "name": "Shapiro Legal Actions Against Candace Owens",
+      "type": "investigation_target",
+      "description": "Host's claimed personal experience behind her remarks on Shapiro and contracts.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15394",
+        "C-15395"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11426",
+      "ref": "N-11426",
+      "name": "Val Peterson September 10 Whereabouts",
+      "type": "topic",
+      "description": "Where UVU vice president Val Peterson was on September 10, 2025. The UVU independent review places him 45 minutes away; the host's sources say he was allegedly golfing in Heber, Utah, possibly in a tournament, and allegedly with Governor Cox (unverified by the host).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15331",
+        "C-15333",
+        "C-15334",
+        "C-15335"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-957",
+        "N-41"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11427",
+      "ref": "N-11427",
+      "name": "Governor Cox Published Schedule September 9–10 Gap",
+      "type": "topic",
+      "description": "The governor's public schedule for the week of September 8, 2025 lists no commitments on September 9 or 10, and the host says Cox has never said where he was when he learned of Charlie's death.",
+      "related_artifacts": [
+        "A-3392.1"
+      ],
+      "related_claims": [
+        "C-15336",
+        "C-15337",
+        "C-15338",
+        "C-15339"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-41"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11428",
+      "ref": "N-11428",
+      "name": "Cox–Clancy September 2 Governor's Mansion Meeting",
+      "type": "topic",
+      "description": "A September 2, 2025, 5:00 p.m. meeting between Governor Cox and Representative Tyler Clancy at the governor's mansion, per the governor's published schedule.",
+      "related_artifacts": [
+        "A-3392.2"
+      ],
+      "related_claims": [
+        "C-15340",
+        "C-15341"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-41",
+        "N-959"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11429",
+      "ref": "N-11429",
+      "name": "Charles Peterson Child Enticement Charges",
+      "type": "topic",
+      "description": "2026 arrest and charges in Utah (enticing a minor, aggravated sexual exploitation, distributing harmful material) and Meridian, Idaho (four counts of enticing a child) against a man the host identifies as Val Peterson's brother.",
+      "related_artifacts": [
+        "A-3393.1",
+        "A-3393.2"
+      ],
+      "related_claims": [
+        "C-15343",
+        "C-15344",
+        "C-15345",
+        "C-15346",
+        "C-15347",
+        "C-15349",
+        "C-15353",
+        "C-15354",
+        "C-15355",
+        "C-15356"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 10,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-963"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11430",
+      "ref": "N-11430",
+      "name": "Idaho Attorney General Internet Crimes Against Children Unit",
+      "type": "organization",
+      "description": "Unit of the Idaho Attorney General's office that, per the article the host shows, arrested Charles Peterson after a request from the Lehi Police Department.",
+      "related_artifacts": [
+        "A-3393.2"
+      ],
+      "related_claims": [
+        "C-15355"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-964"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11431",
+      "ref": "N-11431",
+      "name": "Katie Zacharia Bar Exam Question",
+      "type": "topic",
+      "description": "Whether and where the new White House press secretary passed a bar exam; the host alleges she did not.",
+      "related_artifacts": [
+        "A-3394.1"
+      ],
+      "related_claims": [
+        "C-15378",
+        "C-15379",
+        "C-15380",
+        "C-15381"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-962"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11432",
+      "ref": "N-11432",
+      "name": "Kelly Clarkson Art of Play Incident",
+      "type": "topic",
+      "description": "Kelly Clarkson's visit to the Brooklyn store Art of Play, where she was told the automated bird \"Molly\" was not for sale, and her subsequent post alleging she was judged.",
+      "related_artifacts": [
+        "A-3395.1",
+        "A-3395.2"
+      ],
+      "related_claims": [
+        "C-15383",
+        "C-15384",
+        "C-15385",
+        "C-15386",
+        "C-15387",
+        "C-15388",
+        "C-15389",
+        "C-15399"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-965"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11433",
+      "ref": "N-11433",
+      "name": "Danny Trejo Pawn Shop Contract Dispute",
+      "type": "topic",
+      "description": "Reports that Danny Trejo was cast in the film Pawn Shop without knowing of Ben Shapiro's involvement and is contractually bound to it.",
+      "related_artifacts": [
+        "A-3396.1"
+      ],
+      "related_claims": [
+        "C-15390",
+        "C-15391",
+        "C-15392",
+        "C-15393"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-966",
+        "N-97"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-15325",
+      "ref": "C-15325",
+      "label": "Host Says October 14 Would Have Been Charlie Kirk's 33rd Birthday",
+      "claim": "The host says October 14 would have been Charlie Kirk's 33rd birthday.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:00:36",
+      "investigative_direction": "Charlie Kirk's birth record (October 14, 1993).",
+      "transcript_snippet": "Um, what would have been Charlie Kirk's 33rd birthday. And I was thinking about that",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15326",
+      "ref": "C-15326",
+      "label": "Host Says Charlie Was Never Big on His Birthday",
+      "claim": "The host says Charlie was never big on his birthday and she has no memory of him ever being excited about one.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:00:45",
+      "investigative_direction": "Accounts from Charlie Kirk's friends and staff about his birthdays.",
+      "transcript_snippet": "Charlie was never big on his birthday. He was sort of an old soul. I have no memory of him being excited about a birthday ever.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15327",
+      "ref": "C-15327",
+      "label": "Host Says the Show Made Pokémon Cards of Case Figures Including Brian Harpole",
+      "claim": "The host says that, back by popular demand, the show has Pokémon-style cards of case figures, including a Brian Harpole card.",
+      "anchored_artifacts": [
+        "A-3391.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:02:03",
+      "investigative_direction": "Show merch listings or on-air graphics of the card series.",
+      "transcript_snippet": "You guys were raving about our Pokémon cards. You wanted more of them. We have them.",
+      "mentions_person_refs": [
+        "N-266",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15328",
+      "ref": "C-15328",
+      "label": "Host's Card Calls Frank Turek \"the Chain Snatcher\" Who Snatched Evidence From Police",
+      "claim": "On the \"Yankin Bankin Frank\" card she shows, the host characterizes Frank Turek as \"the chain snatcher\" who \"will snatch evidence right from police hands\".",
+      "anchored_artifacts": [
+        "A-3391.2"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:45",
+      "investigative_direction": "Police evidence logs and body camera footage for the handling of Charlie Kirk's chain on September 10, 2025.",
+      "transcript_snippet": "he is indeed the chain snatcher. He will snatch evidence right from police hands.",
+      "mentions_person_refs": [
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15329",
+      "ref": "C-15329",
+      "label": "Host Says Val Peterson Is Allegedly Feared by Faculty and Allegedly Pro-Erika and TPUSA",
+      "claim": "The host says Val Peterson, vice president of UVU, is allegedly feared by faculty and allegedly very pro-Erika and pro-Turning Point USA.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:03:20",
+      "investigative_direction": "UVU faculty accounts; Peterson's public statements on the TPUSA event and its aftermath.",
+      "transcript_snippet": "Val Peterson, the vice president of UVU and apparently the guy, the man, allegedly feared by faculty and allegedly very pro Erika and Turning Point USA.",
+      "mentions_person_refs": [
+        "N-957",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15330",
+      "ref": "C-15330",
+      "label": "Host Says Val Peterson Oversaw EMS Services at UVU",
+      "claim": "The host says, citing what she learned from UVU's outsourced independent review, that Val Peterson oversaw EMS services at UVU.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012",
+        "N-10839"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:03:50",
+      "investigative_direction": "UVU organizational chart and the independent review's description of Peterson's portfolio.",
+      "transcript_snippet": "He had a lot of duties. He oversaw uh, EMS services at the UVU.",
+      "mentions_person_refs": [
+        "N-957"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15331",
+      "ref": "C-15331",
+      "label": "Host Says the Review Puts Val Peterson 45 Minutes Away on September 10",
+      "claim": "The host says the independent review report states Val Peterson was 45 minutes away on September 10.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10839",
+        "N-11426"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:03",
+      "investigative_direction": "The UVU independent review text on Peterson's location.",
+      "transcript_snippet": "And the report tells us that no, actually he was 45 minutes away.",
+      "mentions_person_refs": [
+        "N-957"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15332",
+      "ref": "C-15332",
+      "label": "DIA: Host Says Viewers and UVU Faculty Helped Locate Val Peterson on September 10",
+      "claim": "The host says viewers and \"brave, yet clearly terrified\" UVU faculty members helped her team piece together where Val Peterson was on September 10.",
+      "anchored_artifacts": [
+        "A-3397.1"
+      ],
+      "related_nodes": [
+        "N-10012"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:13",
+      "investigative_direction": "The tips received by the host's team; UVU faculty who can confirm the account.",
+      "transcript_snippet": "Well, thanks to you sleuths back at home and some brave, yet clearly terrified faculty members at UVU, we were able to put some more pieces together.",
+      "mentions_person_refs": [
+        "N-957",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15333",
+      "ref": "C-15333",
+      "label": "Host Says Multiple Sources Say Val Peterson Was Allegedly Golfing in Heber, Utah",
+      "claim": "The host says multiple sources with direct knowledge confirmed that Val Peterson was allegedly golfing in Heber, Utah on September 10.",
+      "anchored_artifacts": [
+        "A-3397.1"
+      ],
+      "related_nodes": [
+        "N-11426"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:20",
+      "investigative_direction": "Tee-time and tournament records at Heber-area golf clubs for September 10, 2025.",
+      "transcript_snippet": "We confirmed from multiple sources with direct knowledge that he was golfing, actually, allegedly, out in Heber, Utah.",
+      "mentions_person_refs": [
+        "N-957"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15334",
+      "ref": "C-15334",
+      "label": "Host Says One Source Claimed Peterson Was in a Golf Tournament",
+      "claim": "The host says one person claimed Peterson was taking part in a tournament, and her team found several clubs and tournaments that could match.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11426"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:28",
+      "investigative_direction": "Heber-area golf tournament entry lists for September 10, 2025.",
+      "transcript_snippet": "And one person claimed that he was actually taking part in a tournament. We found a few clubs and tournaments that could potentially match match that description",
+      "mentions_person_refs": [
+        "N-957"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15335",
+      "ref": "C-15335",
+      "label": "Host Says She Was Told, Unverified, That Peterson Was With Governor Cox",
+      "claim": "The host says she was also told Peterson was with Governor Cox, stressing that her team has not yet independently verified it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11426"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:52",
+      "investigative_direction": "Governor's security detail logs and golf club records for September 10, 2025.",
+      "transcript_snippet": "we have not yet been able to independently verify, but we are working on it. We were also told that he was with Governor Cox.",
+      "mentions_person_refs": [
+        "N-957",
+        "N-41"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15336",
+      "ref": "C-15336",
+      "label": "Host Says the Governor Publishes His Schedule, Including Past Golf Tournaments",
+      "claim": "The host says Governor Cox publishes his schedule on his website and has in the past listed golf tournaments he took part in.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11427"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:05:03",
+      "investigative_direction": "Archived pages of the Utah governor's public schedule.",
+      "transcript_snippet": "because the governor publishes his schedule, um, onto the website, publicly. And that includes, in the past he has published instances where he participated in golf tournaments.",
+      "mentions_person_refs": [
+        "N-41"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15337",
+      "ref": "C-15337",
+      "label": "Host Says Cox's Official Schedule Lists No Commitments on September 9 or 10",
+      "claim": "The host says the governor's official schedule lists no commitments on September 10 or September 9, though September 10 was a Wednesday; the schedule she shows for the 8th to the 14th lists only Monday the 8th.",
+      "anchored_artifacts": [
+        "A-3392.1"
+      ],
+      "related_nodes": [
+        "N-11427"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:05:24",
+      "investigative_direction": "The governor's office schedule records for September 9–10, 2025, via a GRAMA request.",
+      "transcript_snippet": "the governor's official schedule did not list any commitments, not on the 10th, also not on the 9th.",
+      "mentions_person_refs": [
+        "N-41"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15338",
+      "ref": "C-15338",
+      "label": "Host Says Cox Has Never Said Where He Was When He Learned of Charlie's Death",
+      "claim": "The host says that, as far as her team can tell, Governor Cox has never stated where he was when he learned of Charlie's death.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11427"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:05:58",
+      "investigative_direction": "Cox's interviews and press conferences after September 10, 2025.",
+      "transcript_snippet": "Governor Cox has never stated where he was when he learned of Charlie's death.",
+      "mentions_person_refs": [
+        "N-41",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15339",
+      "ref": "C-15339",
+      "label": "DIA: Host Asks Viewers to Send Anything Showing Where Cox Was",
+      "claim": "The host says Cox has said he got a phone notification and within a minute was on the phone with the White House, but not where he was, and asks viewers to send anything her team has overlooked.",
+      "anchored_artifacts": [
+        "A-3397.2"
+      ],
+      "related_nodes": [
+        "N-11427",
+        "N-10075"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:08",
+      "investigative_direction": "Cox's public remarks on receiving the news; viewer submissions.",
+      "transcript_snippet": "But he's never said where he was when he got that notification. Again, so far as we can tell, if we are overlooking something, please send it.",
+      "mentions_person_refs": [
+        "N-41",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15340",
+      "ref": "C-15340",
+      "label": "Host Says Cox Met Provo Officer Tyler Clancy on September 2",
+      "claim": "The host says the governor's published schedule shows a September 2 meeting with Provo police officer and state representative Tyler Clancy.",
+      "anchored_artifacts": [
+        "A-3392.2"
+      ],
+      "related_nodes": [
+        "N-11428"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:06:40",
+      "investigative_direction": "The governor's published schedule for September 2, 2025.",
+      "transcript_snippet": "we did discover that Governor Cox had a meeting on September 2nd with none other than Provo police officer Tyler Clancy.",
+      "mentions_person_refs": [
+        "N-41",
+        "N-959"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15341",
+      "ref": "C-15341",
+      "label": "Per the Schedule the Host Shows, the Meeting Was at 5 p.m. at the Governor's Mansion",
+      "claim": "Per the published schedule the host shows, Cox met Representative Tyler Clancy at 5:00 p.m. at the governor's mansion.",
+      "anchored_artifacts": [
+        "A-3392.2"
+      ],
+      "related_nodes": [
+        "N-11428"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:06:57",
+      "investigative_direction": "Governor's mansion visitor log for September 2, 2025.",
+      "transcript_snippet": "Um you can see that at 5:00 p.m. he had a meeting with Representative Tyler Clancy at his mansion. Not Tyler's mansion, at the governor's mansion.",
+      "mentions_person_refs": [
+        "N-41",
+        "N-959"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15342",
+      "ref": "C-15342",
+      "label": "Host Says the Utah House Works 45 Days a Year and Clancy Started in 2023",
+      "claim": "The host says Utah House representatives work 45 days a year and Clancy started in 2023.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:07:20",
+      "investigative_direction": "Utah Legislature session calendar and Clancy's official biography.",
+      "transcript_snippet": "the Utah House of Reps, they're they work 45 days a year and he started in 2023.",
+      "mentions_person_refs": [
+        "N-959"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15343",
+      "ref": "C-15343",
+      "label": "Host Says Val Peterson's Brother Charles Was Arrested Twice in 2026 in Two States",
+      "claim": "The host says Val Peterson, whom many call the most powerful man in Utah, has a brother named Charles Peterson, who was arrested twice this year in two different states.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11429",
+        "N-10832"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:08:28",
+      "investigative_direction": "Utah and Idaho court dockets; records establishing the family relationship.",
+      "transcript_snippet": "We learned uh that he has a brother named Charles Peterson. And this brother Charles was arrested this year. Twice actually in two different states.",
+      "mentions_person_refs": [
+        "N-957",
+        "N-963"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15344",
+      "ref": "C-15344",
+      "label": "Host Says the First Arrest Was February 3, 2026 in Layton, Utah",
+      "claim": "The host says Charles Peterson's first arrest was on February 3, 2026 in Layton, Utah.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11429"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:08:40",
+      "investigative_direction": "Arrest and booking records for February 3, 2026.",
+      "transcript_snippet": "Twice actually in two different states. First on February 3rd, 2026 in Layton, Utah. Okay?",
+      "mentions_person_refs": [
+        "N-963"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15345",
+      "ref": "C-15345",
+      "label": "Host Says the Charges Included First-Degree Enticing a Minor",
+      "claim": "The host says the charges included a first-degree charge for enticing a minor into sexual activity, and she reads the Utah definition.",
+      "anchored_artifacts": [
+        "A-3393.1"
+      ],
+      "related_nodes": [
+        "N-11429"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:09:50",
+      "investigative_direction": "Utah charging documents (Utah Code 76-4-401).",
+      "transcript_snippet": "Charges were as follows. First-degree charge for enticing a minor into sexual activity.",
+      "mentions_person_refs": [
+        "N-963"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15346",
+      "ref": "C-15346",
+      "label": "Host Says He Was Also Charged With Aggravated Sexual Exploitation",
+      "claim": "The host says he was also charged with aggravated sexual exploitation of a minor.",
+      "anchored_artifacts": [
+        "A-3393.1"
+      ],
+      "related_nodes": [
+        "N-11429"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:11:23",
+      "investigative_direction": "Utah charging documents.",
+      "transcript_snippet": "He uh also uh the charge that he was charged with aggravated sexual exploitation.",
+      "mentions_person_refs": [
+        "N-963"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15347",
+      "ref": "C-15347",
+      "label": "Host Says the Charges Also Include Distributing Material Harmful to a Minor",
+      "claim": "The host says the charges also include distributing material harmful to a minor.",
+      "anchored_artifacts": [
+        "A-3393.1"
+      ],
+      "related_nodes": [
+        "N-11429"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:11:45",
+      "investigative_direction": "Utah charging documents.",
+      "transcript_snippet": "Um it also includes distributing material harmful to a minor.",
+      "mentions_person_refs": [
+        "N-963"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15348",
+      "ref": "C-15348",
+      "label": "Host Says Val Peterson Is From Moscow, Idaho, Where His Father Was a Professor",
+      "claim": "The host says Val Peterson is from Moscow, Idaho, where his father was a professor at the University of Idaho.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:12:28",
+      "investigative_direction": "University of Idaho faculty records; Peterson family obituaries.",
+      "transcript_snippet": "He's from Moscow, Idaho, where his father was a professor um at the University of Idaho.",
+      "mentions_person_refs": [
+        "N-957"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15349",
+      "ref": "C-15349",
+      "label": "Host Says Utah Collaborated With Idaho and He Was Additionally Charged in Meridian",
+      "claim": "The host says Utah collaborated with Idaho and Charles Peterson was additionally charged in Meridian, Idaho.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11429"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:12:50",
+      "investigative_direction": "Ada County, Idaho court records.",
+      "transcript_snippet": "Utah, back to the Petersons, collaborated with Idaho and he was additionally charged in Meridian, Idaho.",
+      "mentions_person_refs": [
+        "N-963"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15350",
+      "ref": "C-15350",
+      "label": "Host Says the UVU Review Says Maycee Crofts Wanted the Event in the Amphitheater",
+      "claim": "The host says that, according to the UVU review, Maycee Crofts was on the call and wanted the event in the amphitheater, and links her to the Meridian area.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10839"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:13:05",
+      "investigative_direction": "The UVU independent review's account of the venue call.",
+      "transcript_snippet": "according to the UVU Review, insisted on having the event uh wanted she was on the call and she wanted the event to be um in the amphitheater.",
+      "supports_claim_refs": [
+        "C-10984"
+      ],
+      "mentions_person_refs": [
+        "N-8"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15351",
+      "ref": "C-15351",
+      "label": "Host Says Kip Crofts Was Arrested Just Outside Nampa, Where TPUSA Held an Assembly",
+      "claim": "The host says Maycee Crofts's uncle Kip Crofts was arrested just outside Nampa, Idaho, where Turning Point USA put on an assembly.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:13:20",
+      "investigative_direction": "Canyon County arrest records for Kip Crofts.",
+      "transcript_snippet": "We talked about her uncle Kip Crofts, who was arrested just outside of Nampa, where Turning Point USA put on their assembly, that's right there.",
+      "mentions_person_refs": [
+        "N-12",
+        "N-8"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15352",
+      "ref": "C-15352",
+      "label": "Host Says Val Peterson's Father Was Born in Nampa, Idaho",
+      "claim": "The host says Val Peterson's father is from, and was born in, Nampa, Idaho.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:13:26",
+      "investigative_direction": "Birth or obituary records for Val Peterson's father.",
+      "transcript_snippet": "By the way, just Val Peterson's dad, that's where they're from, Nampa, Idaho. Like born in Nampa, Idaho.",
+      "mentions_person_refs": [
+        "N-957"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15353",
+      "ref": "C-15353",
+      "label": "Host Says Charles Was Charged in Meridian With Four Counts, Per the Idaho AG Website",
+      "claim": "The host says Charles Peterson was additionally charged in Meridian with four counts of soliciting a child, and shows an article from the Idaho Attorney General's website.",
+      "anchored_artifacts": [
+        "A-3393.2"
+      ],
+      "related_nodes": [
+        "N-11429"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:13:34",
+      "investigative_direction": "Idaho Attorney General press release archive.",
+      "transcript_snippet": "Val's brother Charles was additionally charged in Meridian with four counts of soliciting a child. Here is the article, which is available on the Idaho Attorney General's website.",
+      "mentions_person_refs": [
+        "N-957",
+        "N-963"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15354",
+      "ref": "C-15354",
+      "label": "Per the AG Article, Labrador Announced a Meridian Man Was Charged on March 5, 2026",
+      "claim": "Per the Idaho Attorney General article the host shows, Attorney General Raul Labrador announced that a Meridian man was charged in Idaho on March 5, 2026 with four counts of enticing a child.",
+      "anchored_artifacts": [
+        "A-3393.2"
+      ],
+      "related_nodes": [
+        "N-11429"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:13:48",
+      "investigative_direction": "The Idaho AG release and the Ada County charging document.",
+      "transcript_snippet": "Attorney General Raul Labrador has announced that a Meridian man was charged in Idaho on March 5th, 2026 with four counts of enticing a child.",
+      "mentions_person_refs": [
+        "N-964",
+        "N-963"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15355",
+      "ref": "C-15355",
+      "label": "Per the AG Article, ICAC Arrested Charles Peterson, 52, After a Lehi Police Request",
+      "claim": "Per the article the host shows, Idaho AG ICAC investigators arrested Charles Peterson, 52, on February 3, 2026 after a request for assistance from the Lehi Police Department on similar charges pending in Utah.",
+      "anchored_artifacts": [
+        "A-3393.2"
+      ],
+      "related_nodes": [
+        "N-11429",
+        "N-11430"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:14:01",
+      "investigative_direction": "Lehi Police Department case records and the Utah charging documents.",
+      "transcript_snippet": "Investigators with the Attorney General's Internet Crimes Against Children, ICAC unit, arrested Charles Peterson, 52, on February 3rd, 2026, after receiving a request for assistance from the Lehi Police Department",
+      "mentions_person_refs": [
+        "N-963"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15356",
+      "ref": "C-15356",
+      "label": "Per the AG Article, the Charges Are Accusations and He Is Presumed Innocent",
+      "claim": "Per the article the host shows, the charges are merely accusations and the defendant is presumed innocent unless proven guilty; the host then frames the case as part of a recurring theme.",
+      "anchored_artifacts": [
+        "A-3393.2"
+      ],
+      "related_nodes": [
+        "N-11429",
+        "N-10832"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:14:18",
+      "investigative_direction": "Case disposition records in Utah and Idaho.",
+      "transcript_snippet": "The charges listed above are merely accusations, and the defendant is presumed innocent until and unless and unless proven guilty.",
+      "mentions_person_refs": [
+        "N-963"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15357",
+      "ref": "C-15357",
+      "label": "Host Says Trump Called Charlie in July and Reprimanded Him Over the Epstein Files",
+      "claim": "The host asks why President Trump called Charlie Kirk in July and reprimanded him for speaking out against the Epstein files, presenting the call as fact.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10969",
+        "N-10324"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:15:30",
+      "investigative_direction": "The New York Times reporting on the July 12, 2025 call; call participants.",
+      "transcript_snippet": "Why did President Donald Trump call Charlie Kirk in July and reprimand him for speaking out against the Epstein files?",
+      "supports_claim_refs": [
+        "C-4500"
+      ],
+      "mentions_person_refs": [
+        "N-5",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15358",
+      "ref": "C-15358",
+      "label": "Host Says the Epstein Files Required Many Top-Level Situation Room Meetings",
+      "claim": "The host asks why the Epstein files required so many top-level White House meetings in the Situation Room, presenting the meetings as fact.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324",
+        "N-10075"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:15:43",
+      "investigative_direction": "White House meeting logs and reporting on Situation Room meetings on the Epstein files.",
+      "transcript_snippet": "Why did the Epstein files require so many top-level meetings in the White House in the situation room?",
+      "mentions_person_refs": [
+        "N-10075"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15359",
+      "ref": "C-15359",
+      "label": "Host Says Erika Has Not Answered the Story That She Frequented an Epstein-Linked Modeling Office",
+      "claim": "The host says Erika Kirk has given no clear answer to the host's story that she allegedly spent time at a New York modeling office that people with direct knowledge say Jeffrey Epstein frequented.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10532"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:15:48",
+      "investigative_direction": "Erika Kirk or TPUSA statement; Next Model Management staff.",
+      "transcript_snippet": "why can't we get a clear answer from Charlie's wife, Erika, regarding the story that we broke, her hanging out at a modeling office, allegedly, in New York?",
+      "supports_claim_refs": [
+        "C-5916"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15360",
+      "ref": "C-15360",
+      "label": "Host Says the Agency Was Started by Jean-Luc Brunel, Epstein's Partner",
+      "claim": "The host says the modeling agency was started by Jean-Luc Brunel, whom she calls Jeffrey Epstein's partner.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10532"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:16:05",
+      "investigative_direction": "Corporate history of Next Model Management and Brunel's agencies.",
+      "transcript_snippet": "a modeling agency that was started by the French pervert, Jean-Luc Brunel, who was Jeffrey Epstein's partner.",
+      "mentions_person_refs": [
+        "N-529",
+        "N-9",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15361",
+      "ref": "C-15361",
+      "label": "Host Says Erika Could Deny Running Upper East Side Modeling Apartments but Has Not",
+      "claim": "The host says Erika could easily deny that she was in charge of Upper East Side modeling apartments occupied by young Eastern European models, as the host's team was told, and that the team sought comment before publishing.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10532"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:16:20",
+      "investigative_direction": "Lease records for model housing; former Next Model staff.",
+      "transcript_snippet": "It would be very easy for her to deny that she was in charge of modeling apartments on the Upper East Side, which were occupied by young Eastern European models, as we were told",
+      "supports_claim_refs": [
+        "C-2981"
+      ],
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15362",
+      "ref": "C-15362",
+      "label": "Host Says Club America Is Being Administratively Forced on High School Students",
+      "claim": "The host says Turning Point under Erika's leadership is focused on high-school access, and Club America is being administratively forced on students who did not sign up, through assemblies.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10533"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:16:52",
+      "investigative_direction": "School district records of TPUSA assemblies and Club America enrollment.",
+      "transcript_snippet": "Club America, which is being administratively forced upon students who are not signing up for this club. It's assembly time and you got to go.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15363",
+      "ref": "C-15363",
+      "label": "Host Says Charlie Gave His Last Company Pitch to Investors in Aspen 3 Weeks Before His Death",
+      "claim": "The host says her show demonstrated Charlie's vision via his last company pitch to investors in Aspen three weeks before his death.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10533"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:17:08",
+      "investigative_direction": "The Aspen donor event recording and attendee accounts.",
+      "transcript_snippet": "We demonstrated that to you via his last company pitch, if you will, that he gave in front of investors in Aspen 3 weeks before his death.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15364",
+      "ref": "C-15364",
+      "label": "Host Says Charlie Wanted a Debate-Club Model, Not Mandated Assemblies",
+      "claim": "The host says Charlie wanted high-school chapters to be like a debate club that students chose to join, and did not want to mandate assemblies.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10533"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:17:20",
+      "investigative_direction": "The Aspen pitch audio.",
+      "transcript_snippet": "He wanted it to be like a debate club where kids signed up and wanted to have wanted to show up wanted to host people. He didn't want to mandate assemblies.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15365",
+      "ref": "C-15365",
+      "label": "Host Says Kolvet Was Allegedly at the White House the Day Before a Partial Epstein Files Release",
+      "claim": "The host says Andrew Kolvet was allegedly at the White House meeting with top officials the day before the Epstein files were partially released.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324",
+        "N-10075"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:17:40",
+      "investigative_direction": "White House visitor logs and EEOB access records for that date.",
+      "transcript_snippet": "Why was Andrew Kolvet allegedly at the White House meeting with top brass the day before the Epstein files were partially released to the public",
+      "supports_claim_refs": [
+        "C-4723"
+      ],
+      "mentions_person_refs": [
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15366",
+      "ref": "C-15366",
+      "label": "Host Says Bondi Said a Full Release Would Collapse Global Economies",
+      "claim": "The host says many files will never be seen and that Pam Bondi said releasing them would lead to the collapse of global economies.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:17:55",
+      "investigative_direction": "Transcript or recording of Bondi's remark.",
+      "transcript_snippet": "Millions upon millions of files we're never going to get to see Pam Bondi saying that it would lead to the collapse of global economies if they released it.",
+      "supports_claim_refs": [
+        "C-9249"
+      ],
+      "mentions_person_refs": [
+        "N-85"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15367",
+      "ref": "C-15367",
+      "label": "Host Says Two White House People Emailed Her and She Tweeted Kolvet Was There",
+      "claim": "The host says two people in the White House emailed her and she tweeted that she was hearing Andrew Kolvet was at the White House, not knowing the Epstein files would come out the next day.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10075"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:05",
+      "investigative_direction": "The host's tweet and its timestamp; White House visitor logs.",
+      "transcript_snippet": "Two people in the White House emailed me and told me. We didn't know the Epstein files were coming out the next day, so we just tweeted it.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15368",
+      "ref": "C-15368",
+      "label": "Host Says Charlie Had Changed His Mind on Israel",
+      "claim": "The host says she told the public that Charlie was changing his mind and had changed his mind regarding Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10148",
+        "N-10026"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:40",
+      "investigative_direction": "Charlie Kirk's private messages and statements from summer 2025.",
+      "transcript_snippet": "He was changing his mind. He had changed his mind regarding Israel. He was done with them.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15369",
+      "ref": "C-15369",
+      "label": "Host Says the French Foreign Legion Was on the Ground That Day and the White House Never Disputed It",
+      "claim": "The host says she told the White House the French Foreign Legion was on the ground on the day of the assassination, which she says the White House has never disputed.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10290",
+        "N-10075"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:48",
+      "investigative_direction": "White House or DoD statements; foreign military training records for September 2025.",
+      "transcript_snippet": "um the French Foreign Legion's presence, they were there on the day on the ground that day.\" It's a fact that still has never been disputed by the White House, I might add.",
+      "supports_claim_refs": [
+        "C-8911"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15370",
+      "ref": "C-15370",
+      "label": "Host Says Epstein Worked Directly for the Rothschilds",
+      "claim": "The host says Jeffrey Epstein worked directly for the Rothschilds, who she says credit themselves with creating Israel in 1948.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10026"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:19:12",
+      "investigative_direction": "Documented Epstein–Rothschild business records.",
+      "transcript_snippet": "He worked directly for the Rothschilds who credit themselves with having created the state of Israel in 1948.",
+      "mentions_person_refs": [
+        "N-9",
+        "N-520"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15371",
+      "ref": "C-15371",
+      "label": "Host Says Ghislaine Maxwell Was Born in France and Epstein Ran Trafficking Through France",
+      "claim": "The host says Epstein's convicted partner Ghislaine Maxwell was born in France and that Epstein ran trafficking operations through France and owned property and businesses there.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:19:30",
+      "investigative_direction": "Maxwell's birth record; Epstein's Paris property records.",
+      "transcript_snippet": "His convicted partner, Ghislaine Maxwell, was born in France.",
+      "mentions_person_refs": [
+        "N-47",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15372",
+      "ref": "C-15372",
+      "label": "Host Says Brunel Hung Himself, Perhaps Was Killed, in a Cell",
+      "claim": "The host says Jean-Luc Brunel, who was French, hung himself or \"perhaps was suicided\" in a cell.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:19:45",
+      "investigative_direction": "French investigation into Brunel's 2022 death in La Santé prison.",
+      "transcript_snippet": "Jean-Luc Brunel who hung himself perhaps was suicided in a cell, French.",
+      "mentions_person_refs": [
+        "N-529"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15373",
+      "ref": "C-15373",
+      "label": "Host Says She Covered Brigitte and Epstein While Charlie Covered Epstein Daily",
+      "claim": "The host says that while Charlie was hitting Epstein hard on his show every day, she was covering Brigitte Macron and Epstein, working on an Epstein series and covering pedo-criminal networks in France.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:20:22",
+      "investigative_direction": "Episode archives of The Charlie Kirk Show and Candace from summer 2025.",
+      "transcript_snippet": "I was going on about Brigitte and Epstein and working on an Epstein series and by he I mean Charlie of course on his show every day was hitting hard.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-82"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15374",
+      "ref": "C-15374",
+      "label": "Host Says Charlie Was Terrified in the End and Realized His Life Was a Truman Show",
+      "claim": "The host says Charlie was terrified in the end, realized his life was a Truman Show, did not know what was going on in his company, and had questions his lieutenants would not answer.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:21:55",
+      "investigative_direction": "Charlie Kirk's private communications in summer 2025; testimony from close associates.",
+      "transcript_snippet": "And that we acknowledge that Charlie was terrified in the end. He woke up one day and he realized that his life was a Truman Show.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15375",
+      "ref": "C-15375",
+      "label": "Host Says Charlie Knew Death Was Coming and It Would Be Tied to an Awakening",
+      "claim": "The host says Charlie knew death was coming and knew his premature death would be tied to a wider awakening.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10415"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:22:25",
+      "investigative_direction": "Charlie Kirk's recorded statements and messages anticipating his death.",
+      "transcript_snippet": "But I will say on a positive note that Charlie knew that death was coming. He knew that his death, though premature, would be tied to a wider awakening.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15376",
+      "ref": "C-15376",
+      "label": "Host Says Brigitte Macron Cannot Produce a Photo From 30 Years of Her Life",
+      "claim": "The host says Brigitte Macron cannot produce a single photo across 30 years of her life, including of her allegedly raising three children, pregnancies or birthday parties.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:26:50",
+      "investigative_direction": "Published family photographs; Macron defamation suit filings.",
+      "transcript_snippet": "You allegedly had three kids, some photos raising them, pregnant, in the hospital, birthday parties, nothing.",
+      "mentions_person_refs": [
+        "N-82"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15377",
+      "ref": "C-15377",
+      "label": "Host Says Katie Zacharia, the New Press Secretary, Was a Fox News Commentator",
+      "claim": "The host says Katie Zacharia is the new White House press secretary and has been providing commentary on Fox News.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10075"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:27:20",
+      "investigative_direction": "White House announcement of the appointment.",
+      "transcript_snippet": "this this Katie Zacharia character, who is the new press secretary, I'm just watching people defend this",
+      "mentions_person_refs": [
+        "N-962",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15378",
+      "ref": "C-15378",
+      "label": "Host Alleges Zacharia Pretended to Pass the Bar and Notes She Attended Pepperdine Like Erika",
+      "claim": "The host alleges Zacharia pretended she passed the bar, says people cannot confirm it, and notes she went to Pepperdine, the same school as Erika.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11431"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:27:48",
+      "investigative_direction": "State bar admission records; Pepperdine registrar.",
+      "transcript_snippet": "And it's a bit weird that you pretended that you passed the bar, I'll say allegedly, but people can't confirm it. And I want to be clear, the school she went to, Pepperdine, same school as Erika.",
+      "mentions_person_refs": [
+        "N-962",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15379",
+      "ref": "C-15379",
+      "label": "Host Says Pepperdine Confirmed Zacharia's Attendance and Degree",
+      "claim": "The host says Pepperdine confirmed Zacharia attended and received a degree, and that she finished law school, leaving only the bar question.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11431"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:28:06",
+      "investigative_direction": "Pepperdine's public confirmation.",
+      "transcript_snippet": "But Pepperdine confirmed that she went to the school, that's not in question. They confirmed that she got a degree.",
+      "mentions_person_refs": [
+        "N-962"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15380",
+      "ref": "C-15380",
+      "label": "In a Clip the Host Plays, Zacharia Answers \"When I Moved to China\" When Asked Where She Passed the Bar",
+      "claim": "In a clip the host plays, reporters ask where the press secretary passed the bar exam, and she answers \"When I moved to China\".",
+      "anchored_artifacts": [
+        "A-3394.1"
+      ],
+      "related_nodes": [
+        "N-11431"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:28:40",
+      "investigative_direction": "Full press-pool footage of the exchange.",
+      "transcript_snippet": ">> did you pass the bar exam? >> When I moved to China. That's her answer.",
+      "mentions_person_refs": [
+        "N-962",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15381",
+      "ref": "C-15381",
+      "label": "Host Alleges Zacharia Did Not Pass the Bar",
+      "claim": "The host alleges Zacharia did not pass the bar and that Trump was duped.",
+      "anchored_artifacts": [
+        "A-3394.1"
+      ],
+      "related_nodes": [
+        "N-11431"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:29:15",
+      "investigative_direction": "California and other state bar records.",
+      "transcript_snippet": "Obviously, she's not going to answer the question because she can't answer the question because she did not pass the bar.",
+      "mentions_person_refs": [
+        "N-962",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15382",
+      "ref": "C-15382",
+      "label": "Host Says Kelly Clarkson Was the First American Idol Winner in 2002",
+      "claim": "The host says Kelly Clarkson was the first American Idol winner in 2002, saying she was 16 years old and was presented as a waitress with no connections.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:30:45",
+      "investigative_direction": "American Idol season 1 records and Clarkson's birth date.",
+      "transcript_snippet": "Kelly Clarkson, who was the first American Idol winner back in 2002, 16 years old, who told she was a, you know, waitress, no connections",
+      "mentions_person_refs": [
+        "N-965"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15383",
+      "ref": "C-15383",
+      "label": "Host Says Clarkson Went to the Brooklyn Store Art of Play",
+      "claim": "The host says Kelly Clarkson went to a Brooklyn store called The Art of Play.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11432"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:31:16",
+      "investigative_direction": "Store statements and Clarkson's post.",
+      "transcript_snippet": "She's crashing out because she went to a store in Brooklyn called The Art of Play.",
+      "mentions_person_refs": [
+        "N-965"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15384",
+      "ref": "C-15384",
+      "label": "Host Says Clarkson Wanted a $15,000 Automated Bird and Was in the Store 4 Minutes",
+      "claim": "The host says Clarkson wanted to buy an artist-made automated bird priced at $15,000 and was in the store for 4 minutes.",
+      "anchored_artifacts": [
+        "A-3395.1"
+      ],
+      "related_nodes": [
+        "N-11432"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:32:55",
+      "investigative_direction": "The store's released video.",
+      "transcript_snippet": "Can we show this automated bird that she wanted to buy and she was in the store for 4 minutes?",
+      "mentions_person_refs": [
+        "N-965"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15385",
+      "ref": "C-15385",
+      "label": "Host Says Staff Told Clarkson the Bird Was Not for Sale",
+      "claim": "The host says a staff member told Clarkson the bird was not for sale because it was fixed to the wall.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11432"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:34:21",
+      "investigative_direction": "The store's released video and statements.",
+      "transcript_snippet": "told her that it wasn't for sale because it wasn't. It's It's a fixed to their wall. It's obviously not for sale.",
+      "mentions_person_refs": [
+        "N-965"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15386",
+      "ref": "C-15386",
+      "label": "Per the Post the Host Reads, Clarkson Said She Was Looked at as if She Couldn't Afford It",
+      "claim": "Per the post the host reads, Clarkson wrote that she was looked at as if she couldn't afford items and compared it to Julia Roberts' character in Pretty Woman.",
+      "anchored_artifacts": [
+        "A-3395.2"
+      ],
+      "related_nodes": [
+        "N-11432"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:34:58",
+      "investigative_direction": "Clarkson's original post.",
+      "transcript_snippet": "Just drove all the way to Brooklyn to check out this store I thought looked really rad and had a few things in mind to buy and literally was looked at as if I couldn't afford it",
+      "mentions_person_refs": [
+        "N-965"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15387",
+      "ref": "C-15387",
+      "label": "Host Says Clarkson Posted 15 Minutes After Leaving",
+      "claim": "The host says Clarkson posted 15 minutes after she left the store, having been there 4 minutes.",
+      "anchored_artifacts": [
+        "A-3395.2"
+      ],
+      "related_nodes": [
+        "N-11432"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:35:22",
+      "investigative_direction": "Post timestamp versus store video timestamps.",
+      "transcript_snippet": "She tweeted this 15 minutes after she left the store. She's only there for 4 minutes and the guy has told her that it wasn't for sale.",
+      "mentions_person_refs": [
+        "N-965"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15388",
+      "ref": "C-15388",
+      "label": "Host Says the Store Released Video of the Visit",
+      "claim": "The host says the store released video of what happened in the store, and that it shows no discrimination.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11432"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:35:40",
+      "investigative_direction": "The released store footage.",
+      "transcript_snippet": "But she's trying to pretend she was discriminated against and they released the video of what's happening in the store.",
+      "mentions_person_refs": [
+        "N-965"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15389",
+      "ref": "C-15389",
+      "label": "Host Says the Owner Reports Death Threats but Was Not at the Store",
+      "claim": "The host says the store owner says they are getting death threats, and that he was not at the store when the incident took place.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11432"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:36:05",
+      "investigative_direction": "Owner's public statements.",
+      "transcript_snippet": "Now the owner's coming out saying that they're getting death threats. He's being dramatic about it. He was not there at the store when this took place.",
+      "mentions_person_refs": [
+        "N-965"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15390",
+      "ref": "C-15390",
+      "label": "Host Says Variety Reports Danny Trejo's Son Claims He Was Tricked Into a Ben Shapiro Project",
+      "claim": "The host says Danny Trejo is allegedly stuck in a Ben Shapiro-produced project, citing his son's claim and Variety's reporting.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11433"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:39:55",
+      "investigative_direction": "The Variety article.",
+      "transcript_snippet": "They kind of tricked him into allegedly, his son is claiming, um Variety is reporting",
+      "mentions_person_refs": [
+        "N-966",
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15391",
+      "ref": "C-15391",
+      "label": "Host Says the Film Is a Pro-ICE Project and Trejo Had Never Heard of Shapiro",
+      "claim": "The host says Shapiro was producing the film, that it is a pro-ICE project, and that Trejo had apparently never heard of Shapiro before signing on to Pawn Shop.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11433"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:40:10",
+      "investigative_direction": "Pawn Shop production credits and press materials.",
+      "transcript_snippet": "And it's a pro-ICE project, which goes against his roots, his Mexican roots. And Danny Trejo apparently had never even heard of Ben Shapiro before signing on for this new movie Pawn Shop.",
+      "mentions_person_refs": [
+        "N-966",
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15392",
+      "ref": "C-15392",
+      "label": "Per the Son's Statement, the Family Learned of Shapiro's Involvement Two Weeks Into Shooting",
+      "claim": "Per the statement from Danny Trejo's son that the host reads, the film is \"not pro ice\", and the family found out Ben Shapiro was involved about two weeks into shooting.",
+      "anchored_artifacts": [
+        "A-3396.1"
+      ],
+      "related_nodes": [
+        "N-11433"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:40:45",
+      "investigative_direction": "The son's original post; production timeline.",
+      "transcript_snippet": "About 2 weeks into shooting, everyone including us found out Ben Shapiro was involved.",
+      "mentions_person_refs": [
+        "N-966",
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15393",
+      "ref": "C-15393",
+      "label": "Per the Son's Statement, Trejo Contractually Cannot Badmouth or Leave the Film",
+      "claim": "Per the son's statement, Trejo contractually cannot badmouth Shapiro or the film or walk away without being sued for breach of contract.",
+      "anchored_artifacts": [
+        "A-3396.1"
+      ],
+      "related_nodes": [
+        "N-11433"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:40:58",
+      "investigative_direction": "Trejo's contract terms.",
+      "transcript_snippet": "My dad contractually cannot badmouth him, the film, or walk away without being sued for breach of contract.",
+      "mentions_person_refs": [
+        "N-966",
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15394",
+      "ref": "C-15394",
+      "label": "Host Alleges Shapiro Sues, Follows and Stalks People Who Leave Him",
+      "claim": "The host alleges, citing personal experience, that Shapiro will sue people for breach of contract, follow them across states and stalk them.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11026"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:41:33",
+      "investigative_direction": "Court filings in Shapiro- or Daily Wire-related litigation involving the host.",
+      "transcript_snippet": "He won't just sue you breach contract. He will follow you across states. He will stalk you.",
+      "mentions_person_refs": [
+        "N-97",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15395",
+      "ref": "C-15395",
+      "label": "Host Alleges Shapiro Encourages Others to Sue With His Money",
+      "claim": "The host alleges Shapiro encourages others to sue people with his money.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11026"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:42:03",
+      "investigative_direction": "Litigation funding disclosures in suits against the host.",
+      "transcript_snippet": "Like I mean, then he will encourage others to sue you with their money.",
+      "mentions_person_refs": [
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15396",
+      "ref": "C-15396",
+      "label": "Host Says the Show Will Make More Cards, Including Blake Neff, and May Sell a Pack",
+      "claim": "Responding to a viewer comment, the host says the show will make more cards, including Mike and \"Blake and Neff\", and may sell a pack; separately she jokes that Tim Dillon would be her press secretary with Theo Von filling in.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:42:48",
+      "investigative_direction": "Show merch store listings.",
+      "transcript_snippet": "We gotta get Mike and we gotta get Blake and Neff, obviously. We're going to get We'll get on it. Um we should probably sell a pack.",
+      "mentions_person_refs": [
+        "N-159",
+        "N-277",
+        "N-146",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15397",
+      "ref": "C-15397",
+      "label": "Viewer Comment Refers to Charlie Refusing BB's Offer to Take TPUSA to the Next Level",
+      "claim": "A viewer comment the host reads refers to Charlie Kirk not accepting \"BB's offer of taking TPUSA to the next level\"; the host says many people got such an offer after the assassination and said yes.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10456",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:44:05",
+      "investigative_direction": "Accounts of any Netanyahu offer to Charlie Kirk.",
+      "transcript_snippet": "what Charlie Kirk's world would have been had he accepted BB's offer of taking TPUSA to the next level",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15398",
+      "ref": "C-15398",
+      "label": "Host Disputes the 150-Yard Shot Narrative",
+      "claim": "The host says the official account has common-sense holes, asking whether Charlie had a \"steel neck\" for a bullet fired from 150 yards.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10048"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:44:52",
+      "investigative_direction": "Autopsy report and ballistic analysis.",
+      "transcript_snippet": "Do you think he had a steel neck and this amazing thing happened from 150 yards with a bullet?",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15399",
+      "ref": "C-15399",
+      "label": "Host Says the Owner Now Says Molly Is Worth 15 Million",
+      "claim": "The host says Clarkson's show just ended and the store owner is trolling her by saying Molly the bird is now worth 15 million.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11432"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:47:20",
+      "investigative_direction": "Owner's social media posts.",
+      "transcript_snippet": "And now the the owner is trolling her and he says the word Molly the bird is now worth 15 million, which I do find to be kind of funny.",
+      "mentions_person_refs": [
+        "N-965"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15400",
+      "ref": "C-15400",
+      "label": "Viewer Comment Says Her Daughter's Class Will Wear CIA Shirts to the White House",
+      "claim": "A viewer comment the host reads says the viewer's daughter and eighth-grade classmates will travel to DC and wear her CIA T-shirt when they visit the White House; the host says the shirt is sold at CandaceOwens.com and more merch is coming.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10075"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:47:32",
+      "investigative_direction": "Show merch listings.",
+      "transcript_snippet": "She and her eighth-grade classmates will be traveling to DC in a few weeks and she is insisting on her friends wearing her CIA T when they visit the White House.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15401",
+      "ref": "C-15401",
+      "label": "Host Says She Expects to Go Into Labor Soon",
+      "claim": "The host says her baby has to be coming soon because her eyesight is bad, which she says is always her sign before labor.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:48:33",
+      "investigative_direction": "Subsequent episodes and announcements.",
+      "transcript_snippet": "this baby has to be coming soon because guys, I can't even see like my eyesight is so bad and that's always my tell before I go into labor.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    }
+  ],
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-24",
+      "ref": "M-24",
+      "canonical_term": "Yanking and Banking",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 165,
+          "video_timestamp": "00:02:38",
+          "speaker_node_ref": "N-3",
+          "quote": "Then of course we have Yankin Bankin Frank. There he is.",
+          "context": "Host shows the Frank Turek Pokémon card.",
+          "confidence": "high",
+          "tags": [
+            "pokemon-cards",
+            "frank-turek"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-71",
+      "ref": "M-71",
+      "canonical_term": "Where Were You on 9/10",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 165,
+          "video_timestamp": "00:06:26",
+          "speaker_node_ref": "N-3",
+          "quote": "Where were you? Were you golfing with Val? That would be interesting.",
+          "context": "Host asks where Governor Cox was on September 10.",
+          "confidence": "high",
+          "tags": [
+            "cox",
+            "val-peterson",
+            "alibi"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-146",
+      "ref": "M-146",
+      "canonical_term": "Marking Time",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 165,
+          "video_timestamp": "00:04:13",
+          "speaker_node_ref": "N-3",
+          "quote": "And we wanted to know where was he marking time?",
+          "context": "Host on Val Peterson's whereabouts on September 10.",
+          "confidence": "high",
+          "tags": [
+            "val-peterson",
+            "alibi"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 165,
+          "video_timestamp": "00:04:15",
+          "speaker_node_ref": "N-3",
+          "quote": "Well, thanks to you sleuths back at home and some brave, yet clearly terrified faculty members at UVU, we were able to put some more pieces together.",
+          "context": "Tip payoff on Val Peterson's whereabouts.",
+          "confidence": "high",
+          "tags": [
+            "dia",
+            "tips"
+          ]
+        },
+        {
+          "episode": 165,
+          "video_timestamp": "00:06:20",
+          "speaker_node_ref": "N-3",
+          "quote": "Again, so far as we can tell, if we are overlooking something, please send it.",
+          "context": "Host asks viewers to send anything on where Cox was when he learned of Charlie's death.",
+          "confidence": "high",
+          "tags": [
+            "dia",
+            "tips"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-66",
+      "ref": "M-66",
+      "canonical_term": "Fed Slop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 165,
+          "video_timestamp": "00:01:06",
+          "speaker_node_ref": "N-3",
+          "quote": "our war with everyone who continues to desecrate his memory with nonsense, fed slop.",
+          "context": "Birthday framing of the show's mission.",
+          "confidence": "high",
+          "tags": [
+            "birthday",
+            "charlie-kirk"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-75",
+      "ref": "M-75",
+      "canonical_term": "I'll Say Allegedly",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 165,
+          "video_timestamp": "00:17:40",
+          "speaker_node_ref": "N-3",
+          "quote": "the day before the Epstein files were partially released to the public, I'll say.",
+          "context": "Host hedges on Kolvet at the White House.",
+          "confidence": "medium",
+          "tags": [
+            "hedge"
+          ]
+        },
+        {
+          "episode": 165,
+          "video_timestamp": "00:27:48",
+          "speaker_node_ref": "N-3",
+          "quote": "And it's a bit weird that you pretended that you passed the bar, I'll say allegedly",
+          "context": "Host hedges on Katie Zacharia's bar status.",
+          "confidence": "high",
+          "tags": [
+            "hedge",
+            "press-secretary"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-40",
+      "ref": "M-40",
+      "canonical_term": "Truman Show",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 165,
+          "video_timestamp": "00:21:55",
+          "speaker_node_ref": "N-3",
+          "quote": "He woke up one day and he realized that his life was a Truman Show.",
+          "context": "Host on Charlie's final months.",
+          "confidence": "high",
+          "tags": [
+            "charlie-kirk",
+            "staged"
+          ]
+        },
+        {
+          "episode": 165,
+          "video_timestamp": "00:25:57",
+          "speaker_node_ref": "N-3",
+          "quote": "we're aware that it's a Truman Show",
+          "context": "Host on public life feeling staged.",
+          "confidence": "high",
+          "tags": [
+            "staged"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-140",
+      "ref": "M-140",
+      "canonical_term": "White Walkers Among Us",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 165,
+          "video_timestamp": "00:25:57",
+          "speaker_node_ref": "N-3",
+          "quote": "I think right now I feel like there are white walkers among us",
+          "context": "Host on people seemingly bitten by something.",
+          "confidence": "high",
+          "tags": [
+            "culture"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-260",
+      "ref": "M-260",
+      "canonical_term": "Midas Touch",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 165,
+          "video_timestamp": "00:30:20",
+          "speaker_node_ref": "N-3",
+          "quote": "We had no idea of this concept of what I refer to as the Midas touch. Somebody pulled the ranks and it's all pre-planned.",
+          "context": "Host on reality TV and American Idol.",
+          "confidence": "high",
+          "tags": [
+            "culture",
+            "kelly-clarkson"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-147",
+      "ref": "M-147",
+      "canonical_term": "Crash Out",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 165,
+          "video_timestamp": "00:31:10",
+          "speaker_node_ref": "N-3",
+          "quote": "We fast forward and Kelly Clarkson is quite literally crashing out.",
+          "context": "Kelly Clarkson's Art of Play dispute.",
+          "confidence": "high",
+          "tags": [
+            "kelly-clarkson"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-174",
+      "ref": "M-174",
+      "canonical_term": "Crazy Ex Stalker",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 165,
+          "video_timestamp": "00:42:10",
+          "speaker_node_ref": "N-3",
+          "quote": "you better just do the movie, or you're going to have to deal with a psychotic stalker for the rest of your life.",
+          "context": "Host's advice to Danny Trejo about Ben Shapiro.",
+          "confidence": "high",
+          "tags": [
+            "ben-shapiro"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-14",
+      "ref": "M-14",
+      "canonical_term": "Candace Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 165,
+          "video_timestamp": "00:47:40",
+          "speaker_node_ref": "N-3",
+          "quote": "They think, \"Oh, uh we have young students coming up that like the CIA.\"",
+          "context": "Viewer's daughter's class wearing CIA shirts to the White House.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "cia"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-154",
+      "ref": "M-154",
+      "canonical_term": "Second Favorite Shirt",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 165,
+          "video_timestamp": "00:48:15",
+          "speaker_node_ref": "N-3",
+          "quote": "How funny one would be, \"This is my second favorite shirt.\" They might pick up on that one.",
+          "context": "Merch joke about White House visit.",
+          "confidence": "high",
+          "tags": [
+            "merch"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-19",
+      "ref": "M-19",
+      "canonical_term": "Go Max",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 165,
+          "video_timestamp": "00:47:40",
+          "speaker_node_ref": "N-3",
+          "quote": "They want to go max.",
+          "context": "Viewer comment read by host about CIA shirts at the White House.",
+          "confidence": "medium",
+          "tags": [
+            "merch",
+            "viewer"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-363",
+      "ref": "M-363",
+      "canonical_term": "Baal Berith Contract",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 165,
+          "video_timestamp": "00:42:05",
+          "speaker_node_ref": "N-3",
+          "quote": "it is Baal Berith, okay? It is like a blood contract oath, And and the only way out is death.",
+          "context": "Host on Ben Shapiro contracts (transcribed \"Baal Berith\").",
+          "confidence": "medium",
+          "tags": [
+            "ben-shapiro",
+            "contracts"
+          ]
+        },
+        {
+          "episode": 165,
+          "video_timestamp": "00:45:40",
+          "speaker_node_ref": "N-3",
+          "quote": "It's just what they love, a contract. Like I said, Baal Berith. Uh the contract lords as they view themselves.",
+          "context": "Host on the Danny Trejo contract.",
+          "confidence": "high",
+          "tags": [
+            "ben-shapiro",
+            "contracts"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-364",
+      "ref": "M-364",
+      "canonical_term": "America Has Fallen",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 165,
+          "video_timestamp": "00:01:20",
+          "speaker_node_ref": "N-3",
+          "quote": "America has fallen. There's evidence of that everywhere.",
+          "context": "Intro to the Kelly Clarkson segment.",
+          "confidence": "high",
+          "tags": [
+            "culture",
+            "kelly-clarkson"
+          ]
+        },
+        {
+          "episode": 165,
+          "video_timestamp": "00:36:59",
+          "speaker_node_ref": "N-3",
+          "quote": "I'm telling you guys, America has fallen.",
+          "context": "Close of the Kelly Clarkson segment.",
+          "confidence": "high",
+          "tags": [
+            "culture",
+            "kelly-clarkson"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -103,7 +103,7 @@ And we can assume that the FBI is not going to allow just anybody to traverse on
 
 [14:58]
 
-Now, lucky for Officer Bagley, I went combing through all the footage that was sent to me on September 10th, and lo and behold, Officer Bagley gets up there at 12:45, 12:44. I was able to find some footage of who Officer Baggley was with. It was captured by a bystander at 12:47 p. m. Thank you, Candace. Oh my gosh. You're welcome, Officer Baggley. I'm sure that's what you wanted. You just probably wanted to positively ID who was on the Lozi rooftop center with you. And despite all of the resources of the feds and UVU police and all the cameras, you couldn't do it before that preliminary hearing when you sit down with your lawyer and try to make sure that you have every possible detail remembered.
+Now, lucky for Officer Bagley, I went combing through all the footage that was sent to me on September 10th, and lo and behold, Officer Bagley gets up there at 12:45, 12:44. I was able to find some footage of who Officer Baggley was with. It was captured by a bystander at 12:47 p. m. Thank you, Candace. Oh my gosh. You're welcome, Officer Baggley. I'm sure that's what you wanted. You just probably wanted to positively ID who was on the Losee rooftop center with you. And despite all of the resources of the feds and UVU police and all the cameras, you couldn't do it before that preliminary hearing when you sit down with your lawyer and try to make sure that you have every possible detail remembered.
 
 [15:40]
 

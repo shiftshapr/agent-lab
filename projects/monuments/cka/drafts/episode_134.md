@@ -131,7 +131,7 @@ Confidence Level: High
 
 **A-2211** Tim Pool Tweet Bundle
 
-**A-2211.1** Tim Pool tweet responding to Alex Jones stating that the Lozi rooftop footage "serves as a counter to the exploding Mike claims"
+**A-2211.1** Tim Pool tweet responding to Alex Jones stating that the Losee rooftop footage "serves as a counter to the exploding Mike claims"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -639,7 +639,7 @@ Existing topic reused for new claims in this episode.
 **N-11143** Rooftop Screwdriver Claim
 
 Node Type: Topic
-The dispute over whether a screwdriver was recovered from or used on the Lozi rooftop: Neff and the prosecution (exhibits 12.1 and 12.4) are cited as asserting it, and the host says no evidence of a screwdriver has been shown.
+The dispute over whether a screwdriver was recovered from or used on the Losee rooftop: Neff and the prosecution (exhibits 12.1 and 12.4) are cited as asserting it, and the host says no evidence of a screwdriver has been shown.
 
 *Related: C-7448, C-7449, C-7462, C-7463*
 
@@ -681,7 +681,7 @@ Investigative Direction: Obtain complete autopsy findings; consult independent m
 
 Claim Timestamp: 00:09:40
 
-Claim: Blake Neff posted that there exists another rooftop video from a different angle that captures the moment the rifle is pulled from the shooter's pants, noting this moment is not visible in the Lozi rooftop video.
+Claim: Blake Neff posted that there exists another rooftop video from a different angle that captures the moment the rifle is pulled from the shooter's pants, noting this moment is not visible in the Losee rooftop video.
 
 Anchored Artifacts: A-2212.1
 Mentions: N-159
@@ -774,7 +774,7 @@ Investigative Direction: Verify original tweet with Community Note attached; con
 
 Claim Timestamp: 00:06:39
 
-Claim: Tim Pool tweeted in response to Alex Jones that the Lozi rooftop footage "serves as a counter to the exploding Mike claims."
+Claim: Tim Pool tweeted in response to Alex Jones that the Losee rooftop footage "serves as a counter to the exploding Mike claims."
 
 Anchored Artifacts: A-2211.1
 Mentions: N-93, N-267
@@ -882,7 +882,7 @@ Investigative Direction: Compare the host's private interview with Erika to the 
 
 Claim Timestamp: 00:00:01
 
-Claim: The host says her exclusive video released the previous day has the internet asking a lot of questions about what can or cannot be seen on the Lozi rooftop.
+Claim: The host says her exclusive video released the previous day has the internet asking a lot of questions about what can or cannot be seen on the Losee rooftop.
 
 Transcript Snippet: Internet, I can say definitively, especially after the exclusive video that we released yesterday, has a lot of questions.
 
@@ -1867,7 +1867,7 @@ Investigative Direction: Pull exhibits 12.1 and 12.4 from the hearing record.
 
 Claim Timestamp: 00:38:01
 
-Claim: The host says the public has seen no evidence of a screwdriver or a gun on the Lozi rooftop.
+Claim: The host says the public has seen no evidence of a screwdriver or a gun on the Losee rooftop.
 
 Transcript Snippet: We have seen no evidence of either a screwdriver or a gun on the rooftop of the Lozi building.
 

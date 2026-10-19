@@ -1,0 +1,3583 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 164,
+    "series": "Candace Kirk Archive",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00-00:59:05",
+    "extraction_timestamp": "2026-10-19T21:18:06Z",
+    "model_version": "claude-manual-extract-seq164",
+    "transcript_sha256": "2d7a24d781f7c581f441b990cdb8d7609f322734d50ffb48839b21f2608103e6",
+    "analysis_date": "2026-10-19"
+  },
+  "executive_summary": "Episode 401 (2026-10-13). The host opens by joking about a missed Monday episode, says she is still pregnant and blames producer Skyler for forgetting the federal holiday. She then presents what she calls a discovery about UVU that she says she held back because of pending litigation. She introduces Val Peterson – a UVU vice president, Utah state representative and retired National Guard brigadier general – and, citing the after-action report, says he was about 45 minutes from campus at the time of the shooting. She notes that Salt Lake City, where she says the National Guard air base is, lies about 45 minutes away, while stating she has no idea whether Peterson was there.\n\nThe host then introduces Tyler Clancy, a Utah state representative and Provo police detective whom Peterson led as a church leader at BYU. According to the host's sources, which she says include multiple Provo and Orem sources, Clancy was on duty on the day, was at Timpanogos hospital, escorted Erika Kirk from the airport with Turning Point USA members or affiliates in his car, and disposed of a bloodied bag left in that car. The host stresses these are allegations, says Clancy did not answer a request for comment, and offers a clip of Frank Turek on the Apostate Prophet podcast – raised to her by Baron Coleman – in which Turek says he asked a police officer to dispose of his bloodied bag. The host says she is inclined to believe that officer was Clancy. She adds that Governor Cox later appointed Clancy state homeless coordinator and alleges Clancy is best friends with Shaner Broderick through BYU lacrosse. She repeats that the fire captain who gave CPR at Timpanogos remains unidentified and asks for tips.\n\nIn the second half, the host mocks the debut briefing of new White House press secretary Katie Zacharia, says journalists cannot confirm that Zacharia graduated law school, compares this to Erika Kirk's credentials and reads a Business Insider headline about the bar question. She gives her view of the Cornell 7 case, plays a Tim Dillon clip on it and closes with viewer comments, a note that the next day is Charlie Kirk's birthday, her coming maternity leave and new merchandise, including a Baron Coleman line.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3381",
+      "family_ref": "A-3381",
+      "bundle_name": "Opening \"Caught in a Lie\" Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3381.1",
+          "ref": "A-3381.1",
+          "description": "Video clip the host plays accusing her of a lie for not airing on Monday",
+          "related_claims": [
+            "C-15239"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:00:08",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3382",
+      "family_ref": "A-3382",
+      "bundle_name": "Val Peterson Background Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3382.1",
+          "ref": "A-3382.1",
+          "description": "2007 article on Lt. Col. Val Peterson assuming command of the 300th Military Intelligence Brigade",
+          "related_claims": [
+            "C-15252",
+            "C-15253",
+            "C-15254",
+            "C-15255"
+          ],
+          "related_nodes": [
+            "N-957",
+            "N-958"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:07:08",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3382.2",
+          "ref": "A-3382.2",
+          "description": "On-screen \"Pokemon stats\" graphic listing Val Peterson's roles",
+          "related_claims": [
+            "C-15300"
+          ],
+          "related_nodes": [
+            "N-957"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:13:59",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3383",
+      "family_ref": "A-3383",
+      "bundle_name": "UVU After-Action Report Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3383.1",
+          "ref": "A-3383.1",
+          "description": "After-action report passage on Val Peterson's location at the time of the shooting",
+          "related_claims": [
+            "C-15258"
+          ],
+          "related_nodes": [
+            "N-957",
+            "N-10839"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:11:13",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3384",
+      "family_ref": "A-3384",
+      "bundle_name": "Tyler Clancy Background Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3384.1",
+          "ref": "A-3384.1",
+          "description": "Article on Tyler Clancy as a young Utah legislator, quoting Val Peterson and Matt Schneck",
+          "related_claims": [
+            "C-15264",
+            "C-15265",
+            "C-15266"
+          ],
+          "related_nodes": [
+            "N-957",
+            "N-959",
+            "N-960"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:14:36",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3384.2",
+          "ref": "A-3384.2",
+          "description": "Instagram post of May 20, 2025 congratulating Rep. Tyler Clancy on a detective award",
+          "related_claims": [
+            "C-15268"
+          ],
+          "related_nodes": [
+            "N-959"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:16:23",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3384.3",
+          "ref": "A-3384.3",
+          "description": "Governor Spencer Cox social media post appointing Tyler Clancy state homeless coordinator",
+          "related_claims": [
+            "C-15289",
+            "C-15290"
+          ],
+          "related_nodes": [
+            "N-41",
+            "N-959",
+            "N-961"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:24:42",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3384.4",
+          "ref": "A-3384.4",
+          "description": "Photo the host shows of Tyler Clancy and Robbie Hild",
+          "related_claims": [
+            "C-15294"
+          ],
+          "related_nodes": [
+            "N-959",
+            "N-943"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:27:22",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3384.5",
+          "ref": "A-3384.5",
+          "description": "On-screen \"Pokemon stats\" graphic listing Tyler Clancy's roles",
+          "related_claims": [
+            "C-15300"
+          ],
+          "related_nodes": [
+            "N-959"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:32:45",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3385",
+      "family_ref": "A-3385",
+      "bundle_name": "Frank Turek Apostate Prophet Podcast Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3385.1",
+          "ref": "A-3385.1",
+          "description": "Clip of Frank Turek on the Apostate Prophet podcast (released April 9, 2026) describing the bloodied bag",
+          "related_claims": [
+            "C-15277",
+            "C-15278",
+            "C-15279",
+            "C-15280",
+            "C-15281",
+            "C-15282",
+            "C-15283",
+            "C-15284",
+            "C-15285"
+          ],
+          "related_nodes": [
+            "N-7",
+            "N-190",
+            "N-598",
+            "N-4"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:20:40",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3386",
+      "family_ref": "A-3386",
+      "bundle_name": "Shaner Broderick Instagram Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3386.1",
+          "ref": "A-3386.1",
+          "description": "Shaner Broderick Instagram post of September 14, 2025 on retracing the alleged killer's steps",
+          "related_claims": [
+            "C-15292",
+            "C-15293"
+          ],
+          "related_nodes": [
+            "N-128",
+            "N-943",
+            "N-132"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:26:47",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3387",
+      "family_ref": "A-3387",
+      "bundle_name": "Tip Line Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3387.1",
+          "ref": "A-3387.1",
+          "description": "Host verbal reference to the more tips email for the fire captain identification",
+          "related_claims": [
+            "C-15299"
+          ],
+          "related_nodes": [
+            "N-10874"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:29:33",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3388",
+      "family_ref": "A-3388",
+      "bundle_name": "Katie Zacharia Press Secretary Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3388.1",
+          "ref": "A-3388.1",
+          "description": "Clip of Katie Zacharia's first White House briefing",
+          "related_claims": [
+            "C-15303",
+            "C-15304",
+            "C-15305"
+          ],
+          "related_nodes": [
+            "N-962",
+            "N-5"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:35:39",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3388.2",
+          "ref": "A-3388.2",
+          "description": "Business Insider headline on Zacharia and the bar question",
+          "related_claims": [
+            "C-15310"
+          ],
+          "related_nodes": [
+            "N-962",
+            "N-11424"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:40:41",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3389",
+      "family_ref": "A-3389",
+      "bundle_name": "Tim Dillon Cornell 7 Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3389.1",
+          "ref": "A-3389.1",
+          "description": "Clip of Tim Dillon on the Cornell 7 case",
+          "related_claims": [
+            "C-15315"
+          ],
+          "related_nodes": [
+            "N-277",
+            "N-11425"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:49:26",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3390",
+      "family_ref": "A-3390",
+      "bundle_name": "Viewer Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3390.1",
+          "ref": "A-3390.1",
+          "description": "Viewer comments the host reads from the previous and current episodes",
+          "related_claims": [
+            "C-15318",
+            "C-15319",
+            "C-15322",
+            "C-15323"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:51:45",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassinated at UVU on September 10, 2025; the host says his birthday is October 14 and that his body lay on Frank Turek's bag in the car.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15257",
+        "C-15260",
+        "C-15279",
+        "C-15281",
+        "C-15282",
+        "C-15296",
+        "C-15316",
+        "C-15319",
+        "C-15321"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "The host alleges Tyler Clancy escorted her from the airport; Turek says he kept the necklace for her; the host disputes her credentials and her Vanity Fair tweet.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15272",
+        "C-15282",
+        "C-15283",
+        "C-15285",
+        "C-15307",
+        "C-15309",
+        "C-15320",
+        "C-15321",
+        "C-15322"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15239",
+        "C-15240",
+        "C-15241",
+        "C-15242",
+        "C-15243",
+        "C-15269",
+        "C-15295",
+        "C-15317",
+        "C-15324"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-4",
+      "ref": "N-4",
+      "name": "JD Vance",
+      "type": "person",
+      "description": "Named in the Turek clip as coming to take Charlie Kirk's body to Phoenix.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15279"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Named in the Zacharia briefing clip and as the president who chose her.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15302",
+        "C-15303",
+        "C-15304"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "The host plays his Apostate Prophet podcast clip about giving his bloodied bag to a police officer to dispose of.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15276",
+        "C-15277",
+        "C-15278",
+        "C-15279",
+        "C-15280",
+        "C-15281",
+        "C-15282",
+        "C-15283",
+        "C-15284",
+        "C-15285",
+        "C-15286",
+        "C-15298"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 12,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-25",
+      "ref": "N-25",
+      "name": "Brian Cole Jr.",
+      "type": "person",
+      "description": "A viewer comment refers to the J6 bombing case; the host says she will speak more about the Brian Cole case.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15318"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-40",
+      "ref": "N-40",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Accused killer; the host says a young critic claimed to know potential jurors would vote to convict him.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15244"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-41",
+      "ref": "N-41",
+      "name": "Spencer Cox",
+      "type": "person",
+      "description": "Utah governor; the host says he promoted Tyler Clancy to state homeless coordinator.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15288",
+        "C-15289",
+        "C-15290"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-128",
+      "ref": "N-128",
+      "name": "Shaner Broderick",
+      "type": "person",
+      "description": "The host alleges he is best friends with Tyler Clancy and recalls his September 14 post on retracing the alleged killer's steps.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15291",
+        "C-15292",
+        "C-15293",
+        "C-15294"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-129",
+      "ref": "N-129",
+      "name": "Kayleigh McEnany",
+      "type": "person",
+      "description": "Former Trump press secretary whom the host contrasts with Katie Zacharia.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15301"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-132",
+      "ref": "N-132",
+      "name": "Gernot Ohner",
+      "type": "person",
+      "description": "Named in the transcript as \"Gerno\", one of Shaner Broderick's companions on the step-retracing outing.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15292"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-146",
+      "ref": "N-146",
+      "name": "Theo Von",
+      "type": "person",
+      "description": "Mentioned as a press-secretary candidate in jest and for the host's interview viewership.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15314",
+        "C-15323"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-159",
+      "ref": "N-159",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "The host recalls his \"marking time\" account of where he was in Salt Lake City on September 10.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15260"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-190",
+      "ref": "N-190",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Named in the Turek clip as arranging JD Vance's trip with Katherine LoCastro.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15279"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-266",
+      "ref": "N-266",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "The host says the fire captain does not appear in his account of the hospital.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15286",
+        "C-15298"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-277",
+      "ref": "N-277",
+      "name": "Tim Dillon",
+      "type": "person",
+      "description": "Comedian whose Cornell 7 clip the host plays; she jokes he would be her press secretary.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15314",
+        "C-15315"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-280",
+      "ref": "N-280",
+      "name": "Karoline Leavitt",
+      "type": "person",
+      "description": "Outgoing press secretary whom Katie Zacharia replaces.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15302"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-330",
+      "ref": "N-330",
+      "name": "Baron Coleman",
+      "type": "person",
+      "description": "The host says he pointed her to Frank Turek's bloodied-bag story; she announces a Baron Coleman merch line.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15276",
+        "C-15324"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-598",
+      "ref": "N-598",
+      "name": "Katherine Locastro",
+      "type": "person",
+      "description": "Named in the Turek clip (transcribed \"Katherine LoCastro\") as arranging JD Vance's trip.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15279"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-632",
+      "ref": "N-632",
+      "name": "Hunter Biden",
+      "type": "person",
+      "description": "The host recalls his crack-and-stripper story as an analogy for the Cornell 7 case.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15313"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-943",
+      "ref": "N-943",
+      "name": "Robbie Hild",
+      "type": "person",
+      "description": "Named as Shaner Broderick's companion and as in Tyler Clancy's friend group.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15292",
+        "C-15294"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-957",
+      "ref": "N-957",
+      "name": "Val Peterson",
+      "type": "person",
+      "description": "First named by the host at 00:04:18 in episode 164. UVU vice president, Utah state representative and retired National Guard brigadier general.",
+      "related_artifacts": [
+        "A-3382.1",
+        "A-3383.1"
+      ],
+      "related_claims": [
+        "C-15246",
+        "C-15247",
+        "C-15248",
+        "C-15249",
+        "C-15250",
+        "C-15251",
+        "C-15252",
+        "C-15253",
+        "C-15254",
+        "C-15255",
+        "C-15256",
+        "C-15257",
+        "C-15258",
+        "C-15259",
+        "C-15262",
+        "C-15265",
+        "C-15300"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 17,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-958",
+      "ref": "N-958",
+      "name": "Hank McIntyre",
+      "type": "person",
+      "description": "First named by the host at 00:08:10 in episode 164. Utah National Guard spokesman quoted in the 2007 article on Peterson.",
+      "related_artifacts": [
+        "A-3382.1"
+      ],
+      "related_claims": [
+        "C-15253"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-959",
+      "ref": "N-959",
+      "name": "Tyler Clancy",
+      "type": "person",
+      "description": "First named by the host at 00:13:28 in episode 164. Utah state representative and Provo police detective whom the host alleges disposed of a bloodied bag on September 10.",
+      "related_artifacts": [
+        "A-3384.1"
+      ],
+      "related_claims": [
+        "C-15262",
+        "C-15263",
+        "C-15264",
+        "C-15265",
+        "C-15266",
+        "C-15267",
+        "C-15268",
+        "C-15269",
+        "C-15270",
+        "C-15271",
+        "C-15272",
+        "C-15273",
+        "C-15274",
+        "C-15287",
+        "C-15288",
+        "C-15289",
+        "C-15291",
+        "C-15294",
+        "C-15300"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 19,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-960",
+      "ref": "N-960",
+      "name": "Matt Schneck",
+      "type": "person",
+      "description": "First named by the host at 00:15:14 in episode 164. Read as head coach of BYU men's lacrosse in the article on Tyler Clancy (spelling unverified).",
+      "related_artifacts": [
+        "A-3384.1"
+      ],
+      "related_claims": [
+        "C-15266"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-961",
+      "ref": "N-961",
+      "name": "Wayne Niederhauser",
+      "type": "person",
+      "description": "First named by the host at 00:25:12 in episode 164. Outgoing Utah state homeless coordinator named in Governor Cox's post (transcribed \"Wayne Niederhauser\").",
+      "related_artifacts": [
+        "A-3384.3"
+      ],
+      "related_claims": [
+        "C-15290"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-962",
+      "ref": "N-962",
+      "name": "Katie Zacharia",
+      "type": "person",
+      "description": "First named by the host at 00:35:06 in episode 164. New White House press secretary replacing Karoline Leavitt.",
+      "related_artifacts": [
+        "A-3388.1"
+      ],
+      "related_claims": [
+        "C-15302",
+        "C-15303",
+        "C-15304",
+        "C-15305",
+        "C-15306",
+        "C-15308",
+        "C-15309",
+        "C-15310",
+        "C-15322"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "The host alleges Peterson sides with TPUSA and that TPUSA members or affiliates rode in Clancy's car.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15247",
+        "C-15273",
+        "C-15274"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10012",
+      "ref": "N-10012",
+      "name": "Utah Valley University",
+      "type": "investigation_target",
+      "description": "Peterson's employer and the site of the September 10 event.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15246",
+        "C-15248",
+        "C-15249",
+        "C-15257"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10062",
+      "ref": "N-10062",
+      "name": "Orem, Utah",
+      "type": "investigation_target",
+      "description": "Part of Peterson's House district; the host cites Orem sources for the bag account.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15250",
+        "C-15275"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10074",
+      "ref": "N-10074",
+      "name": "Provo, Utah",
+      "type": "investigation_target",
+      "description": "Clancy's police department; the host cites Provo sources.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15267",
+        "C-15275"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10537",
+      "ref": "N-10537",
+      "name": "Charlie Kirk Necklace / Magnet Clasp Examination",
+      "type": "investigation_target",
+      "description": "Turek's clip says the necklace was on top of the bloodied bag.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15282",
+        "C-15283"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10665",
+      "ref": "N-10665",
+      "name": "Erika Kirk Educational Credentials Discrepancy",
+      "type": "investigation_target",
+      "description": "The host compares Zacharia's unconfirmed law degree to Erika Kirk's doctorate claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15307",
+        "C-15309"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10687",
+      "ref": "N-10687",
+      "name": "Frank Turek CPR Claim Verification",
+      "type": "investigation_target",
+      "description": "The host questions Turek's CPR account given the bag in the back seat.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15286"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10688",
+      "ref": "N-10688",
+      "name": "Frank Turek Clothing Disposal",
+      "type": "investigation_target",
+      "description": "Turek's clip describes changing into scrubs and disposing of the bloodied bag.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15284",
+        "C-15285"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10715",
+      "ref": "N-10715",
+      "name": "Blake Neff September 10th Movement Discrepancy",
+      "type": "investigation_target",
+      "description": "The host recalls Neff's \"marking time\" account in Salt Lake City.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15260"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10839",
+      "ref": "N-10839",
+      "name": "Independent Review of UVU Security Failures",
+      "type": "investigation_target",
+      "description": "The host cites the after-action report on Peterson's location.",
+      "related_artifacts": [
+        "A-3383.1"
+      ],
+      "related_claims": [
+        "C-15258"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10864",
+      "ref": "N-10864",
+      "name": "Vanity Fair Erika Kirk Profile (Clara Molot)",
+      "type": "investigation_target",
+      "description": "The host disputes Erika Kirk's tweet explaining why she sat down with Vanity Fair.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15321"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10872",
+      "ref": "N-10872",
+      "name": "Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession",
+      "type": "investigation_target",
+      "description": "Raised in a viewer comment; the host promises to discuss it.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15318"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10874",
+      "ref": "N-10874",
+      "name": "UVU Independent Review Unnamed Fire Captain CPR Redaction",
+      "type": "investigation_target",
+      "description": "The host says the fire captain who gave CPR at Timpanogos still cannot be identified.",
+      "related_artifacts": [
+        "A-3387.1"
+      ],
+      "related_claims": [
+        "C-15296",
+        "C-15297",
+        "C-15298",
+        "C-15299"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11218",
+      "ref": "N-11218",
+      "name": "Timpanogos Regional Hospital",
+      "type": "investigation_target",
+      "description": "The host alleges Clancy was at Timpanogos shortly after Charlie Kirk arrived and was dispatched from there.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15271",
+        "C-15272",
+        "C-15296"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11263",
+      "ref": "N-11263",
+      "name": "Utah Internet Crimes Against Children Task Force",
+      "type": "investigation_target",
+      "description": "The host says Clancy was also on ICAC.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15267"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11422",
+      "ref": "N-11422",
+      "name": "Val Peterson September 10 Whereabouts Question",
+      "type": "topic",
+      "description": "The host's question of where UVU vice president and retired brigadier general Val Peterson was on September 10, 2025, after the after-action report placed him about 45 minutes from campus at the time of the shooting; she notes Salt Lake City and National Guard facilities but says she has no idea whether he was there.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15257",
+        "C-15258",
+        "C-15259",
+        "C-15261"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-957"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11423",
+      "ref": "N-11423",
+      "name": "Tyler Clancy Bloodied Bag Disposal Allegation",
+      "type": "topic",
+      "description": "The host's allegation, attributed to multiple Provo and Orem sources, that Provo officer Tyler Clancy carried Turning Point USA members or affiliates in his car on September 10, 2025 and disposed of a bloodied bag one of them left there, which she links to Frank Turek's account of asking a police officer to dispose of his bag.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15273",
+        "C-15274",
+        "C-15275",
+        "C-15276",
+        "C-15277",
+        "C-15285",
+        "C-15287"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-959",
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11424",
+      "ref": "N-11424",
+      "name": "Katie Zacharia Law Credential Question",
+      "type": "topic",
+      "description": "The host's and press reports' question of whether new White House press secretary Katie Zacharia graduated law school and passed a bar exam.",
+      "related_artifacts": [
+        "A-3388.2"
+      ],
+      "related_claims": [
+        "C-15308",
+        "C-15309",
+        "C-15310"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-962"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11425",
+      "ref": "N-11425",
+      "name": "Cornell 7 Case",
+      "type": "topic",
+      "description": "The Cornell fraternity party case involving allegations of a gang rape and a group text, on which the host gives her general opinion.",
+      "related_artifacts": [
+        "A-3389.1"
+      ],
+      "related_claims": [
+        "C-15311",
+        "C-15312",
+        "C-15315"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-15239",
+      "ref": "C-15239",
+      "label": "Clip Accuses the Host of Lying About a Monday Episode",
+      "claim": "In a clip the host plays, a speaker says Candace Owens \"has been caught in a lie\" because she said she would see viewers on Monday and did not air that day.",
+      "anchored_artifacts": [
+        "A-3381.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:00:08",
+      "investigative_direction": "Compare the prior Friday episode's sign-off with the channel's upload history for Monday.",
+      "transcript_snippet": "Candace Owens has been caught in a lie. I didn't want to do this.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15240",
+      "ref": "C-15240",
+      "label": "Host Says She Is Still Pregnant",
+      "claim": "The host says she is still pregnant and that people thought she had given birth.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:01:05",
+      "investigative_direction": "Later episodes announcing the birth.",
+      "transcript_snippet": "I am, by the way, still pregnant. People thought I gave birth.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15241",
+      "ref": "C-15241",
+      "label": "Host Blames Producer Skyler for the Missed Monday",
+      "claim": "The host says producer Skyler told her \"No, Tuesday\" only after they had gone off air, so the \"see you on Monday\" sign-off was his fault.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:01:15",
+      "investigative_direction": "None needed beyond the episode record.",
+      "transcript_snippet": "it was Skyler's fault. Skyler, the producer, right as soon as I said, \"We'll see you on Monday and we went off air,\" he went, \"No, Tuesday.\"",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15242",
+      "ref": "C-15242",
+      "label": "Host Says She Held a UVU Discovery Because of Litigation",
+      "claim": "The host says she has held on to a discovery about UVU because of pending litigation and that it involves an army general, a cop and a bloodied bag on September 10.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:08",
+      "investigative_direction": "Filings in the lawsuits against the host and the timing of when she received the information.",
+      "transcript_snippet": "One that I've held on to because of my everpending litigations which is now ready to be brought forth out into the light.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15243",
+      "ref": "C-15243",
+      "label": "Host Says a Young Critic Told People About Lawsuits Coming Against Her",
+      "claim": "The host says a young man she calls \"Jimmy Neutron\" told people months ago about further lawsuits he said he knew would be filed against her.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:03:14",
+      "investigative_direction": "Public statements by the unnamed individual and the filing dates of the later lawsuits.",
+      "transcript_snippet": "telling everybody that would listen about more lawsuits that he uh was exclusively aware of that were going to be filed against me.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15244",
+      "ref": "C-15244",
+      "label": "Host Says the Critic Claimed Jurors Would Convict Tyler Robinson",
+      "claim": "The host says the same individual claimed he knew all of the potential jurors would vote to convict Tyler Robinson.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:03:48",
+      "investigative_direction": "Recordings or posts of the individual's statement about the Robinson jury pool.",
+      "transcript_snippet": "He even claimed that he knew all of the potential jurors would vote to convict Tyler Robinson him.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15245",
+      "ref": "C-15245",
+      "label": "Host Says Sources Came Forward Because the Critic Talked Too Much",
+      "claim": "The host says people came forward to her as sources with information because the individual's boasting annoyed them, and that she stored and investigated it while waiting for a lawsuit she knew of in advance.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:04:05",
+      "investigative_direction": "The host's source records and the lawsuit filing date.",
+      "transcript_snippet": "people came forward to me as sources because his head was big literally and figuratively information that they had learned.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15246",
+      "ref": "C-15246",
+      "label": "Host Introduces Val Peterson as a UVU Faculty Member",
+      "claim": "The host introduces Val Peterson as a new character in the September 10 story and says he is a faculty member at UVU.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:32",
+      "investigative_direction": "UVU staff directory and Peterson's official title.",
+      "transcript_snippet": "First up is a man named Val Peterson. He is incredibly important. He's a faculty member at UVU.",
+      "mentions_person_refs": [
+        "N-957"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15247",
+      "ref": "C-15247",
+      "label": "Host Says Peterson Is Allegedly Team Turning Point Against His Faculty",
+      "claim": "The host says she is told faculty are terrified of Peterson and that he is allegedly, according to them, \"decisively team turning point USA\" against his own faculty members.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10012"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:58",
+      "investigative_direction": "UVU faculty accounts and internal communications on the Turning Point event.",
+      "transcript_snippet": "Uh he is allegedly, I'll say this part, allegedly decisively team turning point USA against his own faculty members.",
+      "mentions_person_refs": [
+        "N-957"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15248",
+      "ref": "C-15248",
+      "label": "Host Says Peterson Started at UVU in June 1987",
+      "claim": "The host says Peterson started at the school in June 1987, when it was Utah Technical College.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:05:25",
+      "investigative_direction": "UVU biography of Val Peterson.",
+      "transcript_snippet": "So, Val started at UVU before it was UVU in June of 1987.",
+      "mentions_person_refs": [
+        "N-957"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15249",
+      "ref": "C-15249",
+      "label": "Host Says Peterson Is UVU Vice President Overseeing More Than $50 Million",
+      "claim": "The host says Peterson is UVU's vice president of administration and strategic relations, oversees a budget of more than 50 million dollars and is responsible for areas including facilities, athletics and emergency management services.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:05:40",
+      "investigative_direction": "UVU organizational chart and budget documents.",
+      "transcript_snippet": "Today he is officially the vice president of the administration and strategic relations. He oversees a budget of more than 50 million dollars.",
+      "mentions_person_refs": [
+        "N-957"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15250",
+      "ref": "C-15250",
+      "label": "Host Says Peterson Also Serves in the Utah House for the 56th District",
+      "claim": "The host says Peterson currently also serves in Utah's House of Representatives, representing the 56th district from American Fork to Orem.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10062"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:06:05",
+      "investigative_direction": "Utah House of Representatives member roster.",
+      "transcript_snippet": "he also currently serves in Utah's House of Representatives. Yeah. At the same time, he represents the 56th district from American Fork to Orem.",
+      "mentions_person_refs": [
+        "N-957"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15251",
+      "ref": "C-15251",
+      "label": "Host Says Peterson Is a Brigadier General Who Led the Guard's Intelligence Brigade",
+      "claim": "The host says Peterson is a brigadier general who for 30 years led in the state's National Guard, particularly its military intelligence brigade with six units across the state.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:06:50",
+      "investigative_direction": "Utah National Guard service records and retirement announcement.",
+      "transcript_snippet": "Most interestingly, Val Peterson is a brigadier general. For 30 years, he led the state's National Guard, particularly the state's military intelligence brigade",
+      "mentions_person_refs": [
+        "N-957"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15252",
+      "ref": "C-15252",
+      "label": "2007 Article Says Peterson Took Command of the 300th Military Intelligence Brigade",
+      "claim": "Per the 2007 article the host shows, then-Lieutenant Colonel Peterson assumed command of the 300th Military Intelligence Brigade, a linguist and intelligence unit with nearly 2,000 language specialist troops in six states, at a ceremony at the Draper headquarters.",
+      "anchored_artifacts": [
+        "A-3382.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:07:50",
+      "investigative_direction": "The original 2007 article and Utah National Guard change-of-command records.",
+      "transcript_snippet": "Peterson assumed command of the 300th Military Intelligence Brigade, a linguist and intelligence unit headquartered in Utah that has nearly 2,000 language specialist troops in six states.",
+      "mentions_person_refs": [
+        "N-957"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15253",
+      "ref": "C-15253",
+      "label": "Article Quotes Guard Spokesman Hank McIntyre on Peterson",
+      "claim": "Per the article the host reads, Utah National Guard spokesman Major Hank McIntyre said Peterson, as a Spanish linguist, was uniquely in touch with the needs of the brigade's members.",
+      "anchored_artifacts": [
+        "A-3382.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:08:25",
+      "investigative_direction": "The original 2007 article.",
+      "transcript_snippet": "Major Hank McIntyre, spokesman for the Utah National Guard, said Peterson, as a Spanish linguist, is uniquely in touch",
+      "mentions_person_refs": [
+        "N-957",
+        "N-958"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15254",
+      "ref": "C-15254",
+      "label": "Article Says Peterson Served an LDS Mission in Colombia",
+      "claim": "Per the article, Peterson, a native of Moscow, Idaho, served a mission for the Church of Jesus Christ of Latter-day Saints in Colombia, and later at BYU heard about the Guard's linguist intelligence unit from roommates.",
+      "anchored_artifacts": [
+        "A-3382.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:08:58",
+      "investigative_direction": "The original 2007 article.",
+      "transcript_snippet": "Peterson went on a mission for the Church of Jesus Christ of Latter-day Saints to Colombia where he gained a mastery of Spanish",
+      "mentions_person_refs": [
+        "N-957"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15255",
+      "ref": "C-15255",
+      "label": "Article Says Peterson Holds Master's and Doctoral Degrees From BYU",
+      "claim": "Per the article, Peterson had been employed by UVSC since 1987, was serving as its vice president for administrative and legislative affairs, and holds a master's and a doctoral degree from BYU.",
+      "anchored_artifacts": [
+        "A-3382.1"
+      ],
+      "related_nodes": [
+        "N-10012"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:09:52",
+      "investigative_direction": "BYU degree records and UVU biography.",
+      "transcript_snippet": "Employed by UVSC since 1987, Peterson is serving as the college's vice president for the administrative legislative affairs and he holds a master's and a doctoral degree from BYU.",
+      "mentions_person_refs": [
+        "N-957"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15256",
+      "ref": "C-15256",
+      "label": "Host Says Peterson Retired as a Brigadier General Over Six Army Commands",
+      "claim": "The host says Peterson retired as a brigadier general responsible for training, readiness, administration and the uniform code of military justice for six major army commands within Utah.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:40",
+      "investigative_direction": "Utah National Guard retirement records.",
+      "transcript_snippet": "he was responsible as a brigadier general for training, readiness, administration, uniform code of military justice for six major army commands within the state of Utah.",
+      "mentions_person_refs": [
+        "N-957"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15257",
+      "ref": "C-15257",
+      "label": "Host Says Peterson Was Not at UVU When Charlie Kirk Was Shot",
+      "claim": "The host says Val Peterson was not at the university on September 10 when Charlie Kirk was assassinated.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012",
+        "N-11422"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:11:00",
+      "investigative_direction": "UVU after-action report and Peterson's September 10 schedule.",
+      "transcript_snippet": "on September 10th, Val Peterson was not at the university when Charlie Kirk was assassinated.",
+      "mentions_person_refs": [
+        "N-957",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15258",
+      "ref": "C-15258",
+      "label": "After-Action Report Places Peterson About 45 Minutes From Campus",
+      "claim": "Per the after-action report the host shows, Peterson was approximately 45 minutes from campus at the time of the shooting and joined response discussions by speakerphone while traveling to UVU.",
+      "anchored_artifacts": [
+        "A-3383.1"
+      ],
+      "related_nodes": [
+        "N-10839",
+        "N-11422"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:11:15",
+      "investigative_direction": "The UVU after-action report and Peterson's phone records for September 10.",
+      "transcript_snippet": "It tells us that at the time of the shooting, Peterson was approximately 45 minutes from campus.",
+      "mentions_person_refs": [
+        "N-957"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15259",
+      "ref": "C-15259",
+      "label": "Host Notes Salt Lake City and the National Guard Air Base Are About 45 Minutes Away",
+      "claim": "The host says Salt Lake City, where she says the National Guard air base is, is about 45 minutes from campus, while stating she has no idea whether Peterson was there.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11422"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:11:47",
+      "investigative_direction": "Peterson's location records for September 10 and Guard base visitor logs.",
+      "transcript_snippet": "do you know what actually is 45 minutes away from campus? Salt Lake City is. That's where the National Guard air base is. For clarity, I have no idea if Val Peterson was there.",
+      "mentions_person_refs": [
+        "N-957"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15260",
+      "ref": "C-15260",
+      "label": "Host Recalls Blake Neff Saying He Was \"Marking Time\" in Salt Lake City",
+      "claim": "The host says Blake Neff did not go with Charlie Kirk to the event and said he was \"marking time\" in Salt Lake City, which she calls a military expression.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10715"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:12:08",
+      "investigative_direction": "Neff's own statements and location data for September 10.",
+      "transcript_snippet": "Blake said he was just he didn't go with Charlie to the event but he was marking time an interesting way to phrase that marking time.",
+      "mentions_person_refs": [
+        "N-159",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15261",
+      "ref": "C-15261",
+      "label": "Host Says Guard Army Headquarters in Draper Is 15 Minutes Away",
+      "claim": "The host says the National Guard air headquarters is near the Salt Lake City neighborhood she examined and that the National Guard army headquarters in Draper is just 15 minutes away.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11422"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:12:38",
+      "investigative_direction": "Utah National Guard facility addresses.",
+      "transcript_snippet": "Also, just 15 minutes away in Draper, Utah is where the National Guard Army is headquartered as well"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15262",
+      "ref": "C-15262",
+      "label": "Host Says Peterson Was a Church Leader to BYU Students",
+      "claim": "The host says Peterson also served as a church leader to some BYU students, including one she will discuss, Tyler Clancy.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:13:10",
+      "investigative_direction": "LDS ward records and the article quoting Peterson.",
+      "transcript_snippet": "he also served as the church leader to some BYU students.",
+      "mentions_person_refs": [
+        "N-957",
+        "N-959"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15263",
+      "ref": "C-15263",
+      "label": "Host Says Tyler Clancy Was Born in 1997 and Attended BYU",
+      "claim": "The host says Tyler Clancy's name reached her through the lawsuit talk, that he attended BYU though not at the same time as Peterson, and that he was born in 1997.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:13:48",
+      "investigative_direction": "Clancy's official legislative biography.",
+      "transcript_snippet": "Tyler Clancy is very young, actually born in 1997.",
+      "mentions_person_refs": [
+        "N-959",
+        "N-957"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15264",
+      "ref": "C-15264",
+      "label": "Host Says Clancy Was the Youngest Utah House Member Since 1834",
+      "claim": "The host says Tyler Clancy was the youngest person to serve in the Utah House of Representatives \"since 1834\", at about the age of 25.",
+      "anchored_artifacts": [
+        "A-3384.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:14:25",
+      "investigative_direction": "The article the host shows and Utah legislative history records.",
+      "transcript_snippet": "Tyler Clancy was the youngest person to serve in the Utah House of Representatives since 1834.",
+      "mentions_person_refs": [
+        "N-959"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15265",
+      "ref": "C-15265",
+      "label": "Article Says Peterson Was Clancy's Church Leader at BYU",
+      "claim": "Per the article the host shows, Peterson, who served alongside Clancy in the House, was Clancy's church leader at BYU and helped him navigate the legislative process.",
+      "anchored_artifacts": [
+        "A-3384.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:14:55",
+      "investigative_direction": "The original article.",
+      "transcript_snippet": "was Clancy's church leader during his time at BYU and has helped the young lawmaker navigate the learning curve inherent in the legislative process.",
+      "mentions_person_refs": [
+        "N-957",
+        "N-959"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15266",
+      "ref": "C-15266",
+      "label": "Article Quotes BYU Lacrosse Coach on Clancy's Leadership",
+      "claim": "Per the article, BYU men's lacrosse head coach Matt Schneck (as transcribed) said Clancy's community leadership was mirrored by his leadership on the BYU lacrosse team.",
+      "anchored_artifacts": [
+        "A-3384.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:15:18",
+      "investigative_direction": "BYU men's lacrosse rosters and coaching staff.",
+      "transcript_snippet": "Clancy's reputation for community leadership was mirrored by the leadership role that he earned on the BYU lacrosse team",
+      "mentions_person_refs": [
+        "N-959",
+        "N-960"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15267",
+      "ref": "C-15267",
+      "label": "Host Says Clancy Was a Provo SVU Officer and on ICAC on September 10",
+      "claim": "The host says that on September 10, 2025, Clancy was serving both in the Utah House and as a Provo police officer in the Special Victims Unit, and was also on Internet Crimes Against Children.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10074",
+        "N-11263"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:16:02",
+      "investigative_direction": "Provo Police Department personnel records for September 2025.",
+      "transcript_snippet": "on September 10th, 2025, not only was he serving in the House of Reps, but he was also serving as a Provo police officer, Special Victims Unit.",
+      "mentions_person_refs": [
+        "N-959"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15268",
+      "ref": "C-15268",
+      "label": "Instagram Post Says Clancy Received an Award as a Provo SVU Detective",
+      "claim": "Per a May 20, 2025 Instagram post the host shows, Clancy received an award (transcribed \"the Lrand and Beth Baker award\") for his service as a detective in Provo PD's special victims unit.",
+      "anchored_artifacts": [
+        "A-3384.2"
+      ],
+      "related_nodes": [
+        "N-10074"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:16:28",
+      "investigative_direction": "The Instagram post and the awarding organization's records.",
+      "transcript_snippet": "Today he received the Lrand and Beth Baker award for his service as a detective in Provo PD's special victims unit",
+      "mentions_person_refs": [
+        "N-959"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15269",
+      "ref": "C-15269",
+      "label": "Host Says Clancy Did Not Respond to a Request for Comment",
+      "claim": "The host says her team reached out to Tyler Clancy for comment before the show, has not heard back and offered him a chance to come on the show.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:17:20",
+      "investigative_direction": "Clancy's response, if any, and the outreach record.",
+      "transcript_snippet": "we reached out to Tyler Clancy for comment to confirm these facts ahead of today's show and we have not yet heard back.",
+      "mentions_person_refs": [
+        "N-959",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15270",
+      "ref": "C-15270",
+      "label": "Host Says Clancy Was on Duty as a Provo Officer",
+      "claim": "The host says it has been confirmed through other people that Clancy was on duty as a Provo police officer; she says \"September 11th\" though the context is the day of the shooting.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10074"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:17:40",
+      "investigative_direction": "Provo Police Department duty rosters for September 10-11, 2025.",
+      "transcript_snippet": "Tyler Clancy was in fact on duty at the as a Provo police officer on September 11th.",
+      "mentions_person_refs": [
+        "N-959"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15271",
+      "ref": "C-15271",
+      "label": "Host Alleges Clancy Was at Timpanogos Shortly After Charlie Arrived",
+      "claim": "The host alleges Clancy was at Timpanogos hospital shortly after Charlie Kirk arrived.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11218"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:17:47",
+      "investigative_direction": "Timpanogos hospital security logs and Provo police dispatch records.",
+      "transcript_snippet": "He was allegedly at Timpanogos um hospital shortly after Charlie arrived.",
+      "mentions_person_refs": [
+        "N-959"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15272",
+      "ref": "C-15272",
+      "label": "Host Says Clancy Was Dispatched From Timpanogos to Escort Erika Kirk",
+      "claim": "The host says that when Erika Kirk was due to land, Clancy was dispatched from Timpanogos with another officer to escort her from the airport.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11218"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:17:52",
+      "investigative_direction": "Police dispatch records and airport arrival records for Erika Kirk on September 10.",
+      "transcript_snippet": "it was Tyler Clancy who was dispatched from Timpanogos uh with officer with another officer to escort Erika from the airport.",
+      "mentions_person_refs": [
+        "N-959",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15273",
+      "ref": "C-15273",
+      "label": "Host Alleges Clancy Carried Turning Point Members or Affiliates in His Car",
+      "claim": "The host alleges she is told Clancy had some Turning Point USA staff members or affiliates in his car, and says she would like to know who they were.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-11423"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:13",
+      "investigative_direction": "Provo police vehicle logs and statements from Turning Point staff on transport that day.",
+      "transcript_snippet": "I'm told he had some Turning Point USA members, staff members or affiliates in his car",
+      "mentions_person_refs": [
+        "N-959"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15274",
+      "ref": "C-15274",
+      "label": "Host Alleges Clancy Disposed of a Bloodied Bag Left in His Car",
+      "claim": "The host alleges that one of the Turning Point members, affiliates or guests left a bloodied bag in Clancy's car and that Clancy disposed of it the same day, and calls it \"a pretty big allegation\".",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-11423"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:33",
+      "investigative_direction": "Provo police evidence logs for September 10 and Clancy's own account.",
+      "transcript_snippet": "one of those Turning Point members or affiliates, guests, um, left a bloodied bag in Tyler Clancy's car, and Tyler then disposed of that bloodied bag on the same day.",
+      "mentions_person_refs": [
+        "N-959"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15275",
+      "ref": "C-15275",
+      "label": "Host Says the Bag Account Was Verified by Multiple Provo and Orem Sources",
+      "claim": "The host says she is inclined to believe the account, which she says has been verified by multiple Provo and Orem sources.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10074",
+        "N-10062",
+        "N-11423"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:19:38",
+      "investigative_direction": "Identities and depositions of the sources.",
+      "transcript_snippet": "I am inclined to believe this account, which has been verified by multiple Provo and Orem sources until it's accurate.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15276",
+      "ref": "C-15276",
+      "label": "Host Says Baron Coleman Pointed Her to Frank Turek's Similar Story",
+      "claim": "The host says that when she mentioned the account to Baron Coleman, he pointed out that a similar and potentially corroborating story had been told by Frank Turek.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11423"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:19:50",
+      "investigative_direction": "Turek's podcast appearance and Coleman's statements.",
+      "transcript_snippet": "he brought to my attention that a similar and potentially corroborating story was told by none other than Yankin' and Bankin' Frank.",
+      "mentions_person_refs": [
+        "N-330",
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15277",
+      "ref": "C-15277",
+      "label": "Host Says Turek Admitted Giving His Bloodied Bag to a Police Officer to Dispose Of",
+      "claim": "The host says Frank Turek has already admitted that he gave his bloodied bag to a police officer to dispose of, with what she calls a slight variation on the story she heard.",
+      "anchored_artifacts": [
+        "A-3385.1"
+      ],
+      "related_nodes": [
+        "N-11423"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:20:12",
+      "investigative_direction": "The full Apostate Prophet podcast episode.",
+      "transcript_snippet": "has already admitted that it he gave his bloodied bag to a police officer to dispose.",
+      "mentions_person_refs": [
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15278",
+      "ref": "C-15278",
+      "label": "Host Dates Turek's Remarks to the Apostate Prophet Podcast of April 9, 2026",
+      "claim": "The host says Turek's remarks were released on April 9, 2026 on the Apostate Prophet podcast.",
+      "anchored_artifacts": [
+        "A-3385.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:20:25",
+      "investigative_direction": "The podcast's publication date.",
+      "transcript_snippet": "The exact date was April 9th, 2026. You can take a listen to what he said. It was on a podcast called the Apostate Prophet podcast.",
+      "mentions_person_refs": [
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15279",
+      "ref": "C-15279",
+      "label": "Turek Clip Says Mikey McCoy and Katherine LoCastro Arranged for JD Vance to Take the Body",
+      "claim": "In a clip the host plays, Frank Turek says the group went from Orem to Salt Lake City because Mikey McCoy and Katherine LoCastro arranged for JD Vance to come and take Charlie Kirk's body back to Phoenix.",
+      "anchored_artifacts": [
+        "A-3385.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:20:58",
+      "investigative_direction": "Flight records of the vice president's aircraft on September 10.",
+      "transcript_snippet": "because Mikey and Katherine LoCastro, also a great team member at TPUSA, arranged for JD Vance to come and take Charlie's body back to Phoenix.",
+      "mentions_person_refs": [
+        "N-7",
+        "N-190",
+        "N-598",
+        "N-4",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15280",
+      "ref": "C-15280",
+      "label": "Turek Clip Says the Car Was Held as a Crime Scene Until About 5:30",
+      "claim": "In the clip, Turek says they were not allowed back into the car taken to the hospital because it was considered part of the crime scene, and that it was released to them about 5:30.",
+      "anchored_artifacts": [
+        "A-3385.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:21:22",
+      "investigative_direction": "Police vehicle processing records for the SUV.",
+      "transcript_snippet": "they considered it part of the crime scene until they looked at it and about 5:30 they released it to us",
+      "mentions_person_refs": [
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15281",
+      "ref": "C-15281",
+      "label": "Turek Clip Says Charlie Lay on His Bag, Which Was Full of Blood",
+      "claim": "In the clip, Turek says his bag with his computer, wallet and passport was in the car, that Charlie Kirk had been lying on it across the back seat, and that it was full of blood.",
+      "anchored_artifacts": [
+        "A-3385.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:21:40",
+      "investigative_direction": "Crime-scene photos of the vehicle interior.",
+      "transcript_snippet": "It turned out that Charlie was laying on it across the back seat.",
+      "mentions_person_refs": [
+        "N-7",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15282",
+      "ref": "C-15282",
+      "label": "Turek Clip Says Charlie's Necklace Was on Top of the Bag",
+      "claim": "In the clip, Turek says that as he pulled out the bag, Charlie Kirk's necklace, which they had been looking for and which Erika Kirk had asked about, was across the top of it.",
+      "anchored_artifacts": [
+        "A-3385.1"
+      ],
+      "related_nodes": [
+        "N-10537"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:21:54",
+      "investigative_direction": "Evidence logs on the necklace and Turek's earlier accounts.",
+      "transcript_snippet": "his necklace, which we were looking for, was across the top of it.",
+      "supports_claim_refs": [
+        "C-1962"
+      ],
+      "mentions_person_refs": [
+        "N-7",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15283",
+      "ref": "C-15283",
+      "label": "Turek Clip Says He Refused to Give the Necklace to a Cop",
+      "claim": "In the clip, Turek says a police officer said \"I'll take that\" about the necklace and that he refused because he was giving it to Erika Kirk.",
+      "anchored_artifacts": [
+        "A-3385.1"
+      ],
+      "related_nodes": [
+        "N-10537"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:22:08",
+      "investigative_direction": "Identity of the officer present at the vehicle release.",
+      "transcript_snippet": "And the cop cop there was goes, \"I'll take that.\" I go, \"No, you won't.",
+      "mentions_person_refs": [
+        "N-7",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15284",
+      "ref": "C-15284",
+      "label": "Turek Clip Says Everyone Attending to Charlie Was in Scrubs",
+      "claim": "In the clip, Turek says he was wearing scrubs and that everybody attending to Charlie Kirk was in scrubs because they could not wear their clothes.",
+      "anchored_artifacts": [
+        "A-3385.1"
+      ],
+      "related_nodes": [
+        "N-10688"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:22:30",
+      "investigative_direction": "Hospital records of scrubs issued and photos from the evening.",
+      "transcript_snippet": "In fact, everybody that was attending to Charlie was in scrubs now.",
+      "supports_claim_refs": [
+        "C-4711"
+      ],
+      "mentions_person_refs": [
+        "N-7",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15285",
+      "ref": "C-15285",
+      "label": "Turek Clip Says He Asked the Cop Next to Him to Dispose of the Bag",
+      "claim": "In the clip, Turek says he did not want Erika Kirk to see the bloodied bag, so he asked the police officer sitting next to him to dispose of it.",
+      "anchored_artifacts": [
+        "A-3385.1"
+      ],
+      "related_nodes": [
+        "N-10688",
+        "N-11423"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:22:45",
+      "investigative_direction": "Identity of the officer in Turek's vehicle and any police evidence intake of the bag.",
+      "transcript_snippet": "So, I just told the cop sitting next to me, \"Can you dispose of this bag?\"",
+      "mentions_person_refs": [
+        "N-7",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15286",
+      "ref": "C-15286",
+      "label": "Host Questions Turek's CPR Account Given the Bag",
+      "claim": "The host says Turek's account that Charlie lay on the bag does not fit his CPR story, noting she understands he only did CPR for about 30 seconds at the end, and mocks Brian Harpole's account of the medical response.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10687"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:23:15",
+      "investigative_direction": "Turek's and Harpole's full CPR accounts compared with vehicle photos.",
+      "transcript_snippet": "I know you're only doing CPR for like 30 seconds at the end there",
+      "mentions_person_refs": [
+        "N-7",
+        "N-266"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15287",
+      "ref": "C-15287",
+      "label": "Host Says She Is Inclined to Believe the Officer Was Tyler Clancy",
+      "claim": "The host says Turek's story at least establishes that a police officer was told to, or willfully did, throw out the bloodied bag, and that she is inclined to believe that officer was Tyler Clancy.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11423"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:24:12",
+      "investigative_direction": "Identity of the officer in Turek's car and Clancy's assignment records.",
+      "transcript_snippet": "that he willfully threw out this bloodied bag. And I'm inclined to believe that was Tyler Clancy.",
+      "mentions_person_refs": [
+        "N-959"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15288",
+      "ref": "C-15288",
+      "label": "Host Says Governor Cox Promoted Clancy Shortly After the Assassination",
+      "claim": "The host says that very shortly after the assassination, Governor Cox promoted Clancy, giving him another Utah state first.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:24:28",
+      "investigative_direction": "Governor's office appointment records and their timing.",
+      "transcript_snippet": "Very shortly after the assassination, Governor Cox promoted him, allowing him to achieve another Utah state first.",
+      "mentions_person_refs": [
+        "N-41",
+        "N-959"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15289",
+      "ref": "C-15289",
+      "label": "Cox Post Announces Clancy as State Homeless Coordinator on October 30",
+      "claim": "The host says Clancy left his Provo SVU detective role and was appointed the state's youngest-ever homeless coordinator, announced on October 30 in a post by Governor Cox that she shows.",
+      "anchored_artifacts": [
+        "A-3384.3"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:24:52",
+      "investigative_direction": "The governor's post and press release.",
+      "transcript_snippet": "The appointment was announced on October 30th.",
+      "mentions_person_refs": [
+        "N-959",
+        "N-41"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15290",
+      "ref": "C-15290",
+      "label": "Cox Post Thanks Outgoing Coordinator Wayne Niederhauser",
+      "claim": "Per the Cox post the host shows, the governor thanked outgoing state homeless coordinator Wayne Niederhauser (transcribed \"Wayne Niederhauser\") on his retirement.",
+      "anchored_artifacts": [
+        "A-3384.3"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:25:14",
+      "investigative_direction": "The governor's post.",
+      "transcript_snippet": "Thank you to Wayne Niederhauser, our outgoing state homeless coordinator, for his service and congratulations on his retirement",
+      "mentions_person_refs": [
+        "N-41",
+        "N-961"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15291",
+      "ref": "C-15291",
+      "label": "Host Says Multiple People Report Clancy Is Allegedly Best Friends With a Figure From the Case",
+      "claim": "The host says she learned from multiple people with direct knowledge that Clancy is allegedly best friends with a figure from the early days of the investigation, whom she then names as Shaner Broderick.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:25:30",
+      "investigative_direction": "Social media connections and BYU lacrosse rosters.",
+      "transcript_snippet": "you will never guess who I learned that Tyler Clancy is allegedly best friends with",
+      "mentions_person_refs": [
+        "N-959",
+        "N-128"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15292",
+      "ref": "C-15292",
+      "label": "Host Recalls Broderick Retracing the Alleged Killer's Steps With Robbie Hild and Gernot",
+      "claim": "The host recalls that Shaner Broderick posted on Instagram after the manhunt on September 14 that he and his friends Robbie Hild and \"Gerno\" retraced the steps of the alleged killer.",
+      "anchored_artifacts": [
+        "A-3386.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:26:28",
+      "investigative_direction": "Archived copy of Broderick's Instagram post.",
+      "transcript_snippet": "A Shaner Broderick swoops in with his friends Robbie Hild and Gerno who volunteered according to Shaner I should say to retrace the steps of the alleged killer.",
+      "mentions_person_refs": [
+        "N-128",
+        "N-943",
+        "N-132"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15293",
+      "ref": "C-15293",
+      "label": "Broderick Post Says the Last Picture Shows Converse Footprints",
+      "claim": "Per the Broderick post the host reads, they took pictures where security cameras caught the suspect and the last picture shows Converse-branded footprints.",
+      "anchored_artifacts": [
+        "A-3386.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:27:05",
+      "investigative_direction": "Archived post images and the location of the footprints.",
+      "transcript_snippet": "This last pick shows Converse branded footprints #orum # Charlie Kirk.",
+      "mentions_person_refs": [
+        "N-128"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15294",
+      "ref": "C-15294",
+      "label": "Host Says Clancy and Broderick Are Best Friends Through BYU Lacrosse",
+      "claim": "The host says Tyler Clancy and Shaner Broderick are best friends and that Clancy is in the same friend group as Robbie Hild because they played lacrosse together at BYU, showing a photo of Clancy and Hild.",
+      "anchored_artifacts": [
+        "A-3384.4"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:27:10",
+      "investigative_direction": "BYU men's lacrosse rosters and the source of the photo.",
+      "transcript_snippet": "Tyler Clancy and Shaner are best friends. He's in the same friend group with Robbie Hild because the two of them played lacrosse with one another at BYU.",
+      "mentions_person_refs": [
+        "N-959",
+        "N-128",
+        "N-943"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15295",
+      "ref": "C-15295",
+      "label": "Host Says She Knows More but Is Waiting for Depositions",
+      "claim": "The host says she knows more but there are pending lawsuits and depositions, which she welcomes.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:27:54",
+      "investigative_direction": "Court dockets for the pending lawsuits.",
+      "transcript_snippet": "But we have pending lawsuits and depositions",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15296",
+      "ref": "C-15296",
+      "label": "Host Says the Fire Captain Who Gave CPR at Timpanogos Is Still Unidentified",
+      "claim": "The host says her team is still unable to determine who the fire captain was who provided CPR to Charlie Kirk on arrival at Timpanogos, which she says should be public information.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10874",
+        "N-11218"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:28:18",
+      "investigative_direction": "Fire department shift records for September 10 and the unredacted review.",
+      "transcript_snippet": "we are still unable to determine who the fire captain was that provided CPR to Charlie Kirk upon arrival to Timpanogos.",
+      "supports_claim_refs": [
+        "C-3622"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15297",
+      "ref": "C-15297",
+      "label": "Host Says Fire Schedules Sent to Her Point to Retired People",
+      "claim": "The host says the people named from fire schedules sent to her had already retired, and that she has a clue to one person who could fit but no confirmation.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10874"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:29:03",
+      "investigative_direction": "Provo and Orem fire department rosters for September 10, 2025.",
+      "transcript_snippet": "the people that you're sending me this could be this person that person look at the schedule they've already retired."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15298",
+      "ref": "C-15298",
+      "label": "Host Says She Heard the Fire Captain Jumped Out of an Ambulance",
+      "claim": "The host says she has heard, but cannot confirm, that the fire captain was in an ambulance and jumped out to assist, and that this is not part of Frank Turek's or Brian Harpole's accounts.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10874"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:29:34",
+      "investigative_direction": "EMS run reports for ambulances at Timpanogos on September 10.",
+      "transcript_snippet": "can't confirm that he was actually in an ambulance and jumped out of the ambulance and assisted but it's not a part of the legend of Frank Turek or the legend of Brian Harpole.",
+      "supports_claim_refs": [
+        "C-3623"
+      ],
+      "mentions_person_refs": [
+        "N-7",
+        "N-266"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15299",
+      "ref": "C-15299",
+      "label": "Host Asks for Tips on the Fire Captain",
+      "claim": "The host asks anyone with direct knowledge of who the \"fire captain\" was to email the more tips address.",
+      "anchored_artifacts": [
+        "A-3387.1"
+      ],
+      "related_nodes": [
+        "N-10874"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:29:45",
+      "investigative_direction": "Tips received at moretips@candaceowens.com.",
+      "transcript_snippet": "if you know something please email us moretips@candaceowens.com.",
+      "supports_claim_refs": [
+        "C-9235"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15300",
+      "ref": "C-15300",
+      "label": "Host Says Holding Multiple Roles Is Allowed in Utah",
+      "claim": "Showing the role lists for Clancy and Peterson, the host says holding these combined roles is allowed in Utah and they are not breaking the law, though she questions the conflict of interest.",
+      "anchored_artifacts": [
+        "A-3382.2",
+        "A-3384.5"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:33:02",
+      "investigative_direction": "Utah legislative conflict-of-interest disclosure forms for both men.",
+      "transcript_snippet": "it's allowed in Utah by the way. They're not breaking the law by doing this.",
+      "mentions_person_refs": [
+        "N-959",
+        "N-957"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15301",
+      "ref": "C-15301",
+      "label": "Host Says Kayleigh McEnany Graduated Harvard Law and Studied at Oxford",
+      "claim": "The host says Kayleigh McEnany, press secretary in Trump's first term, graduated Harvard with a law degree and, she believes, spent time at Oxford.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:34:05",
+      "investigative_direction": "McEnany's published biography.",
+      "transcript_snippet": "she uh graduated Harvard with a law degree. Uh she did also spent time overseas at Oxford if I believe right.",
+      "mentions_person_refs": [
+        "N-129"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15302",
+      "ref": "C-15302",
+      "label": "Host Says Katie Zacharia Has Replaced Karoline Leavitt",
+      "claim": "The host says it was recently announced that Katie Zacharia would take over from Karoline Leavitt as White House press secretary.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:35:06",
+      "investigative_direction": "White House announcement of the appointment.",
+      "transcript_snippet": "now we have someone whose name is Katie Zacharia. Okay, it was recently announced that she would have taken over Karoline Leavitt.",
+      "mentions_person_refs": [
+        "N-962",
+        "N-280",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15303",
+      "ref": "C-15303",
+      "label": "Zacharia Clip Cites a Youngstown Rally With Jake Paul and Jon Gruden",
+      "claim": "In a clip the host plays, Zacharia says Trump held a rally in Youngstown, Ohio the night before with special guests Jake Paul and Jon Gruden.",
+      "anchored_artifacts": [
+        "A-3388.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:36:35",
+      "investigative_direction": "Rally coverage from Youngstown.",
+      "transcript_snippet": "as well as special guest Jake Paul and football legend Jon Gruden.",
+      "mentions_person_refs": [
+        "N-962",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15304",
+      "ref": "C-15304",
+      "label": "Zacharia Clip Says Cleveland Was Chosen for a Navy Submarine Repair Center",
+      "claim": "In the clip, Zacharia says the president announced that the Department of War selected Cleveland, Ohio as the home of the US Navy's submarine component repair center, a 46,000 square foot facility.",
+      "anchored_artifacts": [
+        "A-3388.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:36:47",
+      "investigative_direction": "Department of War announcement.",
+      "transcript_snippet": "the Department of War has officially selected Cleveland, Ohio as the new home for the US Navy's submarine component repair center.",
+      "mentions_person_refs": [
+        "N-962",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15305",
+      "ref": "C-15305",
+      "label": "Host Says Zacharia Read Even Her Own Name From Notes",
+      "claim": "The host says Zacharia read her entire opening statement from notes, including her own name.",
+      "anchored_artifacts": [
+        "A-3388.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:38:50",
+      "investigative_direction": "Full video of the briefing.",
+      "transcript_snippet": "She's just reading the entire thing, including her own name.",
+      "mentions_person_refs": [
+        "N-962"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15306",
+      "ref": "C-15306",
+      "label": "Host Guesses Donors Were Involved in Zacharia's Selection",
+      "claim": "The host speculates that donors were somehow involved in Zacharia's selection and says she was not selected on merit.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:39:18",
+      "investigative_direction": "Reporting on how Zacharia was chosen.",
+      "transcript_snippet": "I'm going to guess actually there's going to be like donors somehow involved in that.",
+      "mentions_person_refs": [
+        "N-962"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15307",
+      "ref": "C-15307",
+      "label": "Host Says Erika Kirk's Doctorate Is Hard to Confirm",
+      "claim": "The host compares Zacharia to Erika Kirk, saying Erika Kirk says she was in law school or has a doctorate and that this is hard to confirm.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10665"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:39:40",
+      "investigative_direction": "Degree-verification records for Erika Kirk.",
+      "transcript_snippet": "It's like with Erika Kirk when Eric Kirk says that, you know, she was in law school, you know, or rather that she that she has a doctorate. It's hard to confirm that.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15308",
+      "ref": "C-15308",
+      "label": "Host Says Journalists Cannot Confirm Zacharia Graduated Law School",
+      "claim": "The host says journalists cannot confirm that Zacharia graduated law school and that she keeps saying she worked at a legal firm in China alongside her husband.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11424"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:39:50",
+      "investigative_direction": "Law school graduation records and bar admission databases.",
+      "transcript_snippet": "Well, Katie, they can't confirm that she graduated law school.",
+      "mentions_person_refs": [
+        "N-962"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15309",
+      "ref": "C-15309",
+      "label": "Host Says Zacharia Studied Some Law at Pepperdine, Where Erika Went for a Year",
+      "claim": "The host says Zacharia's answer was that she studied some law at Pepperdine University, the same university Erika Kirk attended for a year, which the host says could not be confirmed as in person or online.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11424",
+        "N-10665"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:40:10",
+      "investigative_direction": "Pepperdine enrollment verification for both women.",
+      "transcript_snippet": "Well, I studied some law at uh Pepperdine University, same university Erika went to for a year, which we couldn't confirm whether she was in person or just doing it online.",
+      "mentions_person_refs": [
+        "N-962",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15310",
+      "ref": "C-15310",
+      "label": "Business Insider Reports Zacharia Did Not Say Where She Passed the Bar",
+      "claim": "Per the Business Insider headline the host shows, Zacharia's statement said she \"practiced international transaction law with all the appropriate credentials\" and did not say whether she had passed the bar in any state.",
+      "anchored_artifacts": [
+        "A-3388.2"
+      ],
+      "related_nodes": [
+        "N-11424"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:41:02",
+      "investigative_direction": "State bar admission records.",
+      "transcript_snippet": "it reads in a statement said she quote practiced international transaction law with all the appropriate credentials end quote.",
+      "mentions_person_refs": [
+        "N-962"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15311",
+      "ref": "C-15311",
+      "label": "Host Describes the Cornell 7 Case as Beginning With Horse Tranquilizer",
+      "claim": "The host says that, from what she is seeing, the woman in the Cornell 7 case agreed to sexual relations with two men at a fraternity party and to snort a horse tranquilizer.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11425"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:42:08",
+      "investigative_direction": "Court filings and police reports in the Cornell case.",
+      "transcript_snippet": "a female character who agreed to have sexual relations with, from what I'm seeing, two guys at a frat party."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15312",
+      "ref": "C-15312",
+      "label": "Host Says a Participant Texted the Whole Frat House Group Chat",
+      "claim": "The host says that, amid allegations of a gang rape, one of the men sent a text message to the entire fraternity house group chat inviting others.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11425"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:42:50",
+      "investigative_direction": "The text messages entered in the case record.",
+      "transcript_snippet": "then sent a text message to the entire frat house in a group chat and said basically"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15313",
+      "ref": "C-15313",
+      "label": "Host Recalls Hunter Biden's Crack and Stripper Story",
+      "claim": "The host says the case reminds her of sitting down with Hunter Biden, who she says agreed to do crack at a motel and to have a stripper, who then robbed him.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:44:08",
+      "investigative_direction": "The host's Hunter Biden interview.",
+      "transcript_snippet": "this reminds me of sitting down with Hunter Biden he agreed to do crack at a Motel 8 Motel 7 whatever it was he agreed to have a stripper And then that stripper robbed him.",
+      "mentions_person_refs": [
+        "N-632"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15314",
+      "ref": "C-15314",
+      "label": "Host Says Theo Von or Tim Dillon Would Be Her Press Secretary",
+      "claim": "The host jokes that her future press secretary is between Theo Von and Tim Dillon, and says Dillon had a similar take on the Cornell case.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:49:02",
+      "investigative_direction": "None.",
+      "transcript_snippet": "It's between Theo and Tim Dillon uh had a similar take on this case",
+      "mentions_person_refs": [
+        "N-146",
+        "N-277"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15315",
+      "ref": "C-15315",
+      "label": "Tim Dillon Clip Calls the Cornell Conduct Scumbag Behavior",
+      "claim": "In a clip the host plays, Tim Dillon says no one would be proud if these were their children and that the conduct is \"scumbag behavior\" that should not be celebrated or defended.",
+      "anchored_artifacts": [
+        "A-3389.1"
+      ],
+      "related_nodes": [
+        "N-11425"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:51:03",
+      "investigative_direction": "The full Tim Dillon episode.",
+      "transcript_snippet": "This is scumbag behavior and it should not be celebrated or defended.",
+      "mentions_person_refs": [
+        "N-277"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15316",
+      "ref": "C-15316",
+      "label": "Host Says Tomorrow Is Charlie Kirk's Birthday",
+      "claim": "The host says the next day, October 14, is Charlie Kirk's birthday.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:52:08",
+      "investigative_direction": "Charlie Kirk's birth record.",
+      "transcript_snippet": "By the way, tomorrow is Charlie Kirk's birthday, October 14th.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15317",
+      "ref": "C-15317",
+      "label": "Host Says She Has a Few Episodes Left Before Maternity Leave",
+      "claim": "The host says she has roughly four to seven episodes left before going off air for maternity leave.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:52:18",
+      "investigative_direction": "Later episode schedule.",
+      "transcript_snippet": "I think seven, four, five, seven episodes before I am off air from maternity leave.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15318",
+      "ref": "C-15318",
+      "label": "Host Says She Will Discuss the Brian Cole Case",
+      "claim": "After a viewer comment the host reads says the government is trying to convict a clearly innocent man over the J6 bombing, the host agrees and says she will speak more about the Brian Cole case before maternity leave.",
+      "anchored_artifacts": [
+        "A-3390.1"
+      ],
+      "related_nodes": [
+        "N-10872"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:52:46",
+      "investigative_direction": "Court docket for the Brian Cole Jr. case.",
+      "transcript_snippet": "we should talk more about the Brian Cole case.",
+      "mentions_person_refs": [
+        "N-25"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15319",
+      "ref": "C-15319",
+      "label": "Viewer Comment Says Charlie Said He Was Abandoning the Pro-Israel Cause",
+      "claim": "A viewer comment the host reads says that one day before his death Charlie Kirk said he was abandoning the pro-Israel cause, and asks why Erika Kirk has not done the same.",
+      "anchored_artifacts": [
+        "A-3390.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:52:55",
+      "investigative_direction": "Charlie Kirk's recorded statements on September 9, 2025.",
+      "transcript_snippet": "one day before his death, he said he is abandoning the pro-Israel cause.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15320",
+      "ref": "C-15320",
+      "label": "Host Says Erika Kirk Does Not Author Her Tweets",
+      "claim": "The host says Erika Kirk has betrayed Charlie's legacy and that she \"obviously\" does not author her own tweets.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:53:08",
+      "investigative_direction": "Statements from Erika Kirk's staff on who runs her account.",
+      "transcript_snippet": "obviously she doesn't author her tweets.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15321",
+      "ref": "C-15321",
+      "label": "Host Disputes Erika Kirk's Tweet on Sitting Down With Vanity Fair",
+      "claim": "The host says Erika Kirk tweeted that she sat down with Vanity Fair because Charlie believed in sitting down with people who disagree, and argues Charlie meant students on campus, not Vanity Fair.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10864"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:53:16",
+      "investigative_direction": "Erika Kirk's tweet and the Vanity Fair profile.",
+      "transcript_snippet": "when she tweets this thing of like why I sat down with Vanity Fair cuz Charlie believed and sitting down with people that disagree with you.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15322",
+      "ref": "C-15322",
+      "label": "Viewer Comment Says Erika Kirk Is Coaching the New Press Secretary",
+      "claim": "A viewer comment the host reads says the new White House press secretary is \"obviously\" being coached by Erika Kirk; the host agrees and remarks on Pepperdine.",
+      "anchored_artifacts": [
+        "A-3390.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:55:05",
+      "investigative_direction": "Any documented contact between Erika Kirk and Zacharia.",
+      "transcript_snippet": "Obviously, the new White House press secretary is being coached by Erika.",
+      "mentions_person_refs": [
+        "N-962",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15323",
+      "ref": "C-15323",
+      "label": "Host Says About 3.5 Million Watched Her Theo Von Interview",
+      "claim": "Responding to a viewer comment, the host says about 3.5 million people have watched her Theo Von interview and that she thinks it is on track to be his biggest interview of the year.",
+      "anchored_artifacts": [
+        "A-3390.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:56:05",
+      "investigative_direction": "YouTube view count on the interview.",
+      "transcript_snippet": "I loved your Theo Von interview, guys. Like 3.5 million of you have watched an interview.",
+      "mentions_person_refs": [
+        "N-146"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15324",
+      "ref": "C-15324",
+      "label": "Host Announces an Exclusive Baron Coleman Merch Line",
+      "claim": "The host says an exclusive Baron Coleman merchandise line will be dropped soon, likely on the website that week.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:58:20",
+      "investigative_direction": "The host's merch store listings.",
+      "transcript_snippet": "you guys are going to pass away when you see our exclusive Baron Coleman line that we're going to be dropping soon.",
+      "mentions_person_refs": [
+        "N-330",
+        "N-3"
+      ]
+    }
+  ],
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-144",
+      "ref": "M-144",
+      "canonical_term": "The Preggo",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 164,
+          "video_timestamp": "00:01:05",
+          "speaker_node_ref": "N-3",
+          "quote": "I am, by the way, still pregnant. People thought I gave birth.",
+          "context": "Host opens by joking that people thought she had given birth.",
+          "confidence": "high",
+          "tags": [
+            "pregnancy",
+            "opener"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-358",
+      "ref": "M-358",
+      "canonical_term": "Jimmy Neutron",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 164,
+          "video_timestamp": "00:02:55",
+          "speaker_node_ref": "N-3",
+          "quote": "among them there is this kid that sort of looks exactly like Jimmy Neutron. Boy, does he love to talk.",
+          "context": "Host's nickname for an unnamed young critic who talked about lawsuits against her.",
+          "confidence": "high",
+          "tags": [
+            "nickname",
+            "critics",
+            "lawsuits"
+          ]
+        },
+        {
+          "episode": 164,
+          "video_timestamp": "00:03:46",
+          "speaker_node_ref": "N-3",
+          "quote": "Anyway, Jimmy Neutron here, he just kept posturing to the public like he runs the town of Orem.",
+          "context": "Host continues the bit while describing his claims about jurors.",
+          "confidence": "high",
+          "tags": [
+            "nickname",
+            "critics"
+          ]
+        },
+        {
+          "episode": 164,
+          "video_timestamp": "00:13:28",
+          "speaker_node_ref": "N-3",
+          "quote": "Tyler Clancy's name hit my radar because of Jimmy Neutron yapping about lawsuits to too many people.",
+          "context": "Host credits the critic's talk for leading her to Tyler Clancy.",
+          "confidence": "high",
+          "tags": [
+            "nickname",
+            "sources"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-58",
+      "ref": "M-58",
+      "canonical_term": "Useful Idiot",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 164,
+          "video_timestamp": "00:03:20",
+          "speaker_node_ref": "N-3",
+          "quote": "They are just the truest examples of useful idiots.",
+          "context": "Host describes attention-seeking critics who file lawsuits for revenge.",
+          "confidence": "high",
+          "tags": [
+            "critics",
+            "lawsuits"
+          ]
+        },
+        {
+          "episode": 164,
+          "video_timestamp": "00:57:15",
+          "speaker_node_ref": "N-3",
+          "quote": "So don't don't disregard the useful idiots as well.",
+          "context": "Host says critics who build platforms on hating her make mistakes that encourage sources.",
+          "confidence": "high",
+          "tags": [
+            "critics",
+            "sources"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-359",
+      "ref": "M-359",
+      "canonical_term": "Wears Many Hats",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 164,
+          "video_timestamp": "00:05:21",
+          "speaker_node_ref": "N-3",
+          "quote": "Let me state unequivocally that Mr. Val Peterson wears a lot of hats.",
+          "context": "Host introduces Peterson's many roles at UVU, in the legislature and the Guard.",
+          "confidence": "high",
+          "tags": [
+            "Utah",
+            "conflict of interest"
+          ]
+        },
+        {
+          "episode": 164,
+          "video_timestamp": "00:15:55",
+          "speaker_node_ref": "N-3",
+          "quote": "just like his church leader and his House of Representatives colleague Val, Tyler Clancy wears many hats.",
+          "context": "Host applies the bit to Clancy's police and legislative roles.",
+          "confidence": "high",
+          "tags": [
+            "Utah",
+            "conflict of interest"
+          ]
+        },
+        {
+          "episode": 164,
+          "video_timestamp": "00:32:50",
+          "speaker_node_ref": "N-3",
+          "quote": "it's good for you guys back at home to be able to store all of the various hats that these people are wearing.",
+          "context": "Host returns to the bit with the role graphics.",
+          "confidence": "high",
+          "tags": [
+            "Utah",
+            "conflict of interest"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-236",
+      "ref": "M-236",
+      "canonical_term": "Silver Alert for Blake",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 164,
+          "video_timestamp": "00:11:55",
+          "speaker_node_ref": "N-3",
+          "quote": "remember that lost bald guy diva Blakey Pooh girlfriend who for whatever reason could not remember where he was in Salt Lake City",
+          "context": "Host revives the Blakey-poo nickname for Blake Neff's unclear whereabouts.",
+          "confidence": "high",
+          "tags": [
+            "Blake Neff",
+            "nickname"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-146",
+      "ref": "M-146",
+      "canonical_term": "Marking Time",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 164,
+          "video_timestamp": "00:12:08",
+          "speaker_node_ref": "N-3",
+          "quote": "he was marking time an interesting way to phrase that marking time.",
+          "context": "Host again mocks Neff's phrase and calls it a military expression.",
+          "confidence": "high",
+          "tags": [
+            "Blake Neff",
+            "military"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-360",
+      "ref": "M-360",
+      "canonical_term": "Pokemon Stats",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 164,
+          "video_timestamp": "00:14:00",
+          "speaker_node_ref": "N-3",
+          "quote": "I I choose you, Val Peterson. I choose you Pokemon.",
+          "context": "Host shows a role-list graphic for Peterson as Pokemon stats.",
+          "confidence": "high",
+          "tags": [
+            "graphic",
+            "Utah"
+          ]
+        },
+        {
+          "episode": 164,
+          "video_timestamp": "00:32:45",
+          "speaker_node_ref": "N-3",
+          "quote": "I forgot to throw our Pokemon uh stats up for uh Tyler Clancy, I choose you, Tyler Clancy.",
+          "context": "Host repeats the bit for Clancy after the break.",
+          "confidence": "high",
+          "tags": [
+            "graphic",
+            "Utah"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-24",
+      "ref": "M-24",
+      "canonical_term": "Yanking and Banking",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 164,
+          "video_timestamp": "00:19:50",
+          "speaker_node_ref": "N-3",
+          "quote": "a similar and potentially corroborating story was told by none other than Yankin' and Bankin' Frank.",
+          "context": "Host uses the nickname for Frank Turek before playing his bag clip.",
+          "confidence": "high",
+          "tags": [
+            "Frank Turek",
+            "nickname"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-291",
+      "ref": "M-291",
+      "canonical_term": "Dr. Harpole House",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 164,
+          "video_timestamp": "00:23:35",
+          "speaker_node_ref": "N-3",
+          "quote": "Oo, Brian Harpole's in there yelling, \"Do the medical. Do the medical. Just doing the medical. Give him five cc's of this.",
+          "context": "Host mocks Harpole's TV-style medical account alongside Turek's.",
+          "confidence": "high",
+          "tags": [
+            "Brian Harpole",
+            "CPR"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 164,
+          "video_timestamp": "00:29:45",
+          "speaker_node_ref": "N-3",
+          "quote": "if you know something please email us moretips@candaceowens.com.",
+          "context": "Host asks for tips identifying the fire captain who gave CPR at Timpanogos.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "DIA",
+            "fire captain"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-26",
+      "ref": "M-26",
+      "canonical_term": "Gaslight",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 164,
+          "video_timestamp": "00:34:50",
+          "speaker_node_ref": "N-3",
+          "quote": "I just felt that she was gaslighting us at all times",
+          "context": "Host on Karoline Leavitt's tenure.",
+          "confidence": "high",
+          "tags": [
+            "press secretary"
+          ]
+        },
+        {
+          "episode": 164,
+          "video_timestamp": "00:38:50",
+          "speaker_node_ref": "N-3",
+          "quote": "I will not be gas lit about this.",
+          "context": "Host rejects defenses of Zacharia's first briefing.",
+          "confidence": "high",
+          "tags": [
+            "press secretary"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-40",
+      "ref": "M-40",
+      "canonical_term": "Truman Show",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 164,
+          "video_timestamp": "00:40:41",
+          "speaker_node_ref": "N-3",
+          "quote": "Like Charlie was living the Truman Show and now we're all living the Truman show.",
+          "context": "Host on the Zacharia appointment and the state of the country.",
+          "confidence": "high",
+          "tags": [
+            "Truman Show",
+            "Charlie Kirk"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-13",
+      "ref": "M-13",
+      "canonical_term": "Fake and Gay",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 164,
+          "video_timestamp": "00:40:45",
+          "speaker_node_ref": "N-3",
+          "quote": "Everything was fake and gay.",
+          "context": "Host imagines someone yelling cut on the Truman Show.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-361",
+      "ref": "M-361",
+      "canonical_term": "Epstein Society",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 164,
+          "video_timestamp": "00:43:40",
+          "speaker_node_ref": "N-3",
+          "quote": "Everything about this case is evidence that we are living in Epstein society.",
+          "context": "Host frames the Cornell 7 case as a marker of national decline.",
+          "confidence": "high",
+          "tags": [
+            "Cornell 7",
+            "decline"
+          ]
+        },
+        {
+          "episode": 164,
+          "video_timestamp": "00:51:36",
+          "speaker_node_ref": "N-3",
+          "quote": "And I just feel like we are the United States of Epstein at this moment.",
+          "context": "Host closes the Cornell segment with the variant.",
+          "confidence": "high",
+          "tags": [
+            "Cornell 7",
+            "decline"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-362",
+      "ref": "M-362",
+      "canonical_term": "Dictator Candace",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 164,
+          "video_timestamp": "00:45:40",
+          "speaker_node_ref": "N-3",
+          "quote": "vote me for dictator because everybody's going to prison, including the parents",
+          "context": "Host jokes she would imprison everyone involved in the Cornell case.",
+          "confidence": "high",
+          "tags": [
+            "joke",
+            "Cornell 7"
+          ]
+        },
+        {
+          "episode": 164,
+          "video_timestamp": "00:46:50",
+          "speaker_node_ref": "N-3",
+          "quote": "maybe it's 2028, you elect me to be dictator of the United States.",
+          "context": "Host repeats the bit to close the segment.",
+          "confidence": "high",
+          "tags": [
+            "joke"
+          ]
+        },
+        {
+          "episode": 164,
+          "video_timestamp": "00:49:26",
+          "speaker_node_ref": "N-3",
+          "quote": "my future press secretary when I'm the dictator of the United States",
+          "context": "Host introduces Tim Dillon's clip with the bit.",
+          "confidence": "high",
+          "tags": [
+            "joke",
+            "Tim Dillon"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-14",
+      "ref": "M-14",
+      "canonical_term": "Candace Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 164,
+          "video_timestamp": "00:57:29",
+          "speaker_node_ref": "N-3",
+          "quote": "buy yourself a CIA shirt, join the sleuth movement.",
+          "context": "Host promotes CIA merch at the close.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "CIA"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-21",
+      "ref": "M-21",
+      "canonical_term": "Conspiracy Girly",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 164,
+          "video_timestamp": "00:57:50",
+          "speaker_node_ref": "N-3",
+          "quote": "definitely love my conspiracy girly sweatshirt there in blue.",
+          "context": "Host promotes the conspiracy girly sweatshirt.",
+          "confidence": "high",
+          "tags": [
+            "merch"
+          ]
+        }
+      ]
+    }
+  ]
+}

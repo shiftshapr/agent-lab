@@ -1,0 +1,4138 @@
+{
+  "@context": "https://brc222.org/context/v1",
+  "@type": "EpisodeAnalysis",
+  "meta": {
+    "episode": 162,
+    "series": "Candace Kirk Archive",
+    "channel": "Candace Owens",
+    "source": "Candace Owens YouTube",
+    "transcript_completeness": "Full",
+    "video_timestamp_range": "00:00:00-00:53:12",
+    "extraction_timestamp": "2026-10-19T21:17:37Z",
+    "model_version": "claude-manual-extract-seq162",
+    "transcript_sha256": "90ca05ebe6c3988777bd63f61602bd1959611a093a70ad75717e3d57531b68ac",
+    "analysis_date": "2026-10-19"
+  },
+  "executive_summary": "Episode 399 (2026-10-07). The host opens with audio from an X Space in which Blake Neff, attacking her character, says she would \"hate Erika for murdering Charlie\"; another participant says he meant \"marrying\" and Neff says he is pretty sure he said marrying. The host calls it a Freudian slip, recalls Andrew Kolvet's early \"processing their guilt\" remark that Megyn Kelly corrected to grief, and plays a Wear Forbidden parody video. She rebuts Neff's claims about how she treats staff and says his outbursts follow episodes that make Turning Point USA nervous.\n\nThe longest segment follows up the previous day's Monster Lab / Elephant Clipping episode. The host says the clip files for Erika Kirk and TPUSA came from Blake Wynn's Las Vegas firm, which has an imprint in Romania, and credits a commentator with the theory that Wynn's orbit supplied Erika's \"Kirk Force 1\" sneakers, playing a video message about sneakers sent to Charlie. She says the Monster Lab site is now blocked in the United States but visible via VPN. She corrects her earlier identification of the operator (\"Mat Servius\") and, per Latvian emailers, names him as Matiss Tabuns of Talsi, Latvia. She says Clip It LLC was filed in Wyoming on May 28, 2025 through a registered agent she identifies as Cindy Jackson, whom she ties to the Pandora Papers through a 2022 article about registered agents serving oligarchs, including a company linked to Igor Kolomoisky.\n\nAfter the break, the host reports, citing emails from UVU staff she says she confirmed, that UVU Police Chief Jeff Long has resigned, and that emergency management director Robin Ebmeyer (transcribed \"Ebmyer\"/\"Edmire\") is resigning or has resigned; she says she does not know whether either was forced out. She replays Brian Harpole's Shawn Ryan account and a clip of Andrew Kolvet about the \"I got you covered\" text, alleges TPUSA misrepresented that message for a year, and reads independent review passages on Maycee Crofts' venue and ticketing preferences and Ebmeyer's absence on September 10. Closing segments mock a Laura Loomer DMV-flag tweet and a Gary Melton / Ian Carroll exchange, read viewer comments (Kolvet's \"guilt\" remark, a \"grieving widow\" trademark, a \"heavy hitters\" quote), ask for tips on Tabuns, and mention the host's late pregnancy.\n\n---",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3359",
+      "family_ref": "A-3359",
+      "bundle_name": "Blake Neff X Space Audio Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3359.1",
+          "ref": "A-3359.1",
+          "description": "Audio of Blake Neff in an X live space describing the host",
+          "related_claims": [
+            "C-15064",
+            "C-15065",
+            "C-15066",
+            "C-15067"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2",
+            "N-3",
+            "N-159",
+            "N-11412"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:03:07",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3359.2",
+          "ref": "A-3359.2",
+          "description": "Continuation of the X space audio in which another participant says Neff meant \"marrying\"",
+          "related_claims": [
+            "C-15068",
+            "C-15069"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2",
+            "N-159",
+            "N-11412"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:04:08",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3360",
+      "family_ref": "A-3360",
+      "bundle_name": "Wear Forbidden Parody Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3360.1",
+          "ref": "A-3360.1",
+          "description": "Wear Forbidden video satirizing Freudian slips about Erika Kirk",
+          "related_claims": [
+            "C-15073"
+          ],
+          "related_nodes": [
+            "N-11091",
+            "N-11412"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:06:05",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3361",
+      "family_ref": "A-3361",
+      "bundle_name": "Sneaker Gift Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3361.1",
+          "ref": "A-3361.1",
+          "description": "Video message to Charlie Kirk about custom sneakers, presented by the host in the context of Blake Wynn",
+          "related_claims": [
+            "C-15078",
+            "C-15079",
+            "C-15080"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2",
+            "N-352",
+            "N-949"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:11:45",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3362",
+      "family_ref": "A-3362",
+      "bundle_name": "Monster Lab U.S. Block Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3362.1",
+          "ref": "A-3362.1",
+          "description": "Screen shown when visiting the Monster Lab site from the United States without a VPN (\"Not available in your region\")",
+          "related_claims": [
+            "C-15082",
+            "C-15083"
+          ],
+          "related_nodes": [
+            "N-10880",
+            "N-11413"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:13:00",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3363",
+      "family_ref": "A-3363",
+      "bundle_name": "Matiss Tabuns and Clip It LLC Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3363.1",
+          "ref": "A-3363.1",
+          "description": "Instagram images and video attributed to Matiss Tabuns (including a blurred image and a video filmed in Vietnam)",
+          "related_claims": [
+            "C-15087",
+            "C-15088"
+          ],
+          "related_nodes": [
+            "N-950"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:15:08",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3363.2",
+          "ref": "A-3363.2",
+          "description": "Clip It LLC Wyoming filing record, added to the host's timeline",
+          "related_claims": [
+            "C-15089",
+            "C-15090"
+          ],
+          "related_nodes": [
+            "N-10880",
+            "N-950",
+            "N-11414"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:16:00",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3363.3",
+          "ref": "A-3363.3",
+          "description": "Image of the house at the registered agent's address",
+          "related_claims": [
+            "C-15091"
+          ],
+          "related_nodes": [
+            "N-11414",
+            "N-11415"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:16:30",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3364",
+      "family_ref": "A-3364",
+      "bundle_name": "Pandora Papers Registered Agent Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3364.1",
+          "ref": "A-3364.1",
+          "description": "2022 article \"The gatekeepers who help open America to oligarchs and scammers\"",
+          "related_claims": [
+            "C-15098",
+            "C-15099",
+            "C-15100"
+          ],
+          "related_nodes": [
+            "N-951",
+            "N-952",
+            "N-11415"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:19:20",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3365",
+      "family_ref": "A-3365",
+      "bundle_name": "Brian Harpole Shawn Ryan Interview Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3365.1",
+          "ref": "A-3365.1",
+          "description": "Clip of Brian Harpole on the Shawn Ryan Show reading the text correspondence with the UVU police chief",
+          "related_claims": [
+            "C-15109",
+            "C-15110",
+            "C-15111"
+          ],
+          "related_nodes": [
+            "N-224",
+            "N-266",
+            "N-271",
+            "N-10356",
+            "N-10681"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:28:28",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3366",
+      "family_ref": "A-3366",
+      "bundle_name": "Andrew Kolvet Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3366.1",
+          "ref": "A-3366.1",
+          "description": "Clip, introduced by the host as Andrew Kolvet on his platform, reading the TPUSA security text and Chief Long's reply",
+          "related_claims": [
+            "C-15116",
+            "C-15117"
+          ],
+          "related_nodes": [
+            "N-14",
+            "N-271",
+            "N-11087"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:31:55",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3367",
+      "family_ref": "A-3367",
+      "bundle_name": "UVU Independent Review Excerpts Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3367.1",
+          "ref": "A-3367.1",
+          "description": "Independent review passage on the major events committee meeting and Maycee Crofts' venue and ticketing preferences",
+          "related_claims": [
+            "C-15125",
+            "C-15126",
+            "C-15127"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-8",
+            "N-751",
+            "N-10839",
+            "N-11215"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:35:03",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3367.2",
+          "ref": "A-3367.2",
+          "description": "Independent review passage (page 73, per the host) on Robin Ebmeyer's absence on September 10",
+          "related_claims": [
+            "C-15128"
+          ],
+          "related_nodes": [
+            "N-751",
+            "N-10839"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:35:34",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3368",
+      "family_ref": "A-3368",
+      "bundle_name": "Laura Loomer DMV Post Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3368.1",
+          "ref": "A-3368.1",
+          "description": "Laura Loomer X post about a New York City DMV credit card screen",
+          "related_claims": [
+            "C-15131",
+            "C-15132"
+          ],
+          "related_nodes": [
+            "N-60",
+            "N-223"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:37:59",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3369",
+      "family_ref": "A-3369",
+      "bundle_name": "Gary Melton / Ian Carroll X Exchange Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3369.1",
+          "ref": "A-3369.1",
+          "description": "X exchange between Gary Melton (Paramount Tactical) and Ian Carroll",
+          "related_claims": [
+            "C-15133",
+            "C-15134",
+            "C-15135"
+          ],
+          "related_nodes": [
+            "N-130",
+            "N-615",
+            "N-10899"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:40:08",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3370",
+      "family_ref": "A-3370",
+      "bundle_name": "Viewer Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3370.1",
+          "ref": "A-3370.1",
+          "description": "Viewer comment (Septimus Theopolis) on Andrew Kolvet's \"processing their guilt\" remark",
+          "related_claims": [
+            "C-15146"
+          ],
+          "related_nodes": [
+            "N-14",
+            "N-46",
+            "N-11412"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:47:28",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3370.2",
+          "ref": "A-3370.2",
+          "description": "Viewer comment (Zammit) on a \"grieving widow\" trademark",
+          "related_claims": [
+            "C-15147"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:49:04",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3370.3",
+          "ref": "A-3370.3",
+          "description": "Viewer comment (Ali) quoting Erika Kirk on \"heavy hitters\"",
+          "related_claims": [
+            "C-15148"
+          ],
+          "related_nodes": [
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:49:34",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3371",
+      "family_ref": "A-3371",
+      "bundle_name": "Host Tip Request Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3371.1",
+          "ref": "A-3371.1",
+          "description": "Host verbal reference: request for tips on Matiss Tabuns at the More tips at candaceowens.com address",
+          "related_claims": [
+            "C-15141"
+          ],
+          "related_nodes": [
+            "N-10880",
+            "N-950"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:45:05",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassinated TPUSA founder; subject of Neff's \"murdering Charlie\" slip and recipient of the sneaker video.",
+      "related_artifacts": [
+        "A-3359.2",
+        "A-3359.1",
+        "A-3361.1",
+        "A-3367.1"
+      ],
+      "related_claims": [
+        "C-15066",
+        "C-15068",
+        "C-15079",
+        "C-15080",
+        "C-15126",
+        "C-15136",
+        "C-15149"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "TPUSA CEO; host alleges her friend's firm supplied clips of her five days after the assassination; subject of viewer comments.",
+      "related_artifacts": [
+        "A-3359.2",
+        "A-3359.1",
+        "A-3361.1",
+        "A-3370.3"
+      ],
+      "related_claims": [
+        "C-15066",
+        "C-15068",
+        "C-15075",
+        "C-15077",
+        "C-15078",
+        "C-15104",
+        "C-15114",
+        "C-15143",
+        "C-15144",
+        "C-15148",
+        "C-15149"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 11,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "The host.",
+      "related_artifacts": [
+        "A-3359.1"
+      ],
+      "related_claims": [
+        "C-15063",
+        "C-15065",
+        "C-15070",
+        "C-15071",
+        "C-15119",
+        "C-15122",
+        "C-15137",
+        "C-15138",
+        "C-15151"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Host says he gave conflicting accounts of when he got the rooftop text message.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15115"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-8",
+      "ref": "N-8",
+      "name": "Maycee Crofts",
+      "type": "person",
+      "description": "Per the independent review passage the host reads, insisted on the fountain courtyard and TPUSA-managed ticketing.",
+      "related_artifacts": [
+        "A-3367.1"
+      ],
+      "related_claims": [
+        "C-15125",
+        "C-15126",
+        "C-15127"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-11",
+      "ref": "N-11",
+      "name": "Tyler Bowyer",
+      "type": "person",
+      "description": "Host says he was allegedly telling people TPUSA would get into housing (transcribed \"Tyler Bowyer\").",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15145"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Host recalls his \"processing their guilt\" remark and plays a clip of him blaming Chief Long (transcribed \"Andrew Kolvet\" at 00:31:40).",
+      "related_artifacts": [
+        "A-3366.1",
+        "A-3370.1"
+      ],
+      "related_claims": [
+        "C-15072",
+        "C-15116",
+        "C-15117",
+        "C-15146"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-17",
+      "ref": "N-17",
+      "name": "Rob McCoy",
+      "type": "person",
+      "description": "Host says Erika gave her kids to Rob McCoy's wife while calling donors.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15143"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-30",
+      "ref": "N-30",
+      "name": "George (Candace's husband)",
+      "type": "person",
+      "description": "Host says she is wearing George's clothes late in her pregnancy.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15151"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-40",
+      "ref": "N-40",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Named by the host in mocking the \"acted alone\" narrative.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15105"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-46",
+      "ref": "N-46",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Per the host and a viewer comment, corrected Kolvet's \"guilt\" to \"grief\".",
+      "related_artifacts": [
+        "A-3370.1"
+      ],
+      "related_claims": [
+        "C-15072",
+        "C-15146"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-60",
+      "ref": "N-60",
+      "name": "Laura Loomer",
+      "type": "person",
+      "description": "Posted the DMV credit card screen tweet the host mocks.",
+      "related_artifacts": [
+        "A-3368.1"
+      ],
+      "related_claims": [
+        "C-15131",
+        "C-15132"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-97",
+      "ref": "N-97",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Host says Elephant Clipping became a go-to for him.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15105"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-130",
+      "ref": "N-130",
+      "name": "Ian Carroll",
+      "type": "person",
+      "description": "Party to the X exchange with Gary Melton.",
+      "related_artifacts": [
+        "A-3369.1"
+      ],
+      "related_claims": [
+        "C-15133",
+        "C-15134",
+        "C-15135"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-159",
+      "ref": "N-159",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Spoke in an X space; host says he said Erika murdered Charlie.",
+      "related_artifacts": [
+        "A-3359.2",
+        "A-3359.1"
+      ],
+      "related_claims": [
+        "C-15063",
+        "C-15064",
+        "C-15065",
+        "C-15066",
+        "C-15067",
+        "C-15068",
+        "C-15069",
+        "C-15070",
+        "C-15074",
+        "C-15139"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 10,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-223",
+      "ref": "N-223",
+      "name": "Zohran Mamdani",
+      "type": "person",
+      "description": "Named in Loomer's tweet (transcribed \"Mamdani\").",
+      "related_artifacts": [
+        "A-3368.1"
+      ],
+      "related_claims": [
+        "C-15131"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-224",
+      "ref": "N-224",
+      "name": "Shawn Ryan",
+      "type": "person",
+      "description": "Host of the interview in which Harpole read the text correspondence.",
+      "related_artifacts": [
+        "A-3365.1"
+      ],
+      "related_claims": [
+        "C-15108",
+        "C-15109"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-259",
+      "ref": "N-259",
+      "name": "Steven Crowder",
+      "type": "person",
+      "description": "Host says Elephant Clipping became a go-to for him.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15105"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-266",
+      "ref": "N-266",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Host says he misrepresented the Dan Flood text as his own; his Shawn Ryan clip is replayed; host says he is suing her.",
+      "related_artifacts": [
+        "A-3365.1"
+      ],
+      "related_claims": [
+        "C-15108",
+        "C-15109",
+        "C-15110",
+        "C-15111",
+        "C-15112",
+        "C-15113",
+        "C-15122"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-270",
+      "ref": "N-270",
+      "name": "Dan Flood",
+      "type": "person",
+      "description": "Host says the text was his and he has not spoken publicly.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15113",
+        "C-15118"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-271",
+      "ref": "N-271",
+      "name": "Jeff Long",
+      "type": "person",
+      "description": "UVU Police Chief; host reports he has resigned and says TPUSA wrongly blamed him.",
+      "related_artifacts": [
+        "A-3365.1",
+        "A-3366.1"
+      ],
+      "related_claims": [
+        "C-15106",
+        "C-15107",
+        "C-15108",
+        "C-15109",
+        "C-15110",
+        "C-15111",
+        "C-15116",
+        "C-15117",
+        "C-15118",
+        "C-15119",
+        "C-15120",
+        "C-15121",
+        "C-15129",
+        "C-15130"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 14,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-351",
+      "ref": "N-351",
+      "name": "Matt Servius",
+      "type": "person",
+      "description": "Name the host gave the Monster Lab operator in the prior episode; she now says it was wrong. Possibly the same individual as N-950.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15084"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-352",
+      "ref": "N-352",
+      "name": "Blake Wynn",
+      "type": "person",
+      "description": "Host says his Las Vegas firm supplied the Erika and TPUSA clips; theory that his orbit supplied Erika's Kirk Force 1s.",
+      "related_artifacts": [
+        "A-3361.1"
+      ],
+      "related_claims": [
+        "C-15075",
+        "C-15077",
+        "C-15078",
+        "C-15079",
+        "C-15081",
+        "C-15104"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-615",
+      "ref": "N-615",
+      "name": "Gary Melton",
+      "type": "person",
+      "description": "Paramount Tactical; party to the X exchange with Ian Carroll.",
+      "related_artifacts": [
+        "A-3369.1"
+      ],
+      "related_claims": [
+        "C-15133",
+        "C-15134",
+        "C-15135"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-710",
+      "ref": "N-710",
+      "name": "Volodymyr Zelensky",
+      "type": "person",
+      "description": "Host says Kolomoisky funded him into power.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15102"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-751",
+      "ref": "N-751",
+      "name": "Robin Ebmeyer",
+      "type": "person",
+      "description": "UVU emergency management director; host says she has heard Ebmeyer is resigning or has resigned (transcribed \"Ebmyer\", \"Edmire\", \"Edmyer\").",
+      "related_artifacts": [
+        "A-3367.2",
+        "A-3367.1"
+      ],
+      "related_claims": [
+        "C-15123",
+        "C-15124",
+        "C-15125",
+        "C-15127",
+        "C-15128",
+        "C-15129",
+        "C-15130"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-949",
+      "ref": "N-949",
+      "name": "Christine Fecetty",
+      "type": "person",
+      "description": "First named by the host at 00:10:57 in episode 162. Instagram comedian and political commentator, handle given as @whatthefecetty; credited with the theory that Blake Wynn gifted Erika's Kirk Force 1s. Spelling unconfirmed.",
+      "related_artifacts": [
+        "A-3361.1"
+      ],
+      "related_claims": [
+        "C-15078"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-950",
+      "ref": "N-950",
+      "name": "Matiss Tabuns",
+      "type": "person",
+      "description": "First named by the host at 00:14:33 in episode 162. Named by the host, per Latvian emailers, as the person running Monster Lab / Clip It; from Talsi, Latvia.",
+      "related_artifacts": [
+        "A-3363.2",
+        "A-3363.1",
+        "A-3371.1"
+      ],
+      "related_claims": [
+        "C-15084",
+        "C-15085",
+        "C-15086",
+        "C-15087",
+        "C-15088",
+        "C-15089",
+        "C-15090",
+        "C-15092",
+        "C-15097",
+        "C-15103",
+        "C-15140",
+        "C-15141"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 12,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-951",
+      "ref": "N-951",
+      "name": "Cindy Jackson",
+      "type": "person",
+      "description": "First named by the host at 00:18:58 in episode 162. Wyoming registered agent the host says is the agent for Clip It LLC and who was named in Pandora Papers reporting.",
+      "related_artifacts": [
+        "A-3364.1"
+      ],
+      "related_claims": [
+        "C-15092",
+        "C-15097",
+        "C-15098",
+        "C-15099",
+        "C-15100"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-952",
+      "ref": "N-952",
+      "name": "Igor Kolomoisky",
+      "type": "person",
+      "description": "First named by the host at 00:20:40 in episode 162. Ukrainian oligarch named in the article the host reads as linked to Ferrous LLC.",
+      "related_artifacts": [
+        "A-3364.1"
+      ],
+      "related_claims": [
+        "C-15100",
+        "C-15101",
+        "C-15102"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Organization the host says blamed Jeff Long and is tied to the clipping campaign.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15075",
+        "C-15076",
+        "C-15107",
+        "C-15118",
+        "C-15120",
+        "C-15144",
+        "C-15145"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10012",
+      "ref": "N-10012",
+      "name": "Utah Valley University",
+      "type": "investigation_target",
+      "description": "Site of the resignations the host reports.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15106",
+        "C-15123",
+        "C-15130"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10340",
+      "ref": "N-10340",
+      "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
+      "type": "investigation_target",
+      "description": "Host says the official account is that Erika did not know about threats the night before.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15114"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10356",
+      "ref": "N-10356",
+      "name": "Brian Harpole Dan Flood Text Misattribution",
+      "type": "investigation_target",
+      "description": "Host says Harpole presented the Flood text as his own.",
+      "related_artifacts": [
+        "A-3365.1"
+      ],
+      "related_claims": [
+        "C-15108",
+        "C-15112",
+        "C-15113"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10681",
+      "ref": "N-10681",
+      "name": "Shawn Ryan Show Interview Clip Bundle",
+      "type": "investigation_target",
+      "description": "Harpole's Shawn Ryan clip replayed in this episode.",
+      "related_artifacts": [
+        "A-3365.1"
+      ],
+      "related_claims": [
+        "C-15109",
+        "C-15110",
+        "C-15111"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10839",
+      "ref": "N-10839",
+      "name": "Independent Review of UVU Security Failures",
+      "type": "investigation_target",
+      "description": "Review the host cites on Harpole, Crofts and Ebmeyer.",
+      "related_artifacts": [
+        "A-3367.2",
+        "A-3367.1"
+      ],
+      "related_claims": [
+        "C-15107",
+        "C-15112",
+        "C-15121",
+        "C-15125",
+        "C-15126",
+        "C-15127",
+        "C-15128"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10862",
+      "ref": "N-10862",
+      "name": "Harpole Shawn Ryan Statements vs Independent Review Findings",
+      "type": "investigation_target",
+      "description": "Host says the review confirmed Harpole misrepresented things.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15112"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10880",
+      "ref": "N-10880",
+      "name": "Monster Lab / Clippet",
+      "type": "investigation_target",
+      "description": "Clipping site the host says is now blocked in the U.S.; Clip It LLC is its Wyoming filing per the host.",
+      "related_artifacts": [
+        "A-3362.1",
+        "A-3363.2",
+        "A-3371.1"
+      ],
+      "related_claims": [
+        "C-15063",
+        "C-15082",
+        "C-15083",
+        "C-15085",
+        "C-15089",
+        "C-15103",
+        "C-15104",
+        "C-15140",
+        "C-15141"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10881",
+      "ref": "N-10881",
+      "name": "Elephant Clipping Campaign",
+      "type": "investigation_target",
+      "description": "Campaign the host says became a go-to for Shapiro and Crowder.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15076",
+        "C-15105",
+        "C-15142"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10882",
+      "ref": "N-10882",
+      "name": "Enclave and Key",
+      "type": "investigation_target",
+      "description": "Blake Wynn's firm; Atlantic reporting on drive deletions recalled.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15075",
+        "C-15081"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10883",
+      "ref": "N-10883",
+      "name": "Anti-Candace Paid Clipping Campaign",
+      "type": "investigation_target",
+      "description": "Host says the operator pays people to harass her; contrasts her own organic clips.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15063",
+        "C-15138"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10886",
+      "ref": "N-10886",
+      "name": "Latvia",
+      "type": "investigation_target",
+      "description": "Operator's home country per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15063",
+        "C-15084",
+        "C-15086"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10887",
+      "ref": "N-10887",
+      "name": "Las Vegas",
+      "type": "investigation_target",
+      "description": "Location of Wynn's firm and the TPUSA office the host recalls.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15075",
+        "C-15144"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10889",
+      "ref": "N-10889",
+      "name": "Atlantic Elephant Clipping Expose",
+      "type": "investigation_target",
+      "description": "Atlantic article the host cites on drive deletions and the September 15 start.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15081",
+        "C-15142"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10891",
+      "ref": "N-10891",
+      "name": "Erika Kirk September 15 2025 Google Drive Clip Seed",
+      "type": "investigation_target",
+      "description": "Host says per the Atlantic the campaign began September 15.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15077",
+        "C-15104",
+        "C-15142",
+        "C-15143"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10899",
+      "ref": "N-10899",
+      "name": "Paramount Tactical",
+      "type": "investigation_target",
+      "description": "Gary Melton's account in the Ian Carroll exchange.",
+      "related_artifacts": [
+        "A-3369.1"
+      ],
+      "related_claims": [
+        "C-15133",
+        "C-15134",
+        "C-15135"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10864",
+      "ref": "N-10864",
+      "name": "Vanity Fair Erika Kirk Profile (Clara Molot)",
+      "type": "investigation_target",
+      "description": "Host cites it as saying the sun revolved around Charlie at TPUSA.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15136"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11087",
+      "ref": "N-11087",
+      "name": "TPUSA Notice of Intent to Sue UVU",
+      "type": "investigation_target",
+      "description": "Host says Kolvet blamed Long after the Kirk family filed intent to sue.",
+      "related_artifacts": [
+        "A-3366.1"
+      ],
+      "related_claims": [
+        "C-15116"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11091",
+      "ref": "N-11091",
+      "name": "Wear Forbidden",
+      "type": "investigation_target",
+      "description": "Account whose parody video the host plays.",
+      "related_artifacts": [
+        "A-3360.1"
+      ],
+      "related_claims": [
+        "C-15073"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11215",
+      "ref": "N-11215",
+      "name": "UVU Security Team Conduct and Ticket-Count Communication",
+      "type": "investigation_target",
+      "description": "Host says TPUSA controlled tickets and told Long 600 people.",
+      "related_artifacts": [
+        "A-3367.1"
+      ],
+      "related_claims": [
+        "C-15120",
+        "C-15126"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11359",
+      "ref": "N-11359",
+      "name": "Chabad Lubavitch",
+      "type": "investigation_target",
+      "description": "Host ties Kolomoisky to Chabad-Lubavitch.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15101"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11412",
+      "ref": "N-11412",
+      "name": "Blake Neff \"Murdering Charlie\" Slip",
+      "type": "topic",
+      "description": "Blake Neff's X space remark that the host would \"hate Erika for murdering Charlie\", which another participant said meant \"marrying\"; framed by the host as a Freudian slip alongside Kolvet's \"processing their guilt\".",
+      "related_artifacts": [
+        "A-3359.2",
+        "A-3359.1",
+        "A-3360.1",
+        "A-3370.1"
+      ],
+      "related_claims": [
+        "C-15066",
+        "C-15068",
+        "C-15069",
+        "C-15072",
+        "C-15073",
+        "C-15146"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-159"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11413",
+      "ref": "N-11413",
+      "name": "Monster Lab U.S. Access Block",
+      "type": "topic",
+      "description": "The host's report that the Monster Lab site shows \"Not available in your region\" from the United States after her prior episode, while remaining visible via VPN from Latvia and other countries.",
+      "related_artifacts": [
+        "A-3362.1"
+      ],
+      "related_claims": [
+        "C-15082",
+        "C-15083",
+        "C-15139"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-10880"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11414",
+      "ref": "N-11414",
+      "name": "Clip It LLC Wyoming Filing and Registered Agent",
+      "type": "topic",
+      "description": "The Clip It LLC Wyoming filing (May 28, 2025 per the host), connected by the host to Matiss Tabuns, and its registered agent address, which the host says belongs to an agent running nearly 3,000 businesses.",
+      "related_artifacts": [
+        "A-3363.2",
+        "A-3363.3"
+      ],
+      "related_claims": [
+        "C-15089",
+        "C-15090",
+        "C-15091",
+        "C-15092",
+        "C-15097"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-950",
+        "N-951"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11415",
+      "ref": "N-11415",
+      "name": "Pandora Papers",
+      "type": "topic",
+      "description": "The 2021 ICIJ leak of about 12 million offshore financial records; the host links the Clip It LLC registered agent to Pandora Papers reporting on Wyoming registered agents.",
+      "related_artifacts": [
+        "A-3363.3",
+        "A-3364.1"
+      ],
+      "related_claims": [
+        "C-15091",
+        "C-15092",
+        "C-15093",
+        "C-15094",
+        "C-15095",
+        "C-15096",
+        "C-15097",
+        "C-15098",
+        "C-15099",
+        "C-15100"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 10,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-11416"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11416",
+      "ref": "N-11416",
+      "name": "International Consortium of Investigative Journalists",
+      "type": "organization",
+      "description": "Journalism consortium the host says obtained the Pandora Papers records and estimated offshore holdings.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15094",
+        "C-15095",
+        "C-15096"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-11415"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11417",
+      "ref": "N-11417",
+      "name": "UVU Post-Review Resignations",
+      "type": "topic",
+      "description": "The host's reports, from UVU sources, that Police Chief Jeff Long has resigned and that emergency management director Robin Ebmeyer is resigning or has resigned after the independent review, with circumstances unknown.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15106",
+        "C-15119",
+        "C-15123",
+        "C-15129",
+        "C-15130"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-271",
+        "N-751"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11418",
+      "ref": "N-11418",
+      "name": "TPUSA Las Vegas Office Opening",
+      "type": "topic",
+      "description": "The host's recollection that TPUSA, with Erika Kirk, opened an office in Las Vegas, possibly in March.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-15144"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-10887"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-15063",
+      "ref": "C-15063",
+      "label": "Host says the Latvian Monster Lab operator pays people to harass her",
+      "claim": "The host says she believes the Monster Lab website is the true source of Blake Neff's panic, suggesting it is because \"this Latvian nerd pays people to harass me\".",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10880",
+        "N-10883",
+        "N-10886"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:00:52",
+      "investigative_direction": "Monster Lab campaign listings and payout records naming the host as a target.",
+      "transcript_snippet": "I think it might be because this Latvian nerd pays people to harass me",
+      "mentions_person_refs": [
+        "N-3",
+        "N-159"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15064",
+      "ref": "C-15064",
+      "label": "Blake Neff joined an X live space",
+      "claim": "The host says Blake Neff joined an X live space the previous evening.",
+      "anchored_artifacts": [
+        "A-3359.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:02:36",
+      "investigative_direction": "Recording of the X Space from the evening of October 6, 2026.",
+      "transcript_snippet": "Yesterday evening, Blake Neff joined an X live space.",
+      "mentions_person_refs": [
+        "N-159"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15065",
+      "ref": "C-15065",
+      "label": "Neff says people who worked with the host say she was awful to assistants",
+      "claim": "In the X space audio the host plays, Blake Neff says that anyone who has worked with the host has nothing good to say about her because she has been awful to assistants and people sent to help her.",
+      "anchored_artifacts": [
+        "A-3359.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:03:08",
+      "investigative_direction": "Whether Neff has spoken to any former staff of the host; statements from former assistants.",
+      "transcript_snippet": "If you talk to anyone who's ever worked with her, they never have anything good to say about her cuz she's always been absolutely awful to assistants, to people sent to help her.",
+      "mentions_person_refs": [
+        "N-159",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15066",
+      "ref": "C-15066",
+      "label": "Neff says the host would \"hate Erika for murdering Charlie\"",
+      "claim": "In the X space audio, Blake Neff says the host would probably have hated anyone who married Charlie, and \"of course she's going to hate Erika for murdering Charlie\".",
+      "anchored_artifacts": [
+        "A-3359.1"
+      ],
+      "related_nodes": [
+        "N-11412"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:03:25",
+      "investigative_direction": "Full X Space recording to confirm the exact wording.",
+      "transcript_snippet": "So, of course she's going to hate Erika for murdering Charlie.",
+      "mentions_person_refs": [
+        "N-159",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15067",
+      "ref": "C-15067",
+      "label": "Neff says the host dislikes white women and pretty women",
+      "claim": "In the X space audio, Blake Neff says the host probably dislikes white women and other pretty women.",
+      "anchored_artifacts": [
+        "A-3359.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:03:38",
+      "investigative_direction": "Full X Space recording.",
+      "transcript_snippet": "probably on some level she probably like dislikes like white women. She probably dislikes other pretty women.",
+      "mentions_person_refs": [
+        "N-159"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15068",
+      "ref": "C-15068",
+      "label": "Another participant says Neff meant \"marrying Charlie\"",
+      "claim": "In the continuation of the X space audio, another participant says Blake just accidentally said the host hated Erika for murdering Charlie and that he meant marrying Charlie.",
+      "anchored_artifacts": [
+        "A-3359.2"
+      ],
+      "related_nodes": [
+        "N-11412"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:08",
+      "investigative_direction": "Identify the X Space participant who raised the slip; full recording.",
+      "transcript_snippet": "Blake just accidentally said that uh uh Candace hated Erika for murdering Charlie. He meant marrying Charlie.",
+      "mentions_person_refs": [
+        "N-159",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15069",
+      "ref": "C-15069",
+      "label": "Neff says he is pretty sure he said \"marrying Charlie\"",
+      "claim": "In the X space audio, Blake Neff responds that he is pretty sure he said \"marrying Charlie\".",
+      "anchored_artifacts": [
+        "A-3359.2"
+      ],
+      "related_nodes": [
+        "N-11412"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:15",
+      "investigative_direction": "Compare the recorded word in the X Space audio with Neff's recollection.",
+      "transcript_snippet": "pretty sure I said I'm pretty sure I said marrying Charlie.",
+      "mentions_person_refs": [
+        "N-159"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15070",
+      "ref": "C-15070",
+      "label": "Host says Neff has admitted he has never met her",
+      "claim": "The host says Blake Neff has admitted he has never met her and so has no idea how she treats people around her.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:04:42",
+      "investigative_direction": "Neff's prior statement that he has never met the host.",
+      "transcript_snippet": "Also, he's admitted that he's he's never met me, so he has no idea how I treat people around me.",
+      "mentions_person_refs": [
+        "N-159",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15071",
+      "ref": "C-15071",
+      "label": "Host says her assistants stayed six and five years",
+      "claim": "The host says her assistant lasted six years and another assistant lasted five years and became her manager.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:04:55",
+      "investigative_direction": "Employment records of the host's staff.",
+      "transcript_snippet": "my assistant lasted 6 years, actually, the one that we were just trying to replace. And also, my other assistant lasted 5 years and went on to become my manager.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15072",
+      "ref": "C-15072",
+      "label": "Host recalls Kolvet's \"processing their guilt\" remark corrected by Megyn Kelly",
+      "claim": "The host says she thinks Andrew Kolvet said very early on that they were processing their guilt, and Megyn Kelly told him he meant grief.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11412"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:05:30",
+      "investigative_direction": "The Megyn Kelly Show episode with Kolvet in September 2025.",
+      "transcript_snippet": "I think actually it was Andrew Kolvet who said very early on that they were processing their guilt.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-46"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15073",
+      "ref": "C-15073",
+      "label": "Wear Forbidden posted a video on the Neff slip",
+      "claim": "The host says the Wear Forbidden account already has a video out documenting the Neff incident, and plays it.",
+      "anchored_artifacts": [
+        "A-3360.1"
+      ],
+      "related_nodes": [
+        "N-11091",
+        "N-11412"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:05:50",
+      "investigative_direction": "Wear Forbidden post and its date.",
+      "transcript_snippet": "The amazing Wear Forbidden account already has a video out documenting this incident.",
+      "mentions_person_refs": [
+        "N-11412"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15074",
+      "ref": "C-15074",
+      "label": "Host says Neff's outbursts follow episodes that make TPUSA nervous",
+      "claim": "The host says Blake Neff's public outbursts about her typically happen after big episodes that expose their lies or make them nervous.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:06:58",
+      "investigative_direction": "Timeline of Neff posts against the host's episode dates.",
+      "transcript_snippet": "And it typically happens when we do big episodes that expose their lies or make them nervous.",
+      "mentions_person_refs": [
+        "N-159"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15075",
+      "ref": "C-15075",
+      "label": "Host says Blake Wynn's Las Vegas firm supplied the Erika and TPUSA clip files",
+      "claim": "The host says the files for clipping Erika Kirk and Turning Point USA were provided by a Las Vegas marketing firm owned by Erika's friend Blake Wynn, a firm she says has an imprint in Romania.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10882",
+        "N-10887",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:07:26",
+      "investigative_direction": "Enclave and Key corporate filings in the U.S. and Romania; Google Drive links in Monster Lab campaigns.",
+      "transcript_snippet": "the files for clipping Erika Kirk and Turning Point USA were being provided by a Las Vegas marketing firm owned by Erika's dear friend Blake Wynn, a firm that we then learned has an imprint in Romania.",
+      "supports_claim_refs": [
+        "C-10616"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-352"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15076",
+      "ref": "C-15076",
+      "label": "Host asks who would pay a million dollars a month through Discord",
+      "claim": "The host says, referring to what she showed the day before, that the clipping campaign involved paying a million dollars a month through Discord, which she calls \"high-end sleaze\".",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10881",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:08:55",
+      "investigative_direction": "Monster Lab campaign budgets and payout records.",
+      "transcript_snippet": "Who in their right mind would pay a million dollars a month on a political clipping campaign through Discord?",
+      "supports_claim_refs": [
+        "C-3682"
+      ],
+      "mentions_person_refs": [
+        "N-10000"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15077",
+      "ref": "C-15077",
+      "label": "Host says Erika's friend directed employees to market her on the Latvian-run site",
+      "claim": "Speaking in Erika's voice satirically, the host alleges that Erika's non-Christian friend directed his employees to market her on a website run by a Latvian man, five days after her husband's assassination.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10891"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:10:05",
+      "investigative_direction": "Atlantic reporting and campaign drive timestamps for September 15, 2025.",
+      "transcript_snippet": "my non-Christian friend is apparently directing his employees to market me on a shady website that's run by a Latvian man",
+      "mentions_person_refs": [
+        "N-2",
+        "N-352"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15078",
+      "ref": "C-15078",
+      "label": "Commentator theorizes Blake Wynn gifted Erika's Kirk Force 1s",
+      "claim": "The host credits Instagram commentator Christine Fecetty with discovering what the host believes is a highly likely possibility that Blake Wynn gave Erika the \"Kirk Force 1\" sneakers she wore.",
+      "anchored_artifacts": [
+        "A-3361.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:57",
+      "investigative_direction": "Origin of the custom sneakers; @whatthefecetty post.",
+      "transcript_snippet": "she discovered what I believe is a highly likely possibility um that it was Blake Wynn who gifted Erika with those gaudy Kirk Force 1s",
+      "mentions_person_refs": [
+        "N-949",
+        "N-352",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15079",
+      "ref": "C-15079",
+      "label": "Host says Wynn gifted Charlie South Park sneakers shortly before his death",
+      "claim": "The host says that shortly before Charlie died, Blake Wynn gifted him a similar pair of sneakers with South Park characters, referencing Charlie's South Park episode.",
+      "anchored_artifacts": [
+        "A-3361.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:11:20",
+      "investigative_direction": "Date and source of the sneaker video; maker of the custom shoes.",
+      "transcript_snippet": "shortly before Charlie passed, he, meaning Blake Wynn, gifted Charlie with a similar pair",
+      "mentions_person_refs": [
+        "N-1",
+        "N-352"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15080",
+      "ref": "C-15080",
+      "label": "Sneaker video says shoes were mailed via a buddy",
+      "claim": "In a video the host plays, a man addressing Charlie says the sneakers just came and he is sending them the next day, and that a buddy mailed them to him first; the host presents this in the context of Blake Wynn.",
+      "anchored_artifacts": [
+        "A-3361.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:11:45",
+      "investigative_direction": "Confirm the speaker's identity and where the video was posted.",
+      "transcript_snippet": "What's up, Charlie? Uh these just came. I'm sending them to you tomorrow",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15081",
+      "ref": "C-15081",
+      "label": "Atlantic says videos were deleted from the Google Drive after the writer's inquiries",
+      "claim": "The host says the Atlantic article reported that the videos were deleted from the Google Drive providing the clips and that many campaigns were pulled after the writer began asking about Enclave and Key's involvement.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10882",
+        "N-10889"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:12:25",
+      "investigative_direction": "The Atlantic article text; Google Drive access logs.",
+      "transcript_snippet": "Uh the Atlantic article informed us that they moved to delete all the videos from the associative Google Drive, the one that was providing all the clips.",
+      "supports_claim_refs": [
+        "C-3689"
+      ],
+      "mentions_person_refs": [
+        "N-352"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15082",
+      "ref": "C-15082",
+      "label": "Host says the Monster Lab site is now blocked in the United States",
+      "claim": "The host says that the Monster Lab website is now blocked for visitors in the United States and cannot be seen without a VPN, showing a \"Not available in your region\" screen.",
+      "anchored_artifacts": [
+        "A-3362.1"
+      ],
+      "related_nodes": [
+        "N-10880",
+        "N-11413"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:12:52",
+      "investigative_direction": "Check the site from U.S. and non-U.S. addresses; geoblock settings and dates.",
+      "transcript_snippet": "we regret to inform you that if you are in the United States, that website is now blocked. You can't see it without a VPN.",
+      "mentions_person_refs": [
+        "N-11413"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15083",
+      "ref": "C-15083",
+      "label": "Host says the site remains visible from other countries",
+      "claim": "The host says her team viewed the site via VPN as if from Latvia and from other countries, and that it is specifically blocked in the United States.",
+      "anchored_artifacts": [
+        "A-3362.1"
+      ],
+      "related_nodes": [
+        "N-10880",
+        "N-11413"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:13:20",
+      "investigative_direction": "Independent access tests from multiple regions.",
+      "transcript_snippet": "And we tried it in other countries, and we could see the website. It's particularly taken down in the United States.",
+      "mentions_person_refs": [
+        "N-11413"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15084",
+      "ref": "C-15084",
+      "label": "Host corrects that the operator is not named Mat Servius",
+      "claim": "The host says that the name she gave the previous day for the person running the site, Mat Servius, was wrong, and that people in Latvia emailed to say Servius is not a Latvian surname.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10886"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:14:10",
+      "investigative_direction": "Atlantic article and Discord handles used by the operator.",
+      "transcript_snippet": "We told you yesterday his name was Mat Servius. We were wrong.",
+      "revises_claim_refs": [
+        "C-10595"
+      ],
+      "mentions_person_refs": [
+        "N-351",
+        "N-950"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15085",
+      "ref": "C-15085",
+      "label": "Host names the operator as Matiss Tabuns",
+      "claim": "The host says, per emailers, that the real name of the person running the site is Matiss Tabuns, spelling the surname T-A-B-U-N-S.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10880"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:14:33",
+      "investigative_direction": "Latvian business registry and Clip It LLC records listing an organizer or owner.",
+      "transcript_snippet": "His real name, the person running this, is Matiss Tabuns",
+      "mentions_person_refs": [
+        "N-950"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15086",
+      "ref": "C-15086",
+      "label": "Host says Tabuns is from Talsi and allegedly dropped out of high school",
+      "claim": "The host says, according to her sources, that Tabuns is from the small town of Talsi in Latvia, where he allegedly dropped out of high school in his junior year, around 2019.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10886"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:14:48",
+      "investigative_direction": "Talsi school records; statements from the Latvian sources.",
+      "transcript_snippet": "He's from a small town there known as Talsi, where he allegedly dropped out of high school in his junior year.",
+      "mentions_person_refs": [
+        "N-950"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15087",
+      "ref": "C-15087",
+      "label": "Host says Tabuns appears flush with cash on Instagram",
+      "claim": "The host says that, according to his sources, Tabuns started running online businesses after leaving school and that he appears flush with cash according to his Instagram.",
+      "anchored_artifacts": [
+        "A-3363.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:15:02",
+      "investigative_direction": "Tabuns' Instagram account and business registrations.",
+      "transcript_snippet": "He's flushed with cash, according to his Instagram.",
+      "mentions_person_refs": [
+        "N-950"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15088",
+      "ref": "C-15088",
+      "label": "Host says Tabuns is in his early 20s and shows a Vietnam video",
+      "claim": "The host says Tabuns is in his early 20s and shows a video she says he filmed in Vietnam.",
+      "anchored_artifacts": [
+        "A-3363.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:15:15",
+      "investigative_direction": "Date and source of the Instagram video.",
+      "transcript_snippet": "He's in his early 20s. Here he is in Vietnam filming his buddy putting money into a stripper's bra.",
+      "mentions_person_refs": [
+        "N-950"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15089",
+      "ref": "C-15089",
+      "label": "Host says Clip It LLC was filed on May 28, 2025",
+      "claim": "The host says viewers helped confirm that Clip It LLC was filed for on May 28, 2025, and that her team connected it to Tabuns.",
+      "anchored_artifacts": [
+        "A-3363.2"
+      ],
+      "related_nodes": [
+        "N-10880",
+        "N-11414"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:15:55",
+      "investigative_direction": "Wyoming Secretary of State filing for Clip It LLC.",
+      "transcript_snippet": "Clip It LLC um was filed for on May 28th of 2025.",
+      "mentions_person_refs": [
+        "N-950"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15090",
+      "ref": "C-15090",
+      "label": "Host says Clip It LLC was filed in Wyoming",
+      "claim": "The host says Clip It LLC was filed for in Wyoming and that it has been added to her timeline.",
+      "anchored_artifacts": [
+        "A-3363.2"
+      ],
+      "related_nodes": [
+        "N-11414"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:16:10",
+      "investigative_direction": "Wyoming Secretary of State business search.",
+      "transcript_snippet": "It was filed for in Wyoming.",
+      "mentions_person_refs": [
+        "N-950"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15091",
+      "ref": "C-15091",
+      "label": "Host says the registered agent runs nearly 3,000 businesses out of a run-down house",
+      "claim": "The host says the registered agent address for the filing is a dilapidated house connected to a registered agent apparently running nearly 3,000 businesses.",
+      "anchored_artifacts": [
+        "A-3363.3"
+      ],
+      "related_nodes": [
+        "N-11414",
+        "N-11415"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:16:28",
+      "investigative_direction": "Wyoming registry count of entities using that agent and address.",
+      "transcript_snippet": "a registered agent who's apparently running nearly 3,000 businesses out of this dump of a house falling apart.",
+      "mentions_person_refs": [
+        "N-11415"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15092",
+      "ref": "C-15092",
+      "label": "Host says the agent is an 82-year-old woman named in the Pandora Papers",
+      "claim": "The host says the registered agent is an 82-year-old woman who was mentioned throughout the Pandora Papers, later naming her as Cindy Jackson of Wyoming, the same agent used for Clip It LLC.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11414",
+        "N-11415"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:16:45",
+      "investigative_direction": "Clip It LLC registered agent of record; ICIJ Pandora Papers database.",
+      "transcript_snippet": "We also discovered this is an 82-year-old woman who is actually known to the world because she was featured, mentioned throughout um the Pandora Papers",
+      "mentions_person_refs": [
+        "N-951",
+        "N-950"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15093",
+      "ref": "C-15093",
+      "label": "Host says politicians and prime ministers resigned in 2021 over the Pandora Papers",
+      "claim": "The host describes the Pandora Papers as an international oligarch and politician scandal in which politicians and prime ministers had to resign in 2021.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11415"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:17:05",
+      "investigative_direction": "ICIJ reporting on resignations following the Pandora Papers.",
+      "transcript_snippet": "politicians, prime ministers had to resigned uh had to resign in in 2021."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15094",
+      "ref": "C-15094",
+      "label": "Host says about 12 million records were leaked and obtained by the ICIJ",
+      "claim": "The host says the Pandora Papers were a leak of approximately 12 million financial records obtained by the International Consortium of Investigative Journalists.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11415",
+        "N-11416"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:17:14",
+      "investigative_direction": "ICIJ Pandora Papers project page.",
+      "transcript_snippet": "there was essentially a massive leak of approximately 12 million financial records.",
+      "mentions_person_refs": [
+        "N-11416"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15095",
+      "ref": "C-15095",
+      "label": "Host says 35 world leaders and 330 politicians in 91 countries were implicated",
+      "claim": "The host says the files implicated 35 current and former world leaders and more than 330 politicians and public officials across 91 countries.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11415",
+        "N-11416"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:17:42",
+      "investigative_direction": "ICIJ Pandora Papers summary figures.",
+      "transcript_snippet": "35 current at the time and former world leaders were implicated.",
+      "mentions_person_refs": [
+        "N-11416"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15096",
+      "ref": "C-15096",
+      "label": "Host says the ICIJ estimated $6 to $32 trillion held offshore",
+      "claim": "The host says the ICIJ estimated at the time that between 6 and 32 trillion dollars was held in offshore accounts.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11415",
+        "N-11416"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:18:38",
+      "investigative_direction": "ICIJ published estimate of offshore holdings.",
+      "transcript_snippet": "was anywhere between 6 and 32 trillion dollars.",
+      "mentions_person_refs": [
+        "N-11416"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15097",
+      "ref": "C-15097",
+      "label": "Host names Cindy Jackson as the Pandora Papers registered agent used for Clip It LLC",
+      "claim": "The host says a woman named for helping set up virtually untraceable LLCs was Cindy Jackson of Wyoming, the same registered agent Tabuns used for Clip It LLC.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11414",
+        "N-11415"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:18:58",
+      "investigative_direction": "Clip It LLC Wyoming filing showing the registered agent name.",
+      "transcript_snippet": "one woman who was named for helping to set up these virtually untraceable LLCs was a woman named Cindy Jackson from Wyoming, the same registered agent that our boy Matiss is going to turn to for Clip It LLC.",
+      "mentions_person_refs": [
+        "N-951",
+        "N-950"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15098",
+      "ref": "C-15098",
+      "label": "Host shows the 2022 article \"The gatekeepers who help open America to oligarchs and scammers\"",
+      "claim": "The host says Cindy Jackson was mentioned in 2022 in an article on the Pandora Papers headlined \"The gatekeepers who help open America to oligarchs and scammers\", and reads its description of her clapboard house.",
+      "anchored_artifacts": [
+        "A-3364.1"
+      ],
+      "related_nodes": [
+        "N-11415"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:19:15",
+      "investigative_direction": "The ICIJ / partner article with that headline.",
+      "transcript_snippet": "The gatekeepers who help open America to oligarchs and scammers.",
+      "mentions_person_refs": [
+        "N-951"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15099",
+      "ref": "C-15099",
+      "label": "Article says Jackson was gatekeeper for more than 350 companies",
+      "claim": "Per the article the host shows, Cindy Jackson, then 77, was the official gatekeeper (registered agent) for more than 350 companies operating in the United States and around the world.",
+      "anchored_artifacts": [
+        "A-3364.1"
+      ],
+      "related_nodes": [
+        "N-11415"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:19:49",
+      "investigative_direction": "Article text; compare with the host's \"nearly 3,000 businesses\" figure.",
+      "transcript_snippet": "year-old Cindy Jackson is the official gatekeeper for more than 350 companies that operate in the United States and around the world.",
+      "mentions_person_refs": [
+        "N-951"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15100",
+      "ref": "C-15100",
+      "label": "Article says Jackson represented companies tied to a convicted lawyer, a felon and a Ukrainian tycoon, including Ferrous LLC",
+      "claim": "Per the article the host shows, Jackson represented companies tied to a disbarred lawyer convicted of pimping and pandering, a felon who defrauded investors and a Ukrainian tycoon, and in 2016 became registered agent for Ferrous LLC, linked to Igor Kolomoisky.",
+      "anchored_artifacts": [
+        "A-3364.1"
+      ],
+      "related_nodes": [
+        "N-11415"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:20:30",
+      "investigative_direction": "Wyoming filings for Ferrous LLC; article sourcing.",
+      "transcript_snippet": "In 2016, Jackson became the registered agent for Ferrous LLC, a Wyoming company linked to a Ukrainian oligarch",
+      "mentions_person_refs": [
+        "N-951",
+        "N-952"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15101",
+      "ref": "C-15101",
+      "label": "Host says Kolomoisky is an Israeli-Ukrainian billionaire with Chabad ties",
+      "claim": "The host says Igor Kolomoisky is an Israeli-Ukrainian billionaire with ties to Chabad-Lubavitch.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11359"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:21:02",
+      "investigative_direction": "Kolomoisky citizenship and community affiliations in public reporting.",
+      "transcript_snippet": "Just like an Israeli-Ukrainian billionaire ties to the Chabad-Lubavitch.",
+      "mentions_person_refs": [
+        "N-952"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15102",
+      "ref": "C-15102",
+      "label": "Host says Kolomoisky funded Zelensky into power and nationalized bank money went missing",
+      "claim": "The host says Kolomoisky funded Volodymyr Zelensky into power, and that the private bank was then nationalized and money went missing.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:21:15",
+      "investigative_direction": "Reporting on PrivatBank nationalization and Kolomoisky's media support for Zelensky.",
+      "transcript_snippet": "He's the person that put uh Zelensky into power, just so you know. Like funded him into power and then nationalized the private bank and then money went missing.",
+      "mentions_person_refs": [
+        "N-952",
+        "N-710"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15103",
+      "ref": "C-15103",
+      "label": "Host says Tabuns says the site has been up for one year",
+      "claim": "The host says the website launched just in time for the Charlie Kirk assassination and that, according to Tabuns, it has been up for one year.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10880"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:21:58",
+      "investigative_direction": "Domain registration and archive history of the site.",
+      "transcript_snippet": "And um according to him, he says it's been up for 1 year.",
+      "supports_claim_refs": [
+        "C-10603"
+      ],
+      "mentions_person_refs": [
+        "N-950"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15104",
+      "ref": "C-15104",
+      "label": "Host says one of the first clients was a friend of Erika marketing her five days after the assassination",
+      "claim": "The host says one of the first clients on the site was a close friend of Erika Kirk, marketing videos of her five days after Charlie's assassination.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10880",
+        "N-10891"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:22:05",
+      "investigative_direction": "Monster Lab client list and campaign start dates.",
+      "transcript_snippet": "one of his first clients on this monster website is going to be a dear friend of America's favorite widow.",
+      "supports_claim_refs": [
+        "C-3691"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-352"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15105",
+      "ref": "C-15105",
+      "label": "Host says Elephant Clipping became the go-to for Shapiro and Crowder",
+      "claim": "The host says Elephant Clipping grew to become the go-to for people like Ben Shapiro and Steven Crowder, whom she mocks as certain Tyler Robinson killed Charlie Kirk.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10881"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:22:35",
+      "investigative_direction": "Monster Lab campaign listings naming Shapiro or Crowder.",
+      "transcript_snippet": "Elephant Clipping is going to become the go-to for people like Ben Shapiro, Steven Crowder, and many others",
+      "mentions_person_refs": [
+        "N-97",
+        "N-259",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15106",
+      "ref": "C-15106",
+      "label": "Host says she confirmed Chief Jeff Long has resigned",
+      "claim": "The host says she received a flurry of emails from people who work at UVU and confirmed, by contacting them, that Chief Jeff Long has resigned; she says she does not know whether he resigned willingly or was forced out.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012",
+        "N-11417"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:27:02",
+      "investigative_direction": "UVU announcement or personnel records on Long's departure.",
+      "transcript_snippet": "I received a flurry of emails last night from people who work at UVU informing me that the rumor was, which I was able to confirm by getting in touch with these individuals, that Chief Jeff Long has resigned.",
+      "mentions_person_refs": [
+        "N-271"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15107",
+      "ref": "C-15107",
+      "label": "Host says TPUSA and affiliates wrongly blamed Long for a year",
+      "claim": "The host says the after-action report showed how Turning Point USA and its affiliates wrongfully blamed Jeff Long for a year.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10839"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:27:35",
+      "investigative_direction": "TPUSA public statements on Long compared with the independent review.",
+      "transcript_snippet": "learned about how effectively Turning Point USA and their affiliates were blaming wrongfully Jeff Long for a year of his life.",
+      "supports_claim_refs": [
+        "C-9240"
+      ],
+      "mentions_person_refs": [
+        "N-271"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15108",
+      "ref": "C-15108",
+      "label": "Host says the public was led to believe the message was sent to Harpole",
+      "claim": "The host alleges it was misrepresented to the public that the text message was sent to Brian Harpole and that it concerned the Losee Center rooftop, citing Harpole's appearance with Shawn Ryan in November.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10356"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:28:00",
+      "investigative_direction": "Original text thread between Dan Flood and Chief Long.",
+      "transcript_snippet": "making the public believe that the message was sent to Brian Harpole. That's A.",
+      "mentions_person_refs": [
+        "N-266",
+        "N-224",
+        "N-271"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15109",
+      "ref": "C-15109",
+      "label": "Harpole says in a clip they have correspondence with the chief from the Monday before",
+      "claim": "In a clip the host plays from the Shawn Ryan interview, Brian Harpole says they have correspondence with the school's police chief from the Monday before Charlie was killed and that the chief will not stand up like a man.",
+      "anchored_artifacts": [
+        "A-3365.1"
+      ],
+      "related_nodes": [
+        "N-10681"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:28:25",
+      "investigative_direction": "Full Shawn Ryan Show episode and text timestamps.",
+      "transcript_snippet": "We have some correspondence with the chief of the school uh on that day, on Monday before Charlie was killed.",
+      "mentions_person_refs": [
+        "N-266",
+        "N-224",
+        "N-271"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15110",
+      "ref": "C-15110",
+      "label": "Harpole reads the message about student roof access near the event",
+      "claim": "In the clip, Harpole reads a message to the chief saying there is student roof access close to where Charlie would be set up, describing staircases at the Sorensen Center.",
+      "anchored_artifacts": [
+        "A-3365.1"
+      ],
+      "related_nodes": [
+        "N-10681"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:28:58",
+      "investigative_direction": "Original text message and building layout.",
+      "transcript_snippet": "there is a student roof access pretty close to where CK will be set up at the Utah Valley.",
+      "mentions_person_refs": [
+        "N-266",
+        "N-271"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15111",
+      "ref": "C-15111",
+      "label": "Harpole says the chief's last reply was \"I got you covered\"",
+      "claim": "In the clip, Harpole says the chief's last message was \"I got you covered\", asking \"What else am I to do?\"",
+      "anchored_artifacts": [
+        "A-3365.1"
+      ],
+      "related_nodes": [
+        "N-10681"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:29:40",
+      "investigative_direction": "Text thread showing the reply and its sender and recipient.",
+      "transcript_snippet": "He comes back and his last correspondence was, \"I got you covered.\" What else am I to do?",
+      "mentions_person_refs": [
+        "N-266",
+        "N-271"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15112",
+      "ref": "C-15112",
+      "label": "Host says the independent review confirmed Harpole misrepresented things",
+      "claim": "The host says the UVU independent review confirmed what she had said, that Brian Harpole was severely misrepresenting things.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10839",
+        "N-10862",
+        "N-10356"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:30:15",
+      "investigative_direction": "Independent review passages on the text exchange.",
+      "transcript_snippet": "Now that we have the UVU independent review and it confirmed what I told you guys, which was that Brian Harpool was severely misrepresenting things.",
+      "mentions_person_refs": [
+        "N-266"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15113",
+      "ref": "C-15113",
+      "label": "Host says Dan Flood has not spoken about the message",
+      "claim": "The host asks why Dan Flood would give Harpole the message and allow him to misrepresent it, noting \"we haven't heard from Dan Flood\".",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10356"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:30:38",
+      "investigative_direction": "Any public statement by Dan Flood.",
+      "transcript_snippet": "Why would Dan Flood give him this message and be okay, seemingly okay, we haven't heard from Dan Flood",
+      "mentions_person_refs": [
+        "N-270",
+        "N-266"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15114",
+      "ref": "C-15114",
+      "label": "Host says the official account is that Erika did not know of threats the night before",
+      "claim": "The host says the message the public has been given is that Erika did not know about the threats the night before, and asks whether she conducted any internal investigation.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10340"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:31:05",
+      "investigative_direction": "Erika Kirk's statements on prior threats; TPUSA internal review.",
+      "transcript_snippet": "That's That's the message that we've been told. She didn't know about the threats the night before.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15115",
+      "ref": "C-15115",
+      "label": "Host says Turek gave conflicting accounts of when he got the text",
+      "claim": "The host says Frank Turek said he got the text message while he was in the hospital and also said it was a couple of days after.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:31:20",
+      "investigative_direction": "Turek's recorded statements on when he received the message.",
+      "transcript_snippet": "Frank Turek apparently got the text message he said while he was in the hospital. He also said it was a couple of days after.",
+      "mentions_person_refs": [
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15116",
+      "ref": "C-15116",
+      "label": "Host says Kolvet blamed Long after the Kirk family filed intent to sue",
+      "claim": "The host says Andrew Kolvet, a year on, threw dirt on Jeff Long's name on his platform after the Kirk family filed their intent to sue.",
+      "anchored_artifacts": [
+        "A-3366.1"
+      ],
+      "related_nodes": [
+        "N-11087"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:31:38",
+      "investigative_direction": "Date of the Kolvet segment versus the notice of intent filing date.",
+      "transcript_snippet": "Andrew Kolvet still on his platform threw dirt on Jeff Long's name.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-271"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15117",
+      "ref": "C-15117",
+      "label": "Kolvet says in a clip that Long's \"I got you covered\" was not the case",
+      "claim": "In a clip the host plays, introduced as Andrew Kolvet, the speaker reads the TPUSA security text to \"Chief Long\" and his reply \"I got you covered\", saying that was obviously not the case and asking why the rooftop was left unguarded.",
+      "anchored_artifacts": [
+        "A-3366.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:32:18",
+      "investigative_direction": "Full Kolvet segment; text thread context on which roof was meant.",
+      "transcript_snippet": "Chief Long texted, \"I got you covered.\" Which obviously we know was not the case.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-271"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15118",
+      "ref": "C-15118",
+      "label": "Host alleges TPUSA knew what the texts referred to and pretended otherwise for a year",
+      "claim": "The host alleges that the people employing Dan Flood had access to the messages and knew what they referred to, but pretended otherwise to the public for over a year; she says Long could meet the reckless disregard standard.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:33:10",
+      "investigative_direction": "TPUSA internal access to the Flood text thread; dates of public statements.",
+      "transcript_snippet": "They knew exactly what was being referred to in those text messages, and they pretended they didn't for over a year to the public.",
+      "mentions_person_refs": [
+        "N-271",
+        "N-270"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15119",
+      "ref": "C-15119",
+      "label": "Host says Long was harassed and asks whether he will sue",
+      "claim": "The host says Jeff Long was harassed over the misrepresentation and asks whether he is going to sue.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11417"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:33:25",
+      "investigative_direction": "Any legal filing by Long.",
+      "transcript_snippet": "And Jeff Long was harassed for this. So, the question is is he going to sue?",
+      "mentions_person_refs": [
+        "N-271",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15120",
+      "ref": "C-15120",
+      "label": "Host says TPUSA controlled the tickets and told Long 600 people",
+      "claim": "The host says TPUSA controlled the tickets and told Long there would be 600 people without updates, and that Long called in more officers when he realized more people had come.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-11215"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:33:38",
+      "investigative_direction": "Independent review on ticket counts and staffing changes on September 10.",
+      "transcript_snippet": "we were controlling the tickets, and we told him there was going to be 600 people.",
+      "supports_claim_refs": [
+        "C-9244"
+      ],
+      "mentions_person_refs": [
+        "N-271"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15121",
+      "ref": "C-15121",
+      "label": "Host says Long called in more officers on the day",
+      "claim": "The host says Jeff Long did a lot to correct course on September 10 and called in more officers when he realized more people were attending, which she says the report reflects.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10839"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:33:50",
+      "investigative_direction": "Independent review on UVU PD staffing adjustments.",
+      "transcript_snippet": "Jeff Long is the one person who did a lot to try to correct course on the day when he realized there was more people. He called in more guys.",
+      "mentions_person_refs": [
+        "N-271"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15122",
+      "ref": "C-15122",
+      "label": "Host says Harpole is suing her",
+      "claim": "The host says Brian Harpole is suing her while, she alleges, defaming someone else.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:34:00",
+      "investigative_direction": "Harpole v. Owens court docket.",
+      "transcript_snippet": "the audacity of the gaslight Brian Harpole suing me as he defames someone else.",
+      "mentions_person_refs": [
+        "N-266",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15123",
+      "ref": "C-15123",
+      "label": "Host says Robin Ebmeyer is resigning or has resigned",
+      "claim": "The host says a second person she has learned is resigning or has resigned is Robin Ebmeyer (transcribed \"Ebmyer\"), adding she does not know the circumstances.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012",
+        "N-11417"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:34:18",
+      "investigative_direction": "UVU personnel records or announcement.",
+      "transcript_snippet": "A second person who I've learned is resigning or has resigned.",
+      "mentions_person_refs": [
+        "N-751"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15124",
+      "ref": "C-15124",
+      "label": "Host identifies Ebmeyer as UVU emergency management director",
+      "claim": "The host says Robin Ebmeyer is or was UVU's emergency management director.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:34:30",
+      "investigative_direction": "UVU staff directory.",
+      "transcript_snippet": "that is the UVU emergency management director or was the UVU emergency management director.",
+      "mentions_person_refs": [
+        "N-751"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15125",
+      "ref": "C-15125",
+      "label": "Review says Ebmeyer was at the meeting where Crofts insisted on an outdoor venue",
+      "claim": "The host says the independent review states Robin Ebmeyer was present at the major events committee meeting where Maycee Crofts insisted on holding the event outside, and that Ebmeyer expressed it was not a good idea.",
+      "anchored_artifacts": [
+        "A-3367.1"
+      ],
+      "related_nodes": [
+        "N-10839"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:34:42",
+      "investigative_direction": "Independent review section on the major events committee meeting.",
+      "transcript_snippet": "The independent review informed us that Robin uh was present at the major events committee meeting that where Maycee Crofts insisted on them being outside.",
+      "mentions_person_refs": [
+        "N-751",
+        "N-8"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15126",
+      "ref": "C-15126",
+      "label": "Review says Crofts insisted on the courtyard and preferred TPUSA ticketing via Phoenix",
+      "claim": "Per the independent review passage the host reads, Crofts insisted on the fountain courtyard because Charlie had spoken on campus before and TPUSA knew the location, and preferred TPUSA manage online ticketing through its Phoenix national office.",
+      "anchored_artifacts": [
+        "A-3367.1"
+      ],
+      "related_nodes": [
+        "N-10839",
+        "N-11215"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:35:03",
+      "investigative_direction": "Independent review text and meeting minutes.",
+      "transcript_snippet": "Crofts insisted on the use of the fountain courtyard location because Charlie Kirk had previously spoken on campus and TPUSA was familiar with the location.",
+      "mentions_person_refs": [
+        "N-8",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15127",
+      "ref": "C-15127",
+      "label": "Review says committee members including Ebmeyer kept expressing reservations",
+      "claim": "Per the review passage the host reads, some committee members continued to express reservations, including Robin Ebmeyer, UVU's director of emergency management and safety.",
+      "anchored_artifacts": [
+        "A-3367.1"
+      ],
+      "related_nodes": [
+        "N-10839"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:35:18",
+      "investigative_direction": "Independent review text.",
+      "transcript_snippet": "some of the MEAC members continued to express reservations including Robin Ebmeyer, UVU's director of emergency management and safety.",
+      "mentions_person_refs": [
+        "N-751",
+        "N-8"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15128",
+      "ref": "C-15128",
+      "label": "Review says Ebmeyer was absent on September 10 on a pre-scheduled vacation",
+      "claim": "The host says page 73 of the review states Ebmeyer was absent from the university on September 10 on a pre-scheduled vacation, which the review said could have contributed to confusion in the emergency response.",
+      "anchored_artifacts": [
+        "A-3367.2"
+      ],
+      "related_nodes": [
+        "N-10839"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:35:34",
+      "investigative_direction": "Independent review page 73.",
+      "transcript_snippet": "Robin Ebmeyer was actually absent from the university on September 10th.",
+      "mentions_person_refs": [
+        "N-751"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15129",
+      "ref": "C-15129",
+      "label": "Host corrects that Ebmeyer resigned rather than was let go",
+      "claim": "The host corrects herself that she should not say Ebmeyer was let go, saying she has heard Ebmeyer resigned, and wonders whether the resignations were forced.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11417"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:36:18",
+      "investigative_direction": "UVU personnel records on the nature of the departures.",
+      "transcript_snippet": "Sorry, I shouldn't say Robin Ebmeyer I let go. I've heard Robin Ebmeyer resigned.",
+      "mentions_person_refs": [
+        "N-751",
+        "N-271"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15130",
+      "ref": "C-15130",
+      "label": "Host says her UVU sources believe both were wronged",
+      "claim": "The host says the general mood, according to her UVU sources, is that both Long and Ebmeyer were wronged in some capacity and that staff dislike the university's direction on the assassination.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012",
+        "N-11417"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:36:55",
+      "investigative_direction": "Interviews with UVU staff.",
+      "transcript_snippet": "according to my UVU sources, is that both of these individuals have been wronged in some capacity.",
+      "mentions_person_refs": [
+        "N-271",
+        "N-751"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15131",
+      "ref": "C-15131",
+      "label": "Loomer tweet says an NYC DMV card reader showed a Palestinian flag on October 7",
+      "claim": "Per the Laura Loomer post the host shows, a photo from a New York City DMV showed a credit card machine with the Palestinian flag as its screensaver on October 7th, which Loomer blamed on Mamdani.",
+      "anchored_artifacts": [
+        "A-3368.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:37:55",
+      "investigative_direction": "The original photo and the card terminal's standard display.",
+      "transcript_snippet": "Why does the credit card machine at the DMV in Mamdani's, New York City, have the Palestinian flag as the screensaver on October 7th?",
+      "mentions_person_refs": [
+        "N-60",
+        "N-223"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15132",
+      "ref": "C-15132",
+      "label": "Host says the screen shows card-reader accept and deny colors",
+      "claim": "The host says the screen shows the typical red and green accept or deny colors of a card reader, not the Palestinian flag.",
+      "anchored_artifacts": [
+        "A-3368.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:38:30",
+      "investigative_direction": "Terminal model and its idle screen design.",
+      "transcript_snippet": "Typically, you get the red and the green accept or deny colors, okay?",
+      "mentions_person_refs": [
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15133",
+      "ref": "C-15133",
+      "label": "Gary Melton replies that following Ian Carroll says all he needs to know",
+      "claim": "Per the X exchange the host shows, Gary Melton of Paramount Tactical replied to a critic, \"You follow Ian Carroll. Says all I need to know about you.\"",
+      "anchored_artifacts": [
+        "A-3369.1"
+      ],
+      "related_nodes": [
+        "N-10899"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:40:08",
+      "investigative_direction": "The X thread.",
+      "transcript_snippet": "Gary Melton replies, \"You follow Ian Carroll. Says all I need to know about you.\"",
+      "mentions_person_refs": [
+        "N-615",
+        "N-130"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15134",
+      "ref": "C-15134",
+      "label": "Ian Carroll replies that Melton follows him",
+      "claim": "Per the exchange, Ian Carroll replied, \"Gary, you follow me, bro.\"",
+      "anchored_artifacts": [
+        "A-3369.1"
+      ],
+      "related_nodes": [
+        "N-10899"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:40:20",
+      "investigative_direction": "The X thread and follow lists.",
+      "transcript_snippet": "Ian comes back with, \"Gary, you follow me, bro.\"",
+      "mentions_person_refs": [
+        "N-130",
+        "N-615"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15135",
+      "ref": "C-15135",
+      "label": "Melton says he will fix it and has Carroll's phone number",
+      "claim": "Per the exchange, Melton replied that he would fix that, that it was from before he realized Carroll was a liar and propagandist, and that he has Carroll's phone number too.",
+      "anchored_artifacts": [
+        "A-3369.1"
+      ],
+      "related_nodes": [
+        "N-10899"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:40:40",
+      "investigative_direction": "The X thread.",
+      "transcript_snippet": "I have your phone number, too. Doesn't mean I'd use it.",
+      "mentions_person_refs": [
+        "N-615",
+        "N-130"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15136",
+      "ref": "C-15136",
+      "label": "Host cites Vanity Fair saying the sun revolved around Charlie",
+      "claim": "The host says, citing the Vanity Fair article, that at TPUSA the sun revolved around Charlie, and that Turning Point USA 1.0 is done.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10864"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:40:55",
+      "investigative_direction": "Vanity Fair profile text.",
+      "transcript_snippet": "The as the Vanity Fair article pointed out, the sun sort of revolved around Charlie there.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15137",
+      "ref": "C-15137",
+      "label": "Host says she is not funded by Qatari money",
+      "claim": "The host denies being funded by Qatari money and asks who funds her critics.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:44:05",
+      "investigative_direction": "Show ownership and revenue sources.",
+      "transcript_snippet": "We are not funded by Qatari money.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15138",
+      "ref": "C-15138",
+      "label": "Host says she does not use paid foreign clippers",
+      "claim": "The host says she pays nothing in advertising, does not use clippers in foreign countries to promote the show, and that anyone clipping the show does so organically.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10883"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:44:10",
+      "investigative_direction": "Show marketing spend; clipping campaign listings naming the host's show.",
+      "transcript_snippet": "We don't use people and clippers in foreign countries to try to make the show popular. We've never done that.",
+      "supports_claim_refs": [
+        "C-10617"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15139",
+      "ref": "C-15139",
+      "label": "Host says the Monster Lab block is a sign they are onto something",
+      "claim": "The host says that when Blake Neff freaks out and America-focused websites are blocked in America, her team is onto something.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11413"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:44:38",
+      "investigative_direction": "Timing of the U.S. block relative to the prior episode.",
+      "transcript_snippet": "When web starts start websites start being taken down or rather um blocked in America even though they are America-focused, we're we are onto something.",
+      "mentions_person_refs": [
+        "N-159"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15140",
+      "ref": "C-15140",
+      "label": "Host says she believes Tabuns is working on behalf of someone else",
+      "claim": "The host says she does not believe Tabuns' come-up story and thinks he is working on behalf of someone else.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10880"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:44:50",
+      "investigative_direction": "Clip It LLC beneficial ownership and funding sources.",
+      "transcript_snippet": "I think there's something else going on and I think that he is working on behalf of someone else.",
+      "mentions_person_refs": [
+        "N-950"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15141",
+      "ref": "C-15141",
+      "label": "DIA: Host asks for tips on Tabuns",
+      "claim": "The host asks anyone who knows more about Tabuns to email the show at the More tips at candaceowens.com address.",
+      "anchored_artifacts": [
+        "A-3371.1"
+      ],
+      "related_nodes": [
+        "N-10880"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:45:02",
+      "investigative_direction": "Tips received about Tabuns and Clip It LLC.",
+      "transcript_snippet": "So I will say if you uh know anything more about Matiss, please email us. More tips at candaceowens.com.",
+      "mentions_person_refs": [
+        "N-950"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15142",
+      "ref": "C-15142",
+      "label": "Host says per the Atlantic the campaign began September 15",
+      "claim": "Responding to a viewer comment, the host says that according to The Atlantic the paid campaign began on September 15.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10889",
+        "N-10891",
+        "N-10881"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:45:22",
+      "investigative_direction": "The Atlantic article and drive upload timestamps.",
+      "transcript_snippet": "we can confirm that campaign um did begin according to The Atlantic again um on September 15th.",
+      "supports_claim_refs": [
+        "C-3688"
+      ],
+      "mentions_person_refs": [
+        "N-10891",
+        "N-10881"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15143",
+      "ref": "C-15143",
+      "label": "Host says Erika gave her kids to Rob McCoy's wife while calling donors",
+      "claim": "The host lists what she calls strange behavior: Erika being appointed too fast, approving books being printed too fast, and giving her kids to Rob McCoy's wife while making calls to donors.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10891"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:45:50",
+      "investigative_direction": "Accounts of Erika Kirk's activities in the days after September 10, 2025.",
+      "transcript_snippet": "giving their kids to Rob McCoy's wife as they make calls to donors, and to have clips sent via a Google Drive.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-17"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15144",
+      "ref": "C-15144",
+      "label": "Host recalls TPUSA opening a Las Vegas office with Erika, she thinks in March",
+      "claim": "The host says she thinks it was in March that TPUSA had Erika open a Las Vegas office, though she is unsure of the date.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10887",
+        "N-11418"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:46:10",
+      "investigative_direction": "TPUSA announcements of a Las Vegas office and its date.",
+      "transcript_snippet": "I think it was in March. They had Erika opening their Vegas office, right?",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15145",
+      "ref": "C-15145",
+      "label": "Host says Tyler Bowyer was allegedly telling people TPUSA would get into housing",
+      "claim": "The host says she believes there will be a housing angle, as Tyler Bowyer was allegedly telling people that Turning Point is going to get into housing.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:46:40",
+      "investigative_direction": "Sources of the Bowyer housing remark; TPUSA real estate filings.",
+      "transcript_snippet": "Tyler Bowyer was allegedly telling prepping people that Turning Point is going to get into housing.",
+      "mentions_person_refs": [
+        "N-11"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15146",
+      "ref": "C-15146",
+      "label": "A viewer comment dates Kolvet's \"processing their guilt\" remark to September 18, 2025",
+      "claim": "A viewer comment the host reads says that on September 18, 2025 Andrew Kolvet said \"They are all processing their guilt in different ways\" and Megyn Kelly asked if he meant grief.",
+      "anchored_artifacts": [
+        "A-3370.1"
+      ],
+      "related_nodes": [
+        "N-11412"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:47:26",
+      "investigative_direction": "The Megyn Kelly Show episode from September 18, 2025.",
+      "transcript_snippet": "This Blake slip reminds me of September 18th, 2025 when Andrew Kolvet said, 'They are all processing their guilt in different ways.'",
+      "mentions_person_refs": [
+        "N-14",
+        "N-46"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15147",
+      "ref": "C-15147",
+      "label": "A viewer comment says \"grieving widow\" has been trademarked since September 9, 2025",
+      "claim": "A viewer comment the host reads says \"grieving widow\" has been a registered trademark since September 9, 2025; the host says she does not know whether the viewer is joking and wonders who owns it.",
+      "anchored_artifacts": [
+        "A-3370.2"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:49:02",
+      "investigative_direction": "USPTO search for \"grieving widow\" filings and their dates.",
+      "transcript_snippet": "Grieving widow is a registered trademark since No way. Since November Sorry, since um September 9th, 2025."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15148",
+      "ref": "C-15148",
+      "label": "A viewer comment quotes Erika as saying \"text me the names of the heavy hitters\"",
+      "claim": "A viewer comment the host reads quotes Erika as saying \"text me the names of the heavy hitters\" and says she put on a sad face for donations.",
+      "anchored_artifacts": [
+        "A-3370.3"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:49:32",
+      "investigative_direction": "Source and context of the quoted Erika Kirk remark.",
+      "transcript_snippet": "Erika quote text me the names of the heavy hitters.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15149",
+      "ref": "C-15149",
+      "label": "Host says Erika's ultimate goal may have been the White House via Charlie",
+      "claim": "The host says she thinks Erika's ultimate goal might have been getting into the White House, and her closest path was through Charlie.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:50:00",
+      "investigative_direction": "Erika Kirk's public statements on political ambitions.",
+      "transcript_snippet": "her closest shot at getting into the White House, which I think might have been her ultimate goal, was via her husband, Charlie.",
+      "supports_claim_refs": [
+        "C-10629"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15150",
+      "ref": "C-15150",
+      "label": "Host says America built a base in Romania because of corrupt leaders",
+      "claim": "Responding to a Romanian viewer, the host says she has been to Romania, that many of its leaders are corrupt, and that is why America built a base there.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:51:12",
+      "investigative_direction": "U.S. military presence in Romania and its stated rationale.",
+      "transcript_snippet": "There's a lot of leaders are corrupt and that's why people go there. That is why America built a base there, actually."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-15151",
+      "ref": "C-15151",
+      "label": "Host says she is late in pregnancy and wearing George's clothes",
+      "claim": "The host says she plans a pregnancy merch line, is wearing all of George's clothes because nothing else fits, and hopes the baby comes soon.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:52:28",
+      "investigative_direction": "Later episodes announcing the birth.",
+      "transcript_snippet": "I basically I'm wearing all of George's clothes right now. It's the only thing that fits me.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-30"
+      ]
+    }
+  ],
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-147",
+      "ref": "M-147",
+      "canonical_term": "Crash Out",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 162,
+          "video_timestamp": "00:00:25",
+          "speaker_node_ref": "N-3",
+          "quote": "He is crashing out after our episode yesterday.",
+          "context": "Host opens on Blake Neff's reaction to the Monster Lab episode.",
+          "confidence": "high",
+          "tags": [
+            "blake-neff",
+            "monster-lab"
+          ]
+        },
+        {
+          "episode": 162,
+          "video_timestamp": "00:23:35",
+          "speaker_node_ref": "N-3",
+          "quote": "Blake Neff is crashing out. Why?",
+          "context": "Host links Neff's outburst to the U.S. block of the site.",
+          "confidence": "high",
+          "tags": [
+            "blake-neff",
+            "monster-lab"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-231",
+      "ref": "M-231",
+      "canonical_term": "Blakey the Neff",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 162,
+          "video_timestamp": "00:01:31",
+          "speaker_node_ref": "N-3",
+          "quote": "No, Blakey, no. No.",
+          "context": "Host opens the segment on Neff's X space slip.",
+          "confidence": "medium",
+          "tags": [
+            "blake-neff"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-355",
+      "ref": "M-355",
+      "canonical_term": "You Make the Rules, We Follow Them",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 162,
+          "video_timestamp": "00:01:33",
+          "speaker_node_ref": "N-3",
+          "quote": "I do not make the rules. I don't have that kind of power. And what I do know is I have to follow them.",
+          "context": "Host turns critics' practice of clipping her verbal slips back on Neff's \"murdering Charlie\" slip.",
+          "confidence": "medium",
+          "tags": [
+            "blake-neff",
+            "freudian-slip"
+          ]
+        },
+        {
+          "episode": 162,
+          "video_timestamp": "00:47:40",
+          "speaker_node_ref": "N-3",
+          "quote": "You guys make the rules. We follow them.",
+          "context": "Host responds to a viewer comment on Kolvet's \"guilt\" remark.",
+          "confidence": "medium",
+          "tags": [
+            "andrew-kolvet",
+            "freudian-slip"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-65",
+      "ref": "M-65",
+      "canonical_term": "Elephant Clipping",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 162,
+          "video_timestamp": "00:01:45",
+          "speaker_node_ref": "N-3",
+          "quote": "I think we should call them elephant clippers from now on",
+          "context": "Host labels critics who clip her slips as elephant clippers.",
+          "confidence": "high",
+          "tags": [
+            "elephant-clipping"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-26",
+      "ref": "M-26",
+      "canonical_term": "Gaslight",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 162,
+          "video_timestamp": "00:04:22",
+          "speaker_node_ref": "N-3",
+          "quote": "They're going to gaslight us. They're trying to gaslight us.",
+          "context": "Host reacts to the X space participants saying Neff meant \"marrying\".",
+          "confidence": "high",
+          "tags": [
+            "blake-neff"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-44",
+      "ref": "M-44",
+      "canonical_term": "It's Giving",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 162,
+          "video_timestamp": "00:08:42",
+          "speaker_node_ref": "N-3",
+          "quote": "It's giving the Sheldon Adelson Sands casino money outright purchasing the presidency vibe.",
+          "context": "Host describes TPUSA's perceived budget and Vegas aesthetic.",
+          "confidence": "high",
+          "tags": [
+            "las-vegas",
+            "tpusa"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-356",
+      "ref": "M-356",
+      "canonical_term": "High-End Sleaze",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 162,
+          "video_timestamp": "00:09:12",
+          "speaker_node_ref": "N-3",
+          "quote": "This is high-end sleaze and that is how I would describe Turning Point USA 2.0 under the guidance of Erika Kirk in a nutshell.",
+          "context": "Host characterizes paying clippers through Discord.",
+          "confidence": "high",
+          "tags": [
+            "tpusa",
+            "elephant-clipping"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-162",
+      "ref": "M-162",
+      "canonical_term": "Heaven Focused",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 162,
+          "video_timestamp": "00:09:58",
+          "speaker_node_ref": "N-3",
+          "quote": "I just all I'm just so heaven-focused.",
+          "context": "Host mocks Erika's faith messaging against the clipping campaign.",
+          "confidence": "high",
+          "tags": [
+            "erika-kirk"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-188",
+      "ref": "M-188",
+      "canonical_term": "Overwhelmed by the Evidence",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 162,
+          "video_timestamp": "00:22:53",
+          "speaker_node_ref": "N-3",
+          "quote": "People who are overwhelmed by evidence that Charlie Kirk was murdered by Tyler Robinson who acted alone.",
+          "context": "Host mocks Elephant Clipping clients.",
+          "confidence": "high",
+          "tags": [
+            "tyler-robinson",
+            "elephant-clipping"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-348",
+      "ref": "M-348",
+      "canonical_term": "Lies Have an Expiration Date",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 162,
+          "video_timestamp": "00:23:40",
+          "speaker_node_ref": "N-3",
+          "quote": "the truth does not have an expiration date. Lies very much do have an expiration date.",
+          "context": "Host closes the Monster Lab segment.",
+          "confidence": "high",
+          "tags": [
+            "monster-lab"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-185",
+      "ref": "M-185",
+      "canonical_term": "Amnesia",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 162,
+          "video_timestamp": "00:31:25",
+          "speaker_node_ref": "N-3",
+          "quote": "It's Frank Turek. He has amnesia.",
+          "context": "Host on Turek's conflicting accounts of when he got the text.",
+          "confidence": "high",
+          "tags": [
+            "frank-turek"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-64",
+      "ref": "M-64",
+      "canonical_term": "Audacity of the Gaslight",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 162,
+          "video_timestamp": "00:34:00",
+          "speaker_node_ref": "N-3",
+          "quote": "the audacity the audacity of the gaslight Brian Harpole suing me as he defames someone else.",
+          "context": "Host on Harpole's lawsuit against her.",
+          "confidence": "high",
+          "tags": [
+            "brian-harpole",
+            "lawsuit"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-92",
+      "ref": "M-92",
+      "canonical_term": "Paramount Not So Tactical",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 162,
+          "video_timestamp": "00:39:36",
+          "speaker_node_ref": "N-3",
+          "quote": "Paramount Tactical. Paramount not so tactical.",
+          "context": "Host introduces Gary Melton's exchange with Ian Carroll.",
+          "confidence": "high",
+          "tags": [
+            "gary-melton"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-252",
+      "ref": "M-252",
+      "canonical_term": "When They Freak Out It's a Clue",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 162,
+          "video_timestamp": "00:44:35",
+          "speaker_node_ref": "N-3",
+          "quote": "when Blake Neff starts freaking out, we're getting close to something.",
+          "context": "Host ties Neff's outburst and the site block to being on the right track.",
+          "confidence": "high",
+          "tags": [
+            "blake-neff",
+            "monster-lab"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 162,
+          "video_timestamp": "00:45:02",
+          "speaker_node_ref": "N-3",
+          "quote": "So I will say if you uh know anything more about Matiss, please email us. More tips at candaceowens.com.",
+          "context": "Host asks viewers for tips on Matiss Tabuns.",
+          "confidence": "high",
+          "tags": [
+            "dia",
+            "tips",
+            "monster-lab"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-160",
+      "ref": "M-160",
+      "canonical_term": "Everybody Grieves Differently World Tour",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 162,
+          "video_timestamp": "00:45:45",
+          "speaker_node_ref": "N-3",
+          "quote": "everyone's trying to hypnotize us into believing everyone grieves differently when their husband is publicly assassinated.",
+          "context": "Host lists Erika's conduct after the assassination.",
+          "confidence": "medium",
+          "tags": [
+            "erika-kirk"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-28",
+      "ref": "M-28",
+      "canonical_term": "Christ is King",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 162,
+          "video_timestamp": "00:47:23",
+          "speaker_node_ref": "N-3",
+          "quote": "I totally agree. Christ is king.",
+          "context": "Host responds to a viewer comment.",
+          "confidence": "high",
+          "tags": [
+            "faith"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-74",
+      "ref": "M-74",
+      "canonical_term": "Believe Your Own Eyes",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 162,
+          "video_timestamp": "00:48:25",
+          "speaker_node_ref": "N-3",
+          "quote": "Thank you for teaching us to believe our eyes and not the experts.",
+          "context": "Host reads a viewer comment about trusting one's own instincts.",
+          "confidence": "medium",
+          "tags": [
+            "viewer-comment"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-1",
+      "ref": "M-1",
+      "canonical_term": "Grieving Widow",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 162,
+          "video_timestamp": "00:49:02",
+          "speaker_node_ref": "N-3",
+          "quote": "Grieving widow is a registered trademark since No way.",
+          "context": "Host reads a viewer comment claiming the phrase was trademarked.",
+          "confidence": "medium",
+          "tags": [
+            "erika-kirk",
+            "viewer-comment"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-85",
+      "ref": "M-85",
+      "canonical_term": "Send Blake Some Kit",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 162,
+          "video_timestamp": "00:51:48",
+          "speaker_node_ref": "N-3",
+          "quote": "Candace just send him some merch already.\" I'm I will get on it.",
+          "context": "Host reads a viewer comment urging her to send Neff merch.",
+          "confidence": "high",
+          "tags": [
+            "blake-neff",
+            "merch"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-14",
+      "ref": "M-14",
+      "canonical_term": "Candace Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 162,
+          "video_timestamp": "00:52:15",
+          "speaker_node_ref": "N-3",
+          "quote": "Get that cozy CIA sweatshirt.",
+          "context": "Host plugs merch.",
+          "confidence": "high",
+          "tags": [
+            "merch"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-15",
+      "ref": "M-15",
+      "canonical_term": "We Don't Know But We Know",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 162,
+          "video_timestamp": "00:52:18",
+          "speaker_node_ref": "N-3",
+          "quote": "We don't know no, but we know my favorite.",
+          "context": "Host plugs merch.",
+          "confidence": "medium",
+          "tags": [
+            "merch"
+          ]
+        }
+      ]
+    }
+  ]
+}

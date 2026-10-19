@@ -1842,7 +1842,7 @@ Claim Timestamp: 00:03:56
 
 Claim: The host says Turning Point USA decided to encase Charlie's bloodied microphone as an emotional appeal to donors at its annual Mar-a-Lago event and at AmFest.
 
-Transcript Snippet: they eventually made the terribly crash decision to encase Charlie's bloodied microphone as an emotional appeal to donors at their annual Mara Lago event, also at Amfest.
+Transcript Snippet: they eventually made the terribly crash decision to encase Charlie's bloodied microphone as an emotional appeal to donors at their annual Mar-a-Lago event, also at Amfest.
 
 Anchored Artifacts: 
 Mentions: N-1

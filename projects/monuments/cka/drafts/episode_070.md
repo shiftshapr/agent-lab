@@ -991,7 +991,7 @@ Claim Timestamp: 00:05:03
 
 Claim: The host says Charlie Kirk took a fundraising meeting in Florida with Ike Perlmutter at Mar-a-Lago and did not want her to know about it, which was strange because they always took such meetings together.
 
-Transcript Snippet: Charlie had taken a meeting down in Florida with Ike Perlmutter at Mara Lago. It was a a fundraising meeting.
+Transcript Snippet: Charlie had taken a meeting down in Florida with Ike Perlmutter at Mar-a-Lago. It was a a fundraising meeting.
 
 Anchored Artifacts: 
 Mentions: N-1, N-3, N-734
@@ -1007,7 +1007,7 @@ Claim Timestamp: 00:05:03
 
 Claim: The host says that in an elevator at the Trump Hotel in DC Charlie Kirk told her he had not heard from Ike (Perlmutter) in two weeks, and when she said he had lunch with him at Mar-a-Lago the day before, his face dropped and he tried to explain it away.
 
-Transcript Snippet: Because you had you had lunch with him yesterday at Mara Lago.
+Transcript Snippet: Because you had you had lunch with him yesterday at Mar-a-Lago.
 
 Anchored Artifacts: 
 Mentions: N-1, N-3, N-734

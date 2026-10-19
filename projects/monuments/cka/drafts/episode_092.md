@@ -1613,7 +1613,7 @@ Claim Timestamp: 00:16:56
 
 Claim: The host says Erika Kirk was at the White House over the weekend and at the Mar-a-Lago bridal shower of Bettina Anderson, who is marrying Donald Trump Jr., as evidence that she can show up when she wants to.
 
-Transcript Snippet: She was at Betina Betina at Mara Lago, the one who's marrying Don Trump Jr., she was at her bridal shower.
+Transcript Snippet: She was at Betina Betina at Mar-a-Lago, the one who's marrying Don Trump Jr., she was at her bridal shower.
 
 Anchored Artifacts: 
 Mentions: N-2, N-33, N-889

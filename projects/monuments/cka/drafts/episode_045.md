@@ -942,7 +942,7 @@ Claim Timestamp: 00:12:39
 
 Claim: The host says Turning Point USA made about $40 million at Mar-a-Lago two nights before this episode.
 
-Transcript Snippet: you know they made 40 40 million like two nights ago at Mara Lago
+Transcript Snippet: you know they made 40 40 million like two nights ago at Mar-a-Lago
 
 Anchored Artifacts: 
 Mentions: 

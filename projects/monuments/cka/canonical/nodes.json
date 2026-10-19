@@ -3,8 +3,8 @@
   "updated": "2026-10-08T20:15:25Z",
   "monument": "cka",
   "remap_note": "2026-10-13 (Daveed): ids compacted with no holes and no tombstones. Persons N-1..N-607, topic/org/place N-10000..N-10902; old to new ids in audits/id_compaction_2026-10-13/id_map.csv. Earlier remap history (BoC remap, batches 1-2, catch-up, waves 1-3) is in git history and the audits folders, which keep the ids of their time.",
-  "next_person_id": 949,
-  "next_investigation_id": 11412,
+  "next_person_id": 971,
+  "next_investigation_id": 11445,
   "nodes": {
     "N-1": {
       "canonical_name": "Charlie Kirk",
@@ -173,7 +173,12 @@
         158,
         159,
         160,
-        161
+        161,
+        162,
+        163,
+        164,
+        165,
+        166
       ]
     },
     "N-2": {
@@ -327,7 +332,12 @@
         158,
         159,
         160,
-        161
+        161,
+        162,
+        163,
+        164,
+        165,
+        166
       ]
     },
     "N-3": {
@@ -497,7 +507,12 @@
         158,
         159,
         160,
-        161
+        161,
+        162,
+        163,
+        164,
+        165,
+        166
       ]
     },
     "N-4": {
@@ -533,7 +548,9 @@
         144,
         148,
         159,
-        161
+        161,
+        163,
+        164
       ]
     },
     "N-5": {
@@ -628,7 +645,11 @@
         157,
         159,
         160,
-        161
+        161,
+        163,
+        164,
+        165,
+        166
       ]
     },
     "N-6": {
@@ -708,20 +729,25 @@
         158,
         159,
         160,
-        161
+        161,
+        162,
+        163,
+        164,
+        165,
+        166
       ]
     },
     "N-8": {
       "canonical_name": "Maycee Crofts",
       "type": "person",
-      "aliases": [
-        "Macy Crofts"
-      ],
+      "aliases": [],
       "episodes": [
         39,
         153,
         157,
-        160
+        160,
+        162,
+        165
       ]
     },
     "N-9": {
@@ -788,7 +814,8 @@
         152,
         157,
         159,
-        160
+        160,
+        165
       ]
     },
     "N-10": {
@@ -806,7 +833,8 @@
         157,
         158,
         159,
-        160
+        160,
+        163
       ]
     },
     "N-11": {
@@ -870,7 +898,9 @@
         144,
         151,
         152,
-        157
+        157,
+        162,
+        166
       ]
     },
     "N-12": {
@@ -880,7 +910,8 @@
         "Kip Cross"
       ],
       "episodes": [
-        157
+        157,
+        165
       ]
     },
     "N-13": {
@@ -1024,7 +1055,9 @@
         158,
         159,
         160,
-        161
+        161,
+        162,
+        165
       ]
     },
     "N-15": {
@@ -1063,7 +1096,8 @@
         111,
         112,
         129,
-        133
+        133,
+        166
       ]
     },
     "N-16": {
@@ -1128,7 +1162,9 @@
         129,
         130,
         146,
-        147
+        147,
+        162,
+        163
       ]
     },
     "N-18": {
@@ -1150,7 +1186,8 @@
         156,
         158,
         159,
-        161
+        161,
+        166
       ]
     },
     "N-19": {
@@ -1314,7 +1351,8 @@
       "episodes": [
         154,
         159,
-        160
+        160,
+        164
       ]
     },
     "N-26": {
@@ -1424,7 +1462,8 @@
         150,
         152,
         158,
-        161
+        161,
+        162
       ]
     },
     "N-31": {
@@ -1775,7 +1814,10 @@
         157,
         159,
         160,
-        161
+        161,
+        162,
+        164,
+        166
       ]
     },
     "N-41": {
@@ -1797,7 +1839,10 @@
         90,
         95,
         128,
-        152
+        152,
+        164,
+        165,
+        166
       ]
     },
     "N-42": {
@@ -1923,7 +1968,8 @@
         156,
         157,
         159,
-        161
+        161,
+        162
       ]
     },
     "N-47": {
@@ -1945,7 +1991,8 @@
         122,
         154,
         159,
-        160
+        160,
+        165
       ]
     },
     "N-48": {
@@ -2147,7 +2194,8 @@
         124,
         145,
         152,
-        160
+        160,
+        163
       ]
     },
     "N-59": {
@@ -2199,7 +2247,8 @@
         151,
         153,
         155,
-        160
+        160,
+        162
       ]
     },
     "N-61": {
@@ -2400,7 +2449,8 @@
         157,
         159,
         160,
-        161
+        161,
+        166
       ]
     },
     "N-70": {
@@ -2568,7 +2618,8 @@
         139,
         143,
         159,
-        160
+        160,
+        165
       ]
     },
     "N-83": {
@@ -2604,7 +2655,8 @@
         118,
         157,
         159,
-        160
+        160,
+        165
       ]
     },
     "N-86": {
@@ -2714,7 +2766,8 @@
       "episodes": [
         7,
         26,
-        159
+        159,
+        166
       ]
     },
     "N-96": {
@@ -2783,7 +2836,9 @@
         145,
         146,
         148,
-        161
+        161,
+        162,
+        165
       ]
     },
     "N-98": {
@@ -3153,7 +3208,8 @@
         12,
         13,
         14,
-        87
+        87,
+        164
       ]
     },
     "N-129": {
@@ -3162,7 +3218,8 @@
       "aliases": [],
       "episodes": [
         11,
-        13
+        13,
+        164
       ]
     },
     "N-130": {
@@ -3185,7 +3242,8 @@
         109,
         133,
         142,
-        160
+        160,
+        162
       ]
     },
     "N-131": {
@@ -3212,7 +3270,8 @@
       "aliases": [],
       "episodes": [
         12,
-        14
+        14,
+        164
       ]
     },
     "N-133": {
@@ -3358,7 +3417,10 @@
         80,
         98,
         108,
-        161
+        161,
+        163,
+        164,
+        165
       ]
     },
     "N-147": {
@@ -3569,7 +3631,11 @@
         157,
         158,
         159,
-        161
+        161,
+        162,
+        163,
+        164,
+        165
       ]
     },
     "N-160": {
@@ -3991,7 +4057,10 @@
         157,
         158,
         159,
-        161
+        161,
+        163,
+        164,
+        166
       ]
     },
     "N-191": {
@@ -4431,7 +4500,8 @@
       "aliases": [],
       "episodes": [
         26,
-        28
+        28,
+        162
       ]
     },
     "N-224": {
@@ -4465,7 +4535,10 @@
         149,
         153,
         157,
-        158
+        158,
+        162,
+        163,
+        166
       ]
     },
     "N-225": {
@@ -4838,7 +4911,8 @@
         74,
         141,
         142,
-        161
+        161,
+        162
       ]
     },
     "N-260": {
@@ -4996,7 +5070,12 @@
         158,
         159,
         160,
-        161
+        161,
+        162,
+        163,
+        164,
+        165,
+        166
       ]
     },
     "N-267": {
@@ -5095,7 +5174,9 @@
         153,
         157,
         159,
-        160
+        160,
+        162,
+        163
       ]
     },
     "N-271": {
@@ -5112,7 +5193,9 @@
         154,
         157,
         159,
-        160
+        160,
+        162,
+        163
       ]
     },
     "N-272": {
@@ -5183,7 +5266,10 @@
         75,
         112,
         120,
-        161
+        161,
+        163,
+        164,
+        165
       ]
     },
     "N-278": {
@@ -5246,7 +5332,8 @@
         92,
         96,
         97,
-        105
+        105,
+        164
       ]
     },
     "N-281": {
@@ -5763,7 +5850,9 @@
         154,
         156,
         158,
-        160
+        160,
+        164,
+        166
       ]
     },
     "N-331": {
@@ -5874,7 +5963,8 @@
         117,
         119,
         138,
-        152
+        152,
+        163
       ]
     },
     "N-342": {
@@ -5973,7 +6063,8 @@
         "Matt Servious"
       ],
       "episodes": [
-        161
+        161,
+        162
       ]
     },
     "N-352": {
@@ -5985,7 +6076,8 @@
       ],
       "episodes": [
         130,
-        161
+        161,
+        162
       ]
     },
     "N-353": {
@@ -6196,7 +6288,8 @@
         146,
         147,
         148,
-        152
+        152,
+        163
       ]
     },
     "N-368": {
@@ -7365,7 +7458,8 @@
         135,
         136,
         149,
-        152
+        152,
+        163
       ]
     },
     "N-488": {
@@ -7402,7 +7496,8 @@
         104,
         119,
         130,
-        157
+        157,
+        166
       ]
     },
     "N-490": {
@@ -7430,7 +7525,8 @@
         124,
         132,
         147,
-        149
+        149,
+        163
       ]
     },
     "N-493": {
@@ -7549,7 +7645,8 @@
         129,
         138,
         146,
-        147
+        147,
+        163
       ]
     },
     "N-505": {
@@ -7705,7 +7802,8 @@
         79,
         113,
         117,
-        122
+        122,
+        165
       ]
     },
     "N-521": {
@@ -7794,7 +7892,8 @@
         125,
         133,
         152,
-        159
+        159,
+        165
       ]
     },
     "N-530": {
@@ -8386,7 +8485,8 @@
         118,
         137,
         154,
-        161
+        161,
+        166
       ]
     },
     "N-593": {
@@ -8418,7 +8518,8 @@
         93,
         96,
         102,
-        119
+        119,
+        163
       ]
     },
     "N-596": {
@@ -8448,7 +8549,8 @@
         84,
         85,
         86,
-        114
+        114,
+        164
       ]
     },
     "N-599": {
@@ -8626,7 +8728,8 @@
         100,
         103,
         105,
-        106
+        106,
+        162
       ]
     },
     "N-616": {
@@ -8792,7 +8895,8 @@
       "aliases": [],
       "episodes": [
         106,
-        109
+        109,
+        164
       ]
     },
     "N-633": {
@@ -9529,7 +9633,8 @@
         23,
         24,
         36,
-        132
+        132,
+        162
       ]
     },
     "N-711": {
@@ -9889,7 +9994,8 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        157
+        157,
+        162
       ]
     },
     "N-752": {
@@ -11170,7 +11276,8 @@
       "aliases": [],
       "episodes": [
         149,
-        151
+        151,
+        163
       ]
     },
     "N-898": {
@@ -11179,7 +11286,8 @@
       "aliases": [],
       "episodes": [
         151,
-        155
+        155,
+        166
       ]
     },
     "N-899": {
@@ -11567,7 +11675,12 @@
         154,
         156,
         160,
-        161
+        161,
+        162,
+        163,
+        164,
+        165,
+        166
       ]
     },
     "N-10001": {
@@ -11797,7 +11910,11 @@
         154,
         155,
         157,
-        159
+        159,
+        162,
+        164,
+        165,
+        166
       ]
     },
     "N-10013": {
@@ -11814,7 +11931,8 @@
         135,
         139,
         146,
-        161
+        161,
+        166
       ]
     },
     "N-10014": {
@@ -12102,7 +12220,8 @@
         150,
         152,
         160,
-        161
+        161,
+        165
       ]
     },
     "N-10027": {
@@ -12391,7 +12510,8 @@
         85,
         87,
         122,
-        146
+        146,
+        165
       ]
     },
     "N-10049": {
@@ -12567,7 +12687,9 @@
         10,
         140,
         148,
-        149
+        149,
+        164,
+        166
       ]
     },
     "N-10063": {
@@ -12737,7 +12859,9 @@
         133,
         136,
         157,
-        160
+        160,
+        164,
+        166
       ]
     },
     "N-10075": {
@@ -12760,7 +12884,8 @@
         132,
         133,
         154,
-        159
+        159,
+        165
       ]
     },
     "N-10076": {
@@ -13649,7 +13774,8 @@
         99,
         119,
         146,
-        149
+        149,
+        165
       ]
     },
     "N-10149": {
@@ -14205,7 +14331,8 @@
         146,
         147,
         152,
-        158
+        158,
+        163
       ]
     },
     "N-10199": {
@@ -15059,7 +15186,8 @@
         36,
         97,
         153,
-        157
+        157,
+        163
       ]
     },
     "N-10273": {
@@ -15239,7 +15367,8 @@
         70,
         78,
         122,
-        141
+        141,
+        165
       ]
     },
     "N-10291": {
@@ -15618,7 +15747,8 @@
         146,
         157,
         159,
-        160
+        160,
+        165
       ]
     },
     "N-10325": {
@@ -15779,7 +15909,8 @@
         129,
         140,
         147,
-        152
+        152,
+        163
       ]
     },
     "N-10339": {
@@ -15822,7 +15953,8 @@
         142,
         143,
         144,
-        153
+        153,
+        162
       ]
     },
     "N-10341": {
@@ -16069,7 +16201,8 @@
       "episodes": [
         47,
         153,
-        157
+        157,
+        162
       ]
     },
     "N-10357": {
@@ -16457,7 +16590,8 @@
         104,
         130,
         157,
-        159
+        159,
+        166
       ]
     },
     "N-10389": {
@@ -16772,7 +16906,8 @@
         57,
         75,
         99,
-        150
+        150,
+        165
       ]
     },
     "N-10416": {
@@ -16994,7 +17129,8 @@
         61,
         77,
         133,
-        159
+        159,
+        166
       ]
     },
     "N-10435": {
@@ -17258,7 +17394,8 @@
         110,
         125,
         144,
-        157
+        157,
+        165
       ]
     },
     "N-10457": {
@@ -17990,7 +18127,8 @@
         120,
         121,
         122,
-        125
+        125,
+        165
       ]
     },
     "N-10533": {
@@ -18000,7 +18138,9 @@
       "episodes": [
         78,
         80,
-        154
+        154,
+        165,
+        166
       ]
     },
     "N-10534": {
@@ -18041,7 +18181,9 @@
         120,
         132,
         139,
-        151
+        151,
+        163,
+        164
       ]
     },
     "N-10538": {
@@ -19233,7 +19375,8 @@
         143,
         147,
         151,
-        157
+        157,
+        163
       ]
     },
     "N-10652": {
@@ -19391,7 +19534,8 @@
       "episodes": [
         72,
         94,
-        102
+        102,
+        164
       ]
     },
     "N-10666": {
@@ -19570,7 +19714,9 @@
         125,
         127,
         128,
-        136
+        136,
+        162,
+        163
       ]
     },
     "N-10682": {
@@ -19587,7 +19733,8 @@
       "aliases": [],
       "episodes": [
         40,
-        121
+        121,
+        163
       ]
     },
     "N-10684": {
@@ -19635,7 +19782,8 @@
         134,
         135,
         157,
-        160
+        160,
+        164
       ]
     },
     "N-10688": {
@@ -19649,7 +19797,8 @@
         123,
         135,
         136,
-        149
+        149,
+        164
       ]
     },
     "N-10689": {
@@ -19715,7 +19864,8 @@
         98,
         115,
         121,
-        157
+        157,
+        163
       ]
     },
     "N-10695": {
@@ -19953,7 +20103,9 @@
         137,
         146,
         147,
-        148
+        148,
+        163,
+        164
       ]
     },
     "N-10716": {
@@ -20109,7 +20261,8 @@
         125,
         126,
         127,
-        160
+        160,
+        163
       ]
     },
     "N-10731": {
@@ -20180,7 +20333,8 @@
         136,
         149,
         151,
-        160
+        160,
+        163
       ]
     },
     "N-10738": {
@@ -20447,7 +20601,8 @@
       "aliases": [],
       "episodes": [
         129,
-        135
+        135,
+        163
       ]
     },
     "N-10766": {
@@ -20984,7 +21139,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        147
+        147,
+        163
       ]
     },
     "N-10822": {
@@ -21033,7 +21189,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        151
+        151,
+        166
       ]
     },
     "N-10828": {
@@ -21077,7 +21234,8 @@
         52,
         74,
         117,
-        152
+        152,
+        165
       ]
     },
     "N-10833": {
@@ -21137,7 +21295,11 @@
         157,
         158,
         159,
-        160
+        160,
+        162,
+        163,
+        164,
+        165
       ]
     },
     "N-10840": {
@@ -21153,7 +21315,8 @@
         120,
         153,
         154,
-        157
+        157,
+        163
       ]
     },
     "N-10841": {
@@ -21355,7 +21518,8 @@
         123,
         143,
         157,
-        158
+        158,
+        162
       ]
     },
     "N-10863": {
@@ -21376,7 +21540,9 @@
       "episodes": [
         151,
         158,
-        159
+        159,
+        162,
+        164
       ]
     },
     "N-10865": {
@@ -21462,7 +21628,8 @@
       "episodes": [
         154,
         159,
-        160
+        160,
+        164
       ]
     },
     "N-10873": {
@@ -21481,7 +21648,10 @@
       "aliases": [],
       "episodes": [
         160,
-        161
+        161,
+        163,
+        164,
+        166
       ]
     },
     "N-10875": {
@@ -21535,7 +21705,8 @@
         "Clipson"
       ],
       "episodes": [
-        161
+        161,
+        162
       ]
     },
     "N-10881": {
@@ -21545,7 +21716,9 @@
         "elephant clipping"
       ],
       "episodes": [
-        161
+        161,
+        162,
+        163
       ]
     },
     "N-10882": {
@@ -21556,7 +21729,8 @@
         "Enclave Key"
       ],
       "episodes": [
-        161
+        161,
+        162
       ]
     },
     "N-10883": {
@@ -21567,7 +21741,8 @@
       ],
       "episodes": [
         55,
-        161
+        161,
+        162
       ]
     },
     "N-10884": {
@@ -21598,7 +21773,9 @@
         "Lapia"
       ],
       "episodes": [
-        161
+        161,
+        162,
+        163
       ]
     },
     "N-10887": {
@@ -21613,7 +21790,8 @@
         109,
         119,
         160,
-        161
+        161,
+        162
       ]
     },
     "N-10888": {
@@ -21654,7 +21832,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        161
+        161,
+        162
       ]
     },
     "N-10890": {
@@ -21672,7 +21851,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        161
+        161,
+        162
       ]
     },
     "N-10892": {
@@ -21780,7 +21960,8 @@
         138,
         139,
         140,
-        152
+        152,
+        162
       ]
     },
     "N-10900": {
@@ -22072,7 +22253,8 @@
         130,
         151,
         157,
-        159
+        159,
+        166
       ]
     },
     "N-10926": {
@@ -22473,7 +22655,8 @@
       "episodes": [
         114,
         146,
-        152
+        152,
+        165
       ]
     },
     "N-10970": {
@@ -22852,7 +23035,8 @@
       "episodes": [
         25,
         36,
-        153
+        153,
+        163
       ]
     },
     "N-11010": {
@@ -23017,7 +23201,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        50
+        50,
+        165
       ]
     },
     "N-11027": {
@@ -23578,7 +23763,8 @@
       "aliases": [],
       "episodes": [
         158,
-        160
+        160,
+        162
       ]
     },
     "N-11088": {
@@ -23612,7 +23798,8 @@
       "episodes": [
         143,
         156,
-        158
+        158,
+        162
       ]
     },
     "N-11092": {
@@ -24720,7 +24907,8 @@
         87,
         129,
         138,
-        147
+        147,
+        163
       ]
     },
     "N-11209": {
@@ -24778,7 +24966,8 @@
       "aliases": [],
       "episodes": [
         147,
-        160
+        160,
+        162
       ]
     },
     "N-11216": {
@@ -24808,7 +24997,9 @@
         20,
         83,
         94,
-        129
+        129,
+        163,
+        164
       ]
     },
     "N-11219": {
@@ -24935,7 +25126,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        30
+        30,
+        163
       ]
     },
     "N-11234": {
@@ -25192,7 +25384,9 @@
       "type": "organization",
       "aliases": [],
       "episodes": [
-        152
+        152,
+        163,
+        164
       ]
     },
     "N-11264": {
@@ -25579,7 +25773,8 @@
       "aliases": [],
       "episodes": [
         149,
-        151
+        151,
+        163
       ]
     },
     "N-11311": {
@@ -25605,7 +25800,8 @@
       "aliases": [],
       "episodes": [
         153,
-        154
+        154,
+        166
       ]
     },
     "N-11314": {
@@ -25671,7 +25867,8 @@
       "aliases": [],
       "episodes": [
         16,
-        147
+        147,
+        163
       ]
     },
     "N-11322": {
@@ -25960,7 +26157,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        102
+        102,
+        163
       ]
     },
     "N-11357": {
@@ -25984,7 +26182,8 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
-        131
+        131,
+        162
       ]
     },
     "N-11360": {
@@ -26402,7 +26601,8 @@
       "type": "person",
       "aliases": [],
       "episodes": [
-        87
+        87,
+        164
       ]
     },
     "N-11398": {
@@ -26555,6 +26755,460 @@
       "aliases": [],
       "episodes": [
         153
+      ]
+    },
+    "N-949": {
+      "canonical_name": "Christine Fecetty",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        162
+      ]
+    },
+    "N-950": {
+      "canonical_name": "Matiss Tabuns",
+      "type": "person",
+      "aliases": [
+        "Maddis",
+        "Matiss"
+      ],
+      "episodes": [
+        162
+      ]
+    },
+    "N-951": {
+      "canonical_name": "Cindy Jackson",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        162
+      ]
+    },
+    "N-952": {
+      "canonical_name": "Igor Kolomoisky",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        162
+      ]
+    },
+    "N-11412": {
+      "canonical_name": "Blake Neff \"Murdering Charlie\" Slip",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        162
+      ]
+    },
+    "N-11413": {
+      "canonical_name": "Monster Lab U.S. Access Block",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        162
+      ]
+    },
+    "N-11414": {
+      "canonical_name": "Clip It LLC Wyoming Filing and Registered Agent",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        162
+      ]
+    },
+    "N-11415": {
+      "canonical_name": "Pandora Papers",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        162
+      ]
+    },
+    "N-11416": {
+      "canonical_name": "International Consortium of Investigative Journalists",
+      "type": "organization",
+      "aliases": [],
+      "episodes": [
+        162
+      ]
+    },
+    "N-11417": {
+      "canonical_name": "UVU Post-Review Resignations",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        162
+      ]
+    },
+    "N-11418": {
+      "canonical_name": "TPUSA Las Vegas Office Opening",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        162
+      ]
+    },
+    "N-953": {
+      "canonical_name": "Christopher Rhoades",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        163
+      ]
+    },
+    "N-954": {
+      "canonical_name": "Alex Faria",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        147,
+        163
+      ]
+    },
+    "N-955": {
+      "canonical_name": "Blake Gibson",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        149,
+        163
+      ]
+    },
+    "N-956": {
+      "canonical_name": "La Fieta Assisi",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        163
+      ]
+    },
+    "N-11419": {
+      "canonical_name": "Federal White-Vehicle Escort of TPUSA Staff to Timpanogos (September 10)",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        163
+      ]
+    },
+    "N-11420": {
+      "canonical_name": "Frank Turek \"The War on Reality\" Book Account",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        163
+      ]
+    },
+    "N-11421": {
+      "canonical_name": "FRG Security",
+      "type": "organization",
+      "aliases": [],
+      "episodes": [
+        163
+      ]
+    },
+    "N-957": {
+      "canonical_name": "Val Peterson",
+      "type": "person",
+      "aliases": [
+        "Al Peterson (transcription)"
+      ],
+      "episodes": [
+        164,
+        165,
+        166
+      ]
+    },
+    "N-958": {
+      "canonical_name": "Hank McIntyre",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        164
+      ]
+    },
+    "N-959": {
+      "canonical_name": "Tyler Clancy",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        164,
+        165,
+        166
+      ]
+    },
+    "N-960": {
+      "canonical_name": "Matt Schneck",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        164
+      ]
+    },
+    "N-961": {
+      "canonical_name": "Wayne Niederhauser",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        164
+      ]
+    },
+    "N-962": {
+      "canonical_name": "Katie Zacharia",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        164,
+        165,
+        166
+      ]
+    },
+    "N-11422": {
+      "canonical_name": "Val Peterson September 10 Whereabouts Question",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        164
+      ]
+    },
+    "N-11423": {
+      "canonical_name": "Tyler Clancy Bloodied Bag Disposal Allegation",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        164
+      ]
+    },
+    "N-11424": {
+      "canonical_name": "Katie Zacharia Law Credential Question",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        164
+      ]
+    },
+    "N-11425": {
+      "canonical_name": "Cornell 7 Case",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        164
+      ]
+    },
+    "N-963": {
+      "canonical_name": "Charles Peterson",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        165,
+        166
+      ]
+    },
+    "N-964": {
+      "canonical_name": "Raul Labrador",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        165
+      ]
+    },
+    "N-965": {
+      "canonical_name": "Kelly Clarkson",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        165
+      ]
+    },
+    "N-966": {
+      "canonical_name": "Danny Trejo",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        165
+      ]
+    },
+    "N-11426": {
+      "canonical_name": "Val Peterson September 10 Whereabouts",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        165
+      ]
+    },
+    "N-11427": {
+      "canonical_name": "Governor Cox Published Schedule September 9\u201310 Gap",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        165
+      ]
+    },
+    "N-11428": {
+      "canonical_name": "Cox\u2013Clancy September 2 Governor's Mansion Meeting",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        165
+      ]
+    },
+    "N-11429": {
+      "canonical_name": "Charles Peterson Child Enticement Charges",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        165
+      ]
+    },
+    "N-11430": {
+      "canonical_name": "Idaho Attorney General Internet Crimes Against Children Unit",
+      "type": "organization",
+      "aliases": [],
+      "episodes": [
+        165
+      ]
+    },
+    "N-11431": {
+      "canonical_name": "Katie Zacharia Bar Exam Question",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        165
+      ]
+    },
+    "N-11432": {
+      "canonical_name": "Kelly Clarkson Art of Play Incident",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        165
+      ]
+    },
+    "N-11433": {
+      "canonical_name": "Danny Trejo Pawn Shop Contract Dispute",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        165
+      ]
+    },
+    "N-967": {
+      "canonical_name": "Taylor Dodd",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        166
+      ]
+    },
+    "N-968": {
+      "canonical_name": "Brandon Blackmon",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        166
+      ]
+    },
+    "N-969": {
+      "canonical_name": "Anthony Scaramucci",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        166
+      ]
+    },
+    "N-970": {
+      "canonical_name": "Nidal Malik Hasan",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        166
+      ]
+    },
+    "N-11434": {
+      "canonical_name": "Katie Zacharia Lawyer Credential Question",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        166
+      ]
+    },
+    "N-11435": {
+      "canonical_name": "Turning Point Action Funds Depletion Email",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        166
+      ]
+    },
+    "N-11436": {
+      "canonical_name": "Commit 100 Ballot-Chasing Program",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        166
+      ]
+    },
+    "N-11437": {
+      "canonical_name": "Governor Cox September 9\u201310, 2025 Schedule",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        166
+      ]
+    },
+    "N-11438": {
+      "canonical_name": "Tyler Clancy Bloodied Bag Disposal",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        166
+      ]
+    },
+    "N-11439": {
+      "canonical_name": "Taylor Dodd Arrest and Club America Affiliation Scrub",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        166
+      ]
+    },
+    "N-11440": {
+      "canonical_name": "Bonners Ferry Herald",
+      "type": "organization",
+      "aliases": [],
+      "episodes": [
+        166
+      ]
+    },
+    "N-11441": {
+      "canonical_name": "Pepperdine University",
+      "type": "organization",
+      "aliases": [],
+      "episodes": [
+        166
+      ]
+    },
+    "N-11442": {
+      "canonical_name": "Jun He Law Firm",
+      "type": "organization",
+      "aliases": [],
+      "episodes": [
+        166
+      ]
+    },
+    "N-11443": {
+      "canonical_name": "Fort Hood Shooter Execution Livestream Question",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        166
+      ]
+    },
+    "N-11444": {
+      "canonical_name": "TPUSA AI Charlie and Never-Before-Seen Speeches Question",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        166
       ]
     }
   }

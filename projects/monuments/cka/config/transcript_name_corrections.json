@@ -3445,6 +3445,259 @@
       [
         155
       ]
+    ],
+    [
+      "\\bErica\\b",
+      "Erika",
+      [
+        162,
+        163,
+        164,
+        165,
+        166
+      ]
+    ],
+    [
+      "\\bAl Peterson\\b",
+      "Val Peterson",
+      [
+        164
+      ]
+    ],
+    [
+      "\\bAndrew Colbath\\b",
+      "Andrew Kolvet"
+    ],
+    [
+      "\\bBlake Har(?:ref|uff|off)\\b",
+      "Blake Harreff"
+    ],
+    [
+      "\\bBlake Harris\\b",
+      "Blake Harreff",
+      [
+        163
+      ]
+    ],
+    [
+      "\\bBlake Win\\b",
+      "Blake Wynn",
+      [
+        162,
+        163,
+        164,
+        165,
+        166
+      ]
+    ],
+    [
+      "\\bBobby Sauce\\b",
+      "Bobby Sausalito",
+      [
+        166
+      ]
+    ],
+    [
+      "\\bCaleb Chilcut\\b",
+      "Caleb Chilcutt"
+    ],
+    [
+      "\\bCaroline Levit\\b",
+      "Karoline Leavitt"
+    ],
+    [
+      "\\bChief Wong\\b",
+      "Chief Long",
+      [
+        162
+      ]
+    ],
+    [
+      "\\bChild Kirk\\b",
+      "Charlie Kirk",
+      [
+        162,
+        163,
+        164,
+        165,
+        166
+      ]
+    ],
+    [
+      "\\bChristopher R(?:hodes|oads)\\b",
+      "Christopher Rhoades",
+      [
+        163
+      ]
+    ],
+    [
+      "\\bChris Rhodes\\b",
+      "Chris Rhoades",
+      [
+        163
+      ]
+    ],
+    [
+      "\\bDanny Phillips?\\b",
+      "Danny Philip",
+      [
+        163
+      ]
+    ],
+    [
+      "\\bFrank Cherrick\\b",
+      "Frank Turek"
+    ],
+    [
+      "\\bJack Jack GPT\\b",
+      "ChatGPT",
+      [
+        162
+      ]
+    ],
+    [
+      "\\bJohn Gruden\\b",
+      "Jon Gruden"
+    ],
+    [
+      "\\bJohn Ryan\\b",
+      "Shawn Ryan",
+      [
+        163
+      ]
+    ],
+    [
+      "\\bKatherryn Castro\\b",
+      "Katherine LoCastro"
+    ],
+    [
+      "\\bKatie Mciny\\b",
+      "Kayleigh McEnany"
+    ],
+    [
+      "\\bKatie Za(?:haria|karia)\\b",
+      "Katie Zacharia"
+    ],
+    [
+      "\\bLo Z Center\\b",
+      "Losee Center"
+    ],
+    [
+      "\\bLory Fransway\\b",
+      "Lori Frantzve"
+    ],
+    [
+      "\\bLozi rooftop\\b",
+      "Losee rooftop"
+    ],
+    [
+      "\\bMacy Crofts\\b",
+      "Maycee Crofts"
+    ],
+    [
+      "\\bMaddis\\b",
+      "Matiss",
+      [
+        162
+      ]
+    ],
+    [
+      "\\bMara Lago\\b",
+      "Mar-a-Lago"
+    ],
+    [
+      "\\bMom Donny\\b",
+      "Mamdani",
+      [
+        162
+      ]
+    ],
+    [
+      "\\b(?:Orum|Oram|ORM)\\b",
+      "Orem",
+      [
+        164
+      ]
+    ],
+    [
+      "\\bRobin Ed?(?:myer|mire|myer)\\b",
+      "Robin Ebmeyer"
+    ],
+    [
+      "\\bRobin Ebmyer\\b",
+      "Robin Ebmeyer"
+    ],
+    [
+      "\\bShaner Brderick\\b",
+      "Shaner Broderick"
+    ],
+    [
+      "\\bTheo Van\\b",
+      "Theo Von"
+    ],
+    [
+      "\\bTyler Boyer\\b",
+      "Tyler Bowyer"
+    ],
+    [
+      "\\bTyler Clan(?:sancy|sy)\\b",
+      "Tyler Clancy"
+    ],
+    [
+      "\\bTyler Robbins\\b",
+      "Tyler Robinson",
+      [
+        164
+      ]
+    ],
+    [
+      "\\bUBU\\b",
+      "UVU",
+      [
+        162,
+        163,
+        164,
+        165,
+        166
+      ]
+    ],
+    [
+      "\\bUV Review\\b",
+      "UVU Review"
+    ],
+    [
+      "\\bWayne Neerhouser\\b",
+      "Wayne Niederhauser"
+    ],
+    [
+      "\\bYanken Bank and Frank\\b",
+      "Yankin' and Bankin' Frank"
+    ],
+    [
+      "\\bYoungst?ten\\b",
+      "Youngstown",
+      [
+        164
+      ]
+    ],
+    [
+      "\\bYoungsttown\\b",
+      "Youngstown"
+    ],
+    [
+      "\\bball bereft\\b",
+      "Baal Berith",
+      [
+        165
+      ]
+    ],
+    [
+      "\\bcancel ones\\.com\\b",
+      "candaceowens.com"
+    ],
+    [
+      "\\bmore tips canon\\.com\\b",
+      "moretips@candaceowens.com"
     ]
   ]
 }

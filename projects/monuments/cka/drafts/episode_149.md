@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11407, N-11408, N-11409
   - Hole-minted Nodes (reintro-ep149): N-10828
-  - Tip-minted Nodes (reintro-ep149): N-897, N-900, N-11310
+  - Tip-minted Nodes (reintro-ep149): N-897, N-900, N-955, N-11310
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-14854–C-14945
   - Hole-minted Nodes (fixall-ep149): N-269
@@ -558,6 +558,14 @@ Episode Count: 1
 Investigative Pressure: High
 
 *Related: C-3543, C-3544, C-3545, A-2426.1*
+
+**N-955** Blake Gibson
+
+Security team member; first named by the host in this episode as the man in surgical scrubs (intro moved from ep163, 2026-10-19).
+
+*Related: C-14900*
+
+---
 
 **N-3** Candace Owens
 
@@ -2045,7 +2053,7 @@ Claim: The host names the man in surgical scrubs at the top of the frame as Blak
 Transcript Snippet: Blake Gibson and surgical scrubs. That's who you see up in the top there.
 
 Anchored Artifacts: A-2432.3
-Mentions: 
+Mentions: N-955
 Related Nodes:
 Tags: relevance:context
 Investigative Direction: Confirm the correct name from the footage; it may be a different name for Blake Harreff or another team member.
