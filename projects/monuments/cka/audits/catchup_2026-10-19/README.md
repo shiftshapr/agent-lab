@@ -24,7 +24,7 @@
    - 22 new persons (N-949 to N-970), 33 new topics and orgs (N-11412 to N-11444), and 12 new memes.
 4. **Intro moves.** Alex Faria (N-954) and Blake Gibson (N-955) were already named in ep147 and ep149. Their
    introductions moved there, with ids unchanged.
-5. **Names.** 48 correction rules come from the agents' MISTRANSCRIPTION flags; most are scoped to these
+5. **Names.** 49 correction rules come from the agents' MISTRANSCRIPTION flags; most are scoped to these
    episodes. Examples: Katie Zacharia, Val Peterson, Wayne Niederhauser, Christopher Rhoades, Tyler Bowyer,
    Maycee Crofts and Losee Center. "Erica" becomes Erika in seq 162–166. First-name-only mappings resting on
    inference (Justin and Dan in Turek's book) were left out of Mentions.
@@ -34,7 +34,7 @@
    - Material rate at intake, before fixes: 4.4%. The archive's QA sample after pass 2 was 0.7%.
 
 ## Open (for Daveed's ear)
-- Matiss Tabuns (N-949 range, ep162). The host spells T-A-B-U-N-S and says the earlier "Matt Servius" (N-351) was
+- Matiss Tabuns (N-950, ep162). The host spells T-A-B-U-N-S and says the earlier "Matt Servius" (N-351) was
   wrong. A merge, or a rename of N-351, is pending confirmation.
 - Unconfirmed names: Taylor Dodd, Charles Peterson (Val Peterson's brother, per the host), La Fieta Assisi (ICAC)
   and Alex Faria.
