@@ -14,7 +14,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-11269, N-11270, N-11271, N-11272, N-11273, N-11274
   - Hole-minted Nodes (reintro-ep013): N-193, N-10158, N-10159, N-10160, N-10209, N-10406
-  - Tip-minted Nodes (reintro-ep013): N-11153, N-11170
+  - Tip-minted Nodes (reintro-ep013): N-10968, N-11153, N-11170
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-10771–C-10836
   - (see registers)
@@ -659,6 +659,14 @@ Episode Count: 1
 Investigative Pressure: Low
 
 *Related: A-1205.1 (context), A-1204.1 (context)*
+
+---
+
+**N-10968** The New York Times
+
+Newspaper. First cited in this episode, where the host says the New York Times has reported on Russian and Ukrainian spies (intro moved from ep45, 2026-10-19).
+
+*Related: C-10792*
 
 ---
 
@@ -1711,7 +1719,7 @@ Transcript Snippet: the New York Times has reported on uh Russian Ukrainian spie
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10898, N-11273
+Related Nodes: N-10968, N-11273
 Tags: relevance:context
 Investigative Direction: Locate the New York Times article the host refers to.
 

@@ -1420,7 +1420,7 @@ Investigative Direction: Confirm event details against contemporaneous news cove
 
 **C-1557** Netanyahu Publicly Stated He Invited Charlie Kirk to Israel Approximately Two Weeks Before Assassination
 
-Claim Timestamp: 00:37:15
+Claim Timestamp: 00:36:19
 Claim: The episode reports that Israeli Prime Minister Bibi Netanyahu publicly stated he had called Charlie Kirk approximately two weeks before the assassination and invited him to Israel.
 Anchored Artifacts: A-1311.1
 Mentions: N-1, N-36
