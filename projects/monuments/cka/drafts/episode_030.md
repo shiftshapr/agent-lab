@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep030): N-261, N-10248, N-10770, N-10817, N-10870
   - Tip-minted Nodes (reintro-ep030): N-11080, N-11121
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10d): C-9698–C-9764
+  - Claim Range: C-2640–C-2722
   - New Nodes Introduced: N-246, N-247, N-248, N-10244, N-10245
   - Reused Nodes Appearing: N-3, N-1, N-190, N-17, N-99, N-14, N-55, N-10243, N-11, N-20, N-38, N-117, N-120, N-178, N-227, N-325, N-10004, N-10012, N-10015, N-10023, N-10026, N-10027, N-10047, N-10063, N-10100, N-10131, N-10132, N-10162, N-10193, N-10196, N-10198, N-10237, N-10345, N-10434, N-10436, N-11064, N-11167, N-11171, N-10346, N-11084
   - (see registers)
@@ -40,7 +40,7 @@ Video Timestamp: 00:04:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1667, C-1668, N-46, N-97, N-2*
+*Related: C-2641, C-2644, N-46, N-97, N-2*
 
 ---
 
@@ -54,7 +54,7 @@ Video Timestamp: 00:06:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1671, N-32, N-97*
+*Related: C-2646, N-32, N-97*
 
 ---
 
@@ -68,7 +68,7 @@ Video Timestamp: 00:09:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1669, N-1*
+*Related: C-2651, N-1*
 
 ---
 
@@ -82,7 +82,7 @@ Video Timestamp: 00:12:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1670, N-1, N-46*
+*Related: C-2655, N-1, N-46*
 
 ---
 
@@ -96,7 +96,7 @@ Video Timestamp: 00:32:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1672, C-1673, N-7, N-208, N-246*
+*Related: C-2690, C-2695, N-7, N-208, N-246*
 
 **A-1383.2** Photograph of Charlie Kirk, Frank Turek, and Butch Hibbs, stated to have been taken approximately 20 minutes before the shooting.
 
@@ -106,7 +106,7 @@ Video Timestamp: 00:32:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1674, N-7, N-208, N-246, N-1*
+*Related: C-2691, N-7, N-208, N-246, N-1*
 
 ---
 
@@ -120,7 +120,7 @@ Video Timestamp: 00:32:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1672, N-208, N-10244*
+*Related: C-2690, N-208, N-10244*
 
 ---
 
@@ -134,7 +134,7 @@ Video Timestamp: 00:37:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1677, N-212, N-247, N-69*
+*Related: C-2701, N-212, N-247, N-69*
 
 **A-1385.2** Hen Mazzig X post dated September 14, 2025 describing the prominent role of female Mossad agents in Israeli intelligence efforts against Iran, including by seducing top officials.
 
@@ -144,7 +144,7 @@ Video Timestamp: 00:37:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1678, N-248*
+*Related: C-2702, N-248*
 
 **A-1385.3** Elijah Schaffer X post of a photograph of Alexis Wilkins and Kash Patel, posted in response to the Hen Mazzig X post.
 
@@ -154,7 +154,7 @@ Video Timestamp: 00:37:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1679, N-247, N-212, N-69*
+*Related: C-2703, N-247, N-212, N-69*
 
 ---
 
@@ -168,7 +168,7 @@ Video Timestamp: 00:37:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1680, N-69, N-212*
+*Related: C-2699, N-69, N-212*
 
 ---
 
@@ -182,7 +182,7 @@ Video Timestamp: 00:19:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1675, N-10243*
+*Related: C-2668, N-10243*
 
 ---
 
@@ -210,7 +210,7 @@ Video Timestamp: 00:49:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text reproduced verbatim)
 
-*Related: C-1681, N-27*
+*Related: C-2715, N-27*
 
 ---
 
@@ -225,7 +225,7 @@ Video Timestamp: 00:21:38
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9723, N-3*
+*Related: C-2674, N-3*
 
 ---
 
@@ -238,7 +238,7 @@ Video Timestamp: 00:22:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9727, N-3*
+*Related: C-2677, N-3*
 
 ---
 
@@ -251,7 +251,7 @@ Video Timestamp: 00:29:16
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9734, N-3*
+*Related: C-2684, N-3*
 
 ---
 
@@ -266,7 +266,7 @@ Video Timestamp: 00:44:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9752, C-9753, N-3*
+*Related: C-2709, C-2710, N-3*
 
 ---
 
@@ -281,7 +281,7 @@ Video Timestamp: 00:13:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9711, N-3*
+*Related: C-2658, N-3*
 
 ---
 
@@ -296,7 +296,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1379.1, A-1382.1, C-1668, C-1670*
+*Related: A-1379.1, A-1382.1, C-2644, C-2655*
 
 ---
 
@@ -309,7 +309,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1379.1, A-1380.1, C-1667, C-1671*
+*Related: A-1379.1, A-1380.1, C-2641, C-2646*
 
 ---
 
@@ -322,7 +322,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1380.1, C-1671*
+*Related: A-1380.1, C-2646*
 
 ---
 
@@ -335,7 +335,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1383.1, A-1383.2, C-1672, C-1673, C-1674*
+*Related: A-1383.1, A-1383.2, C-2690, C-2695, C-2691*
 
 ---
 
@@ -348,7 +348,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1383.1, C-1673*
+*Related: A-1383.1, C-2695*
 
 ---
 
@@ -361,7 +361,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1383.1, A-1383.2, A-1384.1, C-1672, C-1673, C-1674, N-10244*
+*Related: A-1383.1, A-1383.2, A-1384.1, C-2690, C-2695, C-2691, N-10244*
 
 ---
 
@@ -374,7 +374,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1385.3, A-1386.1, C-1679, C-1680*
+*Related: A-1385.3, A-1386.1, C-2703, C-2699*
 
 ---
 
@@ -387,7 +387,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1385.1, A-1385.3, A-1386.1, C-1677, C-1679, C-1680, N-10245*
+*Related: A-1385.1, A-1385.3, A-1386.1, C-2701, C-2703, C-2699, N-10245*
 
 ---
 
@@ -400,7 +400,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1385.1, A-1385.3, C-1677, C-1679*
+*Related: A-1385.1, A-1385.3, C-2701, C-2703*
 
 ---
 
@@ -413,7 +413,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1385.2, C-1678*
+*Related: A-1385.2, C-2702*
 
 ---
 
@@ -426,7 +426,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1389.1, C-1681*
+*Related: A-1389.1, C-2715*
 
 ---
 
@@ -439,7 +439,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1387.1, C-1675, C-1676*
+*Related: A-1387.1, C-2668, C-2669*
 
 ---
 
@@ -452,7 +452,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1383.1, A-1383.2, A-1384.1, C-1672, N-246*
+*Related: A-1383.1, A-1383.2, A-1384.1, C-2690, N-246*
 
 ---
 
@@ -465,7 +465,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1385.1, A-1385.2, A-1385.3, C-1677, C-1678, C-1679, N-212, N-247, N-248*
+*Related: A-1385.1, A-1385.2, A-1385.3, C-2701, C-2702, C-2703, N-212, N-247, N-248*
 
 ---
 
@@ -473,7 +473,7 @@ Investigative Pressure: Medium
 
 Subject of the Tucker, Megyn Kelly and donor-pressure items.
 
-*Related: C-9700, C-9705, C-9706, C-9708, C-9709, C-9710, C-9711, C-9716, C-9717, C-9719, C-9720, C-9721, C-9729, C-9731, C-9737, C-9741, C-9742, C-9757*
+*Related: C-2643, C-2650, C-2654, C-2653, C-2656, C-2657, C-2658, C-2664, C-2665, C-2666, C-2670, C-2671, C-2679, C-2681, C-2687, C-2693, C-2694, C-2714*
 
 ---
 
@@ -481,7 +481,7 @@ Subject of the Tucker, Megyn Kelly and donor-pressure items.
 
 Subject of the lie list, venue, leak and email items.
 
-*Related: C-9708, C-9712, C-9719, C-9721, C-9723, C-9724, C-9728, C-9729, C-9732, C-9733, C-9756, C-9757*
+*Related: C-2653, C-2659, C-2666, C-2671, C-2674, C-2673, C-2678, C-2679, C-2682, C-2683, C-2713, C-2714*
 
 ---
 
@@ -489,7 +489,7 @@ Subject of the lie list, venue, leak and email items.
 
 Reused for the tweet items.
 
-*Related: C-9758, C-9759, C-9760*
+*Related: C-2716, C-2717, C-2718*
 
 ---
 
@@ -497,7 +497,7 @@ Reused for the tweet items.
 
 The host's venue discussion.
 
-*Related: C-9722*
+*Related: C-2672*
 
 ---
 
@@ -505,7 +505,7 @@ The host's venue discussion.
 
 Referenced in the Wilkins complaint text.
 
-*Related: C-9707, C-9747*
+*Related: C-2652, C-2704*
 
 ---
 
@@ -513,7 +513,7 @@ Referenced in the Wilkins complaint text.
 
 Reused for Tucker's Epstein remark.
 
-*Related: C-9707*
+*Related: C-2652*
 
 ---
 
@@ -521,7 +521,7 @@ Reused for Tucker's Epstein remark.
 
 Reused for the host's sweeping remarks.
 
-*Related: C-9761*
+*Related: C-2719*
 
 ---
 
@@ -529,7 +529,7 @@ Reused for the host's sweeping remarks.
 
 Place of the retreat the host discusses.
 
-*Related: C-9730, C-9731*
+*Related: C-2680, C-2681*
 
 ---
 
@@ -537,7 +537,7 @@ Place of the retreat the host discusses.
 
 Reused for the donor items.
 
-*Related: C-9705, C-9706, C-9710*
+*Related: C-2650, C-2654, C-2657*
 
 ---
 
@@ -545,7 +545,7 @@ Reused for the donor items.
 
 Reused for the host's casino remark.
 
-*Related: C-9763*
+*Related: C-2721*
 
 ---
 
@@ -553,7 +553,7 @@ Reused for the host's casino remark.
 
 Reused for the camera and SD card lies.
 
-*Related: C-9714, C-9715*
+*Related: C-2662, C-2663*
 
 ---
 
@@ -561,7 +561,7 @@ Reused for the camera and SD card lies.
 
 Reused for the Streit introductions and Wilkins remark.
 
-*Related: C-9744, C-9745, C-9751*
+*Related: C-2697, C-2698, C-2708*
 
 ---
 
@@ -569,7 +569,7 @@ Reused for the Streit introductions and Wilkins remark.
 
 Reused for lie nine.
 
-*Related: C-9717*
+*Related: C-2665*
 
 ---
 
@@ -577,7 +577,7 @@ Reused for lie nine.
 
 Reused for the hats explanation.
 
-*Related: C-9715*
+*Related: C-2663*
 
 ---
 
@@ -585,7 +585,7 @@ Reused for the hats explanation.
 
 Reused for the call-first and 911 items.
 
-*Related: C-9713, C-9718*
+*Related: C-2661, C-2667*
 
 ---
 
@@ -593,7 +593,7 @@ Reused for the call-first and 911 items.
 
 Reused for the hospital items.
 
-*Related: C-9735, C-9736, C-9737*
+*Related: C-2685, C-2686, C-2687*
 
 ---
 
@@ -601,7 +601,7 @@ Reused for the hospital items.
 
 Reused for the lie list.
 
-*Related: C-9713, C-9718*
+*Related: C-2661, C-2667*
 
 ---
 
@@ -609,7 +609,7 @@ Reused for the lie list.
 
 Reused for Shapiro and Kelly items.
 
-*Related: C-9698, C-9699, C-9700, C-9701*
+*Related: C-2640, C-2642, C-2643, C-2645*
 
 ---
 
@@ -617,7 +617,7 @@ Reused for Shapiro and Kelly items.
 
 Reused for Hibbs and the academy purchase.
 
-*Related: C-9740, C-9754*
+*Related: C-2692, C-2711*
 
 ---
 
@@ -625,7 +625,7 @@ Reused for Hibbs and the academy purchase.
 
 Reused for the Hamptons items.
 
-*Related: C-9730, C-9731*
+*Related: C-2680, C-2681*
 
 ---
 
@@ -633,7 +633,7 @@ Reused for the Hamptons items.
 
 Reused for the police instruction lie.
 
-*Related: C-9714*
+*Related: C-2662*
 
 ---
 
@@ -641,7 +641,7 @@ Reused for the police instruction lie.
 
 Reused for lie nine.
 
-*Related: C-9717*
+*Related: C-2665*
 
 ---
 
@@ -649,7 +649,7 @@ Reused for lie nine.
 
 Reused for the Hibbs military-family item.
 
-*Related: C-9743*
+*Related: C-2696*
 
 ---
 
@@ -657,7 +657,7 @@ Reused for the Hibbs military-family item.
 
 Reused for the hospital system items.
 
-*Related: C-9735, C-9736, C-9737*
+*Related: C-2685, C-2686, C-2687*
 
 ---
 
@@ -665,7 +665,7 @@ Reused for the hospital system items.
 
 Reused for his arrival with Kirk.
 
-*Related: C-9741*
+*Related: C-2693*
 
 ---
 
@@ -673,7 +673,7 @@ Reused for his arrival with Kirk.
 
 Possible match for the sponsor transcribed 'Rei'.
 
-*Related: C-9729*
+*Related: C-2679*
 
 ---
 
@@ -681,7 +681,7 @@ Possible match for the sponsor transcribed 'Rei'.
 
 The host names him as the source of the police camera-removal account.
 
-*Related: C-9714*
+*Related: C-2662*
 
 ---
 
@@ -689,7 +689,7 @@ The host names him as the source of the police camera-removal account.
 
 Reused for the bad-blood lie.
 
-*Related: C-9716*
+*Related: C-2664*
 
 ---
 
@@ -697,7 +697,7 @@ Reused for the bad-blood lie.
 
 Setting of the backstage exchange.
 
-*Related: C-9706, C-9708, C-9710*
+*Related: C-2654, C-2653, C-2657*
 
 ---
 
@@ -705,7 +705,7 @@ Setting of the backstage exchange.
 
 Reused for the leak items.
 
-*Related: C-9732, C-9733, C-9757*
+*Related: C-2682, C-2683, C-2714*
 
 ---
 
@@ -713,14 +713,14 @@ Reused for the leak items.
 
 Reused for the Kanye Hollywood remark.
 
-*Related: C-9759*
+*Related: C-2717*
 
 ---
 
 **N-11167** Operation Underground Railroad
 Ballard's organization.
 
-*Related: C-9745*
+*Related: C-2698*
 
 ---
 
@@ -728,7 +728,7 @@ Ballard's organization.
 
 Reused for lie nine.
 
-*Related: C-9717*
+*Related: C-2665*
 
 ---
 
@@ -736,7 +736,7 @@ Reused for lie nine.
 
 Transcribed Strait; linked by the host to introductions and to Wilkins.
 
-*Related: C-9744, C-9745, C-9751*
+*Related: C-2697, C-2698, C-2708*
 
 ---
 
@@ -744,7 +744,7 @@ Transcribed Strait; linked by the host to introductions and to Wilkins.
 
 Her early tweet about the host is read aloud.
 
-*Related: C-9711*
+*Related: C-2658*
 
 ---
 
@@ -752,7 +752,7 @@ Her early tweet about the host is read aloud.
 
 Named by the host as source of the SD card theft explanation.
 
-*Related: C-9715*
+*Related: C-2663*
 
 ---
 
@@ -760,7 +760,7 @@ Named by the host as source of the SD card theft explanation.
 
 Named by the host regarding Mikey's call, the school and the lawsuit.
 
-*Related: C-9713, C-9725, C-9753, C-9754, C-9755, C-9756*
+*Related: C-2661, C-2675, C-2710, C-2711, C-2712, C-2713*
 
 ---
 
@@ -768,7 +768,7 @@ Named by the host regarding Mikey's call, the school and the lawsuit.
 
 Named in the host's Gaza casino remark.
 
-*Related: C-9763*
+*Related: C-2721*
 
 ---
 
@@ -776,7 +776,7 @@ Named in the host's Gaza casino remark.
 
 The host questions his name, calls, family and role.
 
-*Related: C-9713, C-9718, C-9724, C-9725, C-9726, C-9727, C-9741, C-9752, C-9753, C-9756*
+*Related: C-2661, C-2667, C-2673, C-2675, C-2676, C-2677, C-2693, C-2709, C-2710, C-2713*
 
 ---
 
@@ -784,7 +784,7 @@ The host questions his name, calls, family and role.
 
 Subject of the Shapiro claim and the host's remark about criticism being off limits.
 
-*Related: C-9698, C-9700, C-9701, C-9712*
+*Related: C-2640, C-2643, C-2645, C-2659*
 
 ---
 
@@ -792,7 +792,7 @@ Subject of the Shapiro claim and the host's remark about criticism being off lim
 
 Addressed by the host along with Austin (transcribed Ericson).
 
-*Related: C-9728, C-9729, C-9730, C-9757*
+*Related: C-2678, C-2679, C-2680, C-2714*
 
 ---
 
@@ -800,7 +800,7 @@ Addressed by the host along with Austin (transcribed Ericson).
 
 The clip of his backstage account of Kirk.
 
-*Related: C-9705, C-9706, C-9707, C-9708, C-9709, C-9710*
+*Related: C-2650, C-2654, C-2652, C-2653, C-2656, C-2657*
 
 ---
 
@@ -808,7 +808,7 @@ The clip of his backstage account of Kirk.
 
 Transcribed Allie Beth Stuckey; mentioned among critics who tried to debunk the host.
 
-*Related: C-9719*
+*Related: C-2666*
 
 ---
 
@@ -816,7 +816,7 @@ Transcribed Allie Beth Stuckey; mentioned among critics who tried to debunk the 
 
 The AV staffer in the camera and SD card items.
 
-*Related: C-9714, C-9715*
+*Related: C-2662, C-2663*
 
 ---
 
@@ -824,7 +824,7 @@ The AV staffer in the camera and SD card items.
 
 Speaks for herself.
 
-*Related: C-9698, C-9699, C-9701, C-9702, C-9703, C-9705, C-9708, C-9710, C-9711, C-9712, C-9713, C-9714, C-9719, C-9720, C-9723, C-9724, C-9725, C-9726, C-9727, C-9728, C-9730, C-9731, C-9732, C-9733, C-9734, C-9735, C-9736, C-9737, C-9738, C-9739, C-9744, C-9745, C-9750, C-9756, C-9757, C-9758, C-9759, C-9761, C-9762, C-9763, C-9764*
+*Related: C-2640, C-2642, C-2645, C-2647, C-2648, C-2650, C-2653, C-2657, C-2658, C-2659, C-2661, C-2662, C-2666, C-2670, C-2674, C-2673, C-2675, C-2676, C-2677, C-2678, C-2680, C-2681, C-2682, C-2683, C-2684, C-2685, C-2686, C-2687, C-2688, C-2689, C-2697, C-2698, C-2707, C-2713, C-2714, C-2716, C-2717, C-2719, C-2720, C-2721, C-2722*
 
 ---
 
@@ -832,7 +832,7 @@ Speaks for herself.
 
 Former head of Operation Underground, introduced to the host via Streit.
 
-*Related: C-9745*
+*Related: C-2698*
 
 ---
 
@@ -840,7 +840,7 @@ Former head of Operation Underground, introduced to the host via Streit.
 
 Transcribed Seth Dillon; named in the Hamptons retreat items.
 
-*Related: C-9730, C-9731*
+*Related: C-2680, C-2681*
 
 ---
 
@@ -848,7 +848,7 @@ Transcribed Seth Dillon; named in the Hamptons retreat items.
 
 Named in Tucker Carlson's backstage account and intelligence remark.
 
-*Related: C-9706, C-9707*
+*Related: C-2654, C-2652*
 
 ---
 
@@ -856,7 +856,7 @@ Named in Tucker Carlson's backstage account and intelligence remark.
 
 Named by the host regarding the Shapiro bad-blood claim.
 
-*Related: C-9716*
+*Related: C-2664*
 
 ---
 
@@ -865,7 +865,7 @@ Named by the host regarding the Shapiro bad-blood claim.
 First named by the host at 00:22:40 in episode 30 (spelled Austin Ericson in the transcript). TPUSA staffer addressed with Dylan Erickson.
 Aliases: Austin Ericson
 
-*Related: C-9728, C-9729, C-9730, C-9757*
+*Related: C-2678, C-2679, C-2680, C-2714*
 
 ---
 
@@ -874,7 +874,7 @@ Aliases: Austin Ericson
 Node Type: Topic
 Persistent target: the host's report that tech people found TPUSA may use software that varies the wording of each employee's copy of an email to trace leaks.
 
-*Related: C-9733*
+*Related: C-2683*
 
 ---
 
@@ -883,7 +883,7 @@ Persistent target: the host's report that tech people found TPUSA may use softwa
 Node Type: Topic
 Persistent target: the host's questions about Mikey McCoy's legal first name, local recognition of him, and his wife's role as a TPUSA events director.
 
-*Related: C-9724, C-9725, C-9726, C-9727*
+*Related: C-2673, C-2675, C-2676, C-2677*
 
 ---
 
@@ -892,7 +892,7 @@ Persistent target: the host's questions about Mikey McCoy's legal first name, lo
 Node Type: Topic
 Persistent target: the school Mikey McCoy attended, Rob McCoy's role running it, the 2009 Calvary Chapel purchase and the teacher firing lawsuit.
 
-*Related: C-9752, C-9753, C-9754, C-9755*
+*Related: C-2709, C-2710, C-2711, C-2712*
 
 ---
 
@@ -901,13 +901,13 @@ Persistent target: the school Mikey McCoy attended, Rob McCoy's role running it,
 Node Type: Topic
 Persistent target: the host's unnamed female donor who allegedly yelled at Charlie Kirk after Tucker Carlson's July speech.
 
-*Related: C-9710*
+*Related: C-2657*
 
 ---
 
 ## 5. Claim Register
 
-**C-1667** Host Says Ben Shapiro Told Megyn Kelly's Tour Audience Candace Accused Erika Kirk of Being Behind Charlie's Murder
+**C-2641** Host Says Ben Shapiro Told Megyn Kelly's Tour Audience Candace Accused Erika Kirk of Being Behind Charlie's Murder
 
 Claim Timestamp: 00:04:04
 
@@ -921,7 +921,7 @@ Investigative Direction: Obtain an unedited copy of the Kelly tour Q&A or tour r
 
 ---
 
-**C-1668** Megyn Kelly Publicly Stated on Her Tour That Candace Has Been Defending Erika Kirk
+**C-2644** Megyn Kelly Publicly Stated on Her Tour That Candace Has Been Defending Erika Kirk
 
 Claim Timestamp: 00:04:55
 
@@ -935,7 +935,7 @@ Investigative Direction: Obtain the full tour Q&A recording to verify Kelly's ex
 
 ---
 
-**C-1669** Tucker Carlson described a July backstage conversation in which Kirk urged him to address Israel, Iran, and Epstein
+**C-2651** Tucker Carlson described a July backstage conversation in which Kirk urged him to address Israel, Iran, and Epstein
 
 Claim Timestamp: 00:09:38
 
@@ -949,7 +949,7 @@ Investigative Direction: Obtain an unedited recording of Tucker's full statement
 
 ---
 
-**C-1670** Megyn Kelly released backstage video of Charlie Kirk saying "Go Max" to Tucker Carlson
+**C-2655** Megyn Kelly released backstage video of Charlie Kirk saying "Go Max" to Tucker Carlson
 
 Claim Timestamp: 00:12:00
 
@@ -963,7 +963,7 @@ Investigative Direction: Locate and preserve the original Megyn Kelly video and 
 
 ---
 
-**C-1671** Host Says Dave Rubin Characterized Ben Shapiro's Appearance on Kelly's Tour as "Almost an Act of Bravery"
+**C-2646** Host Says Dave Rubin Characterized Ben Shapiro's Appearance on Kelly's Tour as "Almost an Act of Bravery"
 
 Claim Timestamp: 00:06:30
 
@@ -977,7 +977,7 @@ Investigative Direction: Obtain the full Dave Rubin segment to verify precise wo
 
 ---
 
-**C-1672** Host Says Older Man Seen Near a Bush Pre-Event Is Butch Hibbs, Citing Frank Turek
+**C-2690** Host Says Older Man Seen Near a Bush Pre-Event Is Butch Hibbs, Citing Frank Turek
 
 Claim Timestamp: 00:32:57
 
@@ -992,7 +992,7 @@ Investigative Direction: Obtain the full Frank Turek interview, including any pr
 
 ---
 
-**C-1673** Frank Turek stated Butch Hibbs is the brother of Pastor Jack Hibbs
+**C-2695** Frank Turek stated Butch Hibbs is the brother of Pastor Jack Hibbs
 
 Claim Timestamp: 00:33:00
 
@@ -1006,7 +1006,7 @@ Investigative Direction: Obtain independent genealogical or institutional record
 
 ---
 
-**C-1674** Frank Turek Says Photograph of Butch Hibbs With Charlie Kirk Was Taken Approximately 20 Minutes Before the Shooting
+**C-2691** Frank Turek Says Photograph of Butch Hibbs With Charlie Kirk Was Taken Approximately 20 Minutes Before the Shooting
 
 Claim Timestamp: 00:32:57
 
@@ -1020,7 +1020,7 @@ Investigative Direction: Obtain the original photograph with EXIF metadata and a
 
 ---
 
-**C-1675** UVU Turning Point Chapter Requested Charlie Kirk as Speaker on July 18
+**C-2668** UVU Turning Point Chapter Requested Charlie Kirk as Speaker on July 18
 
 Claim Timestamp: 00:19:14
 
@@ -1035,7 +1035,7 @@ Investigative Direction: Obtain the underlying local Utah news article and any U
 
 ---
 
-**C-1676** Host Says UVU Recommended Against the Outdoor Amphitheater for Safety Reasons and Turning Point Insisted on It
+**C-2669** Host Says UVU Recommended Against the Outdoor Amphitheater for Safety Reasons and Turning Point Insisted on It
 
 Claim Timestamp: 00:19:14
 
@@ -1049,7 +1049,7 @@ Investigative Direction: Obtain UVU event-services correspondence and any intern
 
 ---
 
-**C-1677** Host Says Alexis Wilkins Filed a $5 Million Lawsuit Against Elijah Schaffer and Other Content Creators Over Honeypot Allegations
+**C-2701** Host Says Alexis Wilkins Filed a $5 Million Lawsuit Against Elijah Schaffer and Other Content Creators Over Honeypot Allegations
 
 Claim Timestamp: 00:37:38
 
@@ -1064,7 +1064,7 @@ Investigative Direction: Obtain the filed complaint and docket from the relevant
 
 ---
 
-**C-1678** Hen Mazzig X post on September 14, 2025 described female Mossad agents in Israeli intelligence operations
+**C-2702** Hen Mazzig X post on September 14, 2025 described female Mossad agents in Israeli intelligence operations
 
 Claim Timestamp: 00:37:38
 
@@ -1078,7 +1078,7 @@ Investigative Direction: Verify the original Hen Mazzig post via archived snapsh
 
 ---
 
-**C-1679** Elijah Schaffer posted a photo of Alexis Wilkins and Kash Patel in response to the Hen Mazzig X post
+**C-2703** Elijah Schaffer posted a photo of Alexis Wilkins and Kash Patel in response to the Hen Mazzig X post
 
 Claim Timestamp: 00:37:38
 
@@ -1092,7 +1092,7 @@ Investigative Direction: Obtain the original Schaefer post and timestamp via arc
 
 ---
 
-**C-1680** Host Says Kash Patel Publicly Defended Alexis Wilkins on Social Media
+**C-2699** Host Says Kash Patel Publicly Defended Alexis Wilkins on Social Media
 
 Claim Timestamp: 00:36:39
 
@@ -1106,7 +1106,7 @@ Investigative Direction: Obtain the original Patel posts and timestamps; verify 
 
 ---
 
-**C-1681** Host Says Kanye West's 'Death Con 3' Tweet Meant Defcon 3
+**C-2715** Host Says Kanye West's 'Death Con 3' Tweet Meant Defcon 3
 
 Claim Timestamp: 00:49:13
 
@@ -1120,7 +1120,7 @@ Investigative Direction: Obtain the archived original tweet via Wayback Machine 
 
 ---
 
-**C-3756** Host lists what she calls verifiable lies told by Turning Point USA figures and names the offenders
+**C-2660** Host lists what she calls verifiable lies told by Turning Point USA figures and names the offenders
 
 Claim Timestamp: 00:15:42
 
@@ -1135,7 +1135,7 @@ Investigative Direction: Check each listed statement against its original source
 
 ---
 
-**C-9698** Host Says Shapiro Did Not Recant or Correct His Claim After the Tour Appearance
+**C-2640** Host Says Shapiro Did Not Recant or Correct His Claim After the Tour Appearance
 
 Claim Timestamp: 00:03:14
 
@@ -1146,13 +1146,13 @@ Transcript Snippet: because in the days following it, he didn't recant. He did n
 Anchored Artifacts: 
 Mentions: N-97, N-46, N-3, N-2
 Related Nodes: N-10237
-Supports: C-1667
+Supports: C-2641
 Tags: relevance:core
 Investigative Direction: Review Shapiro's posts, shows and statements from the days after the tour stop for any correction or retraction.
 
 ---
 
-**C-9699** Host Says Kelly Asked Shapiro on Stage If He Was Sure and He Said Yes
+**C-2642** Host Says Kelly Asked Shapiro on Stage If He Was Sure and He Said Yes
 
 Claim Timestamp: 00:04:04
 
@@ -1163,13 +1163,13 @@ Transcript Snippet: Asked again like, "Are you sure she said that?" And he says,
 Anchored Artifacts: 
 Mentions: N-46, N-97, N-3
 Related Nodes: N-10237
-Supports: C-1667
+Supports: C-2641
 Tags: relevance:core
 Investigative Direction: Obtain the full tour recording of the Shapiro stop to confirm the exchange and wording.
 
 ---
 
-**C-9700** Megyn Kelly Says She Had Not Heard Shapiro's Claim and Was Taken Aback
+**C-2643** Megyn Kelly Says She Had Not Heard Shapiro's Claim and Was Taken Aback
 
 Claim Timestamp: 00:04:04
 
@@ -1180,13 +1180,13 @@ Transcript Snippet: which I had not heard and I was taken back because that seem
 Anchored Artifacts: A-1379.1
 Mentions: N-46, N-97, N-3, N-2, N-1
 Related Nodes: N-10237
-Supports: C-1667
+Supports: C-2641
 Tags: relevance:core
 Investigative Direction: Obtain the full tour Q&A recording to verify Kelly's wording.
 
 ---
 
-**C-9701** Megyn Kelly Says Owens Is Under Pressure to Comment on Erika and Has Not
+**C-2645** Megyn Kelly Says Owens Is Under Pressure to Comment on Erika and Has Not
 
 Claim Timestamp: 00:05:30
 
@@ -1197,13 +1197,13 @@ Transcript Snippet: if you read her comments, she's under pressure to make comme
 Anchored Artifacts: A-1379.1
 Mentions: N-46, N-3, N-2
 Related Nodes: N-10237
-Supports: C-1668
+Supports: C-2644
 Tags: relevance:core
 Investigative Direction: Review Owens's public statements about Erika Kirk up to the date of the Kelly Q&A to test Kelly's characterization.
 
 ---
 
-**C-9702** Rubin Says He and Owens Were Great Friends and She Has Been to His House for Dinner
+**C-2647** Rubin Says He and Owens Were Great Friends and She Has Been to His House for Dinner
 
 Claim Timestamp: 00:06:40
 
@@ -1218,7 +1218,7 @@ Investigative Direction: Obtain the full Dave Rubin segment and its date to conf
 
 ---
 
-**C-9703** Host Confirms She Has Been to Rubin's House for Dinner
+**C-2648** Host Confirms She Has Been to Rubin's House for Dinner
 
 Claim Timestamp: 00:07:28
 
@@ -1228,13 +1228,13 @@ Transcript Snippet: I can fact check true. I have been to his house for dinner a
 
 Anchored Artifacts: A-1380.1
 Mentions: N-3, N-32
-Supports: C-9702
+Supports: C-2647
 Tags: relevance:tangential
 Investigative Direction: Corroborate with Rubin or third parties who attended; low-stakes and confirmable by either party.
 
 ---
 
-**C-9704** Host Says Kelly Invited Shapiro to Her Tour for a Conversation About Values, Not a Debate
+**C-2649** Host Says Kelly Invited Shapiro to Her Tour for a Conversation About Values, Not a Debate
 
 Claim Timestamp: 00:07:28
 
@@ -1249,7 +1249,7 @@ Investigative Direction: Ask Kelly's team for the invitation terms for the Shapi
 
 ---
 
-**C-9705** Host Says Kirk Felt Peer Pressure in the Weeks Before His Death and Zionists Called It a Lie
+**C-2650** Host Says Kirk Felt Peer Pressure in the Weeks Before His Death and Zionists Called It a Lie
 
 Claim Timestamp: 00:08:35
 
@@ -1260,13 +1260,13 @@ Transcript Snippet: And he was feeling a lot of peer pressure in the weeks leadi
 Anchored Artifacts: 
 Mentions: N-3, N-22, N-46, N-1
 Related Nodes: N-10047
-Supports: C-1162
+Supports: C-254
 Tags: relevance:core
 Investigative Direction: Collect Kirk's own statements, texts and donor communications from July to September 2025 describing the pressure.
 
 ---
 
-**C-9706** Tucker Says Kirk Told Him to Go All the Way After Tucker Said He Would Not Speak on Israel Because of Donors
+**C-2654** Tucker Says Kirk Told Him to Go All the Way After Tucker Said He Would Not Speak on Israel Because of Donors
 
 Claim Timestamp: 00:11:12
 
@@ -1277,13 +1277,13 @@ Transcript Snippet: I'll never forget it, and said, "Go all the way. Do it. Go a
 Anchored Artifacts: A-1381.1
 Mentions: N-22, N-1, N-9
 Related Nodes: N-11080, N-10047
-Supports: C-1669
+Supports: C-2651
 Tags: relevance:core
 Investigative Direction: Obtain Tucker's full unedited remarks and any witness or recording from backstage at the July Student Action Summit.
 
 ---
 
-**C-9707** Tucker Says Epstein Had Contact With Israeli, American and French Intelligence
+**C-2652** Tucker Says Epstein Had Contact With Israeli, American and French Intelligence
 
 Claim Timestamp: 00:09:38
 
@@ -1299,7 +1299,7 @@ Investigative Direction: Ask Carlson for the sources of his Epstein work; compar
 
 ---
 
-**C-9708** Host Says TPUSA Had Backstage Audio Because Everyone Was Mic'd and Could Have Released It
+**C-2653** Host Says TPUSA Had Backstage Audio Because Everyone Was Mic'd and Could Have Released It
 
 Claim Timestamp: 00:11:00
 
@@ -1315,7 +1315,7 @@ Investigative Direction: Request TPUSA's July 2025 Student Action Summit audio a
 
 ---
 
-**C-9709** Megyn Kelly Says the Go Max Tape Backs Up What Tucker Said
+**C-2656** Megyn Kelly Says the Go Max Tape Backs Up What Tucker Said
 
 Claim Timestamp: 00:12:50
 
@@ -1325,13 +1325,13 @@ Transcript Snippet: It's quick. It's just happens to be on tape and it backs up 
 
 Anchored Artifacts: A-1382.1
 Mentions: N-46, N-22, N-1
-Supports: C-1670
+Supports: C-2655
 Tags: relevance:core
 Investigative Direction: Preserve the original video with metadata and compare it with Carlson's account of the exchange.
 
 ---
 
-**C-9710** Host Says a Female Jewish Donor Yelled at Kirk After Tucker's Speech and She Will Out Her Later
+**C-2657** Host Says a Female Jewish Donor Yelled at Kirk After Tucker's Speech and She Will Out Her Later
 
 Claim Timestamp: 00:12:50
 
@@ -1347,7 +1347,7 @@ Investigative Direction: Identify the donor and any witnesses from the host's so
 
 ---
 
-**C-9711** Taylor Lorenz Tweeted That Owens Seemed Genuinely Devastated to Have Lost Kirk
+**C-2658** Taylor Lorenz Tweeted That Owens Seemed Genuinely Devastated to Have Lost Kirk
 
 Claim Timestamp: 00:13:26
 
@@ -1362,7 +1362,7 @@ Investigative Direction: Locate the original Taylor Lorenz post and its date.
 
 ---
 
-**C-9712** Host Says TPUSA Is Trying to Make Criticism Off Limits Because Erika Kirk Is CEO
+**C-2659** Host Says TPUSA Is Trying to Make Criticism Off Limits Because Erika Kirk Is CEO
 
 Claim Timestamp: 00:14:56
 
@@ -1378,7 +1378,7 @@ Investigative Direction: Collect TPUSA or ally statements asking that the organi
 
 ---
 
-**C-9713** Host Lists as a Lie That Mikey McCoy Called His Dad First, Attributed to Rob McCoy
+**C-2661** Host Lists as a Lie That Mikey McCoy Called His Dad First, Attributed to Rob McCoy
 
 Claim Timestamp: 00:16:32
 
@@ -1394,7 +1394,7 @@ Investigative Direction: Compare Rob McCoy's account with Mikey McCoy's phone ca
 
 ---
 
-**C-9714** Host Says Terryl Was Not Told by Police to Remove Cameras and Blames Bowyer
+**C-2662** Host Says Terryl Was Not Told by Police to Remove Cameras and Blames Bowyer
 
 Claim Timestamp: 00:16:32
 
@@ -1405,13 +1405,13 @@ Transcript Snippet: Terryl, the AV guy, uh, was told to remove the cameras by po
 Anchored Artifacts: 
 Mentions: N-261, N-11, N-3
 Related Nodes: N-10346, N-10100
-Contradicts: C-1366
+Contradicts: C-1363
 Tags: relevance:core
 Investigative Direction: Obtain police body-camera or CAD records showing whether any officer gave a camera or SD card instruction.
 
 ---
 
-**C-9715** Host Rebuts Kolvet's Account That Terryl Moved SD Cards Because People Were Stealing Hats
+**C-2663** Host Rebuts Kolvet's Account That Terryl Moved SD Cards Because People Were Stealing Hats
 
 Claim Timestamp: 00:16:32
 
@@ -1422,13 +1422,13 @@ Transcript Snippet: Terryl moved the SD cards because people were stealing hats.
 Anchored Artifacts: 
 Mentions: N-261, N-14
 Related Nodes: N-10100, N-10162
-Contradicts: C-1369
+Contradicts: C-1358
 Tags: relevance:core
 Investigative Direction: Obtain the original Kolvet statement and any report of hat or equipment theft at the event.
 
 ---
 
-**C-9716** Host Says Alex Clark Falsely Said Shapiro and Kirk Never Had Bad Blood
+**C-2664** Host Says Alex Clark Falsely Said Shapiro and Kirk Never Had Bad Blood
 
 Claim Timestamp: 00:16:32
 
@@ -1444,7 +1444,7 @@ Investigative Direction: Review the Alex Clark episode featuring Shapiro and doc
 
 ---
 
-**C-9717** Host Says the Claim That DOGE Was Just Like TPUSA's Yearly Audits Is a Lie
+**C-2665** Host Says the Claim That DOGE Was Just Like TPUSA's Yearly Audits Is a Lie
 
 Claim Timestamp: 00:16:32
 
@@ -1455,13 +1455,13 @@ Transcript Snippet: Charlie established Doge and that wasn't unusual. Turning Po
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10132, N-10434, N-11171
-Supports: C-6498
+Supports: C-1387
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA audited financial statements and Form 990s for 2012 to 2024 and any internal DOGE memos.
 
 ---
 
-**C-9718** Host Says Mikey McCoy Made Quick Phone Calls That Did Not Include 911
+**C-2667** Host Says Mikey McCoy Made Quick Phone Calls That Did Not Include 911
 
 Claim Timestamp: 00:18:01
 
@@ -1477,7 +1477,7 @@ Investigative Direction: Obtain Mikey McCoy's call log and the 911 call records 
 
 ---
 
-**C-9719** Host Says She Toured With Kirk Every Semester Until June 2024
+**C-2666** Host Says She Toured With Kirk Every Semester Until June 2024
 
 Claim Timestamp: 00:18:00
 
@@ -1493,7 +1493,7 @@ Investigative Direction: Check TPUSA tour schedules and past event listings for 
 
 ---
 
-**C-9720** Host Says Late July 18 Request Is Unusual Because TPUSA Events Are Usually Booked Out Entire Semesters
+**C-2670** Host Says Late July 18 Request Is Unusual Because TPUSA Events Are Usually Booked Out Entire Semesters
 
 Claim Timestamp: 00:19:14
 
@@ -1504,13 +1504,13 @@ Transcript Snippet: That is very late in the day for a request. They're usually 
 Anchored Artifacts: A-1387.1
 Mentions: N-1, N-3
 Related Nodes: N-10243
-Supports: C-1675
+Supports: C-2668
 Tags: relevance:core
 Investigative Direction: Compare lead times of past TPUSA campus events using ticketing and promotion dates.
 
 ---
 
-**C-9721** Host Says TPUSA HQ Approved the UVU Event and Sent Scouts Within Two Weeks
+**C-2671** Host Says TPUSA HQ Approved the UVU Event and Sent Scouts Within Two Weeks
 
 Claim Timestamp: 00:19:14
 
@@ -1521,13 +1521,13 @@ Transcript Snippet: Within two weeks, they had boots on the ground and they were
 Anchored Artifacts: A-1387.1
 Mentions: N-1
 Related Nodes: N-10243, N-10000
-Supports: C-1675
+Supports: C-2668
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA travel and expense records and UVU campus-visit logs for early August 2025.
 
 ---
 
-**C-9722** Host Says UVU Showed TPUSA Multiple Indoor and Outdoor Options Before Advising Against the Amphitheater
+**C-2672** Host Says UVU Showed TPUSA Multiple Indoor and Outdoor Options Before Advising Against the Amphitheater
 
 Claim Timestamp: 00:19:14
 
@@ -1538,13 +1538,13 @@ Transcript Snippet: after UVU showed them multiple options inside and outside, U
 Anchored Artifacts: A-1387.1
 Mentions: 
 Related Nodes: N-10243, N-10012
-Supports: C-1676
+Supports: C-2669
 Tags: relevance:core
 Investigative Direction: Obtain UVU event-services emails and site-visit notes listing the venues offered.
 
 ---
 
-**C-9723** Host Asks for Tips Identifying the TPUSA Employees Who Picked the Outdoor Venue
+**C-2674** Host Asks for Tips Identifying the TPUSA Employees Who Picked the Outdoor Venue
 
 Claim Timestamp: 00:21:38
 
@@ -1560,7 +1560,7 @@ Investigative Direction: Receive tips and identify the TPUSA events staff who sc
 
 ---
 
-**C-9724** Host Says Mikey McCoy's Wife Is One of TPUSA's Events Directors
+**C-2673** Host Says Mikey McCoy's Wife Is One of TPUSA's Events Directors
 
 Claim Timestamp: 00:20:57
 
@@ -1576,7 +1576,7 @@ Investigative Direction: Check TPUSA staff listings and obtain the events depart
 
 ---
 
-**C-9725** Host Relays a Tip That Locals Who Knew Rob McCoy Had Never Heard of a Mikey McCoy
+**C-2675** Host Relays a Tip That Locals Who Knew Rob McCoy Had Never Heard of a Mikey McCoy
 
 Claim Timestamp: 00:22:40
 
@@ -1592,7 +1592,7 @@ Investigative Direction: Interview Thousand Oaks church members and check school
 
 ---
 
-**C-9726** Host Says a TPUSA Insider Told Her Mikey Is Not Mikey McCoy's First Name
+**C-2676** Host Says a TPUSA Insider Told Her Mikey Is Not Mikey McCoy's First Name
 
 Claim Timestamp: 00:22:40
 
@@ -1608,7 +1608,7 @@ Investigative Direction: Check birth, school and licensing records for the legal
 
 ---
 
-**C-9727** Host Asks for Emails Revealing Mikey McCoy's Real Name
+**C-2677** Host Asks for Emails Revealing Mikey McCoy's Real Name
 
 Claim Timestamp: 00:22:40
 
@@ -1624,7 +1624,7 @@ Investigative Direction: Receive tips on Mikey McCoy's legal name.
 
 ---
 
-**C-9728** Host Says She Has Investigated Dylan and Austin Erickson for Two Months
+**C-2678** Host Says She Has Investigated Dylan and Austin Erickson for Two Months
 
 Claim Timestamp: 00:22:40
 
@@ -1640,7 +1640,7 @@ Investigative Direction: Verify employment status of both brothers with TPUSA an
 
 ---
 
-**C-9729** Host Says the Ericksons Brought In a Major Sponsor and Demands Got Interesting
+**C-2679** Host Says the Ericksons Brought In a Major Sponsor and Demands Got Interesting
 
 Claim Timestamp: 00:23:35
 
@@ -1656,7 +1656,7 @@ Investigative Direction: Obtain the sponsorship contracts and identify who intro
 
 ---
 
-**C-9730** Host Alleges the Ericksons Helped Create an Alibi Lie About the Hamptons Retreat
+**C-2680** Host Alleges the Ericksons Helped Create an Alibi Lie About the Hamptons Retreat
 
 Claim Timestamp: 00:23:35
 
@@ -1667,13 +1667,13 @@ Transcript Snippet: the lie, the alibi lie for the Hampton's retreat with Seth D
 Anchored Artifacts: 
 Mentions: N-20, N-849, N-38, N-3
 Related Nodes: N-10027, N-10345
-Supports: C-1173
+Supports: C-239
 Tags: relevance:core
 Investigative Direction: Compare the Ericksons' public statements about the Hamptons retreat with calendars, flight and attendee records.
 
 ---
 
-**C-9731** Host Says Seth Dillon Pressed Kirk and Kirk Called the Hamptons Event an Intervention
+**C-2681** Host Says Seth Dillon Pressed Kirk and Kirk Called the Hamptons Event an Intervention
 
 Claim Timestamp: 00:23:35
 
@@ -1684,14 +1684,14 @@ Transcript Snippet: Seth Dillon did press Charlie. Charlie himself described the
 Anchored Artifacts: 
 Mentions: N-38, N-1, N-3
 Related Nodes: N-10027, N-10345
-Supports: C-1128
-Supports: C-1173
+Supports: C-79
+Supports: C-239
 Tags: relevance:core
 Investigative Direction: Locate Kirk's own description of the Hamptons event as an intervention and witnesses who heard it.
 
 ---
 
-**C-9732** Host Says Many TPUSA Employees Are Leaking to Different People
+**C-2682** Host Says Many TPUSA Employees Are Leaking to Different People
 
 Claim Timestamp: 00:23:35
 
@@ -1707,7 +1707,7 @@ Investigative Direction: Not independently testable beyond the host's sources; l
 
 ---
 
-**C-9733** Host Says Tech People Found TPUSA May Use Software to Make Each Staffer's Email Wording Unique
+**C-2683** Host Says Tech People Found TPUSA May Use Software to Make Each Staffer's Email Wording Unique
 
 Claim Timestamp: 00:24:59
 
@@ -1723,7 +1723,7 @@ Investigative Direction: Have a technical expert compare leaked TPUSA emails for
 
 ---
 
-**C-9734** Host Repeats Her Tip Address Moretips@candaceowens.com
+**C-2684** Host Repeats Her Tip Address Moretips@candaceowens.com
 
 Claim Timestamp: 00:29:16
 
@@ -1738,7 +1738,7 @@ Investigative Direction: Receive tips sent to the address.
 
 ---
 
-**C-9735** Host Says Timpanogos Hospital Is Owned by HCA and Utah Valley Hospital by IHC on the Epic System
+**C-2685** Host Says Timpanogos Hospital Is Owned by HCA and Utah Valley Hospital by IHC on the Epic System
 
 Claim Timestamp: 00:29:22
 
@@ -1754,7 +1754,7 @@ Investigative Direction: Confirm ownership and electronic health record systems 
 
 ---
 
-**C-9736** Host Says the Two Hospitals Do Not Share Patient Information
+**C-2686** Host Says the Two Hospitals Do Not Share Patient Information
 
 Claim Timestamp: 00:30:21
 
@@ -1770,7 +1770,7 @@ Investigative Direction: Ask both hospital systems or a health-records expert wh
 
 ---
 
-**C-9737** Host Says Kirk's Utah Valley File and the Order Not to Touch It Remain Unexplained
+**C-2687** Host Says Kirk's Utah Valley File and the Order Not to Touch It Remain Unexplained
 
 Claim Timestamp: 00:30:21
 
@@ -1786,7 +1786,7 @@ Investigative Direction: Obtain the Utah Valley Hospital access-audit log for th
 
 ---
 
-**C-9738** Host Says Students Reported an Old Man Talking to a Bush at the Event
+**C-2688** Host Says Students Reported an Old Man Talking to a Bush at the Event
 
 Claim Timestamp: 00:30:21
 
@@ -1802,7 +1802,7 @@ Investigative Direction: Interview the students and review set-up footage for th
 
 ---
 
-**C-9739** Host Says the Video Cannot Show the Man Speaking to the Bush but Shows Him Alone Near It
+**C-2689** Host Says the Video Cannot Show the Man Speaking to the Bush but Shows Him Alone Near It
 
 Claim Timestamp: 00:32:02
 
@@ -1813,13 +1813,13 @@ Transcript Snippet: We absolutely cannot definitively confirm from this video th
 Anchored Artifacts: A-1384.1
 Mentions: N-3
 Related Nodes: N-10244
-Supports: C-1672
+Supports: C-2690
 Tags: relevance:core
 Investigative Direction: Obtain the original video file with metadata and the source's account of when and where it was filmed.
 
 ---
 
-**C-9740** Host Says Butch Hibbs Is Involved in a Calvary Chapel Church in Utah
+**C-2692** Host Says Butch Hibbs Is Involved in a Calvary Chapel Church in Utah
 
 Claim Timestamp: 00:32:57
 
@@ -1830,13 +1830,13 @@ Transcript Snippet: Butch Hibbs is also his brother who's involved in a Calvary 
 Anchored Artifacts: A-1383.1
 Mentions: N-208, N-246
 Related Nodes: N-10248
-Supports: C-1673
+Supports: C-2695
 Tags: relevance:core
 Investigative Direction: Identify Butch Hibbs's church and role from Calvary Chapel directories.
 
 ---
 
-**C-9741** Host Says Butch Hibbs Was Behind Kirk as He Got Out of the Car With Mikey McCoy
+**C-2693** Host Says Butch Hibbs Was Behind Kirk as He Got Out of the Car With Mikey McCoy
 
 Claim Timestamp: 00:32:57
 
@@ -1852,7 +1852,7 @@ Investigative Direction: Review arrival footage at the UVU drop-off area to conf
 
 ---
 
-**C-9742** Frank Turek Says After Arriving They Prayed and Got Out of the Car to a Group of TPUSA Leaders Posing for Pictures
+**C-2694** Frank Turek Says After Arriving They Prayed and Got Out of the Car to a Group of TPUSA Leaders Posing for Pictures
 
 Claim Timestamp: 00:32:57
 
@@ -1867,7 +1867,7 @@ Investigative Direction: Obtain Turek's full interview and arrival photos with m
 
 ---
 
-**C-9743** Host Says the Hibbs Family Is a Military Family and Butch Hibbs Senior Served in the Navy
+**C-2696** Host Says the Hibbs Family Is a Military Family and Butch Hibbs Senior Served in the Navy
 
 Claim Timestamp: 00:34:09
 
@@ -1883,7 +1883,7 @@ Investigative Direction: Search military service records for any Hibbs family me
 
 ---
 
-**C-9744** Host Says Marissa Streit Flagged Jack Hibbs as a Guest She Wanted on the Host's Show
+**C-2697** Host Says Marissa Streit Flagged Jack Hibbs as a Guest She Wanted on the Host's Show
 
 Claim Timestamp: 00:34:09
 
@@ -1899,7 +1899,7 @@ Investigative Direction: Ask the host for the original communication from Prager
 
 ---
 
-**C-9745** Host Says Marissa Streit Introduced Her to Tim Ballard of Operation Underground
+**C-2698** Host Says Marissa Streit Introduced Her to Tim Ballard of Operation Underground
 
 Claim Timestamp: 00:35:00
 
@@ -1915,7 +1915,7 @@ Investigative Direction: Confirm the introduction timeline between PragerU, Stre
 
 ---
 
-**C-9746** Host Says Kash Patel Left His Wife and Has Been With Wilkins About a Year and a Half
+**C-2700** Host Says Kash Patel Left His Wife and Has Been With Wilkins About a Year and a Half
 
 Claim Timestamp: 00:36:39
 
@@ -1931,7 +1931,7 @@ Investigative Direction: Check public reporting on Patel's marital status and th
 
 ---
 
-**C-9747** Lawsuit Says Since February 2025 Online Corners Have Spread a False Narrative That Wilkins Is a Mossad Agent
+**C-2704** Lawsuit Says Since February 2025 Online Corners Have Spread a False Narrative That Wilkins Is a Mossad Agent
 
 Claim Timestamp: 00:37:38
 
@@ -1942,13 +1942,13 @@ Transcript Snippet: Ever since Kash Patel was appointed as director of the FBI i
 Anchored Artifacts: A-1385.1
 Mentions: N-212, N-69
 Related Nodes: N-10245, N-10015
-Supports: C-1677
+Supports: C-2701
 Tags: relevance:context
 Investigative Direction: Obtain the filed complaint and verify the quoted paragraph and filing date.
 
 ---
 
-**C-9748** Host Says Some Defendants Did Not Explicitly Call Wilkins a Honeypot and Only Posted a Picture
+**C-2705** Host Says Some Defendants Did Not Explicitly Call Wilkins a Honeypot and Only Posted a Picture
 
 Claim Timestamp: 00:37:38
 
@@ -1959,13 +1959,13 @@ Transcript Snippet: they didn't even explicitly call her a honeypot. They just p
 Anchored Artifacts: A-1385.3
 Mentions: N-247, N-212
 Related Nodes: N-10245
-Supports: C-1679
+Supports: C-2703
 Tags: relevance:context
 Investigative Direction: Compare each defendant's alleged conduct in the complaint with the original posts.
 
 ---
 
-**C-9749** Host Says the Lawsuit Was Filed With Kash Patel's Knowledge and Blessing
+**C-2706** Host Says the Lawsuit Was Filed With Kash Patel's Knowledge and Blessing
 
 Claim Timestamp: 00:39:54
 
@@ -1981,7 +1981,7 @@ Investigative Direction: Seek any Patel statement on whether he knew of or appro
 
 ---
 
-**C-9750** Host Says She Has Never Claimed Wilkins Is a Honeypot and Knows of No Evidence
+**C-2707** Host Says She Has Never Claimed Wilkins Is a Honeypot and Knows of No Evidence
 
 Claim Timestamp: 00:40:30
 
@@ -1997,7 +1997,7 @@ Investigative Direction: Review the host's earlier remarks about Wilkins for any
 
 ---
 
-**C-9751** Host Says the Only Basis People Cite Is Wilkins Working for Marissa Streit at PragerU, Formerly of IDF Intelligence
+**C-2708** Host Says the Only Basis People Cite Is Wilkins Working for Marissa Streit at PragerU, Formerly of IDF Intelligence
 
 Claim Timestamp: 00:40:30
 
@@ -2013,7 +2013,7 @@ Investigative Direction: Check Wilkins's employment history and Streit's biograp
 
 ---
 
-**C-9752** Host Confirms a Live-Chat Viewer That Mikey McCoy Went to Oaks Christian in Thousand Oaks
+**C-2709** Host Confirms a Live-Chat Viewer That Mikey McCoy Went to Oaks Christian in Thousand Oaks
 
 Claim Timestamp: 00:44:55
 
@@ -2029,7 +2029,7 @@ Investigative Direction: Verify through Oaks Christian alumni listings or yearbo
 
 ---
 
-**C-9753** Host Says Rob McCoy Ran the School, Little Oaks
+**C-2710** Host Says Rob McCoy Ran the School, Little Oaks
 
 Claim Timestamp: 00:44:55
 
@@ -2045,7 +2045,7 @@ Investigative Direction: Check school leadership records for Rob McCoy and the s
 
 ---
 
-**C-9754** Host Says Calvary Chapel Bought the Christian Academy in 2009
+**C-2711** Host Says Calvary Chapel Bought the Christian Academy in 2009
 
 Claim Timestamp: 00:45:59
 
@@ -2061,7 +2061,7 @@ Investigative Direction: Locate the news article and county or corporate records
 
 ---
 
-**C-9755** Host Says Teachers Sued Rob McCoy Over Firings and He Filed in Federal Court Claiming They Were Not Christian Enough
+**C-2712** Host Says Teachers Sued Rob McCoy Over Firings and He Filed in Federal Court Claiming They Were Not Christian Enough
 
 Claim Timestamp: 00:45:59
 
@@ -2077,7 +2077,7 @@ Investigative Direction: Search federal docket records for the teachers' case ag
 
 ---
 
-**C-9756** Host Says Rob McCoy and Mikey McCoy Are Gaslighting by Treating Their Behavior as Normal
+**C-2713** Host Says Rob McCoy and Mikey McCoy Are Gaslighting by Treating Their Behavior as Normal
 
 Claim Timestamp: 00:46:30
 
@@ -2093,7 +2093,7 @@ Investigative Direction: Opinion framing; no direct test, retained for context.
 
 ---
 
-**C-9757** Host Says Leaks Come From TPUSA Insiders and She Holds a File on What the Erickson Brothers Do and Say
+**C-2714** Host Says Leaks Come From TPUSA Insiders and She Holds a File on What the Erickson Brothers Do and Say
 
 Claim Timestamp: 00:47:44
 
@@ -2109,7 +2109,7 @@ Investigative Direction: Not independently testable beyond the host's file; seek
 
 ---
 
-**C-9758** Host Says Kanye's Tweet Said Death Con 3 but He Meant Defcon 3
+**C-2716** Host Says Kanye's Tweet Said Death Con 3 but He Meant Defcon 3
 
 Claim Timestamp: 00:49:13
 
@@ -2120,13 +2120,13 @@ Transcript Snippet: he wrote death. He meant defcon 3 because it's a defensive p
 Anchored Artifacts: A-1389.1
 Mentions: N-27, N-3
 Related Nodes: N-10004
-Qualifies: C-1681
+Qualifies: C-2715
 Tags: relevance:tangential
 Investigative Direction: Retrieve the original tweet and Kanye's follow-up explanations to settle the exact wording.
 
 ---
 
-**C-9759** Host Says Kanye Was Talking About Zionists in Hollywood Who Tried to Compel Him
+**C-2717** Host Says Kanye Was Talking About Zionists in Hollywood Who Tried to Compel Him
 
 Claim Timestamp: 00:49:13
 
@@ -2142,7 +2142,7 @@ Investigative Direction: Review Kanye's contemporaneous statements about who he 
 
 ---
 
-**C-9760** Kanye Tweet Says People Tried to Blackball Anyone Who Opposes Their Agenda
+**C-2718** Kanye Tweet Says People Tried to Blackball Anyone Who Opposes Their Agenda
 
 Claim Timestamp: 00:49:13
 
@@ -2158,7 +2158,7 @@ Investigative Direction: Retrieve the archived tweet text.
 
 ---
 
-**C-9761** Host Says Israel Lacks Manpower and Plays Psychological Games to Get Americans to Fight for It
+**C-2719** Host Says Israel Lacks Manpower and Plays Psychological Games to Get Americans to Fight for It
 
 Claim Timestamp: 00:50:14
 
@@ -2174,7 +2174,7 @@ Investigative Direction: Assertion about a country and group recorded as said; c
 
 ---
 
-**C-9762** Host Says the US Killed About a Million Iraqi Civilians in the Iraq War
+**C-2720** Host Says the US Killed About a Million Iraqi Civilians in the Iraq War
 
 Claim Timestamp: 00:52:05
 
@@ -2189,7 +2189,7 @@ Investigative Direction: Compare with published Iraq war civilian death estimate
 
 ---
 
-**C-9763** Host Says Trump Wants a Gaza Casino and Jared Kushner Is Doing Beachfront Deals
+**C-2721** Host Says Trump Wants a Gaza Casino and Jared Kushner Is Doing Beachfront Deals
 
 Claim Timestamp: 00:52:05
 
@@ -2205,7 +2205,7 @@ Investigative Direction: Review reporting on Gaza redevelopment proposals and Ku
 
 ---
 
-**C-9764** Host Says Passing Speech Laws Is a General Thing Zionists Do to Rewrite History
+**C-2722** Host Says Passing Speech Laws Is a General Thing Zionists Do to Rewrite History
 
 Claim Timestamp: 00:54:04
 

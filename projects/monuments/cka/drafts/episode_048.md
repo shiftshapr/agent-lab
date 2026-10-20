@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10): N-11018, N-11019, N-11021
   - Hole-minted Nodes (reintro-ep048): N-10368, N-10643
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10): C-5185–C-5271
+  - Claim Range: C-4177–C-4274
   - New Nodes Introduced: N-10359, N-10360, N-10361, N-10362, N-10363, N-10364, N-10365
   - Reused Nodes Appearing: N-159, N-3, N-1, N-378, N-5, N-4, N-22, N-36, N-40, N-46, N-69, N-82, N-118, N-190, N-201, N-204, N-224, N-267, N-10000, N-10012, N-10014, N-10026, N-10083, N-10202, N-10239, N-10253, N-10290, N-10344, N-10347, N-360, N-10367, N-10373, N-10887, N-10358, N-10366, N-11020
   - (see registers)
@@ -215,7 +215,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Description: Read aloud on air by the host. Contains attributed quotation: "Absolutely, the bullet should have gone through... His bone was so healthy and the density was so, so impressive that he's like the man of steel." Quotation framed as having come from "the surgeon."
 
-*Related: C-1960, N-14, N-195, N-10358*
+*Related: C-4179, N-14, N-195, N-10358*
 
 ---
 
@@ -228,7 +228,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Description: Audio clip played on air. Turek states: "They roped off the vehicle that we took out of there as a crime scene... we couldn't get into the vehicle until the FBI cleared it... draped over my bag was Charlie's necklace that had a cross and medallions on it."
 
-*Related: C-1961, C-1962, N-7, N-10362*
+*Related: C-4212, C-4213, N-7, N-10362*
 
 ---
 
@@ -241,7 +241,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Description: Video clip played on air. Coleman defines SAM (Special Air Mission) call signs, states SAM000 is rarely used and indicates highly sensitive VIP manifests. Displayed on screen: flight landing Las Vegas at 4:48 p.m. local time on August 25 with SAM000 call sign; RCH658 flight departing Las Vegas at 3:14 p.m. on August 26 with missing transponder data; landing in Colorado Springs; subsequent SAM658 return flight to Joint Base Andrews. Coleman states SAM000 on August 25 flew "from Joint Base Andrews to Colorado Springs."
 
-*Related: C-1963, C-1964, C-1965, C-1966, N-330, N-10363, N-10364, N-10365*
+*Related: C-4230, C-4232, C-4233, C-4234, N-330, N-10363, N-10364, N-10365*
 
 ---
 
@@ -254,7 +254,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Description: Audio clip played on air. Harpole states: "the 24th of the month prior... that first information came in on the 24th and then the information share starts." Host frames this as the same date Operation Valhalla Strike began (Aug 24).
 
-*Related: C-1967, N-266, N-10365, N-10366*
+*Related: C-4238, N-266, N-10365, N-10366*
 
 ---
 
@@ -269,7 +269,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Description: Six photographs held by the host. Host states at ~31:17 that the team considered displaying one described as "the back row" photo that is "not so gory." A photo is briefly displayed on screen.
 
-*Related: C-1968, N-10362*
+*Related: C-4219, N-10362*
 
 ---
 
@@ -284,7 +284,7 @@ Video Timestamp: 00:15:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5207, N-3*
+*Related: C-4200, N-3*
 
 ---
 
@@ -299,7 +299,7 @@ Video Timestamp: 00:18:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5211, C-5212, C-5213, C-5214, N-3*
+*Related: C-4204, C-4205, C-4206, C-4207, N-3*
 
 ---
 
@@ -314,7 +314,7 @@ Video Timestamp: 00:42:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5238, N-3*
+*Related: C-4241, N-3*
 
 ---
 
@@ -329,7 +329,7 @@ Video Timestamp: 00:44:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5241, C-5242, C-5243, N-3*
+*Related: C-4244, C-4245, C-4246, N-3*
 
 ---
 
@@ -344,7 +344,7 @@ Video Timestamp: 00:55:44
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5255, C-5256, C-5257, C-5258, N-3*
+*Related: C-4258, C-4259, C-4260, C-4261, N-3*
 
 ---
 
@@ -359,7 +359,7 @@ Video Timestamp: 00:57:46
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-5261, N-3*
+*Related: C-4264, N-3*
 
 ---
 
@@ -372,7 +372,7 @@ Video Timestamp: 00:59:17
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-5265, C-5266, C-5267, N-3*
+*Related: C-4268, C-4269, C-4270, N-3*
 
 ---
 
@@ -388,7 +388,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1552.1, C-1960, N-10358*
+*Related: A-1552.1, C-4179, N-10358*
 
 ---
 
@@ -401,7 +401,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1552.1, C-1960, N-10358*
+*Related: A-1552.1, C-4179, N-10358*
 
 ---
 
@@ -414,7 +414,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1553.1, C-1961, C-1962, N-10362*
+*Related: A-1553.1, C-4212, C-4213, N-10362*
 
 ---
 
@@ -427,7 +427,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1554.1, C-1963, C-1964, C-1965, C-1966, N-10363, N-10364*
+*Related: A-1554.1, C-4230, C-4232, C-4233, C-4234, N-10363, N-10364*
 
 ---
 
@@ -440,7 +440,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1555.1, C-1967, N-10365*
+*Related: A-1555.1, C-4238, N-10365*
 
 ---
 
@@ -492,7 +492,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1552.1, C-1960, N-14, N-195*
+*Related: A-1552.1, C-4179, N-14, N-195*
 
 ---
 
@@ -557,7 +557,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1554.1, C-1964, N-330*
+*Related: A-1554.1, C-4232, N-330*
 
 ---
 
@@ -570,7 +570,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1554.1, C-1965, C-1966, N-330*
+*Related: A-1554.1, C-4233, C-4234, N-330*
 
 ---
 
@@ -596,7 +596,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1555.1, C-1967, N-266*
+*Related: A-1555.1, C-4238, N-266*
 
 ---
 
@@ -604,7 +604,7 @@ Investigative Pressure: Medium
 
 Subject of the assassination story; his care at the hospital and the vehicle are discussed.
 
-*Related: C-5187, C-5192, C-5193, C-5194, C-5196, C-5252, C-5268*
+*Related: C-4180, C-4185, C-4186, C-4187, C-4189, C-4255, C-4271*
 
 ---
 
@@ -612,7 +612,7 @@ Subject of the assassination story; his care at the hospital and the vehicle are
 
 Charlie's wife; discussed regarding the hospital, the PR blitz and the Mikey call.
 
-*Related: C-5193, C-5194, C-5267, C-5268*
+*Related: C-4186, C-4187, C-4270, C-4271*
 
 ---
 
@@ -620,7 +620,7 @@ Charlie's wife; discussed regarding the hospital, the PR blitz and the Mikey cal
 
 Host; speaks for herself throughout.
 
-*Related: C-5185, C-5186, C-5188, C-5189, C-5190, C-5191, C-5192, C-5195, C-5196, C-5197, C-5198, C-5199, C-5200, C-5201, C-5202, C-5203, C-5204, C-5205, C-5206, C-5207, C-5208, C-5209, C-5210, C-5211, C-5212, C-5213, C-5214, C-5215, C-5216, C-5217, C-5218, C-5219, C-5220, C-5221, C-5222, C-5223, C-5224, C-5225, C-5226, C-5227, C-5228, C-5234, C-5238, C-5239, C-5240, C-5241, C-5242, C-5243, C-5244, C-5245, C-5246, C-5247, C-5248, C-5249, C-5250, C-5251, C-5252, C-5253, C-5254, C-5255, C-5256, C-5257, C-5258, C-5259, C-5260, C-5261, C-5262, C-5263, C-5264, C-5265, C-5266, C-5267, C-5268, C-5269, C-5270, C-5271*
+*Related: C-4177, C-4178, C-4181, C-4182, C-4183, C-4184, C-4185, C-4188, C-4189, C-4190, C-4191, C-4192, C-4193, C-4194, C-4195, C-4196, C-4197, C-4198, C-4199, C-4200, C-4201, C-4202, C-4203, C-4204, C-4205, C-4206, C-4207, C-4209, C-4210, C-4211, C-4214, C-4215, C-4216, C-4217, C-4218, C-4221, C-4222, C-4223, C-4224, C-4225, C-4226, C-4236, C-4241, C-4242, C-4243, C-4244, C-4245, C-4246, C-4247, C-4248, C-4249, C-4250, C-4251, C-4252, C-4253, C-4254, C-4255, C-4256, C-4257, C-4258, C-4259, C-4260, C-4261, C-4262, C-4263, C-4264, C-4265, C-4266, C-4267, C-4268, C-4269, C-4270, C-4271, C-4272, C-4273, C-4274*
 
 ---
 
@@ -628,7 +628,7 @@ Host; speaks for herself throughout.
 
 Placed by the host with Donald Trump at a DC restaurant on the evening in question.
 
-*Related: C-5269*
+*Related: C-4272*
 
 ---
 
@@ -636,7 +636,7 @@ Placed by the host with Donald Trump at a DC restaurant on the evening in questi
 
 Named regarding Bongino's departure, the SAM jet and a DC restaurant sighting.
 
-*Related: C-5215, C-5231, C-5269*
+*Related: C-4209, C-4229, C-4272*
 
 ---
 
@@ -644,7 +644,7 @@ Named regarding Bongino's departure, the SAM jet and a DC restaurant sighting.
 
 Named by the host as another target of Netanyahu's name-check.
 
-*Related: C-5253*
+*Related: C-4256*
 
 ---
 
@@ -652,7 +652,7 @@ Named by the host as another target of Netanyahu's name-check.
 
 Host says he name-checked her and Tucker Carlson.
 
-*Related: C-5253*
+*Related: C-4256*
 
 ---
 
@@ -660,7 +660,7 @@ Host says he name-checked her and Tucker Carlson.
 
 Named as the alleged shooter in the Freya canine trace account.
 
-*Related: C-5208*
+*Related: C-4201*
 
 ---
 
@@ -668,7 +668,7 @@ Named as the alleged shooter in the Freya canine trace account.
 
 Host says Patel answered by not answering on her show.
 
-*Related: C-5262*
+*Related: C-4265*
 
 ---
 
@@ -676,7 +676,7 @@ Host says Patel answered by not answering on her show.
 
 Subject of the 'We got them' retraction and the host's outreach to the FBI.
 
-*Related: C-5224, C-5262, C-5263*
+*Related: C-4222, C-4265, C-4266*
 
 ---
 
@@ -684,7 +684,7 @@ Subject of the 'We got them' retraction and the host's outreach to the FBI.
 
 Host says Piers Morgan still believes Brigitte is a woman who hides photos.
 
-*Related: C-5260*
+*Related: C-4263*
 
 ---
 
@@ -692,7 +692,7 @@ Host says Piers Morgan still believes Brigitte is a woman who hides photos.
 
 Host says she told viewers he handed X to the military.
 
-*Related: C-5250*
+*Related: C-4253*
 
 ---
 
@@ -700,7 +700,7 @@ Host says she told viewers he handed X to the military.
 
 Subject of the three-way call and Blake Neff account.
 
-*Related: C-5266, C-5267*
+*Related: C-4269, C-4270*
 
 ---
 
@@ -708,7 +708,7 @@ Subject of the three-way call and Blake Neff account.
 
 Named among those saying Candace is over.
 
-*Related: C-5251*
+*Related: C-4254*
 
 ---
 
@@ -716,7 +716,7 @@ Named among those saying Candace is over.
 
 Host's interview earlier that day; his JFK and Brigitte Macron views.
 
-*Related: C-5255, C-5256, C-5257, C-5259, C-5260*
+*Related: C-4258, C-4259, C-4260, C-4262, C-4263*
 
 ---
 
@@ -724,7 +724,7 @@ Host's interview earlier that day; his JFK and Brigitte Macron views.
 
 Interviewer in the Harpole clip played on air.
 
-*Related: C-5236*
+*Related: C-4239*
 
 ---
 
@@ -732,7 +732,7 @@ Interviewer in the Harpole clip played on air.
 
 Named among those saying Candace is over.
 
-*Related: C-5251*
+*Related: C-4254*
 
 ---
 
@@ -740,7 +740,7 @@ Named among those saying Candace is over.
 
 Subject of the host's comments on his departure from the FBI.
 
-*Related: C-5215, C-5216*
+*Related: C-4209, C-4210*
 
 ---
 
@@ -748,7 +748,7 @@ Subject of the host's comments on his departure from the FBI.
 
 Organization the host says wanted a private meeting.
 
-*Related: C-5252*
+*Related: C-4255*
 
 ---
 
@@ -756,7 +756,7 @@ Organization the host says wanted a private meeting.
 
 Site of the event; topography dispute over the gun recovery site.
 
-*Related: C-5198*
+*Related: C-4191*
 
 ---
 
@@ -764,7 +764,7 @@ Site of the event; topography dispute over the gun recovery site.
 
 Agency whose badge the RAV4 driver allegedly flashed; target of host outreach.
 
-*Related: C-5213*
+*Related: C-4206*
 
 ---
 
@@ -772,7 +772,7 @@ Agency whose badge the RAV4 driver allegedly flashed; target of host outreach.
 
 Host links Egyptian planes and Netanyahu remarks to Israel.
 
-*Related: C-5249, C-5253*
+*Related: C-4252, C-4256*
 
 ---
 
@@ -780,7 +780,7 @@ Host links Egyptian planes and Netanyahu remarks to Israel.
 
 Existing topic reused for Bongino comments.
 
-*Related: C-5215, C-5216*
+*Related: C-4209, C-4210*
 
 ---
 
@@ -788,7 +788,7 @@ Existing topic reused for Bongino comments.
 
 Organization the host alleges was implicated in the JFK matter.
 
-*Related: C-5258*
+*Related: C-4261*
 
 ---
 
@@ -796,7 +796,7 @@ Organization the host alleges was implicated in the JFK matter.
 
 Existing topic reused for the host's statements on federal conduct on the day.
 
-*Related: C-5210, C-5223, C-5224, C-5225, C-5262, C-5264*
+*Related: C-4203, C-4221, C-4222, C-4223, C-4265, C-4267*
 
 ---
 
@@ -804,7 +804,7 @@ Existing topic reused for the host's statements on federal conduct on the day.
 
 Existing topic reused for the camera seizure claim.
 
-*Related: C-5197*
+*Related: C-4190*
 
 ---
 
@@ -812,7 +812,7 @@ Existing topic reused for the camera seizure claim.
 
 Existing topic reused for SUBTV flight logs.
 
-*Related: C-5248, C-5249*
+*Related: C-4251, C-4252*
 
 ---
 
@@ -820,7 +820,7 @@ Existing topic reused for SUBTV flight logs.
 
 Existing topic reused for the host's French Legion evidence claim.
 
-*Related: C-5263*
+*Related: C-4266*
 
 ---
 
@@ -828,7 +828,7 @@ Existing topic reused for the host's French Legion evidence claim.
 
 Existing topic reused for the security gift option.
 
-*Related: C-5254*
+*Related: C-4257*
 
 ---
 
@@ -836,7 +836,7 @@ Existing topic reused for the security gift option.
 
 Existing topic reused for the host's Israel link.
 
-*Related: C-5249*
+*Related: C-4252*
 
 ---
 
@@ -844,7 +844,7 @@ Existing topic reused for the host's Israel link.
 
 Existing topic reused for the eyewitness verification claims.
 
-*Related: C-5227, C-5228, C-5230, C-5239, C-5240, C-5241, C-5242, C-5243, C-5244, C-5245*
+*Related: C-4225, C-4226, C-4228, C-4242, C-4243, C-4244, C-4245, C-4246, C-4247, C-4248*
 
 ---
 
@@ -852,7 +852,7 @@ Existing topic reused for the eyewitness verification claims.
 
 Existing topic reused for the intelligence base claim.
 
-*Related: C-5242*
+*Related: C-4245*
 
 ---
 
@@ -860,7 +860,7 @@ Existing topic reused for the intelligence base claim.
 
 Existing topic reused for the possible attendance claims.
 
-*Related: C-5246, C-5247*
+*Related: C-4249, C-4250*
 
 ---
 
@@ -868,7 +868,7 @@ Existing topic reused for the possible attendance claims.
 
 Existing topic reused for the Tokyo return flight claim.
 
-*Related: C-5246, C-5247*
+*Related: C-4249, C-4250*
 
 ---
 
@@ -876,7 +876,7 @@ Existing topic reused for the Tokyo return flight claim.
 
 Place reused for the SAM000 landing and the congressman link.
 
-*Related: C-5233, C-5270, C-5271*
+*Related: C-4235, C-4273, C-4274*
 
 ---
 
@@ -885,7 +885,7 @@ Place reused for the SAM000 landing and the congressman link.
 Node Type: Organization
 Agency whose bomb dogs the host says searched the gun area and found nothing before federally directed officers found the weapon.
 
-*Related: C-5204*
+*Related: C-4197*
 
 ---
 
@@ -894,7 +894,7 @@ Agency whose bomb dogs the host says searched the gun area and found nothing bef
 Node Type: Topic
 Host's account of a canine called Freya who traced a scent from the base of the building to the Losee Center rooftop using a condensed scent trace rather than the recovered gun.
 
-*Related: C-5208, C-5209*
+*Related: C-4201, C-4202*
 
 ---
 
@@ -903,7 +903,7 @@ Host's account of a canine called Freya who traced a scent from the base of the 
 Node Type: Topic
 Host's repeated claim that online reaction against her is driven by military grade bots, including new accounts and identical messaging, and that X was handed to the military.
 
-*Related: C-5217, C-5226, C-5227, C-5250, C-5251*
+*Related: C-4211, C-4224, C-4225, C-4253, C-4254*
 
 ---
 
@@ -912,13 +912,13 @@ Host's repeated claim that online reaction against her is driven by military gra
 Node Type: Topic
 Host's claim that the person Harry believes he saw leaving the September 9 Fort Huachuca meeting was a Las Vegas congressman, and her speculation tying this to the Las Vegas stop of the SAM000 aircraft.
 
-*Related: C-5270, C-5271*
+*Related: C-4273, C-4274*
 
 ---
 
 ## 5. Claim Register
 
-**C-1960** Kolvet X Post Attributes "Man of Steel" Quotation to Surgeon
+**C-4179** Kolvet X Post Attributes "Man of Steel" Quotation to Surgeon
 
 Claim Timestamp: 00:03:52
 
@@ -933,7 +933,7 @@ Investigative Direction: Obtain original Kolvet post via direct retrieval or arc
 
 ---
 
-**C-1961** Turek States FBI Cleared Vehicle Before He Retrieved His Bag
+**C-4212** Turek States FBI Cleared Vehicle Before He Retrieved His Bag
 
 Claim Timestamp: 00:27:12
 
@@ -948,7 +948,7 @@ Investigative Direction: Cross-reference with FBI case file records, impound log
 
 ---
 
-**C-1962** Turek States Charlie's Necklace Was on His Bag in Vehicle
+**C-4213** Turek States Charlie's Necklace Was on His Bag in Vehicle
 
 Claim Timestamp: 00:27:47
 
@@ -963,7 +963,7 @@ Investigative Direction: Verify against any chain-of-custody documentation for C
 
 ---
 
-**C-1963** Coleman Identifies SAM000 as Rare, Highly Sensitive Call Sign
+**C-4230** Coleman Identifies SAM000 as Rare, Highly Sensitive Call Sign
 
 Claim Timestamp: 00:36:19
 
@@ -978,7 +978,7 @@ Investigative Direction: Cross-check against USAF flight plan records and ATC te
 
 ---
 
-**C-1964** Coleman States SAM000 Flight Originated at Andrews to Colorado Springs on August 25
+**C-4232** Coleman States SAM000 Flight Originated at Andrews to Colorado Springs on August 25
 
 Claim Timestamp: 00:38:14
 
@@ -993,7 +993,7 @@ Investigative Direction: Obtain raw flight plan and ATC records to verify origin
 
 ---
 
-**C-1965** Host Shows RCH658 Flight Las Vegas to Colorado Springs with Missing Transponder Data
+**C-4233** Host Shows RCH658 Flight Las Vegas to Colorado Springs with Missing Transponder Data
 
 Claim Timestamp: 00:39:24
 
@@ -1008,7 +1008,7 @@ Investigative Direction: Obtain radar track records and ADS-B exchange logs for 
 
 ---
 
-**C-1966** Host Shows Return Flight Colorado Springs to Andrews as SAM658
+**C-4234** Host Shows Return Flight Colorado Springs to Andrews as SAM658
 
 Claim Timestamp: 00:39:24
 
@@ -1023,7 +1023,7 @@ Investigative Direction: Cross-reference the call sign change with any known VIP
 
 ---
 
-**C-1967** Harpole States UVU Event Intelligence Gathering Began August 24
+**C-4238** Harpole States UVU Event Intelligence Gathering Began August 24
 
 Claim Timestamp: 00:41:47
 
@@ -1038,7 +1038,7 @@ Investigative Direction: Corroborate against any contemporaneous operational rec
 
 ---
 
-**C-1968** Owens Possesses Six Photographs of Transport Vehicle Interior
+**C-4219** Owens Possesses Six Photographs of Transport Vehicle Interior
 
 Claim Timestamp: 00:30:33
 
@@ -1054,7 +1054,7 @@ Investigative Direction: Establish chain of custody for the photographs and veri
 ---
 
 
-**C-3654** Host elevates mommy sleuth crowd investigators
+**C-4220** Host elevates mommy sleuth crowd investigators
 
 Claim Timestamp: 00:31:17
 Claim: The host praises "mommy sleuth(s)" as amateur / parent investigators emailing tips, framed as part of the crowd intelligence effort.
@@ -1067,7 +1067,7 @@ Investigative Direction: Cross-link M-16 Mommy Sleuth meme when register present
 
 ---
 
-**C-3758** Host calls the Charlie Kirk case the most extreme cover-up she has seen, carried out by the feds
+**C-4208** Host calls the Charlie Kirk case the most extreme cover-up she has seen, carried out by the feds
 
 Claim Timestamp: 00:24:40
 
@@ -1082,7 +1082,7 @@ Investigative Direction: Track Bongino's departure announcement and any statemen
 
 ---
 
-**C-5185** Host Says Kolvet Was Allegedly Flying Blind When He Tweeted the Surgeon Conversation
+**C-4177** Host Says Kolvet Was Allegedly Flying Blind When He Tweeted the Surgeon Conversation
 
 Claim Timestamp: 00:02:37
 
@@ -1097,7 +1097,7 @@ Investigative Direction: Identify the host's source and obtain Kolvet's own acco
 
 ---
 
-**C-5186** Host Says Kolvet's Superman Neck Tweet Followed Her Remark About No Blood in Back Footage
+**C-4178** Host Says Kolvet's Superman Neck Tweet Followed Her Remark About No Blood in Back Footage
 
 Claim Timestamp: 00:02:37
 
@@ -1112,7 +1112,7 @@ Investigative Direction: Compare the broadcast timestamp of the host's remark wi
 
 ---
 
-**C-5187** Host Says Dr. Trotter Never Said Charlie's Neck Stopped a .30-06 Bullet
+**C-4180** Host Says Dr. Trotter Never Said Charlie's Neck Stopped a .30-06 Bullet
 
 Claim Timestamp: 00:04:37
 
@@ -1123,12 +1123,12 @@ Transcript Snippet: never once did Dr. Lee Trotter say that Charlie's neck was s
 Anchored Artifacts: 
 Mentions: N-195, N-14, N-1
 Related Nodes: N-10358
-Qualifies: C-1960
+Qualifies: C-4179
 Investigative Direction: Obtain a direct statement from Dr. Trotter or his representatives, and any hospital communications record of what he told Kolvet.
 
 ---
 
-**C-5188** Host Says She Did Not Speak to Trotter but Has Verified and Trusts Her Source
+**C-4181** Host Says She Did Not Speak to Trotter but Has Verified and Trusts Her Source
 
 Claim Timestamp: 00:04:37
 
@@ -1143,7 +1143,7 @@ Investigative Direction: Seek a named, on-record confirmation from a person clos
 
 ---
 
-**C-5189** Host Says the Quotation Put Undue Stress on the Surgeon's Family and Staff
+**C-4182** Host Says the Quotation Put Undue Stress on the Surgeon's Family and Staff
 
 Claim Timestamp: 00:04:37
 
@@ -1158,7 +1158,7 @@ Investigative Direction: Identify who has publicly accused the surgeon's family 
 
 ---
 
-**C-5190** Host Says Trotter Hunts and Told Kolvet It Was Likely a Frangible Bullet
+**C-4183** Host Says Trotter Hunts and Told Kolvet It Was Likely a Frangible Bullet
 
 Claim Timestamp: 00:06:20
 
@@ -1169,12 +1169,12 @@ Transcript Snippet: What he communicated is that it was likely a frangible bulle
 Anchored Artifacts: 
 Mentions: N-195, N-14, N-3
 Related Nodes: N-10358
-Qualifies: C-1960
+Qualifies: C-4179
 Investigative Direction: Ask Kolvet and the surgeon's circle what exactly was said about bullet type, and compare with the autopsy and ballistics record.
 
 ---
 
-**C-5191** Host Says Kolvet Also Said the Bullet Ricocheted, Conflicting with the Frangible Account
+**C-4184** Host Says Kolvet Also Said the Bullet Ricocheted, Conflicting with the Frangible Account
 
 Claim Timestamp: 00:06:20
 
@@ -1185,12 +1185,12 @@ Transcript Snippet: Well, Andrew also told us that the bullet did ricochet. So, 
 Anchored Artifacts: 
 Mentions: N-14, N-3
 Related Nodes: N-10358
-Qualifies: C-1960
+Qualifies: C-4179
 Investigative Direction: Quote Kolvet's exact wording on ricochet from his X thread and compare with the wound description in any official report.
 
 ---
 
-**C-5192** Host Says Two Unrelated Sources Reported a Call Placed to DC at the Hospital About Charlie's Body
+**C-4185** Host Says Two Unrelated Sources Reported a Call Placed to DC at the Hospital About Charlie's Body
 
 Claim Timestamp: 00:07:24
 
@@ -1205,7 +1205,7 @@ Investigative Direction: Seek hospital phone records or staff accounts of any ca
 
 ---
 
-**C-5193** Host Says Charlie Was Raced into Surgery and Still Had a Pulse
+**C-4186** Host Says Charlie Was Raced into Surgery and Still Had a Pulse
 
 Claim Timestamp: 00:08:15
 
@@ -1220,7 +1220,7 @@ Investigative Direction: Obtain the hospital's arrival, surgical start and time-
 
 ---
 
-**C-5194** Host Says Federal Officers Blocked the Surgeon from Returning to the Operating Room
+**C-4187** Host Says Federal Officers Blocked the Surgeon from Returning to the Operating Room
 
 Claim Timestamp: 00:08:59
 
@@ -1235,7 +1235,7 @@ Investigative Direction: Identify which federal officers were at Timpanogos Regi
 
 ---
 
-**C-5195** Host Says Her Source Believes the Surgeon Phoned Someone Political, Who Ordered the Feds to Stand Down
+**C-4188** Host Says Her Source Believes the Surgeon Phoned Someone Political, Who Ordered the Feds to Stand Down
 
 Claim Timestamp: 00:09:50
 
@@ -1250,7 +1250,7 @@ Investigative Direction: Establish whom the surgeon called, using his phone reco
 
 ---
 
-**C-5196** Host Says the Hospital Standoff Occurred Two and a Half to Three Hours After the Shot
+**C-4189** Host Says the Hospital Standoff Occurred Two and a Half to Three Hours After the Shot
 
 Claim Timestamp: 00:09:50
 
@@ -1265,7 +1265,7 @@ Investigative Direction: Reconcile with the timeline of the shot, the hospital a
 
 ---
 
-**C-5197** Host Says Feds at the Hospital Tried to Take Cameras Down and Seized Them
+**C-4190** Host Says Feds at the Hospital Tried to Take Cameras Down and Seized Them
 
 Claim Timestamp: 00:09:50
 
@@ -1280,7 +1280,7 @@ Investigative Direction: Obtain hospital records of any camera removal or seizur
 
 ---
 
-**C-5198** Host Says Students Dispute the Wooded Area Description of Where the Gun Was Found
+**C-4191** Host Says Students Dispute the Wooded Area Description of Where the Gun Was Found
 
 Claim Timestamp: 00:10:53
 
@@ -1295,7 +1295,7 @@ Investigative Direction: Compare the official description of the recovery site w
 
 ---
 
-**C-5199** Host Says the Gun Site Was Already Searched by Veteran Officers Before the Gun Was Found
+**C-4192** Host Says the Gun Site Was Already Searched by Veteran Officers Before the Gun Was Found
 
 Claim Timestamp: 00:10:53
 
@@ -1310,7 +1310,7 @@ Investigative Direction: Locate the officers involved and the search logs and bo
 
 ---
 
-**C-5200** Host Says Bomb Dogs Released in the Exact Area Found Nothing
+**C-4193** Host Says Bomb Dogs Released in the Exact Area Found Nothing
 
 Claim Timestamp: 00:12:21
 
@@ -1325,7 +1325,7 @@ Investigative Direction: Obtain K-9 deployment logs and handler statements for t
 
 ---
 
-**C-5201** Host Says a Dog's Sense of Smell Is Up to 100,000 Times a Human's
+**C-4194** Host Says a Dog's Sense of Smell Is Up to 100,000 Times a Human's
 
 Claim Timestamp: 00:12:21
 
@@ -1340,7 +1340,7 @@ Investigative Direction: Check veterinary or scientific literature on canine olf
 
 ---
 
-**C-5202** Host Says Over 19 Billion Dollars Has Been Spent on Explosive Detection Technology
+**C-4195** Host Says Over 19 Billion Dollars Has Been Spent on Explosive Detection Technology
 
 Claim Timestamp: 00:12:21
 
@@ -1355,7 +1355,7 @@ Investigative Direction: Find the source of the 19 billion dollar figure and wha
 
 ---
 
-**C-5203** Host Says Bomb Dogs Can Detect a Fired Weapon Up to a Week Later
+**C-4196** Host Says Bomb Dogs Can Detect a Fired Weapon Up to a Week Later
 
 Claim Timestamp: 00:13:17
 
@@ -1370,7 +1370,7 @@ Investigative Direction: Consult K-9 training authorities on detection windows f
 
 ---
 
-**C-5204** Host Says the Bomb Dogs Belonged to the Pleasant Grove Sheriff's Department
+**C-4197** Host Says the Bomb Dogs Belonged to the Pleasant Grove Sheriff's Department
 
 Claim Timestamp: 00:14:12
 
@@ -1385,7 +1385,7 @@ Investigative Direction: Confirm which agency's K-9 units were deployed and when
 
 ---
 
-**C-5205** Host Says Feds Directed Three Officers with Under a Year and a Half Combined to Re-Search
+**C-4198** Host Says Feds Directed Three Officers with Under a Year and a Half Combined to Re-Search
 
 Claim Timestamp: 00:14:12
 
@@ -1400,7 +1400,7 @@ Investigative Direction: Obtain the identities, tenure and assignment records of
 
 ---
 
-**C-5206** Host Says the Three Officers Found the Gun Where the Dogs Found Nothing
+**C-4199** Host Says the Three Officers Found the Gun Where the Dogs Found Nothing
 
 Claim Timestamp: 00:15:52
 
@@ -1411,12 +1411,12 @@ Transcript Snippet: But lo and behold, these police officers, bam, there it is, 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10360
-Supports: C-5205
+Supports: C-4198
 Investigative Direction: Obtain the recovery report, scene photographs and the radio log for the discovery.
 
 ---
 
-**C-5207** Host Says She Has the Officers' Names but Will Not Release Them Yet
+**C-4200** Host Says She Has the Officers' Names but Will Not Release Them Yet
 
 Claim Timestamp: 00:15:52
 
@@ -1431,7 +1431,7 @@ Investigative Direction: Ask the host to confirm whether she has contacted the o
 
 ---
 
-**C-5208** Host Says Freya the Canine Sniffed Out the Route to the Losee Center Rooftop
+**C-4201** Host Says Freya the Canine Sniffed Out the Route to the Losee Center Rooftop
 
 Claim Timestamp: 00:16:42
 
@@ -1446,7 +1446,7 @@ Investigative Direction: Obtain the K-9 deployment report for Freya and her hand
 
 ---
 
-**C-5209** Host Says Freya Was Not Given the Gun but Ran a Condensed Scent Trace
+**C-4202** Host Says Freya Was Not Given the Gun but Ran a Condensed Scent Trace
 
 Claim Timestamp: 00:16:42
 
@@ -1461,7 +1461,7 @@ Investigative Direction: Ask the handler or agency to describe the trace protoco
 
 ---
 
-**C-5210** Host Says Multiple Officers Told Her the Feds Were Directing the Show
+**C-4203** Host Says Multiple Officers Told Her the Feds Were Directing the Show
 
 Claim Timestamp: 00:18:15
 
@@ -1476,7 +1476,7 @@ Investigative Direction: Obtain on-record statements from the officers or agency
 
 ---
 
-**C-5211** Host Says She Received a Tip from Police Officers About a Traffic Stop and Wants to Confirm It
+**C-4204** Host Says She Received a Tip from Police Officers About a Traffic Stop and Wants to Confirm It
 
 Claim Timestamp: 00:18:15
 
@@ -1491,7 +1491,7 @@ Investigative Direction: Identify the tipping officers and the department and se
 
 ---
 
-**C-5212** Host Says an Officer Stopped a Speeding Car Shortly After the Shot, Convinced It Was the Killer
+**C-4205** Host Says an Officer Stopped a Speeding Car Shortly After the Shot, Convinced It Was the Killer
 
 Claim Timestamp: 00:19:33
 
@@ -1506,7 +1506,7 @@ Investigative Direction: Search dispatch logs and traffic stop records for stops
 
 ---
 
-**C-5213** Host Says the Driver of a White Toyota RAV4 Flashed an FBI Badge at the Window
+**C-4206** Host Says the Driver of a White Toyota RAV4 Flashed an FBI Badge at the Window
 
 Claim Timestamp: 00:19:33
 
@@ -1521,7 +1521,7 @@ Investigative Direction: Request the officer's body-camera footage, citation or 
 
 ---
 
-**C-5214** Host Says the RAV4 Stop Was Within One to Two Hours of the Shot and Is Unconfirmed
+**C-4207** Host Says the RAV4 Stop Was Within One to Two Hours of the Shot and Is Unconfirmed
 
 Claim Timestamp: 00:20:26
 
@@ -1532,12 +1532,12 @@ Transcript Snippet: a white Toyota RAV4 was pulled over and a federal badge was 
 Anchored Artifacts: A-2739.1
 Mentions: N-3
 Related Nodes: N-10361
-Supports: C-5213
+Supports: C-4206
 Investigative Direction: File a records request for body-camera video and CAD logs covering the first two hours after the shot.
 
 ---
 
-**C-5215** Host Says Trump Said Bongino Wants to Get Back to His Show
+**C-4209** Host Says Trump Said Bongino Wants to Get Back to His Show
 
 Claim Timestamp: 00:24:40
 
@@ -1548,12 +1548,12 @@ Transcript Snippet: Trump said that he thinks that Dan wants to get back to his 
 Anchored Artifacts: 
 Mentions: N-3, N-5, N-378
 Related Nodes: N-10048
-Supports: C-3758
+Supports: C-4208
 Investigative Direction: Locate Trump's remark and Bongino's own announcement for the stated reason for leaving.
 
 ---
 
-**C-5216** Host Says Bongino Has Been Effectively Silent on the Charlie Kirk Situation
+**C-4210** Host Says Bongino Has Been Effectively Silent on the Charlie Kirk Situation
 
 Claim Timestamp: 00:24:40
 
@@ -1564,12 +1564,12 @@ Transcript Snippet: I have been wondering why Dan has been silent I would say ef
 Anchored Artifacts: 
 Mentions: N-3, N-378
 Related Nodes: N-10048
-Supports: C-3758
+Supports: C-4208
 Investigative Direction: Review Bongino's public statements and show transcripts since September 10 for mentions of the Kirk case.
 
 ---
 
-**C-5217** Host Says a Commenter She Clicked on Had Just Created an Account
+**C-4211** Host Says a Commenter She Clicked on Had Just Created an Account
 
 Claim Timestamp: 00:26:00
 
@@ -1584,7 +1584,7 @@ Investigative Direction: Collect account-creation dates for sampled commenters a
 
 ---
 
-**C-5218** Host Says the Transport Vehicle Was Towed to a Facility Around the Corner from the Hospital
+**C-4214** Host Says the Transport Vehicle Was Towed to a Facility Around the Corner from the Hospital
 
 Claim Timestamp: 00:27:47
 
@@ -1599,7 +1599,7 @@ Investigative Direction: Identify the tow company and obtain its tow and storage
 
 ---
 
-**C-5219** Host Says a Second Tow Truck Took the Vehicle on Monday for Cleaning and Immediate Auction
+**C-4215** Host Says a Second Tow Truck Took the Vehicle on Monday for Cleaning and Immediate Auction
 
 Claim Timestamp: 00:27:47
 
@@ -1614,7 +1614,7 @@ Investigative Direction: Trace the vehicle by VIN through auction listings and t
 
 ---
 
-**C-5220** Host Says the Vehicle Was a Brand New Rental, Which Makes the Quick Disposal Unusual
+**C-4216** Host Says the Vehicle Was a Brand New Rental, Which Makes the Quick Disposal Unusual
 
 Claim Timestamp: 00:29:05
 
@@ -1629,7 +1629,7 @@ Investigative Direction: Identify the rental company and vehicle identification 
 
 ---
 
-**C-5221** Host Says the Rental Company Owner in California Said He Never Wanted the Vehicle Back
+**C-4217** Host Says the Rental Company Owner in California Said He Never Wanted the Vehicle Back
 
 Claim Timestamp: 00:29:05
 
@@ -1644,7 +1644,7 @@ Investigative Direction: Identify the owner and who placed the call, and ask the
 
 ---
 
-**C-5222** Host Says No Insurance Adjusters Were Required Before the Vehicle Went to Auction
+**C-4218** Host Says No Insurance Adjusters Were Required Before the Vehicle Went to Auction
 
 Claim Timestamp: 00:29:51
 
@@ -1659,7 +1659,7 @@ Investigative Direction: Request the insurer's claim file, if any, for the vehic
 
 ---
 
-**C-5223** Host Says the Feds Sent US Marshals on a Wild Goose Chase to Cover Things Up
+**C-4221** Host Says the Feds Sent US Marshals on a Wild Goose Chase to Cover Things Up
 
 Claim Timestamp: 00:32:01
 
@@ -1674,7 +1674,7 @@ Investigative Direction: Identify the Marshals deployments in the first hours an
 
 ---
 
-**C-5224** Host Says Patel Announced "We Got Them" Then Retracted That It Was Not the Person
+**C-4222** Host Says Patel Announced "We Got Them" Then Retracted That It Was Not the Person
 
 Claim Timestamp: 00:32:01
 
@@ -1689,7 +1689,7 @@ Investigative Direction: Review Patel's public statements on September 10 to 11 
 
 ---
 
-**C-5225** Host Says Everyone There Says the Feds Seemed to Create Hurdles Rather Than Solve the Crime
+**C-4223** Host Says Everyone There Says the Feds Seemed to Create Hurdles Rather Than Solve the Crime
 
 Claim Timestamp: 00:32:01
 
@@ -1704,7 +1704,7 @@ Investigative Direction: Gather on-record accounts from responding local officer
 
 ---
 
-**C-5226** Host Says She Saw Military Grade Bots After October 7th and When Australia Cancellation Was Sought
+**C-4224** Host Says She Saw Military Grade Bots After October 7th and When Australia Cancellation Was Sought
 
 Claim Timestamp: 00:32:56
 
@@ -1719,7 +1719,7 @@ Investigative Direction: Compile samples of the repeated phrasing with account m
 
 ---
 
-**C-5227** Host Says Botted Activity Increased After Fort Huachuca Coverage
+**C-4225** Host Says Botted Activity Increased After Fort Huachuca Coverage
 
 Claim Timestamp: 00:32:56
 
@@ -1734,7 +1734,7 @@ Investigative Direction: Measure post volume and account age around the broadcas
 
 ---
 
-**C-5228** Host Says Her Team Verified the Elvis Guy's Story with People Stationed at Fort Huachuca
+**C-4226** Host Says Her Team Verified the Elvis Guy's Story with People Stationed at Fort Huachuca
 
 Claim Timestamp: 00:32:56
 
@@ -1749,7 +1749,7 @@ Investigative Direction: Obtain the verifying personnel's statements or document
 
 ---
 
-**C-5229** Coleman Says Jet Is Used Exclusively by Presidential Family, Cabinet Officials and Pentagon Generals
+**C-4227** Coleman Says Jet Is Used Exclusively by Presidential Family, Cabinet Officials and Pentagon Generals
 
 Claim Timestamp: 00:34:52
 
@@ -1764,7 +1764,7 @@ Investigative Direction: Obtain the tail number's operator and mission history f
 
 ---
 
-**C-5230** Coleman Says the Jet Was at the Location of the Alleged Meeting on the Morning of September 9
+**C-4228** Coleman Says the Jet Was at the Location of the Alleged Meeting on the Morning of September 9
 
 Claim Timestamp: 00:35:38
 
@@ -1775,12 +1775,12 @@ Transcript Snippet: That particular jet was present at the location of this alle
 Anchored Artifacts: A-1554.1
 Mentions: N-330, N-1
 Related Nodes: N-10365, N-10367
-Supports: C-1905
+Supports: C-3952
 Investigative Direction: Pull ADS-B and flight-plan records for the aircraft on September 8 to 10.
 
 ---
 
-**C-5231** Coleman Says the Jet Had Recently Flown Trump's Family from Bedminster
+**C-4229** Coleman Says the Jet Had Recently Flown Trump's Family from Bedminster
 
 Claim Timestamp: 00:35:38
 
@@ -1794,7 +1794,7 @@ Investigative Direction: Verify with flight-tracking history for the aircraft in
 
 ---
 
-**C-5232** Coleman Says Radio Call Sign Becomes Air Force One When the President Is Aboard
+**C-4231** Coleman Says Radio Call Sign Becomes Air Force One When the President Is Aboard
 
 Claim Timestamp: 00:36:19
 
@@ -1808,7 +1808,7 @@ Investigative Direction: Check Air Force and FAA call sign conventions for filed
 
 ---
 
-**C-5233** Mark Displays a SAM000 Flight Landing in Las Vegas at 4:48 p.m. on August 25
+**C-4235** Mark Displays a SAM000 Flight Landing in Las Vegas at 4:48 p.m. on August 25
 
 Claim Timestamp: 00:39:24
 
@@ -1819,12 +1819,12 @@ Transcript Snippet: So on August 25th, it flies into Las Vegas, lands at 4:48 p.
 Anchored Artifacts: A-1554.1
 Mentions: N-67
 Related Nodes: N-10363, N-10887
-Supports: C-1964
+Supports: C-4232
 Investigative Direction: Pull the raw flight log for the aircraft on August 25 and compare with Coleman's stated route from Andrews to Colorado Springs.
 
 ---
 
-**C-5234** Respondent in Clip Says SAM Designation Signals Very Important People Aboard While Reach Does Not
+**C-4236** Respondent in Clip Says SAM Designation Signals Very Important People Aboard While Reach Does Not
 
 Claim Timestamp: 00:39:24
 
@@ -1839,7 +1839,7 @@ Investigative Direction: Verify call-sign usage rules with Air Mobility Command 
 
 ---
 
-**C-5235** Respondent Says Venus Is a Designator for an Empty Flight Except the Pilots
+**C-4237** Respondent Says Venus Is a Designator for an Empty Flight Except the Pilots
 
 Claim Timestamp: 00:40:40
 
@@ -1854,7 +1854,7 @@ Investigative Direction: Check military airlift call-sign documentation for Venu
 
 ---
 
-**C-5236** Harpole Says Intelligence Gathering Started Before the 24th and the Hard Conversations Started on the 24th
+**C-4239** Harpole Says Intelligence Gathering Started Before the 24th and the Hard Conversations Started on the 24th
 
 Claim Timestamp: 00:41:47
 
@@ -1865,12 +1865,12 @@ Transcript Snippet: it started before that with the the intelligence gathering a
 Anchored Artifacts: A-1555.1
 Mentions: N-266
 Related Nodes: N-10365
-Qualifies: C-1967
+Qualifies: C-4238
 Investigative Direction: Ask Harpole's firm for the date of the first intelligence product and the first conference call.
 
 ---
 
-**C-5237** Harpole Says His Firm Runs a Decentralized Command Model with Shared Intel on an App Timeline
+**C-4240** Harpole Says His Firm Runs a Decentralized Command Model with Shared Intel on an App Timeline
 
 Claim Timestamp: 00:42:45
 
@@ -1884,7 +1884,7 @@ Investigative Direction: Request the company's operational plan and app logs for
 
 ---
 
-**C-5238** Host Says Operation Valhalla Strike Began August 24 and Ended August 27
+**C-4241** Host Says Operation Valhalla Strike Began August 24 and Ended August 27
 
 Claim Timestamp: 00:42:45
 
@@ -1899,7 +1899,7 @@ Investigative Direction: Find the official exercise announcement or unit records
 
 ---
 
-**C-5239** Host Says Harry Described an Undercover Fed or Secret Service Agent Blocking Him from Seeing Who Left the Meeting
+**C-4242** Host Says Harry Described an Undercover Fed or Secret Service Agent Blocking Him from Seeing Who Left the Meeting
 
 Claim Timestamp: 00:44:05
 
@@ -1914,7 +1914,7 @@ Investigative Direction: Obtain Harry's on-camera account and any corroborating 
 
 ---
 
-**C-5240** Host Says Harry Counted Many O-6s and Lieutenant Colonels, Indicating a Pentagon-Level Meeting
+**C-4243** Host Says Harry Counted Many O-6s and Lieutenant Colonels, Indicating a Pentagon-Level Meeting
 
 Claim Timestamp: 00:44:05
 
@@ -1925,12 +1925,12 @@ Transcript Snippet: He was like I had this many 06s, lieutenant colonels signifi
 Anchored Artifacts: 
 Mentions: N-360, N-3
 Related Nodes: N-10365, N-10367
-Supports: C-1886
+Supports: C-3836
 Investigative Direction: Ask Harry for the number and insignia observed and compare with the Fort Huachuca JTF-SB attendance.
 
 ---
 
-**C-5241** Host Says Multiple Emails from Currently Stationed Personnel Confirm Harry's Account
+**C-4244** Host Says Multiple Emails from Currently Stationed Personnel Confirm Harry's Account
 
 Claim Timestamp: 00:44:05
 
@@ -1945,7 +1945,7 @@ Investigative Direction: Review the emails and verify the senders' standing as p
 
 ---
 
-**C-5242** Host Relays That Fort Huachuca Is an Intelligence Base That Trains for Covert Missions, Not Jet Scrambles
+**C-4245** Host Relays That Fort Huachuca Is an Intelligence Base That Trains for Covert Missions, Not Jet Scrambles
 
 Claim Timestamp: 00:45:12
 
@@ -1960,7 +1960,7 @@ Investigative Direction: Check Fort Huachuca's published tenant units and missio
 
 ---
 
-**C-5243** Host Says Stationed Personnel Confirmed the Building Harry Described
+**C-4246** Host Says Stationed Personnel Confirmed the Building Harry Described
 
 Claim Timestamp: 00:45:12
 
@@ -1971,12 +1971,12 @@ Transcript Snippet: They confirmed that building that he said
 Anchored Artifacts: A-2741.1
 Mentions: N-3, N-360
 Related Nodes: N-10367
-Supports: C-1885
+Supports: C-3833
 Investigative Direction: Ask the personnel for on-record confirmation of the temporary JTF-SB headquarters location.
 
 ---
 
-**C-5244** Host Says the Eyewitness Had a 25-Year NDA That Ended Before He Stumbled into This Event
+**C-4247** Host Says the Eyewitness Had a 25-Year NDA That Ended Before He Stumbled into This Event
 
 Claim Timestamp: 00:45:12
 
@@ -1991,7 +1991,7 @@ Investigative Direction: Compare with the 1990 to May 2025 NDA period reported e
 
 ---
 
-**C-5245** Host Says the Eyewitness Agreed to Come on the Show to Tell His Story
+**C-4248** Host Says the Eyewitness Agreed to Come on the Show to Tell His Story
 
 Claim Timestamp: 00:46:25
 
@@ -2006,7 +2006,7 @@ Investigative Direction: Check the next episode for the interview and compare it
 
 ---
 
-**C-5246** Host Says Harpole Landed in Los Angeles from Tokyo at 6:45 p.m. on the 7th Before Flying to Dallas
+**C-4249** Host Says Harpole Landed in Los Angeles from Tokyo at 6:45 p.m. on the 7th Before Flying to Dallas
 
 Claim Timestamp: 00:46:53
 
@@ -2021,7 +2021,7 @@ Investigative Direction: Obtain the flight numbers and manifest or boarding reco
 
 ---
 
-**C-5247** Host Says It Is Possible for Harpole to Have Attended the Fort Huachuca Meeting
+**C-4250** Host Says It Is Possible for Harpole to Have Attended the Fort Huachuca Meeting
 
 Claim Timestamp: 00:47:12
 
@@ -2036,7 +2036,7 @@ Investigative Direction: Build the Harpole travel timeline from the 8th to the 9
 
 ---
 
-**C-5248** Host Says SUBTV Had the Longest Flight Logs of the Egyptian Planes and Logs Delayed to Tomorrow
+**C-4251** Host Says SUBTV Had the Longest Flight Logs of the Egyptian Planes and Logs Delayed to Tomorrow
 
 Claim Timestamp: 00:47:12
 
@@ -2051,7 +2051,7 @@ Investigative Direction: Check the next day's release for the SUBTV log and comp
 
 ---
 
-**C-5249** Host Says Egyptian Planes Are Linked to Israel, Which She Says Explains the Backlash
+**C-4252** Host Says Egyptian Planes Are Linked to Israel, Which She Says Explains the Backlash
 
 Claim Timestamp: 00:47:12
 
@@ -2066,7 +2066,7 @@ Investigative Direction: Publish the flight-log evidence tying the aircraft to I
 
 ---
 
-**C-5250** Host Says She Told Viewers Elon Musk Handed Over X to the Military
+**C-4253** Host Says She Told Viewers Elon Musk Handed Over X to the Military
 
 Claim Timestamp: 00:51:44
 
@@ -2081,7 +2081,7 @@ Investigative Direction: Seek documentation of any X contracts or data arrangeme
 
 ---
 
-**C-5251** Host Says Tim Pool and Nick Fuentes Joined the Chorus That Candace Is Over
+**C-4254** Host Says Tim Pool and Nick Fuentes Joined the Chorus That Candace Is Over
 
 Claim Timestamp: 00:51:44
 
@@ -2096,7 +2096,7 @@ Investigative Direction: Collect the actual statements by Pool and Fuentes and c
 
 ---
 
-**C-5252** Host Says TPUSA Wanted a Private Meeting and She Would Go on the Charlie Kirk Show for a Transparent Talk
+**C-4255** Host Says TPUSA Wanted a Private Meeting and She Would Go on the Charlie Kirk Show for a Transparent Talk
 
 Claim Timestamp: 00:52:54
 
@@ -2111,7 +2111,7 @@ Investigative Direction: Obtain from TPUSA its account of who requested the priv
 
 ---
 
-**C-5253** Host Says Netanyahu Name-Checked Her and Tucker and Rhetoric Is Growing More Volatile
+**C-4256** Host Says Netanyahu Name-Checked Her and Tucker and Rhetoric Is Growing More Volatile
 
 Claim Timestamp: 00:53:41
 
@@ -2126,7 +2126,7 @@ Investigative Direction: Locate the Netanyahu remarks that named the host and Tu
 
 ---
 
-**C-5254** Host Says She Added a Gift Option for Her Security at candaceowens.com/support
+**C-4257** Host Says She Added a Gift Option for Her Security at candaceowens.com/support
 
 Claim Timestamp: 00:53:41
 
@@ -2141,7 +2141,7 @@ Investigative Direction: Check the site for the security fund page and its state
 
 ---
 
-**C-5255** Host Says She Sat Down with Piers Morgan That Morning
+**C-4258** Host Says She Sat Down with Piers Morgan That Morning
 
 Claim Timestamp: 00:55:44
 
@@ -2155,7 +2155,7 @@ Investigative Direction: Find the published Piers Morgan interview and its date.
 
 ---
 
-**C-5256** Host Says Piers Morgan Suggested JFK Might Just Have Been Shot by Lee Harvey Oswald
+**C-4259** Host Says Piers Morgan Suggested JFK Might Just Have Been Shot by Lee Harvey Oswald
 
 Claim Timestamp: 00:55:44
 
@@ -2169,7 +2169,7 @@ Investigative Direction: Check the interview transcript for Morgan's exact words
 
 ---
 
-**C-5257** Host Says the JFK Conspiracy Would Involve the Mafia, Cubans and LBJ
+**C-4260** Host Says the JFK Conspiracy Would Involve the Mafia, Cubans and LBJ
 
 Claim Timestamp: 00:55:44
 
@@ -2183,7 +2183,7 @@ Investigative Direction: Cite the historical sources the host relies on for each
 
 ---
 
-**C-5258** Host Says AIPAC or Its Predecessor Under Another Name Was Implicated in the JFK Matter
+**C-4261** Host Says AIPAC or Its Predecessor Under Another Name Was Implicated in the JFK Matter
 
 Claim Timestamp: 00:56:40
 
@@ -2198,7 +2198,7 @@ Investigative Direction: Ask the host which historical sources she relies on, as
 
 ---
 
-**C-5259** Host Says Piers Morgan Always Bets Her and Never Pays Up
+**C-4262** Host Says Piers Morgan Always Bets Her and Never Pays Up
 
 Claim Timestamp: 00:57:46
 
@@ -2212,7 +2212,7 @@ Investigative Direction: Locate on-air betting remarks by Morgan and the stakes 
 
 ---
 
-**C-5260** Host Says Piers Still Thinks Brigitte Macron Is a Woman Who Simply Hides Her Photos
+**C-4263** Host Says Piers Still Thinks Brigitte Macron Is a Woman Who Simply Hides Her Photos
 
 Claim Timestamp: 00:57:46
 
@@ -2226,7 +2226,7 @@ Investigative Direction: Compare with Morgan's own statements on Brigitte Macron
 
 ---
 
-**C-5261** Host Says She Would Hand Over Her Evidence for Use in Court
+**C-4264** Host Says She Would Hand Over Her Evidence for Use in Court
 
 Claim Timestamp: 00:57:46
 
@@ -2240,7 +2240,7 @@ Investigative Direction: Ask the host whether any evidence has been turned over 
 
 ---
 
-**C-5262** Host Says She Reached Out to the FBI, Not Specifically to Patel, and Got Nothing
+**C-4265** Host Says She Reached Out to the FBI, Not Specifically to Patel, and Got Nothing
 
 Claim Timestamp: 00:58:23
 
@@ -2255,7 +2255,7 @@ Investigative Direction: Look for any FBI response or records of the host's outr
 
 ---
 
-**C-5263** Host Says She Has Evidence the French Legion Was on the Ground That Day and Reached Out to the FBI
+**C-4266** Host Says She Has Evidence the French Legion Was on the Ground That Day and Reached Out to the FBI
 
 Claim Timestamp: 00:58:23
 
@@ -2270,7 +2270,7 @@ Investigative Direction: Obtain the host's evidence and compare with the August 
 
 ---
 
-**C-5264** Host Says the Police Officers Who Were There Believe the Feds Are Implicated
+**C-4267** Host Says the Police Officers Who Were There Believe the Feds Are Implicated
 
 Claim Timestamp: 00:58:23
 
@@ -2285,7 +2285,7 @@ Investigative Direction: Seek on-record statements from responding officers.
 
 ---
 
-**C-5265** Host Says the Meeting Lasted Four and a Half Hours
+**C-4268** Host Says the Meeting Lasted Four and a Half Hours
 
 Claim Timestamp: 00:59:17
 
@@ -2295,12 +2295,12 @@ Transcript Snippet: It was 4 and 1/2 hour meeting.
 
 Anchored Artifacts: A-2743.2
 Mentions: N-3
-Supports: C-1924
+Supports: C-4056
 Investigative Direction: Confirm the meeting length against attendee accounts.
 
 ---
 
-**C-5266** Host Says It Is Suspicious That No One Mentioned the Mikey Call Was a Three-Way Call
+**C-4269** Host Says It Is Suspicious That No One Mentioned the Mikey Call Was a Three-Way Call
 
 Claim Timestamp: 00:59:17
 
@@ -2310,12 +2310,12 @@ Transcript Snippet: I find it remarkably suspicious that no one has mentioned no
 
 Anchored Artifacts: A-2743.2
 Mentions: N-3, N-190, N-159
-Supports: C-1933
+Supports: C-4105
 Investigative Direction: Obtain the call-detail records for the calls Mikey McCoy made after the shot.
 
 ---
 
-**C-5267** Host Says Neff Describes Mikey With a Quivering Lip Saying He Has to Call Erika While Already on Phone
+**C-4270** Host Says Neff Describes Mikey With a Quivering Lip Saying He Has to Call Erika While Already on Phone
 
 Claim Timestamp: 00:59:17
 
@@ -2325,12 +2325,12 @@ Transcript Snippet: He's got a quivering lip and he looks at him and he says, "I
 
 Anchored Artifacts: A-2743.2
 Mentions: N-3, N-159, N-190, N-2
-Supports: C-1935
+Supports: C-4101
 Investigative Direction: Compare Neff's published account with the call logs and ask Neff to clarify.
 
 ---
 
-**C-5268** Host Says Erika Said on Her PR Blitz That Charlie Did Not Text Anybody and the Host Replied That Was Not Right
+**C-4271** Host Says Erika Said on Her PR Blitz That Charlie Did Not Text Anybody and the Host Replied That Was Not Right
 
 Claim Timestamp: 01:00:15
 
@@ -2344,7 +2344,7 @@ Investigative Direction: Locate Erika's statement and the host's earlier reporti
 
 ---
 
-**C-5269** Host Says She Found J.D. Vance with Donald Trump at a Restaurant in DC That Evening
+**C-4272** Host Says She Found J.D. Vance with Donald Trump at a Restaurant in DC That Evening
 
 Claim Timestamp: 01:01:11
 
@@ -2358,7 +2358,7 @@ Investigative Direction: Locate the photographs and confirm date and venue.
 
 ---
 
-**C-5270** Host Says the Person Harry Believes He Saw Leaving the Meeting Was a Las Vegas Congressman
+**C-4273** Host Says the Person Harry Believes He Saw Leaving the Meeting Was a Las Vegas Congressman
 
 Claim Timestamp: 01:01:11
 
@@ -2373,7 +2373,7 @@ Investigative Direction: Ask Harry on air to identify the person and check the c
 
 ---
 
-**C-5271** Host Speculates the Las Vegas Link Could Mean the Plane Dropped Off Somebody and Says She Cannot Confirm It
+**C-4274** Host Speculates the Las Vegas Link Could Mean the Plane Dropped Off Somebody and Says She Cannot Confirm It
 
 Claim Timestamp: 01:02:29
 

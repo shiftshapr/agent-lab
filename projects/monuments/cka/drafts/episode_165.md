@@ -14,7 +14,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (catchup-2026-10-19): N-963, N-964, N-965, N-966, N-11426, N-11427, N-11428, N-11429, N-11430, N-11431, N-11432, N-11433
   - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-8, N-9, N-12, N-14, N-41, N-47, N-82, N-85, N-97, N-146, N-159, N-266, N-277, N-520, N-529, N-957, N-959, N-962, N-10000, N-10012, N-10026, N-10048, N-10075, N-10148, N-10290, N-10324, N-10415, N-10456, N-10532, N-10533, N-10832, N-10839, N-10969, N-11026
-  - Claim Range: C-15325–C-15401
+  - Claim Range: C-14229–C-14305
   - (see registers)
 
 # Episode 165 Analysis
@@ -43,7 +43,7 @@ Video Timestamp: 00:02:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15327, N-266*
+*Related: C-14231, N-266*
 
 ---
 
@@ -56,7 +56,7 @@ Video Timestamp: 00:02:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15328, N-7*
+*Related: C-14232, N-7*
 
 ---
 
@@ -71,7 +71,7 @@ Video Timestamp: 00:05:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15337, N-41, N-11427*
+*Related: C-14241, N-41, N-11427*
 
 ---
 
@@ -84,7 +84,7 @@ Video Timestamp: 00:06:57
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15340, C-15341, N-41, N-959, N-11428*
+*Related: C-14244, C-14245, N-41, N-959, N-11428*
 
 ---
 
@@ -99,7 +99,7 @@ Video Timestamp: 00:10:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15345, C-15346, C-15347, N-963, N-11429*
+*Related: C-14249, C-14250, C-14251, N-963, N-11429*
 
 ---
 
@@ -112,7 +112,7 @@ Video Timestamp: 00:13:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15353, C-15354, C-15355, C-15356, N-963, N-964, N-11429, N-11430*
+*Related: C-14257, C-14258, C-14259, C-14260, N-963, N-964, N-11429, N-11430*
 
 ---
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:28:38
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15380, C-15381, N-962, N-5, N-11431*
+*Related: C-14284, C-14285, N-962, N-5, N-11431*
 
 ---
 
@@ -142,7 +142,7 @@ Video Timestamp: 00:33:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15384, N-965, N-11432*
+*Related: C-14288, N-965, N-11432*
 
 ---
 
@@ -155,7 +155,7 @@ Video Timestamp: 00:35:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15386, C-15387, N-965, N-11432*
+*Related: C-14290, C-14291, N-965, N-11432*
 
 ---
 
@@ -170,7 +170,7 @@ Video Timestamp: 00:40:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15392, C-15393, N-966, N-97, N-11433*
+*Related: C-14296, C-14297, N-966, N-97, N-11433*
 
 ---
 
@@ -183,7 +183,7 @@ Video Timestamp: 00:04:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15332, C-15333, N-957, N-10012*
+*Related: C-14236, C-14237, N-957, N-10012*
 
 ---
 
@@ -194,7 +194,7 @@ Video Timestamp: 00:06:20
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15339, N-41*
+*Related: C-14243, N-41*
 
 ---
 
@@ -204,7 +204,7 @@ Confidence Level: Medium
 
 Subject of the birthday framing (33rd birthday, October 14); host revisits his Epstein focus, Israel stance and Aspen pitch.
 
-*Related: C-15325, C-15326, C-15338, C-15357, C-15363, C-15364, C-15368, C-15373, C-15374, C-15375, C-15397, C-15398*
+*Related: C-14229, C-14230, C-14242, C-14261, C-14267, C-14268, C-14272, C-14277, C-14278, C-14279, C-14301, C-14302*
 
 ---
 
@@ -212,7 +212,7 @@ Subject of the birthday framing (33rd birthday, October 14); host revisits his E
 
 Host repeats the unanswered modeling-office and modeling-apartment allegations and links TPUSA's high-school focus to her leadership.
 
-*Related: C-15329, C-15359, C-15360, C-15361, C-15362, C-15378*
+*Related: C-14233, C-14263, C-14264, C-14265, C-14266, C-14282*
 
 ---
 
@@ -220,7 +220,7 @@ Host repeats the unanswered modeling-office and modeling-apartment allegations a
 
 Host; reports tips, reads documents and comments, references her own litigation with Ben Shapiro.
 
-*Related: C-15326, C-15327, C-15332, C-15339, C-15367, C-15369, C-15373, C-15394, C-15396, C-15398, C-15400, C-15401*
+*Related: C-14230, C-14231, C-14236, C-14243, C-14271, C-14273, C-14277, C-14298, C-14300, C-14302, C-14304, C-14305*
 
 ---
 
@@ -228,7 +228,7 @@ Host; reports tips, reads documents and comments, references her own litigation 
 
 Host says he reprimanded Charlie in July over the Epstein files; his new press secretary is the subject of the bar exam segment.
 
-*Related: C-15357, C-15377, C-15380, C-15381, A-3394.1*
+*Related: C-14261, C-14281, C-14284, C-14285, A-3394.1*
 
 ---
 
@@ -236,7 +236,7 @@ Host says he reprimanded Charlie in July over the Epstein files; his new press s
 
 Depicted as "Yankin Bankin Frank", "the chain snatcher", on a show card.
 
-*Related: C-15328, A-3391.2*
+*Related: C-14232, A-3391.2*
 
 ---
 
@@ -244,7 +244,7 @@ Depicted as "Yankin Bankin Frank", "the chain snatcher", on a show card.
 
 Host recalls the UVU review saying she was on the call and wanted the event in the amphitheater; links Meridian, Idaho to her.
 
-*Related: C-15350, C-15351*
+*Related: C-14254, C-14255*
 
 ---
 
@@ -252,7 +252,7 @@ Host recalls the UVU review saying she was on the call and wanted the event in t
 
 Center of the host's France–Israel–US frame and the modeling-agency allegations.
 
-*Related: C-15359, C-15360, C-15370, C-15371*
+*Related: C-14263, C-14264, C-14274, C-14275*
 
 ---
 
@@ -260,7 +260,7 @@ Center of the host's France–Israel–US frame and the modeling-agency allegati
 
 Maycee Crofts's uncle; host says he was arrested just outside Nampa, Idaho.
 
-*Related: C-15351*
+*Related: C-14255*
 
 ---
 
@@ -268,7 +268,7 @@ Maycee Crofts's uncle; host says he was arrested just outside Nampa, Idaho.
 
 Host repeats that he was allegedly at the White House the day before the partial Epstein files release.
 
-*Related: C-15365, C-15367*
+*Related: C-14269, C-14271*
 
 ---
 
@@ -276,7 +276,7 @@ Host repeats that he was allegedly at the White House the day before the partial
 
 Utah governor; host was told Val Peterson golfed with him on September 10 (unverified); his published schedule shows no September 9–10 entries and a September 2 meeting with Tyler Clancy.
 
-*Related: C-15335, C-15336, C-15337, C-15338, C-15339, C-15340, C-15341, A-3392.1, A-3392.2, A-3397.2*
+*Related: C-14239, C-14240, C-14241, C-14242, C-14243, C-14244, C-14245, A-3392.1, A-3392.2, A-3397.2*
 
 ---
 
@@ -284,7 +284,7 @@ Utah governor; host was told Val Peterson golfed with him on September 10 (unver
 
 Host notes she was born in France.
 
-*Related: C-15371*
+*Related: C-14275*
 
 ---
 
@@ -292,7 +292,7 @@ Host notes she was born in France.
 
 Host says no photos exist of her across 30 years; host was covering Brigitte and Epstein while Charlie covered Epstein.
 
-*Related: C-15373, C-15376*
+*Related: C-14277, C-14280*
 
 ---
 
@@ -300,7 +300,7 @@ Host says no photos exist of her across 30 years; host was covering Brigitte and
 
 Host repeats that Bondi said a full Epstein files release would collapse global economies.
 
-*Related: C-15366*
+*Related: C-14270*
 
 ---
 
@@ -308,7 +308,7 @@ Host repeats that Bondi said a full Epstein files release would collapse global 
 
 Producer on the Danny Trejo film Pawn Shop per the host and the son's statement; host alleges he pursues people through litigation.
 
-*Related: C-15390, C-15391, C-15392, C-15393, C-15394, C-15395, A-3396.1*
+*Related: C-14294, C-14295, C-14296, C-14297, C-14298, C-14299, A-3396.1*
 
 ---
 
@@ -316,7 +316,7 @@ Producer on the Danny Trejo film Pawn Shop per the host and the son's statement;
 
 Named in a joke about the host's hypothetical press secretary.
 
-*Related: C-15396*
+*Related: C-14300*
 
 ---
 
@@ -324,7 +324,7 @@ Named in a joke about the host's hypothetical press secretary.
 
 Host says the show should make a card of "Blake and Neff".
 
-*Related: C-15396*
+*Related: C-14300*
 
 ---
 
@@ -332,7 +332,7 @@ Host says the show should make a card of "Blake and Neff".
 
 Depicted on a show Pokémon card with a "medical" ability.
 
-*Related: C-15327, A-3391.1*
+*Related: C-14231, A-3391.1*
 
 ---
 
@@ -340,7 +340,7 @@ Depicted on a show Pokémon card with a "medical" ability.
 
 Named in a joke about the host's hypothetical press secretary.
 
-*Related: C-15396*
+*Related: C-14300*
 
 ---
 
@@ -348,7 +348,7 @@ Named in a joke about the host's hypothetical press secretary.
 
 Host says Epstein worked directly for the Rothschilds, who credit themselves with creating Israel.
 
-*Related: C-15370*
+*Related: C-14274*
 
 ---
 
@@ -356,7 +356,7 @@ Host says Epstein worked directly for the Rothschilds, who credit themselves wit
 
 Host says he founded the modeling agency tied to Erika and was Epstein's partner, and that he died in a cell.
 
-*Related: C-15360, C-15372*
+*Related: C-14264, C-14276*
 
 ---
 
@@ -364,7 +364,7 @@ Host says he founded the modeling agency tied to Erika and was Epstein's partner
 
 First named by the host at 00:03:11 in episode 165 (introduced on the show the previous day). Vice president of Utah Valley University; host says many call him the most powerful man in Utah.
 
-*Related: C-15329, C-15330, C-15331, C-15332, C-15333, C-15334, C-15335, C-15343, C-15348, C-15352, C-15353, A-3397.1*
+*Related: C-14233, C-14234, C-14235, C-14236, C-14237, C-14238, C-14239, C-14247, C-14252, C-14256, C-14257, A-3397.1*
 
 ---
 
@@ -372,7 +372,7 @@ First named by the host at 00:03:11 in episode 165 (introduced on the show the p
 
 First named by the host at 00:06:40 in episode 165. Provo police officer and Utah state representative.
 
-*Related: C-15340, C-15341, C-15342, A-3392.2*
+*Related: C-14244, C-14245, C-14246, A-3392.2*
 
 ---
 
@@ -382,7 +382,7 @@ First named by the host at 00:08:25 in episode 165. Host says he is Val Peterson
 
 Aliases: Charles Peterson
 
-*Related: C-15343, C-15344, C-15345, C-15346, C-15347, C-15349, C-15353, C-15354, C-15355, C-15356, A-3393.1, A-3393.2*
+*Related: C-14247, C-14248, C-14249, C-14250, C-14251, C-14253, C-14257, C-14258, C-14259, C-14260, A-3393.1, A-3393.2*
 
 ---
 
@@ -390,7 +390,7 @@ Aliases: Charles Peterson
 
 First named by the host at 00:13:50 in episode 165. Idaho Attorney General, per the article the host shows.
 
-*Related: C-15354, A-3393.2*
+*Related: C-14258, A-3393.2*
 
 ---
 
@@ -398,7 +398,7 @@ First named by the host at 00:13:50 in episode 165. Idaho Attorney General, per 
 
 First named by the host at 00:27:04 in episode 165 (transcribed "Katie Zacharia"). New White House press secretary.
 
-*Related: C-15377, C-15378, C-15379, C-15380, C-15381, A-3394.1*
+*Related: C-14281, C-14282, C-14283, C-14284, C-14285, A-3394.1*
 
 ---
 
@@ -406,7 +406,7 @@ First named by the host at 00:27:04 in episode 165 (transcribed "Katie Zacharia"
 
 First named by the host at 00:01:06 in episode 165. Singer and first American Idol winner.
 
-*Related: C-15382, C-15383, C-15384, C-15385, C-15386, C-15387, C-15388, C-15389, C-15399, A-3395.1, A-3395.2*
+*Related: C-14286, C-14287, C-14288, C-14289, C-14290, C-14291, C-14292, C-14293, C-14303, A-3395.1, A-3395.2*
 
 ---
 
@@ -414,7 +414,7 @@ First named by the host at 00:01:06 in episode 165. Singer and first American Id
 
 First named by the host at 00:39:51 in episode 165. Actor cast in the film Pawn Shop.
 
-*Related: C-15390, C-15391, C-15392, C-15393, A-3396.1*
+*Related: C-14294, C-14295, C-14296, C-14297, A-3396.1*
 
 ---
 
@@ -422,7 +422,7 @@ First named by the host at 00:39:51 in episode 165. Actor cast in the film Pawn 
 
 Host says it pushes Club America through mandated high-school assemblies under Erika's leadership.
 
-*Related: C-15329, C-15351, C-15362, C-15374, C-15397*
+*Related: C-14233, C-14255, C-14266, C-14278, C-14301*
 
 ---
 
@@ -430,7 +430,7 @@ Host says it pushes Club America through mandated high-school assemblies under E
 
 Val Peterson's institution; source of faculty tips.
 
-*Related: C-15329, C-15330, C-15332, A-3397.1*
+*Related: C-14233, C-14234, C-14236, A-3397.1*
 
 ---
 
@@ -438,7 +438,7 @@ Val Peterson's institution; source of faculty tips.
 
 Host says Charlie had changed his mind on Israel; Rothschild creation claim.
 
-*Related: C-15368, C-15370*
+*Related: C-14272, C-14274*
 
 ---
 
@@ -446,7 +446,7 @@ Host says Charlie had changed his mind on Israel; Rothschild creation claim.
 
 Host disputes the 150-yard shot narrative.
 
-*Related: C-15398*
+*Related: C-14302*
 
 ---
 
@@ -454,7 +454,7 @@ Host disputes the 150-yard shot narrative.
 
 Site of Kolvet's alleged meeting, Cox's call and the press secretary segment.
 
-*Related: C-15339, C-15358, C-15365, C-15367, C-15369, C-15377, C-15400*
+*Related: C-14243, C-14262, C-14269, C-14271, C-14273, C-14281, C-14304*
 
 ---
 
@@ -462,7 +462,7 @@ Site of Kolvet's alleged meeting, Cox's call and the press secretary segment.
 
 Host repeats that Charlie had changed his mind on Israel.
 
-*Related: C-15368*
+*Related: C-14272*
 
 ---
 
@@ -470,7 +470,7 @@ Host repeats that Charlie had changed his mind on Israel.
 
 Viewer comment refers to Charlie declining BB's offer.
 
-*Related: C-15397*
+*Related: C-14301*
 
 ---
 
@@ -478,7 +478,7 @@ Viewer comment refers to Charlie declining BB's offer.
 
 Host repeats that the Legion was on the ground on September 10 and that the White House never disputed it.
 
-*Related: C-15369*
+*Related: C-14273*
 
 ---
 
@@ -486,7 +486,7 @@ Host repeats that the Legion was on the ground on September 10 and that the Whit
 
 Host repeats the partial release, Bondi's remark and the administration's refusal to release in full.
 
-*Related: C-15357, C-15358, C-15365, C-15366, C-15373*
+*Related: C-14261, C-14262, C-14269, C-14270, C-14277*
 
 ---
 
@@ -494,7 +494,7 @@ Host repeats the partial release, Bondi's remark and the administration's refusa
 
 Host says Charlie knew death was coming and that it would spark an awakening.
 
-*Related: C-15375*
+*Related: C-14279*
 
 ---
 
@@ -502,7 +502,7 @@ Host says Charlie knew death was coming and that it would spark an awakening.
 
 Host repeats the unanswered modeling-office and modeling-apartment allegations.
 
-*Related: C-15359, C-15360, C-15361*
+*Related: C-14263, C-14264, C-14265*
 
 ---
 
@@ -510,7 +510,7 @@ Host repeats the unanswered modeling-office and modeling-apartment allegations.
 
 Host says Club America is administratively forced on students.
 
-*Related: C-15362, C-15363, C-15364*
+*Related: C-14266, C-14267, C-14268*
 
 ---
 
@@ -518,7 +518,7 @@ Host says Club America is administratively forced on students.
 
 Host frames the Peterson charges as part of a recurring trafficking and child-abuse theme around the story.
 
-*Related: C-15343, C-15356*
+*Related: C-14247, C-14260*
 
 ---
 
@@ -526,7 +526,7 @@ Host frames the Peterson charges as part of a recurring trafficking and child-ab
 
 Source the host cites for Val Peterson's duties and his distance from campus, and for Maycee Crofts's amphitheater request.
 
-*Related: C-15330, C-15331, C-15350*
+*Related: C-14234, C-14235, C-14254*
 
 ---
 
@@ -534,7 +534,7 @@ Source the host cites for Val Peterson's duties and his distance from campus, an
 
 Host repeats that Trump reprimanded Charlie in July over the Epstein files.
 
-*Related: C-15357*
+*Related: C-14261*
 
 ---
 
@@ -542,7 +542,7 @@ Host repeats that Trump reprimanded Charlie in July over the Epstein files.
 
 Host's claimed personal experience behind her remarks on Shapiro and contracts.
 
-*Related: C-15394, C-15395*
+*Related: C-14298, C-14299*
 
 ---
 
@@ -551,7 +551,7 @@ Host's claimed personal experience behind her remarks on Shapiro and contracts.
 Node Type: Topic
 Where UVU vice president Val Peterson was on September 10, 2025. The UVU independent review places him 45 minutes away; the host's sources say he was allegedly golfing in Heber, Utah, possibly in a tournament, and allegedly with Governor Cox (unverified by the host).
 
-*Related: C-15331, C-15333, C-15334, C-15335, N-957, N-41*
+*Related: C-14235, C-14237, C-14238, C-14239, N-957, N-41*
 
 ---
 
@@ -560,7 +560,7 @@ Where UVU vice president Val Peterson was on September 10, 2025. The UVU indepen
 Node Type: Topic
 The governor's public schedule for the week of September 8, 2025 lists no commitments on September 9 or 10, and the host says Cox has never said where he was when he learned of Charlie's death.
 
-*Related: C-15336, C-15337, C-15338, C-15339, A-3392.1, N-41*
+*Related: C-14240, C-14241, C-14242, C-14243, A-3392.1, N-41*
 
 ---
 
@@ -569,7 +569,7 @@ The governor's public schedule for the week of September 8, 2025 lists no commit
 Node Type: Topic
 A September 2, 2025, 5:00 p.m. meeting between Governor Cox and Representative Tyler Clancy at the governor's mansion, per the governor's published schedule.
 
-*Related: C-15340, C-15341, A-3392.2, N-41, N-959*
+*Related: C-14244, C-14245, A-3392.2, N-41, N-959*
 
 ---
 
@@ -578,7 +578,7 @@ A September 2, 2025, 5:00 p.m. meeting between Governor Cox and Representative T
 Node Type: Topic
 2026 arrest and charges in Utah (enticing a minor, aggravated sexual exploitation, distributing harmful material) and Meridian, Idaho (four counts of enticing a child) against a man the host identifies as Val Peterson's brother.
 
-*Related: C-15343, C-15344, C-15345, C-15346, C-15347, C-15349, C-15353, C-15354, C-15355, C-15356, A-3393.1, A-3393.2, N-963*
+*Related: C-14247, C-14248, C-14249, C-14250, C-14251, C-14253, C-14257, C-14258, C-14259, C-14260, A-3393.1, A-3393.2, N-963*
 
 ---
 
@@ -587,7 +587,7 @@ Node Type: Topic
 Node Type: Organization
 Unit of the Idaho Attorney General's office that, per the article the host shows, arrested Charles Peterson after a request from the Lehi Police Department.
 
-*Related: C-15355, A-3393.2, N-964*
+*Related: C-14259, A-3393.2, N-964*
 
 ---
 
@@ -596,7 +596,7 @@ Unit of the Idaho Attorney General's office that, per the article the host shows
 Node Type: Topic
 Whether and where the new White House press secretary passed a bar exam; the host alleges she did not.
 
-*Related: C-15378, C-15379, C-15380, C-15381, A-3394.1, N-962*
+*Related: C-14282, C-14283, C-14284, C-14285, A-3394.1, N-962*
 
 ---
 
@@ -605,7 +605,7 @@ Whether and where the new White House press secretary passed a bar exam; the hos
 Node Type: Topic
 Kelly Clarkson's visit to the Brooklyn store Art of Play, where she was told the automated bird "Molly" was not for sale, and her subsequent post alleging she was judged.
 
-*Related: C-15383, C-15384, C-15385, C-15386, C-15387, C-15388, C-15389, C-15399, A-3395.1, A-3395.2, N-965*
+*Related: C-14287, C-14288, C-14289, C-14290, C-14291, C-14292, C-14293, C-14303, A-3395.1, A-3395.2, N-965*
 
 ---
 
@@ -614,13 +614,13 @@ Kelly Clarkson's visit to the Brooklyn store Art of Play, where she was told the
 Node Type: Topic
 Reports that Danny Trejo was cast in the film Pawn Shop without knowing of Ben Shapiro's involvement and is contractually bound to it.
 
-*Related: C-15390, C-15391, C-15392, C-15393, A-3396.1, N-966, N-97*
+*Related: C-14294, C-14295, C-14296, C-14297, A-3396.1, N-966, N-97*
 
 ---
 
 ## 5. Claim Register
 
-**C-15325** Host Says October 14 Would Have Been Charlie Kirk's 33rd Birthday
+**C-14229** Host Says October 14 Would Have Been Charlie Kirk's 33rd Birthday
 
 Claim Timestamp: 00:00:36
 
@@ -635,7 +635,7 @@ Investigative Direction: Charlie Kirk's birth record (October 14, 1993).
 
 ---
 
-**C-15326** Host Says Charlie Was Never Big on His Birthday
+**C-14230** Host Says Charlie Was Never Big on His Birthday
 
 Claim Timestamp: 00:00:45
 
@@ -650,7 +650,7 @@ Investigative Direction: Accounts from Charlie Kirk's friends and staff about hi
 
 ---
 
-**C-15327** Host Says the Show Made Pokémon Cards of Case Figures Including Brian Harpole
+**C-14231** Host Says the Show Made Pokémon Cards of Case Figures Including Brian Harpole
 
 Claim Timestamp: 00:02:03
 
@@ -665,7 +665,7 @@ Investigative Direction: Show merch listings or on-air graphics of the card seri
 
 ---
 
-**C-15328** Host's Card Calls Frank Turek "the Chain Snatcher" Who Snatched Evidence From Police
+**C-14232** Host's Card Calls Frank Turek "the Chain Snatcher" Who Snatched Evidence From Police
 
 Claim Timestamp: 00:02:45
 
@@ -680,7 +680,7 @@ Investigative Direction: Police evidence logs and body camera footage for the ha
 
 ---
 
-**C-15329** Host Says Val Peterson Is Allegedly Feared by Faculty and Allegedly Pro-Erika and TPUSA
+**C-14233** Host Says Val Peterson Is Allegedly Feared by Faculty and Allegedly Pro-Erika and TPUSA
 
 Claim Timestamp: 00:03:20
 
@@ -696,7 +696,7 @@ Investigative Direction: UVU faculty accounts; Peterson's public statements on t
 
 ---
 
-**C-15330** Host Says Val Peterson Oversaw EMS Services at UVU
+**C-14234** Host Says Val Peterson Oversaw EMS Services at UVU
 
 Claim Timestamp: 00:03:50
 
@@ -712,7 +712,7 @@ Investigative Direction: UVU organizational chart and the independent review's d
 
 ---
 
-**C-15331** Host Says the Review Puts Val Peterson 45 Minutes Away on September 10
+**C-14235** Host Says the Review Puts Val Peterson 45 Minutes Away on September 10
 
 Claim Timestamp: 00:04:03
 
@@ -728,7 +728,7 @@ Investigative Direction: The UVU independent review text on Peterson's location.
 
 ---
 
-**C-15332** DIA: Host Says Viewers and UVU Faculty Helped Locate Val Peterson on September 10
+**C-14236** DIA: Host Says Viewers and UVU Faculty Helped Locate Val Peterson on September 10
 
 Claim Timestamp: 00:04:13
 
@@ -744,7 +744,7 @@ Investigative Direction: The tips received by the host's team; UVU faculty who c
 
 ---
 
-**C-15333** Host Says Multiple Sources Say Val Peterson Was Allegedly Golfing in Heber, Utah
+**C-14237** Host Says Multiple Sources Say Val Peterson Was Allegedly Golfing in Heber, Utah
 
 Claim Timestamp: 00:04:20
 
@@ -760,7 +760,7 @@ Investigative Direction: Tee-time and tournament records at Heber-area golf club
 
 ---
 
-**C-15334** Host Says One Source Claimed Peterson Was in a Golf Tournament
+**C-14238** Host Says One Source Claimed Peterson Was in a Golf Tournament
 
 Claim Timestamp: 00:04:28
 
@@ -776,7 +776,7 @@ Investigative Direction: Heber-area golf tournament entry lists for September 10
 
 ---
 
-**C-15335** Host Says She Was Told, Unverified, That Peterson Was With Governor Cox
+**C-14239** Host Says She Was Told, Unverified, That Peterson Was With Governor Cox
 
 Claim Timestamp: 00:04:52
 
@@ -792,7 +792,7 @@ Investigative Direction: Governor's security detail logs and golf club records f
 
 ---
 
-**C-15336** Host Says the Governor Publishes His Schedule, Including Past Golf Tournaments
+**C-14240** Host Says the Governor Publishes His Schedule, Including Past Golf Tournaments
 
 Claim Timestamp: 00:05:03
 
@@ -808,7 +808,7 @@ Investigative Direction: Archived pages of the Utah governor's public schedule.
 
 ---
 
-**C-15337** Host Says Cox's Official Schedule Lists No Commitments on September 9 or 10
+**C-14241** Host Says Cox's Official Schedule Lists No Commitments on September 9 or 10
 
 Claim Timestamp: 00:05:24
 
@@ -824,7 +824,7 @@ Investigative Direction: The governor's office schedule records for September 9�
 
 ---
 
-**C-15338** Host Says Cox Has Never Said Where He Was When He Learned of Charlie's Death
+**C-14242** Host Says Cox Has Never Said Where He Was When He Learned of Charlie's Death
 
 Claim Timestamp: 00:05:58
 
@@ -840,7 +840,7 @@ Investigative Direction: Cox's interviews and press conferences after September 
 
 ---
 
-**C-15339** DIA: Host Asks Viewers to Send Anything Showing Where Cox Was
+**C-14243** DIA: Host Asks Viewers to Send Anything Showing Where Cox Was
 
 Claim Timestamp: 00:06:08
 
@@ -856,7 +856,7 @@ Investigative Direction: Cox's public remarks on receiving the news; viewer subm
 
 ---
 
-**C-15340** Host Says Cox Met Provo Officer Tyler Clancy on September 2
+**C-14244** Host Says Cox Met Provo Officer Tyler Clancy on September 2
 
 Claim Timestamp: 00:06:40
 
@@ -872,7 +872,7 @@ Investigative Direction: The governor's published schedule for September 2, 2025
 
 ---
 
-**C-15341** Per the Schedule the Host Shows, the Meeting Was at 5 p.m. at the Governor's Mansion
+**C-14245** Per the Schedule the Host Shows, the Meeting Was at 5 p.m. at the Governor's Mansion
 
 Claim Timestamp: 00:06:57
 
@@ -888,7 +888,7 @@ Investigative Direction: Governor's mansion visitor log for September 2, 2025.
 
 ---
 
-**C-15342** Host Says the Utah House Works 45 Days a Year and Clancy Started in 2023
+**C-14246** Host Says the Utah House Works 45 Days a Year and Clancy Started in 2023
 
 Claim Timestamp: 00:07:20
 
@@ -903,7 +903,7 @@ Investigative Direction: Utah Legislature session calendar and Clancy's official
 
 ---
 
-**C-15343** Host Says Val Peterson's Brother Charles Was Arrested Twice in 2026 in Two States
+**C-14247** Host Says Val Peterson's Brother Charles Was Arrested Twice in 2026 in Two States
 
 Claim Timestamp: 00:08:28
 
@@ -919,7 +919,7 @@ Investigative Direction: Utah and Idaho court dockets; records establishing the 
 
 ---
 
-**C-15344** Host Says the First Arrest Was February 3, 2026 in Layton, Utah
+**C-14248** Host Says the First Arrest Was February 3, 2026 in Layton, Utah
 
 Claim Timestamp: 00:08:40
 
@@ -935,7 +935,7 @@ Investigative Direction: Arrest and booking records for February 3, 2026.
 
 ---
 
-**C-15345** Host Says the Charges Included First-Degree Enticing a Minor
+**C-14249** Host Says the Charges Included First-Degree Enticing a Minor
 
 Claim Timestamp: 00:09:50
 
@@ -951,7 +951,7 @@ Investigative Direction: Utah charging documents (Utah Code 76-4-401).
 
 ---
 
-**C-15346** Host Says He Was Also Charged With Aggravated Sexual Exploitation
+**C-14250** Host Says He Was Also Charged With Aggravated Sexual Exploitation
 
 Claim Timestamp: 00:11:23
 
@@ -967,7 +967,7 @@ Investigative Direction: Utah charging documents.
 
 ---
 
-**C-15347** Host Says the Charges Also Include Distributing Material Harmful to a Minor
+**C-14251** Host Says the Charges Also Include Distributing Material Harmful to a Minor
 
 Claim Timestamp: 00:11:45
 
@@ -983,7 +983,7 @@ Investigative Direction: Utah charging documents.
 
 ---
 
-**C-15348** Host Says Val Peterson Is From Moscow, Idaho, Where His Father Was a Professor
+**C-14252** Host Says Val Peterson Is From Moscow, Idaho, Where His Father Was a Professor
 
 Claim Timestamp: 00:12:28
 
@@ -998,7 +998,7 @@ Investigative Direction: University of Idaho faculty records; Peterson family ob
 
 ---
 
-**C-15349** Host Says Utah Collaborated With Idaho and He Was Additionally Charged in Meridian
+**C-14253** Host Says Utah Collaborated With Idaho and He Was Additionally Charged in Meridian
 
 Claim Timestamp: 00:12:50
 
@@ -1014,7 +1014,7 @@ Investigative Direction: Ada County, Idaho court records.
 
 ---
 
-**C-15350** Host Says the UVU Review Says Maycee Crofts Wanted the Event in the Amphitheater
+**C-14254** Host Says the UVU Review Says Maycee Crofts Wanted the Event in the Amphitheater
 
 Claim Timestamp: 00:13:05
 
@@ -1025,13 +1025,13 @@ Transcript Snippet: according to the UVU Review, insisted on having the event uh
 Anchored Artifacts:
 Mentions: N-8
 Related Nodes: N-10839
-Supports: C-10984
+Supports: C-3451
 Tags: relevance:core
 Investigative Direction: The UVU independent review's account of the venue call.
 
 ---
 
-**C-15351** Host Says Kip Crofts Was Arrested Just Outside Nampa, Where TPUSA Held an Assembly
+**C-14255** Host Says Kip Crofts Was Arrested Just Outside Nampa, Where TPUSA Held an Assembly
 
 Claim Timestamp: 00:13:20
 
@@ -1047,7 +1047,7 @@ Investigative Direction: Canyon County arrest records for Kip Crofts.
 
 ---
 
-**C-15352** Host Says Val Peterson's Father Was Born in Nampa, Idaho
+**C-14256** Host Says Val Peterson's Father Was Born in Nampa, Idaho
 
 Claim Timestamp: 00:13:26
 
@@ -1062,7 +1062,7 @@ Investigative Direction: Birth or obituary records for Val Peterson's father.
 
 ---
 
-**C-15353** Host Says Charles Was Charged in Meridian With Four Counts, Per the Idaho AG Website
+**C-14257** Host Says Charles Was Charged in Meridian With Four Counts, Per the Idaho AG Website
 
 Claim Timestamp: 00:13:34
 
@@ -1078,7 +1078,7 @@ Investigative Direction: Idaho Attorney General press release archive.
 
 ---
 
-**C-15354** Per the AG Article, Labrador Announced a Meridian Man Was Charged on March 5, 2026
+**C-14258** Per the AG Article, Labrador Announced a Meridian Man Was Charged on March 5, 2026
 
 Claim Timestamp: 00:13:48
 
@@ -1094,7 +1094,7 @@ Investigative Direction: The Idaho AG release and the Ada County charging docume
 
 ---
 
-**C-15355** Per the AG Article, ICAC Arrested Charles Peterson, 52, After a Lehi Police Request
+**C-14259** Per the AG Article, ICAC Arrested Charles Peterson, 52, After a Lehi Police Request
 
 Claim Timestamp: 00:14:01
 
@@ -1110,7 +1110,7 @@ Investigative Direction: Lehi Police Department case records and the Utah chargi
 
 ---
 
-**C-15356** Per the AG Article, the Charges Are Accusations and He Is Presumed Innocent
+**C-14260** Per the AG Article, the Charges Are Accusations and He Is Presumed Innocent
 
 Claim Timestamp: 00:14:18
 
@@ -1126,7 +1126,7 @@ Investigative Direction: Case disposition records in Utah and Idaho.
 
 ---
 
-**C-15357** Host Says Trump Called Charlie in July and Reprimanded Him Over the Epstein Files
+**C-14261** Host Says Trump Called Charlie in July and Reprimanded Him Over the Epstein Files
 
 Claim Timestamp: 00:15:30
 
@@ -1137,13 +1137,13 @@ Transcript Snippet: Why did President Donald Trump call Charlie Kirk in July and
 Anchored Artifacts:
 Mentions: N-5, N-1
 Related Nodes: N-10969, N-10324
-Supports: C-4500
+Supports: C-9885
 Tags: relevance:core
 Investigative Direction: The New York Times reporting on the July 12, 2025 call; call participants.
 
 ---
 
-**C-15358** Host Says the Epstein Files Required Many Top-Level Situation Room Meetings
+**C-14262** Host Says the Epstein Files Required Many Top-Level Situation Room Meetings
 
 Claim Timestamp: 00:15:43
 
@@ -1159,7 +1159,7 @@ Investigative Direction: White House meeting logs and reporting on Situation Roo
 
 ---
 
-**C-15359** Host Says Erika Has Not Answered the Story That She Frequented an Epstein-Linked Modeling Office
+**C-14263** Host Says Erika Has Not Answered the Story That She Frequented an Epstein-Linked Modeling Office
 
 Claim Timestamp: 00:15:48
 
@@ -1170,13 +1170,13 @@ Transcript Snippet: why can't we get a clear answer from Charlie's wife, Erika, 
 Anchored Artifacts:
 Mentions: N-2, N-9
 Related Nodes: N-10532
-Supports: C-5916
+Supports: C-10768
 Tags: relevance:core
 Investigative Direction: Erika Kirk or TPUSA statement; Next Model Management staff.
 
 ---
 
-**C-15360** Host Says the Agency Was Started by Jean-Luc Brunel, Epstein's Partner
+**C-14264** Host Says the Agency Was Started by Jean-Luc Brunel, Epstein's Partner
 
 Claim Timestamp: 00:16:05
 
@@ -1192,7 +1192,7 @@ Investigative Direction: Corporate history of Next Model Management and Brunel's
 
 ---
 
-**C-15361** Host Says Erika Could Deny Running Upper East Side Modeling Apartments but Has Not
+**C-14265** Host Says Erika Could Deny Running Upper East Side Modeling Apartments but Has Not
 
 Claim Timestamp: 00:16:20
 
@@ -1203,13 +1203,13 @@ Transcript Snippet: It would be very easy for her to deny that she was in charge
 Anchored Artifacts:
 Mentions: N-2
 Related Nodes: N-10532
-Supports: C-2981
+Supports: C-10439
 Tags: relevance:core
 Investigative Direction: Lease records for model housing; former Next Model staff.
 
 ---
 
-**C-15362** Host Says Club America Is Being Administratively Forced on High School Students
+**C-14266** Host Says Club America Is Being Administratively Forced on High School Students
 
 Claim Timestamp: 00:16:52
 
@@ -1225,7 +1225,7 @@ Investigative Direction: School district records of TPUSA assemblies and Club Am
 
 ---
 
-**C-15363** Host Says Charlie Gave His Last Company Pitch to Investors in Aspen 3 Weeks Before His Death
+**C-14267** Host Says Charlie Gave His Last Company Pitch to Investors in Aspen 3 Weeks Before His Death
 
 Claim Timestamp: 00:17:08
 
@@ -1241,7 +1241,7 @@ Investigative Direction: The Aspen donor event recording and attendee accounts.
 
 ---
 
-**C-15364** Host Says Charlie Wanted a Debate-Club Model, Not Mandated Assemblies
+**C-14268** Host Says Charlie Wanted a Debate-Club Model, Not Mandated Assemblies
 
 Claim Timestamp: 00:17:20
 
@@ -1257,7 +1257,7 @@ Investigative Direction: The Aspen pitch audio.
 
 ---
 
-**C-15365** Host Says Kolvet Was Allegedly at the White House the Day Before a Partial Epstein Files Release
+**C-14269** Host Says Kolvet Was Allegedly at the White House the Day Before a Partial Epstein Files Release
 
 Claim Timestamp: 00:17:40
 
@@ -1268,13 +1268,13 @@ Transcript Snippet: Why was Andrew Kolvet allegedly at the White House meeting w
 Anchored Artifacts:
 Mentions: N-14
 Related Nodes: N-10324, N-10075
-Supports: C-4723
+Supports: C-10108
 Tags: relevance:core
 Investigative Direction: White House visitor logs and EEOB access records for that date.
 
 ---
 
-**C-15366** Host Says Bondi Said a Full Release Would Collapse Global Economies
+**C-14270** Host Says Bondi Said a Full Release Would Collapse Global Economies
 
 Claim Timestamp: 00:17:55
 
@@ -1285,13 +1285,13 @@ Transcript Snippet: Millions upon millions of files we're never going to get to 
 Anchored Artifacts:
 Mentions: N-85
 Related Nodes: N-10324
-Supports: C-9249
+Supports: C-13878
 Tags: relevance:context
 Investigative Direction: Transcript or recording of Bondi's remark.
 
 ---
 
-**C-15367** Host Says Two White House People Emailed Her and She Tweeted Kolvet Was There
+**C-14271** Host Says Two White House People Emailed Her and She Tweeted Kolvet Was There
 
 Claim Timestamp: 00:18:05
 
@@ -1307,7 +1307,7 @@ Investigative Direction: The host's tweet and its timestamp; White House visitor
 
 ---
 
-**C-15368** Host Says Charlie Had Changed His Mind on Israel
+**C-14272** Host Says Charlie Had Changed His Mind on Israel
 
 Claim Timestamp: 00:18:40
 
@@ -1323,7 +1323,7 @@ Investigative Direction: Charlie Kirk's private messages and statements from sum
 
 ---
 
-**C-15369** Host Says the French Foreign Legion Was on the Ground That Day and the White House Never Disputed It
+**C-14273** Host Says the French Foreign Legion Was on the Ground That Day and the White House Never Disputed It
 
 Claim Timestamp: 00:18:48
 
@@ -1334,13 +1334,13 @@ Transcript Snippet: um the French Foreign Legion's presence, they were there on 
 Anchored Artifacts:
 Mentions: N-3
 Related Nodes: N-10290, N-10075
-Supports: C-8911
+Supports: C-10501
 Tags: relevance:core
 Investigative Direction: White House or DoD statements; foreign military training records for September 2025.
 
 ---
 
-**C-15370** Host Says Epstein Worked Directly for the Rothschilds
+**C-14274** Host Says Epstein Worked Directly for the Rothschilds
 
 Claim Timestamp: 00:19:12
 
@@ -1356,7 +1356,7 @@ Investigative Direction: Documented Epstein–Rothschild business records.
 
 ---
 
-**C-15371** Host Says Ghislaine Maxwell Was Born in France and Epstein Ran Trafficking Through France
+**C-14275** Host Says Ghislaine Maxwell Was Born in France and Epstein Ran Trafficking Through France
 
 Claim Timestamp: 00:19:30
 
@@ -1371,7 +1371,7 @@ Investigative Direction: Maxwell's birth record; Epstein's Paris property record
 
 ---
 
-**C-15372** Host Says Brunel Hung Himself, Perhaps Was Killed, in a Cell
+**C-14276** Host Says Brunel Hung Himself, Perhaps Was Killed, in a Cell
 
 Claim Timestamp: 00:19:45
 
@@ -1386,7 +1386,7 @@ Investigative Direction: French investigation into Brunel's 2022 death in La San
 
 ---
 
-**C-15373** Host Says She Covered Brigitte and Epstein While Charlie Covered Epstein Daily
+**C-14277** Host Says She Covered Brigitte and Epstein While Charlie Covered Epstein Daily
 
 Claim Timestamp: 00:20:22
 
@@ -1402,7 +1402,7 @@ Investigative Direction: Episode archives of The Charlie Kirk Show and Candace f
 
 ---
 
-**C-15374** Host Says Charlie Was Terrified in the End and Realized His Life Was a Truman Show
+**C-14278** Host Says Charlie Was Terrified in the End and Realized His Life Was a Truman Show
 
 Claim Timestamp: 00:21:55
 
@@ -1418,7 +1418,7 @@ Investigative Direction: Charlie Kirk's private communications in summer 2025; t
 
 ---
 
-**C-15375** Host Says Charlie Knew Death Was Coming and It Would Be Tied to an Awakening
+**C-14279** Host Says Charlie Knew Death Was Coming and It Would Be Tied to an Awakening
 
 Claim Timestamp: 00:22:25
 
@@ -1434,7 +1434,7 @@ Investigative Direction: Charlie Kirk's recorded statements and messages anticip
 
 ---
 
-**C-15376** Host Says Brigitte Macron Cannot Produce a Photo From 30 Years of Her Life
+**C-14280** Host Says Brigitte Macron Cannot Produce a Photo From 30 Years of Her Life
 
 Claim Timestamp: 00:26:50
 
@@ -1449,7 +1449,7 @@ Investigative Direction: Published family photographs; Macron defamation suit fi
 
 ---
 
-**C-15377** Host Says Katie Zacharia, the New Press Secretary, Was a Fox News Commentator
+**C-14281** Host Says Katie Zacharia, the New Press Secretary, Was a Fox News Commentator
 
 Claim Timestamp: 00:27:20
 
@@ -1465,7 +1465,7 @@ Investigative Direction: White House announcement of the appointment.
 
 ---
 
-**C-15378** Host Alleges Zacharia Pretended to Pass the Bar and Notes She Attended Pepperdine Like Erika
+**C-14282** Host Alleges Zacharia Pretended to Pass the Bar and Notes She Attended Pepperdine Like Erika
 
 Claim Timestamp: 00:27:48
 
@@ -1481,7 +1481,7 @@ Investigative Direction: State bar admission records; Pepperdine registrar.
 
 ---
 
-**C-15379** Host Says Pepperdine Confirmed Zacharia's Attendance and Degree
+**C-14283** Host Says Pepperdine Confirmed Zacharia's Attendance and Degree
 
 Claim Timestamp: 00:28:06
 
@@ -1497,7 +1497,7 @@ Investigative Direction: Pepperdine's public confirmation.
 
 ---
 
-**C-15380** In a Clip the Host Plays, Zacharia Answers "When I Moved to China" When Asked Where She Passed the Bar
+**C-14284** In a Clip the Host Plays, Zacharia Answers "When I Moved to China" When Asked Where She Passed the Bar
 
 Claim Timestamp: 00:28:40
 
@@ -1513,7 +1513,7 @@ Investigative Direction: Full press-pool footage of the exchange.
 
 ---
 
-**C-15381** Host Alleges Zacharia Did Not Pass the Bar
+**C-14285** Host Alleges Zacharia Did Not Pass the Bar
 
 Claim Timestamp: 00:29:15
 
@@ -1529,7 +1529,7 @@ Investigative Direction: California and other state bar records.
 
 ---
 
-**C-15382** Host Says Kelly Clarkson Was the First American Idol Winner in 2002
+**C-14286** Host Says Kelly Clarkson Was the First American Idol Winner in 2002
 
 Claim Timestamp: 00:30:45
 
@@ -1544,7 +1544,7 @@ Investigative Direction: American Idol season 1 records and Clarkson's birth dat
 
 ---
 
-**C-15383** Host Says Clarkson Went to the Brooklyn Store Art of Play
+**C-14287** Host Says Clarkson Went to the Brooklyn Store Art of Play
 
 Claim Timestamp: 00:31:16
 
@@ -1560,7 +1560,7 @@ Investigative Direction: Store statements and Clarkson's post.
 
 ---
 
-**C-15384** Host Says Clarkson Wanted a $15,000 Automated Bird and Was in the Store 4 Minutes
+**C-14288** Host Says Clarkson Wanted a $15,000 Automated Bird and Was in the Store 4 Minutes
 
 Claim Timestamp: 00:32:55
 
@@ -1576,7 +1576,7 @@ Investigative Direction: The store's released video.
 
 ---
 
-**C-15385** Host Says Staff Told Clarkson the Bird Was Not for Sale
+**C-14289** Host Says Staff Told Clarkson the Bird Was Not for Sale
 
 Claim Timestamp: 00:34:21
 
@@ -1592,7 +1592,7 @@ Investigative Direction: The store's released video and statements.
 
 ---
 
-**C-15386** Per the Post the Host Reads, Clarkson Said She Was Looked at as if She Couldn't Afford It
+**C-14290** Per the Post the Host Reads, Clarkson Said She Was Looked at as if She Couldn't Afford It
 
 Claim Timestamp: 00:34:58
 
@@ -1608,7 +1608,7 @@ Investigative Direction: Clarkson's original post.
 
 ---
 
-**C-15387** Host Says Clarkson Posted 15 Minutes After Leaving
+**C-14291** Host Says Clarkson Posted 15 Minutes After Leaving
 
 Claim Timestamp: 00:35:22
 
@@ -1624,7 +1624,7 @@ Investigative Direction: Post timestamp versus store video timestamps.
 
 ---
 
-**C-15388** Host Says the Store Released Video of the Visit
+**C-14292** Host Says the Store Released Video of the Visit
 
 Claim Timestamp: 00:35:40
 
@@ -1640,7 +1640,7 @@ Investigative Direction: The released store footage.
 
 ---
 
-**C-15389** Host Says the Owner Reports Death Threats but Was Not at the Store
+**C-14293** Host Says the Owner Reports Death Threats but Was Not at the Store
 
 Claim Timestamp: 00:36:05
 
@@ -1656,7 +1656,7 @@ Investigative Direction: Owner's public statements.
 
 ---
 
-**C-15390** Host Says Variety Reports Danny Trejo's Son Claims He Was Tricked Into a Ben Shapiro Project
+**C-14294** Host Says Variety Reports Danny Trejo's Son Claims He Was Tricked Into a Ben Shapiro Project
 
 Claim Timestamp: 00:39:55
 
@@ -1672,7 +1672,7 @@ Investigative Direction: The Variety article.
 
 ---
 
-**C-15391** Host Says the Film Is a Pro-ICE Project and Trejo Had Never Heard of Shapiro
+**C-14295** Host Says the Film Is a Pro-ICE Project and Trejo Had Never Heard of Shapiro
 
 Claim Timestamp: 00:40:10
 
@@ -1688,7 +1688,7 @@ Investigative Direction: Pawn Shop production credits and press materials.
 
 ---
 
-**C-15392** Per the Son's Statement, the Family Learned of Shapiro's Involvement Two Weeks Into Shooting
+**C-14296** Per the Son's Statement, the Family Learned of Shapiro's Involvement Two Weeks Into Shooting
 
 Claim Timestamp: 00:40:45
 
@@ -1704,7 +1704,7 @@ Investigative Direction: The son's original post; production timeline.
 
 ---
 
-**C-15393** Per the Son's Statement, Trejo Contractually Cannot Badmouth or Leave the Film
+**C-14297** Per the Son's Statement, Trejo Contractually Cannot Badmouth or Leave the Film
 
 Claim Timestamp: 00:40:58
 
@@ -1720,7 +1720,7 @@ Investigative Direction: Trejo's contract terms.
 
 ---
 
-**C-15394** Host Alleges Shapiro Sues, Follows and Stalks People Who Leave Him
+**C-14298** Host Alleges Shapiro Sues, Follows and Stalks People Who Leave Him
 
 Claim Timestamp: 00:41:33
 
@@ -1736,7 +1736,7 @@ Investigative Direction: Court filings in Shapiro- or Daily Wire-related litigat
 
 ---
 
-**C-15395** Host Alleges Shapiro Encourages Others to Sue With His Money
+**C-14299** Host Alleges Shapiro Encourages Others to Sue With His Money
 
 Claim Timestamp: 00:42:03
 
@@ -1752,7 +1752,7 @@ Investigative Direction: Litigation funding disclosures in suits against the hos
 
 ---
 
-**C-15396** Host Says the Show Will Make More Cards, Including Blake Neff, and May Sell a Pack
+**C-14300** Host Says the Show Will Make More Cards, Including Blake Neff, and May Sell a Pack
 
 Claim Timestamp: 00:42:48
 
@@ -1767,7 +1767,7 @@ Investigative Direction: Show merch store listings.
 
 ---
 
-**C-15397** Viewer Comment Refers to Charlie Refusing BB's Offer to Take TPUSA to the Next Level
+**C-14301** Viewer Comment Refers to Charlie Refusing BB's Offer to Take TPUSA to the Next Level
 
 Claim Timestamp: 00:44:05
 
@@ -1783,7 +1783,7 @@ Investigative Direction: Accounts of any Netanyahu offer to Charlie Kirk.
 
 ---
 
-**C-15398** Host Disputes the 150-Yard Shot Narrative
+**C-14302** Host Disputes the 150-Yard Shot Narrative
 
 Claim Timestamp: 00:44:52
 
@@ -1799,7 +1799,7 @@ Investigative Direction: Autopsy report and ballistic analysis.
 
 ---
 
-**C-15399** Host Says the Owner Now Says Molly Is Worth 15 Million
+**C-14303** Host Says the Owner Now Says Molly Is Worth 15 Million
 
 Claim Timestamp: 00:47:20
 
@@ -1815,7 +1815,7 @@ Investigative Direction: Owner's social media posts.
 
 ---
 
-**C-15400** Viewer Comment Says Her Daughter's Class Will Wear CIA Shirts to the White House
+**C-14304** Viewer Comment Says Her Daughter's Class Will Wear CIA Shirts to the White House
 
 Claim Timestamp: 00:47:32
 
@@ -1831,7 +1831,7 @@ Investigative Direction: Show merch listings.
 
 ---
 
-**C-15401** Host Says She Expects to Go Into Labor Soon
+**C-14305** Host Says She Expects to Go Into Labor Soon
 
 Claim Timestamp: 00:48:33
 
@@ -2110,11 +2110,11 @@ Confidence: high
 - MISTRANSCRIPTION: "UVU Review" -> "UVU Review" (00:12:50) source: context (UVU independent review)
 - Unresolved name: "Charles Peterson" (00:08:25) – middle name not confirmed by web search; the Idaho AG release as read on air names him only as Charles Peterson, 52. Family relationship to Val Peterson rests on the host's statement.
 - Val Peterson and Tyler Clancy minted as new persons (N-957, N-959): neither is in nodes.tsv; both were introduced in episode 164, which is not yet in the index. The integrator should merge with any episode 164 mint.
-- Host factual hedge: the host says Kelly Clarkson was "16 years old" when she won American Idol in 2002; kept as spoken (C-15382).
-- Internal inconsistency recorded, not resolved: the host says the first arrest was in Layton, Utah (C-15344), while the AG article she reads says the Idaho ICAC unit made the February 3 arrest after a request from the Lehi Police Department (C-15355).
-- The son's statement (C-15392) says the film is "not pro ice", which conflicts with the host's description of it as a pro-ICE project (C-15391).
-- Artifact referenced but not shown: the Art of Play store video (C-15388); the host's own tweet about Kolvet at the White House (C-15367); the Variety article (C-15390).
+- Host factual hedge: the host says Kelly Clarkson was "16 years old" when she won American Idol in 2002; kept as spoken (C-14286).
+- Internal inconsistency recorded, not resolved: the host says the first arrest was in Layton, Utah (C-14248), while the AG article she reads says the Idaho ICAC unit made the February 3 arrest after a request from the Lehi Police Department (C-14259).
+- The son's statement (C-14296) says the film is "not pro ice", which conflicts with the host's description of it as a pro-ICE project (C-14295).
+- Artifact referenced but not shown: the Art of Play store video (C-14292); the host's own tweet about Kolvet at the White House (C-14271); the Variety article (C-14294).
 - DIA scan: "candaceowens.com" hit at 00:48:02 is a merch plug, not a tip request – not a DIA beat (recorded as M-14 occurrence). The two DIA beats (00:04:15 tip payoff, 00:06:20 request) do not use a listed keyword but are clear tip beats.
 - Rejected claims (admission test): the Skyler "hearsay episode" opener (joke about the producer); the "manufactured ghost of Charlie that Turning Point presents" (framing); "Why does this theme keep coming up" (rhetorical); Tyler Clancy "which hat" riff and "upcoming promotion" (speculation); the France–Israel–US "shared interest" frame (opinion); best birthday gift remarks and "fraud" posts (opinion); "white walkers" riff (opinion); Brooklyn hipster description (opinion); dictator / Queen Candace comment exchange (joke); Tom Cruise film comment (viewer opinion); "Cornell 7" reference (too vague to check); Moscow, Idaho "center of some other crimes" (vague).
 - Sponsor reads (Pre-Born, PureTalk, Tax Network USA, Battalion Metals, American Financing) not extracted; the Battalion Metals read mentions the Strait of Hormuz being closed and a war in Iran as ad copy.
-- "Mike" in C-15396 not matched to a node (ambiguous).
+- "Mike" in C-14300 not matched to a node (ambiguous).

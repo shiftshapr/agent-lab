@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-789, N-11148, N-11150
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10b): C-7599–C-7692
+  - Claim Range: C-12533–C-12638
   - New Nodes Introduced: N-10819
   - Reused Nodes Appearing: N-10818, N-5, N-7, N-9, N-17, N-22, N-54, N-55, N-89, N-97, N-106, N-117, N-159, N-217, N-261, N-367, N-485, N-504, N-506, N-861, N-607, N-666, N-10000, N-10013, N-10015, N-10019, N-10040, N-10048, N-10077, N-10131, N-10148, N-10169, N-10193, N-10198, N-10248, N-10264, N-10324, N-10398, N-10570, N-10679, N-10712, N-10715, N-10729, N-10888, N-10897, N-10969, N-11057, N-11065, N-11070, N-10817, N-11149, N-281, N-10885
   - (see registers)
@@ -21,7 +21,7 @@
 # Episode 146 Ledger Summary
 
 Artifact Families Introduced: A-2320, A-2321, A-2322, A-2323, A-2324, A-2325, A-2326
-Claim Range: C-3345–C-3354
+Claim Range: C-12566–C-12600
 New Nodes Introduced: N-10817, N-10818, N-10819
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
@@ -64,7 +64,7 @@ Video Timestamp: 00:25:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-7649, N-3*
+*Related: C-12594, N-3*
 
 ---
 
@@ -79,7 +79,7 @@ Video Timestamp: 00:18:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7635, C-7636, C-7637, N-17, N-190, N-2*
+*Related: C-12577, C-12578, C-12580, N-17, N-190, N-2*
 
 ---
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:43:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7684, N-159, N-3*
+*Related: C-12630, N-159, N-3*
 
 ---
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:48:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-7690, N-1, N-14, N-159*
+*Related: C-12636, N-1, N-14, N-159*
 
 ---
 
@@ -135,7 +135,7 @@ Video Timestamp: 00:08:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3346*
+*Related: C-12554*
 
 ---
 
@@ -149,7 +149,7 @@ Video Timestamp: 00:09:43–00:11:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3347, C-3355*
+*Related: C-12555, C-12579*
 
 **A-2322.2** Jack Hibbs interview with Frank Turek – FaceTime sequence, Mikey McCoy call, "cousin Charlie" confusion, 12:30 PM prayer chain claim
 
@@ -159,7 +159,7 @@ Video Timestamp: 00:15:14–00:17:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3349, C-3350, C-3351, N-10818*
+*Related: C-12570, C-12574, C-12576, N-10818*
 
 ---
 
@@ -173,7 +173,7 @@ Video Timestamp: 00:13:30–00:15:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3345, C-3355*
+*Related: C-12566, C-12579*
 
 ---
 
@@ -188,7 +188,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Extraction Timestamp: 2026-09-01 (broadcast)
 Confidence Level: High
 
-*Related: C-3348, N-10817*
+*Related: C-12589, N-10817*
 
 **A-2324.2** Butch Hibbs still on phone approximately five minutes after the shooting
 
@@ -198,7 +198,7 @@ Video Timestamp: 00:24:18–00:25:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3353, N-10817*
+*Related: C-12556, N-10817*
 
 **A-2324.3** Butch Hibbs standing behind persons speaking to news crews about what they witnessed
 
@@ -246,7 +246,7 @@ Video Timestamp: 00:02:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3356, N-1*
+*Related: C-12536, N-1*
 
 **A-2326.2** Footage of Stacy Sheridan and Tracy Martin arriving at the courthouse
 
@@ -256,7 +256,7 @@ Video Timestamp: 00:02:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3356, N-2*
+*Related: C-12536, N-2*
 
 **A-2326.3** Footage of Andrew Kolvet walking into the courthouse
 
@@ -266,7 +266,7 @@ Video Timestamp: 00:03:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3356, N-[existing] Andrew Kolvet*
+*Related: C-12536, N-[existing] Andrew Kolvet*
 
 **A-2326.4** Footage of Pastor James Kaddis on a mobility scooter at the courthouse
 
@@ -276,7 +276,7 @@ Video Timestamp: 00:03:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3356*
+*Related: C-12536*
 
 ---
 
@@ -286,7 +286,7 @@ Confidence Level: High
 
 Subject of the assassination; the host recounts his overnight texts, his fate and the footage taken beside him.
 
-*Related: C-7607, C-7618, C-7621, C-7622, C-7623, C-7624, C-7625, C-7626, C-7628, C-7634, C-7638, C-7642, C-7643, C-7644, C-7647, C-7664, C-7670, C-7680, C-7682, C-7688, C-7690, C-7692*
+*Related: C-12542, C-12553, C-12559, C-12560, C-12561, C-12562, C-12563, C-12564, C-12567, C-12575, C-12581, C-12585, C-12586, C-12587, C-12591, C-12610, C-12616, C-12628, C-12626, C-12634, C-12636, C-12638*
 
 ---
 
@@ -294,7 +294,7 @@ Subject of the assassination; the host recounts his overnight texts, his fate an
 
 Widow and TPUSA CEO; named in the host's accounts of Mikey McCoy's calls, Kaddis and her entourage.
 
-*Related: C-7602, C-7603, C-7604, C-7605, C-7623, C-7635*
+*Related: C-12537, C-12538, C-12539, C-12540, C-12561, C-12577*
 
 ---
 
@@ -302,7 +302,7 @@ Widow and TPUSA CEO; named in the host's accounts of Mikey McCoy's calls, Kaddis
 
 Host; speaks for herself throughout.
 
-*Related: C-7599, C-7600, C-7601, C-7608, C-7609, C-7611, C-7612, C-7613, C-7614, C-7615, C-7616, C-7617, C-7622, C-7623, C-7624, C-7625, C-7626, C-7646, C-7649, C-7650, C-7654, C-7655, C-7656, C-7677, C-7678, C-7679, C-7681, C-7682, C-7683, C-7684, C-7687, C-7689, C-7691*
+*Related: C-12533, C-12534, C-12535, C-12543, C-12544, C-12546, C-12547, C-12548, C-12549, C-12550, C-12551, C-12552, C-12560, C-12561, C-12562, C-12563, C-12564, C-12590, C-12594, C-12595, C-12599, C-12601, C-12602, C-12623, C-12624, C-12625, C-12627, C-12626, C-12629, C-12630, C-12633, C-12635, C-12637*
 
 ---
 
@@ -310,7 +310,7 @@ Host; speaks for herself throughout.
 
 Donald Trump; the host cites his July call to Charlie Kirk about the Epstein files.
 
-*Related: C-7680*
+*Related: C-12628*
 
 ---
 
@@ -318,7 +318,7 @@ Donald Trump; the host cites his July call to Charlie Kirk about the Epstein fil
 
 Frank Turek; appears in the Jack Hibbs interview clip describing the hospital FaceTime.
 
-*Related: C-7619, C-7629, C-7630, C-7631, C-7633, C-7636*
+*Related: C-12557, C-12568, C-12569, C-12571, C-12573, C-12578*
 
 ---
 
@@ -326,7 +326,7 @@ Frank Turek; appears in the Jack Hibbs interview clip describing the hospital Fa
 
 Jeffrey Epstein; named in the host's prediction that the case ties to the Epstein network.
 
-*Related: C-7681*
+*Related: C-12627*
 
 ---
 
@@ -334,7 +334,7 @@ Jeffrey Epstein; named in the host's prediction that the case ties to the Epstei
 
 Andrew Kolvet; named in the host's remarks on Shapiro and Project Constitution's livestream comparison.
 
-*Related: C-7688, C-7690*
+*Related: C-12634, C-12636*
 
 ---
 
@@ -342,7 +342,7 @@ Andrew Kolvet; named in the host's remarks on Shapiro and Project Constitution's
 
 Rob McCoy; Calvary Chapel pastor and Mikey McCoy's father.
 
-*Related: C-7605, C-7606, C-7613, C-7635, C-7637*
+*Related: C-12540, C-12541, C-12548, C-12577, C-12580*
 
 ---
 
@@ -350,7 +350,7 @@ Rob McCoy; Calvary Chapel pastor and Mikey McCoy's father.
 
 Tucker Carlson; named in the host's account of Blake Neff's relationship to Charlie.
 
-*Related: C-7692*
+*Related: C-12638*
 
 ---
 
@@ -358,7 +358,7 @@ Tucker Carlson; named in the host's account of Blake Neff's relationship to Char
 
 Tyler Robinson; defendant in the preliminary hearing discussed.
 
-*Related: C-7600, C-7655, C-7656, C-7657, C-7659, C-7660, C-7661, C-7662, C-7663, C-7664, C-7665, C-7666, C-7667, C-7668, C-7669, C-7670, C-7671, C-7672, C-7673, C-7674, C-7675, C-7676, C-7677, C-7678, C-7683, C-7685, C-7686*
+*Related: C-12534, C-12601, C-12602, C-12603, C-12605, C-12606, C-12607, C-12608, C-12609, C-12610, C-12611, C-12612, C-12613, C-12614, C-12615, C-12616, C-12617, C-12618, C-12619, C-12620, C-12621, C-12622, C-12623, C-12624, C-12629, C-12631, C-12632*
 
 ---
 
@@ -366,7 +366,7 @@ Tyler Robinson; defendant in the preliminary hearing discussed.
 
 Lance Twiggs; his video testimony and texts figure in the hearing discussion.
 
-*Related: C-7657, C-7658, C-7672, C-7673, C-7674*
+*Related: C-12603, C-12604, C-12618, C-12619, C-12620*
 
 ---
 
@@ -374,7 +374,7 @@ Lance Twiggs; his video testimony and texts figure in the hearing discussion.
 
 Josh Hammer; named as a source of debate tips the night before.
 
-*Related: C-7626*
+*Related: C-12564*
 
 ---
 
@@ -382,7 +382,7 @@ Josh Hammer; named as a source of debate tips the night before.
 
 Benny Johnson; named among TPUSA influencers absent from the courthouse.
 
-*Related: C-7601*
+*Related: C-12535*
 
 ---
 
@@ -390,7 +390,7 @@ Benny Johnson; named among TPUSA influencers absent from the courthouse.
 
 Ben Shapiro; subject of the SUV-updates claim and the rivalry remark.
 
-*Related: C-7642, C-7643, C-7688*
+*Related: C-12585, C-12586, C-12634*
 
 ---
 
@@ -398,7 +398,7 @@ Ben Shapiro; subject of the SUV-updates claim and the rivalry remark.
 
 Ted Cruz; named as a politician the host says the Wilks brothers fund.
 
-*Related: C-7617*
+*Related: C-12552*
 
 ---
 
@@ -406,7 +406,7 @@ Ted Cruz; named as a politician the host says the Wilks brothers fund.
 
 Marissa Streit; PragerU CEO the host says introduced her to Jack Hibbs.
 
-*Related: C-7611, C-7612*
+*Related: C-12546, C-12547*
 
 ---
 
@@ -414,7 +414,7 @@ Marissa Streit; PragerU CEO the host says introduced her to Jack Hibbs.
 
 Blake Neff; named in the 911 claim, the terabytes post and the hiring-date remark.
 
-*Related: C-7640, C-7684, C-7690, C-7692*
+*Related: C-12583, C-12630, C-12636, C-12638*
 
 ---
 
@@ -422,7 +422,7 @@ Blake Neff; named in the 911 claim, the terabytes post and the hiring-date remar
 
 Stacy Sheridan; named at the courthouse arrival and her role.
 
-*Related: C-7602*
+*Related: C-12537*
 
 ---
 
@@ -430,7 +430,7 @@ Stacy Sheridan; named at the courthouse arrival and her role.
 
 Mikey McCoy; his calls and walk-away behavior on 9/10.
 
-*Related: C-7605, C-7606, C-7607, C-7631, C-7632, C-7635, C-7636, C-7637*
+*Related: C-12540, C-12541, C-12542, C-12571, C-12572, C-12577, C-12578, C-12580*
 
 ---
 
@@ -438,7 +438,7 @@ Mikey McCoy; his calls and walk-away behavior on 9/10.
 
 Jack Hibbs; pastor whose interviews and accounts the episode analyzes.
 
-*Related: C-7610, C-7611, C-7618, C-7619, C-7620, C-7621, C-7628, C-7629, C-7630, C-7631, C-7632, C-7633, C-7634, C-7636, C-7637, C-7647, C-7654*
+*Related: C-12545, C-12546, C-12553, C-12557, C-12558, C-12559, C-12567, C-12568, C-12569, C-12571, C-12572, C-12573, C-12575, C-12578, C-12580, C-12591, C-12599*
 
 ---
 
@@ -446,7 +446,7 @@ Jack Hibbs; pastor whose interviews and accounts the episode analyzes.
 
 Elizabeth McCoy; on Mikey McCoy's call log.
 
-*Related: C-7635*
+*Related: C-12577*
 
 ---
 
@@ -454,7 +454,7 @@ Elizabeth McCoy; on Mikey McCoy's call log.
 
 Butch Hibbs; subject of the UVU footage and presence claims.
 
-*Related: C-7607, C-7608, C-7609, C-7610, C-7619, C-7620, C-7621, C-7627, C-7628, C-7629, C-7634, C-7644, C-7645, C-7646, C-7647, C-7648, C-7651, C-7652, C-7653, C-7654*
+*Related: C-12542, C-12543, C-12544, C-12545, C-12557, C-12558, C-12559, C-12565, C-12567, C-12568, C-12575, C-12587, C-12588, C-12590, C-12591, C-12593, C-12596, C-12597, C-12598, C-12599*
 
 ---
 
@@ -462,7 +462,7 @@ Butch Hibbs; subject of the UVU footage and presence claims.
 
 Terryl Farnsworth; the host restates his selfie video and SD card handling.
 
-*Related: C-7638, C-7639*
+*Related: C-12581, C-12582*
 
 ---
 
@@ -470,7 +470,7 @@ Terryl Farnsworth; the host restates his selfie video and SD card handling.
 
 Jennica Pounds (Data Republican); named in the host's opening resemblance remark.
 
-*Related: C-7600*
+*Related: C-12534*
 
 ---
 
@@ -478,7 +478,7 @@ Jennica Pounds (Data Republican); named in the host's opening resemblance remark
 
 Danny Phillip; Charlie's assistant on the call log and at the tent.
 
-*Related: C-7635, C-7641, C-7645*
+*Related: C-12577, C-12584, C-12588*
 
 ---
 
@@ -486,7 +486,7 @@ Danny Phillip; Charlie's assistant on the call log and at the tent.
 
 Justin Baldoni; named in the mathematician email and kombucha aside.
 
-*Related: C-7599, C-7689*
+*Related: C-12533, C-12635*
 
 ---
 
@@ -494,7 +494,7 @@ Justin Baldoni; named in the mathematician email and kombucha aside.
 
 Nate Walker; Charlie's assistant named in the 911 claim.
 
-*Related: C-7641*
+*Related: C-12584*
 
 ---
 
@@ -502,7 +502,7 @@ Nate Walker; Charlie's assistant named in the 911 claim.
 
 Officer Christopher Bagley (host says Baggley); hearing testimony relayed by hearsay.
 
-*Related: C-7659*
+*Related: C-12605*
 
 ---
 
@@ -510,7 +510,7 @@ Officer Christopher Bagley (host says Baggley); hearing testimony relayed by hea
 
 Tracy Martin; named in the courthouse segment as Erika's PR.
 
-*Related: C-7602*
+*Related: C-12537*
 
 ---
 
@@ -518,7 +518,7 @@ Tracy Martin; named in the courthouse segment as Erika's PR.
 
 David Hull; officer named in the hearing hearsay example.
 
-*Related: C-7659*
+*Related: C-12605*
 
 ---
 
@@ -526,7 +526,7 @@ David Hull; officer named in the hearing hearsay example.
 
 Graham Allen; named as absent and as a Department of War consultant.
 
-*Related: C-7601, C-7679*
+*Related: C-12535, C-12625*
 
 ---
 
@@ -534,7 +534,7 @@ Graham Allen; named as absent and as a Department of War consultant.
 
 James Kaddis (James Kaddis); pastor spotted at the courthouse.
 
-*Related: C-7603, C-7604*
+*Related: C-12538, C-12539*
 
 ---
 
@@ -542,7 +542,7 @@ James Kaddis (James Kaddis); pastor spotted at the courthouse.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7601, C-7602, C-7677, C-7679*
+*Related: C-12535, C-12537, C-12623, C-12625*
 
 ---
 
@@ -550,7 +550,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7685, C-7686*
+*Related: C-12631, C-12632*
 
 ---
 
@@ -558,7 +558,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7611, C-7612, C-7620*
+*Related: C-12546, C-12547, C-12558*
 
 ---
 
@@ -566,7 +566,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7671*
+*Related: C-12617*
 
 ---
 
@@ -574,7 +574,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7683*
+*Related: C-12629*
 
 ---
 
@@ -582,7 +582,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7652, C-7653*
+*Related: C-12597, C-12598*
 
 ---
 
@@ -590,7 +590,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7664, C-7672, C-7673*
+*Related: C-12610, C-12618, C-12619*
 
 ---
 
@@ -598,7 +598,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7611, C-7612, C-7615*
+*Related: C-12546, C-12547, C-12550*
 
 ---
 
@@ -606,7 +606,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7622, C-7624*
+*Related: C-12560, C-12562*
 
 ---
 
@@ -614,7 +614,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7625, C-7626*
+*Related: C-12563, C-12564*
 
 ---
 
@@ -622,7 +622,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7635, C-7636, C-7637*
+*Related: C-12577, C-12578, C-12580*
 
 ---
 
@@ -630,7 +630,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7605, C-7606*
+*Related: C-12540, C-12541*
 
 ---
 
@@ -638,7 +638,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7627*
+*Related: C-12565*
 
 ---
 
@@ -646,7 +646,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7603, C-7613, C-7627, C-7637*
+*Related: C-12538, C-12548, C-12565, C-12580*
 
 ---
 
@@ -654,7 +654,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7680, C-7681*
+*Related: C-12628, C-12627*
 
 ---
 
@@ -662,7 +662,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7603*
+*Related: C-12538*
 
 ---
 
@@ -670,7 +670,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7684, C-7685, C-7686, C-7687*
+*Related: C-12630, C-12631, C-12632, C-12633*
 
 ---
 
@@ -678,7 +678,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7657, C-7658*
+*Related: C-12603, C-12604*
 
 ---
 
@@ -686,7 +686,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7642, C-7643*
+*Related: C-12585, C-12586*
 
 ---
 
@@ -694,7 +694,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7640*
+*Related: C-12583*
 
 ---
 
@@ -702,7 +702,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7641*
+*Related: C-12584*
 
 ---
 
@@ -710,7 +710,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7600*
+*Related: C-12534*
 
 ---
 
@@ -718,7 +718,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7678, C-7679*
+*Related: C-12624, C-12625*
 
 ---
 
@@ -726,7 +726,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7690*
+*Related: C-12636*
 
 ---
 
@@ -734,7 +734,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7680*
+*Related: C-12628*
 
 ---
 
@@ -742,7 +742,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7692*
+*Related: C-12638*
 
 ---
 
@@ -750,7 +750,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7601*
+*Related: C-12535*
 
 ---
 
@@ -758,7 +758,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7638, C-7639*
+*Related: C-12581, C-12582*
 
 ---
 
@@ -766,7 +766,7 @@ Existing topic reused for new claims in this episode.
 
 First named by the host at 00:13:30 in episode 146 (spelled Starns; possibly Starnes). Fox News figure who interviewed Jack Hibbs on audio.
 
-*Related: C-7628*
+*Related: C-12567*
 
 ---
 
@@ -775,7 +775,7 @@ First named by the host at 00:13:30 in episode 146 (spelled Starns; possibly Sta
 Node Type: Topic
 The host's assertions about the Wilks brothers funding Calvary Chapel church construction, PragerU, the early Daily Wire and pro-Israel politicians.
 
-*Related: C-7613, C-7614, C-7615, C-7616, C-7617*
+*Related: C-12548, C-12549, C-12550, C-12551, C-12552*
 
 ---
 
@@ -784,7 +784,7 @@ The host's assertions about the Wilks brothers funding Calvary Chapel church con
 Node Type: Topic
 The preliminary hearing, the seven charges and the defense motion to dismiss counts 1, 6 and 7, with the magistrate's ruling awaited on the broadcast date.
 
-*Related: C-7655, C-7656, C-7657, C-7658, C-7659, C-7660, C-7661, C-7662, C-7663, C-7664, C-7665, C-7668, C-7669, C-7670, C-7671, C-7672, C-7673, C-7674, C-7675, C-7676, C-7677, C-7691*
+*Related: C-12601, C-12602, C-12603, C-12604, C-12605, C-12606, C-12607, C-12608, C-12609, C-12610, C-12611, C-12614, C-12615, C-12616, C-12617, C-12618, C-12619, C-12620, C-12621, C-12622, C-12623, C-12637*
 
 ---
 
@@ -793,7 +793,7 @@ The preliminary hearing, the seven charges and the defense motion to dismiss cou
 Node Type: Topic
 The host's account that Utah has no single-victim aggravated murder conviction and that the prosecution relies on Pennsylvania cases despite that state's death penalty moratorium.
 
-*Related: C-7661, C-7662, C-7663, C-7665, C-7666, C-7667*
+*Related: C-12607, C-12608, C-12609, C-12611, C-12612, C-12613*
 
 ---
 
@@ -808,7 +808,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2324.1, A-2324.2, A-2324.3, C-3348, C-3353*
+*Related: A-2324.1, A-2324.2, A-2324.3, C-12589, C-12556*
 
 **N-10818** Jack Hibbs Sequence-of-Events Discrepancy
 
@@ -819,7 +819,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2322.2, C-3349, C-3350, C-3351*
+*Related: A-2322.2, C-12570, C-12574, C-12576*
 
 **N-10819** Unidentified UVU Attendee (Pink Hat / Blue Shirt)
 
@@ -836,7 +836,7 @@ Investigative Pressure: Low
 
 ## V. Claim Register
 
-**C-3345** Butch Hibbs attended UVU 9/10 with a front-row seat arranged through Charlie Kirk
+**C-12566** Butch Hibbs attended UVU 9/10 with a front-row seat arranged through Charlie Kirk
 
 Claim Timestamp: 00:13:30
 
@@ -851,7 +851,7 @@ Investigative Direction: Confirm UVU event seating assignments, verify whether t
 
 ---
 
-**C-3346** Jack Hibbs stated he learned of Charlie Kirk's death from an Israeli news service shortly after the shooting
+**C-12554** Jack Hibbs stated he learned of Charlie Kirk's death from an Israeli news service shortly after the shooting
 
 Claim Timestamp: 00:08:45
 
@@ -866,7 +866,7 @@ Investigative Direction: Identify the specific Israeli outlet(s) referenced; rev
 
 ---
 
-**C-3347** Jack Hibbs stated his brother Butch called him the night before 9/10 to request a UVU ticket
+**C-12555** Jack Hibbs stated his brother Butch called him the night before 9/10 to request a UVU ticket
 
 Claim Timestamp: 00:09:43
 
@@ -881,7 +881,7 @@ Investigative Direction: Obtain Butch Hibbs's phone records for the night of 9/9
 
 ---
 
-**C-3348** Butch Hibbs recorded footage on his phone within seconds of the shooting
+**C-12589** Butch Hibbs recorded footage on his phone within seconds of the shooting
 
 Claim Timestamp: 00:22:23
 
@@ -896,7 +896,7 @@ Investigative Direction: Obtain original device with full metadata; determine to
 
 ---
 
-**C-3349** Jack Hibbs stated that Mikey McCoy called him before the FaceTime with Frank Turek
+**C-12570** Jack Hibbs stated that Mikey McCoy called him before the FaceTime with Frank Turek
 
 Claim Timestamp: 00:15:14
 
@@ -911,7 +911,7 @@ Investigative Direction: Cross-reference Mikey McCoy's call logs (previously ref
 
 ---
 
-**C-3350** In Clip Host Plays, Jack Hibbs Says He Initially Confused Charlie Kirk With a Relative Named "Cousin Charlie"
+**C-12574** In Clip Host Plays, Jack Hibbs Says He Initially Confused Charlie Kirk With a Relative Named "Cousin Charlie"
 
 Claim Timestamp: 00:16:13
 
@@ -926,7 +926,7 @@ Investigative Direction: Verify the existence of a Jack Hibbs relative commonly 
 
 ---
 
-**C-3351** Jack Hibbs placed the prayer-chain timing at approximately 12:30 PM Utah, roughly seven minutes after the shooting
+**C-12576** Jack Hibbs placed the prayer-chain timing at approximately 12:30 PM Utah, roughly seven minutes after the shooting
 
 Claim Timestamp: 00:18:43
 
@@ -941,7 +941,7 @@ Investigative Direction: Establish the precise timestamp of the shooting from pr
 
 ---
 
-**C-3352** Host Says Butch Hibbs Was on a Phone Call About Five Minutes After the Shooting, Not Visibly Distressed
+**C-12592** Host Says Butch Hibbs Was on a Phone Call About Five Minutes After the Shooting, Not Visibly Distressed
 
 Claim Timestamp: 00:24:18
 
@@ -956,7 +956,7 @@ Investigative Direction: Attempt to identify call recipient via phone records; c
 
 ---
 
-**C-3353** Host Says Butch Hibbs Is 74 Years Old
+**C-12556** Host Says Butch Hibbs Is 74 Years Old
 
 Claim Timestamp: 00:09:43
 
@@ -971,7 +971,7 @@ Investigative Direction: Confirm Butch Hibbs's date of birth and verify against 
 
 ---
 
-**C-3354** Host Says Judge Graf Was to Rule on Tyler Robinson Preliminary Hearing Decision on the Broadcast Date
+**C-12600** Host Says Judge Graf Was to Rule on Tyler Robinson Preliminary Hearing Decision on the Broadcast Date
 
 Claim Timestamp: 00:31:24
 
@@ -986,7 +986,7 @@ Investigative Direction: Verify the magistrate's full name through Utah court re
 
 ---
 
-**C-3355** A prayer chain / coordinated Calvary Chapel communication may have begun during the active emergency window
+**C-12579** A prayer chain / coordinated Calvary Chapel communication may have begun during the active emergency window
 
 Claim Timestamp: 00:19:30
 
@@ -1001,7 +1001,7 @@ Investigative Direction: Compare timestamps across all Calvary Chapel-linked cal
 
 ---
 
-**C-3356** Host Says Erika Kirk, Charlie Kirk's Parents, Stacy Sheridan, Tracy Martin, Andrew Kolvet, and Pastor James Kaddis Were at the Courthouse on Decision Day
+**C-12536** Host Says Erika Kirk, Charlie Kirk's Parents, Stacy Sheridan, Tracy Martin, Andrew Kolvet, and Pastor James Kaddis Were at the Courthouse on Decision Day
 
 Claim Timestamp: 00:02:52
 
@@ -1016,7 +1016,7 @@ Investigative Direction: Cross-reference courthouse visitor logs; reconcile with
 
 ---
 
-**C-7599** Host Reads Mathematician Email Putting Baldoni Iceland Meeting at One in 80 Million
+**C-12533** Host Reads Mathematician Email Putting Baldoni Iceland Meeting at One in 80 Million
 
 Claim Timestamp: 00:00:18
 
@@ -1031,7 +1031,7 @@ Investigative Direction: Locate the host's prior-episode question and the origin
 
 ---
 
-**C-7600** Host Says Jennica Pounds Resembles Tyler Robinson and Cites No Positive Evidence It Was Not Her on the Staircase
+**C-12534** Host Says Jennica Pounds Resembles Tyler Robinson and Cites No Positive Evidence It Was Not Her on the Staircase
 
 Claim Timestamp: 00:01:06
 
@@ -1047,7 +1047,7 @@ Investigative Direction: Compare Pounds' documented whereabouts on September 10,
 
 ---
 
-**C-7601** Host Says Turning Point USA Influencers Skipped the Decision-Day Courthouse
+**C-12535** Host Says Turning Point USA Influencers Skipped the Decision-Day Courthouse
 
 Claim Timestamp: 00:02:05
 
@@ -1063,7 +1063,7 @@ Investigative Direction: Compare courtroom pool footage and attendee lists from 
 
 ---
 
-**C-7602** Host Says Stacy Sheridan Heads TPUSA Donations and Tracy Martin Does Erika's PR
+**C-12537** Host Says Stacy Sheridan Heads TPUSA Donations and Tracy Martin Does Erika's PR
 
 Claim Timestamp: 00:02:52
 
@@ -1079,7 +1079,7 @@ Investigative Direction: Check TPUSA staff and org records for Sheridan's title 
 
 ---
 
-**C-7603** Host Says Pastor James Kaddis Is Senior Pastor at Calvary Chapel Signal Hill and a TPUSA Faith Pastor
+**C-12538** Host Says Pastor James Kaddis Is Senior Pastor at Calvary Chapel Signal Hill and a TPUSA Faith Pastor
 
 Claim Timestamp: 00:03:42
 
@@ -1095,7 +1095,7 @@ Investigative Direction: Check Calvary Chapel Signal Hill staff listings and TPU
 
 ---
 
-**C-7604** Host Says Kaddis Hosts a Show With Erika Kirk for Her Bible 365 Brand
+**C-12539** Host Says Kaddis Hosts a Show With Erika Kirk for Her Bible 365 Brand
 
 Claim Timestamp: 00:03:42
 
@@ -1110,7 +1110,7 @@ Investigative Direction: Identify the show and brand by name and confirm Kaddis'
 
 ---
 
-**C-7605** Host Says Mikey McCoy Walked Away Without Calling 911 and Phoned His Wife, Erika, Then His Father
+**C-12540** Host Says Mikey McCoy Walked Away Without Calling 911 and Phoned His Wife, Erika, Then His Father
 
 Claim Timestamp: 00:04:33
 
@@ -1121,13 +1121,13 @@ Transcript Snippet: Mikey McCoy calmly walks away. He does not dial 911, but ins
 Anchored Artifacts: 
 Mentions: N-190, N-2, N-17
 Related Nodes: N-10198
-Supports: C-4545
+Supports: C-9930
 Tags: relevance:core
 Investigative Direction: Match the sequence against Mikey McCoy's phone records and the 911 call log.
 
 ---
 
-**C-7606** Host Says Mikey McCoy Phoned a Second Pastor for Prayer That Day
+**C-12541** Host Says Mikey McCoy Phoned a Second Pastor for Prayer That Day
 
 Claim Timestamp: 00:04:33
 
@@ -1138,13 +1138,13 @@ Transcript Snippet: Rob McCoy, his father, is not the only pastor that he phoned
 Anchored Artifacts: 
 Mentions: N-190, N-17, N-208
 Related Nodes: N-10198
-Supports: C-3349
+Supports: C-12570
 Tags: relevance:core
 Investigative Direction: Obtain Mikey McCoy's call records to confirm any call to a Hibbs number and its time.
 
 ---
 
-**C-7607** Host Says Mikey McCoy Met Butch Hibbs at UVU and They Walked Charlie In Together
+**C-12542** Host Says Mikey McCoy Met Butch Hibbs at UVU and They Walked Charlie In Together
 
 Claim Timestamp: 00:04:33
 
@@ -1160,7 +1160,7 @@ Investigative Direction: Review UVU arrival and walk-in video to confirm Butch H
 
 ---
 
-**C-7608** Host Says Online Speculation Held Butch Hibbs Was Undercover and Carried a Rode Microphone
+**C-12543** Host Says Online Speculation Held Butch Hibbs Was Undercover and Carried a Rode Microphone
 
 Claim Timestamp: 00:04:33
 
@@ -1176,7 +1176,7 @@ Investigative Direction: Zoom on the high-resolution pre-event photo of Butch Hi
 
 ---
 
-**C-7609** Host Says Online Sleuths Looked Into Butch Hibbs' Residence and a Flight to Tennessee
+**C-12544** Host Says Online Sleuths Looked Into Butch Hibbs' Residence and a Flight to Tennessee
 
 Claim Timestamp: 00:06:01
 
@@ -1192,7 +1192,7 @@ Investigative Direction: Verify any public flight or residence record only if it
 
 ---
 
-**C-7610** Host Says Butch Hibbs Was Born Burton Hibbs Jr. and Is Pastor Jack Hibbs' Brother
+**C-12545** Host Says Butch Hibbs Was Born Burton Hibbs Jr. and Is Pastor Jack Hibbs' Brother
 
 Claim Timestamp: 00:06:01
 
@@ -1203,13 +1203,13 @@ Transcript Snippet: Butch Hibbs, born Burton Hibbs, Jr., he is from a military f
 Anchored Artifacts: A-2325.1
 Mentions: N-246, N-208
 Related Nodes: N-10817
-Supports: C-1673
+Supports: C-2695
 Tags: relevance:core
 Investigative Direction: Check Utah and California records for Burton Hibbs Jr. and any military service of the Hibbs family.
 
 ---
 
-**C-7611** Host Says She First Heard of Jack Hibbs From Marissa Streit, Who Suggested Him as a Guest
+**C-12546** Host Says She First Heard of Jack Hibbs From Marissa Streit, Who Suggested Him as a Guest
 
 Claim Timestamp: 00:06:01
 
@@ -1225,7 +1225,7 @@ Investigative Direction: Check the host's own correspondence or booking records 
 
 ---
 
-**C-7612** Host Says Marissa Streit Was in Unit 8200 and Has Not Hidden It
+**C-12547** Host Says Marissa Streit Was in Unit 8200 and Has Not Hidden It
 
 Claim Timestamp: 00:06:01
 
@@ -1241,7 +1241,7 @@ Investigative Direction: Compare Strait's own public biography and interviews fo
 
 ---
 
-**C-7613** Host Says the Wilks Brothers Fund Construction of Calvary Chapel Churches Including Rob McCoy's
+**C-12548** Host Says the Wilks Brothers Fund Construction of Calvary Chapel Churches Including Rob McCoy's
 
 Claim Timestamp: 00:07:17
 
@@ -1257,7 +1257,7 @@ Investigative Direction: Check Wilks family foundation grants and church buildin
 
 ---
 
-**C-7614** Host Says the Wilks Brothers Are Not Evangelical Christians
+**C-12549** Host Says the Wilks Brothers Are Not Evangelical Christians
 
 Claim Timestamp: 00:07:28
 
@@ -1273,7 +1273,7 @@ Investigative Direction: Compare the Wilks brothers' own public statements of re
 
 ---
 
-**C-7615** Host Says the Wilks Brothers Fund PragerU and Were Behind the Initial Daily Wire Funding
+**C-12550** Host Says the Wilks Brothers Fund PragerU and Were Behind the Initial Daily Wire Funding
 
 Claim Timestamp: 00:07:42
 
@@ -1289,7 +1289,7 @@ Investigative Direction: Check PragerU donor disclosures and Daily Wire launch-f
 
 ---
 
-**C-7616** Host Says She Is Told the Wilks Brothers Fly Israeli Flags Along Their Texas Property Lines
+**C-12551** Host Says She Is Told the Wilks Brothers Fly Israeli Flags Along Their Texas Property Lines
 
 Claim Timestamp: 00:07:42
 
@@ -1305,7 +1305,7 @@ Investigative Direction: Seek photographs or property records; the host presents
 
 ---
 
-**C-7617** Host Says the Wilks Brothers Fund Pro-Israel Politicians Such as Ted Cruz
+**C-12552** Host Says the Wilks Brothers Fund Pro-Israel Politicians Such as Ted Cruz
 
 Claim Timestamp: 00:07:42
 
@@ -1321,7 +1321,7 @@ Investigative Direction: Check FEC filings and Texas Ethics Commission records f
 
 ---
 
-**C-7618** Host Says Jack Hibbs Was Among the Very First to Announce Charlie's Death, on Facebook
+**C-12553** Host Says Jack Hibbs Was Among the Very First to Announce Charlie's Death, on Facebook
 
 Claim Timestamp: 00:07:42
 
@@ -1332,13 +1332,13 @@ Transcript Snippet: pastor Jack Hibbs was among the very first to announce that 
 Anchored Artifacts: A-2321.1
 Mentions: N-208, N-1
 Related Nodes: N-10818
-Supports: C-4265
+Supports: C-9541
 Tags: relevance:core
 Investigative Direction: Retrieve the original Facebook post with its timestamp (the host notes in a later episode that it was taken down) and compare with the official announcement time.
 
 ---
 
-**C-7619** Turek Says in the Clip That Security Wanted to Throw Butch Hibbs Out Until He Named His Brother
+**C-12557** Turek Says in the Clip That Security Wanted to Throw Butch Hibbs Out Until He Named His Brother
 
 Claim Timestamp: 00:09:43
 
@@ -1354,7 +1354,7 @@ Investigative Direction: Ask UVU or TPUSA security staff whether Butch Hibbs was
 
 ---
 
-**C-7620** Clip Speaker Says Some People Would Call Butch Hibbs a Covert Operative for the CIA and Mossad
+**C-12558** Clip Speaker Says Some People Would Call Butch Hibbs a Covert Operative for the CIA and Mossad
 
 Claim Timestamp: 00:10:34
 
@@ -1370,7 +1370,7 @@ Investigative Direction: Listen to the original interview audio to attribute the
 
 ---
 
-**C-7621** Jack Hibbs Says Butch Had Months to Ask for a Seat but Called the Night Before
+**C-12559** Jack Hibbs Says Butch Had Months to Ask for a Seat but Called the Night Before
 
 Claim Timestamp: 00:10:34
 
@@ -1381,13 +1381,13 @@ Transcript Snippet: he had months to reach out to me to say, "Hey, can you give 
 Anchored Artifacts: A-2322.1
 Mentions: N-208, N-246, N-1
 Related Nodes: N-10817
-Supports: C-3347
+Supports: C-12555
 Tags: relevance:core
 Investigative Direction: Obtain Jack Hibbs' and Charlie Kirk's phone and message records for the night of September 9 to check the relay.
 
 ---
 
-**C-7622** Host Says Charlie Was Texting Donors the Night Before That He Had No Choice but to Abandon the Pro-Israel Cause
+**C-12560** Host Says Charlie Was Texting Donors the Night Before That He Had No Choice but to Abandon the Pro-Israel Cause
 
 Claim Timestamp: 00:11:51
 
@@ -1398,13 +1398,13 @@ Transcript Snippet: Charlie's texting donors that he has no choice but to abando
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10148
-Supports: C-4822
+Supports: C-10208
 Tags: relevance:core
 Investigative Direction: Obtain the text messages the host has described in earlier episodes and confirm sender, recipients and timestamps.
 
 ---
 
-**C-7623** Host Says Erika Attributed Charlie's Sleeplessness the Night Before to Excitement
+**C-12561** Host Says Erika Attributed Charlie's Sleeplessness the Night Before to Excitement
 
 Claim Timestamp: 00:11:51
 
@@ -1419,7 +1419,7 @@ Investigative Direction: Find Erika Kirk's original statement and compare it wit
 
 ---
 
-**C-7624** Host Says Charlie Was Texting That He Thought He Would Be Killed
+**C-12562** Host Says Charlie Was Texting That He Thought He Would Be Killed
 
 Claim Timestamp: 00:11:51
 
@@ -1430,13 +1430,13 @@ Transcript Snippet: now he's texting people saying that he thinks he's going to 
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10148
-Supports: C-5912
+Supports: C-10764
 Tags: relevance:core
 Investigative Direction: Obtain the messages and recipients; the host has said she has seen related texts in earlier episodes.
 
 ---
 
-**C-7625** Host Says Charlie Was Taking Calls From Rabbis Based in Israel the Night Before
+**C-12563** Host Says Charlie Was Taking Calls From Rabbis Based in Israel the Night Before
 
 Claim Timestamp: 00:11:51
 
@@ -1452,7 +1452,7 @@ Investigative Direction: Identify the rabbis and obtain Charlie Kirk's call logs
 
 ---
 
-**C-7626** Host Relays That the Official Story Is Charlie Sought Debate Tips From Josh Hammer and Israel-Based Rabbis
+**C-12564** Host Relays That the Official Story Is Charlie Sought Debate Tips From Josh Hammer and Israel-Based Rabbis
 
 Claim Timestamp: 00:13:03
 
@@ -1463,13 +1463,13 @@ Transcript Snippet: So he was asking for debate tips from people like Josh Hamme
 Anchored Artifacts: 
 Mentions: N-1, N-55, N-3
 Related Nodes: N-10169
-Supports: C-2269
+Supports: C-6040
 Tags: relevance:core
 Investigative Direction: Compare Josh Hammer's own account of the September 9 call with the host's summary and with who participated.
 
 ---
 
-**C-7627** Host Says Butch Hibbs Is Heavily Involved in Calvary Chapel in Utah
+**C-12565** Host Says Butch Hibbs Is Heavily Involved in Calvary Chapel in Utah
 
 Claim Timestamp: 00:13:20
 
@@ -1485,7 +1485,7 @@ Investigative Direction: Check Calvary Chapel Utah church listings and filings f
 
 ---
 
-**C-7628** Jack Hibbs Tells Todd Starnes That His Brother Phoned Him With Screaming Audible
+**C-12567** Jack Hibbs Tells Todd Starnes That His Brother Phoned Him With Screaming Audible
 
 Claim Timestamp: 00:13:30
 
@@ -1501,7 +1501,7 @@ Investigative Direction: Obtain the full Starns audio and Butch Hibbs' phone rec
 
 ---
 
-**C-7629** Host Says It Is Unclear Whether Jack Spoke to Butch Before or After Turek's Hospital FaceTime
+**C-12568** Host Says It Is Unclear Whether Jack Spoke to Butch Before or After Turek's Hospital FaceTime
 
 Claim Timestamp: 00:13:30
 
@@ -1517,7 +1517,7 @@ Investigative Direction: Reconcile Jack Hibbs' phone log against the two account
 
 ---
 
-**C-7630** Host Says Turek FaceTimed Jack Hibbs From Timpanogos Hospital
+**C-12569** Host Says Turek FaceTimed Jack Hibbs From Timpanogos Hospital
 
 Claim Timestamp: 00:13:30
 
@@ -1528,13 +1528,13 @@ Transcript Snippet: Yes, Frank Turek manages to FaceTime Jack from Timpanogos.
 Anchored Artifacts: A-2322.2
 Mentions: N-7, N-208
 Related Nodes: N-10818
-Supports: C-4628
+Supports: C-10013
 Tags: relevance:core
 Investigative Direction: Match the FaceTime log with hospital arrival timing and hospital visitor and phone-use policies.
 
 ---
 
-**C-7631** Jack Hibbs Shifts From Turek Being First Caller to Mikey McCoy Being First After Turek Says It Was at the Hospital
+**C-12571** Jack Hibbs Shifts From Turek Being First Caller to Mikey McCoy Being First After Turek Says It Was at the Hospital
 
 Claim Timestamp: 00:15:14
 
@@ -1545,13 +1545,13 @@ Transcript Snippet: I do believe you were the first one. >> That was after we go
 Anchored Artifacts: A-2322.2
 Mentions: N-208, N-7, N-190
 Related Nodes: N-10818
-Qualifies: C-3349
+Qualifies: C-12570
 Tags: relevance:core
 Investigative Direction: Compare Jack Hibbs' call history timestamps with Turek's and Mikey McCoy's logs.
 
 ---
 
-**C-7632** Jack Hibbs Says Mikey Told Him There Was So Much Blood and He Did Not Believe It
+**C-12572** Jack Hibbs Says Mikey Told Him There Was So Much Blood and He Did Not Believe It
 
 Claim Timestamp: 00:15:14
 
@@ -1562,13 +1562,13 @@ Transcript Snippet: Jack, get everyone in the world praying. >> There's so much 
 Anchored Artifacts: A-2322.2
 Mentions: N-208, N-190
 Related Nodes: N-10818
-Supports: C-3349
+Supports: C-12570
 Tags: relevance:core
 Investigative Direction: Establish the time and duration of the Mikey McCoy call to Jack Hibbs from call records.
 
 ---
 
-**C-7633** Turek Says He Had Blood on Him During the FaceTime With Jack Hibbs
+**C-12573** Turek Says He Had Blood on Him During the FaceTime With Jack Hibbs
 
 Claim Timestamp: 00:15:14
 
@@ -1579,13 +1579,13 @@ Transcript Snippet: Then I facetimed you. I faced We were talking >> You >> So I
 Anchored Artifacts: A-2322.2
 Mentions: N-7, N-208
 Related Nodes: N-10818
-Supports: C-4628
+Supports: C-10013
 Tags: relevance:core
 Investigative Direction: Ask for medical or ER records of the arrival and request Turek's account of what was on his clothing.
 
 ---
 
-**C-7634** Jack Hibbs Says He Hung Up on Butch After Butch Broke Down, Then Started Making Calls
+**C-12575** Jack Hibbs Says He Hung Up on Butch After Butch Broke Down, Then Started Making Calls
 
 Claim Timestamp: 00:16:13
 
@@ -1601,7 +1601,7 @@ Investigative Direction: Obtain Jack Hibbs' outgoing call list for the minutes a
 
 ---
 
-**C-7635** Host Says Mikey McCoy's Call Logs Show a Continuous 12:24 to 12:44 Sequence
+**C-12577** Host Says Mikey McCoy's Call Logs Show a Continuous 12:24 to 12:44 Sequence
 
 Claim Timestamp: 00:18:43
 
@@ -1612,13 +1612,13 @@ Transcript Snippet: remember we had Mikey's call logs. He was on the phone from 
 Anchored Artifacts: A-2895.1
 Mentions: N-190, N-217, N-2, N-17, N-367
 Related Nodes: N-10193
-Supports: C-3092
+Supports: C-11088
 Tags: relevance:core
 Investigative Direction: Re-examine the call-log artifact from the earlier episode and confirm call order, durations and counterparties.
 
 ---
 
-**C-7636** Host Says It Seems Implausible That Mikey Called Jack Before 12:30
+**C-12578** Host Says It Seems Implausible That Mikey Called Jack Before 12:30
 
 Claim Timestamp: 00:18:43
 
@@ -1634,7 +1634,7 @@ Investigative Direction: Check Mikey McCoy's call log for any call to a Hibbs nu
 
 ---
 
-**C-7637** Host Says the Only Way Mikey Called Before 12:30 Is a Calvary Chapel Conference Call
+**C-12580** Host Says the Only Way Mikey Called Before 12:30 Is a Calvary Chapel Conference Call
 
 Claim Timestamp: 00:19:57
 
@@ -1650,7 +1650,7 @@ Investigative Direction: Ask Calvary Chapel leaders whether a group call occurre
 
 ---
 
-**C-7638** Host Says Terryl Recorded a Selfie Video Instead of Calling 911
+**C-12581** Host Says Terryl Recorded a Selfie Video Instead of Calling 911
 
 Claim Timestamp: 00:20:14
 
@@ -1661,13 +1661,13 @@ Transcript Snippet: Terryl prematurely announcing Charlie's death to himself. He
 Anchored Artifacts: 
 Mentions: N-261, N-1
 Related Nodes: N-11070
-Supports: C-3829, C-6100
+Supports: C-8492, C-12366
 Tags: relevance:core
 Investigative Direction: Obtain the selfie video with metadata and the 911 call log to confirm Terryl's call history.
 
 ---
 
-**C-7639** Host Says Terryl Removed SD Cards and Put One Into His Computer After the Selfie
+**C-12582** Host Says Terryl Removed SD Cards and Put One Into His Computer After the Selfie
 
 Claim Timestamp: 00:20:14
 
@@ -1678,13 +1678,13 @@ Transcript Snippet: starts removing SD cards and seemingly plausibly toying arou
 Anchored Artifacts: 
 Mentions: N-261
 Related Nodes: N-11070
-Supports: C-3303
+Supports: C-12288
 Tags: relevance:core
 Investigative Direction: Seek the original SD card and a forensic image of Terryl's laptop to see whether files were accessed.
 
 ---
 
-**C-7640** Host Says Blake Neff Called His Mom and Did Not Then Call 911
+**C-12583** Host Says Blake Neff Called His Mom and Did Not Then Call 911
 
 Claim Timestamp: 00:21:04
 
@@ -1695,13 +1695,13 @@ Transcript Snippet: Blake Blakey called his mom. He did not thereafter call 911.
 Anchored Artifacts: 
 Mentions: N-159
 Related Nodes: N-10715
-Supports: C-4626
+Supports: C-10011
 Tags: relevance:core
 Investigative Direction: Match Neff's carrier records to the 911 call log, as established in earlier episodes.
 
 ---
 
-**C-7641** Host Says Danny Phillip and Nate Walker Did Not Call 911 to Her Knowledge
+**C-12584** Host Says Danny Phillip and Nate Walker Did Not Call 911 to Her Knowledge
 
 Claim Timestamp: 00:21:04
 
@@ -1712,13 +1712,13 @@ Transcript Snippet: Danny Phillip, to our knowledge, did not call 911. Neither d
 Anchored Artifacts: 
 Mentions: N-367, N-504
 Related Nodes: N-10729
-Supports: C-3828
+Supports: C-8491
 Tags: relevance:core
 Investigative Direction: Request 911 and dispatch records for all calls between 12:23 and 12:45 and match caller numbers.
 
 ---
 
-**C-7642** Host Says Someone in the Hospital-Bound SUV Gave Ben Shapiro's Security Team Updates
+**C-12585** Host Says Someone in the Hospital-Bound SUV Gave Ben Shapiro's Security Team Updates
 
 Claim Timestamp: 00:21:04
 
@@ -1729,13 +1729,13 @@ Transcript Snippet: someone in the hospitalbound SUV was providing updates to Be
 Anchored Artifacts: 
 Mentions: N-97, N-1
 Related Nodes: N-10712
-Supports: C-3015
+Supports: C-10667
 Tags: relevance:core
 Investigative Direction: Identify the SUV occupant from phone records and ask Shapiro's security team who was on the line.
 
 ---
 
-**C-7643** Host Says Charlie Could Not Stand Ben Shapiro
+**C-12586** Host Says Charlie Could Not Stand Ben Shapiro
 
 Claim Timestamp: 00:21:04
 
@@ -1746,13 +1746,13 @@ Transcript Snippet: The person who Charlie Kirk could not stand was receiving st
 Anchored Artifacts: 
 Mentions: N-97, N-1
 Related Nodes: N-10712
-Supports: C-2483
+Supports: C-7095
 Tags: relevance:context
 Investigative Direction: Collect Charlie Kirk's own statements about Shapiro and any Shapiro-Kirk correspondence.
 
 ---
 
-**C-7644** Host Says Butch Hibbs Stood Just to the Right of Charlie and the Tent When the Explosive Went Off
+**C-12587** Host Says Butch Hibbs Stood Just to the Right of Charlie and the Tent When the Explosive Went Off
 
 Claim Timestamp: 00:21:04
 
@@ -1768,7 +1768,7 @@ Investigative Direction: Locate Butch Hibbs in pre-shot frames from multiple ang
 
 ---
 
-**C-7645** Host Says Butch Hibbs Stood Next to Danny Phillip, Who Wore a Very Heavy Backpack
+**C-12588** Host Says Butch Hibbs Stood Next to Danny Phillip, Who Wore a Very Heavy Backpack
 
 Claim Timestamp: 00:21:04
 
@@ -1784,7 +1784,7 @@ Investigative Direction: Determine from video the backpack's size and contents i
 
 ---
 
-**C-7646** Host Speculates Charlie's Group Was Told to Gather Footage From Different Angles
+**C-12590** Host Speculates Charlie's Group Was Told to Gather Footage From Different Angles
 
 Claim Timestamp: 00:22:23
 
@@ -1800,7 +1800,7 @@ Investigative Direction: Look for any instruction, message or planning document 
 
 ---
 
-**C-7647** Host Concludes From the Clip That Butch Was Not Fleeing or Rushing to Help
+**C-12591** Host Concludes From the Clip That Butch Was Not Fleeing or Rushing to Help
 
 Claim Timestamp: 00:23:12
 
@@ -1816,7 +1816,7 @@ Investigative Direction: Frame-by-frame review of the full Butch Hibbs clip, plu
 
 ---
 
-**C-7648** Host Says Butch Hibbs Kept Recording Throughout the Clip
+**C-12593** Host Says Butch Hibbs Kept Recording Throughout the Clip
 
 Claim Timestamp: 00:24:18
 
@@ -1832,7 +1832,7 @@ Investigative Direction: Obtain the unedited clip and note total recording durat
 
 ---
 
-**C-7649** Host Asks Viewers to Email Tips to Identify the Pink Hat Blue Shirt Attendee
+**C-12594** Host Asks Viewers to Email Tips to Identify the Pink Hat Blue Shirt Attendee
 
 Claim Timestamp: 00:25:35
 
@@ -1848,7 +1848,7 @@ Investigative Direction: Receive and vet tips on the attendee's identity; confir
 
 ---
 
-**C-7650** Host Says the Pink Hat Blue Shirt Person Appears Often and May Have Seen Something
+**C-12595** Host Says the Pink Hat Blue Shirt Person Appears Often and May Have Seen Something
 
 Claim Timestamp: 00:25:35
 
@@ -1864,7 +1864,7 @@ Investigative Direction: Compile all UVU photos and video frames showing this pe
 
 ---
 
-**C-7651** Host Says Butch Hibbs Was Not Visibly Upset While Standing Behind People Giving News Interviews
+**C-12596** Host Says Butch Hibbs Was Not Visibly Upset While Standing Behind People Giving News Interviews
 
 Claim Timestamp: 00:26:29
 
@@ -1875,13 +1875,13 @@ Transcript Snippet: we did also find him, again, not looking visibly upset, cree
 Anchored Artifacts: A-2324.3
 Mentions: N-246
 Related Nodes: N-10817
-Supports: C-1712
+Supports: C-2878
 Tags: relevance:core
 Investigative Direction: Identify the news outlet, reporter and time of the interview and the original raw footage.
 
 ---
 
-**C-7652** Interviewee in the News Clip Says the Shot Sounded Like a 9 Millimeter, Not a .45
+**C-12597** Interviewee in the News Clip Says the Shot Sounded Like a 9 Millimeter, Not a .45
 
 Claim Timestamp: 00:26:29
 
@@ -1897,7 +1897,7 @@ Investigative Direction: Identify the witness and compare the described sound wi
 
 ---
 
-**C-7653** Second Interviewee Says It Almost Sounded Like a Cherry Bomb
+**C-12598** Second Interviewee Says It Almost Sounded Like a Cherry Bomb
 
 Claim Timestamp: 00:26:29
 
@@ -1913,7 +1913,7 @@ Investigative Direction: Identify both interviewees and obtain the full intervie
 
 ---
 
-**C-7654** Host Says She Found No Mention by Jack Hibbs That His Brother Captured Close Footage
+**C-12599** Host Says She Found No Mention by Jack Hibbs That His Brother Captured Close Footage
 
 Claim Timestamp: 00:27:46
 
@@ -1929,7 +1929,7 @@ Investigative Direction: Ask Jack and Butch Hibbs directly whether the recording
 
 ---
 
-**C-7655** Host Says the Preliminary Hearing Ran Across Five Days in Early July
+**C-12601** Host Says the Preliminary Hearing Ran Across Five Days in Early July
 
 Claim Timestamp: 00:31:24
 
@@ -1945,7 +1945,7 @@ Investigative Direction: Check the Utah Fourth District court docket for the hea
 
 ---
 
-**C-7656** Host Says Utah Rule 1102 Permits Reliable Hearsay at the Preliminary Hearing
+**C-12602** Host Says Utah Rule 1102 Permits Reliable Hearsay at the Preliminary Hearing
 
 Claim Timestamp: 00:31:24
 
@@ -1956,13 +1956,13 @@ Transcript Snippet: I made it very clear to you guys that under the Utah 1102 ru
 Anchored Artifacts: 
 Mentions: N-3, N-40
 Related Nodes: N-11149
-Supports: C-6043
+Supports: C-12152
 Tags: relevance:core
 Investigative Direction: Read Utah Rule of Evidence 1102 and Utah Const. art. I, sec. 12 on preliminary-hearing hearsay.
 
 ---
 
-**C-7657** Host Says Lance Twiggs Could Submit Video Testimony Without Cross-Examination by the Defense
+**C-12603** Host Says Lance Twiggs Could Submit Video Testimony Without Cross-Examination by the Defense
 
 Claim Timestamp: 00:31:24
 
@@ -1978,7 +1978,7 @@ Investigative Direction: Review the hearing record on Lance Twiggs' video testim
 
 ---
 
-**C-7658** Host Says Lance's Lawyer Was Allowed to Lead Him in Questioning
+**C-12604** Host Says Lance's Lawyer Was Allowed to Lead Him in Questioning
 
 Claim Timestamp: 00:31:24
 
@@ -1994,7 +1994,7 @@ Investigative Direction: Review the video testimony to see whether the questioni
 
 ---
 
-**C-7659** Host Says Officers Bagley and Hull Could Relay What They Were Told About Robinson's Vehicle and Plates
+**C-12605** Host Says Officers Bagley and Hull Could Relay What They Were Told About Robinson's Vehicle and Plates
 
 Claim Timestamp: 00:32:38
 
@@ -2010,7 +2010,7 @@ Investigative Direction: Read the hearing transcript of Bagley and Hull's testim
 
 ---
 
-**C-7660** Host Says Seven Charges Are Sought and Aggravated Murder Carries a Death Sentence
+**C-12606** Host Says Seven Charges Are Sought and Aggravated Murder Carries a Death Sentence
 
 Claim Timestamp: 00:32:55
 
@@ -2021,13 +2021,13 @@ Transcript Snippet: the most severe and significant is the aggravated murder cha
 Anchored Artifacts: 
 Mentions: N-40
 Related Nodes: N-11149
-Supports: C-6061
+Supports: C-12173
 Tags: relevance:core
 Investigative Direction: Check the charging information for the seven counts and the state's notice of intent regarding the death penalty.
 
 ---
 
-**C-7661** Host Says No One Has Ever Been Convicted of Aggravated Murder in Utah With a Single Victim
+**C-12607** Host Says No One Has Ever Been Convicted of Aggravated Murder in Utah With a Single Victim
 
 Claim Timestamp: 00:32:55
 
@@ -2043,7 +2043,7 @@ Investigative Direction: Search Utah appellate decisions on the aggravated murde
 
 ---
 
-**C-7662** Host Says Aggravating Factors Usually Involve Bombs or Sprayed Gunfire Showing Intent to Murder En Masse
+**C-12608** Host Says Aggravating Factors Usually Involve Bombs or Sprayed Gunfire Showing Intent to Murder En Masse
 
 Claim Timestamp: 00:34:08
 
@@ -2059,7 +2059,7 @@ Investigative Direction: Review the jurisprudence listed in the defense and pros
 
 ---
 
-**C-7663** Host Says Prosecutors Argue Robinson Fired Only One Bullet Despite Having More Rounds
+**C-12609** Host Says Prosecutors Argue Robinson Fired Only One Bullet Despite Having More Rounds
 
 Claim Timestamp: 00:34:39
 
@@ -2075,7 +2075,7 @@ Investigative Direction: Read the prosecution's response to the motion to dismis
 
 ---
 
-**C-7664** Host Says Alleged Texts Show a Single Target, Charlie Kirk
+**C-12610** Host Says Alleged Texts Show a Single Target, Charlie Kirk
 
 Claim Timestamp: 00:34:58
 
@@ -2091,7 +2091,7 @@ Investigative Direction: Compare the cited text messages in the probable cause s
 
 ---
 
-**C-7665** Host Says the Prosecution Cites Pennsylvania Law to Support the Aggravating Factor
+**C-12611** Host Says the Prosecution Cites Pennsylvania Law to Support the Aggravating Factor
 
 Claim Timestamp: 00:35:34
 
@@ -2107,7 +2107,7 @@ Investigative Direction: Read the state's response to the motion to dismiss and 
 
 ---
 
-**C-7666** Host Says the Pennsylvania Cases Involved Intent to Kill More Than One Victim
+**C-12612** Host Says the Pennsylvania Cases Involved Intent to Kill More Than One Victim
 
 Claim Timestamp: 00:35:34
 
@@ -2123,7 +2123,7 @@ Investigative Direction: Pull the cited Pennsylvania opinions to verify the fact
 
 ---
 
-**C-7667** Host Says Pennsylvania Has a Moratorium on the Death Penalty
+**C-12613** Host Says Pennsylvania Has a Moratorium on the Death Penalty
 
 Claim Timestamp: 00:36:42
 
@@ -2139,7 +2139,7 @@ Investigative Direction: Confirm the Pennsylvania governor's moratorium on execu
 
 ---
 
-**C-7668** Host Says She Would Be Very Shocked If the Aggravated Murder Count Moved Forward
+**C-12614** Host Says She Would Be Very Shocked If the Aggravated Murder Count Moved Forward
 
 Claim Timestamp: 00:36:42
 
@@ -2155,7 +2155,7 @@ Investigative Direction: Check the magistrate's written ruling against the host'
 
 ---
 
-**C-7669** Host Says Count Two Is Felony Discharge of a Firearm
+**C-12615** Host Says Count Two Is Felony Discharge of a Firearm
 
 Claim Timestamp: 00:36:42
 
@@ -2171,7 +2171,7 @@ Investigative Direction: Confirm the count list in the amended information.
 
 ---
 
-**C-7670** Host Says Count Three Is Obstruction for Allegedly Hiding the Firearm
+**C-12616** Host Says Count Three Is Obstruction for Allegedly Hiding the Firearm
 
 Claim Timestamp: 00:36:42
 
@@ -2187,7 +2187,7 @@ Investigative Direction: Check the information and probable cause statement for 
 
 ---
 
-**C-7671** Host Says Count Four Is Obstruction for Allegedly Hiding the Clothing Worn During the Shooting
+**C-12617** Host Says Count Four Is Obstruction for Allegedly Hiding the Clothing Worn During the Shooting
 
 Claim Timestamp: 00:36:42
 
@@ -2203,7 +2203,7 @@ Investigative Direction: Compare the charged clothing with the video-documented 
 
 ---
 
-**C-7672** Host Says Count Five Is Witness Tampering for Allegedly Telling Lance to Delete an Exchange
+**C-12618** Host Says Count Five Is Witness Tampering for Allegedly Telling Lance to Delete an Exchange
 
 Claim Timestamp: 00:36:42
 
@@ -2219,7 +2219,7 @@ Investigative Direction: Check the charging document and text extraction for the
 
 ---
 
-**C-7673** Host Says Count Six Is Witness Tampering for Allegedly Telling Lance Not to Speak to Police
+**C-12619** Host Says Count Six Is Witness Tampering for Allegedly Telling Lance Not to Speak to Police
 
 Claim Timestamp: 00:37:51
 
@@ -2235,7 +2235,7 @@ Investigative Direction: Check the charging document and text extraction for the
 
 ---
 
-**C-7674** Host Says the Defense Argues Count Six Is Defective Because Telling Someone to Lawyer Up Is Not Tampering
+**C-12620** Host Says the Defense Argues Count Six Is Defective Because Telling Someone to Lawyer Up Is Not Tampering
 
 Claim Timestamp: 00:37:51
 
@@ -2251,7 +2251,7 @@ Investigative Direction: Read the defense motion to dismiss and the Utah witness
 
 ---
 
-**C-7675** Host Says Count Seven Is a Violent Offense in the Presence of a Child and the Defense Cites the Campus Setting
+**C-12621** Host Says Count Seven Is a Violent Offense in the Presence of a Child and the Defense Cites the Campus Setting
 
 Claim Timestamp: 00:39:07
 
@@ -2267,7 +2267,7 @@ Investigative Direction: Read the defense brief on count seven and check whether
 
 ---
 
-**C-7676** Host Says the Defense Moved to Dismiss Counts One, Six and Seven
+**C-12622** Host Says the Defense Moved to Dismiss Counts One, Six and Seven
 
 Claim Timestamp: 00:39:13
 
@@ -2278,13 +2278,13 @@ Transcript Snippet: So 1 6 and 7 is what they filed to dismiss.
 Anchored Artifacts: 
 Mentions: N-40
 Related Nodes: N-11149
-Supports: C-3354
+Supports: C-12600
 Tags: relevance:core
 Investigative Direction: Read the motion to dismiss and the magistrate's written ruling when issued.
 
 ---
 
-**C-7677** Host Says She Wants the Case to Move Forward for Reasons Different From TPUSA's
+**C-12623** Host Says She Wants the Case to Move Forward for Reasons Different From TPUSA's
 
 Claim Timestamp: 00:41:34
 
@@ -2300,7 +2300,7 @@ Investigative Direction: Track her statements in earlier episodes on the proceed
 
 ---
 
-**C-7678** Host Says the Department of War Is Involved in Propaganda Aimed at Convicting Robinson
+**C-12624** Host Says the Department of War Is Involved in Propaganda Aimed at Convicting Robinson
 
 Claim Timestamp: 00:41:34
 
@@ -2311,13 +2311,13 @@ Transcript Snippet: We now know the Department of War is involved in the propaga
 Anchored Artifacts: 
 Mentions: N-40, N-3
 Related Nodes: N-10888
-Supports: C-3344
+Supports: C-12512
 Tags: relevance:core
 Investigative Direction: Obtain the emails and contracts referenced in earlier episodes and any FOIA responses.
 
 ---
 
-**C-7679** Host Says Graham Allen Was a Department of War Consultant Before Working for TPUSA
+**C-12625** Host Says Graham Allen Was a Department of War Consultant Before Working for TPUSA
 
 Claim Timestamp: 00:41:34
 
@@ -2333,7 +2333,7 @@ Investigative Direction: Look for Department of War contracts or disclosure form
 
 ---
 
-**C-7680** Host Says Trump Called Charlie in July to Tell Him to Stop Speaking About the Epstein Files
+**C-12628** Host Says Trump Called Charlie in July to Tell Him to Stop Speaking About the Epstein Files
 
 Claim Timestamp: 00:43:05
 
@@ -2344,13 +2344,13 @@ Transcript Snippet: the phone call that Charlie that Trump made to Charlie in Ju
 Anchored Artifacts: 
 Mentions: N-5, N-1
 Related Nodes: N-10969, N-10324
-Supports: C-4500, C-4707
+Supports: C-9885, C-10092
 Tags: relevance:core
 Investigative Direction: Obtain call records or White House logs for Trump and Kirk in July 2025 and the content as described by the host's sources.
 
 ---
 
-**C-7681** Host Says She Believes the Case Will Be Tied to the Epstein Network
+**C-12627** Host Says She Believes the Case Will Be Tied to the Epstein Network
 
 Claim Timestamp: 00:42:56
 
@@ -2366,7 +2366,7 @@ Investigative Direction: Assemble the host's documented links from earlier episo
 
 ---
 
-**C-7682** Host Says She Stands by Charlie's Premonition That His Death Would Be Tied to a Wider Awakening
+**C-12626** Host Says She Stands by Charlie's Premonition That His Death Would Be Tied to a Wider Awakening
 
 Claim Timestamp: 00:41:34
 
@@ -2381,7 +2381,7 @@ Investigative Direction: Identify the source and date of the premonition stateme
 
 ---
 
-**C-7683** Host Says She Has Always Thought Tyler Robinson Was Around Campus That Day and May Have Played a Role
+**C-12629** Host Says She Has Always Thought Tyler Robinson Was Around Campus That Day and May Have Played a Role
 
 Claim Timestamp: 00:43:25
 
@@ -2397,7 +2397,7 @@ Investigative Direction: Review campus camera and phone-location evidence for Ro
 
 ---
 
-**C-7684** Host Says Blake Neff Touted the Terabytes of Evidence Given to the Defense
+**C-12630** Host Says Blake Neff Touted the Terabytes of Evidence Given to the Defense
 
 Claim Timestamp: 00:43:25
 
@@ -2413,7 +2413,7 @@ Investigative Direction: Retrieve Neff's post and compare its terabyte figure wi
 
 ---
 
-**C-7685** Host Says Over One Million Discord Messages Were Handed to the Defense
+**C-12631** Host Says Over One Million Discord Messages Were Handed to the Defense
 
 Claim Timestamp: 00:43:25
 
@@ -2429,7 +2429,7 @@ Investigative Direction: Check the discovery logs and defense filings for the co
 
 ---
 
-**C-7686** Host Cites 12.1 Terabytes Handed Over Including 1 Million Discord Messages
+**C-12632** Host Cites 12.1 Terabytes Handed Over Including 1 Million Discord Messages
 
 Claim Timestamp: 00:44:30
 
@@ -2445,7 +2445,7 @@ Investigative Direction: Find the court filing or hearing statement giving the 1
 
 ---
 
-**C-7687** Host Says Over-Producing Discovery Is a Court Strategy to Bury the Other Side
+**C-12633** Host Says Over-Producing Discovery Is a Court Strategy to Bury the Other Side
 
 Claim Timestamp: 00:44:30
 
@@ -2461,7 +2461,7 @@ Investigative Direction: Compare production dates, volumes and the defense's com
 
 ---
 
-**C-7688** Host Says Shapiro Announced a Tour and Everyone Knows He and Charlie Were Enemies
+**C-12634** Host Says Shapiro Announced a Tour and Everyone Knows He and Charlie Were Enemies
 
 Claim Timestamp: 00:46:56
 
@@ -2471,13 +2471,13 @@ Transcript Snippet: And now he's announced that he's on tour and everyone knows 
 
 Anchored Artifacts: 
 Mentions: N-97, N-1, N-14
-Supports: C-2483
+Supports: C-7095
 Tags: relevance:context
 Investigative Direction: Collect public statements and incidents between Kirk and Shapiro and the tour announcement.
 
 ---
 
-**C-7689** Host Says Justin Told Her He Does Not Drink Kombucha All That Much
+**C-12635** Host Says Justin Told Her He Does Not Drink Kombucha All That Much
 
 Claim Timestamp: 00:47:48
 
@@ -2492,7 +2492,7 @@ Investigative Direction: Context only; no record would bear on the case.
 
 ---
 
-**C-7690** Host Reads Project Constitution Saying Its Livestream Exceeds the TPUSA Show Streams Combined
+**C-12636** Host Reads Project Constitution Saying Its Livestream Exceeds the TPUSA Show Streams Combined
 
 Claim Timestamp: 00:48:14
 
@@ -2508,7 +2508,7 @@ Investigative Direction: Compare concurrent viewer counts on the named streams d
 
 ---
 
-**C-7691** Host Says She Held Back Material to See How the Preliminary Hearing Would Go
+**C-12637** Host Says She Held Back Material to See How the Preliminary Hearing Would Go
 
 Claim Timestamp: 00:51:14
 
@@ -2524,7 +2524,7 @@ Investigative Direction: Watch subsequent episodes for the material the host say
 
 ---
 
-**C-7692** Host Says Blake Neff Did Not Start Working for Charlie Until the Beginning of 2024
+**C-12638** Host Says Blake Neff Did Not Start Working for Charlie Until the Beginning of 2024
 
 Claim Timestamp: 00:53:14
 
@@ -2535,9 +2535,9 @@ Transcript Snippet: You you didn't even start working until the beginning of lik
 Anchored Artifacts: 
 Mentions: N-159, N-1, N-22
 Related Nodes: N-11057
-Contradicts: C-5857
+Contradicts: C-10700
 Tags: relevance:core
-Investigative Direction: Check Neff's employment dates against payroll, bylines and his own account of his hiring (compare C-5857 and the employment-history topic).
+Investigative Direction: Check Neff's employment dates against payroll, bylines and his own account of his hiring (compare C-10700 and the employment-history topic).
 
 ---
 

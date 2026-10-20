@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-11144
-  - Claim Range (supplement_2026-10b): C-7474–C-7534
+  - Claim Range: C-11751–C-11824
   - (see registers)
 
 # Episode Analysis: CKA 137 / Monument Ep 137 / Batch Ep 117
@@ -30,7 +30,6 @@
 - Analysis Date: 2026-08-04
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-2236, A-2237, A-2238, A-2239, A-2240, A-2241, A-2242, A-2243, A-2244, A-2245
-  - Claim Range: C-3211–C-3221
   - New Nodes Introduced: N-10776, N-10779
   - Reused Nodes Appearing: N-506, N-2, N-5, N-11, N-22, N-40, N-69, N-125, N-244, N-367, N-378, N-592, N-682, N-749, N-10006, N-10012, N-10026, N-10028, N-10070, N-10090, N-10110, N-10151, N-10323, N-10344, N-10541, N-10634, N-10715, N-10725, N-10731, N-10732, N-10751, N-10754, N-10772, N-10773, N-10774, N-11057, N-10778, N-784, N-11145, N-10777
   - Existing Nodes Reused: None in this episode beyond standard references
@@ -57,7 +56,7 @@ Video Timestamp: 00:03:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read-aloud)
 
-*Related: C-3211*
+*Related: C-11755*
 
 ---
 
@@ -71,7 +70,7 @@ Video Timestamp: 00:07:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read-aloud)
 
-*Related: C-3212, C-3220, N-10779*
+*Related: C-11763, C-11764, N-10779*
 
 ---
 
@@ -85,7 +84,7 @@ Video Timestamp: 00:17:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed headline excerpt)
 
-*Related: C-3213, N-10777*
+*Related: C-11783, N-10777*
 
 ---
 
@@ -99,7 +98,7 @@ Video Timestamp: 00:37:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (played clip)
 
-*Related: C-3216*
+*Related: C-11808*
 
 **A-2239.2** Iranian state-linked news agency footage showing Tomahawk tail fins
 
@@ -109,7 +108,7 @@ Video Timestamp: 00:38:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (played clip)
 
-*Related: C-3216*
+*Related: C-11808*
 
 ---
 
@@ -123,7 +122,7 @@ Video Timestamp: 00:43:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (played audio)
 
-*Related: C-3217*
+*Related: C-11815*
 
 ---
 
@@ -137,7 +136,7 @@ Video Timestamp: 00:34:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed screenshot)
 
-*Related: C-3215*
+*Related: C-11803*
 
 ---
 
@@ -151,7 +150,7 @@ Video Timestamp: 00:19:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (played audio)
 
-*Related: C-3214, N-10778*
+*Related: C-11786, N-10778*
 
 ---
 
@@ -165,7 +164,7 @@ Video Timestamp: 00:13:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read-aloud)
 
-*Related: C-3218*
+*Related: C-11776*
 
 ---
 
@@ -179,7 +178,7 @@ Video Timestamp: 00:14:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read-aloud direct quote)
 
-*Related: C-3219*
+*Related: C-11778*
 
 ---
 
@@ -193,7 +192,7 @@ Video Timestamp: 00:49:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read-aloud)
 
-*Related: C-3221*
+*Related: C-11819*
 
 ---
 
@@ -203,7 +202,7 @@ Confidence Level: High (read-aloud)
 Video Timestamp: 00:52:11
 Transcript Snippet: ...y a shirt to support us, a sweatshirt. Our iconic Candace intelligent agency hats, our CIA hats, but we are the decentralized intelligence agency. Yeah, that one. The green one's my...
 Confidence: medium
-*Related: C-3666, N-3*
+*Related: C-11823, N-3*
 
 ---
 
@@ -216,7 +215,7 @@ Video Timestamp: 00:09:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-7488, C-7489, C-7491, C-7492, C-7493, C-7494, C-7495, N-1, N-3, N-40, N-784*
+*Related: C-11768, C-11770, C-11771, C-11772, C-11773, C-11774, C-11775, N-1, N-3, N-40, N-784*
 
 ---
 
@@ -229,7 +228,7 @@ Video Timestamp: 00:23:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7507, C-7508, C-7509, C-7512, N-1, N-3, N-506, N-749*
+*Related: C-11791, C-11792, C-11793, C-11796, N-1, N-3, N-506, N-749*
 
 ---
 
@@ -244,7 +243,7 @@ Video Timestamp: 00:30:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-7511, N-3, N-506, N-749*
+*Related: C-11795, N-3, N-506, N-749*
 
 ---
 
@@ -257,7 +256,7 @@ Video Timestamp: 00:47:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-7529, N-1, N-159, N-3*
+*Related: C-11816, N-1, N-159, N-3*
 
 ---
 
@@ -270,7 +269,7 @@ Video Timestamp: 00:51:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-7533, N-3, N-506*
+*Related: C-11821, N-3, N-506*
 
 ---
 
@@ -283,7 +282,7 @@ Video Timestamp: 00:31:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7513, C-7514, N-3*
+*Related: C-11797, C-11798, N-3*
 
 ---
 
@@ -311,7 +310,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2238.1, C-3213*
+*Related: A-2238.1, C-11783*
 
 ---
 
@@ -324,7 +323,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2242.1, C-3214*
+*Related: A-2242.1, C-11786*
 
 ---
 
@@ -337,7 +336,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2237.1, C-3212, C-3220*
+*Related: A-2237.1, C-11763, C-11764*
 
 ---
 
@@ -345,7 +344,7 @@ Investigative Pressure: Medium
 
 Subject of the assassination; the host refers to him in claims about the investigation and the funeral.
 
-*Related: C-7477, C-7478, C-7483, C-7484, C-7485, C-7486, C-7488, C-7491, C-7500, C-7508, C-7526, C-7529, C-7531*
+*Related: C-11754, C-11756, C-11761, C-11762, C-11765, C-11766, C-11768, C-11771, C-11782, C-11792, C-11813, C-11816, C-11818*
 
 ---
 
@@ -353,7 +352,7 @@ Subject of the assassination; the host refers to him in claims about the investi
 
 Widow and TPUSA CEO; the host questions her conduct after the assassination.
 
-*Related: C-7477, C-7499, C-7531*
+*Related: C-11754, C-11781, C-11818*
 
 ---
 
@@ -361,7 +360,7 @@ Widow and TPUSA CEO; the host questions her conduct after the assassination.
 
 Host; speaks for herself throughout.
 
-*Related: C-7474, C-7475, C-7476, C-7477, C-7478, C-7479, C-7480, C-7481, C-7482, C-7483, C-7484, C-7485, C-7486, C-7487, C-7488, C-7491, C-7492, C-7493, C-7494, C-7495, C-7496, C-7497, C-7498, C-7499, C-7500, C-7501, C-7502, C-7505, C-7506, C-7507, C-7508, C-7509, C-7510, C-7511, C-7512, C-7513, C-7514, C-7515, C-7516, C-7517, C-7518, C-7519, C-7520, C-7521, C-7524, C-7525, C-7526, C-7527, C-7528, C-7529, C-7530, C-7531, C-7532, C-7533, C-7534*
+*Related: C-11751, C-11752, C-11753, C-11754, C-11756, C-11757, C-11758, C-11759, C-11760, C-11761, C-11762, C-11765, C-11766, C-11767, C-11768, C-11771, C-11772, C-11773, C-11774, C-11775, C-11777, C-11779, C-11780, C-11781, C-11782, C-11784, C-11785, C-11789, C-11790, C-11791, C-11792, C-11793, C-11794, C-11795, C-11796, C-11797, C-11798, C-11799, C-11800, C-11801, C-11802, C-11804, C-11805, C-11806, C-11810, C-11811, C-11813, C-11812, C-11814, C-11816, C-11817, C-11818, C-11820, C-11821, C-11822*
 
 ---
 
@@ -369,7 +368,7 @@ Host; speaks for herself throughout.
 
 Donald Trump; named in the host's account of the Iran school strike statements.
 
-*Related: C-7520, C-7522, C-7528*
+*Related: C-11805, C-11807, C-11814*
 
 ---
 
@@ -377,7 +376,7 @@ Donald Trump; named in the host's account of the Iran school strike statements.
 
 Frank Turek; the podcast clip and the host's response to his Bible-based remarks.
 
-*Related: C-7474, C-7478, C-7479, C-7485, C-7534*
+*Related: C-11751, C-11756, C-11757, C-11765, C-11822*
 
 ---
 
@@ -385,7 +384,7 @@ Frank Turek; the podcast clip and the host's response to his Bible-based remarks
 
 Tyler Bowyer; tied by internet sleuths to the Salt Lake City hotel.
 
-*Related: C-7518*
+*Related: C-11802*
 
 ---
 
@@ -393,7 +392,7 @@ Tyler Bowyer; tied by internet sleuths to the Salt Lake City hotel.
 
 Andrew Kolvet; his Sept 11 news hit from the hotel room.
 
-*Related: C-7517, C-7518*
+*Related: C-11801, C-11802*
 
 ---
 
@@ -401,7 +400,7 @@ Andrew Kolvet; his Sept 11 news hit from the hotel room.
 
 Tucker Carlson; mentioned in Turek's rhetoric and the host's account of Neff's history.
 
-*Related: C-7530, C-7534*
+*Related: C-11817, C-11822*
 
 ---
 
@@ -409,7 +408,7 @@ Tucker Carlson; mentioned in Turek's rhetoric and the host's account of Neff's h
 
 Tyler Robinson; the accused. The host discusses what has and has not been shown against him.
 
-*Related: C-7475, C-7480, C-7481, C-7482, C-7483, C-7484, C-7494, C-7495*
+*Related: C-11752, C-11758, C-11759, C-11760, C-11761, C-11762, C-11774, C-11775*
 
 ---
 
@@ -417,7 +416,7 @@ Tyler Robinson; the accused. The host discusses what has and has not been shown 
 
 Kash Patel; named in the screwdriver clarification and the transparency promises.
 
-*Related: C-7499, C-7501*
+*Related: C-11781, C-11784*
 
 ---
 
@@ -425,7 +424,7 @@ Kash Patel; named in the screwdriver clarification and the transparency promises
 
 Benny Johnson; host of the show on which Kolvet appeared from the hotel.
 
-*Related: C-7518*
+*Related: C-11802*
 
 ---
 
@@ -433,7 +432,7 @@ Benny Johnson; host of the show on which Kolvet appeared from the hotel.
 
 Mike Mitchell; the host's 'Mike Mitchell' undercover-officer account of the surrender (name matched by sound; see flags).
 
-*Related: C-7481*
+*Related: C-11759*
 
 ---
 
@@ -441,7 +440,7 @@ Mike Mitchell; the host's 'Mike Mitchell' undercover-officer account of the surr
 
 Blake Neff; the host answers his X post and questions his hotel and Sept 10 memory.
 
-*Related: C-7475, C-7476, C-7480, C-7496, C-7515, C-7516, C-7517, C-7529, C-7530*
+*Related: C-11752, C-11753, C-11758, C-11777, C-11799, C-11800, C-11801, C-11816, C-11817*
 
 ---
 
@@ -449,7 +448,7 @@ Blake Neff; the host answers his X post and questions his hotel and Sept 10 memo
 
 Mark Levin; his Iran remarks and the host's claim Trump follows him.
 
-*Related: C-7528*
+*Related: C-11814*
 
 ---
 
@@ -457,7 +456,7 @@ Mark Levin; his Iran remarks and the host's claim Trump follows him.
 
 Danny Philip; named as the person with Neff in Salt Lake City.
 
-*Related: C-7516*
+*Related: C-11800*
 
 ---
 
@@ -465,7 +464,7 @@ Danny Philip; named as the person with Neff in Salt Lake City.
 
 Dan Bongino; named in the screwdriver clarification and transparency promises.
 
-*Related: C-7499, C-7501*
+*Related: C-11781, C-11784*
 
 ---
 
@@ -473,7 +472,7 @@ Dan Bongino; named in the screwdriver clarification and transparency promises.
 
 Officer Christopher Bagley; his testimony on the rooftop video, body cam and companion.
 
-*Related: C-7476, C-7502, C-7503, C-7504, C-7505, C-7506, C-7509, C-7510, C-7511, C-7533*
+*Related: C-11753, C-11785, C-11787, C-11788, C-11789, C-11790, C-11793, C-11794, C-11795, C-11821*
 
 ---
 
@@ -481,7 +480,7 @@ Officer Christopher Bagley; his testimony on the rooftop video, body cam and com
 
 Pete Hegseth; his statements on the Iran school strike.
 
-*Related: C-7520, C-7522*
+*Related: C-11805, C-11807*
 
 ---
 
@@ -489,7 +488,7 @@ Pete Hegseth; his statements on the Iran school strike.
 
 Jon Bray; credited with showing the road mic glass is sticky.
 
-*Related: C-7487*
+*Related: C-11767*
 
 ---
 
@@ -497,7 +496,7 @@ Jon Bray; credited with showing the road mic glass is sticky.
 
 Allan Robertson; USU officer on the rooftop, subject of the Brady and threat-assessment update.
 
-*Related: C-7507, C-7508, C-7509, C-7511, C-7512*
+*Related: C-11791, C-11792, C-11793, C-11795, C-11796*
 
 ---
 
@@ -505,7 +504,7 @@ Allan Robertson; USU officer on the rooftop, subject of the Brady and threat-ass
 
 Fox News; the network Neff was let go from, per the host.
 
-*Related: C-7530*
+*Related: C-11817*
 
 ---
 
@@ -513,7 +512,7 @@ Fox News; the network Neff was let go from, per the host.
 
 Utah Valley University; site of the Sept 10 event and the Sept 9 incident.
 
-*Related: C-7488, C-7491*
+*Related: C-11768, C-11771*
 
 ---
 
@@ -521,7 +520,7 @@ Utah Valley University; site of the Sept 10 event and the Sept 9 incident.
 
 Israel; the host's religious characterization of the state.
 
-*Related: C-7525*
+*Related: C-11811*
 
 ---
 
@@ -529,7 +528,7 @@ Israel; the host's religious characterization of the state.
 
 Utah Valley University Campus; location of the Sept 9 scoping.
 
-*Related: C-7492*
+*Related: C-11772*
 
 ---
 
@@ -537,7 +536,7 @@ Utah Valley University Campus; location of the Sept 9 scoping.
 
 Daily Mail; sender of the press request about a raid.
 
-*Related: C-7498*
+*Related: C-11780*
 
 ---
 
@@ -545,7 +544,7 @@ Daily Mail; sender of the press request about a raid.
 
 Screwdriver Evidence Question; reused for the leak-origin and planting claims.
 
-*Related: C-7500*
+*Related: C-11782*
 
 ---
 
@@ -553,7 +552,7 @@ Screwdriver Evidence Question; reused for the leak-origin and planting claims.
 
 Tyler Robinson Evidence Gaps; reused for the host's list of unshown evidence.
 
-*Related: C-7480*
+*Related: C-11758*
 
 ---
 
@@ -561,7 +560,7 @@ Tyler Robinson Evidence Gaps; reused for the host's list of unshown evidence.
 
 Mike Mitchell Undercover Role Verification; reused for the surrender story.
 
-*Related: C-7481*
+*Related: C-11759*
 
 ---
 
@@ -569,7 +568,7 @@ Mike Mitchell Undercover Role Verification; reused for the surrender story.
 
 Charlie Kirk Burial Status / Catholic Funeral Mass; reused for the funeral comment.
 
-*Related: C-7531*
+*Related: C-11818*
 
 ---
 
@@ -577,7 +576,7 @@ Charlie Kirk Burial Status / Catholic Funeral Mass; reused for the funeral comme
 
 Candace Owens Security Arrangement; reused for the aide's rehabilitation.
 
-*Related: C-7513, C-7514*
+*Related: C-11797, C-11798*
 
 ---
 
@@ -585,7 +584,7 @@ Candace Owens Security Arrangement; reused for the aide's rehabilitation.
 
 Strait of Hormuz / US-Iran War Context; reused for the Iran war claims.
 
-*Related: C-7519, C-7527*
+*Related: C-11804, C-11812*
 
 ---
 
@@ -593,7 +592,7 @@ Strait of Hormuz / US-Iran War Context; reused for the Iran war claims.
 
 Tyler Robinson Roommate Question; reused for the boyfriend testimony.
 
-*Related: C-7483*
+*Related: C-11761*
 
 ---
 
@@ -601,7 +600,7 @@ Tyler Robinson Roommate Question; reused for the boyfriend testimony.
 
 Blake Neff September 10th Movement Discrepancy; reused for his hotel and memory claims.
 
-*Related: C-7515, C-7516, C-7517*
+*Related: C-11799, C-11800, C-11801*
 
 ---
 
@@ -609,7 +608,7 @@ Blake Neff September 10th Movement Discrepancy; reused for his hotel and memory 
 
 Officer Bagley Body-Cam Battery Anomaly; reused for the body cam claims.
 
-*Related: C-7502, C-7533*
+*Related: C-11785, C-11821*
 
 ---
 
@@ -617,7 +616,7 @@ Officer Bagley Body-Cam Battery Anomaly; reused for the body cam claims.
 
 Screwdriver Footage Graininess Discrepancy; reused for the Patel and Bongino clarification.
 
-*Related: C-7501*
+*Related: C-11784*
 
 ---
 
@@ -625,7 +624,7 @@ Screwdriver Footage Graininess Discrepancy; reused for the Patel and Bongino cla
 
 Salt Lake City Hotel Identification Gap; reused for the Asher Adams hotel claims.
 
-*Related: C-7515, C-7517, C-7518*
+*Related: C-11799, C-11801, C-11802*
 
 ---
 
@@ -633,7 +632,7 @@ Salt Lake City Hotel Identification Gap; reused for the Asher Adams hotel claims
 
 Charlie Kirk Cremation/Burial Status Verification; reused for the mock funeral remark.
 
-*Related: C-7531*
+*Related: C-11818*
 
 ---
 
@@ -641,7 +640,7 @@ Charlie Kirk Cremation/Burial Status Verification; reused for the mock funeral r
 
 Rooftop Movement Tactical Analysis; reused for the crawl debunk claim.
 
-*Related: C-7532*
+*Related: C-11820*
 
 ---
 
@@ -649,7 +648,7 @@ Rooftop Movement Tactical Analysis; reused for the crawl debunk claim.
 
 Officer Bagley Rooftop Companion Identification; reused for the companion and Robertson claims.
 
-*Related: C-7476, C-7505, C-7506, C-7509, C-7511*
+*Related: C-11753, C-11789, C-11790, C-11793, C-11795*
 
 ---
 
@@ -657,7 +656,7 @@ Officer Bagley Rooftop Companion Identification; reused for the companion and Ro
 
 Body Cam Battery Failure Circumstances; reused for the missing warning claim.
 
-*Related: C-7502*
+*Related: C-11785*
 
 ---
 
@@ -665,7 +664,7 @@ Body Cam Battery Failure Circumstances; reused for the missing warning claim.
 
 Allan Robertson Brady List Entry / San Bernardino Transfer; reused for the Robertson update.
 
-*Related: C-7507, C-7512*
+*Related: C-11791, C-11796*
 
 ---
 
@@ -673,7 +672,7 @@ Allan Robertson Brady List Entry / San Bernardino Transfer; reused for the Rober
 
 Blake Neff Employment History Account; reused for the Fox and Tucker remarks.
 
-*Related: C-7529, C-7530*
+*Related: C-11816, C-11817*
 
 ---
 
@@ -681,7 +680,7 @@ Blake Neff Employment History Account; reused for the Fox and Tucker remarks.
 
 First named by the host at 00:09:13 in episode 137 (spelled Mike Shamway Lee in the transcript). Utah senator the host says was slated to attend the Sept 10 UVU event and whose name was used as a cover story.
 
-*Related: C-7488, C-7489, C-7490, C-7491, C-7492, C-7493*
+*Related: C-11768, C-11770, C-11769, C-11771, C-11772, C-11773*
 
 ---
 
@@ -690,7 +689,7 @@ First named by the host at 00:09:13 in episode 137 (spelled Mike Shamway Lee in 
 Node Type: Topic
 The host's account that Utah State University officers including Allan Robertson were at UVU on Sept 10 to assess a planned USU Kirk event 10 days later, not in coordination with Charlie's security or UVU police.
 
-*Related: C-7508*
+*Related: C-11792*
 
 ---
 
@@ -699,13 +698,13 @@ The host's account that Utah State University officers including Allan Robertson
 Node Type: Place
 The strike on an elementary school in Minab, Iran, early in the US-Iran war, discussed through the Sky News investigation and the Trump and Hegseth statements.
 
-*Related: C-7519, C-7520, C-7521, C-7522, C-7523, C-7524, C-7525, C-7526*
+*Related: C-11804, C-11805, C-11806, C-11807, C-11809, C-11810, C-11811, C-11813*
 
 ---
 
 ## V. Claim Register
 
-**C-3211** Frank Turek invoked Exodus 22:22 and Deuteronomy 19 in commentary directed at Candace Owens on Nicholas Bowling's podcast
+**C-11755** Frank Turek invoked Exodus 22:22 and Deuteronomy 19 in commentary directed at Candace Owens on Nicholas Bowling's podcast
 
 Claim Timestamp: 00:03:17
 
@@ -720,7 +719,7 @@ Investigative Direction: Obtain the full Nicholas Bowling podcast episode audio/
 
 ---
 
-**C-3212** Woodworker Email Says Black Nitrile Gloves Are Most Resistant to CA Glue and Adhesive
+**C-11763** Woodworker Email Says Black Nitrile Gloves Are Most Resistant to CA Glue and Adhesive
 
 Claim Timestamp: 00:07:24
 
@@ -735,7 +734,7 @@ Investigative Direction: Verify CA glue / nitrile glove compatibility through wo
 
 ---
 
-**C-3213** CNN article on Sept 11, 2025 reported screwdriver was found "near the recovered rifle"
+**C-11783** CNN article on Sept 11, 2025 reported screwdriver was found "near the recovered rifle"
 
 Claim Timestamp: 00:17:01
 
@@ -750,7 +749,7 @@ Investigative Direction: Compare this framing against the later (approx. Sept 15
 
 ---
 
-**C-3214** Officer Bagley testified he did not review rooftop video between the suspect jumping off and his arrival
+**C-11786** Officer Bagley testified he did not review rooftop video between the suspect jumping off and his arrival
 
 Claim Timestamp: 00:19:22
 
@@ -765,7 +764,7 @@ Investigative Direction: Obtain trial transcripts or full video of Bagley's test
 
 ---
 
-**C-3215** Host Says Andrew Kolvet Appeared on Benny Johnson's Show from a Room at the Asher Adams Hotel in Salt Lake City on Sept 11, 2025
+**C-11803** Host Says Andrew Kolvet Appeared on Benny Johnson's Show from a Room at the Asher Adams Hotel in Salt Lake City on Sept 11, 2025
 
 Claim Timestamp: 00:34:29
 
@@ -780,7 +779,7 @@ Investigative Direction: Confirm via hotel guest logs (subject to availability) 
 
 ---
 
-**C-3216** Sky News investigation identified Tomahawk missile tail fins in footage of the Iranian school strike
+**C-11808** Sky News investigation identified Tomahawk missile tail fins in footage of the Iranian school strike
 
 Claim Timestamp: 00:38:05
 
@@ -794,7 +793,7 @@ Investigative Direction: Watch the full Sky News documentary segment; cross-refe
 
 ---
 
-**C-3217** Mark Levin publicly called for arming Iranian protesters
+**C-11815** Mark Levin publicly called for arming Iranian protesters
 
 Claim Timestamp: 00:43:17
 
@@ -809,7 +808,7 @@ Investigative Direction: Identify the original Levin broadcast (date, program) f
 
 ---
 
-**C-3218** Blake Neff publicly accused Candace Owens of harassing a random Utah police officer
+**C-11776** Blake Neff publicly accused Candace Owens of harassing a random Utah police officer
 
 Claim Timestamp: 00:13:19
 
@@ -824,7 +823,7 @@ Investigative Direction: Locate Neff's exact X post URL to confirm timestamp and
 
 ---
 
-**C-3219** Daily Mail press request asked Candace Owens about contingency planning in case of a law enforcement raid
+**C-11778** Daily Mail press request asked Candace Owens about contingency planning in case of a law enforcement raid
 
 Claim Timestamp: 00:14:31
 
@@ -839,7 +838,7 @@ Investigative Direction: Confirm via Daily Mail editorial record or corresponden
 
 ---
 
-**C-3220** Host states her team fact-checked the woodworker email claim and verified its accuracy
+**C-11764** Host states her team fact-checked the woodworker email claim and verified its accuracy
 
 Claim Timestamp: 00:08:14
 
@@ -854,7 +853,7 @@ Investigative Direction: Request the team's fact-check documentation; cross-refe
 
 ---
 
-**C-3221** Some Catholic funeral homes in Arizona offer cremation services, contrary to standard Catholic doctrine
+**C-11819** Some Catholic funeral homes in Arizona offer cremation services, contrary to standard Catholic doctrine
 
 Claim Timestamp: 00:49:05
 
@@ -869,7 +868,7 @@ Investigative Direction: Cross-reference with the Diocese of Phoenix / Catholic 
 
 ---
 
-**C-3665** Host identifies show community as Decentralized Intelligence Agency
+**C-11824** Host identifies show community as Decentralized Intelligence Agency
 
 Claim Timestamp: 00:53:44
 Claim: The host says, while plugging merch, 'we are the decentralized intelligence agency'.
@@ -882,7 +881,7 @@ Investigative Direction: Preserve as brand / network framing claim; cross-link M
 
 ---
 
-**C-3666** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
+**C-11823** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
 
 Claim Timestamp: 00:53:41
 Claim: The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.
@@ -895,7 +894,7 @@ Investigative Direction: Confirm on-screen merch graphic if available; reuse M-1
 
 ---
 
-**C-7474** Host Says Turek Is Trending on X for Using the Bible to Say She Should Be Struck Down
+**C-11751** Host Says Turek Is Trending on X for Using the Bible to Say She Should Be Struck Down
 
 Claim Timestamp: 00:00:01
 
@@ -910,7 +909,7 @@ Investigative Direction: Capture the Turek post or podcast clip and X trending d
 
 ---
 
-**C-7475** Host Says Neff Accuses Her of Putting Innocent Lives at Risk
+**C-11752** Host Says Neff Accuses Her of Putting Innocent Lives at Risk
 
 Claim Timestamp: 00:00:01
 
@@ -925,7 +924,7 @@ Investigative Direction: Locate Neff's X post making the 'innocent lives at risk
 
 ---
 
-**C-7476** Host Says Yesterday's Episode Solved Who Was on the Rooftop With Officer Bagley
+**C-11753** Host Says Yesterday's Episode Solved Who Was on the Rooftop With Officer Bagley
 
 Claim Timestamp: 00:00:01
 
@@ -936,13 +935,13 @@ Transcript Snippet: for having solved the mystery of who was on the rooftop at L
 Anchored Artifacts: 
 Mentions: N-3, N-506, N-159
 Related Nodes: N-10772
-Supports: C-3199
+Supports: C-11702
 Tags: relevance:core
 Investigative Direction: Compare the host's identification of the companion in episode 136 with Bagley's testimony and the 12:47 PM bystander footage.
 
 ---
 
-**C-7477** Host Says Erika Was on a Corporate Zoom Call Laughing at Emojis Within Six Days
+**C-11754** Host Says Erika Was on a Corporate Zoom Call Laughing at Emojis Within Six Days
 
 Claim Timestamp: 00:01:27
 
@@ -957,7 +956,7 @@ Investigative Direction: Obtain the video or screenshots of the TPUSA corporate 
 
 ---
 
-**C-7478** Turek Says the Lies and Slander After Kirk's Death Are Demonic and Names Candace Owens
+**C-11756** Turek Says the Lies and Slander After Kirk's Death Are Demonic and Names Candace Owens
 
 Claim Timestamp: 00:03:17
 
@@ -972,7 +971,7 @@ Investigative Direction: Obtain the full Nicholas Bowling podcast audio to confi
 
 ---
 
-**C-7479** Turek Says Owens Insinuates Murder Accusations Without Evidence
+**C-11757** Turek Says Owens Insinuates Murder Accusations Without Evidence
 
 Claim Timestamp: 00:04:09
 
@@ -987,7 +986,7 @@ Investigative Direction: Compare Turek's characterization with the host's actual
 
 ---
 
-**C-7480** Host Says the Prosecution Side Never Showed Video of the Shot, a Gun Link or the Screwdriver Drop
+**C-11758** Host Says the Prosecution Side Never Showed Video of the Shot, a Gun Link or the Screwdriver Drop
 
 Claim Timestamp: 00:04:58
 
@@ -1003,7 +1002,7 @@ Investigative Direction: Review the preliminary hearing exhibit list and discove
 
 ---
 
-**C-7481** Host Says the Claim That Robinson's Parents Turned Him In Was Never Backed With Evidence
+**C-11759** Host Says the Claim That Robinson's Parents Turned Him In Was Never Backed With Evidence
 
 Claim Timestamp: 00:05:54
 
@@ -1019,7 +1018,7 @@ Investigative Direction: Check court filings and the Washington County statement
 
 ---
 
-**C-7482** Host Says the Claim Robinson Was in a Relationship With a Transgender Person Has Not Checked Out
+**C-11760** Host Says the Claim Robinson Was in a Relationship With a Transgender Person Has Not Checked Out
 
 Claim Timestamp: 00:05:54
 
@@ -1034,7 +1033,7 @@ Investigative Direction: Compare official statements and hearing testimony about
 
 ---
 
-**C-7483** Host Says the Boyfriend's Testimony Was That Robinson Was Not Political and Never Discussed Kirk
+**C-11761** Host Says the Boyfriend's Testimony Was That Robinson Was Not Political and Never Discussed Kirk
 
 Claim Timestamp: 00:05:54
 
@@ -1050,7 +1049,7 @@ Investigative Direction: Obtain the preliminary hearing transcript of the roomma
 
 ---
 
-**C-7484** Host Says There Is More Evidence Kirk Was Killed by an Exploding Mic Than by Robinson From the Rooftop
+**C-11762** Host Says There Is More Evidence Kirk Was Killed by an Exploding Mic Than by Robinson From the Rooftop
 
 Claim Timestamp: 00:06:32
 
@@ -1065,7 +1064,7 @@ Investigative Direction: List the host's evidence for the microphone theory and 
 
 ---
 
-**C-7485** Host Says Turek Said He Stuck His Fingers Into Kirk's Neck and Tasted Blood
+**C-11765** Host Says Turek Said He Stuck His Fingers Into Kirk's Neck and Tasted Blood
 
 Claim Timestamp: 00:08:14
 
@@ -1081,7 +1080,7 @@ Investigative Direction: Find Turek's original interview or retelling and confir
 
 ---
 
-**C-7486** Host Says the Unreleased 911 Call Has Voices in the Back Saying to Get Something Off Him
+**C-11766** Host Says the Unreleased 911 Call Has Voices in the Back Saying to Get Something Off Him
 
 Claim Timestamp: 00:08:14
 
@@ -1097,7 +1096,7 @@ Investigative Direction: Obtain the 911 call audio and CAD record from Utah Coun
 
 ---
 
-**C-7487** Host Recalls Jon Bray Showed the Road Microphone Glass Is Very Sticky
+**C-11767** Host Recalls Jon Bray Showed the Road Microphone Glass Is Very Sticky
 
 Claim Timestamp: 00:08:14
 
@@ -1113,7 +1112,7 @@ Investigative Direction: Review John Bray's earlier demonstration and the microp
 
 ---
 
-**C-7488** Host Says Senator Mike Lee Was Slated to Attend the September 10 UVU Event
+**C-11768** Host Says Senator Mike Lee Was Slated to Attend the September 10 UVU Event
 
 Claim Timestamp: 00:09:13
 
@@ -1129,7 +1128,7 @@ Investigative Direction: Ask Senator Lee's office and TPUSA for the event invita
 
 ---
 
-**C-7489** Host Says Lee Cancelled Early That Week Because of NDAA Votes
+**C-11770** Host Says Lee Cancelled Early That Week Because of NDAA Votes
 
 Claim Timestamp: 00:10:25
 
@@ -1145,7 +1144,7 @@ Investigative Direction: Check the Senate schedule and NDAA floor votes for the 
 
 ---
 
-**C-7490** Host Gives Background on Mike Lee's Birth and Father
+**C-11769** Host Gives Background on Mike Lee's Birth and Father
 
 Claim Timestamp: 00:09:13
 
@@ -1160,7 +1159,7 @@ Investigative Direction: Check Lee's official biography for his birthplace and h
 
 ---
 
-**C-7491** Host Says Her UVU Source Says Lee Was Contacted After the Assassination About Something Unusual the Day Before
+**C-11771** Host Says Her UVU Source Says Lee Was Contacted After the Assassination About Something Unusual the Day Before
 
 Claim Timestamp: 00:10:37
 
@@ -1176,7 +1175,7 @@ Investigative Direction: Ask UVU police and Senator Lee's office whether Lee's o
 
 ---
 
-**C-7492** Host Says a Suspicious Person on UVU Campus on September 9 Told Security He Was Lee's Bodyguard
+**C-11772** Host Says a Suspicious Person on UVU Campus on September 9 Told Security He Was Lee's Bodyguard
 
 Claim Timestamp: 00:10:58
 
@@ -1192,7 +1191,7 @@ Investigative Direction: Request UVU security and police incident logs, radio tr
 
 ---
 
-**C-7493** Host Says Lee's Office Had Already Cancelled and Lee Has No Security Team
+**C-11773** Host Says Lee's Office Had Already Cancelled and Lee Has No Security Team
 
 Claim Timestamp: 00:10:58
 
@@ -1208,7 +1207,7 @@ Investigative Direction: Ask Lee's Senate office whether any staff or security a
 
 ---
 
-**C-7494** Host Says the Scoper Knew Enough to Offer a Plausible Cover Story and That Few People Had the Attendee List
+**C-11774** Host Says the Scoper Knew Enough to Offer a Plausible Cover Story and That Few People Had the Attendee List
 
 Claim Timestamp: 00:12:11
 
@@ -1224,7 +1223,7 @@ Investigative Direction: Identify who at TPUSA, UVU and campus clubs had access 
 
 ---
 
-**C-7495** Host Lists Who Would Have Known Lee's Attendance and Says No Footage of the Man Is Known
+**C-11775** Host Lists Who Would Have Known Lee's Attendance and Says No Footage of the Man Is Known
 
 Claim Timestamp: 00:12:30
 
@@ -1240,7 +1239,7 @@ Investigative Direction: Ask UVU for camera coverage of the September 9 contact 
 
 ---
 
-**C-7496** Host Quotes Neff Saying She Suggests the Officer Moved to Utah a Year Before and Earlier Targeted a Sergeant
+**C-11777** Host Quotes Neff Saying She Suggests the Officer Moved to Utah a Year Before and Earlier Targeted a Sergeant
 
 Claim Timestamp: 00:13:19
 
@@ -1250,13 +1249,13 @@ Transcript Snippet: suggests that is suspiciously timed that he moved to Utah a 
 
 Anchored Artifacts: A-2243.1
 Mentions: N-159, N-3
-Supports: C-3218
+Supports: C-11776
 Tags: relevance:context
 Investigative Direction: Locate Neff's exact X post to confirm the sergeant and move-date wording.
 
 ---
 
-**C-7497** Host Says TPUSA-Side Accounts Are Calling for Her Home to Be Raided Over the Rooftop Video
+**C-11779** Host Says TPUSA-Side Accounts Are Calling for Her Home to Be Raided Over the Rooftop Video
 
 Claim Timestamp: 00:14:31
 
@@ -1271,7 +1270,7 @@ Investigative Direction: Identify the specific posts calling for a raid of the h
 
 ---
 
-**C-7498** Host Says the Daily Mail Request Concerned the Rooftop Footage Her Team Released
+**C-11780** Host Says the Daily Mail Request Concerned the Rooftop Footage Her Team Released
 
 Claim Timestamp: 00:14:31
 
@@ -1282,13 +1281,13 @@ Transcript Snippet: we actually received a press request from the Daily Mail yes
 Anchored Artifacts: A-2244.1
 Mentions: N-3
 Related Nodes: N-10070
-Supports: C-3219
+Supports: C-11778
 Tags: relevance:context
 Investigative Direction: Obtain the Daily Mail request email to confirm date, sender and the full question list.
 
 ---
 
-**C-7499** Host Says Bongino, Patel, Erika Kirk and TPUSA Publicly Promised Transparency
+**C-11781** Host Says Bongino, Patel, Erika Kirk and TPUSA Publicly Promised Transparency
 
 Claim Timestamp: 00:15:33
 
@@ -1303,7 +1302,7 @@ Investigative Direction: Collect each named person's public transparency stateme
 
 ---
 
-**C-7500** Host Says the Screwdriver Story Began With a Law Enforcement Leak Placing It Near the Rifle
+**C-11782** Host Says the Screwdriver Story Began With a Law Enforcement Leak Placing It Near the Rifle
 
 Claim Timestamp: 00:16:02
 
@@ -1314,13 +1313,13 @@ Transcript Snippet: We learned about the screwdriver because someone in law enfo
 Anchored Artifacts: A-2238.1
 Mentions: N-1, N-3
 Related Nodes: N-10777, N-10090
-Supports: C-3213
+Supports: C-11783
 Tags: relevance:core
 Investigative Direction: Identify the September 11, 2025 reports and their anonymous law-enforcement sources, and compare them with later official accounts.
 
 ---
 
-**C-7501** Host Says Public Backlash Followed the CNN Screwdriver Story and Patel and Bongino Clarified Four Days Later It Was on the Rooftop
+**C-11784** Host Says Public Backlash Followed the CNN Screwdriver Story and Patel and Bongino Clarified Four Days Later It Was on the Rooftop
 
 Claim Timestamp: 00:17:01
 
@@ -1331,13 +1330,13 @@ Transcript Snippet: 4 days later we hear from Kash Patel and Dan Bongino and the
 Anchored Artifacts: A-2238.1
 Mentions: N-69, N-378, N-3
 Related Nodes: N-10777, N-10731
-Supports: C-3054
+Supports: C-10923
 Tags: relevance:core
 Investigative Direction: Retrieve the September 15, 2025 Patel and Bongino statements and compare them with the September 11 CNN wording.
 
 ---
 
-**C-7502** Host Says Bagley's Body Cam Died Without the Expected Warning Beeps or Red Flashing
+**C-11785** Host Says Bagley's Body Cam Died Without the Expected Warning Beeps or Red Flashing
 
 Claim Timestamp: 00:18:22
 
@@ -1348,13 +1347,13 @@ Transcript Snippet: his body cam dies seemingly without warning at exactly the r
 Anchored Artifacts: 
 Mentions: N-506, N-3
 Related Nodes: N-10725, N-10773
-Supports: C-3042
+Supports: C-10867
 Tags: relevance:core
 Investigative Direction: Obtain the body cam model's warning-behavior specification and the Axon audit log for Bagley's device.
 
 ---
 
-**C-7503** Bagley Testified He First Saw the Suspect Jump Off the Building When He Reviewed Video at the Police Department
+**C-11787** Bagley Testified He First Saw the Suspect Jump Off the Building When He Reviewed Video at the Police Department
 
 Claim Timestamp: 00:19:22
 
@@ -1365,13 +1364,13 @@ Transcript Snippet: it wasn't until I went to the PD and actually saw him jump o
 Anchored Artifacts: A-2242.1
 Mentions: N-506
 Related Nodes: N-10778
-Supports: C-3044
+Supports: C-10873
 Tags: relevance:core
 Investigative Direction: Obtain the full trial transcript of Bagley's cross-examination and the police department video he reviewed.
 
 ---
 
-**C-7504** Bagley Said He Did Not Notice Anybody on the Roof; Defense Put It to Him That He Did Not Review the Video
+**C-11788** Bagley Said He Did Not Notice Anybody on the Roof; Defense Put It to Him That He Did Not Review the Video
 
 Claim Timestamp: 00:20:18
 
@@ -1382,13 +1381,13 @@ Transcript Snippet: So, you did not review the video to see if there was someone
 Anchored Artifacts: A-2242.1
 Mentions: N-506
 Related Nodes: N-10778
-Supports: C-3214
+Supports: C-11786
 Tags: relevance:core
 Investigative Direction: Compare this exchange with the court record to confirm Bagley's final answer.
 
 ---
 
-**C-7505** Host Says Somebody Did Get on the Rooftop Before Bagley at 12:44
+**C-11789** Host Says Somebody Did Get on the Rooftop Before Bagley at 12:44
 
 Claim Timestamp: 00:21:54
 
@@ -1404,7 +1403,7 @@ Investigative Direction: Obtain rooftop video between the jump and 12:44 p.m. an
 
 ---
 
-**C-7506** Host Says the Unknown Person Could Have Planted the Screwdriver
+**C-11790** Host Says the Unknown Person Could Have Planted the Screwdriver
 
 Claim Timestamp: 00:21:54
 
@@ -1420,7 +1419,7 @@ Investigative Direction: Establish a time-stamped chain of custody for the screw
 
 ---
 
-**C-7507** Host Says Emails About a Different Allen Were Wrong and Peers Say Robertson Left San Bernardino on Good Terms
+**C-11791** Host Says Emails About a Different Allen Were Wrong and Peers Say Robertson Left San Bernardino on Good Terms
 
 Claim Timestamp: 00:23:21
 
@@ -1431,13 +1430,13 @@ Transcript Snippet: He said he abs absolutely was not let go or transferred over
 Anchored Artifacts: A-2885.1
 Mentions: N-749, N-3
 Related Nodes: N-10774
-Qualifies: C-3203
+Qualifies: C-11715
 Tags: relevance:core
 Investigative Direction: Obtain Robertson's San Bernardino employment separation records and the Brady list entry details.
 
 ---
 
-**C-7508** Host Says Robertson and His Partner Were at UVU on a Threat Assessment for a USU Event 10 Days Later
+**C-11792** Host Says Robertson and His Partner Were at UVU on a Threat Assessment for a USU Event 10 Days Later
 
 Claim Timestamp: 00:24:54
 
@@ -1448,13 +1447,13 @@ Transcript Snippet: They were there because they were doing a threat assessment 
 Anchored Artifacts: A-2885.1
 Mentions: N-749, N-1, N-3
 Related Nodes: N-11144
-Supports: C-3199
+Supports: C-11702
 Tags: relevance:core
 Investigative Direction: Obtain the USU police event-planning records and request logs for the planned USU Kirk event and the officers' September 10 assignment.
 
 ---
 
-**C-7509** Host Says Robertson's Presence Required Police Reports and Bagley Could Have Identified Them
+**C-11793** Host Says Robertson's Presence Required Police Reports and Bagley Could Have Identified Them
 
 Claim Timestamp: 00:25:47
 
@@ -1465,13 +1464,13 @@ Transcript Snippet: So it's just very odd that officer Bagley is pretending he c
 Anchored Artifacts: A-2885.1
 Mentions: N-506, N-749, N-3
 Related Nodes: N-10772
-Supports: C-3196
+Supports: C-11692
 Tags: relevance:core
 Investigative Direction: Request the USU and UVU police reports from September 10 and the bystander video showing communication with the UVU chief.
 
 ---
 
-**C-7510** Host Says No Email Defended Bagley and Her Gut Says He Could Have Answered More
+**C-11794** Host Says No Email Defended Bagley and Her Gut Says He Could Have Answered More
 
 Claim Timestamp: 00:26:23
 
@@ -1486,7 +1485,7 @@ Investigative Direction: Review Bagley's personnel and disciplinary history thro
 
 ---
 
-**C-7511** Viewer Comment Says Bagley Slipped and Said Allen in Testimony
+**C-11795** Viewer Comment Says Bagley Slipped and Said Allen in Testimony
 
 Claim Timestamp: 00:30:07
 
@@ -1502,7 +1501,7 @@ Investigative Direction: Check the trial recording for the moment Bagley says 'A
 
 ---
 
-**C-7512** Host Says by All Accounts Robertson Left San Bernardino Voluntarily and Shuts Down That Lead
+**C-11796** Host Says by All Accounts Robertson Left San Bernardino Voluntarily and Shuts Down That Lead
 
 Claim Timestamp: 00:30:07
 
@@ -1513,13 +1512,13 @@ Transcript Snippet: by all accounts, it seems like he left by on his own valitio
 Anchored Artifacts: A-2885.1
 Mentions: N-749, N-3
 Related Nodes: N-10774
-Qualifies: C-3203
+Qualifies: C-11715
 Tags: relevance:core
 Investigative Direction: Confirm through a San Bernardino records request that his separation was voluntary and why a Brady entry exists.
 
 ---
 
-**C-7513** Host Says an Unnamed Country Music Figure Will Pay for Her Security Man's Rehabilitation in Florida
+**C-11797** Host Says an Unnamed Country Music Figure Will Pay for Her Security Man's Rehabilitation in Florida
 
 Claim Timestamp: 00:31:05
 
@@ -1535,7 +1534,7 @@ Investigative Direction: This can only be confirmed through the host's team; ask
 
 ---
 
-**C-7514** Host Says Russia's Ministry of Health and a Catholic Family in Russia Helped Her Security Man
+**C-11798** Host Says Russia's Ministry of Health and a Catholic Family in Russia Helped Her Security Man
 
 Claim Timestamp: 00:32:16
 
@@ -1551,7 +1550,7 @@ Investigative Direction: Ask the host's team for the date and nature of the inci
 
 ---
 
-**C-7515** Host Says Neff First Said Orem, Then Salt Lake City for the Night of September 10
+**C-11799** Host Says Neff First Said Orem, Then Salt Lake City for the Night of September 10
 
 Claim Timestamp: 00:32:57
 
@@ -1562,13 +1561,13 @@ Transcript Snippet: He at first thought he stayed in Orum, then said he maybe mi
 Anchored Artifacts: 
 Mentions: N-159, N-3
 Related Nodes: N-10715, N-10732
-Supports: C-3080
+Supports: C-11025
 Tags: relevance:core
 Investigative Direction: Re-listen to Neff's original statements and compare his Orem and Salt Lake City versions with hotel records.
 
 ---
 
-**C-7516** Host Says Neff Does Not Remember Where He Went With Danny Philip in Salt Lake City
+**C-11800** Host Says Neff Does Not Remember Where He Went With Danny Philip in Salt Lake City
 
 Claim Timestamp: 00:32:57
 
@@ -1579,13 +1578,13 @@ Transcript Snippet: He didn't even remember that he was with Danny Phillip or wh
 Anchored Artifacts: 
 Mentions: N-159, N-367, N-3
 Related Nodes: N-10715
-Supports: C-3081
+Supports: C-11026
 Tags: relevance:core
 Investigative Direction: Ask Neff and Philip for their September 10 itinerary and transportation records.
 
 ---
 
-**C-7517** Host Says Some TPUSA Team Members Stayed at the Asher Adams Autograph Collection Hotel but Not That Neff Did
+**C-11801** Host Says Some TPUSA Team Members Stayed at the Asher Adams Autograph Collection Hotel but Not That Neff Did
 
 Claim Timestamp: 00:32:57
 
@@ -1596,13 +1595,13 @@ Transcript Snippet: We were able to determine that the some members at least of 
 Anchored Artifacts: A-2241.1
 Mentions: N-159, N-3
 Related Nodes: N-10732, N-10715
-Supports: C-3215
+Supports: C-11803
 Tags: relevance:core
 Investigative Direction: Obtain hotel registration or invoice records for the TPUSA party on September 10, 2025.
 
 ---
 
-**C-7518** Host Says Internet Sleuths Located the Hotel From Kolvet's Background and Tied Tyler Bowyer Too
+**C-11802** Host Says Internet Sleuths Located the Hotel From Kolvet's Background and Tied Tyler Bowyer Too
 
 Claim Timestamp: 00:34:17
 
@@ -1613,13 +1612,13 @@ Transcript Snippet: Internet Slooh's got him and Tyler Bowyer. And here's the As
 Anchored Artifacts: A-2241.1
 Mentions: N-14, N-11, N-89, N-3
 Related Nodes: N-10732
-Supports: C-3215
+Supports: C-11803
 Tags: relevance:core
 Investigative Direction: Review the original sleuth post that matched the room background and what it says about Bowyer.
 
 ---
 
-**C-7519** Host Says the US Bombed an Elementary School in Iran Killing 156 Including 120 Students and 26 Teachers
+**C-11804** Host Says the US Bombed an Elementary School in Iran Killing 156 Including 120 Students and 26 Teachers
 
 Claim Timestamp: 00:35:32
 
@@ -1635,7 +1634,7 @@ Investigative Direction: Compare casualty figures for the school strike across I
 
 ---
 
-**C-7520** Host Says Trump and Hegseth First Denied the Strike, Then Hegseth Said an Investigation Was Under Way
+**C-11805** Host Says Trump and Hegseth First Denied the Strike, Then Hegseth Said an Investigation Was Under Way
 
 Claim Timestamp: 00:36:17
 
@@ -1651,7 +1650,7 @@ Investigative Direction: Collect the dated Trump and Hegseth statements on the s
 
 ---
 
-**C-7521** Host Says Officials Then Claimed the IRGC Built Missiles Under the School and Sky News Debunked It
+**C-11806** Host Says Officials Then Claimed the IRGC Built Missiles Under the School and Sky News Debunked It
 
 Claim Timestamp: 00:36:53
 
@@ -1667,7 +1666,7 @@ Investigative Direction: Obtain the Sky News investigation and the official US s
 
 ---
 
-**C-7522** In a Sky News Clip Trump Says the Strike Was Done by Iran and Hegseth Says It Is Still Being Investigated
+**C-11807** In a Sky News Clip Trump Says the Strike Was Done by Iran and Hegseth Says It Is Still Being Investigated
 
 Claim Timestamp: 00:37:35
 
@@ -1683,7 +1682,7 @@ Investigative Direction: Retrieve the original press-conference recordings for b
 
 ---
 
-**C-7523** Sky Clip Says an Analyst Spotted the School in 2019 but the Change Was Not Passed Up the Chain
+**C-11809** Sky Clip Says an Analyst Spotted the School in 2019 but the Change Was Not Passed Up the Chain
 
 Claim Timestamp: 00:39:34
 
@@ -1699,7 +1698,7 @@ Investigative Direction: Review the full Sky News report and any DoD inquiry fin
 
 ---
 
-**C-7524** Host Says the School Strike Was Not a Mistake and Targeted Children Knowingly
+**C-11810** Host Says the School Strike Was Not a Mistake and Targeted Children Knowingly
 
 Claim Timestamp: 00:40:35
 
@@ -1715,7 +1714,7 @@ Investigative Direction: Review the DoD formal investigation findings once relea
 
 ---
 
-**C-7525** Host Says the Strike Was a Sacrifice to Demons by People Who Worship Baal
+**C-11811** Host Says the Strike Was a Sacrifice to Demons by People Who Worship Baal
 
 Claim Timestamp: 00:40:35
 
@@ -1731,7 +1730,7 @@ Investigative Direction: Treat as the host's stated religious belief; no records
 
 ---
 
-**C-7526** Host Says Government That Lied About the School Could Cover Up Charlie Kirk's Murder
+**C-11813** Host Says Government That Lied About the School Could Cover Up Charlie Kirk's Murder
 
 Claim Timestamp: 00:42:07
 
@@ -1747,7 +1746,7 @@ Investigative Direction: Treat as the host's analogy; compare government denials
 
 ---
 
-**C-7527** Host Says the US Has Struck Iranian Bridges and Water Supplies
+**C-11812** Host Says the US Has Struck Iranian Bridges and Water Supplies
 
 Claim Timestamp: 00:41:46
 
@@ -1763,7 +1762,7 @@ Investigative Direction: Check humanitarian and UN reports on strikes against Ir
 
 ---
 
-**C-7528** Host Says Trump Retweets and Takes Advice From Mark Levin
+**C-11814** Host Says Trump Retweets and Takes Advice From Mark Levin
 
 Claim Timestamp: 00:42:27
 
@@ -1778,7 +1777,7 @@ Investigative Direction: Review Trump's reposts and Levin communications during 
 
 ---
 
-**C-7529** Host Says She Does Not Believe Charlie Was Close to Blake
+**C-11816** Host Says She Does Not Believe Charlie Was Close to Blake
 
 Claim Timestamp: 00:47:08
 
@@ -1794,7 +1793,7 @@ Investigative Direction: Collect public evidence of Kirk's working relationship 
 
 ---
 
-**C-7530** Host Says Tucker Carlson Helped Neff After Fox Let Him Go and Neff Now Targets Tucker
+**C-11817** Host Says Tucker Carlson Helped Neff After Fox Let Him Go and Neff Now Targets Tucker
 
 Claim Timestamp: 00:48:02
 
@@ -1810,7 +1809,7 @@ Investigative Direction: Verify Neff's departure from Fox News and any Tucker Ca
 
 ---
 
-**C-7531** Host Says Isabella's Comment Raises a Mock Funeral and Cremation She Covered Earlier
+**C-11818** Host Says Isabella's Comment Raises a Mock Funeral and Cremation She Covered Earlier
 
 Claim Timestamp: 00:48:02
 
@@ -1821,13 +1820,13 @@ Transcript Snippet: That's what's odd about the entire thing and why we covered 
 Anchored Artifacts: A-2245.1
 Mentions: N-1, N-2, N-3
 Related Nodes: N-10751, N-10323
-Supports: C-3221
+Supports: C-11819
 Tags: relevance:core
 Investigative Direction: Obtain burial or cremation records and funeral home statements for Charlie Kirk's funeral arrangements.
 
 ---
 
-**C-7532** Host Says TPUSA's First Response to the Rooftop Footage Was to Debunk It
+**C-11820** Host Says TPUSA's First Response to the Rooftop Footage Was to Debunk It
 
 Claim Timestamp: 00:50:19
 
@@ -1838,13 +1837,13 @@ Transcript Snippet: Their first thing to do when we release the footage rather t
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10754
-Supports: C-3150
+Supports: C-11460
 Tags: relevance:core
 Investigative Direction: Collect the TPUSA-aligned posts reacting to the footage and the 'baby could do that crawl' comment.
 
 ---
 
-**C-7533** Viewer Comment Says No Other Rooftop Officers Had Body Cams
+**C-11821** Viewer Comment Says No Other Rooftop Officers Had Body Cams
 
 Claim Timestamp: 00:51:22
 
@@ -1860,7 +1859,7 @@ Investigative Direction: Ask UVU and USU police which officers on the rooftop wo
 
 ---
 
-**C-7534** Host Says Turek Previously Asked Why the Mossad Had Not Killed Her and Tucker Carlson
+**C-11822** Host Says Turek Previously Asked Why the Mossad Had Not Killed Her and Tucker Carlson
 
 Claim Timestamp: 00:52:11
 

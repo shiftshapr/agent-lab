@@ -15,557 +15,557 @@
     ],
     "reviewed": [
       {
-        "claim": "C-15621",
+        "claim": "C-1054",
         "node": "N-128",
         "reason": "claim text: 'the nephew' of Phil Lyman = Shaner Broderick (called Shane Lyman in ep11); ep11 restore 2026-10-20"
       },
       {
-        "claim": "C-13950",
+        "claim": "C-1729",
         "node": "N-179",
         "reason": "claim text: 'Justin is the chief CFO' = TPUSA CFO Justin Olson (energyandpolicy.org/justin-olson-turning-point-usa); names re-run 2026-10-20"
       },
       {
-        "claim": "C-15568",
+        "claim": "C-14472",
         "node": "N-27",
         "reason": "claim text: 'a Ye song' (Ye = Kanye West; two-letter alias is below the grounding matcher's length); daily 2026-10-20"
       },
       {
-        "claim": "C-11394",
+        "claim": "C-8236",
         "node": "N-888",
         "reason": "claim text: 'Savannah' (first name, as JD Vance says it) = Savanah Hernandez; pass 2 2026-10-19"
       },
       {
-        "claim": "C-3090",
+        "claim": "C-11063",
         "node": "N-30",
         "reason": "claim text: 'her husband' (George Farmer); pass 2 2026-10-17"
       },
       {
-        "claim": "C-14439",
+        "claim": "C-7234",
         "node": "N-5",
         "reason": "claim text: 'the president' (Donald Trump) in the Netanyahu-Huckabee video; pass 2 2026-10-17"
       },
       {
-        "claim": "C-4603",
+        "claim": "C-9988",
         "node": "N-41",
         "reason": "claim text: 'the governor' (Utah governor Spencer Cox); Opus re-check 2026-10-15"
       },
       {
-        "claim": "C-12849",
+        "claim": "C-8136",
         "node": "N-725",
         "reason": "claim text: 'his brother' (Victor Marx's brother Mike Kennedy); Opus re-check 2026-10-15"
       },
       {
-        "claim": "C-2744",
+        "claim": "C-8289",
         "node": "N-4",
         "reason": "claim text: 'the Vice President' (JD Vance); Opus re-check 2026-10-15"
       },
       {
-        "claim": "C-8232",
+        "claim": "C-4848",
         "node": "N-17",
         "reason": "claim text: 'the McCoys' (Rob McCoy); Opus re-check 2026-10-15"
       },
       {
-        "claim": "C-8232",
+        "claim": "C-4848",
         "node": "N-190",
         "reason": "claim text: 'the McCoys' (Mikey McCoy); Opus re-check 2026-10-15"
       },
       {
-        "claim": "C-1819",
+        "claim": "C-3477",
         "node": "N-36",
         "reason": "claim text: 'BB' (Benjamin Netanyahu); Opus re-check 2026-10-15"
       },
       {
-        "claim": "C-5079",
+        "claim": "C-3526",
         "node": "N-159",
         "reason": "claim text: 'the person delivering TPUSA's statement' (Blake Neff, named earlier in ep40); Opus re-check 2026-10-15"
       },
       {
-        "claim": "C-3413",
+        "claim": "C-12996",
         "node": "N-27",
         "reason": "claim text: 'Ye's Chicago concert' (Kanye West); verification pass 2026-10-15"
       },
       {
-        "claim": "C-3422",
+        "claim": "C-12997",
         "node": "N-27",
         "reason": "claim text: 'Ye returned to Chicago' (Kanye West); verification pass 2026-10-15"
       },
       {
-        "claim": "C-3592",
+        "claim": "C-13595",
         "node": "N-36",
         "reason": "claim text: 'White House/BB confrontation' (Benjamin Netanyahu); verification pass 2026-10-15"
       },
       {
-        "claim": "C-6081",
+        "claim": "C-12199",
         "node": "N-113",
         "reason": "claim text: 'such as her sister' (Candace Owens' sister); verification pass 2026-10-15"
       },
       {
-        "claim": "C-4227",
+        "claim": "C-9503",
         "node": "N-270",
         "reason": "claim text: 'possibly with Brian or Dan' (Dan Flood); verification pass 2026-10-15"
       },
       {
-        "claim": "C-8682",
+        "claim": "C-8013",
         "node": "N-93",
         "reason": "claim text: 'the other three named critics' (four horsemen incl. Alex Jones); verification pass 2026-10-15"
       },
       {
-        "claim": "C-12726",
+        "claim": "C-7048",
         "node": "N-244",
         "reason": "claim text: 'the Mark Levins' (plural); verification pass 2026-10-15"
       },
       {
-        "claim": "C-14111",
+        "claim": "C-4897",
         "node": "N-443",
         "reason": "claim text: 'the man who killed Abe' (Tetsuya Yamagami); verification pass 2026-10-15"
       },
       {
-        "claim": "C-14112",
+        "claim": "C-4898",
         "node": "N-443",
         "reason": "claim text: 'the man who killed Abe' (Tetsuya Yamagami); verification pass 2026-10-15"
       },
       {
-        "claim": "C-12427",
+        "claim": "C-3667",
         "node": "N-30",
         "reason": "claim text: 'her husband' (George); verification pass 2026-10-15"
       },
       {
-        "claim": "C-12476",
+        "claim": "C-3734",
         "node": "N-30",
         "reason": "claim text: 'her husband' (George); verification pass 2026-10-15"
       },
       {
-        "claim": "C-1267",
+        "claim": "C-762",
         "node": "N-30",
         "reason": "Candace's husband; transcript 08:46 to 10:37 tells how she met her husband on this UK trip (ep9, eps 1-10 window)"
       },
       {
-        "claim": "C-1268",
+        "claim": "C-760",
         "node": "N-30",
         "reason": "claim text: 'Candace met her husband for the first time during the UK trip'"
       },
       {
-        "claim": "C-1269",
+        "claim": "C-768",
         "node": "N-30",
         "reason": "claim text: 'text messages ... with her husband'; transcript 13:27 'I said to my husband'"
       },
       {
-        "claim": "C-1269",
+        "claim": "C-768",
         "node": "N-113",
         "reason": "claim text: 'with her husband and sister'; transcript 13:43 'My sister'"
       },
       {
-        "claim": "C-1817",
+        "claim": "C-3495",
         "node": "N-297",
         "reason": "ep39 47:01 \"Tyler Bowyer has a younger brother\" (Transit ruling on PR 59)"
       },
       {
-        "claim": "C-1183",
+        "claim": "C-348",
         "node": "N-40",
         "reason": "role ref: the person in the FBI static images is the suspect, Tyler Robinson (ep4); claim text refers to the suspect"
       },
       {
-        "claim": "C-1204",
+        "claim": "C-462",
         "node": "N-14",
         "reason": "Transit ruling on PR 59: 'Andrew Kovit' at 39:14 is outside the window only because of the known ep5 +9 min drift (quoted lines 39:14 to 44:19)"
       },
       {
-        "claim": "C-1296",
+        "claim": "C-837",
         "node": "N-5",
         "reason": "role ref: claim text 'the President of the United States' (ep10)"
       },
       {
-        "claim": "C-1299",
+        "claim": "C-971",
         "node": "N-125",
         "reason": "role ref: the 'retired Washington County detective' is Mike Mitchell, named at 49:16 (ep11)"
       },
       {
-        "claim": "C-1300",
+        "claim": "C-996",
         "node": "N-125",
         "reason": "role ref: the 'retired Washington County detective' is Mike Mitchell, named at 49:16 (ep11)"
       },
       {
-        "claim": "C-1821",
+        "claim": "C-3538",
         "node": "N-159",
         "reason": "role ref: the TPUSA video statement was read by Blake Neff (transcript 02:31 onward, ep40)"
       },
       {
-        "claim": "C-1822",
+        "claim": "C-3539",
         "node": "N-159",
         "reason": "role ref: the TPUSA video statement was read by Blake Neff (transcript 02:31 onward, ep40)"
       },
       {
-        "claim": "C-2192",
+        "claim": "C-5568",
         "node": "N-493",
         "reason": "role ref: claim and transcript refer to 'the CMO', Marina (ep62)"
       },
       {
-        "claim": "C-3686",
+        "claim": "C-13913",
         "node": "N-30",
         "reason": "role ref: 'my husband' at 18:40 (ep161)"
       },
       {
-        "claim": "C-3698",
+        "claim": "C-13954",
         "node": "N-1",
         "reason": "role ref: 'a body reportedly dead' is Charlie Kirk (ep161)"
       },
       {
-        "claim": "C-1185",
+        "claim": "C-361",
         "node": "N-38",
         "reason": "Transit ruling on PR 59 (ab20e61): ep4 carries about 13 min drift (claim content at 45:45 to 50:07, stamp 58:39); Seth Dillon named at 47:14 to 47:37"
       },
       {
-        "claim": "C-1185",
+        "claim": "C-361",
         "node": "N-55",
         "reason": "Transit ruling on PR 59 (ab20e61): ep4 carries about 13 min drift (claim content at 45:45 to 50:07, stamp 58:39); Josh Hammer named at 49:58"
       },
       {
-        "claim": "C-1160",
+        "claim": "C-253",
         "node": "N-56",
         "reason": "anchored artifact A-1102.1 is the Aaron Wexler-sent Hamptons invitations; ep3 41:32 'Aaron Wexler sent out some of the invitations'"
       },
       {
-        "claim": "C-3824",
+        "claim": "C-7554",
         "node": "N-30",
         "reason": "claim text: 'an online piece alleged her husband hit someone'; ep84 skeleton fill"
       },
       {
-        "claim": "C-3840",
+        "claim": "C-8503",
         "node": "N-30",
         "reason": "claim text: 'pressured Justin Streiff to call her husband'; transcript 09:05 'call your husband'"
       },
       {
-        "claim": "C-4583",
+        "claim": "C-9968",
         "node": "N-30",
         "reason": "claim text: 'told her and her husband'; transcript 38:58 'in front of my entire team'"
       },
       {
-        "claim": "C-4590",
+        "claim": "C-9975",
         "node": "N-30",
         "reason": "transcript 50:21 'my husband was present confirmed it'"
       },
       {
-        "claim": "C-3909",
+        "claim": "C-8946",
         "node": "N-615",
         "reason": "first name only: transcript 'Andrew messaged Gary, that's Paramount Tactical' / 'Gary has confirmed to me'; Gary Melton runs Paramount Tactical (Daveed, 2026-10-13)"
       },
       {
-        "claim": "C-3912",
+        "claim": "C-8949",
         "node": "N-615",
         "reason": "first name only: transcript 'Andrew messaged Gary, that's Paramount Tactical' / 'Gary has confirmed to me'; Gary Melton runs Paramount Tactical (Daveed, 2026-10-13)"
       },
       {
-        "claim": "C-5128",
+        "claim": "C-3581",
         "node": "N-377",
         "reason": "claim text: \"the president of France\""
       },
       {
-        "claim": "C-4902",
+        "claim": "C-376",
         "node": "N-180",
         "reason": "role reference: the person who took the camera down (camera operator)"
       },
       {
-        "claim": "C-6290",
+        "claim": "C-13653",
         "node": "N-13",
         "reason": "the host reads the profile; \"the writer\" is its author Clara Molot (ep158 A-L1 audio)"
       },
       {
-        "claim": "C-6291",
+        "claim": "C-13652",
         "node": "N-13",
         "reason": "the host reads the profile; \"the writer\" is its author Clara Molot (ep158 A-L1 audio)"
       },
       {
-        "claim": "C-6293",
+        "claim": "C-13655",
         "node": "N-13",
         "reason": "the host reads the profile; \"the writer\" is its author Clara Molot (ep158 A-L1 audio)"
       },
       {
-        "claim": "C-6303",
+        "claim": "C-13668",
         "node": "N-13",
         "reason": "the host reads the profile; \"the writer\" is its author Clara Molot (ep158 A-L1 audio)"
       },
       {
-        "claim": "C-6304",
+        "claim": "C-13669",
         "node": "N-13",
         "reason": "the host reads the profile; \"the writer\" is its author Clara Molot (ep158 A-L1 audio)"
       },
       {
-        "claim": "C-5136",
+        "claim": "C-3594",
         "node": "N-27",
         "reason": "claim text: \"friends with Ye\" (Kanye West)"
       },
       {
-        "claim": "C-6901",
+        "claim": "C-4630",
         "node": "N-489",
         "reason": "role reference: \"Erika's mother\""
       },
       {
-        "claim": "C-6902",
+        "claim": "C-4631",
         "node": "N-489",
         "reason": "role reference: \"her mother\""
       },
       {
-        "claim": "C-7007",
+        "claim": "C-5632",
         "node": "N-15",
         "reason": "Erika on the call says \"working with Justin\" (TPUSA COO Justin Streiff)"
       },
       {
-        "claim": "C-7565",
+        "claim": "C-12315",
         "node": "N-4",
         "reason": "role reference: \"the vice president\""
       },
       {
-        "claim": "C-7719",
+        "claim": "C-12762",
         "node": "N-27",
         "reason": "claim text: \"Ye\" (Kanye West)"
       },
       {
-        "claim": "C-7720",
+        "claim": "C-12763",
         "node": "N-27",
         "reason": "claim text: \"Ye\" (Kanye West)"
       },
       {
-        "claim": "C-6996",
+        "claim": "C-5615",
         "node": "N-217",
         "reason": "claim text: \"the McCoys (Elizabeth, Mikey)\""
       },
       {
-        "claim": "C-7885",
+        "claim": "C-1296",
         "node": "N-82",
         "reason": "role reference: \"a sitting leader of a foreign country\" suing the host (the Macron defamation suit)"
       },
       {
-        "claim": "C-8380",
+        "claim": "C-6251",
         "node": "N-734",
         "reason": "claim text: \"Ike\" (host's Mar-a-Lago lunch reference; identification flagged as a guess)"
       },
       {
-        "claim": "C-8412",
+        "claim": "C-6286",
         "node": "N-14",
         "reason": "claim text: \"Andrew\" (Kolvet, plane arrival)"
       },
       {
-        "claim": "C-8519",
+        "claim": "C-7362",
         "node": "N-15",
         "reason": "claim text: \"Justin\" in the TPUSA text chain (COO Justin Streiff)"
       },
       {
-        "claim": "C-9566",
+        "claim": "C-2386",
         "node": "N-97",
         "reason": "claim text: \"Charlie and Ben\" (Shapiro) in the channel video list"
       },
       {
-        "claim": "C-9646",
+        "claim": "C-2490",
         "node": "N-30",
         "reason": "role reference: \"her husband\""
       },
       {
-        "claim": "C-10388",
+        "claim": "C-8684",
         "node": "N-30",
         "reason": "role reference: \"her husband\""
       },
       {
-        "claim": "C-10416",
+        "claim": "C-8721",
         "node": "N-30",
         "reason": "role reference: \"her husband\""
       },
       {
-        "claim": "C-10586",
+        "claim": "C-13176",
         "node": "N-30",
         "reason": "role reference: \"her husband\""
       },
       {
-        "claim": "C-10353",
+        "claim": "C-7757",
         "node": "N-14",
         "reason": "claim text: \"Andrew\" (Kolvet)"
       },
       {
-        "claim": "C-10580",
+        "claim": "C-13170",
         "node": "N-40",
         "reason": "claim text: \"Tyler\" (Robinson)"
       },
       {
-        "claim": "C-11344",
+        "claim": "C-7304",
         "node": "N-11",
         "reason": "claim text: \"Tyler\" on the plane passenger list (Bowyer)"
       },
       {
-        "claim": "C-11445",
+        "claim": "C-8302",
         "node": "N-14",
         "reason": "snippet: \"as you know, Andrew\" (Vance addressing Kolvet on stage)"
       },
       {
-        "claim": "C-11528",
+        "claim": "C-8778",
         "node": "N-30",
         "reason": "role reference: \"her husband\""
       },
       {
-        "claim": "C-11559",
+        "claim": "C-8817",
         "node": "N-30",
         "reason": "role reference: \"her husband\""
       },
       {
-        "claim": "C-11753",
+        "claim": "C-11747",
         "node": "N-40",
         "reason": "claim text: \"Tyler killed him\" (Robinson)"
       },
       {
-        "claim": "C-12174",
+        "claim": "C-1843",
         "node": "N-30",
         "reason": "role reference: \"her husband\""
       },
       {
-        "claim": "C-12569",
+        "claim": "C-5045",
         "node": "N-17",
         "reason": "role reference: \"the McCoys\""
       },
       {
-        "claim": "C-12723",
+        "claim": "C-7041",
         "node": "N-489",
         "reason": "role reference: \"Erika's mother\""
       },
       {
-        "claim": "C-12731",
+        "claim": "C-7053",
         "node": "N-4",
         "reason": "claim text: \"JD\" (Vance) in the speaker list"
       },
       {
-        "claim": "C-8682",
+        "claim": "C-8013",
         "node": "N-46",
         "reason": "claim text: \"the other three named critics\" (the four horsemen, incl. Megyn Kelly)"
       },
       {
-        "claim": "C-13151",
+        "claim": "C-11299",
         "node": "N-97",
         "reason": "claim text: \"who Ben was with\" (Shapiro)"
       },
       {
-        "claim": "C-14268",
+        "claim": "C-6026",
         "node": "N-178",
         "reason": "role reference: \"the Kushners\""
       },
       {
-        "claim": "C-14465",
+        "claim": "C-7580",
         "node": "N-5",
         "reason": "role reference: \"the Trumps\""
       },
       {
-        "claim": "C-14467",
+        "claim": "C-7582",
         "node": "N-190",
         "reason": "role reference: \"the McCoys\""
       },
       {
-        "claim": "C-14467",
+        "claim": "C-7582",
         "node": "N-17",
         "reason": "role reference: \"the McCoys\""
       },
       {
-        "claim": "C-14627",
+        "claim": "C-7863",
         "node": "N-14",
         "reason": "claim text: \"Andrew\" (Kolvet)"
       },
       {
-        "claim": "C-14717",
+        "claim": "C-10956",
         "node": "N-40",
         "reason": "role reference: \"the alleged shooter\""
       },
       {
-        "claim": "C-14769",
+        "claim": "C-11031",
         "node": "N-4",
         "reason": "role reference: \"the vice president\""
       },
       {
-        "claim": "C-13962",
+        "claim": "C-1748",
         "node": "N-180",
         "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
       },
       {
-        "claim": "C-13963",
+        "claim": "C-1749",
         "node": "N-180",
         "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
       },
       {
-        "claim": "C-13964",
+        "claim": "C-1750",
         "node": "N-180",
         "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
       },
       {
-        "claim": "C-13965",
+        "claim": "C-1751",
         "node": "N-180",
         "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
       },
       {
-        "claim": "C-13966",
+        "claim": "C-1752",
         "node": "N-180",
         "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
       },
       {
-        "claim": "C-13967",
+        "claim": "C-1753",
         "node": "N-180",
         "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
       },
       {
-        "claim": "C-13968",
+        "claim": "C-1754",
         "node": "N-180",
         "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
       },
       {
-        "claim": "C-13969",
+        "claim": "C-1755",
         "node": "N-180",
         "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
       },
       {
-        "claim": "C-13970",
+        "claim": "C-1756",
         "node": "N-180",
         "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
       },
       {
-        "claim": "C-13971",
+        "claim": "C-1757",
         "node": "N-180",
         "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
       },
       {
-        "claim": "C-13972",
+        "claim": "C-1758",
         "node": "N-180",
         "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
       },
       {
-        "claim": "C-13973",
+        "claim": "C-1759",
         "node": "N-180",
         "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
       },
       {
-        "claim": "C-13974",
+        "claim": "C-1760",
         "node": "N-180",
         "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
       },
       {
-        "claim": "C-13975",
+        "claim": "C-1761",
         "node": "N-180",
         "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
       },
       {
-        "claim": "C-13976",
+        "claim": "C-1763",
         "node": "N-180",
         "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
       },
       {
-        "claim": "C-13977",
+        "claim": "C-1764",
         "node": "N-180",
         "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
       },
       {
-        "claim": "C-13978",
+        "claim": "C-1766",
         "node": "N-180",
         "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
       },
       {
-        "claim": "C-13979",
+        "claim": "C-1769",
         "node": "N-180",
         "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
       },
       {
-        "claim": "C-13980",
+        "claim": "C-1770",
         "node": "N-180",
         "reason": "role reference: \"the AV camera man\" (the UVU event camera operator)"
       }
@@ -594,21 +594,21 @@
         "episodes": [
           5
         ],
-        "reason": "Robert Shillman (intro ep7): named in ep5 C-11980 when pass 2 (2026-10-16) corrected the mis-transcription 'Schulman guy'; moving his introduction would renumber the person band."
+        "reason": "Robert Shillman (intro ep7): named in ep5 C-473 when pass 2 (2026-10-16) corrected the mis-transcription 'Schulman guy'; moving his introduction would renumber the person band."
       },
       {
         "id": "N-819",
         "episodes": [
           34
         ],
-        "reason": "Eyal Yakoby (intro ep126): named in ep34 C-1742 when the Opus re-check (2026-10-15) corrected the mis-transcription 'Aayol Yakobe'; moving his introduction would renumber the person band."
+        "reason": "Eyal Yakoby (intro ep126): named in ep34 C-2982 when the Opus re-check (2026-10-15) corrected the mis-transcription 'Aayol Yakobe'; moving his introduction would renumber the person band."
       },
       {
         "id": "N-452",
         "episodes": [
           43
         ],
-        "reason": "Lindsey Graham (intro ep56): named in ep43 C-1874 when the Opus re-check (2026-10-15) restored the Hodge Twins tweet wording; moving his introduction would renumber the person band."
+        "reason": "Lindsey Graham (intro ep56): named in ep43 C-3777 when the Opus re-check (2026-10-15) restored the Hodge Twins tweet wording; moving his introduction would renumber the person band."
       },
       {
         "id": "N-190",
@@ -853,14 +853,14 @@
         "episodes": [
           75
         ],
-        "reason": "Marco Rubio is named in C-3580 text (ep75); first minted in the 2026-10-13 skeleton fill at ep111. The ep75 claim predates the person node; Wave 4 debt."
+        "reason": "Marco Rubio is named in C-6785 text (ep75); first minted in the 2026-10-13 skeleton fill at ep111. The ep75 claim predates the person node; Wave 4 debt."
       },
       {
         "id": "N-599",
         "episodes": [
           80
         ],
-        "reason": "Scott Bessent is named in C-2512 text (ep80); first minted in the 2026-10-13 skeleton fill at ep84. Wave 4 debt."
+        "reason": "Scott Bessent is named in C-7220 text (ep80); first minted in the 2026-10-13 skeleton fill at ep84. Wave 4 debt."
       },
       {
         "id": "N-598",
@@ -874,14 +874,14 @@
         "episodes": [
           94
         ],
-        "reason": "Kathy Nester (defense attorney): named in existing ep94 claim C-2769 text; node minted in supplement batch 3 (ep142) where she is first linked. Claims are immutable, so the earlier naming is accepted rather than rewritten."
+        "reason": "Kathy Nester (defense attorney): named in existing ep94 claim C-8394 text; node minted in supplement batch 3 (ep142) where she is first linked. Claims are immutable, so the earlier naming is accepted rather than rewritten."
       },
       {
         "id": "N-834",
         "episodes": [
           152
         ],
-        "reason": "Ed Sheeran: named in passing in existing ep152 claim C-3458 text; node minted in supplement batch 3 (ep160). Incidental mention; accepted rather than rewriting an immutable claim."
+        "reason": "Ed Sheeran: named in passing in existing ep152 claim C-13157 text; node minted in supplement batch 3 (ep160). Incidental mention; accepted rather than rewriting an immutable claim."
       },
       {
         "id": "N-867",
@@ -889,42 +889,42 @@
           14,
           32
         ],
-        "reason": "Justin Bieber: named in passing in existing claims C-7884 (ep14) and C-1706 (ep32); node minted in supplement batch 4 (ep152). Incidental; accepted rather than rewriting immutable claims."
+        "reason": "Justin Bieber: named in passing in existing claims C-1295 (ep14) and C-2853 (ep32); node minted in supplement batch 4 (ep152). Incidental; accepted rather than rewriting immutable claims."
       },
       {
         "id": "N-900",
         "episodes": [
           124
         ],
-        "reason": "Miss Noble: named in existing ep124 claim C-3005; node minted in supplement batch 5 (ep155). Accepted rather than rewriting an immutable claim."
+        "reason": "Miss Noble: named in existing ep124 claim C-10623; node minted in supplement batch 5 (ep155). Accepted rather than rewriting an immutable claim."
       },
       {
         "id": "N-897",
         "episodes": [
           149
         ],
-        "reason": "Blake Harreff: named in existing ep149 claims (C-3550..C-3552); node minted in supplement batch 5 (ep151). Accepted rather than rewriting immutable claims."
+        "reason": "Blake Harreff: named in existing ep149 claims (C-12880..C-12881); node minted in supplement batch 5 (ep151). Accepted rather than rewriting immutable claims."
       },
       {
         "id": "N-726",
         "episodes": [
           26
         ],
-        "reason": "False positive by name: C-9573 (ep26) names the philosopher Karl Marx in a reading-list remark; N-726 is Victor Marx's father, introduced in ep91."
+        "reason": "False positive by name: C-2394 (ep26) names the philosopher Karl Marx in a reading-list remark; N-726 is Victor Marx's father, introduced in ep91."
       },
       {
         "id": "N-876",
         "episodes": [
           20
         ],
-        "reason": "Jean-Michel Trogneux: named in passing in supplement claim C-12247 (ep20); node introduced in ep38. Incidental mention."
+        "reason": "Jean-Michel Trogneux: named in passing in supplement claim C-1930 (ep20); node introduced in ep38. Incidental mention."
       },
       {
         "id": "N-919",
         "episodes": [
           88
         ],
-        "reason": "Judge Liman: named in existing ep88 claim C-8634 text; node minted in supplement batch 6 (ep99). Accepted rather than rewriting the claim."
+        "reason": "Judge Liman: named in existing ep88 claim C-7952 text; node minted in supplement batch 6 (ep99). Accepted rather than rewriting the claim."
       },
       {
         "id": "N-943",
@@ -932,7 +932,7 @@
           13,
           14
         ],
-        "reason": "Robbie Hild: named in earlier claims C-10789 (ep13) and C-7874 (ep14); the person node was minted in supplement batch 7 (ep87), where the topic node N-10153 already existed. Accepted rather than rewriting the claims."
+        "reason": "Robbie Hild: named in earlier claims C-1178 (ep13) and C-1283 (ep14); the person node was minted in supplement batch 7 (ep87), where the topic node N-10153 already existed. Accepted rather than rewriting the claims."
       },
       {
         "id": "N-876",

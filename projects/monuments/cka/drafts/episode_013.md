@@ -16,7 +16,7 @@
   - Hole-minted Nodes (reintro-ep013): N-193, N-10158, N-10159, N-10160, N-10209, N-10406
   - Tip-minted Nodes (reintro-ep013): N-10968, N-11153, N-11170
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10e): C-10771–C-10836
+  - Claim Range: C-1153–C-1236
   - (see registers)
 
 ---
@@ -37,7 +37,6 @@
 
 ### Episode X Ledger Summary
 - Artifact Families Introduced: A-1196, A-1197, A-1198, A-1199, A-1200, A-1201, A-1202, A-1203, A-1204, A-1205, A-1206, A-1207, A-1208
-- Claim Range: C-1337–C-1353, C-3754
   - New Nodes Introduced: N-135, N-136, N-137, N-138, N-139, N-140, N-141, N-142, N-10152, N-10153, N-10154, N-10155, N-10157
   - Reused Nodes Appearing: N-3, N-40, N-125, N-134, N-10156, N-5, N-32, N-49, N-57, N-93, N-97, N-117, N-129, N-10000, N-10003, N-10006, N-10011, N-10012, N-10014, N-10017, N-10026, N-10052, N-10056, N-10078, N-10082, N-10115, N-10131, N-10135, N-10139, N-10144, N-10146, N-10147, N-10148, N-10898, N-10900, N-11217, N-11096, N-11103, N-11274
 
@@ -61,7 +60,7 @@ Video Timestamp: 00:10:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (artifact clearly stated, video played)
 
-*Related: C-1337, C-1340, N-40, N-128, N-142, N-10152*
+*Related: C-1154, C-1167, N-40, N-128, N-142, N-10152*
 
 ---
 
@@ -75,7 +74,7 @@ Video Timestamp: 00:03:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1338, N-40, N-42, N-10157*
+*Related: C-1156, N-40, N-42, N-10157*
 
 **A-1197.2** Wayback Machine capture confirming the Zinn endorsement text has been present at least since 2024-06-06
 
@@ -85,7 +84,7 @@ Video Timestamp: 00:03:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1338, N-40, N-42*
+*Related: C-1156, N-40, N-42*
 
 ---
 
@@ -99,7 +98,7 @@ Video Timestamp: 00:01:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-source reporting)
 
-*Related: C-1339, N-1, A-1199.1*
+*Related: C-1155, N-1, A-1199.1*
 
 ---
 
@@ -113,7 +112,7 @@ Video Timestamp: 00:04:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host source)
 
-*Related: C-1341, N-133, N-10154*
+*Related: C-1158, N-133, N-10154*
 
 **A-1199.2** Host-source reporting: Andrew Zenger named as new CEO and lead surgeon at the regional hospital receiving Charlie Kirk
 
@@ -123,7 +122,7 @@ Video Timestamp: 00:04:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host source)
 
-*Related: C-1341, N-134, N-10154*
+*Related: C-1158, N-134, N-10154*
 
 **A-1199.3** Host-source reporting: Judge Tony F. Graf Jr. appointed May 2025 by Governor Spencer Cox to the fourth district court; presides over Tyler Robinson case
 
@@ -133,7 +132,7 @@ Video Timestamp: 00:06:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host source)
 
-*Related: C-1341, N-135, N-10154*
+*Related: C-1158, N-135, N-10154*
 
 **A-1199.4** Host-source reporting: new (unnamed) coroner on the case
 
@@ -143,7 +142,7 @@ Video Timestamp: 00:06:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host source)
 
-*Related: C-1341, N-10154*
+*Related: C-1158, N-10154*
 
 ---
 
@@ -157,7 +156,7 @@ Video Timestamp: 00:27:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip played on air)
 
-*Related: C-1344, C-1345, C-1346, N-139, N-140*
+*Related: C-1187, C-1192, C-1190, N-139, N-140*
 
 ---
 
@@ -171,7 +170,7 @@ Video Timestamp: 00:35:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1347, N-137, N-46 (Megyn Kelly)*
+*Related: C-1202, N-137, N-46 (Megyn Kelly)*
 
 ---
 
@@ -185,7 +184,7 @@ Video Timestamp: 00:35:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1348, N-46 (Megyn Kelly), N-137*
+*Related: C-1204, N-46 (Megyn Kelly), N-137*
 
 ---
 
@@ -199,7 +198,7 @@ Video Timestamp: 00:35:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1349, N-138, N-46 (Megyn Kelly)*
+*Related: C-1205, N-138, N-46 (Megyn Kelly)*
 
 **A-1203.2** X reply by Megyn Kelly to Konstantin Kisin: "The more one insists that I say what one demands me to, the more committed I get in my refusal." (and follow-up: "Your response proves the opposite of what it purports to.")
 
@@ -209,7 +208,7 @@ Video Timestamp: 00:38:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1348, N-46 (Megyn Kelly), N-138*
+*Related: C-1204, N-46 (Megyn Kelly), N-138*
 
 ---
 
@@ -223,7 +222,7 @@ Video Timestamp: 00:43:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (third-party producer report)
 
-*Related: C-1350, N-136, N-140 (Larry Ellison), N-10157*
+*Related: C-1214, N-136, N-140 (Larry Ellison), N-10157*
 
 ---
 
@@ -237,7 +236,7 @@ Video Timestamp: 00:41:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (fan email)
 
-*Related: C-1353, N-1 (Charlie Kirk – TPUSA reference)*
+*Related: C-1211, N-1 (Charlie Kirk – TPUSA reference)*
 
 ---
 
@@ -251,7 +250,7 @@ Video Timestamp: 00:46:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (comment-supplied)
 
-*Related: C-1352, N-141 (Michael Burt), N-? (Richard Ramirez)*
+*Related: C-1222, N-141 (Michael Burt), N-? (Richard Ramirez)*
 
 ---
 
@@ -265,7 +264,7 @@ Video Timestamp: 00:47:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (comment-supplied)
 
-*Related: C-1351, N-10152*
+*Related: C-1225, N-10152*
 
 ---
 
@@ -294,7 +293,7 @@ Video Timestamp: 00:05:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-10774, N-3*
+*Related: C-1160, N-3*
 
 ---
 
@@ -307,7 +306,7 @@ Video Timestamp: 00:16:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-10785, N-3*
+*Related: C-1174, N-3*
 
 ---
 
@@ -320,7 +319,7 @@ Video Timestamp: 00:17:20
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-10786, N-3*
+*Related: C-1175, N-3*
 
 ---
 
@@ -333,7 +332,7 @@ Video Timestamp: 00:50:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-10835, N-3*
+*Related: C-1235, N-3*
 
 ---
 
@@ -348,7 +347,7 @@ Video Timestamp: 00:45:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10822, N-3*
+*Related: C-1220, N-3*
 
 ---
 
@@ -363,7 +362,7 @@ Video Timestamp: 00:48:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10830, N-3*
+*Related: C-1230, N-3*
 
 ---
 
@@ -378,7 +377,7 @@ Video Timestamp: 00:44:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10820, N-3*
+*Related: C-1218, N-3*
 
 ---
 
@@ -391,7 +390,7 @@ Video Timestamp: 00:21:48
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10794, N-3*
+*Related: C-1184, N-3*
 
 ---
 
@@ -406,7 +405,7 @@ Video Timestamp: 00:42:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10816, C-10817, N-3*
+*Related: C-1213, C-1215, N-3*
 
 ---
 
@@ -421,7 +420,7 @@ Video Timestamp: 00:32:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10806, N-3*
+*Related: C-1199, N-3*
 
 ---
 
@@ -436,7 +435,7 @@ Video Timestamp: 00:08:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10776, N-3*
+*Related: C-1164, N-3*
 
 ---
 
@@ -452,7 +451,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1196.1, C-1340, N-40, N-142*
+*Related: A-1196.1, C-1167, N-40, N-142*
 
 ---
 
@@ -464,7 +463,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1197.1, A-1197.2, C-1338, N-40*
+*Related: A-1197.1, A-1197.2, C-1156, N-40*
 
 ---
 
@@ -476,7 +475,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1199.1, C-1341, N-10154*
+*Related: A-1199.1, C-1158, N-10154*
 
 ---
 
@@ -488,7 +487,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium-High (involves routing question)
 
-*Related: A-1199.2, C-1341, N-10154, N-1*
+*Related: A-1199.2, C-1158, N-10154, N-1*
 
 ---
 
@@ -500,7 +499,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1199.3, C-1341, N-10154*
+*Related: A-1199.3, C-1158, N-10154*
 
 ---
 
@@ -512,7 +511,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1204.1, C-1350, N-10152*
+*Related: A-1204.1, C-1214, N-10152*
 
 ---
 
@@ -524,7 +523,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1201.1, C-1347*
+*Related: A-1201.1, C-1202*
 
 ---
 
@@ -536,7 +535,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1203.1, A-1203.2, C-1349*
+*Related: A-1203.1, A-1203.2, C-1205*
 
 ---
 
@@ -572,7 +571,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1206.1, C-1352*
+*Related: A-1206.1, C-1222*
 
 ---
 
@@ -584,7 +583,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High (cooperative witness)
 
-*Related: A-1196.1, C-1340, N-128, N-40, N-10152*
+*Related: A-1196.1, C-1167, N-128, N-40, N-10152*
 
 ---
 
@@ -598,7 +597,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1196.1, A-1207.1, C-1337, C-1340, N-142, N-128*
+*Related: A-1196.1, A-1207.1, C-1154, C-1167, N-142, N-128*
 
 ---
 
@@ -622,7 +621,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium-High
 
-*Related: A-1198.1, A-1199.1–A-1199.4, C-1341, N-133, N-134, N-135*
+*Related: A-1198.1, A-1199.1–A-1199.4, C-1158, N-133, N-134, N-135*
 
 ---
 
@@ -634,7 +633,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1199.4, C-1342, C-1343, N-1*
+*Related: A-1199.4, C-1161, C-1162, N-1*
 
 ---
 
@@ -646,7 +645,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1199.2, C-1341, N-134*
+*Related: A-1199.2, C-1158, N-134*
 
 ---
 
@@ -666,7 +665,7 @@ Investigative Pressure: Low
 
 Newspaper. First cited in this episode, where the host says the New York Times has reported on Russian and Ukrainian spies (intro moved from ep45, 2026-10-19).
 
-*Related: C-10792*
+*Related: C-1183*
 
 ---
 
@@ -674,7 +673,7 @@ Newspaper. First cited in this episode, where the host says the New York Times h
 
 Subject of the assassination; the host relays his views on Israel, security and his friendship with her.
 
-*Related: C-10773, C-10774, C-10795, C-10797, C-10806, C-10807, C-10808, C-10812, C-10818, C-10819, C-10821, C-10822, C-10823, C-10830, C-10831*
+*Related: C-1159, C-1160, C-1185, C-1188, C-1199, C-1200, C-1201, C-1208, C-1216, C-1217, C-1219, C-1220, C-1221, C-1230, C-1231*
 
 ---
 
@@ -682,7 +681,7 @@ Subject of the assassination; the host relays his views on Israel, security and 
 
 Host; speaks for herself throughout.
 
-*Related: C-10771, C-10774, C-10775, C-10776, C-10779, C-10780, C-10781, C-10782, C-10783, C-10784, C-10785, C-10786, C-10787, C-10789, C-10790, C-10791, C-10792, C-10793, C-10794, C-10795, C-10796, C-10798, C-10804, C-10805, C-10806, C-10807, C-10808, C-10809, C-10810, C-10811, C-10814, C-10815, C-10816, C-10817, C-10818, C-10820, C-10821, C-10822, C-10825, C-10826, C-10828, C-10829, C-10830, C-10831, C-10832, C-10833, C-10834, C-10835, C-10836*
+*Related: C-1153, C-1160, C-1163, C-1164, C-1168, C-1169, C-1170, C-1171, C-1172, C-1173, C-1174, C-1175, C-1176, C-1178, C-1179, C-1181, C-1183, C-1182, C-1184, C-1185, C-1186, C-1189, C-1197, C-1198, C-1199, C-1200, C-1201, C-1203, C-1206, C-1207, C-1210, C-1212, C-1213, C-1215, C-1216, C-1218, C-1219, C-1220, C-1224, C-1226, C-1228, C-1229, C-1230, C-1231, C-1232, C-1233, C-1234, C-1235, C-1236*
 
 ---
 
@@ -690,7 +689,7 @@ Host; speaks for herself throughout.
 
 President; the host alleges his TikTok stance was theater.
 
-*Related: C-10801*
+*Related: C-1194*
 
 ---
 
@@ -698,7 +697,7 @@ President; the host alleges his TikTok stance was theater.
 
 Named with the host as the target of demands that Megyn Kelly condemn them.
 
-*Related: C-10771, C-10796, C-10798, C-10809, C-10814*
+*Related: C-1153, C-1186, C-1189, C-1203, C-1210*
 
 ---
 
@@ -706,7 +705,7 @@ Named with the host as the target of demands that Megyn Kelly condemn them.
 
 Named by the host among the agents who criticized her Blumenthal retweet.
 
-*Related: C-10811*
+*Related: C-1207*
 
 ---
 
@@ -714,7 +713,7 @@ Named by the host among the agents who criticized her Blumenthal retweet.
 
 Speaker in the influencer clip played by the host.
 
-*Related: C-10798, C-10799, C-10800, C-10801*
+*Related: C-1189, C-1191, C-1193, C-1194*
 
 ---
 
@@ -722,7 +721,7 @@ Speaker in the influencer clip played by the host.
 
 Charged suspect in the Kirk shooting.
 
-*Related: C-10791, C-10825*
+*Related: C-1181, C-1224*
 
 ---
 
@@ -730,7 +729,7 @@ Charged suspect in the Kirk shooting.
 
 Target of the pressure campaign over Candace Owens and Tucker Carlson.
 
-*Related: C-10771, C-10807, C-10809, C-10812, C-10813, C-10814*
+*Related: C-1153, C-1200, C-1203, C-1208, C-1209, C-1210*
 
 ---
 
@@ -738,7 +737,7 @@ Target of the pressure campaign over Candace Owens and Tucker Carlson.
 
 Commentator whose retweet by the host triggered pressure from friends, per the host.
 
-*Related: C-10810, C-10811*
+*Related: C-1206, C-1207*
 
 ---
 
@@ -746,7 +745,7 @@ Commentator whose retweet by the host triggered pressure from friends, per the h
 
 One of the commentators the host says she would debate.
 
-*Related: C-10820*
+*Related: C-1218*
 
 ---
 
@@ -754,7 +753,7 @@ One of the commentators the host says she would debate.
 
 Utah politician whose family owned the property near the shooting; subject of the host's footage requests.
 
-*Related: C-10772, C-10775, C-10776, C-10777, C-10778, C-10782, C-10783, C-10784, C-10788, C-10789*
+*Related: C-1157, C-1163, C-1164, C-1165, C-1166, C-1171, C-1172, C-1173, C-1177, C-1178*
 
 ---
 
@@ -762,7 +761,7 @@ Utah politician whose family owned the property near the shooting; subject of th
 
 Mentioned for an employee the host says was on a Ukrainian hit list.
 
-*Related: C-10796*
+*Related: C-1186*
 
 ---
 
@@ -770,7 +769,7 @@ Mentioned for an employee the host says was on a Ukrainian hit list.
 
 One of the commentators the host says she would debate.
 
-*Related: C-10803, C-10820*
+*Related: C-1196, C-1218*
 
 ---
 
@@ -778,14 +777,14 @@ One of the commentators the host says she would debate.
 
 Named by the host as the sender of a text resembling Kisin's tweet.
 
-*Related: C-10810*
+*Related: C-1206*
 
 ---
 
 **N-129** Kayleigh McEnany
 Fox News host the host names (transcribed Kayleigh McEnany, likely Kayleigh McEnany) in the Lyman interview recollection.
 
-*Related: C-10783*
+*Related: C-1172*
 
 ---
 
@@ -793,7 +792,7 @@ Fox News host the host names (transcribed Kayleigh McEnany, likely Kayleigh McEn
 
 Named by the host as the father of a Horowitz linked to the TikTok deal.
 
-*Related: C-10803*
+*Related: C-1196*
 
 ---
 
@@ -801,7 +800,7 @@ Named by the host as the father of a Horowitz linked to the TikTok deal.
 
 Commentator the host says she would not debate.
 
-*Related: C-10820*
+*Related: C-1218*
 
 ---
 
@@ -809,7 +808,7 @@ Commentator the host says she would not debate.
 
 Organization whose events, Faith packet and personnel the host questions.
 
-*Related: C-10815, C-10816, C-10823, C-10832*
+*Related: C-1212, C-1213, C-1221, C-1232*
 
 ---
 
@@ -817,7 +816,7 @@ Organization whose events, Faith packet and personnel the host questions.
 
 Existing topic reused for the host's statement that she and Charlie never criticized each other publicly.
 
-*Related: C-10821*
+*Related: C-1219*
 
 ---
 
@@ -825,7 +824,7 @@ Existing topic reused for the host's statement that she and Charlie never critic
 
 Network on which the host says Lyman spoke.
 
-*Related: C-10783*
+*Related: C-1172*
 
 ---
 
@@ -833,7 +832,7 @@ Network on which the host says Lyman spoke.
 
 Outlet that published the doorbell-cam footage.
 
-*Related: C-10779, C-10783, C-10784*
+*Related: C-1168, C-1172, C-1173*
 
 ---
 
@@ -841,7 +840,7 @@ Outlet that published the doorbell-cam footage.
 
 Campus where the shooting took place; subject of the host's remarks about Russian and CIA ties.
 
-*Related: C-10778, C-10790, C-10791, C-10793*
+*Related: C-1166, C-1179, C-1181, C-1182*
 
 ---
 
@@ -849,7 +848,7 @@ Campus where the shooting took place; subject of the host's remarks about Russia
 
 Agency the host says withheld the woman from the public.
 
-*Related: C-10780, C-10781, C-10826*
+*Related: C-1169, C-1170, C-1226*
 
 ---
 
@@ -857,7 +856,7 @@ Agency the host says withheld the woman from the public.
 
 Existing topic reused for the alleged fake letter.
 
-*Related: C-10830*
+*Related: C-1230*
 
 ---
 
@@ -865,7 +864,7 @@ Existing topic reused for the alleged fake letter.
 
 Country at the center of the host's Netanyahu clip, TikTok and Kirk remarks.
 
-*Related: C-10798, C-10799, C-10806, C-10818, C-10819*
+*Related: C-1189, C-1191, C-1199, C-1216, C-1217*
 
 ---
 
@@ -873,7 +872,7 @@ Country at the center of the host's Netanyahu clip, TikTok and Kirk remarks.
 
 Existing topic reused for how TMZ obtained the footage.
 
-*Related: C-10776, C-10779, C-10784*
+*Related: C-1164, C-1168, C-1173*
 
 ---
 
@@ -881,7 +880,7 @@ Existing topic reused for how TMZ obtained the footage.
 
 Existing topic reused for the host's account of Kirk's changing view of Israel.
 
-*Related: C-10818*
+*Related: C-1216*
 
 ---
 
@@ -889,7 +888,7 @@ Existing topic reused for the host's account of Kirk's changing view of Israel.
 
 Existing topic reused for the awaited financial report.
 
-*Related: C-10831*
+*Related: C-1231*
 
 ---
 
@@ -897,7 +896,7 @@ Existing topic reused for the awaited financial report.
 
 Agency the host links to UVU.
 
-*Related: C-10793*
+*Related: C-1182*
 
 ---
 
@@ -905,7 +904,7 @@ Agency the host links to UVU.
 
 Existing topic reused for the viewer remark on the UVU president.
 
-*Related: C-10790*
+*Related: C-1179*
 
 ---
 
@@ -913,7 +912,7 @@ Existing topic reused for the viewer remark on the UVU president.
 
 Organization linked by the host to the Horowitz family.
 
-*Related: C-10803*
+*Related: C-1196*
 
 ---
 
@@ -921,7 +920,7 @@ Organization linked by the host to the Horowitz family.
 
 Existing topic reused for the footage the FBI allegedly withheld.
 
-*Related: C-10776*
+*Related: C-1164*
 
 ---
 
@@ -929,7 +928,7 @@ Existing topic reused for the footage the FBI allegedly withheld.
 
 Existing topic reused for the host's pastor-funding remarks.
 
-*Related: C-10833, C-10834*
+*Related: C-1233, C-1234*
 
 ---
 
@@ -937,7 +936,7 @@ Existing topic reused for the host's pastor-funding remarks.
 
 Existing topic reused for the host's exchange with Lyman.
 
-*Related: C-10777, C-10782*
+*Related: C-1165, C-1171*
 
 ---
 
@@ -945,7 +944,7 @@ Existing topic reused for the host's exchange with Lyman.
 
 Existing topic reused for Lyman's statements about where he watched the footage.
 
-*Related: C-10783*
+*Related: C-1172*
 
 ---
 
@@ -953,7 +952,7 @@ Existing topic reused for Lyman's statements about where he watched the footage.
 
 Existing topic reused for the person next to Shaner.
 
-*Related: C-10787, C-10788, C-10789*
+*Related: C-1176, C-1177, C-1178*
 
 ---
 
@@ -961,7 +960,7 @@ Existing topic reused for the person next to Shaner.
 
 Existing topic reused for why Kirk turned against Israel.
 
-*Related: C-10819*
+*Related: C-1217*
 
 ---
 
@@ -969,7 +968,7 @@ Existing topic reused for why Kirk turned against Israel.
 
 Existing topic reused for the shared-building claim.
 
-*Related: C-10826*
+*Related: C-1226*
 
 ---
 
@@ -977,7 +976,7 @@ Existing topic reused for the shared-building claim.
 
 Existing topic reused for the Connecticut building remark.
 
-*Related: C-10826*
+*Related: C-1226*
 
 ---
 
@@ -985,7 +984,7 @@ Existing topic reused for the Connecticut building remark.
 
 Existing topic reused for the defense lawyer comment.
 
-*Related: C-10825*
+*Related: C-1224*
 
 ---
 
@@ -993,7 +992,7 @@ Existing topic reused for the defense lawyer comment.
 
 Existing topic reused for the Faith packet remark.
 
-*Related: C-10816, C-10817*
+*Related: C-1213, C-1215*
 
 ---
 
@@ -1001,7 +1000,7 @@ Existing topic reused for the Faith packet remark.
 
 Existing topic reused for the pressure campaign on Kelly.
 
-*Related: C-10771, C-10807, C-10808, C-10809, C-10812, C-10814*
+*Related: C-1153, C-1200, C-1201, C-1203, C-1208, C-1210*
 
 ---
 
@@ -1009,7 +1008,7 @@ Existing topic reused for the pressure campaign on Kelly.
 
 Outlet cited for the alleged fake letter and a spy story.
 
-*Related: C-10792, C-10830*
+*Related: C-1183, C-1230*
 
 ---
 
@@ -1017,7 +1016,7 @@ Outlet cited for the alleged fake letter and a spy story.
 
 Employer where the host says she read VPN ads.
 
-*Related: C-10828*
+*Related: C-1228*
 
 ---
 
@@ -1025,7 +1024,7 @@ Employer where the host says she read VPN ads.
 
 Existing topic reused for the content-strike claim.
 
-*Related: C-10805*
+*Related: C-1198*
 
 ---
 
@@ -1033,7 +1032,7 @@ Existing topic reused for the content-strike claim.
 
 Platform at the center of the Netanyahu clip and the host's censorship claims.
 
-*Related: C-10801, C-10802, C-10803, C-10804, C-10805*
+*Related: C-1194, C-1195, C-1196, C-1197, C-1198*
 
 ---
 
@@ -1041,7 +1040,7 @@ Platform at the center of the Netanyahu clip and the host's censorship claims.
 
 Organization the host says shares a building with the FBI.
 
-*Related: C-10804, C-10826*
+*Related: C-1197, C-1226*
 
 ---
 
@@ -1049,7 +1048,7 @@ Organization the host says shares a building with the FBI.
 
 Organization the host says funds pastors.
 
-*Related: C-10833, C-10834*
+*Related: C-1233, C-1234*
 
 ---
 
@@ -1057,7 +1056,7 @@ Organization the host says funds pastors.
 
 Site of the TPUSA event described by an attendee.
 
-*Related: C-10815*
+*Related: C-1212*
 
 ---
 
@@ -1066,7 +1065,7 @@ Site of the TPUSA event described by an attendee.
 Node Type: Topic
 The host's assertion that Charlie Kirk, she, Tucker Carlson and a former Alex Jones employee were on a Ukrainian hit list.
 
-*Related: C-10795, C-10796*
+*Related: C-1185, C-1186*
 
 ---
 
@@ -1075,7 +1074,7 @@ The host's assertion that Charlie Kirk, she, Tucker Carlson and a former Alex Jo
 Node Type: Topic
 The comment and host remarks that Israel is taking over ExpressVPN and other VPN services and that ExpressVPN was started by an Israeli billionaire.
 
-*Related: C-10827, C-10828, C-10829*
+*Related: C-1227, C-1228, C-1229*
 
 ---
 
@@ -1084,7 +1083,7 @@ The comment and host remarks that Israel is taking over ExpressVPN and other VPN
 Node Type: Topic
 The viewer question and host agreement that no security guard drew a weapon when the shots rang out, and the host's remark on the security firm's earnings from Charlie.
 
-*Related: C-10822, C-10823*
+*Related: C-1220, C-1221*
 
 ---
 
@@ -1093,7 +1092,7 @@ The viewer question and host agreement that no security guard drew a weapon when
 Node Type: Topic
 The host's statement that she knows who had access to Charlie Kirk's laptop and has questions about that.
 
-*Related: C-10831*
+*Related: C-1231*
 
 ---
 
@@ -1102,7 +1101,7 @@ The host's statement that she knows who had access to Charlie Kirk's laptop and 
 Node Type: Topic
 The host's hunch that the shooting was a military operation by people from overseas, with new identities, supported by a Russian headline and a New York Times report.
 
-*Related: C-10792, C-10794*
+*Related: C-1183, C-1184*
 
 ---
 
@@ -1111,13 +1110,13 @@ The host's hunch that the shooting was a military operation by people from overs
 Node Type: Topic
 The deletion of Shaner Broderick's Facebook, LinkedIn and Instagram content after the host contacted him.
 
-*Related: C-10775*
+*Related: C-1163*
 
 ---
 
 ## V. Claim Register
 
-**C-1337** Host Says Woman Was Seen With Shooter in Footage From Nearby Houses
+**C-1154** Host Says Woman Was Seen With Shooter in Footage From Nearby Houses
 
 Claim Timestamp: 00:00:49
 
@@ -1132,7 +1131,7 @@ Investigative Direction: Obtain the underlying doorbell-camera footage independe
 
 ---
 
-**C-1338** Host Shows George Zinn Endorsement on Phil Lyman's Campaign Website Since at Least June 2024
+**C-1156** Host Shows George Zinn Endorsement on Phil Lyman's Campaign Website Since at Least June 2024
 
 Claim Timestamp: 00:03:00
 
@@ -1146,7 +1145,7 @@ Investigative Direction: Verify current status of the endorsement on the live Ly
 
 ---
 
-**C-1339** Host Says State Farm Stadium Memorial Venue Was Secured via White House Intervention, Displacing a Scheduled RV Show
+**C-1155** Host Says State Farm Stadium Memorial Venue Was Secured via White House Intervention, Displacing a Scheduled RV Show
 
 Claim Timestamp: 00:01:30
 
@@ -1160,7 +1159,7 @@ Investigative Direction: Cross-check White House and TPUSA communications logs; 
 
 ---
 
-**C-1340** Lyman family member on camera suggested a "girl" may have acted as accomplice with the shooter
+**C-1167** Lyman family member on camera suggested a "girl" may have acted as accomplice with the shooter
 
 Claim Timestamp: 00:10:44
 
@@ -1175,7 +1174,7 @@ Investigative Direction: Identify and interview the female speaker; obtain the o
 
 ---
 
-**C-1341** Host Says Several New Officials Appeared in the Case Around the Time of the Assassination
+**C-1158** Host Says Several New Officials Appeared in the Case Around the Time of the Assassination
 
 Claim Timestamp: 00:04:53
 
@@ -1190,7 +1189,7 @@ Investigative Direction: Confirm each appointment's date and predecessor; verify
 
 ---
 
-**C-1342** Host Says Autopsy of Charlie Kirk Was Conducted
+**C-1161** Host Says Autopsy of Charlie Kirk Was Conducted
 
 Claim Timestamp: 00:06:17
 
@@ -1205,7 +1204,7 @@ Investigative Direction: Verify through official medical examiner channels or co
 
 ---
 
-**C-1343** Host Says Utah Autopsy Reports Are Kept Private Unless Family Wishes Release
+**C-1162** Host Says Utah Autopsy Reports Are Kept Private Unless Family Wishes Release
 
 Claim Timestamp: 00:06:17
 
@@ -1220,7 +1219,7 @@ Investigative Direction: Confirm against the current Utah Code provision on medi
 
 ---
 
-**C-1344** Host Says Netanyahu Met on Camera With US Social-Media Influencer Debra Lea
+**C-1187** Host Says Netanyahu Met on Camera With US Social-Media Influencer Debra Lea
 
 Claim Timestamp: 00:27:00
 
@@ -1234,7 +1233,7 @@ Investigative Direction: Obtain the original full footage and timestamp metadata
 
 ---
 
-**C-1345** Netanyahu Names TikTok and X (and Elon Musk) as Principal Platforms of Described "Battle" in Clip Host Plays
+**C-1192** Netanyahu Names TikTok and X (and Elon Musk) as Principal Platforms of Described "Battle" in Clip Host Plays
 
 Claim Timestamp: 00:29:45
 
@@ -1248,7 +1247,7 @@ Investigative Direction: Locate the full exchange; verify the exact statements a
 
 ---
 
-**C-1346** Netanyahu Calls Social Media the Most Important Battlefield in Clip Host Plays
+**C-1190** Netanyahu Calls Social Media the Most Important Battlefield in Clip Host Plays
 
 Claim Timestamp: 00:28:34
 
@@ -1262,7 +1261,7 @@ Investigative Direction: Verify the full quote in its original-language form; id
 
 ---
 
-**C-1347** "Florida Dad" Account on X Demanded Megyn Kelly Separate From Candace Owens
+**C-1202** "Florida Dad" Account on X Demanded Megyn Kelly Separate From Candace Owens
 
 Claim Timestamp: 00:35:01
 
@@ -1276,7 +1275,7 @@ Investigative Direction: Archive the original post; identify the account's opera
 
 ---
 
-**C-1348** Megyn Kelly publicly refused to condemn Candace Owens or Tucker Carlson in the thread
+**C-1204** Megyn Kelly publicly refused to condemn Candace Owens or Tucker Carlson in the thread
 
 Claim Timestamp: 00:35:17
 
@@ -1290,7 +1289,7 @@ Investigative Direction: Capture full thread context including replies not quote
 
 ---
 
-**C-1349** Konstantin Kisin joined the X pressure thread against Megyn Kelly
+**C-1205** Konstantin Kisin joined the X pressure thread against Megyn Kelly
 
 Claim Timestamp: 00:35:51
 
@@ -1304,7 +1303,7 @@ Investigative Direction: Verify the post is from the same handle the host means;
 
 ---
 
-**C-1350** Producer Note Says TikTok Public Policy Manager of Hate Speech Since July 2025 Is a Former IDF Soldier
+**C-1214** Producer Note Says TikTok Public Policy Manager of Hate Speech Since July 2025 Is a Former IDF Soldier
 
 Claim Timestamp: 00:43:16
 
@@ -1318,7 +1317,7 @@ Investigative Direction: Verify the named individual's employment, role title, a
 
 ---
 
-**C-1351** Viewer Comment Says FBI Cut Ties With ADL and the Two Share a Building
+**C-1225** Viewer Comment Says FBI Cut Ties With ADL and the Two Share a Building
 
 Claim Timestamp: 00:47:19
 
@@ -1332,7 +1331,7 @@ Investigative Direction: Verify against FBI press releases; identify the shared 
 
 ---
 
-**C-1352** Viewer Comment Says One of Tyler Robinson's Lawyers Previously Represented Richard Ramirez
+**C-1222** Viewer Comment Says One of Tyler Robinson's Lawyers Previously Represented Richard Ramirez
 
 Claim Timestamp: 00:46:36
 
@@ -1346,7 +1345,7 @@ Investigative Direction: Verify against state bar records and published case doc
 
 ---
 
-**C-1353** TPUSA event at USU on 2025-09-30 felt scripted and lacked open dialogue, per attendee email
+**C-1211** TPUSA event at USU on 2025-09-30 felt scripted and lacked open dialogue, per attendee email
 
 Claim Timestamp: 00:41:41
 
@@ -1360,7 +1359,7 @@ Investigative Direction: Obtain independent attendee statements; compare against
 
 ---
 
-**C-3754** Host says old photos show a younger Tyler Robinson visiting his uncle Mikey, whom she links to a Ukrainian battalion
+**C-1180** Host says old photos show a younger Tyler Robinson visiting his uncle Mikey, whom she links to a Ukrainian battalion
 
 Claim Timestamp: 00:19:27
 
@@ -1375,7 +1374,7 @@ Investigative Direction: Locate the photos the host refers to and establish who 
 
 ---
 
-**C-10771** Host says agents are surrounding Megyn Kelly to demand she denounce the host and Tucker Carlson
+**C-1153** Host says agents are surrounding Megyn Kelly to demand she denounce the host and Tucker Carlson
 
 Claim Timestamp: 00:00:00
 
@@ -1391,7 +1390,7 @@ Investigative Direction: Collect the public posts demanding that Megyn Kelly den
 
 ---
 
-**C-10772** Host says locals describe George Zinn as a fixture at Republican events
+**C-1157** Host says locals describe George Zinn as a fixture at Republican events
 
 Claim Timestamp: 00:03:55
 
@@ -1406,7 +1405,7 @@ Investigative Direction: Interview the locals and check county and state Republi
 
 ---
 
-**C-10773** Host says the receiving hospital was not the nearest and ranked low for neck trauma
+**C-1159** Host says the receiving hospital was not the nearest and ranked low for neck trauma
 
 Claim Timestamp: 00:04:53
 
@@ -1422,7 +1421,7 @@ Investigative Direction: Map hospital distances from the campus and compare publ
 
 ---
 
-**C-10774** Host asks for information on whether the new hospital CEO and surgeon worked on Charlie
+**C-1160** Host asks for information on whether the new hospital CEO and surgeon worked on Charlie
 
 Claim Timestamp: 00:04:53
 
@@ -1438,7 +1437,7 @@ Investigative Direction: Obtain the surgical team roster from the hospital or th
 
 ---
 
-**C-10775** Host says Shaner Broderick deleted his social accounts after she asked him a question
+**C-1163** Host says Shaner Broderick deleted his social accounts after she asked him a question
 
 Claim Timestamp: 00:07:35
 
@@ -1454,7 +1453,7 @@ Investigative Direction: Compare archived captures of his accounts against the c
 
 ---
 
-**C-10776** Host says a paid tipster told her the FBI is hiding doorbell footage
+**C-1164** Host says a paid tipster told her the FBI is hiding doorbell footage
 
 Claim Timestamp: 00:08:42
 
@@ -1470,7 +1469,7 @@ Investigative Direction: Retrieve the earlier paid message and the tipster's ide
 
 ---
 
-**C-10777** Host says Phil Lyman has been open that his family owned the property
+**C-1165** Host says Phil Lyman has been open that his family owned the property
 
 Claim Timestamp: 00:08:42
 
@@ -1486,7 +1485,7 @@ Investigative Direction: Check county property records for Lyman family parcels 
 
 ---
 
-**C-10778** Host says Utah Valley University bought its acreage from the Lyman family
+**C-1166** Host says Utah Valley University bought its acreage from the Lyman family
 
 Claim Timestamp: 00:09:40
 
@@ -1502,7 +1501,7 @@ Investigative Direction: Search Utah County deed and university land-acquisition
 
 ---
 
-**C-10779** Host says TMZ already had the doorbell-cam footage on the morning of September 11
+**C-1168** Host says TMZ already had the doorbell-cam footage on the morning of September 11
 
 Claim Timestamp: 00:12:15
 
@@ -1518,7 +1517,7 @@ Investigative Direction: Establish TMZ's first publication time and source for t
 
 ---
 
-**C-10780** Host says the aunt is the woman who handed her footage to the FBI
+**C-1169** Host says the aunt is the woman who handed her footage to the FBI
 
 Claim Timestamp: 00:12:15
 
@@ -1534,7 +1533,7 @@ Investigative Direction: Confirm the aunt's identity and whether she gave footag
 
 ---
 
-**C-10781** Host says the FBI did not tell the public during the manhunt that a woman was involved
+**C-1170** Host says the FBI did not tell the public during the manhunt that a woman was involved
 
 Claim Timestamp: 00:13:31
 
@@ -1550,7 +1549,7 @@ Investigative Direction: Review FBI press briefings from September 10 to 12 for 
 
 ---
 
-**C-10782** Host says Phil Lyman reacted angrily and asked whether she was involved in the shooting
+**C-1171** Host says Phil Lyman reacted angrily and asked whether she was involved in the shooting
 
 Claim Timestamp: 00:13:31
 
@@ -1566,7 +1565,7 @@ Investigative Direction: Obtain the text or message exchange between the host an
 
 ---
 
-**C-10783** Host says Lyman told Fox News he had not seen the footage while his cousin gave it to TMZ
+**C-1172** Host says Lyman told Fox News he had not seen the footage while his cousin gave it to TMZ
 
 Claim Timestamp: 00:14:45
 
@@ -1582,7 +1581,7 @@ Investigative Direction: Pull the Fox News segment and compare Lyman's statement
 
 ---
 
-**C-10784** Host says either the cousin or the feds gave the footage to TMZ
+**C-1173** Host says either the cousin or the feds gave the footage to TMZ
 
 Claim Timestamp: 00:16:01
 
@@ -1598,7 +1597,7 @@ Investigative Direction: Ask TMZ about its source and check the footage's chain 
 
 ---
 
-**C-10785** Host asks for tips on who the woman was
+**C-1174** Host asks for tips on who the woman was
 
 Claim Timestamp: 00:16:01
 
@@ -1614,7 +1613,7 @@ Investigative Direction: Cross-check submissions to the tip line against the foo
 
 ---
 
-**C-10786** Host asks viewers to send tips rather than videos and says she may open a second line
+**C-1175** Host asks viewers to send tips rather than videos and says she may open a second line
 
 Claim Timestamp: 00:16:58
 
@@ -1629,7 +1628,7 @@ Investigative Direction: Confirm whether a second tip line was opened in later e
 
 ---
 
-**C-10787** Host says one person next to Shaner was found to be from Austria
+**C-1176** Host says one person next to Shaner was found to be from Austria
 
 Claim Timestamp: 00:16:58
 
@@ -1645,7 +1644,7 @@ Investigative Direction: Identify the Austrian national and verify his link to t
 
 ---
 
-**C-10788** Host says Phil Lyman does not know the goth individual
+**C-1177** Host says Phil Lyman does not know the goth individual
 
 Claim Timestamp: 00:16:58
 
@@ -1661,7 +1660,7 @@ Investigative Direction: Compare Lyman's statements on who the two people were a
 
 ---
 
-**C-10789** Host says viewers identified the goth person as Robbie Hild but she doubts it
+**C-1178** Host says viewers identified the goth person as Robbie Hild but she doubts it
 
 Claim Timestamp: 00:17:50
 
@@ -1677,7 +1676,7 @@ Investigative Direction: Verify the Robbie Hild identity through school, social 
 
 ---
 
-**C-10790** Host passes on a viewer saying the UVU president majored in Soviet studies
+**C-1179** Host passes on a viewer saying the UVU president majored in Soviet studies
 
 Claim Timestamp: 00:19:15
 
@@ -1693,7 +1692,7 @@ Investigative Direction: Check the UVU president's published biography and degre
 
 ---
 
-**C-10791** Host says she has a hunch the shooting was a military operation by people from overseas
+**C-1181** Host says she has a hunch the shooting was a military operation by people from overseas
 
 Claim Timestamp: 00:19:55
 
@@ -1709,7 +1708,7 @@ Investigative Direction: Identify any documentary evidence for foreign operative
 
 ---
 
-**C-10792** Host cites New York Times reporting on Russian and Ukrainian spies with new IDs
+**C-1183** Host cites New York Times reporting on Russian and Ukrainian spies with new IDs
 
 Claim Timestamp: 00:20:32
 
@@ -1725,7 +1724,7 @@ Investigative Direction: Locate the New York Times article the host refers to.
 
 ---
 
-**C-10793** Host says UVU has strong ties to the CIA
+**C-1182** Host says UVU has strong ties to the CIA
 
 Claim Timestamp: 00:20:13
 
@@ -1741,7 +1740,7 @@ Investigative Direction: Identify the documented CIA recruitment or partnership 
 
 ---
 
-**C-10794** Host shows a translated Russian headline about a white lotus sect training fighters
+**C-1184** Host shows a translated Russian headline about a white lotus sect training fighters
 
 Claim Timestamp: 00:21:48
 
@@ -1757,7 +1756,7 @@ Investigative Direction: Find the original Russian article and check its claims 
 
 ---
 
-**C-10795** Host says Charlie and she were on a hit list
+**C-1185** Host says Charlie and she were on a hit list
 
 Claim Timestamp: 00:21:48
 
@@ -1773,7 +1772,7 @@ Investigative Direction: Establish which list is meant and obtain it.
 
 ---
 
-**C-10796** Host says Tucker and an Alex Jones employee were on a Ukrainian hit list
+**C-1186** Host says Tucker and an Alex Jones employee were on a Ukrainian hit list
 
 Claim Timestamp: 00:22:56
 
@@ -1789,7 +1788,7 @@ Investigative Direction: Identify the Alex Jones employee and the Ukrainian list
 
 ---
 
-**C-10797** Host plays Debra Lea saying Charlie Kirk was her first mentor in the space
+**C-1188** Host plays Debra Lea saying Charlie Kirk was her first mentor in the space
 
 Claim Timestamp: 00:27:00
 
@@ -1804,7 +1803,7 @@ Investigative Direction: Obtain the full clip and Lee's background and past publ
 
 ---
 
-**C-10798** Host plays Debra Lea asking Netanyahu about losing evangelical support
+**C-1189** Host plays Debra Lea asking Netanyahu about losing evangelical support
 
 Claim Timestamp: 00:27:00
 
@@ -1820,7 +1819,7 @@ Investigative Direction: Obtain the full clip and the event details.
 
 ---
 
-**C-10799** Host plays Netanyahu saying the challenge to Israel's support is funded by money
+**C-1191** Host plays Netanyahu saying the challenge to Israel's support is funded by money
 
 Claim Timestamp: 00:28:34
 
@@ -1836,7 +1835,7 @@ Investigative Direction: Verify the full exchange in the original clip, includin
 
 ---
 
-**C-10800** Host plays Netanyahu saying he must give direction to Jewish people and non-Jewish friends
+**C-1193** Host plays Netanyahu saying he must give direction to Jewish people and non-Jewish friends
 
 Claim Timestamp: 00:29:53
 
@@ -1851,7 +1850,7 @@ Investigative Direction: Verify the line and speaker in the full clip.
 
 ---
 
-**C-10801** Host says Trump wanted to hand TikTok to Israel-aligned friends
+**C-1194** Host says Trump wanted to hand TikTok to Israel-aligned friends
 
 Claim Timestamp: 00:30:49
 
@@ -1867,7 +1866,7 @@ Investigative Direction: Compare Trump statements on the TikTok deal with the fi
 
 ---
 
-**C-10802** Host says Larry Ellison is part of the TikTok deal and calls himself an agent of Israel
+**C-1195** Host says Larry Ellison is part of the TikTok deal and calls himself an agent of Israel
 
 Claim Timestamp: 00:30:49
 
@@ -1883,7 +1882,7 @@ Investigative Direction: Find Ellison's exact public statement and the TikTok de
 
 ---
 
-**C-10803** Host says a Horowitz, son of David Horowitz, is part of the TikTok deal
+**C-1196** Host says a Horowitz, son of David Horowitz, is part of the TikTok deal
 
 Claim Timestamp: 00:30:49
 
@@ -1899,7 +1898,7 @@ Investigative Direction: Identify which Horowitz is meant and check the TikTok d
 
 ---
 
-**C-10804** Host says an ADL spokesperson was caught on a mic saying something must be done about TikTok
+**C-1197** Host says an ADL spokesperson was caught on a mic saying something must be done about TikTok
 
 Claim Timestamp: 00:30:49
 
@@ -1915,7 +1914,7 @@ Investigative Direction: Find the recording of the ADL spokesperson.
 
 ---
 
-**C-10805** Host says content got strikes after a self-described proud Zionist executive was installed at TikTok
+**C-1198** Host says content got strikes after a self-described proud Zionist executive was installed at TikTok
 
 Claim Timestamp: 00:31:58
 
@@ -1931,7 +1930,7 @@ Investigative Direction: Obtain the strike notices and the executive's identity 
 
 ---
 
-**C-10806** Host says she has text messages showing Charlie worried about Israel and speech
+**C-1199** Host says she has text messages showing Charlie worried about Israel and speech
 
 Claim Timestamp: 00:31:58
 
@@ -1947,7 +1946,7 @@ Investigative Direction: Obtain and authenticate the text messages.
 
 ---
 
-**C-10807** Host says Megyn Kelly tweeted her episode asking to hear Charlie in his own words
+**C-1200** Host says Megyn Kelly tweeted her episode asking to hear Charlie in his own words
 
 Claim Timestamp: 00:34:10
 
@@ -1963,7 +1962,7 @@ Investigative Direction: Locate Kelly's original post and the reply chain.
 
 ---
 
-**C-10808** Host says she lived what Charlie went through with pretend friends
+**C-1201** Host says she lived what Charlie went through with pretend friends
 
 Claim Timestamp: 00:34:10
 
@@ -1979,7 +1978,7 @@ Investigative Direction: Corroborate through Charlie's messages or associates de
 
 ---
 
-**C-10809** Host reads Megyn Kelly saying a close friend is under enough pressure and her fight is with the left
+**C-1203** Host reads Megyn Kelly saying a close friend is under enough pressure and her fight is with the left
 
 Claim Timestamp: 00:35:01
 
@@ -1995,7 +1994,7 @@ Investigative Direction: Capture the full original Kelly post.
 
 ---
 
-**C-10810** Host Says Kisin's Argument Is Nearly Verbatim a Text from Marissa Streit
+**C-1206** Host Says Kisin's Argument Is Nearly Verbatim a Text from Marissa Streit
 
 Claim Timestamp: 00:35:51
 
@@ -2010,7 +2009,7 @@ Investigative Direction: Obtain the text message and compare it with the Kisin p
 
 ---
 
-**C-10811** Host says Dave Rubin and others reacted to her Blumenthal retweet
+**C-1207** Host says Dave Rubin and others reacted to her Blumenthal retweet
 
 Claim Timestamp: 00:37:04
 
@@ -2025,7 +2024,7 @@ Investigative Direction: Obtain the messages from Rubin and others.
 
 ---
 
-**C-10812** Host says Charlie dug in his heels the way Kelly did
+**C-1208** Host says Charlie dug in his heels the way Kelly did
 
 Claim Timestamp: 00:37:44
 
@@ -2041,7 +2040,7 @@ Investigative Direction: Identify when and to whom Charlie expressed this.
 
 ---
 
-**C-10813** Host Reads Kisin Asking Why Lies on the Right Should Not Be Challenged
+**C-1209** Host Reads Kisin Asking Why Lies on the Right Should Not Be Challenged
 
 Claim Timestamp: 00:38:30
 
@@ -2056,7 +2055,7 @@ Investigative Direction: Capture the full thread.
 
 ---
 
-**C-10814** Host predicts a press attack on Kelly if she does not denounce them
+**C-1210** Host predicts a press attack on Kelly if she does not denounce them
 
 Claim Timestamp: 00:38:30
 
@@ -2072,7 +2071,7 @@ Investigative Direction: Monitor media coverage of Kelly after October 1, 2025.
 
 ---
 
-**C-10815** Host says other emails also called the USU event controlled
+**C-1212** Host says other emails also called the USU event controlled
 
 Claim Timestamp: 00:42:34
 
@@ -2088,7 +2087,7 @@ Investigative Direction: Obtain those emails.
 
 ---
 
-**C-10816** Host says TPUSA Faith packets mention Israel eight times
+**C-1213** Host says TPUSA Faith packets mention Israel eight times
 
 Claim Timestamp: 00:42:34
 
@@ -2104,7 +2103,7 @@ Investigative Direction: Obtain the packet and count the Israel references.
 
 ---
 
-**C-10817** Host says she knows who is behind the Faith packet
+**C-1215** Host says she knows who is behind the Faith packet
 
 Claim Timestamp: 00:43:16
 
@@ -2120,7 +2119,7 @@ Investigative Direction: Ask the host for the person she means and verify author
 
 ---
 
-**C-10818** Host says she and Charlie went to Israel together and he loved it
+**C-1216** Host says she and Charlie went to Israel together and he loved it
 
 Claim Timestamp: 00:43:16
 
@@ -2136,7 +2135,7 @@ Investigative Direction: Establish the dates and participants of the trip.
 
 ---
 
-**C-10819** Host says Israel's behavior turned Charlie against it
+**C-1217** Host says Israel's behavior turned Charlie against it
 
 Claim Timestamp: 00:43:16
 
@@ -2152,7 +2151,7 @@ Investigative Direction: Corroborate with Charlie's messages and public statemen
 
 ---
 
-**C-10820** Host says she would debate Shapiro and PBD but not Brandon Tatum
+**C-1218** Host says she would debate Shapiro and PBD but not Brandon Tatum
 
 Claim Timestamp: 00:44:30
 
@@ -2167,7 +2166,7 @@ Investigative Direction: None needed beyond the audio; check whether any debate 
 
 ---
 
-**C-10821** Host says she and Charlie never threw each other under the bus publicly
+**C-1219** Host says she and Charlie never threw each other under the bus publicly
 
 Claim Timestamp: 00:44:30
 
@@ -2183,7 +2182,7 @@ Investigative Direction: Compare with public statements by either to check for d
 
 ---
 
-**C-10822** Host says it is strange that no security guard drew a gun
+**C-1220** Host says it is strange that no security guard drew a gun
 
 Claim Timestamp: 00:45:57
 
@@ -2199,7 +2198,7 @@ Investigative Direction: Review event video of the security team's reaction and 
 
 ---
 
-**C-10823** Host says the security firm earned large sums from Charlie
+**C-1221** Host says the security firm earned large sums from Charlie
 
 Claim Timestamp: 00:45:57
 
@@ -2215,7 +2214,7 @@ Investigative Direction: Review TPUSA contracts and payments to the security ven
 
 ---
 
-**C-10824** Comment says Ramirez shared a jail with Sean Penn in 1987
+**C-1223** Comment says Ramirez shared a jail with Sean Penn in 1987
 
 Claim Timestamp: 00:46:36
 
@@ -2229,7 +2228,7 @@ Investigative Direction: Check jail records for 1987.
 
 ---
 
-**C-10825** Host says she has not explored the Tyler Robinson lawyer claim
+**C-1224** Host says she has not explored the Tyler Robinson lawyer claim
 
 Claim Timestamp: 00:46:36
 
@@ -2245,7 +2244,7 @@ Investigative Direction: Check later episodes for follow-up.
 
 ---
 
-**C-10826** Host endorses that the FBI and ADL share a building, possibly in Connecticut
+**C-1226** Host endorses that the FBI and ADL share a building, possibly in Connecticut
 
 Claim Timestamp: 00:47:19
 
@@ -2261,7 +2260,7 @@ Investigative Direction: Verify the address of any FBI facility and ADL office i
 
 ---
 
-**C-10827** Comment says Israel is taking over ExpressVPN and other VPN sites
+**C-1227** Comment says Israel is taking over ExpressVPN and other VPN sites
 
 Claim Timestamp: 00:47:19
 
@@ -2276,7 +2275,7 @@ Investigative Direction: Check ownership records of ExpressVPN and other VPN com
 
 ---
 
-**C-10828** Host says she read ExpressVPN ads while at Daily Wire
+**C-1228** Host says she read ExpressVPN ads while at Daily Wire
 
 Claim Timestamp: 00:47:19
 
@@ -2292,7 +2291,7 @@ Investigative Direction: Check ad schedules from the Daily Wire era.
 
 ---
 
-**C-10829** Host says ExpressVPN was started by an Israeli billionaire
+**C-1229** Host says ExpressVPN was started by an Israeli billionaire
 
 Claim Timestamp: 00:47:19
 
@@ -2308,7 +2307,7 @@ Investigative Direction: Verify ExpressVPN founders and owners from corporate fi
 
 ---
 
-**C-10830** Comment says a fake letter was planted in the New York Post
+**C-1230** Comment says a fake letter was planted in the New York Post
 
 Claim Timestamp: 00:47:19
 
@@ -2324,7 +2323,7 @@ Investigative Direction: Authenticate the letter and trace its release.
 
 ---
 
-**C-10831** Host says she knows who had access to Charlie's laptop
+**C-1231** Host says she knows who had access to Charlie's laptop
 
 Claim Timestamp: 00:48:31
 
@@ -2340,7 +2339,7 @@ Investigative Direction: Identify the laptop custodian and access logs.
 
 ---
 
-**C-10832** Host says she has question marks about people at TPUSA
+**C-1232** Host says she has question marks about people at TPUSA
 
 Claim Timestamp: 00:48:40
 
@@ -2356,7 +2355,7 @@ Investigative Direction: Ask which people.
 
 ---
 
-**C-10833** Host says pastors take money from an agent of Israel such as IFCJ
+**C-1233** Host says pastors take money from an agent of Israel such as IFCJ
 
 Claim Timestamp: 00:48:55
 
@@ -2372,7 +2371,7 @@ Investigative Direction: Review IFCJ grants and donor filings.
 
 ---
 
-**C-10834** Host says IFCJ gathers pastors and pays off people
+**C-1234** Host says IFCJ gathers pastors and pays off people
 
 Claim Timestamp: 00:49:17
 
@@ -2388,7 +2387,7 @@ Investigative Direction: Review IFCJ expenditure.
 
 ---
 
-**C-10835** Host asks for tips to crack the mystery and says tips shape the show
+**C-1235** Host asks for tips to crack the mystery and says tips shape the show
 
 Claim Timestamp: 00:50:28
 
@@ -2403,7 +2402,7 @@ Investigative Direction: Review tip line submissions.
 
 ---
 
-**C-10836** Host says the show is not funded by outside groups
+**C-1236** Host says the show is not funded by outside groups
 
 Claim Timestamp: 00:50:28
 

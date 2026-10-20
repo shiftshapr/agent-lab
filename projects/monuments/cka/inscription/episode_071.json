@@ -27,7 +27,7 @@
           "ref": "A-1750.1",
           "description": "Nielsen Super Bowl Viewership Data",
           "related_claims": [
-            "C-2326"
+            "C-6316"
           ],
           "related_nodes": [
             "N-555"
@@ -53,9 +53,9 @@
           "ref": "A-1751.1",
           "description": "Brian Kilmeade Interview with Andrew Kolvet on TPUSA Halftime Viewership",
           "related_claims": [
-            "C-2327",
-            "C-2328",
-            "C-2329"
+            "C-6322",
+            "C-6323",
+            "C-6324"
           ],
           "related_nodes": [
             "N-555"
@@ -81,7 +81,7 @@
           "ref": "A-1752.1",
           "description": "TPUSA Halftime YouTube Page Screenshot",
           "related_claims": [
-            "C-2330"
+            "C-6325"
           ],
           "related_nodes": [
             "N-10499"
@@ -107,8 +107,8 @@
           "ref": "A-1753.1",
           "description": "Top YouTube Concurrent Live Streams Reference List",
           "related_claims": [
-            "C-2331",
-            "C-2332"
+            "C-6327",
+            "C-6328"
           ],
           "related_nodes": [
             "N-10499"
@@ -134,7 +134,7 @@
           "ref": "A-1754.1",
           "description": "Erika Kirk Widow Address on Charlie Kirk YouTube Channel",
           "related_claims": [
-            "C-2333"
+            "C-6330"
           ],
           "related_nodes": [
             "N-2"
@@ -160,7 +160,7 @@
           "ref": "A-1755.1",
           "description": "Candace \"Letter to Erika\" YouTube Video",
           "related_claims": [
-            "C-2334"
+            "C-6331"
           ],
           "related_nodes": [
             "N-2"
@@ -186,7 +186,7 @@
           "ref": "A-1756.1",
           "description": "Turning Point USA All-American Halftime Show YouTube Page",
           "related_claims": [
-            "C-2335"
+            "C-6332"
           ],
           "related_nodes": [
             "N-10499"
@@ -212,7 +212,7 @@
           "ref": "A-1757.1",
           "description": "Thomas Martin LinkedIn Profile (Director, US Border Patrol)",
           "related_claims": [
-            "C-2336"
+            "C-6346"
           ],
           "related_nodes": [
             "N-552",
@@ -231,7 +231,7 @@
           "ref": "A-1757.2",
           "description": "Thomas Martin ZoomInfo Listing (Deputy Chief Patrol Agent, DHS)",
           "related_claims": [
-            "C-2337"
+            "C-6349"
           ],
           "related_nodes": [
             "N-552",
@@ -258,8 +258,8 @@
           "ref": "A-1758.1",
           "description": "1985 Times Union Article on Sanctuary Movement Trial",
           "related_claims": [
-            "C-2338",
-            "C-2339"
+            "C-6350",
+            "C-6351"
           ],
           "related_nodes": [
             "N-552",
@@ -286,8 +286,8 @@
           "ref": "A-1759.1",
           "description": "Tracy Martin Text Messages from September 11",
           "related_claims": [
-            "C-2340",
-            "C-2341"
+            "C-6356",
+            "C-6357"
           ],
           "related_nodes": [
             "N-545",
@@ -315,10 +315,10 @@
           "ref": "A-1760.1",
           "description": "Seth Dillon Testimony at Religious Liberty Commission Hearing",
           "related_claims": [
-            "C-2342",
-            "C-2343",
-            "C-2344",
-            "C-2345"
+            "C-6365",
+            "C-6376",
+            "C-6381",
+            "C-6382"
           ],
           "related_nodes": [
             "N-554",
@@ -337,7 +337,7 @@
           "ref": "A-1760.2",
           "description": "Carrie Prejean Boller Questioning of Seth Dillon at Religious Liberty Commission Hearing",
           "related_claims": [
-            "C-2346"
+            "C-6368"
           ],
           "related_nodes": [
             "N-554"
@@ -363,7 +363,7 @@
           "ref": "A-1761.1",
           "description": "Tyler Bowyer Tweet on TPUSA YouTube Concurrent Live Streams",
           "related_claims": [
-            "C-2347"
+            "C-6335"
           ],
           "related_nodes": [
             "N-10499"
@@ -389,9 +389,9 @@
           "ref": "A-1762.1",
           "description": "Top Comments from Previous Episode (\"Dear Erika\")",
           "related_claims": [
-            "C-2348",
-            "C-2349",
-            "C-2350"
+            "C-6408",
+            "C-6403",
+            "C-6404"
           ],
           "related_nodes": [],
           "tags": [],
@@ -415,7 +415,7 @@
           "ref": "A-3312.1",
           "description": "Host verbal reference to Alex Clark's X post claiming TPUSA was counted out and citing 100 million views (not clearly shown)",
           "related_claims": [
-            "C-14319"
+            "C-6334"
           ],
           "related_nodes": [
             "N-10499",
@@ -441,9 +441,9 @@
           "ref": "A-3313.1",
           "description": "Host verbal summary of Mitch Snow's account of seeing Erika at Fort Huachuca and a military briefing (not shown)",
           "related_claims": [
-            "C-14322",
-            "C-14323",
-            "C-14324"
+            "C-6338",
+            "C-6339",
+            "C-6340"
           ],
           "related_nodes": [
             "N-10326",
@@ -475,7 +475,7 @@
           "ref": "A-3314.1",
           "description": "Host verbal reference to a tip describing Thomas Martin as Border Patrol director and Southern Command chief of staff in Tucson (not shown)",
           "related_claims": [
-            "C-14329"
+            "C-6345"
           ],
           "related_nodes": [
             "N-10497",
@@ -502,7 +502,7 @@
           "ref": "A-3315.1",
           "description": "Host verbal reference to the tip address for information on Thomas Martin (verbal call for tips)",
           "related_claims": [
-            "C-14334"
+            "C-6354"
           ],
           "related_nodes": [
             "N-10497",
@@ -528,7 +528,7 @@
           "ref": "A-3316.1",
           "description": "Host verbal reference to a source saying Tracy Martin's daughter is Erika Kirk's assistant (not shown)",
           "related_claims": [
-            "C-14336"
+            "C-6358"
           ],
           "related_nodes": [
             "N-10498",
@@ -557,11 +557,11 @@
           "ref": "A-3317.1",
           "description": "Host verbal reference to her master timeline dating Erika's Instagram purge and Charlie's June 18 White House meeting (not shown)",
           "related_claims": [
-            "C-14337",
-            "C-14338",
-            "C-14339",
-            "C-14341",
-            "C-14342"
+            "C-6359",
+            "C-6360",
+            "C-6361",
+            "C-6363",
+            "C-6364"
           ],
           "related_nodes": [
             "N-1",
@@ -593,8 +593,8 @@
           "ref": "A-3318.1",
           "description": "Host verbal reference to clips of Charlie Kirk describing being morally blackmailed over Israel (not played)",
           "related_claims": [
-            "C-14361",
-            "C-14362"
+            "C-6388",
+            "C-6389"
           ],
           "related_nodes": [
             "N-1",
@@ -623,8 +623,8 @@
           "ref": "A-3319.1",
           "description": "Host reads an online search result defining street light interference (screen content, not clearly shown)",
           "related_claims": [
-            "C-14379",
-            "C-14380"
+            "C-6409",
+            "C-6410"
           ],
           "related_nodes": [
             "N-1",
@@ -652,9 +652,9 @@
           "ref": "A-3320.1",
           "description": "Host verbal reference to 2018 written messages in which Charlie Kirk spoke of his third eye (not shown)",
           "related_claims": [
-            "C-14381",
-            "C-14383",
-            "C-14384"
+            "C-6411",
+            "C-6413",
+            "C-6414"
           ],
           "related_nodes": [
             "N-1",
@@ -681,7 +681,7 @@
           "ref": "A-3321.1",
           "description": "Host verbal reference to the tip email address in the episode's closing (verbal call for tips)",
           "related_claims": [
-            "C-14385"
+            "C-6415"
           ],
           "related_nodes": [
             "N-10497",
@@ -709,8 +709,8 @@
         "A-1759.1"
       ],
       "related_claims": [
-        "C-2340",
-        "C-2341"
+        "C-6356",
+        "C-6357"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -737,10 +737,10 @@
         "A-1758.1"
       ],
       "related_claims": [
-        "C-2336",
-        "C-2337",
-        "C-2338",
-        "C-2339"
+        "C-6346",
+        "C-6349",
+        "C-6350",
+        "C-6351"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -763,8 +763,8 @@
         "A-1759.1"
       ],
       "related_claims": [
-        "C-2340",
-        "C-2341"
+        "C-6356",
+        "C-6357"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -788,7 +788,7 @@
         "A-1760.2"
       ],
       "related_claims": [
-        "C-2346"
+        "C-6368"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -808,9 +808,9 @@
         "A-1751.1"
       ],
       "related_claims": [
-        "C-2327",
-        "C-2328",
-        "C-2329"
+        "C-6322",
+        "C-6323",
+        "C-6324"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -831,10 +831,10 @@
         "A-1758.1"
       ],
       "related_claims": [
-        "C-2336",
-        "C-2337",
-        "C-2338",
-        "C-2339"
+        "C-6346",
+        "C-6349",
+        "C-6350",
+        "C-6351"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -857,8 +857,8 @@
         "A-1759.1"
       ],
       "related_claims": [
-        "C-2340",
-        "C-2341"
+        "C-6356",
+        "C-6357"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -886,12 +886,12 @@
         "A-1761.1"
       ],
       "related_claims": [
-        "C-2327",
-        "C-2328",
-        "C-2329",
-        "C-2330",
-        "C-2335",
-        "C-2347"
+        "C-6322",
+        "C-6323",
+        "C-6324",
+        "C-6325",
+        "C-6332",
+        "C-6335"
       ],
       "tags": [],
       "evidence_count": 5,
@@ -910,9 +910,9 @@
         "A-1760.1"
       ],
       "related_claims": [
-        "C-2343",
-        "C-2344",
-        "C-2345"
+        "C-6376",
+        "C-6381",
+        "C-6382"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -932,30 +932,30 @@
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14338",
-        "C-14339",
-        "C-14340",
-        "C-14341",
-        "C-14342",
-        "C-14343",
-        "C-14345",
-        "C-14352",
-        "C-14354",
-        "C-14355",
-        "C-14356",
-        "C-14361",
-        "C-14362",
-        "C-14365",
-        "C-14366",
-        "C-14367",
-        "C-14371",
-        "C-14375",
-        "C-14376",
-        "C-14377",
-        "C-14380",
-        "C-14381",
-        "C-14383",
-        "C-14384"
+        "C-6360",
+        "C-6361",
+        "C-6362",
+        "C-6363",
+        "C-6364",
+        "C-6366",
+        "C-6369",
+        "C-6377",
+        "C-6379",
+        "C-6380",
+        "C-6383",
+        "C-6388",
+        "C-6389",
+        "C-6392",
+        "C-6393",
+        "C-6394",
+        "C-6398",
+        "C-6402",
+        "C-6405",
+        "C-6406",
+        "C-6410",
+        "C-6411",
+        "C-6413",
+        "C-6414"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -973,16 +973,16 @@
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14321",
-        "C-14322",
-        "C-14326",
-        "C-14327",
-        "C-14331",
-        "C-14336",
-        "C-14337",
-        "C-14342",
-        "C-14369",
-        "C-14380"
+        "C-6337",
+        "C-6338",
+        "C-6342",
+        "C-6343",
+        "C-6348",
+        "C-6358",
+        "C-6359",
+        "C-6364",
+        "C-6396",
+        "C-6410"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1000,7 +1000,7 @@
       "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
       "related_artifacts": [],
       "related_claims": [
-        "C-2347"
+        "C-6335"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1017,22 +1017,22 @@
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14316",
-        "C-14349",
-        "C-14350",
-        "C-14351",
-        "C-14359",
-        "C-14360",
-        "C-14361",
-        "C-14373",
-        "C-14374",
-        "C-14375",
-        "C-14376",
-        "C-14378",
-        "C-14380",
-        "C-14381",
-        "C-14383",
-        "C-14384"
+        "C-6326",
+        "C-6373",
+        "C-6374",
+        "C-6375",
+        "C-6386",
+        "C-6387",
+        "C-6388",
+        "C-6400",
+        "C-6401",
+        "C-6402",
+        "C-6405",
+        "C-6407",
+        "C-6410",
+        "C-6411",
+        "C-6413",
+        "C-6414"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1050,26 +1050,26 @@
       "description": "Subject of Hampton retreat confrontation with Charlie Kirk over hypothetical anti-Netanyahu tweet.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14345",
-        "C-14346",
-        "C-14347",
-        "C-14348",
-        "C-14349",
-        "C-14350",
-        "C-14351",
-        "C-14352",
-        "C-14353",
-        "C-14354",
-        "C-14355",
-        "C-14356",
-        "C-14357",
-        "C-14358",
-        "C-14359",
-        "C-14360",
-        "C-14362",
-        "C-14363",
-        "C-14367",
-        "C-14372"
+        "C-6369",
+        "C-6370",
+        "C-6371",
+        "C-6372",
+        "C-6373",
+        "C-6374",
+        "C-6375",
+        "C-6377",
+        "C-6378",
+        "C-6379",
+        "C-6380",
+        "C-6383",
+        "C-6384",
+        "C-6385",
+        "C-6386",
+        "C-6387",
+        "C-6389",
+        "C-6390",
+        "C-6394",
+        "C-6399"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1087,7 +1087,7 @@
       "description": "Banned subject on Elephant Clipping instructions per Atlantic.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14365"
+        "C-6392"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1105,9 +1105,9 @@
       "description": "Named as having tweeted about the alternative halftime show and as persuaded by Kirk to limit Iran action.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14311",
-        "C-14339",
-        "C-14341"
+        "C-6318",
+        "C-6361",
+        "C-6363"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1124,8 +1124,8 @@
       "description": "TPUSA spokesperson; accused of PR campaign against Snow and quoted on Netanyahu offer.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14321",
-        "C-14370"
+        "C-6337",
+        "C-6397"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1142,9 +1142,9 @@
       "description": "Recalled for his Student Action Summit remarks and for describing Kirk's Iran stance and feelings.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14318",
-        "C-14340",
-        "C-14366"
+        "C-6333",
+        "C-6362",
+        "C-6393"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1161,12 +1161,12 @@
       "description": "Subject of the Hamptons call, the next-level offer and the radio show refusal.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14338",
-        "C-14364",
-        "C-14368",
-        "C-14369",
-        "C-14370",
-        "C-14371"
+        "C-6360",
+        "C-6391",
+        "C-6395",
+        "C-6396",
+        "C-6397",
+        "C-6398"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1183,7 +1183,7 @@
       "description": "Credited by the host with breaking the heated Hamptons confrontation story.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14343"
+        "C-6366"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1200,7 +1200,7 @@
       "description": "Hamptons attendee; host says Dillon, not Hammer, was fired up.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14372"
+        "C-6399"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1217,7 +1217,7 @@
       "description": "Named in the hearing clip as having fired the host from the Daily Wire.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14349"
+        "C-6373"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1234,7 +1234,7 @@
       "description": "TPUSA personality who tweeted a triumphant view-count post.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14319"
+        "C-6334"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1251,7 +1251,7 @@
       "description": "Named by the host as one of the chiefs of pressing Kirk in the Hamptons.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14345"
+        "C-6369"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1268,10 +1268,10 @@
       "description": "Eyewitness whose Fort Huachuca account the host says remains unchanged.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14321",
-        "C-14322",
-        "C-14323",
-        "C-14324"
+        "C-6337",
+        "C-6338",
+        "C-6339",
+        "C-6340"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1288,7 +1288,7 @@
       "description": "The person Snow said he saw a lookalike of at Fort Huachuca.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14322"
+        "C-6338"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1305,7 +1305,7 @@
       "description": "Named by the host as controlling halftime booking with the NFL.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14310"
+        "C-6315"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1322,7 +1322,7 @@
       "description": "Performer in the TPUSA halftime show.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14315"
+        "C-6321"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1339,9 +1339,9 @@
       "description": "Headliner of the NFL halftime show.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14310",
-        "C-14312",
-        "C-14314"
+        "C-6315",
+        "C-6319",
+        "C-6320"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1358,11 +1358,11 @@
       "description": "Organization whose halftime show and finances are discussed.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14311",
-        "C-14313",
-        "C-14314",
-        "C-14376",
-        "C-14377"
+        "C-6318",
+        "C-6317",
+        "C-6320",
+        "C-6405",
+        "C-6406"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1379,20 +1379,20 @@
       "description": "Investigation target for the August 2025 Hamptons meeting.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14343",
-        "C-14344",
-        "C-14345",
-        "C-14353",
-        "C-14355",
-        "C-14356",
-        "C-14357",
-        "C-14361",
-        "C-14362",
-        "C-14363",
-        "C-14365",
-        "C-14366",
-        "C-14368",
-        "C-14372"
+        "C-6366",
+        "C-6367",
+        "C-6369",
+        "C-6378",
+        "C-6380",
+        "C-6383",
+        "C-6384",
+        "C-6388",
+        "C-6389",
+        "C-6390",
+        "C-6392",
+        "C-6393",
+        "C-6395",
+        "C-6399"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1409,7 +1409,7 @@
       "description": "Topic of a reported Netanyahu call to Kirk.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14364"
+        "C-6391"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1426,8 +1426,8 @@
       "description": "Place of the August 2025 retreat.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14343",
-        "C-14352"
+        "C-6366",
+        "C-6377"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1444,8 +1444,8 @@
       "description": "The retreat itself, its attendees and format.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14352",
-        "C-14354"
+        "C-6377",
+        "C-6379"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1462,7 +1462,7 @@
       "description": "Topic area touching the host's Christian Zionism criticism.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14351"
+        "C-6375"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1479,7 +1479,7 @@
       "description": "Meeting alleged at Fort Huachuca.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14323"
+        "C-6339"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1496,8 +1496,8 @@
       "description": "Topic of the alleged offer to take TPUSA to the next level.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14369",
-        "C-14370"
+        "C-6396",
+        "C-6397"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1514,10 +1514,10 @@
       "description": "Dillon's role in the Hamptons confrontation.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14358",
-        "C-14359",
-        "C-14360",
-        "C-14362"
+        "C-6385",
+        "C-6386",
+        "C-6387",
+        "C-6389"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1534,9 +1534,9 @@
       "description": "Snow's eyewitness encounter at the base.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14322",
-        "C-14323",
-        "C-14324"
+        "C-6338",
+        "C-6339",
+        "C-6340"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1553,7 +1553,7 @@
       "description": "Check on Phillips' presence at the base.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14322"
+        "C-6338"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1570,7 +1570,7 @@
       "description": "Topic of the PR response to Snow.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14321"
+        "C-6337"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1587,8 +1587,8 @@
       "description": "The 126-post deletion.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14337",
-        "C-14342"
+        "C-6359",
+        "C-6364"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1605,7 +1605,7 @@
       "description": "Where Erika was at Fort Huachuca.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14322"
+        "C-6338"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1622,8 +1622,8 @@
       "description": "Conflicting accounts of the funding offer.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14369",
-        "C-14370"
+        "C-6396",
+        "C-6397"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1640,7 +1640,7 @@
       "description": "Topic of Kirk declining to host Netanyahu.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14371"
+        "C-6398"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1657,9 +1657,9 @@
       "description": "Verification topic on Tracy Martin and her husband.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14326",
-        "C-14327",
-        "C-14328"
+        "C-6342",
+        "C-6343",
+        "C-6344"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1676,8 +1676,8 @@
       "description": "Allegation of a Netanyahu call/presence during the Hamptons.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14364",
-        "C-14368"
+        "C-6391",
+        "C-6395"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1694,7 +1694,7 @@
       "description": "Investigation of the assistant being kept from the event.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14336"
+        "C-6358"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1711,10 +1711,10 @@
       "description": "Authenticity question on the TPUSA show.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14311",
-        "C-14313",
-        "C-14314",
-        "C-14315"
+        "C-6318",
+        "C-6317",
+        "C-6320",
+        "C-6321"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1731,10 +1731,10 @@
       "description": "Kirk's June 2025 stance on Iran.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14338",
-        "C-14339",
-        "C-14340",
-        "C-14341"
+        "C-6360",
+        "C-6361",
+        "C-6362",
+        "C-6363"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1751,9 +1751,9 @@
       "description": "The alleged June 18 meeting.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14338",
-        "C-14341",
-        "C-14342"
+        "C-6360",
+        "C-6363",
+        "C-6364"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1770,7 +1770,7 @@
       "description": "Agency named in the contract and border patrol claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14331"
+        "C-6348"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1787,7 +1787,7 @@
       "description": "The June 2025 strikes on Iran.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14339"
+        "C-6361"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1804,7 +1804,7 @@
       "description": "Event where Tucker Carlson spoke.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14318"
+        "C-6333"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1821,7 +1821,7 @@
       "description": "Organization named with Tracy Martin.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14327"
+        "C-6343"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1838,11 +1838,11 @@
       "description": "Body that held the hearing.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14346",
-        "C-14347",
-        "C-14348",
-        "C-14349",
-        "C-14350"
+        "C-6370",
+        "C-6371",
+        "C-6372",
+        "C-6373",
+        "C-6374"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1859,7 +1859,7 @@
       "description": "Related to donors angry after the SAS speech.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14318"
+        "C-6333"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1876,9 +1876,9 @@
       "description": "Unit Snow said he encountered.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14323",
-        "C-14324",
-        "C-14325"
+        "C-6339",
+        "C-6340",
+        "C-6341"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1895,7 +1895,7 @@
       "description": "First named by the host at 00:07:13 in episode 71 as a performer in the TPUSA halftime show.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14315"
+        "C-6321"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1912,8 +1912,8 @@
       "description": "First named by the host at 00:24:12 in episode 71 as a Border Patrol employee in Buffalo, New York whom she says is not the Tucson Thomas Martin.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14333",
-        "C-14385"
+        "C-6353",
+        "C-6415"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1930,8 +1930,8 @@
       "description": "League that, per the host, partnered with Jay-Z to book the Super Bowl halftime show.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14310",
-        "C-14313"
+        "C-6315",
+        "C-6317"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1948,9 +1948,9 @@
       "description": "The NFL halftime performance headlined by Bad Bunny, its booking, and the counter-programmed TPUSA show.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14310",
-        "C-14311",
-        "C-14312"
+        "C-6315",
+        "C-6318",
+        "C-6319"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1967,7 +1967,7 @@
       "description": "The 1985 trial in Tucson of church workers charged with concealing illegal aliens, as described in the Times Union article the host reads.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14332"
+        "C-6352"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1984,8 +1984,8 @@
       "description": "The claimed phenomenon of street lights turning off or flickering when a person approaches, which the host cites in support of her and Erika's accounts of lights going out around Charlie.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14379",
-        "C-14380"
+        "C-6409",
+        "C-6410"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2002,10 +2002,10 @@
       "description": "The host's 2018 written exchange with Charlie Kirk about his third eye and what she thinks it led to.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14381",
-        "C-14382",
-        "C-14383",
-        "C-14384"
+        "C-6411",
+        "C-6412",
+        "C-6413",
+        "C-6414"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2017,8 +2017,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-2326",
-      "ref": "C-2326",
+      "@id": "C-6316",
+      "ref": "C-6316",
       "label": "Host Says Nielsen Super Bowl Viewership Increased During Halftime",
       "claim": "The host says Nielsen estimates 128 million viewers watched the Super Bowl game, increasing to 135 million during the halftime performance.",
       "anchored_artifacts": [
@@ -2032,8 +2032,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2327",
-      "ref": "C-2327",
+      "@id": "C-6322",
+      "ref": "C-6322",
       "label": "Kolvet Initial Six Million Concurrent YouTube Claim",
       "claim": "The host says Andrew Kolvet claimed the TPUSA halftime show drew 6 million concurrent YouTube viewers.",
       "anchored_artifacts": [
@@ -2051,8 +2051,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2328",
-      "ref": "C-2328",
+      "@id": "C-6323",
+      "ref": "C-6323",
       "label": "Kolvet Ten Million Concurrent Across Social Claim",
       "claim": "Andrew Kolvet stated TPUSA saw \"over 10 million concurrent views\" across all social channels (Rumble plus partners).",
       "anchored_artifacts": [
@@ -2070,8 +2070,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2329",
-      "ref": "C-2329",
+      "@id": "C-6324",
+      "ref": "C-6324",
       "label": "Kolvet Twenty Million Total Across Social Claim",
       "claim": "Andrew Kolvet stated TPUSA had \"over 20 million viewers across just social\" for the halftime show.",
       "anchored_artifacts": [
@@ -2089,8 +2089,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2330",
-      "ref": "C-2330",
+      "@id": "C-6325",
+      "ref": "C-6325",
       "label": "TPUSA Halftime YouTube Screenshot Metrics",
       "claim": "The host shows a YouTube screenshot of the TPUSA halftime show page that she says displayed 5,839 views, 175 comments, and 667,000 likes.",
       "anchored_artifacts": [
@@ -2105,8 +2105,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2331",
-      "ref": "C-2331",
+      "@id": "C-6327",
+      "ref": "C-6327",
       "label": "India Moon Mission Top YouTube Live Stream",
       "claim": "Per the displayed reference list, an Indian moon mission event held the top YouTube concurrent live stream at 8 million viewers.",
       "anchored_artifacts": [
@@ -2121,8 +2121,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2332",
-      "ref": "C-2332",
+      "@id": "C-6328",
+      "ref": "C-6328",
       "label": "2022 World Cup Second on YouTube Live Streams List",
       "claim": "Per the displayed reference list, the 2022 World Cup Brazil vs Croatia match held the second-place position with 6.1 million concurrent YouTube viewers.",
       "anchored_artifacts": [
@@ -2137,8 +2137,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2333",
-      "ref": "C-2333",
+      "@id": "C-6330",
+      "ref": "C-6330",
       "label": "Erika Kirk Widow Address View Counts",
       "claim": "The host says Erika Kirk's widow address video on Charlie Kirk's YouTube channel has approximately 4.1 million views and 36,000 comments.",
       "anchored_artifacts": [
@@ -2155,8 +2155,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2334",
-      "ref": "C-2334",
+      "@id": "C-6331",
+      "ref": "C-6331",
       "label": "Candace \"Letter to Erika\" View Counts",
       "claim": "Candace Owens' \"Letter to Erika\" YouTube video has approximately 3.1 million views and 28,000 comments.",
       "anchored_artifacts": [
@@ -2173,8 +2173,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2335",
-      "ref": "C-2335",
+      "@id": "C-6332",
+      "ref": "C-6332",
       "label": "TPUSA Halftime Show View-to-Comment Ratio",
       "claim": "The host says the TPUSA halftime show YouTube page has over 20 million views but only 46,000 comments.",
       "anchored_artifacts": [
@@ -2189,8 +2189,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2336",
-      "ref": "C-2336",
+      "@id": "C-6346",
+      "ref": "C-6346",
       "label": "Thomas Martin LinkedIn Profile",
       "claim": "Per a LinkedIn link the host shows, Thomas Martin is listed as Director, US Border Patrol, with location in the Greater Tucson area.",
       "anchored_artifacts": [
@@ -2208,8 +2208,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2337",
-      "ref": "C-2337",
+      "@id": "C-6349",
+      "ref": "C-6349",
       "label": "Thomas Martin ZoomInfo DHS Profile",
       "claim": "Per a ZoomInfo listing the host shows, Thomas Martin is Deputy Chief Patrol Agent at the Department of Homeland Security, with 9 years in Customs and Border Protection.",
       "anchored_artifacts": [
@@ -2227,8 +2227,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2338",
-      "ref": "C-2338",
+      "@id": "C-6350",
+      "ref": "C-6350",
       "label": "Thomas Martin as 1985 Border Patrol Agent",
       "claim": "A 1985 Times Union article identifies agent Thomas Martin of the Border Patrol in Tucson in the context of the sanctuary movement trial.",
       "anchored_artifacts": [
@@ -2246,8 +2246,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2339",
-      "ref": "C-2339",
+      "@id": "C-6351",
+      "ref": "C-6351",
       "label": "Thomas Martin 1985 Memo on Church Invasions",
       "claim": "The host says that, in the 1985 article, Thomas Martin is quoted writing to superiors that a ploy would be 'border patrol baiting' to show the public the US government thinks nothing of breaking down church doors, which she reads as his argument against invading the churches.",
       "anchored_artifacts": [
@@ -2265,8 +2265,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2340",
-      "ref": "C-2340",
+      "@id": "C-6356",
+      "ref": "C-6356",
       "label": "Tracy's Daughter Scheduled at UVU September 10",
       "claim": "The host says that, per text messages from September 11 she says she has, Tracy Martin told friends her daughter, possibly Erika Kirk's assistant, was supposed to be at UVU on September 10, 2025.",
       "anchored_artifacts": [
@@ -2286,8 +2286,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2341",
-      "ref": "C-2341",
+      "@id": "C-6357",
+      "ref": "C-6357",
       "label": "Host Says Tracy's Bad Feeling Stopped Daughter from UVU",
       "claim": "Per text messages from September 11th that the host says she has, Tracy Martin told friends she had a \"bad feeling\" about September 10 and stopped her daughter from attending UVU.",
       "anchored_artifacts": [
@@ -2306,8 +2306,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2342",
-      "ref": "C-2342",
+      "@id": "C-6365",
+      "ref": "C-6365",
       "label": "Seth Dillon Religious Liberty Commission Testimony",
       "claim": "Seth Dillon testified at a Religious Liberty Commission hearing on antisemitism.",
       "anchored_artifacts": [
@@ -2325,8 +2325,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2343",
-      "ref": "C-2343",
+      "@id": "C-6376",
+      "ref": "C-6376",
       "label": "Seth Dillon Hamptons \"Save the West\" Characterization",
       "claim": "In a clip the host plays, Seth Dillon says the Hamptons retreat had a 'save the West' theme and that Charlie Kirk's primary focus was 'the threat of Islam.'",
       "anchored_artifacts": [
@@ -2345,8 +2345,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2344",
-      "ref": "C-2344",
+      "@id": "C-6381",
+      "ref": "C-6381",
       "label": "Host Says Seth Dillon Is Adjusting His Story on Hamptons Debate",
       "claim": "In a clip the host plays, Seth Dillon says the Hamptons meeting included 'heated and spirited debate about the issue of Israel,' and the host says he lied and is now adjusting his story.",
       "anchored_artifacts": [
@@ -2364,8 +2364,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2345",
-      "ref": "C-2345",
+      "@id": "C-6382",
+      "ref": "C-6382",
       "label": "Seth Dillon Charlie-Originated Debate Claim",
       "claim": "Seth Dillon claimed Charlie Kirk himself initiated the Israel discussion at the Hamptons meeting.",
       "anchored_artifacts": [
@@ -2384,8 +2384,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2346",
-      "ref": "C-2346",
+      "@id": "C-6368",
+      "ref": "C-6368",
       "label": "Host Says Carrie Prejean Boller Questioned Seth Dillon",
       "claim": "The host says Carrie Prejean Boller questioned Seth Dillon at the Religious Liberty Commission hearing regarding antisemitism and the Hamptons meeting.",
       "anchored_artifacts": [
@@ -2404,8 +2404,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2347",
-      "ref": "C-2347",
+      "@id": "C-6335",
+      "ref": "C-6335",
       "label": "Tyler Bowyer TPUSA Concurrent Stream Tweet",
       "claim": "Tyler Bowyer tweeted that TPUSA ended up with \"one of the largest YouTube concurrent live streams in history.\"",
       "anchored_artifacts": [
@@ -2423,8 +2423,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2348",
-      "ref": "C-2348",
+      "@id": "C-6408",
+      "ref": "C-6408",
       "label": "AO Comment on Erika Lights Flickering Confirmation",
       "claim": "A viewer comment the host reads says there is a clip of Erika speaking to Megyn Kelly that confirms the host's recollection of lights flickering.",
       "anchored_artifacts": [
@@ -2442,8 +2442,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2349",
-      "ref": "C-2349",
+      "@id": "C-6403",
+      "ref": "C-6403",
       "label": "GN2176 Book Comparison Comment",
       "claim": "Commenter GN2176 states that the Charlie Kirk story resembles \"a book being written about Charlie Kirk's trial leading up to a September 10th execution like St. Thomas More.\"",
       "anchored_artifacts": [
@@ -2459,8 +2459,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2350",
-      "ref": "C-2350",
+      "@id": "C-6404",
+      "ref": "C-6404",
       "label": "Charlie Kirk Parents Have Not Reached Out to Candace",
       "claim": "Per host statement read aloud from comment thread context, Charlie Kirk's parents have not reached out to Candace Owens to validate her investigation, though they have historically been private.",
       "anchored_artifacts": [
@@ -2477,8 +2477,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14310",
-      "ref": "C-14310",
+      "@id": "C-6315",
+      "ref": "C-6315",
       "label": "Host Says Jay-Z Controls Halftime Booking and Booked Bad Bunny",
       "claim": "The host says that Jay-Z, in partnership with the NFL, controls who performs at the Super Bowl halftime and that he booked Bad Bunny.",
       "anchored_artifacts": [],
@@ -2499,8 +2499,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14311",
-      "ref": "C-14311",
+      "@id": "C-6318",
+      "ref": "C-6318",
       "label": "Host Says TPUSA Announced an Alternative Halftime Show and Trump Tweeted",
       "claim": "The host says that after Bad Bunny's booking drew backlash, Turning Point USA announced an alternative all-American halftime show and President Trump tweeted about it.",
       "anchored_artifacts": [],
@@ -2522,8 +2522,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14312",
-      "ref": "C-14312",
+      "@id": "C-6319",
+      "ref": "C-6319",
       "label": "Host Says Bad Bunny Did Not Wear a Dress at the Super Bowl",
       "claim": "The host says Bad Bunny did not in fact wear a dress during the Super Bowl halftime performance, although the prospect had driven the backlash.",
       "anchored_artifacts": [],
@@ -2542,8 +2542,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14313",
-      "ref": "C-14313",
+      "@id": "C-6317",
+      "ref": "C-6317",
       "label": "Host Says TPUSA's Counter-Programming Failed to Draw Viewers From the NFL",
       "claim": "The host says the viewership figures mean the political lines drawn by Turning Point USA did not succeed in drawing people away from the NFL's viewership.",
       "anchored_artifacts": [
@@ -2561,13 +2561,13 @@
       "investigative_direction": "Nielsen's final halftime and game figures compared with TPUSA's claimed audience.",
       "transcript_snippet": "This means uh that the I would say unnecessary Super Bowl political lines that were drawn by Turning Point USA was not successful in terms of drawing people away from the NFL's viewership.",
       "supports_claim_refs": [
-        "C-2326"
+        "C-6316"
       ]
     },
     {
       "@type": "Claim",
-      "@id": "C-14314",
-      "ref": "C-14314",
+      "@id": "C-6320",
+      "ref": "C-6320",
       "label": "Host Says the TPUSA Show Was Pre-Recorded a Couple of Weeks Earlier",
       "claim": "The host says the Turning Point USA halftime show was pre-recorded, she thinks a couple of weeks earlier, while Bad Bunny performed live, giving TPUSA time to edit and present it.",
       "anchored_artifacts": [],
@@ -2587,8 +2587,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14315",
-      "ref": "C-14315",
+      "@id": "C-6321",
+      "ref": "C-6321",
       "label": "Host Names Kid Rock and Lee Brice as TPUSA Show Performers",
       "claim": "The host names Kid Rock and Lee Brice as artists who performed in the Turning Point USA halftime show and says there were a couple of other artists.",
       "anchored_artifacts": [],
@@ -2608,8 +2608,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14316",
-      "ref": "C-14316",
+      "@id": "C-6326",
+      "ref": "C-6326",
       "label": "Host Says Her Own Stream Had 95,000 Concurrent Viewers as a Benchmark",
       "claim": "The host says her stream had about 95,000 concurrent viewers while on air and argues that YouTube would show roughly 200,000 to 300,000 views immediately after it ends, as a benchmark against TPUSA's claimed six million concurrent.",
       "anchored_artifacts": [
@@ -2630,8 +2630,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14317",
-      "ref": "C-14317",
+      "@id": "C-6329",
+      "ref": "C-6329",
       "label": "Host Says TPUSA Wants Viewers to Believe It Is Second on YouTube's Concurrent List",
       "claim": "The host says that, taking Kolvet's six million concurrent figure at face value, Turning Point wants viewers to believe its show ranks second on YouTube's all-time concurrent list, behind only India's moon mission.",
       "anchored_artifacts": [
@@ -2647,7 +2647,7 @@
       "investigative_direction": "YouTube's all-time peak concurrent viewership rankings and any TPUSA entry.",
       "transcript_snippet": "Turning Point wants you to believe that they're number two now.",
       "supports_claim_refs": [
-        "C-2327"
+        "C-6322"
       ],
       "mentions_person_refs": [
         "N-14"
@@ -2655,8 +2655,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14318",
-      "ref": "C-14318",
+      "@id": "C-6333",
+      "ref": "C-6333",
       "label": "Host Recalls Tucker Carlson Questioning Donor Wealth at SAS",
       "claim": "The host says TPUSA's viewership claim reminds her of what Tucker Carlson said on stage at Student Action Summit when donors got angry as he questioned where the money is coming from and how some people are becoming billionaires.",
       "anchored_artifacts": [],
@@ -2676,8 +2676,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14319",
-      "ref": "C-14319",
+      "@id": "C-6334",
+      "ref": "C-6334",
       "label": "Host Says Alex Clark Tweeted a Triumphant Post Citing 100 Million Views",
       "claim": "The host says Alex Clark tweeted that everyone said TPUSA was over and followed it with a '100 million views' figure, which the host calls fiction.",
       "anchored_artifacts": [
@@ -2698,8 +2698,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14320",
-      "ref": "C-14320",
+      "@id": "C-6336",
+      "ref": "C-6336",
       "label": "Host Says Bowyer's Tweet Used a Moment From Bad Bunny's Performance",
       "claim": "The host says Tyler Bowyer's tweet about TPUSA's concurrent streams used a moment from Bad Bunny's performance showing two men dancing.",
       "anchored_artifacts": [
@@ -2715,7 +2715,7 @@
       "investigative_direction": "Archive of Bowyer's original post and the attached media.",
       "transcript_snippet": "he shows something he probably likes if I'm guessing um this moment of two men dancing on each other and of all people to to tweet this it's Tyler Bowyer",
       "supports_claim_refs": [
-        "C-2347"
+        "C-6335"
       ],
       "mentions_person_refs": [
         "N-11",
@@ -2724,8 +2724,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14321",
-      "ref": "C-14321",
+      "@id": "C-6337",
+      "ref": "C-6337",
       "label": "Host Says Snow Faced Andrew's and Erika's PR Machine Digging Up His Past",
       "claim": "The host says Mitch Snow faced the full brunt of Andrew Kolvet's and Erika Kirk's PR machine, which dug up his past and claimed he was a habitual liar.",
       "anchored_artifacts": [],
@@ -2746,8 +2746,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14322",
-      "ref": "C-14322",
+      "@id": "C-6338",
+      "ref": "C-6338",
       "label": "Host Says Snow Has Not Changed His Account of Seeing Erika at Fort Huachuca on the 8th",
       "claim": "The host says Mitch Snow has not moved his story and remains certain he saw Erika Kirk on the evening of the 8th at Fort Huachuca leaving a hotel with a Cabot Phillips lookalike.",
       "anchored_artifacts": [
@@ -2772,8 +2772,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14323",
-      "ref": "C-14323",
+      "@id": "C-6339",
+      "ref": "C-6339",
       "label": "Host Says Snow Walked Into the End of a Briefing for the Joint Task Force Southern Border",
       "claim": "The host says Snow claims he stumbled upon what appeared to be the conclusion of a military briefing before a mission, held in a borrowed building site for the Joint Task Force Southern Border unit.",
       "anchored_artifacts": [
@@ -2796,8 +2796,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14324",
-      "ref": "C-14324",
+      "@id": "C-6340",
+      "ref": "C-6340",
       "label": "Host Relays Snow's Exchange With a Man Wearing a JTF Patch",
       "claim": "The host relays that Snow saw a man wearing a JTF patch, which she thinks Snow said was JTF 10 and the 10th Mountain Brigade, and was told the unit is now in that building, although Snow thought it had been disbanded.",
       "anchored_artifacts": [
@@ -2819,8 +2819,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14325",
-      "ref": "C-14325",
+      "@id": "C-6341",
+      "ref": "C-6341",
       "label": "Host Says the Joint Task Force Was Initially Formed in Tucson",
       "claim": "The host says the joint task force was initially formed in Tucson, Arizona.",
       "anchored_artifacts": [],
@@ -2836,8 +2836,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14326",
-      "ref": "C-14326",
+      "@id": "C-6342",
+      "ref": "C-6342",
       "label": "Host Says Tracy Martin Has Been Erika's Best Friend for Over 15 Years",
       "claim": "The host says Tracy Martin, introduced last week, has been Erika Kirk's best friend for over fifteen years.",
       "anchored_artifacts": [],
@@ -2857,8 +2857,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14327",
-      "ref": "C-14327",
+      "@id": "C-6343",
+      "ref": "C-6343",
       "label": "Host Says Erika Modeled for Tracy's Clothing Brands and Tracy Mentions Romanian Angels",
       "claim": "The host says Erika and Tracy have done everything together, that Tracy mentions Romanian Angels, and that Erika modeled for Tracy's clothing brands.",
       "anchored_artifacts": [],
@@ -2879,8 +2879,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14328",
-      "ref": "C-14328",
+      "@id": "C-6344",
+      "ref": "C-6344",
       "label": "Host Says Tracy's Husband Thomas Martin Is Involved in Fitness and Ran Gyms",
       "claim": "The host says she had trouble learning about Tracy Martin's husband, Thomas Martin, who she says is involved in fitness and the couple ran gyms.",
       "anchored_artifacts": [],
@@ -2900,8 +2900,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14329",
-      "ref": "C-14329",
+      "@id": "C-6345",
+      "ref": "C-6345",
       "label": "Host Relays a Tip That a Thomas Martin Is a Border Patrol Director and Southern Command Chief of Staff in Tucson",
       "claim": "The host relays a tip, which she cautions may not pan out, that a Thomas Martin is a director of US Border Patrol and chief of staff of the Southern Command in Tucson; she does not assert he is Tracy Martin's husband.",
       "anchored_artifacts": [
@@ -2923,8 +2923,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14330",
-      "ref": "C-14330",
+      "@id": "C-6347",
+      "ref": "C-6347",
       "label": "Host Says This Thomas Martin Has Wiped His Public Presence",
       "claim": "The host says this particular Thomas Martin has gone to great lengths to completely wipe his public presence, noting that his LinkedIn link no longer opens.",
       "anchored_artifacts": [
@@ -2945,8 +2945,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14331",
-      "ref": "C-14331",
+      "@id": "C-6348",
+      "ref": "C-6348",
       "label": "Host Says Erika's Mother Has Extensive Contracts With DHS",
       "claim": "The host says Erika Kirk's mother is involved in extensive contracts with the Department of Homeland Security.",
       "anchored_artifacts": [
@@ -2968,8 +2968,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14332",
-      "ref": "C-14332",
+      "@id": "C-6352",
+      "ref": "C-6352",
       "label": "Host Reads 1985 Article on the Tucson Sanctuary Movement Trial",
       "claim": "The host reads from the 1985 Times Union article that Southside Presbyterian Church, two Roman Catholic priests, a nun and six church lay workers were going on trial in Tucson for concealing illegal aliens.",
       "anchored_artifacts": [
@@ -2988,8 +2988,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14333",
-      "ref": "C-14333",
+      "@id": "C-6353",
+      "ref": "C-6353",
       "label": "Host Says the Tucson Thomas Martin Is Not Thomas G. Martin of Buffalo",
       "claim": "The host says the Tucson Thomas Martin is not Thomas G. Martin, a Border Patrol employee in Buffalo, New York, and that she has already investigated that obvious lead.",
       "anchored_artifacts": [],
@@ -3009,8 +3009,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14334",
-      "ref": "C-14334",
+      "@id": "C-6354",
+      "ref": "C-6354",
       "label": "Host Asks for Tips on the Tucson Thomas Martin",
       "claim": "The host asks viewers for tips on the Tucson Thomas Martin, including from anyone who worked with him, via the more-tips address.",
       "anchored_artifacts": [
@@ -3031,8 +3031,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14335",
-      "ref": "C-14335",
+      "@id": "C-6355",
+      "ref": "C-6355",
       "label": "Host Says This Thomas Martin Lived in Tucson Until at Least 2011 and Worked With Southern Command",
       "claim": "The host says this Thomas Martin has lived in the Tucson area for decades, at least up until 2011, and that she can find a record of him working with the Southern Command.",
       "anchored_artifacts": [],
@@ -3051,8 +3051,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14336",
-      "ref": "C-14336",
+      "@id": "C-6358",
+      "ref": "C-6358",
       "label": "Host Says a Source Reports Tracy's Daughter Is Erika's Assistant",
       "claim": "The host says a source who knows these people told her that Tracy Martin's daughter is Erika Kirk's assistant, which she flags as unconfirmed.",
       "anchored_artifacts": [
@@ -3076,8 +3076,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14337",
-      "ref": "C-14337",
+      "@id": "C-6359",
+      "ref": "C-6359",
       "label": "Host Says Erika Deleted 126 Instagram Posts on June 19",
       "claim": "The host says that on June 19 Erika Kirk purged her Instagram of many pictures, deleting 126 posts.",
       "anchored_artifacts": [
@@ -3098,8 +3098,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14338",
-      "ref": "C-14338",
+      "@id": "C-6360",
+      "ref": "C-6360",
       "label": "Host Says Charlie Confronted Netanyahu's Side at the White House on June 18",
       "claim": "The host says she can now confirm that the day Charlie Kirk went toe-to-toe at the White House with Netanyahu and his people, who wanted more action in Iran, and won was June 18.",
       "anchored_artifacts": [
@@ -3122,8 +3122,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14339",
-      "ref": "C-14339",
+      "@id": "C-6361",
+      "ref": "C-6361",
       "label": "Host Says Charlie Convinced Trump to Limit Iran Action, Leading to Midnight Hammer",
       "claim": "The host says Charlie Kirk convinced Trump to approve only a limited military operation in Iran, which ended up being Operation Midnight Hammer.",
       "anchored_artifacts": [
@@ -3146,8 +3146,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14340",
-      "ref": "C-14340",
+      "@id": "C-6362",
+      "ref": "C-6362",
       "label": "Host Says Tucker Carlson Has Spoken Publicly About Charlie Speaking Up on Iran",
       "claim": "The host says Tucker Carlson has spoken in clips about Charlie Kirk speaking up for Americans against more action in Iran, and she tells viewers they can find the clips.",
       "anchored_artifacts": [],
@@ -3167,8 +3167,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14341",
-      "ref": "C-14341",
+      "@id": "C-6363",
+      "ref": "C-6363",
       "label": "Host Says Charlie Argued the Base Would Hate Escalation and That It Be Kept Limited",
       "claim": "The host says Charlie Kirk argued in the room that the base would hate more Iran action, reminded Trump he had promised no wars, and asked that it stay a limited operation.",
       "anchored_artifacts": [
@@ -3191,8 +3191,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14342",
-      "ref": "C-14342",
+      "@id": "C-6364",
+      "ref": "C-6364",
       "label": "Host Says Erika Deleted the Posts the Day After Charlie's Win",
       "claim": "The host says June 18 was the day Charlie won at the White House and that the very next day, June 19, Erika deleted 126 Instagram posts, a sequence she flags without asserting causation.",
       "anchored_artifacts": [
@@ -3215,8 +3215,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14343",
-      "ref": "C-14343",
+      "@id": "C-6366",
+      "ref": "C-6366",
       "label": "Host Says Max Blumenthal Broke the Story of a Heated Hamptons Confrontation",
       "claim": "The host says she, and also Max Blumenthal, broke the story that Charlie Kirk had a very heated confrontation at the Hamptons, pressed by Zionists over his shifting support for Israel.",
       "anchored_artifacts": [],
@@ -3237,8 +3237,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14344",
-      "ref": "C-14344",
+      "@id": "C-6367",
+      "ref": "C-6367",
       "label": "Host Says Participants Issued Clean Buttoned-Up Statements Denying the Confrontation",
       "claim": "The host says the Hamptons participants all came out with clean, buttoned-up statements saying the confrontation story was untrue.",
       "anchored_artifacts": [],
@@ -3255,8 +3255,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14345",
-      "ref": "C-14345",
+      "@id": "C-6369",
+      "ref": "C-6369",
       "label": "Host Says Dillon and Natasha Were Chiefs of Pressing Charlie in the Hamptons",
       "claim": "The host says Seth Dillon and Natasha were the leaders of the effort to press Charlie Kirk in the Hamptons.",
       "anchored_artifacts": [],
@@ -3270,7 +3270,7 @@
       "investigative_direction": "Attendee accounts of who pressed Kirk and on what.",
       "transcript_snippet": "him and Natasha were the chiefs of pressing Charlie uh Charlie in the Hamptons.",
       "supports_claim_refs": [
-        "C-9425"
+        "C-2037"
       ],
       "mentions_person_refs": [
         "N-38",
@@ -3280,8 +3280,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14346",
-      "ref": "C-14346",
+      "@id": "C-6370",
+      "ref": "C-6370",
       "label": "Host Says Witnesses at the Commission Hearing Testify Under Oath",
       "claim": "The host says that because Seth Dillon was testifying at the Religious Liberty Commission hearing he was under oath, which she says gave Carrie Prejean Boller the opening to question him on a range of topics.",
       "anchored_artifacts": [
@@ -3303,8 +3303,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14347",
-      "ref": "C-14347",
+      "@id": "C-6371",
+      "ref": "C-6371",
       "label": "Host Says Dillon Was a Leading Voice Calling Christ Is King Anti-Semitic",
       "claim": "The host says Carrie Prejean Boller pressed Seth Dillon first on his being one of the chiefs of the claim that 'Christ is King' is anti-Semitic.",
       "anchored_artifacts": [
@@ -3326,8 +3326,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14348",
-      "ref": "C-14348",
+      "@id": "C-6372",
+      "ref": "C-6372",
       "label": "Clip: Witness Says 'Christ Is King' Could Be Anti-Semitic Depending on Context",
       "claim": "In the hearing clip, the witness answers that labeling the phrase 'Christ is king' anti-Semitic depends on the context and that it could be.",
       "anchored_artifacts": [
@@ -3349,8 +3349,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14349",
-      "ref": "C-14349",
+      "@id": "C-6373",
+      "ref": "C-6373",
       "label": "Clip: Prejean Boller Says Ben Shapiro Fired Candace Over 'Christ Is King'; Dillon Says He Never Called It Anti-Semitic",
       "claim": "In the hearing clip, the questioner says that when Candace Owens worked for Daily Wire, the witness's friend Ben fired her because she said Christ is king, and the witness replies that he never said what she said was anti-semitic.",
       "anchored_artifacts": [
@@ -3374,8 +3374,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14350",
-      "ref": "C-14350",
+      "@id": "C-6374",
+      "ref": "C-6374",
       "label": "Clip: Witness Says He Calls Candace an Anti-Semite Because She Said Way Worse",
       "claim": "In the hearing clip, the witness responds that he calls Candace Owens an anti-semite 'because she said way worse than that.'",
       "anchored_artifacts": [
@@ -3397,8 +3397,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14351",
-      "ref": "C-14351",
+      "@id": "C-6375",
+      "ref": "C-6375",
       "label": "Host Denies Equating Zionists and Jews and Says She Attacks Christian Zionists",
       "claim": "The host says Dillon went on to attribute things to her she never said, including that she draws no separation between Zionists and Jews, and she says she often attacks Christian Zionists for selling racial supremacy, which she says is really Israeli supremacy.",
       "anchored_artifacts": [
@@ -3420,8 +3420,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14352",
-      "ref": "C-14352",
+      "@id": "C-6377",
+      "ref": "C-6377",
       "label": "Clip: Dillon Says Charlie Called the Hamptons Retreat",
       "claim": "In the hearing clip, Dillon says the Hamptons meeting was a retreat called by Charlie.",
       "anchored_artifacts": [
@@ -3444,8 +3444,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14353",
-      "ref": "C-14353",
+      "@id": "C-6378",
+      "ref": "C-6378",
       "label": "Clip: Dillon Denies the Hamptons Intervention Characterization",
       "claim": "In the hearing clip, Dillon says the Hamptons retreat was characterized as a staged intervention and says it was not like that.",
       "anchored_artifacts": [
@@ -3467,8 +3467,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14354",
-      "ref": "C-14354",
+      "@id": "C-6379",
+      "ref": "C-6379",
       "label": "Clip: Dillon Says About 30 People Were Handpicked by Charlie and He Held the Microphone",
       "claim": "In the hearing clip, Dillon says about 30 people attended, all handpicked and invited by Charlie personally, and that Charlie stood at the front of the room with a microphone throughout.",
       "anchored_artifacts": [
@@ -3490,8 +3490,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14355",
-      "ref": "C-14355",
+      "@id": "C-6380",
+      "ref": "C-6380",
       "label": "Clip: Dillon Says Charlie Told the Room Weak Support for Israel Could Be Ruinous",
       "claim": "In the hearing clip, Dillon says Charlie said that not being sufficiently supportive of Israel can be ruinous for someone in his position, and that Dillon disagreed with that.",
       "anchored_artifacts": [
@@ -3514,8 +3514,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14356",
-      "ref": "C-14356",
+      "@id": "C-6383",
+      "ref": "C-6383",
       "label": "Clip: Dillon Cites His Own Experience of Being Targeted for Criticizing Critics of Israel",
       "claim": "In the hearing clip, Dillon says he told Charlie about his own experience, in which he criticized the critics of Israel and they tried to destroy him.",
       "anchored_artifacts": [
@@ -3537,8 +3537,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14357",
-      "ref": "C-14357",
+      "@id": "C-6384",
+      "ref": "C-6384",
       "label": "Clip: Dillon Says Many Attendees Made Statements That the Account Was Mischaracterized",
       "claim": "In the hearing clip, Dillon says many people came out afterwards with statements that the Hamptons meeting had been completely mischaracterized.",
       "anchored_artifacts": [
@@ -3560,8 +3560,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14358",
-      "ref": "C-14358",
+      "@id": "C-6385",
+      "ref": "C-6385",
       "label": "Clip: Dillon Says He and His Family Were Targeted and Someone Was Arrested in Texas",
       "claim": "In the clip, the speaker, apparently Dillon, says the portrayal resulted in death threats and that someone tried to kill him and his family and was arrested in Texas.",
       "anchored_artifacts": [
@@ -3582,8 +3582,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14359",
-      "ref": "C-14359",
+      "@id": "C-6386",
+      "ref": "C-6386",
       "label": "Clip: Dillon Says the Host Put His Face on a Poster Implying He Had a Role in the Murder",
       "claim": "In the clip, the speaker, apparently Dillon, says the host put his face on an 'I Know What You Did Last Summer' movie poster suggesting he had a role in Charlie Kirk's murder.",
       "anchored_artifacts": [
@@ -3599,7 +3599,7 @@
       "investigative_direction": "The host's earlier thumbnail and its context.",
       "transcript_snippet": "She put my face on a movie poster for I know what you did last summer suggesting that I had a role in his murder.",
       "supports_claim_refs": [
-        "C-1639"
+        "C-2504"
       ],
       "mentions_person_refs": [
         "N-38",
@@ -3609,8 +3609,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14360",
-      "ref": "C-14360",
+      "@id": "C-6387",
+      "ref": "C-6387",
       "label": "Host Acknowledges Making the 'I Know What You Did Last Summer' Thumbnail",
       "claim": "The host acknowledges she put Seth Dillon's face on a thumbnail based on the 'I Know What You Did Last Summer' poster, calls it hilarious and a pun, and rejects his suggestion that it almost led to his murder.",
       "anchored_artifacts": [
@@ -3632,8 +3632,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14361",
-      "ref": "C-14361",
+      "@id": "C-6388",
+      "ref": "C-6388",
       "label": "Host Says Charlie Himself Described the Hamptons as Moral Blackmail",
       "claim": "The host says she never said Charlie was blackmailed, that Charlie described what happened in the Hamptons as being morally blackmailed, and that clips exist of him saying so.",
       "anchored_artifacts": [
@@ -3649,9 +3649,9 @@
       "investigative_direction": "The specific Kirk clips in which he uses the phrase 'morally blackmailed'.",
       "transcript_snippet": "I never said that he was blackmailed. Charlie described what happened in the Hamptons as he was being morally blackmailed.",
       "supports_claim_refs": [
-        "C-1258",
-        "C-1292",
-        "C-11966"
+        "C-715",
+        "C-847",
+        "C-454"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -3660,8 +3660,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14362",
-      "ref": "C-14362",
+      "@id": "C-6389",
+      "ref": "C-6389",
       "label": "Host Says Charlie Felt Morally Blackmailed Because of What Dillon Did",
       "claim": "The host says Charlie felt he was being morally blackmailed because of what Seth Dillon did at the Hamptons meeting.",
       "anchored_artifacts": [
@@ -3678,7 +3678,7 @@
       "investigative_direction": "Kirk's statements naming who pressed him in the Hamptons.",
       "transcript_snippet": "And he felt he was being morally blackmailed because of what Seth Dillon did.",
       "supports_claim_refs": [
-        "C-9425"
+        "C-2037"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -3687,8 +3687,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14363",
-      "ref": "C-14363",
+      "@id": "C-6390",
+      "ref": "C-6390",
       "label": "Host Says Dillon Earlier Called the Hamptons a Lovely Spirited Debate and Now Admits It Got Heated",
       "claim": "The host says Seth Dillon's earlier perspective was that it was a nice, lovely, spirited debate and that he now admits it got heated.",
       "anchored_artifacts": [
@@ -3705,7 +3705,7 @@
       "investigative_direction": "Dillon's earlier public statements on the Hamptons meeting versus the hearing testimony.",
       "transcript_snippet": "So first, Seth Dillon's perspective was it was just a nice lovely spirited debate. Now he's changing this. And he admits that it got heated.",
       "supports_claim_refs": [
-        "C-2344"
+        "C-6381"
       ],
       "mentions_person_refs": [
         "N-38"
@@ -3713,8 +3713,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14364",
-      "ref": "C-14364",
+      "@id": "C-6391",
+      "ref": "C-6391",
       "label": "Host Says Nobody Addresses That Netanyahu Called During the Hamptons Meeting",
       "claim": "The host says that, even in their carefully orchestrated statements, no one wanted to touch the fact that Benjamin Netanyahu called, which she says she reported earlier.",
       "anchored_artifacts": [],
@@ -3729,7 +3729,7 @@
       "investigative_direction": "Phone records or eyewitness accounts of a Netanyahu call during the August 2025 Hamptons retreat.",
       "transcript_snippet": "No one even wanted to touch the fact that BB Netanyahu called, which I told you happened. Everything I said was true.",
       "supports_claim_refs": [
-        "C-1129"
+        "C-82"
       ],
       "mentions_person_refs": [
         "N-36"
@@ -3737,8 +3737,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14365",
-      "ref": "C-14365",
+      "@id": "C-6392",
+      "ref": "C-6392",
       "label": "Host Says Charlie's Hamptons Stress Spilled Into His Conversation With Megyn Kelly",
       "claim": "The host says Charlie Kirk was so stressed by what happened in the Hamptons that it spilled over into his conversation with Megyn Kelly, and she credits Kelly for telling the truth about how he felt.",
       "anchored_artifacts": [],
@@ -3752,8 +3752,8 @@
       "investigative_direction": "Megyn Kelly's account of her August 6 conversation with Kirk.",
       "transcript_snippet": "He was so stressed about what happened in the Hamptons that spilled over into his conversation with Megyn Kelly.",
       "supports_claim_refs": [
-        "C-1162",
-        "C-9485"
+        "C-254",
+        "C-2227"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -3762,8 +3762,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14366",
-      "ref": "C-14366",
+      "@id": "C-6393",
+      "ref": "C-6393",
       "label": "Host Credits Tucker Carlson for Telling the Truth About How Charlie Felt",
       "claim": "The host says Tucker Carlson told the truth about how Charlie Kirk was feeling.",
       "anchored_artifacts": [],
@@ -3783,8 +3783,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14367",
-      "ref": "C-14367",
+      "@id": "C-6394",
+      "ref": "C-6394",
       "label": "Host Says Participants Had Claimed Charlie Never Flinched on Israel",
       "claim": "The host says the participants had told the public that Charlie never even flinched on Israel, whereas Dillon now says the discussion got heated.",
       "anchored_artifacts": [
@@ -3806,8 +3806,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14368",
-      "ref": "C-14368",
+      "@id": "C-6395",
+      "ref": "C-6395",
       "label": "Host Says She Reported the Hamptons From Eyewitness Accounts",
       "claim": "The host says she reported that the Hamptons meeting was heated and that Charlie was pressed based on eyewitness reports, and that Netanyahu called.",
       "anchored_artifacts": [],
@@ -3828,8 +3828,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14369",
-      "ref": "C-14369",
+      "@id": "C-6396",
+      "ref": "C-6396",
       "label": "Host Says Erika Denies Netanyahu Offered to Take TPUSA to the Next Level",
       "claim": "The host says Erika Kirk says Netanyahu did not offer to take Turning Point to the next level.",
       "anchored_artifacts": [],
@@ -3850,8 +3850,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14370",
-      "ref": "C-14370",
+      "@id": "C-6397",
+      "ref": "C-6397",
       "label": "Host Says Kolvet Said Netanyahu Did Offer to Take TPUSA to the Next Level",
       "claim": "The host says Andrew Kolvet says Netanyahu did offer to take Turning Point to the next level, which she contrasts with Erika's denial.",
       "anchored_artifacts": [],
@@ -3866,7 +3866,7 @@
       "investigative_direction": "Kolvet's on-air statement and its date.",
       "transcript_snippet": "Andrew Kolvet says that he did offer to take Turning Point to the to the next level.",
       "supports_claim_refs": [
-        "C-5012"
+        "C-3193"
       ],
       "mentions_person_refs": [
         "N-14",
@@ -3876,8 +3876,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14371",
-      "ref": "C-14371",
+      "@id": "C-6398",
+      "ref": "C-6398",
       "label": "Host Says Charlie Did Not Want Netanyahu on His Radio Show",
       "claim": "The host says Charlie Kirk did not even want Benjamin Netanyahu on his radio show because he was so done with Israel, and she challenges anyone to fact-check whether Netanyahu reached out to be on Charlie's podcast in July or August, whenever it was.",
       "anchored_artifacts": [],
@@ -3897,8 +3897,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14372",
-      "ref": "C-14372",
+      "@id": "C-6399",
+      "ref": "C-6399",
       "label": "Host Says It Was Seth Dillon, Not Josh Hammer, Who Got Fired Up in the Room",
       "claim": "The host says the person who got fired up in the Hamptons room was Seth Dillon, not Josh Hammer.",
       "anchored_artifacts": [],
@@ -3912,7 +3912,7 @@
       "investigative_direction": "Attendee accounts distinguishing Dillon's and Hammer's roles.",
       "transcript_snippet": "Not Josh Hammer. I will say it wasn't Josh Hammer. I got all fired up in that room. Uh, it was it was Seth.",
       "supports_claim_refs": [
-        "C-9329"
+        "C-1517"
       ],
       "mentions_person_refs": [
         "N-55",
@@ -3921,8 +3921,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14373",
-      "ref": "C-14373",
+      "@id": "C-6400",
+      "ref": "C-6400",
       "label": "Host Says Subscription Tiers Were Merged Into One Club Candace Tier",
       "claim": "The host says her subscription tiers were merged into one Club Candace tier at $1.99 a month or $120 a year.",
       "anchored_artifacts": [],
@@ -3939,8 +3939,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14374",
-      "ref": "C-14374",
+      "@id": "C-6401",
+      "ref": "C-6401",
       "label": "Host Says 'Why Are You Gay?' Merch Is Available",
       "claim": "The host says 'Why are you gay?' merch is now available on her website.",
       "anchored_artifacts": [],
@@ -3957,8 +3957,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14375",
-      "ref": "C-14375",
+      "@id": "C-6402",
+      "ref": "C-6402",
       "label": "Host Says Her Relationship With Charlie Was Genuine and Like a Kid Brother",
       "claim": "The host says her relationship with Charlie Kirk was genuine, that she knew who he was and his faults, and that he was like a kid brother to her.",
       "anchored_artifacts": [],
@@ -3976,8 +3976,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14376",
-      "ref": "C-14376",
+      "@id": "C-6405",
+      "ref": "C-6405",
       "label": "Host Says She Has Met Charlie's Parents a Handful of Times and Never a Sister",
       "claim": "The host says she met Charlie Kirk's parents maybe a handful of times in the early Turning Point days and has never met a sister.",
       "anchored_artifacts": [
@@ -3993,7 +3993,7 @@
       "investigative_direction": "Event records and photos of the host with Kirk family members.",
       "transcript_snippet": "Like I have met them maybe a handful of times in the early Turning Point USA days. I know they went to a couple of events. I've never met a sister.",
       "supports_claim_refs": [
-        "C-2350"
+        "C-6404"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -4002,8 +4002,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14377",
-      "ref": "C-14377",
+      "@id": "C-6406",
+      "ref": "C-6406",
       "label": "Host Says Those Around Charlie Have a Potential Billion-Dollar Motive",
       "claim": "The host says that questioning the people around Charlie Kirk, who she says potentially have a billion-dollar motive for him not to be there, is not unreasonable.",
       "anchored_artifacts": [],
@@ -4022,8 +4022,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14378",
-      "ref": "C-14378",
+      "@id": "C-6407",
+      "ref": "C-6407",
       "label": "Host Says Any Upscrolled Account Under Her Name Is Not Hers",
       "claim": "The host says she is not on Upscrolled and that she thinks someone made an account for her.",
       "anchored_artifacts": [],
@@ -4040,8 +4040,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14379",
-      "ref": "C-14379",
+      "@id": "C-6409",
+      "ref": "C-6409",
       "label": "Host Reads That 'Street Light Interference' Is a Named Phenomenon",
       "claim": "The host reads from a search result that the phenomenon of street lights turning off or flickering when a person approaches is called street light interference.",
       "anchored_artifacts": [
@@ -4059,8 +4059,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14380",
-      "ref": "C-14380",
+      "@id": "C-6410",
+      "ref": "C-6410",
       "label": "Host Says Both She and Erika Reported Lights Going Out Around Charlie",
       "claim": "The host says that her account and Erika's account that street lights went out when Charlie ran are consistent and not something to make up.",
       "anchored_artifacts": [
@@ -4076,7 +4076,7 @@
       "investigative_direction": "Erika Kirk's Megyn Kelly interview clip and the host's earlier recollection.",
       "transcript_snippet": "Like, like Erika's telling the truth, I'm telling the truth. Like, that's just a random thing to make up that when Charlie ran street lights went out, it's just real.",
       "supports_claim_refs": [
-        "C-2348"
+        "C-6408"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -4086,8 +4086,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14381",
-      "ref": "C-14381",
+      "@id": "C-6411",
+      "ref": "C-6411",
       "label": "Host Says Charlie Spoke to Her About His Third Eye in 2018 and She Has It in Writing",
       "claim": "The host says Charlie Kirk spoke to her about his third eye in 2018 and that she has this in writing.",
       "anchored_artifacts": [
@@ -4109,8 +4109,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14382",
-      "ref": "C-14382",
+      "@id": "C-6412",
+      "ref": "C-6412",
       "label": "Host Says the Government Is Trying to Poison Pineal Glands via Fluoride",
       "claim": "The host says the government is trying to poison people's pineal glands and that looking at fluoride shows it is very real.",
       "anchored_artifacts": [],
@@ -4126,8 +4126,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14383",
-      "ref": "C-14383",
+      "@id": "C-6413",
+      "ref": "C-6413",
       "label": "Host Guesses a Coach Introducing the Third-Eye Practice Led Charlie to Christian Faith",
       "claim": "The host says her guess is that the practice Charlie described, linked to a coach she cannot identify, is what ultimately brought Charlie to the Christian faith.",
       "anchored_artifacts": [
@@ -4149,8 +4149,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14384",
-      "ref": "C-14384",
+      "@id": "C-6414",
+      "ref": "C-6414",
       "label": "Host Says Charlie Had a Bad Experience and She Will Show the Messages Another Time",
       "claim": "The host says Charlie had a bad experience and that she can show the messages another time, maybe tomorrow.",
       "anchored_artifacts": [
@@ -4172,8 +4172,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14385",
-      "ref": "C-14385",
+      "@id": "C-6415",
+      "ref": "C-6415",
       "label": "Host Asks Again for Tips on the Tucson Thomas Martin",
       "claim": "Closing the episode, the host asks viewers who know anything about the Tucson Thomas Martin of the Southern Command, not Thomas G. Martin of Buffalo, to email the more-tips address.",
       "anchored_artifacts": [

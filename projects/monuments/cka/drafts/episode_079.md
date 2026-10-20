@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep079): N-10544
   - Tip-minted Nodes (reintro-ep079): N-11145
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10e): C-11235–C-11294
+  - Claim Range: C-7072–C-7149
   - New Nodes Introduced: N-590, N-593, N-10542
   - Reused Nodes Appearing: N-101, N-5, N-377, N-10539, N-10540, N-592, N-594, N-10541, N-10543, N-2, N-4, N-9, N-37, N-40, N-46, N-178, N-204, N-244, N-268, N-390, N-520, N-10000, N-10082, N-10083, N-10132, N-10236, N-10237, N-10268, N-10386, N-10391, N-10406, N-10900, N-10962, N-11064, N-11096, N-11103, N-11128, N-11228, N-591, N-11057, N-10674
   - (see registers)
@@ -211,7 +211,7 @@ Video Timestamp: 00:08:50–00:09:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads message contents verbatim)
 
-*Related: C-2476, C-2478, N-1, N-3, N-97, N-10543*
+*Related: C-7081, C-7108, N-1, N-3, N-97, N-10543*
 
 **A-1846.2** Charlie Kirk text re: Talmud ("There are some verses in the Talmud that will blow your mind." / "The Talmud is not biblical, but it is their rabbinical interpretations of Judaism." / "thought crime")
 
@@ -221,7 +221,7 @@ Video Timestamp: 00:09:46–00:10:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2477, N-1, N-3, N-97*
+*Related: C-7085, N-1, N-3, N-97*
 
 **A-1846.3** Charlie Kirk text re: Meghan McCain ("Disgrace. They are a disgrace family. A disgraceful family for the ways in which they have betrayed Americans and allowed for mass murder and bloody wars overseas.")
 
@@ -231,7 +231,7 @@ Video Timestamp: 00:21:32–00:21:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2478, N-1, N-3, N-590*
+*Related: C-7108, N-1, N-3, N-590*
 
 ---
 
@@ -245,7 +245,7 @@ Video Timestamp: 00:10:32–00:13:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads full exchange)
 
-*Related: C-2479, C-2480, N-1, N-591, N-5, N-10539*
+*Related: C-7087, C-7091, N-1, N-591, N-5, N-10539*
 
 ---
 
@@ -259,7 +259,7 @@ Video Timestamp: 00:07:35–00:08:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads Milo and Charlie's words verbatim)
 
-*Related: C-2481, N-220, N-97, N-10543*
+*Related: C-7078, N-220, N-97, N-10543*
 
 ---
 
@@ -273,7 +273,7 @@ Video Timestamp: 00:20:00–00:20:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads verbatim)
 
-*Related: C-2482, N-590, N-3*
+*Related: C-7106, N-590, N-3*
 
 ---
 
@@ -287,7 +287,7 @@ Video Timestamp: 00:13:29–00:16:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads verbatim)
 
-*Related: C-2483, N-159, N-97, N-10543*
+*Related: C-7095, N-159, N-97, N-10543*
 
 ---
 
@@ -301,7 +301,7 @@ Video Timestamp: 00:18:54–00:20:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2484, N-97, N-101, N-3*
+*Related: C-7104, N-97, N-101, N-3*
 
 ---
 
@@ -315,7 +315,7 @@ Video Timestamp: 00:24:34–00:25:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2485, N-592, N-5, N-10541*
+*Related: C-7113, N-592, N-5, N-10541*
 
 ---
 
@@ -329,7 +329,7 @@ Video Timestamp: 00:31:42–00:34:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2486, N-5, N-10541*
+*Related: C-7120, N-5, N-10541*
 
 ---
 
@@ -343,7 +343,7 @@ Video Timestamp: 00:41:23–00:43:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2487, N-22, N-5, N-10540*
+*Related: C-7134, N-22, N-5, N-10540*
 
 ---
 
@@ -357,7 +357,7 @@ Video Timestamp: 00:26:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (verbatim read; original source not displayed)
 
-*Related: C-2488, N-10541, N-5*
+*Related: C-7116, N-10541, N-5*
 
 **A-1855.2** Statement attributed to the EU: "It is in our interest to keep the Strait of Hormuz open, and that's why we are also discussing what we can do in this regard."
 
@@ -367,7 +367,7 @@ Video Timestamp: 00:26:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2488, N-10541*
+*Related: C-7116, N-10541*
 
 **A-1855.3** Statement attributed to Britain: "While taking the necessary action to defend ourselves and our allies, we will not be drawn into the wider war."
 
@@ -377,7 +377,7 @@ Video Timestamp: 00:26:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2488, N-10541*
+*Related: C-7116, N-10541*
 
 **A-1855.4** Statement attributed to Australia: "Australia does not intend to send ships into the Strait of Hormuz."
 
@@ -387,7 +387,7 @@ Video Timestamp: 00:26:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2488, N-10541*
+*Related: C-7116, N-10541*
 
 **A-1855.5** Statement attributed to Japan: "We have not made any decisions whatsoever about dispatching escort ships."
 
@@ -397,7 +397,7 @@ Video Timestamp: 00:26:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2488, N-10541*
+*Related: C-7116, N-10541*
 
 **A-1855.6** Statement attributed to China: "The recent tense situation in the strait and the waters nearby has impacted the route for international goods and energy trade, disrupting peace and stability in the region and beyond."
 
@@ -407,7 +407,7 @@ Video Timestamp: 00:26:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2488, N-10541*
+*Related: C-7116, N-10541*
 
 **A-1855.7** Statement attributed to Italian Prime Minister Giorgia Meloni describing the war as part of a "growing and dangerous trend of interventions that sit outside the scope of international law."
 
@@ -417,7 +417,7 @@ Video Timestamp: 00:27:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2488, N-593, N-10541*
+*Related: C-7116, N-593, N-10541*
 
 **A-1855.8** Statement attributed to Spain: "Spain will never accept any stopgap measures because the objective must be for the war to end and for it to end now."
 
@@ -427,7 +427,7 @@ Video Timestamp: 00:28:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2488, N-10541*
+*Related: C-7116, N-10541*
 
 **A-1855.9** Statement attributed to South Korea: "We will continue to communicate closely with the US while carefully reviewing the situation before making a decision."
 
@@ -437,7 +437,7 @@ Video Timestamp: 00:28:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2488, N-10541*
+*Related: C-7116, N-10541*
 
 **A-1855.10** Statement attributed to France / Emmanuel Macron: France willing to use French navy to escort ships only if the conflict stabilized.
 
@@ -447,7 +447,7 @@ Video Timestamp: 00:28:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2488, N-377, N-10541*
+*Related: C-7116, N-377, N-10541*
 
 ---
 
@@ -461,7 +461,7 @@ Video Timestamp: 00:36:50–00:40:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads her own piece verbatim)
 
-*Related: C-2493, N-3, N-594, N-10543*
+*Related: C-7126, N-3, N-594, N-10543*
 
 ---
 
@@ -475,7 +475,7 @@ Video Timestamp: 00:44:36–00:45:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (verbatim read; original screen not displayed)
 
-*Related: C-2489, N-222, N-22, N-10540*
+*Related: C-7139, N-222, N-22, N-10540*
 
 ---
 
@@ -489,7 +489,7 @@ Video Timestamp: 00:45:22–00:46:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2490, N-22, N-10540*
+*Related: C-7140, N-22, N-10540*
 
 ---
 
@@ -503,7 +503,7 @@ Video Timestamp: 00:46:20–00:47:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2491, N-22, N-10540*
+*Related: C-7142, N-22, N-10540*
 
 ---
 
@@ -517,7 +517,7 @@ Video Timestamp: 00:34:14–00:35:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (read aloud; original screen not displayed)
 
-*Related: C-2492, N-5, N-10542*
+*Related: C-7122, N-5, N-10542*
 
 ---
 
@@ -532,7 +532,7 @@ Video Timestamp: 00:05:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11237, N-97, N-46, N-204*
+*Related: C-7074, N-97, N-46, N-204*
 
 ---
 
@@ -545,7 +545,7 @@ Video Timestamp: 00:05:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11238, N-46, N-97*
+*Related: C-7075, N-46, N-97*
 
 ---
 
@@ -558,7 +558,7 @@ Video Timestamp: 00:06:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11239, N-97, N-46, N-2*
+*Related: C-7076, N-97, N-46, N-2*
 
 ---
 
@@ -571,7 +571,7 @@ Video Timestamp: 00:23:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11264, N-3*
+*Related: C-7110, N-3*
 
 ---
 
@@ -584,7 +584,7 @@ Video Timestamp: 00:40:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11282, N-3*
+*Related: C-7133, N-3*
 
 ---
 
@@ -599,7 +599,7 @@ Video Timestamp: 00:50:39
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11290, N-1, N-9*
+*Related: C-7145, N-1, N-9*
 
 ---
 
@@ -612,7 +612,7 @@ Video Timestamp: 00:53:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11292, C-11293, N-22*
+*Related: C-7147, C-7148, N-22*
 
 ---
 
@@ -628,7 +628,7 @@ Claim Count: 7
 Episode Count: Multiple (longitudinal)
 Investigative Pressure: High
 
-*Related: A-1846.1, A-1846.2, A-1846.3, A-1847.1, A-1848.1, A-1850.1, C-2476, C-2477, C-2478, C-2479, C-2480, C-2481, C-2483, N-10543*
+*Related: A-1846.1, A-1846.2, A-1846.3, A-1847.1, A-1848.1, A-1850.1, C-7081, C-7085, C-7108, C-7087, C-7091, C-7078, C-7095, N-10543*
 
 ---
 
@@ -641,7 +641,7 @@ Claim Count: 3
 Episode Count: Multiple
 Investigative Pressure: High
 
-*Related: A-1847.1, A-1852.1, A-1853.1, A-1854.1, A-1860.1, C-2479, C-2485, C-2486, C-2488, C-2492, N-10541*
+*Related: A-1847.1, A-1852.1, A-1853.1, A-1854.1, A-1860.1, C-7087, C-7113, C-7120, C-7116, C-7122, N-10541*
 
 ---
 
@@ -667,7 +667,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1846.1, A-1846.2, A-1848.1, A-1850.1, A-1851.1, C-2476, C-2478, C-2481, C-2483, C-2484, N-10543*
+*Related: A-1846.1, A-1846.2, A-1848.1, A-1850.1, A-1851.1, C-7081, C-7108, C-7078, C-7095, C-7104, N-10543*
 
 ---
 
@@ -680,7 +680,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1846.3, A-1849.1, C-2478, C-2482, N-1, N-3*
+*Related: A-1846.3, A-1849.1, C-7108, C-7106, N-1, N-3*
 
 ---
 
@@ -693,7 +693,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1847.1, C-2479, C-2480, N-10539*
+*Related: A-1847.1, C-7087, C-7091, N-10539*
 
 ---
 
@@ -706,7 +706,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1848.1, C-2481, N-97*
+*Related: A-1848.1, C-7078, N-97*
 
 ---
 
@@ -719,7 +719,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1850.1, C-2483, N-97, N-10543*
+*Related: A-1850.1, C-7095, N-97, N-10543*
 
 ---
 
@@ -732,7 +732,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1851.1, C-2484, N-3, N-97*
+*Related: A-1851.1, C-7104, N-3, N-97*
 
 ---
 
@@ -745,7 +745,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1852.1, C-2485, N-5, N-10541*
+*Related: A-1852.1, C-7113, N-5, N-10541*
 
 ---
 
@@ -758,7 +758,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1854.1, A-1857.1, A-1858.1, A-1859.1, C-2487, C-2489, C-2490, C-2491, N-5, N-10540*
+*Related: A-1854.1, A-1857.1, A-1858.1, A-1859.1, C-7134, C-7139, C-7140, C-7142, N-5, N-10540*
 
 ---
 
@@ -771,7 +771,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1855.7, C-2488, N-10541*
+*Related: A-1855.7, C-7116, N-10541*
 
 ---
 
@@ -784,7 +784,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1855.10, C-2488, N-10541*
+*Related: A-1855.10, C-7116, N-10541*
 
 ---
 
@@ -797,7 +797,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1856.1, C-2493, N-3*
+*Related: A-1856.1, C-7126, N-3*
 
 ---
 
@@ -810,7 +810,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1857.1, C-2489, N-22, N-10540*
+*Related: A-1857.1, C-7139, N-22, N-10540*
 
 ---
 
@@ -823,7 +823,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1847.1, C-2479, C-2480, N-1, N-591, N-5*
+*Related: A-1847.1, C-7087, C-7091, N-1, N-591, N-5*
 
 ---
 
@@ -836,7 +836,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1854.1, A-1857.1, A-1858.1, A-1859.1, C-2487, C-2489, C-2490, C-2491, N-22*
+*Related: A-1854.1, A-1857.1, A-1858.1, A-1859.1, C-7134, C-7139, C-7140, C-7142, N-22*
 
 ---
 
@@ -849,7 +849,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1852.1, A-1853.1, A-1855.1 through A-1855.10, A-1860.1, C-2485, C-2486, C-2488, N-5, N-36*
+*Related: A-1852.1, A-1853.1, A-1855.1 through A-1855.10, A-1860.1, C-7113, C-7120, C-7116, N-5, N-36*
 
 ---
 
@@ -862,7 +862,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1860.1, C-2492, N-5*
+*Related: A-1860.1, C-7122, N-5*
 
 ---
 
@@ -875,7 +875,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1846.1, A-1847.1, A-1848.1, A-1850.1, A-1856.1, C-2476, C-2478, C-2480, C-2481, C-2483, C-2493, N-97*
+*Related: A-1846.1, A-1847.1, A-1848.1, A-1850.1, A-1856.1, C-7081, C-7108, C-7091, C-7078, C-7095, C-7126, N-97*
 
 ---
 
@@ -883,7 +883,7 @@ Investigative Pressure: High
 
 Widow and TPUSA CEO; the Shapiro reply cites her and Knowles is pressed about attacks on her (transcribed Erika Kirk). Alias: Erika Kirk (as transcribed).
 
-*Related: C-11239, C-11247, C-11261, A-3123.3*
+*Related: C-7076, C-7088, C-7105, A-3123.3*
 
 ---
 
@@ -891,7 +891,7 @@ Widow and TPUSA CEO; the Shapiro reply cites her and Knowles is pressed about at
 
 Host; speaks for herself and reads the messages, posts and comments.
 
-*Related: C-11235, C-11236, C-11237, C-11238, C-11239, C-11240, C-11241, C-11242, C-11243, C-11244, C-11245, C-11246, C-11247, C-11254, C-11255, C-11256, C-11257, C-11258, C-11259, C-11260, C-11261, C-11262, C-11263, C-11264, C-11265, C-11266, C-11267, C-11268, C-11269, C-11270, C-11271, C-11272, C-11273, C-11274, C-11275, C-11276, C-11277, C-11278, C-11279, C-11280, C-11281, C-11282, C-11286, C-11287, C-11288, C-11289, C-11290, C-11291, C-11292, C-11293, C-11294, A-3124.1, A-3125.1*
+*Related: C-7072, C-7073, C-7074, C-7075, C-7076, C-7077, C-7079, C-7080, C-7082, C-7083, C-7084, C-7086, C-7088, C-7097, C-7098, C-7099, C-7100, C-7101, C-7102, C-7103, C-7105, C-7107, C-7109, C-7110, C-7111, C-7112, C-7114, C-7115, C-7117, C-7118, C-7119, C-7121, C-7123, C-7124, C-7125, C-7127, C-7128, C-7129, C-7130, C-7131, C-7132, C-7133, C-7138, C-7141, C-7143, C-7144, C-7145, C-7146, C-7147, C-7148, C-7149, A-3124.1, A-3125.1*
 
 ---
 
@@ -899,7 +899,7 @@ Host; speaks for herself and reads the messages, posts and comments.
 
 Named in the Neff post as one of Kirk's favorite politicians.
 
-*Related: C-11253*
+*Related: C-7096*
 
 ---
 
@@ -907,7 +907,7 @@ Named in the Neff post as one of Kirk's favorite politicians.
 
 Named in a viewer comment on Kirk's three positions.
 
-*Related: C-11290, A-3126.1*
+*Related: C-7145, A-3126.1*
 
 ---
 
@@ -915,7 +915,7 @@ Named in a viewer comment on Kirk's three positions.
 
 Billionaire the host says retweeted attacks on her.
 
-*Related: C-11286*
+*Related: C-7138*
 
 ---
 
@@ -923,7 +923,7 @@ Billionaire the host says retweeted attacks on her.
 
 Accused in the Kirk shooting; host says the narrative around him is failing.
 
-*Related: C-11288*
+*Related: C-7143*
 
 ---
 
@@ -931,7 +931,7 @@ Accused in the Kirk shooting; host says the narrative around him is failing.
 
 Journalist in the Shapiro dispute; her reply is read by the host.
 
-*Related: C-11237, C-11238, C-11239, C-11240, C-11258, A-3123.1, A-3123.2, A-3123.3*
+*Related: C-7074, C-7075, C-7076, C-7077, C-7101, A-3123.1, A-3123.2, A-3123.3*
 
 ---
 
@@ -939,7 +939,7 @@ Journalist in the Shapiro dispute; her reply is read by the host.
 
 Author of the list the host says was never published.
 
-*Related: C-11287*
+*Related: C-7141*
 
 ---
 
@@ -947,7 +947,7 @@ Author of the list the host says was never published.
 
 The host says he is running the White House.
 
-*Related: C-11294*
+*Related: C-7149*
 
 ---
 
@@ -955,7 +955,7 @@ The host says he is running the White House.
 
 Journalist Shapiro is said to have attacked.
 
-*Related: C-11237, A-3123.1*
+*Related: C-7074, A-3123.1*
 
 ---
 
@@ -963,7 +963,7 @@ Journalist Shapiro is said to have attacked.
 
 Radio host the host links to pro-war pressure on Carlson.
 
-*Related: C-11236, C-11281*
+*Related: C-7073, C-7132*
 
 ---
 
@@ -971,7 +971,7 @@ Radio host the host links to pro-war pressure on Carlson.
 
 Podcaster the host says she ties in rankings.
 
-*Related: C-11280*
+*Related: C-7131*
 
 ---
 
@@ -979,7 +979,7 @@ Podcaster the host says she ties in rankings.
 
 Late publisher whose legacy the host says Shapiro tried to recreate.
 
-*Related: C-11255*
+*Related: C-7098*
 
 ---
 
@@ -987,7 +987,7 @@ Late publisher whose legacy the host says Shapiro tried to recreate.
 
 Family the host asserts created Israel and Macron.
 
-*Related: C-11269*
+*Related: C-7117*
 
 ---
 
@@ -995,7 +995,7 @@ Family the host asserts created Israel and Macron.
 
 Organization whose conduct the host criticizes.
 
-*Related: C-11246, C-11247, C-11257, C-11290*
+*Related: C-7086, C-7088, C-7100, C-7145*
 
 ---
 
@@ -1003,7 +1003,7 @@ Organization whose conduct the host criticizes.
 
 CIA, the agency in Carlson's account.
 
-*Related: C-11283, C-11285, C-11293*
+*Related: C-7135, C-7137, C-7148*
 
 ---
 
@@ -1011,7 +1011,7 @@ CIA, the agency in Carlson's account.
 
 Lobby the commenter says is an unregistered foreign agent.
 
-*Related: C-11293*
+*Related: C-7148*
 
 ---
 
@@ -1019,7 +1019,7 @@ Lobby the commenter says is an unregistered foreign agent.
 
 Existing topic on a TPUSA audit.
 
-*Related: C-11290*
+*Related: C-7145*
 
 ---
 
@@ -1027,7 +1027,7 @@ Existing topic on a TPUSA audit.
 
 Existing topic on a Kelly tour event.
 
-*Related: C-11258*
+*Related: C-7101*
 
 ---
 
@@ -1035,7 +1035,7 @@ Existing topic on a Kelly tour event.
 
 Existing topic on Shapiro's statements about the host's accusations.
 
-*Related: C-11239*
+*Related: C-7076*
 
 ---
 
@@ -1043,7 +1043,7 @@ Existing topic on Shapiro's statements about the host's accusations.
 
 Existing topic on AmFest speaker removals and donor pressure.
 
-*Related: C-11256, C-11257*
+*Related: C-7099, C-7100*
 
 ---
 
@@ -1051,7 +1051,7 @@ Existing topic on AmFest speaker removals and donor pressure.
 
 Existing topic on Shapiro's alleged takeover pattern.
 
-*Related: C-11240, C-11256*
+*Related: C-7077, C-7099*
 
 ---
 
@@ -1059,7 +1059,7 @@ Existing topic on Shapiro's alleged takeover pattern.
 
 Existing topic on Daily Wire founding narrative.
 
-*Related: C-11255*
+*Related: C-7098*
 
 ---
 
@@ -1067,7 +1067,7 @@ Existing topic on Daily Wire founding narrative.
 
 Existing topic on attacks on Kelly.
 
-*Related: C-11237, C-11238*
+*Related: C-7074, C-7075*
 
 ---
 
@@ -1075,7 +1075,7 @@ Existing topic on attacks on Kelly.
 
 Existing topic on Netanyahu status verification.
 
-*Related: C-11270, C-11271*
+*Related: C-7118, C-7119*
 
 ---
 
@@ -1083,7 +1083,7 @@ Existing topic on Netanyahu status verification.
 
 Existing topic on the June 18 White House meeting.
 
-*Related: C-11248*
+*Related: C-7089*
 
 ---
 
@@ -1091,7 +1091,7 @@ Existing topic on the June 18 White House meeting.
 
 Organization tied to Shapiro and the host's former employment.
 
-*Related: C-11255, C-11259*
+*Related: C-7098, C-7102*
 
 ---
 
@@ -1099,7 +1099,7 @@ Organization tied to Shapiro and the host's former employment.
 
 Place named in the oil shipment claim.
 
-*Related: C-11289*
+*Related: C-7144*
 
 ---
 
@@ -1107,7 +1107,7 @@ Place named in the oil shipment claim.
 
 Existing topic on Neff's employment history.
 
-*Related: C-11254*
+*Related: C-7097*
 
 ---
 
@@ -1115,7 +1115,7 @@ Existing topic on Neff's employment history.
 
 Existing topic on the Shapiro and Kirk friendship narrative.
 
-*Related: C-11240, C-11246*
+*Related: C-7077, C-7086*
 
 ---
 
@@ -1123,7 +1123,7 @@ Existing topic on the Shapiro and Kirk friendship narrative.
 
 Existing topic on TikTok moderation claims.
 
-*Related: C-11277*
+*Related: C-7128*
 
 ---
 
@@ -1131,7 +1131,7 @@ Existing topic on TikTok moderation claims.
 
 Platform named in the host's article.
 
-*Related: C-11277*
+*Related: C-7128*
 
 ---
 
@@ -1139,7 +1139,7 @@ Platform named in the host's article.
 
 Existing topic on the Iran war betrayal thesis.
 
-*Related: C-11242, C-11249, C-11265, C-11278, C-11288*
+*Related: C-7080, C-7090, C-7111, C-7129, C-7143*
 
 ---
 
@@ -1147,7 +1147,7 @@ Existing topic on the Iran war betrayal thesis.
 
 Place of the school strike the host cites.
 
-*Related: C-11266, C-11291, C-11292*
+*Related: C-7112, C-7146, C-7147*
 
 ---
 
@@ -1155,7 +1155,7 @@ Place of the school strike the host cites.
 
 Existing topic on the host's podcast ranking.
 
-*Related: C-11280, C-11281*
+*Related: C-7131, C-7132*
 
 ---
 
@@ -1164,7 +1164,7 @@ Existing topic on the host's podcast ranking.
 Node Type: Topic
 The host's claim that supporters of the Iran war faked polls and deployed bots and sock puppets in comment sections to simulate support.
 
-*Related: C-11274, C-11275, C-11276*
+*Related: C-7124, C-7125, C-7127*
 
 ---
 
@@ -1173,13 +1173,13 @@ The host's claim that supporters of the Iran war faked polls and deployed bots a
 Node Type: Topic
 Pop-culture style memes (Mortal Kombat, Power Rangers) the host says the White House posted about the Iran operation.
 
-*Related: C-11235, C-11282*
+*Related: C-7072, C-7133*
 
 ---
 
 ## 5. Claim Register
 
-**C-2476** Charlie Kirk characterized Ben Shapiro as "unhinged" in private text to Candace Owens
+**C-7081** Charlie Kirk characterized Ben Shapiro as "unhinged" in private text to Candace Owens
 
 Claim Timestamp: 00:08:50–00:09:46
 
@@ -1194,7 +1194,7 @@ Investigative Direction: Obtain device-level forensic verification of the text m
 
 ---
 
-**C-2477** Charlie Kirk acknowledged awareness of "verses in the Talmud" described as having "inherent vitriol toward Christianity"
+**C-7085** Charlie Kirk acknowledged awareness of "verses in the Talmud" described as having "inherent vitriol toward Christianity"
 
 Claim Timestamp: 00:09:46–00:10:32
 
@@ -1209,7 +1209,7 @@ Investigative Direction: Cross-reference against Charlie Kirk's public statement
 
 ---
 
-**C-2478** Charlie Kirk privately characterized the McCain family as a "disgrace"
+**C-7108** Charlie Kirk privately characterized the McCain family as a "disgrace"
 
 Claim Timestamp: 00:21:32–00:21:48
 
@@ -1224,7 +1224,7 @@ Investigative Direction: Forensic verification of the message; examine whether C
 
 ---
 
-**C-2479** Bret Weinstein Says Charlie Kirk Spent Two Days at the White House in June Lobbying Trump Against an Iran War
+**C-7087** Bret Weinstein Says Charlie Kirk Spent Two Days at the White House in June Lobbying Trump Against an Iran War
 
 Claim Timestamp: 00:10:32–00:13:29
 
@@ -1239,7 +1239,7 @@ Investigative Direction: Verify White House visitor logs for Charlie Kirk on Jun
 
 ---
 
-**C-2480** Bret Weinstein Wrote Neocons Must Be Shut Down and Charlie Kirk Agreed
+**C-7091** Bret Weinstein Wrote Neocons Must Be Shut Down and Charlie Kirk Agreed
 
 Claim Timestamp: 00:11:38–00:12:38
 
@@ -1254,7 +1254,7 @@ Investigative Direction: Verify original message; cross-reference with contempor
 
 ---
 
-**C-2481** Milo Yiannopoulos Says Ben Shapiro Sought to Commission Hit Jobs on Turning Point USA a Decade Ago
+**C-7078** Milo Yiannopoulos Says Ben Shapiro Sought to Commission Hit Jobs on Turning Point USA a Decade Ago
 
 Claim Timestamp: 00:07:35–00:08:50
 
@@ -1269,7 +1269,7 @@ Investigative Direction: Forensic verification of messages; corroborate with ind
 
 ---
 
-**C-2482** Meghan McCain posted on X calling those sharing dead people's text messages "absolute psychopaths"
+**C-7106** Meghan McCain posted on X calling those sharing dead people's text messages "absolute psychopaths"
 
 Claim Timestamp: 00:20:00–00:20:51
 
@@ -1283,7 +1283,7 @@ Investigative Direction: Direct retrieval of the original X post via archive.
 
 ---
 
-**C-2483** Blake Neff acknowledged Charlie Kirk and Ben Shapiro were rivals
+**C-7095** Blake Neff acknowledged Charlie Kirk and Ben Shapiro were rivals
 
 Claim Timestamp: 00:13:29–00:16:34
 
@@ -1298,7 +1298,7 @@ Investigative Direction: Direct retrieval of the original X post via archive.
 
 ---
 
-**C-2484** Ben Shapiro Publicly Pressed Michael Knowles to Denounce Candace Owens
+**C-7104** Ben Shapiro Publicly Pressed Michael Knowles to Denounce Candace Owens
 
 Claim Timestamp: 00:18:54–00:20:00
 
@@ -1312,7 +1312,7 @@ Investigative Direction: Obtain the full unedited video clip; verify date and ve
 
 ---
 
-**C-2485** Pete Hegseth stated the Strait of Hormuz was open for transit "should Iran not" shoot at shipping
+**C-7113** Pete Hegseth stated the Strait of Hormuz was open for transit "should Iran not" shoot at shipping
 
 Claim Timestamp: 00:24:34–00:25:35
 
@@ -1327,7 +1327,7 @@ Investigative Direction: Obtain the full press exchange transcript and date.
 
 ---
 
-**C-2486** Donald Trump stated the US went to war with Iran "out of habit"
+**C-7120** Donald Trump stated the US went to war with Iran "out of habit"
 
 Claim Timestamp: 00:31:42–00:34:14
 
@@ -1342,7 +1342,7 @@ Investigative Direction: Obtain full transcript and verify date.
 
 ---
 
-**C-2487** Tucker Carlson Says the CIA Is Preparing a Criminal Referral Against Him
+**C-7134** Tucker Carlson Says the CIA Is Preparing a Criminal Referral Against Him
 
 Claim Timestamp: 00:41:23–00:43:44
 
@@ -1357,7 +1357,7 @@ Investigative Direction: Verify date of Tucker's disclosure; obtain any DOJ or C
 
 ---
 
-**C-2488** Germany, EU, Britain, Australia, Japan, China, Italy, Spain, South Korea, and France declined or conditioned participation in Strait of Hormuz escort operations
+**C-7116** Germany, EU, Britain, Australia, Japan, China, Italy, Spain, South Korea, and France declined or conditioned participation in Strait of Hormuz escort operations
 
 Claim Timestamp: 00:26:19–00:28:13
 
@@ -1372,7 +1372,7 @@ Investigative Direction: Obtain original government press releases or transcript
 
 ---
 
-**C-2489** Randy Fine publicly cited Genesis 12:3 in connection with Tucker Carlson's legal jeopardy
+**C-7139** Randy Fine publicly cited Genesis 12:3 in connection with Tucker Carlson's legal jeopardy
 
 Claim Timestamp: 00:44:36–00:45:22
 
@@ -1387,7 +1387,7 @@ Investigative Direction: Retrieve original X post via archive.
 
 ---
 
-**C-2490** Laura Loomer publicly claimed to possess a list of conservatives allegedly taking money from Iran, Russia, and Qatar
+**C-7140** Laura Loomer publicly claimed to possess a list of conservatives allegedly taking money from Iran, Russia, and Qatar
 
 Claim Timestamp: 00:45:22–00:46:20
 
@@ -1402,7 +1402,7 @@ Investigative Direction: Verify whether the list has ever been published publicl
 
 ---
 
-**C-2491** Alex Stein Tweeted About Tucker Carlson Being Arrested Before Anyone on the Epstein List
+**C-7142** Alex Stein Tweeted About Tucker Carlson Being Arrested Before Anyone on the Epstein List
 
 Claim Timestamp: 00:46:20–00:47:29
 
@@ -1417,7 +1417,7 @@ Investigative Direction: Retrieve original X post via archive.
 
 ---
 
-**C-2492** The US urged citizens to leave Iraq after a drone strike on the embassy in Baghdad
+**C-7122** The US urged citizens to leave Iraq after a drone strike on the embassy in Baghdad
 
 Claim Timestamp: 00:34:14–00:35:03
 
@@ -1432,7 +1432,7 @@ Investigative Direction: Obtain the original news article; verify date and sourc
 
 ---
 
-**C-2493** Candace Owens published an article arguing Zionists are attempting a "fake it till you make it" strategy on war
+**C-7126** Candace Owens published an article arguing Zionists are attempting a "fake it till you make it" strategy on war
 
 Claim Timestamp: 00:36:50–00:40:07
 
@@ -1447,7 +1447,7 @@ Investigative Direction: Retrieve the original published article (Substack or pl
 
 ---
 
-**C-11235** Host Says White House Posts Mortal Kombat Style Memes About Iran
+**C-7072** Host Says White House Posts Mortal Kombat Style Memes About Iran
 
 Claim Timestamp: 00:00:01
 
@@ -1463,7 +1463,7 @@ Investigative Direction: Capture the White House or official social accounts' Ir
 
 ---
 
-**C-11236** Host Says Trump Allowed Levin's Class to Go After Tucker Carlson
+**C-7073** Host Says Trump Allowed Levin's Class to Go After Tucker Carlson
 
 Claim Timestamp: 00:00:53
 
@@ -1479,7 +1479,7 @@ Investigative Direction: Collect Levin's and allied commentators' public calls t
 
 ---
 
-**C-11237** Host Says Shapiro Called Megyn Kelly a Coward and Piers Morgan a Click Whore
+**C-7074** Host Says Shapiro Called Megyn Kelly a Coward and Piers Morgan a Click Whore
 
 Claim Timestamp: 00:05:02
 
@@ -1495,7 +1495,7 @@ Investigative Direction: Retrieve Shapiro's original X posts about Kelly and Mor
 
 ---
 
-**C-11238** Host Reads Megyn Kelly Reply Calling Shapiro Poor Little Ben
+**C-7075** Host Reads Megyn Kelly Reply Calling Shapiro Poor Little Ben
 
 Claim Timestamp: 00:05:02
 
@@ -1511,7 +1511,7 @@ Investigative Direction: Retrieve Kelly's original reply post and check whether 
 
 ---
 
-**C-11239** Host Reads Shapiro Reply Saying Kelly Will Not Protect Kirk's Widow From the Monster
+**C-7076** Host Reads Shapiro Reply Saying Kelly Will Not Protect Kirk's Widow From the Monster
 
 Claim Timestamp: 00:06:01
 
@@ -1527,7 +1527,7 @@ Investigative Direction: Retrieve Shapiro's original reply post and check whethe
 
 ---
 
-**C-11240** Host Says Shapiro Worked Behind the Scenes Against Kirk's Rise
+**C-7077** Host Says Shapiro Worked Behind the Scenes Against Kirk's Rise
 
 Claim Timestamp: 00:06:43
 
@@ -1538,13 +1538,13 @@ Transcript Snippet: Ben operated behind the scenes to try to stop his rise the s
 Anchored Artifacts: 
 Mentions: N-97, N-1, N-3
 Related Nodes: N-10386, N-11064
-Supports: C-9471, C-2481
+Supports: C-2208, C-7078
 Tags: relevance:core
 Investigative Direction: Identify the journalists and pieces the host alleges were commissioned and obtain her contemporaneous messages with Kirk about them.
 
 ---
 
-**C-11241** Milo Says Kirk Talked Only About Candace and How Evil Shapiro Was
+**C-7079** Milo Says Kirk Talked Only About Candace and How Evil Shapiro Was
 
 Claim Timestamp: 00:07:35
 
@@ -1555,13 +1555,13 @@ Transcript Snippet: all he talked about was how was how amazing Candace was and 
 Anchored Artifacts: A-1848.1
 Mentions: N-220, N-1, N-97, N-3
 Related Nodes: N-10543
-Supports: C-2481
+Supports: C-7078
 Tags: relevance:core
 Investigative Direction: Ask Yiannopoulos for the original post and the messages he says Kirk showed him; verify against Kirk's phone records.
 
 ---
 
-**C-11242** Host Says Kirk Had Changed His Mind on Israel
+**C-7080** Host Says Kirk Had Changed His Mind on Israel
 
 Claim Timestamp: 00:07:35
 
@@ -1577,7 +1577,7 @@ Investigative Direction: Compare Kirk's pre-2025 and 2025 public statements on I
 
 ---
 
-**C-11243** Host Reads Kirk Text Backing Her Against Shapiro: Stand for Truth
+**C-7082** Host Reads Kirk Text Backing Her Against Shapiro: Stand for Truth
 
 Claim Timestamp: 00:08:50
 
@@ -1593,7 +1593,7 @@ Investigative Direction: Obtain device-level forensic verification of the thread
 
 ---
 
-**C-11244** Host Reads Kirk Text Joking That Shapiro Was Standing on a Couch
+**C-7083** Host Reads Kirk Text Joking That Shapiro Was Standing on a Couch
 
 Claim Timestamp: 00:08:50
 
@@ -1609,7 +1609,7 @@ Investigative Direction: Match the text's timestamp to the Shapiro table/couch i
 
 ---
 
-**C-11245** Host Says She Has About 300 Messages With Kirk Showing He Disliked Shapiro
+**C-7084** Host Says She Has About 300 Messages With Kirk Showing He Disliked Shapiro
 
 Claim Timestamp: 00:08:50
 
@@ -1625,7 +1625,7 @@ Investigative Direction: Request a count and an independent forensic export of t
 
 ---
 
-**C-11246** Host Says Turning Point Is Packaging Kirk as a Faithful Talmudic Jew Friend of Shapiro
+**C-7086** Host Says Turning Point Is Packaging Kirk as a Faithful Talmudic Jew Friend of Shapiro
 
 Claim Timestamp: 00:09:46
 
@@ -1636,13 +1636,13 @@ Transcript Snippet: they are now trying to package to us as like a faithful Talm
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-97
 Related Nodes: N-10000, N-10543, N-11064
-Supports: C-2477
+Supports: C-7085
 Tags: relevance:core
 Investigative Direction: Collect TPUSA statements and speeches since September 2025 that describe Kirk's views on Shapiro and the Talmud.
 
 ---
 
-**C-11247** Host Says Kirk's Wife at the Helm Could Stop the Reversal of His Views
+**C-7088** Host Says Kirk's Wife at the Helm Could Stop the Reversal of His Views
 
 Claim Timestamp: 00:10:32
 
@@ -1658,7 +1658,7 @@ Investigative Direction: Review TPUSA leadership communications under Erika Kirk
 
 ---
 
-**C-11248** Host Says Kirk Went Toe to Toe With Netanyahu and Won
+**C-7089** Host Says Kirk Went Toe to Toe With Netanyahu and Won
 
 Claim Timestamp: 00:10:32
 
@@ -1669,13 +1669,13 @@ Transcript Snippet: back when Charlie went toe-to-toe with Bibi Netanyahu and wo
 Anchored Artifacts: A-1847.1
 Mentions: N-1, N-36, N-5
 Related Nodes: N-10539, N-10674
-Supports: C-2479
+Supports: C-7087
 Tags: relevance:core
 Investigative Direction: Establish what direct contact, if any, Kirk had with Netanyahu in June 2025 and what Trump decided after the two White House days.
 
 ---
 
-**C-11249** Weinstein Says It Is Reasonable to Ask If Kirk's Opposition Led to His Murder
+**C-7090** Weinstein Says It Is Reasonable to Ask If Kirk's Opposition Led to His Murder
 
 Claim Timestamp: 00:10:32
 
@@ -1691,7 +1691,7 @@ Investigative Direction: Obtain Weinstein's original post and date; ask him what
 
 ---
 
-**C-11250** Weinstein Says a Good Investigation Could Have Settled the Matter
+**C-7092** Weinstein Says a Good Investigation Could Have Settled the Matter
 
 Claim Timestamp: 00:11:38
 
@@ -1707,7 +1707,7 @@ Investigative Direction: Obtain Weinstein's full post and identify which investi
 
 ---
 
-**C-11251** Weinstein Says Kirk's Death Removed Him and Likely Changed History
+**C-7093** Weinstein Says Kirk's Death Removed Him and Likely Changed History
 
 Claim Timestamp: 00:11:38
 
@@ -1723,7 +1723,7 @@ Investigative Direction: Find Kirk's recorded or texted worries about his own sa
 
 ---
 
-**C-11252** Kirk Text Says Dissident Media Cannot Yet Drive Real-Time Public Opinion
+**C-7094** Kirk Text Says Dissident Media Cannot Yet Drive Real-Time Public Opinion
 
 Claim Timestamp: 00:12:38
 
@@ -1739,7 +1739,7 @@ Investigative Direction: Verify the full June 18 thread, which the host says she
 
 ---
 
-**C-11253** Neff Post Says Shapiro Backed DeSantis While Kirk Was All In for Trump
+**C-7096** Neff Post Says Shapiro Backed DeSantis While Kirk Was All In for Trump
 
 Claim Timestamp: 00:13:29
 
@@ -1755,7 +1755,7 @@ Investigative Direction: Retrieve Neff's original post and verify Shapiro's 2024
 
 ---
 
-**C-11254** Host Says Neff Was Not Around for the Building of Turning Point
+**C-7097** Host Says Neff Was Not Around for the Building of Turning Point
 
 Claim Timestamp: 00:14:27
 
@@ -1771,7 +1771,7 @@ Investigative Direction: Establish Neff's start date at TPUSA and compare with t
 
 ---
 
-**C-11255** Host Says Shapiro Tried to Rebuild Breitbart's Legacy by Manufacturing a Scandal With the Daily Wire
+**C-7098** Host Says Shapiro Tried to Rebuild Breitbart's Legacy by Manufacturing a Scandal With the Daily Wire
 
 Claim Timestamp: 00:15:07
 
@@ -1787,7 +1787,7 @@ Investigative Direction: Ask the host what scandal she means and compare with th
 
 ---
 
-**C-11256** Host Says Shapiro Went to Donors and Squeezed Kirk Over Who He Could Speak To
+**C-7099** Host Says Shapiro Went to Donors and Squeezed Kirk Over Who He Could Speak To
 
 Claim Timestamp: 00:15:07
 
@@ -1798,13 +1798,13 @@ Transcript Snippet: he went behind the scenes with his connections to the donors
 Anchored Artifacts: 
 Mentions: N-97, N-1, N-3
 Related Nodes: N-10386, N-10268
-Supports: C-5352, C-9471
+Supports: C-4366, C-2208
 Tags: relevance:core
 Investigative Direction: Identify the donors and the speakers the host says Shapiro tried to bar, with dated messages or call logs.
 
 ---
 
-**C-11257** Host Says TPUSA Let Kirk's Rival Open AmFest While Dissing Kirk's Friends
+**C-7100** Host Says TPUSA Let Kirk's Rival Open AmFest While Dissing Kirk's Friends
 
 Claim Timestamp: 00:16:34
 
@@ -1815,13 +1815,13 @@ Transcript Snippet: they allowed Charlie's rival to open AmFest by dissing Charl
 Anchored Artifacts: 
 Mentions: N-97, N-1, N-3
 Related Nodes: N-10000, N-10268
-Supports: C-1980
+Supports: C-4393
 Tags: relevance:core
 Investigative Direction: Obtain the AmFest 2025 program and the video of the opening remarks and the invitation chain for Shapiro.
 
 ---
 
-**C-11258** Host Says Shapiro Publicly Put Megyn Kelly on the Spot on Her Tour Stage
+**C-7101** Host Says Shapiro Publicly Put Megyn Kelly on the Spot on Her Tour Stage
 
 Claim Timestamp: 00:17:31
 
@@ -1832,13 +1832,13 @@ Transcript Snippet: That's what he initially did to Megyn Kelly on her tour, no 
 Anchored Artifacts: 
 Mentions: N-97, N-46, N-3
 Related Nodes: N-10236
-Supports: C-1667
+Supports: C-2641
 Tags: relevance:context
 Investigative Direction: Obtain the video of the Kelly tour stop where Shapiro appeared and its date.
 
 ---
 
-**C-11259** Host Says Shapiro Stood on a Table and Called Her a Faux Sophisticate
+**C-7102** Host Says Shapiro Stood on a Table and Called Her a Faux Sophisticate
 
 Claim Timestamp: 00:17:31
 
@@ -1849,13 +1849,13 @@ Transcript Snippet: He infamously stood up on that table while I was employed by
 Anchored Artifacts: 
 Mentions: N-97, N-3
 Related Nodes: N-10900
-Supports: C-11244
+Supports: C-7083
 Tags: relevance:tangential
 Investigative Direction: Locate the video of the table moment and the date of the host's genocide tweet.
 
 ---
 
-**C-11260** Host Says Michael Knowles Is Godfather to Her Daughter
+**C-7103** Host Says Michael Knowles Is Godfather to Her Daughter
 
 Claim Timestamp: 00:18:11
 
@@ -1870,7 +1870,7 @@ Investigative Direction: Confirm through a baptismal record or a Knowles stateme
 
 ---
 
-**C-11261** Knowles Says in Clip It Is Wrong to Attack Erika but Will Not Say the Sentence
+**C-7105** Knowles Says in Clip It Is Wrong to Attack Erika but Will Not Say the Sentence
 
 Claim Timestamp: 00:18:54
 
@@ -1880,13 +1880,13 @@ Transcript Snippet: I I think that it's wrong to attack Erika Kirk.
 
 Anchored Artifacts: A-1851.1
 Mentions: N-101, N-97, N-2, N-3
-Supports: C-2484
+Supports: C-7104
 Tags: relevance:core
 Investigative Direction: Obtain the full video of the public discussion with its date and venue.
 
 ---
 
-**C-11262** Host Says the McCain Text Is Real and Shortened
+**C-7107** Host Says the McCain Text Is Real and Shortened
 
 Claim Timestamp: 00:20:51
 
@@ -1897,13 +1897,13 @@ Transcript Snippet: Yes, it's real. And I actually shortened it.
 Anchored Artifacts: A-1846.3
 Mentions: N-3, N-590, N-1
 Related Nodes: N-10543
-Supports: C-2478
+Supports: C-7108
 Tags: relevance:context
 Investigative Direction: Request the complete thread to compare with the excerpt read on air.
 
 ---
 
-**C-11263** Host Says 25 Percent of Global Liquid Petroleum Moves Through Hormuz
+**C-7109** Host Says 25 Percent of Global Liquid Petroleum Moves Through Hormuz
 
 Claim Timestamp: 00:22:59
 
@@ -1919,7 +1919,7 @@ Investigative Direction: Check EIA or IEA transit figures for the Strait of Horm
 
 ---
 
-**C-11264** Host Says Iran Is Shutting the Strait Because It Can
+**C-7110** Host Says Iran Is Shutting the Strait Because It Can
 
 Claim Timestamp: 00:23:10
 
@@ -1935,7 +1935,7 @@ Investigative Direction: Check shipping-traffic data and Iranian statements on t
 
 ---
 
-**C-11265** Host Says Nothing Was Happening Other Than Netanyahu Wanting the Fight With Iran
+**C-7111** Host Says Nothing Was Happening Other Than Netanyahu Wanting the Fight With Iran
 
 Claim Timestamp: 00:23:52
 
@@ -1951,7 +1951,7 @@ Investigative Direction: Compare the intelligence and diplomatic record before t
 
 ---
 
-**C-11266** Host Says the US Randomly Bombed 200 Schoolgirls and Trump Lied About It
+**C-7112** Host Says the US Randomly Bombed 200 Schoolgirls and Trump Lied About It
 
 Claim Timestamp: 00:23:52
 
@@ -1967,7 +1967,7 @@ Investigative Direction: Compare casualty counts and US statements on the Minab 
 
 ---
 
-**C-11267** Host Says Trump Is Demanding Ground Troops He Does Not Have
+**C-7114** Host Says Trump Is Demanding Ground Troops He Does Not Have
 
 Claim Timestamp: 00:25:35
 
@@ -1983,7 +1983,7 @@ Investigative Direction: Obtain the Trump statement or order the host refers to 
 
 ---
 
-**C-11268** Host Says Trump Is Going Around Asking Other Countries to Get Involved
+**C-7115** Host Says Trump Is Going Around Asking Other Countries to Get Involved
 
 Claim Timestamp: 00:25:35
 
@@ -1994,13 +1994,13 @@ Transcript Snippet: So, Trump is now reduced to going around and asking or deman
 Anchored Artifacts: 
 Mentions: N-5, N-3
 Related Nodes: N-10541
-Supports: C-2488
+Supports: C-7116
 Tags: relevance:context
 Investigative Direction: Collect Trump administration requests to allies for ships or troops for Hormuz operations.
 
 ---
 
-**C-11269** Host Says the Rothschilds Created Israel and Emmanuel Macron
+**C-7117** Host Says the Rothschilds Created Israel and Emmanuel Macron
 
 Claim Timestamp: 00:28:13
 
@@ -2015,7 +2015,7 @@ Investigative Direction: No primary record offered; ask the host for any documen
 
 ---
 
-**C-11270** Host Says Nobody Knows Where Netanyahu Is and His Videos Look AI
+**C-7118** Host Says Nobody Knows Where Netanyahu Is and His Videos Look AI
 
 Claim Timestamp: 00:28:13
 
@@ -2031,7 +2031,7 @@ Investigative Direction: Compile Netanyahu's dated public appearances in March 2
 
 ---
 
-**C-11271** Host Says She Thinks Netanyahu Is Dead but Does Not Know
+**C-7119** Host Says She Thinks Netanyahu Is Dead but Does Not Know
 
 Claim Timestamp: 00:29:05
 
@@ -2042,13 +2042,13 @@ Transcript Snippet: So, I think he's dead, I don't know.
 Anchored Artifacts: 
 Mentions: N-36, N-3
 Related Nodes: N-10544
-Supports: C-11270
+Supports: C-7118
 Tags: relevance:context
 Investigative Direction: Obtain proof-of-life reporting and Israeli government statements on his whereabouts.
 
 ---
 
-**C-11272** Host Says All Trump's Allies Told Him Not To Except Israel
+**C-7121** Host Says All Trump's Allies Told Him Not To Except Israel
 
 Claim Timestamp: 00:33:21
 
@@ -2059,13 +2059,13 @@ Transcript Snippet: They've all said don't do this except for Israel.
 Anchored Artifacts: 
 Mentions: N-5, N-3
 Related Nodes: N-10541
-Supports: C-2488
+Supports: C-7116
 Tags: relevance:context
 Investigative Direction: Collect regional allies' public statements before the strike and compare with Trump's claim of allies.
 
 ---
 
-**C-11273** Host Says the Baghdad Embassy Is the Biggest in the World
+**C-7123** Host Says the Baghdad Embassy Is the Biggest in the World
 
 Claim Timestamp: 00:34:14
 
@@ -2081,7 +2081,7 @@ Investigative Direction: Check the embassy compound's size against published fig
 
 ---
 
-**C-11274** Host Says Pro-War Polls Were Faked Right Before the Iran Strike
+**C-7124** Host Says Pro-War Polls Were Faked Right Before the Iran Strike
 
 Claim Timestamp: 00:35:39
 
@@ -2097,7 +2097,7 @@ Investigative Direction: Identify the specific polls and their methodology and c
 
 ---
 
-**C-11275** Host Says Bots Fill Every Comment Section Saying Everyone Wants to Bomb Iran
+**C-7125** Host Says Bots Fill Every Comment Section Saying Everyone Wants to Bomb Iran
 
 Claim Timestamp: 00:35:39
 
@@ -2113,7 +2113,7 @@ Investigative Direction: Use platform bot-detection or academic studies of Iran-
 
 ---
 
-**C-11276** Host's Article Says Zionists Bought Views and Activated Millions of Bots
+**C-7127** Host's Article Says Zionists Bought Views and Activated Millions of Bots
 
 Claim Timestamp: 00:36:50
 
@@ -2129,7 +2129,7 @@ Investigative Direction: Ask the host for the studies or documents behind the 'm
 
 ---
 
-**C-11277** Host's Article Says Zionists Staged an Open Takeover of TikTok
+**C-7128** Host's Article Says Zionists Staged an Open Takeover of TikTok
 
 Claim Timestamp: 00:36:50
 
@@ -2145,7 +2145,7 @@ Investigative Direction: Compare with the record of the TikTok divestiture and i
 
 ---
 
-**C-11278** Host's Article Says Most People Sense Kirk Was Murdered for Opposing the War
+**C-7129** Host's Article Says Most People Sense Kirk Was Murdered for Opposing the War
 
 Claim Timestamp: 00:37:36
 
@@ -2156,13 +2156,13 @@ Transcript Snippet: the overwhelming majority of people in the world sense that 
 Anchored Artifacts: A-1856.1
 Mentions: N-3, N-1
 Related Nodes: N-11128, N-10539
-Supports: C-2479
+Supports: C-7087
 Tags: relevance:core
 Investigative Direction: Seek polling on public belief about the motive for Kirk's killing.
 
 ---
 
-**C-11279** Host's Article Says Zionists Use Slander, Lawfare and Murder
+**C-7130** Host's Article Says Zionists Use Slander, Lawfare and Murder
 
 Claim Timestamp: 00:38:15
 
@@ -2177,7 +2177,7 @@ Investigative Direction: Ask the host which specific murders and lawsuits she me
 
 ---
 
-**C-11280** Host Says She and Joe Rogan Are in a Three-Way Tie for Top Podcast
+**C-7131** Host Says She and Joe Rogan Are in a Three-Way Tie for Top Podcast
 
 Claim Timestamp: 00:39:13
 
@@ -2193,7 +2193,7 @@ Investigative Direction: Check the chart provider and date of the ranking the ho
 
 ---
 
-**C-11281** Host Says Levin and Shapiro Rankings Are Bought Through Ads
+**C-7132** Host Says Levin and Shapiro Rankings Are Bought Through Ads
 
 Claim Timestamp: 00:39:13
 
@@ -2209,7 +2209,7 @@ Investigative Direction: Compare podcast-ranking data with disclosed ad spending
 
 ---
 
-**C-11282** Host Says White House Posted Power Rangers Style Victory Memes on Iran
+**C-7133** Host Says White House Posted Power Rangers Style Victory Memes on Iran
 
 Claim Timestamp: 00:40:49
 
@@ -2220,13 +2220,13 @@ Transcript Snippet: This is what they're posting on social media. They think we'
 Anchored Artifacts: A-3125.1
 Mentions: N-3
 Related Nodes: N-10541, N-11295
-Supports: C-11235
+Supports: C-7072
 Tags: relevance:context
 Investigative Direction: Identify the original social posts in the clip and the account that posted them.
 
 ---
 
-**C-11283** Tucker Says the CIA Read His Texts
+**C-7135** Tucker Says the CIA Read His Texts
 
 Claim Timestamp: 00:41:23
 
@@ -2237,13 +2237,13 @@ Transcript Snippet: Well, talking to people in Iran before the war. They read my
 Anchored Artifacts: A-1854.1
 Mentions: N-22
 Related Nodes: N-10540, N-10082
-Supports: C-2487
+Supports: C-7134
 Tags: relevance:context
 Investigative Direction: Ask Carlson or the CIA how the texts were obtained and under what authority.
 
 ---
 
-**C-11284** Tucker Says He Has Never Taken Money From Anybody
+**C-7136** Tucker Says He Has Never Taken Money From Anybody
 
 Claim Timestamp: 00:42:06
 
@@ -2259,7 +2259,7 @@ Investigative Direction: Examine Carlson's financial disclosures and any FARA fi
 
 ---
 
-**C-11285** Tucker Says the Purpose of Such Referrals Is to Leak and Humiliate
+**C-7137** Tucker Says the Purpose of Such Referrals Is to Leak and Humiliate
 
 Claim Timestamp: 00:42:47
 
@@ -2275,7 +2275,7 @@ Investigative Direction: Review prior leaks of investigations of Carlson and any
 
 ---
 
-**C-11286** Host Says Ackman Retweeted Attacks on Her Conscientious Objection Remark
+**C-7138** Host Says Ackman Retweeted Attacks on Her Conscientious Objection Remark
 
 Claim Timestamp: 00:43:44
 
@@ -2290,7 +2290,7 @@ Investigative Direction: Retrieve Ackman's retweets and the original host post.
 
 ---
 
-**C-11287** Host Says Loomer Has Not Published Her List
+**C-7141** Host Says Loomer Has Not Published Her List
 
 Claim Timestamp: 00:45:22
 
@@ -2301,13 +2301,13 @@ Transcript Snippet: She keeps alluding to it, but she never published.
 Anchored Artifacts: A-1858.1
 Mentions: N-60, N-3
 Related Nodes: N-10540
-Qualifies: C-2490
+Qualifies: C-7140
 Tags: relevance:context
 Investigative Direction: Check Loomer's accounts for any published list and any DOJ confirmation of receiving it.
 
 ---
 
-**C-11288** Host Says the Tyler Robinson Narrative Is Not Working
+**C-7143** Host Says the Tyler Robinson Narrative Is Not Working
 
 Claim Timestamp: 00:46:20
 
@@ -2323,7 +2323,7 @@ Investigative Direction: This is the host's characterization; test it against po
 
 ---
 
-**C-11289** Host Says the US Is Sending Venezuelan Oil to Israel
+**C-7144** Host Says the US Is Sending Venezuelan Oil to Israel
 
 Claim Timestamp: 00:48:13
 
@@ -2339,7 +2339,7 @@ Investigative Direction: Check tanker-tracking and Venezuelan export records for
 
 ---
 
-**C-11290** Commenter Says Kirk Was For No Iran War, Epstein Files and a TPUSA Audit
+**C-7145** Commenter Says Kirk Was For No Iran War, Epstein Files and a TPUSA Audit
 
 Claim Timestamp: 00:50:39
 
@@ -2355,7 +2355,7 @@ Investigative Direction: Find Kirk's own recorded statements on each of the thre
 
 ---
 
-**C-11291** Host Says Israel Worship Is Baal Worship Involving Child Sacrifice
+**C-7146** Host Says Israel Worship Is Baal Worship Involving Child Sacrifice
 
 Claim Timestamp: 00:52:09
 
@@ -2371,7 +2371,7 @@ Investigative Direction: Ask the host for any evidentiary basis; treat as rhetor
 
 ---
 
-**C-11292** Commenter Says 175 Schoolgirls Are Dead With No Apology
+**C-7147** Commenter Says 175 Schoolgirls Are Dead With No Apology
 
 Claim Timestamp: 00:53:07
 
@@ -2387,7 +2387,7 @@ Investigative Direction: Compare with official and independent casualty counts f
 
 ---
 
-**C-11293** Commenter Says Carlson Is Targeted While AIPAC Is an Unregistered Foreign Agent
+**C-7148** Commenter Says Carlson Is Targeted While AIPAC Is an Unregistered Foreign Agent
 
 Claim Timestamp: 00:53:07
 
@@ -2403,7 +2403,7 @@ Investigative Direction: Check the DOJ FARA registry and past DOJ rulings on AIP
 
 ---
 
-**C-11294** Host Says Jared Kushner Is Running the White House
+**C-7149** Host Says Jared Kushner Is Running the White House
 
 Claim Timestamp: 00:53:07
 

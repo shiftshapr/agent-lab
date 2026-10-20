@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10e): N-11296
   - Hole-minted Nodes (reintro-ep081): N-10611
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10e): C-11295–C-11374
+  - Claim Range: C-7245–C-7343
   - New Nodes Introduced: N-10547, N-10550, N-10551, N-10552
   - Reused Nodes Appearing: N-10548, N-10549, N-11, N-15, N-17, N-46, N-55, N-69, N-164, N-186, N-190, N-217, N-260, N-378, N-551, N-591, N-10056, N-10082, N-10093, N-10148, N-10163, N-10193, N-10195, N-10202, N-10206, N-10253, N-10340, N-10355, N-10403, N-10539, N-10546, N-10554, N-10560, N-10956, N-11114, N-11079
   - (see registers)
@@ -46,7 +46,7 @@ Video Timestamp: 00:01:20–00:03:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio read aloud in episode)
 
-*Related: C-2525, C-2526*
+*Related: C-7247, C-7248*
 
 **A-1877.2** Joe Kent on Tucker Carlson: West Wing encounter with Charlie Kirk re: Iran
 
@@ -55,7 +55,7 @@ Source Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2526*
+*Related: C-7248*
 
 ---
 
@@ -69,7 +69,7 @@ Video Timestamp: 00:08:30–00:11:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio read aloud)
 
-*Related: C-2531*
+*Related: C-7265*
 
 **A-1878.2** Kolvet states Joe Kent suggested making texts public; Kolvet declined
 
@@ -78,7 +78,7 @@ Source Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2532*
+*Related: C-7270*
 
 ---
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:05:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text read aloud)
 
-*Related: C-2528*
+*Related: C-7257*
 
 ---
 
@@ -106,7 +106,7 @@ Video Timestamp: 00:06:26–00:07:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text read aloud)
 
-*Related: C-2529*
+*Related: C-7260*
 
 **A-1880.2** Laura Loomer X reply accusing Kent of leaking to Candace to harm Erika
 
@@ -116,7 +116,7 @@ Video Timestamp: 00:07:00–00:07:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2530*
+*Related: C-7261*
 
 ---
 
@@ -130,7 +130,7 @@ Video Timestamp: 00:21:46–00:28:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed/read in episode)
 
-*Related: C-2533, C-2534, C-2535, C-2536, N-10547*
+*Related: C-7296, C-7301, C-7305, C-7308, N-10547*
 
 **A-1881.2** On-screen calendar graphic consolidating Sept 10 timeline with Egyptian-plane transponding overlay
 
@@ -140,7 +140,7 @@ Video Timestamp: 00:29:39–00:31:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-constructed graphic)
 
-*Related: C-2537, C-2538, N-10549*
+*Related: C-7315, C-7323, N-10549*
 
 ---
 
@@ -154,7 +154,7 @@ Video Timestamp: 00:33:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio read aloud)
 
-*Related: C-2539, N-10550*
+*Related: C-7319, N-10550*
 
 ---
 
@@ -168,7 +168,7 @@ Video Timestamp: 00:40:59–00:43:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2540*
+*Related: C-7328*
 
 ---
 
@@ -182,7 +182,7 @@ Video Timestamp: 00:43:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text read aloud)
 
-*Related: C-2541*
+*Related: C-7333*
 
 **A-1884.2** Eitan Fischberger X post calling Joe Rogan's segment "sick stuff"
 
@@ -192,7 +192,7 @@ Video Timestamp: 00:43:46–00:44:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2542*
+*Related: C-7334*
 
 ---
 
@@ -227,7 +227,7 @@ Video Timestamp: 00:34:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11350, C-11351, C-11352, C-11356*
+*Related: C-7312, C-7313, C-7314, C-7320*
 
 ---
 
@@ -240,7 +240,7 @@ Video Timestamp: 00:18:09
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11331*
+*Related: C-7289*
 
 ---
 
@@ -255,7 +255,7 @@ Video Timestamp: 00:08:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11307, C-11308, C-11309*
+*Related: C-7263, C-7264, C-7266*
 
 ---
 
@@ -271,7 +271,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1881.1, A-1881.2, C-2533, C-2534, C-2535, C-2537, C-2538*
+*Related: A-1881.1, A-1881.2, C-7296, C-7301, C-7305, C-7315, C-7323*
 
 ---
 
@@ -297,7 +297,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1881.2, C-2537, C-2538*
+*Related: A-1881.2, C-7315, C-7323*
 
 ---
 
@@ -310,7 +310,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1882.1, C-2539*
+*Related: A-1882.1, C-7319*
 
 ---
 
@@ -323,7 +323,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1879.1, A-1880.2, A-1878.1, C-2528, C-2530, C-2531*
+*Related: A-1879.1, A-1880.2, A-1878.1, C-7257, C-7261, C-7265*
 
 ---
 
@@ -336,7 +336,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1881.1, C-2535, C-2536*
+*Related: A-1881.1, C-7305, C-7308*
 
 ---
 
@@ -344,7 +344,7 @@ Investigative Pressure: Medium
 
 Subject of the assassination; the host and Kent describe his Israel and Iran positions.
 
-*Related: C-11296, C-11298, C-11299, C-11303, C-11312, C-11316, C-11317, C-11319, C-11320, C-11322, C-11323, C-11324, C-11325, C-11327, C-11334, C-11338, C-11343, C-11349, C-11367, C-11374*
+*Related: C-7249, C-7251, C-7252, C-7256, C-7269, C-7274, C-7275, C-7277, C-7278, C-7280, C-7281, C-7282, C-7283, C-7285, C-7292, C-7297, C-7303, C-7311, C-7335, C-7343*
 
 ---
 
@@ -352,7 +352,7 @@ Subject of the assassination; the host and Kent describe his Israel and Iran pos
 
 Widow and TPUSA CEO; central to the tarmac hug, plane and limelight claims.
 
-*Related: C-11295, C-11304, C-11305, C-11306, C-11320, C-11326, C-11329, C-11332, C-11333, C-11344, C-11347, C-11355, C-11357, C-11363, C-11364, C-11365, C-11366, C-11368, C-11369, C-11370*
+*Related: C-7245, C-7258, C-7259, C-7262, C-7278, C-7284, C-7287, C-7290, C-7291, C-7304, C-7309, C-7318, C-7321, C-7329, C-7330, C-7331, C-7332, C-7337, C-7338, C-7339*
 
 ---
 
@@ -360,7 +360,7 @@ Widow and TPUSA CEO; central to the tarmac hug, plane and limelight claims.
 
 Host; speaks for herself throughout.
 
-*Related: C-11295, C-11300, C-11301, C-11304, C-11305, C-11306, C-11309, C-11315, C-11317, C-11319, C-11320, C-11325, C-11326, C-11327, C-11328, C-11329, C-11330, C-11331, C-11332, C-11333, C-11334, C-11336, C-11337, C-11342, C-11357, C-11366, C-11367, C-11368, C-11369, C-11370, C-11371, C-11372, C-11373, C-11374*
+*Related: C-7245, C-7253, C-7254, C-7258, C-7259, C-7262, C-7266, C-7273, C-7275, C-7277, C-7278, C-7283, C-7284, C-7285, C-7286, C-7287, C-7288, C-7289, C-7290, C-7291, C-7292, C-7294, C-7295, C-7302, C-7321, C-7332, C-7335, C-7337, C-7338, C-7339, C-7340, C-7341, C-7342, C-7343*
 
 ---
 
@@ -368,7 +368,7 @@ Host; speaks for herself throughout.
 
 Named by first name only ('Tyler') among the reported passengers on Charlie's plane.
 
-*Related: C-11344*
+*Related: C-7304*
 
 ---
 
@@ -376,14 +376,14 @@ Named by first name only ('Tyler') among the reported passengers on Charlie's pl
 
 TPUSA spokesman; subject of the PR chat, the plane account and the Kent texts.
 
-*Related: C-11307, C-11308, C-11309, C-11310, C-11311, C-11313, C-11314, C-11315, C-11320, C-11323, C-11325, C-11326, C-11327, C-11328, C-11329, C-11330, C-11331, C-11332, C-11333, C-11334, C-11336, C-11338, C-11339, C-11340, C-11341, C-11342, C-11343, C-11345, C-11349, C-11350, C-11351, C-11352, C-11356, C-11368, C-11372*
+*Related: C-7263, C-7264, C-7266, C-7267, C-7268, C-7271, C-7272, C-7273, C-7278, C-7281, C-7283, C-7284, C-7285, C-7286, C-7287, C-7288, C-7289, C-7290, C-7291, C-7292, C-7294, C-7297, C-7298, C-7299, C-7300, C-7302, C-7303, C-7306, C-7311, C-7312, C-7313, C-7314, C-7320, C-7337, C-7341*
 
 ---
 
 **N-15** Justin Streiff
 TPUSA COO; booked the planes and appears in the PR chat.
 
-*Related: C-11323, C-11329, C-11330, C-11331, C-11335, C-11339, C-11351, C-11356*
+*Related: C-7281, C-7287, C-7288, C-7289, C-7293, C-7298, C-7313, C-7320*
 
 ---
 
@@ -391,7 +391,7 @@ TPUSA COO; booked the planes and appears in the PR chat.
 
 Transcribed 'Rob McCoy'; Neff says Mikey called him.
 
-*Related: C-11355*
+*Related: C-7318*
 
 ---
 
@@ -399,7 +399,7 @@ Transcribed 'Rob McCoy'; Neff says Mikey called him.
 
 Interviewed Kent; the host says he called himself a friend of Erika.
 
-*Related: C-11305, C-11317*
+*Related: C-7259, C-7275*
 
 ---
 
@@ -407,7 +407,7 @@ Interviewed Kent; the host says he called himself a friend of Erika.
 
 The host says she told the truth and calls herself a friend of Erika.
 
-*Related: C-11305, C-11317*
+*Related: C-7259, C-7275*
 
 ---
 
@@ -415,7 +415,7 @@ The host says she told the truth and calls herself a friend of Erika.
 
 Named by the host as a Zionist who lied about Charlie and threatened legal options.
 
-*Related: C-11316, C-11321*
+*Related: C-7274, C-7279*
 
 ---
 
@@ -423,7 +423,7 @@ Named by the host as a Zionist who lied about Charlie and threatened legal optio
 
 Posted that Kent may have leaked to the host to attack Erika.
 
-*Related: C-11306*
+*Related: C-7262*
 
 ---
 
@@ -431,7 +431,7 @@ Posted that Kent may have leaked to the host to attack Erika.
 
 FBI director whom Kent's account implicates in stopping the NCTC investigation.
 
-*Related: C-11300, C-11301*
+*Related: C-7253, C-7254*
 
 ---
 
@@ -439,7 +439,7 @@ FBI director whom Kent's account implicates in stopping the NCTC investigation.
 
 Posted the accusation that Kent degraded Erika; recalled by the host for the boots photo.
 
-*Related: C-11303, C-11304*
+*Related: C-7256, C-7258*
 
 ---
 
@@ -447,7 +447,7 @@ Posted the accusation that Kent degraded Erika; recalled by the host for the boo
 
 Speaker in the clip about calling his mother after the shooting.
 
-*Related: C-11355*
+*Related: C-7318*
 
 ---
 
@@ -455,7 +455,7 @@ Speaker in the clip about calling his mother after the shooting.
 
 Rabbi the host says had a September 5 call with Streiff and Kolvet.
 
-*Related: C-11322, C-11323, C-11324*
+*Related: C-7280, C-7281, C-7282*
 
 ---
 
@@ -463,7 +463,7 @@ Rabbi the host says had a September 5 call with Streiff and Kolvet.
 
 Transcribed 'Stacy Sheridan'; named among reported passengers (identification is a doubt).
 
-*Related: C-11344*
+*Related: C-7304*
 
 ---
 
@@ -471,7 +471,7 @@ Transcribed 'Stacy Sheridan'; named among reported passengers (identification is
 
 Subject of Blake Neff's clip describing calls after the shot.
 
-*Related: C-11355*
+*Related: C-7318*
 
 ---
 
@@ -479,7 +479,7 @@ Subject of Blake Neff's clip describing calls after the shot.
 
 Former counterterrorism director whose Carlson interview and alleged leak drive the episode.
 
-*Related: C-11295, C-11296, C-11297, C-11298, C-11299, C-11300, C-11301, C-11302, C-11304, C-11306, C-11309, C-11310, C-11313, C-11314, C-11367, C-11372, C-11373*
+*Related: C-7245, C-7249, C-7250, C-7251, C-7252, C-7253, C-7254, C-7255, C-7258, C-7262, C-7266, C-7267, C-7271, C-7272, C-7335, C-7341, C-7342*
 
 ---
 
@@ -487,7 +487,7 @@ Former counterterrorism director whose Carlson interview and alleged leak drive 
 
 Transcribed Elizabeth McCoy; named among reported passengers.
 
-*Related: C-11344*
+*Related: C-7304*
 
 ---
 
@@ -495,7 +495,7 @@ Transcribed Elizabeth McCoy; named among reported passengers.
 
 FBO the host calls unusual and military-leaning.
 
-*Related: C-11358*
+*Related: C-7322*
 
 ---
 
@@ -503,7 +503,7 @@ FBO the host calls unusual and military-leaning.
 
 Podcast host whose segment on Erika is played.
 
-*Related: C-11363, C-11364, C-11365*
+*Related: C-7329, C-7330, C-7331*
 
 ---
 
@@ -511,7 +511,7 @@ Podcast host whose segment on Erika is played.
 
 Named in a viewer comment as trying to link the host and Kent.
 
-*Related: C-11373*
+*Related: C-7342*
 
 ---
 
@@ -519,7 +519,7 @@ Named in a viewer comment as trying to link the host and Kent.
 
 TPUSA chief marketing officer (transcribed Marina Minas, Mina's); handled the statement drafting.
 
-*Related: C-11339, C-11345, C-11361*
+*Related: C-7298, C-7306, C-7326*
 
 ---
 
@@ -527,7 +527,7 @@ TPUSA chief marketing officer (transcribed Marina Minas, Mina's); handled the st
 
 Staffer who drafted the death statement and was later fired (host says over an Uber driver conversation).
 
-*Related: C-11339, C-11345, C-11346, C-11347, C-11348, C-11350, C-11361, C-11362*
+*Related: C-7298, C-7306, C-7307, C-7309, C-7310, C-7312, C-7326, C-7327*
 
 ---
 
@@ -535,7 +535,7 @@ Staffer who drafted the death statement and was later fired (host says over an U
 
 The host says he released messages about Iran.
 
-*Related: C-11318*
+*Related: C-7276*
 
 ---
 
@@ -543,7 +543,7 @@ The host says he released messages about Iran.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11298, C-11312, C-11316, C-11317, C-11322, C-11323, C-11367, C-11374*
+*Related: C-7251, C-7269, C-7274, C-7275, C-7280, C-7281, C-7335, C-7343*
 
 ---
 
@@ -551,7 +551,7 @@ Existing topic reused for new claims in this episode.
 
 Existing organization reused for new claims in this episode.
 
-*Related: C-11365*
+*Related: C-7331*
 
 ---
 
@@ -559,7 +559,7 @@ Existing organization reused for new claims in this episode.
 
 Existing organization; the transcript says 'Yrefy', the event sponsor whose plane the host discusses.
 
-*Related: C-11357, C-11359, C-11360*
+*Related: C-7321, C-7324, C-7325*
 
 ---
 
@@ -567,7 +567,7 @@ Existing organization; the transcript says 'Yrefy', the event sponsor whose plan
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11316, C-11317, C-11322, C-11367*
+*Related: C-7274, C-7275, C-7280, C-7335*
 
 ---
 
@@ -575,7 +575,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11298, C-11307, C-11319, C-11374*
+*Related: C-7251, C-7263, C-7277, C-7343*
 
 ---
 
@@ -583,7 +583,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11355*
+*Related: C-7318*
 
 ---
 
@@ -591,7 +591,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11321*
+*Related: C-7279*
 
 ---
 
@@ -599,7 +599,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11296, C-11297, C-11300*
+*Related: C-7249, C-7250, C-7253*
 
 ---
 
@@ -607,7 +607,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11307, C-11315, C-11319, C-11372*
+*Related: C-7263, C-7273, C-7277, C-7341*
 
 ---
 
@@ -615,7 +615,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11353*
+*Related: C-7316*
 
 ---
 
@@ -623,7 +623,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11319, C-11320, C-11374*
+*Related: C-7277, C-7278, C-7343*
 
 ---
 
@@ -631,7 +631,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11300, C-11301*
+*Related: C-7253, C-7254*
 
 ---
 
@@ -639,7 +639,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11365*
+*Related: C-7331*
 
 ---
 
@@ -647,7 +647,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11299, C-11318*
+*Related: C-7252, C-7276*
 
 ---
 
@@ -655,7 +655,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11295, C-11297, C-11302*
+*Related: C-7245, C-7250, C-7255*
 
 ---
 
@@ -663,7 +663,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11325, C-11328, C-11330, C-11331, C-11334, C-11336, C-11343, C-11344, C-11357, C-11360*
+*Related: C-7283, C-7286, C-7288, C-7289, C-7292, C-7294, C-7303, C-7304, C-7321, C-7325*
 
 ---
 
@@ -671,7 +671,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11327, C-11328, C-11329, C-11332, C-11333*
+*Related: C-7285, C-7286, C-7287, C-7290, C-7291*
 
 ---
 
@@ -679,7 +679,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11320, C-11370*
+*Related: C-7278, C-7339*
 
 ---
 
@@ -687,7 +687,7 @@ Existing topic reused for new claims in this episode.
 
 Existing organization reused for new claims in this episode.
 
-*Related: C-11371*
+*Related: C-7340*
 
 ---
 
@@ -695,7 +695,7 @@ Existing organization reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11299*
+*Related: C-7252*
 
 ---
 
@@ -703,7 +703,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11366*
+*Related: C-7332*
 
 ---
 
@@ -712,13 +712,13 @@ Existing topic reused for new claims in this episode.
 Node Type: Topic
 Dispute over Kolvet's claim that Erika never wanted the limelight versus the host's and a viewer's evidence that she sought roles and reality shows.
 
-*Related: C-11368, C-11369*
+*Related: C-7337, C-7338*
 
 ---
 
 ## 5. Claim Register
 
-**C-2525** Joe Kent stated FBI halted NCTC investigation of Charlie Kirk assassination
+**C-7247** Joe Kent stated FBI halted NCTC investigation of Charlie Kirk assassination
 
 Claim Timestamp: 00:02:10
 
@@ -733,7 +733,7 @@ Investigative Direction: Compare Kent's claims against any FBI/NCTC public state
 
 ---
 
-**C-2526** Joe Kent described Charlie Kirk West Wing statement on Iran war
+**C-7248** Joe Kent described Charlie Kirk West Wing statement on Iran war
 
 Claim Timestamp: 00:02:10
 
@@ -748,7 +748,7 @@ Investigative Direction: Verify via West Wing access logs and any corroborating 
 
 ---
 
-**C-2527** Andrew Kolvet retweeted calls for Joe Kent's arrest
+**C-7246** Andrew Kolvet retweeted calls for Joe Kent's arrest
 
 Claim Timestamp: 00:00:42
 
@@ -765,7 +765,7 @@ Investigative Direction: Confirm via archived Kolvet X timeline.
 
 ---
 
-**C-2528** Alex Clark publicly accused Joe Kent of degrading Erika
+**C-7257** Alex Clark publicly accused Joe Kent of degrading Erika
 
 Claim Timestamp: 00:05:36
 
@@ -780,7 +780,7 @@ Investigative Direction: Retrieve Clark's full X thread and any cited evidence.
 
 ---
 
-**C-2529** Jack Posobiec posted Joe Kent's military credentials
+**C-7260** Jack Posobiec posted Joe Kent's military credentials
 
 Claim Timestamp: 00:06:26
 
@@ -795,7 +795,7 @@ Investigative Direction: Cross-check against DoD / military service records.
 
 ---
 
-**C-2530** Laura Loomer Said Kent May Have Leaked to Candace to Attack Erika
+**C-7261** Laura Loomer Said Kent May Have Leaked to Candace to Attack Erika
 
 Claim Timestamp: 00:07:00
 
@@ -810,7 +810,7 @@ Investigative Direction: Retrieve Loomer's full post; trace whether she cites so
 
 ---
 
-**C-2531** Kolvet admitted providing text messages to Joe Kent
+**C-7265** Kolvet admitted providing text messages to Joe Kent
 
 Claim Timestamp: 00:09:30
 
@@ -825,7 +825,7 @@ Investigative Direction: Obtain full unedited radio segment; verify chain of cus
 
 ---
 
-**C-2532** Kent suggested making texts public; Kolvet declined
+**C-7270** Kent suggested making texts public; Kolvet declined
 
 Claim Timestamp: 00:11:16
 
@@ -840,7 +840,7 @@ Investigative Direction: Verify against any direct messaging logs or third-party
 
 ---
 
-**C-2533** Kolvet unavailable 1:30pm–3:25pm Utah time in PR chat
+**C-7296** Kolvet unavailable 1:30pm–3:25pm Utah time in PR chat
 
 Claim Timestamp: 00:21:46
 
@@ -855,7 +855,7 @@ Investigative Direction: Timestamp-verify the chat export; cross-reference with 
 
 ---
 
-**C-2534** Kolvet stated "this just loaded" indicating plane travel
+**C-7301** Kolvet stated "this just loaded" indicating plane travel
 
 Claim Timestamp: 00:23:16
 
@@ -870,7 +870,7 @@ Investigative Direction: Verify the exact wording against export; check plane Wi
 
 ---
 
-**C-2535** Host Says Marina Minas Asked Aubrey to Draft Death Statement Because Andrew Was on a Plane
+**C-7305** Host Says Marina Minas Asked Aubrey to Draft Death Statement Because Andrew Was on a Plane
 
 Claim Timestamp: 00:24:14
 
@@ -885,7 +885,7 @@ Investigative Direction: Confirm via call detail records and corroborate with Au
 
 ---
 
-**C-2536** Host Says Aubrey Was Later Fired Over Uber-Driver Conversation
+**C-7308** Host Says Aubrey Was Later Fired Over Uber-Driver Conversation
 
 Claim Timestamp: 00:25:31
 
@@ -902,7 +902,7 @@ Investigative Direction: Verify with Aubrey or HR/witness records.
 
 ---
 
-**C-2537** Host's Calendar Graphic Shows Egyptian-Plane Transponding Overlapping Sept 10 Events
+**C-7315** Host's Calendar Graphic Shows Egyptian-Plane Transponding Overlapping Sept 10 Events
 
 Claim Timestamp: 00:29:39
 
@@ -917,7 +917,7 @@ Investigative Direction: Independently source the ADS-B / transponder data; veri
 
 ---
 
-**C-2538** Host Says Yrefy Plane Routed Scottsdale–Provo–Santa Barbara–Scottsdale
+**C-7323** Host Says Yrefy Plane Routed Scottsdale–Provo–Santa Barbara–Scottsdale
 
 Claim Timestamp: 00:35:39
 
@@ -931,7 +931,7 @@ Investigative Direction: Verify against FAA flight plan / tail-number tracking.
 
 ---
 
-**C-2539** Blake Neff's "I put that phone away" implies second phone
+**C-7319** Blake Neff's "I put that phone away" implies second phone
 
 Claim Timestamp: 00:33:30
 
@@ -948,7 +948,7 @@ Investigative Direction: Direct verification only possible via Blake Neff or dev
 
 ---
 
-**C-2540** Joe Rogan discussed Erika Kirk's CIA documentary and pageant history
+**C-7328** Joe Rogan discussed Erika Kirk's CIA documentary and pageant history
 
 Claim Timestamp: 00:40:59
 
@@ -963,7 +963,7 @@ Investigative Direction: Verify CIA documentary provenance and Erika's pageant p
 
 ---
 
-**C-2541** Mark Levin Asked Whether Rogan Segment Was an AI Production
+**C-7333** Mark Levin Asked Whether Rogan Segment Was an AI Production
 
 Claim Timestamp: 00:43:46
 
@@ -978,7 +978,7 @@ Investigative Direction: Retrieve full tweet and any subsequent clarification.
 
 ---
 
-**C-2542** Eitan Fischberger Called Joe Rogan Segment "Sick Stuff"
+**C-7334** Eitan Fischberger Called Joe Rogan Segment "Sick Stuff"
 
 Claim Timestamp: 00:43:46
 
@@ -993,7 +993,7 @@ Investigative Direction: Retrieve original tweet.
 
 ---
 
-**C-2543** Host denies pre-existing relationship with Joe Kent
+**C-7336** Host denies pre-existing relationship with Joe Kent
 
 Claim Timestamp: 00:45:46
 
@@ -1010,7 +1010,7 @@ Investigative Direction: Verify via message logs, witness statements, or platfor
 
 ---
 
-**C-11295** Host Says TPUSA Wants Revenge on Kent for Telling a Truth That Made Erika Look Foolish
+**C-7245** Host Says TPUSA Wants Revenge on Kent for Telling a Truth That Made Erika Look Foolish
 
 Claim Timestamp: 00:00:01
 
@@ -1026,7 +1026,7 @@ Investigative Direction: Identify which Kent statement the host means and whethe
 
 ---
 
-**C-11296** Kent Says FBI Told NCTC to Hand Everything to Utah Authorities
+**C-7249** Kent Says FBI Told NCTC to Hand Everything to Utah Authorities
 
 Claim Timestamp: 00:02:10
 
@@ -1042,7 +1042,7 @@ Investigative Direction: Obtain FBI statements or inter-agency correspondence on
 
 ---
 
-**C-11297** Kent Says There Was Still Linkage to Investigate That He Cannot Discuss
+**C-7250** Kent Says There Was Still Linkage to Investigate That He Cannot Discuss
 
 Claim Timestamp: 00:02:10
 
@@ -1058,7 +1058,7 @@ Investigative Direction: Ask Kent, or review any NCTC tasking records he is free
 
 ---
 
-**C-11298** Kent Says Public Texts Show Charlie Was Under Heavy Pressure From Pro-Israel Donors
+**C-7251** Kent Says Public Texts Show Charlie Was Under Heavy Pressure From Pro-Israel Donors
 
 Claim Timestamp: 00:03:14
 
@@ -1074,7 +1074,7 @@ Investigative Direction: Compare Kent's characterization with the full authentic
 
 ---
 
-**C-11299** Kent Says Israel Was Expected to Ask for Another War After Midnight Hammer
+**C-7252** Kent Says Israel Was Expected to Ask for Another War After Midnight Hammer
 
 Claim Timestamp: 00:03:14
 
@@ -1090,7 +1090,7 @@ Investigative Direction: Check public reporting and administration records on Is
 
 ---
 
-**C-11300** Host Relays Kent: Investigative Leads Would Have Been Pursued but for Kash Patel
+**C-7253** Host Relays Kent: Investigative Leads Would Have Been Pursued but for Kash Patel
 
 Claim Timestamp: 00:03:52
 
@@ -1106,7 +1106,7 @@ Investigative Direction: Obtain the full Carlson interview transcript and any FB
 
 ---
 
-**C-11301** Host Says Kent-Patel Friction Had Already Been Reported in the Daily Mail
+**C-7254** Host Says Kent-Patel Friction Had Already Been Reported in the Daily Mail
 
 Claim Timestamp: 00:03:52
 
@@ -1122,7 +1122,7 @@ Investigative Direction: Locate the Daily Mail article on the Kent-Patel dispute
 
 ---
 
-**C-11302** Host Says Israel-First Crowd Demanded Prison for Kent Over Alleged Leaks
+**C-7255** Host Says Israel-First Crowd Demanded Prison for Kent Over Alleged Leaks
 
 Claim Timestamp: 00:04:53
 
@@ -1138,7 +1138,7 @@ Investigative Direction: Collect the posts from Kolvet, Clark, Loomer and others
 
 ---
 
-**C-11303** Host Says Alex Clark Posed in High Boots on Charlie's Vigil Site Days After the Assassination
+**C-7256** Host Says Alex Clark Posed in High Boots on Charlie's Vigil Site Days After the Assassination
 
 Claim Timestamp: 00:04:53
 
@@ -1149,13 +1149,13 @@ Transcript Snippet: Alex Clark, best known for posing in high boots on top of Ch
 Anchored Artifacts: 
 Mentions: N-99, N-1
 Related Nodes: 
-Supports: C-6491
+Supports: C-1376
 Tags: relevance:context
 Investigative Direction: Find the published photograph and its date, and any statement from Clark or the outlet about the shoot.
 
 ---
 
-**C-11304** Host Says She Has Never Heard Kent Say a Bad Word About Erika Kirk
+**C-7258** Host Says She Has Never Heard Kent Say a Bad Word About Erika Kirk
 
 Claim Timestamp: 00:05:36
 
@@ -1171,7 +1171,7 @@ Investigative Direction: Ask Clark or TPUSA for the specific statements or messa
 
 ---
 
-**C-11305** Host Says Carlson and Kelly Have Called Themselves Friends of Erika Kirk
+**C-7259** Host Says Carlson and Kelly Have Called Themselves Friends of Erika Kirk
 
 Claim Timestamp: 00:05:36
 
@@ -1187,7 +1187,7 @@ Investigative Direction: Locate the on-air statements in which Carlson and Kelly
 
 ---
 
-**C-11306** Host Says Kent Did Not Leak Her Anything to Attack Erika Kirk
+**C-7262** Host Says Kent Did Not Leak Her Anything to Attack Erika Kirk
 
 Claim Timestamp: 00:07:19
 
@@ -1203,7 +1203,7 @@ Investigative Direction: The host's source records and Kent's own account are th
 
 ---
 
-**C-11307** Clip Speaker Says Kolvet Was One of Nine People in the Chat Group
+**C-7263** Clip Speaker Says Kolvet Was One of Nine People in the Chat Group
 
 Claim Timestamp: 00:08:08
 
@@ -1219,7 +1219,7 @@ Investigative Direction: Obtain the full Charlie Kirk Show segment, identify the
 
 ---
 
-**C-11308** Clip Speaker Says Kolvet Admitted on Air He Gave the Texts to Someone in Government
+**C-7264** Clip Speaker Says Kolvet Admitted on Air He Gave the Texts to Someone in Government
 
 Claim Timestamp: 00:08:08
 
@@ -1235,7 +1235,7 @@ Investigative Direction: Find the earlier Kolvet broadcast where he said he gave
 
 ---
 
-**C-11309** Clip Speaker Says Messages Were Kind of Verified as Passed From Kolvet to Kent to Candace
+**C-7266** Clip Speaker Says Messages Were Kind of Verified as Passed From Kolvet to Kent to Candace
 
 Claim Timestamp: 00:09:30
 
@@ -1251,7 +1251,7 @@ Investigative Direction: Ask TPUSA what verification was done; the host denies t
 
 ---
 
-**C-11310** Kolvet Says He Was Told He Could Trust Kent and Does Not Know What Happened to the Screen Grabs
+**C-7267** Kolvet Says He Was Told He Could Trust Kent and Does Not Know What Happened to the Screen Grabs
 
 Claim Timestamp: 00:10:24
 
@@ -1267,7 +1267,7 @@ Investigative Direction: Ask Kolvet who told him Kent could be trusted and what 
 
 ---
 
-**C-11311** Kolvet Says TPUSA Has Given Everything It Knows Behind the Scenes
+**C-7268** Kolvet Says TPUSA Has Given Everything It Knows Behind the Scenes
 
 Claim Timestamp: 00:10:24
 
@@ -1283,7 +1283,7 @@ Investigative Direction: Ask TPUSA to identify to whom it gave information and w
 
 ---
 
-**C-11312** Show Host Says Leaked Texts Kicked Off the Theory That Israel or Jews Had Charlie Killed
+**C-7269** Show Host Says Leaked Texts Kicked Off the Theory That Israel or Jews Had Charlie Killed
 
 Claim Timestamp: 00:10:24
 
@@ -1299,7 +1299,7 @@ Investigative Direction: Identify the show host and compare the characterization
 
 ---
 
-**C-11313** Kolvet Says Kent Suggested Releasing the Screen Grabs and They Appeared Weeks Later
+**C-7271** Kolvet Says Kent Suggested Releasing the Screen Grabs and They Appeared Weeks Later
 
 Claim Timestamp: 00:11:16
 
@@ -1315,7 +1315,7 @@ Investigative Direction: Date Kolvet's exchange with Kent and the first public a
 
 ---
 
-**C-11314** Kolvet Says He Cannot Categorically Say Kent Leaked the Texts
+**C-7272** Kolvet Says He Cannot Categorically Say Kent Leaked the Texts
 
 Claim Timestamp: 00:11:16
 
@@ -1331,7 +1331,7 @@ Investigative Direction: Compare with the claim in the earlier clip that TPUSA v
 
 ---
 
-**C-11315** Host Says Kolvet Himself Told Her About the Text Chain
+**C-7273** Host Says Kolvet Himself Told Her About the Text Chain
 
 Claim Timestamp: 00:12:00
 
@@ -1347,7 +1347,7 @@ Investigative Direction: Obtain any messages or call records between the host an
 
 ---
 
-**C-11316** Host Says TPUSA Stayed Mum on Charlie's Israel Stance While Zionists Like Josh Hammer Lied
+**C-7274** Host Says TPUSA Stayed Mum on Charlie's Israel Stance While Zionists Like Josh Hammer Lied
 
 Claim Timestamp: 00:12:00
 
@@ -1363,7 +1363,7 @@ Investigative Direction: Collect TPUSA's public statements on Charlie's Israel v
 
 ---
 
-**C-11317** Host Says She, Kelly and Carlson Told the Truth That Charlie's Israel Views Were Changing
+**C-7275** Host Says She, Kelly and Carlson Told the Truth That Charlie's Israel Views Were Changing
 
 Claim Timestamp: 00:12:43
 
@@ -1379,7 +1379,7 @@ Investigative Direction: Gather the on-air statements by each of the three and t
 
 ---
 
-**C-11318** Host Says Bret Weinstein Has Released His Messages About Iran
+**C-7276** Host Says Bret Weinstein Has Released His Messages About Iran
 
 Claim Timestamp: 00:12:43
 
@@ -1395,7 +1395,7 @@ Investigative Direction: Locate Weinstein's release of messages and check what t
 
 ---
 
-**C-11319** Host Says Her Release of the Text Chain Forced TPUSA to Confirm a Communication Under 24 Hours Before the Shooting
+**C-7277** Host Says Her Release of the Text Chain Forced TPUSA to Confirm a Communication Under 24 Hours Before the Shooting
 
 Claim Timestamp: 00:12:43
 
@@ -1411,7 +1411,7 @@ Investigative Direction: Find the TPUSA or Hammer statements acknowledging the p
 
 ---
 
-**C-11320** Host Says Charlie Texted Security and Kolvet He Thought They Were Going to Kill Him, Which Erika Denied
+**C-7278** Host Says Charlie Texted Security and Kolvet He Thought They Were Going to Kill Him, Which Erika Denied
 
 Claim Timestamp: 00:12:43
 
@@ -1427,7 +1427,7 @@ Investigative Direction: Obtain the texts to security and Kolvet and Erika Kirk'
 
 ---
 
-**C-11321** Host Says Josh Hammer Reacted by Saying He Was Exploring Legal Options
+**C-7279** Host Says Josh Hammer Reacted by Saying He Was Exploring Legal Options
 
 Claim Timestamp: 00:13:25
 
@@ -1438,13 +1438,13 @@ Transcript Snippet: Josh Hammer was angry he got caught. "I'm exploring legal op
 Anchored Artifacts: 
 Mentions: N-55
 Related Nodes: N-10195
-Supports: C-1476
+Supports: C-1775
 Tags: relevance:context
 Investigative Direction: Retrieve Hammer's statement about legal action and any filing that followed.
 
 ---
 
-**C-11322** Host Says the Rabbi Lied That Charlie Never Blinked on Israel
+**C-7280** Host Says the Rabbi Lied That Charlie Never Blinked on Israel
 
 Claim Timestamp: 00:13:25
 
@@ -1460,7 +1460,7 @@ Investigative Direction: Identify the rabbi (the host names Rabbi Wolicki a minu
 
 ---
 
-**C-11323** Host Says Rabbi Wolicki Had a September 5 Call With Streiff and Kolvet While Charlie Was in Asia
+**C-7281** Host Says Rabbi Wolicki Had a September 5 Call With Streiff and Kolvet While Charlie Was in Asia
 
 Claim Timestamp: 00:14:26
 
@@ -1476,7 +1476,7 @@ Investigative Direction: Obtain call logs or calendar entries for September 5 an
 
 ---
 
-**C-11324** Host Says Wolicki Holds No TPUSA Role but Claims to Be One of Charlie's Personal Advisers
+**C-7282** Host Says Wolicki Holds No TPUSA Role but Claims to Be One of Charlie's Personal Advisers
 
 Claim Timestamp: 00:14:26
 
@@ -1492,7 +1492,7 @@ Investigative Direction: Check TPUSA's staff, board and advisory lists for Wolic
 
 ---
 
-**C-11325** Host Says Kolvet Told Her He Flew Alone on a Massive Plane to Provo
+**C-7283** Host Says Kolvet Told Her He Flew Alone on a Massive Plane to Provo
 
 Claim Timestamp: 00:15:04
 
@@ -1508,7 +1508,7 @@ Investigative Direction: Obtain the host's notes or messages from the September 
 
 ---
 
-**C-11326** Host Says Kolvet Told Her He Collapsed Into Erika's Arms on the Tarmac
+**C-7284** Host Says Kolvet Told Her He Collapsed Into Erika's Arms on the Tarmac
 
 Claim Timestamp: 00:15:56
 
@@ -1524,7 +1524,7 @@ Investigative Direction: Seek airport footage of the Provo tarmac on September 1
 
 ---
 
-**C-11327** Host Says She Is 10,000 Percent Certain of the Conversation and That She Thought It Was Charlie's Plane
+**C-7285** Host Says She Is 10,000 Percent Certain of the Conversation and That She Thought It Was Charlie's Plane
 
 Claim Timestamp: 00:15:56
 
@@ -1540,7 +1540,7 @@ Investigative Direction: The conversation exists only in the host's memory; ask 
 
 ---
 
-**C-11328** Host Says Kolvet's Account Later Shifted to Flying With His Wife From Santa Barbara
+**C-7286** Host Says Kolvet's Account Later Shifted to Flying With His Wife From Santa Barbara
 
 Claim Timestamp: 00:16:43
 
@@ -1556,7 +1556,7 @@ Investigative Direction: Compare Kolvet's successive public and private accounts
 
 ---
 
-**C-11329** Host Says She Asked Erika and Streiff Which People Flew on Which Plane Without Mentioning the Hug
+**C-7287** Host Says She Asked Erika and Streiff Which People Flew on Which Plane Without Mentioning the Hug
 
 Claim Timestamp: 00:17:28
 
@@ -1572,7 +1572,7 @@ Investigative Direction: Obtain the recording or notes of the host's interview w
 
 ---
 
-**C-11330** Host Says Streiff Said He Booked the Planes and Was Unsure the Wife Got on Hers
+**C-7288** Host Says Streiff Said He Booked the Planes and Was Unsure the Wife Got on Hers
 
 Claim Timestamp: 00:17:28
 
@@ -1588,7 +1588,7 @@ Investigative Direction: Request the charter booking records Streiff arranged an
 
 ---
 
-**C-11331** Host Says Streiff Texted Next Day That the Wife Was on the Plane, With a Caveat
+**C-7289** Host Says Streiff Texted Next Day That the Wife Was on the Plane, With a Caveat
 
 Claim Timestamp: 00:18:09
 
@@ -1604,7 +1604,7 @@ Investigative Direction: Obtain the text message from Streiff to the host with i
 
 ---
 
-**C-11332** Host Says Erika Did Not Speak Up to Confirm the Wife Flew With Kolvet
+**C-7290** Host Says Erika Did Not Speak Up to Confirm the Wife Flew With Kolvet
 
 Claim Timestamp: 00:18:09
 
@@ -1620,7 +1620,7 @@ Investigative Direction: Ask Erika Kirk whether she recalls the wife being prese
 
 ---
 
-**C-11333** Host Says It Makes No Sense for Erika to Wait an Hour for the PR Man Before Going to the Hospital
+**C-7291** Host Says It Makes No Sense for Erika to Wait an Hour for the PR Man Before Going to the Hospital
 
 Claim Timestamp: 00:18:47
 
@@ -1636,7 +1636,7 @@ Investigative Direction: Establish when Erika Kirk landed in Provo, when she arr
 
 ---
 
-**C-11334** Host Says Kolvet Most Likely Flew Alone on Charlie's Plane
+**C-7292** Host Says Kolvet Most Likely Flew Alone on Charlie's Plane
 
 Claim Timestamp: 00:18:47
 
@@ -1652,7 +1652,7 @@ Investigative Direction: Obtain the manifest and flight track for Charlie's plan
 
 ---
 
-**C-11335** Host Says Streiff Was Promoted to COO Seven Days Before the Shooting
+**C-7293** Host Says Streiff Was Promoted to COO Seven Days Before the Shooting
 
 Claim Timestamp: 00:19:32
 
@@ -1663,13 +1663,13 @@ Transcript Snippet: Because he's been promoted to COO. Just 7 days earlier, he g
 Anchored Artifacts: 
 Mentions: N-15
 Related Nodes: 
-Supports: C-3632
+Supports: C-896
 Tags: relevance:context
 Investigative Direction: Obtain the internal memo announcing Streiff's promotion and its date.
 
 ---
 
-**C-11336** Host Says Kolvet's Public Story Is Home in Santa Barbara Then a 3:19 p.m. Utah Flight With His Wife
+**C-7294** Host Says Kolvet's Public Story Is Home in Santa Barbara Then a 3:19 p.m. Utah Flight With His Wife
 
 Claim Timestamp: 00:20:22
 
@@ -1685,7 +1685,7 @@ Investigative Direction: Find Kolvet's own public statement of this itinerary an
 
 ---
 
-**C-11337** Host Says the Shown PR Chat Is in Pacific Time and Was Shifted One Hour to Utah Time
+**C-7295** Host Says the Shown PR Chat Is in Pacific Time and Was Shifted One Hour to Utah Time
 
 Claim Timestamp: 00:21:07
 
@@ -1701,7 +1701,7 @@ Investigative Direction: Check the chat export's time-zone metadata to confirm t
 
 ---
 
-**C-11338** Host Says Kolvet Told the Group at 1:02 p.m. Utah Time That They Could Confirm Charlie Was Shot
+**C-7297** Host Says Kolvet Told the Group at 1:02 p.m. Utah Time That They Could Confirm Charlie Was Shot
 
 Claim Timestamp: 00:21:46
 
@@ -1717,7 +1717,7 @@ Investigative Direction: Check the chat export for the message and compare with 
 
 ---
 
-**C-11339** Host Names the Four Members of the PR Chat: Streiff, Kolvet, Marina and Aubrey
+**C-7298** Host Names the Four Members of the PR Chat: Streiff, Kolvet, Marina and Aubrey
 
 Claim Timestamp: 00:21:46
 
@@ -1733,7 +1733,7 @@ Investigative Direction: Verify the member list from the chat export.
 
 ---
 
-**C-11340** Host Says Kolvet Instantly Declined a CNN Request Relayed at 1:29 p.m.
+**C-7299** Host Says Kolvet Instantly Declined a CNN Request Relayed at 1:29 p.m.
 
 Claim Timestamp: 00:21:46
 
@@ -1749,7 +1749,7 @@ Investigative Direction: Check the chat export for the CNN request and his reply
 
 ---
 
-**C-11341** Host Says a 1:30 p.m. Request About Morgan Went Unanswered Until 3:25 p.m.
+**C-7300** Host Says a 1:30 p.m. Request About Morgan Went Unanswered Until 3:25 p.m.
 
 Claim Timestamp: 00:21:46
 
@@ -1765,7 +1765,7 @@ Investigative Direction: Identify who Morgan is and confirm the request and the 
 
 ---
 
-**C-11342** Host Says Messages Cannot Load on a Plane Without Wi-Fi
+**C-7302** Host Says Messages Cannot Load on a Plane Without Wi-Fi
 
 Claim Timestamp: 00:23:16
 
@@ -1781,7 +1781,7 @@ Investigative Direction: Ask aviation or messaging experts whether delayed deliv
 
 ---
 
-**C-11343** Host Says the 1:30 to 3:25 Window Matches Charlie's Plane and the Chain Makes It Look Like Kolvet Was Aboard
+**C-7303** Host Says the 1:30 to 3:25 Window Matches Charlie's Plane and the Chain Makes It Look Like Kolvet Was Aboard
 
 Claim Timestamp: 00:23:16
 
@@ -1797,7 +1797,7 @@ Investigative Direction: Match the chat times with the flight track and manifest
 
 ---
 
-**C-11344** Host Says Charlie's Plane Left Scottsdale at 2:31 p.m. and Landed in Provo at 3:31 With Erika, Tyler, Elizabeth McCoy and Stacy Sheridan Reported Aboard
+**C-7304** Host Says Charlie's Plane Left Scottsdale at 2:31 p.m. and Landed in Provo at 3:31 With Erika, Tyler, Elizabeth McCoy and Stacy Sheridan Reported Aboard
 
 Claim Timestamp: 00:23:16
 
@@ -1813,7 +1813,7 @@ Investigative Direction: Obtain the passenger manifest and FAA track for the Sco
 
 ---
 
-**C-11345** Host Paraphrases Marina Telling Aubrey She Could Not Bring Herself to Draft the Statement
+**C-7306** Host Paraphrases Marina Telling Aubrey She Could Not Bring Herself to Draft the Statement
 
 Claim Timestamp: 00:24:14
 
@@ -1829,7 +1829,7 @@ Investigative Direction: Ask Aubrey or Marina for the call content; the wording 
 
 ---
 
-**C-11346** Host Says Aubrey Was a 26-Year-Old Given the Task of the Staff Death Statement
+**C-7307** Host Says Aubrey Was a 26-Year-Old Given the Task of the Staff Death Statement
 
 Claim Timestamp: 00:24:14
 
@@ -1845,7 +1845,7 @@ Investigative Direction: Confirm Aubrey's age and role with her or with employme
 
 ---
 
-**C-11347** Host Says Aubrey and Her Fiance Were Fired Over an Uber Driver Conversation and Disloyalty to Erika
+**C-7309** Host Says Aubrey and Her Fiance Were Fired Over an Uber Driver Conversation and Disloyalty to Erika
 
 Claim Timestamp: 00:25:31
 
@@ -1856,13 +1856,13 @@ Transcript Snippet: make her work insane hours and then fire her. Through weeken
 Anchored Artifacts: 
 Mentions: N-551, N-2
 Related Nodes: N-10552
-Supports: C-9967
+Supports: C-5747
 Tags: relevance:context
 Investigative Direction: Ask Aubrey for her termination paperwork and for the driver's account of the conversation.
 
 ---
 
-**C-11348** Host Says Aubrey Received No Bonus After the Organization Took In That Much Money
+**C-7310** Host Says Aubrey Received No Bonus After the Organization Took In That Much Money
 
 Claim Timestamp: 00:25:31
 
@@ -1878,7 +1878,7 @@ Investigative Direction: Request payroll or severance records through Aubrey and
 
 ---
 
-**C-11349** Host Says the Staff Email Confirming Charlie's Death Went Out at 2:27 p.m. Utah Time
+**C-7311** Host Says the Staff Email Confirming Charlie's Death Went Out at 2:27 p.m. Utah Time
 
 Claim Timestamp: 00:26:18
 
@@ -1894,7 +1894,7 @@ Investigative Direction: Obtain the staff email with header timestamp and compar
 
 ---
 
-**C-11350** Host Says Aubrey Asked Her Boss at 3:49 p.m. Whether to Confirm or Deny the Email
+**C-7312** Host Says Aubrey Asked Her Boss at 3:49 p.m. Whether to Confirm or Deny the Email
 
 Claim Timestamp: 00:27:11
 
@@ -1910,7 +1910,7 @@ Investigative Direction: Check the full chat export for the 3:49 message and its
 
 ---
 
-**C-11351** Host Says Streiff Wrote "Your Call, Andrew" at 3:52 p.m. Despite Knowing He Booked the Planes
+**C-7313** Host Says Streiff Wrote "Your Call, Andrew" at 3:52 p.m. Despite Knowing He Booked the Planes
 
 Claim Timestamp: 00:27:55
 
@@ -1926,7 +1926,7 @@ Investigative Direction: Confirm the 3:52 message in the chat export and ask Str
 
 ---
 
-**C-11352** Host Says Kolvet Did Not Reply Until 4:25 p.m. and Then Said His Internet Came Back On
+**C-7314** Host Says Kolvet Did Not Reply Until 4:25 p.m. and Then Said His Internet Came Back On
 
 Claim Timestamp: 00:28:38
 
@@ -1942,7 +1942,7 @@ Investigative Direction: Confirm the 4:25 message in the chat export and compare
 
 ---
 
-**C-11353** Host Says an Egyptian Plane's Transponder Mysteriously Turned On at the Provo Tarmac
+**C-7316** Host Says an Egyptian Plane's Transponder Mysteriously Turned On at the Provo Tarmac
 
 Claim Timestamp: 00:29:39
 
@@ -1953,13 +1953,13 @@ Transcript Snippet: there was a one Egyptian plane that was just transponding on
 Anchored Artifacts: 
 Mentions: 
 Related Nodes: N-10549, N-10253
-Supports: C-1719
+Supports: C-2924
 Tags: relevance:core
 Investigative Direction: Match the ADS-B record for the Egyptian aircraft at Provo on September 10 with any TPUSA or airport account.
 
 ---
 
-**C-11354** Host Says Aircraft Use Satellite Communication and the DoD Has Its Own Satellites
+**C-7317** Host Says Aircraft Use Satellite Communication and the DoD Has Its Own Satellites
 
 Claim Timestamp: 00:31:14
 
@@ -1975,7 +1975,7 @@ Investigative Direction: Ask aviation communications experts whether in-flight m
 
 ---
 
-**C-11355** Host Plays Neff Clip: He Says Mikey Called Erika Then His Father, Rob McCoy
+**C-7318** Host Plays Neff Clip: He Says Mikey Called Erika Then His Father, Rob McCoy
 
 Claim Timestamp: 00:32:40
 
@@ -1991,7 +1991,7 @@ Investigative Direction: Obtain Mikey McCoy's call log for the minutes after the
 
 ---
 
-**C-11356** Host Says Streiff Wrote That They May Need to Wait Until AK Is on the Ground
+**C-7320** Host Says Streiff Wrote That They May Need to Wait Until AK Is on the Ground
 
 Claim Timestamp: 00:33:30
 
@@ -2007,7 +2007,7 @@ Investigative Direction: Confirm the message and its timestamp in the chat expor
 
 ---
 
-**C-11357** Host Says Erika Told Her the Yrefy Plane Was the Plane in Question and Yrefy Sponsored the Event
+**C-7321** Host Says Erika Told Her the Yrefy Plane Was the Plane in Question and Yrefy Sponsored the Event
 
 Claim Timestamp: 00:34:50
 
@@ -2023,7 +2023,7 @@ Investigative Direction: Identify the tail number of the Yrefy-sponsored plane a
 
 ---
 
-**C-11358** Host Says Duncan Aviation Is Unusual Compared With Signature or Atlantic and Leans Military
+**C-7322** Host Says Duncan Aviation Is Unusual Compared With Signature or Atlantic and Leans Military
 
 Claim Timestamp: 00:34:50
 
@@ -2039,7 +2039,7 @@ Investigative Direction: Check Duncan Aviation's Provo services and who arrived 
 
 ---
 
-**C-11359** Host Says Egyptian Planes Began Transponding Right After the Yrefy Plane Landed at Provo and Scottsdale
+**C-7324** Host Says Egyptian Planes Began Transponding Right After the Yrefy Plane Landed at Provo and Scottsdale
 
 Claim Timestamp: 00:36:38
 
@@ -2055,7 +2055,7 @@ Investigative Direction: Overlay the ADS-B timestamps for the Yrefy plane's land
 
 ---
 
-**C-11360** Host Says the Yrefy Plane Is Somehow Associated With Turning Point USA
+**C-7325** Host Says the Yrefy Plane Is Somehow Associated With Turning Point USA
 
 Claim Timestamp: 00:36:38
 
@@ -2071,7 +2071,7 @@ Investigative Direction: Identify the plane's owner, the sponsor's relationship 
 
 ---
 
-**C-11361** Host Says Aubrey Worked Long Days Without Sleep and Got No Raise Before Being Fired
+**C-7326** Host Says Aubrey Worked Long Days Without Sleep and Got No Raise Before Being Fired
 
 Claim Timestamp: 00:37:21
 
@@ -2087,7 +2087,7 @@ Investigative Direction: Obtain Aubrey's pay and schedule records and the accoun
 
 ---
 
-**C-11362** Host Says Aubrey Denies Venting to the Uber Driver While the Driver Says They Vented
+**C-7327** Host Says Aubrey Denies Venting to the Uber Driver While the Driver Says They Vented
 
 Claim Timestamp: 00:40:02
 
@@ -2103,7 +2103,7 @@ Investigative Direction: Locate the Uber driver and any statement from him; ask 
 
 ---
 
-**C-11363** Rogan Clip Says Erika Was on a Reality Show
+**C-7329** Rogan Clip Says Erika Was on a Reality Show
 
 Claim Timestamp: 00:40:59
 
@@ -2114,13 +2114,13 @@ Transcript Snippet: She seems she's having a good time. Well, she was on a reali
 Anchored Artifacts: A-1883.1
 Mentions: N-2, N-268
 Related Nodes: 
-Supports: C-10116
+Supports: C-6487
 Tags: relevance:context
 Investigative Direction: Identify the reality show and Erika Kirk's appearance in it.
 
 ---
 
-**C-11364** Rogan Clip Mentions a Video Compilation of Erika Making "Demon Eyes"
+**C-7330** Rogan Clip Mentions a Video Compilation of Erika Making "Demon Eyes"
 
 Claim Timestamp: 00:40:59
 
@@ -2136,7 +2136,7 @@ Investigative Direction: Find the compilation video and its source; this is reco
 
 ---
 
-**C-11365** Host Says the Head of the CIA Appears in the Documentary Rogan Mentioned
+**C-7331** Host Says the Head of the CIA Appears in the Documentary Rogan Mentioned
 
 Claim Timestamp: 00:43:07
 
@@ -2152,7 +2152,7 @@ Investigative Direction: Identify the documentary, its producer, who appears in 
 
 ---
 
-**C-11366** Host Says Erika's Clip Concerns Her Mother's EMP Business Model, So She Was Not Acting
+**C-7332** Host Says Erika's Clip Concerns Her Mother's EMP Business Model, So She Was Not Acting
 
 Claim Timestamp: 00:43:07
 
@@ -2163,13 +2163,13 @@ Transcript Snippet: She's specifically referring to her mother's business model.
 Anchored Artifacts: A-1883.1
 Mentions: N-2, N-3
 Related Nodes: N-11114
-Supports: C-6901
+Supports: C-4630
 Tags: relevance:core
 Investigative Direction: Find the source video, its date and sponsor, and Erika's mother's company filings on EMP work.
 
 ---
 
-**C-11367** Host Says She Knew Charlie's Israel Mindset From Her Own Talks, Not From Kent
+**C-7335** Host Says She Knew Charlie's Israel Mindset From Her Own Talks, Not From Kent
 
 Claim Timestamp: 00:45:07
 
@@ -2185,7 +2185,7 @@ Investigative Direction: Seek independent corroboration of the host's conversati
 
 ---
 
-**C-11368** Host Says Kolvet Claimed Erika Never Wanted the Limelight
+**C-7337** Host Says Kolvet Claimed Erika Never Wanted the Limelight
 
 Claim Timestamp: 00:48:17
 
@@ -2201,7 +2201,7 @@ Investigative Direction: Locate Kolvet's statement and compare with Erika's publ
 
 ---
 
-**C-11369** Viewer Comment Read: Erika Applied to Numerous Reality Shows
+**C-7338** Viewer Comment Read: Erika Applied to Numerous Reality Shows
 
 Claim Timestamp: 00:48:17
 
@@ -2212,13 +2212,13 @@ Transcript Snippet: A woman who applied for numerous reality shows can never cla
 Anchored Artifacts: A-1885.2
 Mentions: N-2, N-3
 Related Nodes: N-11296
-Supports: C-10116
+Supports: C-6487
 Tags: relevance:context
 Investigative Direction: Find casting records or application evidence for the reality shows the commenter refers to.
 
 ---
 
-**C-11370** Host Says Erika Was Fine the Next Day and Said She Felt No Fear
+**C-7339** Host Says Erika Was Fine the Next Day and Said She Felt No Fear
 
 Claim Timestamp: 00:49:10
 
@@ -2234,7 +2234,7 @@ Investigative Direction: Locate Erika Kirk's own statement saying she felt no fe
 
 ---
 
-**C-11371** Host Says Her Catholics for Catholics Event Was Her First Event in a Long Time
+**C-7340** Host Says Her Catholics for Catholics Event Was Her First Event in a Long Time
 
 Claim Timestamp: 00:49:10
 
@@ -2250,7 +2250,7 @@ Investigative Direction: Check the event listing and date.
 
 ---
 
-**C-11372** Host Says She Never Received Classified Information From Kent and Kolvet First Told Her About the Chat
+**C-7341** Host Says She Never Received Classified Information From Kent and Kolvet First Told Her About the Chat
 
 Claim Timestamp: 00:52:39
 
@@ -2266,7 +2266,7 @@ Investigative Direction: The host's own communications records would be the chec
 
 ---
 
-**C-11373** Viewer Comment Read: Bongino Tried to Link Candace and Joe Kent
+**C-7342** Viewer Comment Read: Bongino Tried to Link Candace and Joe Kent
 
 Claim Timestamp: 00:52:39
 
@@ -2282,7 +2282,7 @@ Investigative Direction: Find Bongino's on-air or posted remarks tying the host 
 
 ---
 
-**C-11374** Host Says the Group-Chat People Argued With Charlie the Night Before and Knew How Stressed He Was
+**C-7343** Host Says the Group-Chat People Argued With Charlie the Night Before and Knew How Stressed He Was
 
 Claim Timestamp: 00:52:39
 

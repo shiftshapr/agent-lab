@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep033): N-472, N-10488
   - Tip-minted Nodes (reintro-ep033): N-10925
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10f): C-12350–C-12416
+  - Claim Range: C-2891–C-2980
   - New Nodes Introduced: N-259, N-260, N-263, N-264, N-10254, N-10255, N-10256, N-10257, N-10258
   - Reused Nodes Appearing: N-10253, N-261, N-5, N-11, N-36, N-55, N-97, N-99, N-224, N-10000, N-10012, N-10026, N-10061, N-10074, N-10100, N-10132, N-10139, N-10162, N-10167, N-10208, N-10237, N-10299, N-10434, N-10451, N-10810
   - Tip-minted Nodes (wave2): N-10896
@@ -41,7 +41,7 @@
 ### Episode 33 Ledger Summary
 
 - **Artifact Families Introduced:** A-1415, A-1416, A-1417, A-1418, A-1419, A-1420, A-1421, A-1422, A-1423, A-1424
-- **Claim Range:** C-1716 – C-1734, C-3735
+- **Claim Range:** C-2892 – C-2927, C-2909
 - **New Nodes Introduced:** N-259, N-260, N-261, N-263, N-264, N-10253, N-10254, N-10255, N-10256, N-10257, N-10258
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica/Erika Kirk – preserved as Erika per transcript), N-3 (Candace Owens), N-22 (Tucker Carlson), N-41 (Governor Cox)
 
@@ -69,7 +69,7 @@ Video Timestamp: 00:02:22–00:03:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1716, N-17, N-3*
+*Related: C-2892, N-17, N-3*
 
 ---
 
@@ -83,7 +83,7 @@ Video Timestamp: 00:08:45–00:10:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1717, C-1718, N-259, N-2, N-3*
+*Related: C-2899, C-2902, N-259, N-2, N-3*
 
 ---
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:06:45–00:08:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1717, C-1718, N-3*
+*Related: C-2899, C-2902, N-3*
 
 ---
 
@@ -111,7 +111,7 @@ Video Timestamp: 00:19:57–00:21:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1719, N-1, N-2, N-67, N-10253*
+*Related: C-2924, N-1, N-2, N-67, N-10253*
 
 ---
 
@@ -125,7 +125,7 @@ Video Timestamp: 00:17:49–00:18:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (relies on underlying ADSB/Hex data interpretation)
 
-*Related: C-1720, C-1721, C-1722, C-1723, N-1, N-2, N-10253*
+*Related: C-2917, C-2918, C-2919, C-2921, N-1, N-2, N-10253*
 
 **A-1419.2** "Mommy sleuth" email asserting that the planes tracked Erika rather than Charlie (referenced verbally; original email not displayed)
 
@@ -135,7 +135,7 @@ Video Timestamp: 00:14:51–00:16:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1720, C-1721, N-2, N-10253*
+*Related: C-2917, C-2918, N-2, N-10253*
 
 ---
 
@@ -149,7 +149,7 @@ Video Timestamp: 00:34:07–00:35:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (third-party YouTube documentary analysis)
 
-*Related: C-1728, C-1730, C-1731, C-1732, N-1, N-2, N-10254*
+*Related: C-2947, C-2949, C-2965, C-2963, N-1, N-2, N-10254*
 
 **A-1420.2** "Wolves and Finance" video clip discussing Schedule I showing $8,560,625 transferred from Turning Point USA to America's Turning Point in FY2024, prior-year contributions chart, and shell-company analysis
 
@@ -159,7 +159,7 @@ Video Timestamp: 00:37:29–00:40:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1729, C-1731, N-2, N-10254, N-41*
+*Related: C-2955, C-2965, N-2, N-10254, N-41*
 
 **A-1420.3** "Wolves and Finance" video clip discussing Baker Tilly audit opinion letter covering Turning Point USA and affiliates
 
@@ -169,7 +169,7 @@ Video Timestamp: 00:41:11–00:42:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1730, N-41, N-10896, N-10254*
+*Related: C-2949, N-41, N-10896, N-10254*
 
 ---
 
@@ -183,7 +183,7 @@ Video Timestamp: 00:27:30–00:28:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-stated; requires verification against rental records)
 
-*Related: C-1726, C-1727, N-260, N-10256*
+*Related: C-2939, C-2940, N-260, N-10256*
 
 **A-1421.2** Arizona license plate CWN N872 – white 2025 Toyota Camry rented at Duncan Aviation FBO
 
@@ -193,7 +193,7 @@ Video Timestamp: 00:27:30–00:28:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1726, C-1727, N-260, N-10256*
+*Related: C-2939, C-2940, N-260, N-10256*
 
 **A-1421.3** Utah license plate TN12KM – white 2023 Toyota RAV4 rented at Duncan Aviation FBO
 
@@ -203,7 +203,7 @@ Video Timestamp: 00:27:30–00:28:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1726, C-1727, N-260, N-10256*
+*Related: C-2939, C-2940, N-260, N-10256*
 
 **A-1421.4** Utah license plate Z923DA – black 2025 Toyota 4Runner rented at Duncan Aviation FBO
 
@@ -213,7 +213,7 @@ Video Timestamp: 00:27:30–00:28:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1726, C-1727, N-260, N-10256*
+*Related: C-2939, C-2940, N-260, N-10256*
 
 ---
 
@@ -227,7 +227,7 @@ Video Timestamp: 00:26:19–00:27:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1725, N-10255*
+*Related: C-2937, N-10255*
 
 ---
 
@@ -241,7 +241,7 @@ Video Timestamp: 00:52:35–00:54:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (third-party tip; producer-asserted camera locations)
 
-*Related: C-1733, N-263, N-10257*
+*Related: C-2973, N-263, N-10257*
 
 ---
 
@@ -255,7 +255,7 @@ Video Timestamp: 00:12:50–00:13:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (verbal reference; no artifact displayed)
 
-*Related: C-1724 (informational context only – not inscribed as separate claim), N-261, N-1*
+*Related: C-2931 (informational context only – not inscribed as separate claim), N-261, N-1*
 
 **A-1424.2** Host's verbal account that Andrew K. Smith, "managing director of a restaurant fund," conducted a "restaurantology" interview with Charlie Kirk the morning of September 10, cited as the reason Charlie flew into Salt Lake City rather than Provo
 
@@ -265,7 +265,7 @@ Video Timestamp: 00:13:12–00:14:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (verbal reference; no displayed artifact)
 
-*Related: C-3735, N-1, N-264, N-10253*
+*Related: C-2909, N-1, N-264, N-10253*
 
 ---
 
@@ -280,7 +280,7 @@ Video Timestamp: 00:26:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12383, N-3, N-10255*
+*Related: C-2938, N-3, N-10255*
 
 ---
 
@@ -293,7 +293,7 @@ Video Timestamp: 00:28:32
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12384, N-3, N-10256*
+*Related: C-2941, N-3, N-10256*
 
 ---
 
@@ -306,7 +306,7 @@ Video Timestamp: 00:52:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12412, N-3, N-10256*
+*Related: C-2976, N-3, N-10256*
 
 ---
 
@@ -321,7 +321,7 @@ Video Timestamp: 00:46:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-12406, N-3, N-11334*
+*Related: C-2968, N-3, N-11334*
 
 ---
 
@@ -336,7 +336,7 @@ Video Timestamp: 00:52:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-12414, N-10896*
+*Related: C-2978, N-10896*
 
 ---
 
@@ -349,7 +349,7 @@ Video Timestamp: 00:52:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-12413, N-224*
+*Related: C-2977, N-224*
 
 ---
 
@@ -366,7 +366,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1415.1, C-1716, N-3*
+*Related: A-1415.1, C-2892, N-3*
 
 ---
 
@@ -379,7 +379,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1416.1, A-1417.1, C-1717, C-1718, N-2, N-3*
+*Related: A-1416.1, A-1417.1, C-2899, C-2902, N-2, N-3*
 
 ---
 
@@ -392,7 +392,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1418.1, C-1719, C-1734, N-10253*
+*Related: A-1418.1, C-2924, C-2927, N-10253*
 
 ---
 
@@ -405,7 +405,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1418.1, A-1421.1, A-1421.2, A-1421.3, A-1421.4, C-1719, C-1726, C-1727, N-10256*
+*Related: A-1418.1, A-1421.1, A-1421.2, A-1421.3, A-1421.4, C-2924, C-2939, C-2940, N-10256*
 
 ---
 
@@ -434,7 +434,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1420.3, C-1730, N-10254*
+*Related: A-1420.3, C-2949, N-10254*
 
 ---
 
@@ -447,7 +447,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1419.2, C-1720, C-1721, N-2, N-10253*
+*Related: A-1419.2, C-2917, C-2918, N-2, N-10253*
 
 ---
 
@@ -460,7 +460,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1424.2, C-3735, N-1*
+*Related: A-1424.2, C-2909, N-1*
 
 ---
 
@@ -475,7 +475,7 @@ Claim Count: 6
 Episode Count: 1 (this episode)
 Investigative Pressure: High
 
-*Related: A-1418.1, A-1419.1, A-1419.2, A-1424.2, C-1719, C-1720, C-1721, C-1722, C-1723, N-1, N-2, N-67, N-263*
+*Related: A-1418.1, A-1419.1, A-1419.2, A-1424.2, C-2924, C-2917, C-2918, C-2919, C-2921, N-1, N-2, N-67, N-263*
 
 ---
 
@@ -488,7 +488,7 @@ Claim Count: 4
 Episode Count: 1 (this episode)
 Investigative Pressure: High
 
-*Related: A-1420.1, A-1420.2, A-1420.3, C-1728, C-1729, C-1730, C-1731, C-1732, N-2, N-41, N-10896*
+*Related: A-1420.1, A-1420.2, A-1420.3, C-2947, C-2955, C-2949, C-2965, C-2963, N-2, N-41, N-10896*
 
 ---
 
@@ -501,7 +501,7 @@ Claim Count: 1
 Episode Count: 1 (this episode)
 Investigative Pressure: Medium
 
-*Related: A-1422.1, C-1725, N-1*
+*Related: A-1422.1, C-2937, N-1*
 
 ---
 
@@ -514,7 +514,7 @@ Claim Count: 2
 Episode Count: 1 (this episode)
 Investigative Pressure: High
 
-*Related: A-1421.1, A-1421.2, A-1421.3, A-1421.4, C-1726, C-1727, N-260*
+*Related: A-1421.1, A-1421.2, A-1421.3, A-1421.4, C-2939, C-2940, N-260*
 
 ---
 
@@ -527,7 +527,7 @@ Claim Count: 1
 Episode Count: 1 (this episode)
 Investigative Pressure: Medium
 
-*Related: A-1423.1, C-1733*
+*Related: A-1423.1, C-2973*
 
 ---
 
@@ -540,7 +540,7 @@ Claim Count: 1
 Episode Count: 1 (this episode)
 Investigative Pressure: Medium
 
-*Related: A-1424 (referenced verbally), C-1724, N-2 (consequential to leadership continuity)*
+*Related: A-1424 (referenced verbally), C-2931, N-2 (consequential to leadership continuity)*
 
 ---
 
@@ -549,7 +549,7 @@ Investigative Pressure: Medium
 Node Type: Organization
 Turning Point USA affiliate described in the Wolves and Finance video as an endowment that received millions of dollars of transfers from TPUSA until 2021, held $61 million in assets as of fiscal year 2023, and whose fiscal year 2024 Form 990 is described as missing.
 
-*Related: C-12397, C-12398, C-12401, C-12405*
+*Related: C-2957, C-2958, C-2961, C-2967*
 
 ---
 
@@ -558,7 +558,7 @@ Turning Point USA affiliate described in the Wolves and Finance video as an endo
 Node Type: Organization
 Turning Point USA affiliate that the Wolves and Finance video says received $8,560,625 from TPUSA in fiscal year 2024, reports zero employees and has no fiscal year 2024 Form 990 posted.
 
-*Related: C-12396, C-12397, C-12399, C-12400, C-12401*
+*Related: C-2956, C-2957, C-2959, C-2960, C-2961*
 
 ---
 
@@ -567,7 +567,7 @@ Turning Point USA affiliate that the Wolves and Finance video says received $8,5
 Node Type: Topic
 Persistent question raised by the host about why Charlie Kirk flew into Salt Lake City at 9:23 a.m. on September 10 rather than the closer Provo airport, and who arranged the interview that she says explained the detour.
 
-*Related: C-12365, C-12368*
+*Related: C-2910, C-2915*
 
 ---
 
@@ -576,7 +576,7 @@ Persistent question raised by the host about why Charlie Kirk flew into Salt Lak
 Node Type: Topic
 Dispute over whether the SUBND transponder windows on September 10 should be converted from UTC with minus 7 hours (as presented on air) or minus 6 hours (Mountain Daylight Time), and whether the host's first October 11 plane post had a time-zone error.
 
-*Related: C-12353, C-12354, C-12374, C-12406*
+*Related: C-2895, C-2896, C-2926, C-2968*
 
 ---
 
@@ -584,7 +584,7 @@ Dispute over whether the SUBND transponder windows on September 10 should be con
 
 Subject of the investigation; the episode's claims concern his travel, memory and views.
 
-*Related: C-12353, C-12356, C-12357, C-12359, C-12361, C-12363, C-12365, C-12366, C-12367, C-12368, C-12369, C-12372, C-12374, C-12391, C-12393, C-12404, C-12408, C-12416*
+*Related: C-2895, C-2898, C-2900, C-2903, C-2905, C-2907, C-2910, C-2911, C-2912, C-2915, C-2916, C-2923, C-2926, C-2950, C-2952, C-2966, C-2971, C-2980*
 
 ---
 
@@ -592,7 +592,7 @@ Subject of the investigation; the episode's claims concern his travel, memory an
 
 Widow of Charlie Kirk and TPUSA CEO; the host says the planes tracked her and disputes the Crowder reading of her remarks.
 
-*Related: C-12355, C-12358, C-12359, C-12360, C-12369, C-12371*
+*Related: C-2897, C-2901, C-2903, C-2904, C-2916, C-2922*
 
 ---
 
@@ -600,7 +600,7 @@ Widow of Charlie Kirk and TPUSA CEO; the host says the planes tracked her and di
 
 Host; speaks for herself throughout.
 
-*Related: C-12350, C-12351, C-12352, C-12353, C-12354, C-12355, C-12356, C-12357, C-12358, C-12359, C-12360, C-12361, C-12362, C-12363, C-12364, C-12365, C-12366, C-12367, C-12368, C-12369, C-12370, C-12371, C-12372, C-12374, C-12375, C-12376, C-12377, C-12378, C-12379, C-12380, C-12381, C-12382, C-12383, C-12384, C-12385, C-12386, C-12387, C-12388, C-12389, C-12391, C-12392, C-12393, C-12394, C-12395, C-12403, C-12404, C-12405, C-12406, C-12407, C-12408, C-12409, C-12412, C-12413, C-12415, C-12416*
+*Related: C-2891, C-2893, C-2894, C-2895, C-2896, C-2897, C-2898, C-2900, C-2901, C-2903, C-2904, C-2905, C-2906, C-2907, C-2908, C-2910, C-2911, C-2912, C-2915, C-2916, C-2920, C-2922, C-2923, C-2926, C-2928, C-2929, C-2930, C-2932, C-2933, C-2934, C-2935, C-2936, C-2938, C-2941, C-2942, C-2943, C-2944, C-2945, C-2946, C-2950, C-2951, C-2952, C-2953, C-2954, C-2964, C-2966, C-2967, C-2968, C-2970, C-2971, C-2972, C-2976, C-2977, C-2979, C-2980*
 
 ---
 
@@ -608,7 +608,7 @@ Host; speaks for herself throughout.
 
 Named in the book club audio in which the host says she lost faith in him.
 
-*Related: C-12356*
+*Related: C-2898*
 
 ---
 
@@ -616,7 +616,7 @@ Named in the book club audio in which the host says she lost faith in him.
 
 TPUSA figure whose audit statements are cited by the host and by the Wolves and Finance video.
 
-*Related: C-12390, C-12392*
+*Related: C-2948, C-2951*
 
 ---
 
@@ -624,7 +624,7 @@ TPUSA figure whose audit statements are cited by the host and by the Wolves and 
 
 TPUSA spokesperson; the host addresses him about his Provo tarmac account and the hospital threat warning.
 
-*Related: C-12378, C-12379, C-12380, C-12381*
+*Related: C-2932, C-2933, C-2934, C-2935*
 
 ---
 
@@ -632,7 +632,7 @@ TPUSA spokesperson; the host addresses him about his Provo tarmac account and th
 
 Named by the host as co-subject of a warned threat and of Israel-linked cancellation demands.
 
-*Related: C-12379, C-12380, C-12382, C-12385*
+*Related: C-2933, C-2934, C-2936, C-2942*
 
 ---
 
@@ -640,7 +640,7 @@ Named by the host as co-subject of a warned threat and of Israel-linked cancella
 
 Named by the host as namechecking her and Tucker Carlson.
 
-*Related: C-12385*
+*Related: C-2942*
 
 ---
 
@@ -648,7 +648,7 @@ Named by the host as namechecking her and Tucker Carlson.
 
 Named by the host as an influencer who allegedly lied about her while TPUSA stayed silent.
 
-*Related: C-12370*
+*Related: C-2920*
 
 ---
 
@@ -656,7 +656,7 @@ Named by the host as an influencer who allegedly lied about her while TPUSA stay
 
 Named by the host as sent out to repeat the alleged Erika accusation.
 
-*Related: C-12360*
+*Related: C-2904*
 
 ---
 
@@ -664,7 +664,7 @@ Named by the host as sent out to repeat the alleged Erika accusation.
 
 Named by the host as an influencer who allegedly lied about her and as saying the audit happens every year.
 
-*Related: C-12370, C-12392*
+*Related: C-2920, C-2951*
 
 ---
 
@@ -672,7 +672,7 @@ Named by the host as an influencer who allegedly lied about her and as saying th
 
 Podcaster whose episode with Charlie's security detail a viewer asks the host about.
 
-*Related: C-12413*
+*Related: C-2977*
 
 ---
 
@@ -680,7 +680,7 @@ Podcaster whose episode with Charlie's security detail a viewer asks the host ab
 
 Wolves and Finance YouTube channel whose TPUSA filings report is played on air.
 
-*Related: C-12390, C-12396, C-12397, C-12398, C-12399, C-12400, C-12401, C-12402, C-12415*
+*Related: C-2948, C-2956, C-2957, C-2958, C-2959, C-2960, C-2961, C-2962, C-2979*
 
 ---
 
@@ -688,7 +688,7 @@ Wolves and Finance YouTube channel whose TPUSA filings report is played on air.
 
 Organization at the centre of the missing-filings, silence and plane-awareness claims.
 
-*Related: C-12359, C-12370, C-12377, C-12388, C-12389, C-12394, C-12395, C-12396, C-12404, C-12405*
+*Related: C-2903, C-2920, C-2930, C-2945, C-2946, C-2953, C-2954, C-2956, C-2966, C-2967*
 
 ---
 
@@ -696,7 +696,7 @@ Organization at the centre of the missing-filings, silence and plane-awareness c
 
 Campus where the host asks students to check photos for the four rental cars.
 
-*Related: C-12384*
+*Related: C-2941*
 
 ---
 
@@ -704,7 +704,7 @@ Campus where the host asks students to check photos for the four rental cars.
 
 Place named in the host's claims about threats, legislation and the USS Liberty.
 
-*Related: C-12382, C-12385, C-12386, C-12387*
+*Related: C-2936, C-2942, C-2943, C-2944*
 
 ---
 
@@ -712,7 +712,7 @@ Place named in the host's claims about threats, legislation and the USS Liberty.
 
 Program the host invokes in her opening history.
 
-*Related: C-12350*
+*Related: C-2891*
 
 ---
 
@@ -720,7 +720,7 @@ Program the host invokes in her opening history.
 
 Airport and city where the Egyptian planes and Kolvet's tarmac arrival are located.
 
-*Related: C-12353, C-12378*
+*Related: C-2895, C-2932*
 
 ---
 
@@ -728,7 +728,7 @@ Airport and city where the Egyptian planes and Kolvet's tarmac arrival are locat
 
 Topic on which the Farnsworth SD card claims bear.
 
-*Related: C-12362, C-12363, C-12364*
+*Related: C-2906, C-2907, C-2908*
 
 ---
 
@@ -736,7 +736,7 @@ Topic on which the Farnsworth SD card claims bear.
 
 Topic for the internal DOGE audit discussed with the Wolves video.
 
-*Related: C-12391, C-12392, C-12393*
+*Related: C-2950, C-2951, C-2952*
 
 ---
 
@@ -744,7 +744,7 @@ Topic for the internal DOGE audit discussed with the Wolves video.
 
 Host's framing of the McCoy clip as an influence operation.
 
-*Related: C-12351*
+*Related: C-2893*
 
 ---
 
@@ -752,7 +752,7 @@ Host's framing of the McCoy clip as an influence operation.
 
 Topic on which the Farnsworth SD card claims bear.
 
-*Related: C-12362, C-12364*
+*Related: C-2906, C-2908*
 
 ---
 
@@ -760,7 +760,7 @@ Topic on which the Farnsworth SD card claims bear.
 
 Topic for Bowyer's X posts pointing to the annual audit.
 
-*Related: C-12390*
+*Related: C-2948*
 
 ---
 
@@ -768,7 +768,7 @@ Topic for Bowyer's X posts pointing to the annual audit.
 
 Aircraft whose September 10 behaviour is described.
 
-*Related: C-12372*
+*Related: C-2923*
 
 ---
 
@@ -776,7 +776,7 @@ Aircraft whose September 10 behaviour is described.
 
 Topic for the dispute over what Shapiro attributed to the host.
 
-*Related: C-12360*
+*Related: C-2904*
 
 ---
 
@@ -784,7 +784,7 @@ Topic for the dispute over what Shapiro attributed to the host.
 
 Topic on TPUSA's silence about the planes.
 
-*Related: C-12352, C-12370, C-12377*
+*Related: C-2894, C-2920, C-2930*
 
 ---
 
@@ -792,7 +792,7 @@ Topic on TPUSA's silence about the planes.
 
 Topic for the claim that Charlie wanted to establish a DOGE a week before his death.
 
-*Related: C-12391, C-12393*
+*Related: C-2950, C-2952*
 
 ---
 
@@ -800,7 +800,7 @@ Topic for the claim that Charlie wanted to establish a DOGE a week before his de
 
 Topic the host invokes by analogy.
 
-*Related: C-12387*
+*Related: C-2944*
 
 ---
 
@@ -808,7 +808,7 @@ Topic the host invokes by analogy.
 
 Topic for the encrypted communications hypothesis.
 
-*Related: C-12376*
+*Related: C-2929*
 
 ---
 
@@ -816,7 +816,7 @@ Topic for the encrypted communications hypothesis.
 
 Topic on which the Farnsworth SD card claims bear.
 
-*Related: C-12364*
+*Related: C-2908*
 
 ---
 
@@ -824,13 +824,13 @@ Topic on which the Farnsworth SD card claims bear.
 
 TPUSA affiliate named among the entities audited by Baker Tilly.
 
-*Related: C-12401*
+*Related: C-2961*
 
 ---
 
 ## V. Claim Register
 
-**C-1716** Rob McCoy Publicly Urged Mourning Over Speculation
+**C-2892** Rob McCoy Publicly Urged Mourning Over Speculation
 
 Claim Timestamp: 00:02:22–00:03:32
 
@@ -844,7 +844,7 @@ Investigative Direction: Verify the clip source, date, and full context; cross-c
 
 ---
 
-**C-1717** Steven Crowder Interpreted Candace's Book Club Remarks as Accusing Erika Kirk
+**C-2899** Steven Crowder Interpreted Candace's Book Club Remarks as Accusing Erika Kirk
 
 Claim Timestamp: 00:08:45–00:10:00
 
@@ -858,7 +858,7 @@ Investigative Direction: Obtain the full Crowder clip and the full book club rec
 
 ---
 
-**C-1718** Host Rejects Crowder's Interpretation as a Manufactured Narrative
+**C-2902** Host Rejects Crowder's Interpretation as a Manufactured Narrative
 
 Claim Timestamp: 00:10:00–00:11:00
 
@@ -872,7 +872,7 @@ Investigative Direction: Determine, by transcript comparison, whether host's ori
 
 ---
 
-**C-1719** Mark Says SUBND Transponded From Duncan Aviation FBO on September 10
+**C-2924** Mark Says SUBND Transponded From Duncan Aviation FBO on September 10
 
 Claim Timestamp: 00:19:57–00:21:54
 
@@ -887,7 +887,7 @@ Investigative Direction: Pull the underlying ADSB Exchange raw data independentl
 
 ---
 
-**C-1720** Documented Overlaps Between Egyptian Aircraft and Erika Kirk's Locations
+**C-2917** Documented Overlaps Between Egyptian Aircraft and Erika Kirk's Locations
 
 Claim Timestamp: 00:16:40
 
@@ -902,7 +902,7 @@ Investigative Direction: Verify each overlap instance against independent ADSB/H
 
 ---
 
-**C-1721** Host Says Charlie Kirk Was Present in 29 of the Documented Overlap Instances
+**C-2918** Host Says Charlie Kirk Was Present in 29 of the Documented Overlap Instances
 
 Claim Timestamp: 00:17:05
 
@@ -917,7 +917,7 @@ Investigative Direction: Independently verify the 29-instance subset using cross
 
 ---
 
-**C-1722** Overlap Instances Clustered Within Five U.S. States
+**C-2919** Overlap Instances Clustered Within Five U.S. States
 
 Claim Timestamp: 00:17:14
 
@@ -932,7 +932,7 @@ Investigative Direction: Independently geocode the overlap instances and verify 
 
 ---
 
-**C-1723** Host-Asserted Statistical Improbability of Random Distribution
+**C-2921** Host-Asserted Statistical Improbability of Random Distribution
 
 Claim Timestamp: 00:18:42
 
@@ -947,7 +947,7 @@ Investigative Direction: Request the host's underlying statistical model and ass
 
 ---
 
-**C-1724** Andrew Kolvet Reportedly Disclosed Hospital Threat to Host
+**C-2931** Andrew Kolvet Reportedly Disclosed Hospital Threat to Host
 
 Claim Timestamp: 00:23:51–00:25:54
 
@@ -961,7 +961,7 @@ Investigative Direction: Obtain corroborating testimony from Andrew Kolvet, Tuck
 
 ---
 
-**C-1725** N560TW Made a Round-Trip Flight Scottsdale–Provo–Santa Barbara–Scottsdale on September 10
+**C-2937** N560TW Made a Round-Trip Flight Scottsdale–Provo–Santa Barbara–Scottsdale on September 10
 
 Claim Timestamp: 00:26:19–00:27:30
 
@@ -975,7 +975,7 @@ Investigative Direction: Independently verify the N560TW flight track via FAA or
 
 ---
 
-**C-1726** Duncan Aviation FBO Sourced Rental Vehicles for Arrivals Described as "Egyptians"
+**C-2939** Duncan Aviation FBO Sourced Rental Vehicles for Arrivals Described as "Egyptians"
 
 Claim Timestamp: 00:27:30–00:29:31
 
@@ -990,7 +990,7 @@ Investigative Direction: Obtain rental records from Duncan Aviation or the renta
 
 ---
 
-**C-1727** Four Specific License Plates Identified as Rental Vehicles
+**C-2940** Four Specific License Plates Identified as Rental Vehicles
 
 Claim Timestamp: 00:27:30–00:29:31
 
@@ -1005,7 +1005,7 @@ Investigative Direction: Cross-reference plates against Flock LPR data (see A-14
 
 ---
 
-**C-1728** Three of Four TPUSA-Related 990 Forms Missing for FY2024
+**C-2947** Three of Four TPUSA-Related 990 Forms Missing for FY2024
 
 Claim Timestamp: 00:34:07–00:35:11
 
@@ -1020,7 +1020,7 @@ Investigative Direction: Verify directly against IRS Tax-Exempt Organization Sea
 
 ---
 
-**C-1729** Wolves and Finance Video Says Turning Point USA Transferred $8.56M to America's Turning Point in FY2024
+**C-2955** Wolves and Finance Video Says Turning Point USA Transferred $8.56M to America's Turning Point in FY2024
 
 Claim Timestamp: 00:37:29–00:39:37
 
@@ -1035,7 +1035,7 @@ Investigative Direction: Verify the Schedule I line item against the filed Form 
 
 ---
 
-**C-1730** Wolves and Finance Video Says Missing Filings Occurred Four Months Before Charlie Kirk's Audit Request and Death
+**C-2949** Wolves and Finance Video Says Missing Filings Occurred Four Months Before Charlie Kirk's Audit Request and Death
 
 Claim Timestamp: 00:35:11–00:36:30
 
@@ -1050,7 +1050,7 @@ Investigative Direction: Obtain dated documentation of Charlie Kirk's audit requ
 
 ---
 
-**C-1731** TPUSA 501(c)(3) Arm Reduced Staff by 33% While Salary Costs Increased
+**C-2965** TPUSA 501(c)(3) Arm Reduced Staff by 33% While Salary Costs Increased
 
 Claim Timestamp: 00:43:40
 
@@ -1065,7 +1065,7 @@ Investigative Direction: Verify the staff-count and salary figures directly agai
 
 ---
 
-**C-1732** Erika Kirk Assumed CEO Role on September 18, 2025
+**C-2963** Erika Kirk Assumed CEO Role on September 18, 2025
 
 Claim Timestamp: 00:42:25
 
@@ -1080,7 +1080,7 @@ Investigative Direction: Verify the appointment date via Turning Point USA press
 
 ---
 
-**C-1733** Producer Says Flock LPR Cameras Are Located Near UVU
+**C-2973** Producer Says Flock LPR Cameras Are Located Near UVU
 
 Claim Timestamp: 00:52:35–00:54:00
 
@@ -1094,7 +1094,7 @@ Investigative Direction: Pull the Flock camera registry; verify proximity to UVU
 
 ---
 
-**C-1734** Mark Says ADSB Data Shows SUBND Transponder Windows on September 10
+**C-2927** Mark Says ADSB Data Shows SUBND Transponder Windows on September 10
 
 Claim Timestamp: 00:21:00–00:21:54
 
@@ -1109,7 +1109,7 @@ Investigative Direction: Verify the UTC-to-local conversion; see flag re dayligh
 
 ---
 
-**C-3648** Host identifies show community as Decentralized Intelligence Agency
+**C-2969** Host identifies show community as Decentralized Intelligence Agency
 
 Claim Timestamp: 00:48:53
 Claim: The host tells YouTubers and mommy sleuths to keep sending emails and says the "decentralized intelligence agency" is going to solve this.
@@ -1122,7 +1122,7 @@ Investigative Direction: Preserve as brand / network framing claim; cross-link M
 
 ---
 
-**C-3649** Host elevates mommy sleuth crowd investigators
+**C-2913** Host elevates mommy sleuth crowd investigators
 
 Claim Timestamp: 00:14:51
 Claim: The host praises "mommy sleuth(s)" as amateur / parent investigators emailing tips, framed as part of the crowd intelligence effort.
@@ -1135,7 +1135,7 @@ Investigative Direction: Cross-link M-16 Mommy Sleuth meme when register present
 
 ---
 
-**C-3701** Host calls a tipster and her audience her decentralized intelligence agents
+**C-2914** Host calls a tipster and her audience her decentralized intelligence agents
 
 Claim Timestamp: 00:14:51
 Claim: Crediting the pregnant mommy sleuth whose urgent email corrected her plane-tracking analysis, the host says "I consider her obviously and all of you to be my decentralized intelligence agents," casting the tipster and the whole audience as agents of the Decentralized Intelligence Agency.
@@ -1149,7 +1149,7 @@ Investigative Direction: Preserve as brand / network framing claim (M-12 alias "
 ---
 
 
-**C-3735** Andrew K. Smith interview cited as reason Charlie Kirk flew into Salt Lake City
+**C-2909** Andrew K. Smith interview cited as reason Charlie Kirk flew into Salt Lake City
 
 Claim Timestamp: 00:12:50
 
@@ -1166,7 +1166,7 @@ Investigative Direction: Locate the Andrew K. Smith interview recording and its 
 
 ---
 
-**C-12350** Host Says the CIA Created Operation Mockingbird After the JFK Assassination
+**C-2891** Host Says the CIA Created Operation Mockingbird After the JFK Assassination
 
 Claim Timestamp: 00:00:00
 
@@ -1182,7 +1182,7 @@ Investigative Direction: Check declassified CIA records and the 1975-76 Church C
 
 ---
 
-**C-12351** Host Says Rob McCoy Is Tied to Naval Psychological Intelligence
+**C-2893** Host Says Rob McCoy Is Tied to Naval Psychological Intelligence
 
 Claim Timestamp: 00:02:23
 
@@ -1198,7 +1198,7 @@ Investigative Direction: Ask the host what 'spawn of' means here (personal servi
 
 ---
 
-**C-12352** Host Says Her Adversaries Began Panicking When She Discovered the Egyptian Planes
+**C-2894** Host Says Her Adversaries Began Panicking When She Discovered the Egyptian Planes
 
 Claim Timestamp: 00:04:21
 
@@ -1214,7 +1214,7 @@ Investigative Direction: Compare the date of the host's first plane post with th
 
 ---
 
-**C-12353** Host Says She Tweeted on October 11 About the Egyptian Plane Leaving Provo and Got the Time Zone Wrong
+**C-2895** Host Says She Tweeted on October 11 About the Egyptian Plane Leaving Provo and Got the Time Zone Wrong
 
 Claim Timestamp: 00:05:40
 
@@ -1230,7 +1230,7 @@ Investigative Direction: Retrieve the host's October 11 post and its edit histor
 
 ---
 
-**C-12354** Host Says an Account That Did Not Exist Posted the Time-Zone Error and It Trended as an Official Debunk
+**C-2896** Host Says an Account That Did Not Exist Posted the Time-Zone Error and It Trended as an Official Debunk
 
 Claim Timestamp: 00:05:59
 
@@ -1246,7 +1246,7 @@ Investigative Direction: Identify the account that posted the time-zone correcti
 
 ---
 
-**C-12355** Host Says Undercover Operatives Joined Her Private Tuesday Book Club and Clipped It
+**C-2897** Host Says Undercover Operatives Joined Her Private Tuesday Book Club and Clipped It
 
 Claim Timestamp: 00:05:59
 
@@ -1261,7 +1261,7 @@ Investigative Direction: Trace who first posted the book club clip and how they 
 
 ---
 
-**C-12356** Host Says in Her Book Club Audio That Charlie Was Truly Betrayed and She Lost Faith in Trump
+**C-2898** Host Says in Her Book Club Audio That Charlie Was Truly Betrayed and She Lost Faith in Trump
 
 Claim Timestamp: 00:06:45
 
@@ -1276,7 +1276,7 @@ Investigative Direction: Obtain the full book club recording and compare the pla
 
 ---
 
-**C-12357** Host Says in Her Book Club Audio That a Boulevard and a Holiday Mean They Definitely Killed You
+**C-2900** Host Says in Her Book Club Audio That a Boulevard and a Holiday Mean They Definitely Killed You
 
 Claim Timestamp: 00:08:45
 
@@ -1291,7 +1291,7 @@ Investigative Direction: Compare the audio with the full recording to establish 
 
 ---
 
-**C-12358** Crowder Says Candace Owens' Language Puts Erika Kirk in the Crosshairs and No Evidence Has Been Presented
+**C-2901** Crowder Says Candace Owens' Language Puts Erika Kirk in the Crosshairs and No Evidence Has Been Presented
 
 Claim Timestamp: 00:08:45
 
@@ -1306,7 +1306,7 @@ Investigative Direction: Obtain the full Crowder video and date it relative to t
 
 ---
 
-**C-12359** Host Says Erika Kirk Was Not a TPUSA Employee Leading Up to Charlie's Death
+**C-2903** Host Says Erika Kirk Was Not a TPUSA Employee Leading Up to Charlie's Death
 
 Claim Timestamp: 00:10:00
 
@@ -1322,7 +1322,7 @@ Investigative Direction: Check TPUSA filings, payroll or board records for any r
 
 ---
 
-**C-12360** Host Says Ben Shapiro Was Sent Out to Make the Same Alleged Accusation About Erika
+**C-2904** Host Says Ben Shapiro Was Sent Out to Make the Same Alleged Accusation About Erika
 
 Claim Timestamp: 00:10:59
 
@@ -1338,7 +1338,7 @@ Investigative Direction: Locate Shapiro's on-stage remarks and check whether he 
 
 ---
 
-**C-12361** Host Says She Earlier Showed a Document Indicating the Egyptian Planes Were Tracking Charlie
+**C-2905** Host Says She Earlier Showed a Document Indicating the Egyptian Planes Were Tracking Charlie
 
 Claim Timestamp: 00:10:59
 
@@ -1354,7 +1354,7 @@ Investigative Direction: Retrieve the earlier plane document the host refers to 
 
 ---
 
-**C-12362** Host Says Terryl Farnsworth Does Not Normally Work College Campus Events
+**C-2906** Host Says Terryl Farnsworth Does Not Normally Work College Campus Events
 
 Claim Timestamp: 00:12:10
 
@@ -1370,7 +1370,7 @@ Investigative Direction: Compare Farnsworth's event assignments across other 202
 
 ---
 
-**C-12363** Host Says Farnsworth Told Her TPUSA Was Trying Something New and He Was Absent at the Next Event
+**C-2907** Host Says Farnsworth Told Her TPUSA Was Trying Something New and He Was Absent at the Next Event
 
 Claim Timestamp: 00:12:21
 
@@ -1386,7 +1386,7 @@ Investigative Direction: Ask Farnsworth or TPUSA for the staffing roster of the 
 
 ---
 
-**C-12364** Host Says Farnsworth Was at the Event and Secured the SD Cards
+**C-2908** Host Says Farnsworth Was at the Event and Secured the SD Cards
 
 Claim Timestamp: 00:12:31
 
@@ -1402,7 +1402,7 @@ Investigative Direction: Obtain TPUSA's chain-of-custody record for the SD cards
 
 ---
 
-**C-12365** Host Says Interview Guests Usually Travel to Charlie, So the Salt Lake City Detour Was an Oddity
+**C-2910** Host Says Interview Guests Usually Travel to Charlie, So the Salt Lake City Detour Was an Oddity
 
 Claim Timestamp: 00:13:12
 
@@ -1413,13 +1413,13 @@ Transcript Snippet: Otherwise, for the sake of a podcast, people travel to Charl
 Anchored Artifacts: A-1424.2
 Mentions: N-1, N-3
 Related Nodes: N-11333, N-10253
-Supports: C-3735
+Supports: C-2909
 Tags: relevance:core
 Investigative Direction: Obtain Charlie's September 10 itinerary and the scheduling emails for the Andrew K. Smith interview to see who requested the Salt Lake City stop and why.
 
 ---
 
-**C-12366** Host Says Charlie Was Obsessed With Planes
+**C-2911** Host Says Charlie Was Obsessed With Planes
 
 Claim Timestamp: 00:13:12
 
@@ -1435,7 +1435,7 @@ Investigative Direction: Seek corroboration of Charlie's interest in aircraft fr
 
 ---
 
-**C-12367** Host Says Charlie Had a Photographic Memory for Donors
+**C-2912** Host Says Charlie Had a Photographic Memory for Donors
 
 Claim Timestamp: 00:14:32
 
@@ -1450,7 +1450,7 @@ Investigative Direction: Corroborate through TPUSA donor-relations staff and pas
 
 ---
 
-**C-12368** Host Says Charlie Landed in Salt Lake City at 9:23 a.m. Local Time
+**C-2915** Host Says Charlie Landed in Salt Lake City at 9:23 a.m. Local Time
 
 Claim Timestamp: 00:14:51
 
@@ -1466,7 +1466,7 @@ Investigative Direction: Check FAA/ADS-B records for the Kirk charter's arrival 
 
 ---
 
-**C-12369** Host Says the Mommy Sleuth Found After 15 Hours of Research That the Planes Tracked Erika, Not Charlie
+**C-2916** Host Says the Mommy Sleuth Found After 15 Hours of Research That the Planes Tracked Erika, Not Charlie
 
 Claim Timestamp: 00:16:22
 
@@ -1482,7 +1482,7 @@ Investigative Direction: Review the sleuth's email and method (kept anonymous by
 
 ---
 
-**C-12370** Host Says Turning Point Never Steps Forward to Say She Is Telling the Truth About the Planes
+**C-2920** Host Says Turning Point Never Steps Forward to Say She Is Telling the Truth About the Planes
 
 Claim Timestamp: 00:17:49
 
@@ -1498,7 +1498,7 @@ Investigative Direction: Survey TPUSA statements on the Egyptian planes since Oc
 
 ---
 
-**C-12371** Host Says the Egyptian Plane Also Tracked Erika Overseas
+**C-2922** Host Says the Egyptian Plane Also Tracked Erika Overseas
 
 Claim Timestamp: 00:18:42
 
@@ -1514,7 +1514,7 @@ Investigative Direction: Ask the host for the non-US rows of the spreadsheet and
 
 ---
 
-**C-12372** Host Says the Yellow Plane Took Off the Morning of the Assassination but the Blue Plane Did Not
+**C-2923** Host Says the Yellow Plane Took Off the Morning of the Assassination but the Blue Plane Did Not
 
 Claim Timestamp: 00:18:42
 
@@ -1530,7 +1530,7 @@ Investigative Direction: Compare ADS-B Exchange and FlightAware departures for S
 
 ---
 
-**C-12373** Director Mark Says Flight Sites Show Only Airborne Planes but ADS-B Exchange Shows Raw Ground Transponder Data
+**C-2925** Director Mark Says Flight Sites Show Only Airborne Planes but ADS-B Exchange Shows Raw Ground Transponder Data
 
 Claim Timestamp: 00:19:57
 
@@ -1546,7 +1546,7 @@ Investigative Direction: Reproduce the lookup on ADS-B Exchange for SU-BND on Se
 
 ---
 
-**C-12374** Host Says the Blue Plane's Transponder Came Back On 17 Minutes After Charlie Was Shot
+**C-2926** Host Says the Blue Plane's Transponder Came Back On 17 Minutes After Charlie Was Shot
 
 Claim Timestamp: 00:20:58
 
@@ -1562,7 +1562,7 @@ Investigative Direction: Resolve the UTC-to-local conversion (see the daylight-s
 
 ---
 
-**C-12375** Host Says Duncan Aviation Offers Maintenance and the Plane May Simply Have Run Maintenance Checks
+**C-2928** Host Says Duncan Aviation Offers Maintenance and the Plane May Simply Have Run Maintenance Checks
 
 Claim Timestamp: 00:21:54
 
@@ -1578,7 +1578,7 @@ Investigative Direction: Ask Duncan Aviation Provo whether it holds a work order
 
 ---
 
-**C-12376** Host Floats That a Foreign Military Jet Could Be Used for Untraceable Encrypted Calls
+**C-2929** Host Floats That a Foreign Military Jet Could Be Used for Untraceable Encrypted Calls
 
 Claim Timestamp: 00:21:54
 
@@ -1594,7 +1594,7 @@ Investigative Direction: Consult aviation-communications experts on the Gulfstre
 
 ---
 
-**C-12377** Host Says the Egyptian Planes Were Known to Turning Point USA
+**C-2930** Host Says the Egyptian Planes Were Known to Turning Point USA
 
 Claim Timestamp: 00:22:44
 
@@ -1610,7 +1610,7 @@ Investigative Direction: Ask TPUSA to state whether anyone in the organization k
 
 ---
 
-**C-12378** Host Says Kolvet Told Her Something About the Provo Tarmac That Does Not Add Up
+**C-2932** Host Says Kolvet Told Her Something About the Provo Tarmac That Does Not Add Up
 
 Claim Timestamp: 00:23:51
 
@@ -1626,7 +1626,7 @@ Investigative Direction: Compare Kolvet's later public accounts of arriving at P
 
 ---
 
-**C-12379** Host Says Kolvet Told Her in the Hospital That She and Tucker Were on a List and Should Lay Low
+**C-2933** Host Says Kolvet Told Her in the Hospital That She and Tucker Were on a List and Should Lay Low
 
 Claim Timestamp: 00:23:51
 
@@ -1637,13 +1637,13 @@ Transcript Snippet: You told me that me and Tucker Carlson were on a list and th
 Anchored Artifacts: 
 Mentions: N-14, N-22, N-3
 Related Nodes: N-10258
-Supports: C-1724
+Supports: C-2931
 Tags: relevance:core
 Investigative Direction: Ask Kolvet and Tucker Carlson to confirm the conversation, and request call logs for the host and Kolvet on September 10.
 
 ---
 
-**C-12380** Host Says She Immediately Called Tucker Carlson and Told Him They Had to Lay Low
+**C-2934** Host Says She Immediately Called Tucker Carlson and Told Him They Had to Lay Low
 
 Claim Timestamp: 00:23:51
 
@@ -1659,7 +1659,7 @@ Investigative Direction: Ask Tucker Carlson to confirm the call and its timing; 
 
 ---
 
-**C-12381** Host Says Kolvet Did Not Say Who the Threat Came From and She Assumes the Feds
+**C-2935** Host Says Kolvet Did Not Say Who the Threat Came From and She Assumes the Feds
 
 Claim Timestamp: 00:23:51
 
@@ -1670,13 +1670,13 @@ Transcript Snippet: it is now really living inside me that you did not tell me w
 Anchored Artifacts: 
 Mentions: N-14, N-3
 Related Nodes: N-10258
-Supports: C-1724
+Supports: C-2931
 Tags: relevance:core
 Investigative Direction: Ask Kolvet which agency or person passed on the warning; request any FBI or Utah DPS threat notification related to the host or Tucker Carlson.
 
 ---
 
-**C-12382** Host Says People Tied to Israel Are Making Threats Against Her and Tucker Carlson and Demanding They Be Cancelled
+**C-2936** Host Says People Tied to Israel Are Making Threats Against Her and Tucker Carlson and Demanding They Be Cancelled
 
 Claim Timestamp: 00:24:50
 
@@ -1692,7 +1692,7 @@ Investigative Direction: Identify the specific statements the host means and dis
 
 ---
 
-**C-12383** Host Asks the Public to Email More Tips About the N560TW Flight
+**C-2938** Host Asks the Public to Email More Tips About the N560TW Flight
 
 Claim Timestamp: 00:26:19
 
@@ -1708,7 +1708,7 @@ Investigative Direction: Decentralized Intelligence Agency tip call: review the 
 
 ---
 
-**C-12384** Host Asks UVU Students to Check Photos for the Four Rental Cars and Email Tips
+**C-2941** Host Asks UVU Students to Check Photos for the Four Rental Cars and Email Tips
 
 Claim Timestamp: 00:28:32
 
@@ -1724,7 +1724,7 @@ Investigative Direction: Decentralized Intelligence Agency tip call: collect and
 
 ---
 
-**C-12385** Host Says Netanyahu Is Namechecking Her and Tucker Carlson
+**C-2942** Host Says Netanyahu Is Namechecking Her and Tucker Carlson
 
 Claim Timestamp: 00:32:03
 
@@ -1740,7 +1740,7 @@ Investigative Direction: Find the Netanyahu public remarks that mention the host
 
 ---
 
-**C-12386** Host Says Israel Is Advancing Legislation to Censor Speech and Take Over Social Media Campaigns
+**C-2943** Host Says Israel Is Advancing Legislation to Censor Speech and Take Over Social Media Campaigns
 
 Claim Timestamp: 00:32:03
 
@@ -1756,7 +1756,7 @@ Investigative Direction: Identify the specific legislation the host means and wh
 
 ---
 
-**C-12387** Host Says the Egyptian Narrative Echoes the USS Liberty, Which She Says Israel Attacked
+**C-2944** Host Says the Egyptian Narrative Echoes the USS Liberty, Which She Says Israel Attacked
 
 Claim Timestamp: 00:32:03
 
@@ -1772,7 +1772,7 @@ Investigative Direction: Historical question: the 1967 USS Liberty inquiries and
 
 ---
 
-**C-12388** Host Says TPUSA Missed Its Tax Deadline for the First Time
+**C-2945** Host Says TPUSA Missed Its Tax Deadline for the First Time
 
 Claim Timestamp: 00:33:21
 
@@ -1788,7 +1788,7 @@ Investigative Direction: Check IRS Tax Exempt Organization Search for Form 990 f
 
 ---
 
-**C-12389** Host Says TPUSA Filed for an Extension and Then Missed the Extension Deadline
+**C-2946** Host Says TPUSA Filed for an Extension and Then Missed the Extension Deadline
 
 Claim Timestamp: 00:33:21
 
@@ -1804,7 +1804,7 @@ Investigative Direction: Obtain Form 8868 extension filings and the IRS filing s
 
 ---
 
-**C-12390** Wolves and Finance Says Tyler Bowyer Pointed to the Annual Audit While the Financial Statements Are Missing
+**C-2948** Wolves and Finance Says Tyler Bowyer Pointed to the Annual Audit While the Financial Statements Are Missing
 
 Claim Timestamp: 00:34:07
 
@@ -1820,7 +1820,7 @@ Investigative Direction: Locate Bowyer's X posts about the annual audit and comp
 
 ---
 
-**C-12391** Host Says Charlie Said Seven Days Before He Died That He Wanted to Establish DOGE
+**C-2950** Host Says Charlie Said Seven Days Before He Died That He Wanted to Establish DOGE
 
 Claim Timestamp: 00:35:11
 
@@ -1836,7 +1836,7 @@ Investigative Direction: Locate the source of Charlie's statement about a TPUSA 
 
 ---
 
-**C-12392** Host Says Bowyer Called the Audit Totally Regular and Alex Clark Said It Happens Every Year
+**C-2951** Host Says Bowyer Called the Audit Totally Regular and Alex Clark Said It Happens Every Year
 
 Claim Timestamp: 00:35:11
 
@@ -1847,13 +1847,13 @@ Transcript Snippet: Tyler came out and lied and he said, "This is just totally r
 Anchored Artifacts: 
 Mentions: N-11, N-99, N-3
 Related Nodes: N-10132
-Supports: C-1368
+Supports: C-1385
 Tags: relevance:context
 Investigative Direction: Retrieve the Bowyer and Clark statements and check whether they addressed the new DOGE audit or only TPUSA's routine annual audit.
 
 ---
 
-**C-12393** Host Says Charlie Was Concerned About Where TPUSA's Money Was Coming From, Not Only Where It Was Going
+**C-2952** Host Says Charlie Was Concerned About Where TPUSA's Money Was Coming From, Not Only Where It Was Going
 
 Claim Timestamp: 00:35:11
 
@@ -1864,13 +1864,13 @@ Transcript Snippet: he was not just concerned about where the money was going. H
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10132, N-10434
-Supports: C-1563
+Supports: C-2136
 Tags: relevance:core
 Investigative Direction: Identify the host's basis (conversations with Charlie, messages) and any written evidence that Charlie asked for tracing of donor funds.
 
 ---
 
-**C-12394** Host Says the Extension Deadline Was October 15 and TPUSA Missed Both Deadlines
+**C-2953** Host Says the Extension Deadline Was October 15 and TPUSA Missed Both Deadlines
 
 Claim Timestamp: 00:36:52
 
@@ -1886,7 +1886,7 @@ Investigative Direction: Confirm TPUSA's fiscal year end and the corresponding F
 
 ---
 
-**C-12395** Host Says TPUSA Previously Filed All Its Returns at the Same Time
+**C-2954** Host Says TPUSA Previously Filed All Its Returns at the Same Time
 
 Claim Timestamp: 00:37:00
 
@@ -1902,7 +1902,7 @@ Investigative Direction: Compare IRS filing dates for TPUSA, Action, Endowment a
 
 ---
 
-**C-12396** Wolves and Finance Calls America's Turning Point TPUSA's Own Shell Company
+**C-2956** Wolves and Finance Calls America's Turning Point TPUSA's Own Shell Company
 
 Claim Timestamp: 00:37:29
 
@@ -1918,7 +1918,7 @@ Investigative Direction: Check state and IRS records for America's Turning Point
 
 ---
 
-**C-12397** Wolves and Finance Says TPUSA Stopped Sending Millions to Its Endowment in 2021 and Shifted to America's Turning Point
+**C-2957** Wolves and Finance Says TPUSA Stopped Sending Millions to Its Endowment in 2021 and Shifted to America's Turning Point
 
 Claim Timestamp: 00:38:29
 
@@ -1934,7 +1934,7 @@ Investigative Direction: Check Schedule I of TPUSA's Forms 990 for 2019 through 
 
 ---
 
-**C-12398** Wolves and Finance Says the Endowment Held $61 Million in Assets in FY2023, Earning $1.9 Million a Year
+**C-2958** Wolves and Finance Says the Endowment Held $61 Million in Assets in FY2023, Earning $1.9 Million a Year
 
 Claim Timestamp: 00:38:29
 
@@ -1950,7 +1950,7 @@ Investigative Direction: Verify the figures on the Turning Point Endowment Form 
 
 ---
 
-**C-12399** Wolves and Finance Says America's Turning Point Reports Zero Employees Yet Spent Mostly on Salaries and Wages
+**C-2959** Wolves and Finance Says America's Turning Point Reports Zero Employees Yet Spent Mostly on Salaries and Wages
 
 Claim Timestamp: 00:39:37
 
@@ -1966,7 +1966,7 @@ Investigative Direction: Pull America's Turning Point's prior-year Form 990 (Par
 
 ---
 
-**C-12400** Wolves and Finance Narrator Speculates There Are Fake People on the Payroll
+**C-2960** Wolves and Finance Narrator Speculates There Are Fake People on the Payroll
 
 Claim Timestamp: 00:39:37
 
@@ -1982,7 +1982,7 @@ Investigative Direction: No evidence is presented for this speculation; only aud
 
 ---
 
-**C-12401** Wolves and Finance Says Baker Tilly Audited TPUSA, Action, Endowment, America's Turning Point and TPUSA Merch
+**C-2961** Wolves and Finance Says Baker Tilly Audited TPUSA, Action, Endowment, America's Turning Point and TPUSA Merch
 
 Claim Timestamp: 00:41:11
 
@@ -1998,7 +1998,7 @@ Investigative Direction: Obtain the Baker Tilly audit report and notes for fisca
 
 ---
 
-**C-12402** Wolves and Finance Says Baker Tilly's Opinion Letter Was Signed After TPUSA Missed the IRS Filing Date
+**C-2962** Wolves and Finance Says Baker Tilly's Opinion Letter Was Signed After TPUSA Missed the IRS Filing Date
 
 Claim Timestamp: 00:41:57
 
@@ -2014,7 +2014,7 @@ Investigative Direction: Check the signature date on the audit opinion letter ag
 
 ---
 
-**C-12403** Host Floats That the Outside Auditor Was Shown All Documents and TPUSA Then Decided Not to File
+**C-2964** Host Floats That the Outside Auditor Was Shown All Documents and TPUSA Then Decided Not to File
 
 Claim Timestamp: 00:43:01
 
@@ -2030,7 +2030,7 @@ Investigative Direction: Ask Baker Tilly and TPUSA for the engagement timeline a
 
 ---
 
-**C-12404** Host Says TPUSA Cleared Over $70 Million in the First Couple of Weeks After the Assassination
+**C-2966** Host Says TPUSA Cleared Over $70 Million in the First Couple of Weeks After the Assassination
 
 Claim Timestamp: 00:43:57
 
@@ -2041,13 +2041,13 @@ Transcript Snippet: they cleared over $70 million in the first couple of weeks a
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10000
-Supports: C-9629
+Supports: C-2467
 Tags: relevance:context
 Investigative Direction: Look for TPUSA statements, donor disclosures or press reports giving the amount raised after September 10, 2025.
 
 ---
 
-**C-12405** Host Says TPUSA Routes a Lot of Donor Money Into Its Endowment Fund
+**C-2967** Host Says TPUSA Routes a Lot of Donor Money Into Its Endowment Fund
 
 Claim Timestamp: 00:43:57
 
@@ -2063,7 +2063,7 @@ Investigative Direction: Tabulate annual transfers to Turning Point Endowment on
 
 ---
 
-**C-12406** Host Relays a Friend's Correction That September Times Are UTC Minus 6, Not Minus 7
+**C-2968** Host Relays a Friend's Correction That September Times Are UTC Minus 6, Not Minus 7
 
 Claim Timestamp: 00:46:58
 
@@ -2074,13 +2074,13 @@ Transcript Snippet: it was UTC minus 6, not minus 7. So, for those times, you're
 Anchored Artifacts: A-3203.1
 Mentions: N-3
 Related Nodes: N-11334, N-10253
-Contradicts: C-1734, C-1719
+Contradicts: C-2927, C-2924
 Tags: relevance:core
 Investigative Direction: Utah was on Mountain Daylight Time on September 10, 2025 (UTC minus 6); recompute the SUBND windows from the raw UTC values and re-test the '17 minutes after the shot' statement.
 
 ---
 
-**C-12407** Host Says Military Bots Are Running an Operation on X
+**C-2970** Host Says Military Bots Are Running an Operation on X
 
 Claim Timestamp: 00:50:09
 
@@ -2095,7 +2095,7 @@ Investigative Direction: Seek platform or third-party bot analysis of the accoun
 
 ---
 
-**C-12408** Host Says Her Opponents Tried to Deny She Had a Relationship With Charlie During Her Grief
+**C-2971** Host Says Her Opponents Tried to Deny She Had a Relationship With Charlie During Her Grief
 
 Claim Timestamp: 00:52:00
 
@@ -2110,7 +2110,7 @@ Investigative Direction: Identify the specific public statements in September 20
 
 ---
 
-**C-12409** Host Says Others Tried to Incentivize Her Before
+**C-2972** Host Says Others Tried to Incentivize Her Before
 
 Claim Timestamp: 00:52:17
 
@@ -2125,7 +2125,7 @@ Investigative Direction: Ask the host who offered what and when; any written off
 
 ---
 
-**C-12410** Viewer Comment Says Anyone Can FOIA Flock Camera Locations and Data
+**C-2974** Viewer Comment Says Anyone Can FOIA Flock Camera Locations and Data
 
 Claim Timestamp: 00:52:35
 
@@ -2140,7 +2140,7 @@ Investigative Direction: Check state public-records law and Flock's contract ter
 
 ---
 
-**C-12411** Producer Says Flock Runs a Network of Automated License Plate Readers in Nearly Every US Town
+**C-2975** Producer Says Flock Runs a Network of Automated License Plate Readers in Nearly Every US Town
 
 Claim Timestamp: 00:52:35
 
@@ -2155,7 +2155,7 @@ Investigative Direction: Review Flock's published coverage figures and the trans
 
 ---
 
-**C-12412** Host Says the Feds Are Trying to Cover Everything and Asks for More Tips
+**C-2976** Host Says the Feds Are Trying to Cover Everything and Asks for More Tips
 
 Claim Timestamp: 00:52:35
 
@@ -2171,7 +2171,7 @@ Investigative Direction: Decentralized Intelligence Agency tip call: log submiss
 
 ---
 
-**C-12413** Host Says She Has Not Seen the Shawn Ryan Episode With Charlie's Security Detail and Will Give Feedback This Week
+**C-2977** Host Says She Has Not Seen the Shawn Ryan Episode With Charlie's Security Detail and Will Give Feedback This Week
 
 Claim Timestamp: 00:54:33
 
@@ -2186,7 +2186,7 @@ Investigative Direction: Identify the Shawn Ryan episode and guests, and track t
 
 ---
 
-**C-12414** Viewer Comment Says Baker Tilly Also Prepares the 990s and Its Audits Are Not Considered Valid
+**C-2978** Viewer Comment Says Baker Tilly Also Prepares the 990s and Its Audits Are Not Considered Valid
 
 Claim Timestamp: 00:54:44
 
@@ -2201,7 +2201,7 @@ Investigative Direction: Check the preparer block on TPUSA's filed Form 990; sep
 
 ---
 
-**C-12415** Host Says the Wolves Video Went Deeper Into Lawsuits Baker Tilly Faced for Not Auditing Correctly
+**C-2979** Host Says the Wolves Video Went Deeper Into Lawsuits Baker Tilly Faced for Not Auditing Correctly
 
 Claim Timestamp: 00:55:00
 
@@ -2217,7 +2217,7 @@ Investigative Direction: Search court dockets for suits naming Baker Tilly US, L
 
 ---
 
-**C-12416** Host Says Charlie Told Her in a Dream That He Was Betrayed
+**C-2980** Host Says Charlie Told Her in a Dream That He Was Betrayed
 
 Claim Timestamp: 00:56:18
 
@@ -2448,11 +2448,11 @@ Confidence: high
 - **Name uncertainty:** "Andrew Kolvet" vs. "Andrew Kolvet" – both spellings appear in the transcript. Likely the same individual but spelling is not normalized; preserve as "Andrew Kolvet" (more frequent) and flag.
 - **Name uncertainty:** "Charlie Kirk Boulevard" reference appears in host's book club clip and is referenced for context only; not artifact-anchored as claim.
 - **Name uncertainty:** "Candace" / "Candice" / "Canowens" – multiple transcription variants of "candaceowens.com" appear in the transcript; flagged as possible transcription error.
-- **Possible transcription error:** UTC offset calculation. Host converts UTC to local time using UTC − 7. A viewer comment in the episode notes that September falls within daylight saving time (MDT), which would be UTC − 6, not UTC − 7. This affects the transponder timing claims (C-1719, C-1734) by one hour. Flagged for verification.
-- **Artifact verbally referenced but not shown:** "Mommy sleuth" email (A-1419.2), N560TW flight (A-1422.1), Andrew Kolvet hospital threat disclosure (C-1724), Terryl Farnsworth presence (A-1424.1), Andrew K. Smith interview (A-1424.2), Ben Shapiro commentary on Erika.
+- **Possible transcription error:** UTC offset calculation. Host converts UTC to local time using UTC − 7. A viewer comment in the episode notes that September falls within daylight saving time (MDT), which would be UTC − 6, not UTC − 7. This affects the transponder timing claims (C-2924, C-2927) by one hour. Flagged for verification.
+- **Artifact verbally referenced but not shown:** "Mommy sleuth" email (A-1419.2), N560TW flight (A-1422.1), Andrew Kolvet hospital threat disclosure (C-2931), Terryl Farnsworth presence (A-1424.1), Andrew K. Smith interview (A-1424.2), Ben Shapiro commentary on Erika.
 - **Transcript ambiguity:** "restaurantology" / "restauranttology" – appears twice with different spellings.
 - **Requires human verification:** All four license plate assignments (A-1421.1–4) – host-stated, requires independent rental-records confirmation.
-- **Requires human verification:** Host's claim that "no federal agency has since contacted me directly about those credible threats" (C-1724) is host testimony; cannot be verified absent federal disclosure or testimony from Andrew Kolvet.
+- **Requires human verification:** Host's claim that "no federal agency has since contacted me directly about those credible threats" (C-2931) is host testimony; cannot be verified absent federal disclosure or testimony from Andrew Kolvet.
 - **Claim failed admission test:** Host statements regarding Israel's role in USS Liberty, Israeli threats against the host and Tucker Carlson, Netanyahu "namechecking" the host, and spiritual/dream-based assertions about Charlie Kirk all lack artifact anchors in this episode and have been excluded from the Claim Register.
 - **Claim failed admission test:** Host's characterizations of Rob McCoy's family background ("spawn of naval psychological intelligence"), of Steven Crowder as a "pathological liar," and of Erika Kirk's planning/intent all lack artifact anchors and have been excluded.
 - **Claim failed admission test:** Host's biographical claim about Charlie Kirk's "photographic memory" and his interest in planes is presented as personal knowledge without a displayed artifact anchor; excluded from the Claim Register.

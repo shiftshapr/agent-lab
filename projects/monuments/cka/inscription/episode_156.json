@@ -27,7 +27,7 @@
           "ref": "A-2416.1",
           "description": "Wider-format tent footage (un-cropped version of previously aired clip) showing activity behind the tent leading up to the Big Bang, including a person standing by the van near Angel Castro.",
           "related_claims": [
-            "C-3531"
+            "C-13446"
           ],
           "related_nodes": [],
           "tags": [],
@@ -50,7 +50,7 @@
           "ref": "A-2417.1",
           "description": "Footage immediately following the Big Bang showing activity around a black SUV, including people standing by the car, people appearing to record with phones, and the group chanting \"USA, USA.\"",
           "related_claims": [
-            "C-3538"
+            "C-13451"
           ],
           "related_nodes": [],
           "tags": [],
@@ -65,7 +65,7 @@
           "ref": "A-2417.2",
           "description": "Continued post-Big Bang footage showing a Hispanic-looking man from the USA chant group returning to take a hat; the same man is identified by the host as later speaking to the news.",
           "related_claims": [
-            "C-3538"
+            "C-13451"
           ],
           "related_nodes": [],
           "tags": [],
@@ -88,8 +88,8 @@
           "ref": "A-2418.1",
           "description": "Dairy Queen surveillance photo of Tyler Robinson with the surveillance-system timestamp displayed as 6:38 PM (originally reported by host; reinterpretation proposed in this episode).",
           "related_claims": [
-            "C-3539",
-            "C-3540"
+            "C-13459",
+            "C-13469"
           ],
           "related_nodes": [
             "N-10853"
@@ -114,8 +114,8 @@
           "ref": "A-2419.1",
           "description": "Fox News still frame of Tyler Robinson's towed 2013 Dodge Challenger showing a dual exhaust system at the rear.",
           "related_claims": [
-            "C-3532",
-            "C-3541"
+            "C-13461",
+            "C-13462"
           ],
           "related_nodes": [
             "N-10851",
@@ -141,8 +141,8 @@
           "ref": "A-2420.1",
           "description": "Multi-floor parking-garage photos / still frames of a Dodge Challenger displaying a quad (dual-pair) exhaust configuration, captured on different garage levels.",
           "related_claims": [
-            "C-3533",
-            "C-3541"
+            "C-13467",
+            "C-13462"
           ],
           "related_nodes": [
             "N-10851",
@@ -168,7 +168,7 @@
           "ref": "A-2421.1",
           "description": "Read-aloud excerpt from a search warrant describing a Google Maps route observed on Tyler Robinson's cell phone, with start time of approximately 12:46 PM (UTC-converted from 6:46 PM UTC), starting near Mountain Shadows Shopping Center (approximately seven minutes from Utah Valley University), routed to a Quick Quack Car Wash.",
           "related_claims": [
-            "C-3535"
+            "C-13476"
           ],
           "related_nodes": [
             "N-10852"
@@ -185,8 +185,8 @@
           "ref": "A-2421.2",
           "description": "Continuation of read-aloud warrant excerpt stating Agent Draney (Utah State Bureau of Investigations) obtained records and video footage of Tyler Robinson's 2013 Dodge Challenger arriving at the Quick Quack Car Wash at approximately 12:57 PM.",
           "related_claims": [
-            "C-3534",
-            "C-3535"
+            "C-13475",
+            "C-13476"
           ],
           "related_nodes": [
             "N-10852"
@@ -211,7 +211,7 @@
           "ref": "A-2422.1",
           "description": "UN General Assembly clip showing delegates walking out as Netanyahu takes the stage.",
           "related_claims": [
-            "C-3537"
+            "C-13495"
           ],
           "related_nodes": [],
           "tags": [],
@@ -226,7 +226,7 @@
           "ref": "A-2422.2",
           "description": "Clip from Netanyahu's UN speech in which he cites a \"16 times 9/11\" statistic comparing Israel's proportional casualties.",
           "related_claims": [
-            "C-3537"
+            "C-13495"
           ],
           "related_nodes": [],
           "tags": [],
@@ -241,7 +241,7 @@
           "ref": "A-2422.3",
           "description": "Clip from Netanyahu's UN speech in which he holds up a pager as a prop.",
           "related_claims": [
-            "C-3537"
+            "C-13495"
           ],
           "related_nodes": [],
           "tags": [],
@@ -285,7 +285,7 @@
           "ref": "A-2424.1",
           "description": "Read-aloud YouTube comment from viewer \"Face\" asserting that Officer Go Forth's testimony referenced a partial license-plate match process and that only a partial plate was run before being matched.",
           "related_claims": [
-            "C-3536"
+            "C-13513"
           ],
           "related_nodes": [
             "N-10854"
@@ -310,7 +310,7 @@
           "ref": "A-2425.1",
           "description": "Tipster-supplied information reported by host that the cemetery contains two large dumpsters in the middle of it, contextualizing how clothes may have been disposed of.",
           "related_claims": [
-            "C-3542"
+            "C-13463"
           ],
           "related_nodes": [
             "N-10855"
@@ -335,7 +335,7 @@
           "ref": "A-2901.1",
           "description": "Clip from Netanyahu's UN speech in which he lists seven fronts of war.",
           "related_claims": [
-            "C-7818"
+            "C-13498"
           ],
           "related_nodes": [
             "N-3"
@@ -360,7 +360,7 @@
           "ref": "A-2902.1",
           "description": "Host reads a Reuters headline about Israeli bulldozers destroying Palestinian olive trees.",
           "related_claims": [
-            "C-7821"
+            "C-13501"
           ],
           "related_nodes": [
             "N-3"
@@ -385,7 +385,7 @@
           "ref": "A-2903.1",
           "description": "Host reads a viewer comment and the producer's note quoting NPR on Carlson's account of a Trump meeting.",
           "related_claims": [
-            "C-7832"
+            "C-13512"
           ],
           "related_nodes": [
             "N-3"
@@ -410,7 +410,7 @@
           "ref": "A-2904.1",
           "description": "Host verbal call for Dairy Queen information by email to the tip address.",
           "related_claims": [
-            "C-7793"
+            "C-13470"
           ],
           "related_nodes": [
             "N-3"
@@ -427,7 +427,7 @@
           "ref": "A-2904.2",
           "description": "Host verbal call for Quick Quack car wash and shopping center information by email.",
           "related_claims": [
-            "C-7809"
+            "C-13488"
           ],
           "related_nodes": [
             "N-3"
@@ -444,7 +444,7 @@
           "ref": "A-2904.3",
           "description": "Host verbal reference to a second tip address and the reopening of tip lines.",
           "related_claims": [
-            "C-7810"
+            "C-13489"
           ],
           "related_nodes": [
             "N-3"
@@ -461,7 +461,7 @@
           "ref": "A-2904.4",
           "description": "Host verbal call for tips while inviting viewers into a decentralized independent unit.",
           "related_claims": [
-            "C-7831"
+            "C-13511"
           ],
           "related_nodes": [
             "N-3"
@@ -489,7 +489,7 @@
         "A-2422.3"
       ],
       "related_claims": [
-        "C-3537"
+        "C-13495"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -509,9 +509,9 @@
         "A-2420.1"
       ],
       "related_claims": [
-        "C-3532",
-        "C-3533",
-        "C-3541"
+        "C-13461",
+        "C-13467",
+        "C-13462"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -534,8 +534,8 @@
         "A-2421.2"
       ],
       "related_claims": [
-        "C-3534",
-        "C-3535"
+        "C-13475",
+        "C-13476"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -554,8 +554,8 @@
         "A-2418.1"
       ],
       "related_claims": [
-        "C-3539",
-        "C-3540"
+        "C-13459",
+        "C-13469"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -574,7 +574,7 @@
         "A-2424.1"
       ],
       "related_claims": [
-        "C-3536"
+        "C-13513"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -595,7 +595,7 @@
         "A-2420.1"
       ],
       "related_claims": [
-        "C-3541"
+        "C-13462"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -615,7 +615,7 @@
       "description": "UVU TPUSA club president named in the independent review as the chapter contact on the courtyard request.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3531"
+        "C-13446"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -647,25 +647,25 @@
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
       "related_artifacts": [],
       "related_claims": [
-        "C-7784",
-        "C-7785",
-        "C-7786",
-        "C-7788",
-        "C-7789",
-        "C-7790",
-        "C-7792",
-        "C-7794",
-        "C-7796",
-        "C-7797",
-        "C-7799",
-        "C-7800",
-        "C-7802",
-        "C-7805",
-        "C-7806",
-        "C-7807",
-        "C-7812",
-        "C-7833",
-        "C-7834"
+        "C-13455",
+        "C-13456",
+        "C-13457",
+        "C-13460",
+        "C-13464",
+        "C-13465",
+        "C-13468",
+        "C-13471",
+        "C-13473",
+        "C-13474",
+        "C-13478",
+        "C-13479",
+        "C-13481",
+        "C-13484",
+        "C-13486",
+        "C-13485",
+        "C-13491",
+        "C-13514",
+        "C-13515"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -683,62 +683,62 @@
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
       "related_claims": [
-        "C-7776",
-        "C-7777",
-        "C-7778",
-        "C-7779",
-        "C-7780",
-        "C-7781",
-        "C-7782",
-        "C-7783",
-        "C-7784",
-        "C-7785",
-        "C-7786",
-        "C-7787",
-        "C-7788",
-        "C-7789",
-        "C-7790",
-        "C-7791",
-        "C-7792",
-        "C-7793",
-        "C-7794",
-        "C-7795",
-        "C-7796",
-        "C-7797",
-        "C-7798",
-        "C-7799",
-        "C-7800",
-        "C-7801",
-        "C-7802",
-        "C-7803",
-        "C-7804",
-        "C-7805",
-        "C-7806",
-        "C-7807",
-        "C-7808",
-        "C-7809",
-        "C-7810",
-        "C-7811",
-        "C-7812",
-        "C-7813",
-        "C-7814",
-        "C-7815",
-        "C-7817",
-        "C-7821",
-        "C-7822",
-        "C-7823",
-        "C-7824",
-        "C-7825",
-        "C-7826",
-        "C-7827",
-        "C-7828",
-        "C-7829",
-        "C-7830",
-        "C-7831",
-        "C-7832",
-        "C-7833",
-        "C-7834",
-        "C-7835"
+        "C-13445",
+        "C-13447",
+        "C-13448",
+        "C-13449",
+        "C-13450",
+        "C-13452",
+        "C-13453",
+        "C-13454",
+        "C-13455",
+        "C-13456",
+        "C-13457",
+        "C-13458",
+        "C-13460",
+        "C-13464",
+        "C-13465",
+        "C-13466",
+        "C-13468",
+        "C-13470",
+        "C-13471",
+        "C-13472",
+        "C-13473",
+        "C-13474",
+        "C-13477",
+        "C-13478",
+        "C-13479",
+        "C-13480",
+        "C-13481",
+        "C-13482",
+        "C-13483",
+        "C-13484",
+        "C-13486",
+        "C-13485",
+        "C-13487",
+        "C-13488",
+        "C-13489",
+        "C-13490",
+        "C-13491",
+        "C-13492",
+        "C-13493",
+        "C-13494",
+        "C-13497",
+        "C-13501",
+        "C-13502",
+        "C-13503",
+        "C-13504",
+        "C-13505",
+        "C-13506",
+        "C-13507",
+        "C-13508",
+        "C-13509",
+        "C-13510",
+        "C-13511",
+        "C-13512",
+        "C-13514",
+        "C-13515",
+        "C-13516"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -756,9 +756,9 @@
       "description": "Co-investigator the host says she will hand the show to before maternity leave and make a sizzle reel with.",
       "related_artifacts": [],
       "related_claims": [
-        "C-7776",
-        "C-7782",
-        "C-7811"
+        "C-13445",
+        "C-13453",
+        "C-13490"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -775,9 +775,9 @@
       "description": "Widow and TPUSA CEO; the host criticizes her video release, donation email and partnership with Andrew Wilson.",
       "related_artifacts": [],
       "related_claims": [
-        "C-7824",
-        "C-7825",
-        "C-7827"
+        "C-13504",
+        "C-13505",
+        "C-13507"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -794,7 +794,7 @@
       "description": "First named by the host at 00:01:40 in episode 156 (spelled \"Angel Castro Castro\" in the transcript). Person the host places near the van in the tent footage.",
       "related_artifacts": [],
       "related_claims": [
-        "C-7778"
+        "C-13448"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -811,12 +811,12 @@
       "description": "Tyler Robinson's roommate; the host speculates about his role and federal status.",
       "related_artifacts": [],
       "related_claims": [
-        "C-7789",
-        "C-7800",
-        "C-7801",
-        "C-7803",
-        "C-7804",
-        "C-7805"
+        "C-13464",
+        "C-13479",
+        "C-13480",
+        "C-13482",
+        "C-13483",
+        "C-13484"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -833,8 +833,8 @@
       "description": "Person the host says she phoned about the shopping center sighting (spelled Ryan Matta in the transcript).",
       "related_artifacts": [],
       "related_claims": [
-        "C-7795",
-        "C-7808"
+        "C-13472",
+        "C-13487"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -851,12 +851,12 @@
       "description": "Israeli prime minister whose UN speech clips the host plays.",
       "related_artifacts": [],
       "related_claims": [
-        "C-7816",
-        "C-7817",
-        "C-7818",
-        "C-7819",
-        "C-7820",
-        "C-7822"
+        "C-13496",
+        "C-13497",
+        "C-13498",
+        "C-13499",
+        "C-13500",
+        "C-13502"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -873,8 +873,8 @@
       "description": "Subject of the host's remarks on his response to Kirk's death and a reported Iran war remark.",
       "related_artifacts": [],
       "related_claims": [
-        "C-7814",
-        "C-7832"
+        "C-13493",
+        "C-13512"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -891,8 +891,8 @@
       "description": "Named in a producer's NPR note and in the host's remark about a sit-down.",
       "related_artifacts": [],
       "related_claims": [
-        "C-7827",
-        "C-7832"
+        "C-13507",
+        "C-13512"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -909,7 +909,7 @@
       "description": "Named in the host's remark about where Erika Kirk should have shown the video.",
       "related_artifacts": [],
       "related_claims": [
-        "C-7827"
+        "C-13507"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -926,7 +926,7 @@
       "description": "Subject of the interview parodied by Wear Forbidden.",
       "related_artifacts": [],
       "related_claims": [
-        "C-7823"
+        "C-13503"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -943,7 +943,7 @@
       "description": "Creator of the AI parody videos (the transcript says \"Wear Forbidden\" and \"atware forbidden\").",
       "related_artifacts": [],
       "related_claims": [
-        "C-7823"
+        "C-13503"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -960,9 +960,9 @@
       "description": "Organization the host discusses in connection with lawsuits and her early trust in it.",
       "related_artifacts": [],
       "related_claims": [
-        "C-7825",
-        "C-7828",
-        "C-7829"
+        "C-13505",
+        "C-13508",
+        "C-13509"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -979,12 +979,12 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-7784",
-        "C-7785",
-        "C-7786",
-        "C-7789",
-        "C-7793",
-        "C-7831"
+        "C-13455",
+        "C-13456",
+        "C-13457",
+        "C-13464",
+        "C-13470",
+        "C-13511"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1001,7 +1001,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-7786"
+        "C-13457"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1018,7 +1018,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-7789"
+        "C-13464"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1035,11 +1035,11 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-7799",
-        "C-7812",
-        "C-7813",
-        "C-7834",
-        "C-7835"
+        "C-13478",
+        "C-13491",
+        "C-13492",
+        "C-13515",
+        "C-13516"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1056,7 +1056,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-7807"
+        "C-13485"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1073,7 +1073,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-7798"
+        "C-13477"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1090,7 +1090,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-7798"
+        "C-13477"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1107,8 +1107,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-7801",
-        "C-7803"
+        "C-13480",
+        "C-13482"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1125,7 +1125,7 @@
       "description": "Existing topic reused for the correction about the person near the van.",
       "related_artifacts": [],
       "related_claims": [
-        "C-7778"
+        "C-13448"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1142,7 +1142,7 @@
       "description": "Existing topic reused for the beeper clip.",
       "related_artifacts": [],
       "related_claims": [
-        "C-7820"
+        "C-13500"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1159,7 +1159,7 @@
       "description": "News agency whose headline the host reads.",
       "related_artifacts": [],
       "related_claims": [
-        "C-7821"
+        "C-13501"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1176,7 +1176,7 @@
       "description": "Existing topic reused for the Iran war remark.",
       "related_artifacts": [],
       "related_claims": [
-        "C-7832"
+        "C-13512"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1193,8 +1193,8 @@
       "description": "Existing topic reused for the host's remarks on the video and Fort Huachuca.",
       "related_artifacts": [],
       "related_claims": [
-        "C-7824",
-        "C-7827"
+        "C-13504",
+        "C-13507"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1211,13 +1211,13 @@
       "description": "Shopping center near Utah Valley University where, per the warrants as the host reads them, Tyler Robinson's vehicle was spotted at 12:44 p.m. and where the route to the Quick Quack car wash began.",
       "related_artifacts": [],
       "related_claims": [
-        "C-7794",
-        "C-7795",
-        "C-7796",
-        "C-7797",
-        "C-7808",
-        "C-7809",
-        "C-7831"
+        "C-13471",
+        "C-13472",
+        "C-13473",
+        "C-13474",
+        "C-13487",
+        "C-13488",
+        "C-13511"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1234,8 +1234,8 @@
       "description": "The host's hypothesis that logins to Tyler Robinson's accounts or Google Maps data could come from another device or person using the same account, such as Lance Twiggs.",
       "related_artifacts": [],
       "related_claims": [
-        "C-7800",
-        "C-7802"
+        "C-13479",
+        "C-13481"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1247,8 +1247,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-3531",
-      "ref": "C-3531",
+      "@id": "C-13446",
+      "ref": "C-13446",
       "label": "Host Says Person by Van in Tent Footage Is Not UVU Club President Caleb Chilcutt",
       "claim": "The host says that, after someone told her otherwise, the person she previously identified as UVU club president Caleb Chilcutt standing near the van by Angel Castro was not him.",
       "anchored_artifacts": [
@@ -1265,8 +1265,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3532",
-      "ref": "C-3532",
+      "@id": "C-13461",
+      "ref": "C-13461",
       "label": "Host Says Tyler Robinson's Towed 2013 Dodge Challenger Displays a Dual Exhaust System",
       "claim": "The host says a Fox News still frame of Tyler Robinson's towed 2013 Dodge Challenger clearly shows a dual exhaust configuration at the rear.",
       "anchored_artifacts": [
@@ -1285,8 +1285,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3533",
-      "ref": "C-3533",
+      "@id": "C-13467",
+      "ref": "C-13467",
       "label": "Host Says Parking Garage Challenger Displays a Quad Exhaust System Across Multiple Floors",
       "claim": "The host says multiple stills from different parking-garage floors show a quad (dual-pair) exhaust configuration on the Dodge Challenger that entered the garage on September 10.",
       "anchored_artifacts": [
@@ -1302,8 +1302,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3534",
-      "ref": "C-3534",
+      "@id": "C-13475",
+      "ref": "C-13475",
       "label": "Quick Quack Car Wash surveillance footage was seized by law enforcement and never publicly released",
       "claim": "Per the search warrant the host reads, Agent Draney (USBI) obtained records and video footage from the Quick Quack Car Wash showing Tyler Robinson's vehicle arriving at approximately 12:57 PM; the host says the footage has never been shown to the public.",
       "anchored_artifacts": [
@@ -1321,8 +1321,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3535",
-      "ref": "C-3535",
+      "@id": "C-13476",
+      "ref": "C-13476",
       "label": "Host Says Search Warrant Attributes Google Maps Route to Quick Quack Car Wash to Tyler Robinson's Cell Phone",
       "claim": "The host says that, per a search warrant for Tyler Robinson's cell phone which she reads, an officer observed a Google Maps route from the Mountain Shadows Shopping Center (approximately seven minutes from Utah Valley University) to a Quick Quack Car Wash, with start time approximately 12:46 PM (UTC-converted from 6:46 PM UTC), approximately 23 minutes after the shooting.",
       "anchored_artifacts": [
@@ -1340,8 +1340,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3536",
-      "ref": "C-3536",
+      "@id": "C-13513",
+      "ref": "C-13513",
       "label": "Officer Goforth's Testimony Referenced a Partial License-Plate Match Process",
       "claim": "The host says, replying to a viewer comment about license plates, that in Officer Goforth's testimony they kept saying a partial plate was run and matched, which she finds unusual.",
       "anchored_artifacts": [
@@ -1359,8 +1359,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3537",
-      "ref": "C-3537",
+      "@id": "C-13495",
+      "ref": "C-13495",
       "label": "Host Says UN Delegates Walked Out During Netanyahu's UN General Assembly Address",
       "claim": "The host says that during Netanyahu's address to the UN General Assembly, the majority of the delegates walked out as soon as he took the stage.",
       "anchored_artifacts": [
@@ -1378,8 +1378,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3538",
-      "ref": "C-3538",
+      "@id": "C-13451",
+      "ref": "C-13451",
       "label": "A person visible in post-Big-Bang USA chant group later spoke to the news",
       "claim": "The host says that in footage immediately after the Big Bang, a group stood up and chanted \"USA, USA\", that a man from that group comes back to take a hat, and that a man in the bottom right quadrant is someone who later speaks to the news.",
       "anchored_artifacts": [
@@ -1393,8 +1393,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3539",
-      "ref": "C-3539",
+      "@id": "C-13459",
+      "ref": "C-13459",
       "label": "Dairy Queen surveillance timestamp of 6:38 PM may have been recorded in UTC rather than Mountain Standard Time",
       "claim": "The host proposes as her favored hypothesis that the 6:38 PM timestamp on the Dairy Queen surveillance photo was recorded in UTC, which would convert to 12:38 PM Mountain time on September 10.",
       "anchored_artifacts": [
@@ -1409,8 +1409,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3540",
-      "ref": "C-3540",
+      "@id": "C-13469",
+      "ref": "C-13469",
       "label": "Tyler Robinson's sneakers in Dairy Queen surveillance photo do not appear to be Converse brand",
       "claim": "The host observes that the sneakers worn by Tyler Robinson in the Dairy Queen surveillance photo do not appear to be Converse, and may be running shoes.",
       "anchored_artifacts": [
@@ -1428,8 +1428,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3541",
-      "ref": "C-3541",
+      "@id": "C-13462",
+      "ref": "C-13462",
       "label": "Host asserts Tyler Robinson's vehicle is not the same Dodge Challenger shown entering the parking garage on September 10",
       "claim": "Based on the dual vs. quad exhaust discrepancy between Fox News's image of Tyler Robinson's towed vehicle and the multi-floor images of the parking-garage Challenger, the host asserts these are not the same vehicle.",
       "anchored_artifacts": [
@@ -1449,8 +1449,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3542",
-      "ref": "C-3542",
+      "@id": "C-13463",
+      "ref": "C-13463",
       "label": "Cemetery contains two large dumpsters in the middle",
       "claim": "Per tipster information, the cemetery where Tyler Robinson allegedly disposed of clothing contains two large dumpsters in the middle of it.",
       "anchored_artifacts": [
@@ -1468,8 +1468,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3677",
-      "ref": "C-3677",
+      "@id": "C-13517",
+      "ref": "C-13517",
       "label": "Host identifies show community as Decentralized Intelligence Agency",
       "claim": "The host says viewers can buy merch such as a hat, t-shirt or sweatshirt to join the decentralized intelligence agency, which she calls her favorite.",
       "anchored_artifacts": [],
@@ -1485,8 +1485,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7776",
-      "ref": "C-7776",
+      "@id": "C-13445",
+      "ref": "C-13445",
       "label": "Host Says Coleman Will Supply a Chronological Sizzle Reel of Footage",
       "claim": "The host says she spoke with Baron Coleman that day and that the two of them will produce a chronological sizzle reel putting all of the released footage in one place.",
       "anchored_artifacts": [],
@@ -1504,8 +1504,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7777",
-      "ref": "C-7777",
+      "@id": "C-13447",
+      "ref": "C-13447",
       "label": "Host Says the Tent Clip Aired the Day Before Was Cropped",
       "claim": "The host says the one-minute clip of activity behind the tent aired the previous day was cropped, and that she is re-airing it in a wider format.",
       "anchored_artifacts": [
@@ -1519,7 +1519,7 @@
       "investigative_direction": "Compare the cropped clip from the prior episode with the wider version to see what the crop removed.",
       "transcript_snippet": "I realized only after the fact that the clip we aired was cropped.",
       "supports_claim_refs": [
-        "C-3531"
+        "C-13446"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -1527,8 +1527,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7778",
-      "ref": "C-7778",
+      "@id": "C-13448",
+      "ref": "C-13448",
       "label": "Host Says Club President Chilcutt Was Wearing Red That Day",
       "claim": "The host says someone told her the person standing by the van near Angel Castro was not UVU club president Caleb Chilcutt, who she says was wearing red that day; the person by the van was just standing.",
       "anchored_artifacts": [
@@ -1544,7 +1544,7 @@
       "investigative_direction": "Identify the person in red by the van through event photographs or attendee lists and confirm the clothing.",
       "transcript_snippet": "He was wearing red that day.",
       "supports_claim_refs": [
-        "C-3531"
+        "C-13446"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -1554,8 +1554,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7779",
-      "ref": "C-7779",
+      "@id": "C-13449",
+      "ref": "C-13449",
       "label": "Host Says She Will Name People in the Tent Footage but Not College Students",
       "claim": "The host says she will spend the weekend putting names on the people in the tent footage and will probably abstain from naming college kids.",
       "anchored_artifacts": [
@@ -1574,8 +1574,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7780",
-      "ref": "C-7780",
+      "@id": "C-13450",
+      "ref": "C-13450",
       "label": "Host Says Much That Bothers Her Happens Near the Black SUV",
       "claim": "The host says a lot of what happens near the black SUV after the Big Bang bothers her, and that Charlie Kirk being carried is blurred because YouTube would otherwise penalize the video.",
       "anchored_artifacts": [
@@ -1595,8 +1595,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7781",
-      "ref": "C-7781",
+      "@id": "C-13452",
+      "ref": "C-13452",
       "label": "Host Says Many People Appeared to Record Deliberately and Some Seemed Performative",
       "claim": "The host says a number of people near the black car appeared to be recording intentionally, that some appeared very calm or performative, and that some of them later speak to the news.",
       "anchored_artifacts": [
@@ -1611,7 +1611,7 @@
       "investigative_direction": "Identify each person recording near the black car and compare against later news interviews.",
       "transcript_snippet": "The amount of people that seem to be intentionally recording by that black car is bothersome.",
       "supports_claim_refs": [
-        "C-3538"
+        "C-13451"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -1619,8 +1619,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7782",
-      "ref": "C-7782",
+      "@id": "C-13453",
+      "ref": "C-13453",
       "label": "Host Says She Will Hand Everything to Coleman Before Maternity Leave",
       "claim": "The host says she will hand everything over to Baron Coleman before going on maternity leave.",
       "anchored_artifacts": [],
@@ -1638,8 +1638,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7783",
-      "ref": "C-7783",
+      "@id": "C-13454",
+      "ref": "C-13454",
       "label": "Host Plans an Interactive Hyperlinked Timeline on Her Website",
       "claim": "The host says she is considering publishing an interactive version of the official timeline, with hyperlinks to sources, on her website.",
       "anchored_artifacts": [],
@@ -1656,8 +1656,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7784",
-      "ref": "C-7784",
+      "@id": "C-13455",
+      "ref": "C-13455",
       "label": "Host Says Her Show Was First to Break the Dairy Queen Stop With a Photo Not Supplied Officially",
       "claim": "The host says her outlet was the first to break the Dairy Queen stop story, and that the photo was not given to it through official channels.",
       "anchored_artifacts": [
@@ -1673,7 +1673,7 @@
       "investigative_direction": "Trace the first publication of the Dairy Queen photo and its original source.",
       "transcript_snippet": "We were the first to break that story",
       "supports_claim_refs": [
-        "C-1186"
+        "C-403"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -1682,8 +1682,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7785",
-      "ref": "C-7785",
+      "@id": "C-13456",
+      "ref": "C-13456",
       "label": "Host Says the Dairy Queen Owner Never Gave Her the 6:38 Timestamp",
       "claim": "The host says the 6:38 p.m. timestamp was not communicated to her team by the owner of Dairy Queen; someone read it off the surveillance screen grab and passed it on, and her team assumed the system was accurate and set to mountain standard time.",
       "anchored_artifacts": [
@@ -1700,7 +1700,7 @@
       "investigative_direction": "Identify who first read and relayed the 6:38 timestamp and obtain the Dairy Queen system settings.",
       "transcript_snippet": "we were not communicated that time by the owner of Dairy Queen",
       "qualifies_claim_refs": [
-        "C-1186"
+        "C-403"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -1709,8 +1709,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7786",
-      "ref": "C-7786",
+      "@id": "C-13457",
+      "ref": "C-13457",
       "label": "Host Says the Panguitch Receipt Showed the Dairy Queen Timing Had to Be Off",
       "claim": "The host says it was only after the Panguitch receipt that her team realized the Dairy Queen time had to be wrong, because Tyler Robinson would have had to leave Orem earlier to make the three-hour drive to Panguitch.",
       "anchored_artifacts": [],
@@ -1725,7 +1725,7 @@
       "investigative_direction": "Obtain the Panguitch receipt and its time stamp and compare it against the Orem to Panguitch drive time.",
       "transcript_snippet": "It wasn't until after the Panguitch receipt that we went back and we realized that something had to be off with the Dairy Queen timing",
       "supports_claim_refs": [
-        "C-2003"
+        "C-4518"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -1734,8 +1734,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7787",
-      "ref": "C-7787",
+      "@id": "C-13458",
+      "ref": "C-13458",
       "label": "Host Offers Clock Drift at a Small Franchise as One Explanation for the 6:38 Timestamp",
       "claim": "The host offers as one speculative option that the Dairy Queen camera clock simply drifted, for example after a power outage or daylight saving change, in a small franchised restaurant.",
       "anchored_artifacts": [
@@ -1756,8 +1756,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7788",
-      "ref": "C-7788",
+      "@id": "C-13460",
+      "ref": "C-13460",
       "label": "Host Says the Real Tyler Robinson Was Around Campus That Day",
       "claim": "The host says that, as she has maintained from the start, the real Tyler Robinson was around campus that day and could have played the role she was told of throwing out clothes in the cemetery.",
       "anchored_artifacts": [],
@@ -1777,8 +1777,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7789",
-      "ref": "C-7789",
+      "@id": "C-13464",
+      "ref": "C-13464",
       "label": "Host Speculates a Lookalike, Maybe Lance, Dumped Clothes Before Dairy Queen",
       "claim": "The host speculates that a Tyler Robinson lookalike, perhaps Lance, was tasked with throwing out clothes as evidence in the morning and afterward went to Dairy Queen for lunch, and calls this viable.",
       "anchored_artifacts": [
@@ -1802,8 +1802,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7790",
-      "ref": "C-7790",
+      "@id": "C-13465",
+      "ref": "C-13465",
       "label": "Host States Her Current Belief That Tyler Robinson Was Not on Campus",
       "claim": "The host says her current belief is that Tyler Robinson's role was not on campus, that this is trending on Twitter, and that she is open to being proven wrong.",
       "anchored_artifacts": [],
@@ -1821,8 +1821,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7791",
-      "ref": "C-7791",
+      "@id": "C-13466",
+      "ref": "C-13466",
       "label": "Host Says Critics Deny the Quad Exhaust and She Holds More Unreleased Footage",
       "claim": "The host says critics now claim her released footage does not show a quad exhaust, that she has more of that footage, and that her team checked it on every floor of the garage.",
       "anchored_artifacts": [
@@ -1838,7 +1838,7 @@
       "investigative_direction": "Identify the critics' stated rebuttal and compare it with the full set of garage footage.",
       "transcript_snippet": "We've got a lot more of that footage and we've checked it on every floor.",
       "supports_claim_refs": [
-        "C-3533"
+        "C-13467"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -1846,8 +1846,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7792",
-      "ref": "C-7792",
+      "@id": "C-13468",
+      "ref": "C-13468",
       "label": "Host Says the Prosecution Must Explain an Exhaust Change Within 33 Hours",
       "claim": "The host says that if she were on the jury she would not be persuaded otherwise, and that the prosecution would have to explain how Tyler Robinson altered his car's exhaust system in 33 hours.",
       "anchored_artifacts": [
@@ -1865,7 +1865,7 @@
       "investigative_direction": "Ask for service or modification records for the Challenger and the source of the 33-hour window.",
       "transcript_snippet": "tasked with coming up with a compelling narrative as to how exactly Tyler Robinson in 33 hours managed to alter his car's exhaust system.",
       "supports_claim_refs": [
-        "C-3541"
+        "C-13462"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -1874,8 +1874,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7793",
-      "ref": "C-7793",
+      "@id": "C-13470",
+      "ref": "C-13470",
       "label": "Host Asks for Dairy Queen Police Report, Footage or Text Chain via Tip Email",
       "claim": "The host asks anyone with the Dairy Queen police report, footage or the related text chain to email her tip address, promising to protect their identity.",
       "anchored_artifacts": [
@@ -1899,8 +1899,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7794",
-      "ref": "C-7794",
+      "@id": "C-13471",
+      "ref": "C-13471",
       "label": "Host Says Tyler's Vehicle Was Spotted at Mountain Shadows Shopping Center at 12:44 Per Warrants",
       "claim": "The host says that, per the search warrants, Tyler Robinson's vehicle is spotted at the Mountain Shadows Shopping Center at 12:44 p.m., a stop she says needs revisiting.",
       "anchored_artifacts": [],
@@ -1920,8 +1920,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7795",
-      "ref": "C-7795",
+      "@id": "C-13472",
+      "ref": "C-13472",
       "label": "Host Says She Phoned Ryan Matta About How the Shopping Center Sighting Surfaced",
       "claim": "The host says she called Ryan Matta that day to ask how he came by the Mountain Shadows information, wondering whether it was fed to the public.",
       "anchored_artifacts": [],
@@ -1941,8 +1941,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7796",
-      "ref": "C-7796",
+      "@id": "C-13473",
+      "ref": "C-13473",
       "label": "Host Says the Public Report of the Challenger Sighting Led the FBI to the Car Wash",
       "claim": "The host says that, because the public learned of the Challenger sighting at the shopping center, the FBI was able to file a warrant that led to discovering the trip to the car wash.",
       "anchored_artifacts": [],
@@ -1963,8 +1963,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7797",
-      "ref": "C-7797",
+      "@id": "C-13474",
+      "ref": "C-13474",
       "label": "Host Reports Shopping Center Footage Backs Up the Departure to the Car Wash",
       "claim": "The host recounts the official narrative that shopping center surveillance footage backs up Tyler Robinson's departure toward the car wash.",
       "anchored_artifacts": [],
@@ -1979,7 +1979,7 @@
       "investigative_direction": "Obtain the shopping center surveillance footage cited in the narrative.",
       "transcript_snippet": "Shopping Center surveillance footage then backs up this departure.",
       "supports_claim_refs": [
-        "C-3535"
+        "C-13476"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -1988,8 +1988,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7798",
-      "ref": "C-7798",
+      "@id": "C-13477",
+      "ref": "C-13477",
       "label": "Host Says Probable Cause Hearing Material Was Unclear With the Aspect Ratio Adjusted",
       "claim": "The host says the probable cause hearing gave the public nothing clear, with everything blurry and the aspect ratio adjusted.",
       "anchored_artifacts": [],
@@ -2009,8 +2009,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7799",
-      "ref": "C-7799",
+      "@id": "C-13478",
+      "ref": "C-13478",
       "label": "Host Says Withholding Car Wash Footage Suggests the Other Challenger May Be Involved",
       "claim": "The host says the prosecution had its best chance to show the public the car wash footage at the probable cause hearing and did not, which she says tells her the car wash car may be the other Dodge Challenger rather than Tyler Robinson's.",
       "anchored_artifacts": [],
@@ -2025,7 +2025,7 @@
       "investigative_direction": "Seek the Quick Quack footage and license plate capture through records requests or discovery.",
       "transcript_snippet": "So, that tells me that we need to explore this car wash theory more because it's possible that it's not Tyler Robinson's car.",
       "supports_claim_refs": [
-        "C-3534"
+        "C-13475"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2034,8 +2034,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7800",
-      "ref": "C-7800",
+      "@id": "C-13479",
+      "ref": "C-13479",
       "label": "Host Says Lance May Have Been Awake and Logging Into Tyler's Accounts",
       "claim": "The host says she has long wondered whether Lance Twiggs was awake and logging into Tyler Robinson's accounts from a different device, rather than sleeping through everything.",
       "anchored_artifacts": [],
@@ -2056,8 +2056,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7801",
-      "ref": "C-7801",
+      "@id": "C-13480",
+      "ref": "C-13480",
       "label": "Host Doubts Lance's Sleeping Account Explains Use Immunity",
       "claim": "The host says the idea that Lance was just sleeping never registered as a reason he would need use immunity when testifying.",
       "anchored_artifacts": [],
@@ -2077,8 +2077,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7802",
-      "ref": "C-7802",
+      "@id": "C-13481",
+      "ref": "C-13481",
       "label": "Host Says Her Producer's Test Showed Laptop Maps Searches Appear on the Phone",
       "claim": "The host says her producer's laptop Google Maps searches appeared on her phone because both were logged into the same account, which the host offers as how a route could appear on Tyler Robinson's phone without him.",
       "anchored_artifacts": [],
@@ -2099,8 +2099,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7803",
-      "ref": "C-7803",
+      "@id": "C-13482",
+      "ref": "C-13482",
       "label": "Host Says Lance's Family Does Not Understand Why He Was Not Investigated More",
       "claim": "The host says she has always felt Lance was a federal asset, and that she told viewers his own family does not understand why he was not investigated more.",
       "anchored_artifacts": [],
@@ -2114,7 +2114,7 @@
       "investigative_direction": "Interview Lance's family and review the investigative record on his questioning.",
       "transcript_snippet": "his own family doesn't understand why he was not investigated more",
       "supports_claim_refs": [
-        "C-4880"
+        "C-352"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2123,8 +2123,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7804",
-      "ref": "C-7804",
+      "@id": "C-13483",
+      "ref": "C-13483",
       "label": "Host Says Lance Was Moderately Involved in the Furry Community",
       "claim": "The host says Lance was at least moderately involved in the furry community and had a furry name, which she says she explained to viewers earlier.",
       "anchored_artifacts": [],
@@ -2142,8 +2142,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7805",
-      "ref": "C-7805",
+      "@id": "C-13484",
+      "ref": "C-13484",
       "label": "Host Says Tyler Robinson's Record Is Squeaky Clean Unlike Lance's",
       "claim": "The host says Tyler Robinson has the opposite record from Lance, kind of squeaky clean.",
       "anchored_artifacts": [],
@@ -2162,8 +2162,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7806",
-      "ref": "C-7806",
+      "@id": "C-13486",
+      "ref": "C-13486",
       "label": "Host Says the Warrant Does Not Say Tyler Actually Got a Car Wash",
       "claim": "The host says the search warrant that mentions the Quick Quack stop does not say he actually got a car wash, only that he went to the car wash and that investigators obtained the surveillance footage.",
       "anchored_artifacts": [
@@ -2179,7 +2179,7 @@
       "investigative_direction": "Obtain the full warrant and the Quick Quack transaction records.",
       "transcript_snippet": "It does not go so far as to say that he actually got a car wash, only that he went to the car wash and they got the surveillance footage.",
       "supports_claim_refs": [
-        "C-3534"
+        "C-13475"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2188,8 +2188,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7807",
-      "ref": "C-7807",
+      "@id": "C-13485",
+      "ref": "C-13485",
       "label": "Host Recounts the Official Towel Story and Says It Makes No Sense",
       "claim": "The host says the official account has Tyler Robinson using a towel from his own home to wipe his DNA off, along with a screwdriver from home, and says that does not make sense.",
       "anchored_artifacts": [],
@@ -2209,8 +2209,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7808",
-      "ref": "C-7808",
+      "@id": "C-13487",
+      "ref": "C-13487",
       "label": "Host Says the Shopping Center Tip Reached Ryan Matta Through a Chain of Contacts",
       "claim": "The host says Ryan Matta was reached by someone who was reached by someone else, and that she is making phone calls to trace the information.",
       "anchored_artifacts": [],
@@ -2230,8 +2230,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7809",
-      "ref": "C-7809",
+      "@id": "C-13488",
+      "ref": "C-13488",
       "label": "Host Asks for Car Wash and Shopping Center Information via the Tip Email",
       "claim": "The host says that she is back at the beginning of the investigation and asks anyone who knows about the Quick Quack car wash or the shopping center to email her tips address.",
       "anchored_artifacts": [
@@ -2255,8 +2255,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7810",
-      "ref": "C-7810",
+      "@id": "C-13489",
+      "ref": "C-13489",
       "label": "Host Says Her Tip Inbox Once Held 50,000 Plus Emails and Many Did Not Go Through",
       "claim": "The host says her inbox had 50,000 plus emails early on, that many did not go through, and that she is reopening the tip lines.",
       "anchored_artifacts": [
@@ -2277,8 +2277,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7811",
-      "ref": "C-7811",
+      "@id": "C-13490",
+      "ref": "C-13490",
       "label": "Host Says She Will Assemble a Timeline and Question List Before Maternity Leave",
       "claim": "The host says she needs to sit down, assemble the timeline and list clear questions to answer before going on maternity leave.",
       "anchored_artifacts": [],
@@ -2295,8 +2295,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7812",
-      "ref": "C-7812",
+      "@id": "C-13491",
+      "ref": "C-13491",
       "label": "Host Says Viewers Say Tyler's Vehicle Is a V6 and She Confirmed It",
       "claim": "The host says several people emailed that Tyler Robinson's vehicle is a V6 and that her team confirmed it is a V6.",
       "anchored_artifacts": [],
@@ -2317,8 +2317,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7813",
-      "ref": "C-7813",
+      "@id": "C-13492",
+      "ref": "C-13492",
       "label": "Host Relays Viewer Claim That the Garage Challenger Is a V8, Told by Its Wheels",
       "claim": "The host relays viewers' claim that the car entering the garage is a V8 and that this can be told by the wheels, saying she does not know if that is true.",
       "anchored_artifacts": [
@@ -2335,7 +2335,7 @@
       "investigative_direction": "Have a vehicle expert examine the wheels and exhaust in the garage footage.",
       "transcript_snippet": "the car that's going into the garage is a V8 and that you can actually determine that by the wheels. I don't know if that's true",
       "supports_claim_refs": [
-        "C-3541"
+        "C-13462"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2343,8 +2343,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7814",
-      "ref": "C-7814",
+      "@id": "C-13493",
+      "ref": "C-13493",
       "label": "Host Says Trump's Response to Kirk's Death Was an AI Photo and a Speech",
       "claim": "The host says that when Charlie Kirk died the best Donald Trump did was an AI photo of Kirk hugging a combined Israeli and American flag, and a speech, with no investigation.",
       "anchored_artifacts": [],
@@ -2363,8 +2363,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7815",
-      "ref": "C-7815",
+      "@id": "C-13494",
+      "ref": "C-13494",
       "label": "Host Says She Does Not Plan to Run for Office",
       "claim": "The host says that, when asked the day before whether she would run, her answer was no, because she does not want to waste her life around these people.",
       "anchored_artifacts": [],
@@ -2381,8 +2381,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7816",
-      "ref": "C-7816",
+      "@id": "C-13496",
+      "ref": "C-13496",
       "label": "Netanyahu Told the UN October 7 Equaled 40,000 Americans or 16 Times 9/11",
       "claim": "In the clip, Netanyahu tells the UN that October 7 for a country of 10 million proportionally equals 40,000 innocent Americans slaughtered in under 24 hours, which he calls 16 times 9/11.",
       "anchored_artifacts": [
@@ -2401,8 +2401,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7817",
-      "ref": "C-7817",
+      "@id": "C-13497",
+      "ref": "C-13497",
       "label": "Host Asserts Israel Was Behind 9/11",
       "claim": "The host asserts in reply to the clip that Israel was behind 9/11 and that it is not a conspiracy theory.",
       "anchored_artifacts": [
@@ -2422,8 +2422,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7818",
-      "ref": "C-7818",
+      "@id": "C-13498",
+      "ref": "C-13498",
       "label": "Netanyahu Told the UN Israel Fought a Seven-Front War",
       "claim": "In the clip, Netanyahu says Israel fought a seven-front war against Hamas, the Houthis, Iran, militias in Iraq and Syria, and Palestinian terrorists in Judea and Samaria.",
       "anchored_artifacts": [
@@ -2442,8 +2442,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7819",
-      "ref": "C-7819",
+      "@id": "C-13499",
+      "ref": "C-13499",
       "label": "Netanyahu Told the UN Israel Crushed Iran's Army, Navy, Air Force and Nuclear Sites",
       "claim": "In the clip, Netanyahu says Israel, with American friends, crushed Iran's army, navy, air force and nuclear facilities.",
       "anchored_artifacts": [
@@ -2462,8 +2462,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7820",
-      "ref": "C-7820",
+      "@id": "C-13500",
+      "ref": "C-13500",
       "label": "Netanyahu Held Up a Beeper and Referred to the Pager Attacks",
       "claim": "In the clip, Netanyahu holds up a beeper and asks the assembly if they remember the beepers, saying Hezbollah certainly does.",
       "anchored_artifacts": [
@@ -2484,8 +2484,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7821",
-      "ref": "C-7821",
+      "@id": "C-13501",
+      "ref": "C-13501",
       "label": "Host Reads a Reuters Headline That Israeli Bulldozers Smashed Olive Trees",
       "claim": "The host reads a Reuters headline from the day before reporting that Israeli bulldozers smashed Palestinian olive trees ahead of the annual harvest, with villagers wailing over the remains.",
       "anchored_artifacts": [
@@ -2506,8 +2506,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7822",
-      "ref": "C-7822",
+      "@id": "C-13502",
+      "ref": "C-13502",
       "label": "Host Alleges Netanyahu Has Blackmailed US Politicians",
       "claim": "The host alleges that Benjamin Netanyahu knows the American military is his military because he has blackmailed all of the country's politicians.",
       "anchored_artifacts": [],
@@ -2525,8 +2525,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7823",
-      "ref": "C-7823",
+      "@id": "C-13503",
+      "ref": "C-13503",
       "label": "Host Says Wear Forbidden Made an AI Video on the Blake Neff Interview",
       "claim": "The host says Blake Neff's sit-down interview said what everyone says about the Kirk investigation, and that Wear Forbidden made an AI video covering what took place in that interview.",
       "anchored_artifacts": [
@@ -2548,8 +2548,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7824",
-      "ref": "C-7824",
+      "@id": "C-13504",
+      "ref": "C-13504",
       "label": "Host Says Erika Gave Andrew Wilson What Was Presented as Charlie's Last Video With His Kids",
       "claim": "The host says Erika Kirk gave Andrew Wilson a video presented as the last video of her husband with his kids.",
       "anchored_artifacts": [],
@@ -2571,8 +2571,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7825",
-      "ref": "C-7825",
+      "@id": "C-13505",
+      "ref": "C-13505",
       "label": "Host Says Erika Put a Note Charlie Wrote About Her Into a Donation Email",
       "claim": "The host says Erika Kirk shared a note Charlie wrote about her and put it in an email for donations soon after he died.",
       "anchored_artifacts": [],
@@ -2593,8 +2593,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7826",
-      "ref": "C-7826",
+      "@id": "C-13506",
+      "ref": "C-13506",
       "label": "Host Characterizes Andrew Wilson as a Heavy Drinker and Chain Smoker",
       "claim": "The host says Andrew Wilson is a drunk addicted to chain smoking, citing late-night content of him drinking whiskey.",
       "anchored_artifacts": [],
@@ -2612,8 +2612,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7827",
-      "ref": "C-7827",
+      "@id": "C-13507",
+      "ref": "C-13507",
       "label": "Host Says Erika Should Have Shown the Footage in a Sit-Down If She Needed to Prove Fort Huachuca",
       "claim": "The host says that, if Erika Kirk felt she had to show the footage to prove she was not at Fort Huachuca, she should have done so in a sit-down with figures such as Megyn Kelly or Tucker Carlson.",
       "anchored_artifacts": [],
@@ -2635,8 +2635,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7828",
-      "ref": "C-7828",
+      "@id": "C-13508",
+      "ref": "C-13508",
       "label": "Host Says She First Believed TPUSA Were Charlie's True Friends Who Would Fight for Justice",
       "claim": "The host says that at the start she thought the people at TPUSA were Charlie's true friends who would help fight for justice, and that it was a rude awakening.",
       "anchored_artifacts": [],
@@ -2656,8 +2656,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7829",
-      "ref": "C-7829",
+      "@id": "C-13509",
+      "ref": "C-13509",
       "label": "Host Tells Viewers Not to Worry About Possible TPUSA Lawsuits",
       "claim": "The host says viewers should not worry about lawsuits if the group is planning them or trying to entrap her.",
       "anchored_artifacts": [],
@@ -2676,8 +2676,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7830",
-      "ref": "C-7830",
+      "@id": "C-13510",
+      "ref": "C-13510",
       "label": "Host Says Charlie's Favorite Proverb Was Iron Sharpens Iron and He Texted It",
       "claim": "The host says she thinks Charlie Kirk's favorite biblical proverb was iron sharpens iron and that he texted her about it all the time.",
       "anchored_artifacts": [],
@@ -2695,8 +2695,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7831",
-      "ref": "C-7831",
+      "@id": "C-13511",
+      "ref": "C-13511",
       "label": "Host Invites Viewers to Email Tips and Join a Decentralized Independent Unit",
       "claim": "The host invites viewers to email tips to be part of a story about a decentralized independent unit of people worldwide solving the Charlie Kirk case, and says the team is revisiting Dairy Queen, the shopping center and the car wash.",
       "anchored_artifacts": [
@@ -2722,8 +2722,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7832",
-      "ref": "C-7832",
+      "@id": "C-13512",
+      "ref": "C-13512",
       "label": "Producer Note Says Carlson Recounts Trump Dismissed Iran War Concerns",
       "claim": "The host reads a producer's note quoting NPR that Tucker Carlson recounts a meeting in which Trump dismissed his Iran war concerns by saying everyone is going to die anyway.",
       "anchored_artifacts": [
@@ -2746,8 +2746,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7833",
-      "ref": "C-7833",
+      "@id": "C-13514",
+      "ref": "C-13514",
       "label": "Host Says Officials Keep Describing Confirming Only the First Part of the Plate",
       "claim": "The host says, answering a viewer comment about license plates, that her team has noticed officials repeatedly say they confirmed the first part of the plate, got a partial plate and ran it, including in Officer Goforth's testimony.",
       "anchored_artifacts": [
@@ -2763,7 +2763,7 @@
       "investigative_direction": "Review the hearing testimony for each reference to partial plates.",
       "transcript_snippet": "every time they talk about the plates, they effectively say that they were able to confirm the first part of the plate.",
       "supports_claim_refs": [
-        "C-3536"
+        "C-13513"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2772,8 +2772,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7834",
-      "ref": "C-7834",
+      "@id": "C-13515",
+      "ref": "C-13515",
       "label": "Host Says She Has No Footage Confirming the Garage Challenger's Plate Matches",
       "claim": "The host says she cannot confirm the plates match and has no footage that confirms it, which she suggests may be because it is not Tyler Robinson's car.",
       "anchored_artifacts": [],
@@ -2794,8 +2794,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-7835",
-      "ref": "C-7835",
+      "@id": "C-13516",
+      "ref": "C-13516",
       "label": "Host Posits That a Plate Match With a Different Exhaust Would Mean Fake Plates",
       "claim": "The host says that if the plates match but the exhausts differ, it would mean the feds are printing fake plates or matching plates and putting them on vehicles to tag potential patsies.",
       "anchored_artifacts": [

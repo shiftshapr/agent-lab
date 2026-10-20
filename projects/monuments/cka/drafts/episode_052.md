@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep052): N-489, N-10740, N-10797, N-10832
   - Tip-minted Nodes (reintro-ep052): N-11054
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10b): C-6801–C-6902
+  - Claim Range: C-4516–C-4631
   - New Nodes Introduced: N-380, N-381, N-382, N-383, N-384, N-385, N-387, N-10381, N-10383, N-10384
   - Reused Nodes Appearing: N-82, N-3, N-363, N-5, N-14, N-15, N-36, N-50, N-54, N-61, N-69, N-97, N-163, N-195, N-237, N-260, N-261, N-266, N-270, N-288, N-312, N-330, N-361, N-10000, N-10014, N-10018, N-10024, N-10051, N-10077, N-10085, N-10114, N-10164, N-10180, N-10186, N-10230, N-10238, N-10239, N-10253, N-10256, N-10270, N-10298, N-10317, N-10323, N-10326, N-10340, N-10342, N-10346, N-10359, N-10367, N-10370, N-10371, N-10373, N-10376, N-10379, N-10385, N-10416, N-10447, N-10853, N-386, N-10382, N-325
   - (see registers), N-11
@@ -42,12 +42,12 @@ Video Timestamp: 00:04:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2003, C-2004, N-10381, Tyler Robinson node*
+*Related: C-4518, C-4521, N-10381, Tyler Robinson node*
 
 **A-1577.2** Map showing ~3-hour drive distance from Orem, Utah to Panguitch, Utah (host's on-screen display)
 Video Timestamp: 00:02:43
 
-*Related: C-2003, N-10381*
+*Related: C-4518, N-10381*
 
 **A-1578** Erika Kirk September 8 Follow-Up Text Bundle
 
@@ -56,21 +56,21 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:19:30
 
-*Related: C-2006, C-2007, N-2 (Erika Kirk, as "Erika")*
+*Related: C-4554, C-4556, N-2 (Erika Kirk, as "Erika")*
 
 **A-1579** Mark Amodei House Committee Video Bundle
 
 **A-1579.1** 12-hour House committee hearing video (reviewed by host to verify Rep. Mark Amodei's presence)
 Video Timestamp: 00:21:13
 
-*Related: C-2008, Mark Amodei node, N-10382*
+*Related: C-4563, Mark Amodei node, N-10382*
 
 **A-1580** Tyler Bowyer Memorial Clip Bundle
 
 **A-1580.1** Video excerpt of Tyler Bowyer speaking at Charlie Kirk's memorial about the 2015 Trump rally and Erika Kirk's involvement
 Video Timestamp: 00:28:55
 
-*Related: C-2009, Tyler Bowyer node, N-2 (Erika Kirk, as "Erika"), N-11*
+*Related: C-4581, Tyler Bowyer node, N-2 (Erika Kirk, as "Erika"), N-11*
 
 **A-1581** 2014 Arizona House Floor Record Bundle
 
@@ -79,14 +79,14 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:33:00
 
-*Related: C-2010, N-380, N-381, N-387, N-10383, Lori Frantzve node*
+*Related: C-4591, N-380, N-381, N-387, N-10383, Lori Frantzve node*
 
 **A-1582** David Frodsham News Article Bundle
 
 **A-1582.1** CBS News article "US Army missed the red flags about a civilian leader who led a child porn ring and risked US security"
 Video Timestamp: 00:37:11
 
-*Related: C-2011, N-384, Fort Huachuca node*
+*Related: C-4602, N-384, Fort Huachuca node*
 
 **A-1583** Davis-Monthan Arizona Commanders Summit Bundle
 
@@ -95,21 +95,21 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:38:50
 
-*Related: C-2012, N-10384, N-10383*
+*Related: C-4609, N-10384, N-10383*
 
 **A-1584** Daily Wire "Maddie in the No" Clip Bundle
 
 **A-1584.1** Clip from Daily Wire's "Maddie in the No" show mocking Candace's Utah state flag commentary
 Video Timestamp: 00:46:38
 
-*Related: C-2013, N-386, Ben Shapiro node*
+*Related: C-4615, N-386, Ben Shapiro node*
 
 **A-1585** Charlie Kirk Assassination Back Video Bundle
 
 **A-1585.1** Still image from Charlie Kirk assassination footage showing victim's back and St. Michael pendant chain; host asserts no visible blood
 Video Timestamp: 00:24:56
 
-*Related: C-2014, N-1 (Charlie Kirk)*
+*Related: C-4570, N-1 (Charlie Kirk)*
 
 **A-1586** Tyler Robinson Wild Electric Employment Bundle
 
@@ -117,7 +117,7 @@ Video Timestamp: 00:24:56
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:13:50
 
-*Related: C-2015, Tyler Robinson node*
+*Related: C-4535, Tyler Robinson node*
 
 **A-2839** Decentralized Intelligence Agency Tip Line Bundle
 
@@ -130,7 +130,7 @@ Video Timestamp: 00:11:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6817, N-3*
+*Related: C-4534, N-3*
 
 ---
 
@@ -145,7 +145,7 @@ Video Timestamp: 01:04:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-6901, C-6902, N-489, N-2, N-3*
+*Related: C-4630, C-4631, N-489, N-2, N-3*
 
 ---
 
@@ -158,7 +158,7 @@ Video Timestamp: 00:52:36
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6891, C-6892, C-6893, C-6894, C-6895, N-82, N-3*
+*Related: C-4619, C-4620, C-4621, C-4622, C-4623, N-82, N-3*
 
 ---
 
@@ -173,7 +173,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1581.1, C-2010, N-381, N-382, N-383, N-10383*
+*Related: A-1581.1, C-4591, N-381, N-382, N-383, N-10383*
 
 **N-381** David Farnsworth
 
@@ -184,7 +184,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1581.1, C-2010, N-380, N-382, Lori Frantzve node, N-10383*
+*Related: A-1581.1, C-4591, N-380, N-382, Lori Frantzve node, N-10383*
 
 **N-382** Dwayne Farnsworth
 
@@ -217,7 +217,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1582.1, C-2011, Fort Huachuca node*
+*Related: A-1582.1, C-4602, Fort Huachuca node*
 
 **N-385** Thomas Burt
 
@@ -239,7 +239,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1584.1, C-2013, Ben Shapiro node*
+*Related: A-1584.1, C-4615, Ben Shapiro node*
 
 **N-387** Larry Guinta
 
@@ -261,7 +261,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-2012*
+*Related: C-4609*
 
 **N-10381** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification
 
@@ -272,7 +272,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1577.1, A-1577.2, C-2003, C-2004, Tyler Robinson node*
+*Related: A-1577.1, A-1577.2, C-4518, C-4521, Tyler Robinson node*
 
 **N-10382** Mark Amodei House Committee Visual Identification
 
@@ -283,7 +283,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1579.1, C-2008, Mark Amodei node*
+*Related: A-1579.1, C-4563, Mark Amodei node*
 
 **N-10383** Farnsworth Family Political-Military Network
 
@@ -294,7 +294,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1581.1, C-2010, N-380, N-381, N-382, N-385, N-387, Lori Frantzve node, N-11*
+*Related: A-1581.1, C-4591, N-380, N-381, N-382, N-385, N-387, Lori Frantzve node, N-11*
 
 **N-10384** Davis-Monthan AFB September 9 Attendee Verification
 
@@ -305,14 +305,14 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1583.1, C-2012, N-10383*
+*Related: A-1583.1, C-4609, N-10383*
 
 **N-11** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
 
-*Related: C-2009*
+*Related: C-4581*
 
 ---
 
@@ -320,7 +320,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 Subject of the assassination; the host discusses his Catholicism, texts and the video of him from behind.
 
-*Related: C-6818, C-6820, C-6821, C-6825, C-6827, C-6833, C-6834, C-6848, C-6849, C-6863, C-6864*
+*Related: C-4536, C-4538, C-4539, C-4543, C-4545, C-4551, C-4553, C-4571, C-4572, C-4587, C-4588*
 
 ---
 
@@ -328,7 +328,7 @@ Subject of the assassination; the host discusses his Catholicism, texts and the 
 
 Widow and TPUSA CEO; the host recounts her sitdown, her texts and her account of how she met Tyler Bowyer.
 
-*Related: C-6808, C-6824, C-6826, C-6827, C-6835, C-6836, C-6842, C-6846, C-6853, C-6854, C-6855, C-6856, C-6857, C-6858, C-6859, C-6869, C-6901, C-6902*
+*Related: C-4525, C-4542, C-4544, C-4545, C-4555, C-4557, C-4564, C-4568, C-4576, C-4577, C-4578, C-4579, C-4580, C-4582, C-4583, C-4594, C-4630, C-4631*
 
 ---
 
@@ -336,7 +336,7 @@ Widow and TPUSA CEO; the host recounts her sitdown, her texts and her account of
 
 Host; speaks for herself throughout.
 
-*Related: C-6801, C-6802, C-6805, C-6807, C-6808, C-6809, C-6810, C-6811, C-6812, C-6813, C-6814, C-6815, C-6816, C-6817, C-6818, C-6819, C-6820, C-6821, C-6822, C-6823, C-6824, C-6825, C-6826, C-6827, C-6828, C-6829, C-6830, C-6831, C-6832, C-6833, C-6834, C-6835, C-6836, C-6837, C-6838, C-6839, C-6840, C-6841, C-6842, C-6843, C-6844, C-6845, C-6846, C-6847, C-6848, C-6849, C-6850, C-6851, C-6852, C-6853, C-6854, C-6855, C-6856, C-6857, C-6858, C-6859, C-6860, C-6861, C-6862, C-6863, C-6864, C-6865, C-6866, C-6867, C-6868, C-6869, C-6870, C-6871, C-6872, C-6873, C-6874, C-6875, C-6876, C-6877, C-6878, C-6879, C-6880, C-6881, C-6882, C-6883, C-6884, C-6885, C-6886, C-6887, C-6888, C-6889, C-6890, C-6891, C-6892, C-6893, C-6894, C-6895, C-6896, C-6897, C-6898, C-6899, C-6900, C-6901, C-6902*
+*Related: C-4516, C-4517, C-4522, C-4524, C-4525, C-4526, C-4527, C-4528, C-4529, C-4530, C-4531, C-4532, C-4533, C-4534, C-4536, C-4537, C-4538, C-4539, C-4540, C-4541, C-4542, C-4543, C-4544, C-4545, C-4546, C-4547, C-4548, C-4549, C-4550, C-4551, C-4553, C-4555, C-4557, C-4558, C-4559, C-4560, C-4561, C-4562, C-4564, C-4565, C-4566, C-4567, C-4568, C-4569, C-4571, C-4572, C-4573, C-4574, C-4575, C-4576, C-4577, C-4578, C-4579, C-4580, C-4582, C-4583, C-4584, C-4585, C-4586, C-4587, C-4588, C-4589, C-4590, C-4592, C-4593, C-4594, C-4595, C-4596, C-4597, C-4598, C-4599, C-4600, C-4601, C-4603, C-4604, C-4605, C-4606, C-4607, C-4608, C-4610, C-4611, C-4612, C-4613, C-4614, C-4616, C-4617, C-4618, C-4619, C-4620, C-4621, C-4622, C-4623, C-4625, C-4626, C-4627, C-4628, C-4629, C-4630, C-4631*
 
 ---
 
@@ -344,7 +344,7 @@ Host; speaks for herself throughout.
 
 Donald Trump; the 2015 Arizona rally where Erika Kirk and Tyler Bowyer stood behind him.
 
-*Related: C-6850, C-6854, C-6855, C-6856*
+*Related: C-4573, C-4577, C-4578, C-4579*
 
 ---
 
@@ -352,14 +352,14 @@ Donald Trump; the 2015 Arizona rally where Erika Kirk and Tyler Bowyer stood beh
 
 TPUSA spokesperson; the host says he lied about the Superman neck and received the night-before text.
 
-*Related: C-6824, C-6825, C-6828*
+*Related: C-4542, C-4543, C-4546*
 
 ---
 
 **N-15** Justin Streiff
 Justin Streiff; present in the host's meeting with Erika Kirk where she raised Terryl Farnsworth.
 
-*Related: C-6846*
+*Related: C-4568*
 
 ---
 
@@ -367,7 +367,7 @@ Justin Streiff; present in the host's meeting with Erika Kirk where she raised T
 
 Benjamin Netanyahu; the host's account of his reported offer to Charlie Kirk.
 
-*Related: C-6827, C-6828*
+*Related: C-4545, C-4546*
 
 ---
 
@@ -375,7 +375,7 @@ Benjamin Netanyahu; the host's account of his reported offer to Charlie Kirk.
 
 Tyler Robinson, the accused; the host's Panguitch restaurant and Dairy Queen timeline.
 
-*Related: C-6801, C-6802, C-6803, C-6804, C-6805, C-6806, C-6807, C-6809, C-6810, C-6812, C-6813, C-6814, C-6815, C-6816, C-6833*
+*Related: C-4516, C-4517, C-4519, C-4520, C-4522, C-4523, C-4524, C-4526, C-4527, C-4529, C-4530, C-4531, C-4532, C-4533, C-4551*
 
 ---
 
@@ -383,7 +383,7 @@ Tyler Robinson, the accused; the host's Panguitch restaurant and Dairy Queen tim
 
 Sigmund Freud; subject of the book the host's book club is finishing (rendered 'Sigmund Freud').
 
-*Related: C-6900*
+*Related: C-4629*
 
 ---
 
@@ -391,7 +391,7 @@ Sigmund Freud; subject of the book the host's book club is finishing (rendered '
 
 Lance Twiggs; Robinson's correspondent in the host's timeline.
 
-*Related: C-6812*
+*Related: C-4529*
 
 ---
 
@@ -399,7 +399,7 @@ Lance Twiggs; Robinson's correspondent in the host's timeline.
 
 Phil Lyman; the host says he spoke to Tim Ballard after the assassination.
 
-*Related: C-6875*
+*Related: C-4600*
 
 ---
 
@@ -407,7 +407,7 @@ Phil Lyman; the host says he spoke to Tim Ballard after the assassination.
 
 Kash Patel; the host's 5:59 p.m. tweet timeline.
 
-*Related: C-6811*
+*Related: C-4528*
 
 ---
 
@@ -415,7 +415,7 @@ Kash Patel; the host's 5:59 p.m. tweet timeline.
 
 Brigitte Macron; the French online-harassment sentences and the Delaware suit.
 
-*Related: C-6891, C-6892, C-6893, C-6894, C-6895, C-6896, C-6898*
+*Related: C-4619, C-4620, C-4621, C-4622, C-4623, C-4625, C-4627*
 
 ---
 
@@ -423,7 +423,7 @@ Brigitte Macron; the French online-harassment sentences and the Delaware suit.
 
 Ben Shapiro; the host's 'psycho ex-boyfriend' complaints about the Daily Wire.
 
-*Related: C-6890*
+*Related: C-4618*
 
 ---
 
@@ -431,7 +431,7 @@ Ben Shapiro; the host's 'psycho ex-boyfriend' complaints about the Daily Wire.
 
 Matt Walsh; host of Judged, whose bailiff was reportedly considered for the Daily Wire show.
 
-*Related: C-6887*
+*Related: C-4614*
 
 ---
 
@@ -439,7 +439,7 @@ Matt Walsh; host of Judged, whose bailiff was reportedly considered for the Dail
 
 Dr. Lee Trotter (rendered 'Troder' in the transcript); surgeon in the host's hospital claims.
 
-*Related: C-6823, C-6824*
+*Related: C-4541, C-4542*
 
 ---
 
@@ -447,7 +447,7 @@ Dr. Lee Trotter (rendered 'Troder' in the transcript); surgeon in the host's hos
 
 Eliza (Elizabeth) McCoy; the person who first proposed the tent idea per TPUSA.
 
-*Related: C-6834*
+*Related: C-4553*
 
 ---
 
@@ -455,7 +455,7 @@ Eliza (Elizabeth) McCoy; the person who first proposed the tent idea per TPUSA.
 
 Glenn Beck; reportedly gave support to Operation Underground.
 
-*Related: C-6876*
+*Related: C-4601*
 
 ---
 
@@ -463,7 +463,7 @@ Glenn Beck; reportedly gave support to Operation Underground.
 
 Duncan Aviation; the FBO the host says rented cars to the feds.
 
-*Related: C-6884, C-6885*
+*Related: C-4611, C-4612*
 
 ---
 
@@ -471,7 +471,7 @@ Duncan Aviation; the FBO the host says rented cars to the feds.
 
 Terryl Farnsworth; AV company head who removed cameras, per the host.
 
-*Related: C-6819, C-6844, C-6845, C-6846, C-6847, C-6860, C-6861, C-6865, C-6884*
+*Related: C-4537, C-4566, C-4567, C-4568, C-4569, C-4584, C-4585, C-4589, C-4611*
 
 ---
 
@@ -479,7 +479,7 @@ Terryl Farnsworth; AV company head who removed cameras, per the host.
 
 Brian Harpole; the host reports no response from him.
 
-*Related: C-6837, C-6838, C-6842*
+*Related: C-4558, C-4559, C-4564*
 
 ---
 
@@ -487,7 +487,7 @@ Brian Harpole; the host reports no response from him.
 
 Dan Flood; recipient of the night-before text and Harpole's contact.
 
-*Related: C-6825, C-6838*
+*Related: C-4543, C-4559*
 
 ---
 
@@ -495,7 +495,7 @@ Dan Flood; recipient of the night-before text and Harpole's contact.
 
 Pierre Dupont; the donor name earlier TPUSA sources gave, which the host now doubts.
 
-*Related: C-6832*
+*Related: C-4550*
 
 ---
 
@@ -503,7 +503,7 @@ Pierre Dupont; the donor name earlier TPUSA sources gave, which the host now dou
 
 Pierre Falcone; the donor the host now believes sent the large check.
 
-*Related: C-6832*
+*Related: C-4550*
 
 ---
 
@@ -511,7 +511,7 @@ Pierre Falcone; the donor the host now believes sent the large check.
 
 Tim Ballard; former head of Operation Underground.
 
-*Related: C-6875, C-6876*
+*Related: C-4600, C-4601*
 
 ---
 
@@ -519,7 +519,7 @@ Tim Ballard; former head of Operation Underground.
 
 Baron Coleman; the host says she reached out to him for a conversation.
 
-*Related: C-6899*
+*Related: C-4628*
 
 ---
 
@@ -527,7 +527,7 @@ Baron Coleman; the host says she reached out to him for a conversation.
 
 Mitch Snow, the Fort Huachuca witness; the host relays his descriptions and photo reactions.
 
-*Related: C-6829, C-6839, C-6840, C-6842, C-6843, C-6879, C-6880*
+*Related: C-4547, C-4560, C-4561, C-4564, C-4565, C-4605, C-4606*
 
 ---
 
@@ -535,7 +535,7 @@ Mitch Snow, the Fort Huachuca witness; the host relays his descriptions and phot
 
 Mark Amodei; the congressman whose alibi and resemblance are discussed.
 
-*Related: C-6839, C-6840, C-6841, C-6879*
+*Related: C-4560, C-4561, C-4562, C-4605*
 
 ---
 
@@ -543,7 +543,7 @@ Mark Amodei; the congressman whose alibi and resemblance are discussed.
 
 Lori Frantzve; Erika Kirk's mother, in the 2014 EMP record and the 2015 rally background.
 
-*Related: C-6855, C-6867, C-6870, C-6901, C-6902*
+*Related: C-4578, C-4592, C-4595, C-4630, C-4631*
 
 ---
 
@@ -551,7 +551,7 @@ Lori Frantzve; Erika Kirk's mother, in the 2014 EMP record and the 2015 rally ba
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6832, C-6834, C-6851, C-6863, C-6864, C-6877, C-6878*
+*Related: C-4550, C-4553, C-4574, C-4587, C-4588, C-4603, C-4604*
 
 ---
 
@@ -559,7 +559,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6806, C-6810*
+*Related: C-4523, C-4527*
 
 ---
 
@@ -567,7 +567,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6827*
+*Related: C-4545*
 
 ---
 
@@ -575,7 +575,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6811, C-6812*
+*Related: C-4528, C-4529*
 
 ---
 
@@ -583,7 +583,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6802, C-6809, C-6813*
+*Related: C-4517, C-4526, C-4530*
 
 ---
 
@@ -591,7 +591,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6812*
+*Related: C-4529*
 
 ---
 
@@ -599,7 +599,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6820, C-6848, C-6849*
+*Related: C-4538, C-4571, C-4572*
 
 ---
 
@@ -607,7 +607,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6888, C-6889*
+*Related: C-4616, C-4617*
 
 ---
 
@@ -615,7 +615,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6818*
+*Related: C-4536*
 
 ---
 
@@ -623,7 +623,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6848, C-6849*
+*Related: C-4571, C-4572*
 
 ---
 
@@ -631,7 +631,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6874*
+*Related: C-4599*
 
 ---
 
@@ -639,7 +639,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6818*
+*Related: C-4536*
 
 ---
 
@@ -647,7 +647,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6890*
+*Related: C-4618*
 
 ---
 
@@ -655,7 +655,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6822*
+*Related: C-4540*
 
 ---
 
@@ -663,7 +663,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6830*
+*Related: C-4548*
 
 ---
 
@@ -671,7 +671,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6884, C-6885*
+*Related: C-4611, C-4612*
 
 ---
 
@@ -679,7 +679,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6896, C-6897, C-6898*
+*Related: C-4625, C-4626, C-4627*
 
 ---
 
@@ -687,7 +687,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6832*
+*Related: C-4550*
 
 ---
 
@@ -695,7 +695,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6832*
+*Related: C-4550*
 
 ---
 
@@ -703,7 +703,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6818*
+*Related: C-4536*
 
 ---
 
@@ -711,7 +711,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6843*
+*Related: C-4565*
 
 ---
 
@@ -719,7 +719,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6825, C-6826*
+*Related: C-4543, C-4544*
 
 ---
 
@@ -727,7 +727,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6827, C-6828*
+*Related: C-4545, C-4546*
 
 ---
 
@@ -735,7 +735,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6819, C-6844, C-6846*
+*Related: C-4537, C-4566, C-4568*
 
 ---
 
@@ -743,7 +743,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6823*
+*Related: C-4541*
 
 ---
 
@@ -751,7 +751,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6829, C-6842*
+*Related: C-4547, C-4564*
 
 ---
 
@@ -759,7 +759,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6843*
+*Related: C-4565*
 
 ---
 
@@ -767,7 +767,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6839, C-6840, C-6841, C-6879, C-6880*
+*Related: C-4560, C-4561, C-4562, C-4605, C-4606*
 
 ---
 
@@ -775,7 +775,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6837, C-6838, C-6842*
+*Related: C-4558, C-4559, C-4564*
 
 ---
 
@@ -783,7 +783,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6834*
+*Related: C-4553*
 
 ---
 
@@ -791,7 +791,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6886*
+*Related: C-4613*
 
 ---
 
@@ -799,7 +799,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6887*
+*Related: C-4614*
 
 ---
 
@@ -807,7 +807,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6890*
+*Related: C-4618*
 
 ---
 
@@ -815,7 +815,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6824*
+*Related: C-4542*
 
 ---
 
@@ -823,7 +823,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6821*
+*Related: C-4539*
 
 ---
 
@@ -831,7 +831,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6844, C-6845*
+*Related: C-4566, C-4567*
 
 ---
 
@@ -839,7 +839,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6872, C-6874, C-6875, C-6876, C-6877, C-6878*
+*Related: C-4597, C-4599, C-4600, C-4601, C-4603, C-4604*
 
 ---
 
@@ -847,7 +847,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6813*
+*Related: C-4530*
 
 ---
 
@@ -855,7 +855,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6831*
+*Related: C-4549*
 
 ---
 
@@ -863,7 +863,7 @@ Existing topic reused for new claims in this episode.
 
 First named by the host at 00:33:30 in episode 052 as the congressman who supported David Farnsworth's EMP bill.
 
-*Related: C-6868*
+*Related: C-4593*
 
 ---
 
@@ -872,7 +872,7 @@ First named by the host at 00:33:30 in episode 052 as the congressman who suppor
 Node Type: Topic
 The host's questions to Erika Kirk about how she met Tyler Bowyer, the conflict between Erika's 2015-rally answer and Bowyer's memorial account, and the senator or congressman connection Erika mentioned.
 
-*Related: C-6853, C-6854, C-6855, C-6856, C-6857, C-6858, C-6859*
+*Related: C-4576, C-4577, C-4578, C-4579, C-4580, C-4582, C-4583*
 
 ---
 
@@ -881,7 +881,7 @@ The host's questions to Erika Kirk about how she met Tyler Bowyer, the conflict 
 Node Type: Topic
 The host's statements that Tyler Bowyer was indicted in Arizona, pardoned, and was in debt with wages garnished before becoming wealthy.
 
-*Related: C-6850, C-6851, C-6852*
+*Related: C-4573, C-4574, C-4575*
 
 ---
 
@@ -890,7 +890,7 @@ The host's statements that Tyler Bowyer was indicted in Arizona, pardoned, and w
 Node Type: Topic
 The host's statements that Eddie Farnsworth blocked a 2013 hearing on a child sex trafficking bill and that his nephew Albert Farnsworth raped a 13-year-old.
 
-*Related: C-6872, C-6873*
+*Related: C-4597, C-4598*
 
 ---
 
@@ -899,7 +899,7 @@ The host's statements that Eddie Farnsworth blocked a 2013 hearing on a child se
 Node Type: Topic
 The host's description of the French court's sentences, account suspensions, course orders and moral damages against ten defendants over posts about Brigitte Macron.
 
-*Related: C-6891, C-6892, C-6893, C-6894, C-6895, C-6898*
+*Related: C-4619, C-4620, C-4621, C-4622, C-4623, C-4627*
 
 ---
 
@@ -908,7 +908,7 @@ The host's description of the French court's sentences, account suspensions, cou
 Node Type: Topic
 Claims that Lori Frantzve's companies AZ Tech and E3 Tech held Department of Defense contracts for EMP hardening and testing at Fort Huachuca, and that Erika Kirk moved to Arizona because of her mother's defense contracts.
 
-*Related: C-6901, C-6902*
+*Related: C-4630, C-4631*
 
 ---
 
@@ -917,13 +917,13 @@ Claims that Lori Frantzve's companies AZ Tech and E3 Tech held Department of Def
 Node Type: Topic
 The tipster hypothesis, offered by the host as unconfirmed, that Tyler Robinson went to his grandmother's house near Panguitch after the Cowboys Smokehouse meal, together with the grandmother's early public statement.
 
-*Related: C-6815, C-6816*
+*Related: C-4532, C-4533*
 
 ---
 
 ## 5. Claim Register
 
-**C-2003** Host Says Tyler Robinson Visited Panguitch
+**C-4518** Host Says Tyler Robinson Visited Panguitch
 
 Claim Timestamp: 00:02:43
 
@@ -936,7 +936,7 @@ Related Nodes: N-10381
 
 Investigative Direction: Obtain Cowboys Smokehouse receipt and credit card statement directly; verify transaction timestamp and route.
 
-**C-2004** Cowboys Smokehouse Verified Robinson's Presence via Credit Card
+**C-4521** Cowboys Smokehouse Verified Robinson's Presence via Credit Card
 
 Claim Timestamp: 00:04:45
 
@@ -949,7 +949,7 @@ Related Nodes: N-10381
 
 Investigative Direction: Confirm whether FBI / Utah officials interviewed Cowboys Smokehouse staff; obtain contemporaneous staff statement; check federal investigation logs.
 
-**C-2005** TPUSA Tent Was Group Decision
+**C-4552** TPUSA Tent Was Group Decision
 
 Claim Timestamp: 00:17:20
 
@@ -962,7 +962,7 @@ Related Nodes:
 
 Investigative Direction: Obtain direct TPUSA statement or correspondence clarifying the tent decision-making process.
 
-**C-2006** Erika's First September 8 Text Had Blocked Contact Name
+**C-4554** Erika's First September 8 Text Had Blocked Contact Name
 
 Claim Timestamp: 00:18:17
 
@@ -974,7 +974,7 @@ Mentions: N-2, N-1
 
 Investigative Direction: Obtain the original redacted screenshot from Erika; press for unredacted version showing contact number.
 
-**C-2007** Erika's Follow-Up Text Was a Charlie Kirk Contact Card
+**C-4556** Erika's Follow-Up Text Was a Charlie Kirk Contact Card
 
 Claim Timestamp: 00:18:58
 
@@ -986,7 +986,7 @@ Mentions: N-2, N-1
 
 Investigative Direction: Verify whether Erika retains the original unredacted text; obtain direct screen capture with contact number visible.
 
-**C-2008** Candace Concluded Mark Amodei Appears Early in 12-Hour Committee Footage
+**C-4563** Candace Concluded Mark Amodei Appears Early in 12-Hour Committee Footage
 
 Claim Timestamp: 00:21:13
 
@@ -999,7 +999,7 @@ Related Nodes: N-10382
 
 Investigative Direction: Obtain official House attendance record; verify timestamped committee video metadata; corroborate with eyewitness accounts.
 
-**C-2009** Tyler Bowyer Memorial Claim About Erika
+**C-4581** Tyler Bowyer Memorial Claim About Erika
 
 Claim Timestamp: 00:28:55
 
@@ -1011,7 +1011,7 @@ Mentions: N-2, N-11, N-1, N-5
 
 Investigative Direction: Cross-check rally attendee list and corroborate timing of Erika's political involvement; verify Bowyer's narrative against other contemporaneous accounts.
 
-**C-2010** Host Says 2014 Arizona House Record Connects Farnsworths to Lori Frantzve
+**C-4591** Host Says 2014 Arizona House Record Connects Farnsworths to Lori Frantzve
 
 Claim Timestamp: 00:33:00
 
@@ -1024,7 +1024,7 @@ Related Nodes: N-10383
 
 Investigative Direction: Verify the Arizona House record directly; check whether any DoD contracts to GTech Industries followed; trace GTech Industries' successor entities (AZ Tech / E3 Tech mentioned in comments at 01:04:30).
 
-**C-2011** CBS News Reported David Frodsham Returned to Fort Huachuca
+**C-4602** CBS News Reported David Frodsham Returned to Fort Huachuca
 
 Claim Timestamp: 00:36:07
 
@@ -1036,7 +1036,7 @@ Mentions: N-384
 
 Investigative Direction: Obtain the full CBS News article and any follow-up reporting; verify Rodsham's Fort Huachuca tenure dates; check overlap with relevant September 10 events.
 
-**C-2012** Host Cites Davis-Monthan AFB Website Saying Arizona Commanders Summit Kicked Off on September 9
+**C-4609** Host Cites Davis-Monthan AFB Website Saying Arizona Commanders Summit Kicked Off on September 9
 
 Claim Timestamp: 00:38:50
 
@@ -1049,7 +1049,7 @@ Related Nodes: N-10383, N-10384
 
 Investigative Direction: Obtain attendee list for the summit; cross-check against names of interest (Farnsworths, Boyers, Erika Kirk, etc.); verify any overlap with Fort Huachuca personnel.
 
-**C-2013** Daily Wire's "In the Know Know" Show Mocks Candace
+**C-4615** Daily Wire's "In the Know Know" Show Mocks Candace
 
 Claim Timestamp: 00:46:38
 
@@ -1061,7 +1061,7 @@ Mentions: N-386, N-22, N-3
 
 Investigative Direction: Confirm show title, launch date, host identity, and episode count directly via Daily Wire's official channels.
 
-**C-2014** Charlie Back Still Image Shows No Visible Blood
+**C-4570** Charlie Back Still Image Shows No Visible Blood
 
 Claim Timestamp: 00:24:56
 
@@ -1073,7 +1073,7 @@ Mentions: N-1
 
 Investigative Direction: Obtain unaltered full video from original source; have independent forensic analysts assess whether the absence of visible blood is consistent with the stated wound trajectory.
 
-**C-2015** Host Says Tyler Robinson Worked at Wild Electric in Santa Clara, Utah
+**C-4535** Host Says Tyler Robinson Worked at Wild Electric in Santa Clara, Utah
 
 Claim Timestamp: 00:13:50
 
@@ -1088,7 +1088,7 @@ Investigative Direction: Confirm employment dates and identify workplace contact
 
 ---
 
-**C-3749** Host says she believes the feds are colluding to introduce new speech laws
+**C-4624** Host says she believes the feds are colluding to introduce new speech laws
 
 Claim Timestamp: 00:55:06
 
@@ -1101,7 +1101,7 @@ Mentions: N-3, N-82
 Related Nodes: 
 Investigative Direction: Follow the Delaware docket filings in the Macron suit; track any proposed federal or state speech legislation the host links to it.
 
-**C-6801** Host Says Robinson Had No Prior Arrests and a Perfect ACT Score
+**C-4516** Host Says Robinson Had No Prior Arrests and a Perfect ACT Score
 
 Claim Timestamp: 00:00:20
 
@@ -1116,7 +1116,7 @@ Investigative Direction: Obtain court and school records on Robinson's criminal 
 
 ---
 
-**C-6802** Host Recounts Official Account of Robinson Eating at Dairy Queen and Texting After the Shooting
+**C-4517** Host Recounts Official Account of Robinson Eating at Dairy Queen and Texting After the Shooting
 
 Claim Timestamp: 00:01:41
 
@@ -1127,13 +1127,13 @@ Transcript Snippet: not exactly pop over to a nearby Dairy Queen to have lunch, 
 Anchored Artifacts: 
 Mentions: N-3, N-40
 Related Nodes: N-10051
-Supports: C-1186
+Supports: C-403
 Tags: relevance:core
 Investigative Direction: Obtain the Dairy Queen transaction and camera records and the charging document's description of the post-shooting texts.
 
 ---
 
-**C-6803** Host Says Robinson Ordered Steak With Mashed Potatoes and Vegetables and Three Servers Worked That Night
+**C-4519** Host Says Robinson Ordered Steak With Mashed Potatoes and Vegetables and Three Servers Worked That Night
 
 Claim Timestamp: 00:03:34
 
@@ -1149,7 +1149,7 @@ Investigative Direction: Interview the three servers and obtain the itemised rec
 
 ---
 
-**C-6804** Host Says the Restaurant Has No Cameras so Staff Used Credit Card Records
+**C-4520** Host Says the Restaurant Has No Cameras so Staff Used Credit Card Records
 
 Claim Timestamp: 00:03:34
 
@@ -1160,13 +1160,13 @@ Transcript Snippet: they don't have any cameras at this restaurant. So, what the
 Anchored Artifacts: A-1577.1
 Mentions: N-40
 Related Nodes: N-10381
-Supports: C-2004
+Supports: C-4521
 Tags: relevance:core
 Investigative Direction: Confirm with the restaurant and neighbouring businesses that no camera covered the bar or entrance on September 10, and obtain the card transaction record.
 
 ---
 
-**C-6805** Host Quotes Robinson Message About Photographing and Destroying the Letter
+**C-4522** Host Quotes Robinson Message About Photographing and Destroying the Letter
 
 Claim Timestamp: 00:04:45
 
@@ -1181,7 +1181,7 @@ Investigative Direction: Compare the host's recitation with the text messages re
 
 ---
 
-**C-6806** Host Says the Feds Did Not Check Credit Card Charges and Were Called Days Later
+**C-4523** Host Says the Feds Did Not Check Credit Card Charges and Were Called Days Later
 
 Claim Timestamp: 00:04:45
 
@@ -1192,13 +1192,13 @@ Transcript Snippet: They didn't do that. Instead, they were contacted days later
 Anchored Artifacts: A-1577.1
 Mentions: N-40
 Related Nodes: N-10381, N-10014
-Supports: C-2004
+Supports: C-4521
 Tags: relevance:core
 Investigative Direction: Request the FBI's tip log and any record of when and how it learned of the Panguitch purchase.
 
 ---
 
-**C-6807** Host Relays Robinson Was Quiet, Calm and Texting at the Restaurant
+**C-4524** Host Relays Robinson Was Quiet, Calm and Texting at the Restaurant
 
 Claim Timestamp: 00:05:53
 
@@ -1214,7 +1214,7 @@ Investigative Direction: Interview the servers directly about Robinson's demeano
 
 ---
 
-**C-6808** Host Says She Spoke With a Lawyer She Takes to Be Erika Kirk's Lawyer
+**C-4525** Host Says She Spoke With a Lawyer She Takes to Be Erika Kirk's Lawyer
 
 Claim Timestamp: 00:06:20
 
@@ -1229,7 +1229,7 @@ Investigative Direction: Identify the lawyer and the date of the call; ask Erika
 
 ---
 
-**C-6809** Host Says the Dairy Queen Stop Must Have Occurred Earlier Than Documented
+**C-4526** Host Says the Dairy Queen Stop Must Have Occurred Earlier Than Documented
 
 Claim Timestamp: 00:08:15
 
@@ -1240,13 +1240,13 @@ Transcript Snippet: the Dairy Queen stop because it had to have occurred earlier
 Anchored Artifacts: 
 Mentions: N-3, N-40
 Related Nodes: N-10051, N-10381
-Revises: C-1186
+Revises: C-403
 Tags: relevance:core
 Investigative Direction: Obtain the Dairy Queen transaction time, any camera timestamps and the photo metadata to fix the real time of the stop.
 
 ---
 
-**C-6810** Host Says the FBI Knows of the Receipt and Has It
+**C-4527** Host Says the FBI Knows of the Receipt and Has It
 
 Claim Timestamp: 00:08:20
 
@@ -1257,13 +1257,13 @@ Transcript Snippet: there was a literal receipt and the FBI knows about it um an
 Anchored Artifacts: A-1577.1
 Mentions: N-40, N-3
 Related Nodes: N-10381, N-10014
-Supports: C-2004
+Supports: C-4521
 Tags: relevance:core
 Investigative Direction: Ask the FBI and the restaurant whether the receipt was handed over and on what date.
 
 ---
 
-**C-6811** Host Timeline Has the 5:30 Press Conference and Patel's 5:59 Tweet That the Subject Was Released
+**C-4528** Host Timeline Has the 5:30 Press Conference and Patel's 5:59 Tweet That the Subject Was Released
 
 Claim Timestamp: 00:09:10
 
@@ -1279,7 +1279,7 @@ Investigative Direction: Retrieve the original Patel posts with their timestamps
 
 ---
 
-**C-6812** Host Dates the First Robinson-Lance Correspondence to After 6:00 p.m.
+**C-4529** Host Dates the First Robinson-Lance Correspondence to After 6:00 p.m.
 
 Claim Timestamp: 00:09:30
 
@@ -1295,7 +1295,7 @@ Investigative Direction: Compare the host's 6:00 p.m. estimate with the message 
 
 ---
 
-**C-6813** Host Floats That the 6:38 Dairy Queen Photo Might Be 5:38 With a Time Zone Error
+**C-4530** Host Floats That the 6:38 Dairy Queen Photo Might Be 5:38 With a Time Zone Error
 
 Claim Timestamp: 00:09:58
 
@@ -1306,14 +1306,14 @@ Transcript Snippet: Maybe it was actually 5:38 p. m. and time zones were wrong.
 Anchored Artifacts: 
 Mentions: N-3, N-40
 Related Nodes: N-10051, N-10853
-Revises: C-1186
-Supports: C-6809
+Revises: C-403
+Supports: C-4526
 Tags: relevance:core
 Investigative Direction: Obtain the original photo's metadata and the Dairy Queen's transaction logs to resolve the time zone question.
 
 ---
 
-**C-6814** Host Says Robinson Arrived in Panguitch About 8:45 p.m. and Left About 9:30 p.m.
+**C-4531** Host Says Robinson Arrived in Panguitch About 8:45 p.m. and Left About 9:30 p.m.
 
 Claim Timestamp: 00:09:58
 
@@ -1324,13 +1324,13 @@ Transcript Snippet: That's the time approximately that Tyler turned up in Pangui
 Anchored Artifacts: A-1577.1
 Mentions: N-40, N-3
 Related Nodes: N-10381
-Supports: C-2003
+Supports: C-4518
 Tags: relevance:core
 Investigative Direction: Obtain the card transaction time and the server's account to confirm arrival and departure times.
 
 ---
 
-**C-6815** Host Reports Tipsters Suspect Robinson Went to His Grandmother's House Afterwards
+**C-4532** Host Reports Tipsters Suspect Robinson Went to His Grandmother's House Afterwards
 
 Claim Timestamp: 00:10:30
 
@@ -1346,7 +1346,7 @@ Investigative Direction: Identify the grandmother's residence and whether anyone
 
 ---
 
-**C-6816** Host Recalls Grandmother Said the Authorities Had the Wrong Person
+**C-4533** Host Recalls Grandmother Said the Authorities Had the Wrong Person
 
 Claim Timestamp: 00:10:50
 
@@ -1362,7 +1362,7 @@ Investigative Direction: Locate the grandmother's original public statement and 
 
 ---
 
-**C-6817** Host Asks Businesses Near the Smokehouse to Email Tips
+**C-4534** Host Asks Businesses Near the Smokehouse to Email Tips
 
 Claim Timestamp: 00:11:03
 
@@ -1378,7 +1378,7 @@ Investigative Direction: Check whether any nearby business responds with camera 
 
 ---
 
-**C-6818** Host Says She Broke the Story of Charlie Kirk's Catholic Considerations and Presented Receipts
+**C-4536** Host Says She Broke the Story of Charlie Kirk's Catholic Considerations and Presented Receipts
 
 Claim Timestamp: 00:13:50
 
@@ -1394,7 +1394,7 @@ Investigative Direction: Compile the earlier episodes' receipts on Kirk's mass a
 
 ---
 
-**C-6819** Host Says She Broke the Story of Terryl Farnsworth's Strange Behavior After the Shooting
+**C-4537** Host Says She Broke the Story of Terryl Farnsworth's Strange Behavior After the Shooting
 
 Claim Timestamp: 00:14:10
 
@@ -1410,7 +1410,7 @@ Investigative Direction: Review the original footage of Farnsworth's actions in 
 
 ---
 
-**C-6820** Host Says Her No-Blood Report Was the Reason the Feds Were Seen to Be Lying
+**C-4538** Host Says Her No-Blood Report Was the Reason the Feds Were Seen to Be Lying
 
 Claim Timestamp: 00:14:20
 
@@ -1421,13 +1421,13 @@ Transcript Snippet: was because I broke the story that there was no blood on the
 Anchored Artifacts: A-1585.1
 Mentions: N-3, N-1
 Related Nodes: N-10085
-Supports: C-1209
+Supports: C-516
 Tags: relevance:core
 Investigative Direction: Obtain the unedited back-view video and have a forensic pathologist assess wound path and bleeding.
 
 ---
 
-**C-6821** Host Says the Feds Did Not Impound the SUV and She Showed Interior Photos
+**C-4539** Host Says the Feds Did Not Impound the SUV and She Showed Interior Photos
 
 Claim Timestamp: 00:14:40
 
@@ -1438,13 +1438,13 @@ Transcript Snippet: I also presented to you guys the photos from inside Charlie'
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10740
-Supports: C-5287
+Supports: C-4291
 Tags: relevance:core
 Investigative Direction: Request the SUV chain-of-custody and impound records from Utah authorities and the FBI.
 
 ---
 
-**C-6822** Host Says the Feds Seized Cameras Inside the Hospital
+**C-4540** Host Says the Feds Seized Cameras Inside the Hospital
 
 Claim Timestamp: 00:15:05
 
@@ -1455,13 +1455,13 @@ Transcript Snippet: Broke a story that the feds seized the cameras inside the ho
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10239
-Supports: C-1666
+Supports: C-2559
 Tags: relevance:core
 Investigative Direction: Obtain the hospital's and the FBI's records of any camera or footage seizure.
 
 ---
 
-**C-6823** Host Says the Feds Blocked Dr. Trotter From His Operating Room Until a Call Was Placed to DC
+**C-4541** Host Says the Feds Blocked Dr. Trotter From His Operating Room Until a Call Was Placed to DC
 
 Claim Timestamp: 00:15:10
 
@@ -1477,7 +1477,7 @@ Investigative Direction: Identify the person who received the DC call through ho
 
 ---
 
-**C-6824** Host Says Kolvet Lied About the Superman Neck Quotation
+**C-4542** Host Says Kolvet Lied About the Superman Neck Quotation
 
 Claim Timestamp: 00:15:25
 
@@ -1488,13 +1488,13 @@ Transcript Snippet: We broke the story that Andrew Kolvet lied about the Superma
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-195, N-2
 Related Nodes: N-10447
-Supports: C-5187
+Supports: C-4180
 Tags: relevance:core
 Investigative Direction: Ask Kolvet and Dr. Trotter's representatives for the source of the quotation.
 
 ---
 
-**C-6825** Host Says Charlie Texted Flood and Kolvet the Night Before That He Was Afraid They Would Kill Him
+**C-4543** Host Says Charlie Texted Flood and Kolvet the Night Before That He Was Afraid They Would Kill Him
 
 Claim Timestamp: 00:15:35
 
@@ -1505,13 +1505,13 @@ Transcript Snippet: We broke the story that Charlie texted Dan Flood and Andrew 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-270, N-14
 Related Nodes: N-10340
-Supports: C-5086
+Supports: C-3533
 Tags: relevance:core
 Investigative Direction: Obtain the text thread from Kolvet, Flood or Erika Kirk and compare it to the host's description.
 
 ---
 
-**C-6826** Host Says Erika Kirk Confirmed the Night-Before Text to the Host
+**C-4544** Host Says Erika Kirk Confirmed the Night-Before Text to the Host
 
 Claim Timestamp: 00:15:40
 
@@ -1522,13 +1522,13 @@ Transcript Snippet: This has now been confirmed by Erikaru. At least it was conf
 Anchored Artifacts: 
 Mentions: N-3, N-2
 Related Nodes: N-10340
-Supports: C-1927, C-6825
+Supports: C-4064, C-4543
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk's team to confirm publicly what she told the host about the text.
 
 ---
 
-**C-6827** Host Says Erika Disputes the Netanyahu Offer Story
+**C-4545** Host Says Erika Disputes the Netanyahu Offer Story
 
 Claim Timestamp: 00:15:50
 
@@ -1539,13 +1539,13 @@ Transcript Snippet: We broke the story that Netanyahu called Charlie to make an 
 Anchored Artifacts: 
 Mentions: N-3, N-36, N-1, N-2
 Related Nodes: N-10342, N-10018
-Supports: C-5012
+Supports: C-3193
 Tags: relevance:core
 Investigative Direction: Obtain Kirk's phone records for the Netanyahu call and statements by Erika Kirk on the offer.
 
 ---
 
-**C-6828** Host Says She Separately Confirmed the Netanyahu Offer From a Source Outside Kolvet's Channel
+**C-4546** Host Says She Separately Confirmed the Netanyahu Offer From a Source Outside Kolvet's Channel
 
 Claim Timestamp: 00:16:10
 
@@ -1556,13 +1556,13 @@ Transcript Snippet: I confirmed that separately from Andrew Kolvet with someone 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-36
 Related Nodes: N-10342
-Supports: C-1562
+Supports: C-2134
 Tags: relevance:core
 Investigative Direction: Identify the independent source, directly or through the host, and the nature of their knowledge.
 
 ---
 
-**C-6829** Host Says She Presented a Military Police Report Backing Mitch
+**C-4547** Host Says She Presented a Military Police Report Backing Mitch
 
 Claim Timestamp: 00:16:25
 
@@ -1573,13 +1573,13 @@ Transcript Snippet: We presented the military police report, backed that up with
 Anchored Artifacts: 
 Mentions: N-3, N-361
 Related Nodes: N-10367
-Supports: C-1889
+Supports: C-3852
 Tags: relevance:core
 Investigative Direction: Obtain the incident report (861-1-2025-MPC446) through Fort Huachuca or a FOIA request.
 
 ---
 
-**C-6830** Host Says Her Egyptian Plane Document Is Coming and She Will Be Proven Correct
+**C-4548** Host Says Her Egyptian Plane Document Is Coming and She Will Be Proven Correct
 
 Claim Timestamp: 00:16:35
 
@@ -1590,13 +1590,13 @@ Transcript Snippet: Um that document we still have for you which is coming forwa
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10253
-Supports: C-1720
+Supports: C-2917
 Tags: relevance:core
 Investigative Direction: Obtain flight-tracking logs and the document the host says is forthcoming.
 
 ---
 
-**C-6831** Host Says the Feds Directed Three Rookie Officers to the Weapon After Bomb Dogs Failed
+**C-4549** Host Says the Feds Directed Three Rookie Officers to the Weapon After Bomb Dogs Failed
 
 Claim Timestamp: 00:16:45
 
@@ -1607,13 +1607,13 @@ Transcript Snippet: We broke a story about the bomb dogs failing to detect the r
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11054
-Supports: C-5280
+Supports: C-4284
 Tags: relevance:core
 Investigative Direction: Obtain police reports naming the officers who located the rifle and who directed them.
 
 ---
 
-**C-6832** Host Says She Believes the Donor Check Came From Pierre Falcone
+**C-4550** Host Says She Believes the Donor Check Came From Pierre Falcone
 
 Claim Timestamp: 00:16:55
 
@@ -1624,13 +1624,13 @@ Transcript Snippet: Is it Pierre Dupont? Is it Pierre Falconee? I think it's Pie
 Anchored Artifacts: 
 Mentions: N-3, N-312, N-288
 Related Nodes: N-10317, N-10298, N-10000
-Qualifies: C-1816
+Qualifies: C-3476
 Tags: relevance:core
 Investigative Direction: Identify the donor behind the reported check through TPUSA donor records or sources.
 
 ---
 
-**C-6833** Host Says She Does Not Believe Tyler Robinson Killed Charlie Kirk
+**C-4551** Host Says She Does Not Believe Tyler Robinson Killed Charlie Kirk
 
 Claim Timestamp: 00:17:11
 
@@ -1645,7 +1645,7 @@ Investigative Direction: Obtain the full forensic and ballistic record the prose
 
 ---
 
-**C-6834** TPUSA Told Host the Tent Was Meant for Grieving at Future Tour Stops
+**C-4553** TPUSA Told Host the Tent Was Meant for Grieving at Future Tour Stops
 
 Claim Timestamp: 00:17:40
 
@@ -1656,13 +1656,13 @@ Transcript Snippet: the idea from them was that at future tour stops, people wou
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10376, N-10000
-Supports: C-2005
+Supports: C-4552
 Tags: relevance:context
 Investigative Direction: Obtain TPUSA's written statement on the tent concept and its planned tour use.
 
 ---
 
-**C-6835** Host Says She Followed Up Four to Five Times for the Unredacted Text
+**C-4555** Host Says She Followed Up Four to Five Times for the Unredacted Text
 
 Claim Timestamp: 00:18:40
 
@@ -1672,13 +1672,13 @@ Transcript Snippet: I followed up about four to five times just trying to get th
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Supports: C-2006
+Supports: C-4554
 Tags: relevance:core
 Investigative Direction: Obtain the host's request messages and the intermediary's replies.
 
 ---
 
-**C-6836** Host Says a Third Party Explained the Delay by Erika Being Tied Up and Six Sick Kids
+**C-4557** Host Says a Third Party Explained the Delay by Erika Being Tied Up and Six Sick Kids
 
 Claim Timestamp: 00:19:40
 
@@ -1693,7 +1693,7 @@ Investigative Direction: Identify the intermediary and obtain a direct statement
 
 ---
 
-**C-6837** Host Says Brian Harpole Has Not Responded
+**C-4558** Host Says Brian Harpole Has Not Responded
 
 Claim Timestamp: 00:19:50
 
@@ -1709,7 +1709,7 @@ Investigative Direction: Ask Harpole through a representative whether he receive
 
 ---
 
-**C-6838** Host Says Dan Flood Was Not Seen at Fort Huachuca but Communicates With Harpole
+**C-4559** Host Says Dan Flood Was Not Seen at Fort Huachuca but Communicates With Harpole
 
 Claim Timestamp: 00:20:00
 
@@ -1725,7 +1725,7 @@ Investigative Direction: Obtain the Flood-Harpole message record and Flood's Sep
 
 ---
 
-**C-6839** Host Says Amodei Matched Mitch's Description of 5'9, Glasses and Grayish White Hair
+**C-4560** Host Says Amodei Matched Mitch's Description of 5'9, Glasses and Grayish White Hair
 
 Claim Timestamp: 00:20:15
 
@@ -1736,13 +1736,13 @@ Transcript Snippet: I told you that we looked up a congressman that fit the desc
 Anchored Artifacts: 
 Mentions: N-3, N-361, N-363
 Related Nodes: N-10371
-Supports: C-1975
+Supports: C-4351
 Tags: relevance:core
 Investigative Direction: Compare Amodei's public height and appearance with Mitch's recorded description.
 
 ---
 
-**C-6840** Host Says Mitch Found Amodei's Face Familiar
+**C-4561** Host Says Mitch Found Amodei's Face Familiar
 
 Claim Timestamp: 00:20:30
 
@@ -1753,13 +1753,13 @@ Transcript Snippet: And he said that that face looks familiar.
 Anchored Artifacts: 
 Mentions: N-3, N-361, N-363
 Related Nodes: N-10371
-Supports: C-1975
+Supports: C-4351
 Tags: relevance:core
 Investigative Direction: Obtain Mitch's own account of how he identified the photo and his stated confidence.
 
 ---
 
-**C-6841** Host Says Amodei Posted the Committee Stream and Missed the First Two Roll Calls
+**C-4562** Host Says Amodei Posted the Committee Stream and Missed the First Two Roll Calls
 
 Claim Timestamp: 00:20:40
 
@@ -1770,13 +1770,13 @@ Transcript Snippet: Then Mark Ammedday came out and he had dropped a YouTube vid
 Anchored Artifacts: A-1579.1
 Mentions: N-3, N-363
 Related Nodes: N-10382, N-10371
-Supports: C-1984
+Supports: C-4416
 Tags: relevance:core
 Investigative Direction: Obtain the House Clerk's roll-call record for the date.
 
 ---
 
-**C-6842** Host Says Mitch First Contacted Her About Erika Kirk and Brian Harpole
+**C-4564** Host Says Mitch First Contacted Her About Erika Kirk and Brian Harpole
 
 Claim Timestamp: 00:21:30
 
@@ -1792,7 +1792,7 @@ Investigative Direction: Review Mitch's original contact with the host and what 
 
 ---
 
-**C-6843** Host Relays Mitch's Description of a Hands-On Pre-Mission Meeting
+**C-4565** Host Relays Mitch's Description of a Hands-On Pre-Mission Meeting
 
 Claim Timestamp: 00:21:45
 
@@ -1803,13 +1803,13 @@ Transcript Snippet: this hands-on meeting that looked like mission, mission is o
 Anchored Artifacts: 
 Mentions: N-3, N-361
 Related Nodes: N-10370, N-10326
-Supports: C-1972
+Supports: C-4336
 Tags: relevance:core
 Investigative Direction: Obtain Mitch's full account and the identities of those in the meeting.
 
 ---
 
-**C-6844** Host Says Terryl Farnsworth Repeatedly Lied to Her on Their First Call
+**C-4566** Host Says Terryl Farnsworth Repeatedly Lied to Her on Their First Call
 
 Claim Timestamp: 00:22:15
 
@@ -1825,7 +1825,7 @@ Investigative Direction: Obtain a recording or notes of the call, and Farnsworth
 
 ---
 
-**C-6845** Host Says Farnsworth Said He Could Not Send a File and Feared Google Might Hack Him
+**C-4567** Host Says Farnsworth Said He Could Not Send a File and Feared Google Might Hack Him
 
 Claim Timestamp: 00:23:10
 
@@ -1841,7 +1841,7 @@ Investigative Direction: Ask Farnsworth to explain the statement and how the cam
 
 ---
 
-**C-6846** Host Says She Told Erika and Justin Streiff in the Meeting She Would Keep Pressing on Farnsworth
+**C-4568** Host Says She Told Erika and Justin Streiff in the Meeting She Would Keep Pressing on Farnsworth
 
 Claim Timestamp: 00:23:30
 
@@ -1857,7 +1857,7 @@ Investigative Direction: Ask Erika Kirk and Justin Streiff to confirm what was s
 
 ---
 
-**C-6847** Host Says She Was Told Farnsworth Is Receiving Death Threats and Rejects Harassment
+**C-4569** Host Says She Was Told Farnsworth Is Receiving Death Threats and Rejects Harassment
 
 Claim Timestamp: 00:23:50
 
@@ -1872,7 +1872,7 @@ Investigative Direction: Ask Farnsworth or TPUSA whether threats were reported t
 
 ---
 
-**C-6848** Host Says the Longer Back Video Shows No Destruction From the Shot
+**C-4571** Host Says the Longer Back Video Shows No Destruction From the Shot
 
 Claim Timestamp: 00:24:56
 
@@ -1883,13 +1883,13 @@ Transcript Snippet: Not only did the bullet not go through, it didn't even cause
 Anchored Artifacts: A-1585.1
 Mentions: N-3, N-1
 Related Nodes: N-10085, N-10180
-Supports: C-2014
+Supports: C-4570
 Tags: relevance:core
 Investigative Direction: Obtain the full video and have independent analysts review it frame by frame.
 
 ---
 
-**C-6849** Host Says the Only Blood She Saw Was in His Hand Spurting Forward
+**C-4572** Host Says the Only Blood She Saw Was in His Hand Spurting Forward
 
 Claim Timestamp: 00:25:15
 
@@ -1905,7 +1905,7 @@ Investigative Direction: Have a forensic pathologist review the video for the bl
 
 ---
 
-**C-6850** Host Says Bowyer Was Indicted in Arizona and Pardoned by Trump
+**C-4573** Host Says Bowyer Was Indicted in Arizona and Pardoned by Trump
 
 Claim Timestamp: 00:25:45
 
@@ -1921,7 +1921,7 @@ Investigative Direction: Check Arizona court dockets and the pardon record for B
 
 ---
 
-**C-6851** Host Says Bowyer Was in Debt With Payments Garnished Before Becoming a Millionaire
+**C-4574** Host Says Bowyer Was in Debt With Payments Garnished Before Becoming a Millionaire
 
 Claim Timestamp: 00:26:10
 
@@ -1937,7 +1937,7 @@ Investigative Direction: Obtain court garnishment records and TPUSA's Form 990 c
 
 ---
 
-**C-6852** Host Says Bowyer Is at Best a Very Shady Character
+**C-4575** Host Says Bowyer Is at Best a Very Shady Character
 
 Claim Timestamp: 00:26:30
 
@@ -1953,7 +1953,7 @@ Investigative Direction: State the factual basis (court records, financial filin
 
 ---
 
-**C-6853** Host Says She Asked Erika in Person at Their Sitdown How She Met Tyler Bowyer
+**C-4576** Host Says She Asked Erika in Person at Their Sitdown How She Met Tyler Bowyer
 
 Claim Timestamp: 00:26:48
 
@@ -1969,7 +1969,7 @@ Investigative Direction: Ask Erika Kirk's team to confirm the question and her a
 
 ---
 
-**C-6854** Host Says Erika and Bowyer Have Both Cited the 2015 Trump Rally as Where They Were Together
+**C-4577** Host Says Erika and Bowyer Have Both Cited the 2015 Trump Rally as Where They Were Together
 
 Claim Timestamp: 00:27:40
 
@@ -1985,7 +1985,7 @@ Investigative Direction: Review rally footage and the public statements in which
 
 ---
 
-**C-6855** Host Says Lori Frantzve Is Behind Trump Too, So the Three Have Known Each Other Since July 2015
+**C-4578** Host Says Lori Frantzve Is Behind Trump Too, So the Three Have Known Each Other Since July 2015
 
 Claim Timestamp: 00:28:00
 
@@ -2001,7 +2001,7 @@ Investigative Direction: Review footage of the July 2015 Arizona rally and ident
 
 ---
 
-**C-6856** Host Says Erika Told Her She Met Bowyer at the 2015 Rally
+**C-4579** Host Says Erika Told Her She Met Bowyer at the 2015 Rally
 
 Claim Timestamp: 00:28:10
 
@@ -2017,7 +2017,7 @@ Investigative Direction: Ask Erika Kirk's representatives to confirm her account
 
 ---
 
-**C-6857** Host Says She Told Erika It Was Not Possible Because Bowyer Said Erika Had Called Him
+**C-4580** Host Says She Told Erika It Was Not Possible Because Bowyer Said Erika Had Called Him
 
 Claim Timestamp: 00:28:20
 
@@ -2028,13 +2028,13 @@ Transcript Snippet: I immediately corrected her. I said, "That's not possible.
 Anchored Artifacts: A-1580.1
 Mentions: N-3, N-2, N-11
 Related Nodes: N-11110
-Supports: C-2009
+Supports: C-4581
 Tags: relevance:core
 Investigative Direction: Compare the memorial remarks with Erika Kirk's own accounts of how they met.
 
 ---
 
-**C-6858** Host Says Erika Did Not Remember How She Met Bowyer and Would Check Old Messages
+**C-4582** Host Says Erika Did Not Remember How She Met Bowyer and Would Check Old Messages
 
 Claim Timestamp: 00:29:30
 
@@ -2050,7 +2050,7 @@ Investigative Direction: Ask Erika Kirk's team whether she located the old messa
 
 ---
 
-**C-6859** Host Says Erika Cited a Connection in Politics Via a Senator or Congressman
+**C-4583** Host Says Erika Cited a Connection in Politics Via a Senator or Congressman
 
 Claim Timestamp: 00:29:50
 
@@ -2066,7 +2066,7 @@ Investigative Direction: Identify which senator or congressman Erika meant and a
 
 ---
 
-**C-6860** Host Says Farnsworth's Parents Went to High School With Bowyer's Parents in Chandler
+**C-4584** Host Says Farnsworth's Parents Went to High School With Bowyer's Parents in Chandler
 
 Claim Timestamp: 00:30:10
 
@@ -2082,7 +2082,7 @@ Investigative Direction: Check yearbooks and public records for the two families
 
 ---
 
-**C-6861** Host Says Bowyer and Farnsworth Graduated Two Years Apart From Gilbert High School
+**C-4585** Host Says Bowyer and Farnsworth Graduated Two Years Apart From Gilbert High School
 
 Claim Timestamp: 00:30:40
 
@@ -2098,7 +2098,7 @@ Investigative Direction: Check Gilbert High School yearbooks and graduation list
 
 ---
 
-**C-6862** Host Says Bowyer Introduced Himself at the Rally as the Youngest Chairman of the Republican Party
+**C-4586** Host Says Bowyer Introduced Himself at the Rally as the Youngest Chairman of the Republican Party
 
 Claim Timestamp: 00:30:50
 
@@ -2113,7 +2113,7 @@ Investigative Direction: Review the 2015 rally recording for Bowyer's introducti
 
 ---
 
-**C-6863** Host Says Bowyer Was the Reason Charlie Put Turning Point's Campus in Arizona
+**C-4587** Host Says Bowyer Was the Reason Charlie Put Turning Point's Campus in Arizona
 
 Claim Timestamp: 00:31:10
 
@@ -2124,13 +2124,13 @@ Transcript Snippet: He was the reason that Charlie moved to decided to put Turni
 Anchored Artifacts: 
 Mentions: N-3, N-11, N-1
 Related Nodes: N-10000
-Supports: C-2009
+Supports: C-4581
 Tags: relevance:context
 Investigative Direction: Review Bowyer's memorial remarks and TPUSA history of the Arizona relocation.
 
 ---
 
-**C-6864** Host Says Bowyer Has Been Hiring the People Around Charlie Kirk Except the Host
+**C-4588** Host Says Bowyer Has Been Hiring the People Around Charlie Kirk Except the Host
 
 Claim Timestamp: 00:31:25
 
@@ -2146,7 +2146,7 @@ Investigative Direction: Compare hires attributed to Bowyer in earlier claims wi
 
 ---
 
-**C-6865** Host Says Farnsworth's Father Dwayne Is First Cousin of Eddie and David Farnsworth
+**C-4589** Host Says Farnsworth's Father Dwayne Is First Cousin of Eddie and David Farnsworth
 
 Claim Timestamp: 00:31:40
 
@@ -2162,7 +2162,7 @@ Investigative Direction: Verify the Farnsworth family tree from Arizona public r
 
 ---
 
-**C-6866** Host Says Eddie Farnsworth Has Been Sued Alongside Bowyer
+**C-4590** Host Says Eddie Farnsworth Has Been Sued Alongside Bowyer
 
 Claim Timestamp: 00:32:20
 
@@ -2178,7 +2178,7 @@ Investigative Direction: Search Arizona court dockets for cases naming both Eddi
 
 ---
 
-**C-6867** Host Says the 2014 EMP Bill Passed
+**C-4592** Host Says the 2014 EMP Bill Passed
 
 Claim Timestamp: 00:33:00
 
@@ -2189,13 +2189,13 @@ Transcript Snippet: They got it passed through. So, the three of these people kn
 Anchored Artifacts: A-1581.1
 Mentions: N-3, N-381, N-489
 Related Nodes: N-10383
-Supports: C-2010
+Supports: C-4591
 Tags: relevance:context
 Investigative Direction: Check the Arizona legislature's 2014 record for the bill's outcome.
 
 ---
 
-**C-6868** Host Says Congressman Trent Franks Supported Farnsworth's EMP Bill
+**C-4593** Host Says Congressman Trent Franks Supported Farnsworth's EMP Bill
 
 Claim Timestamp: 00:33:30
 
@@ -2206,13 +2206,13 @@ Transcript Snippet: And he got support from Congressman Trent Franks.
 Anchored Artifacts: A-1581.1
 Mentions: N-3, N-381, N-765
 Related Nodes: N-10383
-Supports: C-2010
+Supports: C-4591
 Tags: relevance:context
 Investigative Direction: Pull the 2014 record and Franks's public statements on the EMP bill.
 
 ---
 
-**C-6869** Host Says Larry Guinta Is Erika's Stepfather
+**C-4594** Host Says Larry Guinta Is Erika's Stepfather
 
 Claim Timestamp: 00:33:40
 
@@ -2223,13 +2223,13 @@ Transcript Snippet: Larry Guinta, by the way, or Gwenta, I don't know if I'm say
 Anchored Artifacts: A-1581.1
 Mentions: N-3, N-387, N-2
 Related Nodes: N-10383
-Supports: C-2010
+Supports: C-4591
 Tags: relevance:core
 Investigative Direction: Confirm the family relationship with marriage and public records for Lori Frantzve.
 
 ---
 
-**C-6870** Host Says the Farnsworths, Bowyers and Frantzves Are Documented Together Since 2014
+**C-4595** Host Says the Farnsworths, Bowyers and Frantzves Are Documented Together Since 2014
 
 Claim Timestamp: 00:33:50
 
@@ -2240,13 +2240,13 @@ Transcript Snippet: The Finesworths, the Boyers, and the France fees have known 
 Anchored Artifacts: A-1581.1
 Mentions: N-3, N-489, N-11, N-381, N-380
 Related Nodes: N-10383
-Supports: C-2010
+Supports: C-4591
 Tags: relevance:context
 Investigative Direction: Look for documents earlier than 2014 linking the families.
 
 ---
 
-**C-6871** Host Says She Has an Indication the Link Is Earlier Than 2014
+**C-4596** Host Says She Has an Indication the Link Is Earlier Than 2014
 
 Claim Timestamp: 00:34:10
 
@@ -2257,13 +2257,13 @@ Transcript Snippet: Um I have an indication that it was actually earlier, but th
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10383
-Qualifies: C-6870
+Qualifies: C-4595
 Tags: relevance:context
 Investigative Direction: Ask the host to identify the indication or source, then verify it with records.
 
 ---
 
-**C-6872** Host Says Eddie Farnsworth Blocked a Hearing on a Child Sex Trafficking Bill in 2013
+**C-4597** Host Says Eddie Farnsworth Blocked a Hearing on a Child Sex Trafficking Bill in 2013
 
 Claim Timestamp: 00:34:20
 
@@ -2279,7 +2279,7 @@ Investigative Direction: Check the Arizona House Judiciary Committee agenda and 
 
 ---
 
-**C-6873** Host Says Farnsworth's Nephew Albert Farnsworth Had Raped a 13-Year-Old
+**C-4598** Host Says Farnsworth's Nephew Albert Farnsworth Had Raped a 13-Year-Old
 
 Claim Timestamp: 00:34:40
 
@@ -2295,7 +2295,7 @@ Investigative Direction: Check Arizona court records and news archives for the c
 
 ---
 
-**C-6874** Host Says the 888 Plane Owners Run an Anti-Trafficking Charity and Wear Operation Underground Shirts
+**C-4599** Host Says the 888 Plane Owners Run an Anti-Trafficking Charity and Wear Operation Underground Shirts
 
 Claim Timestamp: 00:35:10
 
@@ -2311,7 +2311,7 @@ Investigative Direction: Identify the plane owners and the charity, and check th
 
 ---
 
-**C-6875** Host Says Phil Lyman Spoke to Tim Ballard After the Assassination
+**C-4600** Host Says Phil Lyman Spoke to Tim Ballard After the Assassination
 
 Claim Timestamp: 00:35:30
 
@@ -2327,7 +2327,7 @@ Investigative Direction: Locate the Lyman-Ballard conversation, its date and ven
 
 ---
 
-**C-6876** Host Says Tim Ballard Got Donation and Support From Glenn Beck for Operation Underground
+**C-4601** Host Says Tim Ballard Got Donation and Support From Glenn Beck for Operation Underground
 
 Claim Timestamp: 00:35:55
 
@@ -2343,7 +2343,7 @@ Investigative Direction: Check Operation Underground's and Beck's public stateme
 
 ---
 
-**C-6877** Host Says Arizona Mills Across From Turning Point's Site Is the Number One Place for Child Sex Trafficking
+**C-4603** Host Says Arizona Mills Across From Turning Point's Site Is the Number One Place for Child Sex Trafficking
 
 Claim Timestamp: 00:36:50
 
@@ -2359,7 +2359,7 @@ Investigative Direction: Verify the location of TPUSA's campus relative to Arizo
 
 ---
 
-**C-6878** Host Says She Makes No Connection and Is Not Suggesting TPUSA Traffics Children
+**C-4604** Host Says She Makes No Connection and Is Not Suggesting TPUSA Traffics Children
 
 Claim Timestamp: 00:37:11
 
@@ -2370,13 +2370,13 @@ Transcript Snippet: I am not suggesting that Turning Point USA is trafficking ch
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10832, N-10000
-Qualifies: C-6877, C-6874
+Qualifies: C-4603, C-4599
 Tags: relevance:context
 Investigative Direction: Treat as a hedge on the host's trafficking-theme claims; test whether those claims rest on documents.
 
 ---
 
-**C-6879** Host Says Eddie Farnsworth Looks Like Mark Amodei and Mitch May Have Seen Him
+**C-4605** Host Says Eddie Farnsworth Looks Like Mark Amodei and Mitch May Have Seen Him
 
 Claim Timestamp: 00:37:25
 
@@ -2392,7 +2392,7 @@ Investigative Direction: Show Mitch photos of Farnsworth and Amodei side by side
 
 ---
 
-**C-6880** Host Says Mitch Said Eddie Farnsworth Looks Very Familiar
+**C-4606** Host Says Mitch Said Eddie Farnsworth Looks Very Familiar
 
 Claim Timestamp: 00:37:40
 
@@ -2408,7 +2408,7 @@ Investigative Direction: Obtain Mitch's own statement on the photo and whether h
 
 ---
 
-**C-6881** Host Says the Farnsworth Family Has Deep Military Ties
+**C-4607** Host Says the Farnsworth Family Has Deep Military Ties
 
 Claim Timestamp: 00:37:50
 
@@ -2424,7 +2424,7 @@ Investigative Direction: Identify Farnsworth family members' military service an
 
 ---
 
-**C-6882** An Off-Camera Voice Says Davis-Monthan Is a Little Over an Hour North in Tucson
+**C-4608** An Off-Camera Voice Says Davis-Monthan Is a Little Over an Hour North in Tucson
 
 Claim Timestamp: 00:38:30
 
@@ -2440,7 +2440,7 @@ Investigative Direction: Check the road distance between Davis-Monthan AFB and F
 
 ---
 
-**C-6883** Host Says the Summit Could Be a Coincidence but Gives an Excuse to Be in the Region
+**C-4610** Host Says the Summit Could Be a Coincidence but Gives an Excuse to Be in the Region
 
 Claim Timestamp: 00:38:55
 
@@ -2451,13 +2451,13 @@ Transcript Snippet: Again, that could obviously just be a coincidence, but it's 
 Anchored Artifacts: A-1583.1
 Mentions: N-3
 Related Nodes: N-10384, N-10383
-Qualifies: C-2012
+Qualifies: C-4609
 Tags: relevance:context
 Investigative Direction: Obtain the summit's attendee list and agenda.
 
 ---
 
-**C-6884** Host Says Farnsworth's Father-in-Law Thomas Burt Ran Duncan Aviation
+**C-4611** Host Says Farnsworth's Father-in-Law Thomas Burt Ran Duncan Aviation
 
 Claim Timestamp: 00:39:10
 
@@ -2468,13 +2468,13 @@ Transcript Snippet: His father-in-law is Thomas Burt, who ran Duncan Aviation. T
 Anchored Artifacts: 
 Mentions: N-3, N-261, N-385, N-260
 Related Nodes: N-10256, N-10383
-Supports: C-1726
+Supports: C-2939
 Tags: relevance:core
 Investigative Direction: Verify the family relationship and Bert's role through corporate and marriage records.
 
 ---
 
-**C-6885** Host Says Burt Ran Duncan Aviation as EVP and COO for 22 Years and Retired in 2019
+**C-4612** Host Says Burt Ran Duncan Aviation as EVP and COO for 22 Years and Retired in 2019
 
 Claim Timestamp: 00:39:27
 
@@ -2490,7 +2490,7 @@ Investigative Direction: Check Duncan Aviation press releases and filings for Be
 
 ---
 
-**C-6886** Host Says Daily Wire Brought Back Channels and Released Content on Her Old Instagram Accounts
+**C-4613** Host Says Daily Wire Brought Back Channels and Released Content on Her Old Instagram Accounts
 
 Claim Timestamp: 00:43:30
 
@@ -2501,13 +2501,13 @@ Transcript Snippet: it looked like a Daily Wire was teasing something on my chan
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10379
-Supports: C-2013
+Supports: C-4615
 Tags: relevance:context
 Investigative Direction: Obtain screenshots of the reactivated accounts and posts and their dates.
 
 ---
 
-**C-6887** Host Says Daily Wire Considered Three Other People and a Judged Bailiff Before Maddie
+**C-4614** Host Says Daily Wire Considered Three Other People and a Judged Bailiff Before Maddie
 
 Claim Timestamp: 00:45:15
 
@@ -2523,7 +2523,7 @@ Investigative Direction: Ask the host for the tipsters' basis, and confirm casti
 
 ---
 
-**C-6888** Host Says Utah Ranks 24th in Honey and Bee Products
+**C-4616** Host Says Utah Ranks 24th in Honey and Bee Products
 
 Claim Timestamp: 00:47:30
 
@@ -2539,7 +2539,7 @@ Investigative Direction: Check USDA honey production rankings for Utah.
 
 ---
 
-**C-6889** Host Says the Beehive State Name Relates to Early Mormon Pioneers
+**C-4617** Host Says the Beehive State Name Relates to Early Mormon Pioneers
 
 Claim Timestamp: 00:47:35
 
@@ -2555,7 +2555,7 @@ Investigative Direction: Check Utah state history sources on the beehive symbol 
 
 ---
 
-**C-6890** Host Alleges Her Former Employer Sent Interns to Stalk Her and Tried to Get Her Cancelled
+**C-4618** Host Alleges Her Former Employer Sent Interns to Stalk Her and Tried to Get Her Cancelled
 
 Claim Timestamp: 00:51:00
 
@@ -2571,7 +2571,7 @@ Investigative Direction: Identify the intern incidents, the events and any recor
 
 ---
 
-**C-6891** Host Says Ten Defendants, Eight Men and Two Women Aged 41 to 65, Were Tried Over Tweets About Brigitte Macron
+**C-4619** Host Says Ten Defendants, Eight Men and Two Women Aged 41 to 65, Were Tried Over Tweets About Brigitte Macron
 
 Claim Timestamp: 00:52:36
 
@@ -2587,7 +2587,7 @@ Investigative Direction: Obtain the French court judgment listing the defendants
 
 ---
 
-**C-6892** Host Says Eight Got Suspended Sentences and a Ninth Six Months in Jail for Not Attending
+**C-4620** Host Says Eight Got Suspended Sentences and a Ninth Six Months in Jail for Not Attending
 
 Claim Timestamp: 00:54:05
 
@@ -2603,7 +2603,7 @@ Investigative Direction: Obtain the French court judgment and press reports for 
 
 ---
 
-**C-6893** Host Says Three Instigators Had Social Media Accounts Suspended for Six Months
+**C-4621** Host Says Three Instigators Had Social Media Accounts Suspended for Six Months
 
 Claim Timestamp: 00:54:30
 
@@ -2619,7 +2619,7 @@ Investigative Direction: Obtain the French court judgment for the account suspen
 
 ---
 
-**C-6894** Host Says All Defendants Were Ordered to Take an Online Hate Speech Course
+**C-4622** Host Says All Defendants Were Ordered to Take an Online Hate Speech Course
 
 Claim Timestamp: 00:54:50
 
@@ -2635,7 +2635,7 @@ Investigative Direction: Obtain the French court judgment for the course order.
 
 ---
 
-**C-6895** Host Says the Defendants Must Collectively Pay About $12,000 in Moral Damages
+**C-4623** Host Says the Defendants Must Collectively Pay About $12,000 in Moral Damages
 
 Claim Timestamp: 00:55:00
 
@@ -2651,7 +2651,7 @@ Investigative Direction: Obtain the French court judgment for the damages order 
 
 ---
 
-**C-6896** Host Says the Macron Lawsuit Aims to Let Powerful People Pass Laws So They Are Never Caught
+**C-4625** Host Says the Macron Lawsuit Aims to Let Powerful People Pass Laws So They Are Never Caught
 
 Claim Timestamp: 00:55:20
 
@@ -2662,13 +2662,13 @@ Transcript Snippet: evil people are getting caught doing evil things and those e
 Anchored Artifacts: 
 Mentions: N-3, N-82
 Related Nodes: N-10270
-Supports: C-3749
+Supports: C-4624
 Tags: relevance:context
 Investigative Direction: Follow the Delaware docket and any French or US speech legislation the host links to the suit.
 
 ---
 
-**C-6897** Host Says France Has Been Running the Game in Delaware Since the Revolutionary War
+**C-4626** Host Says France Has Been Running the Game in Delaware Since the Revolutionary War
 
 Claim Timestamp: 00:55:40
 
@@ -2684,7 +2684,7 @@ Investigative Direction: Ask the host for the historical basis for the France-De
 
 ---
 
-**C-6898** Host Says Brigitte Macron Is Not Arguing the Statements Are Untrue
+**C-4627** Host Says Brigitte Macron Is Not Arguing the Statements Are Untrue
 
 Claim Timestamp: 00:56:20
 
@@ -2700,7 +2700,7 @@ Investigative Direction: Read the French judgment's reasoning on whether truth o
 
 ---
 
-**C-6899** Host Says She Reached Out to Baron Coleman and a Conversation Will Happen
+**C-4628** Host Says She Reached Out to Baron Coleman and a Conversation Will Happen
 
 Claim Timestamp: 01:01:00
 
@@ -2715,7 +2715,7 @@ Investigative Direction: Check whether a Coleman conversation is later published
 
 ---
 
-**C-6900** Host Says Friday's Book Club Will Run Two Hours to Finish the Freud Book
+**C-4629** Host Says Friday's Book Club Will Run Two Hours to Finish the Freud Book
 
 Claim Timestamp: 01:01:30
 
@@ -2730,7 +2730,7 @@ Investigative Direction: Confirm the Friday book club date and its length from t
 
 ---
 
-**C-6901** Host Affirms a Viewer's Claim That Erika's Mother's Companies Held DoD EMP Contracts Tested at Fort Huachuca
+**C-4630** Host Affirms a Viewer's Claim That Erika's Mother's Companies Held DoD EMP Contracts Tested at Fort Huachuca
 
 Claim Timestamp: 01:04:15
 
@@ -2746,7 +2746,7 @@ Investigative Direction: Search federal contract databases (SAM.gov, USASpending
 
 ---
 
-**C-6902** Host Says Erika Said on Camera She Moved to Arizona Because Her Mother Got Defense Contracts
+**C-4631** Host Says Erika Said on Camera She Moved to Arizona Because Her Mother Got Defense Contracts
 
 Claim Timestamp: 01:04:35
 
@@ -2757,7 +2757,7 @@ Transcript Snippet: She's like on camera saying that she moved to Arizona becaus
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-489
 Related Nodes: N-11114
-Supports: C-6901
+Supports: C-4630
 Tags: relevance:core
 Investigative Direction: Locate the interview in which Erika Kirk says this and confirm the wording.
 

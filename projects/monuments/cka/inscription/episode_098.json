@@ -27,9 +27,9 @@
           "ref": "A-2030.1",
           "description": "Daily Wire statement on layoffs released to Breitbart Media",
           "related_claims": [
-            "C-2834",
-            "C-2835",
-            "C-2836"
+            "C-8738",
+            "C-8739",
+            "C-8740"
           ],
           "related_nodes": [
             "N-10900"
@@ -55,10 +55,10 @@
           "ref": "A-2031.1",
           "description": "Akash Gupta (@akashgupta or similar) X post analyzing Daily Wire collapse",
           "related_claims": [
-            "C-2837",
-            "C-2838",
-            "C-2839",
-            "C-2840"
+            "C-8748",
+            "C-8749",
+            "C-8744",
+            "C-8764"
           ],
           "related_nodes": [],
           "tags": [],
@@ -82,7 +82,7 @@
           "ref": "A-2032.1",
           "description": "X post listing companies sponsoring Candace Owens' podcast and calling for boycott",
           "related_claims": [
-            "C-2841"
+            "C-8765"
           ],
           "related_nodes": [
             "N-3"
@@ -108,7 +108,7 @@
           "ref": "A-2033.1",
           "description": "X post noting Candace Owens branding on shirts, cups, computer stickers",
           "related_claims": [
-            "C-2842"
+            "C-8774"
           ],
           "related_nodes": [
             "N-3"
@@ -134,7 +134,7 @@
           "ref": "A-2034.1",
           "description": "Laura Loomer tweet: \"Damn, Candace Owens having a bad week almost like she got ambushed. Couldn't have happened to a more wretched…\"",
           "related_claims": [
-            "C-2843"
+            "C-8786"
           ],
           "related_nodes": [
             "N-10651",
@@ -161,8 +161,8 @@
           "ref": "A-2035.1",
           "description": "Times of Israel article: \"Israel to spend up to $4.1 million on a Christian PR campaign in the West\"",
           "related_claims": [
-            "C-2844",
-            "C-2845"
+            "C-8789",
+            "C-8785"
           ],
           "related_nodes": [
             "N-10652",
@@ -189,10 +189,10 @@
           "ref": "A-2036.1",
           "description": "FARA registration filed by Show Faith by Works LLC; principal listed as Israel's Ministry of Foreign Affairs; U.S. representative: Chad Schnitger; geofencing partnership: Havas Media; legal representative: Dhillon Law Group",
           "related_claims": [
-            "C-2845",
-            "C-2846",
-            "C-2847",
-            "C-2851"
+            "C-8785",
+            "C-8795",
+            "C-8796",
+            "C-8731"
           ],
           "related_nodes": [
             "N-10652"
@@ -218,7 +218,7 @@
           "ref": "A-2037.1",
           "description": "Audio clip of Andrew Kolvet on Jesse's program stating partners geotagged 277,000 devices in the vicinity of State Farm Stadium in Glendale, Arizona",
           "related_claims": [
-            "C-2848"
+            "C-8763"
           ],
           "related_nodes": [
             "N-10653"
@@ -244,7 +244,7 @@
           "ref": "A-2038.1",
           "description": "Audio clip of Ben Shapiro on his Friday show accusing Candace Owens' audience of complicity for monetizing \"evil\"",
           "related_claims": [
-            "C-2849"
+            "C-8771"
           ],
           "related_nodes": [
             "N-3",
@@ -271,7 +271,7 @@
           "ref": "A-2039.1",
           "description": "Audio clip of Baron Coleman reading comment \"I'm from CLT\" alleging that \"Larry L\" attempted to pay a friend to photograph her at the Charlotte airport simultaneous with the lawsuit email",
           "related_claims": [
-            "C-2850"
+            "C-8776"
           ],
           "related_nodes": [
             "N-10656"
@@ -297,7 +297,7 @@
           "ref": "A-2040.1",
           "description": "Curious Joel comment: \"The mobile October 7th experience also includes the 6-hour stand-down order, so it might take a while to begin.\"",
           "related_claims": [
-            "C-2853"
+            "C-8803"
           ],
           "related_nodes": [
             "N-10653"
@@ -313,7 +313,7 @@
           "ref": "A-2040.2",
           "description": "Character Life top comment: \"Every time someone tries to sue Candace, all they end up doing is giving the public a magnifying glass to look into their past.\"",
           "related_claims": [
-            "C-2854"
+            "C-8806"
           ],
           "related_nodes": [],
           "tags": [],
@@ -327,7 +327,7 @@
           "ref": "A-2040.3",
           "description": "Jen comments donation: \"I hope this will help you pay for attorneys to pursue discovery in the Brian Harpole case. It's the only chance we might have to get to the truth.\"",
           "related_claims": [
-            "C-2855"
+            "C-8794"
           ],
           "related_nodes": [
             "N-10651"
@@ -503,7 +503,7 @@
           "ref": "A-2041.1",
           "description": "Matt Sarelson X wall display: prior to acknowledging the Brian Harpole lawsuit, Sarelson heavily retweeted Laura Loomer and her attacks against the host's family",
           "related_claims": [
-            "C-2851"
+            "C-8731"
           ],
           "related_nodes": [
             "N-10651",
@@ -530,7 +530,7 @@
           "ref": "A-2042.1",
           "description": "Lawsuit document filed by Brian Harpole; final page lists Jacob William Roth as partner of the representing firm",
           "related_claims": [
-            "C-2852"
+            "C-8777"
           ],
           "related_nodes": [
             "N-10651"
@@ -556,7 +556,7 @@
           "ref": "A-2043.1",
           "description": "Jacob William Roth retweeted the Brian Harpole lawsuit document",
           "related_claims": [
-            "C-2853"
+            "C-8803"
           ],
           "related_nodes": [
             "N-10651"
@@ -582,7 +582,7 @@
           "ref": "A-2044.1",
           "description": "FARA filing naming churches targeted for geofencing; list overlaps with Turning Point USA-affiliated churches (Calvary Chapel churches; Dream City Church in Phoenix – same venue as Erika Kirk hosting and prior Trump event)",
           "related_claims": [
-            "C-2846"
+            "C-8795"
           ],
           "related_nodes": [
             "N-10653"
@@ -608,10 +608,10 @@
           "ref": "A-3138.1",
           "description": "Host plays clips of Ben Shapiro on Theo Von, Erika Kirk suing the host, and the host doing evil",
           "related_claims": [
-            "C-11511",
-            "C-11512",
-            "C-11513",
-            "C-11522"
+            "C-8754",
+            "C-8755",
+            "C-8756",
+            "C-8768"
           ],
           "related_nodes": [
             "N-3"
@@ -628,8 +628,8 @@
           "ref": "A-3138.2",
           "description": "Host plays clip of Shapiro questioning Michael Knowles and a speaker calling out Megyn Kelly and Tucker Carlson",
           "related_claims": [
-            "C-11514",
-            "C-11515"
+            "C-8757",
+            "C-8758"
           ],
           "related_nodes": [
             "N-3"
@@ -654,8 +654,8 @@
           "ref": "A-3139.1",
           "description": "Host reads tweet she attributes to Laura Loomer calling to get rid of the host's merch",
           "related_claims": [
-            "C-11520",
-            "C-11521"
+            "C-8766",
+            "C-8767"
           ],
           "related_nodes": [
             "N-3"
@@ -680,7 +680,7 @@
           "ref": "A-3140.1",
           "description": "Host verbal reference to tips@candaceowens.com and more tips@candaceowens.com",
           "related_claims": [
-            "C-11546"
+            "C-8802"
           ],
           "related_nodes": [
             "N-3"
@@ -711,10 +711,10 @@
         "A-2043.1"
       ],
       "related_claims": [
-        "C-2851",
-        "C-2852",
-        "C-2853",
-        "C-2855"
+        "C-8731",
+        "C-8777",
+        "C-8803",
+        "C-8794"
       ],
       "tags": [],
       "evidence_count": 6,
@@ -735,8 +735,8 @@
         "A-2040.8"
       ],
       "related_claims": [
-        "C-2847",
-        "C-2851"
+        "C-8796",
+        "C-8731"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -758,8 +758,8 @@
         "A-2044.1"
       ],
       "related_claims": [
-        "C-2846",
-        "C-2848"
+        "C-8795",
+        "C-8763"
       ],
       "tags": [],
       "evidence_count": 4,
@@ -813,8 +813,8 @@
         "A-2041.1"
       ],
       "related_claims": [
-        "C-2843",
-        "C-2850"
+        "C-8786",
+        "C-8776"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -831,11 +831,11 @@
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11517",
-        "C-11518",
-        "C-11540",
-        "C-11545",
-        "C-11558"
+        "C-8760",
+        "C-8761",
+        "C-8793",
+        "C-8801",
+        "C-8816"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -853,11 +853,11 @@
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11512",
-        "C-11514",
-        "C-11522",
-        "C-11540",
-        "C-11551"
+        "C-8755",
+        "C-8757",
+        "C-8768",
+        "C-8793",
+        "C-8809"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -875,45 +875,45 @@
       "description": "Victor's stepfather; pled guilty to international drug smuggling conspiracy",
       "related_artifacts": [],
       "related_claims": [
-        "C-11492",
-        "C-11493",
-        "C-11494",
-        "C-11495",
-        "C-11496",
-        "C-11497",
-        "C-11498",
-        "C-11499",
-        "C-11500",
-        "C-11501",
-        "C-11502",
-        "C-11507",
-        "C-11508",
-        "C-11509",
-        "C-11510",
-        "C-11511",
-        "C-11512",
-        "C-11513",
-        "C-11514",
-        "C-11515",
-        "C-11516",
-        "C-11519",
-        "C-11520",
-        "C-11521",
-        "C-11522",
-        "C-11524",
-        "C-11525",
-        "C-11526",
-        "C-11544",
-        "C-11546",
-        "C-11547",
-        "C-11548",
-        "C-11549",
-        "C-11550",
-        "C-11551",
-        "C-11552",
-        "C-11553",
-        "C-11559",
-        "C-11560"
+        "C-8728",
+        "C-8729",
+        "C-8730",
+        "C-8732",
+        "C-8733",
+        "C-8734",
+        "C-8735",
+        "C-8736",
+        "C-8737",
+        "C-8741",
+        "C-8742",
+        "C-8750",
+        "C-8751",
+        "C-8752",
+        "C-8753",
+        "C-8754",
+        "C-8755",
+        "C-8756",
+        "C-8757",
+        "C-8758",
+        "C-8759",
+        "C-8762",
+        "C-8766",
+        "C-8767",
+        "C-8768",
+        "C-8770",
+        "C-8772",
+        "C-8773",
+        "C-8800",
+        "C-8802",
+        "C-8804",
+        "C-8805",
+        "C-8807",
+        "C-8808",
+        "C-8809",
+        "C-8810",
+        "C-8811",
+        "C-8817",
+        "C-8818"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -931,8 +931,8 @@
       "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11541",
-        "C-11542"
+        "C-8797",
+        "C-8798"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -950,10 +950,10 @@
       "description": "Independent journalist/activist who publicly called on Erika Kirk to sue Candace Owens on X following the previous episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11520",
-        "C-11521",
-        "C-11527",
-        "C-11528"
+        "C-8766",
+        "C-8767",
+        "C-8775",
+        "C-8778"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -971,23 +971,23 @@
       "description": "Atlantic: Servius manages Shapiro clipping campaign listed at $30k prior month on Monster Lab.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11494",
-        "C-11495",
-        "C-11499",
-        "C-11504",
-        "C-11511",
-        "C-11512",
-        "C-11513",
-        "C-11514",
-        "C-11516",
-        "C-11517",
-        "C-11518",
-        "C-11519",
-        "C-11522",
-        "C-11523",
-        "C-11524",
-        "C-11527",
-        "C-11556"
+        "C-8730",
+        "C-8732",
+        "C-8736",
+        "C-8746",
+        "C-8754",
+        "C-8755",
+        "C-8756",
+        "C-8757",
+        "C-8759",
+        "C-8760",
+        "C-8761",
+        "C-8762",
+        "C-8768",
+        "C-8769",
+        "C-8770",
+        "C-8775",
+        "C-8814"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1005,11 +1005,11 @@
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11494",
-        "C-11522",
-        "C-11549",
-        "C-11550",
-        "C-11551"
+        "C-8730",
+        "C-8768",
+        "C-8807",
+        "C-8808",
+        "C-8809"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1043,22 +1043,22 @@
       "description": "Institution that re-released Candace's 2021 trailer on her social channels.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11496",
-        "C-11497",
-        "C-11498",
-        "C-11499",
-        "C-11500",
-        "C-11501",
-        "C-11502",
-        "C-11503",
-        "C-11504",
-        "C-11506",
-        "C-11508",
-        "C-11509",
-        "C-11516",
-        "C-11519",
-        "C-11524",
-        "C-11548"
+        "C-8733",
+        "C-8734",
+        "C-8735",
+        "C-8736",
+        "C-8737",
+        "C-8741",
+        "C-8742",
+        "C-8745",
+        "C-8746",
+        "C-8743",
+        "C-8751",
+        "C-8752",
+        "C-8759",
+        "C-8762",
+        "C-8770",
+        "C-8805"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1077,10 +1077,10 @@
       "description": "First named by the host at 00:37:02 in episode 98.",
       "related_artifacts": [],
       "related_claims": [
-        "C-2843",
-        "C-2844",
-        "C-2845",
-        "C-2846"
+        "C-8786",
+        "C-8789",
+        "C-8785",
+        "C-8795"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1097,8 +1097,8 @@
       "description": "The host says the president posted her photo while she was in Italy.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11493",
-        "C-11560"
+        "C-8729",
+        "C-8818"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1115,8 +1115,8 @@
       "description": "Named in Gupta's post and in a clip telling him not to go silent.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11505",
-        "C-11515"
+        "C-8747",
+        "C-8758"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1133,9 +1133,9 @@
       "description": "The host's husband, subject of the hit-and-run and DUI allegations she denies.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11492",
-        "C-11528",
-        "C-11559"
+        "C-8728",
+        "C-8778",
+        "C-8817"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1152,7 +1152,7 @@
       "description": "Israeli prime minister the host says Shapiro hosts on his platform.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11523"
+        "C-8769"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1169,7 +1169,7 @@
       "description": "The host says he was not alone on a rooftop.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11558"
+        "C-8816"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1186,8 +1186,8 @@
       "description": "Named in Gupta's post and in a clip calling her a coward.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11505",
-        "C-11515"
+        "C-8747",
+        "C-8758"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1204,7 +1204,7 @@
       "description": "Attorney General the host says Harmeet Dhillon is frontrunner to replace.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11531"
+        "C-8781"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1221,8 +1221,8 @@
       "description": "Appears in a clip declining to dance like a puppet for the podcast wars.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11513",
-        "C-11514"
+        "C-8756",
+        "C-8757"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1239,7 +1239,7 @@
       "description": "PragerU CEO the host says she stayed close to after leaving PragerU.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11507"
+        "C-8750"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1256,8 +1256,8 @@
       "description": "Subject of Shapiro's low-IQ conspiracist remark in the clip.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11511",
-        "C-11523"
+        "C-8754",
+        "C-8769"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1274,7 +1274,7 @@
       "description": "Gupta's post credits his documentary Am I Racist? as a top-grossing 2024 release.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11506"
+        "C-8743"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1291,7 +1291,7 @@
       "description": "The host wishes he had never made the Crisis King video.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11510"
+        "C-8753"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1308,8 +1308,8 @@
       "description": "The host says she did not believe he was involved and hopes for access to his phone.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11549",
-        "C-11551"
+        "C-8807",
+        "C-8809"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1326,9 +1326,9 @@
       "description": "Daily Wire co-founder (transcribed Jeremy Boreing); stepped down as co-CEO per Gupta's post, and the host blames him for the debt.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11503",
-        "C-11547",
-        "C-11548"
+        "C-8745",
+        "C-8804",
+        "C-8805"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1345,11 +1345,11 @@
       "description": "DOJ Civil Rights head; the host discusses her law firm, her stake and her possible attorney general bid.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11529",
-        "C-11530",
-        "C-11531",
-        "C-11532",
-        "C-11542"
+        "C-8779",
+        "C-8780",
+        "C-8781",
+        "C-8782",
+        "C-8798"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1366,7 +1366,7 @@
       "description": "Named in the Times of Israel article as holding a $1.5 million a month contract.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11537"
+        "C-8790"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1383,7 +1383,7 @@
       "description": "Party to the settled lawsuit the host discusses.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11554"
+        "C-8812"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1400,8 +1400,8 @@
       "description": "Party to the settled lawsuit the host discusses.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11554",
-        "C-11555"
+        "C-8812",
+        "C-8813"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1418,10 +1418,10 @@
       "description": "Lawyer who sent the Harpole lawsuit and the host's long-time arbitration opponent.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11494",
-        "C-11525",
-        "C-11526",
-        "C-11527"
+        "C-8730",
+        "C-8772",
+        "C-8773",
+        "C-8775"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1438,9 +1438,9 @@
       "description": "Organization the host says possesses 4K footage and was geofencing the memorial.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11507",
-        "C-11518",
-        "C-11552"
+        "C-8750",
+        "C-8761",
+        "C-8810"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1457,7 +1457,7 @@
       "description": "Memorial and funeral topic.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11540"
+        "C-8793"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1474,7 +1474,7 @@
       "description": "Organization the host says was not destroyed by her exit.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11507"
+        "C-8750"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1491,7 +1491,7 @@
       "description": "Existing topic reused for the intern claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11495"
+        "C-8732"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1508,7 +1508,7 @@
       "description": "Existing topic reused for the channels claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11508"
+        "C-8751"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1525,7 +1525,7 @@
       "description": "Existing topic reused for the show claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11509"
+        "C-8752"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1542,7 +1542,7 @@
       "description": "Existing topic reused for the clip claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11515"
+        "C-8758"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1559,8 +1559,8 @@
       "description": "Existing topic reused for the stalking claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11495",
-        "C-11496"
+        "C-8732",
+        "C-8733"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1577,7 +1577,7 @@
       "description": "Existing topic reused for the Dream City claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11545"
+        "C-8801"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1594,7 +1594,7 @@
       "description": "Existing topic reused for the hit-and-run accusation.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11492"
+        "C-8728"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1611,7 +1611,7 @@
       "description": "Existing topic reused for the Kolvet seating claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11542"
+        "C-8798"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1628,8 +1628,8 @@
       "description": "Existing topic reused for the photo post.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11493",
-        "C-11560"
+        "C-8729",
+        "C-8818"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1646,8 +1646,8 @@
       "description": "Existing topic reused for the settlement claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11554",
-        "C-11555"
+        "C-8812",
+        "C-8813"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1664,11 +1664,11 @@
       "description": "Existing topic reused for the finance claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11497",
-        "C-11498",
-        "C-11500",
-        "C-11516",
-        "C-11548"
+        "C-8734",
+        "C-8735",
+        "C-8737",
+        "C-8759",
+        "C-8805"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1685,7 +1685,7 @@
       "description": "Existing topic reused for the Flood claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11549"
+        "C-8807"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1702,9 +1702,9 @@
       "description": "Law firm of Harmeet Dhillon, counsel on the Show Faith by Works filing.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11529",
-        "C-11530",
-        "C-11532"
+        "C-8779",
+        "C-8780",
+        "C-8782"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1721,13 +1721,13 @@
       "description": "FARA-registered company running the church geofencing campaign.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11533",
-        "C-11534",
-        "C-11535",
-        "C-11536",
-        "C-11541",
-        "C-11543",
-        "C-11544"
+        "C-8783",
+        "C-8784",
+        "C-8787",
+        "C-8788",
+        "C-8797",
+        "C-8799",
+        "C-8800"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1744,7 +1744,7 @@
       "description": "Existing topic reused for the Klavan claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11510"
+        "C-8753"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1761,7 +1761,7 @@
       "description": "First named by the host at 00:55:14 in episode 98 (transcribed Bryan Freedman). Lawyer the host congratulates for the Baldoni result.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11555"
+        "C-8813"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1778,7 +1778,7 @@
       "description": "First named by the host at 00:55:14 in episode 98. PR professional the host congratulates.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11555"
+        "C-8813"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1795,8 +1795,8 @@
       "description": "First named by the host at 00:56:47 in episode 98. The host asks if he is Ben Shapiro's uncle who took uranium to Israel.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11556",
-        "C-11557"
+        "C-8814",
+        "C-8815"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1813,7 +1813,7 @@
       "description": "Firm named in the Times of Israel article as contracted to create an influencer network called the Esther project for Israel's Foreign Ministry.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11538"
+        "C-8791"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1825,8 +1825,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-2834",
-      "ref": "C-2834",
+      "@id": "C-8738",
+      "ref": "C-8738",
       "label": "Daily Wire announced restructuring and mass layoffs in a statement released to Breitbart Media",
       "claim": "Per a statement the host reads that she says The Daily Wire gave to Breitbart Media, The Daily Wire described its layoffs as part of a \"restructuring\" decision.",
       "anchored_artifacts": [
@@ -1839,8 +1839,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2835",
-      "ref": "C-2835",
+      "@id": "C-8739",
+      "ref": "C-8739",
       "label": "Daily Wire's statement asserted cuts were concentrated in the Nashville production office",
       "claim": "The Daily Wire's statement said the cuts were largely concentrated at the Nashville production office.",
       "anchored_artifacts": [
@@ -1854,8 +1854,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2836",
-      "ref": "C-2836",
+      "@id": "C-8740",
+      "ref": "C-8740",
       "label": "Daily Wire's statement claimed new production investment in DC, the Northeast, and Florida",
       "claim": "The Daily Wire's statement said it had added production staff in DC, the Northeast, and Florida over the past year.",
       "anchored_artifacts": [
@@ -1869,8 +1869,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2837",
-      "ref": "C-2837",
+      "@id": "C-8748",
+      "ref": "C-8748",
       "label": "Akash Gupta X post asserted Shapiro's monthly YouTube views collapsed from 170M (late 2023) to ~22M (early 2026)",
       "claim": "Per an X post by Akash Gupta that the host reads, Shapiro's YouTube monthly viewership collapsed from approximately 170 million to approximately 22 million over roughly 18 months.",
       "anchored_artifacts": [
@@ -1886,8 +1886,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2838",
-      "ref": "C-2838",
+      "@id": "C-8749",
+      "ref": "C-8749",
       "label": "Akash Gupta X post asserted LayoffHedge.com estimates Daily Wire workforce reduction above 60% over the past year",
       "claim": "Per an X post by Akash Gupta that the host reads, LayoffHedge.com estimates cumulative Daily Wire workforce reduction above 60%.",
       "anchored_artifacts": [
@@ -1901,8 +1901,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2839",
-      "ref": "C-2839",
+      "@id": "C-8744",
+      "ref": "C-8744",
       "label": "Akash Gupta X post stated Candace Owens has 5.5M YouTube subscribers and ~805M views since January 2025",
       "claim": "The X analysis stated the host reached 5.5 million YouTube subscribers and generated roughly 805 million views since January 2025.",
       "anchored_artifacts": [
@@ -1918,8 +1918,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2840",
-      "ref": "C-2840",
+      "@id": "C-8764",
+      "ref": "C-8764",
       "label": "X post listed companies sponsoring Candace Owens' podcast and called for sponsor boycott",
       "claim": "An X post listed companies sponsoring the host's podcast and urged boycotts and withdrawal of sponsorships.",
       "anchored_artifacts": [
@@ -1935,8 +1935,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2841",
-      "ref": "C-2841",
+      "@id": "C-8765",
+      "ref": "C-8765",
       "label": "X Post Mocked Candace Owens for Shirts, Cups and Stickers Bearing Her Name and Face",
       "claim": "An X post described the host's name/face merchandise and stickers, framed mockingly.",
       "anchored_artifacts": [
@@ -1951,8 +1951,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2842",
-      "ref": "C-2842",
+      "@id": "C-8774",
+      "ref": "C-8774",
       "label": "Laura Loomer Posted That Candace Owens Was Having a Bad Week, Almost Like She Got Ambushed",
       "claim": "Laura Loomer tweeted the host was \"having a bad week almost like she got ambushed.\"",
       "anchored_artifacts": [
@@ -1971,8 +1971,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2843",
-      "ref": "C-2843",
+      "@id": "C-8786",
+      "ref": "C-8786",
       "label": "Times of Israel reported Israel plans to spend up to $4.1M on a U.S. Christian geofencing PR campaign",
       "claim": "A Times of Israel article reported Israel's Foreign Ministry plans to spend up to $4.1 million on a Christian-targeted marketing campaign via Show Faith by Works LLC, using geofencing technology.",
       "anchored_artifacts": [
@@ -1988,8 +1988,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2844",
-      "ref": "C-2844",
+      "@id": "C-8789",
+      "ref": "C-8789",
       "label": "Host Reads Times of Israel Saying Show Faith by Works Is Run by Chad Schnitger",
       "claim": "Per a Times of Israel article the host reads, Show Faith by Works LLC, which filed under FARA, is run by Chad Schnitger, a prominent Christian conservative activist in California.",
       "anchored_artifacts": [
@@ -2007,8 +2007,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2845",
-      "ref": "C-2845",
+      "@id": "C-8785",
+      "ref": "C-8785",
       "label": "Host Says Show Faith by Works LLC Registered Under FARA Eight Days After Charlie Kirk's Assassination",
       "claim": "The host says Show Faith by Works LLC began its FARA contracting registration eight days after Charlie Kirk was assassinated.",
       "anchored_artifacts": [
@@ -2025,8 +2025,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2846",
-      "ref": "C-2846",
+      "@id": "C-8795",
+      "ref": "C-8795",
       "label": "Host Says Show Faith by Works LLC Was Contracted by Havas Media Before Charlie Kirk's Public Funeral",
       "claim": "The host says Show Faith by Works LLC was contracted by Havas Media on the 18th, followed by the public funeral of Charlie Kirk.",
       "anchored_artifacts": [
@@ -2046,8 +2046,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2847",
-      "ref": "C-2847",
+      "@id": "C-8796",
+      "ref": "C-8796",
       "label": "Andrew Kolvet stated partners geofenced 277,000 devices at State Farm Stadium in Glendale, Arizona",
       "claim": "In a clip the host plays from Jesse Watters' program, Andrew Kolvet says that partners who do geotagging told him they tracked over 277,000 devices in the vicinity of State Farm Stadium in Glendale, Arizona during the memorial.",
       "anchored_artifacts": [
@@ -2064,8 +2064,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2848",
-      "ref": "C-2848",
+      "@id": "C-8763",
+      "ref": "C-8763",
       "label": "Ben Shapiro publicly accused Candace Owens' audience of being \"complicit\" via monetization",
       "claim": "On his Friday show, Ben Shapiro stated that audience members of the host \"foment this sort of evil\" by allowing her to monetize it through advertising.",
       "anchored_artifacts": [
@@ -2083,8 +2083,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2849",
-      "ref": "C-2849",
+      "@id": "C-8771",
+      "ref": "C-8771",
       "label": "Baron Coleman Read a Comment Alleging \"Larry L\" Tried to Pay for Airport Photos of Candace as the Harpole Lawsuit News Dropped",
       "claim": "On his show, Baron Coleman read a viewer comment stating that a friend of the commenter's husband was called by \"Larry L\" trying to pay him to photograph the host at the Charlotte airport at the same time the news of the lawsuit dropped.",
       "anchored_artifacts": [
@@ -2102,8 +2102,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2850",
-      "ref": "C-2850",
+      "@id": "C-8776",
+      "ref": "C-8776",
       "label": "Matt Sarelson's X wall showed he heavily retweeted Laura Loomer attacks before posting the Harpole lawsuit",
       "claim": "The host reported observing on Matt Sarelson's X wall that before acknowledging the lawsuit he had heavily retweeted Laura Loomer and her attacks on the host's family.",
       "anchored_artifacts": [
@@ -2123,8 +2123,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2851",
-      "ref": "C-2851",
+      "@id": "C-8731",
+      "ref": "C-8731",
       "label": "Jacob William Roth is listed as a partner on the Brian Harpole lawsuit and is Ben Shapiro's brother-in-law",
       "claim": "The host says the Brian Harpole lawsuit's final page lists Jacob William Roth as a partner of the firm, and says she thinks Roth has been married to Ben Shapiro's sister since 2018.",
       "anchored_artifacts": [
@@ -2143,8 +2143,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2852",
-      "ref": "C-2852",
+      "@id": "C-8777",
+      "ref": "C-8777",
       "label": "Host Says Jacob William Roth Retweeted the Brian Harpole Lawsuit",
       "claim": "The host says Jacob William Roth, Ben Shapiro's brother-in-law, retweeted the Brian Harpole lawsuit document.",
       "anchored_artifacts": [
@@ -2163,8 +2163,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2853",
-      "ref": "C-2853",
+      "@id": "C-8803",
+      "ref": "C-8803",
       "label": "FARA filing's church targeting list overlaps with Turning Point-affiliated churches (Calvary Chapel, Dream City Church)",
       "claim": "The host says the Show Faith by Works FARA filing named churches to be geofenced that include many Calvary Chapel churches where Turning Point USA pastors are involved and Dream City Church in Phoenix, which hosted Erika Kirk and Donald Trump; she says she has not personally confirmed a link.",
       "anchored_artifacts": [
@@ -2183,8 +2183,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2854",
-      "ref": "C-2854",
+      "@id": "C-8806",
+      "ref": "C-8806",
       "label": "Donation from Jen comments asserts the Harpole case could enable discovery of underlying materials",
       "claim": "A live-chat donation comment the host reads hopes the donation will help pay for attorneys to pursue discovery in the Brian Harpole case, calling it the only chance \"we might have\" to get to the truth.",
       "anchored_artifacts": [
@@ -2201,8 +2201,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2855",
-      "ref": "C-2855",
+      "@id": "C-8794",
+      "ref": "C-8794",
       "label": "Host Says FARA Registration Identifies Dhillon Law Group as Legal Representative of Show Faith by Works LLC",
       "claim": "The host says the Show Faith by Works FARA paperwork lists Dhillon Law Group as the legal representative.",
       "anchored_artifacts": [
@@ -2217,8 +2217,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11492",
-      "ref": "C-11492",
+      "@id": "C-8728",
+      "ref": "C-8728",
       "label": "Host says last week's attacks included doxing, money-hiding and hit-and-run accusations",
       "claim": "The host says that last week people doxed her home address and accused her of hiding money, of fleeing the country, and her husband of hiding a hit-and-run in which he hit a man named Tracy Robinson.",
       "anchored_artifacts": [],
@@ -2238,8 +2238,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11493",
-      "ref": "C-11493",
+      "@id": "C-8729",
+      "ref": "C-8729",
       "label": "Host says the president posted a photo of her sick while she was in Italy",
       "claim": "The host says the president posted a photo of her looking sick, that she was not speaking about him, and that she was in Italy at the time.",
       "anchored_artifacts": [],
@@ -2259,8 +2259,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11494",
-      "ref": "C-11494",
+      "@id": "C-8730",
+      "ref": "C-8730",
       "label": "Host says the Harpole lawsuit came from the lawyer already suing her for Shapiro",
       "claim": "The host says the Brian Harpole lawsuit was sent by Matt Sarelson, the same lawyer who had for two years been suing her in arbitration on Ben Shapiro's behalf.",
       "anchored_artifacts": [],
@@ -2282,8 +2282,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11495",
-      "ref": "C-11495",
+      "@id": "C-8732",
+      "ref": "C-8732",
       "label": "Host says Daily Wire sent an intern to follow her at her event",
       "claim": "The host, in a sarcastic paraphrase of Shapiro's side, says the Daily Wire sent an intern to follow her at her event after she was fired.",
       "anchored_artifacts": [],
@@ -2304,8 +2304,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11496",
-      "ref": "C-11496",
+      "@id": "C-8733",
+      "ref": "C-8733",
       "label": "Host says Daily Wire monitored her likes and sued over a liked tweet",
       "claim": "The host says the Daily Wire monitored her likes on X and that she faced serious lawsuits over liking a tweet that was disparaging to the company.",
       "anchored_artifacts": [],
@@ -2325,8 +2325,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11497",
-      "ref": "C-11497",
+      "@id": "C-8734",
+      "ref": "C-8734",
       "label": "Host says layoffs began Thursday and continued through Friday",
       "claim": "The host says she was told the Daily Wire layoffs began on Thursday, continued through Friday and may be continuing on the Monday of the episode.",
       "anchored_artifacts": [],
@@ -2346,8 +2346,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11498",
-      "ref": "C-11498",
+      "@id": "C-8735",
+      "ref": "C-8735",
       "label": "Host says whole departments, lawyers, the COO, an EVP and marketing were cut",
       "claim": "The host says the layoffs hit entire departments, lawyers, the chief operating officer, the executive vice president and virtually the whole marketing department, leaving production a skeleton crew.",
       "anchored_artifacts": [],
@@ -2367,8 +2367,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11499",
-      "ref": "C-11499",
+      "@id": "C-8736",
+      "ref": "C-8736",
       "label": "Host counts about 54 people laid off, including a director on Shapiro's team",
       "claim": "The host says that even a director on Ben Shapiro's own team was fired and that she has counted approximately 54 people who lost their jobs in this wave.",
       "anchored_artifacts": [],
@@ -2388,8 +2388,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11500",
-      "ref": "C-11500",
+      "@id": "C-8737",
+      "ref": "C-8737",
       "label": "Host says Daily Wire brought in private equity about two years ago",
       "claim": "The host says the Daily Wire brought in private equity sometime in the last two years, says her own private-equity experience suggests a roughly two-year runway in distressed-debt situations, and says she cannot assert the actual deal terms.",
       "anchored_artifacts": [],
@@ -2409,8 +2409,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11501",
-      "ref": "C-11501",
+      "@id": "C-8741",
+      "ref": "C-8741",
       "label": "Host says Daily Wire shuttered Bentkey Kids and its sports department",
       "claim": "The host says the Daily Wire first shuttered Bentkey Kids with massive layoffs, then quietly got rid of its sports department, the Crain & Company show, before the recent cuts.",
       "anchored_artifacts": [],
@@ -2429,8 +2429,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11502",
-      "ref": "C-11502",
+      "@id": "C-8742",
+      "ref": "C-8742",
       "label": "Host says people in DC were also fired",
       "claim": "The host says people in the Daily Wire's DC operation were also fired, so the layoffs cannot be explained as a pivot to building in DC.",
       "anchored_artifacts": [
@@ -2451,8 +2451,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11503",
-      "ref": "C-11503",
+      "@id": "C-8745",
+      "ref": "C-8745",
       "label": "Gupta post says Jeremy Boreing stepped down as co-CEO in early 2025",
       "claim": "In the Akash Gupta post the host reads, co-founder Jeremy Boreing stepped down as co-CEO in early 2025 and launched a solo podcast outside the company, and Bentkey was shuttered that year with its whole team cut.",
       "anchored_artifacts": [
@@ -2473,8 +2473,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11504",
-      "ref": "C-11504",
+      "@id": "C-8746",
+      "ref": "C-8746",
       "label": "Gupta post says the channel lost 60,000 subscribers in 90 days",
       "claim": "In the Akash Gupta post the host reads, Ben Shapiro's channel lost another 60,000 subscribers in the last 90 days alone.",
       "anchored_artifacts": [
@@ -2495,8 +2495,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11505",
-      "ref": "C-11505",
+      "@id": "C-8747",
+      "ref": "C-8747",
       "label": "Gupta post says Carlson kept his audience and Kelly drew 138 million views in February",
       "claim": "In the Akash Gupta post the host reads, Tucker Carlson kept his audience after leaving Fox in 2023 and runs his shop with a fraction of the headcount, and Megyn Kelly's network drew 138 million YouTube views in February alone.",
       "anchored_artifacts": [
@@ -2516,8 +2516,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11506",
-      "ref": "C-11506",
+      "@id": "C-8743",
+      "ref": "C-8743",
       "label": "Gupta post says Am I Racist? was a top-grossing documentary of 2024",
       "claim": "In the Akash Gupta post the host reads, Matt Walsh's Am I Racist? was a top-grossing documentary of 2024, one of the Daily Wire's studio bets that worked.",
       "anchored_artifacts": [
@@ -2538,8 +2538,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11507",
-      "ref": "C-11507",
+      "@id": "C-8750",
+      "ref": "C-8750",
       "label": "Host says she left PragerU and TPUSA without destroying them and worked with TPUSA under contract until this year",
       "claim": "The host says that neither PragerU nor Turning Point USA was destroyed by her exit, that they were all friends when she left, and that she kept working with Turning Point contractually until this year.",
       "anchored_artifacts": [],
@@ -2559,8 +2559,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11508",
-      "ref": "C-11508",
+      "@id": "C-8751",
+      "ref": "C-8751",
       "label": "Host says Daily Wire brought back her social channels to mock her",
       "claim": "The host says that two years after firing her the Daily Wire brought back her social channels in order to mock her.",
       "anchored_artifacts": [],
@@ -2580,8 +2580,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11509",
-      "ref": "C-11509",
+      "@id": "C-8752",
+      "ref": "C-8752",
       "label": "Host says Daily Wire tried to create a show dedicated to making fun of her show",
       "claim": "The host says the Daily Wire attempted to create an entire show dedicated to making fun of her show, months after the end of its last legal action against her.",
       "anchored_artifacts": [],
@@ -2601,8 +2601,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11510",
-      "ref": "C-11510",
+      "@id": "C-8753",
+      "ref": "C-8753",
       "label": "Host says Klavan's Crisis King video is why she could not simply leave",
       "claim": "The host says she wanted to leave the Daily Wire quietly and wishes Andrew Klavan had never made the Crisis King video, because otherwise 'you would have never heard from me' and they could never speak about each other again.",
       "anchored_artifacts": [],
@@ -2622,8 +2622,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11511",
-      "ref": "C-11511",
+      "@id": "C-8754",
+      "ref": "C-8754",
       "label": "Clip has Shapiro call Theo Von a low-IQ conspiracist",
       "claim": "In a clip the host plays of Ben Shapiro, he calls Theo Von a low-IQ conspiracist who has routinely propped up Candace Owens and lent credence to her insanity.",
       "anchored_artifacts": [
@@ -2644,8 +2644,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11512",
-      "ref": "C-11512",
+      "@id": "C-8755",
+      "ref": "C-8755",
       "label": "Clip has Shapiro say Erika Kirk should sue Candace Owens",
       "claim": "In a clip the host plays of Ben Shapiro, he says Erika Kirk absolutely should sue the living hell out of Candace Owens.",
       "anchored_artifacts": [
@@ -2666,8 +2666,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11513",
-      "ref": "C-11513",
+      "@id": "C-8756",
+      "ref": "C-8756",
       "label": "Clip has Shapiro say what the host is doing is evil",
       "claim": "In a clip the host plays, Ben Shapiro says that what Candace Owens is doing right now is evil, after Michael Knowles declines to say so.",
       "anchored_artifacts": [
@@ -2681,7 +2681,7 @@
       "investigative_direction": "Locate the original interview with Knowles and compare with Shapiro's earlier use of the word evil.",
       "transcript_snippet": "I think that what Candace Owens is doing right now is evil.",
       "supports_claim_refs": [
-        "C-1637"
+        "C-2502"
       ],
       "mentions_person_refs": [
         "N-97",
@@ -2691,8 +2691,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11514",
-      "ref": "C-11514",
+      "@id": "C-8757",
+      "ref": "C-8757",
       "label": "Clip has Knowles say he will not dance like a puppet for the podcast wars",
       "claim": "In a clip the host plays, Michael Knowles tells Ben Shapiro he will not dance like a puppet for the podcast wars and says it is none of his business, while Shapiro presses him to say Candace Owens is accusing Erika of murder.",
       "anchored_artifacts": [
@@ -2714,8 +2714,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11515",
-      "ref": "C-11515",
+      "@id": "C-8758",
+      "ref": "C-8758",
       "label": "Clip has a speaker call Megyn Kelly a coward and tell Carlson not to go silent",
       "claim": "In a clip the host plays, a speaker says Megyn Kelly remains a coward and that Tucker Carlson has no excuse to go silent on Candace's targeting of TPUSA out of love for Candace personally.",
       "anchored_artifacts": [
@@ -2738,8 +2738,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11516",
-      "ref": "C-11516",
+      "@id": "C-8759",
+      "ref": "C-8759",
       "label": "Host infers Shapiro, as part owner, knew about the layoffs months ahead",
       "claim": "The host infers that Ben Shapiro, as a part owner of the Daily Wire, knew months ahead that the company could not sustain its employees, and says that with his dying corporate breath he chose to come after her.",
       "anchored_artifacts": [],
@@ -2760,8 +2760,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11517",
-      "ref": "C-11517",
+      "@id": "C-8760",
+      "ref": "C-8760",
       "label": "Host says Shapiro tried to destroy Charlie Kirk behind the scenes",
       "claim": "The host says Ben Shapiro spent time trying to destroy Charlie Kirk behind the scenes and then flipped as soon as Kirk died.",
       "anchored_artifacts": [],
@@ -2773,7 +2773,7 @@
       "investigative_direction": "Compare with the host's texts from Kirk about Shapiro and with Shapiro's public statements.",
       "transcript_snippet": "You can spend uh trying to destroy someone behind the scenes like Ben did to Charlie Kirk, and then boop, just flip on the dime as soon as he dies",
       "supports_claim_refs": [
-        "C-9661"
+        "C-2514"
       ],
       "mentions_person_refs": [
         "N-97",
@@ -2782,8 +2782,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11518",
-      "ref": "C-11518",
+      "@id": "C-8761",
+      "ref": "C-8761",
       "label": "Host says Shapiro threw a million dollars into Charlie's studio to buy his legacy",
       "claim": "The host says Ben Shapiro, after Kirk's death, slithered into his studio and threw a million dollars trying to purchase his legacy.",
       "anchored_artifacts": [],
@@ -2803,8 +2803,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11519",
-      "ref": "C-11519",
+      "@id": "C-8762",
+      "ref": "C-8762",
       "label": "Host says Shapiro devoted his Friday show to her instead of addressing laid-off employees",
       "claim": "The host says that on his Friday show Ben Shapiro did not address the laid-off employees, including people who moved their families to Nashville, and instead made his show about her.",
       "anchored_artifacts": [
@@ -2826,8 +2826,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11520",
-      "ref": "C-11520",
+      "@id": "C-8766",
+      "ref": "C-8766",
       "label": "Host says Laura Loomer called for people to get rid of Candace's merch",
       "claim": "The host says Laura Loomer followed the branding post with a call to get rid of Candace's merch, and says Loomer asked why the host does not sell a luxury SUV instead of asking for support.",
       "anchored_artifacts": [
@@ -2847,8 +2847,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11521",
-      "ref": "C-11521",
+      "@id": "C-8767",
+      "ref": "C-8767",
       "label": "Host denies owning a million dollars of cars or living in two homes",
       "claim": "The host denies the claims in the Loomer tweet that she drives about $1 million worth of cars and lives in two homes, calling them untrue.",
       "anchored_artifacts": [
@@ -2868,8 +2868,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11522",
-      "ref": "C-11522",
+      "@id": "C-8768",
+      "ref": "C-8768",
       "label": "Host alleges Shapiro encouraged Erika Kirk to sue her and landed on Harpole",
       "claim": "The host alleges that Ben Shapiro worked behind the scenes and publicly to encourage Erika Kirk to sue her and that he likely landed on Brian Harpole.",
       "anchored_artifacts": [
@@ -2885,7 +2885,7 @@
       "investigative_direction": "Seek communications between Shapiro's side, Erika Kirk's side and the Harpole lawyers.",
       "transcript_snippet": "after working behind the scenes to encourage and in front of the scenes, as you saw, to encourage Erika Kirk to sue me, he likely landed upon Brian Harpole",
       "supports_claim_refs": [
-        "C-9648"
+        "C-2494"
       ],
       "mentions_person_refs": [
         "N-97",
@@ -2896,8 +2896,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11523",
-      "ref": "C-11523",
+      "@id": "C-8769",
+      "ref": "C-8769",
       "label": "Host says Shapiro hosts Netanyahu on his platform",
       "claim": "The host says Ben Shapiro (the transcript reads 'Ben Shap- uh uh Bibi Netanyahu') hosts Bibi Netanyahu on his platform while cheering on what she calls a genocide.",
       "anchored_artifacts": [],
@@ -2909,7 +2909,7 @@
       "investigative_direction": "Identify the Shapiro-Netanyahu interview and its date.",
       "transcript_snippet": "while he unflinchingly hosts Ben Shap- uh uh Bibi Netanyahu on his platform.",
       "supports_claim_refs": [
-        "C-9668"
+        "C-2522"
       ],
       "mentions_person_refs": [
         "N-97",
@@ -2918,8 +2918,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11524",
-      "ref": "C-11524",
+      "@id": "C-8770",
+      "ref": "C-8770",
       "label": "Host alleges Shapiro bought YouTube views",
       "claim": "The host alleges that everybody in YouTube world knew Ben Shapiro was buying views, says she knows the person who used to do it at the Daily Wire, and wonders whether selling advertisers on purchased views is a kind of advertising Ponzi scheme.",
       "anchored_artifacts": [],
@@ -2939,8 +2939,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11525",
-      "ref": "C-11525",
+      "@id": "C-8772",
+      "ref": "C-8772",
       "label": "Host says she was in the Charlotte airport when the Sarelson email arrived",
       "claim": "The host says she was standing in the Charlotte airport when she received the email from Matt Sarelson, a detail she says she never publicized.",
       "anchored_artifacts": [
@@ -2956,7 +2956,7 @@
       "investigative_direction": "Check the email's timestamp and the host's flight records against the commenter's account.",
       "transcript_snippet": "but I was standing in the Charlotte airport when I received that email.",
       "supports_claim_refs": [
-        "C-2849"
+        "C-8771"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2965,8 +2965,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11526",
-      "ref": "C-11526",
+      "@id": "C-8773",
+      "ref": "C-8773",
       "label": "Host says Sarelson first sent a demand saying a lawsuit would be filed in four days",
       "claim": "The host says Matt Sarelson's firm first sent a demand saying a lawsuit would be filed in four days, more than a week before the host announced anything publicly.",
       "anchored_artifacts": [],
@@ -2986,8 +2986,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11527",
-      "ref": "C-11527",
+      "@id": "C-8775",
+      "ref": "C-8775",
       "label": "Host alleges coordination between Sarelson and Laura Loomer",
       "claim": "The host alleges that Loomer's apparent knowledge of the email suggests coordination between Matt Sarelson, Ben Shapiro's lawyer, and Laura Loomer.",
       "anchored_artifacts": [
@@ -3011,8 +3011,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11528",
-      "ref": "C-11528",
+      "@id": "C-8778",
+      "ref": "C-8778",
       "label": "Host says Loomer asserted the host's husband was involved in a DUI",
       "claim": "The host says Laura Loomer asserted that her husband, whom the host says is not an immigrant, was involved in a DUI.",
       "anchored_artifacts": [
@@ -3032,8 +3032,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11529",
-      "ref": "C-11529",
+      "@id": "C-8779",
+      "ref": "C-8779",
       "label": "Host says Dhillon Law Group is Harmeet Dhillon's firm and she is at DOJ",
       "claim": "The host says Dhillon Law Group is Harmeet Dhillon's law firm and that Dhillon left it to serve at the Department of Justice as Assistant Attorney General for the Civil Rights Division.",
       "anchored_artifacts": [],
@@ -3052,8 +3052,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11530",
-      "ref": "C-11530",
+      "@id": "C-8780",
+      "ref": "C-8780",
       "label": "Host says Dhillon transferred her stake in the firm to her brother",
       "claim": "The host says she thinks Harmeet Dhillon transferred her stake in her firm to her brother while serving at the Department of Justice.",
       "anchored_artifacts": [],
@@ -3072,8 +3072,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11531",
-      "ref": "C-11531",
+      "@id": "C-8781",
+      "ref": "C-8781",
       "label": "Host says Dhillon is the frontrunner to replace Pam Bondi as Attorney General",
       "claim": "The host says Harmeet Dhillon is the frontrunner to replace Pam Bondi as Attorney General of the United States.",
       "anchored_artifacts": [],
@@ -3091,8 +3091,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11532",
-      "ref": "C-11532",
+      "@id": "C-8782",
+      "ref": "C-8782",
       "label": "Host says Dhillon's firm is heavily involved in legal matters for Israel",
       "claim": "The host says that, while Dhillon's firm has never been accused or charged with corruption related to Israel, it is heavily involved in a lot of legal issues on behalf of Israel.",
       "anchored_artifacts": [],
@@ -3111,8 +3111,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11533",
-      "ref": "C-11533",
+      "@id": "C-8783",
+      "ref": "C-8783",
       "label": "Host says the principal of Show Faith by Works is Israel's Ministry of Foreign Affairs",
       "claim": "The host says the principal of Show Faith by Works LLC is Israel's Ministry of Foreign Affairs.",
       "anchored_artifacts": [
@@ -3134,8 +3134,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11534",
-      "ref": "C-11534",
+      "@id": "C-8784",
+      "ref": "C-8784",
       "label": "Host says Show Faith by Works aims to target US Christians with pro-Israel messaging via geofencing",
       "claim": "The host says the stated purpose of Show Faith by Works is to target Christians in the United States with anti-Palestinian and pro-Israel messaging using geofencing.",
       "anchored_artifacts": [
@@ -3157,8 +3157,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11535",
-      "ref": "C-11535",
+      "@id": "C-8787",
+      "ref": "C-8787",
       "label": "Times of Israel says the campaign was billed as the largest church geofencing campaign in US history",
       "claim": "The Times of Israel article the host reads says Show Faith by Works will execute what it bills as the largest Christian church geofencing campaign in US history.",
       "anchored_artifacts": [
@@ -3176,8 +3176,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11536",
-      "ref": "C-11536",
+      "@id": "C-8788",
+      "ref": "C-8788",
       "label": "Times of Israel says the campaign would send a mobile October 7th experience to church parking lots",
       "claim": "The Times of Israel article the host reads says the campaign aims to reach churchgoers with pro-Israel digital ads while dispatching a mobile October 7th experience to church parking lots and Christian colleges.",
       "anchored_artifacts": [
@@ -3195,8 +3195,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11537",
-      "ref": "C-11537",
+      "@id": "C-8790",
+      "ref": "C-8790",
       "label": "Times of Israel says the campaign adds to a $1.5 million a month Parscale contract",
       "claim": "The Times of Israel article the host reads says the campaign complements a $1.5 million per month contract for AI-driven social media activity with former Trump campaign strategist Brad Parscale.",
       "anchored_artifacts": [
@@ -3215,8 +3215,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11538",
-      "ref": "C-11538",
+      "@id": "C-8791",
+      "ref": "C-8791",
       "label": "Times of Israel Says Bridges Partners Is Creating the Esther Project Influencer Network",
       "claim": "The Times of Israel article the host reads says a firm called Bridges Partners has a contract to create an influencer network called the Esther project.",
       "anchored_artifacts": [
@@ -3234,8 +3234,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11539",
-      "ref": "C-11539",
+      "@id": "C-8792",
+      "ref": "C-8792",
       "label": "Times of Israel says the Foreign Ministry was allocated $150 million for public relations",
       "claim": "The Times of Israel article the host reads says the Foreign Ministry was allocated $150 million in this year's budget for public relations efforts.",
       "anchored_artifacts": [
@@ -3251,8 +3251,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11540",
-      "ref": "C-11540",
+      "@id": "C-8793",
+      "ref": "C-8793",
       "label": "Host says the funeral was described by Erika Kirk as the event of the century",
       "claim": "The host says Charlie Kirk's public funeral was described by some people, including his wife, as the event of the century.",
       "anchored_artifacts": [],
@@ -3272,8 +3272,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11541",
-      "ref": "C-11541",
+      "@id": "C-8797",
+      "ref": "C-8797",
       "label": "Host says Kolvet did not name his geofencing partners so a Show Faith link is unconfirmed",
       "claim": "The host says Andrew Kolvet did not name his geofencing partners, so it is not known whether they were Show Faith by Works, though she says the timing is interesting.",
       "anchored_artifacts": [
@@ -3290,7 +3290,7 @@
       "investigative_direction": "Ask Turning Point who supplied the memorial geotagging data.",
       "transcript_snippet": "He didn't name who his partners were. Um so we don't know if it was Show Faith by Works.",
       "qualifies_claim_refs": [
-        "C-2847"
+        "C-8796"
       ],
       "mentions_person_refs": [
         "N-14"
@@ -3298,8 +3298,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11542",
-      "ref": "C-11542",
+      "@id": "C-8798",
+      "ref": "C-8798",
       "label": "Host says Kolvet sat with Harmeet Dhillon at the White House Correspondents Dinner",
       "claim": "The host says Andrew Kolvet happened to be sitting with Harmeet Dhillon at the recent White House Correspondents Dinner where the shooting occurred.",
       "anchored_artifacts": [],
@@ -3319,8 +3319,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11543",
-      "ref": "C-11543",
+      "@id": "C-8799",
+      "ref": "C-8799",
       "label": "Host says the filing targets Tucson, Phoenix and Las Vegas, a Turning Point hub",
       "claim": "The host says the filing specifically notes geofencing and targeting in Tucson, Phoenix and Las Vegas, which she says is right in the Turning Point hub.",
       "anchored_artifacts": [
@@ -3342,8 +3342,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11544",
-      "ref": "C-11544",
+      "@id": "C-8800",
+      "ref": "C-8800",
       "label": "Host says she has not confirmed that the Show Faith company worked with a Turning Point partner",
       "claim": "The host says she would be very surprised if Show Faith by Works was not the company working with one of Turning Point USA's partners, but says she has not personally confirmed it.",
       "anchored_artifacts": [],
@@ -3363,8 +3363,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11545",
-      "ref": "C-11545",
+      "@id": "C-8801",
+      "ref": "C-8801",
       "label": "Host says Charlie spoke at Dream City Church once a month",
       "claim": "The host says Dream City Church, which is on the geofencing list, is where Charlie Kirk spoke once a month.",
       "anchored_artifacts": [
@@ -3385,8 +3385,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11546",
-      "ref": "C-11546",
+      "@id": "C-8802",
+      "ref": "C-8802",
       "label": "Host asks viewers for geofencing information at the tips addresses",
       "claim": "The host asks viewers with any information about the geofencing and Show Faith by Works link to email tips@candaceowens.com or more tips@candaceowens.com so she can keep running the narrative.",
       "anchored_artifacts": [
@@ -3408,8 +3408,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11547",
-      "ref": "C-11547",
+      "@id": "C-8804",
+      "ref": "C-8804",
       "label": "Host says Daily Wire's last action against her was sent on Jeremy Boreing's birthday",
       "claim": "The host says the recent events were on her birthday and that the Daily Wire's earlier action against her was sent on Jeremy Boreing's birthday, which she calls Daily Wire coded.",
       "anchored_artifacts": [],
@@ -3427,8 +3427,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11548",
-      "ref": "C-11548",
+      "@id": "C-8805",
+      "ref": "C-8805",
       "label": "Host Says Boreing's Focus on Himself and Neglect of Talent Led the Company Into Debt",
       "claim": "The host says the reason the Daily Wire got into debt was Jeremy Boreing, who she says stopped focusing on talent, thought he was the product and invested little in talent.",
       "anchored_artifacts": [],
@@ -3449,8 +3449,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11549",
-      "ref": "C-11549",
+      "@id": "C-8807",
+      "ref": "C-8807",
       "label": "Host says she did not believe Harpole or Dan Flood were involved and defended them",
       "claim": "The host says she genuinely did not believe Brian Harpole or Dan Flood were involved when this went down, that she defended them on her platform, and that she never mentioned Harpole until his interview and reached out to him first.",
       "anchored_artifacts": [],
@@ -3472,8 +3472,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11550",
-      "ref": "C-11550",
+      "@id": "C-8808",
+      "ref": "C-8808",
       "label": "Host says she had worked with Harpole and has generally gotten along with security people",
       "claim": "The host says she had worked with Brian Harpole and generally can think of few security people she does not get along with.",
       "anchored_artifacts": [],
@@ -3491,8 +3491,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11551",
-      "ref": "C-11551",
+      "@id": "C-8809",
+      "ref": "C-8809",
       "label": "Host hopes the lawsuit leads to access to the phones of Harpole, Flood and Erika Kirk and to footage",
       "claim": "The host says she hopes the lawsuit will let her obtain access to Harpole's phone, Dan Flood's phone, Erika Kirk's phone on the day, and the footage.",
       "anchored_artifacts": [],
@@ -3514,8 +3514,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11552",
-      "ref": "C-11552",
+      "@id": "C-8810",
+      "ref": "C-8810",
       "label": "Host says Turning Point USA possesses footage in 4K",
       "claim": "The host says there is footage in 4K that Turning Point USA is in possession of.",
       "anchored_artifacts": [],
@@ -3529,8 +3529,8 @@
       "investigative_direction": "Request the footage or confirm its custody with Turning Point and law enforcement.",
       "transcript_snippet": "great thing there's footage in 4K that Turning Point USA is in possession of.",
       "supports_claim_refs": [
-        "C-6487",
-        "C-9595"
+        "C-1372",
+        "C-2423"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -3538,8 +3538,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11553",
-      "ref": "C-11553",
+      "@id": "C-8811",
+      "ref": "C-8811",
       "label": "Host says her merch sales are on track for their biggest day",
       "claim": "The host says the day was on track to be the biggest day in her merch sales history on her website, a response to calls for a merch boycott.",
       "anchored_artifacts": [],
@@ -3556,8 +3556,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11554",
-      "ref": "C-11554",
+      "@id": "C-8812",
+      "ref": "C-8812",
       "label": "Host says the Blake Lively and Justin Baldoni case has settled",
       "claim": "The host reads a viewer comment that Blake Lively just settled and says the settlement means the case is over, calling it a win for Justin Baldoni; she says settlement details will be kept quiet and she will cover it the next day.",
       "anchored_artifacts": [
@@ -3579,8 +3579,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11555",
-      "ref": "C-11555",
+      "@id": "C-8813",
+      "ref": "C-8813",
       "label": "Host congratulates Bryan Freedman and PR professional Melissa Nathan",
       "claim": "The host congratulates Bryan Freedman (she was unsure of the lawyer's name, transcribed 'Friedman'; real name likely Bryan Freedman) and PR professional Melissa Nathan on the Baldoni side's result.",
       "anchored_artifacts": [],
@@ -3601,8 +3601,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11556",
-      "ref": "C-11556",
+      "@id": "C-8814",
+      "ref": "C-8814",
       "label": "Host asks if Ben Shapiro's uncle Zalman Shapiro took uranium to Israel",
       "claim": "The host asks whether Ben Shapiro's uncle Zalman Shapiro was the one who took all of the uranium to Israel, spells the name and says 'I'm pretty sure.'",
       "anchored_artifacts": [],
@@ -3622,8 +3622,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11557",
-      "ref": "C-11557",
+      "@id": "C-8815",
+      "ref": "C-8815",
       "label": "Host says Zalman Shapiro was never found guilty",
       "claim": "The host says she does not think Zalman Shapiro was ever found guilty and thinks he played the antisemitism card.",
       "anchored_artifacts": [],
@@ -3642,8 +3642,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11558",
-      "ref": "C-11558",
+      "@id": "C-8816",
+      "ref": "C-8816",
       "label": "Host says it was not Tyler Robinson alone on a rooftop",
       "claim": "The host says the public will find out who was really behind the Charlie Kirk murder because, she says, everyone knows it was not Tyler Robinson alone on a rooftop.",
       "anchored_artifacts": [],
@@ -3657,7 +3657,7 @@
       "investigative_direction": "Review the evidence record in the Robinson prosecution.",
       "transcript_snippet": "we're definitely going to find out who was really behind the Charlie Kirk murder because we all know it wasn't Tyler Robinson alone on a rooftop.",
       "supports_claim_refs": [
-        "C-6520"
+        "C-1958"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -3666,8 +3666,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11559",
-      "ref": "C-11559",
+      "@id": "C-8817",
+      "ref": "C-8817",
       "label": "Host says she was confirmed Catholic in Italy and received two relics",
       "claim": "The host says she had her confirmation in Italy, that her husband was her sponsor and gave her two relics of Saint Joan as a confirmation gift.",
       "anchored_artifacts": [],
@@ -3685,8 +3685,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11560",
-      "ref": "C-11560",
+      "@id": "C-8818",
+      "ref": "C-8818",
       "label": "Host says the president posted her photo the night of her confirmation",
       "claim": "The host says the president posted a picture of her on the same evening as, or the night before, her confirmation, while she was in Italy.",
       "anchored_artifacts": [],

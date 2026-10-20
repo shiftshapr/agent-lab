@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10f): N-919, N-11352, N-11353, N-11354, N-11355
   - Tip-minted Nodes (reintro-ep099): N-11300, N-11304
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10f): C-12896–C-12969
+  - Claim Range: C-8819–C-8920
   - (see registers)
 
 # Episode Analysis: Bride of Charlie Episode 99
@@ -32,7 +32,6 @@
 - **Analysis date:** 2026-05-05
 - **Ledger continuation summary:**
   - Artifact Families Introduced: A-2045, A-2046, A-2047, A-2048, A-2049, A-2050, A-2051, A-2052, A-2053, A-2054, A-2055, A-2056, A-2057, A-2058, A-2059, A-2060, A-2061
-  - Claim Range: C-2856–C-2883
   - New Nodes Introduced: N-10657, N-10658, N-10659
   - Reused Nodes Appearing: N-375, N-10662, N-130, N-10661, N-374, N-373, N-430, N-5, N-15, N-22, N-31, N-40, N-46, N-159, N-226, N-253, N-261, N-266, N-270, N-486, N-708, N-892, N-10027, N-10110, N-10148, N-10169, N-10187, N-10198, N-10300, N-10305, N-10340, N-10342, N-10406, N-10415, N-10416, N-10456, N-10495, N-10651, N-10653, N-10900, N-10910, N-10914, N-11121, N-11221, N-11258, N-10660, N-10663, N-10722, N-11351
   - Hole-minted Nodes (wave2): N-376
@@ -62,7 +61,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:03:06
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2856, C-2857, N-1 (Charlie Kirk)*
+*Related: C-8822, C-8823, N-1 (Charlie Kirk)*
 
 ---
 
@@ -75,7 +74,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:06:41
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2858, N-330 (Baron Coleman)*
+*Related: C-8826, N-330 (Baron Coleman)*
 
 ---
 
@@ -88,7 +87,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:12:44
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2859, C-2860*
+*Related: C-8832, C-8833*
 
 ---
 
@@ -101,7 +100,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:14:54
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2861, C-2862, N-10901*
+*Related: C-8836, C-8837, N-10901*
 
 **A-2048.2** Church list contained within FARA filing
 
@@ -110,7 +109,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:14:54
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2862*
+*Related: C-8837*
 
 ---
 
@@ -123,7 +122,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:15:34
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2863, C-2864, C-2865, C-2866, N-10901*
+*Related: C-8838, C-8841, C-8842, C-8843, N-10901*
 
 **A-2049.2** Salem Radio Media Network listing within Clock Tower X FARA filing
 
@@ -132,7 +131,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:16:57
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2865*
+*Related: C-8842*
 
 ---
 
@@ -145,7 +144,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:24:59
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2867, N-55 (Josh Hammer)*
+*Related: C-8854, N-55 (Josh Hammer)*
 
 ---
 
@@ -158,7 +157,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:31:21
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2868, C-2869, N-33 (Donald Trump Jr.), N-374*
+*Related: C-8865, C-8866, N-33 (Donald Trump Jr.), N-374*
 
 ---
 
@@ -171,7 +170,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:34:17
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2870, C-2871, N-85 (Pam Bondi), N-130*
+*Related: C-8867, C-8868, N-85 (Pam Bondi), N-130*
 
 ---
 
@@ -184,7 +183,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:34:17
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2870, C-2871, N-85 (Pam Bondi)*
+*Related: C-8867, C-8868, N-85 (Pam Bondi)*
 
 ---
 
@@ -197,7 +196,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:36:54
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2861, C-2863, C-2866, C-2870, C-2872, C-2873, C-2875, N-85 (Pam Bondi), N-373*
+*Related: C-8836, C-8838, C-8843, C-8867, C-8871, C-8872, C-8876, N-85 (Pam Bondi), N-373*
 
 ---
 
@@ -210,7 +209,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:39:40
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2876*
+*Related: C-8877*
 
 ---
 
@@ -223,7 +222,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:47:29
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2877, C-2878, N-484 (Blake Lively), N-485 (Justin Baldoni)*
+*Related: C-8885, C-8886, N-484 (Blake Lively), N-485 (Justin Baldoni)*
 
 ---
 
@@ -236,7 +235,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:48:28
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2879, N-484 (Blake Lively)*
+*Related: C-8887, N-484 (Blake Lively)*
 
 ---
 
@@ -249,7 +248,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:50:04
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2880, N-485 (Justin Baldoni), N-484 (Blake Lively)*
+*Related: C-8890, N-485 (Justin Baldoni), N-484 (Blake Lively)*
 
 **A-2058.2** Deadpool & Wolverine deleted scenes with continued Baldoni mockery (podcast-hosting character)
 
@@ -258,7 +257,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:50:30
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2881, N-485 (Justin Baldoni)*
+*Related: C-8892, N-485 (Justin Baldoni)*
 
 ---
 
@@ -271,7 +270,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:51:57
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2882, N-485 (Justin Baldoni), N-484 (Blake Lively)*
+*Related: C-8894, N-485 (Justin Baldoni), N-484 (Blake Lively)*
 
 ---
 
@@ -284,7 +283,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:22:23
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2874, N-1 (Charlie Kirk), N-55 (Josh Hammer)*
+*Related: C-8851, N-1 (Charlie Kirk), N-55 (Josh Hammer)*
 
 ---
 
@@ -297,7 +296,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:57:03
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2883, Andrew Kolvet (existing node)*
+*Related: C-8906, Andrew Kolvet (existing node)*
 
 ---
 
@@ -310,7 +309,7 @@ Video Timestamp: 00:04:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12899, C-12900, N-1, N-14, N-270*
+*Related: C-8824, C-8825, N-1, N-14, N-270*
 
 ---
 
@@ -323,7 +322,7 @@ Video Timestamp: 00:19:56
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12911, N-5, N-1, N-11352*
+*Related: C-8845, N-5, N-1, N-11352*
 
 ---
 
@@ -336,7 +335,7 @@ Video Timestamp: 00:22:23
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12917, N-55, N-3, N-10187*
+*Related: C-8852, N-55, N-3, N-10187*
 
 ---
 
@@ -349,7 +348,7 @@ Video Timestamp: 00:50:04
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12943, N-485, N-10661*
+*Related: C-8891, N-485, N-10661*
 
 ---
 
@@ -359,7 +358,7 @@ Confidence Level: Low
 
 First named by the host at 00:16:06 in episode 99.
 
-*Related: C-2864, C-2866*
+*Related: C-8841, C-8843*
 
 ### People (New)
 
@@ -374,7 +373,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2054.1, C-2872*
+*Related: A-2054.1, C-8871*
 
 ---
 
@@ -389,7 +388,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2051.1, C-2868*
+*Related: A-2051.1, C-8865*
 
 ---
 
@@ -404,7 +403,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2052.1, C-2870*
+*Related: A-2052.1, C-8867*
 
 ---
 
@@ -419,7 +418,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-2880*
+*Related: C-8890*
 
 ---
 
@@ -434,7 +433,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-2880, C-2882*
+*Related: C-8890, C-8894*
 
 ---
 
@@ -452,7 +451,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2048.1, A-2049.1, C-2861, C-2863, C-2873*
+*Related: A-2048.1, A-2049.1, C-8836, C-8838, C-8872*
 
 ---
 
@@ -467,7 +466,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2049.1, A-2049.2, A-2051.1, C-2863, C-2864, C-2865, C-2866, C-2868, N-10662 (2025 FARA Timeline Convergence)*
+*Related: A-2049.1, A-2049.2, A-2051.1, C-8838, C-8841, C-8842, C-8843, C-8865, N-10662 (2025 FARA Timeline Convergence)*
 
 ---
 
@@ -480,7 +479,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2050.1, C-2867, N-55 (Josh Hammer), N-10657 (Salem Foreign Agent Status)*
+*Related: A-2050.1, C-8854, N-55 (Josh Hammer), N-10657 (Salem Foreign Agent Status)*
 
 ---
 
@@ -493,7 +492,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2052.1, A-2053.1, C-2870, C-2871, N-85 (Pam Bondi), N-10662 (2025 FARA Timeline Convergence)*
+*Related: A-2052.1, A-2053.1, C-8867, C-8868, N-85 (Pam Bondi), N-10662 (2025 FARA Timeline Convergence)*
 
 ---
 
@@ -519,7 +518,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2056.1, A-2057.1, C-2877, C-2878, C-2879, N-484 (Blake Lively), N-485 (Justin Baldoni)*
+*Related: A-2056.1, A-2057.1, C-8885, C-8886, C-8887, N-484 (Blake Lively), N-485 (Justin Baldoni)*
 
 ---
 
@@ -532,7 +531,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2047.1, A-2048.1, A-2049.1, A-2051.1, A-2053.1, A-2054.1, C-2861, C-2863, C-2866, C-2870, C-2872, C-2873, C-2874, C-2875, N-85 (Pam Bondi), N-33 (Donald Trump Jr.), N-10657 (Salem Foreign Agent Status), N-10659 (Bondi FARA Disbanding)*
+*Related: A-2047.1, A-2048.1, A-2049.1, A-2051.1, A-2053.1, A-2054.1, C-8836, C-8838, C-8843, C-8867, C-8871, C-8872, C-8851, C-8876, N-85 (Pam Bondi), N-33 (Donald Trump Jr.), N-10657 (Salem Foreign Agent Status), N-10659 (Bondi FARA Disbanding)*
 
 ---
 
@@ -545,7 +544,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2061.1, C-2883, Andrew Kolvet (existing node), N-1 (Charlie Kirk), N-2 (Erika Kirk)*
+*Related: A-2061.1, C-8906, Andrew Kolvet (existing node), N-1 (Charlie Kirk), N-2 (Erika Kirk)*
 
 ---
 
@@ -553,7 +552,7 @@ Investigative Pressure: Medium
 
 Host; speaks for herself throughout.
 
-*Related: C-12896, C-12897, C-12898, C-12899, C-12900, C-12903, C-12904, C-12905, C-12906, C-12908, C-12909, C-12912, C-12913, C-12914, C-12915, C-12916, C-12917, C-12919, C-12920, C-12921, C-12922, C-12923, C-12924, C-12925, C-12926, C-12927, C-12928, C-12934, C-12936, C-12937, C-12938, C-12939, C-12940, C-12948, C-12949, C-12950, C-12951, C-12952, C-12953, C-12954, C-12955, C-12956, C-12957, C-12958, C-12959, C-12960, C-12961, C-12962, C-12963, C-12964, C-12966, C-12967, C-12968, C-12969*
+*Related: C-8819, C-8820, C-8821, C-8824, C-8825, C-8829, C-8830, C-8831, C-8834, C-8839, C-8840, C-8846, C-8847, C-8848, C-8849, C-8850, C-8852, C-8855, C-8856, C-8857, C-8858, C-8859, C-8860, C-8861, C-8862, C-8863, C-8864, C-8879, C-8880, C-8881, C-8882, C-8883, C-8884, C-8898, C-8899, C-8900, C-8901, C-8902, C-8903, C-8904, C-8905, C-8907, C-8908, C-8909, C-8910, C-8911, C-8912, C-8913, C-8914, C-8915, C-8917, C-8918, C-8919, C-8920*
 
 ---
 
@@ -561,7 +560,7 @@ Host; speaks for herself throughout.
 
 Baron Coleman; the host plays his audio clip and cites his Spotify rank.
 
-*Related: C-12896, C-12901, C-12902*
+*Related: C-8819, C-8827, C-8828*
 
 ---
 
@@ -569,7 +568,7 @@ Baron Coleman; the host plays his audio clip and cites his Spotify rank.
 
 Clock Tower X / Israeli Influence Operation; existing topic reused.
 
-*Related: C-12897, C-12909, C-12910, C-12960*
+*Related: C-8820, C-8840, C-8844, C-8911*
 
 ---
 
@@ -577,7 +576,7 @@ Clock Tower X / Israeli Influence Operation; existing topic reused.
 
 Subject of the assassination; the host reports his night-before texts, his show ownership and his shifting views on Israel.
 
-*Related: C-12898, C-12899, C-12900, C-12901, C-12902, C-12904, C-12905, C-12909, C-12911, C-12912, C-12914, C-12915, C-12916, C-12920, C-12921, C-12922, C-12925, C-12926, C-12927, C-12928, C-12931, C-12932, C-12950, C-12951, C-12952, C-12953, C-12965, C-12967, C-12968*
+*Related: C-8821, C-8824, C-8825, C-8827, C-8828, C-8830, C-8831, C-8840, C-8845, C-8846, C-8848, C-8849, C-8850, C-8856, C-8857, C-8858, C-8861, C-8862, C-8863, C-8864, C-8873, C-8874, C-8900, C-8901, C-8902, C-8903, C-8916, C-8918, C-8919*
 
 ---
 
@@ -585,7 +584,7 @@ Subject of the assassination; the host reports his night-before texts, his show 
 
 Existing topic reused for Kirk premonition pattern.
 
-*Related: C-12898*
+*Related: C-8821*
 
 ---
 
@@ -593,7 +592,7 @@ Existing topic reused for Kirk premonition pattern.
 
 Andrew Kolvet; the host cites his night-before text, his alleged stake in the Kirk show and the family-source account that he lost millions.
 
-*Related: C-12899, C-12922, C-12923, C-12926, C-12927, C-12949*
+*Related: C-8824, C-8858, C-8859, C-8862, C-8863, C-8899*
 
 ---
 
@@ -601,7 +600,7 @@ Andrew Kolvet; the host cites his night-before text, his alleged stake in the Ki
 
 Dan Flood; recipient of Kirk's night-before text.
 
-*Related: C-12899*
+*Related: C-8824*
 
 ---
 
@@ -609,7 +608,7 @@ Dan Flood; recipient of Kirk's night-before text.
 
 Existing topic reused for the night-before texts to Kolvet and Flood.
 
-*Related: C-12899, C-12900, C-12932*
+*Related: C-8824, C-8825, C-8874*
 
 ---
 
@@ -617,7 +616,7 @@ Existing topic reused for the night-before texts to Kolvet and Flood.
 
 Brian Harpole; the host hopes his lawsuit will show who Kirk meant by the night-before text.
 
-*Related: C-12900*
+*Related: C-8825*
 
 ---
 
@@ -625,7 +624,7 @@ Brian Harpole; the host hopes his lawsuit will show who Kirk meant by the night-
 
 Existing topic reused for the Harpole lawsuit.
 
-*Related: C-12900*
+*Related: C-8825*
 
 ---
 
@@ -633,7 +632,7 @@ Existing topic reused for the Harpole lawsuit.
 
 Existing topic reused for Harpole discovery.
 
-*Related: C-12900*
+*Related: C-8825*
 
 ---
 
@@ -641,7 +640,7 @@ Existing topic reused for Harpole discovery.
 
 Existing topic reused for Kirk's Israel position claims.
 
-*Related: C-12901, C-12912, C-12915*
+*Related: C-8827, C-8846, C-8849*
 
 ---
 
@@ -649,7 +648,7 @@ Existing topic reused for Kirk's Israel position claims.
 
 Tucker Carlson; the host says she spoke with him on the day of the shooting and he spoke of spells controlling Trump.
 
-*Related: C-12903, C-12915, C-12949, C-12950*
+*Related: C-8829, C-8849, C-8899, C-8900*
 
 ---
 
@@ -657,7 +656,7 @@ Tucker Carlson; the host says she spoke with him on the day of the shooting and 
 
 Donald Trump; the host cites his post of Kirk with an Israeli flag and says Tucker Carlson spoke of spells controlling him.
 
-*Related: C-12903, C-12911*
+*Related: C-8829, C-8845*
 
 ---
 
@@ -666,7 +665,7 @@ Donald Trump; the host cites his post of Kirk with an Israeli flag and says Tuck
 Node Type: Organization
 Media company that distributes the Charlie Kirk Show and, per the host, the Josh Hammer show; the host links it to Clock Tower X's FARA filing, Brad Parscale's role, the Trump Jr. deal and its alleged financial difficulties.
 
-*Related: C-12904, C-12905, C-12910, C-12918, C-12919, C-12920, C-12921, C-12933*
+*Related: C-8830, C-8831, C-8844, C-8853, C-8855, C-8856, C-8857, C-8875*
 
 ---
 
@@ -674,7 +673,7 @@ Media company that distributes the Charlie Kirk Show and, per the host, the Josh
 
 Charlie Kirk Show LLC; organization reused for ownership and building claims.
 
-*Related: C-12904, C-12920, C-12921, C-12922, C-12923, C-12924, C-12925*
+*Related: C-8830, C-8856, C-8857, C-8858, C-8859, C-8860, C-8861*
 
 ---
 
@@ -682,7 +681,7 @@ Charlie Kirk Show LLC; organization reused for ownership and building claims.
 
 Rush Limbaugh; the host says Kirk idolized him.
 
-*Related: C-12905*
+*Related: C-8831*
 
 ---
 
@@ -690,7 +689,7 @@ Rush Limbaugh; the host says Kirk idolized him.
 
 Benjamin Netanyahu; subject of the tip about the Van Susteren question and the Hamptons refusal.
 
-*Related: C-12906, C-12926, C-12927*
+*Related: C-8834, C-8862, C-8863*
 
 ---
 
@@ -698,7 +697,7 @@ Benjamin Netanyahu; subject of the tip about the Van Susteren question and the H
 
 Greta Van Susteren; the tip says Netanyahu's office asked her team to pose the question.
 
-*Related: C-12906*
+*Related: C-8834*
 
 ---
 
@@ -706,7 +705,7 @@ Greta Van Susteren; the tip says Netanyahu's office asked her team to pose the q
 
 Show Faith by Works LLC; organization reused.
 
-*Related: C-12907, C-12935*
+*Related: C-8835, C-8878*
 
 ---
 
@@ -714,7 +713,7 @@ Show Faith by Works LLC; organization reused.
 
 Existing topic reused for the geofencing link.
 
-*Related: C-12907*
+*Related: C-8835*
 
 ---
 
@@ -722,7 +721,7 @@ Existing topic reused for the geofencing link.
 
 John F. Kennedy; the host's LBJ remark.
 
-*Related: C-12908*
+*Related: C-8839*
 
 ---
 
@@ -731,7 +730,7 @@ John F. Kennedy; the host's LBJ remark.
 Node Type: Topic
 The host's recurring point that Donald Trump tweeted a photo of Charlie Kirk hugging an Israeli and an American flag when Kirk died.
 
-*Related: C-12911*
+*Related: C-8845*
 
 ---
 
@@ -739,7 +738,7 @@ The host's recurring point that Donald Trump tweeted a photo of Charlie Kirk hug
 
 Megyn Kelly; the host says she was attacked for telling the truth about Kirk's views and was a target of bots.
 
-*Related: C-12913, C-12914, C-12915, C-12961*
+*Related: C-8847, C-8848, C-8849, C-8912*
 
 ---
 
@@ -747,7 +746,7 @@ Megyn Kelly; the host says she was attacked for telling the truth about Kirk's v
 
 Tyler Robinson; the host says she does not think he did it.
 
-*Related: C-12913, C-12965, C-12966*
+*Related: C-8847, C-8916, C-8917*
 
 ---
 
@@ -755,7 +754,7 @@ Tyler Robinson; the host says she does not think he did it.
 
 Existing topic reused for the attacks on Megyn Kelly.
 
-*Related: C-12913, C-12914*
+*Related: C-8847, C-8848*
 
 ---
 
@@ -763,7 +762,7 @@ Existing topic reused for the attacks on Megyn Kelly.
 
 Josh Hammer; the host says he denied Kirk's message, was on the group chat and got a Salem show.
 
-*Related: C-12916, C-12917, C-12918, C-12931, C-12933*
+*Related: C-8850, C-8852, C-8853, C-8873, C-8875*
 
 ---
 
@@ -771,7 +770,7 @@ Josh Hammer; the host says he denied Kirk's message, was on the group chat and g
 
 Existing topic reused for Hammer's text messages.
 
-*Related: C-12916, C-12917*
+*Related: C-8850, C-8852*
 
 ---
 
@@ -780,7 +779,7 @@ Existing topic reused for Hammer's text messages.
 Node Type: Topic
 The host's account, from Kirk and a Kolvet family source, that Kirk and Andrew Kolvet held stakes in the Charlie Kirk Show and that Kolvet allegedly lost millions when Kirk refused Netanyahu.
 
-*Related: C-12920, C-12922, C-12923, C-12927*
+*Related: C-8856, C-8858, C-8859, C-8863*
 
 ---
 
@@ -788,7 +787,7 @@ The host's account, from Kirk and a Kolvet family source, that Kirk and Andrew K
 
 Blake Neff; the host says he is paid at least in part by the Charlie Kirk Show.
 
-*Related: C-12923*
+*Related: C-8859*
 
 ---
 
@@ -796,7 +795,7 @@ Blake Neff; the host says he is paid at least in part by the Charlie Kirk Show.
 
 Widow and TPUSA CEO; the host mentions her office, her first speech and the memorial forgiveness line.
 
-*Related: C-12925, C-12955*
+*Related: C-8861, C-8905*
 
 ---
 
@@ -804,7 +803,7 @@ Widow and TPUSA CEO; the host mentions her office, her first speech and the memo
 
 The Hamptons; place of the alleged Kirk refusal of Netanyahu.
 
-*Related: C-12926*
+*Related: C-8862*
 
 ---
 
@@ -812,7 +811,7 @@ The Hamptons; place of the alleged Kirk refusal of Netanyahu.
 
 Existing topic reused for Kirk's refusal of Netanyahu.
 
-*Related: C-12926*
+*Related: C-8862*
 
 ---
 
@@ -820,7 +819,7 @@ Existing topic reused for Kirk's refusal of Netanyahu.
 
 Existing topic reused for the Hamptons dinner allegation.
 
-*Related: C-12926*
+*Related: C-8862*
 
 ---
 
@@ -828,7 +827,7 @@ Existing topic reused for the Hamptons dinner allegation.
 
 Existing topic reused for the Kolvet lost-millions tip.
 
-*Related: C-12927*
+*Related: C-8863*
 
 ---
 
@@ -836,7 +835,7 @@ Existing topic reused for the Kolvet lost-millions tip.
 
 Existing topic reused for the Netanyahu TPUSA funding offer.
 
-*Related: C-12927*
+*Related: C-8863*
 
 ---
 
@@ -844,7 +843,7 @@ Existing topic reused for the Netanyahu TPUSA funding offer.
 
 Donald Trump Jr.; the host criticizes his reaction to Kirk's death.
 
-*Related: C-12928*
+*Related: C-8864*
 
 ---
 
@@ -852,7 +851,7 @@ Donald Trump Jr.; the host criticizes his reaction to Kirk's death.
 
 Pam Bondi; the host reads the DOJ order on the FARA Unit.
 
-*Related: C-12930*
+*Related: C-8870*
 
 ---
 
@@ -860,7 +859,7 @@ Pam Bondi; the host reads the DOJ order on the FARA Unit.
 
 Existing topic reused for the Hammer pre-death Zoom call.
 
-*Related: C-12931, C-12932*
+*Related: C-8873, C-8874*
 
 ---
 
@@ -868,7 +867,7 @@ Existing topic reused for the Hammer pre-death Zoom call.
 
 Newsweek; distribution partner for the Hammer show.
 
-*Related: C-12933*
+*Related: C-8875*
 
 ---
 
@@ -876,7 +875,7 @@ Newsweek; distribution partner for the Hammer show.
 
 Dhillon Law Group; organization reused.
 
-*Related: C-12934*
+*Related: C-8879*
 
 ---
 
@@ -884,7 +883,7 @@ Dhillon Law Group; organization reused.
 
 Blake Lively; party in the lawsuit the host discusses.
 
-*Related: C-12936, C-12939, C-12941, C-12942, C-12944, C-12945, C-12947*
+*Related: C-8880, C-8883, C-8888, C-8889, C-8893, C-8895, C-8897*
 
 ---
 
@@ -892,7 +891,7 @@ Blake Lively; party in the lawsuit the host discusses.
 
 Courtney Love; the host cites her claim of a Hollywood gang taking publishing rights.
 
-*Related: C-12937*
+*Related: C-8881*
 
 ---
 
@@ -900,7 +899,7 @@ Courtney Love; the host cites her claim of a Hollywood gang taking publishing ri
 
 Existing topic reused for the Hollywood gang claim.
 
-*Related: C-12937, C-12938*
+*Related: C-8881, C-8882*
 
 ---
 
@@ -908,7 +907,7 @@ Existing topic reused for the Hollywood gang claim.
 
 Harvey Weinstein; the host mentions his sale of his company.
 
-*Related: C-12938*
+*Related: C-8882*
 
 ---
 
@@ -916,7 +915,7 @@ Harvey Weinstein; the host mentions his sale of his company.
 
 Justin Baldoni; party in the lawsuit the host discusses.
 
-*Related: C-12939, C-12940, C-12943, C-12944, C-12945, C-12946, C-12947*
+*Related: C-8883, C-8884, C-8891, C-8893, C-8895, C-8896, C-8897*
 
 ---
 
@@ -924,7 +923,7 @@ Justin Baldoni; party in the lawsuit the host discusses.
 
 Bryan Freedman; Baldoni's lawyer who published his response on a website.
 
-*Related: C-12940*
+*Related: C-8884*
 
 ---
 
@@ -932,7 +931,7 @@ Bryan Freedman; Baldoni's lawyer who published his response on a website.
 
 First named by the host at 00:48:28 in episode 99 (spelled Lyman and Leeman in the transcript). Judge who dismissed 10 of 13 Lively claims; described in the Community Notes text the host reads.
 
-*Related: C-12941, C-12942*
+*Related: C-8888, C-8889*
 
 ---
 
@@ -940,7 +939,7 @@ First named by the host at 00:48:28 in episode 99 (spelled Lyman and Leeman in t
 
 Taylor Swift; the host says Lively lost her friendship.
 
-*Related: C-12947*
+*Related: C-8897*
 
 ---
 
@@ -948,7 +947,7 @@ Taylor Swift; the host says Lively lost her friendship.
 
 Daily Wire; organization reused for the court-system and Crain & Co claims.
 
-*Related: C-12948, C-12961, C-12963*
+*Related: C-8898, C-8912, C-8914*
 
 ---
 
@@ -956,7 +955,7 @@ Daily Wire; organization reused for the court-system and Crain & Co claims.
 
 Existing topic reused for the Daily Wire pattern against the host.
 
-*Related: C-12948*
+*Related: C-8898*
 
 ---
 
@@ -964,7 +963,7 @@ Existing topic reused for the Daily Wire pattern against the host.
 
 Justin Streiff; the host says he spoke to her husband on the day and told her he organized the planes.
 
-*Related: C-12949, C-12958*
+*Related: C-8899, C-8909*
 
 ---
 
@@ -972,7 +971,7 @@ Justin Streiff; the host says he spoke to her husband on the day and told her he
 
 Existing topic reused for Justin Streiff's post-assassination phone call.
 
-*Related: C-12949*
+*Related: C-8899*
 
 ---
 
@@ -980,7 +979,7 @@ Existing topic reused for Justin Streiff's post-assassination phone call.
 
 Terryl Farnsworth; the host credits him, as 'Terryl Farnsworth', with exposing the no-neck story.
 
-*Related: C-12954*
+*Related: C-8904*
 
 ---
 
@@ -988,7 +987,7 @@ Terryl Farnsworth; the host credits him, as 'Terryl Farnsworth', with exposing t
 
 Mikey McCoy; the host says he was a mess at the hospital and that TPUSA's flew-into-action story is false.
 
-*Related: C-12955, C-12956, C-12957, C-12958, C-12959*
+*Related: C-8905, C-8907, C-8908, C-8909, C-8910*
 
 ---
 
@@ -996,7 +995,7 @@ Mikey McCoy; the host says he was a mess at the hospital and that TPUSA's flew-i
 
 Existing topic reused for Mikey McCoy's behavior on September 10.
 
-*Related: C-12956, C-12957*
+*Related: C-8907, C-8908*
 
 ---
 
@@ -1005,7 +1004,7 @@ Existing topic reused for Mikey McCoy's behavior on September 10.
 Node Type: Topic
 The host's claim that Israel's propaganda spending includes bot armies, fake accounts and mass emails used to flood comment sections and event hosts.
 
-*Related: C-12960, C-12961, C-12962*
+*Related: C-8911, C-8912, C-8913*
 
 ---
 
@@ -1013,7 +1012,7 @@ The host's claim that Israel's propaganda spending includes bot armies, fake acc
 
 Existing topic reused for Erika's forgiveness statement.
 
-*Related: C-12965*
+*Related: C-8916*
 
 ---
 
@@ -1021,7 +1020,7 @@ Existing topic reused for Erika's forgiveness statement.
 
 Tyler Robinson Evidence Gaps; existing topic reused.
 
-*Related: C-12966*
+*Related: C-8917*
 
 ---
 
@@ -1030,13 +1029,13 @@ Tyler Robinson Evidence Gaps; existing topic reused.
 Node Type: Topic
 The viewer theory that Charlie Kirk faked his death, which the host rejects based on one source and the amount of blood in the car.
 
-*Related: C-12967, C-12968*
+*Related: C-8918, C-8919*
 
 ---
 
 ## V. Claim Register
 
-**C-2856** Charlie Kirk's 2018 message asserted he dreamed of being killed
+**C-8822** Charlie Kirk's 2018 message asserted he dreamed of being killed
 
 Claim Timestamp: 00:03:06
 
@@ -1050,7 +1049,7 @@ Investigative Direction: Obtain the original 2018 text record or corroborating s
 
 ---
 
-**C-2857** Charlie Kirk stated "I'm not really afraid of it" regarding his own death
+**C-8823** Charlie Kirk stated "I'm not really afraid of it" regarding his own death
 
 Claim Timestamp: 00:03:06
 
@@ -1064,7 +1063,7 @@ Investigative Direction: Corroborate the second message via original device reco
 
 ---
 
-**C-2858** Baron Coleman asserted the situation constitutes a spiritual war with demonic forces
+**C-8826** Baron Coleman asserted the situation constitutes a spiritual war with demonic forces
 
 Claim Timestamp: 00:07:45
 
@@ -1079,7 +1078,7 @@ Investigative Direction: Obtain full unedited Coleman segment; verify no other n
 
 ---
 
-**C-2859** Netanyahu asserted Israel did not kill Charlie Kirk on September 12, 2025
+**C-8832** Netanyahu asserted Israel did not kill Charlie Kirk on September 12, 2025
 
 Claim Timestamp: 00:12:44
 
@@ -1094,7 +1093,7 @@ Investigative Direction: Obtain full unedited Van Susteren segment and verify wh
 
 ---
 
-**C-2860** Greta Van Susteren raised the Israel-Kirk question in the September 12, 2025 interview
+**C-8833** Greta Van Susteren raised the Israel-Kirk question in the September 12, 2025 interview
 
 Claim Timestamp: 00:12:44
 
@@ -1109,7 +1108,7 @@ Investigative Direction: Cross-check segment against Van Susteren's own post-sho
 
 ---
 
-**C-2861** Host Says Israeli Foreign Ministry Contracted Show Faith by Works LLC via Havas Media on September 18, 2025
+**C-8836** Host Says Israeli Foreign Ministry Contracted Show Faith by Works LLC via Havas Media on September 18, 2025
 
 Claim Timestamp: 00:14:07
 
@@ -1123,7 +1122,7 @@ Investigative Direction: Pull the FARA filing directly from DOJ FARA public regi
 
 ---
 
-**C-2862** Show Faith by Works LLC plans geofencing and church-targeted propaganda
+**C-8837** Show Faith by Works LLC plans geofencing and church-targeted propaganda
 
 Claim Timestamp: 00:14:08
 
@@ -1137,7 +1136,7 @@ Investigative Direction: Compare filing scope to actual deployed activities via 
 
 ---
 
-**C-2863** Host Says Havas Media Contracted FARA-Registered Clock Tower X LLC on September 18
+**C-8838** Host Says Havas Media Contracted FARA-Registered Clock Tower X LLC on September 18
 
 Claim Timestamp: 00:15:34
 
@@ -1151,7 +1150,7 @@ Investigative Direction: Pull original FARA filing from DOJ registry; confirm co
 
 ---
 
-**C-2864** Clock Tower X LLC is run by Brad Parscale
+**C-8841** Clock Tower X LLC is run by Brad Parscale
 
 Claim Timestamp: 00:16:57
 
@@ -1166,7 +1165,7 @@ Investigative Direction: Verify corporate registration records for Clock Tower X
 
 ---
 
-**C-2865** Clock Tower X FARA filing lists Salem Radio Media Network as a target platform
+**C-8842** Clock Tower X FARA filing lists Salem Radio Media Network as a target platform
 
 Claim Timestamp: 00:16:57
 
@@ -1180,7 +1179,7 @@ Investigative Direction: Obtain full filing exhibit; verify exact quoted languag
 
 ---
 
-**C-2866** Host Says Brad Parscale Became Chief Strategy Officer of Salem Media Network in January
+**C-8843** Host Says Brad Parscale Became Chief Strategy Officer of Salem Media Network in January
 
 Claim Timestamp: 00:16:57
 
@@ -1195,7 +1194,7 @@ Investigative Direction: Cross-check Salem press releases and LinkedIn / corpora
 
 ---
 
-**C-2867** Josh Hammer show displays low Newsweek view counts (~355–665)
+**C-8854** Josh Hammer show displays low Newsweek view counts (~355–665)
 
 Claim Timestamp: 00:24:59
 
@@ -1210,7 +1209,7 @@ Investigative Direction: Capture live Newsweek view counts at multiple points in
 
 ---
 
-**C-2868** Salem Media announced landmark deal with Donald Trump Jr. and Lara Trump in April 2025
+**C-8865** Salem Media announced landmark deal with Donald Trump Jr. and Lara Trump in April 2025
 
 Claim Timestamp: 00:31:21
 
@@ -1225,7 +1224,7 @@ Investigative Direction: Obtain Salem's official press release and SEC / corpora
 
 ---
 
-**C-2869** Salem Media acquired 30% stake in MxM News app co-owned by Donald Trump Jr.
+**C-8866** Salem Media acquired 30% stake in MxM News app co-owned by Donald Trump Jr.
 
 Claim Timestamp: 00:31:50
 
@@ -1240,7 +1239,7 @@ Investigative Direction: Verify MxM News corporate filings; confirm 30% acquisit
 
 ---
 
-**C-2870** Host Says Pam Bondi Disbanded the DOJ Foreign Influence Task Force on February 5, 2025
+**C-8867** Host Says Pam Bondi Disbanded the DOJ Foreign Influence Task Force on February 5, 2025
 
 Claim Timestamp: 00:32:50
 
@@ -1255,7 +1254,7 @@ Investigative Direction: Obtain DOJ memorandum directly; confirm effective date 
 
 ---
 
-**C-2871** Disbanding limits DOJ from criminally charging PR work for foreign nations
+**C-8868** Disbanding limits DOJ from criminally charging PR work for foreign nations
 
 Claim Timestamp: 00:34:17
 
@@ -1270,7 +1269,7 @@ Investigative Direction: Compare DOJ internal guidance before and after February
 
 ---
 
-**C-2872** Harmeet Dhillon sworn in as Assistant AG for Civil Rights on April 7, 2025
+**C-8871** Harmeet Dhillon sworn in as Assistant AG for Civil Rights on April 7, 2025
 
 Claim Timestamp: 00:36:54
 
@@ -1285,7 +1284,7 @@ Investigative Direction: Confirm via DOJ announcement and Senate confirmation re
 
 ---
 
-**C-2873** Dhillon Law Group drafted FARA paperwork for Clock Tower X and Show Faith by Works
+**C-8872** Dhillon Law Group drafted FARA paperwork for Clock Tower X and Show Faith by Works
 
 Claim Timestamp: 00:36:54
 
@@ -1299,7 +1298,7 @@ Investigative Direction: Verify via FARA filing registrant of record and any dis
 
 ---
 
-**C-2874** Host Says Charlie Kirk Sent September 9, 2025 Group Message Declaring Departure from Pro-Israel Cause
+**C-8851** Host Says Charlie Kirk Sent September 9, 2025 Group Message Declaring Departure from Pro-Israel Cause
 
 Claim Timestamp: 00:22:23
 
@@ -1313,7 +1312,7 @@ Investigative Direction: Obtain the original group text record; verify the parti
 
 ---
 
-**C-2875** Charlie Kirk's memorial was geofenced on September 21, 2025
+**C-8876** Charlie Kirk's memorial was geofenced on September 21, 2025
 
 Claim Timestamp: 00:38:35
 
@@ -1328,7 +1327,7 @@ Investigative Direction: Cross-check with FARA activity reports; obtain any devi
 
 ---
 
-**C-2876** Host Says Project 545 Represents a $545 Million Israeli Propaganda Initiative
+**C-8877** Host Says Project 545 Represents a $545 Million Israeli Propaganda Initiative
 
 Claim Timestamp: 00:39:40
 
@@ -1342,7 +1341,7 @@ Investigative Direction: Locate primary source for Project 545 budget figure; cr
 
 ---
 
-**C-2877** April 2 ruling dismissed 10 of 13 Blake Lively claims against Justin Baldoni
+**C-8885** April 2 ruling dismissed 10 of 13 Blake Lively claims against Justin Baldoni
 
 Claim Timestamp: 00:46:55
 
@@ -1357,7 +1356,7 @@ Investigative Direction: Obtain the actual April 2 court order; verify which cla
 
 ---
 
-**C-2878** Blake Lively issued statement claiming the ruling supports her case
+**C-8886** Blake Lively issued statement claiming the ruling supports her case
 
 Claim Timestamp: 00:47:29
 
@@ -1372,7 +1371,7 @@ Investigative Direction: Verify against Lively's official public statement archi
 
 ---
 
-**C-2879** Host Says Community Notes Flagged Blake Lively's Statement as Misleading by Omission
+**C-8887** Host Says Community Notes Flagged Blake Lively's Statement as Misleading by Omission
 
 Claim Timestamp: 00:48:28
 
@@ -1387,7 +1386,7 @@ Investigative Direction: Obtain screenshot of the Community Notes annotation; ca
 
 ---
 
-**C-2880** Host Says Deadpool & Wolverine Included "Nice Pool" Character Parodying Justin Baldoni
+**C-8890** Host Says Deadpool & Wolverine Included "Nice Pool" Character Parodying Justin Baldoni
 
 Claim Timestamp: 00:50:04
 
@@ -1402,7 +1401,7 @@ Investigative Direction: Verify via official film credits and supplementary mark
 
 ---
 
-**C-2881** Host Says Deadpool Deleted Scenes Continued Baldoni Mockery
+**C-8892** Host Says Deadpool Deleted Scenes Continued Baldoni Mockery
 
 Claim Timestamp: 00:50:30
 
@@ -1417,7 +1416,7 @@ Investigative Direction: Obtain deleted scene footage or trade press reporting o
 
 ---
 
-**C-2882** Host Says Justin Baldoni Watched It Ends With Us Premiere from Theater Basement
+**C-8894** Host Says Justin Baldoni Watched It Ends With Us Premiere from Theater Basement
 
 Claim Timestamp: 00:51:57
 
@@ -1432,7 +1431,7 @@ Investigative Direction: Obtain independent eyewitness corroboration and any pre
 
 ---
 
-**C-2883** Host Says Some Credit Mikey McCoy With Message Urging Her to Look Into Andrew Kolvet
+**C-8906** Host Says Some Credit Mikey McCoy With Message Urging Her to Look Into Andrew Kolvet
 
 Claim Timestamp: 00:58:45
 
@@ -1447,7 +1446,7 @@ Investigative Direction: Obtain the original McCoy message screenshot; verify th
 
 ---
 
-**C-12896** Host Says Baron Coleman Is Number 33 on a Spotify Chart
+**C-8819** Host Says Baron Coleman Is Number 33 on a Spotify Chart
 
 Claim Timestamp: 00:00:01
 
@@ -1462,7 +1461,7 @@ Investigative Direction: Check the Spotify podcast chart for the date of the epi
 
 ---
 
-**C-12897** Host Says Israel Will Raise Its US Propaganda Spend to Almost a Billion Dollars This Year
+**C-8820** Host Says Israel Will Raise Its US Propaganda Spend to Almost a Billion Dollars This Year
 
 Claim Timestamp: 00:00:53
 
@@ -1478,7 +1477,7 @@ Investigative Direction: Find the primary reporting or budget document behind th
 
 ---
 
-**C-12898** Host Says She Pulled Her Kids From School the Week Before Kirk's Death
+**C-8821** Host Says She Pulled Her Kids From School the Week Before Kirk's Death
 
 Claim Timestamp: 00:01:49
 
@@ -1494,7 +1493,7 @@ Investigative Direction: Look for a contemporaneous message, post or witness fro
 
 ---
 
-**C-12899** Host Says Kirk Texted Kolvet and Flood the Night Before That They Were Going to Kill Him
+**C-8824** Host Says Kirk Texted Kolvet and Flood the Night Before That They Were Going to Kill Him
 
 Claim Timestamp: 00:04:15
 
@@ -1505,13 +1504,13 @@ Transcript Snippet: He texted Andrew Kolvet, he texted Dan Flood, and he said, "
 Anchored Artifacts: A-3232.1
 Mentions: N-1, N-14, N-270, N-3
 Related Nodes: N-10340
-Supports: C-11109
+Supports: C-3895
 Tags: relevance:core
 Investigative Direction: Obtain the text thread from Kolvet's and Flood's phones (or the Harpole lawsuit discovery) and confirm date, time and exact wording.
 
 ---
 
-**C-12900** Host Says TPUSA Wants Public to Believe Kirk Meant a Trans Person and Hopes the Harpole Lawsuit Will Show Who He Meant
+**C-8825** Host Says TPUSA Wants Public to Believe Kirk Meant a Trans Person and Hopes the Harpole Lawsuit Will Show Who He Meant
 
 Claim Timestamp: 00:04:15
 
@@ -1527,7 +1526,7 @@ Investigative Direction: Review TPUSA's public explanation of the text and the H
 
 ---
 
-**C-12901** Coleman Clip Says Kirk Recognized the Side He Supported Was Dark and Was Trying to Distance Himself When Killed
+**C-8827** Coleman Clip Says Kirk Recognized the Side He Supported Was Dark and Was Trying to Distance Himself When Killed
 
 Claim Timestamp: 00:08:20
 
@@ -1543,7 +1542,7 @@ Investigative Direction: Compare with Kirk's own written statements about leavin
 
 ---
 
-**C-12902** Coleman Clip Says Kirk Was Killed for Turning His Back on the Prince of Darkness
+**C-8828** Coleman Clip Says Kirk Was Killed for Turning His Back on the Prince of Darkness
 
 Claim Timestamp: 00:09:36
 
@@ -1558,7 +1557,7 @@ Investigative Direction: None available beyond Coleman's stated belief; record a
 
 ---
 
-**C-12903** Host Says Tucker Carlson Used Words Like Spells About What Controls Trump
+**C-8829** Host Says Tucker Carlson Used Words Like Spells About What Controls Trump
 
 Claim Timestamp: 00:09:36
 
@@ -1573,7 +1572,7 @@ Investigative Direction: Locate the Carlson segment and his exact wording.
 
 ---
 
-**C-12904** Host Says the Charlie Kirk Show Is Hosted on Salem Media
+**C-8830** Host Says the Charlie Kirk Show Is Hosted on Salem Media
 
 Claim Timestamp: 00:12:03
 
@@ -1589,7 +1588,7 @@ Investigative Direction: Confirm the distribution agreement between the Charlie 
 
 ---
 
-**C-12905** Host Says Kirk Adored Rush Limbaugh and Wanted to Host Three Hours of Radio Daily
+**C-8831** Host Says Kirk Adored Rush Limbaugh and Wanted to Host Three Hours of Radio Daily
 
 Claim Timestamp: 00:12:03
 
@@ -1605,7 +1604,7 @@ Investigative Direction: Check Kirk's public interviews for statements about Lim
 
 ---
 
-**C-12906** Host Says a Tip Said Netanyahu's Office Asked Van Susteren's Team to Pose the Kirk Question
+**C-8834** Host Says a Tip Said Netanyahu's Office Asked Van Susteren's Team to Pose the Kirk Question
 
 Claim Timestamp: 00:13:49
 
@@ -1620,7 +1619,7 @@ Investigative Direction: Ask Van Susteren and her producers whether the question
 
 ---
 
-**C-12907** Host Says Show Faith by Works Would Send Anti-Palestinian Messaging and Run October 7th Experiences in Church Parking Lots
+**C-8835** Host Says Show Faith by Works Would Send Anti-Palestinian Messaging and Run October 7th Experiences in Church Parking Lots
 
 Claim Timestamp: 00:13:49
 
@@ -1631,13 +1630,13 @@ Transcript Snippet: they're going to give you pro-Israel and anti-Palestinian me
 Anchored Artifacts: A-2048.1, A-2048.2
 Mentions: 
 Related Nodes: N-10914, N-10653
-Supports: C-2862
+Supports: C-8837
 Tags: relevance:context
 Investigative Direction: Read the Show Faith by Works FARA exhibit to confirm the scope of messaging and the October 7th event component.
 
 ---
 
-**C-12908** Host Says LBJ Reversed Every JFK Policy Against Israel After Taking Office
+**C-8839** Host Says LBJ Reversed Every JFK Policy Against Israel After Taking Office
 
 Claim Timestamp: 00:16:06
 
@@ -1652,7 +1651,7 @@ Investigative Direction: Historical question outside the case; compare with stan
 
 ---
 
-**C-12909** Host Says She First Met Brad Parscale at Lunch With Charlie Kirk
+**C-8840** Host Says She First Met Brad Parscale at Lunch With Charlie Kirk
 
 Claim Timestamp: 00:16:06
 
@@ -1668,7 +1667,7 @@ Investigative Direction: No document needed; host recollection of a private lunc
 
 ---
 
-**C-12910** Host Says Salem's Documents Show a Financial Relationship Structured to Benefit Israel
+**C-8844** Host Says Salem's Documents Show a Financial Relationship Structured to Benefit Israel
 
 Claim Timestamp: 00:18:15
 
@@ -1684,7 +1683,7 @@ Investigative Direction: Read the Clock Tower X FARA exhibits for any contract n
 
 ---
 
-**C-12911** Host Says Trump Tweeted a Photo of Kirk Hugging an Israeli and an American Flag When He Died
+**C-8845** Host Says Trump Tweeted a Photo of Kirk Hugging an Israeli and an American Flag When He Died
 
 Claim Timestamp: 00:19:56
 
@@ -1695,13 +1694,13 @@ Transcript Snippet: He instead when Charlie died decided to tweet out a photo of
 Anchored Artifacts: A-3233.1
 Mentions: N-5, N-1
 Related Nodes: N-11352
-Supports: C-10654
+Supports: C-71
 Tags: relevance:core
 Investigative Direction: Pull Trump's September 10, 2025 post and its image from Truth Social or X archives.
 
 ---
 
-**C-12912** Host Says Kirk Changing His Mind on Israel Was a Secret They Were Desperate to Protect
+**C-8846** Host Says Kirk Changing His Mind on Israel Was a Secret They Were Desperate to Protect
 
 Claim Timestamp: 00:20:45
 
@@ -1712,13 +1711,13 @@ Transcript Snippet: the fact, and it is a fact, that Charlie changed his mind on
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10148
-Supports: C-9309
+Supports: C-1138
 Tags: relevance:core
 Investigative Direction: Compare the group text of September 9 and other witness accounts of Kirk's stated position.
 
 ---
 
-**C-12913** Host Says Megyn Kelly Was Pro-Israel and Said Tyler Robinson on a Rooftop Looked Possible
+**C-8847** Host Says Megyn Kelly Was Pro-Israel and Said Tyler Robinson on a Rooftop Looked Possible
 
 Claim Timestamp: 00:20:45
 
@@ -1734,7 +1733,7 @@ Investigative Direction: Check Kelly's broadcast and social posts from September
 
 ---
 
-**C-12914** Host Says Kelly Was Attacked for Telling the Truth About Kirk's Shifting Views on Israel
+**C-8848** Host Says Kelly Was Attacked for Telling the Truth About Kirk's Shifting Views on Israel
 
 Claim Timestamp: 00:20:45
 
@@ -1750,7 +1749,7 @@ Investigative Direction: Compare the timing of attacks on Kelly with her stateme
 
 ---
 
-**C-12915** Host Says Only Tucker Carlson and Megyn Kelly Backed Her Account That Kirk Changed His Mind on Israel
+**C-8849** Host Says Only Tucker Carlson and Megyn Kelly Backed Her Account That Kirk Changed His Mind on Israel
 
 Claim Timestamp: 00:21:45
 
@@ -1761,13 +1760,13 @@ Transcript Snippet: I had effectively two people that were willing to back me up
 Anchored Artifacts: 
 Mentions: N-22, N-46, N-1, N-3
 Related Nodes: N-10148
-Supports: C-6474
+Supports: C-1354
 Tags: relevance:core
 Investigative Direction: Compare Carlson's and Kelly's own on-air statements describing conversations with Kirk.
 
 ---
 
-**C-12916** Host Says Josh Hammer Vociferously Denied Kirk's Message in the Days After His Death
+**C-8850** Host Says Josh Hammer Vociferously Denied Kirk's Message in the Days After His Death
 
 Claim Timestamp: 00:21:45
 
@@ -1783,7 +1782,7 @@ Investigative Direction: Collect Hammer's posts and interviews from September 10
 
 ---
 
-**C-12917** Host Says Hammer and an Israel-Based Rabbi Were in the Group Chat and Lied Explicitly
+**C-8852** Host Says Hammer and an Israel-Based Rabbi Were in the Group Chat and Lied Explicitly
 
 Claim Timestamp: 00:22:23
 
@@ -1794,13 +1793,13 @@ Transcript Snippet: which both both Josh Hammer and an Israeli-based rabbi were 
 Anchored Artifacts: A-3234.1
 Mentions: N-55, N-3
 Related Nodes: N-10187
-Supports: C-1377
+Supports: C-1352
 Tags: relevance:core
 Investigative Direction: Obtain the group chat participant list from the screenshots the host published and compare with Hammer's public denials.
 
 ---
 
-**C-12918** Host Says Josh Hammer Was Announced October 15 as Getting a Show on the Salem Podcast Network
+**C-8853** Host Says Josh Hammer Was Announced October 15 as Getting a Show on the Salem Podcast Network
 
 Claim Timestamp: 00:23:12
 
@@ -1816,7 +1815,7 @@ Investigative Direction: Find the Salem or Newsweek announcement of the Hammer s
 
 ---
 
-**C-12919** Host Says She Recalls Salem Media Struggling Financially and Looking for a Buyer
+**C-8855** Host Says She Recalls Salem Media Struggling Financially and Looking for a Buyer
 
 Claim Timestamp: 00:25:57
 
@@ -1832,7 +1831,7 @@ Investigative Direction: Review Salem Media Group's SEC filings and press covera
 
 ---
 
-**C-12920** Host Says Kirk Told Her He Would Own Part of His Show Under the Salem Deal
+**C-8856** Host Says Kirk Told Her He Would Own Part of His Show Under the Salem Deal
 
 Claim Timestamp: 00:26:52
 
@@ -1848,7 +1847,7 @@ Investigative Direction: Obtain the Charlie Kirk Show LLC ownership records and 
 
 ---
 
-**C-12921** Host Says Kirk Told Her His Was the Most Profitable Show at Salem
+**C-8857** Host Says Kirk Told Her His Was the Most Profitable Show at Salem
 
 Claim Timestamp: 00:26:52
 
@@ -1864,7 +1863,7 @@ Investigative Direction: Compare with Salem's segment financials; the host herse
 
 ---
 
-**C-12922** Host Says Kirk Told Her Kolvet Owned a Stake in the Charlie Kirk Show
+**C-8858** Host Says Kirk Told Her Kolvet Owned a Stake in the Charlie Kirk Show
 
 Claim Timestamp: 00:27:47
 
@@ -1880,7 +1879,7 @@ Investigative Direction: Obtain Charlie Kirk Show LLC ownership or profit-intere
 
 ---
 
-**C-12923** Host Says Blake Neff and Kolvet Are Paid at Least in Part by the Charlie Kirk Show
+**C-8859** Host Says Blake Neff and Kolvet Are Paid at Least in Part by the Charlie Kirk Show
 
 Claim Timestamp: 00:27:47
 
@@ -1896,7 +1895,7 @@ Investigative Direction: Find Neff's statement about who pays him and payroll or
 
 ---
 
-**C-12924** Host Says the Charlie Kirk Show Team Has Its Own Building on the TPUSA Campus
+**C-8860** Host Says the Charlie Kirk Show Team Has Its Own Building on the TPUSA Campus
 
 Claim Timestamp: 00:27:47
 
@@ -1912,7 +1911,7 @@ Investigative Direction: Check property records and campus descriptions for the 
 
 ---
 
-**C-12925** Host Says Erika Kirk Took an Office in the Show's Building Before Charlie Died
+**C-8861** Host Says Erika Kirk Took an Office in the Show's Building Before Charlie Died
 
 Claim Timestamp: 00:27:47
 
@@ -1928,7 +1927,7 @@ Investigative Direction: Ask TPUSA when Erika first used an office in the buildi
 
 ---
 
-**C-12926** Host Says a Family Source Reports Kolvet Told His Family Kirk Said No to Netanyahu in the Hamptons
+**C-8862** Host Says a Family Source Reports Kolvet Told His Family Kirk Said No to Netanyahu in the Hamptons
 
 Claim Timestamp: 00:28:36
 
@@ -1944,7 +1943,7 @@ Investigative Direction: Identify the family source; compare the date with the H
 
 ---
 
-**C-12927** Host Says Kolvet Told Family and Friends He Lost Millions When Kirk Refused Netanyahu
+**C-8863** Host Says Kolvet Told Family and Friends He Lost Millions When Kirk Refused Netanyahu
 
 Claim Timestamp: 00:29:32
 
@@ -1955,13 +1954,13 @@ Transcript Snippet: Andrew told allegedly, I'll say allegedly here, told his clo
 Anchored Artifacts: 
 Mentions: N-14, N-1, N-36, N-3
 Related Nodes: N-10305, N-10342, N-11353
-Supports: C-5518, C-6787
+Supports: C-5370, C-4500
 Tags: relevance:core
 Investigative Direction: Identify the family and friends who heard it; compare with earlier tips and with any documents on Kolvet's income or equity.
 
 ---
 
-**C-12928** Host Says Donald Trump Jr. Had an Almost Non-Reaction to Kirk's Death
+**C-8864** Host Says Donald Trump Jr. Had an Almost Non-Reaction to Kirk's Death
 
 Claim Timestamp: 00:30:23
 
@@ -1976,7 +1975,7 @@ Investigative Direction: Collect Trump Jr.'s public posts and interviews from Se
 
 ---
 
-**C-12929** Ian Carroll Says the Knesset Had a 2018 Plan to Skirt FARA
+**C-8869** Ian Carroll Says the Knesset Had a 2018 Plan to Skirt FARA
 
 Claim Timestamp: 00:34:17
 
@@ -1992,7 +1991,7 @@ Investigative Direction: Identify the Knesset 2018 plan Carroll refers to (and a
 
 ---
 
-**C-12930** DOJ Order Says the FARA Unit Shall Focus on Civil Enforcement, Regulatory Initiatives and Public Guidance
+**C-8870** DOJ Order Says the FARA Unit Shall Focus on Civil Enforcement, Regulatory Initiatives and Public Guidance
 
 Claim Timestamp: 00:35:09
 
@@ -2008,7 +2007,7 @@ Investigative Direction: Pull the February 5, 2025 Attorney General memorandum a
 
 ---
 
-**C-12931** Host's Timeline Says Kirk Had a Zoom Call With Josh Hammer and an Israeli Rabbi After the September 9 Message
+**C-8873** Host's Timeline Says Kirk Had a Zoom Call With Josh Hammer and an Israeli Rabbi After the September 9 Message
 
 Claim Timestamp: 00:37:55
 
@@ -2019,13 +2018,13 @@ Transcript Snippet: Afterward, he has a Zoom call with Josh Hammer and a rabbi f
 Anchored Artifacts: A-2054.1
 Mentions: N-1, N-55
 Related Nodes: N-10169
-Supports: C-9324
+Supports: C-1511
 Tags: relevance:core
 Investigative Direction: Obtain Hammer's account of the call, the Zoom invitation and calendar records, and Rabbi Wolicki's statements (compare episodes 16 and 17).
 
 ---
 
-**C-12932** Host's Timeline Says Kirk Sent Messages a Couple of Hours Later Saying They Were Going to Kill Him
+**C-8874** Host's Timeline Says Kirk Sent Messages a Couple of Hours Later Saying They Were Going to Kill Him
 
 Claim Timestamp: 00:37:55
 
@@ -2036,13 +2035,13 @@ Transcript Snippet: Sometime later that evening, couple hours later, he's going 
 Anchored Artifacts: A-2054.1
 Mentions: N-1
 Related Nodes: N-10340, N-10169
-Supports: C-9358, C-11109
+Supports: C-1559, C-3895
 Tags: relevance:core
 Investigative Direction: Obtain message timestamps from the recipients' phones to fix the interval between the Zoom call and the texts.
 
 ---
 
-**C-12933** Host Says the Josh Hammer Show Joined the Salem Podcast Network October 23 Through a Newsweek Partnership
+**C-8875** Host Says the Josh Hammer Show Joined the Salem Podcast Network October 23 Through a Newsweek Partnership
 
 Claim Timestamp: 00:37:55
 
@@ -2058,7 +2057,7 @@ Investigative Direction: Compare the Salem and Newsweek press releases for the a
 
 ---
 
-**C-12934** Host Says Dhillon Law Group Has Been Privately Suing Her for Two Years
+**C-8879** Host Says Dhillon Law Group Has Been Privately Suing Her for Two Years
 
 Claim Timestamp: 00:39:56
 
@@ -2074,7 +2073,7 @@ Investigative Direction: Search federal and state dockets for matters against th
 
 ---
 
-**C-12935** Host Says Show Faith by Works Will Target Churches and Schools
+**C-8878** Host Says Show Faith by Works Will Target Churches and Schools
 
 Claim Timestamp: 00:39:40
 
@@ -2090,7 +2089,7 @@ Investigative Direction: Read the Show Faith by Works filing scope for any refer
 
 ---
 
-**C-12936** Host Says Lively Brought In a Crisis PR Firm With a Former CIA Agent
+**C-8880** Host Says Lively Brought In a Crisis PR Firm With a Former CIA Agent
 
 Claim Timestamp: 00:43:34
 
@@ -2106,7 +2105,7 @@ Investigative Direction: Identify which firm and which person the host means (th
 
 ---
 
-**C-12937** Host Relays Courtney Love's Claim of a Hollywood Gang Taking Publishing Rights
+**C-8881** Host Relays Courtney Love's Claim of a Hollywood Gang Taking Publishing Rights
 
 Claim Timestamp: 00:43:34
 
@@ -2122,7 +2121,7 @@ Investigative Direction: Compare with Love's public statements and the host's ea
 
 ---
 
-**C-12938** Host Says the Weinstein Case May Have Involved Publishing Rights and He Had to Sell His Company
+**C-8882** Host Says the Weinstein Case May Have Involved Publishing Rights and He Had to Sell His Company
 
 Claim Timestamp: 00:44:45
 
@@ -2138,7 +2137,7 @@ Investigative Direction: Check the 2018 sale of the Weinstein Company and the ho
 
 ---
 
-**C-12939** Host Says Lively First Filed a California Civil Rights Employment-Type Complaint
+**C-8883** Host Says Lively First Filed a California Civil Rights Employment-Type Complaint
 
 Claim Timestamp: 00:45:00
 
@@ -2154,7 +2153,7 @@ Investigative Direction: Obtain the California Civil Rights Department complaint
 
 ---
 
-**C-12940** Host Says Freedman Published His Response Filing on a Website
+**C-8884** Host Says Freedman Published His Response Filing on a Website
 
 Claim Timestamp: 00:45:45
 
@@ -2170,7 +2169,7 @@ Investigative Direction: Locate Freedman's response filing and the associated we
 
 ---
 
-**C-12941** Community Notes Text Says the Judge Did Not Find Lively an Independent Contractor Under Title VII
+**C-8888** Community Notes Text Says the Judge Did Not Find Lively an Independent Contractor Under Title VII
 
 Claim Timestamp: 00:48:28
 
@@ -2186,7 +2185,7 @@ Investigative Direction: Read Judge Liman's April 2 opinion on the Title VII and
 
 ---
 
-**C-12942** Community Notes Text Says the Conduct Was Not Beyond What Might Be Expected Between Two Characters
+**C-8889** Community Notes Text Says the Conduct Was Not Beyond What Might Be Expected Between Two Characters
 
 Claim Timestamp: 00:48:28
 
@@ -2202,7 +2201,7 @@ Investigative Direction: Read the relevant passage of the April 2 order and comp
 
 ---
 
-**C-12943** Host Says the Book Artwork for the Deadpool Film Included a Passive-Aggressive Passage About Nice Pool
+**C-8891** Host Says the Book Artwork for the Deadpool Film Included a Passive-Aggressive Passage About Nice Pool
 
 Claim Timestamp: 00:50:04
 
@@ -2218,7 +2217,7 @@ Investigative Direction: Obtain the artwork and the passage text from the film's
 
 ---
 
-**C-12944** Host Says Reynolds Used an It Ends With Us Promo to Mock Baldoni With Hugh Jackman
+**C-8893** Host Says Reynolds Used an It Ends With Us Promo to Mock Baldoni With Hugh Jackman
 
 Claim Timestamp: 00:51:02
 
@@ -2234,7 +2233,7 @@ Investigative Direction: Find the promotional video and review its content.
 
 ---
 
-**C-12945** Host Says Lively Said She Could Not Be in the Same Theater as Baldoni at His Premiere
+**C-8895** Host Says Lively Said She Could Not Be in the Same Theater as Baldoni at His Premiere
 
 Claim Timestamp: 00:51:57
 
@@ -2250,7 +2249,7 @@ Investigative Direction: Check premiere reporting and the lawsuit record for sea
 
 ---
 
-**C-12946** Host Says She Thinks Baldoni Ended Up in the Hospital From the Stress
+**C-8896** Host Says She Thinks Baldoni Ended Up in the Hospital From the Stress
 
 Claim Timestamp: 00:51:57
 
@@ -2261,13 +2260,13 @@ Transcript Snippet: I think he did it he did actually end up in the hospital fro
 Anchored Artifacts: 
 Mentions: N-485
 Related Nodes: N-10661
-Supports: C-11146
+Supports: C-5478
 Tags: relevance:tangential
 Investigative Direction: Look for a statement from Baldoni or his representatives; the host hedges with 'I think'.
 
 ---
 
-**C-12947** Host Says the Lively Lawsuit Settled About Two Weeks Before the Scheduled Trial
+**C-8897** Host Says the Lively Lawsuit Settled About Two Weeks Before the Scheduled Trial
 
 Claim Timestamp: 00:52:46
 
@@ -2283,7 +2282,7 @@ Investigative Direction: Check the docket for the settlement notice date against
 
 ---
 
-**C-12948** Host Says She Has Experienced Private Harassment Through the Courts From the Daily Wire
+**C-8898** Host Says She Has Experienced Private Harassment Through the Courts From the Daily Wire
 
 Claim Timestamp: 00:53:40
 
@@ -2299,7 +2298,7 @@ Investigative Direction: Identify the arbitration and court proceedings between 
 
 ---
 
-**C-12949** Host Says Her Husband Spoke to Justin Streiff While She Spoke to Kolvet and Tucker Carlson on the Day
+**C-8899** Host Says Her Husband Spoke to Justin Streiff While She Spoke to Kolvet and Tucker Carlson on the Day
 
 Claim Timestamp: 00:57:03
 
@@ -2315,7 +2314,7 @@ Investigative Direction: Compare call logs for the host, her husband, Streiff, K
 
 ---
 
-**C-12950** Host Says She and Her Husband Were Told Kirk Had No Neck Left
+**C-8900** Host Says She and Her Husband Were Told Kirk Had No Neck Left
 
 Claim Timestamp: 00:57:03
 
@@ -2331,7 +2330,7 @@ Investigative Direction: Establish who told her and her husband, and when, from 
 
 ---
 
-**C-12951** Host Says Kirk Had Mainly an Entry Wound in the Front That Hit an Artery
+**C-8901** Host Says Kirk Had Mainly an Entry Wound in the Front That Hit an Artery
 
 Claim Timestamp: 00:57:47
 
@@ -2342,13 +2341,13 @@ Transcript Snippet: He basically only had um that entry point um in the front an
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10660
-Supports: C-6680
+Supports: C-3979
 Tags: relevance:core
 Investigative Direction: Compare with the autopsy summary and the Utah medical examiner's findings.
 
 ---
 
-**C-12952** Host Says Kirk's Neck Was Completely Fine and That Is Why the Casket Was Open
+**C-8902** Host Says Kirk's Neck Was Completely Fine and That Is Why the Casket Was Open
 
 Claim Timestamp: 00:57:47
 
@@ -2359,13 +2358,13 @@ Transcript Snippet: his neck was completely fine. That's why it was it was open 
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10660
-Supports: C-6680
+Supports: C-3979
 Tags: relevance:core
 Investigative Direction: Confirm open-casket viewing from memorial attendees and compare to the no-neck account.
 
 ---
 
-**C-12953** Host Says the No-Neck Story Looks Like an Intentional Talking Point Prepared for the .30-06 Narrative
+**C-8903** Host Says the No-Neck Story Looks Like an Intentional Talking Point Prepared for the .30-06 Narrative
 
 Claim Timestamp: 00:57:47
 
@@ -2381,7 +2380,7 @@ Investigative Direction: Ask the people who relayed the account where it came fr
 
 ---
 
-**C-12954** Host Says the No-Neck Lie Would Have Gone Unchallenged but for Terryl Farnsworth
+**C-8904** Host Says the No-Neck Lie Would Have Gone Unchallenged but for Terryl Farnsworth
 
 Claim Timestamp: 00:57:47
 
@@ -2397,7 +2396,7 @@ Investigative Direction: Review Farnsworth's statements and camera footage discl
 
 ---
 
-**C-12955** Host Says Erika Kirk Called Mikey McCoy Amazing in Her First Speech
+**C-8905** Host Says Erika Kirk Called Mikey McCoy Amazing in Her First Speech
 
 Claim Timestamp: 00:58:40
 
@@ -2413,7 +2412,7 @@ Investigative Direction: Find the transcript of Erika Kirk's first public speech
 
 ---
 
-**C-12956** Host Says the Story That Mikey Flew Into Action Is Not True
+**C-8907** Host Says the Story That Mikey Flew Into Action Is Not True
 
 Claim Timestamp: 00:59:24
 
@@ -2424,13 +2423,13 @@ Transcript Snippet: They lied when they said Mikey flew into action and did all 
 Anchored Artifacts: 
 Mentions: N-190, N-3
 Related Nodes: N-10198, N-10663
-Contradicts: C-9554
+Contradicts: C-2372
 Tags: relevance:core
 Investigative Direction: Compare Blake Neff's and TPUSA's accounts of McCoy's actions with hospital and call records.
 
 ---
 
-**C-12957** Host Says Her Sources Say Mikey McCoy Was a Mess at the Hospital
+**C-8908** Host Says Her Sources Say Mikey McCoy Was a Mess at the Hospital
 
 Claim Timestamp: 00:59:24
 
@@ -2446,7 +2445,7 @@ Investigative Direction: Identify hospital witnesses and compare with other acco
 
 ---
 
-**C-12958** Host Says Justin Streiff Told Her to Her Face He Organized All the Planes
+**C-8909** Host Says Justin Streiff Told Her to Her Face He Organized All the Planes
 
 Claim Timestamp: 00:59:24
 
@@ -2456,13 +2455,13 @@ Transcript Snippet: Justin Streiff told me to my face, he was the one that organ
 
 Anchored Artifacts: 
 Mentions: N-15, N-3
-Supports: C-11330
+Supports: C-7288
 Tags: relevance:core
 Investigative Direction: Obtain flight manifests and booking records for the planes used on September 10, 2025 and ask Streiff.
 
 ---
 
-**C-12959** Host Says She Has It on Good Notice That Mikey McCoy Is Discussing Real Estate Deals
+**C-8910** Host Says She Has It on Good Notice That Mikey McCoy Is Discussing Real Estate Deals
 
 Claim Timestamp: 01:00:10
 
@@ -2478,7 +2477,7 @@ Investigative Direction: Identify the source; check property transactions involv
 
 ---
 
-**C-12960** Host Says Israel's Roughly One-Billion-Dollar Propaganda Budget Includes Bot Campaigns and Fake Accounts
+**C-8911** Host Says Israel's Roughly One-Billion-Dollar Propaganda Budget Includes Bot Campaigns and Fake Accounts
 
 Claim Timestamp: 01:01:01
 
@@ -2489,13 +2488,13 @@ Transcript Snippet: They are in fact using bot campaigns. They use fake accounts
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11354, N-10722
-Supports: C-6550
+Supports: C-1996
 Tags: relevance:context
 Investigative Direction: Find reporting or contracts documenting bot spending (for example FARA disclosures or journalistic investigations) and compare with the host's 'Israeli bot armies' claim.
 
 ---
 
-**C-12961** Host Says She Found Israeli Bot Armies in Megyn Kelly's Instagram Comments After Leaving the Daily Wire
+**C-8912** Host Says She Found Israeli Bot Armies in Megyn Kelly's Instagram Comments After Leaving the Daily Wire
 
 Claim Timestamp: 01:01:01
 
@@ -2511,7 +2510,7 @@ Investigative Direction: Ask the host for the analysis that identified the accou
 
 ---
 
-**C-12962** Host Says Israeli-Linked Companies Can Send Thousands of Bot Emails to Event Hosts
+**C-8913** Host Says Israeli-Linked Companies Can Send Thousands of Bot Emails to Event Hosts
 
 Claim Timestamp: 01:01:01
 
@@ -2527,7 +2526,7 @@ Investigative Direction: Collect examples of identical email campaigns against e
 
 ---
 
-**C-12963** Host Corrects That Crain & Co Left the Daily Wire on Its Own
+**C-8914** Host Corrects That Crain & Co Left the Daily Wire on Its Own
 
 Claim Timestamp: 01:02:16
 
@@ -2543,7 +2542,7 @@ Investigative Direction: Check Crain & Company's own announcement of its departu
 
 ---
 
-**C-12964** Host Says Yesterday Was Her Top Merchandise Sales Day
+**C-8915** Host Says Yesterday Was Her Top Merchandise Sales Day
 
 Claim Timestamp: 01:04:06
 
@@ -2558,7 +2557,7 @@ Investigative Direction: Ask the host's merchandise provider for the sales data.
 
 ---
 
-**C-12965** Host Says 'They' Wanted the Story to End With 'I Forgive Him' on September 21
+**C-8916** Host Says 'They' Wanted the Story to End With 'I Forgive Him' on September 21
 
 Claim Timestamp: 01:06:23
 
@@ -2574,7 +2573,7 @@ Investigative Direction: Compare with the memorial's content and TPUSA's communi
 
 ---
 
-**C-12966** Host Says She Does Not Think Tyler Robinson Did It
+**C-8917** Host Says She Does Not Think Tyler Robinson Did It
 
 Claim Timestamp: 01:06:23
 
@@ -2590,7 +2589,7 @@ Investigative Direction: Compare with the evidence gaps tracked on the Robinson 
 
 ---
 
-**C-12967** Host Says She Knows Kirk Faking His Death Is Not True Because of One of Her Sources
+**C-8918** Host Says She Knows Kirk Faking His Death Is Not True Because of One of Her Sources
 
 Claim Timestamp: 01:07:20
 
@@ -2606,7 +2605,7 @@ Investigative Direction: The source is unnamed; confirm against medical and fune
 
 ---
 
-**C-12968** Host Cites the Amount of Blood in the Car Against the Faked-Death Theory
+**C-8919** Host Cites the Amount of Blood in the Car Against the Faked-Death Theory
 
 Claim Timestamp: 01:07:20
 
@@ -2622,7 +2621,7 @@ Investigative Direction: Review any photographs or reports of the vehicle; the h
 
 ---
 
-**C-12969** Host Says Whitney Houston's Daughter and Brittany Murphy Died Drowning in Bathtubs
+**C-8920** Host Says Whitney Houston's Daughter and Brittany Murphy Died Drowning in Bathtubs
 
 Claim Timestamp: 01:08:10
 
@@ -2736,7 +2735,7 @@ Confidence: high
 - **Claim failed admission test (artifact anchor):** The host's recollection that hospital staff told her Charlie had "no neck left" is recorded as a discrepancy node (N-10660) but is NOT inscribed as a Claim because no artifact in this episode anchors it. Same applies to claims about (a) Justin Streiff organizing all planes, (b) Mikey McCoy being "a mess at the hospital," and (c) Andrew Kolvet allegedly telling family that Charlie's refusal to Netanyahu cost him millions.
 - **Timestamp uncertainty (internal inconsistency):** Host first states Josh Hammer show was announced on Salem "October 15th" (24:03) but later the timeline reads "October 23rd" as the join date (37:55). Both dates preserved as host stated.
 - **Possible transcription error:** "Crain & Co" (1:03:14) appears to refer to **Crain & Company** (sports talent agency) referenced in prior episode.
-- **Interpretive commentary, not inscribed:** Host's broader thesis that Israel "killed" or orchestrated Charlie Kirk's assassination is a framing premise, not an artifact-anchored claim in this episode. C-2858 records Coleman's stated view; C-2859 records Netanyahu's denial; neither proves the underlying assertion.
+- **Interpretive commentary, not inscribed:** Host's broader thesis that Israel "killed" or orchestrated Charlie Kirk's assassination is a framing premise, not an artifact-anchored claim in this episode. C-8826 records Coleman's stated view; C-8832 records Netanyahu's denial; neither proves the underlying assertion.
 
 ---
 
@@ -2745,7 +2744,7 @@ Confidence: high
 Artifact Families Introduced:
 A-2045, A-2046, A-2047, A-2048, A-2049, A-2050, A-2051, A-2052, A-2053, A-2054, A-2055, A-2056, A-2057, A-2058, A-2059, A-2060, A-2061
 
-Claim Range: C-2856–C-2883
+Claim Range: C-8822–C-8906
 
 New Nodes Introduced (People): N-373, N-374, N-130, N-375, N-376
 

@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep130): N-352, N-353
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Reused Nodes Appearing: N-11, N-17, N-27, N-30, N-36, N-37, N-38, N-40, N-89, N-97, N-135, N-190, N-201, N-253, N-260, N-261, N-278, N-298, N-330, N-489, N-545, N-607, N-705, N-10000, N-10018, N-10027, N-10070, N-10132, N-10249, N-10253, N-10256, N-10259, N-10311, N-10341, N-10345, N-10383, N-10388, N-10398, N-10447, N-10550, N-10712, N-10714, N-10740, N-10741, N-10815, N-10900, N-10925, N-10938, N-738, N-80, N-11065, N-11064, N-10745
-  - Claim Range (supplement_2026-10): C-5920–C-6007
+  - Claim Range: C-11158–C-11255
  - New Nodes Introduced: N-10744, N-10746, N-10747
  - Reused Nodes Appearing: N-28
  - (see registers)
@@ -44,7 +44,7 @@ Video Timestamp: 00:04:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3107*
+*Related: C-11163*
 
 **A-2172** Wikipedia Entry Bundle (Canaanism)
 
@@ -55,7 +55,7 @@ Video Timestamp: 00:06:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3108*
+*Related: C-11165*
 
 **A-2173** Time Magazine Article Bundle (1976)
 
@@ -67,7 +67,7 @@ Video Timestamp: 00:14:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3109*
+*Related: C-11179*
 
 **A-2174** Andrew Kolvet X Post Bundle
 
@@ -77,7 +77,7 @@ Video Timestamp: 00:36:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3110, C-3111, C-3112, C-3113, N-14*
+*Related: C-11224, C-11223, C-11225, C-11226, N-14*
 
 **A-2175** Daily Mail Comment-Request Email Bundle
 
@@ -87,7 +87,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3111, N-14*
+*Related: C-11223, N-14*
 
 **A-2176** Blake Neff Interview Clip Bundle
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:45:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3114, N-159, N-10746*
+*Related: C-11241, N-159, N-10746*
 
 **A-2177** Seamstress Email Bundle
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:46:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3115*
+*Related: C-11245*
 
 **A-2178** Candace-Charlie Compilation Video Bundle
 
@@ -117,7 +117,7 @@ Video Timestamp: 00:58:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3116, N-1*
+*Related: C-11253, N-1*
 
 **A-2179** Top YouTube Comments Bundle
 
@@ -179,7 +179,7 @@ Video Timestamp: 00:17:34
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5944, C-5945, C-5946, N-742*
+*Related: C-11185, C-11186, C-11187, N-742*
 
 ---
 
@@ -194,7 +194,7 @@ Video Timestamp: 00:24:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-5957, C-5958, C-5959, N-1*
+*Related: C-11198, C-11199, C-11200, N-1*
 
 ---
 
@@ -207,7 +207,7 @@ Video Timestamp: 00:09:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5931, C-5933, C-5934, N-742*
+*Related: C-11171, C-11173, C-11174, N-742*
 
 ---
 
@@ -220,7 +220,7 @@ Video Timestamp: 00:25:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5961, N-11*
+*Related: C-11202, N-11*
 
 ---
 
@@ -231,7 +231,7 @@ Video Timestamp: 00:33:36
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5977, N-14, N-11*
+*Related: C-11218, N-14, N-11*
 
 ---
 
@@ -244,7 +244,7 @@ Video Timestamp: 00:40:46
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5989, N-2*
+*Related: C-11234, N-2*
 
 ---
 
@@ -257,7 +257,7 @@ Video Timestamp: 00:44:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5994, N-10740*
+*Related: C-11239, N-10740*
 
 ---
 
@@ -283,7 +283,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2174.1, A-2175.1, C-3110, C-3111, C-3112, C-3113, N-2, N-14*
+*Related: A-2174.1, A-2175.1, C-11224, C-11223, C-11225, C-11226, N-2, N-14*
 
 **N-10746** 9/10 Phone Discrepancy (Mikey two phones)
 
@@ -294,7 +294,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2176.1, C-3114, N-159*
+*Related: A-2176.1, C-11241, N-159*
 
 **N-10747** TPUSA Inner Circle Composition Question
 
@@ -322,7 +322,7 @@ Former US senator and presidential candidate. Host recalls his BCG advisory tie 
 
 Subject of the UVU Mormon-team clip, the will appointment, the DOGE audit and the compilation video.
 
-*Related: C-5920, C-5921, C-5930, C-5937, C-5939, C-5940, C-5941, C-5942, C-5943, C-5944, C-5945, C-5946, C-5947, C-5955, C-5956, C-5957, C-5958, C-5959, C-5960, C-5961, C-5962, C-5963, C-5964, C-5965, C-5966, C-5967, C-5968, C-5969, C-5970, C-5971, C-5972, C-5976, C-5977, C-5978, C-5979, C-5980, C-5981, C-5982, C-5983, C-5984, C-5985, C-5986, C-5988, C-5990, C-5991, C-5993, C-5994, C-5995, C-5996, C-5997, C-5998, C-5999, C-6000, C-6001, C-6004, C-6005, C-6006, C-6007, A-2787.1, A-2789.1, A-2789.2, A-2791.1*
+*Related: C-11158, C-11159, C-11170, C-11177, C-11180, C-11181, C-11182, C-11183, C-11184, C-11185, C-11186, C-11187, C-11188, C-11196, C-11197, C-11198, C-11199, C-11200, C-11201, C-11202, C-11203, C-11204, C-11205, C-11206, C-11207, C-11208, C-11209, C-11210, C-11211, C-11212, C-11213, C-11217, C-11218, C-11219, C-11220, C-11221, C-11222, C-11227, C-11228, C-11229, C-11230, C-11231, C-11233, C-11235, C-11236, C-11238, C-11239, C-11240, C-11242, C-11243, C-11244, C-11246, C-11247, C-11248, C-11251, C-11252, C-11254, C-11255, A-2787.1, A-2789.1, A-2789.2, A-2791.1*
 
 ---
 
@@ -330,7 +330,7 @@ Subject of the UVU Mormon-team clip, the will appointment, the DOGE audit and th
 
 Organization at issue in staff-composition and funding claims.
 
-*Related: C-5956, C-5961, C-5963, C-5985*
+*Related: C-11197, C-11202, C-11204, C-11230*
 
 ---
 
@@ -338,7 +338,7 @@ Organization at issue in staff-composition and funding claims.
 
 Netanyahu call to Charlie Kirk.
 
-*Related: C-5966*
+*Related: C-11207*
 
 ---
 
@@ -346,7 +346,7 @@ Netanyahu call to Charlie Kirk.
 
 Hamptons location of the Dillon confrontation.
 
-*Related: C-5965*
+*Related: C-11206*
 
 ---
 
@@ -354,7 +354,7 @@ Hamptons location of the Dillon confrontation.
 
 Publisher of the article at the center of the episode.
 
-*Related: C-5981, C-5983, C-5984, C-5985, C-5988, C-5993*
+*Related: C-11222, C-11228, C-11229, C-11230, C-11233, C-11238*
 
 ---
 
@@ -362,7 +362,7 @@ Publisher of the article at the center of the episode.
 
 TPUSA internal DOGE audit.
 
-*Related: C-5966, C-5970*
+*Related: C-11207, C-11211*
 
 ---
 
@@ -370,7 +370,7 @@ TPUSA internal DOGE audit.
 
 Mormon Mafia concept introduced in this episode.
 
-*Related: C-5921, C-5930, C-5937*
+*Related: C-11159, C-11170, C-11177*
 
 ---
 
@@ -378,7 +378,7 @@ Mormon Mafia concept introduced in this episode.
 
 Egyptian plane tracking.
 
-*Related: C-5943*
+*Related: C-11184*
 
 ---
 
@@ -386,7 +386,7 @@ Egyptian plane tracking.
 
 Duncan Aviation investigation.
 
-*Related: C-5942*
+*Related: C-11183*
 
 ---
 
@@ -394,7 +394,7 @@ Duncan Aviation investigation.
 
 Duncan Aviation Egyptian network.
 
-*Related: C-5943*
+*Related: C-11184*
 
 ---
 
@@ -402,7 +402,7 @@ Duncan Aviation Egyptian network.
 
 Maroon shirt pattern referenced in the Hughes relative claim.
 
-*Related: C-5955*
+*Related: C-11196*
 
 ---
 
@@ -410,7 +410,7 @@ Maroon shirt pattern referenced in the Hughes relative claim.
 
 Surgeon quote.
 
-*Related: C-5991*
+*Related: C-11236*
 
 ---
 
@@ -418,7 +418,7 @@ Surgeon quote.
 
 Seth Dillon confrontation at the Hamptons retreat.
 
-*Related: C-5965*
+*Related: C-11206*
 
 ---
 
@@ -426,7 +426,7 @@ Seth Dillon confrontation at the Hamptons retreat.
 
 Farnsworth family network.
 
-*Related: C-5960*
+*Related: C-11201*
 
 ---
 
@@ -434,7 +434,7 @@ Farnsworth family network.
 
 Missing money at Turning Point Action.
 
-*Related: C-5967*
+*Related: C-11208*
 
 ---
 
@@ -442,7 +442,7 @@ Missing money at Turning Point Action.
 
 TPUSA faith structure and LDS composition.
 
-*Related: C-5956, C-5957*
+*Related: C-11197, C-11198*
 
 ---
 
@@ -450,7 +450,7 @@ TPUSA faith structure and LDS composition.
 
 Surgeon call discrepancy.
 
-*Related: C-5991*
+*Related: C-11236*
 
 ---
 
@@ -458,7 +458,7 @@ Surgeon call discrepancy.
 
 Neff two-phones implication.
 
-*Related: C-5996, C-5997, C-6001*
+*Related: C-11242, C-11243, C-11248*
 
 ---
 
@@ -466,7 +466,7 @@ Neff two-phones implication.
 
 Shapiro car ride live updates.
 
-*Related: C-5995*
+*Related: C-11240*
 
 ---
 
@@ -474,7 +474,7 @@ Shapiro car ride live updates.
 
 Burnt object in SUV.
 
-*Related: C-5994, C-5999, C-6000*
+*Related: C-11239, C-11246, C-11247*
 
 ---
 
@@ -482,7 +482,7 @@ Burnt object in SUV.
 
 SUV interior anomaly.
 
-*Related: C-5994, C-5999, A-2791.1*
+*Related: C-11239, C-11246, A-2791.1*
 
 ---
 
@@ -490,7 +490,7 @@ SUV interior anomaly.
 
 Sandy Hook comparison.
 
-*Related: C-6004*
+*Related: C-11251*
 
 ---
 
@@ -498,7 +498,7 @@ Sandy Hook comparison.
 
 NCRI report provenance.
 
-*Related: C-5986*
+*Related: C-11231*
 
 ---
 
@@ -506,7 +506,7 @@ NCRI report provenance.
 
 Turning Point Action.
 
-*Related: C-5961, C-5967*
+*Related: C-11202, C-11208*
 
 ---
 
@@ -514,7 +514,7 @@ Turning Point Action.
 
 Corporate will question.
 
-*Related: C-5969*
+*Related: C-11210*
 
 ---
 
@@ -522,7 +522,7 @@ Corporate will question.
 
 Named as TPUSA COO who controlled hiring, handled money and ran Turning Point Action.
 
-*Related: C-5956, C-5961, C-5962, C-5963, C-5967, C-5968, C-5977, A-2789.1, A-2789.2*
+*Related: C-11197, C-11202, C-11203, C-11204, C-11208, C-11209, C-11218, A-2789.1, A-2789.2*
 
 ---
 
@@ -530,7 +530,7 @@ Named as TPUSA COO who controlled hiring, handled money and ran Turning Point Ac
 
 Named in the host's aside about a possible relation to Robert Graf.
 
-*Related: C-5942*
+*Related: C-11183*
 
 ---
 
@@ -538,7 +538,7 @@ Named in the host's aside about a possible relation to Robert Graf.
 
 Subject of the host's rebuttal; poster of the Daily Mail allegation. Transcript spellings include Andrew Kolvet, Klavan and Kolvet.
 
-*Related: C-5920, C-5959, C-5972, C-5977, C-5980, C-5982, C-5985, C-5986, C-5990, C-5991, C-5993, C-6005, A-2789.2*
+*Related: C-11158, C-11200, C-11213, C-11218, C-11221, C-11227, C-11230, C-11231, C-11235, C-11236, C-11238, C-11252, A-2789.2*
 
 ---
 
@@ -546,7 +546,7 @@ Subject of the host's rebuttal; poster of the Daily Mail allegation. Transcript 
 
 Speaker in the played clip; subject of the two-phones inference and the friendship comment.
 
-*Related: C-5972, C-5979, C-5997, C-5998, C-6001*
+*Related: C-11213, C-11220, C-11243, C-11244, C-11248*
 
 ---
 
@@ -554,7 +554,7 @@ Speaker in the played clip; subject of the two-phones inference and the friendsh
 
 Named in the Neff clip as the father Mikey McCoy called (transcript spelling Rob McCoy).
 
-*Related: C-5997*
+*Related: C-11243*
 
 ---
 
@@ -562,7 +562,7 @@ Named in the Neff clip as the father Mikey McCoy called (transcript spelling Rob
 
 Subject of the two-phones discussion and Neff's recollection.
 
-*Related: C-5996, C-5997, C-5998, C-6001*
+*Related: C-11242, C-11243, C-11244, C-11248*
 
 ---
 
@@ -570,7 +570,7 @@ Subject of the two-phones discussion and Neff's recollection.
 
 Subject of the Daily Mail article, her ties to Bowyer and the casino families, the surgeon call and the pageant remark.
 
-*Related: C-5921, C-5922, C-5942, C-5943, C-5954, C-5960, C-5962, C-5963, C-5968, C-5969, C-5970, C-5973, C-5974, C-5975, C-5980, C-5981, C-5983, C-5985, C-5989, C-5990, C-5991, C-5992, C-5993, C-5997, C-6001, C-6003, A-2790.1*
+*Related: C-11159, C-11160, C-11183, C-11184, C-11195, C-11201, C-11203, C-11204, C-11209, C-11210, C-11211, C-11214, C-11215, C-11216, C-11221, C-11222, C-11228, C-11230, C-11234, C-11235, C-11236, C-11237, C-11238, C-11243, C-11248, C-11250, A-2790.1*
 
 ---
 
@@ -578,7 +578,7 @@ Subject of the Daily Mail article, her ties to Bowyer and the casino families, t
 
 Named in the Bowyer AmFest conversation.
 
-*Related: C-5963*
+*Related: C-11204*
 
 ---
 
@@ -586,7 +586,7 @@ Named in the Bowyer AmFest conversation.
 
 Source of the host's first Mormon Mafia mention.
 
-*Related: C-5921*
+*Related: C-11159*
 
 ---
 
@@ -594,7 +594,7 @@ Source of the host's first Mormon Mafia mention.
 
 Named as the firm formerly owned by Robert Graf and linked to the Egyptian plane.
 
-*Related: C-5942, C-5943*
+*Related: C-11183, C-11184*
 
 ---
 
@@ -602,7 +602,7 @@ Named as the firm formerly owned by Robert Graf and linked to the Egyptian plane
 
 Named as a Mormon who takes down the cameras.
 
-*Related: C-5960, C-5968*
+*Related: C-11201, C-11209*
 
 ---
 
@@ -610,7 +610,7 @@ Named as a Mormon who takes down the cameras.
 
 Named in the host's account of Harley Pasternak's alleged threat.
 
-*Related: C-5922*
+*Related: C-11160*
 
 ---
 
@@ -618,7 +618,7 @@ Named in the host's account of Harley Pasternak's alleged threat.
 
 Named in the account of Erika Kirk's interview tour.
 
-*Related: C-5973*
+*Related: C-11214*
 
 ---
 
@@ -626,7 +626,7 @@ Named in the account of Erika Kirk's interview tour.
 
 Host; speaks of her own history, text messages, PR and responses to Kolvet.
 
-*Related: C-5921, C-5922, C-5923, C-5929, C-5950, C-5951, C-5952, C-5953, C-5955, C-5956, C-5961, C-5962, C-5963, C-5965, C-5966, C-5967, C-5972, C-5975, C-5977, C-5980, C-5981, C-5982, C-5983, C-5984, C-5987, C-5988, C-5990, C-5992, C-5993, C-5995, C-5996, C-5998, C-5999, C-6000, C-6001, C-6002, C-6004, C-6005, C-6006, C-6007*
+*Related: C-11159, C-11160, C-11161, C-11169, C-11191, C-11192, C-11193, C-11194, C-11196, C-11197, C-11202, C-11203, C-11204, C-11206, C-11207, C-11208, C-11213, C-11216, C-11218, C-11221, C-11222, C-11227, C-11228, C-11229, C-11232, C-11233, C-11235, C-11237, C-11238, C-11240, C-11242, C-11244, C-11246, C-11247, C-11248, C-11249, C-11251, C-11252, C-11254, C-11255*
 
 ---
 
@@ -634,7 +634,7 @@ Host; speaks of her own history, text messages, PR and responses to Kolvet.
 
 Host's husband, George; named as a friend of Taylor Marshall.
 
-*Related: C-5950, C-6002*
+*Related: C-11191, C-11249*
 
 ---
 
@@ -642,7 +642,7 @@ Host's husband, George; named as a friend of Taylor Marshall.
 
 Named as controller of the Las Vegas Sands.
 
-*Related: C-5950*
+*Related: C-11191*
 
 ---
 
@@ -650,7 +650,7 @@ Named as controller of the Las Vegas Sands.
 
 Named as CC'd on the seamstress email.
 
-*Related: C-5999*
+*Related: C-11246*
 
 ---
 
@@ -658,7 +658,7 @@ Named as CC'd on the seamstress email.
 
 Named in the allegation about Erika Kirk.
 
-*Related: C-5975*
+*Related: C-11216*
 
 ---
 
@@ -666,7 +666,7 @@ Named in the allegation about Erika Kirk.
 
 Named in the account of the phone call Charlie Kirk received.
 
-*Related: C-5951, C-5966*
+*Related: C-11192, C-11207*
 
 ---
 
@@ -674,7 +674,7 @@ Named in the account of the phone call Charlie Kirk received.
 
 Named as owner of the Desert Inn site.
 
-*Related: C-5951*
+*Related: C-11192*
 
 ---
 
@@ -682,7 +682,7 @@ Named as owner of the Desert Inn site.
 
 Named as executive chairman of Howard Hughes Holdings and as host of the Hamptons gathering.
 
-*Related: C-5952, C-5953, C-5965*
+*Related: C-11193, C-11194, C-11206*
 
 ---
 
@@ -690,7 +690,7 @@ Named as executive chairman of Howard Hughes Holdings and as host of the Hampton
 
 Named as the person who allegedly morally blackmailed Charlie Kirk.
 
-*Related: C-5965*
+*Related: C-11206*
 
 ---
 
@@ -698,7 +698,7 @@ Named as the person who allegedly morally blackmailed Charlie Kirk.
 
 Named in connection with the Judge Graf aside.
 
-*Related: C-5942*
+*Related: C-11183*
 
 ---
 
@@ -706,7 +706,7 @@ Named in connection with the Judge Graf aside.
 
 Erika Kirk's mother; transcript spells her Laura Lori Fronsway.
 
-*Related: C-5968*
+*Related: C-11209*
 
 ---
 
@@ -714,7 +714,7 @@ Erika Kirk's mother; transcript spells her Laura Lori Fronsway.
 
 Possible referent of the host's guess that Tracy was the Daily Mail's family-friend source.
 
-*Related: C-5981*
+*Related: C-11222*
 
 ---
 
@@ -722,7 +722,7 @@ Possible referent of the host's guess that Tracy was the Daily Mail's family-fri
 
 Named in the host's remark on influencers.
 
-*Related: C-6003*
+*Related: C-11250*
 
 ---
 
@@ -730,7 +730,7 @@ Named in the host's remark on influencers.
 
 Named as the late Sheldon Adelson who held the Sands.
 
-*Related: C-5950*
+*Related: C-11191*
 
 ---
 
@@ -738,7 +738,7 @@ Named as the late Sheldon Adelson who held the Sands.
 
 Named in the host's remark on influencers invited to the hearing.
 
-*Related: C-6003*
+*Related: C-11250*
 
 ---
 
@@ -746,7 +746,7 @@ Named in the host's remark on influencers invited to the hearing.
 
 Subject of the friendship dispute and the million-dollar check claim.
 
-*Related: C-5971, C-5972, C-5978, C-5979, C-5995*
+*Related: C-11212, C-11213, C-11219, C-11220, C-11240*
 
 ---
 
@@ -754,7 +754,7 @@ Subject of the friendship dispute and the million-dollar check claim.
 
 First named by the host at 00:02:09 in episode 130. Cited as having alluded to a Zionist mafia before his death and as the subject of the coverage the host says contributed to her Daily Wire firing.
 
-*Related: C-5922, C-5923, C-5962, C-6002*
+*Related: C-11160, C-11161, C-11203, C-11249*
 
 ---
 
@@ -762,7 +762,7 @@ First named by the host at 00:02:09 in episode 130. Cited as having alluded to a
 
 First named by the host at 00:02:09 in episode 130. Kanye West's former gym trainer, whom the host says threatened to drug him and take his children away.
 
-*Related: C-5922*
+*Related: C-11160*
 
 ---
 
@@ -770,7 +770,7 @@ First named by the host at 00:02:09 in episode 130. Kanye West's former gym trai
 
 First named by the host at 00:06:31 in episode 130. Described as an Irgun member and the father of Ari and Rahm Emanuel.
 
-*Related: C-5927*
+*Related: C-11167*
 
 ---
 
@@ -778,7 +778,7 @@ First named by the host at 00:06:31 in episode 130. Described as an Irgun member
 
 First named by the host at 00:06:31 in episode 130. Described as one of the most powerful men in Hollywood and son of Benjamin Emanuel.
 
-*Related: C-5927*
+*Related: C-11167*
 
 ---
 
@@ -786,7 +786,7 @@ First named by the host at 00:06:31 in episode 130. Described as one of the most
 
 First named by the host at 00:06:31 in episode 130. Described as a Clinton adviser, Obama chief of staff and mayor of Chicago, and son of Benjamin Emanuel.
 
-*Related: C-5927, C-5928*
+*Related: C-11167, C-11168*
 
 ---
 
@@ -794,7 +794,7 @@ First named by the host at 00:06:31 in episode 130. Described as a Clinton advis
 
 First named by the host at 00:08:56 in episode 130. Billionaire whose last years and death anchor the host's Mormon Mafia history. Aliases (transcript spellings): Howard Robert Hughes Jr..
 
-*Related: C-5930, C-5931, C-5932, C-5933, C-5934, C-5935, C-5936, C-5937, C-5938, C-5939, C-5941, C-5944, C-5945, C-5946, C-5947, C-5948, C-5949, C-5950, C-5951, C-5955, A-2786.1, A-2788.1*
+*Related: C-11170, C-11171, C-11172, C-11173, C-11174, C-11175, C-11176, C-11177, C-11178, C-11180, C-11182, C-11185, C-11186, C-11187, C-11188, C-11189, C-11190, C-11191, C-11192, C-11196, A-2786.1, A-2788.1*
 
 ---
 
@@ -802,7 +802,7 @@ First named by the host at 00:08:56 in episode 130. Billionaire whose last years
 
 First named by the host at 00:13:06 in episode 130. LDS member who ran a Hughes subsidiary, led his Mormon aides and later became trustee of the Howard Hughes Medical Institute. Aliases (transcript spellings): Bill Gay.
 
-*Related: C-5937, C-5949, C-5954*
+*Related: C-11177, C-11190, C-11195*
 
 ---
 
@@ -810,7 +810,7 @@ First named by the host at 00:13:06 in episode 130. LDS member who ran a Hughes 
 
 First named by the host at 00:16:30 in episode 130. Owner of the jet on which Howard Hughes died and founder of Robert Graf Inc., later Duncan Aviation. Aliases (transcript spellings): Robert Kraft (transcript misspelling).
 
-*Related: C-5942*
+*Related: C-11183*
 
 ---
 
@@ -818,7 +818,7 @@ First named by the host at 00:16:30 in episode 130. Owner of the jet on which Ho
 
 First named by the host at 00:22:19 in episode 130. Son of Frank William Gay and a former managing director of Bain Capital.
 
-*Related: C-5954*
+*Related: C-11195*
 
 ---
 
@@ -826,7 +826,7 @@ First named by the host at 00:22:19 in episode 130. Son of Frank William Gay and
 
 First named by the host at 00:25:03 in episode 130. Senator through whom Erika Kirk told the host she may have met Tyler Bowyer. Aliases (transcript spellings): Senator Jon Kyl.
 
-*Related: C-5962*
+*Related: C-11203*
 
 ---
 
@@ -834,7 +834,7 @@ First named by the host at 00:25:03 in episode 130. Senator through whom Erika K
 
 First named by the host at 00:51:48 in episode 130. Catholic commentator the host calls a friend of her husband. Aliases (transcript spellings): Dr. Taylor Marshall.
 
-*Related: C-6002*
+*Related: C-11249*
 
 ---
 
@@ -843,7 +843,7 @@ First named by the host at 00:51:48 in episode 130. Catholic commentator the hos
 Node Type: Organization
 Media company that, according to the host, fired her and listed among its reasons her suggestion that a Jewish mafia existed in Hollywood.
 
-*Related: C-5923*
+*Related: C-11161*
 
 ---
 
@@ -852,7 +852,7 @@ Media company that, according to the host, fired her and listed among its reason
 Node Type: Organization
 Jewish underground organization in mandatory Palestine that the host ties to the 1946 King David Hotel bombing, the Stern gang, Canaanism and the Emanuel family.
 
-*Related: C-5924, C-5925, C-5926, C-5927*
+*Related: C-11162, C-11164, C-11166, C-11167*
 
 ---
 
@@ -861,7 +861,7 @@ Jewish underground organization in mandatory Palestine that the host ties to the
 Node Type: Organization
 Medical research charity formed by Howard Hughes in 1953; the host says Hughes Aircraft was transferred into it and Frank William Gay became its trustee.
 
-*Related: C-5933, C-5948, C-5949*
+*Related: C-11173, C-11189, C-11190*
 
 ---
 
@@ -870,7 +870,7 @@ Medical research charity formed by Howard Hughes in 1953; the host says Hughes A
 Node Type: Topic
 The dispute over whether Ben Shapiro and Charlie Kirk were friends, which the host says Kolvet asserted and Shapiro and Blake Neff then qualified.
 
-*Related: C-5972, C-5978, C-5979*
+*Related: C-11213, C-11219, C-11220*
 
 ---
 
@@ -879,13 +879,13 @@ The dispute over whether Ben Shapiro and Charlie Kirk were friends, which the ho
 Node Type: Topic
 The host's claim that Erika Kirk invited influencers into the courtroom at Tyler Robinson's preliminary hearing and that this registered with the public as an unforced error.
 
-*Related: C-6003*
+*Related: C-11250*
 
 ---
 
 ## 5. Claim Register
 
-**C-3107** Stern Gang Attempted Letter-Bomb Assassination of Truman in 1947
+**C-11163** Stern Gang Attempted Letter-Bomb Assassination of Truman in 1947
 
 Claim Timestamp: 00:04:35
 
@@ -896,7 +896,7 @@ Related Nodes:
 
 Investigative Direction: Verify against the Margaret Truman Daniel biography Harry S. Truman and the contemporaneous NYT archive to confirm the letter-bomb episode and its date.
 
-**C-3108** Canaanism Founded 1939; Adherents Mostly Former Irgun/Lehi Members
+**C-11165** Canaanism Founded 1939; Adherents Mostly Former Irgun/Lehi Members
 
 Claim Timestamp: 00:05:50
 
@@ -907,7 +907,7 @@ Related Nodes:
 
 Investigative Direction: Verify against the cited Wikipedia revision history and academic sources on the Canaanite movement.
 
-**C-3109** Six Mormon Aides Recruited by Summa Corporation Controlled Howard Hughes in Final Years
+**C-11179** Six Mormon Aides Recruited by Summa Corporation Controlled Howard Hughes in Final Years
 
 Claim Timestamp: 00:14:54
 
@@ -919,7 +919,7 @@ Related Nodes: N-10747
 
 Investigative Direction: Obtain the full 1976 Time article and corroborating contemporaneous coverage; cross-reference Summa Corporation employment records for Bill Gay and the named assistants.
 
-**C-3110** Kolvet Publicly Asserted Candace Owens Was Behind the Daily Mail Article
+**C-11224** Kolvet Publicly Asserted Candace Owens Was Behind the Daily Mail Article
 
 Claim Timestamp: 00:36:31
 
@@ -931,7 +931,7 @@ Related Nodes: N-10745
 
 Investigative Direction: Verify by retrieving the original Kolvet tweet thread via archive; cross-check against A-2175.1 comment-request email to assess which side's account of pre-publication contact is supported.
 
-**C-3111** Kolvet Asserted Daily Mail Did Not Request Comment Before Publication
+**C-11223** Kolvet Asserted Daily Mail Did Not Request Comment Before Publication
 
 Claim Timestamp: 00:35:58
 
@@ -943,7 +943,7 @@ Related Nodes: N-10745
 
 Investigative Direction: Verify by retrieving the Daily Mail comment-request email (A-2175.1) and matching timestamps; check whether the email originated from the same Daily Mail address that published the article.
 
-**C-3112** Kolvet Asserted Daily Mail Retracted "Family Member" Source Claim
+**C-11225** Kolvet Asserted Daily Mail Retracted "Family Member" Source Claim
 
 Claim Timestamp: 00:36:31
 
@@ -955,7 +955,7 @@ Related Nodes: N-10745
 
 Investigative Direction: Retrieve current and archived versions of the Daily Mail article to verify the retraction and its scope.
 
-**C-3113** Kolvet Asserted Erika Has Never Been Heard to Swear
+**C-11226** Kolvet Asserted Erika Has Never Been Heard to Swear
 
 Claim Timestamp: 00:36:31
 
@@ -966,7 +966,7 @@ Mentions: N-2, N-14
 
 Investigative Direction: Verify against archived video appearances and any prior recorded interviews; check against host's contested examples (e.g., pageant-era footage).
 
-**C-3114** Blake Neff Stated "I Put That Phone Away" in 9/10 Interview
+**C-11241** Blake Neff Stated "I Put That Phone Away" in 9/10 Interview
 
 Claim Timestamp: 00:45:08
 
@@ -978,7 +978,7 @@ Related Nodes: N-10746
 
 Investigative Direction: Retrieve the full unedited Blake Neff interview segment; cross-reference with any video showing Mikey holding two devices.
 
-**C-3115** Seamstress Identified Visible Seam and Thread Pattern Consistent with Inside/Outside of Shirt
+**C-11245** Seamstress Identified Visible Seam and Thread Pattern Consistent with Inside/Outside of Shirt
 
 Claim Timestamp: 00:46:58
 
@@ -989,7 +989,7 @@ Related Nodes:
 
 Investigative Direction: Obtain the seamstress's attached photos for higher-resolution review; consult an independent textile expert on the same image.
 
-**C-3116** Charlie Kirk in Compilation Video Described Valued Friendship as Honesty About Threats
+**C-11253** Charlie Kirk in Compilation Video Described Valued Friendship as Honesty About Threats
 
 Claim Timestamp: 00:58:13
 
@@ -1002,7 +1002,7 @@ Investigative Direction: Retrieve the full 15-minute compilation video and ident
 
 ---
 
-**C-5920** Kolvet's post drew a community note on X
+**C-11158** Kolvet's post drew a community note on X
 
 Claim Timestamp: 00:01:26
 
@@ -1017,7 +1017,7 @@ Investigative Direction: Retrieve the Kolvet post and the text of the attached c
 
 ---
 
-**C-5921** Courtney Love told the host Zionists and Mormons control Hollywood, music and publishing
+**C-11159** Courtney Love told the host Zionists and Mormons control Hollywood, music and publishing
 
 Claim Timestamp: 00:02:09
 
@@ -1028,13 +1028,13 @@ Transcript Snippet: you have to understand the relationship between the Zionists
 Anchored Artifacts: 
 Mentions: N-253, N-3
 Related Nodes: N-10249
-Supports: C-1705
+Supports: C-2852
 
 Investigative Direction: Obtain Courtney Love's own account of the conversation and any contemporaneous record of when and where she spoke with the host.
 
 ---
 
-**C-5922** Kanye West alluded to a Zionist mafia after trainer Harley Pasternak allegedly threatened to drug him
+**C-11160** Kanye West alluded to a Zionist mafia after trainer Harley Pasternak allegedly threatened to drug him
 
 Claim Timestamp: 00:02:09
 
@@ -1048,7 +1048,7 @@ Investigative Direction: Locate the Kanye West messages concerning Harley Paster
 
 ---
 
-**C-5923** Host says a listed reason for her Daily Wire firing was suggesting a Jewish mafia in Hollywood
+**C-11161** Host says a listed reason for her Daily Wire firing was suggesting a Jewish mafia in Hollywood
 
 Claim Timestamp: 00:02:59
 
@@ -1063,7 +1063,7 @@ Investigative Direction: Obtain the host's termination paperwork or contemporane
 
 ---
 
-**C-5924** Irgun's 1946 King David Hotel bombing killed 91 people at the British headquarters
+**C-11162** Irgun's 1946 King David Hotel bombing killed 91 people at the British headquarters
 
 Claim Timestamp: 00:03:45
 
@@ -1077,7 +1077,7 @@ Investigative Direction: Verify against historical records of the 22 July 1946 K
 
 ---
 
-**C-5925** Wikipedia Canaanism entry shows "Nimrod" as a visual emblem of the Canaanite idea
+**C-11164** Wikipedia Canaanism entry shows "Nimrod" as a visual emblem of the Canaanite idea
 
 Claim Timestamp: 00:05:34
 
@@ -1091,7 +1091,7 @@ Investigative Direction: Retrieve the Wikipedia Canaanism entry (with revision d
 
 ---
 
-**C-5926** Host says the Canaanites of the Bible were Baal worshipers and Irgun was a Jewish Canaanite gang
+**C-11166** Host says the Canaanites of the Bible were Baal worshipers and Irgun was a Jewish Canaanite gang
 
 Claim Timestamp: 00:06:31
 
@@ -1101,14 +1101,14 @@ Transcript Snippet: Irgun was a Jewish Canaanite gang. No one denies that it was
 
 Anchored Artifacts: A-2172.1
 Related Nodes: N-11062
-Supports: C-3108
+Supports: C-11165
 
 Tags: relevance:tangential
 Investigative Direction: Check scholarly sources on whether Irgun is classified as part of the Canaanite movement or is a distinct body that some Canaanites had belonged to.
 
 ---
 
-**C-5927** Benjamin Emanuel is named as an Irgun member and father of Ari and Rahm Emanuel
+**C-11167** Benjamin Emanuel is named as an Irgun member and father of Ari and Rahm Emanuel
 
 Claim Timestamp: 00:06:31
 
@@ -1123,7 +1123,7 @@ Investigative Direction: Verify Benjamin Emanuel's Irgun membership against biog
 
 ---
 
-**C-5928** Rahm Emanuel's career as Clinton adviser, Obama chief of staff and Chicago mayor
+**C-11168** Rahm Emanuel's career as Clinton adviser, Obama chief of staff and Chicago mayor
 
 Claim Timestamp: 00:06:31
 
@@ -1137,7 +1137,7 @@ Investigative Direction: Check Rahm Emanuel's official biography for the Clinton
 
 ---
 
-**C-5929** Host says she has been threatened and gangstalked by Zionists through the court system
+**C-11169** Host says she has been threatened and gangstalked by Zionists through the court system
 
 Claim Timestamp: 00:07:38
 
@@ -1151,7 +1151,7 @@ Investigative Direction: Identify the court cases and incidents the host is refe
 
 ---
 
-**C-5930** Google defines the Mormon Mafia as Howard Hughes's LDS inner circle in 1960s Las Vegas
+**C-11170** Google defines the Mormon Mafia as Howard Hughes's LDS inner circle in 1960s Las Vegas
 
 Claim Timestamp: 00:08:56
 
@@ -1166,7 +1166,7 @@ Investigative Direction: Capture the exact Google snippet and its cited source a
 
 ---
 
-**C-5931** Hughes assembled the largest private air force in the world to make Hell's Angels
+**C-11171** Hughes assembled the largest private air force in the world to make Hell's Angels
 
 Claim Timestamp: 00:09:45
 
@@ -1180,7 +1180,7 @@ Investigative Direction: Verify against Hughes biographies and film-production r
 
 ---
 
-**C-5932** Hughes Aircraft Company was founded in 1932 by renting a hangar within Lockheed
+**C-11172** Hughes Aircraft Company was founded in 1932 by renting a hangar within Lockheed
 
 Claim Timestamp: 00:09:45
 
@@ -1194,7 +1194,7 @@ Investigative Direction: Check corporate histories of Hughes Aircraft for the fo
 
 ---
 
-**C-5933** Hughes formed the Howard Hughes Medical Institute in 1953 and moved Hughes Aircraft into it
+**C-11173** Hughes formed the Howard Hughes Medical Institute in 1953 and moved Hughes Aircraft into it
 
 Claim Timestamp: 00:10:36
 
@@ -1209,7 +1209,7 @@ Investigative Direction: Review HHMI founding documents and IRS and court record
 
 ---
 
-**C-5934** Hughes bought Las Vegas casinos including the Desert Inn and the Sands in his last ten years
+**C-11174** Hughes bought Las Vegas casinos including the Desert Inn and the Sands in his last ten years
 
 Claim Timestamp: 00:11:22
 
@@ -1223,7 +1223,7 @@ Investigative Direction: Check Nevada gaming-commission records for the dates of
 
 ---
 
-**C-5935** Host says Hughes did not drink, party or use drugs and feared communist infiltration
+**C-11175** Host says Hughes did not drink, party or use drugs and feared communist infiltration
 
 Claim Timestamp: 00:11:22
 
@@ -1237,7 +1237,7 @@ Investigative Direction: Compare with biographies' accounts of Hughes's painkill
 
 ---
 
-**C-5936** Hughes shut down RKO for six months in 1948 to vet employees' politics
+**C-11176** Hughes shut down RKO for six months in 1948 to vet employees' politics
 
 Claim Timestamp: 00:11:22
 
@@ -1251,7 +1251,7 @@ Investigative Direction: Verify the 1948 RKO shutdown and its stated purpose in 
 
 ---
 
-**C-5937** Frank William Gay, an LDS member, was hired to run a Hughes tool subsidiary and then hired the Mormon Mafia
+**C-11177** Frank William Gay, an LDS member, was hired to run a Hughes tool subsidiary and then hired the Mormon Mafia
 
 Claim Timestamp: 00:13:06
 
@@ -1266,7 +1266,7 @@ Investigative Direction: Check Summa Corporation and Hughes Tool Company records
 
 ---
 
-**C-5938** Public was told Hughes withdrew because of injury pain, painkillers and OCD
+**C-11178** Public was told Hughes withdrew because of injury pain, painkillers and OCD
 
 Claim Timestamp: 00:14:03
 
@@ -1280,7 +1280,7 @@ Investigative Direction: Compare with contemporaneous press accounts and later b
 
 ---
 
-**C-5939** Time article says all but one Hughes aide were Mormons with unlimited access to him
+**C-11180** Time article says all but one Hughes aide were Mormons with unlimited access to him
 
 Claim Timestamp: 00:14:54
 
@@ -1291,13 +1291,13 @@ Transcript Snippet: They were, with a single exception, adherence to Mormonism, 
 Anchored Artifacts: A-2173.1
 Mentions: N-742
 Related Nodes: N-10747
-Supports: C-3109
+Supports: C-11179
 
 Investigative Direction: Obtain the full 1976 Time article and verify the wording about the aides' religion and access.
 
 ---
 
-**C-5940** Time article says four physicians and five lesser functionaries assisted the six aides
+**C-11181** Time article says four physicians and five lesser functionaries assisted the six aides
 
 Claim Timestamp: 00:15:40
 
@@ -1311,7 +1311,7 @@ Investigative Direction: Obtain the full Time article and check the named functi
 
 ---
 
-**C-5941** Hughes officially died of kidney failure on April 5, 1976, aboard a jet
+**C-11182** Hughes officially died of kidney failure on April 5, 1976, aboard a jet
 
 Claim Timestamp: 00:16:30
 
@@ -1326,7 +1326,7 @@ Investigative Direction: Obtain the Hughes death certificate and autopsy summari
 
 ---
 
-**C-5942** The jet carrying Hughes when he died was owned by Robert Graf of Duncan Aviation
+**C-11183** The jet carrying Hughes when he died was owned by Robert Graf of Duncan Aviation
 
 Claim Timestamp: 00:16:30
 
@@ -1341,7 +1341,7 @@ Investigative Direction: Check Duncan Aviation corporate history and records of 
 
 ---
 
-**C-5943** Host links Duncan Aviation to an Egyptian plane that took off for Delaware before the assassination
+**C-11184** Host links Duncan Aviation to an Egyptian plane that took off for Delaware before the assassination
 
 Claim Timestamp: 00:16:30
 
@@ -1356,7 +1356,7 @@ Investigative Direction: Pull flight-tracking and FBO records for the Egyptian-r
 
 ---
 
-**C-5944** Investigation found a deadly codeine injection given to a comatose Hughes
+**C-11185** Investigation found a deadly codeine injection given to a comatose Hughes
 
 Claim Timestamp: 00:17:34
 
@@ -1371,7 +1371,7 @@ Investigative Direction: Identify the investigation (probate or Texas and Nevada
 
 ---
 
-**C-5945** X-rays showed five broken-off hypodermic needles in Hughes's arms
+**C-11186** X-rays showed five broken-off hypodermic needles in Hughes's arms
 
 Claim Timestamp: 00:17:34
 
@@ -1386,7 +1386,7 @@ Investigative Direction: Check the 1976 autopsy reports and later biographies fo
 
 ---
 
-**C-5946** Hughes's body was likened to a POW captive and his hotel blinds had not been drawn for years
+**C-11187** Hughes's body was likened to a POW captive and his hotel blinds had not been drawn for years
 
 Claim Timestamp: 00:18:36
 
@@ -1401,7 +1401,7 @@ Investigative Direction: Compare with autopsy descriptions and testimony from th
 
 ---
 
-**C-5947** LDS Church filed a handwritten note claimed as Hughes's will, rejected by the courts
+**C-11188** LDS Church filed a handwritten note claimed as Hughes's will, rejected by the courts
 
 Claim Timestamp: 00:19:34
 
@@ -1416,7 +1416,7 @@ Investigative Direction: Check court records of the Mormon will (Melvin Dummar w
 
 ---
 
-**C-5948** Hughes's $2.5 billion estate took 34 years to settle, with about $1.5 billion to HHMI
+**C-11189** Hughes's $2.5 billion estate took 34 years to settle, with about $1.5 billion to HHMI
 
 Claim Timestamp: 00:19:34
 
@@ -1431,7 +1431,7 @@ Investigative Direction: Verify the estate value, settlement timeline and the HH
 
 ---
 
-**C-5949** Frank Gay became HHMI trustee and was later discovered to have worked with the CIA
+**C-11190** Frank Gay became HHMI trustee and was later discovered to have worked with the CIA
 
 Claim Timestamp: 00:20:27
 
@@ -1446,7 +1446,7 @@ Investigative Direction: Check HHMI trustee records and CIA-related reporting on
 
 ---
 
-**C-5950** Miriam Adelson controls the Las Vegas Sands, once a Hughes property
+**C-11191** Miriam Adelson controls the Las Vegas Sands, once a Hughes property
 
 Claim Timestamp: 00:20:27
 
@@ -1460,7 +1460,7 @@ Investigative Direction: Distinguish the Hughes-era Sands Hotel from the Las Veg
 
 ---
 
-**C-5951** Steve Wynn demolished the Desert Inn and built the Wynn Las Vegas on the site
+**C-11192** Steve Wynn demolished the Desert Inn and built the Wynn Las Vegas on the site
 
 Claim Timestamp: 00:21:30
 
@@ -1474,7 +1474,7 @@ Investigative Direction: Verify ownership history of the Desert Inn and Frontier
 
 ---
 
-**C-5952** Bill Ackman was executive chairman of Howard Hughes Holdings from 2010 to 2024
+**C-11193** Bill Ackman was executive chairman of Howard Hughes Holdings from 2010 to 2024
 
 Claim Timestamp: 00:21:30
 
@@ -1488,7 +1488,7 @@ Investigative Direction: Check Howard Hughes Holdings SEC filings for Ackman's c
 
 ---
 
-**C-5953** Ackman made a $900 million investment in Howard Hughes Holdings in May 2025
+**C-11194** Ackman made a $900 million investment in Howard Hughes Holdings in May 2025
 
 Claim Timestamp: 00:22:19
 
@@ -1502,7 +1502,7 @@ Investigative Direction: Verify the May 2025 transaction in SEC filings and pres
 
 ---
 
-**C-5954** Frank Gay's son Robert Gay was managing director of Bain Capital for 16 years
+**C-11195** Frank Gay's son Robert Gay was managing director of Bain Capital for 16 years
 
 Claim Timestamp: 00:22:19
 
@@ -1516,7 +1516,7 @@ Investigative Direction: Check Bain Capital biographies for Robert Gay's tenure 
 
 ---
 
-**C-5955** Host says one of the "maroon boys" she researched is a relative of the Hughes family empire
+**C-11196** Host says one of the "maroon boys" she researched is a relative of the Hughes family empire
 
 Claim Timestamp: 00:23:09
 
@@ -1531,7 +1531,7 @@ Investigative Direction: Ask the host or her source to identify the person and t
 
 ---
 
-**C-5956** Host says about half of Turning Point USA is Mormon and Tyler Bowyer controlled hiring and firing
+**C-11197** Host says about half of Turning Point USA is Mormon and Tyler Bowyer controlled hiring and firing
 
 Claim Timestamp: 00:23:09
 
@@ -1546,7 +1546,7 @@ Investigative Direction: Obtain a TPUSA staff roster with stated religious affil
 
 ---
 
-**C-5957** In a UVU clip Charlie Kirk says half his team is Mormon
+**C-11198** In a UVU clip Charlie Kirk says half his team is Mormon
 
 Claim Timestamp: 00:24:10
 
@@ -1561,7 +1561,7 @@ Investigative Direction: Review the full UVU Q and A video for the context and e
 
 ---
 
-**C-5958** In the clip Charlie Kirk names Carol and Andrew as Mormon members of his team
+**C-11199** In the clip Charlie Kirk names Carol and Andrew as Mormon members of his team
 
 Claim Timestamp: 00:24:10
 
@@ -1576,7 +1576,7 @@ Investigative Direction: Identify Carol and Andrew from the clip and confirm whe
 
 ---
 
-**C-5959** Host says the "Andrew" in the clip is not Kolvet but the person who picks the tour stops
+**C-11200** Host says the "Andrew" in the clip is not Kolvet but the person who picks the tour stops
 
 Claim Timestamp: 00:24:10
 
@@ -1591,7 +1591,7 @@ Investigative Direction: Identify which TPUSA tour or field staffer named Andrew
 
 ---
 
-**C-5960** Host says Terryl Farnsworth is Mormon, takes down the cameras, and families knew Erika before Charlie
+**C-11201** Host says Terryl Farnsworth is Mormon, takes down the cameras, and families knew Erika before Charlie
 
 Claim Timestamp: 00:25:03
 
@@ -1602,13 +1602,13 @@ Transcript Snippet: Taryl's the guy who takes down the cameras, the Farnsworth g
 Anchored Artifacts: 
 Mentions: N-261, N-2, N-1
 Related Nodes: N-10383
-Supports: C-4779
+Supports: C-10165
 
 Investigative Direction: Document the Farnsworth and Frantzve family ties in Arizona records predating Erika's 2018 meeting with Charlie Kirk.
 
 ---
 
-**C-5961** Host says Tyler Bowyer handled TPUSA's money and she has texts proving he was behind Turning Point Action
+**C-11202** Host says Tyler Bowyer handled TPUSA's money and she has texts proving he was behind Turning Point Action
 
 Claim Timestamp: 00:25:03
 
@@ -1623,7 +1623,7 @@ Investigative Direction: Review the host's text messages and Turning Point Actio
 
 ---
 
-**C-5962** Host says Bowyer brought Erika in, both admitted it, and Erika cannot recall how she knows him
+**C-11203** Host says Bowyer brought Erika in, both admitted it, and Erika cannot recall how she knows him
 
 Claim Timestamp: 00:25:03
 
@@ -1637,7 +1637,7 @@ Investigative Direction: Compare with Erika Kirk's public accounts of how she wa
 
 ---
 
-**C-5963** Host says Bowyer told her TPUSA would always be pro-Israel when she urged a Charlie Kirk and Fuentes debate
+**C-11204** Host says Bowyer told her TPUSA would always be pro-Israel when she urged a Charlie Kirk and Fuentes debate
 
 Claim Timestamp: 00:25:58
 
@@ -1652,7 +1652,7 @@ Investigative Direction: Identify other witnesses to the AmFest backstage conver
 
 ---
 
-**C-5964** Host says Charlie Kirk wrote explicitly that he had no choice but to abandon the pro-Israel cause
+**C-11205** Host says Charlie Kirk wrote explicitly that he had no choice but to abandon the pro-Israel cause
 
 Claim Timestamp: 00:25:58
 
@@ -1666,7 +1666,7 @@ Investigative Direction: Locate the writing the host refers to and verify its wo
 
 ---
 
-**C-5965** Host says Charlie said he was morally blackmailed by Seth Dillon at Ackman's Hamptons house
+**C-11206** Host says Charlie said he was morally blackmailed by Seth Dillon at Ackman's Hamptons house
 
 Claim Timestamp: 00:26:42
 
@@ -1681,7 +1681,7 @@ Investigative Direction: Find the recording or message in which Charlie Kirk use
 
 ---
 
-**C-5966** Host says Charlie Kirk got a call from Netanyahu with his wife at his side and wanted a DOGE audit seven days before his death
+**C-11207** Host says Charlie Kirk got a call from Netanyahu with his wife at his side and wanted a DOGE audit seven days before his death
 
 Claim Timestamp: 00:26:42
 
@@ -1692,13 +1692,13 @@ Transcript Snippet: We know that Charlie wanted to 7 days before he died to esta
 Anchored Artifacts: 
 Mentions: N-1, N-36
 Related Nodes: N-10132, N-10018
-Supports: C-4084
+Supports: C-9231
 
 Investigative Direction: Obtain TPUSA's September 2025 internal memo establishing the audit and any call records for the Netanyahu call.
 
 ---
 
-**C-5967** Host says TPUSA employees told her money was missing from Turning Point Action
+**C-11208** Host says TPUSA employees told her money was missing from Turning Point Action
 
 Claim Timestamp: 00:27:24
 
@@ -1709,13 +1709,13 @@ Transcript Snippet: I am told specifically by Turning Point employees that the m
 Anchored Artifacts: 
 Mentions: N-11, N-3
 Related Nodes: N-10388, N-10925
-Supports: C-4055
+Supports: C-9202
 
 Investigative Direction: Seek Turning Point Action financial filings and employee statements on the alleged shortfall.
 
 ---
 
-**C-5968** Host says Bowyer sits on a company board with Erika's mother, Lori
+**C-11209** Host says Bowyer sits on a company board with Erika's mother, Lori
 
 Claim Timestamp: 00:27:24
 
@@ -1725,13 +1725,13 @@ Transcript Snippet: Tyler is sitting on the board of a company with Erika's moth
 
 Anchored Artifacts: 
 Mentions: N-11, N-2, N-489, N-261
-Supports: C-4056
+Supports: C-9203
 
 Investigative Direction: Pull corporate filings listing the board of the company shared by Bowyer and Lori Frantzve.
 
 ---
 
-**C-5969** Host says Charlie and Erika had a will-change appointment set for the Monday after his death
+**C-11210** Host says Charlie and Erika had a will-change appointment set for the Monday after his death
 
 Claim Timestamp: 00:27:24
 
@@ -1746,7 +1746,7 @@ Investigative Direction: Identify the lawyer or office with the appointment and 
 
 ---
 
-**C-5970** Host says the audit was cancelled after Erika took over
+**C-11211** Host says the audit was cancelled after Erika took over
 
 Claim Timestamp: 00:27:24
 
@@ -1757,13 +1757,13 @@ Transcript Snippet: And then his wife assumes the reins of the company. The audi
 Anchored Artifacts: 
 Mentions: N-2, N-1
 Related Nodes: N-10132
-Supports: C-4236
+Supports: C-9512
 
 Investigative Direction: Obtain confirmation from TPUSA or the auditor of the audit's status after September 2025.
 
 ---
 
-**C-5971** Host says Ben Shapiro slid into Charlie's studio with a million-dollar check
+**C-11212** Host says Ben Shapiro slid into Charlie's studio with a million-dollar check
 
 Claim Timestamp: 00:28:19
 
@@ -1777,7 +1777,7 @@ Investigative Direction: Seek Daily Wire or TPUSA statements about any payment o
 
 ---
 
-**C-5972** Host says Shapiro and Neff both admitted Shapiro and Charlie were not friends, contradicting Kolvet
+**C-11213** Host says Shapiro and Neff both admitted Shapiro and Charlie were not friends, contradicting Kolvet
 
 Claim Timestamp: 00:28:19
 
@@ -1792,7 +1792,7 @@ Investigative Direction: Retrieve Kolvet's statement describing Shapiro and Char
 
 ---
 
-**C-5973** Host says Erika began a Shabbat Shalom book tour and sat with Bari Weiss at her home
+**C-11214** Host says Erika began a Shabbat Shalom book tour and sat with Bari Weiss at her home
 
 Claim Timestamp: 00:28:19
 
@@ -1806,7 +1806,7 @@ Investigative Direction: Check the dates and venues of Erika Kirk's post-assassi
 
 ---
 
-**C-5974** Host says Erika is very close with Vegas casino families and flies on their planes
+**C-11215** Host says Erika is very close with Vegas casino families and flies on their planes
 
 Claim Timestamp: 00:28:19
 
@@ -1820,7 +1820,7 @@ Investigative Direction: Identify flights on casino-family aircraft carrying Eri
 
 ---
 
-**C-5975** Host says Erika publicly responded aggressively to an allegation she was dating Blake Wynn
+**C-11216** Host says Erika publicly responded aggressively to an allegation she was dating Blake Wynn
 
 Claim Timestamp: 00:29:13
 
@@ -1834,7 +1834,7 @@ Investigative Direction: Locate Erika Kirk's public response to the Blake Wynn a
 
 ---
 
-**C-5976** Host compares Charlie's inner circle reversing his positions to Hughes's lieutenants
+**C-11217** Host compares Charlie's inner circle reversing his positions to Hughes's lieutenants
 
 Claim Timestamp: 00:29:59
 
@@ -1849,7 +1849,7 @@ Investigative Direction: Catalogue specific TPUSA policy positions that changed 
 
 ---
 
-**C-5977** Host says she has many group chats and messages with Kolvet and Bowyer
+**C-11218** Host says she has many group chats and messages with Kolvet and Bowyer
 
 Claim Timestamp: 00:33:36
 
@@ -1863,7 +1863,7 @@ Investigative Direction: Review the group chats to confirm the participants and 
 
 ---
 
-**C-5978** Host says Shapiro tweeted that he never claimed to be close to Charlie
+**C-11219** Host says Shapiro tweeted that he never claimed to be close to Charlie
 
 Claim Timestamp: 00:33:36
 
@@ -1878,7 +1878,7 @@ Investigative Direction: Retrieve Shapiro's tweet and compare with Kolvet's orig
 
 ---
 
-**C-5979** Host says Neff said Charlie had issues with Shapiro but saw him as an ally
+**C-11220** Host says Neff said Charlie had issues with Shapiro but saw him as an ally
 
 Claim Timestamp: 00:33:36
 
@@ -1889,13 +1889,13 @@ Transcript Snippet: Blake Neff went on to the podcast and said, yeah, no, Charli
 Anchored Artifacts: 
 Mentions: N-159, N-97, N-1
 Related Nodes: N-11064
-Supports: C-2483
+Supports: C-7095
 
 Investigative Direction: Identify the podcast and timestamp of Neff's remark.
 
 ---
 
-**C-5980** Host says Erika told her crisis PR teams were brought in and Kolvet drove the PR bus
+**C-11221** Host says Erika told her crisis PR teams were brought in and Kolvet drove the PR bus
 
 Claim Timestamp: 00:34:28
 
@@ -1905,13 +1905,13 @@ Transcript Snippet: She also told me they brought in crisis PR teams and these p
 
 Anchored Artifacts: 
 Mentions: N-2, N-14, N-3
-Supports: C-4039
+Supports: C-9186
 
 Investigative Direction: Identify the crisis PR firms engaged by TPUSA or Erika Kirk and when they began.
 
 ---
 
-**C-5981** Host says the Daily Mail's direct quotes came from a family friend she guessed was Tracy
+**C-11222** Host says the Daily Mail's direct quotes came from a family friend she guessed was Tracy
 
 Claim Timestamp: 00:35:23
 
@@ -1922,13 +1922,13 @@ Transcript Snippet: Direct quotes coming from a family friend who I speculated w
 Anchored Artifacts: 
 Mentions: N-545, N-2, N-3
 Related Nodes: N-10745, N-10070
-Supports: C-3083
+Supports: C-11104
 
 Investigative Direction: Identify the Daily Mail's stated source and whether Tracy Martin spoke with its reporters.
 
 ---
 
-**C-5982** Kolvet's post suggests Candace may be the anonymous source and calls her investigation lucrative
+**C-11227** Kolvet's post suggests Candace may be the anonymous source and calls her investigation lucrative
 
 Claim Timestamp: 00:36:31
 
@@ -1939,13 +1939,13 @@ Transcript Snippet: used it as rage bait on her show because she has no actual e
 Anchored Artifacts: A-2174.1
 Mentions: N-14, N-3
 Related Nodes: N-10745
-Supports: C-3110
+Supports: C-11224
 
 Investigative Direction: Retrieve the full Kolvet thread and archive it with timestamps.
 
 ---
 
-**C-5983** Host says Daily Mail coverage of her is hostile and of Erika and TPUSA the opposite
+**C-11228** Host says Daily Mail coverage of her is hostile and of Erika and TPUSA the opposite
 
 Claim Timestamp: 00:37:21
 
@@ -1960,7 +1960,7 @@ Investigative Direction: Run a systematic search of Daily Mail headlines mention
 
 ---
 
-**C-5984** Host says her team received a Daily Mail comment request hours before publication and replied immediately
+**C-11229** Host says her team received a Daily Mail comment request hours before publication and replied immediately
 
 Claim Timestamp: 00:37:21
 
@@ -1975,7 +1975,7 @@ Investigative Direction: Obtain the Daily Mail request email with headers and th
 
 ---
 
-**C-5985** Host says TPUSA gave the Daily Mail the video of Erika being named, which the public cannot see
+**C-11230** Host says TPUSA gave the Daily Mail the video of Erika being named, which the public cannot see
 
 Claim Timestamp: 00:38:03
 
@@ -1990,7 +1990,7 @@ Investigative Direction: Review Daily Mail reporting on the appointment video fo
 
 ---
 
-**C-5986** Host says Kolvet was promoting the NCRI article titled Digital Assassin
+**C-11231** Host says Kolvet was promoting the NCRI article titled Digital Assassin
 
 Claim Timestamp: 00:39:09
 
@@ -2005,7 +2005,7 @@ Investigative Direction: Locate the NCRI publication titled Digital Assassin and
 
 ---
 
-**C-5987** Host says she has no PR apparatus and her publicist Mitchell relays press requests
+**C-11232** Host says she has no PR apparatus and her publicist Mitchell relays press requests
 
 Claim Timestamp: 00:39:09
 
@@ -2019,7 +2019,7 @@ Investigative Direction: Interview the host's PR representative and review a sam
 
 ---
 
-**C-5988** Host says the Daily Mail has not removed or retracted the article
+**C-11233** Host says the Daily Mail has not removed or retracted the article
 
 Claim Timestamp: 00:39:52
 
@@ -2030,13 +2030,13 @@ Transcript Snippet: they have not removed the article. They have not issued any 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10070, N-10745
-Qualifies: C-3112
+Qualifies: C-11225
 
 Investigative Direction: Compare archived versions of the Daily Mail article to document every update, including source description changes.
 
 ---
 
-**C-5989** Host says Erika answered a pageant-era question about advice to her younger self with Don't try cocaine
+**C-11234** Host says Erika answered a pageant-era question about advice to her younger self with Don't try cocaine
 
 Claim Timestamp: 00:40:46
 
@@ -2050,7 +2050,7 @@ Investigative Direction: Find the pageant or audition video the host refers to a
 
 ---
 
-**C-5990** Host alleges Erika phoned priests to pull out of a Catholic prayer event
+**C-11235** Host alleges Erika phoned priests to pull out of a Catholic prayer event
 
 Claim Timestamp: 00:41:37
 
@@ -2060,13 +2060,13 @@ Transcript Snippet: what I'm saying about her calling priests and calling people
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Supports: C-4394
+Supports: C-9778
 
 Investigative Direction: Interview the clergy or event organizers contacted about the Catholic prayer event.
 
 ---
 
-**C-5991** Host says Erika lied about the surgeon call by saying Kolvet went rogue
+**C-11236** Host says Erika lied about the surgeon call by saying Kolvet went rogue
 
 Claim Timestamp: 00:41:37
 
@@ -2077,13 +2077,13 @@ Transcript Snippet: What kind of Christian would just say lie explicitly, say An
 Anchored Artifacts: 
 Mentions: N-2, N-14
 Related Nodes: N-10447, N-10341
-Supports: C-4803
+Supports: C-10189
 
 Investigative Direction: Obtain call logs for the three-way call and Erika Kirk's statement that Kolvet went rogue.
 
 ---
 
-**C-5992** Host says people told her about Erika's partying and she left it off the table
+**C-11237** Host says people told her about Erika's partying and she left it off the table
 
 Claim Timestamp: 00:42:24
 
@@ -2097,7 +2097,7 @@ Investigative Direction: Contact the people who wrote to the host and request co
 
 ---
 
-**C-5993** Host denies any involvement in the Daily Mail article and offers to ally in a defamation case
+**C-11238** Host denies any involvement in the Daily Mail article and offers to ally in a defamation case
 
 Claim Timestamp: 00:43:09
 
@@ -2108,13 +2108,13 @@ Transcript Snippet: I am asserting definitively that I had nothing to do with th
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-2
 Related Nodes: N-10745, N-10070
-Contradicts: C-3110
+Contradicts: C-11224
 
 Investigative Direction: Compare the host's and her PR's email chain with the Daily Mail to verify no contact beyond the comment request.
 
 ---
 
-**C-5994** Host says the black and brown SUV panel is a factory option, not evidence of burning
+**C-11239** Host says the black and brown SUV panel is a factory option, not evidence of burning
 
 Claim Timestamp: 00:44:12
 
@@ -2128,7 +2128,7 @@ Investigative Direction: Identify the vehicle make and trim and confirm the inte
 
 ---
 
-**C-5995** Host says tomorrow's episode will cover whom Shapiro lunched with when his security sprang into action
+**C-11240** Host says tomorrow's episode will cover whom Shapiro lunched with when his security sprang into action
 
 Claim Timestamp: 00:44:12
 
@@ -2139,13 +2139,13 @@ Transcript Snippet: tomorrow is when we're going to cover obviously who Ben Shap
 Anchored Artifacts: 
 Mentions: N-97, N-3
 Related Nodes: N-10712
-Supports: C-3015
+Supports: C-10667
 
 Investigative Direction: Compare with the following episode and evidence naming the lunch companion.
 
 ---
 
-**C-5996** Host says it is a fact Mikey McCoy had two phones when he and Charlie walked into the event
+**C-11242** Host says it is a fact Mikey McCoy had two phones when he and Charlie walked into the event
 
 Claim Timestamp: 00:45:08
 
@@ -2160,7 +2160,7 @@ Investigative Direction: Review event-entry and hospital-arrival video for the d
 
 ---
 
-**C-5997** In the clip Neff says he called his mother and Mikey called Erika and then his dad
+**C-11243** In the clip Neff says he called his mother and Mikey called Erika and then his dad
 
 Claim Timestamp: 00:45:08
 
@@ -2171,13 +2171,13 @@ Transcript Snippet: I remember he calls Erika. I around the same time I pull out
 Anchored Artifacts: A-2176.1
 Mentions: N-159, N-190, N-2, N-17
 Related Nodes: N-10550
-Supports: C-3093
+Supports: C-11084
 
 Investigative Direction: Match Neff's account against Mikey McCoy's call logs.
 
 ---
 
-**C-5998** Host says the second phone could be Charlie's because she and Charlie handed phones to assistants
+**C-11244** Host says the second phone could be Charlie's because she and Charlie handed phones to assistants
 
 Claim Timestamp: 00:45:49
 
@@ -2188,13 +2188,13 @@ Transcript Snippet: it is also a plausibility that Charlie gave his phone um to 
 Anchored Artifacts: A-2176.1
 Mentions: N-1, N-190, N-3
 Related Nodes: N-10746
-Qualifies: C-3114
+Qualifies: C-11241
 
 Investigative Direction: Check video of Charlie Kirk's table and stage at the event for his phone.
 
 ---
 
-**C-5999** Seamstress proposes the burned item's seam is a lower-sleeve seam with the armpit join missing
+**C-11246** Seamstress proposes the burned item's seam is a lower-sleeve seam with the armpit join missing
 
 Claim Timestamp: 00:46:58
 
@@ -2205,13 +2205,13 @@ Transcript Snippet: I also included a photo of what makes sense to me of how tha
 Anchored Artifacts: A-2177.1
 Mentions: N-3
 Related Nodes: N-10714, N-10740
-Supports: C-3017
+Supports: C-10698
 
 Investigative Direction: Obtain the seamstress's photos and have an independent textile expert assess the seam geometry.
 
 ---
 
-**C-6000** Host says many industry emailers say the item is a shirt
+**C-11247** Host says many industry emailers say the item is a shirt
 
 Claim Timestamp: 00:47:39
 
@@ -2222,13 +2222,13 @@ Transcript Snippet: we got so many emails from people saying it's a shirt, shirt
 Anchored Artifacts: A-2177.1
 Mentions: N-3
 Related Nodes: N-10714
-Supports: C-3017
+Supports: C-10698
 
 Investigative Direction: Collect the emails and have a textile expert review the object photo.
 
 ---
 
-**C-6001** Host says Neff said I'll never forget and then recalled Mikey's quivering lip and calling Erika
+**C-11248** Host says Neff said I'll never forget and then recalled Mikey's quivering lip and calling Erika
 
 Claim Timestamp: 00:50:31
 
@@ -2239,13 +2239,13 @@ Transcript Snippet: That's a quotation from Blake Neff, who now has amnesia.
 Anchored Artifacts: A-2179.2
 Mentions: N-159, N-190, N-2, N-3
 Related Nodes: N-10550
-Supports: C-3093
+Supports: C-11084
 
 Investigative Direction: Retrieve Neff's interview with the I'll never forget line and compare with call logs.
 
 ---
 
-**C-6002** Host says Taylor Marshall is a friend of her husband and has been hosted in Nashville
+**C-11249** Host says Taylor Marshall is a friend of her husband and has been hosted in Nashville
 
 Claim Timestamp: 00:51:48
 
@@ -2259,7 +2259,7 @@ Investigative Direction: Confirm the planned project and its cancellation with M
 
 ---
 
-**C-6003** Host says Erika invited influencers into the courtroom for the preliminary hearing
+**C-11250** Host says Erika invited influencers into the courtroom for the preliminary hearing
 
 Claim Timestamp: 00:52:37
 
@@ -2274,7 +2274,7 @@ Investigative Direction: Identify which influencers attended the preliminary hea
 
 ---
 
-**C-6004** Host predicts TPUSA will file a lawsuit to bankrupt investigators, citing the Sandy Hook push
+**C-11251** Host predicts TPUSA will file a lawsuit to bankrupt investigators, citing the Sandy Hook push
 
 Claim Timestamp: 00:53:16
 
@@ -2289,7 +2289,7 @@ Investigative Direction: Monitor court dockets for any suit filed against the ho
 
 ---
 
-**C-6005** Host says Kolvet is selling that Charlie was a liar who secretly hated everybody
+**C-11252** Host says Kolvet is selling that Charlie was a liar who secretly hated everybody
 
 Claim Timestamp: 00:57:08
 
@@ -2303,7 +2303,7 @@ Investigative Direction: Collect Kolvet's public statements on Charlie's private
 
 ---
 
-**C-6006** In the compilation Charlie says to surround yourself with people like Candace who are honest and have your back
+**C-11254** In the compilation Charlie says to surround yourself with people like Candace who are honest and have your back
 
 Claim Timestamp: 00:58:13
 
@@ -2313,13 +2313,13 @@ Transcript Snippet: something that um they're going to tell you, you know, the t
 
 Anchored Artifacts: A-2178.1
 Mentions: N-1, N-3
-Supports: C-1715, C-3116
+Supports: C-2863, C-11253
 
 Investigative Direction: Identify the source interview for the clip.
 
 ---
 
-**C-6007** Host says the 15-minute compilation of her and Charlie appears to have been made at Deseret
+**C-11255** Host says the 15-minute compilation of her and Charlie appears to have been made at Deseret
 
 Claim Timestamp: 00:59:34
 

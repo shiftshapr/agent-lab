@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep094): N-10640
   - Tip-minted Nodes (reintro-ep094): N-827
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10f): C-13346–C-13445
+  - Claim Range: C-8364–C-8489
   - New Nodes Introduced: N-10623, N-10625, N-10626, N-10627, N-10629, N-10632, N-10636
   - Hole-minted Nodes (wave3): N-425, N-426
   - Reused Nodes Appearing: N-10631, N-10628, N-10635, N-10630, N-10624, N-4, N-6, N-30, N-54, N-69, N-193, N-268, N-272, N-278, N-533, N-600, N-10013, N-10014, N-10021, N-10022, N-10034, N-10077, N-10110, N-10142, N-10168, N-10202, N-10239, N-10271, N-10319, N-10360, N-10487, N-10570, N-10587, N-10590, N-10598, N-10604, N-10607, N-10608, N-10610, N-10616, N-10617, N-10660, N-10665, N-10770, N-10975, N-11149, N-11218, N-10713, N-10633, N-10634
@@ -46,7 +46,7 @@ Video Timestamp: 00:01:20–00:06:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (audio quality degraded; AI-cleaned)
 
-*Related: C-2764, C-2765, C-2766, N-10623*
+*Related: C-8374, C-8375, C-8378, N-10623*
 
 ---
 
@@ -59,7 +59,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:06:28–00:17:22
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2767, C-2768, C-2769, N-10623, N-10624*
+*Related: C-8387, C-8390, C-8394, N-10623, N-10624*
 
 **A-1994.2** Audio of defense attorney Kathy Nester addressing the court re: phone and gun access
 
@@ -68,7 +68,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:12:20–00:15:13
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2770, C-2771, C-2772, N-10623, N-10624*
+*Related: C-8399, C-8400, C-8391, N-10623, N-10624*
 
 ---
 
@@ -81,7 +81,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:33:58–00:36:29
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2773, N-10624*
+*Related: C-8430, N-10624*
 
 **A-1995.2** Trump Truth Social follow-up post referring to Candace Owens as mentally ill
 
@@ -90,7 +90,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:36:29
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2774, N-10624*
+*Related: C-8434, N-10624*
 
 ---
 
@@ -103,7 +103,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:24:50–00:25:48
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2775, N-10625*
+*Related: C-8418, N-10625*
 
 ---
 
@@ -116,7 +116,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:26:35
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2776, N-10625*
+*Related: C-8420, N-10625*
 
 **A-1997.2** Daily Beast headline: "High school moves Erika Kirk event off campus after students revolt"
 
@@ -125,7 +125,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:26:35
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2777, N-10625*
+*Related: C-8421, N-10625*
 
 **A-1997.3** Arizona Republic headline: "A high school group invited Erika Kirk to campus. Parents are not happy."
 
@@ -134,7 +134,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:26:35
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2778, N-10625*
+*Related: C-8422, N-10625*
 
 ---
 
@@ -147,7 +147,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:41:44–00:42:43
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2779, N-10629*
+*Related: C-8450, N-10629*
 
 ---
 
@@ -160,7 +160,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:39:25
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2780, N-10630*
+*Related: C-8441, N-10630*
 
 ---
 
@@ -173,7 +173,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:40:54
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2781, N-10628*
+*Related: C-8446, N-10628*
 
 **A-2000.2** Audio clip of Milo Yiannopoulos describing alleged sexual assault by Laura Loomer of a Brazilian volunteer on her 2020 congressional campaign
 
@@ -182,7 +182,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:44:53–00:46:52
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2782, N-10629*
+*Related: C-8455, N-10629*
 
 ---
 
@@ -195,7 +195,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:47:42
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2783, N-10629*
+*Related: C-8461, N-10629*
 
 ---
 
@@ -208,7 +208,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:48:26–00:49:11
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2784, N-10629, N-10631*
+*Related: C-8465, N-10629, N-10631*
 
 ---
 
@@ -221,7 +221,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:49:11–00:50:08
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2785, N-10631*
+*Related: C-8467, N-10631*
 
 ---
 
@@ -234,7 +234,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:42:43–00:44:06
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2786, N-10629*
+*Related: C-8453, N-10629*
 
 ---
 
@@ -247,7 +247,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:54:44–00:55:45
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2787*
+*Related: C-8474*
 
 **A-2005.2** Comment by user "Joe Mattei" referencing Erika's video comment "Forgive Druski like you forgave the shooter"
 
@@ -328,7 +328,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:01:45
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2788, N-10634*
+*Related: C-8485, N-10634*
 
 ---
 
@@ -342,7 +342,7 @@ Video Timestamp: 00:17:23–00:18:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low – Artifact verbally referenced but not shown
 
-*Related: C-2789, N-10626*
+*Related: C-8405, N-10626*
 
 ---
 
@@ -357,7 +357,7 @@ Video Timestamp: 00:24:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-13383, C-13386, C-13387, N-3*
+*Related: C-8411, C-8414, C-8415, N-3*
 
 ---
 
@@ -370,7 +370,7 @@ Video Timestamp: 01:01:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13444, C-13445, N-3*
+*Related: C-8488, C-8489, N-3*
 
 ---
 
@@ -380,13 +380,13 @@ Confidence Level: Low
 
 First named by the host at 00:10:02 in episode 94. Aliases: Richard Novak.
 
-*Related: C-2767*
+*Related: C-8387*
 
 **N-426** Alan Jacoby
 
 First named by the host at 00:41:44 in episode 94.
 
-*Related: C-2779*
+*Related: C-8450*
 
 
 **N-10623** Defense Access to Tyler Robinson Phone Data
@@ -398,7 +398,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1994.1, A-1994.2, C-2767, C-2771*
+*Related: A-1994.1, A-1994.2, C-8387, C-8400*
 
 ---
 
@@ -411,7 +411,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1994.1, A-1994.2, C-2768, C-2770*
+*Related: A-1994.1, A-1994.2, C-8390, C-8399*
 
 ---
 
@@ -437,7 +437,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2006.1, C-2789*
+*Related: A-2006.1, C-8405*
 
 ---
 
@@ -450,7 +450,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1996.1, A-1997.1, A-1997.2, A-1997.3, C-2775, C-2776, C-2777, C-2778*
+*Related: A-1996.1, A-1997.1, A-1997.2, A-1997.3, C-8418, C-8420, C-8421, C-8422*
 
 ---
 
@@ -463,7 +463,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2000.1, C-2781*
+*Related: A-2000.1, C-8446*
 
 ---
 
@@ -476,7 +476,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1998.1, A-2000.2, A-2001.1, A-2004.1, C-2779, C-2782, C-2783, C-2786*
+*Related: A-1998.1, A-2000.2, A-2001.1, A-2004.1, C-8450, C-8455, C-8461, C-8453*
 
 ---
 
@@ -489,7 +489,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1999.1, C-2780*
+*Related: A-1999.1, C-8441*
 
 ---
 
@@ -502,7 +502,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2002.1, A-2003.1, C-2784, C-2785*
+*Related: A-2002.1, A-2003.1, C-8465, C-8467*
 
 ---
 
@@ -515,7 +515,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1993.1, C-2764, C-2765, C-2766*
+*Related: A-1993.1, C-8374, C-8375, C-8378*
 
 ---
 
@@ -541,7 +541,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2005.10, C-2788*
+*Related: A-2005.10, C-8485*
 
 ---
 
@@ -575,7 +575,7 @@ Investigative Pressure: Low
 
 Subject of the assassination; the host speaks of his injuries and last week.
 
-*Related: C-13347, C-13358, C-13359, C-13360, C-13432, C-13436, C-13437*
+*Related: C-8365, C-8379, C-8380, C-8381, C-8475, C-8479, C-8480*
 
 ---
 
@@ -583,7 +583,7 @@ Subject of the assassination; the host speaks of his injuries and last week.
 
 Widow and TPUSA CEO; the host discusses the canceled events, her lawyer's account and her credentials.
 
-*Related: C-13362, C-13363, C-13364, C-13375, C-13378, C-13379, C-13380, C-13383, C-13384, C-13385, C-13386, C-13387, C-13388, C-13389, C-13390, C-13391, C-13392, C-13393, C-13395*
+*Related: C-8383, C-8384, C-8385, C-8402, C-8406, C-8407, C-8408, C-8411, C-8412, C-8413, C-8414, C-8415, C-8416, C-8417, C-8419, C-8423, C-8424, C-8425, C-8427*
 
 ---
 
@@ -591,7 +591,7 @@ Widow and TPUSA CEO; the host discusses the canceled events, her lawyer's accoun
 
 Host; speaks for herself throughout.
 
-*Related: C-13346, C-13349, C-13359, C-13363, C-13376, C-13391, C-13393, C-13402, C-13403, C-13404, C-13423, C-13424, C-13425, C-13426, C-13427, C-13428, C-13430, C-13438, C-13444, C-13445*
+*Related: C-8364, C-8367, C-8380, C-8384, C-8403, C-8423, C-8425, C-8436, C-8437, C-8438, C-8463, C-8464, C-8466, C-8468, C-8469, C-8470, C-8472, C-8481, C-8488, C-8489*
 
 ---
 
@@ -599,7 +599,7 @@ Host; speaks for herself throughout.
 
 Vice president; the host says Erika canceled on him.
 
-*Related: C-13388*
+*Related: C-8416*
 
 ---
 
@@ -607,7 +607,7 @@ Vice president; the host says Erika canceled on him.
 
 President; subject of the Truth Social posts the host reads and of the Loomer discussion.
 
-*Related: C-13346, C-13383, C-13396, C-13397, C-13398, C-13399, C-13400, C-13401, C-13411, C-13422, C-13431*
+*Related: C-8364, C-8411, C-8428, C-8429, C-8431, C-8432, C-8433, C-8435, C-8447, C-8462, C-8473*
 
 ---
 
@@ -615,7 +615,7 @@ President; subject of the Truth Social posts the host reads and of the Loomer di
 
 Reporter who spoke with the grandfather and is cited by the host.
 
-*Related: C-13348, C-13349, C-13394*
+*Related: C-8366, C-8367, C-8426*
 
 ---
 
@@ -623,7 +623,7 @@ Reporter who spoke with the grandfather and is cited by the host.
 
 Host's husband George Farmer, subject of Loomer's claims and the host's account of the $6,987 payment.
 
-*Related: C-13423, C-13424, C-13425, C-13428, C-13429, C-13430*
+*Related: C-8463, C-8464, C-8466, C-8470, C-8471, C-8472*
 
 ---
 
@@ -631,7 +631,7 @@ Host's husband George Farmer, subject of Loomer's claims and the host's account 
 
 Defendant; the grandfather, defense counsel and the host discuss his case and the evidence.
 
-*Related: C-13347, C-13348, C-13350, C-13351, C-13352, C-13353, C-13354, C-13355, C-13356, C-13357, C-13361, C-13362, C-13364, C-13365, C-13369, C-13370, C-13371, C-13377, C-13381, C-13382, C-13433, C-13434, C-13435, C-13440, C-13443*
+*Related: C-8365, C-8366, C-8368, C-8369, C-8370, C-8371, C-8372, C-8373, C-8376, C-8377, C-8382, C-8383, C-8385, C-8386, C-8393, C-8395, C-8396, C-8404, C-8409, C-8410, C-8476, C-8477, C-8478, C-8483, C-8487*
 
 ---
 
@@ -639,7 +639,7 @@ Defendant; the grandfather, defense counsel and the host discuss his case and th
 
 Megyn Kelly.
 
-*Related: C-13400*
+*Related: C-8433*
 
 ---
 
@@ -647,7 +647,7 @@ Megyn Kelly.
 
 Lance Twiggs, whose family the host says she spoke with.
 
-*Related: C-13441, C-13442, C-13443*
+*Related: C-8484, C-8486, C-8487*
 
 ---
 
@@ -655,7 +655,7 @@ Lance Twiggs, whose family the host says she spoke with.
 
 Laura Loomer; the host's allegations about her mental health, identity and conduct.
 
-*Related: C-13401, C-13402, C-13403, C-13404, C-13405, C-13406, C-13407, C-13408, C-13409, C-13410, C-13411, C-13412, C-13413, C-13414, C-13415, C-13416, C-13417, C-13418, C-13419, C-13420, C-13421, C-13422, C-13423, C-13424, C-13425, C-13426, C-13427, C-13429, C-13431*
+*Related: C-8435, C-8436, C-8437, C-8438, C-8439, C-8440, C-8442, C-8443, C-8444, C-8445, C-8447, C-8448, C-8449, C-8451, C-8452, C-8454, C-8456, C-8457, C-8458, C-8459, C-8460, C-8462, C-8463, C-8464, C-8466, C-8468, C-8469, C-8471, C-8473*
 
 ---
 
@@ -663,7 +663,7 @@ Laura Loomer; the host's allegations about her mental health, identity and condu
 
 Kash Patel; the FBI's role in discovery.
 
-*Related: C-13365, C-13372, C-13373*
+*Related: C-8386, C-8397, C-8398*
 
 ---
 
@@ -671,7 +671,7 @@ Kash Patel; the FBI's role in discovery.
 
 David Horowitz, whose center the host says she was traveling to speak at.
 
-*Related: C-13402*
+*Related: C-8436*
 
 ---
 
@@ -679,7 +679,7 @@ David Horowitz, whose center the host says she was traveling to speak at.
 
 Milo Yiannopoulos, whose written piece and audio the host plays about Loomer.
 
-*Related: C-13410, C-13416, C-13417, C-13418, C-13419*
+*Related: C-8445, C-8454, C-8456, C-8457, C-8458*
 
 ---
 
@@ -687,7 +687,7 @@ Milo Yiannopoulos, whose written piece and audio the host plays about Loomer.
 
 Joe Rogan, who the host says finds Erika weird.
 
-*Related: C-13392*
+*Related: C-8424*
 
 ---
 
@@ -695,7 +695,7 @@ Joe Rogan, who the host says finds Erika weird.
 
 Sheriff Nate Brooksby, whom the host says admitted Robinson was coerced.
 
-*Related: C-13353*
+*Related: C-8371*
 
 ---
 
@@ -703,7 +703,7 @@ Sheriff Nate Brooksby, whom the host says admitted Robinson was coerced.
 
 Bari Weiss, to whom the host says Erika said she was 100 percent sure.
 
-*Related: C-13362*
+*Related: C-8383*
 
 ---
 
@@ -711,7 +711,7 @@ Bari Weiss, to whom the host says Erika said she was 100 percent sure.
 
 Victor Marx, the subject of the viewer comment the host endorses.
 
-*Related: C-13439*
+*Related: C-8482*
 
 ---
 
@@ -719,7 +719,7 @@ Victor Marx, the subject of the viewer comment the host endorses.
 
 Hillary Clinton, subject of the host's aside.
 
-*Related: C-13394*
+*Related: C-8426*
 
 ---
 
@@ -727,7 +727,7 @@ Hillary Clinton, subject of the host's aside.
 
 Melania Trump, whose circle the host says fears Loomer.
 
-*Related: C-13411*
+*Related: C-8447*
 
 ---
 
@@ -735,7 +735,7 @@ Melania Trump, whose circle the host says fears Loomer.
 
 Kathy Nester, defense attorney quoted on the phone, the gun and the physical evidence.
 
-*Related: C-13371, C-13374*
+*Related: C-8396, C-8401*
 
 ---
 
@@ -743,7 +743,7 @@ Kathy Nester, defense attorney quoted on the phone, the gun and the physical evi
 
 Existing organization reused for new claims in this episode.
 
-*Related: C-13370*
+*Related: C-8395*
 
 ---
 
@@ -751,7 +751,7 @@ Existing organization reused for new claims in this episode.
 
 Existing organization reused for new claims in this episode.
 
-*Related: C-13365, C-13366, C-13367, C-13372, C-13373, C-13409*
+*Related: C-8386, C-8389, C-8388, C-8397, C-8398, C-8444*
 
 ---
 
@@ -759,7 +759,7 @@ Existing organization reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13353, C-13354*
+*Related: C-8371, C-8372*
 
 ---
 
@@ -767,7 +767,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13350, C-13351, C-13352, C-13354*
+*Related: C-8368, C-8369, C-8370, C-8372*
 
 ---
 
@@ -775,7 +775,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13441, C-13442*
+*Related: C-8484, C-8486*
 
 ---
 
@@ -783,7 +783,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13370, C-13443, C-13444, C-13445*
+*Related: C-8395, C-8487, C-8488, C-8489*
 
 ---
 
@@ -791,7 +791,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13361, C-13362, C-13363, C-13364, C-13367, C-13368, C-13369, C-13374, C-13433*
+*Related: C-8382, C-8383, C-8384, C-8385, C-8388, C-8392, C-8393, C-8401, C-8476*
 
 ---
 
@@ -799,7 +799,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13353*
+*Related: C-8371*
 
 ---
 
@@ -807,7 +807,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13434, C-13440*
+*Related: C-8477, C-8483*
 
 ---
 
@@ -815,7 +815,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13365, C-13372*
+*Related: C-8386, C-8397*
 
 ---
 
@@ -823,7 +823,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13436*
+*Related: C-8479*
 
 ---
 
@@ -831,7 +831,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13435*
+*Related: C-8478*
 
 ---
 
@@ -839,7 +839,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13358, C-13359, C-13360*
+*Related: C-8379, C-8380, C-8381*
 
 ---
 
@@ -847,7 +847,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13347*
+*Related: C-8365*
 
 ---
 
@@ -855,7 +855,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13383*
+*Related: C-8411*
 
 ---
 
@@ -863,7 +863,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13364, C-13365, C-13366, C-13368, C-13369, C-13373, C-13377, C-13380*
+*Related: C-8385, C-8386, C-8389, C-8392, C-8393, C-8398, C-8404, C-8408*
 
 ---
 
@@ -871,7 +871,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13346, C-13396, C-13397, C-13398, C-13399, C-13400*
+*Related: C-8364, C-8428, C-8429, C-8431, C-8432, C-8433*
 
 ---
 
@@ -879,7 +879,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13401, C-13411, C-13422*
+*Related: C-8435, C-8447, C-8462*
 
 ---
 
@@ -887,7 +887,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13442*
+*Related: C-8486*
 
 ---
 
@@ -895,7 +895,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13439*
+*Related: C-8482*
 
 ---
 
@@ -903,7 +903,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13384, C-13385, C-13388*
+*Related: C-8412, C-8413, C-8416*
 
 ---
 
@@ -911,7 +911,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13385, C-13387*
+*Related: C-8413, C-8415*
 
 ---
 
@@ -919,7 +919,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13389, C-13390, C-13391*
+*Related: C-8417, C-8419, C-8423*
 
 ---
 
@@ -927,7 +927,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13384, C-13388*
+*Related: C-8412, C-8416*
 
 ---
 
@@ -935,7 +935,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13384*
+*Related: C-8412*
 
 ---
 
@@ -943,7 +943,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13399*
+*Related: C-8432*
 
 ---
 
@@ -951,7 +951,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13359, C-13360*
+*Related: C-8380, C-8381*
 
 ---
 
@@ -959,7 +959,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13395*
+*Related: C-8427*
 
 ---
 
@@ -967,7 +967,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13443, C-13444, C-13445*
+*Related: C-8487, C-8488, C-8489*
 
 ---
 
@@ -975,7 +975,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13437*
+*Related: C-8480*
 
 ---
 
@@ -983,7 +983,7 @@ Existing topic reused for new claims in this episode.
 
 Existing organization reused for new claims in this episode.
 
-*Related: C-13366, C-13367*
+*Related: C-8389, C-8388*
 
 ---
 
@@ -991,7 +991,7 @@ Existing organization reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13361, C-13371, C-13375, C-13379, C-13380, C-13381, C-13433*
+*Related: C-8382, C-8396, C-8402, C-8407, C-8408, C-8409, C-8476*
 
 ---
 
@@ -999,7 +999,7 @@ Existing topic reused for new claims in this episode.
 
 Existing organization reused for new claims in this episode.
 
-*Related: C-13436, C-13437*
+*Related: C-8479, C-8480*
 
 ---
 
@@ -1008,7 +1008,7 @@ Existing organization reused for new claims in this episode.
 Node Type: Organization
 Organization the host and Kathy Nester call the SBI, which holds some physical evidence the defense reviewed and which the defense says is waiting for FBI discovery.
 
-*Related: C-13373, C-13374*
+*Related: C-8398, C-8401*
 
 ---
 
@@ -1016,7 +1016,7 @@ Organization the host and Kathy Nester call the SBI, which holds some physical e
 
 First named by the host at 00:47:42 in episode 94. Named by the host as the subject of a Loomer claim that she was making up cancer.
 
-*Related: C-13422*
+*Related: C-8462*
 
 ---
 
@@ -1025,7 +1025,7 @@ First named by the host at 00:47:42 in episode 94. Named by the host as the subj
 Node Type: Topic
 Erika Kirk's Friday appearance opening for Trump at the Dream City Church in Phoenix, set against the canceled Georgia and Pinnacle High School events.
 
-*Related: C-13383, C-13386, C-13387*
+*Related: C-8411, C-8414, C-8415*
 
 ---
 
@@ -1033,7 +1033,7 @@ Erika Kirk's Friday appearance opening for Trump at the Dream City Church in Pho
 
 First named by the host at 00:51:13 in episode 94. Named by the host as a Trump friend who she says knows about Loomer's suicidal attempts and accounts.
 
-*Related: C-13431*
+*Related: C-8473*
 
 ---
 
@@ -1041,7 +1041,7 @@ First named by the host at 00:51:13 in episode 94. Named by the host as a Trump 
 
 First named by the host at 00:34:38 in episode 94. Named in the Truth Social post the host reads as the person Trump says he was watching.
 
-*Related: C-13397, C-13398*
+*Related: C-8429, C-8431*
 
 ---
 
@@ -1049,13 +1049,13 @@ First named by the host at 00:34:38 in episode 94. Named in the Truth Social pos
 
 First named by the host at 00:36:39 in episode 94. Named by the host as the head of Twitter when Loomer lost her checkmark.
 
-*Related: C-13402*
+*Related: C-8436*
 
 ---
 
 ## 5. Claim Register
 
-**C-2764** Tyler Robinson's Grandfather Publicly Supports His Grandson
+**C-8374** Tyler Robinson's Grandfather Publicly Supports His Grandson
 
 Claim Timestamp: 00:04:32
 
@@ -1070,7 +1070,7 @@ Investigative Direction: Verify identity of grandfather from court records and c
 
 ---
 
-**C-2765** Tyler Robinson's Grandfather Cites Great-Grandfather's Law Enforcement Background
+**C-8375** Tyler Robinson's Grandfather Cites Great-Grandfather's Law Enforcement Background
 
 Claim Timestamp: 00:04:45
 
@@ -1085,7 +1085,7 @@ Investigative Direction: Verify great-grandfather's law enforcement service in t
 
 ---
 
-**C-2766** Tyler Robinson's Grandfather Disputes .30-06 Wound Pattern
+**C-8378** Tyler Robinson's Grandfather Disputes .30-06 Wound Pattern
 
 Claim Timestamp: 00:05:39
 
@@ -1100,7 +1100,7 @@ Investigative Direction: Obtain forensic pathology documentation regarding the a
 
 ---
 
-**C-2767** Richard Novak States Defense Lacks Forensic Data Files
+**C-8387** Richard Novak States Defense Lacks Forensic Data Files
 
 Claim Timestamp: 00:10:02
 
@@ -1115,7 +1115,7 @@ Investigative Direction: Confirm whether data files have subsequently been produ
 
 ---
 
-**C-2768** DNA Reports from September 2025 Cited but Not Produced to Defense
+**C-8390** DNA Reports from September 2025 Cited but Not Produced to Defense
 
 Claim Timestamp: 00:11:37
 
@@ -1130,7 +1130,7 @@ Investigative Direction: Request the September 2025 DNA reports via public recor
 
 ---
 
-**C-2769** Kathy Nester States Defense Has Not Accessed Tyler Robinson's Phone
+**C-8394** Kathy Nester States Defense Has Not Accessed Tyler Robinson's Phone
 
 Claim Timestamp: 00:12:20
 
@@ -1145,7 +1145,7 @@ Investigative Direction: Verify chain of custody and forensic examination status
 
 ---
 
-**C-2770** Kathy Nester States Defense Has Never Seen the Gun
+**C-8399** Kathy Nester States Defense Has Never Seen the Gun
 
 Claim Timestamp: 00:15:13
 
@@ -1160,7 +1160,7 @@ Investigative Direction: Confirm physical location of the firearm and whether de
 
 ---
 
-**C-2771** Gun Held at Quantico in a State Case
+**C-8400** Gun Held at Quantico in a State Case
 
 Claim Timestamp: 00:15:13
 
@@ -1175,7 +1175,7 @@ Investigative Direction: Determine jurisdictional basis for federal custody of e
 
 ---
 
-**C-2772** Host Says Prosecution Plans 35 Exhibits at Probable Cause Hearing
+**C-8391** Host Says Prosecution Plans 35 Exhibits at Probable Cause Hearing
 
 Claim Timestamp: 00:11:37
 
@@ -1189,7 +1189,7 @@ Investigative Direction: Obtain probable cause hearing exhibit list when filed.
 
 ---
 
-**C-2773** Trump Truth Social Post: "Dying Fast"
+**C-8430** Trump Truth Social Post: "Dying Fast"
 
 Claim Timestamp: 00:35:29
 
@@ -1204,7 +1204,7 @@ Investigative Direction: Verify post directly on Truth Social; note timestamp an
 
 ---
 
-**C-2774** Trump Follow-up Post Mentions "Mentally Ill"
+**C-8434** Trump Follow-up Post Mentions "Mentally Ill"
 
 Claim Timestamp: 00:36:29
 
@@ -1219,7 +1219,7 @@ Investigative Direction: Locate and verify the exact second post on Truth Social
 
 ---
 
-**C-2775** Turning Point Cited Death Threats in Canceling Pinnacle High School Event
+**C-8418** Turning Point Cited Death Threats in Canceling Pinnacle High School Event
 
 Claim Timestamp: 00:24:50
 
@@ -1234,7 +1234,7 @@ Investigative Direction: Verify the email's authenticity; cross-reference with p
 
 ---
 
-**C-2776** Newsweek: Parent Backlash Against Erika Kirk High School Talk
+**C-8420** Newsweek: Parent Backlash Against Erika Kirk High School Talk
 
 Claim Timestamp: 00:26:35
 
@@ -1249,7 +1249,7 @@ Investigative Direction: Retrieve full Newsweek article and inspect specific cla
 
 ---
 
-**C-2777** Daily Beast: Student Revolt Prompted Off-Campus Move
+**C-8421** Daily Beast: Student Revolt Prompted Off-Campus Move
 
 Claim Timestamp: 00:26:35
 
@@ -1264,7 +1264,7 @@ Investigative Direction: Retrieve Daily Beast article; check named sources.
 
 ---
 
-**C-2778** Arizona Republic: Parents Unhappy With Erika Kirk Campus Invitation
+**C-8422** Arizona Republic: Parents Unhappy With Erika Kirk Campus Invitation
 
 Claim Timestamp: 00:26:35
 
@@ -1279,7 +1279,7 @@ Investigative Direction: Retrieve full Arizona Republic article.
 
 ---
 
-**C-2779** Alan Jacoby Publicly Accused Laura Loomer of Groping
+**C-8450** Alan Jacoby Publicly Accused Laura Loomer of Groping
 
 Claim Timestamp: 00:41:44
 
@@ -1294,7 +1294,7 @@ Investigative Direction: Verify Jacoby's tweet directly; check for any legal fil
 
 ---
 
-**C-2780** Laura Loomer Video Shows Her Learning to Draw Star of David
+**C-8441** Laura Loomer Video Shows Her Learning to Draw Star of David
 
 Claim Timestamp: 00:39:25
 
@@ -1309,7 +1309,7 @@ Investigative Direction: Verify date and source of the video; consider whether t
 
 ---
 
-**C-2781** Milo Yiannopoulos Published Alleged Laura Loomer Diagnoses
+**C-8446** Milo Yiannopoulos Published Alleged Laura Loomer Diagnoses
 
 Claim Timestamp: 00:40:15
 
@@ -1324,7 +1324,7 @@ Investigative Direction: Locate original Yiannopoulos publication; assess sourci
 
 ---
 
-**C-2782** Milo Yiannopoulos Alleged Loomer Sexually Assaulted 2020 Campaign Volunteer
+**C-8455** Milo Yiannopoulos Alleged Loomer Sexually Assaulted 2020 Campaign Volunteer
 
 Claim Timestamp: 00:44:53
 
@@ -1339,7 +1339,7 @@ Investigative Direction: Locate corroborating messages cited by Milo; verify vol
 
 ---
 
-**C-2783** Laura Loomer Publicly Advocated "Psychological Warfare" Against Enemies
+**C-8461** Laura Loomer Publicly Advocated "Psychological Warfare" Against Enemies
 
 Claim Timestamp: 00:47:42
 
@@ -1354,7 +1354,7 @@ Investigative Direction: Verify tweet on X / archive.
 
 ---
 
-**C-2784** Laura Loomer Publicly Alleged George Farmer Drunk Driving With Firearm
+**C-8465** Laura Loomer Publicly Alleged George Farmer Drunk Driving With Firearm
 
 Claim Timestamp: 00:48:26
 
@@ -1369,7 +1369,7 @@ Investigative Direction: Verify tweet and any linked court filings; check Davids
 
 ---
 
-**C-2785** Host Says Insurance Paid Tracy Robinson $6,987
+**C-8467** Host Says Insurance Paid Tracy Robinson $6,987
 
 Claim Timestamp: 00:49:11
 
@@ -1384,7 +1384,7 @@ Investigative Direction: Pull the underlying court filing in Davidson County, Te
 
 ---
 
-**C-2786** Laura Loomer Captured on Video Making Sexually Suggestive Comments
+**C-8453** Laura Loomer Captured on Video Making Sexually Suggestive Comments
 
 Claim Timestamp: 00:42:43
 
@@ -1399,7 +1399,7 @@ Investigative Direction: Verify source and date of video; identify the individua
 
 ---
 
-**C-2787** YouTube Comment: Charlie Told Multiple People He Might Be Killed
+**C-8474** YouTube Comment: Charlie Told Multiple People He Might Be Killed
 
 Claim Timestamp: 00:54:44
 
@@ -1414,7 +1414,7 @@ Investigative Direction: Cross-reference with prior episodes where similar claim
 
 ---
 
-**C-2788** YouTube Comment Raises Tyler Robinson's Roommate as Potential Suspect
+**C-8485** YouTube Comment Raises Tyler Robinson's Roommate as Potential Suspect
 
 Claim Timestamp: 01:01:14
 
@@ -1429,7 +1429,7 @@ Investigative Direction: Identify Tyler Robinson's roommate from public records;
 
 ---
 
-**C-2789** Erika Kirk Filed Victim's Speedy Trial Motion in Utah on January 16
+**C-8405** Erika Kirk Filed Victim's Speedy Trial Motion in Utah on January 16
 
 Claim Timestamp: 00:17:23
 
@@ -1444,7 +1444,7 @@ Investigative Direction: Retrieve the Utah state court filing directly via docke
 
 ---
 
-**C-13346** Host Says Trump Tweeted About Her From Air Force One After the Show Went Off Air Friday
+**C-8364** Host Says Trump Tweeted About Her From Air Force One After the Show Went Off Air Friday
 
 Claim Timestamp: 00:00:01
 
@@ -1460,7 +1460,7 @@ Investigative Direction: Pull the Truth Social timeline for Friday and the prece
 
 ---
 
-**C-13347** Host Says Feds Led Rookie Officers to the Rifle After the Bomb Dogs Had Searched the Area
+**C-8365** Host Says Feds Led Rookie Officers to the Rifle After the Bomb Dogs Had Searched the Area
 
 Claim Timestamp: 00:00:01
 
@@ -1476,7 +1476,7 @@ Investigative Direction: Obtain the incident log, K-9 deployment records and bod
 
 ---
 
-**C-13348** Host Says a Courthouse Sleuth Recorded Tyler Robinson's Grandfather Talking With Elizabeth Lane
+**C-8366** Host Says a Courthouse Sleuth Recorded Tyler Robinson's Grandfather Talking With Elizabeth Lane
 
 Claim Timestamp: 00:01:20
 
@@ -1492,7 +1492,7 @@ Investigative Direction: Ask Lane to confirm the conversation took place and its
 
 ---
 
-**C-13349** Host Says Lane Told Her She Had Already Spoken Publicly About Her Conversation With the Grandfather
+**C-8367** Host Says Lane Told Her She Had Already Spoken Publicly About Her Conversation With the Grandfather
 
 Claim Timestamp: 00:02:02
 
@@ -1508,7 +1508,7 @@ Investigative Direction: Find Lane's own account of the exchange and compare it 
 
 ---
 
-**C-13350** Host Says Online Lawyers Claimed the Robinson Family Turned Him In After Recognizing Grandpa's Gun
+**C-8368** Host Says Online Lawyers Claimed the Robinson Family Turned Him In After Recognizing Grandpa's Gun
 
 Claim Timestamp: 00:02:02
 
@@ -1519,13 +1519,13 @@ Transcript Snippet: we have been told by many lawyers on the internet that Tyler
 Anchored Artifacts: 
 Mentions: N-40
 Related Nodes: N-10022
-Supports: C-10698
+Supports: C-130
 Tags: relevance:core
 Investigative Direction: Identify the lawyers who made the claim and the original source (sheriff statement, court filing or press report) for the turn-in account.
 
 ---
 
-**C-13351** Host Says the News Did Not Release a Photo of Grandpa's Gun, Only One That Looked Similar
+**C-8369** Host Says the News Did Not Release a Photo of Grandpa's Gun, Only One That Looked Similar
 
 Claim Timestamp: 00:02:02
 
@@ -1541,7 +1541,7 @@ Investigative Direction: Compare the rifle photos released publicly before the s
 
 ---
 
-**C-13352** Host Says Robinson's Father and Grandmother Do Not Believe He Did It
+**C-8370** Host Says Robinson's Father and Grandmother Do Not Believe He Did It
 
 Claim Timestamp: 00:02:47
 
@@ -1557,7 +1557,7 @@ Investigative Direction: Locate the journalists' interviews with the grandmother
 
 ---
 
-**C-13353** Host Says Sheriff Brooksby Admitted Robinson Was Essentially Coerced to Go In
+**C-8371** Host Says Sheriff Brooksby Admitted Robinson Was Essentially Coerced to Go In
 
 Claim Timestamp: 00:02:47
 
@@ -1573,7 +1573,7 @@ Investigative Direction: Check Brooksby's press statements and recorded remarks 
 
 ---
 
-**C-13354** Host Says the Family Was Told an Arrest Would Happen Either Way, With SWAT if Robinson Resisted
+**C-8372** Host Says the Family Was Told an Arrest Would Happen Either Way, With SWAT if Robinson Resisted
 
 Claim Timestamp: 00:02:47
 
@@ -1589,7 +1589,7 @@ Investigative Direction: Obtain the sheriff's office account of the calls with t
 
 ---
 
-**C-13355** Host Says the Rifle Is a Family Heirloom Passed From the Grandfather to Tyler Robinson
+**C-8373** Host Says the Rifle Is a Family Heirloom Passed From the Grandfather to Tyler Robinson
 
 Claim Timestamp: 00:03:41
 
@@ -1605,7 +1605,7 @@ Investigative Direction: Check the ATF trace and any transfer or inheritance rec
 
 ---
 
-**C-13356** Host Says the Grandfather Describes Himself as a Hunter
+**C-8376** Host Says the Grandfather Describes Himself as a Hunter
 
 Claim Timestamp: 00:04:45
 
@@ -1621,7 +1621,7 @@ Investigative Direction: Listen to the unprocessed recording to confirm the gran
 
 ---
 
-**C-13357** Host Says the Grandfather Appears to Share the Grandmother's View That Tyler Was Not Capable
+**C-8377** Host Says the Grandfather Appears to Share the Grandmother's View That Tyler Was Not Capable
 
 Claim Timestamp: 00:04:45
 
@@ -1632,13 +1632,13 @@ Transcript Snippet: It sounds like he is of the same opinion as Tyler Robinson's
 Anchored Artifacts: A-1993.1
 Mentions: N-40
 Related Nodes: N-10632
-Supports: C-2764
+Supports: C-8374
 Tags: relevance:core
 Investigative Direction: Obtain a clean copy of the recording and a direct statement from the grandfather rather than relying on a garbled hallway audio.
 
 ---
 
-**C-13358** Host Says the .30-06 Also Did Not Cause Any Significant Damage
+**C-8379** Host Says the .30-06 Also Did Not Cause Any Significant Damage
 
 Claim Timestamp: 00:05:39
 
@@ -1649,13 +1649,13 @@ Transcript Snippet: But the part that you're missing is it also did not cause an
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10319
-Supports: C-6680
+Supports: C-3979
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy and death certificate wound description and compare it with documented .30-06 terminal ballistics.
 
 ---
 
-**C-13359** Host Says Early Hospital Calls Told People Charlie Had Almost No Neck Left, Which She Calls a Lie
+**C-8380** Host Says Early Hospital Calls Told People Charlie Had Almost No Neck Left, Which She Calls a Lie
 
 Claim Timestamp: 00:05:39
 
@@ -1671,7 +1671,7 @@ Investigative Direction: The host declines to name the callers; ask for call log
 
 ---
 
-**C-13360** Host Says Outside the Wound Charlie Was in Very Good Shape
+**C-8381** Host Says Outside the Wound Charlie Was in Very Good Shape
 
 Claim Timestamp: 00:05:39
 
@@ -1682,13 +1682,13 @@ Transcript Snippet: Outside of the wound Charlie was in very good shape.
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10660, N-10319
-Supports: C-6680
+Supports: C-3979
 Tags: relevance:core
 Investigative Direction: Compare hospital and medical examiner descriptions of the neck and surrounding tissue.
 
 ---
 
-**C-13361** Host Says the Defense Told the Court Friday It Is Not Ready for the May Probable Cause Hearing
+**C-8382** Host Says the Defense Told the Court Friday It Is Not Ready for the May Probable Cause Hearing
 
 Claim Timestamp: 00:06:28
 
@@ -1704,7 +1704,7 @@ Investigative Direction: Read the continuance motion, the hearing transcript and
 
 ---
 
-**C-13362** Host Says Erika Told Bari Weiss She Was 100 Percent Sure Tyler Robinson Was the Shooter
+**C-8383** Host Says Erika Told Bari Weiss She Was 100 Percent Sure Tyler Robinson Was the Shooter
 
 Claim Timestamp: 00:06:28
 
@@ -1720,7 +1720,7 @@ Investigative Direction: Pull the CBS interview with Bari Weiss and locate the e
 
 ---
 
-**C-13363** Host Says Erika's Lawyer Told Her They Had Nothing More Than the Public Had
+**C-8384** Host Says Erika's Lawyer Told Her They Had Nothing More Than the Public Had
 
 Claim Timestamp: 00:07:24
 
@@ -1736,7 +1736,7 @@ Investigative Direction: Compare with the host's earlier account of the sit-down
 
 ---
 
-**C-13364** Host Says Erika's Lawyer Told Her on December 15 the State Would Find the Evidence and Then Give It to the Defense
+**C-8385** Host Says Erika's Lawyer Told Her on December 15 the State Would Find the Evidence and Then Give It to the Defense
 
 Claim Timestamp: 00:08:23
 
@@ -1752,7 +1752,7 @@ Investigative Direction: Establish the date and participants of the December 15 
 
 ---
 
-**C-13365** Host Says the FBI Is Refusing to Hand Over the Evidence the Defense Requested and Gives Only Summary Reports
+**C-8386** Host Says the FBI Is Refusing to Hand Over the Evidence the Defense Requested and Gives Only Summary Reports
 
 Claim Timestamp: 00:09:10
 
@@ -1768,7 +1768,7 @@ Investigative Direction: Read the defense filings and any prosecution response t
 
 ---
 
-**C-13366** Novak Says the Defense Does Not Know Why the ATF Took Until the Last Three Weeks and the FBI Still Has Not Produced Its Data
+**C-8389** Novak Says the Defense Does Not Know Why the ATF Took Until the Last Three Weeks and the FBI Still Has Not Produced Its Data
 
 Claim Timestamp: 00:11:27
 
@@ -1784,7 +1784,7 @@ Investigative Direction: Check the docket for the dates of the ATF and FBI produ
 
 ---
 
-**C-13367** Novak Quotes Mr. McBride That Two Analyses Each Reach the Same Conclusion Though They Test Different Objects in Different Labs
+**C-8388** Novak Quotes Mr. McBride That Two Analyses Each Reach the Same Conclusion Though They Test Different Objects in Different Labs
 
 Claim Timestamp: 00:10:02
 
@@ -1800,7 +1800,7 @@ Investigative Direction: Identify Mr. McBride's role and the two examinations (A
 
 ---
 
-**C-13368** Novak Says the Discovery Should Have Been Produced, Some of It Six Months Ago
+**C-8392** Novak Says the Discovery Should Have Been Produced, Some of It Six Months Ago
 
 Claim Timestamp: 00:11:37
 
@@ -1816,7 +1816,7 @@ Investigative Direction: Compare the date of the DNA reports with the date they 
 
 ---
 
-**C-13369** Host Says Officials Announced They Had Their Man Within 33 Hours Based on Evidence the Defense Never Received
+**C-8393** Host Says Officials Announced They Had Their Man Within 33 Hours Based on Evidence the Defense Never Received
 
 Claim Timestamp: 00:11:37
 
@@ -1832,7 +1832,7 @@ Investigative Direction: Build a timeline of official statements from the shooti
 
 ---
 
-**C-13370** Host Says the Early Messages Were First Described as Discord Messages but Are Now Called Text Messages
+**C-8395** Host Says the Early Messages Were First Described as Discord Messages but Are Now Called Text Messages
 
 Claim Timestamp: 00:12:21
 
@@ -1848,7 +1848,7 @@ Investigative Direction: Collect the successive official descriptions (press con
 
 ---
 
-**C-13371** Nester Says the State May Call Witnesses Uniquely Connected to Her Client and Has Given Some Names
+**C-8396** Nester Says the State May Call Witnesses Uniquely Connected to Her Client and Has Given Some Names
 
 Claim Timestamp: 00:12:21
 
@@ -1864,7 +1864,7 @@ Investigative Direction: Check the state's witness list for the probable cause h
 
 ---
 
-**C-13372** Host Says the FBI Took Over Everything on September 10 and Handled All of the Interviews
+**C-8397** Host Says the FBI Took Over Everything on September 10 and Handled All of the Interviews
 
 Claim Timestamp: 00:14:07
 
@@ -1880,7 +1880,7 @@ Investigative Direction: Compare agency statements, press conferences and interv
 
 ---
 
-**C-13373** Host Says the State Bureau of Investigations Is Waiting on the FBI for Its Discovery Requests
+**C-8398** Host Says the State Bureau of Investigations Is Waiting on the FBI for Its Discovery Requests
 
 Claim Timestamp: 00:14:07
 
@@ -1896,7 +1896,7 @@ Investigative Direction: Confirm the SBI's role and its requests to the FBI from
 
 ---
 
-**C-13374** Nester Says the Defense Spent Six Hours Examining the Physical Evidence the SBI Holds
+**C-8401** Nester Says the Defense Spent Six Hours Examining the Physical Evidence the SBI Holds
 
 Claim Timestamp: 00:15:13
 
@@ -1912,7 +1912,7 @@ Investigative Direction: Check the docket or any inspection log for the date and
 
 ---
 
-**C-13375** Host Says Erika's Team, Listed as the Victim, Is Arguing Against a Continuance
+**C-8402** Host Says Erika's Team, Listed as the Victim, Is Arguing Against a Continuance
 
 Claim Timestamp: 00:16:08
 
@@ -1928,7 +1928,7 @@ Investigative Direction: Read the prosecution's opposition to the continuance an
 
 ---
 
-**C-13376** Host Says Continuances Are a Common Courtesy at This Stage and She Has Never Seen One Opposed
+**C-8403** Host Says Continuances Are a Common Courtesy at This Stage and She Has Never Seen One Opposed
 
 Claim Timestamp: 00:16:08
 
@@ -1944,7 +1944,7 @@ Investigative Direction: Compare with how continuances were handled in comparabl
 
 ---
 
-**C-13377** Host Says the Prosecution Agreed Early On to Adjust the Date if the Discovery Was Not Met
+**C-8404** Host Says the Prosecution Agreed Early On to Adjust the Date if the Discovery Was Not Met
 
 Claim Timestamp: 00:16:48
 
@@ -1960,7 +1960,7 @@ Investigative Direction: Find the scheduling order or hearing transcript where t
 
 ---
 
-**C-13378** Host Says It Was Atypical for the Prosecution Side to File to Invoke Speedy Trial Rights
+**C-8406** Host Says It Was Atypical for the Prosecution Side to File to Invoke Speedy Trial Rights
 
 Claim Timestamp: 00:17:23
 
@@ -1971,13 +1971,13 @@ Transcript Snippet: Rarely do you hear the prosecution say, "I'm going to file a
 Anchored Artifacts: A-2006.1
 Mentions: N-2
 Related Nodes: N-10626
-Supports: C-2789
+Supports: C-8405
 Tags: relevance:core
 Investigative Direction: Retrieve the January 16 filing and find precedent for victim-initiated speedy trial invocations under Utah's victim rights provisions.
 
 ---
 
-**C-13379** Host Says Erika's Team Wants Cameras Inside the Courtroom for a Show Hearing
+**C-8407** Host Says Erika's Team Wants Cameras Inside the Courtroom for a Show Hearing
 
 Claim Timestamp: 00:18:39
 
@@ -1993,7 +1993,7 @@ Investigative Direction: Read any motions on courtroom cameras and media access 
 
 ---
 
-**C-13380** Host Says She Is in Contact With Many People in Utah and Believes Erika's Team Wants a Show Trial
+**C-8408** Host Says She Is in Contact With Many People in Utah and Believes Erika's Team Wants a Show Trial
 
 Claim Timestamp: 00:18:39
 
@@ -2009,7 +2009,7 @@ Investigative Direction: The host's sources are unnamed; compare the claim with 
 
 ---
 
-**C-13381** Host Says Robinson, 22, Is Facing the Death Sentence
+**C-8409** Host Says Robinson, 22, Is Facing the Death Sentence
 
 Claim Timestamp: 00:20:34
 
@@ -2025,7 +2025,7 @@ Investigative Direction: Check the notice of intent to seek the death penalty in
 
 ---
 
-**C-13382** Host Alleges Journalists and Influencers Are Being Paid to Say the Evidence Is Overwhelming
+**C-8410** Host Alleges Journalists and Influencers Are Being Paid to Say the Evidence Is Overwhelming
 
 Claim Timestamp: 00:20:34
 
@@ -2040,7 +2040,7 @@ Investigative Direction: No payee is named; ask for any documented sponsorship o
 
 ---
 
-**C-13383** Host Says Erika Opened for Trump at Dream City Church in Phoenix on Friday
+**C-8411** Host Says Erika Opened for Trump at Dream City Church in Phoenix on Friday
 
 Claim Timestamp: 00:22:37
 
@@ -2056,7 +2056,7 @@ Investigative Direction: Pull the event listing, the livestream and press covera
 
 ---
 
-**C-13384** Host Says Secret Service Told Erika She Was Perfectly Safe in Georgia and She Left Anyway
+**C-8412** Host Says Secret Service Told Erika She Was Perfectly Safe in Georgia and She Left Anyway
 
 Claim Timestamp: 00:22:37
 
@@ -2067,13 +2067,13 @@ Transcript Snippet: she did not feel safe despite them telling her that she was 
 Anchored Artifacts: 
 Mentions: N-2
 Related Nodes: N-10607, N-10616, N-10617
-Supports: C-2744
+Supports: C-8289
 Tags: relevance:core
 Investigative Direction: Compare the Secret Service and campus police statements with Erika's team's account and the flight records for her plane.
 
 ---
 
-**C-13385** Host Says the Real Reason Erika Canceled the University of Georgia Event Was the Crowd Size
+**C-8413** Host Says the Real Reason Erika Canceled the University of Georgia Event Was the Crowd Size
 
 Claim Timestamp: 00:22:37
 
@@ -2089,7 +2089,7 @@ Investigative Direction: Compare ticketing and RSVP numbers for the event with T
 
 ---
 
-**C-13386** Host Says Erika Walked Out to Her Preferred WWE Music
+**C-8414** Host Says Erika Walked Out to Her Preferred WWE Music
 
 Claim Timestamp: 00:23:28
 
@@ -2105,7 +2105,7 @@ Investigative Direction: Obtain the event video to identify the walk-on music an
 
 ---
 
-**C-13387** Clip Has Erika Opening Her Appearance by Saying Look at This Crowd
+**C-8415** Clip Has Erika Opening Her Appearance by Saying Look at This Crowd
 
 Claim Timestamp: 00:24:01
 
@@ -2121,7 +2121,7 @@ Investigative Direction: Identify the full source video, confirm the speaker is 
 
 ---
 
-**C-13388** Host Says Erika Canceled on JD Vance and Made Him Look Like a Fool
+**C-8416** Host Says Erika Canceled on JD Vance and Made Him Look Like a Fool
 
 Claim Timestamp: 00:24:01
 
@@ -2137,7 +2137,7 @@ Investigative Direction: Check the planned Georgia event with Vance, and any pub
 
 ---
 
-**C-13389** Host Says Turning Point Canceled the Pinnacle High School Appearance on Friday, the Same Day as the Trump Event
+**C-8417** Host Says Turning Point Canceled the Pinnacle High School Appearance on Friday, the Same Day as the Trump Event
 
 Claim Timestamp: 00:24:01
 
@@ -2153,7 +2153,7 @@ Investigative Direction: Establish the email timestamp and the date of the Trump
 
 ---
 
-**C-13390** Host Says Media Reported the Pinnacle Cancellation Came From a Boycott Led by Parents, Teachers and Students
+**C-8419** Host Says Media Reported the Pinnacle Cancellation Came From a Boycott Led by Parents, Teachers and Students
 
 Claim Timestamp: 00:25:48
 
@@ -2164,13 +2164,13 @@ Transcript Snippet: She canceled because there was a boycott which was led by th
 Anchored Artifacts: A-1997.1, A-1997.2, A-1997.3
 Mentions: N-2
 Related Nodes: N-10610, N-10627
-Supports: C-2731
+Supports: C-8234
 Tags: relevance:core
 Investigative Direction: Read the three cited articles in full and check whether any attributes the cancellation to a boycott as opposed to parent and student objections.
 
 ---
 
-**C-13391** Host Says She Showed Parents Organizing on Facebook and Never Asked Anyone to Boycott Erika Kirk
+**C-8423** Host Says She Showed Parents Organizing on Facebook and Never Asked Anyone to Boycott Erika Kirk
 
 Claim Timestamp: 00:26:35
 
@@ -2181,13 +2181,13 @@ Transcript Snippet: I showed you last week they were organizing on Facebook. I'v
 Anchored Artifacts: 
 Mentions: N-3, N-2
 Related Nodes: N-10610
-Supports: C-2731
+Supports: C-8234
 Tags: relevance:core
 Investigative Direction: Review the host's prior episode and the Facebook group posts shown, and search for any host call for a boycott.
 
 ---
 
-**C-13392** Host Says Joe Rogan Thinks Erika Is Weird
+**C-8424** Host Says Joe Rogan Thinks Erika Is Weird
 
 Claim Timestamp: 00:27:22
 
@@ -2202,7 +2202,7 @@ Investigative Direction: Find any Rogan remarks about Erika Kirk, on or off air.
 
 ---
 
-**C-13393** Host, Voicing a Hypothetical Erika, Alleges Erika Quietly Led Early Attacks on Her and Told People Not to Attend a Catholic Event
+**C-8425** Host, Voicing a Hypothetical Erika, Alleges Erika Quietly Led Early Attacks on Her and Told People Not to Attend a Catholic Event
 
 Claim Timestamp: 00:27:22
 
@@ -2217,7 +2217,7 @@ Investigative Direction: The passage is the host's sarcastic hypothetical; look 
 
 ---
 
-**C-13394** Host Says Elizabeth Lane Observed That Nobody Has Accused the Clintons of Being in Love
+**C-8426** Host Says Elizabeth Lane Observed That Nobody Has Accused the Clintons of Being in Love
 
 Claim Timestamp: 00:29:09
 
@@ -2232,7 +2232,7 @@ Investigative Direction: Find Lane's original remark; this is a historical aside
 
 ---
 
-**C-13395** Host Says Erika Gives Differing Accounts of Her Graduation Honors and Nothing Has Been Proven
+**C-8427** Host Says Erika Gives Differing Accounts of Her Graduation Honors and Nothing Has Been Proven
 
 Claim Timestamp: 00:29:49
 
@@ -2243,13 +2243,13 @@ Transcript Snippet: she says she's graduated summa laude and sometimes she says 
 Anchored Artifacts: 
 Mentions: N-2
 Related Nodes: N-10665
-Supports: C-10278
+Supports: C-6871
 Tags: relevance:core
 Investigative Direction: Request the registrar's confirmation of Erika's degree and honors and compare the versions in her bios and interviews.
 
 ---
 
-**C-13396** Trump Post Says He Is on Air Force One Heading to Las Vegas and Arizona on No Tax on Tips
+**C-8428** Trump Post Says He Is on Air Force One Heading to Las Vegas and Arizona on No Tax on Tips
 
 Claim Timestamp: 00:34:38
 
@@ -2265,7 +2265,7 @@ Investigative Direction: Verify the post on Truth Social and match its time to T
 
 ---
 
-**C-13397** Trump Post Calls Jessica Tarlov One of the Least Attractive and Talented People on Television
+**C-8429** Trump Post Calls Jessica Tarlov One of the Least Attractive and Talented People on Television
 
 Claim Timestamp: 00:34:38
 
@@ -2281,7 +2281,7 @@ Investigative Direction: Verify the post text on Truth Social.
 
 ---
 
-**C-13398** Trump Post Says CNN Had Him at 100 Percent and Calls for Tarlov to Be Taken Off Air
+**C-8431** Trump Post Says CNN Had Him at 100 Percent and Calls for Tarlov to Be Taken Off Air
 
 Claim Timestamp: 00:35:29
 
@@ -2297,7 +2297,7 @@ Investigative Direction: Check the CNN poll Trump refers to.
 
 ---
 
-**C-13399** Host Says Trump Is Not Writing These Posts and It Is Not How He Speaks
+**C-8432** Host Says Trump Is Not Writing These Posts and It Is Not How He Speaks
 
 Claim Timestamp: 00:35:29
 
@@ -2313,7 +2313,7 @@ Investigative Direction: Compare the post style with verified Trump speech and w
 
 ---
 
-**C-13400** Host Says the Follow-up Post Mentioned Megyn Kelly Again Without Calling Her a Name
+**C-8433** Host Says the Follow-up Post Mentioned Megyn Kelly Again Without Calling Her a Name
 
 Claim Timestamp: 00:35:29
 
@@ -2329,7 +2329,7 @@ Investigative Direction: Read the second post in full and check how Kelly is ref
 
 ---
 
-**C-13401** Host Says Laura Loomer Claims to Be Trump's Number One Adviser and Speaks to Him Almost Daily
+**C-8435** Host Says Laura Loomer Claims to Be Trump's Number One Adviser and Speaks to Him Almost Daily
 
 Claim Timestamp: 00:36:39
 
@@ -2345,7 +2345,7 @@ Investigative Direction: Find Loomer's own statements of the claim and independe
 
 ---
 
-**C-13402** Host Says She Met Loomer Years Ago on a Plane to a David Horowitz Center Event While Loomer Was Crying Over Her Twitter Checkmark
+**C-8436** Host Says She Met Loomer Years Ago on a Plane to a David Horowitz Center Event While Loomer Was Crying Over Her Twitter Checkmark
 
 Claim Timestamp: 00:36:39
 
@@ -2360,7 +2360,7 @@ Investigative Direction: Check the date of the event and of Loomer's loss of ver
 
 ---
 
-**C-13403** Host Says She Once Gave Loomer a Ride Home After a Procedure and Never Shared the Story Before
+**C-8437** Host Says She Once Gave Loomer a Ride Home After a Procedure and Never Shared the Story Before
 
 Claim Timestamp: 00:37:54
 
@@ -2375,7 +2375,7 @@ Investigative Direction: Personal anecdote about a public figure's private life;
 
 ---
 
-**C-13404** Host Says Loomer's Jewish Identity Was Made Up Around 2019 and She Told the Host She Is Not Jewish
+**C-8438** Host Says Loomer's Jewish Identity Was Made Up Around 2019 and She Told the Host She Is Not Jewish
 
 Claim Timestamp: 00:38:35
 
@@ -2386,13 +2386,13 @@ Transcript Snippet: Her entire identity as being a feisty Jewess is something th
 Anchored Artifacts: 
 Mentions: N-60, N-3
 Related Nodes: N-10630
-Supports: C-8673
+Supports: C-8003
 Tags: relevance:context
 Investigative Direction: Compare against Loomer's earlier public statements; note the host elsewhere dates her chaining to Twitter headquarters in a Star of David to 2018.
 
 ---
 
-**C-13405** Host Says Loomer Was Not Raised in Temple or Bat Mitzvahed and That Judaism Is Matrilineal
+**C-8439** Host Says Loomer Was Not Raised in Temple or Bat Mitzvahed and That Judaism Is Matrilineal
 
 Claim Timestamp: 00:38:35
 
@@ -2403,13 +2403,13 @@ Transcript Snippet: Judaism is matrilineal. She did not She was not raised in te
 Anchored Artifacts: 
 Mentions: N-60
 Related Nodes: N-10630
-Supports: C-9571
+Supports: C-2392
 Tags: relevance:context
 Investigative Direction: Seek Loomer's own account of her upbringing and any records of religious observance.
 
 ---
 
-**C-13406** Host Says Loomer Only Learned to Draw a Star of David a Couple of Years Ago While Running for Congress
+**C-8440** Host Says Loomer Only Learned to Draw a Star of David a Couple of Years Ago While Running for Congress
 
 Claim Timestamp: 00:38:35
 
@@ -2425,7 +2425,7 @@ Investigative Direction: Establish the clip's date and source and see whether th
 
 ---
 
-**C-13407** Host Says Loomer Was Placed on Two Involuntary Psychiatric Holds by Her Own Father and Is Barred From Owning Weapons
+**C-8442** Host Says Loomer Was Placed on Two Involuntary Psychiatric Holds by Her Own Father and Is Barred From Owning Weapons
 
 Claim Timestamp: 00:39:25
 
@@ -2436,13 +2436,13 @@ Transcript Snippet: she was placed on two involuntary psychiatric holds by her o
 Anchored Artifacts: 
 Mentions: N-60
 Related Nodes: N-10628
-Supports: C-8671, C-5121
+Supports: C-8001, C-3571
 Tags: relevance:context
 Investigative Direction: The host presents this as an allegation; seek court or agency records, which are normally sealed, or a statement from Loomer.
 
 ---
 
-**C-13408** Host Says Loomer Has Had Multiple Suicide Attempts
+**C-8443** Host Says Loomer Has Had Multiple Suicide Attempts
 
 Claim Timestamp: 00:39:25
 
@@ -2458,7 +2458,7 @@ Investigative Direction: Health information is not independently verifiable from
 
 ---
 
-**C-13409** Host Says Loomer Appealed to the FBI to Reverse the Weapons Ban and Was Declined
+**C-8444** Host Says Loomer Appealed to the FBI to Reverse the Weapons Ban and Was Declined
 
 Claim Timestamp: 00:39:25
 
@@ -2474,7 +2474,7 @@ Investigative Direction: The host gives no document; ask for the FBI NICS appeal
 
 ---
 
-**C-13410** Host Says Milo Yiannopoulos Was Loomer's Former Campaign Manager
+**C-8445** Host Says Milo Yiannopoulos Was Loomer's Former Campaign Manager
 
 Claim Timestamp: 00:39:25
 
@@ -2490,7 +2490,7 @@ Investigative Direction: Confirm Yiannopoulos's actual role in Loomer's campaign
 
 ---
 
-**C-13411** Host Says People in Melania's Circle Believe Loomer Is the Person Most Likely to Harm Trump
+**C-8447** Host Says People in Melania's Circle Believe Loomer Is the Person Most Likely to Harm Trump
 
 Claim Timestamp: 00:40:54
 
@@ -2506,7 +2506,7 @@ Investigative Direction: The sources are unnamed; the host would need to identif
 
 ---
 
-**C-13412** Host Says Loomer Often Threatens Suicide When She Does Not Get What She Wants
+**C-8448** Host Says Loomer Often Threatens Suicide When She Does Not Get What She Wants
 
 Claim Timestamp: 00:40:54
 
@@ -2522,7 +2522,7 @@ Investigative Direction: No document is cited; treat as an unverified allegation
 
 ---
 
-**C-13413** Host Says Loomer Has Been Repeatedly Accused Since the Start of Her Career of Sexually Assaulting Men
+**C-8449** Host Says Loomer Has Been Repeatedly Accused Since the Start of Her Career of Sexually Assaulting Men
 
 Claim Timestamp: 00:40:54
 
@@ -2538,7 +2538,7 @@ Investigative Direction: List the named accusers and the dates and venues of eac
 
 ---
 
-**C-13414** Host Identifies Alan Jacoby as the Founder of Patriot Cigar Who Tweeted About Loomer 10 Days Earlier
+**C-8451** Host Identifies Alan Jacoby as the Founder of Patriot Cigar Who Tweeted About Loomer 10 Days Earlier
 
 Claim Timestamp: 00:41:44
 
@@ -2554,7 +2554,7 @@ Investigative Direction: Retrieve the tweet with its date and confirm Jacoby's i
 
 ---
 
-**C-13415** Jacoby's Tweet Says Loomer Grabbed His Crotch and Demanded He Come to Her New York Hotel Room
+**C-8452** Jacoby's Tweet Says Loomer Grabbed His Crotch and Demanded He Come to Her New York Hotel Room
 
 Claim Timestamp: 00:41:44
 
@@ -2565,13 +2565,13 @@ Transcript Snippet: grabbing my crotch very aggressively, and demanding that I c
 Anchored Artifacts: A-1998.1
 Mentions: N-426, N-60
 Related Nodes: N-10629
-Supports: C-2779
+Supports: C-8450
 Tags: relevance:context
 Investigative Direction: Verify the tweet text and any response or legal filing by Loomer.
 
 ---
 
-**C-13416** Host Says Milo Claims He Can Prove the Brazilian Volunteer Account Through Many Messages
+**C-8454** Host Says Milo Claims He Can Prove the Brazilian Volunteer Account Through Many Messages
 
 Claim Timestamp: 00:44:06
 
@@ -2582,13 +2582,13 @@ Transcript Snippet: And he's not alleging here, okay? He claims that it is a fac
 Anchored Artifacts: A-2000.2
 Mentions: N-220, N-60
 Related Nodes: N-10629
-Supports: C-2782
+Supports: C-8455
 Tags: relevance:context
 Investigative Direction: Ask Yiannopoulos to produce the messages or have them authenticated, with the volunteer's consent.
 
 ---
 
-**C-13417** Milo Says Loomer Used to Force Herself on Young Male Volunteers, Going to Their Beds at Night
+**C-8456** Milo Says Loomer Used to Force Herself on Young Male Volunteers, Going to Their Beds at Night
 
 Claim Timestamp: 00:44:53
 
@@ -2599,13 +2599,13 @@ Transcript Snippet: she she used to force herself on um young male volunteers, u
 Anchored Artifacts: A-2000.2
 Mentions: N-220, N-60
 Related Nodes: N-10629
-Supports: C-2782
+Supports: C-8455
 Tags: relevance:context
 Investigative Direction: Locate the original podcast or interview the audio comes from and its date.
 
 ---
 
-**C-13418** Milo Says He Lived in the Pool House With the Volunteer in 2020 and the Volunteer Did Not Know How to Make It Stop
+**C-8457** Milo Says He Lived in the Pool House With the Volunteer in 2020 and the Volunteer Did Not Know How to Make It Stop
 
 Claim Timestamp: 00:45:37
 
@@ -2616,13 +2616,13 @@ Transcript Snippet: I lived in the pool house with with her um victim in 2020, w
 Anchored Artifacts: A-2000.2
 Mentions: N-220, N-60
 Related Nodes: N-10629
-Supports: C-2782
+Supports: C-8455
 Tags: relevance:context
 Investigative Direction: Check Milo's residence and role during the 2020 campaign against campaign records and local reporting.
 
 ---
 
-**C-13419** Milo Says He Helped Run Loomer's 2020 Congressional Campaign
+**C-8458** Milo Says He Helped Run Loomer's 2020 Congressional Campaign
 
 Claim Timestamp: 00:45:37
 
@@ -2638,7 +2638,7 @@ Investigative Direction: Compare with campaign filings and with Milo's other sta
 
 ---
 
-**C-13420** Host Says Women Have Also Spoken Out That Loomer Assaulted Many Men
+**C-8459** Host Says Women Have Also Spoken Out That Loomer Assaulted Many Men
 
 Claim Timestamp: 00:46:52
 
@@ -2654,7 +2654,7 @@ Investigative Direction: The host names none of the women; identify them and the
 
 ---
 
-**C-13421** Host Says Loomer Has Never Sued the People Who Published These Allegations and Just Blocks Them
+**C-8460** Host Says Loomer Has Never Sued the People Who Published These Allegations and Just Blocks Them
 
 Claim Timestamp: 00:46:52
 
@@ -2670,7 +2670,7 @@ Investigative Direction: Search federal and state dockets for suits by Loomer ag
 
 ---
 
-**C-13422** Host Says Loomer Said Casey DeSantis Was Making Up Cancer and Trump's Campaign Found That Useful
+**C-8462** Host Says Loomer Said Casey DeSantis Was Making Up Cancer and Trump's Campaign Found That Useful
 
 Claim Timestamp: 00:47:42
 
@@ -2686,7 +2686,7 @@ Investigative Direction: Find Loomer's posts about Casey DeSantis's illness duri
 
 ---
 
-**C-13423** Host Says Loomer Released AI-Generated Photos of the Host's Husband to Claim He Is Gay
+**C-8463** Host Says Loomer Released AI-Generated Photos of the Host's Husband to Claim He Is Gay
 
 Claim Timestamp: 00:47:42
 
@@ -2701,7 +2701,7 @@ Investigative Direction: Archive Loomer's posts with the images and run provenan
 
 ---
 
-**C-13424** Host Says Loomer Accused the Host and Her Husband of Being Separated That Weekend
+**C-8464** Host Says Loomer Accused the Host and Her Husband of Being Separated That Weekend
 
 Claim Timestamp: 00:47:42
 
@@ -2716,7 +2716,7 @@ Investigative Direction: Archive Loomer's weekend posts making the separation cl
 
 ---
 
-**C-13425** Loomer's Post Describes George Farmer as a Green Card Holder in Nashville
+**C-8466** Loomer's Post Describes George Farmer as a Green Card Holder in Nashville
 
 Claim Timestamp: 00:48:26
 
@@ -2732,7 +2732,7 @@ Investigative Direction: Immigration status is not public record; look for any s
 
 ---
 
-**C-13426** Host Says She Has Never Met Tracy Robinson and Learned His Name When Loomer Dug Up the Payment
+**C-8468** Host Says She Has Never Met Tracy Robinson and Learned His Name When Loomer Dug Up the Payment
 
 Claim Timestamp: 00:49:11
 
@@ -2748,7 +2748,7 @@ Investigative Direction: Pull the court or insurance record that shows the payee
 
 ---
 
-**C-13427** Host Says Her Insurance Did Pay Tracy Robinson $6,987
+**C-8469** Host Says Her Insurance Did Pay Tracy Robinson $6,987
 
 Claim Timestamp: 00:49:11
 
@@ -2759,13 +2759,13 @@ Transcript Snippet: when Laura dug up the fact that my insurance did pay a Tracy
 Anchored Artifacts: A-2003.1
 Mentions: N-3, N-60
 Related Nodes: N-10631
-Supports: C-2785
+Supports: C-8467
 Tags: relevance:context
 Investigative Direction: Retrieve the underlying Davidson County filing and the insurer's payment record.
 
 ---
 
-**C-13428** Host Says the Incident Was a Parking Lot Fender Bender on a Rainy Day Around Noon
+**C-8470** Host Says the Incident Was a Parking Lot Fender Bender on a Rainy Day Around Noon
 
 Claim Timestamp: 00:50:08
 
@@ -2781,7 +2781,7 @@ Investigative Direction: Obtain the accident report if one exists, or the court 
 
 ---
 
-**C-13429** Host Says There Was No Drinking, No DUI and No Police Called
+**C-8471** Host Says There Was No Drinking, No DUI and No Police Called
 
 Claim Timestamp: 00:50:08
 
@@ -2797,7 +2797,7 @@ Investigative Direction: Check for any police report, citation or charge in Davi
 
 ---
 
-**C-13430** Host Says the Other Driver Later Claimed Whiplash and the Insurer Paid $6,987
+**C-8472** Host Says the Other Driver Later Claimed Whiplash and the Insurer Paid $6,987
 
 Claim Timestamp: 00:50:08
 
@@ -2808,13 +2808,13 @@ Transcript Snippet: a couple of days later Tracy decided he had post-whiplash di
 Anchored Artifacts: A-2003.1
 Mentions: N-30, N-3
 Related Nodes: N-10631
-Supports: C-2785
+Supports: C-8467
 Tags: relevance:context
 Investigative Direction: Review the claim file and any court record for the injury claim and settlement.
 
 ---
 
-**C-13431** Host Tells Trump to Ask Roger Stone About Loomer's Suicide Attempts and the Accounts She Operates
+**C-8473** Host Tells Trump to Ask Roger Stone About Loomer's Suicide Attempts and the Accounts She Operates
 
 Claim Timestamp: 00:51:13
 
@@ -2830,7 +2830,7 @@ Investigative Direction: Ask Stone directly; the host gives no evidence for the 
 
 ---
 
-**C-13432** Host Says Charlie Was Putting Pieces Together in His Last Week but Still Trusted People He Should Not Have
+**C-8475** Host Says Charlie Was Putting Pieces Together in His Last Week but Still Trusted People He Should Not Have
 
 Claim Timestamp: 00:54:44
 
@@ -2845,7 +2845,7 @@ Investigative Direction: Ask the host which people and pieces she means and what
 
 ---
 
-**C-13433** Host Says the Hearings Have Not Yet Presented What Tyler Robinson Actually Did
+**C-8476** Host Says the Hearings Have Not Yet Presented What Tyler Robinson Actually Did
 
 Claim Timestamp: 00:54:44
 
@@ -2861,7 +2861,7 @@ Investigative Direction: Review what was presented at each public hearing and co
 
 ---
 
-**C-13434** Host Says Multiple Tyler Robinson Look-Alikes in Maroon Shirts Explain the Grainy Footage
+**C-8477** Host Says Multiple Tyler Robinson Look-Alikes in Maroon Shirts Explain the Grainy Footage
 
 Claim Timestamp: 00:56:40
 
@@ -2877,7 +2877,7 @@ Investigative Direction: Request all UVU campus video and compare the maroon-shi
 
 ---
 
-**C-13435** Host Says She Is Told the Footage From the Run-Up to September 10 Does Not Exist
+**C-8478** Host Says She Is Told the Footage From the Run-Up to September 10 Does Not Exist
 
 Claim Timestamp: 00:57:24
 
@@ -2893,7 +2893,7 @@ Investigative Direction: File records requests for UVU and city camera retention
 
 ---
 
-**C-13436** Host Wonders Whether the Feds Took the Inside Footage of Timpanogos Hospital
+**C-8479** Host Wonders Whether the Feds Took the Inside Footage of Timpanogos Hospital
 
 Claim Timestamp: 00:57:24
 
@@ -2904,13 +2904,13 @@ Transcript Snippet: I'm trying to understand if that means that it was taken by 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10239, N-11218
-Supports: C-1666
+Supports: C-2559
 Tags: relevance:core
 Investigative Direction: Obtain hospital records of any federal seizure of camera footage and a chain-of-custody log.
 
 ---
 
-**C-13437** Host Suggests There May Be Evidence Charlie Went to Utah Valley Hospital First
+**C-8480** Host Suggests There May Be Evidence Charlie Went to Utah Valley Hospital First
 
 Claim Timestamp: 00:57:24
 
@@ -2926,7 +2926,7 @@ Investigative Direction: Compare ambulance and dispatch records with hospital ar
 
 ---
 
-**C-13438** Host Says She Believes We Are in the Truth Era and Liars Face a Collapse of Support
+**C-8481** Host Says She Believes We Are in the Truth Era and Liars Face a Collapse of Support
 
 Claim Timestamp: 00:57:24
 
@@ -2941,7 +2941,7 @@ Investigative Direction: Opinion about public sentiment rather than a checkable 
 
 ---
 
-**C-13439** Host Endorses a Viewer's Claim That the First Person to Leak Kirk's Death Is a Licensed Gun Dealer With a Shady Past
+**C-8482** Host Endorses a Viewer's Claim That the First Person to Leak Kirk's Death Is a Licensed Gun Dealer With a Shady Past
 
 Claim Timestamp: 01:00:40
 
@@ -2952,13 +2952,13 @@ Transcript Snippet: We have not let up on Victor Marx more on that. You are corr
 Anchored Artifacts: A-2005.9
 Mentions: N-341
 Related Nodes: N-10636, N-10604
-Supports: C-2748, C-2749
+Supports: C-8316, C-8324
 Tags: relevance:core
 Investigative Direction: Pull the primary evidence on the timing of Marx's first announcement and his federal firearms license from ATF records.
 
 ---
 
-**C-13440** Host Says She Believes Robinson's Roommate Is One of the People Walking That Day and Will Appear as a Blurred Image
+**C-8483** Host Says She Believes Robinson's Roommate Is One of the People Walking That Day and Will Appear as a Blurred Image
 
 Claim Timestamp: 01:00:40
 
@@ -2969,13 +2969,13 @@ Transcript Snippet: I believe he's one of the people that's walking that day. Th
 Anchored Artifacts: A-2005.10
 Mentions: N-40
 Related Nodes: N-10634, N-10168
-Supports: C-2788
+Supports: C-8485
 Tags: relevance:core
 Investigative Direction: Compare the roommate's whereabouts that day against the campus video and any statements he made to investigators.
 
 ---
 
-**C-13441** Host Says She Spoke With Lance Twiggs's Family
+**C-8484** Host Says She Spoke With Lance Twiggs's Family
 
 Claim Timestamp: 01:00:40
 
@@ -2991,7 +2991,7 @@ Investigative Direction: Identify the family members and the earlier episodes wh
 
 ---
 
-**C-13442** Host Says Lance's Family Thinks It Was Wrong That He Was Not Questioned and Was Let Go Immediately
+**C-8486** Host Says Lance's Family Thinks It Was Wrong That He Was Not Questioned and Was Let Go Immediately
 
 Claim Timestamp: 01:01:45
 
@@ -3002,13 +3002,13 @@ Transcript Snippet: They think that there was something wrong with the fact that
 Anchored Artifacts: 
 Mentions: N-54
 Related Nodes: N-10034, N-10598
-Supports: C-4880
+Supports: C-352
 Tags: relevance:core
 Investigative Direction: Find the interview records of Lance Twiggs and the dates he was questioned, released or not detained.
 
 ---
 
-**C-13443** Host Asks Why They Never Send the Timestamps for the Text Messages
+**C-8487** Host Asks Why They Never Send the Timestamps for the Text Messages
 
 Claim Timestamp: 01:01:45
 
@@ -3019,13 +3019,13 @@ Transcript Snippet: Why do they never want to send the timestamps?
 Anchored Artifacts: 
 Mentions: N-54
 Related Nodes: N-10077, N-10713
-Supports: C-6696
+Supports: C-3998
 Tags: relevance:core
 Investigative Direction: Check the charging documents and exhibits for message timestamps and the metadata from the phone extractions.
 
 ---
 
-**C-13444** Host Says Her Producer Discovered That the Text Messages Are Being Slightly Edited
+**C-8488** Host Says Her Producer Discovered That the Text Messages Are Being Slightly Edited
 
 Claim Timestamp: 01:01:45
 
@@ -3041,7 +3041,7 @@ Investigative Direction: Watch the next episode for the producer's comparison of
 
 ---
 
-**C-13445** Host Says New Text Messages Are Being Dropped and Old Ones Slightly Edited
+**C-8489** Host Says New Text Messages Are Being Dropped and Old Ones Slightly Edited
 
 Claim Timestamp: 01:01:45
 

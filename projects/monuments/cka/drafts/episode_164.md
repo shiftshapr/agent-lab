@@ -14,7 +14,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (catchup-2026-10-19): N-957, N-958, N-959, N-960, N-961, N-962, N-11422, N-11423, N-11424, N-11425
   - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-25, N-40, N-41, N-128, N-129, N-132, N-146, N-159, N-190, N-266, N-277, N-280, N-330, N-598, N-632, N-943, N-10000, N-10012, N-10062, N-10074, N-10537, N-10665, N-10687, N-10688, N-10715, N-10839, N-10864, N-10872, N-10874, N-11218, N-11263
-  - Claim Range: C-15239–C-15324
+  - Claim Range: C-14143–C-14228
   - (see registers)
 
 # Episode 164 Analysis
@@ -43,7 +43,7 @@ Video Timestamp: 00:00:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15239, N-3*
+*Related: C-14143, N-3*
 
 ---
 
@@ -58,7 +58,7 @@ Video Timestamp: 00:07:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15252, C-15253, C-15254, C-15255, N-957, N-958*
+*Related: C-14156, C-14157, C-14158, C-14159, N-957, N-958*
 
 **A-3382.2** On-screen "Pokemon stats" graphic listing Val Peterson's roles
 
@@ -67,7 +67,7 @@ Video Timestamp: 00:13:59
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15300, N-957*
+*Related: C-14204, N-957*
 
 ---
 
@@ -82,7 +82,7 @@ Video Timestamp: 00:11:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15258, N-957, N-10839*
+*Related: C-14162, N-957, N-10839*
 
 ---
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:14:36
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15264, C-15265, C-15266, N-957, N-959, N-960*
+*Related: C-14168, C-14169, C-14170, N-957, N-959, N-960*
 
 **A-3384.2** Instagram post of May 20, 2025 congratulating Rep. Tyler Clancy on a detective award
 
@@ -108,7 +108,7 @@ Video Timestamp: 00:16:23
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15268, N-959*
+*Related: C-14172, N-959*
 
 **A-3384.3** Governor Spencer Cox social media post appointing Tyler Clancy state homeless coordinator
 
@@ -119,7 +119,7 @@ Video Timestamp: 00:24:42
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15289, C-15290, N-41, N-959, N-961*
+*Related: C-14193, C-14194, N-41, N-959, N-961*
 
 **A-3384.4** Photo the host shows of Tyler Clancy and Robbie Hild
 
@@ -128,7 +128,7 @@ Video Timestamp: 00:27:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15294, N-959, N-943*
+*Related: C-14198, N-959, N-943*
 
 **A-3384.5** On-screen "Pokemon stats" graphic listing Tyler Clancy's roles
 
@@ -137,7 +137,7 @@ Video Timestamp: 00:32:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15300, N-959*
+*Related: C-14204, N-959*
 
 ---
 
@@ -152,7 +152,7 @@ Video Timestamp: 00:20:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15277, C-15278, C-15279, C-15280, C-15281, C-15282, C-15283, C-15284, C-15285, N-7, N-190, N-598, N-4*
+*Related: C-14181, C-14182, C-14183, C-14184, C-14185, C-14186, C-14187, C-14188, C-14189, N-7, N-190, N-598, N-4*
 
 ---
 
@@ -167,7 +167,7 @@ Video Timestamp: 00:26:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15292, C-15293, N-128, N-943, N-132*
+*Related: C-14196, C-14197, N-128, N-943, N-132*
 
 ---
 
@@ -180,7 +180,7 @@ Video Timestamp: 00:29:33
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15299, N-10874*
+*Related: C-14203, N-10874*
 
 ---
 
@@ -195,7 +195,7 @@ Video Timestamp: 00:35:39
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15303, C-15304, C-15305, N-962, N-5*
+*Related: C-14207, C-14208, C-14209, N-962, N-5*
 
 **A-3388.2** Business Insider headline on Zacharia and the bar question
 
@@ -206,7 +206,7 @@ Video Timestamp: 00:40:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15310, N-962, N-11424*
+*Related: C-14214, N-962, N-11424*
 
 ---
 
@@ -221,7 +221,7 @@ Video Timestamp: 00:49:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15315, N-277, N-11425*
+*Related: C-14219, N-277, N-11425*
 
 ---
 
@@ -234,7 +234,7 @@ Video Timestamp: 00:51:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15318, C-15319, C-15322, C-15323*
+*Related: C-14222, C-14223, C-14226, C-14227*
 
 ---
 
@@ -244,133 +244,133 @@ Confidence Level: High
 
 Assassinated at UVU on September 10, 2025; the host says his birthday is October 14 and that his body lay on Frank Turek's bag in the car.
 
-*Related: C-15257, C-15260, C-15279, C-15281, C-15282, C-15296, C-15316, C-15319, C-15321*
+*Related: C-14161, C-14164, C-14183, C-14185, C-14186, C-14200, C-14220, C-14223, C-14225*
 
 **N-2** Erika Kirk
 
 The host alleges Tyler Clancy escorted her from the airport; Turek says he kept the necklace for her; the host disputes her credentials and her Vanity Fair tweet.
 
-*Related: C-15272, C-15282, C-15283, C-15285, C-15307, C-15309, C-15320, C-15321, C-15322*
+*Related: C-14176, C-14186, C-14187, C-14189, C-14211, C-14213, C-14224, C-14225, C-14226*
 
 **N-3** Candace Owens
 
 Host.
 
-*Related: C-15239, C-15240, C-15241, C-15242, C-15243, C-15269, C-15295, C-15317, C-15324*
+*Related: C-14143, C-14144, C-14145, C-14146, C-14147, C-14173, C-14199, C-14221, C-14228*
 
 **N-4** JD Vance
 
 Named in the Turek clip as coming to take Charlie Kirk's body to Phoenix.
 
-*Related: C-15279*
+*Related: C-14183*
 
 **N-5** Donald Trump
 
 Named in the Zacharia briefing clip and as the president who chose her.
 
-*Related: C-15302, C-15303, C-15304*
+*Related: C-14206, C-14207, C-14208*
 
 **N-7** Frank Turek
 
 The host plays his Apostate Prophet podcast clip about giving his bloodied bag to a police officer to dispose of.
 
-*Related: C-15276, C-15277, C-15278, C-15279, C-15280, C-15281, C-15282, C-15283, C-15284, C-15285, C-15286, C-15298*
+*Related: C-14180, C-14181, C-14182, C-14183, C-14184, C-14185, C-14186, C-14187, C-14188, C-14189, C-14190, C-14202*
 
 **N-25** Brian Cole Jr.
 
 A viewer comment refers to the J6 bombing case; the host says she will speak more about the Brian Cole case.
 
-*Related: C-15318*
+*Related: C-14222*
 
 **N-40** Tyler Robinson
 
 Accused killer; the host says a young critic claimed to know potential jurors would vote to convict him.
 
-*Related: C-15244*
+*Related: C-14148*
 
 **N-41** Spencer Cox
 
 Utah governor; the host says he promoted Tyler Clancy to state homeless coordinator.
 
-*Related: C-15288, C-15289, C-15290*
+*Related: C-14192, C-14193, C-14194*
 
 **N-128** Shaner Broderick
 
 The host alleges he is best friends with Tyler Clancy and recalls his September 14 post on retracing the alleged killer's steps.
 
-*Related: C-15291, C-15292, C-15293, C-15294*
+*Related: C-14195, C-14196, C-14197, C-14198*
 
 **N-129** Kayleigh McEnany
 
 Former Trump press secretary whom the host contrasts with Katie Zacharia.
 
-*Related: C-15301*
+*Related: C-14205*
 
 **N-132** Gernot Ohner
 
 Named in the transcript as "Gerno", one of Shaner Broderick's companions on the step-retracing outing.
 
-*Related: C-15292*
+*Related: C-14196*
 
 **N-146** Theo Von
 
 Mentioned as a press-secretary candidate in jest and for the host's interview viewership.
 
-*Related: C-15314, C-15323*
+*Related: C-14218, C-14227*
 
 **N-159** Blake Neff
 
 The host recalls his "marking time" account of where he was in Salt Lake City on September 10.
 
-*Related: C-15260*
+*Related: C-14164*
 
 **N-190** Mikey McCoy
 
 Named in the Turek clip as arranging JD Vance's trip with Katherine LoCastro.
 
-*Related: C-15279*
+*Related: C-14183*
 
 **N-266** Brian Harpole
 
 The host says the fire captain does not appear in his account of the hospital.
 
-*Related: C-15286, C-15298*
+*Related: C-14190, C-14202*
 
 **N-277** Tim Dillon
 
 Comedian whose Cornell 7 clip the host plays; she jokes he would be her press secretary.
 
-*Related: C-15314, C-15315*
+*Related: C-14218, C-14219*
 
 **N-280** Karoline Leavitt
 
 Outgoing press secretary whom Katie Zacharia replaces.
 
-*Related: C-15302*
+*Related: C-14206*
 
 **N-330** Baron Coleman
 
 The host says he pointed her to Frank Turek's bloodied-bag story; she announces a Baron Coleman merch line.
 
-*Related: C-15276, C-15324*
+*Related: C-14180, C-14228*
 
 **N-598** Katherine Locastro
 
 Named in the Turek clip (transcribed "Katherine LoCastro") as arranging JD Vance's trip.
 
-*Related: C-15279*
+*Related: C-14183*
 
 **N-632** Hunter Biden
 
 The host recalls his crack-and-stripper story as an analogy for the Cornell 7 case.
 
-*Related: C-15313*
+*Related: C-14217*
 
 **N-943** Robbie Hild
 
 Named as Shaner Broderick's companion and as in Tyler Clancy's friend group.
 
-*Related: C-15292, C-15294*
+*Related: C-14196, C-14198*
 
 **N-957** Val Peterson
 
@@ -378,13 +378,13 @@ First named by the host at 00:04:18 in episode 164. UVU vice president, Utah sta
 
 Aliases: Val Peterson (transcription)
 
-*Related: C-15246, C-15247, C-15248, C-15249, C-15250, C-15251, C-15252, C-15253, C-15254, C-15255, C-15256, C-15257, C-15258, C-15259, C-15262, C-15265, C-15300, A-3382.1, A-3383.1*
+*Related: C-14150, C-14151, C-14152, C-14153, C-14154, C-14155, C-14156, C-14157, C-14158, C-14159, C-14160, C-14161, C-14162, C-14163, C-14166, C-14169, C-14204, A-3382.1, A-3383.1*
 
 **N-958** Hank McIntire
 
 First named by the host at 00:08:10 in episode 164. Utah National Guard spokesman quoted in the 2007 article on Peterson.
 
-*Related: C-15253, A-3382.1*
+*Related: C-14157, A-3382.1*
 
 **N-959** Tyler Clancy
 
@@ -392,149 +392,149 @@ First named by the host at 00:13:28 in episode 164. Utah state representative an
 
 Aliases: Tyler Clancy; Tyler Clancy (transcription)
 
-*Related: C-15262, C-15263, C-15264, C-15265, C-15266, C-15267, C-15268, C-15269, C-15270, C-15271, C-15272, C-15273, C-15274, C-15287, C-15288, C-15289, C-15291, C-15294, C-15300, A-3384.1*
+*Related: C-14166, C-14167, C-14168, C-14169, C-14170, C-14171, C-14172, C-14173, C-14174, C-14175, C-14176, C-14177, C-14178, C-14191, C-14192, C-14193, C-14195, C-14198, C-14204, A-3384.1*
 
 **N-960** Matt Schneck
 
 First named by the host at 00:15:14 in episode 164. Read as head coach of BYU men's lacrosse in the article on Tyler Clancy (spelling unverified).
 
-*Related: C-15266, A-3384.1*
+*Related: C-14170, A-3384.1*
 
 **N-961** Wayne Niederhauser
 
 First named by the host at 00:25:12 in episode 164. Outgoing Utah state homeless coordinator named in Governor Cox's post (transcribed "Wayne Niederhauser").
 
-*Related: C-15290, A-3384.3*
+*Related: C-14194, A-3384.3*
 
 **N-962** Katie Zacharia
 
 First named by the host at 00:35:06 in episode 164. New White House press secretary replacing Karoline Leavitt.
 
-*Related: C-15302, C-15303, C-15304, C-15305, C-15306, C-15308, C-15309, C-15310, C-15322, A-3388.1*
+*Related: C-14206, C-14207, C-14208, C-14209, C-14210, C-14212, C-14213, C-14214, C-14226, A-3388.1*
 
 **N-10000** Turning Point USA
 
 The host alleges Peterson sides with TPUSA and that TPUSA members or affiliates rode in Clancy's car.
 
-*Related: C-15247, C-15273, C-15274*
+*Related: C-14151, C-14177, C-14178*
 
 **N-10012** Utah Valley University
 
 Peterson's employer and the site of the September 10 event.
 
-*Related: C-15246, C-15248, C-15249, C-15257*
+*Related: C-14150, C-14152, C-14153, C-14161*
 
 **N-10062** Orem, Utah
 
 Part of Peterson's House district; the host cites Orem sources for the bag account.
 
-*Related: C-15250, C-15275*
+*Related: C-14154, C-14179*
 
 **N-10074** Provo, Utah
 
 Clancy's police department; the host cites Provo sources.
 
-*Related: C-15267, C-15275*
+*Related: C-14171, C-14179*
 
 **N-10537** Charlie Kirk Necklace / Magnet Clasp Examination
 
 Turek's clip says the necklace was on top of the bloodied bag.
 
-*Related: C-15282, C-15283*
+*Related: C-14186, C-14187*
 
 **N-10665** Erika Kirk Educational Credentials Discrepancy
 
 The host compares Zacharia's unconfirmed law degree to Erika Kirk's doctorate claim.
 
-*Related: C-15307, C-15309*
+*Related: C-14211, C-14213*
 
 **N-10687** Frank Turek CPR Claim Verification
 
 The host questions Turek's CPR account given the bag in the back seat.
 
-*Related: C-15286*
+*Related: C-14190*
 
 **N-10688** Frank Turek Clothing Disposal
 
 Turek's clip describes changing into scrubs and disposing of the bloodied bag.
 
-*Related: C-15284, C-15285*
+*Related: C-14188, C-14189*
 
 **N-10715** Blake Neff September 10th Movement Discrepancy
 
 The host recalls Neff's "marking time" account in Salt Lake City.
 
-*Related: C-15260*
+*Related: C-14164*
 
 **N-10839** Independent Review of UVU Security Failures
 
 The host cites the after-action report on Peterson's location.
 
-*Related: C-15258, A-3383.1*
+*Related: C-14162, A-3383.1*
 
 **N-10864** Vanity Fair Erika Kirk Profile (Clara Molot)
 
 The host disputes Erika Kirk's tweet explaining why she sat down with Vanity Fair.
 
-*Related: C-15321*
+*Related: C-14225*
 
 **N-10872** Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession
 
 Raised in a viewer comment; the host promises to discuss it.
 
-*Related: C-15318*
+*Related: C-14222*
 
 **N-10874** UVU Independent Review Unnamed Fire Captain CPR Redaction
 
 The host says the fire captain who gave CPR at Timpanogos still cannot be identified.
 
-*Related: C-15296, C-15297, C-15298, C-15299, A-3387.1*
+*Related: C-14200, C-14201, C-14202, C-14203, A-3387.1*
 
 **N-11218** Timpanogos Regional Hospital
 
 The host alleges Clancy was at Timpanogos shortly after Charlie Kirk arrived and was dispatched from there.
 
-*Related: C-15271, C-15272, C-15296*
+*Related: C-14175, C-14176, C-14200*
 
 **N-11263** Utah Internet Crimes Against Children Task Force
 
 The host says Clancy was also on ICAC.
 
-*Related: C-15267*
+*Related: C-14171*
 
 **N-11422** Val Peterson September 10 Whereabouts Question
 
 Node Type: Topic
 The host's question of where UVU vice president and retired brigadier general Val Peterson was on September 10, 2025, after the after-action report placed him about 45 minutes from campus at the time of the shooting; she notes Salt Lake City and National Guard facilities but says she has no idea whether he was there.
 
-*Related: C-15257, C-15258, C-15259, C-15261, N-957*
+*Related: C-14161, C-14162, C-14163, C-14165, N-957*
 
 **N-11423** Tyler Clancy Bloodied Bag Disposal Allegation
 
 Node Type: Topic
 The host's allegation, attributed to multiple Provo and Orem sources, that Provo officer Tyler Clancy carried Turning Point USA members or affiliates in his car on September 10, 2025 and disposed of a bloodied bag one of them left there, which she links to Frank Turek's account of asking a police officer to dispose of his bag.
 
-*Related: C-15273, C-15274, C-15275, C-15276, C-15277, C-15285, C-15287, N-959, N-7*
+*Related: C-14177, C-14178, C-14179, C-14180, C-14181, C-14189, C-14191, N-959, N-7*
 
 **N-11424** Katie Zacharia Law Credential Question
 
 Node Type: Topic
 The host's and press reports' question of whether new White House press secretary Katie Zacharia graduated law school and passed a bar exam.
 
-*Related: C-15308, C-15309, C-15310, A-3388.2, N-962*
+*Related: C-14212, C-14213, C-14214, A-3388.2, N-962*
 
 **N-11425** Cornell 7 Case
 
 Node Type: Topic
 The Cornell fraternity party case involving allegations of a gang rape and a group text, on which the host gives her general opinion.
 
-*Related: C-15311, C-15312, C-15315, A-3389.1*
+*Related: C-14215, C-14216, C-14219, A-3389.1*
 
 ---
 
 ## 5. Claim Register
 
-**C-15239** Clip Accuses the Host of Lying About a Monday Episode
+**C-14143** Clip Accuses the Host of Lying About a Monday Episode
 
 Claim Timestamp: 00:00:08
 
@@ -550,7 +550,7 @@ Investigative Direction: Compare the prior Friday episode's sign-off with the ch
 
 ---
 
-**C-15240** Host Says She Is Still Pregnant
+**C-14144** Host Says She Is Still Pregnant
 
 Claim Timestamp: 00:01:05
 
@@ -566,7 +566,7 @@ Investigative Direction: Later episodes announcing the birth.
 
 ---
 
-**C-15241** Host Blames Producer Skyler for the Missed Monday
+**C-14145** Host Blames Producer Skyler for the Missed Monday
 
 Claim Timestamp: 00:01:15
 
@@ -582,7 +582,7 @@ Investigative Direction: None needed beyond the episode record.
 
 ---
 
-**C-15242** Host Says She Held a UVU Discovery Because of Litigation
+**C-14146** Host Says She Held a UVU Discovery Because of Litigation
 
 Claim Timestamp: 00:02:08
 
@@ -598,7 +598,7 @@ Investigative Direction: Filings in the lawsuits against the host and the timing
 
 ---
 
-**C-15243** Host Says a Young Critic Told People About Lawsuits Coming Against Her
+**C-14147** Host Says a Young Critic Told People About Lawsuits Coming Against Her
 
 Claim Timestamp: 00:03:14
 
@@ -614,7 +614,7 @@ Investigative Direction: Public statements by the unnamed individual and the fil
 
 ---
 
-**C-15244** Host Says the Critic Claimed Jurors Would Convict Tyler Robinson
+**C-14148** Host Says the Critic Claimed Jurors Would Convict Tyler Robinson
 
 Claim Timestamp: 00:03:48
 
@@ -630,7 +630,7 @@ Investigative Direction: Recordings or posts of the individual's statement about
 
 ---
 
-**C-15245** Host Says Sources Came Forward Because the Critic Talked Too Much
+**C-14149** Host Says Sources Came Forward Because the Critic Talked Too Much
 
 Claim Timestamp: 00:04:05
 
@@ -646,7 +646,7 @@ Investigative Direction: The host's source records and the lawsuit filing date.
 
 ---
 
-**C-15246** Host Introduces Val Peterson as a UVU Faculty Member
+**C-14150** Host Introduces Val Peterson as a UVU Faculty Member
 
 Claim Timestamp: 00:04:32
 
@@ -662,7 +662,7 @@ Investigative Direction: UVU staff directory and Peterson's official title.
 
 ---
 
-**C-15247** Host Says Peterson Is Allegedly Team Turning Point Against His Faculty
+**C-14151** Host Says Peterson Is Allegedly Team Turning Point Against His Faculty
 
 Claim Timestamp: 00:04:58
 
@@ -678,7 +678,7 @@ Investigative Direction: UVU faculty accounts and internal communications on the
 
 ---
 
-**C-15248** Host Says Peterson Started at UVU in June 1987
+**C-14152** Host Says Peterson Started at UVU in June 1987
 
 Claim Timestamp: 00:05:25
 
@@ -694,7 +694,7 @@ Investigative Direction: UVU biography of Val Peterson.
 
 ---
 
-**C-15249** Host Says Peterson Is UVU Vice President Overseeing More Than $50 Million
+**C-14153** Host Says Peterson Is UVU Vice President Overseeing More Than $50 Million
 
 Claim Timestamp: 00:05:40
 
@@ -710,7 +710,7 @@ Investigative Direction: UVU organizational chart and budget documents.
 
 ---
 
-**C-15250** Host Says Peterson Also Serves in the Utah House for the 56th District
+**C-14154** Host Says Peterson Also Serves in the Utah House for the 56th District
 
 Claim Timestamp: 00:06:05
 
@@ -726,7 +726,7 @@ Investigative Direction: Utah House of Representatives member roster.
 
 ---
 
-**C-15251** Host Says Peterson Is a Brigadier General Who Led the Guard's Intelligence Brigade
+**C-14155** Host Says Peterson Is a Brigadier General Who Led the Guard's Intelligence Brigade
 
 Claim Timestamp: 00:06:50
 
@@ -742,7 +742,7 @@ Investigative Direction: Utah National Guard service records and retirement anno
 
 ---
 
-**C-15252** 2007 Article Says Peterson Took Command of the 300th Military Intelligence Brigade
+**C-14156** 2007 Article Says Peterson Took Command of the 300th Military Intelligence Brigade
 
 Claim Timestamp: 00:07:50
 
@@ -758,7 +758,7 @@ Investigative Direction: The original 2007 article and Utah National Guard chang
 
 ---
 
-**C-15253** Article Quotes Guard Spokesman Hank McIntire on Peterson
+**C-14157** Article Quotes Guard Spokesman Hank McIntire on Peterson
 
 Claim Timestamp: 00:08:25
 
@@ -774,7 +774,7 @@ Investigative Direction: The original 2007 article.
 
 ---
 
-**C-15254** Article Says Peterson Served an LDS Mission in Colombia
+**C-14158** Article Says Peterson Served an LDS Mission in Colombia
 
 Claim Timestamp: 00:08:58
 
@@ -790,7 +790,7 @@ Investigative Direction: The original 2007 article.
 
 ---
 
-**C-15255** Article Says Peterson Holds Master's and Doctoral Degrees From BYU
+**C-14159** Article Says Peterson Holds Master's and Doctoral Degrees From BYU
 
 Claim Timestamp: 00:09:52
 
@@ -806,7 +806,7 @@ Investigative Direction: BYU degree records and UVU biography.
 
 ---
 
-**C-15256** Host Says Peterson Retired as a Brigadier General Over Six Army Commands
+**C-14160** Host Says Peterson Retired as a Brigadier General Over Six Army Commands
 
 Claim Timestamp: 00:10:40
 
@@ -822,7 +822,7 @@ Investigative Direction: Utah National Guard retirement records.
 
 ---
 
-**C-15257** Host Says Peterson Was Not at UVU When Charlie Kirk Was Shot
+**C-14161** Host Says Peterson Was Not at UVU When Charlie Kirk Was Shot
 
 Claim Timestamp: 00:11:00
 
@@ -838,7 +838,7 @@ Investigative Direction: UVU after-action report and Peterson's September 10 sch
 
 ---
 
-**C-15258** After-Action Report Places Peterson About 45 Minutes From Campus
+**C-14162** After-Action Report Places Peterson About 45 Minutes From Campus
 
 Claim Timestamp: 00:11:15
 
@@ -854,7 +854,7 @@ Investigative Direction: The UVU after-action report and Peterson's phone record
 
 ---
 
-**C-15259** Host Notes Salt Lake City and the National Guard Air Base Are About 45 Minutes Away
+**C-14163** Host Notes Salt Lake City and the National Guard Air Base Are About 45 Minutes Away
 
 Claim Timestamp: 00:11:47
 
@@ -870,7 +870,7 @@ Investigative Direction: Peterson's location records for September 10 and Guard 
 
 ---
 
-**C-15260** Host Recalls Blake Neff Saying He Was "Marking Time" in Salt Lake City
+**C-14164** Host Recalls Blake Neff Saying He Was "Marking Time" in Salt Lake City
 
 Claim Timestamp: 00:12:08
 
@@ -886,7 +886,7 @@ Investigative Direction: Neff's own statements and location data for September 1
 
 ---
 
-**C-15261** Host Says Guard Army Headquarters in Draper Is 15 Minutes Away
+**C-14165** Host Says Guard Army Headquarters in Draper Is 15 Minutes Away
 
 Claim Timestamp: 00:12:38
 
@@ -902,7 +902,7 @@ Investigative Direction: Utah National Guard facility addresses.
 
 ---
 
-**C-15262** Host Says Peterson Was a Church Leader to BYU Students
+**C-14166** Host Says Peterson Was a Church Leader to BYU Students
 
 Claim Timestamp: 00:13:10
 
@@ -918,7 +918,7 @@ Investigative Direction: LDS ward records and the article quoting Peterson.
 
 ---
 
-**C-15263** Host Says Tyler Clancy Was Born in 1997 and Attended BYU
+**C-14167** Host Says Tyler Clancy Was Born in 1997 and Attended BYU
 
 Claim Timestamp: 00:13:48
 
@@ -934,7 +934,7 @@ Investigative Direction: Clancy's official legislative biography.
 
 ---
 
-**C-15264** Host Says Clancy Was the Youngest Utah House Member Since 1834
+**C-14168** Host Says Clancy Was the Youngest Utah House Member Since 1834
 
 Claim Timestamp: 00:14:25
 
@@ -950,7 +950,7 @@ Investigative Direction: The article the host shows and Utah legislative history
 
 ---
 
-**C-15265** Article Says Peterson Was Clancy's Church Leader at BYU
+**C-14169** Article Says Peterson Was Clancy's Church Leader at BYU
 
 Claim Timestamp: 00:14:55
 
@@ -966,7 +966,7 @@ Investigative Direction: The original article.
 
 ---
 
-**C-15266** Article Quotes BYU Lacrosse Coach on Clancy's Leadership
+**C-14170** Article Quotes BYU Lacrosse Coach on Clancy's Leadership
 
 Claim Timestamp: 00:15:18
 
@@ -982,7 +982,7 @@ Investigative Direction: BYU men's lacrosse rosters and coaching staff.
 
 ---
 
-**C-15267** Host Says Clancy Was a Provo SVU Officer and on ICAC on September 10
+**C-14171** Host Says Clancy Was a Provo SVU Officer and on ICAC on September 10
 
 Claim Timestamp: 00:16:02
 
@@ -998,7 +998,7 @@ Investigative Direction: Provo Police Department personnel records for September
 
 ---
 
-**C-15268** Instagram Post Says Clancy Received an Award as a Provo SVU Detective
+**C-14172** Instagram Post Says Clancy Received an Award as a Provo SVU Detective
 
 Claim Timestamp: 00:16:28
 
@@ -1014,7 +1014,7 @@ Investigative Direction: The Instagram post and the awarding organization's reco
 
 ---
 
-**C-15269** Host Says Clancy Did Not Respond to a Request for Comment
+**C-14173** Host Says Clancy Did Not Respond to a Request for Comment
 
 Claim Timestamp: 00:17:20
 
@@ -1030,7 +1030,7 @@ Investigative Direction: Clancy's response, if any, and the outreach record.
 
 ---
 
-**C-15270** Host Says Clancy Was on Duty as a Provo Officer
+**C-14174** Host Says Clancy Was on Duty as a Provo Officer
 
 Claim Timestamp: 00:17:40
 
@@ -1046,7 +1046,7 @@ Investigative Direction: Provo Police Department duty rosters for September 10-1
 
 ---
 
-**C-15271** Host Alleges Clancy Was at Timpanogos Shortly After Charlie Arrived
+**C-14175** Host Alleges Clancy Was at Timpanogos Shortly After Charlie Arrived
 
 Claim Timestamp: 00:17:47
 
@@ -1062,7 +1062,7 @@ Investigative Direction: Timpanogos hospital security logs and Provo police disp
 
 ---
 
-**C-15272** Host Says Clancy Was Dispatched From Timpanogos to Escort Erika Kirk
+**C-14176** Host Says Clancy Was Dispatched From Timpanogos to Escort Erika Kirk
 
 Claim Timestamp: 00:17:52
 
@@ -1078,7 +1078,7 @@ Investigative Direction: Police dispatch records and airport arrival records for
 
 ---
 
-**C-15273** Host Alleges Clancy Carried Turning Point Members or Affiliates in His Car
+**C-14177** Host Alleges Clancy Carried Turning Point Members or Affiliates in His Car
 
 Claim Timestamp: 00:18:13
 
@@ -1094,7 +1094,7 @@ Investigative Direction: Provo police vehicle logs and statements from Turning P
 
 ---
 
-**C-15274** Host Alleges Clancy Disposed of a Bloodied Bag Left in His Car
+**C-14178** Host Alleges Clancy Disposed of a Bloodied Bag Left in His Car
 
 Claim Timestamp: 00:18:33
 
@@ -1110,7 +1110,7 @@ Investigative Direction: Provo police evidence logs for September 10 and Clancy'
 
 ---
 
-**C-15275** Host Says the Bag Account Was Verified by Multiple Provo and Orem Sources
+**C-14179** Host Says the Bag Account Was Verified by Multiple Provo and Orem Sources
 
 Claim Timestamp: 00:19:38
 
@@ -1126,7 +1126,7 @@ Investigative Direction: Identities and depositions of the sources.
 
 ---
 
-**C-15276** Host Says Baron Coleman Pointed Her to Frank Turek's Similar Story
+**C-14180** Host Says Baron Coleman Pointed Her to Frank Turek's Similar Story
 
 Claim Timestamp: 00:19:50
 
@@ -1142,7 +1142,7 @@ Investigative Direction: Turek's podcast appearance and Coleman's statements.
 
 ---
 
-**C-15277** Host Says Turek Admitted Giving His Bloodied Bag to a Police Officer to Dispose Of
+**C-14181** Host Says Turek Admitted Giving His Bloodied Bag to a Police Officer to Dispose Of
 
 Claim Timestamp: 00:20:12
 
@@ -1158,7 +1158,7 @@ Investigative Direction: The full Apostate Prophet podcast episode.
 
 ---
 
-**C-15278** Host Dates Turek's Remarks to the Apostate Prophet Podcast of April 9, 2026
+**C-14182** Host Dates Turek's Remarks to the Apostate Prophet Podcast of April 9, 2026
 
 Claim Timestamp: 00:20:25
 
@@ -1174,7 +1174,7 @@ Investigative Direction: The podcast's publication date.
 
 ---
 
-**C-15279** Turek Clip Says Mikey McCoy and Katherine LoCastro Arranged for JD Vance to Take the Body
+**C-14183** Turek Clip Says Mikey McCoy and Katherine LoCastro Arranged for JD Vance to Take the Body
 
 Claim Timestamp: 00:20:58
 
@@ -1190,7 +1190,7 @@ Investigative Direction: Flight records of the vice president's aircraft on Sept
 
 ---
 
-**C-15280** Turek Clip Says the Car Was Held as a Crime Scene Until About 5:30
+**C-14184** Turek Clip Says the Car Was Held as a Crime Scene Until About 5:30
 
 Claim Timestamp: 00:21:22
 
@@ -1206,7 +1206,7 @@ Investigative Direction: Police vehicle processing records for the SUV.
 
 ---
 
-**C-15281** Turek Clip Says Charlie Lay on His Bag, Which Was Full of Blood
+**C-14185** Turek Clip Says Charlie Lay on His Bag, Which Was Full of Blood
 
 Claim Timestamp: 00:21:40
 
@@ -1222,7 +1222,7 @@ Investigative Direction: Crime-scene photos of the vehicle interior.
 
 ---
 
-**C-15282** Turek Clip Says Charlie's Necklace Was on Top of the Bag
+**C-14186** Turek Clip Says Charlie's Necklace Was on Top of the Bag
 
 Claim Timestamp: 00:21:54
 
@@ -1233,13 +1233,13 @@ Transcript Snippet: his necklace, which we were looking for, was across the top 
 Anchored Artifacts: A-3385.1
 Mentions: N-7, N-1, N-2
 Related Nodes: N-10537
-Supports: C-1962
+Supports: C-4213
 Tags: relevance:core
 Investigative Direction: Evidence logs on the necklace and Turek's earlier accounts.
 
 ---
 
-**C-15283** Turek Clip Says He Refused to Give the Necklace to a Cop
+**C-14187** Turek Clip Says He Refused to Give the Necklace to a Cop
 
 Claim Timestamp: 00:22:08
 
@@ -1255,7 +1255,7 @@ Investigative Direction: Identity of the officer present at the vehicle release.
 
 ---
 
-**C-15284** Turek Clip Says Everyone Attending to Charlie Was in Scrubs
+**C-14188** Turek Clip Says Everyone Attending to Charlie Was in Scrubs
 
 Claim Timestamp: 00:22:30
 
@@ -1266,13 +1266,13 @@ Transcript Snippet: In fact, everybody that was attending to Charlie was in scru
 Anchored Artifacts: A-3385.1
 Mentions: N-7, N-1
 Related Nodes: N-10688
-Supports: C-4711
+Supports: C-10096
 Tags: relevance:core
 Investigative Direction: Hospital records of scrubs issued and photos from the evening.
 
 ---
 
-**C-15285** Turek Clip Says He Asked the Cop Next to Him to Dispose of the Bag
+**C-14189** Turek Clip Says He Asked the Cop Next to Him to Dispose of the Bag
 
 Claim Timestamp: 00:22:45
 
@@ -1288,7 +1288,7 @@ Investigative Direction: Identity of the officer in Turek's vehicle and any poli
 
 ---
 
-**C-15286** Host Questions Turek's CPR Account Given the Bag
+**C-14190** Host Questions Turek's CPR Account Given the Bag
 
 Claim Timestamp: 00:23:15
 
@@ -1304,7 +1304,7 @@ Investigative Direction: Turek's and Harpole's full CPR accounts compared with v
 
 ---
 
-**C-15287** Host Says She Is Inclined to Believe the Officer Was Tyler Clancy
+**C-14191** Host Says She Is Inclined to Believe the Officer Was Tyler Clancy
 
 Claim Timestamp: 00:24:12
 
@@ -1320,7 +1320,7 @@ Investigative Direction: Identity of the officer in Turek's car and Clancy's ass
 
 ---
 
-**C-15288** Host Says Governor Cox Promoted Clancy Shortly After the Assassination
+**C-14192** Host Says Governor Cox Promoted Clancy Shortly After the Assassination
 
 Claim Timestamp: 00:24:28
 
@@ -1336,7 +1336,7 @@ Investigative Direction: Governor's office appointment records and their timing.
 
 ---
 
-**C-15289** Cox Post Announces Clancy as State Homeless Coordinator on October 30
+**C-14193** Cox Post Announces Clancy as State Homeless Coordinator on October 30
 
 Claim Timestamp: 00:24:52
 
@@ -1352,7 +1352,7 @@ Investigative Direction: The governor's post and press release.
 
 ---
 
-**C-15290** Cox Post Thanks Outgoing Coordinator Wayne Niederhauser
+**C-14194** Cox Post Thanks Outgoing Coordinator Wayne Niederhauser
 
 Claim Timestamp: 00:25:14
 
@@ -1368,7 +1368,7 @@ Investigative Direction: The governor's post.
 
 ---
 
-**C-15291** Host Says Multiple People Report Clancy Is Allegedly Best Friends With a Figure From the Case
+**C-14195** Host Says Multiple People Report Clancy Is Allegedly Best Friends With a Figure From the Case
 
 Claim Timestamp: 00:25:30
 
@@ -1384,7 +1384,7 @@ Investigative Direction: Social media connections and BYU lacrosse rosters.
 
 ---
 
-**C-15292** Host Recalls Broderick Retracing the Alleged Killer's Steps With Robbie Hild and Gernot
+**C-14196** Host Recalls Broderick Retracing the Alleged Killer's Steps With Robbie Hild and Gernot
 
 Claim Timestamp: 00:26:28
 
@@ -1400,7 +1400,7 @@ Investigative Direction: Archived copy of Broderick's Instagram post.
 
 ---
 
-**C-15293** Broderick Post Says the Last Picture Shows Converse Footprints
+**C-14197** Broderick Post Says the Last Picture Shows Converse Footprints
 
 Claim Timestamp: 00:27:05
 
@@ -1416,7 +1416,7 @@ Investigative Direction: Archived post images and the location of the footprints
 
 ---
 
-**C-15294** Host Says Clancy and Broderick Are Best Friends Through BYU Lacrosse
+**C-14198** Host Says Clancy and Broderick Are Best Friends Through BYU Lacrosse
 
 Claim Timestamp: 00:27:10
 
@@ -1432,7 +1432,7 @@ Investigative Direction: BYU men's lacrosse rosters and the source of the photo.
 
 ---
 
-**C-15295** Host Says She Knows More but Is Waiting for Depositions
+**C-14199** Host Says She Knows More but Is Waiting for Depositions
 
 Claim Timestamp: 00:27:54
 
@@ -1448,7 +1448,7 @@ Investigative Direction: Court dockets for the pending lawsuits.
 
 ---
 
-**C-15296** Host Says the Fire Captain Who Gave CPR at Timpanogos Is Still Unidentified
+**C-14200** Host Says the Fire Captain Who Gave CPR at Timpanogos Is Still Unidentified
 
 Claim Timestamp: 00:28:18
 
@@ -1459,13 +1459,13 @@ Transcript Snippet: we are still unable to determine who the fire captain was th
 Anchored Artifacts:
 Mentions: N-1
 Related Nodes: N-10874, N-11218
-Supports: C-3622
+Supports: C-13858
 Tags: relevance:core
 Investigative Direction: Fire department shift records for September 10 and the unredacted review.
 
 ---
 
-**C-15297** Host Says Fire Schedules Sent to Her Point to Retired People
+**C-14201** Host Says Fire Schedules Sent to Her Point to Retired People
 
 Claim Timestamp: 00:29:03
 
@@ -1481,7 +1481,7 @@ Investigative Direction: Provo and Orem fire department rosters for September 10
 
 ---
 
-**C-15298** Host Says She Heard the Fire Captain Jumped Out of an Ambulance
+**C-14202** Host Says She Heard the Fire Captain Jumped Out of an Ambulance
 
 Claim Timestamp: 00:29:34
 
@@ -1492,13 +1492,13 @@ Transcript Snippet: can't confirm that he was actually in an ambulance and jumpe
 Anchored Artifacts:
 Mentions: N-7, N-266
 Related Nodes: N-10874
-Supports: C-3623
+Supports: C-13853
 Tags: relevance:core
 Investigative Direction: EMS run reports for ambulances at Timpanogos on September 10.
 
 ---
 
-**C-15299** Host Asks for Tips on the Fire Captain
+**C-14203** Host Asks for Tips on the Fire Captain
 
 Claim Timestamp: 00:29:45
 
@@ -1509,13 +1509,13 @@ Transcript Snippet: if you know something please email us moretips@candaceowens.
 Anchored Artifacts: A-3387.1
 Mentions:
 Related Nodes: N-10874
-Supports: C-9235
+Supports: C-13861
 Tags: relevance:core
 Investigative Direction: Tips received at moretips@candaceowens.com.
 
 ---
 
-**C-15300** Host Says Holding Multiple Roles Is Allowed in Utah
+**C-14204** Host Says Holding Multiple Roles Is Allowed in Utah
 
 Claim Timestamp: 00:33:02
 
@@ -1531,7 +1531,7 @@ Investigative Direction: Utah legislative conflict-of-interest disclosure forms 
 
 ---
 
-**C-15301** Host Says Kayleigh McEnany Graduated Harvard Law and Studied at Oxford
+**C-14205** Host Says Kayleigh McEnany Graduated Harvard Law and Studied at Oxford
 
 Claim Timestamp: 00:34:05
 
@@ -1547,7 +1547,7 @@ Investigative Direction: McEnany's published biography.
 
 ---
 
-**C-15302** Host Says Katie Zacharia Has Replaced Karoline Leavitt
+**C-14206** Host Says Katie Zacharia Has Replaced Karoline Leavitt
 
 Claim Timestamp: 00:35:06
 
@@ -1563,7 +1563,7 @@ Investigative Direction: White House announcement of the appointment.
 
 ---
 
-**C-15303** Zacharia Clip Cites a Youngstown Rally With Jake Paul and Jon Gruden
+**C-14207** Zacharia Clip Cites a Youngstown Rally With Jake Paul and Jon Gruden
 
 Claim Timestamp: 00:36:35
 
@@ -1579,7 +1579,7 @@ Investigative Direction: Rally coverage from Youngstown.
 
 ---
 
-**C-15304** Zacharia Clip Says Cleveland Was Chosen for a Navy Submarine Repair Center
+**C-14208** Zacharia Clip Says Cleveland Was Chosen for a Navy Submarine Repair Center
 
 Claim Timestamp: 00:36:47
 
@@ -1595,7 +1595,7 @@ Investigative Direction: Department of War announcement.
 
 ---
 
-**C-15305** Host Says Zacharia Read Even Her Own Name From Notes
+**C-14209** Host Says Zacharia Read Even Her Own Name From Notes
 
 Claim Timestamp: 00:38:50
 
@@ -1611,7 +1611,7 @@ Investigative Direction: Full video of the briefing.
 
 ---
 
-**C-15306** Host Guesses Donors Were Involved in Zacharia's Selection
+**C-14210** Host Guesses Donors Were Involved in Zacharia's Selection
 
 Claim Timestamp: 00:39:18
 
@@ -1627,7 +1627,7 @@ Investigative Direction: Reporting on how Zacharia was chosen.
 
 ---
 
-**C-15307** Host Says Erika Kirk's Doctorate Is Hard to Confirm
+**C-14211** Host Says Erika Kirk's Doctorate Is Hard to Confirm
 
 Claim Timestamp: 00:39:40
 
@@ -1643,7 +1643,7 @@ Investigative Direction: Degree-verification records for Erika Kirk.
 
 ---
 
-**C-15308** Host Says Journalists Cannot Confirm Zacharia Graduated Law School
+**C-14212** Host Says Journalists Cannot Confirm Zacharia Graduated Law School
 
 Claim Timestamp: 00:39:50
 
@@ -1659,7 +1659,7 @@ Investigative Direction: Law school graduation records and bar admission databas
 
 ---
 
-**C-15309** Host Says Zacharia Studied Some Law at Pepperdine, Where Erika Went for a Year
+**C-14213** Host Says Zacharia Studied Some Law at Pepperdine, Where Erika Went for a Year
 
 Claim Timestamp: 00:40:10
 
@@ -1675,7 +1675,7 @@ Investigative Direction: Pepperdine enrollment verification for both women.
 
 ---
 
-**C-15310** Business Insider Reports Zacharia Did Not Say Where She Passed the Bar
+**C-14214** Business Insider Reports Zacharia Did Not Say Where She Passed the Bar
 
 Claim Timestamp: 00:41:02
 
@@ -1691,7 +1691,7 @@ Investigative Direction: State bar admission records.
 
 ---
 
-**C-15311** Host Describes the Cornell 7 Case as Beginning With Horse Tranquilizer
+**C-14215** Host Describes the Cornell 7 Case as Beginning With Horse Tranquilizer
 
 Claim Timestamp: 00:42:08
 
@@ -1707,7 +1707,7 @@ Investigative Direction: Court filings and police reports in the Cornell case.
 
 ---
 
-**C-15312** Host Says a Participant Texted the Whole Frat House Group Chat
+**C-14216** Host Says a Participant Texted the Whole Frat House Group Chat
 
 Claim Timestamp: 00:42:50
 
@@ -1723,7 +1723,7 @@ Investigative Direction: The text messages entered in the case record.
 
 ---
 
-**C-15313** Host Recalls Hunter Biden's Crack and Stripper Story
+**C-14217** Host Recalls Hunter Biden's Crack and Stripper Story
 
 Claim Timestamp: 00:44:08
 
@@ -1739,7 +1739,7 @@ Investigative Direction: The host's Hunter Biden interview.
 
 ---
 
-**C-15314** Host Says Theo Von or Tim Dillon Would Be Her Press Secretary
+**C-14218** Host Says Theo Von or Tim Dillon Would Be Her Press Secretary
 
 Claim Timestamp: 00:49:02
 
@@ -1755,7 +1755,7 @@ Investigative Direction: None.
 
 ---
 
-**C-15315** Tim Dillon Clip Calls the Cornell Conduct Scumbag Behavior
+**C-14219** Tim Dillon Clip Calls the Cornell Conduct Scumbag Behavior
 
 Claim Timestamp: 00:51:03
 
@@ -1771,7 +1771,7 @@ Investigative Direction: The full Tim Dillon episode.
 
 ---
 
-**C-15316** Host Says Tomorrow Is Charlie Kirk's Birthday
+**C-14220** Host Says Tomorrow Is Charlie Kirk's Birthday
 
 Claim Timestamp: 00:52:08
 
@@ -1787,7 +1787,7 @@ Investigative Direction: Charlie Kirk's birth record.
 
 ---
 
-**C-15317** Host Says She Has a Few Episodes Left Before Maternity Leave
+**C-14221** Host Says She Has a Few Episodes Left Before Maternity Leave
 
 Claim Timestamp: 00:52:18
 
@@ -1803,7 +1803,7 @@ Investigative Direction: Later episode schedule.
 
 ---
 
-**C-15318** Host Says She Will Discuss the Brian Cole Case
+**C-14222** Host Says She Will Discuss the Brian Cole Case
 
 Claim Timestamp: 00:52:46
 
@@ -1819,7 +1819,7 @@ Investigative Direction: Court docket for the Brian Cole Jr. case.
 
 ---
 
-**C-15319** Viewer Comment Says Charlie Said He Was Abandoning the Pro-Israel Cause
+**C-14223** Viewer Comment Says Charlie Said He Was Abandoning the Pro-Israel Cause
 
 Claim Timestamp: 00:52:55
 
@@ -1835,7 +1835,7 @@ Investigative Direction: Charlie Kirk's recorded statements on September 9, 2025
 
 ---
 
-**C-15320** Host Says Erika Kirk Does Not Author Her Tweets
+**C-14224** Host Says Erika Kirk Does Not Author Her Tweets
 
 Claim Timestamp: 00:53:08
 
@@ -1851,7 +1851,7 @@ Investigative Direction: Statements from Erika Kirk's staff on who runs her acco
 
 ---
 
-**C-15321** Host Disputes Erika Kirk's Tweet on Sitting Down With Vanity Fair
+**C-14225** Host Disputes Erika Kirk's Tweet on Sitting Down With Vanity Fair
 
 Claim Timestamp: 00:53:16
 
@@ -1867,7 +1867,7 @@ Investigative Direction: Erika Kirk's tweet and the Vanity Fair profile.
 
 ---
 
-**C-15322** Viewer Comment Says Erika Kirk Is Coaching the New Press Secretary
+**C-14226** Viewer Comment Says Erika Kirk Is Coaching the New Press Secretary
 
 Claim Timestamp: 00:55:05
 
@@ -1883,7 +1883,7 @@ Investigative Direction: Any documented contact between Erika Kirk and Zacharia.
 
 ---
 
-**C-15323** Host Says About 3.5 Million Watched Her Theo Von Interview
+**C-14227** Host Says About 3.5 Million Watched Her Theo Von Interview
 
 Claim Timestamp: 00:56:05
 
@@ -1899,7 +1899,7 @@ Investigative Direction: YouTube view count on the interview.
 
 ---
 
-**C-15324** Host Announces an Exclusive Baron Coleman Merch Line
+**C-14228** Host Announces an Exclusive Baron Coleman Merch Line
 
 Claim Timestamp: 00:58:20
 
@@ -2238,7 +2238,7 @@ Confidence: high
 - MISTRANSCRIPTION: "Katherine LoCastro" -> "Katherine LoCastro" (00:20:58) source: https://www.youtube.com/watch?v=V-phmW9f0pM&t=1258s
 - MISTRANSCRIPTION: "Wayne Niederhauser" -> "Wayne Niederhauser" (00:25:14) source: https://www.youtube.com/watch?v=V-phmW9f0pM&t=1514s
 - MISTRANSCRIPTION: "Shaner Broderick" -> "Shaner Broderick" (00:26:28) source: https://www.youtube.com/watch?v=V-phmW9f0pM&t=1588s
-- MISTRANSCRIPTION: "Gerno" -> "Gernot Ohner" (00:26:28) source: https://www.youtube.com/watch?v=V-phmW9f0pM&t=1588s (match based on the companion identified in episode 12, claim C-1325; moderately confident)
+- MISTRANSCRIPTION: "Gerno" -> "Gernot Ohner" (00:26:28) source: https://www.youtube.com/watch?v=V-phmW9f0pM&t=1588s (match based on the companion identified in episode 12, claim C-1091; moderately confident)
 - MISTRANSCRIPTION: "Tyler Clancy" / "Tyler Clancy" -> "Tyler Clancy" (00:32:45) source: https://www.youtube.com/watch?v=V-phmW9f0pM&t=1965s
 - MISTRANSCRIPTION: "Kayleigh McEnany" -> "Kayleigh McEnany" (00:33:59) source: https://www.youtube.com/watch?v=V-phmW9f0pM&t=2039s
 - MISTRANSCRIPTION: "Karoline Leavitt" -> "Karoline Leavitt" (00:35:06) source: https://www.fox9.com/news/katie-zacharia-white-house-press-secretary.amp
@@ -2253,11 +2253,11 @@ Confidence: high
 - Unresolved name: "Lrand and Beth Baker award" (00:16:23) – award name not confirmed by web search; transcript spelling kept.
 - Unresolved name: "Ben" in viewer Ali's comment (00:52:46) – referent unclear (the comment says "Ben did TPUSA events before with Charlie"); no node assigned.
 - Unnamed person: the young critic the host calls "Jimmy Neutron" is not named on air; no node minted.
-- Host says "September 11th" for Clancy's duty day (00:17:33) where context indicates September 10; kept as said in C-15270.
+- Host says "September 11th" for Clancy's duty day (00:17:33) where context indicates September 10; kept as said in C-14174.
 - Host says Clancy was the youngest Utah House member "since 1834" (00:14:20); kept as said, date not checked.
 - Producer Skyler (00:01:03, 00:55:50) is not linked to the existing Skyler node (alias "Charlie Skyler"), whose identity is unclear, so no node cited.
 - Jake Paul and Jon Gruden are named only in the Zacharia clip and not minted as nodes.
 - The after-action report (A-3383.1) is treated as the UVU independent review (N-10839); the host calls it the "afteraction report".
 - DIA scan: "Candace Owens.com" at 00:00:32 is the host's skit about searching for a Monday episode, not a tip request – not a DIA beat. "Go to.com" merch plug at 00:57:29 is a merch beat, logged only as M-14.
 - Rejected claims (admission test): host's opinion that Leavitt was "gaslighting us at all times" (00:34:31); "America has fallen" (00:33:29); host's view that everyone in the Cornell case was "raised wrong" (00:44:26); viewer comment on plastic surgery among women in Trump's orbit (00:54:19) – opinion; rhetorical questions about CPR over a bag (00:22:53).
-- Possible cross-episode links left out: C-15274/C-15285 vs C-4776 (ep119, Harpole bloodied bag gift) – different bag and proposition; C-15260 vs earlier Neff "marking time" claims – not located by id in claims_index.
+- Possible cross-episode links left out: C-14178/C-14189 vs C-10162 (ep119, Harpole bloodied bag gift) – different bag and proposition; C-14164 vs earlier Neff "marking time" claims – not located by id in claims_index.

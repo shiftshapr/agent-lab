@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-899, N-901, N-11315, N-11316
-  - Claim Range (supplement_2026-10e): C-11859–C-11915
+  - Claim Range: C-13368–C-13444
   - Reused Nodes Appearing: N-10850, N-10849, N-14, N-54, N-94, N-200, N-244, N-366, N-580, N-835, N-862, N-898, N-10011, N-10012, N-10019, N-10032, N-10040, N-10051, N-10168, N-10343, N-10416, N-10447, N-10900, N-10974, N-11149, N-11168, N-900
  - New Nodes Introduced: N-10847, N-10848
  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-861
@@ -34,7 +34,6 @@
 
 
 - Artifact Families Introduced: A-2405, A-2406, A-2407, A-2408, A-2409, A-2410, A-2411, A-2412, A-2413, A-2414, A-2415
-- Claim Range: C-3513 – C-3530
 - New Nodes Introduced (people): none (Wave 2: local ids removed)
 - New Nodes Introduced (investigation targets): N-10847, N-10848, N-10849, N-10850
 - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-3 Candace Owens, N-? Tyler Robinson, N-? David Hull, N-? Agent Mortensson, N-? Officer Goforth, N-? Miss Noble, N-? Lance (Robinson's boyfriend), N-? Tucker Carlson, N-? Mikey McCoy, N-? Brett Cooper, N-? Frank Turek, N-? Andrew Kolvit (transcript variant: "Kulevit")
@@ -59,7 +58,7 @@ Video Timestamp: 00:00:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3513*
+*Related: C-13368*
 
 ---
 
@@ -73,7 +72,7 @@ Video Timestamp: 00:33:23–00:36:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3514, C-3515*
+*Related: C-13418, C-13421*
 
 ---
 
@@ -87,7 +86,7 @@ Video Timestamp: 00:36:51–00:37:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3513, C-3516, C-3517, C-3518*
+*Related: C-13368, C-13425, C-13426, C-13427*
 
 ---
 
@@ -101,7 +100,7 @@ Video Timestamp: 00:31:47–00:32:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3519*
+*Related: C-13417*
 
 ---
 
@@ -115,7 +114,7 @@ Video Timestamp: 00:42:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3520*
+*Related: C-13434*
 
 ---
 
@@ -129,7 +128,7 @@ Video Timestamp: 00:42:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3521*
+*Related: C-13436*
 
 ---
 
@@ -143,7 +142,7 @@ Video Timestamp: 00:44:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3522*
+*Related: C-13439*
 
 ---
 
@@ -157,7 +156,7 @@ Video Timestamp: 00:46:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3523*
+*Related: C-13440*
 
 ---
 
@@ -171,7 +170,7 @@ Video Timestamp: 00:11:33–00:13:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3526, N-10847, N-10848, N-10850*
+*Related: C-13384, N-10847, N-10848, N-10850*
 
 **A-2413.2** TMZ surveillance footage timestamped 8:07 AM showing Tyler Robinson walking toward the UVU campus (already parked off campus)
 
@@ -181,7 +180,7 @@ Video Timestamp: 00:14:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3527*
+*Related: C-13388*
 
 **A-2413.3** Admin ("admissions") lot footage of the second grey Dodge Challenger (operated by the figure code-named "Waluigi") making multiple parking attempts in an empty lot – referenced from prior-episode display
 
@@ -192,7 +191,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flag: Artifact verbally referenced but not shown in this episode
 
-*Related: C-3524, C-3525, N-10847, N-10850*
+*Related: C-13370, C-13371, N-10847, N-10850*
 
 ---
 
@@ -207,7 +206,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flag: Artifact verbally referenced but not shown in this episode
 
-*Related: C-3528, C-3529, N-10848*
+*Related: C-13399, C-13401, N-10848*
 
 ---
 
@@ -222,7 +221,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flag: Artifact verbally referenced but not shown in this episode
 
-*Related: C-3529, N-10848*
+*Related: C-13401, N-10848*
 
 ---
 
@@ -232,7 +231,7 @@ Optional Flag: Artifact verbally referenced but not shown in this episode
 Video Timestamp: 00:54:47
 Transcript Snippet: ...buy a Santa Cup. You can buy a mug. You can buy a CIA hat. We are the Decentralized Intelligence Agency. And we have a lot in store. Some stuff I am, of cour...
 Confidence: medium
-*Related: C-3676, N-3*
+*Related: C-13443, N-3*
 
 ---
 
@@ -245,7 +244,7 @@ Video Timestamp: 00:37:44
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11908, N-3, N-366*
+*Related: C-13431, N-3, N-366*
 
 ---
 
@@ -256,7 +255,7 @@ Video Timestamp: 00:39:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11909, N-3, N-366*
+*Related: C-13432, N-3, N-366*
 
 ---
 
@@ -271,7 +270,7 @@ Video Timestamp: 00:16:38
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11877, N-3*
+*Related: C-13392, N-3*
 
 ---
 
@@ -286,7 +285,7 @@ Video Timestamp: 00:25:06
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11897, N-3*
+*Related: C-13414, N-3*
 
 ---
 
@@ -299,7 +298,7 @@ Video Timestamp: 00:22:51-00:26:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11891, C-11892, C-11893, C-11894, C-11895, C-11896, N-3, N-10849*
+*Related: C-13408, C-13409, C-13410, C-13411, C-13412, C-13413, N-3, N-10849*
 
 ---
 
@@ -314,7 +313,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2413.1, A-2413.3, C-3524, C-3525, C-3526, N-10850*
+*Related: A-2413.1, A-2413.3, C-13370, C-13371, C-13384, N-10850*
 
 ---
 
@@ -327,7 +326,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2414.1, A-2415.1, C-3528, C-3529, N-? David Hull, N-? Agent Mortensson*
+*Related: A-2414.1, A-2415.1, C-13399, C-13401, N-? David Hull, N-? Agent Mortensson*
 
 ---
 
@@ -353,7 +352,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2413.1, A-2413.3, C-3524, C-3525, C-3526, N-10847*
+*Related: A-2413.1, A-2413.3, C-13370, C-13371, C-13384, N-10847*
 
 ---
 
@@ -361,7 +360,7 @@ Investigative Pressure: High
 
 Subject of the assassination; the host states her agenda around his killing.
 
-*Related: C-11859, C-11860, C-11861, C-11862, C-11863, C-11864, C-11865, C-11866, C-11867, C-11868, C-11869, C-11870, C-11871, C-11872, C-11873, C-11874, C-11875, C-11876, C-11877, C-11878, C-11879, C-11880, C-11881, C-11882, C-11883, C-11884, C-11885, C-11886, C-11887, C-11888, C-11889, C-11890, C-11891, C-11892, C-11893, C-11894, C-11895, C-11896, C-11897, C-11898, C-11899, C-11900, C-11901, C-11902, C-11903, C-11904, C-11905, C-11906, C-11907, C-11908, C-11909, C-11914*
+*Related: C-13369, C-13372, C-13373, C-13374, C-13375, C-13376, C-13377, C-13378, C-13379, C-13380, C-13381, C-13383, C-13385, C-13387, C-13386, C-13389, C-13390, C-13391, C-13392, C-13393, C-13394, C-13395, C-13396, C-13397, C-13398, C-13400, C-13402, C-13403, C-13404, C-13405, C-13406, C-13407, C-13408, C-13409, C-13410, C-13411, C-13412, C-13413, C-13414, C-13415, C-13416, C-13419, C-13420, C-13422, C-13423, C-13424, C-13428, C-13429, C-13430, C-13431, C-13432, C-13441*
 
 ---
 
@@ -369,7 +368,7 @@ Subject of the assassination; the host states her agenda around his killing.
 
 Widow and TPUSA CEO named in the Boreing-show defamation clips.
 
-*Related: C-11859, C-11893, C-11894, C-11898, C-11903, C-11906, C-11908, C-11909, C-11911*
+*Related: C-13369, C-13410, C-13411, C-13415, C-13423, C-13429, C-13431, C-13432, C-13435*
 
 ---
 
@@ -377,7 +376,7 @@ Widow and TPUSA CEO named in the Boreing-show defamation clips.
 
 Host; speaks for herself throughout.
 
-*Related: C-11859, C-11860, C-11861, C-11862, C-11863, C-11864, C-11865, C-11866, C-11867, C-11868, C-11869, C-11870, C-11871, C-11872, C-11873, C-11874, C-11875, C-11876, C-11877, C-11878, C-11879, C-11880, C-11881, C-11882, C-11883, C-11884, C-11885, C-11886, C-11887, C-11888, C-11889, C-11890, C-11891, C-11892, C-11893, C-11894, C-11895, C-11896, C-11897, C-11898, C-11899, C-11901, C-11902, C-11903, C-11904, C-11905, C-11906, C-11907, C-11908, C-11909, C-11910, C-11911, C-11912, C-11913, C-11914, C-11915*
+*Related: C-13369, C-13372, C-13373, C-13374, C-13375, C-13376, C-13377, C-13378, C-13379, C-13380, C-13381, C-13383, C-13385, C-13387, C-13386, C-13389, C-13390, C-13391, C-13392, C-13393, C-13394, C-13395, C-13396, C-13397, C-13398, C-13400, C-13402, C-13403, C-13404, C-13405, C-13406, C-13407, C-13408, C-13409, C-13410, C-13411, C-13412, C-13413, C-13414, C-13415, C-13416, C-13420, C-13422, C-13423, C-13424, C-13428, C-13429, C-13430, C-13431, C-13432, C-13433, C-13435, C-13437, C-13438, C-13441, C-13444*
 
 ---
 
@@ -385,7 +384,7 @@ Host; speaks for herself throughout.
 
 TPUSA spokesperson named in the defamation clip as 'Andrew Kulvit'.
 
-*Related: C-11908*
+*Related: C-13431*
 
 ---
 
@@ -393,7 +392,7 @@ TPUSA spokesperson named in the defamation clip as 'Andrew Kulvit'.
 
 Named in the Neff and Boreing promo material and the host's discussion of their podcast.
 
-*Related: C-11859, C-11898, C-11906*
+*Related: C-13369, C-13415, C-13429*
 
 ---
 
@@ -401,7 +400,7 @@ Named in the Neff and Boreing promo material and the host's discussion of their 
 
 Accused; subject of the campus timeline analysis.
 
-*Related: C-11860, C-11867, C-11872, C-11873, C-11875, C-11876, C-11878, C-11879, C-11880, C-11884, C-11885, C-11886, C-11887, C-11888*
+*Related: C-13372, C-13379, C-13387, C-13386, C-13390, C-13391, C-13393, C-13394, C-13395, C-13400, C-13402, C-13403, C-13404, C-13405*
 
 ---
 
@@ -409,7 +408,7 @@ Accused; subject of the campus timeline analysis.
 
 Robinson's partner; the host speculates he drove Robinson's car.
 
-*Related: C-11878*
+*Related: C-13393*
 
 ---
 
@@ -417,7 +416,7 @@ Robinson's partner; the host speculates he drove Robinson's car.
 
 Her midterm post and alleged slur are discussed.
 
-*Related: C-11913*
+*Related: C-13438*
 
 ---
 
@@ -425,7 +424,7 @@ Her midterm post and alleged slur are discussed.
 
 Co-owner of the N88 plane who issued a statement.
 
-*Related: C-11893, C-11894*
+*Related: C-13410, C-13411*
 
 ---
 
@@ -433,7 +432,7 @@ Co-owner of the N88 plane who issued a statement.
 
 Co-host of the podcast with Boreing; speaker in the promo clip.
 
-*Related: C-11859, C-11900, C-11905, C-11906*
+*Related: C-13369, C-13419, C-13428, C-13429*
 
 ---
 
@@ -441,7 +440,7 @@ Co-host of the podcast with Boreing; speaker in the promo clip.
 
 TPUSA figure named in the defamation clips.
 
-*Related: C-11908, C-11909*
+*Related: C-13431, C-13432*
 
 ---
 
@@ -449,7 +448,7 @@ TPUSA figure named in the defamation clips.
 
 Co-owner of the N88 plane ('Shelaine' in the transcript); Saprea figure.
 
-*Related: C-11893, C-11894*
+*Related: C-13410, C-13411*
 
 ---
 
@@ -457,7 +456,7 @@ Co-owner of the N88 plane ('Shelaine' in the transcript); Saprea figure.
 
 Named by the host as demanding speech censorship.
 
-*Related: C-11911*
+*Related: C-13435*
 
 ---
 
@@ -465,7 +464,7 @@ Named by the host as demanding speech censorship.
 
 Former Daily Wire CEO ('Jeremy Boreing' in the transcript); the host's account of his podcast, posts and lawsuits.
 
-*Related: C-11859, C-11898, C-11899, C-11901, C-11902, C-11903, C-11904, C-11907, C-11908, C-11915*
+*Related: C-13369, C-13415, C-13416, C-13420, C-13422, C-13423, C-13424, C-13430, C-13431, C-13444*
 
 ---
 
@@ -473,7 +472,7 @@ Former Daily Wire CEO ('Jeremy Boreing' in the transcript); the host's account o
 
 SBI agent whose preliminary hearing testimony the host analyzes.
 
-*Related: C-11864, C-11865, C-11867, C-11870, C-11886, C-11887*
+*Related: C-13376, C-13377, C-13379, C-13383, C-13403, C-13404*
 
 ---
 
@@ -481,7 +480,7 @@ SBI agent whose preliminary hearing testimony the host analyzes.
 
 Congressman the host says critics attacked and removed.
 
-*Related: C-11912*
+*Related: C-13437*
 
 ---
 
@@ -489,7 +488,7 @@ Congressman the host says critics attacked and removed.
 
 Alleged UVU donor and partial owner of the N88 plane.
 
-*Related: C-11895, C-11896*
+*Related: C-13412, C-13413*
 
 ---
 
@@ -497,7 +496,7 @@ Alleged UVU donor and partial owner of the N88 plane.
 
 Officer the host says was approached by the Dodge Challenger after midnight.
 
-*Related: C-11869*
+*Related: C-13381*
 
 ---
 
@@ -505,7 +504,7 @@ Officer the host says was approached by the Dodge Challenger after midnight.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11872*
+*Related: C-13387*
 
 ---
 
@@ -513,7 +512,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11881, C-11891, C-11894, C-11895, C-11896*
+*Related: C-13396, C-13408, C-13411, C-13412, C-13413*
 
 ---
 
@@ -521,7 +520,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11879, C-11880, C-11884, C-11885, C-11888*
+*Related: C-13394, C-13395, C-13400, C-13402, C-13405*
 
 ---
 
@@ -529,7 +528,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11873, C-11874*
+*Related: C-13386, C-13389*
 
 ---
 
@@ -537,7 +536,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11863, C-11864, C-11871, C-11872*
+*Related: C-13375, C-13376, C-13385, C-13387*
 
 ---
 
@@ -545,7 +544,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11875, C-11877*
+*Related: C-13390, C-13392*
 
 ---
 
@@ -553,7 +552,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11878*
+*Related: C-13393*
 
 ---
 
@@ -561,7 +560,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11879, C-11884*
+*Related: C-13394, C-13400*
 
 ---
 
@@ -569,7 +568,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11898, C-11899, C-11902*
+*Related: C-13415, C-13416, C-13422*
 
 ---
 
@@ -577,7 +576,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11890*
+*Related: C-13407*
 
 ---
 
@@ -585,7 +584,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11898, C-11901, C-11904, C-11907, C-11908, C-11909*
+*Related: C-13415, C-13420, C-13424, C-13430, C-13431, C-13432*
 
 ---
 
@@ -593,7 +592,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11890*
+*Related: C-13407*
 
 ---
 
@@ -601,7 +600,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11864*
+*Related: C-13376*
 
 ---
 
@@ -609,7 +608,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11893*
+*Related: C-13410*
 
 ---
 
@@ -619,7 +618,7 @@ First named by the host at 00:18:34 in episode 155. Investigator whose review of
 
 Aliases: Mortensson
 
-*Related: C-11885*
+*Related: C-13402*
 
 ---
 
@@ -629,7 +628,7 @@ First named by the host at 00:07:25 in episode 155. Neighbor who with her husban
 
 Aliases: Miss Noble
 
-*Related: C-11882, C-11889*
+*Related: C-13397, C-13406*
 
 ---
 
@@ -639,7 +638,7 @@ First named by the host at 00:00:46 in episode 155. Comedian and political comme
 
 Aliases: Bobby Sausalito; Bobby Sauce
 
-*Related: C-11900, C-11901, C-11902*
+*Related: C-13419, C-13420, C-13422*
 
 ---
 
@@ -649,7 +648,7 @@ First named by the host at 00:25:06 in episode 155. Named with Casey Baugh as a 
 
 Aliases: Chelsea Baugh
 
-*Related: C-11895, C-11896*
+*Related: C-13412, C-13413*
 
 ---
 
@@ -658,7 +657,7 @@ Aliases: Chelsea Baugh
 Node Type: Topic
 The host's suggestion that a morning meeting may have taken place at UVU ahead of the September 10 event.
 
-*Related: C-11881*
+*Related: C-13396*
 
 ---
 
@@ -667,13 +666,13 @@ The host's suggestion that a morning meeting may have taken place at UVU ahead o
 Node Type: Topic
 The host's commentary on prediction-market odds, X posts and critics of the party in the run-up to the 2026 midterms.
 
-*Related: C-11910, C-11911, C-11912, C-11913*
+*Related: C-13433, C-13435, C-13437, C-13438*
 
 ---
 
 ## V. Claim Register
 
-**C-3513** Neff/Boreing Joint Podcast Announced via Promotional Materials
+**C-13368** Neff/Boreing Joint Podcast Announced via Promotional Materials
 
 Claim Timestamp: 00:00:00–00:00:01
 
@@ -688,7 +687,7 @@ Investigative Direction: Obtain the full released episode and compare its conten
 
 ---
 
-**C-3514** Sausalito Predicted Podcast Content Pre-Release
+**C-13418** Sausalito Predicted Podcast Content Pre-Release
 
 Claim Timestamp: 00:33:23–00:36:12
 
@@ -703,7 +702,7 @@ Investigative Direction: Compare Sausalito's specific predictions against the re
 
 ---
 
-**C-3515** Host Concurs Sausalito's Predictions Were "Almost Spot On"
+**C-13421** Host Concurs Sausalito's Predictions Were "Almost Spot On"
 
 Claim Timestamp: 00:36:12
 
@@ -718,7 +717,7 @@ Investigative Direction: Document the host's specific concurrence with each item
 
 ---
 
-**C-3516** Neff Characterized Candace Owens as "Malicious, Hateful, Dishonest, Destructive"
+**C-13425** Neff Characterized Candace Owens as "Malicious, Hateful, Dishonest, Destructive"
 
 Claim Timestamp: 00:36:51–00:37:44
 
@@ -733,7 +732,7 @@ Investigative Direction: Obtain full Neff/Boreing episode to confirm statement c
 
 ---
 
-**C-3517** Neff Stated Candace Wants Kirk's Killer to "Get Away With It"
+**C-13426** Neff Stated Candace Wants Kirk's Killer to "Get Away With It"
 
 Claim Timestamp: 00:36:51–00:37:44
 
@@ -748,7 +747,7 @@ Investigative Direction: Verify exact quote and context in the full Neff/Boreing
 
 ---
 
-**C-3518** Neff Asserted Tucker Carlson "Extended Maximum Grace" to Candace
+**C-13427** Neff Asserted Tucker Carlson "Extended Maximum Grace" to Candace
 
 Claim Timestamp: 00:36:51–00:37:44
 
@@ -763,7 +762,7 @@ Investigative Direction: Verify exact quote and context in the full Neff/Boreing
 
 ---
 
-**C-3519** Boreing X Post Claimed Owens Acts for Fame
+**C-13417** Boreing X Post Claimed Owens Acts for Fame
 
 Claim Timestamp: 00:31:47–00:32:21
 
@@ -778,7 +777,7 @@ Investigative Direction: Retrieve the original post via web archive to confirm e
 
 ---
 
-**C-3520** Loomer X Post Claimed Save America Act Would Not Pass Before Midterms
+**C-13434** Loomer X Post Claimed Save America Act Would Not Pass Before Midterms
 
 Claim Timestamp: 00:41:43
 
@@ -793,7 +792,7 @@ Investigative Direction: Retrieve the original post via web archive to confirm e
 
 ---
 
-**C-3521** Mitchell X Post Characterized GOP as "Genuinely Useless"
+**C-13436** Mitchell X Post Characterized GOP as "Genuinely Useless"
 
 Claim Timestamp: 00:42:43
 
@@ -807,7 +806,7 @@ Investigative Direction: Retrieve the original post via web archive to confirm e
 
 ---
 
-**C-3522** Libs of TikTok X Post Cited 59% Democrat Sweep Projection
+**C-13439** Libs of TikTok X Post Cited 59% Democrat Sweep Projection
 
 Claim Timestamp: 00:44:50
 
@@ -821,7 +820,7 @@ Investigative Direction: Retrieve the original post via web archive to confirm e
 
 ---
 
-**C-3523** Vance Clip Asked Voters for "Another Chance" Citing Policy Achievements
+**C-13440** Vance Clip Asked Voters for "Another Chance" Citing Policy Achievements
 
 Claim Timestamp: 00:45:57
 
@@ -836,7 +835,7 @@ Investigative Direction: Identify the original venue/date of the Vance clip to a
 
 ---
 
-**C-3524** Host Says Two Grey Dodge Challengers Arrived on UVU Campus Within About 20 Minutes of One Another
+**C-13370** Host Says Two Grey Dodge Challengers Arrived on UVU Campus Within About 20 Minutes of One Another
 
 Claim Timestamp: 00:01:52–00:05:41
 
@@ -850,7 +849,7 @@ Investigative Direction: Obtain parking-garage entry/exit logs and timestamped s
 
 ---
 
-**C-3525** Host Says "Waluigi" Vehicle Driver Made Multiple Parking Attempts in Empty Lot
+**C-13371** Host Says "Waluigi" Vehicle Driver Made Multiple Parking Attempts in Empty Lot
 
 Claim Timestamp: 00:02:31–00:03:41
 
@@ -864,7 +863,7 @@ Investigative Direction: Obtain the original admin-lot surveillance footage to v
 
 ---
 
-**C-3526** Host Says "Maroon Boy" Vehicle Parked at Top of UVU Structure for About 8 Minutes Before Relocating
+**C-13384** Host Says "Maroon Boy" Vehicle Parked at Top of UVU Structure for About 8 Minutes Before Relocating
 
 Claim Timestamp: 00:11:33–00:13:00
 
@@ -878,7 +877,7 @@ Investigative Direction: Obtain the full top-of-structure surveillance footage t
 
 ---
 
-**C-3527** Host Says TMZ Footage at 8:07 AM Shows Robinson Already Parked Off Campus
+**C-13388** Host Says TMZ Footage at 8:07 AM Shows Robinson Already Parked Off Campus
 
 Claim Timestamp: 00:14:44
 
@@ -893,7 +892,7 @@ Investigative Direction: Obtain the original TMZ footage with intact timestamps 
 
 ---
 
-**C-3528** Sept 15 Warrant Narrative Stated 8:28 AM Entry and 8:28–9:24 AM Wooded-Area Visit
+**C-13399** Sept 15 Warrant Narrative Stated 8:28 AM Entry and 8:28–9:24 AM Wooded-Area Visit
 
 Claim Timestamp: 00:18:34–00:19:42
 
@@ -908,7 +907,7 @@ Investigative Direction: Obtain the actual Sept 15 search warrant filing to veri
 
 ---
 
-**C-3529** Host Alleges Hull Preliminary Hearing Testimony Omitted the 8-Minute Top-of-Structure Stop and Revised the On-Campus Timeline
+**C-13401** Host Alleges Hull Preliminary Hearing Testimony Omitted the 8-Minute Top-of-Structure Stop and Revised the On-Campus Timeline
 
 Claim Timestamp: 00:19:42–00:21:12
 
@@ -923,7 +922,7 @@ Investigative Direction: Obtain the preliminary hearing transcript and audio/vid
 
 ---
 
-**C-3530** Miss Noble Testimony Described Dodge Challenger with Bald Driver and Two Backseat Occupants
+**C-13382** Miss Noble Testimony Described Dodge Challenger with Bald Driver and Two Backseat Occupants
 
 Claim Timestamp: 00:08:45
 
@@ -940,7 +939,7 @@ Optional Flag: Claim failed admission test (Artifact Anchor) – claim retained 
 
 ---
 
-**C-3675** Host identifies show community as Decentralized Intelligence Agency
+**C-13442** Host identifies show community as Decentralized Intelligence Agency
 
 Claim Timestamp: 00:54:47
 Claim: The host, while plugging merch, says "We are the Decentralized Intelligence Agency."
@@ -953,7 +952,7 @@ Investigative Direction: Preserve as brand / network framing claim; cross-link M
 
 ---
 
-**C-3676** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
+**C-13443** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
 
 Claim Timestamp: 00:54:47
 Claim: The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.
@@ -966,7 +965,7 @@ Investigative Direction: Confirm on-screen merch graphic if available; reuse M-1
 
 ---
 
-**C-11859** Host Says Tucker Carlson Urged Looking at the Neff–Boreing Photo
+**C-13369** Host Says Tucker Carlson Urged Looking at the Neff–Boreing Photo
 
 Claim Timestamp: 00:00:01
 
@@ -981,7 +980,7 @@ Investigative Direction: Locate Carlson's original post or remark about the phot
 
 ---
 
-**C-11860** Host Says Viewers Report the Towed Challenger Body Differs From the Admin-Lot Challenger
+**C-13372** Host Says Viewers Report the Towed Challenger Body Differs From the Admin-Lot Challenger
 
 Claim Timestamp: 00:02:31
 
@@ -997,7 +996,7 @@ Investigative Direction: Compare the towed vehicle's make, year, trim and body p
 
 ---
 
-**C-11861** Host Says the Second Challenger's Driver Has Exceptionally Tall Legs
+**C-13373** Host Says the Second Challenger's Driver Has Exceptionally Tall Legs
 
 Claim Timestamp: 00:03:41
 
@@ -1013,7 +1012,7 @@ Investigative Direction: Measure the driver's proportions in the admin-lot foota
 
 ---
 
-**C-11862** Host Says the Two Challenger Drivers Are Not the Same Person
+**C-13374** Host Says the Two Challenger Drivers Are Not the Same Person
 
 Claim Timestamp: 00:03:41
 
@@ -1024,13 +1023,13 @@ Transcript Snippet: We do not think that the person who gets out of this car is 
 Anchored Artifacts: A-2413.3
 Mentions: N-3
 Related Nodes: N-10847, N-10850
-Supports: C-3524
+Supports: C-13370
 Tags: relevance:core
 Investigative Direction: Obtain simultaneous timestamps from the garage and admin-lot cameras to show whether both subjects were on camera at the same moment.
 
 ---
 
-**C-11863** Host Says Nobody Knows What Either Driver Did for About an Hour and a Half
+**C-13375** Host Says Nobody Knows What Either Driver Did for About an Hour and a Half
 
 Claim Timestamp: 00:05:04
 
@@ -1046,7 +1045,7 @@ Investigative Direction: Request the full UVU campus camera archive for 8:30 to 
 
 ---
 
-**C-11864** Host Says the Hearing's Only Account of Maroon Boy Is Asking a TPUSA Employee About the Event
+**C-13376** Host Says the Hearing's Only Account of Maroon Boy Is Asking a TPUSA Employee About the Event
 
 Claim Timestamp: 00:05:11
 
@@ -1062,7 +1061,7 @@ Investigative Direction: Read the preliminary hearing transcript for Hull's test
 
 ---
 
-**C-11865** Host Says Her Timeline Error Came From Mixing Warrant Data With Hull's Testimony
+**C-13377** Host Says Her Timeline Error Came From Mixing Warrant Data With Hull's Testimony
 
 Claim Timestamp: 00:05:41
 
@@ -1078,7 +1077,7 @@ Investigative Direction: Compare the show's published timeline against both the 
 
 ---
 
-**C-11866** Host Says Maroon Boy and Waluigi Left Campus Around the Same Time
+**C-13378** Host Says Maroon Boy and Waluigi Left Campus Around the Same Time
 
 Claim Timestamp: 00:05:41
 
@@ -1089,13 +1088,13 @@ Transcript Snippet: he's going to leave 17 minutes later at about 9 9:50
 Anchored Artifacts: A-2413.3
 Mentions: N-3
 Related Nodes: N-10847, N-10850
-Supports: C-3524
+Supports: C-13370
 Tags: relevance:core
 Investigative Direction: Pull garage exit and admin-lot exit camera timestamps for both vehicles to confirm the near-simultaneous departures.
 
 ---
 
-**C-11867** Host Says Hull Never Suggested the Challenger Was Tracked Off Campus
+**C-13379** Host Says Hull Never Suggested the Challenger Was Tracked Off Campus
 
 Claim Timestamp: 00:06:25
 
@@ -1111,7 +1110,7 @@ Investigative Direction: Check the hearing transcript for any testimony on track
 
 ---
 
-**C-11868** Host Says No Photo or Video Shows an Identifiable Challenger Parked Off Campus
+**C-13380** Host Says No Photo or Video Shows an Identifiable Challenger Parked Off Campus
 
 Claim Timestamp: 00:07:25
 
@@ -1127,7 +1126,7 @@ Investigative Direction: Search discovery and neighborhood camera releases for a
 
 ---
 
-**C-11869** Host Says Officer Goforth's Encounter With the Challenger Has No Indicated Bodycam
+**C-13381** Host Says Officer Goforth's Encounter With the Challenger Has No Indicated Bodycam
 
 Claim Timestamp: 00:08:42
 
@@ -1143,7 +1142,7 @@ Investigative Direction: Request Goforth's bodycam and dispatch records for the 
 
 ---
 
-**C-11870** Host Says Hull's Narration Sometimes Conflicted With the Footage Shown
+**C-13383** Host Says Hull's Narration Sometimes Conflicted With the Footage Shown
 
 Claim Timestamp: 00:09:34
 
@@ -1159,7 +1158,7 @@ Investigative Direction: Compare Hull's narration line by line with the released
 
 ---
 
-**C-11871** Host Says Zoomed Garage Footage Shows the Subject's Head Dropping Once
+**C-13385** Host Says Zoomed Garage Footage Shows the Subject's Head Dropping Once
 
 Claim Timestamp: 00:11:50
 
@@ -1175,7 +1174,7 @@ Investigative Direction: Obtain the full eight-minute top-level garage footage a
 
 ---
 
-**C-11872** Host Says the TMZ Footage Was Omitted From the Prosecution Presentation
+**C-13387** Host Says the TMZ Footage Was Omitted From the Prosecution Presentation
 
 Claim Timestamp: 00:14:20
 
@@ -1186,13 +1185,13 @@ Transcript Snippet: The TMZ footage, which they, for some reason, omitted, actua
 Anchored Artifacts: A-2413.2
 Mentions: N-40, N-3
 Related Nodes: N-10011, N-10040
-Supports: C-3527
+Supports: C-13388
 Tags: relevance:core
 Investigative Direction: Check the preliminary hearing exhibit list and Hull's testimony for any use of the TMZ 8:07 a.m. footage.
 
 ---
 
-**C-11873** Host Theorizes the Garage Stop Was Staged to Capture the Challenger on Camera
+**C-13386** Host Theorizes the Garage Stop Was Staged to Capture the Challenger on Camera
 
 Claim Timestamp: 00:13:00
 
@@ -1208,7 +1207,7 @@ Investigative Direction: Establish who selected the parking structure and arriva
 
 ---
 
-**C-11874** Host Says the Maroon Boy Was a Decoy Whose Job Was to Be Filmed
+**C-13389** Host Says the Maroon Boy Was a Decoy Whose Job Was to Be Filmed
 
 Claim Timestamp: 00:14:44
 
@@ -1224,7 +1223,7 @@ Investigative Direction: Identify who drove the Challenger into the structure an
 
 ---
 
-**C-11875** Host Says Her Show Broke the Dairy Queen Sighting and the Cemetery Clothes Story
+**C-13390** Host Says Her Show Broke the Dairy Queen Sighting and the Cemetery Clothes Story
 
 Claim Timestamp: 00:15:50
 
@@ -1235,13 +1234,13 @@ Transcript Snippet: we broke the story that Tyler Robinson was seen at the Dairy
 Anchored Artifacts: 
 Mentions: N-40, N-3
 Related Nodes: N-10051
-Supports: C-6164
+Supports: C-12441
 Tags: relevance:core
 Investigative Direction: Search the cemetery and nearby trash receptacles for records of recovered clothing and obtain Dairy Queen camera footage and receipts.
 
 ---
 
-**C-11876** Host Says Robinson May Be Guilty of Tampering but Not the Killing
+**C-13391** Host Says Robinson May Be Guilty of Tampering but Not the Killing
 
 Claim Timestamp: 00:15:50
 
@@ -1256,7 +1255,7 @@ Investigative Direction: Compare the host's tampering theory against the chargin
 
 ---
 
-**C-11877** Host Asks Viewers for Cemetery Follow-Up Tips at the moretips Address
+**C-13392** Host Asks Viewers for Cemetery Follow-Up Tips at the moretips Address
 
 Claim Timestamp: 00:16:38
 
@@ -1272,7 +1271,7 @@ Investigative Direction: Record tip volume and any follow-up in later episodes w
 
 ---
 
-**C-11878** Host Says Robinson's Car Was Possibly Driven by His Boyfriend Lance
+**C-13393** Host Says Robinson's Car Was Possibly Driven by His Boyfriend Lance
 
 Claim Timestamp: 00:16:38
 
@@ -1288,7 +1287,7 @@ Investigative Direction: Match Lance Twiggs' phone location and activity records
 
 ---
 
-**C-11879** Host Does Not Believe Robinson Changed Into the Black Flag Shirt
+**C-13394** Host Does Not Believe Robinson Changed Into the Black Flag Shirt
 
 Claim Timestamp: 00:16:38
 
@@ -1304,7 +1303,7 @@ Investigative Direction: Request the clothing evidence inventory and chain of cu
 
 ---
 
-**C-11880** Host Says Converse Sneakers Are Not Enough Evidence
+**C-13395** Host Says Converse Sneakers Are Not Enough Evidence
 
 Claim Timestamp: 00:16:38
 
@@ -1320,7 +1319,7 @@ Investigative Direction: Obtain the footwear evidence report and any survey of o
 
 ---
 
-**C-11881** Host Says a Morning Meeting at UVU Is Plausible Before the Planned Assassination
+**C-13396** Host Says a Morning Meeting at UVU Is Plausible Before the Planned Assassination
 
 Claim Timestamp: 00:17:54
 
@@ -1336,7 +1335,7 @@ Investigative Direction: Obtain UVU room reservations, access logs and calendars
 
 ---
 
-**C-11882** Host Believes Miss Noble Told the Truth About a Bald Man and Two Others in a Challenger
+**C-13397** Host Believes Miss Noble Told the Truth About a Bald Man and Two Others in a Challenger
 
 Claim Timestamp: 00:18:03
 
@@ -1347,13 +1346,13 @@ Transcript Snippet: I think Miss Noble, uh, the neighbor and her husband were te
 Anchored Artifacts: 
 Mentions: N-900, N-3
 Related Nodes: N-10850
-Supports: C-3530
+Supports: C-13382
 Tags: relevance:core
 Investigative Direction: Obtain Miss Noble's statement, 911 or tip-line record and the neighborhood surveillance referenced in the warrants.
 
 ---
 
-**C-11883** Host Suspects the Occupants Were Driving a Rental Car
+**C-13398** Host Suspects the Occupants Were Driving a Rental Car
 
 Claim Timestamp: 00:18:20
 
@@ -1369,7 +1368,7 @@ Investigative Direction: Check rental agency records for grey Dodge Challengers 
 
 ---
 
-**C-11884** Host Says Early Accounts of Clothes on the Roof and Screwdriver Placement Changed
+**C-13400** Host Says Early Accounts of Clothes on the Roof and Screwdriver Placement Changed
 
 Claim Timestamp: 00:18:34
 
@@ -1385,7 +1384,7 @@ Investigative Direction: Collect the dated early law-enforcement statements and 
 
 ---
 
-**C-11885** Host Reads Warrant Description of Robinson's Clothing in the Garage Video
+**C-13402** Host Reads Warrant Description of Robinson's Clothing in the Garage Video
 
 Claim Timestamp: 00:19:42
 
@@ -1401,7 +1400,7 @@ Investigative Direction: Obtain the filed September 15 warrant affidavit to veri
 
 ---
 
-**C-11886** Host Says Hull's Hearing Account Has Robinson Eating at Chick-fil-A Before the Wooded Area
+**C-13403** Host Says Hull's Hearing Account Has Robinson Eating at Chick-fil-A Before the Wooded Area
 
 Claim Timestamp: 00:19:42
 
@@ -1412,13 +1411,13 @@ Transcript Snippet: And he heads to Chick-fil-A, sits down, he eats Chick-fil-A,
 Anchored Artifacts: A-2415.1
 Mentions: N-861, N-40, N-3
 Related Nodes: N-10848
-Supports: C-10436
+Supports: C-12039
 Tags: relevance:core
 Investigative Direction: Obtain the hearing transcript and any Chick-fil-A transaction or camera records for the 10:09 a.m. to 11:00 a.m. window.
 
 ---
 
-**C-11887** Host Says Hull's Account Has Robinson Sending a Wordle Score at 11:28 Then Changing Clothes
+**C-13404** Host Says Hull's Account Has Robinson Sending a Wordle Score at 11:28 Then Changing Clothes
 
 Claim Timestamp: 00:20:53
 
@@ -1429,13 +1428,13 @@ Transcript Snippet: He plays Wordle off campus, sends that score to his friends 
 Anchored Artifacts: A-2415.1
 Mentions: N-861, N-40, N-3
 Related Nodes: N-10848
-Supports: C-10438
+Supports: C-12041
 Tags: relevance:core
 Investigative Direction: Compare the 11:28 message metadata and device location against the claimed off-campus timeline.
 
 ---
 
-**C-11888** Host Says There Is No Evidence He Changed Back Into the Black Flag Shirt
+**C-13405** Host Says There Is No Evidence He Changed Back Into the Black Flag Shirt
 
 Claim Timestamp: 00:21:12
 
@@ -1451,7 +1450,7 @@ Investigative Direction: Request any camera footage of Robinson's vehicle or per
 
 ---
 
-**C-11889** Host Says the Time of the Challenger at Miss Noble's House Changed Across Three Warrants
+**C-13406** Host Says the Time of the Challenger at Miss Noble's House Changed Across Three Warrants
 
 Claim Timestamp: 00:21:12
 
@@ -1467,7 +1466,7 @@ Investigative Direction: Compare the Challenger-at-Noble-house time in each of t
 
 ---
 
-**C-11890** Host Says Kirk Was Likely Not Shot by a .30-06 and an Explosive Is More Likely
+**C-13407** Host Says Kirk Was Likely Not Shot by a .30-06 and an Explosive Is More Likely
 
 Claim Timestamp: 00:22:12
 
@@ -1483,7 +1482,7 @@ Investigative Direction: Obtain the autopsy report, ballistics and explosives-re
 
 ---
 
-**C-11891** Host Recounts Early Reports of Activity on Top of the Woodbury Building
+**C-13408** Host Recounts Early Reports of Activity on Top of the Woodbury Building
 
 Claim Timestamp: 00:22:51
 
@@ -1499,7 +1498,7 @@ Investigative Direction: Collect named eyewitness accounts and any photographs o
 
 ---
 
-**C-11892** Host Says a Man in a Medical Coat Was Arrested Photographing the Woodbury Building
+**C-13409** Host Says a Man in a Medical Coat Was Arrested Photographing the Woodbury Building
 
 Claim Timestamp: 00:22:51
 
@@ -1515,7 +1514,7 @@ Investigative Direction: Identify the arrest through UVU police or Orem and Prov
 
 ---
 
-**C-11893** Host Recalls the Maxfields Had to Issue a Statement About the N88 Plane
+**C-13410** Host Recalls the Maxfields Had to Issue a Statement About the N88 Plane
 
 Claim Timestamp: 00:23:33
 
@@ -1526,13 +1525,13 @@ Transcript Snippet: It was their plane. They had to come out and give a statemen
 Anchored Artifacts: A-3173.1
 Mentions: N-94, N-200, N-3
 Related Nodes: N-11168, N-10849
-Supports: C-8155
+Supports: C-4755
 Tags: relevance:core
 Investigative Direction: Retrieve the Maxfield statement text and FAA registration history for the N88 aircraft including the Romania registration.
 
 ---
 
-**C-11894** Host Says the Maxfields Shared Ownership of the Plane With a Family That Gave UVU $5 Million
+**C-13411** Host Says the Maxfields Shared Ownership of the Plane With a Family That Gave UVU $5 Million
 
 Claim Timestamp: 00:23:33
 
@@ -1543,13 +1542,13 @@ Transcript Snippet: they actually shared ownership of that plane uh with a coupl
 Anchored Artifacts: A-3173.1
 Mentions: N-94, N-200, N-3
 Related Nodes: N-10849, N-10012
-Supports: C-9401
+Supports: C-2002
 Tags: relevance:core
 Investigative Direction: Check FAA registration and any LLC ownership filings for the aircraft to confirm co-owners.
 
 ---
 
-**C-11895** Host Says Chelsea and Casey Baugh Donated $5 Million to UVU
+**C-13412** Host Says Chelsea and Casey Baugh Donated $5 Million to UVU
 
 Claim Timestamp: 00:25:06
 
@@ -1565,7 +1564,7 @@ Investigative Direction: Verify the donation amount, date and recipient through 
 
 ---
 
-**C-11896** Host Says the Baughs' Entrepreneurship Institute Was in the Woodbury Building and They Part-Owned the Plane
+**C-13413** Host Says the Baughs' Entrepreneurship Institute Was in the Woodbury Building and They Part-Owned the Plane
 
 Claim Timestamp: 00:25:06
 
@@ -1576,13 +1575,13 @@ Transcript Snippet: they have an entrepreneurship institute that was located in 
 Anchored Artifacts: A-3173.1
 Mentions: N-835, N-901, N-3
 Related Nodes: N-10849, N-10012
-Supports: C-9402
+Supports: C-2003
 Tags: relevance:core
 Investigative Direction: Confirm the institute's naming and location in UVU records and the Baughs' status in the aircraft ownership records.
 
 ---
 
-**C-11897** Host Asks Woodbury Building Witnesses to Email moretips
+**C-13414** Host Asks Woodbury Building Witnesses to Email moretips
 
 Claim Timestamp: 00:25:06
 
@@ -1598,7 +1597,7 @@ Investigative Direction: Record tip volume and any follow-up in later episodes w
 
 ---
 
-**C-11898** Host Says Boreing Books Guests to Oppose Whatever Topic She Covers
+**C-13415** Host Says Boreing Books Guests to Oppose Whatever Topic She Covers
 
 Claim Timestamp: 00:30:31
 
@@ -1614,7 +1613,7 @@ Investigative Direction: Tabulate Boreing's show topics and guests against the h
 
 ---
 
-**C-11899** Host Says Boreing Built a Diagnosis From Her Saying Selfesteem on a Live Show
+**C-13416** Host Says Boreing Built a Diagnosis From Her Saying Selfesteem on a Live Show
 
 Claim Timestamp: 00:31:06
 
@@ -1625,13 +1624,13 @@ Transcript Snippet: apparently it sounded like I said selfesteem as opposed to s
 Anchored Artifacts: A-2408.1
 Mentions: N-366, N-3
 Related Nodes: N-10416
-Supports: C-3519
+Supports: C-13417
 Tags: relevance:tangential
 Investigative Direction: Locate Boreing's original post and the live-show clip it references to confirm the connection.
 
 ---
 
-**C-11900** Sausalito Says Charlie Called Neff His Secret Weapon
+**C-13419** Sausalito Says Charlie Called Neff His Secret Weapon
 
 Claim Timestamp: 00:33:23
 
@@ -1646,7 +1645,7 @@ Investigative Direction: Find any Kirk statement in which he called Neff a secre
 
 ---
 
-**C-11901** Sausalito Predicts Boreing Is Securing the Bag From Turning Point
+**C-13420** Sausalito Predicts Boreing Is Securing the Bag From Turning Point
 
 Claim Timestamp: 00:35:43
 
@@ -1662,7 +1661,7 @@ Investigative Direction: Seek any contract, sponsorship or payment record betwee
 
 ---
 
-**C-11902** Host Says Sausalito Got Only the Motive Wrong, Saying Boreing Is Not Doing It for Money
+**C-13422** Host Says Sausalito Got Only the Motive Wrong, Saying Boreing Is Not Doing It for Money
 
 Claim Timestamp: 00:36:12
 
@@ -1673,13 +1672,13 @@ Transcript Snippet: The only thing that he got wrong in that assessment is that 
 Anchored Artifacts: A-2406.1
 Mentions: N-898, N-366, N-3
 Related Nodes: N-10416
-Contradicts: C-11901
+Contradicts: C-13420
 Tags: relevance:tangential
 Investigative Direction: Compare Boreing's podcast sponsorship and TPUSA ties against the host's stalking characterization.
 
 ---
 
-**C-11903** Host Says Charlie and Boreing Never Liked Each Other
+**C-13423** Host Says Charlie and Boreing Never Liked Each Other
 
 Claim Timestamp: 00:36:12
 
@@ -1694,7 +1693,7 @@ Investigative Direction: Look for dated communications or public statements betw
 
 ---
 
-**C-11904** Host Says She Is the Employee Boreing Fired
+**C-13424** Host Says She Is the Employee Boreing Fired
 
 Claim Timestamp: 00:36:12
 
@@ -1710,7 +1709,7 @@ Investigative Direction: Reconcile with the host's other accounts of how she lef
 
 ---
 
-**C-11905** Promo Clip Speaker Says He Has Never Said YouTube Should Ban Candace
+**C-13428** Promo Clip Speaker Says He Has Never Said YouTube Should Ban Candace
 
 Claim Timestamp: 00:36:51
 
@@ -1725,7 +1724,7 @@ Investigative Direction: Review the speaker's prior public statements about plat
 
 ---
 
-**C-11906** Promo Clip Speaker Says He Asked Tucker Privately to Have His Brother Stop Pushing Candace
+**C-13429** Promo Clip Speaker Says He Asked Tucker Privately to Have His Brother Stop Pushing Candace
 
 Claim Timestamp: 00:37:44
 
@@ -1740,7 +1739,7 @@ Investigative Direction: Ask the speaker for the date and medium of that private
 
 ---
 
-**C-11907** Host Says Boreing Sued Her Privately for Years
+**C-13430** Host Says Boreing Sued Her Privately for Years
 
 Claim Timestamp: 00:37:44
 
@@ -1756,7 +1755,7 @@ Investigative Direction: Identify the Daily Wire v. Owens case numbers and filin
 
 ---
 
-**C-11908** Clip From Another Boreing Episode Says the Host Committed the Worst Public Defamation
+**C-13431** Clip From Another Boreing Episode Says the Host Committed the Worst Public Defamation
 
 Claim Timestamp: 00:37:44
 
@@ -1772,7 +1771,7 @@ Investigative Direction: Identify the episode and speaker of the clip and any pe
 
 ---
 
-**C-11909** Clip Speaker Says Candace Has Crossed the Malice and Reckless Disregard Lines
+**C-13432** Clip Speaker Says Candace Has Crossed the Malice and Reckless Disregard Lines
 
 Claim Timestamp: 00:39:07
 
@@ -1788,7 +1787,7 @@ Investigative Direction: Review the cited statements against the actual malice s
 
 ---
 
-**C-11910** Host Cites Polymarket Odds of a Democratic Sweep at a Record High
+**C-13433** Host Cites Polymarket Odds of a Democratic Sweep at a Record High
 
 Claim Timestamp: 00:40:52
 
@@ -1799,13 +1798,13 @@ Transcript Snippet: Poly Market basically dropped odds and said that Democrats a
 Anchored Artifacts: A-2411.1
 Mentions: N-3
 Related Nodes: N-11316
-Supports: C-3522
+Supports: C-13439
 Tags: relevance:tangential
 Investigative Direction: Check the Polymarket midterm contract's price history around the date of this episode.
 
 ---
 
-**C-11911** Host Says Mark Levin and Others Demand Speech Censorship and State Lawsuits
+**C-13435** Host Says Mark Levin and Others Demand Speech Censorship and State Lawsuits
 
 Claim Timestamp: 00:42:21
 
@@ -1821,7 +1820,7 @@ Investigative Direction: Find Levin's and the second named person's statements c
 
 ---
 
-**C-11912** Host Says GOP Critics Attacked Thomas Massie and Got Him Out
+**C-13437** Host Says GOP Critics Attacked Thomas Massie and Got Him Out
 
 Claim Timestamp: 00:42:43
 
@@ -1837,7 +1836,7 @@ Investigative Direction: Check Massie's primary result and outside spending agai
 
 ---
 
-**C-11913** Host Says Laura Loomer Called Her a Slur
+**C-13438** Host Says Laura Loomer Called Her a Slur
 
 Claim Timestamp: 00:44:13
 
@@ -1853,7 +1852,7 @@ Investigative Direction: Locate the original Loomer post using the post archive 
 
 ---
 
-**C-11914** Host States Her Agenda Is to Find Who Killed Kirk and Why Those Close to Him Lie
+**C-13441** Host States Her Agenda Is to Find Who Killed Kirk and Why Those Close to Him Lie
 
 Claim Timestamp: 00:50:06
 
@@ -1868,7 +1867,7 @@ Investigative Direction: Track which specific statements by people close to Kirk
 
 ---
 
-**C-11915** Host Says She Has Lawsuits Going On and Pending
+**C-13444** Host Says She Has Lawsuits Going On and Pending
 
 Claim Timestamp: 00:54:47
 
@@ -2049,7 +2048,7 @@ Confidence: high
 - **Name uncertainty:** "Officer Goforth" appears with varying spacing/capitalization (sometimes "Goforth"). Preserved as transcribed.
 - **Name uncertainty:** "Andrew Kolvit" appears as "Andrew Kulevit" / "Kulvit" at varying points. Preserved as transcribed.
 - **Artifact verbally referenced but not shown:** A-2413.3 (Waluigi admin-lot footage), A-2414.1 (Sept 15 search warrant), A-2415.1 (Hull preliminary-hearing testimony) – none displayed in this episode; described by host.
-- **Claim failed admission test:** C-3530 (Miss Noble testimony) retained with explicit anchor-test flag and verification direction; the claim depends on prior-episode reporting rather than a displayed artifact in this episode.
+- **Claim failed admission test:** C-13382 (Miss Noble testimony) retained with explicit anchor-test flag and verification direction; the claim depends on prior-episode reporting rather than a displayed artifact in this episode.
 - **Host-stated research without displayed source artifact:** The Baugh family / UVU donation / N88 plane / Woodbury Building cluster is presented by the host from her own research/notes without a specific displayed source. Nodes,, and N-10849 are inscribed for tracking, but no claim is inscribed on the basis of this material until an artifact anchor is introduced.
 - **Transcript ambiguity:** Timestamps for the X posts (A-2408.1, A-2409.1, A-2410.1, A-2411.1) and the JD Vance clip (A-2412.1) are described as "approximate, prior to broadcast" – original posting/publication dates not stated on air.
 - **Transcript ambiguity:** The preliminary-hearing date for Hull's testimony (A-2415.1) is not specified in the transcript; a year-range date ("2025") is recorded as a placeholder.

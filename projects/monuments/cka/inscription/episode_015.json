@@ -27,9 +27,9 @@
           "ref": "A-1220.1",
           "description": "Tyler Bowyer X post – SD card removal defense",
           "related_claims": [
-            "C-1366",
-            "C-1370",
-            "C-1371"
+            "C-1363",
+            "C-1364",
+            "C-1366"
           ],
           "related_nodes": [
             "N-41",
@@ -48,8 +48,8 @@
           "ref": "A-1220.2",
           "description": "Tyler Bowyer X post – DoJ department / audit denial",
           "related_claims": [
-            "C-1368",
-            "C-1379"
+            "C-1385",
+            "C-1383"
           ],
           "related_nodes": [
             "N-41"
@@ -67,7 +67,7 @@
           "ref": "A-1220.3",
           "description": "Tyler Bowyer X post – campus footage release",
           "related_claims": [
-            "C-1367"
+            "C-1369"
           ],
           "related_nodes": [
             "N-41",
@@ -94,8 +94,8 @@
           "ref": "A-1221.1",
           "description": "Kolvet statement on SD card removal",
           "related_claims": [
-            "C-1369",
-            "C-1370"
+            "C-1358",
+            "C-1364"
           ],
           "related_nodes": [
             "N-14",
@@ -122,8 +122,8 @@
           "ref": "A-1222.1",
           "description": "WSJ article published September 18, 2025",
           "related_claims": [
-            "C-1372",
-            "C-1373"
+            "C-1378",
+            "C-1381"
           ],
           "related_nodes": [
             "N-99",
@@ -150,7 +150,7 @@
           "ref": "A-1223.1",
           "description": "Alex Clark IG share of Tyler Bowyer DoJ-department tweet",
           "related_claims": [
-            "C-1379"
+            "C-1383"
           ],
           "related_nodes": [
             "N-99"
@@ -176,7 +176,7 @@
           "ref": "A-1224.1",
           "description": "McCoy post responding to Hamptons meeting reveal",
           "related_claims": [
-            "C-1374"
+            "C-1343"
           ],
           "related_nodes": [
             "N-17",
@@ -203,8 +203,8 @@
           "ref": "A-1225.1",
           "description": "Charlie Kirk message – lost $2M/year Jewish donor",
           "related_claims": [
-            "C-1375",
-            "C-1376"
+            "C-1349",
+            "C-1350"
           ],
           "related_nodes": [
             "N-1",
@@ -223,7 +223,7 @@
           "ref": "A-1225.2",
           "description": "Charlie Kirk message – refusing to be bullied",
           "related_claims": [
-            "C-1376"
+            "C-1350"
           ],
           "related_nodes": [
             "N-1",
@@ -259,7 +259,7 @@
           "ref": "A-1225.4",
           "description": "Candace verbal identification of Josh Hammer as participant",
           "related_claims": [
-            "C-1377"
+            "C-1352"
           ],
           "related_nodes": [
             "N-14",
@@ -286,7 +286,7 @@
           "ref": "A-1226.1",
           "description": "Unnamed \"Judeo-Christian\" pastor sermon, September 21, 2025",
           "related_claims": [
-            "C-1378"
+            "C-1391"
           ],
           "related_nodes": [],
           "tags": [],
@@ -310,7 +310,7 @@
           "ref": "A-2813.1",
           "description": "Host reading an X user's post that asks why TPUSA wants forgiveness for Tyler Robinson but attacks those trying to solve the murder (paraphrased on air)",
           "related_claims": [
-            "C-6450"
+            "C-1326"
           ],
           "related_nodes": [],
           "tags": [],
@@ -333,11 +333,11 @@
           "ref": "A-2814.1",
           "description": "Audio/video clip played on air of Andrew Kolvet and Alex Clark discussing whether Charlie Kirk was becoming Catholic",
           "related_claims": [
-            "C-6460",
-            "C-6461",
-            "C-6462",
-            "C-6463",
-            "C-6464"
+            "C-1336",
+            "C-1337",
+            "C-1338",
+            "C-1339",
+            "C-1340"
           ],
           "related_nodes": [],
           "tags": [],
@@ -360,7 +360,7 @@
           "ref": "A-2815.1",
           "description": "Host verbal reading of a message she says Charlie Kirk sent her about Catholicism (not shown)",
           "related_claims": [
-            "C-6465"
+            "C-1341"
           ],
           "related_nodes": [],
           "tags": [],
@@ -383,7 +383,7 @@
           "ref": "A-2816.1",
           "description": "Host reading an X user's post begging Tyler Bowyer to pursue security footage of the sequence before the Losee building jump-off",
           "related_claims": [
-            "C-6485"
+            "C-1370"
           ],
           "related_nodes": [],
           "tags": [],
@@ -406,7 +406,7 @@
           "ref": "A-2817.1",
           "description": "Host reading a viewer comment from Lauren Hulin about Dallas police chief being new to the role (read on air)",
           "related_claims": [
-            "C-6507"
+            "C-1397"
           ],
           "related_nodes": [],
           "tags": [],
@@ -421,8 +421,8 @@
           "ref": "A-2817.2",
           "description": "Host reading a moderator's comment about Rob O'Neill and a South African ambassador (read on air)",
           "related_claims": [
-            "C-6508",
-            "C-6509"
+            "C-1398",
+            "C-1399"
           ],
           "related_nodes": [],
           "tags": [],
@@ -446,7 +446,7 @@
         "A-1221.1"
       ],
       "related_claims": [
-        "C-1369"
+        "C-1358"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -469,9 +469,9 @@
         "A-1223.1"
       ],
       "related_claims": [
-        "C-1372",
-        "C-1373",
-        "C-1379"
+        "C-1378",
+        "C-1381",
+        "C-1383"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -494,7 +494,7 @@
         "A-1225.4"
       ],
       "related_claims": [
-        "C-1374"
+        "C-1343"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -517,9 +517,9 @@
         "A-1221.1"
       ],
       "related_claims": [
-        "C-1366",
-        "C-1369",
-        "C-1370"
+        "C-1363",
+        "C-1358",
+        "C-1364"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -545,9 +545,9 @@
         "A-1225.4"
       ],
       "related_claims": [
-        "C-1375",
-        "C-1376",
-        "C-1377"
+        "C-1349",
+        "C-1350",
+        "C-1352"
       ],
       "tags": [],
       "evidence_count": 4,
@@ -590,7 +590,7 @@
         "A-1220.3"
       ],
       "related_claims": [
-        "C-1367"
+        "C-1369"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -653,38 +653,38 @@
       "description": "Deceased founder of Turning Point USA; subject of financial concerns expressed one week before his death; subject of the assassination investigation.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6449",
-        "C-6450",
-        "C-6453",
-        "C-6454",
-        "C-6455",
-        "C-6456",
-        "C-6457",
-        "C-6458",
-        "C-6459",
-        "C-6460",
-        "C-6461",
-        "C-6462",
-        "C-6463",
-        "C-6465",
-        "C-6466",
-        "C-6467",
-        "C-6469",
-        "C-6470",
-        "C-6471",
-        "C-6472",
-        "C-6474",
-        "C-6475",
-        "C-6477",
-        "C-6489",
-        "C-6490",
-        "C-6491",
-        "C-6492",
-        "C-6493",
-        "C-6494",
-        "C-6495",
-        "C-6496",
-        "C-6499"
+        "C-1325",
+        "C-1326",
+        "C-1329",
+        "C-1330",
+        "C-1331",
+        "C-1332",
+        "C-1333",
+        "C-1334",
+        "C-1335",
+        "C-1336",
+        "C-1337",
+        "C-1338",
+        "C-1339",
+        "C-1341",
+        "C-1342",
+        "C-1344",
+        "C-1346",
+        "C-1347",
+        "C-1348",
+        "C-1351",
+        "C-1354",
+        "C-1355",
+        "C-1357",
+        "C-1374",
+        "C-1375",
+        "C-1376",
+        "C-1377",
+        "C-1379",
+        "C-1380",
+        "C-1382",
+        "C-1384",
+        "C-1388"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -702,11 +702,11 @@
       "description": "Widow of Charlie Kirk, discussed in episode as new CEO/chairman of TPUSA. Host defends her against public criticism of fundraising emails.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6451",
-        "C-6458",
-        "C-6459",
-        "C-6461",
-        "C-6462"
+        "C-1327",
+        "C-1334",
+        "C-1335",
+        "C-1337",
+        "C-1338"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -740,11 +740,11 @@
       "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1366",
-        "C-1367",
-        "C-1368",
-        "C-1370",
-        "C-1379"
+        "C-1363",
+        "C-1369",
+        "C-1385",
+        "C-1364",
+        "C-1383"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -761,51 +761,51 @@
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6449",
-        "C-6450",
-        "C-6451",
-        "C-6452",
-        "C-6453",
-        "C-6454",
-        "C-6460",
-        "C-6464",
-        "C-6465",
-        "C-6466",
-        "C-6467",
-        "C-6468",
-        "C-6469",
-        "C-6470",
-        "C-6471",
-        "C-6472",
-        "C-6473",
-        "C-6474",
-        "C-6475",
-        "C-6476",
-        "C-6480",
-        "C-6481",
-        "C-6482",
-        "C-6483",
-        "C-6484",
-        "C-6487",
-        "C-6488",
-        "C-6489",
-        "C-6490",
-        "C-6491",
-        "C-6493",
-        "C-6495",
-        "C-6496",
-        "C-6498",
-        "C-6499",
-        "C-6500",
-        "C-6501",
-        "C-6503",
-        "C-6504",
-        "C-6505",
-        "C-6506",
-        "C-6507",
-        "C-6509",
-        "C-6510",
-        "C-6511"
+        "C-1325",
+        "C-1326",
+        "C-1327",
+        "C-1328",
+        "C-1329",
+        "C-1330",
+        "C-1336",
+        "C-1340",
+        "C-1341",
+        "C-1342",
+        "C-1344",
+        "C-1345",
+        "C-1346",
+        "C-1347",
+        "C-1348",
+        "C-1351",
+        "C-1353",
+        "C-1354",
+        "C-1355",
+        "C-1356",
+        "C-1361",
+        "C-1362",
+        "C-1365",
+        "C-1367",
+        "C-1368",
+        "C-1372",
+        "C-1373",
+        "C-1374",
+        "C-1375",
+        "C-1376",
+        "C-1379",
+        "C-1382",
+        "C-1384",
+        "C-1387",
+        "C-1388",
+        "C-1389",
+        "C-1390",
+        "C-1393",
+        "C-1394",
+        "C-1395",
+        "C-1396",
+        "C-1397",
+        "C-1399",
+        "C-1400",
+        "C-1401"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -823,10 +823,10 @@
       "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6474",
-        "C-6476",
-        "C-6479",
-        "C-6502"
+        "C-1354",
+        "C-1356",
+        "C-1360",
+        "C-1392"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -862,7 +862,7 @@
         "A-1222.1"
       ],
       "related_claims": [
-        "C-1373"
+        "C-1381"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -879,7 +879,7 @@
       "description": "Donald Trump; the host criticizes his post pairing Kirk with an Israeli flag.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6495"
+        "C-1382"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -896,7 +896,7 @@
       "description": "Named by the host as the COO announced in Charlie Kirk's internal email (transcript spells it Stripe).",
       "related_artifacts": [],
       "related_claims": [
-        "C-6496"
+        "C-1384"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -913,9 +913,9 @@
       "description": "Subject of the host's TikTok and Trump-post claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6495",
-        "C-6501",
-        "C-6504"
+        "C-1382",
+        "C-1390",
+        "C-1394"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -932,9 +932,9 @@
       "description": "Accused shooter; subject of the forgiveness remark and campus footage claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6450",
-        "C-6485",
-        "C-6486"
+        "C-1326",
+        "C-1370",
+        "C-1371"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -951,9 +951,9 @@
       "description": "Cited for the priest and hex account and in the sermon.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6459",
-        "C-6474",
-        "C-6502"
+        "C-1335",
+        "C-1354",
+        "C-1392"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -970,7 +970,7 @@
       "description": "Subject of the book club title.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6506"
+        "C-1396"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -987,7 +987,7 @@
       "description": "Author of the next book club selection.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6506"
+        "C-1396"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1004,7 +1004,7 @@
       "description": "Named in the clip as Kirk's debate partner on Protestant versus Catholic theology.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6463"
+        "C-1339"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1021,7 +1021,7 @@
       "description": "Named in a moderator comment as questioning the Kirk story.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6508"
+        "C-1398"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1038,7 +1038,7 @@
       "description": "Named with the host in the sermon.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6503"
+        "C-1393"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1055,7 +1055,7 @@
       "description": "Host of the show named in a moderator comment.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6508"
+        "C-1398"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1072,16 +1072,16 @@
       "description": "Organization at the center of the episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6450",
-        "C-6451",
-        "C-6452",
-        "C-6454",
-        "C-6460",
-        "C-6468",
-        "C-6481",
-        "C-6488",
-        "C-6490",
-        "C-6500"
+        "C-1326",
+        "C-1327",
+        "C-1328",
+        "C-1330",
+        "C-1336",
+        "C-1345",
+        "C-1362",
+        "C-1373",
+        "C-1375",
+        "C-1389"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1098,7 +1098,7 @@
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6472"
+        "C-1351"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1115,7 +1115,7 @@
       "description": "Existing topic reused for the host's donor-pressure remarks.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6474"
+        "C-1354"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1132,12 +1132,12 @@
       "description": "Place at the center of the donor-pressure and sermon discussion.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6466",
-        "C-6470",
-        "C-6495",
-        "C-6501",
-        "C-6502",
-        "C-6511"
+        "C-1342",
+        "C-1347",
+        "C-1382",
+        "C-1390",
+        "C-1392",
+        "C-1401"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1154,11 +1154,11 @@
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6475",
-        "C-6476",
-        "C-6477",
-        "C-6478",
-        "C-6480"
+        "C-1355",
+        "C-1356",
+        "C-1357",
+        "C-1359",
+        "C-1361"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1175,12 +1175,12 @@
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6453",
-        "C-6454",
-        "C-6460",
-        "C-6461",
-        "C-6462",
-        "C-6464"
+        "C-1329",
+        "C-1330",
+        "C-1336",
+        "C-1337",
+        "C-1338",
+        "C-1340"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1197,7 +1197,7 @@
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6459"
+        "C-1335"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1214,12 +1214,12 @@
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6489",
-        "C-6496",
-        "C-6497",
-        "C-6498",
-        "C-6499",
-        "C-6500"
+        "C-1374",
+        "C-1384",
+        "C-1386",
+        "C-1387",
+        "C-1388",
+        "C-1389"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1236,7 +1236,7 @@
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6503"
+        "C-1393"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1253,7 +1253,7 @@
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6457"
+        "C-1333"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1270,11 +1270,11 @@
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6453",
-        "C-6455",
-        "C-6463",
-        "C-6465",
-        "C-6466"
+        "C-1329",
+        "C-1331",
+        "C-1339",
+        "C-1341",
+        "C-1342"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1291,7 +1291,7 @@
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6469"
+        "C-1346"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1308,7 +1308,7 @@
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6511"
+        "C-1401"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1325,9 +1325,9 @@
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6475",
-        "C-6477",
-        "C-6481"
+        "C-1355",
+        "C-1357",
+        "C-1362"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1344,8 +1344,8 @@
       "description": "The host's claims that TikTok's moderation involves IDF-linked personnel and Netanyahu's stated aim to take over TikTok, and a reported ban on the juice box emoji.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6504",
-        "C-6505"
+        "C-1394",
+        "C-1395"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1362,7 +1362,7 @@
       "description": "The host's claim that Turning Point USA raised tens of millions of dollars in the two weeks after the assassination.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6490"
+        "C-1375"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1379,9 +1379,9 @@
       "description": "The host's criticism of Alex Clark's Wall Street Journal profile photo taken at the Kirk memorial site, with the quotes in the article.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6491",
-        "C-6492",
-        "C-6494"
+        "C-1376",
+        "C-1377",
+        "C-1380"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1398,7 +1398,7 @@
       "description": "The host's statement that an Australian court heard her visa arguments and a decision is pending.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6510"
+        "C-1400"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1426,8 +1426,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-1366",
-      "ref": "C-1366",
+      "@id": "C-1363",
+      "ref": "C-1363",
       "label": "Bowyer SD card removal account – law enforcement instruction",
       "claim": "Tyler Bowyer publicly stated on X that TPUSA staff removed SD cards because law enforcement officers asked them to do so before the campus lockdown.",
       "anchored_artifacts": [
@@ -1443,13 +1443,13 @@
         "N-11"
       ],
       "contradicts_claim_refs": [
-        "C-1369"
+        "C-1358"
       ]
     },
     {
       "@type": "Claim",
-      "@id": "C-1367",
-      "ref": "C-1367",
+      "@id": "C-1369",
+      "ref": "C-1369",
       "label": "Bowyer campus footage release stance",
       "claim": "Tyler Bowyer publicly stated that camera footage exists across the Utah Valley University campus but will likely not be released until trial.",
       "anchored_artifacts": [
@@ -1467,8 +1467,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1368",
-      "ref": "C-1368",
+      "@id": "C-1385",
+      "ref": "C-1385",
       "label": "Bowyer audit / DoJ department denial",
       "claim": "Per the X post the host shows, Tyler Bowyer said the host 'took a sentence and made something up' and that TPUSA audits every year and always has; the host replies that he is conflating the annual audit with the new DOGE department Charlie proposed.",
       "anchored_artifacts": [
@@ -1485,8 +1485,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1369",
-      "ref": "C-1369",
+      "@id": "C-1358",
+      "ref": "C-1358",
       "label": "Kolvet SD card removal account – theft prevention",
       "claim": "Andrew Kolvet, speaking with Tucker Carlson, who was guest-hosting Charlie Kirk's show, stated that a TPUSA friend/staffer removed the SD cards because he feared theft (citing hat theft from the table) and that the cards are in the possession of the FBI.",
       "anchored_artifacts": [
@@ -1503,13 +1503,13 @@
         "N-22"
       ],
       "contradicts_claim_refs": [
-        "C-1366"
+        "C-1363"
       ]
     },
     {
       "@type": "Claim",
-      "@id": "C-1370",
-      "ref": "C-1370",
+      "@id": "C-1364",
+      "ref": "C-1364",
       "label": "Conflicting SD card removal accounts (Kolvet vs. Bowyer)",
       "claim": "The host asserts that Kolvet's stated rationale (fear of theft) and Bowyer's stated rationale (law enforcement instruction) for the SD card removal are in conflict.",
       "anchored_artifacts": [
@@ -1529,8 +1529,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1371",
-      "ref": "C-1371",
+      "@id": "C-1366",
+      "ref": "C-1366",
       "label": "Unflagged host assertion – phone call with TPUSA SD card individual",
       "claim": "The host asserts she personally spoke with the TPUSA individual who removed the SD cards and that he told her his instinct was to secure the footage so Erika would not have to see it again, and that he never mentioned police officers.",
       "anchored_artifacts": [],
@@ -1541,8 +1541,8 @@
       "claim_timestamp": "00:25:00",
       "investigative_direction": "Independent corroboration required; flag for human verification. (Failed admission test – artifact anchor absent in this episode.)",
       "contradicts_claim_refs": [
-        "C-1366",
-        "C-1369"
+        "C-1363",
+        "C-1358"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -1551,8 +1551,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1372",
-      "ref": "C-1372",
+      "@id": "C-1378",
+      "ref": "C-1378",
       "label": "Wall Street Journal article quotes Alex Clark",
       "claim": "A Wall Street Journal article published September 18, 2025 featured Alex Clark at the Charlie Kirk memorial site and quoted her as saying her first thought upon hearing of the shooting was \"I'm so glad that Charlie knew Jesus,\" and her third thought was \"Thank God Trump is president.\"",
       "anchored_artifacts": [
@@ -1572,8 +1572,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1373",
-      "ref": "C-1373",
+      "@id": "C-1381",
+      "ref": "C-1381",
       "label": "WSJ article – Clark praise of Patel and Bongino",
       "claim": "The same WSJ article quotes Alex Clark as praising FBI director Kash Patel and deputy Dan Bongino for their leadership in the suspect hunt, stating \"we have them in office because of Charlie.\"",
       "anchored_artifacts": [
@@ -1594,8 +1594,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1374",
-      "ref": "C-1374",
+      "@id": "C-1343",
+      "ref": "C-1343",
       "label": "Rob McCoy Instagram post responding to Hamptons meeting",
       "claim": "Pastor Rob McCoy (TPUSA Faith Division head) published an Instagram post after the host's revelation of the Hamptons meeting, criticizing the host for not behaving as a friend to Charlie during the mourning period.",
       "anchored_artifacts": [
@@ -1614,8 +1614,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1375",
-      "ref": "C-1375",
+      "@id": "C-1349",
+      "ref": "C-1349",
       "label": "Charlie Kirk group chat statement – lost $2M/year Jewish donor",
       "claim": "A group chat dated 2 days before Charlie Kirk's assassination contained a message attributed to Charlie Kirk stating he had lost a $2 million/year Jewish donor over TPUSA's refusal to cancel Tucker Carlson, and that he was considering inviting Candace Owens.",
       "anchored_artifacts": [
@@ -1636,8 +1636,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1376",
-      "ref": "C-1376",
+      "@id": "C-1350",
+      "ref": "C-1350",
       "label": "Charlie Kirk group chat statement – refusing to be bullied / leaving pro-Israel cause",
       "claim": "The same group chat contained a message attributed to Charlie Kirk stating \"I cannot and will not be bullied like this. Leaving me no choice but to leave the pro-Israel cause.\"",
       "anchored_artifacts": [
@@ -1656,8 +1656,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1377",
-      "ref": "C-1377",
+      "@id": "C-1352",
+      "ref": "C-1352",
       "label": "Josh Hammer identified as group chat participant",
       "claim": "The host verbally identifies Josh Hammer as a participant on the pre-assassination group chat.",
       "anchored_artifacts": [
@@ -1675,8 +1675,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1378",
-      "ref": "C-1378",
+      "@id": "C-1391",
+      "ref": "C-1391",
       "label": "Pastor sermon clip – Candace / Fuentes defiled framing",
       "claim": "In a sermon clip the host plays, an unnamed 'Judeo-Christian' pastor, in a sermon given September 21, 2025 titled 'what has defiled you' that cites 2 Corinthians 7:1, calls Candace Owens and Nick Fuentes 'foolish people that are so deceived' and says young people are 'eating that up'.",
       "anchored_artifacts": [
@@ -1693,8 +1693,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1379",
-      "ref": "C-1379",
+      "@id": "C-1383",
+      "ref": "C-1383",
       "label": "Alex Clark Instagram amplification of Bowyer DoJ department defense",
       "claim": "Alex Clark shared Tyler Bowyer's X post defending TPUSA on the DOGE department matter on her Instagram, which the host characterizes as \"half-truth PR spin.\"",
       "anchored_artifacts": [
@@ -1712,8 +1712,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6449",
-      "ref": "C-6449",
+      "@id": "C-1325",
+      "ref": "C-1325",
       "label": "Host Says Feds Are Definitively Lying but the Day's Events Are Unknown",
       "claim": "The host says there is no definitive understanding of what happened on the day Charlie Kirk was assassinated, but that what is known definitively is that the feds are lying to the public.",
       "anchored_artifacts": [],
@@ -1731,8 +1731,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6450",
-      "ref": "C-6450",
+      "@id": "C-1326",
+      "ref": "C-1326",
       "label": "Host Relays X User Asking Why TPUSA Wants Forgiveness for Robinson but Attacks Investigators",
       "claim": "The host relays an X user's remark that TPUSA wants people to forgive Tyler Robinson while attacking those trying to solve Charlie Kirk's murder, and the host adds that it seems TPUSA executives are not interested in publicly challenging the official narrative.",
       "anchored_artifacts": [
@@ -1755,8 +1755,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6451",
-      "ref": "C-6451",
+      "@id": "C-1327",
+      "ref": "C-1327",
       "label": "Host Says Influencers Invoke Erika Kirk's Mourning to Block Questions but Erika Has Not Said So",
       "claim": "The host says TPUSA and other influencers invoke Erika Kirk's mourning as the reason it is inappropriate to ask questions, while the host says Erika has not explicitly said that.",
       "anchored_artifacts": [],
@@ -1776,8 +1776,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6452",
-      "ref": "C-6452",
+      "@id": "C-1328",
+      "ref": "C-1328",
       "label": "Host Says She Initially Let TPUSA White Lies Pass and Changed Course That Weekend",
       "claim": "The host says the grief-based pressure worked on her at first, that she knew TPUSA was telling white lies and chose to let it go and focus on federal lies, and that over the weekend she decided to expose the lies instead.",
       "anchored_artifacts": [],
@@ -1796,8 +1796,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6453",
-      "ref": "C-6453",
+      "@id": "C-1329",
+      "ref": "C-1329",
       "label": "Host Says She Never Said Charlie Kirk Converted to Catholicism",
       "claim": "The host says she told viewers Catholics hoped Charlie Kirk would take the next step because he was praying the rosary, that she never said he converted, and that a coordinated-feeling wave of videos disputed her.",
       "anchored_artifacts": [],
@@ -1818,8 +1818,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6454",
-      "ref": "C-6454",
+      "@id": "C-1330",
+      "ref": "C-1330",
       "label": "Host Says Videos Disputing Her Catholicism Remarks Felt Coordinated",
       "claim": "The host says that after her remarks on Kirk's spiritual changes a bunch of videos were suddenly made saying he was evangelical to his core, which she says felt coordinated and fake.",
       "anchored_artifacts": [],
@@ -1840,8 +1840,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6455",
-      "ref": "C-6455",
+      "@id": "C-1331",
+      "ref": "C-1331",
       "label": "Host Says Charlie Kirk Attended Mass Weekly and Sometimes Daily",
       "claim": "The host says Charlie Kirk attended mass weekly and sometimes daily.",
       "anchored_artifacts": [],
@@ -1861,8 +1861,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6456",
-      "ref": "C-6456",
+      "@id": "C-1332",
+      "ref": "C-1332",
       "label": "Host Says Kirk Was Not Attending Rob McCoy's Church",
       "claim": "The host says Charlie Kirk was not attending Pastor Rob McCoy's church.",
       "anchored_artifacts": [],
@@ -1882,8 +1882,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6457",
-      "ref": "C-6457",
+      "@id": "C-1333",
+      "ref": "C-1333",
       "label": "Host Says Kirk Wore Saint Michael Pendant When He Died",
       "claim": "The host says Charlie Kirk was wearing a Saint Michael pendant when he died and says this and related points are indisputable facts.",
       "anchored_artifacts": [],
@@ -1902,8 +1902,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6458",
-      "ref": "C-6458",
+      "@id": "C-1334",
+      "ref": "C-1334",
       "label": "Host Says Erika Took a Catholic Bishop to Pray Over Kirk's Body",
       "claim": "The host says it has been publicized that Erika Kirk took a Catholic bishop with her to pray over Charlie Kirk's body on the day he died.",
       "anchored_artifacts": [],
@@ -1923,8 +1923,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6459",
-      "ref": "C-6459",
+      "@id": "C-1335",
+      "ref": "C-1335",
       "label": "Host Says Megyn Kelly Presented Account of Priest Praying Over Kirks After Hex",
       "claim": "The host says Megyn Kelly presented that a few weeks before his death Erika Kirk had a priest come over to pray over the couple after witches put a hex on Charlie Kirk.",
       "anchored_artifacts": [],
@@ -1945,8 +1945,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6460",
-      "ref": "C-6460",
+      "@id": "C-1336",
+      "ref": "C-1336",
       "label": "Host Says TPUSA Staff Knew Kirk's Catholic Practice Was Real",
       "claim": "The host says people at Turning Point USA knew for a fact the facts she had just listed about Kirk's Catholic practice, and that Andrew Kolvet and Alex Clark nonetheless jumped in to dissuade the idea that he was softening on Catholicism.",
       "anchored_artifacts": [
@@ -1971,8 +1971,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6461",
-      "ref": "C-6461",
+      "@id": "C-1337",
+      "ref": "C-1337",
       "label": "Kolvet Says Kirk Was Not Becoming Catholic but Loved the Mass",
       "claim": "In a played clip, Andrew Kolvet says Charlie Kirk was not becoming Catholic but loved Catholic mass, its ritual, old churches and stained glass, and that he and Erika would go sometimes.",
       "anchored_artifacts": [
@@ -1988,7 +1988,7 @@
       "investigative_direction": "Locate the original Kolvet interview and date; compare with mass-attendance accounts.",
       "transcript_snippet": "Was he becoming Catholic? No. But, he really loved Catholic mass. He loved the ritual of it.",
       "supports_claim_refs": [
-        "C-1255"
+        "C-695"
       ],
       "mentions_person_refs": [
         "N-14",
@@ -1998,8 +1998,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6462",
-      "ref": "C-6462",
+      "@id": "C-1338",
+      "ref": "C-1338",
       "label": "Clip Speaker Says Erika Replied They Just Like Attending Sometimes",
       "claim": "In a played clip, a speaker (presented in the host's segment alongside Alex Clark and Kolvet) says Erika Kirk posted a photo of the family at mass and answered a commenter who asked if they were converting with 'No, we just like attending sometimes'.",
       "anchored_artifacts": [
@@ -2022,8 +2022,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6463",
-      "ref": "C-6463",
+      "@id": "C-1339",
+      "ref": "C-1339",
       "label": "Clip Has Speaker Say Kirk Disliked Worshipping in a Gym and Debated Knowles on Catholicism",
       "claim": "In the played clip a speaker says Kirk disliked worshipping in a gym or blank space, loved the ritual of Catholic mass, had big theological hang-ups, and could be seen debating Michael Knowles.",
       "anchored_artifacts": [
@@ -2039,7 +2039,7 @@
       "investigative_direction": "Find the Kirk-Knowles Protestant versus Catholic debate videos.",
       "transcript_snippet": "You can go check the videos out him debating with uh Michael Knowles.",
       "supports_claim_refs": [
-        "C-3727"
+        "C-700"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -2048,8 +2048,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6464",
-      "ref": "C-6464",
+      "@id": "C-1340",
+      "ref": "C-1340",
       "label": "Host Says Clip's Account Felt Like a Cover-Up",
       "claim": "The host says that, given the facts she shared, the Kolvet/Clark account that Kirk only loved the architecture reads to her as not fully honest and as a cover-up of sorts.",
       "anchored_artifacts": [
@@ -2073,8 +2073,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6465",
-      "ref": "C-6465",
+      "@id": "C-1341",
+      "ref": "C-1341",
       "label": "Host Says Kirk Messaged Her That Catholicism Was Sounding Better and Better",
       "claim": "The host says that out of nowhere Charlie Kirk messaged her that Catholicism was sounding better and better, and she dates this to February; she says both 'this year' and 'February of 2024'.",
       "anchored_artifacts": [
@@ -2096,8 +2096,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6466",
-      "ref": "C-6466",
+      "@id": "C-1342",
+      "ref": "C-1342",
       "label": "Host Says She Sent Kirk a Chart Linking Judeo-Christian to the Founding of Israel",
       "claim": "The host says she sent Kirk a chart showing the phrase Judeo-Christian is associated with the dawn of the nation of Israel, and that they discussed it a lot.",
       "anchored_artifacts": [],
@@ -2118,8 +2118,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6467",
-      "ref": "C-6467",
+      "@id": "C-1344",
+      "ref": "C-1344",
       "label": "Host Says McCoy Effectively Asked Her to Pause Her Inquiry Until the Memorial",
       "claim": "The host says Pastor Rob McCoy effectively asked her to stop, or at least pause, looking into events leading to the assassination until the memorial.",
       "anchored_artifacts": [
@@ -2142,8 +2142,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6468",
-      "ref": "C-6468",
+      "@id": "C-1345",
+      "ref": "C-1345",
       "label": "Host Says McCoy's Son and Daughter-in-Law Work for TPUSA",
       "claim": "The host says she thinks most people know that Rob McCoy's son and daughter-in-law both work for Turning Point USA, giving them a financial stake, and that McCoy heads up the faith division.",
       "anchored_artifacts": [
@@ -2166,8 +2166,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6469",
-      "ref": "C-6469",
+      "@id": "C-1346",
+      "ref": "C-1346",
       "label": "Host Says Kirk's Faith Direction Would Have Financial Implications for TPUSA",
       "claim": "The host says that because McCoy heads the faith division, it would matter and carry financial implications if Charlie Kirk decided to become Catholic, while she repeats that she never said he would.",
       "anchored_artifacts": [
@@ -2191,8 +2191,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6470",
-      "ref": "C-6470",
+      "@id": "C-1347",
+      "ref": "C-1347",
       "label": "Host Says McCoy Knew for a Fact Kirk Was Done with Israel Bullying",
       "claim": "The host says Rob McCoy knew for an absolute fact that Charlie Kirk was done with Israel bullying him, and that others knew too.",
       "anchored_artifacts": [
@@ -2216,8 +2216,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6471",
-      "ref": "C-6471",
+      "@id": "C-1348",
+      "ref": "C-1348",
       "label": "Host Says Group Chat Had Nine Members Including Kirk and McCoy",
       "claim": "The host says the group chat dated two days before the assassination had nine people in total, including Charlie Kirk and Rob McCoy, and that she is withholding the other seven names for now and might release one a day.",
       "anchored_artifacts": [
@@ -2240,8 +2240,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6472",
-      "ref": "C-6472",
+      "@id": "C-1351",
+      "ref": "C-1351",
       "label": "Host Says Hamptons Meeting Is Something Participants Are All Lying About",
       "claim": "The host says Kirk did not back down in the Hamptons meeting, which she says all of them are lying about, nor in the text thread 48 hours before his assassination.",
       "anchored_artifacts": [
@@ -2264,8 +2264,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6473",
-      "ref": "C-6473",
+      "@id": "C-1353",
+      "ref": "C-1353",
       "label": "Host Says a Rabbi Is in the Group Chat",
       "claim": "The host says there is a rabbi in the group chat.",
       "anchored_artifacts": [
@@ -2286,8 +2286,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6474",
-      "ref": "C-6474",
+      "@id": "C-1354",
+      "ref": "C-1354",
       "label": "Host Says Only She, Tucker and Megyn Have Vindicated Kirk's Pressure Account",
       "claim": "The host says she, Tucker Carlson and Megyn Kelly are the ones who have publicly described the pressure Kirk faced, while other hosts have not criticized the donors, which she finds suspicious and suggests may mean they are run by the same money.",
       "anchored_artifacts": [],
@@ -2309,8 +2309,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6475",
-      "ref": "C-6475",
+      "@id": "C-1355",
+      "ref": "C-1355",
       "label": "Host Says Someone Raced to Grab SD Cards Four Minutes After Kirk Was Shot",
       "claim": "The host says TPUSA wants the public to see it as normal that four minutes after Charlie Kirk was shot someone on their team nervously raced to grab the SD cards from the camera behind Kirk's head, and that he stood on Kirk's chair.",
       "anchored_artifacts": [],
@@ -2325,7 +2325,7 @@
       "investigative_direction": "Obtain video timing of the SD card removal and identify the staffer; compare against crime-scene entry logs.",
       "transcript_snippet": "4 minutes after Charlie was shot, someone on their team nervously raced to grab the SD cards, uh specifically from the camera that is behind Charlie's head.",
       "supports_claim_refs": [
-        "C-1257"
+        "C-711"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -2334,8 +2334,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6476",
-      "ref": "C-6476",
+      "@id": "C-1356",
+      "ref": "C-1356",
       "label": "Host Says TPUSA Presents SD Card Removal as Heroic and Critics as Conspiracy Spinners",
       "claim": "The host says TPUSA presented the SD card removal as a heroic, forthright act and anyone who finds it suspicious as spinning conspiracies, as communicated by Andrew Kolvet to Tucker Carlson.",
       "anchored_artifacts": [
@@ -2358,8 +2358,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6477",
-      "ref": "C-6477",
+      "@id": "C-1357",
+      "ref": "C-1357",
       "label": "Kolvet Says the SD Card Staffer Was a Dear Friend from the Beginning",
       "claim": "In the clip, Andrew Kolvet says the person who grabbed the SD cards was one of their dear friends who started with them from the very beginning and loved Charlie like a brother.",
       "anchored_artifacts": [
@@ -2382,8 +2382,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6478",
-      "ref": "C-6478",
+      "@id": "C-1359",
+      "ref": "C-1359",
       "label": "Kolvet Says Staffer Wanted 4K Footage Protected",
       "claim": "In the clip, Andrew Kolvet quotes the staffer as saying he knew he had to protect the footage because it was being recorded in 4K.",
       "anchored_artifacts": [
@@ -2404,8 +2404,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6479",
-      "ref": "C-6479",
+      "@id": "C-1360",
+      "ref": "C-1360",
       "label": "Tucker Carlson Says Public Distrust of Authorities Is Justified",
       "claim": "In the clip, Tucker Carlson says people trying to make sense of the case are motivated mostly by pure intent, do not trust the authorities, and have every reason to feel that way because of lying that has corroded trust.",
       "anchored_artifacts": [
@@ -2424,8 +2424,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6480",
-      "ref": "C-6480",
+      "@id": "C-1361",
+      "ref": "C-1361",
       "label": "Host Says Taking the SD Card but Not the Camera Undercuts the Theft Rationale",
       "claim": "The host says that if the worry was theft, taking the SD card and not the very expensive camera is odd, and the host calls it shady.",
       "anchored_artifacts": [
@@ -2442,7 +2442,7 @@
       "investigative_direction": "Ask TPUSA why the card was removed and the camera left, and who authorized it.",
       "transcript_snippet": "but also you took the SD card out and not the very expensive camera, which is if you were worried about stealing and theft, maybe you would take the camera.",
       "supports_claim_refs": [
-        "C-1257"
+        "C-711"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2450,8 +2450,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6481",
-      "ref": "C-6481",
+      "@id": "C-1362",
+      "ref": "C-1362",
       "label": "Host Says TPUSA Has the Footage and She Saw Part of It",
       "claim": "The host says Turning Point has the footage, that she saw part of it, and that it either made it back home or was live-streamed.",
       "anchored_artifacts": [],
@@ -2471,8 +2471,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6482",
-      "ref": "C-6482",
+      "@id": "C-1365",
+      "ref": "C-1365",
       "label": "Host Says Bowyer Is COO of Turning Point Action",
       "claim": "The host says Tyler Bowyer is the COO of Turning Point Action and that over the weekend he defended the organization in an X thread.",
       "anchored_artifacts": [
@@ -2494,8 +2494,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6483",
-      "ref": "C-6483",
+      "@id": "C-1367",
+      "ref": "C-1367",
       "label": "Host Says No One Heard of a Police Instruction on SD Cards Until Bowyer Tweeted",
       "claim": "The host says no one had heard police officers ask TPUSA to secure the footage before lockdown until Tyler Bowyer tweeted it, and that the staffer she spoke to never mentioned police officers.",
       "anchored_artifacts": [
@@ -2511,7 +2511,7 @@
       "investigative_direction": "Request UVU police and FBI records on any instruction to TPUSA staff; compare Bowyer's tweet with earlier statements.",
       "transcript_snippet": "No one's ever heard police officers ask them to secure the footage before lockdown until Tyler Bowyer tweeted this weekend.",
       "contradicts_claim_refs": [
-        "C-1257"
+        "C-711"
       ],
       "mentions_person_refs": [
         "N-11",
@@ -2520,8 +2520,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6484",
-      "ref": "C-6484",
+      "@id": "C-1368",
+      "ref": "C-1368",
       "label": "Host Says Bowyer Is Responding to People Accusing TPUSA of a Hand in the Murder",
       "claim": "The host says Bowyer says he is responding to people who have flat-out accused the organization of a hand in Charlie's murder, but he does not say when or where, and she has not read anyone explicitly accusing TPUSA of murder.",
       "anchored_artifacts": [
@@ -2543,8 +2543,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6485",
-      "ref": "C-6485",
+      "@id": "C-1370",
+      "ref": "C-1370",
       "label": "X User Begs Bowyer to Seek Losee Center Security Footage",
       "claim": "The host reads an X user's plea that Tyler Bowyer file for security footage of the sequence before Tyler Robinson's jump-off from the Losee Center to corroborate the story.",
       "anchored_artifacts": [
@@ -2567,8 +2567,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6486",
-      "ref": "C-6486",
+      "@id": "C-1371",
+      "ref": "C-1371",
       "label": "Host Says Only a Blurry Image Was Released During the 33-Hour Manhunt",
       "claim": "The host says that if all-over-campus footage existed, it should have been released during the 33-hour manhunt, yet only a blurry image was released.",
       "anchored_artifacts": [
@@ -2584,7 +2584,7 @@
       "investigative_direction": "Compare the FBI's manhunt-era releases with the footage inventory later cited by Bowyer.",
       "transcript_snippet": "why only release a blurry image when there is, as he mentioned, footage everywhere, all over that campus, every inch?",
       "supports_claim_refs": [
-        "C-4881"
+        "C-353"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2592,8 +2592,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6487",
-      "ref": "C-6487",
+      "@id": "C-1372",
+      "ref": "C-1372",
       "label": "Host Says Some Campus Footage Is in 4K",
       "claim": "The host says some of the campus footage held is in 4K.",
       "anchored_artifacts": [],
@@ -2612,8 +2612,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6488",
-      "ref": "C-6488",
+      "@id": "C-1373",
+      "ref": "C-1373",
       "label": "Host Says TPUSA Responds with Name-Calling, Suit Threats and Demonic Accusations",
       "claim": "The host says TPUSA is name-calling, threatening to sue and calling people demonic or possessed by demonic spirits for asking questions about the assassination.",
       "anchored_artifacts": [],
@@ -2632,8 +2632,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6489",
-      "ref": "C-6489",
+      "@id": "C-1374",
+      "ref": "C-1374",
       "label": "Host Says She Shared Charlie's Email on the New DOGE Department",
       "claim": "The host says that when Alex Clark made it seem like the host lied about the new DOGE department, the host had literally shared the email from Charlie.",
       "anchored_artifacts": [
@@ -2649,7 +2649,7 @@
       "investigative_direction": "Compare the host's earlier on-air email with the September 2 memo and Clark's post.",
       "transcript_snippet": "tried to make it seem like I lied about the new DOGE department when I literally shared the email from Charlie.",
       "supports_claim_refs": [
-        "C-3632"
+        "C-896"
       ],
       "mentions_person_refs": [
         "N-99",
@@ -2659,8 +2659,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6490",
-      "ref": "C-6490",
+      "@id": "C-1375",
+      "ref": "C-1375",
       "label": "Host Says TPUSA Made Tens of Millions in the Two Weeks After the Assassination",
       "claim": "The host says Turning Point USA made tens of millions of dollars in the two weeks following Charlie Kirk's assassination.",
       "anchored_artifacts": [],
@@ -2681,8 +2681,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6491",
-      "ref": "C-6491",
+      "@id": "C-1376",
+      "ref": "C-1376",
       "label": "Host Says Alex Clark Had the WSJ Photograph Her in High Boots at the Memorial Site",
       "claim": "The host says Alex Clark invited the Wall Street Journal a week after the assassination to photograph her in high boots standing over Kirk's memorial site at the office.",
       "anchored_artifacts": [
@@ -2705,8 +2705,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6492",
-      "ref": "C-6492",
+      "@id": "C-1377",
+      "ref": "C-1377",
       "label": "Host Says the WSJ Photo Shows Clark in Front of Gifts Left for Kirk and Is Not Photoshopped",
       "claim": "The host says the WSJ photo shows Alex Clark in front of the gifts people left for Charlie, that the article was published September 18 so the interview was at latest one week after the assassination, and that it does not look Photoshopped to her.",
       "anchored_artifacts": [
@@ -2728,8 +2728,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6493",
-      "ref": "C-6493",
+      "@id": "C-1379",
+      "ref": "C-1379",
       "label": "Host Says She Has Not Given Any Press Interview About Kirk",
       "claim": "The host says she has not spoken to the press about Charlie Kirk and has not given a single interview about him, focusing only on investigating his murder.",
       "anchored_artifacts": [],
@@ -2747,8 +2747,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6494",
-      "ref": "C-6494",
+      "@id": "C-1380",
+      "ref": "C-1380",
       "label": "WSJ Article Says Clark Was About to Fly to Celebrate Her Podcast's First Anniversary",
       "claim": "The host reads from the September 18 WSJ article that Alex Clark was about to head to the airport for a work trip celebrating her podcast's first anniversary when she heard Kirk had been shot, and that her second thought was 'What will happen now?'.",
       "anchored_artifacts": [
@@ -2770,8 +2770,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6495",
-      "ref": "C-6495",
+      "@id": "C-1382",
+      "ref": "C-1382",
       "label": "Host Says Trump Did a Same-Time Post with Netanyahu and Posted Kirk with an Israeli Flag",
       "claim": "The host says Donald Trump did a same-time post with Netanyahu and then posted a picture of Charlie Kirk with an Israeli flag behind him, which she found angering and sees as sowing the idea that Kirk died for Israel.",
       "anchored_artifacts": [],
@@ -2793,8 +2793,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6496",
-      "ref": "C-6496",
+      "@id": "C-1384",
+      "ref": "C-1384",
       "label": "Host Says She Did Not Read the Paragraph Naming Justin Streiff COO",
       "claim": "The host says that when she showed Charlie's internal email she read everything related to the DOGE department but not the paragraph where he announced that Justin Streiff would be COO.",
       "anchored_artifacts": [],
@@ -2808,7 +2808,7 @@
       "investigative_direction": "Compare the full memo against the portions the host aired.",
       "transcript_snippet": "I didn't read the paragraph where he announced that Justin Streiff would be the COO",
       "supports_claim_refs": [
-        "C-3632"
+        "C-896"
       ],
       "mentions_person_refs": [
         "N-15",
@@ -2818,8 +2818,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6497",
-      "ref": "C-6497",
+      "@id": "C-1386",
+      "ref": "C-1386",
       "label": "Bowyer Tweet Says TPUSA Operates Eight Times More Effectively Than Similar Operations",
       "claim": "In the tweet the host reads, Tyler Bowyer says TPUSA operates eight times more effectively than any other similar operation.",
       "anchored_artifacts": [
@@ -2840,8 +2840,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6498",
-      "ref": "C-6498",
+      "@id": "C-1387",
+      "ref": "C-1387",
       "label": "Host Says Larger 501c3s Are Legally Required to Audit but Audit Is Not the DOGE Department",
       "claim": "The host says she thinks organizations of a certain size are required by law to do an annual audit as a 501c3, possibly varying by state, and that an audit is unrelated to a DOGE department meant to look for internal corruption.",
       "anchored_artifacts": [
@@ -2857,7 +2857,7 @@
       "investigative_direction": "Check state audit thresholds and TPUSA's audited financial statements.",
       "transcript_snippet": "I actually think that for organizations of a certain size, you're required by law to do an annual audit if you're 501c3.",
       "supports_claim_refs": [
-        "C-1368"
+        "C-1385"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2865,8 +2865,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6499",
-      "ref": "C-6499",
+      "@id": "C-1388",
+      "ref": "C-1388",
       "label": "Host Says a 501c3 Lawyer Advised an Independent Auditor in a Meeting With Charlie",
       "claim": "The host says she shared a 501c3 lawyer with them, met her in her offices with Charlie, and the lawyer explained the need for an independent auditor.",
       "anchored_artifacts": [],
@@ -2886,8 +2886,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6500",
-      "ref": "C-6500",
+      "@id": "C-1389",
+      "ref": "C-1389",
       "label": "Host Says She Is Hearing About Possible TPUSA Contractor Kickbacks",
       "claim": "The host says she is hearing some stuff about big organizations and gives, as one example, outsourcing millions to contractors who pay money back, which would escape the IRS but concern a DOGE department; she presents it as an example, not a confirmed finding.",
       "anchored_artifacts": [],
@@ -2907,8 +2907,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6501",
-      "ref": "C-6501",
+      "@id": "C-1390",
+      "ref": "C-1390",
       "label": "Host Says Pro-Israel Christian Influencers Are Taking Money and Free Trips",
       "claim": "The host says Judeo-Christian influencers quoting scripture for political ends are taking money and free trips to do so.",
       "anchored_artifacts": [],
@@ -2927,8 +2927,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6502",
-      "ref": "C-6502",
+      "@id": "C-1392",
+      "ref": "C-1392",
       "label": "Sermon Pastor Says Everyone Under 30 Is Against Israel as Quoted from Carlson and Kelly Interview",
       "claim": "In the played sermon, the pastor says that in an interview with Tucker Carlson and Megyn Kelly they said everyone under 30 in America is against Israel and that the older generation is not.",
       "anchored_artifacts": [
@@ -2950,8 +2950,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6503",
-      "ref": "C-6503",
+      "@id": "C-1393",
+      "ref": "C-1393",
       "label": "Sermon Pastor Urges Congregants to Block Candace Owens and Nick Fuentes",
       "claim": "In the played sermon, the pastor hopes that congregants defiled by an echo chamber of Nick Fuentes and Candace Owens will block them because they are anti what scripture says.",
       "anchored_artifacts": [
@@ -2973,8 +2973,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6504",
-      "ref": "C-6504",
+      "@id": "C-1394",
+      "ref": "C-1394",
       "label": "Host Says TikTok's Moderation Team Includes IDF Soldiers and Netanyahu Said They Are Taking Over TikTok",
       "claim": "The host, citing a headline, says TikTok's moderation team is like IDF soldiers and that Benjamin Netanyahu said they are taking over TikTok.",
       "anchored_artifacts": [],
@@ -2988,7 +2988,7 @@
       "investigative_direction": "Locate the headline and any Netanyahu statement on TikTok; verify moderation team composition claims.",
       "transcript_snippet": "their moderation team, like IDF soldiers uh and Benjamin Netanyahu saying like we're taking over TikTok.",
       "supports_claim_refs": [
-        "C-1350"
+        "C-1214"
       ],
       "mentions_person_refs": [
         "N-36",
@@ -2997,8 +2997,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6505",
-      "ref": "C-6505",
+      "@id": "C-1395",
+      "ref": "C-1395",
       "label": "Host Says TikTok Will Reportedly Ban the Juice Box Emoji",
       "claim": "The host says that, apparently, TikTok is going to ban the juice box emoji that users used because juice can sound like Jews.",
       "anchored_artifacts": [],
@@ -3017,8 +3017,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6506",
-      "ref": "C-6506",
+      "@id": "C-1396",
+      "ref": "C-1396",
       "label": "Host Says Book Club Starts David Bakan's Freud and the Jewish Mystical Tradition",
       "claim": "The host says the book club starts the next day with David Bakan's Sigmund Freud and the Jewish Mystical Tradition, after finishing The Assault on Truth.",
       "anchored_artifacts": [],
@@ -3037,8 +3037,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6507",
-      "ref": "C-6507",
+      "@id": "C-1397",
+      "ref": "C-1397",
       "label": "Host Agrees Many Officials in Kirk Case Are New to Their Roles",
       "claim": "A viewer comment read by the host says many individuals around Charlie's case are new to their role, giving the Dallas police chief as appointed in April; the host responds that it is almost like they are actors.",
       "anchored_artifacts": [
@@ -3057,8 +3057,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6508",
-      "ref": "C-6508",
+      "@id": "C-1398",
+      "ref": "C-1398",
       "label": "Moderator Comment Says Rob O'Neill Questioned the Kirk Story on Piers Morgan's Show",
       "claim": "A moderator's comment read by the host says Rob O'Neill, who shot Bin Laden, questioned the story of Charlie on Piers Morgan's show.",
       "anchored_artifacts": [
@@ -3078,8 +3078,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6509",
-      "ref": "C-6509",
+      "@id": "C-1399",
+      "ref": "C-1399",
       "label": "Moderator Comment Says South African Ambassador to France Was Found Dead in a Paris Hotel",
       "claim": "A moderator's comment read by the host says the South African ambassador to France was found dead in a Paris hotel.",
       "anchored_artifacts": [
@@ -3098,8 +3098,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6510",
-      "ref": "C-6510",
+      "@id": "C-1400",
+      "ref": "C-1400",
       "label": "Host Says Australian Court Heard Her Visa Arguments and Decision Is Pending",
       "claim": "The host says Australia's court heard her arguments about her visa status, a decision is still awaited, and she has never been in trouble yet cannot travel to Australia.",
       "anchored_artifacts": [],
@@ -3118,8 +3118,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6511",
-      "ref": "C-6511",
+      "@id": "C-1401",
+      "ref": "C-1401",
       "label": "Host Says Israel Spends Money on Influencers and on Pressing People to Register Under FARA",
       "claim": "The host says that Israel has all the money in the world and spends it on influencers, on trying to get people (including some who were assassinated) to register under FARA, and on presidents, and that every piece of that tapestry of deception is falling apart because people are speaking truth.",
       "anchored_artifacts": [],

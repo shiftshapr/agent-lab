@@ -16,7 +16,7 @@
   - Tip-minted Nodes (reintro-ep082): N-11149
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Reused Nodes Appearing: N-5, N-11, N-15, N-39, N-40, N-69, N-97, N-217, N-496, N-551, N-10094, N-10149, N-10324, N-10337, N-10355, N-10360, N-10386, N-10387, N-10546, N-10548, N-10551, N-11012, N-10554, N-690, N-10701
-  - Claim Range (supplement_2026-10c): C-8505–C-8562
+  - Claim Range: C-7344–C-7417
  - (see registers)
 
 # Episode Analysis: Monument Ep 82 – "REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315"
@@ -36,7 +36,6 @@
 - Analysis Date: 2026-03-24
 - Ledger Continuation Summary:
  - Artifact Families Introduced: A-1886, A-1887, A-1888, A-1889, A-1890, A-1891, A-1892, A-1893, A-1894
- - Claim Range: C-2544 – C-2559
  - New Nodes Introduced: N-10553, N-10555, N-10556, N-10557, N-10558, N-10559
  - Reused Nodes Appearing: none (Wave 2: local ids removed)
  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
@@ -61,7 +60,7 @@ Video Timestamp: 00:15:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (shown on screen)
 
-*Related: C-2545, C-2544, N-10555*
+*Related: C-7356, C-7352, N-10555*
 
 **A-1886.2** Satellite / map imagery of 14600 North Aircraft Drive, Scottsdale – showing Hopkinson Aircrafts, Atlantic Aviation, and Ross Aviation at the same address
 
@@ -71,7 +70,7 @@ Video Timestamp: 00:13:52–00:14:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (mapping data; visual reference)
 
-*Related: C-2545, N-10555*
+*Related: C-7356, N-10555*
 
 **A-1886.3** Caller confirmation (host's anonymous outreach to Atlantic Aviation / Hopkinson) that Hopkinson Aircrafts is in a separate building that uses Atlantic Aviation's mailing address
 
@@ -81,7 +80,7 @@ Video Timestamp: 00:13:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single anonymous call; not independently verified)
 
-*Related: C-2545, N-10555*
+*Related: C-7356, N-10555*
 
 **A-1887** Plane Documentation Bundle
 
@@ -93,7 +92,7 @@ Video Timestamp: 00:18:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (aircraft type image shown)
 
-*Related: C-2546, N-10557*
+*Related: C-7361, N-10557*
 
 **A-1887.2** Phone call confirmation from charter company handling N8724A: "All of our planes have Wi-Fi"
 
@@ -103,7 +102,7 @@ Video Timestamp: 00:19:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single phone call, not recorded)
 
-*Related: C-2546, C-2549, N-10557*
+*Related: C-7361, C-7363, N-10557*
 
 **A-1887.3** 2020 charter listing for the alleged "Yrefy" plane (Santa Barbara → Scottsdale leg) – listing amenities including belted lavatory, cabin power outlets, 5'7" cabin height, refreshment center, and "satellite phone"; Wi-Fi not marketed
 
@@ -113,7 +112,7 @@ Video Timestamp: 00:25:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (historical listing)
 
-*Related: C-2555, N-10557*
+*Related: C-7371, N-10557*
 
 **A-1888** ADSB Exchange Flight Data Bundle
 
@@ -125,7 +124,7 @@ Video Timestamp: 00:24:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (public flight tracking data)
 
-*Related: C-2547, C-2548*
+*Related: C-7369, C-7365*
 
 **A-1889** Text Message Exchange Bundle (Andrew Kolvet / Aubrey / Justin)
 
@@ -137,7 +136,7 @@ Video Timestamp: 00:22:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read on air)
 
-*Related: C-2548, C-2547*
+*Related: C-7365, C-7369*
 
 **A-1889.2** Text thread reference – Justin to Aubrey at 4:18 PM MST: Andrew must be "on the ground" before responding
 
@@ -147,7 +146,7 @@ Video Timestamp: 00:20:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read on air)
 
-*Related: C-2549*
+*Related: C-7363*
 
 **A-1890** Charlie Kirk Live Show Clip Bundle (September 10, 2025)
 
@@ -159,7 +158,7 @@ Video Timestamp: 00:31:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip)
 
-*Related: C-2551, C-2556, N-10556*
+*Related: C-7376, C-7377, N-10556*
 
 **A-1890.2** Andrew Kolvet introducing Nick Shirley on Charlie Kirk Live Show, describing Shirley's footage as "incredible"
 
@@ -169,7 +168,7 @@ Video Timestamp: 00:35:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip)
 
-*Related: C-2552, N-10556*
+*Related: C-7382, N-10556*
 
 **A-1891** Nick Shirley Background Bundle
 
@@ -191,7 +190,7 @@ Video Timestamp: 00:36:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (claim stated on audio)
 
-*Related: C-2552, N-10559*
+*Related: C-7382, N-10559*
 
 **A-1892** Joe Kent Shellenberger Interview Bundle
 
@@ -203,7 +202,7 @@ Video Timestamp: 00:43:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip referenced)
 
-*Related: C-2553*
+*Related: C-7394*
 
 **A-1893** Blake Neff / Andrew Kolvet Response Bundle
 
@@ -215,7 +214,7 @@ Video Timestamp: 00:45:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip)
 
-*Related: C-2554*
+*Related: C-7401*
 
 **A-1894** N40JD Plane Information Bundle
 
@@ -227,7 +226,7 @@ Video Timestamp: 00:39:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (registration data shown; host's identification of Knupp's role requires verification)
 
-*Related: C-2550, N-10558*
+*Related: C-7389, N-10558*
 
 ---
 
@@ -240,7 +239,7 @@ Video Timestamp: 00:05:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8506, C-8507, N-3*
+*Related: C-7346, C-7347, N-3*
 
 ---
 
@@ -253,7 +252,7 @@ Video Timestamp: 00:22:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8521, N-3*
+*Related: C-7366, N-3*
 
 ---
 
@@ -268,7 +267,7 @@ Video Timestamp: 00:25:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8526, N-3*
+*Related: C-7374, N-3*
 
 ---
 
@@ -281,7 +280,7 @@ Video Timestamp: 00:38:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8534, N-3*
+*Related: C-7385, N-3*
 
 ---
 
@@ -296,7 +295,7 @@ Video Timestamp: 00:38:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8535, N-3*
+*Related: C-7386, N-3*
 
 ---
 
@@ -309,7 +308,7 @@ Video Timestamp: 00:38:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-8536, C-8537, C-8538, N-3*
+*Related: C-7388, C-7390, C-7391, N-3*
 
 ---
 
@@ -322,7 +321,7 @@ Video Timestamp: 00:53:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-8552, N-3*
+*Related: C-7407, N-3*
 
 ---
 
@@ -333,7 +332,7 @@ Video Timestamp: 00:58:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-8558, N-3*
+*Related: C-7413, N-3*
 
 ---
 
@@ -344,7 +343,7 @@ Video Timestamp: 00:59:32
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-8559, N-3*
+*Related: C-7414, N-3*
 
 ---
 
@@ -359,7 +358,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1886.1, A-1886.2, A-1886.3, C-2544, N-2, N-10555*
+*Related: A-1886.1, A-1886.2, A-1886.3, C-7352, N-2, N-10555*
 
 **N-10554** Andrew Kolvet 9/10 Flight Itinerary
 
@@ -370,7 +369,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1887.1, A-1887.2, A-1887.3, A-1888.1, A-1889.1, A-1889.2, C-2546, C-2547, C-2548, C-2549, C-2555*
+*Related: A-1887.1, A-1887.2, A-1887.3, A-1888.1, A-1889.1, A-1889.2, C-7361, C-7369, C-7365, C-7363, C-7371*
 
 **N-10555** Hopkinson Aircrafts Business Verification
 
@@ -381,7 +380,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1886.1, A-1886.2, A-1886.3, C-2544, C-2545*
+*Related: A-1886.1, A-1886.2, A-1886.3, C-7352, C-7356*
 
 **N-10556** Charlie Kirk Live Show 9/10 Liveness Verification
 
@@ -392,7 +391,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1890.1, A-1890.2, A-1891.1, C-2551*
+*Related: A-1890.1, A-1890.2, A-1891.1, C-7376*
 
 **N-10557** Barbara Plane (N8724A) Operations
 
@@ -403,7 +402,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1887.1, A-1887.2, C-2546, C-2549*
+*Related: A-1887.1, A-1887.2, C-7361, C-7363*
 
 **N-10558** N40JD Plane Passenger Manifest
 
@@ -414,7 +413,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1894.1, C-2550, N-2*
+*Related: A-1894.1, C-7389, N-2*
 
 **N-10559** Nick Shirley Background Verification
 
@@ -425,7 +424,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1891.2, C-2552*
+*Related: A-1891.2, C-7382*
 
 ---
 
@@ -433,7 +432,7 @@ Investigative Pressure: Medium
 
 Subject of the assassination; discussed in the Kolvet clip, plane and weapon claims.
 
-*Related: C-8519, C-8524, C-8526, C-8527, C-8528, C-8529, C-8537, C-8542, C-8556, C-8559*
+*Related: C-7362, C-7372, C-7374, C-7375, C-7378, C-7379, C-7390, C-7396, C-7411, C-7414*
 
 ---
 
@@ -441,7 +440,7 @@ Subject of the assassination; discussed in the Kolvet clip, plane and weapon cla
 
 Widow and TPUSA CEO; the host questions her 9/10 whereabouts and accounts.
 
-*Related: C-8505, C-8506, C-8509, C-8510, C-8511, C-8512, C-8515, C-8516, C-8517, C-8536, C-8537, C-8538, C-8539, C-8551, C-8555, C-8557, C-8559, C-8561, C-8562*
+*Related: C-7345, C-7346, C-7349, C-7350, C-7351, C-7353, C-7357, C-7358, C-7359, C-7388, C-7390, C-7391, C-7392, C-7406, C-7410, C-7412, C-7414, C-7416, C-7417*
 
 ---
 
@@ -449,7 +448,7 @@ Widow and TPUSA CEO; the host questions her 9/10 whereabouts and accounts.
 
 Host; speaks for herself throughout.
 
-*Related: C-8505, C-8508, C-8509, C-8510, C-8511, C-8512, C-8513, C-8514, C-8515, C-8516, C-8517, C-8518, C-8519, C-8520, C-8521, C-8522, C-8523, C-8524, C-8525, C-8526, C-8527, C-8529, C-8530, C-8531, C-8532, C-8533, C-8534, C-8535, C-8536, C-8537, C-8538, C-8539, C-8540, C-8541, C-8547, C-8548, C-8549, C-8550, C-8551, C-8552, C-8553, C-8554, C-8555, C-8556, C-8557, C-8558, C-8559, C-8560, C-8561, C-8562*
+*Related: C-7345, C-7348, C-7349, C-7350, C-7351, C-7353, C-7354, C-7355, C-7357, C-7358, C-7359, C-7360, C-7362, C-7364, C-7366, C-7368, C-7370, C-7372, C-7373, C-7374, C-7375, C-7379, C-7380, C-7381, C-7383, C-7384, C-7385, C-7386, C-7388, C-7390, C-7391, C-7392, C-7393, C-7395, C-7402, C-7403, C-7404, C-7405, C-7406, C-7407, C-7408, C-7409, C-7410, C-7411, C-7412, C-7413, C-7414, C-7415, C-7416, C-7417*
 
 ---
 
@@ -457,7 +456,7 @@ Host; speaks for herself throughout.
 
 President; the host describes his mocking of Joe Kent.
 
-*Related: C-8540*
+*Related: C-7393*
 
 ---
 
@@ -465,7 +464,7 @@ President; the host describes his mocking of Joe Kent.
 
 TPUSA figure the host believes flew with Erika Kirk.
 
-*Related: C-8536*
+*Related: C-7388*
 
 ---
 
@@ -473,14 +472,14 @@ TPUSA figure the host believes flew with Erika Kirk.
 
 TPUSA spokesperson; subject of the flight, blackout and live-show claims.
 
-*Related: C-8516, C-8517, C-8518, C-8519, C-8520, C-8521, C-8523, C-8527, C-8528, C-8529, C-8530, C-8531, C-8537, C-8538, C-8539, C-8542, C-8543, C-8544, C-8551, C-8557, C-8559*
+*Related: C-7358, C-7359, C-7360, C-7362, C-7364, C-7366, C-7370, C-7375, C-7378, C-7379, C-7380, C-7381, C-7390, C-7391, C-7392, C-7396, C-7397, C-7398, C-7406, C-7412, C-7414*
 
 ---
 
 **N-15** Justin Streiff
 TPUSA COO, rendered Justin in the text thread; told Aubrey it was up to Andrew.
 
-*Related: C-8519*
+*Related: C-7362*
 
 ---
 
@@ -488,7 +487,7 @@ TPUSA COO, rendered Justin in the text thread; told Aubrey it was up to Andrew.
 
 Comedian the host says urged her to interview Pat Buchanan.
 
-*Related: C-8558*
+*Related: C-7413*
 
 ---
 
@@ -496,7 +495,7 @@ Comedian the host says urged her to interview Pat Buchanan.
 
 Accused in the Charlie Kirk shooting; subject of the surrender and weapon claims.
 
-*Related: C-8541, C-8542, C-8543, C-8544, C-8545, C-8546, C-8547, C-8548, C-8549, C-8550*
+*Related: C-7395, C-7396, C-7397, C-7398, C-7399, C-7400, C-7402, C-7403, C-7404, C-7405*
 
 ---
 
@@ -504,7 +503,7 @@ Accused in the Charlie Kirk shooting; subject of the surrender and weapon claims
 
 FBI director; named in the host's account of Kolvet's alleged faked live show and in the Kent claim.
 
-*Related: C-8530, C-8554*
+*Related: C-7380, C-7409*
 
 ---
 
@@ -512,7 +511,7 @@ FBI director; named in the host's account of Kolvet's alleged faked live show an
 
 Daily Wire host; the host says Charlie Kirk could not stand him.
 
-*Related: C-8527, C-8556, C-8557*
+*Related: C-7375, C-7411, C-7412*
 
 ---
 
@@ -520,7 +519,7 @@ Daily Wire host; the host says Charlie Kirk could not stand him.
 
 TPUSA figure in the clip about Joe Kent and the evidence against Tyler Robinson.
 
-*Related: C-8542, C-8543, C-8544, C-8545, C-8546, C-8553, C-8555*
+*Related: C-7396, C-7397, C-7398, C-7399, C-7400, C-7408, C-7410*
 
 ---
 
@@ -528,7 +527,7 @@ TPUSA figure in the clip about Joe Kent and the evidence against Tyler Robinson.
 
 Former counterterrorism official whose Shellenberger interview is discussed.
 
-*Related: C-8540, C-8541, C-8546, C-8552, C-8554, C-8561*
+*Related: C-7393, C-7395, C-7400, C-7407, C-7409, C-7416*
 
 ---
 
@@ -536,7 +535,7 @@ Former counterterrorism official whose Shellenberger interview is discussed.
 
 Independent YouTuber interviewed by Kolvet on 9/10.
 
-*Related: C-8531, C-8532, C-8533, C-8534*
+*Related: C-7381, C-7383, C-7384, C-7385*
 
 ---
 
@@ -544,7 +543,7 @@ Independent YouTuber interviewed by Kolvet on 9/10.
 
 Wrote a post the host says confirms Erika learned of Charlie's death before the Provo flight (transcribed Elizabeth McCoy).
 
-*Related: C-8512*
+*Related: C-7353*
 
 ---
 
@@ -552,7 +551,7 @@ Wrote a post the host says confirms Erika learned of Charlie's death before the 
 
 Co-investigator and podcaster whose clip the host plays.
 
-*Related: C-8505, C-8506, C-8507, C-8516, C-8523*
+*Related: C-7345, C-7346, C-7347, C-7358, C-7370*
 
 ---
 
@@ -560,7 +559,7 @@ Co-investigator and podcaster whose clip the host plays.
 
 TPUSA board member the host guesses was the donor (transcribed Doug De Root).
 
-*Related: C-8560*
+*Related: C-7415*
 
 ---
 
@@ -568,7 +567,7 @@ TPUSA board member the host guesses was the donor (transcribed Doug De Root).
 
 Former TPUSA PR manager in the text thread with Justin and Andrew.
 
-*Related: C-8519, C-8521*
+*Related: C-7362, C-7366*
 
 ---
 
@@ -576,7 +575,7 @@ Former TPUSA PR manager in the text thread with Justin and Andrew.
 
 Fox host whose show Andrew Kolvet is said to have discussed with Aubrey.
 
-*Related: C-8521*
+*Related: C-7366*
 
 ---
 
@@ -584,7 +583,7 @@ Fox host whose show Andrew Kolvet is said to have discussed with Aubrey.
 
 Church the host says Nick Shirley belongs to.
 
-*Related: C-8533*
+*Related: C-7384*
 
 ---
 
@@ -592,7 +591,7 @@ Church the host says Nick Shirley belongs to.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8539*
+*Related: C-7392*
 
 ---
 
@@ -600,7 +599,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8530*
+*Related: C-7380*
 
 ---
 
@@ -608,7 +607,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8542*
+*Related: C-7396*
 
 ---
 
@@ -616,7 +615,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8554*
+*Related: C-7409*
 
 ---
 
@@ -624,7 +623,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8549*
+*Related: C-7404*
 
 ---
 
@@ -632,7 +631,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8556, C-8557*
+*Related: C-7411, C-7412*
 
 ---
 
@@ -640,7 +639,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8536*
+*Related: C-7388*
 
 ---
 
@@ -648,7 +647,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8540, C-8541, C-8546, C-8552*
+*Related: C-7393, C-7395, C-7400, C-7407*
 
 ---
 
@@ -656,7 +655,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8539*
+*Related: C-7392*
 
 ---
 
@@ -664,7 +663,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8561*
+*Related: C-7416*
 
 ---
 
@@ -672,7 +671,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8548, C-8549*
+*Related: C-7403, C-7404*
 
 ---
 
@@ -680,7 +679,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8551, C-8555*
+*Related: C-7406, C-7410*
 
 ---
 
@@ -688,7 +687,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8530*
+*Related: C-7380*
 
 ---
 
@@ -696,7 +695,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8506*
+*Related: C-7346*
 
 ---
 
@@ -704,7 +703,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8543, C-8544, C-8547*
+*Related: C-7397, C-7398, C-7402*
 
 ---
 
@@ -712,7 +711,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8545, C-8550*
+*Related: C-7399, C-7405*
 
 ---
 
@@ -720,7 +719,7 @@ Existing topic reused for new claims in this episode.
 
 First named by the host at 00:30:36 in episode 82. New York Times reporter who interviewed Andrew Kolvet about the 9/10 show.
 
-*Related: C-8527, C-8528*
+*Related: C-7375, C-7378*
 
 ---
 
@@ -728,7 +727,7 @@ First named by the host at 00:30:36 in episode 82. New York Times reporter who i
 
 First named by the host at 00:43:38 in episode 82. Interviewer of Joe Kent.
 
-*Related: C-8541*
+*Related: C-7395*
 
 ---
 
@@ -736,7 +735,7 @@ First named by the host at 00:43:38 in episode 82. Interviewer of Joe Kent.
 
 First named by the host at 00:58:49 in episode 82 (from a viewer comment). Commentator the host says coined Israel's amen corner.
 
-*Related: C-8558*
+*Related: C-7413*
 
 ---
 
@@ -745,7 +744,7 @@ First named by the host at 00:58:49 in episode 82 (from a viewer comment). Comme
 Node Type: Organization
 First named by the host at 00:11:21 in episode 82. Scottsdale private terminal (FBO) at 14600 North Aircraft Drive that the host says receives Hopkinson's mail.
 
-*Related: C-8514*
+*Related: C-7355*
 
 ---
 
@@ -754,13 +753,13 @@ First named by the host at 00:11:21 in episode 82. Scottsdale private terminal (
 Node Type: Organization
 First named at 00:35:50 in episode 82 by Nick Shirley. Rio de Janeiro gang he says he gained access to.
 
-*Related: C-8532*
+*Related: C-7383*
 
 ---
 
 ## V. Claim Register
 
-**C-2544** Host Says Erika Kirk Was Allegedly Inside Hopkinson Aircrafts Office When Notified of Charlie Kirk's Death
+**C-7352** Host Says Erika Kirk Was Allegedly Inside Hopkinson Aircrafts Office When Notified of Charlie Kirk's Death
 
 Claim Timestamp: 00:09:34
 
@@ -775,7 +774,7 @@ Investigative Direction: Obtain direct documentary confirmation (call logs, eyew
 
 ---
 
-**C-2545** Hopkinson Aircrafts occupies a separate unmarked building using Atlantic Aviation's mailing address
+**C-7356** Hopkinson Aircrafts occupies a separate unmarked building using Atlantic Aviation's mailing address
 
 Claim Timestamp: 00:13:06
 
@@ -789,7 +788,7 @@ Investigative Direction: Conduct independent site visit or obtain satellite/aeri
 
 ---
 
-**C-2546** Barbara plane (N8724A) charter operator states all their planes have Wi-Fi
+**C-7361** Barbara plane (N8724A) charter operator states all their planes have Wi-Fi
 
 Claim Timestamp: 00:19:39
 
@@ -803,7 +802,7 @@ Investigative Direction: Obtain written confirmation from the charter operator; 
 
 ---
 
-**C-2547** Host Says ADSB Exchange Shows Charlie Kirk's Plane Below 7,500 ft Approaching Provo at 3:26 PM MST on September 10, 2025
+**C-7369** Host Says ADSB Exchange Shows Charlie Kirk's Plane Below 7,500 ft Approaching Provo at 3:26 PM MST on September 10, 2025
 
 Claim Timestamp: 00:24:05
 
@@ -818,7 +817,7 @@ Investigative Direction: Pull and archive ADSB Exchange historical data for N-nu
 
 ---
 
-**C-2548** Andrew Kolvet texted "Sorry, on the plane. This just loaded" at 3:26 PM MST
+**C-7365** Andrew Kolvet texted "Sorry, on the plane. This just loaded" at 3:26 PM MST
 
 Claim Timestamp: 00:22:10
 
@@ -833,7 +832,7 @@ Investigative Direction: Obtain the original text record with carrier timestamp 
 
 ---
 
-**C-2549** Host Says Text Thread Shows Kolvet Was on a Plane Without Wi-Fi and Streiff Told Aubrey at 4:18 PM to Wait Until He Was on the Ground
+**C-7363** Host Says Text Thread Shows Kolvet Was on a Plane Without Wi-Fi and Streiff Told Aubrey at 4:18 PM to Wait Until He Was on the Ground
 
 Claim Timestamp: 00:20:35
 
@@ -848,7 +847,7 @@ Investigative Direction: Obtain full text thread with carrier-verified timestamp
 
 ---
 
-**C-2550** N40JD plane departed Scottsdale approximately one hour after Charlie Kirk was shot and landed at Provo at 2:29 PM MST
+**C-7389** N40JD plane departed Scottsdale approximately one hour after Charlie Kirk was shot and landed at Provo at 2:29 PM MST
 
 Claim Timestamp: 00:39:16
 
@@ -863,7 +862,7 @@ Investigative Direction: Confirm Jason Knupp's military role via official Navy /
 
 ---
 
-**C-2551** Andrew Kolvet guest-hosted the first hour of Charlie Kirk Live Show on September 10, 2025
+**C-7376** Andrew Kolvet guest-hosted the first hour of Charlie Kirk Live Show on September 10, 2025
 
 Claim Timestamp: 00:31:34
 
@@ -878,7 +877,7 @@ Investigative Direction: Verify the show aired live (not pre-recorded) by obtain
 
 ---
 
-**C-2552** Nick Shirley claims to have infiltrated Comando Vermelho in 48 hours
+**C-7382** Nick Shirley claims to have infiltrated Comando Vermelho in 48 hours
 
 Claim Timestamp: 00:36:15
 
@@ -893,7 +892,7 @@ Investigative Direction: Verify the Comando Vermelho footage, dates, and circums
 
 ---
 
-**C-2553** Joe Kent acknowledged federal investigators did not thoroughly pursue other leads
+**C-7394** Joe Kent acknowledged federal investigators did not thoroughly pursue other leads
 
 Claim Timestamp: 00:43:38
 
@@ -908,7 +907,7 @@ Investigative Direction: Obtain the full Shellenberger-Kent interview; cross-ref
 
 ---
 
-**C-2554** Andrew Kolvet Says Officials Offering Defense Testimony Produces a Dramatic Level of Betrayal
+**C-7401** Andrew Kolvet Says Officials Offering Defense Testimony Produces a Dramatic Level of Betrayal
 
 Claim Timestamp: 00:47:20
 
@@ -923,7 +922,7 @@ Investigative Direction: Obtain full clip with timestamps; document exact wordin
 
 ---
 
-**C-2555** The "Yrefy" plane's 2020 charter listing does not market Wi-Fi as an amenity
+**C-7371** The "Yrefy" plane's 2020 charter listing does not market Wi-Fi as an amenity
 
 Claim Timestamp: 00:24:50
 
@@ -937,7 +936,7 @@ Investigative Direction: Obtain current charter operator records to verify wheth
 
 ---
 
-**C-2556** Andrew Kolvet Says Charlie Kirk Was Not Super Pleased About a Booking the Day Before September 10
+**C-7377** Andrew Kolvet Says Charlie Kirk Was Not Super Pleased About a Booking the Day Before September 10
 
 Claim Timestamp: 00:31:34
 
@@ -952,7 +951,7 @@ Investigative Direction: Verify the specific guest booked for September 9 interv
 
 ---
 
-**C-2557** Host Says Erika Named the Yrefy Plane, Which She Believes Kolvet Took From Santa Barbara to Scottsdale
+**C-7387** Host Says Erika Named the Yrefy Plane, Which She Believes Kolvet Took From Santa Barbara to Scottsdale
 
 Claim Timestamp: 00:38:35
 
@@ -969,7 +968,7 @@ Investigative Direction: Verify whether "Yrefy" is a transcript rendering of a s
 
 ---
 
-**C-2558** Baron Coleman clip characterizes TPUSA's selective-response strategy as "Gish gallop" and bad-faith debating
+**C-7344** Baron Coleman clip characterizes TPUSA's selective-response strategy as "Gish gallop" and bad-faith debating
 
 Claim Timestamp: 00:03:02
 
@@ -986,7 +985,7 @@ Investigative Direction: Verify the Baron Coleman clip is preserved as a discret
 
 ---
 
-**C-2559** Host Says Marina Told Aubrey Andrew Was Unavailable and to Write the Statement
+**C-7367** Host Says Marina Told Aubrey Andrew Was Unavailable and to Write the Statement
 
 Claim Timestamp: 00:22:50
 
@@ -1001,7 +1000,7 @@ Investigative Direction: Obtain the full text thread; identify timestamp when TP
 
 ---
 
-**C-8505** Host says the released audio claimed to be Erika Kirk was not Erika and its releaser was wrong
+**C-7345** Host says the released audio claimed to be Erika Kirk was not Erika and its releaser was wrong
 
 Claim Timestamp: 00:04:41
 
@@ -1016,7 +1015,7 @@ Investigative Direction: Identify the released audio clip, who first posted it a
 
 ---
 
-**C-8506** Coleman clip says Erika's side answered only the Alo jumpsuit question
+**C-7346** Coleman clip says Erika's side answered only the Alo jumpsuit question
 
 Claim Timestamp: 00:05:47
 
@@ -1032,7 +1031,7 @@ Investigative Direction: Locate the Alo jumpsuit exchange and any TPUSA or Erika
 
 ---
 
-**C-8507** Coleman says he did three shows alleging a Santa Barbara departure before the shooting and got silence
+**C-7347** Coleman says he did three shows alleging a Santa Barbara departure before the shooting and got silence
 
 Claim Timestamp: 00:06:26
 
@@ -1048,7 +1047,7 @@ Investigative Direction: Review Coleman's three shows and check whether TPUSA, A
 
 ---
 
-**C-8508** Host says she cannot reveal how she got the Hopkinson information
+**C-7348** Host says she cannot reveal how she got the Hopkinson information
 
 Claim Timestamp: 00:07:15
 
@@ -1064,7 +1063,7 @@ Investigative Direction: Because the source is withheld, corroborate through ind
 
 ---
 
-**C-8509** Host says no one has come forward to say they saw Erika on 9/10
+**C-7349** Host says no one has come forward to say they saw Erika on 9/10
 
 Claim Timestamp: 00:07:15
 
@@ -1080,7 +1079,7 @@ Investigative Direction: Canvass for witnesses, CCTV and phone records at each l
 
 ---
 
-**C-8510** Host says there were no witnesses to Erika's alleged collapse in a parking lot
+**C-7350** Host says there were no witnesses to Erika's alleged collapse in a parking lot
 
 Claim Timestamp: 00:07:56
 
@@ -1096,7 +1095,7 @@ Investigative Direction: Identify the clinic or hospital and parking lot, reques
 
 ---
 
-**C-8511** Host says Erika raced to the airport with an entourage including a priest and no one saw it
+**C-7351** Host says Erika raced to the airport with an entourage including a priest and no one saw it
 
 Claim Timestamp: 00:08:49
 
@@ -1112,7 +1111,7 @@ Investigative Direction: Identify the priest and entourage members and obtain te
 
 ---
 
-**C-8512** Host says Erika and Elizabeth McCoy confirmed Erika got the news right before flying to Provo
+**C-7353** Host says Erika and Elizabeth McCoy confirmed Erika got the news right before flying to Provo
 
 Claim Timestamp: 00:09:34
 
@@ -1128,7 +1127,7 @@ Investigative Direction: Locate Elizabeth McCoy's post and the date and wording 
 
 ---
 
-**C-8513** Host says Hopkinson Aircrafts is a luxury aircraft brokerage with locations in Canada and Scottsdale
+**C-7354** Host says Hopkinson Aircrafts is a luxury aircraft brokerage with locations in Canada and Scottsdale
 
 Claim Timestamp: 00:10:33
 
@@ -1144,7 +1143,7 @@ Investigative Direction: Check Hopkinson's business registration, Arizona and Ca
 
 ---
 
-**C-8514** Host says the Hopkinson address is shared with Atlantic Aviation and Ross Aviation
+**C-7355** Host says the Hopkinson address is shared with Atlantic Aviation and Ross Aviation
 
 Claim Timestamp: 00:11:21
 
@@ -1160,7 +1159,7 @@ Investigative Direction: Verify the tenants and building footprints at 14600 N A
 
 ---
 
-**C-8515** Host says Erika said "I effing knew it" when Charlie was shot
+**C-7357** Host says Erika said "I effing knew it" when Charlie was shot
 
 Claim Timestamp: 00:13:52
 
@@ -1176,7 +1175,7 @@ Investigative Direction: Identify where and to whom Erika Kirk said this and whe
 
 ---
 
-**C-8516** Host says she believes Andrew Kolvet took two flights on 9/10, neither the 3:19 p.m. flight
+**C-7358** Host says she believes Andrew Kolvet took two flights on 9/10, neither the 3:19 p.m. flight
 
 Claim Timestamp: 00:17:13
 
@@ -1192,7 +1191,7 @@ Investigative Direction: Obtain FAA/ADSB records for Santa Barbara and Scottsdal
 
 ---
 
-**C-8517** Host says Andrew never claimed to be on tail N8724A and that Erika made that claim to her face
+**C-7359** Host says Andrew never claimed to be on tail N8724A and that Erika made that claim to her face
 
 Claim Timestamp: 00:18:07
 
@@ -1208,7 +1207,7 @@ Investigative Direction: Compare Erika Kirk's account to the host with any on-re
 
 ---
 
-**C-8518** Host says Andrew described his plane as massive, which does not fit a Hawker Beechcraft
+**C-7360** Host says Andrew described his plane as massive, which does not fit a Hawker Beechcraft
 
 Claim Timestamp: 00:18:07
 
@@ -1224,7 +1223,7 @@ Investigative Direction: Find Kolvet's public statement describing a massive pla
 
 ---
 
-**C-8519** Host says Justin told Aubrey it was up to Andrew whether to confirm the death email
+**C-7362** Host says Justin told Aubrey it was up to Andrew whether to confirm the death email
 
 Claim Timestamp: 00:19:39
 
@@ -1240,7 +1239,7 @@ Investigative Direction: Obtain the full Aubrey/Justin thread with carrier times
 
 ---
 
-**C-8520** Host says Andrew's later message said his internet came back on, not that he was on a plane
+**C-7364** Host says Andrew's later message said his internet came back on, not that he was on a plane
 
 Claim Timestamp: 00:20:35
 
@@ -1256,7 +1255,7 @@ Investigative Direction: Obtain the original message with its timestamp and comp
 
 ---
 
-**C-8521** Host says Andrew answered Aubrey on a separate Telegram channel before going dark, narrowing the blackout to 1:47
+**C-7366** Host says Andrew answered Aubrey on a separate Telegram channel before going dark, narrowing the blackout to 1:47
 
 Claim Timestamp: 00:22:10
 
@@ -1267,13 +1266,13 @@ Transcript Snippet: we learned that he did answer Aubrey um, on a separate Teleg
 Anchored Artifacts: A-2939.1
 Mentions: N-3, N-14, N-551, N-690
 Related Nodes: N-10554
-Revises: C-2533
+Revises: C-7296
 Tags: relevance:core
 Investigative Direction: Obtain the Telegram messages and call log between Aubrey and Andrew Kolvet for the afternoon of September 10, 2025.
 
 ---
 
-**C-8522** Host says planes begin receiving all messages at once when low enough to land
+**C-7368** Host says planes begin receiving all messages at once when low enough to land
 
 Claim Timestamp: 00:23:03
 
@@ -1289,7 +1288,7 @@ Investigative Direction: Test with an aviation connectivity expert whether messa
 
 ---
 
-**C-8523** Host says Andrew took two flights that day and neither had Wi-Fi
+**C-7370** Host says Andrew took two flights that day and neither had Wi-Fi
 
 Claim Timestamp: 00:24:05
 
@@ -1305,7 +1304,7 @@ Investigative Direction: Establish the tail numbers and Wi-Fi equipment of each 
 
 ---
 
-**C-8524** Host says Charlie's G5 is Wi-Fi capable but she doubts he used it
+**C-7372** Host says Charlie's G5 is Wi-Fi capable but she doubts he used it
 
 Claim Timestamp: 00:25:37
 
@@ -1321,7 +1320,7 @@ Investigative Direction: Ask the aircraft owner or operator whether the G5 had a
 
 ---
 
-**C-8525** Host gives cost figures for jet Wi-Fi and says two billionaire owners she knows do not use it
+**C-7373** Host gives cost figures for jet Wi-Fi and says two billionaire owners she knows do not use it
 
 Claim Timestamp: 00:25:37
 
@@ -1337,7 +1336,7 @@ Investigative Direction: Check published price ranges for business-jet satellite
 
 ---
 
-**C-8526** Host asks anyone who flew with Charlie on that plane to email the show
+**C-7374** Host asks anyone who flew with Charlie on that plane to email the show
 
 Claim Timestamp: 00:25:37
 
@@ -1353,7 +1352,7 @@ Investigative Direction: Review the tips inbox for responses from past passenger
 
 ---
 
-**C-8527** Host says the interview Charlie resented the day before was with Ben Shapiro
+**C-7375** Host says the interview Charlie resented the day before was with Ben Shapiro
 
 Claim Timestamp: 00:30:36
 
@@ -1364,13 +1363,13 @@ Transcript Snippet: He's going to effectively admit that Charlie couldn't stand 
 Anchored Artifacts: A-1890.1
 Mentions: N-3, N-1, N-14, N-97
 Related Nodes: N-10556
-Supports: C-2556
+Supports: C-7377
 Tags: relevance:core
 Investigative Direction: Identify the guest interviewed on September 9, 2025 and confirm from the show archive whether it was Ben Shapiro.
 
 ---
 
-**C-8528** Kolvet says there was a pre-record for hour two and Charlie texted him monogamy talking points
+**C-7378** Kolvet says there was a pre-record for hour two and Charlie texted him monogamy talking points
 
 Claim Timestamp: 00:31:34
 
@@ -1386,7 +1385,7 @@ Investigative Direction: Obtain Kolvet's text thread with Charlie Kirk for the m
 
 ---
 
-**C-8529** Kolvet says Charlie's texts came about 33 minutes before he was killed
+**C-7379** Kolvet says Charlie's texts came about 33 minutes before he was killed
 
 Claim Timestamp: 00:32:29
 
@@ -1402,7 +1401,7 @@ Investigative Direction: Compare message timestamps with the 12:23 p.m. shooting
 
 ---
 
-**C-8530** Host alleges Kolvet pretended to be live on the Charlie Kirk Show while at the White House
+**C-7380** Host alleges Kolvet pretended to be live on the Charlie Kirk Show while at the White House
 
 Claim Timestamp: 00:33:27
 
@@ -1418,7 +1417,7 @@ Investigative Direction: Obtain White House visitor logs and the broadcast file 
 
 ---
 
-**C-8531** Host says Nick Shirley later went viral over Somali day care fraud
+**C-7381** Host says Nick Shirley later went viral over Somali day care fraud
 
 Claim Timestamp: 00:34:19
 
@@ -1434,7 +1433,7 @@ Investigative Direction: Confirm Shirley's age and the date of the day care vide
 
 ---
 
-**C-8532** Host says she does not believe Shirley infiltrated a Rio gang in 48 hours
+**C-7383** Host says she does not believe Shirley infiltrated a Rio gang in 48 hours
 
 Claim Timestamp: 00:36:47
 
@@ -1450,7 +1449,7 @@ Investigative Direction: Review the Brazil favela footage, dates and any local r
 
 ---
 
-**C-8533** Host says Nick Shirley is an LDS Church member from Utah
+**C-7384** Host says Nick Shirley is an LDS Church member from Utah
 
 Claim Timestamp: 00:37:34
 
@@ -1466,7 +1465,7 @@ Investigative Direction: Confirm Shirley's home state and religious affiliation 
 
 ---
 
-**C-8534** Host says she asked Nick Shirley to confirm in writing that the 9/10 show was live
+**C-7385** Host says she asked Nick Shirley to confirm in writing that the 9/10 show was live
 
 Claim Timestamp: 00:38:12
 
@@ -1482,7 +1481,7 @@ Investigative Direction: Check whether Shirley responded publicly or privately a
 
 ---
 
-**C-8535** Host asks viewers to email moretips@candaceowens.com
+**C-7386** Host asks viewers to email moretips@candaceowens.com
 
 Claim Timestamp: 00:38:12
 
@@ -1498,7 +1497,7 @@ Investigative Direction: Review the tip line for responses about the September 1
 
 ---
 
-**C-8536** Host says she believes Erika flew with Tyler Bowyer and a second person says he was in Utah earlier
+**C-7388** Host says she believes Erika flew with Tyler Bowyer and a second person says he was in Utah earlier
 
 Claim Timestamp: 00:38:35
 
@@ -1514,7 +1513,7 @@ Investigative Direction: Obtain Bowyer's travel records and a first-person accou
 
 ---
 
-**C-8537** Host says the messages suggest Andrew flew alone on Charlie's plane
+**C-7390** Host says the messages suggest Andrew flew alone on Charlie's plane
 
 Claim Timestamp: 00:40:05
 
@@ -1530,7 +1529,7 @@ Investigative Direction: Obtain the manifest for Charlie Kirk's plane for Septem
 
 ---
 
-**C-8538** Host says the Santa Barbara plane landed in Provo at 4:36 p.m., too late for Andrew's account
+**C-7391** Host says the Santa Barbara plane landed in Provo at 4:36 p.m., too late for Andrew's account
 
 Claim Timestamp: 00:40:55
 
@@ -1546,7 +1545,7 @@ Investigative Direction: Pull ADSB arrival data for the Santa Barbara-to-Provo f
 
 ---
 
-**C-8539** Host recalls Andrew went to the hospital's front entrance and Erika to a private back door
+**C-7392** Host recalls Andrew went to the hospital's front entrance and Erika to a private back door
 
 Claim Timestamp: 00:41:39
 
@@ -1562,7 +1561,7 @@ Investigative Direction: Compare the sources of the host's entrance account with
 
 ---
 
-**C-8540** Host says Trump mocked Joe Kent over remarrying
+**C-7393** Host says Trump mocked Joe Kent over remarrying
 
 Claim Timestamp: 00:42:30
 
@@ -1578,7 +1577,7 @@ Investigative Direction: Locate the Trump remark and the date of Kent's remarria
 
 ---
 
-**C-8541** Host says Kent told Shellenberger his goal was to tell the truth even if called by the defense
+**C-7395** Host says Kent told Shellenberger his goal was to tell the truth even if called by the defense
 
 Claim Timestamp: 00:43:38
 
@@ -1594,7 +1593,7 @@ Investigative Direction: Obtain the full Shellenberger interview and compare Ken
 
 ---
 
-**C-8542** Neff and Kolvet say the murder weapon was owned by Tyler Robinson's family and has his DNA
+**C-7396** Neff and Kolvet say the murder weapon was owned by Tyler Robinson's family and has his DNA
 
 Claim Timestamp: 00:45:31
 
@@ -1610,7 +1609,7 @@ Investigative Direction: Obtain the lab reports on DNA, caliber and casings from
 
 ---
 
-**C-8543** Neff and Kolvet say Robinson's parents recognized the photo and helped him surrender
+**C-7397** Neff and Kolvet say Robinson's parents recognized the photo and helped him surrender
 
 Claim Timestamp: 00:45:31
 
@@ -1621,14 +1620,14 @@ Transcript Snippet: Tyler Robinson's parents see that photo and think, "That loo
 Anchored Artifacts: A-1893.1
 Mentions: N-159, N-14, N-40
 Related Nodes: N-11012
-Contradicts: C-6697
-Supports: C-1766
+Contradicts: C-3999
+Supports: C-3227
 Tags: relevance:core
 Investigative Direction: Obtain the sheriff's, family friend and parents' accounts of the surrender.
 
 ---
 
-**C-8544** Neff says digital confessions exist and the parents have never called the surrender a lie
+**C-7398** Neff says digital confessions exist and the parents have never called the surrender a lie
 
 Claim Timestamp: 00:46:13
 
@@ -1644,7 +1643,7 @@ Investigative Direction: Obtain the charging documents describing the digital me
 
 ---
 
-**C-8545** Kolvet Says More Evidence Will Be Presented at the May Evidentiary Hearing
+**C-7399** Kolvet Says More Evidence Will Be Presented at the May Evidentiary Hearing
 
 Claim Timestamp: 00:46:55
 
@@ -1660,7 +1659,7 @@ Investigative Direction: Compare the May hearing exhibits with what Neff describ
 
 ---
 
-**C-8546** Kolvet Says Officials Are Telling Journalists They Would Testify for the Defense
+**C-7400** Kolvet Says Officials Are Telling Journalists They Would Testify for the Defense
 
 Claim Timestamp: 00:46:55
 
@@ -1676,7 +1675,7 @@ Investigative Direction: Identify which officials have said this on the record a
 
 ---
 
-**C-8547** Host says Tyler Robinson has not been arraigned and the surrender tape was lost
+**C-7402** Host says Tyler Robinson has not been arraigned and the surrender tape was lost
 
 Claim Timestamp: 00:47:50
 
@@ -1687,13 +1686,13 @@ Transcript Snippet: He hasn't even been arraigned yet. He hasn't even pled guilt
 Anchored Artifacts: A-1893.1
 Mentions: N-3, N-40
 Related Nodes: N-11012
-Supports: C-6701, C-5289
+Supports: C-4003, C-4293
 Tags: relevance:core
 Investigative Direction: Check the court docket for arraignment status and request the surrender recording.
 
 ---
 
-**C-8548** Host says prosecutors cannot prove the rifle was fired and bomb dogs did not find it
+**C-7403** Host says prosecutors cannot prove the rifle was fired and bomb dogs did not find it
 
 Claim Timestamp: 00:47:50
 
@@ -1704,13 +1703,13 @@ Transcript Snippet: The part they're not telling you is that they cannot prove t
 Anchored Artifacts: A-1893.1
 Mentions: N-3, N-159, N-14, N-40
 Related Nodes: N-10621
-Supports: C-5280
+Supports: C-4284
 Tags: relevance:core
 Investigative Direction: Obtain the ATF and lab findings on whether the rifle was fired and the bomb dog search records.
 
 ---
 
-**C-8549** Host says the feds pointed rookie cops to the gun after the bomb dogs failed
+**C-7404** Host says the feds pointed rookie cops to the gun after the bomb dogs failed
 
 Claim Timestamp: 00:48:38
 
@@ -1721,13 +1720,13 @@ Transcript Snippet: He touched this gun that the feds then pointed to where the 
 Anchored Artifacts: 
 Mentions: N-3, N-40
 Related Nodes: N-10621, N-10360
-Supports: C-6831
+Supports: C-4549
 Tags: relevance:core
 Investigative Direction: Obtain the officers' reports on who found the rifle and what directions they were given.
 
 ---
 
-**C-8550** Host says Robinson tried and failed to get a prosecutor dropped
+**C-7405** Host says Robinson tried and failed to get a prosecutor dropped
 
 Claim Timestamp: 00:48:38
 
@@ -1743,7 +1742,7 @@ Investigative Direction: Check the docket for the motion to disqualify a prosecu
 
 ---
 
-**C-8551** Host says Erika told her in December she had no more evidence than the public, while Andrew now says there is a lot
+**C-7406** Host says Erika told her in December she had no more evidence than the public, while Andrew now says there is a lot
 
 Claim Timestamp: 00:52:41
 
@@ -1759,7 +1758,7 @@ Investigative Direction: Compare Erika Kirk's statements in the December meeting
 
 ---
 
-**C-8552** Viewer comment says Kent was deployed 11 times and lost his wife to an IED
+**C-7407** Viewer comment says Kent was deployed 11 times and lost his wife to an IED
 
 Claim Timestamp: 00:53:12
 
@@ -1770,13 +1769,13 @@ Transcript Snippet: She writes, "Imagine being called a coward after you've been
 Anchored Artifacts: A-2944.1
 Mentions: N-3, N-209
 Related Nodes: N-10546
-Supports: C-2497
+Supports: C-7159
 Tags: relevance:context
 Investigative Direction: Verify Kent's deployments and his wife's death from military records.
 
 ---
 
-**C-8553** Host invites Blake Neff to come on her show
+**C-7408** Host invites Blake Neff to come on her show
 
 Claim Timestamp: 00:54:26
 
@@ -1791,7 +1790,7 @@ Investigative Direction: Track whether Neff responds or appears.
 
 ---
 
-**C-8554** Host says Kash Patel stopped Joe Kent
+**C-7409** Host says Kash Patel stopped Joe Kent
 
 Claim Timestamp: 00:54:26
 
@@ -1802,13 +1801,13 @@ Transcript Snippet: at the very least that Kash Patel stopped Joe Kent.
 Anchored Artifacts: 
 Mentions: N-3, N-69, N-209
 Related Nodes: N-10355
-Supports: C-2525
+Supports: C-7247
 Tags: relevance:core
 Investigative Direction: Compare with Kent's own account of the NCTC investigation being halted.
 
 ---
 
-**C-8555** Host dates her meeting with Erika to December 15 and doubts new evidence has been found since
+**C-7410** Host dates her meeting with Erika to December 15 and doubts new evidence has been found since
 
 Claim Timestamp: 00:55:16
 
@@ -1824,7 +1823,7 @@ Investigative Direction: Document the date of the meeting and any evidence TPUSA
 
 ---
 
-**C-8556** Host says Charlie Kirk could not stand Ben Shapiro
+**C-7411** Host says Charlie Kirk could not stand Ben Shapiro
 
 Claim Timestamp: 00:58:07
 
@@ -1840,7 +1839,7 @@ Investigative Direction: Look for Charlie Kirk's public and private statements a
 
 ---
 
-**C-8557** Host says TPUSA was going to let Ben Shapiro take over
+**C-7412** Host says TPUSA was going to let Ben Shapiro take over
 
 Claim Timestamp: 00:58:07
 
@@ -1856,7 +1855,7 @@ Investigative Direction: Clarify which event or agreement the host means.
 
 ---
 
-**C-8558** Host says Pat Buchanan coined Israel's amen corner
+**C-7413** Host says Pat Buchanan coined Israel's amen corner
 
 Claim Timestamp: 00:58:49
 
@@ -1871,7 +1870,7 @@ Investigative Direction: Check the first appearance of the phrase in print.
 
 ---
 
-**C-8559** Viewer comment says a donor called Erika right after the shooting and chose her to replace Charlie
+**C-7414** Viewer comment says a donor called Erika right after the shooting and chose her to replace Charlie
 
 Claim Timestamp: 00:59:32
 
@@ -1886,7 +1885,7 @@ Investigative Direction: Find the original statement by a TPUSA spokesperson in 
 
 ---
 
-**C-8560** Host guesses the donor was Doug DeGroote
+**C-7415** Host guesses the donor was Doug DeGroote
 
 Claim Timestamp: 00:59:32
 
@@ -1901,7 +1900,7 @@ Investigative Direction: Check board and donor records and the call log for Erik
 
 ---
 
-**C-8561** Host says critics claim Joe Kent was trying to set up Erika
+**C-7416** Host says critics claim Joe Kent was trying to set up Erika
 
 Claim Timestamp: 01:00:42
 
@@ -1912,13 +1911,13 @@ Transcript Snippet: Which by the way makes me laugh even more when they suggest 
 Anchored Artifacts: 
 Mentions: N-3, N-209, N-2
 Related Nodes: N-10551
-Supports: C-2530
+Supports: C-7261
 Tags: relevance:context
 Investigative Direction: Document which critics made the claim.
 
 ---
 
-**C-8562** Host says the Zoom call, emojis and merch changed her view of Erika
+**C-7417** Host says the Zoom call, emojis and merch changed her view of Erika
 
 Claim Timestamp: 01:00:42
 
@@ -2053,7 +2052,7 @@ Artifact Families Introduced:
 - A-1893 (Blake Neff / Andrew Kolvet Response Bundle)
 - A-1894 (N40JD Plane Information Bundle)
 
-Claim Range: C-2544 – C-2559
+Claim Range: C-7352 – C-7367
 
 New Nodes Introduced:
 N-10553, N-10554, N-10555, N-10556, N-10557, N-10558, N-10559

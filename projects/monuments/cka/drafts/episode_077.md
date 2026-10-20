@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10e): N-887, N-11291, N-11292, N-11293
   - Tip-minted Nodes (reintro-ep077): N-600, N-10954, N-11194
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10e): C-11182–C-11234
+  - Claim Range: C-6900–C-6969
   - New Nodes Introduced: N-573, N-575, N-576, N-577, N-578, N-10525, N-10529
   - Reused Nodes Appearing: N-2, N-11, N-3, N-574, N-10530, N-10526, N-10527, N-10528, N-55, N-97, N-278, N-489, N-520, N-569, N-736, N-10000, N-10395, N-10401, N-10434, N-10501, N-10519, N-10524, N-10532, N-10922, N-10929, N-11104, N-11110, N-11165, N-11166, N-11171, N-11248
   - (see registers)
@@ -36,7 +36,6 @@
 ### Episode 77 Ledger Summary
 
 - Artifact Families Introduced: A-1822, A-1823, A-1824, A-1825, A-1826, A-1827, A-1828, A-1829, A-1830, A-1831, A-1832, A-1833, A-1834
-- Claim Range: C-2437–C-2452, C-3744
 - New Nodes Introduced (people): N-573, N-574, N-575, N-576, N-577, N-578
 - New Nodes Introduced (investigation targets): N-10525, N-10526, N-10527, N-10528, N-10529, N-10530
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
@@ -65,7 +64,7 @@ Video Timestamp: 00:04:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2437, N-2*
+*Related: C-6904, N-2*
 
 ---
 
@@ -79,7 +78,7 @@ Video Timestamp: 00:09:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2438, N-2, N-575*
+*Related: C-6919, N-2, N-575*
 
 ---
 
@@ -93,7 +92,7 @@ Video Timestamp: 00:11:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2439, C-2450, N-2, N-10527*
+*Related: C-6922, C-6926, N-2, N-10527*
 
 ---
 
@@ -107,7 +106,7 @@ Video Timestamp: 00:15:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2440, C-2451, N-2, N-10526*
+*Related: C-6928, C-6927, N-2, N-10526*
 
 **A-1825.2** Host on-air tip request asking New York real-estate professionals to confirm Erika's license and sales (verbal reference; no displayed artifact)
 
@@ -117,7 +116,7 @@ Video Timestamp: 00:15:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3744, N-2, N-10526*
+*Related: C-6929, N-2, N-10526*
 
 ---
 
@@ -131,7 +130,7 @@ Video Timestamp: 00:19:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2441, N-2*
+*Related: C-6932, N-2*
 
 ---
 
@@ -145,7 +144,7 @@ Video Timestamp: 00:20:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2442, N-573, N-10525*
+*Related: C-6935, N-573, N-10525*
 
 ---
 
@@ -159,7 +158,7 @@ Video Timestamp: 00:22:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2443, N-11*
+*Related: C-6937, N-11*
 
 ---
 
@@ -173,7 +172,7 @@ Video Timestamp: 00:29:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2444, C-2452, N-576, N-578, N-10529*
+*Related: C-6952, C-6953, N-576, N-578, N-10529*
 
 ---
 
@@ -187,7 +186,7 @@ Video Timestamp: 00:34:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2445, N-577, N-10529*
+*Related: C-6955, N-577, N-10529*
 
 ---
 
@@ -201,7 +200,7 @@ Video Timestamp: 00:34:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2446, N-576, N-577*
+*Related: C-6957, N-576, N-577*
 
 ---
 
@@ -215,7 +214,7 @@ Video Timestamp: 00:38:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2447, N-10529, N-11*
+*Related: C-6962, N-10529, N-11*
 
 ---
 
@@ -229,7 +228,7 @@ Video Timestamp: 00:26:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2448, N-10530*
+*Related: C-6946, N-10530*
 
 ---
 
@@ -243,7 +242,7 @@ Video Timestamp: 00:24:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2449, N-10528*
+*Related: C-6941, N-10528*
 
 ---
 
@@ -258,7 +257,7 @@ Video Timestamp: 00:41:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11228, N-3, N-2*
+*Related: C-6963, N-3, N-2*
 
 ---
 
@@ -271,7 +270,7 @@ Video Timestamp: 00:42:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11229, N-2, N-10929*
+*Related: C-6964, N-2, N-10929*
 
 ---
 
@@ -282,7 +281,7 @@ Video Timestamp: 00:44:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11230, N-3, N-1*
+*Related: C-6965, N-3, N-1*
 
 ---
 
@@ -297,7 +296,7 @@ Video Timestamp: 00:05:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11194, N-10532*
+*Related: C-6913, N-10532*
 
 ---
 
@@ -326,7 +325,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1827.1, C-2442, N-10525*
+*Related: A-1827.1, C-6935, N-10525*
 
 ---
 
@@ -352,7 +351,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1823.1, C-2438, N-574*
+*Related: A-1823.1, C-6919, N-574*
 
 ---
 
@@ -365,7 +364,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1829.1, A-1831.1, C-2446, C-2452, N-577, N-10529*
+*Related: A-1829.1, A-1831.1, C-6957, C-6953, N-577, N-10529*
 
 ---
 
@@ -378,7 +377,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1830.1, A-1831.1, C-2445, N-576*
+*Related: A-1830.1, A-1831.1, C-6955, N-576*
 
 ---
 
@@ -404,7 +403,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1827.1, C-2441, C-2442, N-2, N-573*
+*Related: A-1827.1, C-6932, C-6935, N-2, N-573*
 
 ---
 
@@ -417,7 +416,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1825.1, C-2440, C-2451, N-2*
+*Related: A-1825.1, C-6928, C-6927, N-2*
 
 ---
 
@@ -430,7 +429,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1824.1, C-2450, N-2*
+*Related: A-1824.1, C-6926, N-2*
 
 ---
 
@@ -443,7 +442,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1828.1, A-1834.1, C-2443, C-2449, N-11*
+*Related: A-1828.1, A-1834.1, C-6937, C-6941, N-11*
 
 ---
 
@@ -456,7 +455,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1829.1, A-1830.1, A-1832.1, C-2444, C-2445, C-2447, C-2452, N-576, N-577, N-578*
+*Related: A-1829.1, A-1830.1, A-1832.1, C-6952, C-6955, C-6962, C-6953, N-576, N-577, N-578*
 
 ---
 
@@ -469,7 +468,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1833.1, C-2448*
+*Related: A-1833.1, C-6946*
 
 ---
 
@@ -478,7 +477,7 @@ Investigative Pressure: Medium
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
 
-*Related: C-2443, C-2447, C-2448, C-2452*
+*Related: C-6937, C-6962, C-6946, C-6953*
 
 ---
 
@@ -486,7 +485,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 First named by the host at 00:03:16 in episode 77 (also 'Francis Rothschild'). Described by the host as co-founder of Wilhelmina Models.
 
-*Related: C-11185*
+*Related: C-6903*
 
 ---
 
@@ -495,7 +494,7 @@ First named by the host at 00:03:16 in episode 77 (also 'Francis Rothschild'). D
 Node Type: Organization
 Model agency the host says was co-founded by Fran Rothschild and where Faith Kates was first vice president of the women's division.
 
-*Related: C-11185*
+*Related: C-6903*
 
 ---
 
@@ -504,7 +503,7 @@ Model agency the host says was co-founded by Fran Rothschild and where Faith Kat
 Node Type: Topic
 White building near 68th Street between 2nd and 3rd Avenues, which eyewitnesses recall Erika Kirk as the contact for.
 
-*Related: C-11195*
+*Related: C-6914*
 
 ---
 
@@ -513,7 +512,7 @@ White building near 68th Street between 2nd and 3rd Avenues, which eyewitnesses 
 Node Type: Topic
 Real estate company the host says Alan Rothstein chaired.
 
-*Related: C-11199*
+*Related: C-6918*
 
 ---
 
@@ -521,7 +520,7 @@ Real estate company the host says Alan Rothstein chaired.
 
 Widow and TPUSA CEO; the host adds Next Model, real-estate, Romania and plate-money claims.
 
-*Related: C-11182, C-11188, C-11190, C-11191, C-11192, C-11193, C-11195, C-11196, C-11197, C-11198, C-11199, C-11201, C-11202, C-11203, C-11204, C-11205, C-11206, C-11207, C-11208, C-11209, C-11216, C-11226, C-11228, C-11229*
+*Related: C-6900, C-6907, C-6909, C-6910, C-6911, C-6912, C-6914, C-6915, C-6916, C-6917, C-6918, C-6921, C-6923, C-6924, C-6925, C-6930, C-6931, C-6933, C-6934, C-6936, C-6945, C-6960, C-6963, C-6964*
 
 ---
 
@@ -529,7 +528,7 @@ Widow and TPUSA CEO; the host adds Next Model, real-estate, Romania and plate-mo
 
 Host; speaks for herself.
 
-*Related: C-11182, C-11228, C-11230, C-11231*
+*Related: C-6900, C-6963, C-6965, C-6966*
 
 ---
 
@@ -537,7 +536,7 @@ Host; speaks for herself.
 
 Said by the host to have frequented Next Model Management's offices.
 
-*Related: C-11183, C-11185*
+*Related: C-6901, C-6903*
 
 ---
 
@@ -545,7 +544,7 @@ Said by the host to have frequented Next Model Management's offices.
 
 Host says Erika never addressed his claim that Charlie never blinked on Israel.
 
-*Related: C-11190*
+*Related: C-6909*
 
 ---
 
@@ -553,7 +552,7 @@ Host says Erika never addressed his claim that Charlie never blinked on Israel.
 
 Host says he appeared after Erika at AmFest and in Charlie's studio.
 
-*Related: C-11188, C-11189*
+*Related: C-6907, C-6908*
 
 ---
 
@@ -561,7 +560,7 @@ Host says he appeared after Erika at AmFest and in Charlie's studio.
 
 Host says Erika set up interviews with her.
 
-*Related: C-11191*
+*Related: C-6910*
 
 ---
 
@@ -569,7 +568,7 @@ Host says Erika set up interviews with her.
 
 Erika's mother; the host says she sits on the Super Feed board.
 
-*Related: C-11216*
+*Related: C-6945*
 
 ---
 
@@ -577,7 +576,7 @@ Erika's mother; the host says she sits on the Super Feed board.
 
 Host speculates on a Rothstein-Rothschild link.
 
-*Related: C-11200*
+*Related: C-6920*
 
 ---
 
@@ -585,7 +584,7 @@ Host speculates on a Rothstein-Rothschild link.
 
 Next Model Management co-founder and former Wilhelmina vice president, per the host.
 
-*Related: C-11183, C-11184, C-11185*
+*Related: C-6901, C-6902, C-6903*
 
 ---
 
@@ -593,7 +592,7 @@ Next Model Management co-founder and former Wilhelmina vice president, per the h
 
 Host relays what Next-circle sources said about her.
 
-*Related: C-11233, C-11234*
+*Related: C-6968, C-6969*
 
 ---
 
@@ -601,7 +600,7 @@ Host relays what Next-circle sources said about her.
 
 Named by the host at 00:23:16 as 'Dennis Brantsbay' in Romania when the military base was set up.
 
-*Related: C-11210*
+*Related: C-6938*
 
 ---
 
@@ -609,7 +608,7 @@ Named by the host at 00:23:16 as 'Dennis Brantsbay' in Romania when the military
 
 Organization at the center of headquarters, real-estate, DOGE and plate-fund claims.
 
-*Related: C-11186, C-11188, C-11214, C-11215, C-11217, C-11219, C-11226, C-11227, C-11228, C-11230*
+*Related: C-6905, C-6907, C-6943, C-6944, C-6947, C-6949, C-6960, C-6961, C-6963, C-6965*
 
 ---
 
@@ -617,7 +616,7 @@ Organization at the center of headquarters, real-estate, DOGE and plate-fund cla
 
 Existing topic reused for the 2010 Romania trip claim.
 
-*Related: C-11210*
+*Related: C-6938*
 
 ---
 
@@ -625,7 +624,7 @@ Existing topic reused for the 2010 Romania trip claim.
 
 Existing topic reused for the trafficking-hotbed claim.
 
-*Related: C-11215*
+*Related: C-6944*
 
 ---
 
@@ -633,7 +632,7 @@ Existing topic reused for the trafficking-hotbed claim.
 
 Existing topic reused for the DOGE claim.
 
-*Related: C-11218*
+*Related: C-6948*
 
 ---
 
@@ -641,7 +640,7 @@ Existing topic reused for the DOGE claim.
 
 Existing topic reused for license timing and Next-period claims.
 
-*Related: C-11196, C-11197, C-11198, C-11205*
+*Related: C-6915, C-6916, C-6917, C-6930*
 
 ---
 
@@ -649,7 +648,7 @@ Existing topic reused for license timing and Next-period claims.
 
 Existing topic reused for new Next claims.
 
-*Related: C-11182, C-11192, C-11193, C-11195*
+*Related: C-6900, C-6911, C-6912, C-6914*
 
 ---
 
@@ -657,7 +656,7 @@ Existing topic reused for new Next claims.
 
 Existing topic reused for Epstein-at-Next claim.
 
-*Related: C-11183*
+*Related: C-6901*
 
 ---
 
@@ -665,7 +664,7 @@ Existing topic reused for Epstein-at-Next claim.
 
 Existing topic reused for new Next claims.
 
-*Related: C-11183, C-11184, C-11193, C-11194, C-11233, C-11234*
+*Related: C-6901, C-6902, C-6912, C-6913, C-6968, C-6969*
 
 ---
 
@@ -673,7 +672,7 @@ Existing topic reused for new Next claims.
 
 Organization whose board the host says includes Lori Frantzve and Tyler Bowyer.
 
-*Related: C-11216*
+*Related: C-6945*
 
 ---
 
@@ -681,7 +680,7 @@ Organization whose board the host says includes Lori Frantzve and Tyler Bowyer.
 
 Existing topic reused for the viewer-comment claim.
 
-*Related: C-11229*
+*Related: C-6964*
 
 ---
 
@@ -689,7 +688,7 @@ Existing topic reused for the viewer-comment claim.
 
 Named by the Fox interviewer as holding an approved plate.
 
-*Related: C-11224*
+*Related: C-6958*
 
 ---
 
@@ -697,7 +696,7 @@ Named by the Fox interviewer as holding an approved plate.
 
 School of Erika's claimed Juris Master.
 
-*Related: C-11204, C-11205*
+*Related: C-6925, C-6930*
 
 ---
 
@@ -705,7 +704,7 @@ School of Erika's claimed Juris Master.
 
 Existing topic reused.
 
-*Related: C-11209*
+*Related: C-6936*
 
 ---
 
@@ -713,7 +712,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-11203, C-11206, C-11207*
+*Related: C-6924, C-6931, C-6933*
 
 ---
 
@@ -721,7 +720,7 @@ Existing topic reused.
 
 Existing topic reused for the bio claim.
 
-*Related: C-11203*
+*Related: C-6924*
 
 ---
 
@@ -729,7 +728,7 @@ Existing topic reused for the bio claim.
 
 Existing topic reused for the DOGE claim.
 
-*Related: C-11218*
+*Related: C-6948*
 
 ---
 
@@ -737,7 +736,7 @@ Existing topic reused for the DOGE claim.
 
 Existing topic reused.
 
-*Related: C-11194*
+*Related: C-6913*
 
 ---
 
@@ -745,13 +744,13 @@ Existing topic reused.
 
 Host's ASU Romanian studies claims.
 
-*Related: C-11211, C-11212, C-11213*
+*Related: C-6939, C-6940, C-6942*
 
 ---
 
 ## V. Claim Register
 
-**C-2437** Epstein Email Asserts Rothschild Representation
+**C-6904** Epstein Email Asserts Rothschild Representation
 
 Claim Timestamp: 00:03:20
 
@@ -765,7 +764,7 @@ Investigative Direction: Obtain full Epstein-to-Thiel email metadata and surroun
 
 ---
 
-**C-2438** Erika Kirk 2017 Instagram Post Thanks "Uncle Allan" Rothstein
+**C-6919** Erika Kirk 2017 Instagram Post Thanks "Uncle Allan" Rothstein
 
 Claim Timestamp: 00:09:32
 
@@ -779,7 +778,7 @@ Investigative Direction: Confirm the post via Instagram archives or third-party 
 
 ---
 
-**C-2439** Erika Kirk Real-Estate Bio Asserts Fiduciary Real-Estate Practice in NYC
+**C-6922** Erika Kirk Real-Estate Bio Asserts Fiduciary Real-Estate Practice in NYC
 
 Claim Timestamp: 00:11:25
 
@@ -794,7 +793,7 @@ Investigative Direction: Locate original bio on archived real-estate listings or
 
 ---
 
-**C-2440** Host Says She Found Relic of Erika Kirk's NY Real-Estate License
+**C-6928** Host Says She Found Relic of Erika Kirk's NY Real-Estate License
 
 Claim Timestamp: 00:15:31
 
@@ -809,7 +808,7 @@ Investigative Direction: Verify license against NY Department of State public li
 
 ---
 
-**C-3744** Host asks New York real-estate professionals for tips confirming Erika's license and sales
+**C-6929** Host asks New York real-estate professionals for tips confirming Erika's license and sales
 
 Claim Timestamp: 00:15:31
 
@@ -826,7 +825,7 @@ Investigative Direction: Log tips received through candaceowens.com against the 
 
 ---
 
-**C-2441** Erika Kirk American Race Audition Tape Describes Opening Romanian Orphanage with Marines
+**C-6932** Erika Kirk American Race Audition Tape Describes Opening Romanian Orphanage with Marines
 
 Claim Timestamp: 00:19:15
 
@@ -841,7 +840,7 @@ Investigative Direction: Locate the full audition tape for timestamp and surroun
 
 ---
 
-**C-2442** Larissa Email Describes Antonio Placement Center as Corrupt and Erika-Linked
+**C-6935** Larissa Email Describes Antonio Placement Center as Corrupt and Erika-Linked
 
 Claim Timestamp: 00:20:51
 
@@ -856,7 +855,7 @@ Investigative Direction: Verify Larissa's identity and adoption record; locate E
 
 ---
 
-**C-2443** Tyler Bowyer Social-Media Statement Attributes Romania 2010 Trip to Academic Study
+**C-6937** Tyler Bowyer Social-Media Statement Attributes Romania 2010 Trip to Academic Study
 
 Claim Timestamp: 00:23:00
 
@@ -871,7 +870,7 @@ Investigative Direction: Capture the full social-media exchange for context; ver
 
 ---
 
-**C-2444** Per Host, SB 1439 Proposes Charlie Kirk Memorial Specialty License Plate with Grassroots-Network Fund
+**C-6952** Per Host, SB 1439 Proposes Charlie Kirk Memorial Specialty License Plate with Grassroots-Network Fund
 
 Claim Timestamp: 00:30:50
 
@@ -886,7 +885,7 @@ Investigative Direction: Retrieve full SB 1439 text from Arizona Legislature arc
 
 ---
 
-**C-2445** Katie Hobbs Veto Letter Rejects SB 1439 as Inserting Politics into Non-Partisan Function
+**C-6955** Katie Hobbs Veto Letter Rejects SB 1439 as Inserting Politics into Non-Partisan Function
 
 Claim Timestamp: 00:33:10
 
@@ -901,7 +900,7 @@ Investigative Direction: Retrieve full veto letter and accompanying Arizona legi
 
 ---
 
-**C-2446** Jake Hoffman Fox News Appearance Denounces Veto as Partisan
+**C-6957** Jake Hoffman Fox News Appearance Denounces Veto as Partisan
 
 Claim Timestamp: 00:35:05
 
@@ -916,7 +915,7 @@ Investigative Direction: Obtain full Fox News clip with date; verify Hoffman's c
 
 ---
 
-**C-2447** Tyler Bowyer X Post Condemns SB 1439 Veto
+**C-6962** Tyler Bowyer X Post Condemns SB 1439 Veto
 
 Claim Timestamp: 00:38:23
 
@@ -931,7 +930,7 @@ Investigative Direction: Capture original X post URL and timestamp; verify wheth
 
 ---
 
-**C-2448** Host Says Super Feed Inc. Is Copyright Holder of Turning Point USA App
+**C-6946** Host Says Super Feed Inc. Is Copyright Holder of Turning Point USA App
 
 Claim Timestamp: 00:26:36
 
@@ -945,7 +944,7 @@ Investigative Direction: Obtain current app-store listing and EULA for Super Fee
 
 ---
 
-**C-2449** Arizona Announced as First US State to Open Trade Office in Romania
+**C-6941** Arizona Announced as First US State to Open Trade Office in Romania
 
 Claim Timestamp: 00:24:28
 
@@ -959,7 +958,7 @@ Investigative Direction: Locate original announcement source and date; identify 
 
 ---
 
-**C-2450** Host Rejects Specific Erika Kirk Bio Credentials as Unverifiable
+**C-6926** Host Rejects Specific Erika Kirk Bio Credentials as Unverifiable
 
 Claim Timestamp: 00:13:41
 
@@ -974,7 +973,7 @@ Investigative Direction: Obtain Erika Kirk's official ASU transcript via FERPA r
 
 ---
 
-**C-2451** Host Reports Inability to Verify NY Real-Estate License Through State Records
+**C-6927** Host Reports Inability to Verify NY Real-Estate License Through State Records
 
 Claim Timestamp: 00:14:38
 
@@ -989,7 +988,7 @@ Investigative Direction: Conduct direct NY Department of State licensee search b
 
 ---
 
-**C-2452** SB 1439 Recipient Description Matches Turning Point USA Characteristics
+**C-6953** SB 1439 Recipient Description Matches Turning Point USA Characteristics
 
 Claim Timestamp: 00:31:36
 
@@ -1004,7 +1003,7 @@ Investigative Direction: Retrieve full bill text; cross-reference fund descripto
 
 ---
 
-**C-11182** Host did not seek Erika's comment on this episode's follow-up
+**C-6900** Host did not seek Erika's comment on this episode's follow-up
 
 Claim Timestamp: 00:01:47
 
@@ -1020,7 +1019,7 @@ Investigative Direction: Retain the first Next Model inquiry email and any reply
 
 ---
 
-**C-11183** Epstein frequented Next Model Management's offices
+**C-6901** Epstein frequented Next Model Management's offices
 
 Claim Timestamp: 00:02:28
 
@@ -1036,7 +1035,7 @@ Investigative Direction: Obtain named eyewitnesses or visitor and email records 
 
 ---
 
-**C-11184** Faith Kates known for launching Eastern European models
+**C-6902** Faith Kates known for launching Eastern European models
 
 Claim Timestamp: 00:02:28
 
@@ -1047,13 +1046,13 @@ Transcript Snippet: She's actually known for having made the careers of various 
 Anchored Artifacts: 
 Mentions: N-569
 Related Nodes: N-10532
-Supports: C-10269
+Supports: C-6859
 Tags: relevance:core
 Investigative Direction: Check agency press and model-biography records for Kates's Eastern European signings and dates.
 
 ---
 
-**C-11185** Faith Kates was Wilhelmina VP before co-founding Next
+**C-6903** Faith Kates was Wilhelmina VP before co-founding Next
 
 Claim Timestamp: 00:03:16
 
@@ -1069,7 +1068,7 @@ Investigative Direction: Verify Kates's Wilhelmina title and dates and the Wilhe
 
 ---
 
-**C-11186** Host says Zionist donors were squeezing Charlie before his death
+**C-6905** Host says Zionist donors were squeezing Charlie before his death
 
 Claim Timestamp: 00:04:13
 
@@ -1085,7 +1084,7 @@ Investigative Direction: Identify the donors, dates and amounts withdrawn from T
 
 ---
 
-**C-11187** Host says Charlie said he was done with the pro-Israel cause
+**C-6906** Host says Charlie said he was done with the pro-Israel cause
 
 Claim Timestamp: 00:04:13
 
@@ -1100,7 +1099,7 @@ Investigative Direction: Locate the recorded or written statements, or witnesses
 
 ---
 
-**C-11188** Erika appeared before Ben Shapiro at AmFest
+**C-6907** Erika appeared before Ben Shapiro at AmFest
 
 Claim Timestamp: 00:04:13
 
@@ -1116,7 +1115,7 @@ Investigative Direction: Check the AmFest 2025 program and stage footage for spe
 
 ---
 
-**C-11189** Shapiro appeared in person in Charlie's studio after the murder
+**C-6908** Shapiro appeared in person in Charlie's studio after the murder
 
 Claim Timestamp: 00:04:13
 
@@ -1131,7 +1130,7 @@ Investigative Direction: Find the Charlie Kirk Show episode with Shapiro in the 
 
 ---
 
-**C-11190** Erika has not addressed Josh Hammer's claim Charlie never blinked on Israel
+**C-6909** Erika has not addressed Josh Hammer's claim Charlie never blinked on Israel
 
 Claim Timestamp: 00:05:00
 
@@ -1146,7 +1145,7 @@ Investigative Direction: Search Erika Kirk's public statements after Hammer's re
 
 ---
 
-**C-11191** Erika set up Bari Weiss interviews and pushed Shabbat Shalom
+**C-6910** Erika set up Bari Weiss interviews and pushed Shabbat Shalom
 
 Claim Timestamp: 00:05:11
 
@@ -1161,7 +1160,7 @@ Investigative Direction: Compile Erika's interview schedule and book-promotion a
 
 ---
 
-**C-11192** Erika has never claimed to have worked for a modeling agency
+**C-6911** Erika has never claimed to have worked for a modeling agency
 
 Claim Timestamp: 00:05:11
 
@@ -1177,7 +1176,7 @@ Investigative Direction: Review Erika's published bios and interviews for any me
 
 ---
 
-**C-11193** Eyewitnesses recall Erika taking real-estate meetings at Next
+**C-6912** Eyewitnesses recall Erika taking real-estate meetings at Next
 
 Claim Timestamp: 00:05:58
 
@@ -1188,13 +1187,13 @@ Transcript Snippet: they recall Erika because she was taking meetings at the off
 Anchored Artifacts: 
 Mentions: N-2
 Related Nodes: N-10519, N-10532
-Supports: C-10270
+Supports: C-6860
 Tags: relevance:core
 Investigative Direction: Obtain the eyewitnesses' names, dates and the apartments they associate with Erika; seek corroborating emails or leases.
 
 ---
 
-**C-11194** Source describes agencies packing young models into one apartment
+**C-6913** Source describes agencies packing young models into one apartment
 
 Claim Timestamp: 00:05:58
 
@@ -1210,7 +1209,7 @@ Investigative Direction: Cross-check against reporting and the class action on N
 
 ---
 
-**C-11195** Erika was the contact for a white building on the Upper East Side
+**C-6914** Erika was the contact for a white building on the Upper East Side
 
 Claim Timestamp: 00:07:13
 
@@ -1226,7 +1225,7 @@ Investigative Direction: Identify the building through the eyewitnesses and chec
 
 ---
 
-**C-11196** Host says Erika had no real estate license yet during the Next period
+**C-6915** Host says Erika had no real estate license yet during the Next period
 
 Claim Timestamp: 00:07:13
 
@@ -1242,7 +1241,7 @@ Investigative Direction: Pin down the dates of the Next-office recollections and
 
 ---
 
-**C-11197** Erika told people she was doing real estate deals with her family
+**C-6916** Erika told people she was doing real estate deals with her family
 
 Claim Timestamp: 00:08:22
 
@@ -1258,7 +1257,7 @@ Investigative Direction: Ask the people who heard this to identify the family an
 
 ---
 
-**C-11198** Erika lived with Nicole Rothstein, who works in real estate
+**C-6917** Erika lived with Nicole Rothstein, who works in real estate
 
 Claim Timestamp: 00:08:22
 
@@ -1274,7 +1273,7 @@ Investigative Direction: Confirm the shared residence and dates with leases or w
 
 ---
 
-**C-11199** Alan Rothstein chaired Win Haven Real Estate and Erika calls him uncle
+**C-6918** Alan Rothstein chaired Win Haven Real Estate and Erika calls him uncle
 
 Claim Timestamp: 00:08:22
 
@@ -1290,7 +1289,7 @@ Investigative Direction: Check New York corporate filings and Win Haven's own ma
 
 ---
 
-**C-11200** Host speculates the Rothsteins could connect to the Rothschilds
+**C-6920** Host speculates the Rothsteins could connect to the Rothschilds
 
 Claim Timestamp: 00:09:32
 
@@ -1305,7 +1304,7 @@ Investigative Direction: Genealogical records of the Rothstein family would conf
 
 ---
 
-**C-11201** Erika was auditioning for reality TV during her New York period
+**C-6921** Erika was auditioning for reality TV during her New York period
 
 Claim Timestamp: 00:10:37
 
@@ -1320,7 +1319,7 @@ Investigative Direction: Collect casting and audition records and dates for The 
 
 ---
 
-**C-11202** Bio says Erika has developer-side New York real estate experience
+**C-6923** Bio says Erika has developer-side New York real estate experience
 
 Claim Timestamp: 00:11:25
 
@@ -1336,7 +1335,7 @@ Investigative Direction: Identify any developer employer or project Erika worked
 
 ---
 
-**C-11203** Bio says Everyday Heroes partners with the Marines and operates in Constanta
+**C-6924** Bio says Everyday Heroes partners with the Marines and operates in Constanta
 
 Claim Timestamp: 00:12:36
 
@@ -1352,7 +1351,7 @@ Investigative Direction: Pull IRS Form 990s and any USMC acknowledgment for Ever
 
 ---
 
-**C-11204** Bio lists NCAA basketball, Miss Arizona USA 2012 and a Liberty Juris Master
+**C-6925** Bio lists NCAA basketball, Miss Arizona USA 2012 and a Liberty Juris Master
 
 Claim Timestamp: 00:12:36
 
@@ -1368,7 +1367,7 @@ Investigative Direction: Check pageant and NCAA rosters and request Liberty enro
 
 ---
 
-**C-11205** Host lists Erika's simultaneous commitments in New York
+**C-6930** Host lists Erika's simultaneous commitments in New York
 
 Claim Timestamp: 00:16:52
 
@@ -1384,7 +1383,7 @@ Investigative Direction: Build a dated timeline of each activity from licensing,
 
 ---
 
-**C-11206** Host says Erika now presents Romania as just sending gifts
+**C-6931** Host says Erika now presents Romania as just sending gifts
 
 Claim Timestamp: 00:17:40
 
@@ -1400,7 +1399,7 @@ Investigative Direction: Find Erika's own recent statements describing Romanian 
 
 ---
 
-**C-11207** Host says Romanian Angels lived at the Antonio Placement Center near the base
+**C-6933** Host says Romanian Angels lived at the Antonio Placement Center near the base
 
 Claim Timestamp: 00:20:02
 
@@ -1416,7 +1415,7 @@ Investigative Direction: Establish which US base the host means and whether Roma
 
 ---
 
-**C-11208** Larissa email concedes fact-checkers found no link to illicit activity
+**C-6934** Larissa email concedes fact-checkers found no link to illicit activity
 
 Claim Timestamp: 00:20:02
 
@@ -1432,7 +1431,7 @@ Investigative Direction: Identify which fact-checks the writer means and what th
 
 ---
 
-**C-11209** Tyler Bowyer introduced Erika to Charlie but she cannot recall how they met
+**C-6936** Tyler Bowyer introduced Erika to Charlie but she cannot recall how they met
 
 Claim Timestamp: 00:22:28
 
@@ -1448,7 +1447,7 @@ Investigative Direction: Collect each of Erika's and Bowyer's accounts of the fi
 
 ---
 
-**C-11210** Host links Bowyer's 2010 Romania trip to the base setup and Dennis Frantzve
+**C-6938** Host links Bowyer's 2010 Romania trip to the base setup and Dennis Frantzve
 
 Claim Timestamp: 00:23:16
 
@@ -1464,7 +1463,7 @@ Investigative Direction: Establish the dates of the base setup, Frantzve's Roman
 
 ---
 
-**C-11211** ASU is the only US university offering a minor in Romanian studies
+**C-6939** ASU is the only US university offering a minor in Romanian studies
 
 Claim Timestamp: 00:23:16
 
@@ -1480,7 +1479,7 @@ Investigative Direction: Check ASU's catalog and other US universities' Romanian
 
 ---
 
-**C-11212** Honorary Romanian consulate established at ASU in 2010, lectorate in 2011
+**C-6940** Honorary Romanian consulate established at ASU in 2010, lectorate in 2011
 
 Claim Timestamp: 00:23:16
 
@@ -1496,7 +1495,7 @@ Investigative Direction: Verify the consulate's founding date and location and t
 
 ---
 
-**C-11213** Romanian language institute funded the ASU lectorate and a collaborative launched
+**C-6942** Romanian language institute funded the ASU lectorate and a collaborative launched
 
 Claim Timestamp: 00:24:28
 
@@ -1512,7 +1511,7 @@ Investigative Direction: Find the funding body (host does not name it) and the c
 
 ---
 
-**C-11214** Host says Bowyer picked TPUSA's headquarters location
+**C-6943** Host says Bowyer picked TPUSA's headquarters location
 
 Claim Timestamp: 00:25:26
 
@@ -1528,7 +1527,7 @@ Investigative Direction: Find lease, site-selection and board records showing wh
 
 ---
 
-**C-11215** Host says TPUSA chose a campus site that is a trafficking hotbed
+**C-6944** Host says TPUSA chose a campus site that is a trafficking hotbed
 
 Claim Timestamp: 00:25:26
 
@@ -1544,7 +1543,7 @@ Investigative Direction: Identify the campus location meant and the trafficking 
 
 ---
 
-**C-11216** Erika's mother sits on the Super Feed board with Tyler Bowyer
+**C-6945** Erika's mother sits on the Super Feed board with Tyler Bowyer
 
 Claim Timestamp: 00:25:26
 
@@ -1560,7 +1559,7 @@ Investigative Direction: Pull Super Feed's Arizona Corporation Commission filing
 
 ---
 
-**C-11217** Host says tips say TPUSA is moving into real estate with Bowyer leading
+**C-6947** Host says tips say TPUSA is moving into real estate with Bowyer leading
 
 Claim Timestamp: 00:26:36
 
@@ -1571,13 +1570,13 @@ Transcript Snippet: Turning Point allegedly getting into real estate Tyler Bowye
 Anchored Artifacts: 
 Mentions: N-11
 Related Nodes: N-10000
-Supports: C-8214
+Supports: C-4823
 Tags: relevance:core
 Investigative Direction: Look for TPUSA or affiliated entity property purchases, LLC filings or real-estate program announcements and Bowyer's role.
 
 ---
 
-**C-11218** Host says Charlie set up a DOGE 7 days before he died
+**C-6948** Host says Charlie set up a DOGE 7 days before he died
 
 Claim Timestamp: 00:26:36
 
@@ -1588,13 +1587,13 @@ Transcript Snippet: Charlie establishing a doge 7 days before he died
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-11171, N-10434
-Supports: C-5092
+Supports: C-3541
 Tags: relevance:core
 Investigative Direction: Obtain the memo or message creating the internal audit or DOGE effort and its date.
 
 ---
 
-**C-11219** Jake Hoffman is a friend and partner of Bowyer and a former TPUSA employee
+**C-6949** Jake Hoffman is a friend and partner of Bowyer and a former TPUSA employee
 
 Claim Timestamp: 00:29:37
 
@@ -1610,7 +1609,7 @@ Investigative Direction: Check business filings showing shared entities between 
 
 ---
 
-**C-11220** Jake Hoffman Introduced the Plate Bill on January 28
+**C-6950** Jake Hoffman Introduced the Plate Bill on January 28
 
 Claim Timestamp: 00:30:42
 
@@ -1626,7 +1625,7 @@ Investigative Direction: Confirm the introduction date and sponsors on the Arizo
 
 ---
 
-**C-11221** Proposed plate would carry the words 'for Charlie'
+**C-6951** Proposed plate would carry the words 'for Charlie'
 
 Claim Timestamp: 00:30:42
 
@@ -1642,7 +1641,7 @@ Investigative Direction: Retrieve the plate design submitted with the bill.
 
 ---
 
-**C-11222** SB 1439 passed the Senate and the House 31 to 23
+**C-6954** SB 1439 passed the Senate and the House 31 to 23
 
 Claim Timestamp: 00:31:36
 
@@ -1658,7 +1657,7 @@ Investigative Direction: Check roll-call votes for SB 1439 on the Arizona Legisl
 
 ---
 
-**C-11223** Hoffman says the memorial filled two sports stadiums
+**C-6956** Hoffman says the memorial filled two sports stadiums
 
 Claim Timestamp: 00:34:00
 
@@ -1674,7 +1673,7 @@ Investigative Direction: Check attendance reports for State Farm Stadium and the
 
 ---
 
-**C-11224** Fox host notes other conservative plates, including Choose Life and ADF, are approved
+**C-6958** Fox host notes other conservative plates, including Choose Life and ADF, are approved
 
 Claim Timestamp: 00:35:23
 
@@ -1690,7 +1689,7 @@ Investigative Direction: Check the Arizona MVD specialty plate list for those pl
 
 ---
 
-**C-11225** Hoffman says Hobbs used the committee acronym as her veto reason
+**C-6959** Hoffman says Hobbs used the committee acronym as her veto reason
 
 Claim Timestamp: 00:35:23
 
@@ -1706,7 +1705,7 @@ Investigative Direction: Check Hobbs's veto letters from 2025 for the cited bill
 
 ---
 
-**C-11226** Host says plate money would go to Erika's organization
+**C-6960** Host says plate money would go to Erika's organization
 
 Claim Timestamp: 00:36:30
 
@@ -1722,7 +1721,7 @@ Investigative Direction: Determine the intended fund recipient from the bill's f
 
 ---
 
-**C-11227** Host says TPUSA took down Charlie's episodes and hid interviews
+**C-6961** Host says TPUSA took down Charlie's episodes and hid interviews
 
 Claim Timestamp: 00:37:32
 
@@ -1738,7 +1737,7 @@ Investigative Direction: Compare the Charlie Kirk Show archive on YouTube and po
 
 ---
 
-**C-11228** Host says she has offered TPUSA a sit-down
+**C-6963** Host says she has offered TPUSA a sit-down
 
 Claim Timestamp: 00:41:25
 
@@ -1754,7 +1753,7 @@ Investigative Direction: Find the dated public or private invitations and any TP
 
 ---
 
-**C-11229** Viewer comment says Erika sits on the Air Force Academy board
+**C-6964** Viewer comment says Erika sits on the Air Force Academy board
 
 Claim Timestamp: 00:42:24
 
@@ -1765,13 +1764,13 @@ Transcript Snippet: being on the board of the US Air Force Academy sounds like t
 Anchored Artifacts: A-3121.2
 Mentions: N-2, N-1
 Related Nodes: N-10929
-Supports: C-10227
+Supports: C-6810
 Tags: relevance:context
 Investigative Direction: Check the Air Force Academy Board of Visitors roster and the White House appointment announcement.
 
 ---
 
-**C-11230** Host recalls a Hawaii Turning Point event with Charlie
+**C-6965** Host recalls a Hawaii Turning Point event with Charlie
 
 Claim Timestamp: 00:44:21
 
@@ -1787,7 +1786,7 @@ Investigative Direction: Find the Hawaii Turning Point event date and video.
 
 ---
 
-**C-11231** Host says she and Charlie disagreed on some topics but converged on Zionism
+**C-6966** Host says she and Charlie disagreed on some topics but converged on Zionism
 
 Claim Timestamp: 00:44:21
 
@@ -1802,7 +1801,7 @@ Investigative Direction: Look for dated public or private statements by Kirk on 
 
 ---
 
-**C-11232** Host says Charlie was sick of being bullied
+**C-6967** Host says Charlie was sick of being bullied
 
 Claim Timestamp: 00:45:11
 
@@ -1817,7 +1816,7 @@ Investigative Direction: Identify the specific statements by Kirk and who he sai
 
 ---
 
-**C-11233** Host says Next-circle sources liked Melania and doubted she wanted to be First Lady
+**C-6968** Host says Next-circle sources liked Melania and doubted she wanted to be First Lady
 
 Claim Timestamp: 00:46:05
 
@@ -1833,7 +1832,7 @@ Investigative Direction: Identify the sources and their relationship to Melania 
 
 ---
 
-**C-11234** Host says Melania was in Next's orbit though not managed by Next
+**C-6969** Host says Melania was in Next's orbit though not managed by Next
 
 Claim Timestamp: 00:46:05
 
@@ -1858,7 +1857,7 @@ Investigative Direction: Review Melania Trump's modeling agency records for any 
 Video Timestamp: 00:15:31
 Speaker: N-3
 Quote: Please, uh we'd like to hear from you. More tips at candaceowens. com.
-Context: DIA tip-line call: host asks viewers for tips on Erika's NY real-estate license (C-3744, A-1825.2).
+Context: DIA tip-line call: host asks viewers for tips on Erika's NY real-estate license (C-6929, A-1825.2).
 Tags: tips_network, dia_tip_line, transcript_backfill
 Confidence: high
 
@@ -1945,7 +1944,7 @@ Confidence: high
 - **Name uncertainty:** Transcript shows "Fran Rothschild" and "Francis Rothschild" referring to Wilhelmina Models co-founder; preserved as appearing.
 - **Possible transcription error:** "Ty Bowyer," "Tyler Borier," "Tyler Bowyer" – standard spelling used in node references.
 - **Artifact verbally referenced but not shown:** A-1822.1, A-1831.1, A-1833.1, A-1834.1 – host references or quotes content without visible on-screen display in the cleaned transcript; treated as artifacts because host reads or directly describes their content.
-- **Requires human verification:** Claims of internal bill-text descriptors (C-2452) should be re-checked against full SB 1439 text rather than host paraphrase.
+- **Requires human verification:** Claims of internal bill-text descriptors (C-6953) should be re-checked against full SB 1439 text rather than host paraphrase.
 - **Claim failed admission test (recorded but excluded):** Host's interpretation that Fran Rothschild co-founding Wilhelmina Models is meaningfully connected to Epstein's Rothschild representation claim; treated as interpretive commentary rather than artifact-anchored claim.
 - **Claim failed admission test (recorded but excluded):** Host's inference that Erika's "real estate deals with family" referenced the Rothstein family rather than her Scottsdale family; treated as speculation.
 - **Claim failed admission test (recorded but excluded):** Host's assertion that Erika's bio fiduciary-relationship language signals money management; treated as interpretive commentary on A-1824.1.

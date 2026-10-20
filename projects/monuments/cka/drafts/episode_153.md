@@ -16,7 +16,7 @@
   - Tip-minted Nodes (reintro-ep153): N-11313
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Reused Nodes Appearing: N-18, N-22, N-49, N-60, N-125, N-154, N-155, N-203, N-261, N-330, N-420, N-460, N-506, N-752, N-833, N-834, N-10000, N-10012, N-10272, N-10311, N-10340, N-10344, N-10356, N-10421, N-10646, N-10840, N-10983, N-11009, N-11170, N-11264
-  - Claim Range (supplement_2026-10g): C-14979–C-15062
+  - Claim Range: C-13180–C-13291
  - New Nodes Introduced: N-10833, N-10834, N-10835, N-10836, N-10837, N-10838, N-10839
  - Reused Nodes Appearing: N-2, N-8
  - (see registers)
@@ -37,7 +37,7 @@
 **Episode 153 Ledger Summary**
 
 Artifact Families Introduced: A-2384, A-2385, A-2386, A-2387, A-2388, A-2389, A-2390, A-2391, A-2392
-Claim Range: C-3466–C-3492
+Claim Range: C-13181–C-13226
 New Nodes Introduced: N-10833, N-10834, N-10835, N-10836, N-10837, N-10838, N-10839
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens)
 
@@ -62,7 +62,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Extraction Timestamp: 2026-09-16
 Confidence Level: High (filing read on air)
 
-*Related: C-3466, C-3474, C-3475, C-3476, C-3477, C-3491, C-3492, N-10833, N-10835, N-10836*
+*Related: C-13181, C-13212, C-13213, C-13214, C-13215, C-13224, C-13226, N-10833, N-10835, N-10836*
 
 ---
 
@@ -77,7 +77,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Extraction Timestamp: 2026-09-16
 Confidence Level: High (article read on air)
 
-*Related: C-3467, C-3468, C-3489, N-? (Astrid Tuminez), N-? (UVU), N-10833*
+*Related: C-13186, C-13187, C-13190, N-? (Astrid Tuminez), N-? (UVU), N-10833*
 
 ---
 
@@ -92,7 +92,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Extraction Timestamp: 2026-09-16
 Confidence Level: High (clip played on air)
 
-*Related: C-3469, C-3470, N-? (Brian Harpole), N-? (Shawn Ryan), N-1*
+*Related: C-13194, C-13189, N-? (Brian Harpole), N-? (Shawn Ryan), N-1*
 
 ---
 
@@ -107,7 +107,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Extraction Timestamp: 2026-09-16
 Confidence Level: High (displayed on screen)
 
-*Related: C-3471, C-3472, C-3473, N-? (Dan Flood), N-? (Jeffrey Long), N-10835*
+*Related: C-13229, C-13235, C-13233, N-? (Dan Flood), N-? (Jeffrey Long), N-10835*
 
 ---
 
@@ -121,7 +121,7 @@ Video Timestamp: 00:29:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (image displayed)
 
-*Related: C-3471, N-? (Brian Harpole), N-? (Officer Bagley), N-? (Richard Bracie)*
+*Related: C-13229, N-? (Brian Harpole), N-? (Officer Bagley), N-? (Richard Bracie)*
 
 ---
 
@@ -136,7 +136,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Extraction Timestamp: 2026-09-16
 Confidence Level: High (clip played on air)
 
-*Related: C-3478, C-3479, C-3480, C-3483, C-3484, N-? (Tyler Robinson), N-10834, N-10837*
+*Related: C-13248, C-13250, C-13263, C-13259, C-13260, N-? (Tyler Robinson), N-10834, N-10837*
 
 **A-2389.2** Scripps News headline – "Scripps News obtains video of accused Charlie Kirk shooter after the 2022 car crash"
 
@@ -146,7 +146,7 @@ Video Timestamp: 00:48:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (headline shown)
 
-*Related: C-3480, N-10834, N-10837*
+*Related: C-13263, N-10834, N-10837*
 
 ---
 
@@ -160,7 +160,7 @@ Video Timestamp: 00:50:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read on air)
 
-*Related: C-3480, N-? (Tyler Robinson)*
+*Related: C-13263, N-? (Tyler Robinson)*
 
 ---
 
@@ -174,7 +174,7 @@ Video Timestamp: 00:48:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (bio info read on air)
 
-*Related: C-3481, C-3482, N-10834*
+*Related: C-13264, C-13265, N-10834*
 
 ---
 
@@ -188,7 +188,7 @@ Video Timestamp: 00:49:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (referenced but no primary source displayed)
 
-*Related: C-3485, C-3486, N-? (Nelda Buckman)*
+*Related: C-13217, C-13218, N-? (Nelda Buckman)*
 
 ---
 
@@ -203,7 +203,7 @@ Video Timestamp: 00:50:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-15044, N-3*
+*Related: C-13273, N-3*
 
 ---
 
@@ -218,7 +218,7 @@ Video Timestamp: 00:51:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-15045, N-3*
+*Related: C-13274, N-3*
 
 ---
 
@@ -231,7 +231,7 @@ Video Timestamp: 00:30:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15017, N-3*
+*Related: C-13238, N-3*
 
 ---
 
@@ -246,7 +246,7 @@ Claim Count: 5+
 Episode Count: 153
 Investigative Pressure: High
 
-*Related: A-2384.1, A-2385.1, A-2386.1, A-2387.1, A-2388.1, C-3466, C-3470, C-3490*
+*Related: A-2384.1, A-2385.1, A-2386.1, A-2387.1, A-2388.1, C-13181, C-13189, C-13210*
 
 ---
 
@@ -259,7 +259,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2384.1, A-2385.1, C-3466, C-3489, N-2, N-? (Jeffrey Long), N-? (Astrid Tuminez)*
+*Related: A-2384.1, A-2385.1, C-13181, C-13190, N-2, N-? (Jeffrey Long), N-? (Astrid Tuminez)*
 
 ---
 
@@ -272,7 +272,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2389.1, A-2389.2, A-2391.1, C-3478, C-3479, C-3480, C-3481, C-3482, C-3483, N-? (Tyler Robinson), N-? (Jim Spencer)*
+*Related: A-2389.1, A-2389.2, A-2391.1, C-13248, C-13250, C-13263, C-13264, C-13265, C-13259, N-? (Tyler Robinson), N-? (Jim Spencer)*
 
 ---
 
@@ -285,7 +285,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2384.1, A-2387.1, C-3471, C-3472, C-3473, N-? (Dan Flood), N-? (Jeffrey Long)*
+*Related: A-2384.1, A-2387.1, C-13229, C-13235, C-13233, N-? (Dan Flood), N-? (Jeffrey Long)*
 
 ---
 
@@ -298,7 +298,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2384.1, C-3474, C-3475, C-3476, C-3477, C-3485, C-3486*
+*Related: A-2384.1, C-13212, C-13213, C-13214, C-13215, C-13217, C-13218*
 
 ---
 
@@ -311,7 +311,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2389.1, C-3487, C-3488, N-? (Tyler Robinson)*
+*Related: A-2389.1, C-13204, C-13220, N-? (Tyler Robinson)*
 
 ---
 
@@ -324,7 +324,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2384.1, C-3492, C-3493, N-1*
+*Related: A-2384.1, C-13226, C-13241, N-1*
 
 ---
 
@@ -337,7 +337,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2385.1, C-3467, C-3489, N-? (Astrid Tuminez), N-10833*
+*Related: A-2385.1, C-13186, C-13190, N-? (Astrid Tuminez), N-10833*
 
 ---
 
@@ -346,7 +346,7 @@ Investigative Pressure: High
 Node Type: Person
 TPUSA senior field representative. The UVU independent review names her as directing the courtyard and fountain booking.
 
-*Related: C-3487*
+*Related: C-13204*
 
 ---
 
@@ -354,7 +354,7 @@ TPUSA senior field representative. The UVU independent review names her as direc
 
 Turning Point USA; subject of the notice and the PR-strike thesis.
 
-*Related: C-14979, C-14983, C-14984, C-14985, C-14988, C-14992, C-14993, C-14994, C-14995, C-15000, C-15002, C-15008, C-15009, C-15020, C-15023, C-15037*
+*Related: C-13180, C-13185, C-13188, C-13191, C-13195, C-13199, C-13200, C-13201, C-13202, C-13208, C-13211, C-13225, C-13227, C-13242, C-13245, C-13266*
 
 ---
 
@@ -362,7 +362,7 @@ Turning Point USA; subject of the notice and the PR-strike thesis.
 
 Utah Valley University; defendant in the notice.
 
-*Related: C-14990, C-14992, C-14993, C-14994, C-14995, C-14996, C-14997, C-15002, C-15005*
+*Related: C-13197, C-13199, C-13200, C-13201, C-13202, C-13203, C-13205, C-13211, C-13221*
 
 ---
 
@@ -370,7 +370,7 @@ Utah Valley University; defendant in the notice.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-15010*
+*Related: C-13228*
 
 ---
 
@@ -378,7 +378,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-15041*
+*Related: C-13270*
 
 ---
 
@@ -386,7 +386,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-15001*
+*Related: C-13209*
 
 ---
 
@@ -394,7 +394,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14988*
+*Related: C-13195*
 
 ---
 
@@ -402,7 +402,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-15010*
+*Related: C-13228*
 
 ---
 
@@ -410,7 +410,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-15037, C-15038, C-15039*
+*Related: C-13266, C-13267, C-13268*
 
 ---
 
@@ -418,7 +418,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14986, C-14987, C-14990, C-14991, C-14996, C-15002, C-15011, C-15012, C-15013, C-15014, C-15015, C-15016, C-15017, C-15018, C-15019*
+*Related: C-13192, C-13193, C-13197, C-13198, C-13203, C-13211, C-13230, C-13231, C-13232, C-13234, C-13236, C-13237, C-13238, C-13239, C-13240*
 
 ---
 
@@ -426,7 +426,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-15006, C-15007, C-15008, C-15021*
+*Related: C-13222, C-13223, C-13225, C-13243*
 
 ---
 
@@ -434,7 +434,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-15024, C-15025, C-15033, C-15040, C-15041, C-15042, C-15043*
+*Related: C-13246, C-13247, C-13257, C-13269, C-13270, C-13271, C-13272*
 
 ---
 
@@ -442,7 +442,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-15059, C-15060*
+*Related: C-13288, C-13289*
 
 ---
 
@@ -450,7 +450,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-15011, C-15012, C-15013*
+*Related: C-13230, C-13231, C-13232*
 
 ---
 
@@ -458,7 +458,7 @@ Existing topic reused for new claims in this episode.
 
 Existing organization reused for new claims in this episode.
 
-*Related: C-15060, C-15061*
+*Related: C-13289, C-13290*
 
 ---
 
@@ -466,7 +466,7 @@ Existing organization reused for new claims in this episode.
 
 Existing organization reused for new claims in this episode.
 
-*Related: C-14980, C-15051*
+*Related: C-13182, C-13280*
 
 ---
 
@@ -474,7 +474,7 @@ Existing organization reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-15052, C-15053, C-15054, C-15055*
+*Related: C-13281, C-13282, C-13283, C-13284*
 
 ---
 
@@ -482,7 +482,7 @@ Existing topic reused for new claims in this episode.
 
 Mike Mitchell; the host asks whether he mentored Robinson.
 
-*Related: C-15046*
+*Related: C-13275*
 
 ---
 
@@ -490,7 +490,7 @@ Mike Mitchell; the host asks whether he mentored Robinson.
 
 John Mappin; praised by the host as a loyal friend.
 
-*Related: C-15049, C-15050*
+*Related: C-13278, C-13279*
 
 ---
 
@@ -498,7 +498,7 @@ John Mappin; praised by the host as a loyal friend.
 
 Irina Mappin; named with John Mappin as a loyal friend.
 
-*Related: C-15049, C-15050*
+*Related: C-13278, C-13279*
 
 ---
 
@@ -506,7 +506,7 @@ Irina Mappin; named with John Mappin as a loyal friend.
 
 Andrew Wilson; the host says he missed the state's evidence.
 
-*Related: C-15054*
+*Related: C-13283*
 
 ---
 
@@ -514,7 +514,7 @@ Andrew Wilson; the host says he missed the state's evidence.
 
 Widow and TPUSA CEO; the host discusses her role in the wrongful death notice and her shifting stance on Israel.
 
-*Related: C-14981, C-14982, C-14996, C-15003, C-15010, C-15011, C-15012, C-15014, C-15015, C-15016, C-15018, C-15019, C-15023, C-15056, C-15057, C-15059, C-15060*
+*Related: C-13183, C-13184, C-13203, C-13216, C-13228, C-13230, C-13231, C-13234, C-13236, C-13237, C-13239, C-13240, C-13245, C-13285, C-13286, C-13288, C-13289*
 
 ---
 
@@ -522,7 +522,7 @@ Widow and TPUSA CEO; the host discusses her role in the wrongful death notice an
 
 Ana Kasparian; the host says she appeared on her show.
 
-*Related: C-15056*
+*Related: C-13285*
 
 ---
 
@@ -530,7 +530,7 @@ Ana Kasparian; the host says she appeared on her show.
 
 Tucker Carlson; the host recalls Erika at his house in May 2025.
 
-*Related: C-15010, C-15012, C-15059*
+*Related: C-13228, C-13231, C-13288*
 
 ---
 
@@ -538,7 +538,7 @@ Tucker Carlson; the host recalls Erika at his house in May 2025.
 
 Shawn Ryan; hosted Harpole's interview.
 
-*Related: C-15010, C-15012*
+*Related: C-13228, C-13231*
 
 ---
 
@@ -546,7 +546,7 @@ Shawn Ryan; hosted Harpole's interview.
 
 Terryl Farnsworth; the host's 'Tricky Terryl'.
 
-*Related: C-15057*
+*Related: C-13286*
 
 ---
 
@@ -554,7 +554,7 @@ Terryl Farnsworth; the host's 'Tricky Terryl'.
 
 Brian Harpole; the host says he misrepresented the Flood-Long thread.
 
-*Related: C-15010, C-15012, C-15014*
+*Related: C-13228, C-13231, C-13234*
 
 ---
 
@@ -562,7 +562,7 @@ Brian Harpole; the host says he misrepresented the Flood-Long thread.
 
 Dan Flood; sender of the roof access request and Erika's post-shooting security.
 
-*Related: C-15010, C-15011, C-15016, C-15023*
+*Related: C-13228, C-13230, C-13237, C-13245*
 
 ---
 
@@ -570,7 +570,7 @@ Dan Flood; sender of the roof access request and Erika's post-shooting security.
 
 Chief Jeff Long of UVU PD; recipient of the roof access text.
 
-*Related: C-14996, C-15003, C-15010, C-15011, C-15015, C-15018, C-15019*
+*Related: C-13203, C-13216, C-13228, C-13230, C-13236, C-13239, C-13240*
 
 ---
 
@@ -578,7 +578,7 @@ Chief Jeff Long of UVU PD; recipient of the roof access text.
 
 Host; speaks for herself.
 
-*Related: C-14979, C-14980, C-14981, C-14982, C-14983, C-14984, C-14985, C-14986, C-14987, C-14988, C-14989, C-14990, C-14991, C-14992, C-14993, C-14994, C-14995, C-14996, C-14997, C-14998, C-14999, C-15000, C-15001, C-15002, C-15003, C-15004, C-15005, C-15006, C-15007, C-15008, C-15009, C-15010, C-15011, C-15012, C-15013, C-15014, C-15015, C-15016, C-15017, C-15018, C-15019, C-15020, C-15021, C-15022, C-15023, C-15024, C-15025, C-15026, C-15027, C-15028, C-15029, C-15030, C-15031, C-15032, C-15033, C-15034, C-15035, C-15036, C-15037, C-15038, C-15039, C-15040, C-15041, C-15042, C-15043, C-15044, C-15045, C-15046, C-15047, C-15048, C-15049, C-15050, C-15051, C-15052, C-15053, C-15054, C-15055, C-15056, C-15057, C-15058, C-15059, C-15060, C-15061, C-15062*
+*Related: C-13180, C-13182, C-13183, C-13184, C-13185, C-13188, C-13191, C-13192, C-13193, C-13195, C-13196, C-13197, C-13198, C-13199, C-13200, C-13201, C-13202, C-13203, C-13205, C-13206, C-13207, C-13208, C-13209, C-13211, C-13216, C-13219, C-13221, C-13222, C-13223, C-13225, C-13227, C-13228, C-13230, C-13231, C-13232, C-13234, C-13236, C-13237, C-13238, C-13239, C-13240, C-13242, C-13243, C-13244, C-13245, C-13246, C-13247, C-13249, C-13251, C-13252, C-13253, C-13254, C-13255, C-13256, C-13257, C-13258, C-13261, C-13262, C-13266, C-13267, C-13268, C-13269, C-13270, C-13271, C-13272, C-13273, C-13274, C-13275, C-13276, C-13277, C-13278, C-13279, C-13280, C-13281, C-13282, C-13283, C-13284, C-13285, C-13286, C-13287, C-13288, C-13289, C-13290, C-13291*
 
 ---
 
@@ -586,7 +586,7 @@ Host; speaks for herself.
 
 Baron Coleman; will substitute-host the host's show.
 
-*Related: C-15052, C-15053, C-15054, C-15057*
+*Related: C-13281, C-13282, C-13283, C-13286*
 
 ---
 
@@ -594,7 +594,7 @@ Baron Coleman; will substitute-host the host's show.
 
 Tyler Robinson; subject of the 2022 bodycam footage discussion.
 
-*Related: C-15024, C-15025, C-15026, C-15030, C-15031, C-15034, C-15036, C-15041, C-15042, C-15043, C-15046*
+*Related: C-13246, C-13247, C-13249, C-13254, C-13255, C-13258, C-13262, C-13270, C-13271, C-13272, C-13275*
 
 ---
 
@@ -602,7 +602,7 @@ Tyler Robinson; subject of the 2022 bodycam footage discussion.
 
 Pope Leo XIV; named in the Vatican-China ad read.
 
-*Related: C-15022*
+*Related: C-13244*
 
 ---
 
@@ -610,7 +610,7 @@ Pope Leo XIV; named in the Vatican-China ad read.
 
 Nelda Buckman; TPUSA's top donor, UT Austin donor.
 
-*Related: C-15037, C-15038, C-15039, C-15040*
+*Related: C-13266, C-13267, C-13268, C-13269*
 
 ---
 
@@ -618,7 +618,7 @@ Nelda Buckman; TPUSA's top donor, UT Austin donor.
 
 Max Blumenthal; the host says he revealed the fellowship contract.
 
-*Related: C-15061*
+*Related: C-13290*
 
 ---
 
@@ -626,7 +626,7 @@ Max Blumenthal; the host says he revealed the fellowship contract.
 
 Officer Christopher Bagley; sent to monitor the rooftop.
 
-*Related: C-15015*
+*Related: C-13236*
 
 ---
 
@@ -634,7 +634,7 @@ Officer Christopher Bagley; sent to monitor the rooftop.
 
 Laura Loomer; named in a personal anecdote about footage.
 
-*Related: C-15028*
+*Related: C-13252*
 
 ---
 
@@ -642,7 +642,7 @@ Laura Loomer; named in a personal anecdote about footage.
 
 Astrid Tuminez; former UVU president who allegedly denied extra officers.
 
-*Related: C-15003, C-15004*
+*Related: C-13216, C-13219*
 
 ---
 
@@ -650,7 +650,7 @@ Astrid Tuminez; former UVU president who allegedly denied extra officers.
 
 Macklemore; mentioned in the Sheeran comment reply.
 
-*Related: C-15047*
+*Related: C-13276*
 
 ---
 
@@ -658,7 +658,7 @@ Macklemore; mentioned in the Sheeran comment reply.
 
 Ed Sheeran; mentioned in the comment reply.
 
-*Related: C-15047*
+*Related: C-13276*
 
 ---
 
@@ -666,7 +666,7 @@ Ed Sheeran; mentioned in the comment reply.
 
 First named by the host at 00:40:52 in episode 153 as the YouTuber who compared Robinson's finger posture across the two clips. The transcript spells him Costello, Castello, Cassell and Zack Costello.
 
-*Related: C-15024, C-15025*
+*Related: C-13246, C-13247*
 
 ---
 
@@ -674,7 +674,7 @@ First named by the host at 00:40:52 in episode 153 as the YouTuber who compared 
 
 First named by the host at 00:48:11 in episode 153 as the founder of Scripps News who teaches digital media at UT Austin.
 
-*Related: C-15040*
+*Related: C-13269*
 
 ---
 
@@ -682,7 +682,7 @@ First named by the host at 00:48:11 in episode 153 as the founder of Scripps New
 
 First named by the host at 01:04:14 in episode 153 as the author of Bearing False Witness, introduced to her by Charlie Kirk.
 
-*Related: C-15062*
+*Related: C-13291*
 
 ---
 
@@ -691,7 +691,7 @@ First named by the host at 01:04:14 in episode 153 as the author of Bearing Fals
 Node Type: Topic
 The host's theory that the release of the 2022 bodycam footage was planned to imprint a match with the UVU-campus footage, with an individual trained to mimic Robinson's gait, hat and sunglasses.
 
-*Related: C-15042, C-15043*
+*Related: C-13271, C-13272*
 
 ---
 
@@ -700,13 +700,13 @@ The host's theory that the release of the 2022 bodycam footage was planned to im
 Node Type: Topic
 The dispute over who chose the UVU amphitheater, what UVU said about traffic control on the August 25 Teams call, and who controlled tickets.
 
-*Related: C-14997, C-14998, C-14999, C-15000, C-15009*
+*Related: C-13205, C-13206, C-13207, C-13208, C-13227*
 
 ---
 
 ## V. Claim Register
 
-**C-3466** Notice of Claim Filed Against Utah, UVU PD, Chief Long, Tuminez, and Unknown Others
+**C-13181** Notice of Claim Filed Against Utah, UVU PD, Chief Long, Tuminez, and Unknown Others
 
 Claim Timestamp: 00:01:29
 Claim: The host says Charlie Kirk's family has filed a notice of claim against the State of Utah, the UVU Police Department, UVU Police Chief Jeffrey Long, former UVU president Astrid Tuminez, and others presently "unknown" involved in Charlie Kirk's death.
@@ -717,7 +717,7 @@ Investigative Direction: Obtain the filed notice of claim from the Utah Attorney
 
 ---
 
-**C-3467** Article the Host Reads Says UVU Launched Independent External Review September 22, 2025
+**C-13186** Article the Host Reads Says UVU Launched Independent External Review September 22, 2025
 
 Claim Timestamp: 00:04:55
 Claim: Per an Associated Press article the host shows, published September 22, 2025, Utah Valley University announced on Monday an independent external review of the fatal shooting of Charlie Kirk on its campus; the host remarks 'just 12 days after Charlie is hit.'
@@ -728,7 +728,7 @@ Investigative Direction: Cross-reference UVU board minutes and the AP wire story
 
 ---
 
-**C-3468** Tuminez Quoted on Review Purpose
+**C-13187** Tuminez Quoted on Review Purpose
 
 Claim Timestamp: 00:04:55
 Claim: Per the Associated Press article the host shows, Astrid Tuminez stated UVU "will integrate the findings into our efforts to strengthen and improve safety practices for UVU and all of Utah higher education."
@@ -739,7 +739,7 @@ Investigative Direction: Retrieve Tuminez's original emailed statement to confir
 
 ---
 
-**C-3469** Clip Has Shawn Ryan Reading Harpole's Security Team Credentials
+**C-13194** Clip Has Shawn Ryan Reading Harpole's Security Team Credentials
 
 Claim Timestamp: 00:08:00
 Claim: In a clip from the Shawn Ryan show that the host plays, Shawn Ryan reads statements from Brian Harpole's team describing the security team as including a combat-proven Marine, SEALs, 22 years on SWAT, a 30-year cop and SWAT commander and world-renowned jiu-jitsu practitioners; the host says Harpole submitted these credentials to Ryan.
@@ -749,7 +749,7 @@ Investigative Direction: Retrieve full unedited Shawn Ryan episode and verify Ha
 
 ---
 
-**C-3470** Host Says Charlie's Security Team Comprised 12 Members
+**C-13189** Host Says Charlie's Security Team Comprised 12 Members
 
 Claim Timestamp: 00:06:24
 Claim: The host says Charlie Kirk had a total of 12 security members at the UVU event.
@@ -759,7 +759,7 @@ Investigative Direction: Compare against TPUSA's security manifest and the event
 
 ---
 
-**C-3471** Text Message Identified Sorenson Staircase Roof Access
+**C-13229** Text Message Identified Sorenson Staircase Roof Access
 
 Claim Timestamp: 00:27:11
 Claim: Per the text message the host shows, Dan Flood told Chief Jeffrey Long that a student group said there is student roof access pretty close to where CK will be set up and that the Sorenson Student Center has a couple of staircases that go up to the walkways on the roof.
@@ -770,7 +770,7 @@ Investigative Direction: Verify the original text thread metadata (timestamps, s
 
 ---
 
-**C-3472** Chief Long Responded "I got you covered"
+**C-13235** Chief Long Responded "I got you covered"
 
 Claim Timestamp: 00:30:35
 Claim: Per the text message the host shows, Chief Jeffrey Long responded to Dan Flood's rooftop-access request with the message "I got you covered."
@@ -781,7 +781,7 @@ Investigative Direction: Verify against UVU PD records and text-message metadata
 
 ---
 
-**C-3473** Notice of Claim Omits "I was told students have access above us" Line
+**C-13233** Notice of Claim Omits "I was told students have access above us" Line
 
 Claim Timestamp: 00:29:56
 Claim: The host says the notice of claim's quotation of the Dan Flood / Chief Long text exchange omits the original line "I was told students have access above us," which she says narrows the rooftop reference to the specific walkway above Charlie's head.
@@ -792,7 +792,7 @@ Investigative Direction: Obtain the filed notice of claim text and the underlyin
 
 ---
 
-**C-3474** Notice of Claim Alleges Six Officers Assigned to Outdoor Event
+**C-13212** Notice of Claim Alleges Six Officers Assigned to Outdoor Event
 
 Claim Timestamp: 00:19:44
 Claim: The notice of claim alleges UVU assigned only six campus police officers to the outdoor tour event that ultimately attracted approximately 3,000 attendees.
@@ -802,7 +802,7 @@ Investigative Direction: Cross-reference UVU PD staffing logs from September 10,
 
 ---
 
-**C-3475** Notice of Claim Cites Approximately 3,000 Attendees
+**C-13213** Notice of Claim Cites Approximately 3,000 Attendees
 
 Claim Timestamp: 00:19:44
 Claim: The notice of claim states the UVU event attracted approximately 3,000 attendees.
@@ -812,7 +812,7 @@ Investigative Direction: Compare against UVU venue capacity records, ticketing d
 
 ---
 
-**C-3476** Notice of Claim Alleges Long Requested Additional Officers
+**C-13214** Notice of Claim Alleges Long Requested Additional Officers
 
 Claim Timestamp: 00:19:44
 Claim: The notice of claim alleges that UVU Chief Jeff Long requested approval from then-UVU president Astrid Tuminez to allocate more than six officers.
@@ -823,7 +823,7 @@ Investigative Direction: Obtain UVU PD internal communications and presidential 
 
 ---
 
-**C-3477** Notice of Claim Alleges Request for Additional Officers Denied
+**C-13215** Notice of Claim Alleges Request for Additional Officers Denied
 
 Claim Timestamp: 00:19:44
 Claim: The notice of claim alleges that the request for additional officers was denied.
@@ -833,7 +833,7 @@ Investigative Direction: Retrieve Tuminez's contemporaneous internal communicati
 
 ---
 
-**C-3478** Host Says Bodycam Footage Was Released Seven Days After Suspect Identification
+**C-13248** Host Says Bodycam Footage Was Released Seven Days After Suspect Identification
 
 Claim Timestamp: 00:42:50
 Claim: The host says the 2022 bodycam footage of Tyler Robinson was released seven days after the public found out Tyler Robinson was the suspect.
@@ -844,7 +844,7 @@ Investigative Direction: Confirm Scripps News publication date and Tyler Robinso
 
 ---
 
-**C-3479** Host Says Bodycam Footage Is Dated May 31, 2022
+**C-13250** Host Says Bodycam Footage Is Dated May 31, 2022
 
 Claim Timestamp: 00:42:58
 Claim: The host says the bodycam footage of Tyler Robinson is dated May 31, 2022, approximately three and a half years before it was released.
@@ -855,7 +855,7 @@ Investigative Direction: Verify the timestamp metadata on the released footage.
 
 ---
 
-**C-3480** Bodycam Footage Released by Scripps News
+**C-13263** Bodycam Footage Released by Scripps News
 
 Claim Timestamp: 00:48:11
 Claim: The host says the 2022 bodycam footage was released by Scripps News and shows the headline "Scripps News obtains video of accused Charlie Kirk shooter after 2022 car crash."
@@ -866,7 +866,7 @@ Investigative Direction: Retrieve Scripps News editorial sourcing notes and FOIA
 
 ---
 
-**C-3481** Host Says Scripps News Was Founded in 2022 by Jim Spencer
+**C-13264** Host Says Scripps News Was Founded in 2022 by Jim Spencer
 
 Claim Timestamp: 00:48:11
 Claim: The host says Scripps News, formerly Newsy, became a thing in 2022, the same year as the incident, and that its founder is a man named Jim Spencer.
@@ -877,7 +877,7 @@ Investigative Direction: Confirm corporate registration records for Scripps News
 
 ---
 
-**C-3482** Host Says Jim Spencer Has Taught Digital Media at UT Austin Since 2018
+**C-13265** Host Says Jim Spencer Has Taught Digital Media at UT Austin Since 2018
 
 Claim Timestamp: 00:48:11
 Claim: The host says Jim Spencer teaches digital media and journalism at UT Austin and has done so since 2018, citing his bio on the site.
@@ -888,7 +888,7 @@ Investigative Direction: Verify Spencer's UT Austin faculty page and Nelda Buckm
 
 ---
 
-**C-3483** Host Says Bodycam Footage Was Recorded by St. George Police Department
+**C-13259** Host Says Bodycam Footage Was Recorded by St. George Police Department
 
 Claim Timestamp: 00:46:14
 Claim: The host says the May 31, 2022 bodycam footage was recorded by an officer in the St. George Police Department.
@@ -898,7 +898,7 @@ Investigative Direction: Confirm agency identification via officer's uniform mar
 
 ---
 
-**C-3484** Host Says Tyler Robinson Was 19 at Time of 2022 Incident
+**C-13260** Host Says Tyler Robinson Was 19 at Time of 2022 Incident
 
 Claim Timestamp: 00:46:14
 Claim: The host says Tyler Robinson was 19 years old at the time of the 2022 traffic incident.
@@ -909,7 +909,7 @@ Investigative Direction: Cross-reference against birth records / official DOB.
 
 ---
 
-**C-3485** Host Says UVU Has Approximately 50,000 Students
+**C-13217** Host Says UVU Has Approximately 50,000 Students
 
 Claim Timestamp: 00:20:33
 Claim: The host says UVU has a total of 50,000 students.
@@ -919,7 +919,7 @@ Investigative Direction: Verify against UVU's official enrollment figures.
 
 ---
 
-**C-3486** Host Says UVU Has 24 Police Officers
+**C-13218** Host Says UVU Has 24 Police Officers
 
 Claim Timestamp: 00:20:33
 Claim: The host says UVU has a grand total of 24 police officers available to cover its campus.
@@ -929,7 +929,7 @@ Investigative Direction: Verify against UVU PD staffing rosters and Utah public-
 
 ---
 
-**C-3487** Host Says Event Was Scheduled at Amphitheater After Maycee Crofts Demand on August 25, 2025
+**C-13204** Host Says Event Was Scheduled at Amphitheater After Maycee Crofts Demand on August 25, 2025
 
 Claim Timestamp: 00:16:22
 Claim: The host says she is told that on August 25, 2025, TPUSA events committee employee Maycee Crofts insisted during a Microsoft Teams call that the event be held in the amphitheater, and that UVU acquiesced; she says this is not in the filing.
@@ -939,7 +939,7 @@ Investigative Direction: Recover Microsoft Teams call metadata and any TPUSA eve
 
 ---
 
-**C-3488** Host Says UVU EMS Was on Scene with First Responders
+**C-13220** Host Says UVU EMS Was on Scene with First Responders
 
 Claim Timestamp: 00:22:26
 Claim: The host says UVU's state-certified emergency medical services were present beside the vehicle with medical bags in hand.
@@ -950,7 +950,7 @@ Investigative Direction: Review UVU EMS bodycam footage and any contemporaneous 
 
 ---
 
-**C-3489** Host Says UVU Independent Review Findings Were Expected Imminently
+**C-13190** Host Says UVU Independent Review Findings Were Expected Imminently
 
 Claim Timestamp: 00:06:24
 Claim: The host says she was told the findings of UVU's independent external review of security failures were going to be released on Friday, though she does not know if that will now be bumped.
@@ -960,7 +960,7 @@ Investigative Direction: Monitor UVU press releases and the Utah Attorney Genera
 
 ---
 
-**C-3490** Host Says Charlie's Security Arrived at 9:00 AM Morning of Event
+**C-13210** Host Says Charlie's Security Arrived at 9:00 AM Morning of Event
 
 Claim Timestamp: 00:18:53
 Claim: The host says members of Charlie's security team first arrived on the UVU campus at 9:00 AM on the morning of September 10, 2025.
@@ -970,7 +970,7 @@ Investigative Direction: Compare against UVU PD visitor logs and hotel / travel 
 
 ---
 
-**C-3491** Notice of Claim Alleges UVU Failed to Maintain Secure Perimeter
+**C-13224** Notice of Claim Alleges UVU Failed to Maintain Secure Perimeter
 
 Claim Timestamp: 00:24:37
 Claim: The notice of claim alleges UVU parties could have created and maintained a secure perimeter with controlled ingress/egress points and security screenings.
@@ -980,7 +980,7 @@ Investigative Direction: Compare allegation text against UVU's pre-event securit
 
 ---
 
-**C-3492** Notice of Claim Alleges UVU Could Have Restricted Attendee Numbers
+**C-13226** Notice of Claim Alleges UVU Could Have Restricted Attendee Numbers
 
 Claim Timestamp: 00:25:33
 Claim: The notice of claim alleges UVU parties had the power and authority to impose attendee-number restrictions.
@@ -990,19 +990,19 @@ Investigative Direction: Verify ticket-sales authority and UVU event-permit cond
 
 ---
 
-**C-3493** Notice of Claim Concludes with State-Created Danger and Wrongful Death Claims
+**C-13241** Notice of Claim Concludes with State-Created Danger and Wrongful Death Claims
 
 Claim Timestamp: 00:33:33
 Claim: The notice of claim concludes that "the UVU party's omissions, actions and misconduct led to Mr. Kirk's death" and asserts both a state-created danger claim under the U.S. Constitution's due process clause and a traditional wrongful death claim under Utah law.
 Anchored Artifacts: A-2384.1
 Mentions: N-1
-Contradicts: C-3494
+Contradicts: C-13293
 Related Nodes: N-10833
 Investigative Direction: Track subsequent civil complaint filings with the Utah Attorney General's office.
 
 ---
 
-**C-14979** Host Says Wall-to-Wall Coverage and Influencers Are Spinning the Notice as a Widow's Fight
+**C-13180** Host Says Wall-to-Wall Coverage and Influencers Are Spinning the Notice as a Widow's Fight
 
 Claim Timestamp: 00:00:01
 
@@ -1018,7 +1018,7 @@ Investigative Direction: Collect the influencer posts and TPUSA statements of Se
 
 ---
 
-**C-14980** Host Says the Notice of Claim Is a Mandatory Step Before Suing the Government
+**C-13182** Host Says the Notice of Claim Is a Mandatory Step Before Suing the Government
 
 Claim Timestamp: 00:01:29
 
@@ -1029,13 +1029,13 @@ Transcript Snippet: It's it's a mandatory prerequisite for this kind of a lawsui
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11264
-Supports: C-3466
+Supports: C-13181
 Tags: relevance:context
 Investigative Direction: Check the Utah Governmental Immunity Act notice requirements and the claim deadline.
 
 ---
 
-**C-14981** Host Says Charlie's Parents Urged Erika to Sue Utah Since About December
+**C-13183** Host Says Charlie's Parents Urged Erika to Sue Utah Since About December
 
 Claim Timestamp: 00:03:07
 
@@ -1051,7 +1051,7 @@ Investigative Direction: This rests on the host's source; ask the Kirk family or
 
 ---
 
-**C-14982** Host Says Erika Was Not Keen to Sue When She Was Told in December
+**C-13184** Host Says Erika Was Not Keen to Sue When She Was Told in December
 
 Claim Timestamp: 00:03:18
 
@@ -1067,7 +1067,7 @@ Investigative Direction: Compare with Erika's public statements on legal action 
 
 ---
 
-**C-14983** Host Says TPUSA Pulled in a Quarter Billion Last Year
+**C-13185** Host Says TPUSA Pulled in a Quarter Billion Last Year
 
 Claim Timestamp: 00:03:40
 
@@ -1083,7 +1083,7 @@ Investigative Direction: Check TPUSA's latest Form 990 revenue against the quart
 
 ---
 
-**C-14984** Host Says the Independent Review Will Be Devastating to TPUSA's Security Apparatus
+**C-13188** Host Says the Independent Review Will Be Devastating to TPUSA's Security Apparatus
 
 Claim Timestamp: 00:06:07
 
@@ -1094,13 +1094,13 @@ Transcript Snippet: and that the findings were actually going to be devastating 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10839, N-10000
-Supports: C-3489
+Supports: C-13190
 Tags: relevance:core
 Investigative Direction: Obtain the review when released and compare its findings with the host's source.
 
 ---
 
-**C-14985** Host Says the Filing Came Two Days Before the Review and Influencers Are Blaming the Campus
+**C-13191** Host Says the Filing Came Two Days Before the Review and Influencers Are Blaming the Campus
 
 Claim Timestamp: 00:06:24
 
@@ -1111,13 +1111,13 @@ Transcript Snippet: Two days before the review gets released, suddenly Turning P
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10833, N-10839, N-10000
-Supports: C-3489
+Supports: C-13190
 Tags: relevance:core
 Investigative Direction: Compare the date the review was actually released with the notice date.
 
 ---
 
-**C-14986** Host Says She Never Saw 12 Security People Brought to a Campus Event With Charlie
+**C-13192** Host Says She Never Saw 12 Security People Brought to a Campus Event With Charlie
 
 Claim Timestamp: 00:06:24
 
@@ -1128,13 +1128,13 @@ Transcript Snippet: I've never seen this in the history of me doing college camp
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10646
-Supports: C-3470
+Supports: C-13189
 Tags: relevance:core
 Investigative Direction: Compare with security staffing at earlier tour stops.
 
 ---
 
-**C-14987** Host Says Charlie's Security Were Not Police but Former SEALs, Marines, Army Snipers and SWAT Commanders
+**C-13193** Host Says Charlie's Security Were Not Police but Former SEALs, Marines, Army Snipers and SWAT Commanders
 
 Claim Timestamp: 00:07:35
 
@@ -1145,13 +1145,13 @@ Transcript Snippet: highly trained military, former Navy Seals, former Marines, 
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10646
-Supports: C-3469
+Supports: C-13194
 Tags: relevance:core
 Investigative Direction: Verify the team roster and service records against the Harpole interview.
 
 ---
 
-**C-14988** Host Says She Brought Her Own Security Team to Every Tour Event After Working for TPUSA
+**C-13195** Host Says She Brought Her Own Security Team to Every Tour Event After Working for TPUSA
 
 Claim Timestamp: 00:09:33
 
@@ -1167,7 +1167,7 @@ Investigative Direction: Ask the host for her tour security arrangements; compar
 
 ---
 
-**C-14989** Host Says She Requested Bomb Dogs at a Recent Event
+**C-13196** Host Says She Requested Bomb Dogs at a Recent Event
 
 Claim Timestamp: 00:10:05
 
@@ -1182,7 +1182,7 @@ Investigative Direction: Identify the event and the police agency to confirm the
 
 ---
 
-**C-14990** Host Says Local Police Respond With Limits and Security Must Source Its Own Resources or Cancel
+**C-13197** Host Says Local Police Respond With Limits and Security Must Source Its Own Resources or Cancel
 
 Claim Timestamp: 00:10:15
 
@@ -1198,7 +1198,7 @@ Investigative Direction: Obtain the UVU PD and TPUSA security correspondence abo
 
 ---
 
-**C-14991** Host Says Security Should Be Sent Days Ahead of an Event
+**C-13198** Host Says Security Should Be Sent Days Ahead of an Event
 
 Claim Timestamp: 00:10:55
 
@@ -1209,13 +1209,13 @@ Transcript Snippet: Minimally, you would send them days ahead to make preparatio
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10646
-Supports: C-3490
+Supports: C-13210
 Tags: relevance:context
 Investigative Direction: Obtain the security team's travel and site-visit records for September 2025.
 
 ---
 
-**C-14992** Notice Says TPUSA Planned Its Largest Ever Campus Tour
+**C-13199** Notice Says TPUSA Planned Its Largest Ever Campus Tour
 
 Claim Timestamp: 00:12:17
 
@@ -1231,7 +1231,7 @@ Investigative Direction: Read page three of the filed notice for the exact wordi
 
 ---
 
-**C-14993** Host Recalls Saying Last Fall the Event Came Together in a Couple of Weeks
+**C-13200** Host Recalls Saying Last Fall the Event Came Together in a Couple of Weeks
 
 Claim Timestamp: 00:12:34
 
@@ -1242,13 +1242,13 @@ Transcript Snippet: I've never seen an event planned like this. This one came to
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10012, N-10000
-Supports: C-9721
+Supports: C-2671
 Tags: relevance:context
 Investigative Direction: Identify the woman and compare UVU approval dates with a normal tour booking lead time.
 
 ---
 
-**C-14994** Host Says UVU Granted This Event Immediately and Nobody Knows Who Filed for It
+**C-13201** Host Says UVU Granted This Event Immediately and Nobody Knows Who Filed for It
 
 Claim Timestamp: 00:13:22
 
@@ -1259,13 +1259,13 @@ Transcript Snippet: But this one granted immediately. We don't know who filed fo
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10012, N-10000
-Supports: C-9721
+Supports: C-2671
 Tags: relevance:context
 Investigative Direction: Obtain the UVU event request, its filer and approval dates.
 
 ---
 
-**C-14995** Notice Says Local Chapter Advocacy Made UVU the First Stop and Cites Known Risks
+**C-13202** Notice Says Local Chapter Advocacy Made UVU the First Stop and Cites Known Risks
 
 Claim Timestamp: 00:14:08
 
@@ -1276,13 +1276,13 @@ Transcript Snippet: didn't you know that President Trump uh there was a rooftop 
 Anchored Artifacts: A-2384.1
 Mentions: N-3
 Related Nodes: N-10012, N-10000
-Supports: C-9513
+Supports: C-2318
 Tags: relevance:context
 Investigative Direction: Read the filed notice for the exact risk examples it cites.
 
 ---
 
-**C-14996** Notice Says UVU Police Did Not Conduct a Risk Assessment or Hold a Security Briefing
+**C-13203** Notice Says UVU Police Did Not Conduct a Risk Assessment or Hold a Security Briefing
 
 Claim Timestamp: 00:14:58
 
@@ -1298,7 +1298,7 @@ Investigative Direction: Ask UVU PD for any written risk assessment or briefing 
 
 ---
 
-**C-14997** Host Says UVU Told Crofts on the Teams Call There Would Be No Traffic Control at the Amphitheater
+**C-13205** Host Says UVU Told Crofts on the Teams Call There Would Be No Traffic Control at the Amphitheater
 
 Claim Timestamp: 00:16:22
 
@@ -1309,13 +1309,13 @@ Transcript Snippet: So, you have UVU on the call and they say, "No, you shouldn'
 Anchored Artifacts: 
 Mentions: N-3, N-8
 Related Nodes: N-11411, N-10012
-Supports: C-5010, C-1676
+Supports: C-3191, C-2669
 Tags: relevance:core
 Investigative Direction: Recover the Teams call recording or notes and the attendee list.
 
 ---
 
-**C-14998** Host Says Charlie Loved the Amphitheater at a March 2025 Tennessee Event
+**C-13206** Host Says Charlie Loved the Amphitheater at a March 2025 Tennessee Event
 
 Claim Timestamp: 00:16:22
 
@@ -1326,13 +1326,13 @@ Transcript Snippet: Charlie had recently done an event in Tennessee and he did, 
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-11411
-Supports: C-10984
+Supports: C-3451
 Tags: relevance:context
 Investigative Direction: Identify the March 2025 Tennessee event and venue.
 
 ---
 
-**C-14999** Host Says the Notice Does Not Dispute That TPUSA Requested the Amphitheater
+**C-13207** Host Says the Notice Does Not Dispute That TPUSA Requested the Amphitheater
 
 Claim Timestamp: 00:17:52
 
@@ -1348,7 +1348,7 @@ Investigative Direction: Read the notice's treatment of venue selection for any 
 
 ---
 
-**C-15000** Host Says TPUSA Went In Knowing There Would Be No Traffic Control Yet Sold Tickets
+**C-13208** Host Says TPUSA Went In Knowing There Would Be No Traffic Control Yet Sold Tickets
 
 Claim Timestamp: 00:17:52
 
@@ -1359,13 +1359,13 @@ Transcript Snippet: they they went into this knowing that there would be no traf
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11411, N-10000
-Supports: C-5010
+Supports: C-3191
 Tags: relevance:context
 Investigative Direction: Obtain the ticketing records and any TPUSA acknowledgement of the no-traffic-control warning.
 
 ---
 
-**C-15001** Host Says Charlie Told His Security Team the Night Before That He Feared Being Killed
+**C-13209** Host Says Charlie Told His Security Team the Night Before That He Feared Being Killed
 
 Claim Timestamp: 00:17:52
 
@@ -1376,13 +1376,13 @@ Transcript Snippet: Charlie notified his security team the night before that he 
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10340
-Supports: C-6825
+Supports: C-4543
 Tags: relevance:core
 Investigative Direction: Obtain the night-before messages and the recipient list; the host elsewhere names Kolvet and Flood as recipients.
 
 ---
 
-**C-15002** Host Says Police Dealt Mostly With the TPUSA Student Club Until 9 a.m. on Event Day
+**C-13211** Host Says Police Dealt Mostly With the TPUSA Student Club Until 9 a.m. on Event Day
 
 Claim Timestamp: 00:18:53
 
@@ -1393,13 +1393,13 @@ Transcript Snippet: the TPUSA club is managing everything until 9:00 a. m. that 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10646, N-10012, N-10000
-Supports: C-3490
+Supports: C-13210
 Tags: relevance:core
 Investigative Direction: Obtain UVU PD correspondence with the campus club and with TPUSA staff before September 10.
 
 ---
 
-**C-15003** Notice Says Six Officers Were Only 25 Percent of the UVU Police Force
+**C-13216** Notice Says Six Officers Were Only 25 Percent of the UVU Police Force
 
 Claim Timestamp: 00:19:44
 
@@ -1410,13 +1410,13 @@ Transcript Snippet: which represented only 25% of the UVU police force. But this
 Anchored Artifacts: A-2384.1
 Mentions: N-3, N-271, N-752
 Related Nodes: N-10836
-Supports: C-3477
+Supports: C-13215
 Tags: relevance:context
 Investigative Direction: Obtain the UVU PD roster and the Long-Tuminez exchange.
 
 ---
 
-**C-15004** Host Argues Six Officers Was an Oversupply Relative to 50,000 Students and 24 Officers
+**C-13219** Host Argues Six Officers Was an Oversupply Relative to 50,000 Students and 24 Officers
 
 Claim Timestamp: 00:21:28
 
@@ -1427,13 +1427,13 @@ Transcript Snippet: So worked out as an equation, six police officers would have
 Anchored Artifacts: A-2384.1
 Mentions: N-3, N-752
 Related Nodes: N-10836
-Supports: C-3485, C-3486
+Supports: C-13217, C-13218
 Tags: relevance:context
 Investigative Direction: Verify enrollment and sworn officer count and whether other officers were on duty elsewhere.
 
 ---
 
-**C-15005** Host Says Many Attendees Were Adults, Not Students
+**C-13221** Host Says Many Attendees Were Adults, Not Students
 
 Claim Timestamp: 00:22:26
 
@@ -1449,7 +1449,7 @@ Investigative Direction: Review crowd footage and ticket data for the affiliatio
 
 ---
 
-**C-15006** Notice Says No First Responders Were Made Available; Host Says That Is Untrue
+**C-13222** Notice Says No First Responders Were Made Available; Host Says That Is Untrue
 
 Claim Timestamp: 00:22:26
 
@@ -1465,7 +1465,7 @@ Investigative Direction: Obtain the notice paragraph and UVU EMS dispatch record
 
 ---
 
-**C-15007** Host Says UVU EMS Followed Charlie to the Car but Security Drove Off Instead
+**C-13223** Host Says UVU EMS Followed Charlie to the Car but Security Drove Off Instead
 
 Claim Timestamp: 00:22:26
 
@@ -1476,13 +1476,13 @@ Transcript Snippet: Charlie's team chose to get into the vehicle and to move on 
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10838, N-10840
-Supports: C-3488
+Supports: C-13220
 Tags: relevance:core
 Investigative Direction: Review scene video and EMS reports for contact between EMS and the vehicle.
 
 ---
 
-**C-15008** Host Says TPUSA Was Given the Address and Security Protocols and Told an Ambulance Was on Standby
+**C-13225** Host Says TPUSA Was Given the Address and Security Protocols and Told an Ambulance Was on Standby
 
 Claim Timestamp: 00:24:37
 
@@ -1498,7 +1498,7 @@ Investigative Direction: Obtain UVU's written event plan and any record of an am
 
 ---
 
-**C-15009** Host Says TPUSA Controlled the Tickets
+**C-13227** Host Says TPUSA Controlled the Tickets
 
 Claim Timestamp: 00:25:33
 
@@ -1509,13 +1509,13 @@ Transcript Snippet: Turning Point USA are the ones that controlled the tickets.
 Anchored Artifacts: A-2384.1
 Mentions: N-3
 Related Nodes: N-10000, N-11411
-Contradicts: C-3492
+Contradicts: C-13226
 Tags: relevance:core
 Investigative Direction: Obtain ticket platform records and the ticketing agreement.
 
 ---
 
-**C-15010** Host Says Harpole Misrepresented the Flood-Long Text Thread as His Own
+**C-13228** Host Says Harpole Misrepresented the Flood-Long Text Thread as His Own
 
 Claim Timestamp: 00:26:21
 
@@ -1526,13 +1526,13 @@ Transcript Snippet: This is the same message that Brian Harpole misrepresented a
 Anchored Artifacts: A-2386.1
 Mentions: N-3, N-266, N-224, N-270, N-271
 Related Nodes: N-10356, N-10272
-Supports: C-1762, C-2821
+Supports: C-3214, C-8674
 Tags: relevance:core
 Investigative Direction: Compare the Shawn Ryan transcript with the thread participants.
 
 ---
 
-**C-15011** Host Says the Thread Asked for Either Controlled Access or One of TPUSA's Guys on the Roof
+**C-13230** Host Says the Thread Asked for Either Controlled Access or One of TPUSA's Guys on the Roof
 
 Claim Timestamp: 00:27:11
 
@@ -1543,13 +1543,13 @@ Transcript Snippet: it would be nice to either have it controlled access or allo
 Anchored Artifacts: A-2387.1
 Mentions: N-3, N-270, N-271
 Related Nodes: N-10646, N-11009
-Supports: C-1763
+Supports: C-3215
 Tags: relevance:core
 Investigative Direction: Obtain the original thread with metadata.
 
 ---
 
-**C-15012** Host Says Her Outlet Broke in November That the Thread Referred to the Walkway Above Charlie
+**C-13231** Host Says Her Outlet Broke in November That the Thread Referred to the Walkway Above Charlie
 
 Claim Timestamp: 00:28:12
 
@@ -1560,13 +1560,13 @@ Transcript Snippet: So, we broke a story back in November following Brian Harpol
 Anchored Artifacts: A-2388.1
 Mentions: N-3, N-266, N-224
 Related Nodes: N-10646, N-11009
-Supports: C-6695
+Supports: C-3997
 Tags: relevance:core
 Investigative Direction: Locate the November 2025 episode and compare the map with the campus layout.
 
 ---
 
-**C-15013** Host Says the Concern Was People Throwing Things Down From the Hall of Flags Roof
+**C-13232** Host Says the Concern Was People Throwing Things Down From the Hall of Flags Roof
 
 Claim Timestamp: 00:29:09
 
@@ -1577,13 +1577,13 @@ Transcript Snippet: that you could have an incident where uh someone's throwing 
 Anchored Artifacts: A-2388.1
 Mentions: N-3, N-1
 Related Nodes: N-11009, N-10646
-Supports: C-5036, C-6593
+Supports: C-3219, C-2313
 Tags: relevance:core
 Investigative Direction: Ask Flood and Long what concern prompted the thread.
 
 ---
 
-**C-15014** Host Says the Text Concerned the Area Above Harpole's Group, Not the Losee Center or Other Rooftops
+**C-13234** Host Says the Text Concerned the Area Above Harpole's Group, Not the Losee Center or Other Rooftops
 
 Claim Timestamp: 00:29:56
 
@@ -1594,13 +1594,13 @@ Transcript Snippet: has nothing to do with the Losee Center or any other rooftop
 Anchored Artifacts: A-2387.1
 Mentions: N-3, N-266
 Related Nodes: N-10835, N-10646
-Supports: C-3473
+Supports: C-13233
 Tags: relevance:core
 Investigative Direction: Verify the roof geometry between Sorenson, the Hall of Flags and the Losee Center.
 
 ---
 
-**C-15015** Host Says Officer Bagley Was Sent to Monitor the Rooftop Traffic
+**C-13236** Host Says Officer Bagley Was Sent to Monitor the Rooftop Traffic
 
 Claim Timestamp: 00:30:35
 
@@ -1611,14 +1611,14 @@ Transcript Snippet: Officer Bagley was sent to monitor the rooftop traffic contr
 Anchored Artifacts: 
 Mentions: N-3, N-506, N-271, N-270
 Related Nodes: N-10646
-Supports: C-3472, C-10521
-Contradicts: C-15019
+Supports: C-13235, C-13095
+Contradicts: C-13240
 Tags: relevance:core
 Investigative Direction: Obtain UVU PD assignment logs for Bagley on September 10.
 
 ---
 
-**C-15016** Host Says Members of Charlie's Security Team Were Also Allowed on the Roof
+**C-13237** Host Says Members of Charlie's Security Team Were Also Allowed on the Roof
 
 Claim Timestamp: 00:30:35
 
@@ -1629,13 +1629,13 @@ Transcript Snippet: And additionally, members of Charlie's security team were al
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-270
 Related Nodes: N-10646
-Contradicts: C-15019
+Contradicts: C-13240
 Tags: relevance:core
 Investigative Direction: Obtain roof access logs and names of the security members on the roof.
 
 ---
 
-**C-15017** Host Says a Still Shows Richard Bracie on the Rooftop and Moving Right After the Shot
+**C-13238** Host Says a Still Shows Richard Bracie on the Rooftop and Moving Right After the Shot
 
 Claim Timestamp: 00:30:35
 
@@ -1651,7 +1651,7 @@ Investigative Direction: Identify the man in the still and obtain the footage; t
 
 ---
 
-**C-15018** Notice Says Long's Text Led TPUSA to Believe UVU Had a Plan for Rooftop Risks
+**C-13239** Notice Says Long's Text Led TPUSA to Believe UVU Had a Plan for Rooftop Risks
 
 Claim Timestamp: 00:31:45
 
@@ -1662,13 +1662,13 @@ Transcript Snippet: led TPUSA to reasonably conclude that UVU had a plan to addr
 Anchored Artifacts: A-2384.1
 Mentions: N-3, N-271
 Related Nodes: N-10646, N-10835
-Supports: C-3472
+Supports: C-13235
 Tags: relevance:context
 Investigative Direction: Read page six of the filed notice.
 
 ---
 
-**C-15019** Notice Says Long's Text Did Not Let TPUSA Take Steps to Secure Rooftops
+**C-13240** Notice Says Long's Text Did Not Let TPUSA Take Steps to Secure Rooftops
 
 Claim Timestamp: 00:31:45
 
@@ -1684,7 +1684,7 @@ Investigative Direction: Read page six of the filed notice and compare with the 
 
 ---
 
-**C-15020** Host Says the Filing Is a Preemptive PR Strike Ahead of a Damaging Review
+**C-13242** Host Says the Filing Is a Preemptive PR Strike Ahead of a Damaging Review
 
 Claim Timestamp: 00:34:25
 
@@ -1695,13 +1695,13 @@ Transcript Snippet: I maintain my position that this is a preemptive PR strike m
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10833, N-10839, N-10000
-Supports: C-14984, C-14985
+Supports: C-13188, C-13191
 Tags: relevance:core
 Investigative Direction: Compare the review's findings and release date with the notice date.
 
 ---
 
-**C-15021** Host Says She Hopes the Review Explains Why No Ambulance Was on Standby
+**C-13243** Host Says She Hopes the Review Explains Why No Ambulance Was on Standby
 
 Claim Timestamp: 00:35:36
 
@@ -1717,7 +1717,7 @@ Investigative Direction: Compare with the earlier statement that an ambulance wa
 
 ---
 
-**C-15022** Host Reads an Ad Saying the Vatican Made a Secret 2018 Deal With the Chinese Communist Party
+**C-13244** Host Reads an Ad Saying the Vatican Made a Secret 2018 Deal With the Chinese Communist Party
 
 Claim Timestamp: 00:37:10
 
@@ -1732,7 +1732,7 @@ Investigative Direction: Check the 2018 Holy See-China provisional agreement and
 
 ---
 
-**C-15023** Host Says Dan Flood Provided Security to Erika After the Shooting
+**C-13245** Host Says Dan Flood Provided Security to Erika After the Shooting
 
 Claim Timestamp: 00:40:52
 
@@ -1748,7 +1748,7 @@ Investigative Direction: Obtain White House visitor records and TPUSA security p
 
 ---
 
-**C-15024** Host Says Zack Costello Compared Robinson's Finger Posture in UVU Footage With 2022 Footage
+**C-13246** Host Says Zack Costello Compared Robinson's Finger Posture in UVU Footage With 2022 Footage
 
 Claim Timestamp: 00:40:52
 
@@ -1764,7 +1764,7 @@ Investigative Direction: Watch Costello's video and compare the two clips.
 
 ---
 
-**C-15025** Host Says Costello Saw the Same Finger Posture in the 2022 Footage
+**C-13247** Host Says Costello Saw the Same Finger Posture in the 2022 Footage
 
 Claim Timestamp: 00:42:15
 
@@ -1780,7 +1780,7 @@ Investigative Direction: Compare the frames; the host later says no arrest occur
 
 ---
 
-**C-15026** Host Says the 2022 Footage Should Not Exist
+**C-13249** Host Says the 2022 Footage Should Not Exist
 
 Claim Timestamp: 00:42:55
 
@@ -1791,13 +1791,13 @@ Transcript Snippet: because the footage should not exist.
 Anchored Artifacts: A-2389.1
 Mentions: N-3, N-40
 Related Nodes: N-10834, N-10837
-Supports: C-3479
+Supports: C-13250
 Tags: relevance:core
 Investigative Direction: Request retention schedules from St. George PD and Utah records laws.
 
 ---
 
-**C-15027** Host Says States Have Laws Requiring Automatic Deletion of Routine Bodycam Footage
+**C-13251** Host Says States Have Laws Requiring Automatic Deletion of Routine Bodycam Footage
 
 Claim Timestamp: 00:43:44
 
@@ -1813,7 +1813,7 @@ Investigative Direction: Check Utah Code on body-worn camera retention.
 
 ---
 
-**C-15028** Host Says Loomer's Side Tried to Find Footage of Her Husband's Fender Bender
+**C-13252** Host Says Loomer's Side Tried to Find Footage of Her Husband's Fender Bender
 
 Claim Timestamp: 00:43:44
 
@@ -1828,7 +1828,7 @@ Investigative Direction: Personal anecdote; no outside record expected.
 
 ---
 
-**C-15029** Host Says Utah Routine Footage Is Typically Purged Within 60 to 90 Days
+**C-13253** Host Says Utah Routine Footage Is Typically Purged Within 60 to 90 Days
 
 Claim Timestamp: 00:44:43
 
@@ -1844,7 +1844,7 @@ Investigative Direction: Check Utah Code 77-7a and St. George PD policy; the ret
 
 ---
 
-**C-15030** Host Says No Citations or Arrests in 2022 and the Footage Did Not Capture the Accident
+**C-13254** Host Says No Citations or Arrests in 2022 and the Footage Did Not Capture the Accident
 
 Claim Timestamp: 00:45:26
 
@@ -1860,7 +1860,7 @@ Investigative Direction: Request the 2022 incident report from St. George PD.
 
 ---
 
-**C-15031** Host Says Robinson Spoke to an Officer and Was Handed a Report Number
+**C-13255** Host Says Robinson Spoke to an Officer and Was Handed a Report Number
 
 Claim Timestamp: 00:45:26
 
@@ -1876,7 +1876,7 @@ Investigative Direction: Obtain the incident report and report number.
 
 ---
 
-**C-15032** Host Says There Was No Ambulance, Paramedics or Injury Claim in 2022
+**C-13256** Host Says There Was No Ambulance, Paramedics or Injury Claim in 2022
 
 Claim Timestamp: 00:45:26
 
@@ -1892,7 +1892,7 @@ Investigative Direction: Obtain the incident report.
 
 ---
 
-**C-15033** Host Says Someone Must Have Ordered the Footage and Held It for Three Years
+**C-13257** Host Says Someone Must Have Ordered the Footage and Held It for Three Years
 
 Claim Timestamp: 00:45:26
 
@@ -1908,7 +1908,7 @@ Investigative Direction: Submit records requests to St. George PD and Scripps on
 
 ---
 
-**C-15034** Host Says Robinson Was Completely Unknown in 2022
+**C-13258** Host Says Robinson Was Completely Unknown in 2022
 
 Claim Timestamp: 00:45:26
 
@@ -1919,13 +1919,13 @@ Transcript Snippet: Tyler Robinson was completely unknown in 2022.
 Anchored Artifacts: 
 Mentions: N-3, N-40
 Related Nodes: N-10834
-Supports: C-3484
+Supports: C-13260
 Tags: relevance:core
 Investigative Direction: Obtain any 2022 records requests naming Robinson.
 
 ---
 
-**C-15035** Host Says Both Drivers Were Cooperative and There Was No Lawsuit
+**C-13261** Host Says Both Drivers Were Cooperative and There Was No Lawsuit
 
 Claim Timestamp: 00:46:14
 
@@ -1941,7 +1941,7 @@ Investigative Direction: Search civil dockets for any suit arising from the 2022
 
 ---
 
-**C-15036** Played Clip Has a Driver Describing the Other Car Turning In and Being T-Boned
+**C-13262** Played Clip Has a Driver Describing the Other Car Turning In and Being T-Boned
 
 Claim Timestamp: 00:46:59
 
@@ -1957,7 +1957,7 @@ Investigative Direction: Identify which speaker is Robinson from the full clip.
 
 ---
 
-**C-15037** Host Says TPUSA's Number One Donor Has a Strong Tie to UT Austin
+**C-13266** Host Says TPUSA's Number One Donor Has a Strong Tie to UT Austin
 
 Claim Timestamp: 00:48:11
 
@@ -1968,13 +1968,13 @@ Transcript Snippet: Turning Point USA has a very strong tie to UT Austin in the 
 Anchored Artifacts: A-2392.1
 Mentions: N-3, N-460
 Related Nodes: N-10421, N-10000
-Supports: C-10514
+Supports: C-13086
 Tags: relevance:context
 Investigative Direction: Verify Buckman donation records to UT Austin and TPUSA.
 
 ---
 
-**C-15038** Host Hedges That TPUSA Shared a Plane With Its Top Donor
+**C-13267** Host Hedges That TPUSA Shared a Plane With Its Top Donor
 
 Claim Timestamp: 00:48:11
 
@@ -1990,7 +1990,7 @@ Investigative Direction: Check flight records for a shared flight with Buckman.
 
 ---
 
-**C-15039** Host Says Buckman Donated a 2,300 Square Foot Building to UT Austin in 2022
+**C-13268** Host Says Buckman Donated a 2,300 Square Foot Building to UT Austin in 2022
 
 Claim Timestamp: 00:48:11
 
@@ -2006,7 +2006,7 @@ Investigative Direction: Check UT Austin's announcement of the Buckman Center.
 
 ---
 
-**C-15040** Host Suggests Jim Spencer's UT Austin Role and Buckman's Donation Are a Lead on the Footage
+**C-13269** Host Suggests Jim Spencer's UT Austin Role and Buckman's Donation Are a Lead on the Footage
 
 Claim Timestamp: 00:49:25
 
@@ -2017,13 +2017,13 @@ Transcript Snippet: Help us all figure out how they got a hold of this obscure v
 Anchored Artifacts: A-2391.1, A-2392.1
 Mentions: N-3, N-947, N-460
 Related Nodes: N-10834, N-10873
-Supports: C-3482
+Supports: C-13265
 Tags: relevance:context
 Investigative Direction: Ask Scripps how it obtained the video; no documented link between Spencer and Buckman is shown.
 
 ---
 
-**C-15041** Host Says Media Showed Robinson in Maroon Though He Normally Wore Blue
+**C-13270** Host Says Media Showed Robinson in Maroon Though He Normally Wore Blue
 
 Claim Timestamp: 00:49:39
 
@@ -2039,7 +2039,7 @@ Investigative Direction: Compare published photos of Robinson with the shirts he
 
 ---
 
-**C-15042** Host Theorizes the 2022 Footage Release Was Planned and an Individual Trained to Mimic Robinson's Walk
+**C-13271** Host Theorizes the 2022 Footage Release Was Planned and an Individual Trained to Mimic Robinson's Walk
 
 Claim Timestamp: 00:49:39
 
@@ -2055,7 +2055,7 @@ Investigative Direction: Needs gait analysis of both clips; the host offers no d
 
 ---
 
-**C-15043** NY Post Said Robinson Wore an Eerily Similar Hat and Sunglasses in the 2022 Footage
+**C-13272** NY Post Said Robinson Wore an Eerily Similar Hat and Sunglasses in the 2022 Footage
 
 Claim Timestamp: 00:49:39
 
@@ -2071,7 +2071,7 @@ Investigative Direction: Retrieve the New York Post article and its date.
 
 ---
 
-**C-15044** Host Asks for Tips on How Scripps Got the 2022 Footage
+**C-13273** Host Asks for Tips on How Scripps Got the 2022 Footage
 
 Claim Timestamp: 00:50:40
 
@@ -2087,7 +2087,7 @@ Investigative Direction: Collect tips on St. George PD or Scripps sources.
 
 ---
 
-**C-15045** Host Gives the Tip Email for Scripps and St. George Insiders
+**C-13274** Host Gives the Tip Email for Scripps and St. George Insiders
 
 Claim Timestamp: 00:51:41
 
@@ -2103,7 +2103,7 @@ Investigative Direction: Collect tips on St. George PD or Scripps sources.
 
 ---
 
-**C-15046** Host Asks Whether Mike Mitchell Was Robinson's Mentor
+**C-13275** Host Asks Whether Mike Mitchell Was Robinson's Mentor
 
 Claim Timestamp: 00:51:41
 
@@ -2119,7 +2119,7 @@ Investigative Direction: Establish the Mitchell-Robinson relationship from publi
 
 ---
 
-**C-15047** Host Says the 'Perisio' Lobby Operates Like Termites
+**C-13276** Host Says the 'Perisio' Lobby Operates Like Termites
 
 Claim Timestamp: 00:54:11
 
@@ -2134,7 +2134,7 @@ Investigative Direction: Sweeping group claim; no direct bearing on the case.
 
 ---
 
-**C-15048** Host Says People Who Worship Baal Love Human Sacrifice and Killing Children
+**C-13277** Host Says People Who Worship Baal Love Human Sacrifice and Killing Children
 
 Claim Timestamp: 00:55:12
 
@@ -2149,7 +2149,7 @@ Investigative Direction: Sweeping group claim; no direct bearing on the case.
 
 ---
 
-**C-15049** Host Says John and Irina Mappin Have Been Fantastic Friends
+**C-13278** Host Says John and Irina Mappin Have Been Fantastic Friends
 
 Claim Timestamp: 00:56:05
 
@@ -2159,13 +2159,13 @@ Transcript Snippet: him and Irina have just been fantastic friends to us especia
 
 Anchored Artifacts: 
 Mentions: N-3, N-154, N-155
-Supports: C-1392
+Supports: C-1493
 Tags: relevance:context
 Investigative Direction: Context only.
 
 ---
 
-**C-15050** Host Says the Mappins Have Been Loyal to Charlie's Memory
+**C-13279** Host Says the Mappins Have Been Loyal to Charlie's Memory
 
 Claim Timestamp: 00:56:52
 
@@ -2175,13 +2175,13 @@ Transcript Snippet: They have been extremely loyal to Charlie and making sure th
 
 Anchored Artifacts: 
 Mentions: N-3, N-154, N-155, N-1
-Supports: C-1392
+Supports: C-1493
 Tags: relevance:context
 Investigative Direction: Context only.
 
 ---
 
-**C-15051** Host Says the Notice Was Delivered to the Utah Attorney General's Office
+**C-13280** Host Says the Notice Was Delivered to the Utah Attorney General's Office
 
 Claim Timestamp: 00:56:52
 
@@ -2192,13 +2192,13 @@ Transcript Snippet: it's from the office of the attorney general or was a given 
 Anchored Artifacts: A-2384.1
 Mentions: N-3
 Related Nodes: N-11264, N-10833
-Supports: C-3466
+Supports: C-13181
 Tags: relevance:context
 Investigative Direction: Confirm receipt with the Utah Attorney General.
 
 ---
 
-**C-15052** Host Says Baron Coleman Will Host Her Principal Show During Maternity Leave
+**C-13281** Host Says Baron Coleman Will Host Her Principal Show During Maternity Leave
 
 Claim Timestamp: 00:58:44
 
@@ -2214,7 +2214,7 @@ Investigative Direction: Check the show schedule for Coleman's episodes.
 
 ---
 
-**C-15053** Host Says Coleman's Show Runs Monday Through Wednesday While She Is Off Air
+**C-13282** Host Says Coleman's Show Runs Monday Through Wednesday While She Is Off Air
 
 Claim Timestamp: 00:59:32
 
@@ -2230,7 +2230,7 @@ Investigative Direction: Check the show schedule.
 
 ---
 
-**C-15054** Host Plans a Joint Episode With Coleman Reviewing the State's Evidence
+**C-13283** Host Plans a Joint Episode With Coleman Reviewing the State's Evidence
 
 Claim Timestamp: 00:59:36
 
@@ -2246,7 +2246,7 @@ Investigative Direction: Watch for the joint episode.
 
 ---
 
-**C-15055** Host Says Her Baby Is a Few Weeks Away
+**C-13284** Host Says Her Baby Is a Few Weeks Away
 
 Claim Timestamp: 01:00:12
 
@@ -2262,7 +2262,7 @@ Investigative Direction: Context only.
 
 ---
 
-**C-15056** Host Says She Went on Ana Kasparian's Show to Explain What Is Wrong With the Case
+**C-13285** Host Says She Went on Ana Kasparian's Show to Explain What Is Wrong With the Case
 
 Claim Timestamp: 01:01:05
 
@@ -2277,7 +2277,7 @@ Investigative Direction: Find the Kasparian interview.
 
 ---
 
-**C-15057** Host Says Coleman Will Keep Track of Tricky Terryl
+**C-13286** Host Says Coleman Will Keep Track of Tricky Terryl
 
 Claim Timestamp: 01:01:19
 
@@ -2292,7 +2292,7 @@ Investigative Direction: Confirm 'Tricky Terryl' means Terryl Farnsworth.
 
 ---
 
-**C-15058** Host Says Utah Has a Steep History of Satanic Abuse Claims
+**C-13287** Host Says Utah Has a Steep History of Satanic Abuse Claims
 
 Claim Timestamp: 01:01:19
 
@@ -2307,7 +2307,7 @@ Investigative Direction: Sweeping claim; no direct evidence offered.
 
 ---
 
-**C-15059** Host Says Erika Was Ranting About Israel at Tucker's the Night Before in May 2025
+**C-13288** Host Says Erika Was Ranting About Israel at Tucker's the Night Before in May 2025
 
 Claim Timestamp: 01:03:10
 
@@ -2318,13 +2318,13 @@ Transcript Snippet: Erika was there the night before ranting about Israel like a
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-22, N-1
 Related Nodes: N-10983
-Supports: C-4516, C-4587, C-5834
+Supports: C-9901, C-9972, C-10289
 Tags: relevance:core
 Investigative Direction: Compare with Tucker's account of the dinner.
 
 ---
 
-**C-15060** Host Says Erika Went from Anti-Israel to Pro-Israel Since May
+**C-13289** Host Says Erika Went from Anti-Israel to Pro-Israel Since May
 
 Claim Timestamp: 01:03:10
 
@@ -2340,7 +2340,7 @@ Investigative Direction: Obtain the TPUSA-IFCJ agreement.
 
 ---
 
-**C-15061** Host Says Max Blumenthal Revealed the TPUSA Fellowship Contract
+**C-13290** Host Says Max Blumenthal Revealed the TPUSA Fellowship Contract
 
 Claim Timestamp: 01:03:10
 
@@ -2356,7 +2356,7 @@ Investigative Direction: Find Blumenthal's report and the contract.
 
 ---
 
-**C-15062** Host Says Charlie Introduced Her to Rodney Stark's Work
+**C-13291** Host Says Charlie Introduced Her to Rodney Stark's Work
 
 Claim Timestamp: 01:04:14
 
@@ -2532,7 +2532,7 @@ Confidence: high
 - **Artifact verbally referenced but not shown – Nelda Buckman / Buckman Center donation:** A-2392.1 was referenced verbally; primary donation record not displayed on screen.
 - **Possible transcription error – 60–90 day Utah bodycam retention figure:** Host states this as Utah law; the cited law should be verified against Utah Code.
 - **Timestamp uncertainty:** Filing date of the notice of claim not explicitly given on air (described only as occurring "a year on" and "this morning"); extraction date 2026-09-16 is inferred.
-- **Claim C-3485 / C-3486 (UVU student count and officer count):** Host presented these as factual but the artifacts do not directly anchor the specific numbers; included as claims with weaker artifact anchoring (A-2384.1 referenced indirectly).
+- **Claim C-13217 / C-13218 (UVU student count and officer count):** Host presented these as factual but the artifacts do not directly anchor the specific numbers; included as claims with weaker artifact anchoring (A-2384.1 referenced indirectly).
 
 ---
 

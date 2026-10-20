@@ -13,7 +13,7 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-11095
-  - Claim Range (supplement_2026-10): C-6351–C-6448
+  - Claim Range: C-13722–C-13828
   - Reused Nodes Appearing: N-1, N-2, N-9, N-22, N-36, N-37, N-40, N-46, N-5, N-69, N-82, N-85, N-98, N-14, N-190, N-271, N-217, N-437, N-266, N-7, N-496, N-270, N-535, N-377, N-159, N-10033, N-10056, N-10324, N-10388, N-10839, N-10859, N-10860, N-10863, N-10864, N-10866, N-10868, N-10, N-13, N-18, N-8, N-19, N-20, N-21, N-23, N-24, N-25, N-26, N-28, N-29, N-131, N-150, N-160, N-10870, N-10871, N-16, N-47, N-48, N-89, N-95, N-99, N-283, N-364, N-378, N-419, N-433, N-493, N-529, N-569, N-666, N-10002, N-10012, N-10016, N-10018, N-10036, N-10070, N-10075, N-10132, N-10134, N-10194, N-10211, N-10253, N-10276, N-10347, N-10366, N-10412, N-10434, N-10443, N-10446, N-10519, N-10524, N-10539, N-10571, N-10664, N-10668, N-10670, N-10674, N-10795, N-10865, N-10867, N-10900, N-10925, N-10927, N-11076, N-10869, N-11092, N-152, N-10872, N-10873, N-11094, N-11093
   - Hole-minted Nodes (remap-ep159): N-127, N-151, N-158
   - (see registers)
@@ -307,7 +307,7 @@ Video Timestamp: 00:02:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as shown/read); Medium (leak provenance)
 
-*Related: C-3608, N-10869, N-2*
+*Related: C-13730, N-10869, N-2*
 
 ---
 
@@ -320,7 +320,7 @@ Video Timestamp: 00:15:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (document as shown); Medium (payment-total discrepancy interpretation)
 
-*Related: C-3609, N-10870, N-24*
+*Related: C-13749, N-10870, N-24*
 
 ---
 
@@ -333,7 +333,7 @@ Video Timestamp: 00:20:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (document as shown)
 
-*Related: C-3610, N-10870, N-10863, N-10860, N-19*
+*Related: C-13755, N-10870, N-10863, N-10860, N-19*
 
 ---
 
@@ -346,7 +346,7 @@ Video Timestamp: 00:23:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (composite); High for individually sourced bullets as cited
 
-*Related: C-3611, C-3612, N-10871, N-10863, N-10868, N-10324, N-10033*
+*Related: C-13760, C-13780, N-10871, N-10863, N-10868, N-10324, N-10033*
 
 ---
 
@@ -359,7 +359,7 @@ Video Timestamp: 00:29:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium–High (as attributed to NYT); verify against primary article/book
 
-*Related: C-3612, N-10871, N-10324, N-4, N-69, N-85, N-535, N-29*
+*Related: C-13780, N-10871, N-10324, N-4, N-69, N-85, N-535, N-29*
 
 ---
 
@@ -372,7 +372,7 @@ Video Timestamp: 00:47:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (transcript-as-read); Medium (full context beyond excerpt)
 
-*Related: C-3613, N-10872, N-22*
+*Related: C-13814, N-10872, N-22*
 
 ---
 
@@ -385,7 +385,7 @@ Video Timestamp: 00:51:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clips as aired); Low–Medium (daycare/building causal link–host speculation)
 
-*Related: C-3614, N-10873, N-40, N-2, N-25, N-26*
+*Related: C-13817, N-10873, N-40, N-2, N-25, N-26*
 
 ---
 
@@ -398,7 +398,7 @@ Video Timestamp: 01:00:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (comments as read); Medium (Telegram dual-account allegation)
 
-*Related: C-3615, C-3616, N-10869, N-190, N-10056, N-10864, N-18*
+*Related: C-13822, C-13825, N-10869, N-190, N-10056, N-10864, N-18*
 
 ---
 
@@ -411,7 +411,7 @@ Video Timestamp: 00:02:39
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6354, C-6353*
+*Related: C-13725, C-13724*
 
 ---
 
@@ -422,7 +422,7 @@ Video Timestamp: 00:06:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-6360, C-6362, C-6366, C-6365*
+*Related: C-13732, C-13734, C-13738, C-13737*
 
 ---
 
@@ -433,7 +433,7 @@ Video Timestamp: 00:53:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-6442*
+*Related: C-13820*
 
 ---
 
@@ -444,7 +444,7 @@ Video Timestamp: 00:10:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6368, C-6370*
+*Related: C-13740, C-13742*
 
 ---
 
@@ -455,7 +455,7 @@ Video Timestamp: 00:35:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6427*
+*Related: C-13803*
 
 ---
 
@@ -470,7 +470,7 @@ Video Timestamp: 00:11:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6372, C-6373, C-6374*
+*Related: C-13744, C-13745, C-13746*
 
 ---
 
@@ -483,7 +483,7 @@ Video Timestamp: 00:51:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6440*
+*Related: C-13818*
 
 ---
 
@@ -494,7 +494,7 @@ Video Timestamp: 00:53:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6441*
+*Related: C-13819*
 
 ---
 
@@ -507,7 +507,7 @@ Video Timestamp: 00:55:31
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-6442, C-6443*
+*Related: C-13820, C-13821*
 
 ---
 
@@ -521,7 +521,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3610, C-3611, C-3612, A-2468.1, N-10871*
+*Related: C-13755, C-13760, C-13780, A-2468.1, N-10871*
 
 ---
 
@@ -533,7 +533,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3608, C-3615, A-2466.1, N-10869*
+*Related: C-13730, C-13822, A-2466.1, N-10869*
 
 ---
 
@@ -545,7 +545,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-10868, N-10871*
+*Related: C-13760, N-10868, N-10871*
 
 ---
 
@@ -557,7 +557,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3612, N-10324, N-10871*
+*Related: C-13780, N-10324, N-10871*
 
 ---
 
@@ -569,7 +569,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, C-3613, A-2471.1*
+*Related: C-13760, C-13814, A-2471.1*
 
 ---
 
@@ -581,7 +581,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-10033, N-10863*
+*Related: C-13760, N-10033, N-10863*
 
 ---
 
@@ -605,7 +605,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3614, N-10873, A-2472.1*
+*Related: C-13817, N-10873, A-2472.1*
 
 ---
 
@@ -617,7 +617,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-10033*
+*Related: C-13760, N-10033*
 
 ---
 
@@ -629,7 +629,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, C-3612, N-10871*
+*Related: C-13760, C-13780, N-10871*
 
 ---
 
@@ -641,7 +641,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3612, A-2470.1, N-10871*
+*Related: C-13780, A-2470.1, N-10871*
 
 ---
 
@@ -653,7 +653,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-377*
+*Related: C-13760, N-377*
 
 ---
 
@@ -665,7 +665,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3612, A-2470.1*
+*Related: C-13780, A-2470.1*
 
 ---
 
@@ -676,7 +676,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3610, C-3611, N-10870*
+*Related: C-13755, C-13760, N-10870*
 
 ---
 
@@ -688,7 +688,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3616, N-437, N-18*
+*Related: C-13825, N-437, N-18*
 
 ---
 
@@ -700,7 +700,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3615, A-2473.1*
+*Related: C-13822, A-2473.1*
 
 ---
 
@@ -712,7 +712,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3612, A-2470.1*
+*Related: C-13780, A-2470.1*
 
 ---
 
@@ -724,7 +724,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-10839, N-270*
+*Related: C-13760, N-10839, N-270*
 
 ---
 
@@ -748,7 +748,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-14*
+*Related: C-13760, N-14*
 
 ---
 
@@ -760,7 +760,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-10839*
+*Related: C-13760, N-10839*
 
 ---
 
@@ -772,7 +772,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-10871*
+*Related: C-13760, N-10871*
 
 ---
 
@@ -784,7 +784,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3608, N-2*
+*Related: C-13730, N-2*
 
 ---
 
@@ -796,7 +796,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-271*
+*Related: C-13760, N-271*
 
 ---
 
@@ -808,7 +808,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3612, A-2470.1*
+*Related: C-13780, A-2470.1*
 
 ---
 
@@ -820,7 +820,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-82*
+*Related: C-13760, N-82*
 
 ---
 
@@ -844,7 +844,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-36, N-10863*
+*Related: C-13760, N-36, N-10863*
 
 ---
 
@@ -856,7 +856,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3615, N-2, N-1*
+*Related: C-13822, N-2, N-1*
 
 ---
 
@@ -868,7 +868,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3612, N-9, N-10871*
+*Related: C-13780, N-9, N-10871*
 
 ---
 
@@ -880,7 +880,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3609, N-10870*
+*Related: C-13749, N-10870*
 
 ---
 
@@ -892,7 +892,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-10859*
+*Related: C-13760, N-10859*
 
 ---
 
@@ -904,7 +904,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3609, N-10839*
+*Related: C-13749, N-10839*
 
 ---
 
@@ -916,7 +916,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-10871, N-10*
+*Related: C-13760, N-10871, N-10*
 
 ---
 
@@ -928,7 +928,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3610, C-3611, N-10870, N-10871*
+*Related: C-13755, C-13760, N-10870, N-10871*
 
 ---
 
@@ -940,7 +940,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3608, N-2, N-13*
+*Related: C-13730, N-2, N-13*
 
 ---
 
@@ -952,7 +952,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3615*
+*Related: C-13822*
 
 ---
 
@@ -964,7 +964,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3611, N-10871*
+*Related: C-13760, N-10871*
 
 ---
 
@@ -977,7 +977,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3608, A-2466.1, N-2*
+*Related: C-13730, A-2466.1, N-2*
 
 ---
 
@@ -990,7 +990,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3609, C-3610, A-2467.1, A-2468.1, N-10388, N-10863, N-19*
+*Related: C-13749, C-13755, A-2467.1, A-2468.1, N-10388, N-10863, N-19*
 
 ---
 
@@ -1003,7 +1003,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3611, C-3612, A-2469.1, A-2470.1, N-10324, N-10863*
+*Related: C-13760, C-13780, A-2469.1, A-2470.1, N-10324, N-10863*
 
 ---
 
@@ -1016,7 +1016,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3613, A-2471.1, N-22, N-25*
+*Related: C-13814, A-2471.1, N-22, N-25*
 
 ---
 
@@ -1029,7 +1029,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3614, A-2472.1, N-40, N-2, N-25*
+*Related: C-13817, A-2472.1, N-40, N-2, N-25*
 
 ---
 
@@ -1056,7 +1056,7 @@ Vanity Fair writer of the Erika Kirk profile the host reads as an unflattering p
 Node Type: Person
 Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.
 
-*Related: C-3615, C-3616*
+*Related: C-13822, C-13825*
 
 ---
 
@@ -1065,7 +1065,7 @@ Online debater who offered the host a paid Charlie Kirk debate and claimed a TPU
 Node Type: Person
 Yrefy CEO. Host says he spoke briefly at the UVU pre-show and co-founded the sponsoring company.
 
-*Related: C-3609, C-3610*
+*Related: C-13749, C-13755*
 
 ---
 
@@ -1074,7 +1074,7 @@ Yrefy CEO. Host says he spoke briefly at the UVU pre-show and co-founded the spo
 Node Type: Person
 TPUSA sponsorship lead, described by the host as a former TPUSA employee with conflicts around the Yrefy deal.
 
-*Related: C-3609*
+*Related: C-13749*
 
 ---
 
@@ -1083,7 +1083,7 @@ TPUSA sponsorship lead, described by the host as a former TPUSA employee with co
 Node Type: Person
 Co-founder of Yrefy with Laine Schoneberger, as read from coverage of the sponsorship company (2017).
 
-*Related: C-3609*
+*Related: C-13749*
 
 ---
 
@@ -1092,7 +1092,7 @@ Co-founder of Yrefy with Laine Schoneberger, as read from coverage of the sponso
 Node Type: Person
 Founder of Student Loan Justice. Host quotes him criticizing TPUSA's Yrefy sponsorship.
 
-*Related: C-3609*
+*Related: C-13749*
 
 ---
 
@@ -1101,7 +1101,7 @@ Founder of Student Loan Justice. Host quotes him criticizing TPUSA's Yrefy spons
 Node Type: Person
 Athlete named as a Yrefy contracted appearance in the February 2025 TPUSA sponsorship agreement.
 
-*Related: C-3609*
+*Related: C-13749*
 
 ---
 
@@ -1110,7 +1110,7 @@ Athlete named as a Yrefy contracted appearance in the February 2025 TPUSA sponso
 Node Type: Person
 Man federal authorities present as the January 6 pipe-bomb suspect. Host argues the confession was coerced.
 
-*Related: C-3613, C-3614*
+*Related: C-13814, C-13817*
 
 ---
 
@@ -1119,7 +1119,7 @@ Man federal authorities present as the January 6 pipe-bomb suspect. Host argues 
 Node Type: Person
 Scripps investigative correspondent who aired prior bodycam of Brian Cole Jr. and, the host says, of Tyler Robinson.
 
-*Related: C-3614, A-2472.1*
+*Related: C-13817, A-2472.1*
 
 ---
 
@@ -1128,7 +1128,7 @@ Scripps investigative correspondent who aired prior bodycam of Brian Cole Jr. an
 Node Type: Person
 New York Times reporter. Host cites the Haberman and Swan book on Epstein-file meetings inside the White House.
 
-*Related: C-3612*
+*Related: C-13780*
 
 ---
 
@@ -1137,7 +1137,7 @@ New York Times reporter. Host cites the Haberman and Swan book on Epstein-file m
 Node Type: Person
 New York Times reporter. Co-author, with Maggie Haberman, of the book the host cites on Epstein situation-room meetings.
 
-*Related: C-3612*
+*Related: C-13780*
 
 ---
 
@@ -1146,7 +1146,7 @@ New York Times reporter. Co-author, with Maggie Haberman, of the book the host c
 Node Type: Person
 White House chief of staff. Host questions her Kirk eulogy and names her in Epstein-file situation-room meetings.
 
-*Related: C-3612*
+*Related: C-13780*
 
 ---
 
@@ -1155,7 +1155,7 @@ White House chief of staff. Host questions her Kirk eulogy and names her in Epst
 Node Type: Person
 Trump-world communications figure. Host cites his posts and names him among Epstein situation-room attendees.
 
-*Related: C-3612*
+*Related: C-13780*
 
 ---
 
@@ -1164,7 +1164,7 @@ Trump-world communications figure. Host cites his posts and names him among Epst
 Node Type: Person
 Trump-world lawyer named by the host among Epstein-file situation-room attendees (and as absent from one later list).
 
-*Related: C-3612*
+*Related: C-13780*
 
 ---
 
@@ -1173,7 +1173,7 @@ Trump-world lawyer named by the host among Epstein-file situation-room attendees
 Node Type: Person
 Trump-world aide named by the host among Epstein-file situation-room attendees.
 
-*Related: C-3612*
+*Related: C-13780*
 
 ---
 
@@ -1182,7 +1182,7 @@ Trump-world aide named by the host among Epstein-file situation-room attendees.
 Node Type: Person
 Trump-world lawyer. Host's attendee read (ASR Woodward) places him with Susie Wiles, Taylor Budowich, David Warrington, and James Blair.
 
-*Related: C-3612*
+*Related: C-13780*
 
 ---
 
@@ -1191,7 +1191,7 @@ Trump-world lawyer. Host's attendee read (ASR Woodward) places him with Susie Wi
 Node Type: Person
 White House communications aide. Named on the WHMO email CC list and in the Epstein situation-room attendee read (ASR Chung/Chong).
 
-*Related: C-3612*
+*Related: C-13780*
 
 ---
 
@@ -1200,7 +1200,7 @@ White House communications aide. Named on the WHMO email CC list and in the Epst
 Node Type: Person
 Former US senator. Host recalls his BCG advisory tie to Benjamin Netanyahu in the concurrent timeline.
 
-*Related: C-3611*
+*Related: C-13760*
 
 ---
 
@@ -1209,7 +1209,7 @@ Former US senator. Host recalls his BCG advisory tie to Benjamin Netanyahu in th
 Node Type: Topic
 Conflict between board member Doug DeGroote's account that journalist pressure forced a rapid CEO naming and the host's TPUSA PR source who told her otherwise.
 
-*Related: C-6353, C-6354*
+*Related: C-13724, C-13725*
 
 ---
 
@@ -1218,7 +1218,7 @@ Conflict between board member Doug DeGroote's account that journalist pressure f
 Node Type: Topic
 The host's observation that two UVU-area Utah stops were scheduled about 10 days apart against TPUSA's usual corridor routing, and the tip tying the routing to financial pressure.
 
-*Related: C-6361, C-6362*
+*Related: C-13733, C-13734*
 
 ---
 
@@ -1227,7 +1227,7 @@ The host's observation that two UVU-area Utah stops were scheduled about 10 days
 Node Type: Topic
 The host's FOIA request about Kash Patel's August 17, 2025 trip to Omaha while Egyptian planes were in Lincoln and Omaha, answered with neither confirm nor deny.
 
-*Related: C-6427*
+*Related: C-13803*
 
 ---
 
@@ -1236,7 +1236,7 @@ The host's FOIA request about Kash Patel's August 17, 2025 trip to Omaha while E
 Node Type: Organization
 Firm the host thanks alongside the UVU independent review; its exact role is not described on air.
 
-*Related: C-6447*
+*Related: C-13827*
 
 ---
 
@@ -1245,7 +1245,7 @@ Firm the host thanks alongside the UVU independent review; its exact role is not
 Node Type: Topic
 The host's claim that each of her July-August 2025 Epstein episodes was followed the next day by a White House Epstein meeting.
 
-*Related: C-6405, C-6406, C-6410, C-6411, C-6412, C-6421, C-6422*
+*Related: C-13781, C-13782, C-13786, C-13787, C-13788, C-13797, C-13798*
 
 ---
 
@@ -1253,7 +1253,7 @@ The host's claim that each of her July-August 2025 Epstein episodes was followed
 
 Named by the host as the person who called her on February 25, 2025 about Brigitte Macron.
 
-*Related: C-6388*
+*Related: C-13763*
 
 ---
 
@@ -1261,7 +1261,7 @@ Named by the host as the person who called her on February 25, 2025 about Brigit
 
 Named (transcribed Galileain Maxwell) in the host summary of the House of Maxwell episode.
 
-*Related: C-6412*
+*Related: C-13788*
 
 ---
 
@@ -1269,7 +1269,7 @@ Named (transcribed Galileain Maxwell) in the host summary of the House of Maxwel
 
 Named by the host in the 'House of Maxwell' episode summary about textbook printing.
 
-*Related: C-6412*
+*Related: C-13788*
 
 ---
 
@@ -1277,7 +1277,7 @@ Named by the host in the 'House of Maxwell' episode summary about textbook print
 
 Listed among proposed influencers in the Yrefy social media blitz.
 
-*Related: C-6380*
+*Related: C-13753*
 
 ---
 
@@ -1285,7 +1285,7 @@ Listed among proposed influencers in the Yrefy social media blitz.
 
 Listed among proposed influencers in the Yrefy social media blitz (transcribed Jack Posobiec).
 
-*Related: C-6380*
+*Related: C-13753*
 
 ---
 
@@ -1293,7 +1293,7 @@ Listed among proposed influencers in the Yrefy social media blitz (transcribed J
 
 Listed among proposed influencers in the Yrefy social media blitz.
 
-*Related: C-6380*
+*Related: C-13753*
 
 ---
 
@@ -1301,7 +1301,7 @@ Listed among proposed influencers in the Yrefy social media blitz.
 
 Named as the reporter whose work the host's Epstein series is built on (transcribed Xavier Bousard).
 
-*Related: C-6405*
+*Related: C-13781*
 
 ---
 
@@ -1309,7 +1309,7 @@ Named as the reporter whose work the host's Epstein series is built on (transcri
 
 Daily Wire figure who asked on August 14 to speak at UVU (transcribed Kabat Phillips).
 
-*Related: C-6423*
+*Related: C-13799*
 
 ---
 
@@ -1317,7 +1317,7 @@ Daily Wire figure who asked on August 14 to speak at UVU (transcribed Kabat Phil
 
 Named with Kash Patel as announcing the Brian Cole Jr. arrest (transcribed Dan Bongino).
 
-*Related: C-6436*
+*Related: C-13812*
 
 ---
 
@@ -1325,7 +1325,7 @@ Named with Kash Patel as announcing the Brian Cole Jr. arrest (transcribed Dan B
 
 Named in the host's account of the Mega mole story.
 
-*Related: C-6421*
+*Related: C-13797*
 
 ---
 
@@ -1333,7 +1333,7 @@ Named in the host's account of the Mega mole story.
 
 Named in the timeline for his June 22 Senate confirmation.
 
-*Related: C-6397*
+*Related: C-13772*
 
 ---
 
@@ -1341,7 +1341,7 @@ Named in the timeline for his June 22 Senate confirmation.
 
 TPUSA CMO named as involved in organizing the August 14 photo shoot.
 
-*Related: C-6424*
+*Related: C-13800*
 
 ---
 
@@ -1349,7 +1349,7 @@ TPUSA CMO named as involved in organizing the August 14 photo shoot.
 
 Named by the host as the founder of the modeling-apartments company.
 
-*Related: C-6434*
+*Related: C-13810*
 
 ---
 
@@ -1357,7 +1357,7 @@ Named by the host as the founder of the modeling-apartments company.
 
 Named by the host in connection with the modeling group tied to Brunel.
 
-*Related: C-6434*
+*Related: C-13810*
 
 ---
 
@@ -1365,7 +1365,7 @@ Named by the host in connection with the modeling group tied to Brunel.
 
 Pastor whose Calvary Chapel hosted Erika's July 14 speech (transcribed James Kaddis).
 
-*Related: C-6403*
+*Related: C-13778*
 
 ---
 
@@ -1373,7 +1373,7 @@ Pastor whose Calvary Chapel hosted Erika's July 14 speech (transcribed James Kad
 
 Topic for the memorial, merchandise sales and microphone display.
 
-*Related: C-6355, C-6356*
+*Related: C-13726, C-13727*
 
 ---
 
@@ -1381,7 +1381,7 @@ Topic for the memorial, merchandise sales and microphone display.
 
 Venue of the September 10 event and the June 17 drill alleged by the host.
 
-*Related: C-6361, C-6366, C-6371, C-6384, C-6394, C-6407, C-6423, C-6432, C-6433*
+*Related: C-13733, C-13738, C-13743, C-13758, C-13769, C-13783, C-13799, C-13808, C-13809*
 
 ---
 
@@ -1389,7 +1389,7 @@ Venue of the September 10 event and the June 17 drill alleged by the host.
 
 Topic for the August 2025 Hamptons weekend.
 
-*Related: C-6369, C-6414, C-6417*
+*Related: C-13741, C-13790, C-13793*
 
 ---
 
@@ -1397,7 +1397,7 @@ Topic for the August 2025 Hamptons weekend.
 
 Topic for the alleged Netanyahu call and invitation.
 
-*Related: C-6415, C-6416*
+*Related: C-13791, C-13792*
 
 ---
 
@@ -1405,7 +1405,7 @@ Topic for the alleged Netanyahu call and invitation.
 
 Topic for donor withdrawals after SAS.
 
-*Related: C-6363, C-6398*
+*Related: C-13735, C-13773*
 
 ---
 
@@ -1413,7 +1413,7 @@ Topic for donor withdrawals after SAS.
 
 Publisher of the Yrefy article read on air.
 
-*Related: C-6372, C-6373, C-6374*
+*Related: C-13744, C-13745, C-13746*
 
 ---
 
@@ -1421,7 +1421,7 @@ Publisher of the Yrefy article read on air.
 
 Place referenced for the February 24 Macron visit and June 18-19 meetings.
 
-*Related: C-6387*
+*Related: C-13762*
 
 ---
 
@@ -1429,7 +1429,7 @@ Place referenced for the February 24 Macron visit and June 18-19 meetings.
 
 Topic for the DOGE audit.
 
-*Related: C-6376*
+*Related: C-13748*
 
 ---
 
@@ -1437,7 +1437,7 @@ Topic for the DOGE audit.
 
 Topic for the August 2025 retreat.
 
-*Related: C-6369, C-6414, C-6417, C-6419*
+*Related: C-13741, C-13790, C-13793, C-13795*
 
 ---
 
@@ -1445,7 +1445,7 @@ Topic for the August 2025 retreat.
 
 Topic for when and how Erika's succession was disclosed.
 
-*Related: C-6352, C-6353, C-6425*
+*Related: C-13723, C-13724, C-13801*
 
 ---
 
@@ -1453,7 +1453,7 @@ Topic for when and how Erika's succession was disclosed.
 
 Topic for the University of Nebraska-Lincoln chapter.
 
-*Related: C-6386*
+*Related: C-13761*
 
 ---
 
@@ -1461,7 +1461,7 @@ Topic for the University of Nebraska-Lincoln chapter.
 
 Topic for the Egyptian aircraft movements in the timeline.
 
-*Related: C-6408, C-6413, C-6426, C-6427*
+*Related: C-13784, C-13789, C-13802, C-13803*
 
 ---
 
@@ -1469,7 +1469,7 @@ Topic for the Egyptian aircraft movements in the timeline.
 
 Topic for the Nebraska overlap with the Egyptian plane.
 
-*Related: C-6386, C-6408, C-6426*
+*Related: C-13761, C-13784, C-13802*
 
 ---
 
@@ -1477,7 +1477,7 @@ Topic for the Nebraska overlap with the Egyptian plane.
 
 Topic for the Egyptian plane route pattern.
 
-*Related: C-6408, C-6413*
+*Related: C-13784, C-13789*
 
 ---
 
@@ -1485,7 +1485,7 @@ Topic for the Egyptian plane route pattern.
 
 Topic for the August 24 strike exercise named by the host.
 
-*Related: C-6429*
+*Related: C-13805*
 
 ---
 
@@ -1493,7 +1493,7 @@ Topic for the August 24 strike exercise named by the host.
 
 Topic for the 126 deleted posts.
 
-*Related: C-6396*
+*Related: C-13771*
 
 ---
 
@@ -1501,7 +1501,7 @@ Topic for the 126 deleted posts.
 
 Topic for the DOGE set up seven days before the assassination.
 
-*Related: C-6376*
+*Related: C-13748*
 
 ---
 
@@ -1509,7 +1509,7 @@ Topic for the DOGE set up seven days before the assassination.
 
 Topic for leadership conduct after the assassination.
 
-*Related: C-6355*
+*Related: C-13726*
 
 ---
 
@@ -1517,7 +1517,7 @@ Topic for leadership conduct after the assassination.
 
 Topic for the Netanyahu offer during the Hamptons weekend.
 
-*Related: C-6415*
+*Related: C-13791*
 
 ---
 
@@ -1525,7 +1525,7 @@ Topic for the Netanyahu offer during the Hamptons weekend.
 
 Topic for Erika's alleged control of modeling-linked entities.
 
-*Related: C-6434*
+*Related: C-13810*
 
 ---
 
@@ -1533,7 +1533,7 @@ Topic for Erika's alleged control of modeling-linked entities.
 
 Topic linking Faith Kates to the Epstein network.
 
-*Related: C-6434*
+*Related: C-13810*
 
 ---
 
@@ -1541,7 +1541,7 @@ Topic linking Faith Kates to the Epstein network.
 
 Topic for Charlie's lobbying against involvement.
 
-*Related: C-6393, C-6395*
+*Related: C-13768, C-13770*
 
 ---
 
@@ -1549,7 +1549,7 @@ Topic for Charlie's lobbying against involvement.
 
 Topic for Erika's private flight to Long Beach.
 
-*Related: C-6403, C-6404*
+*Related: C-13778, C-13779*
 
 ---
 
@@ -1557,7 +1557,7 @@ Topic for Erika's private flight to Long Beach.
 
 Topic for the Aspen succession statement.
 
-*Related: C-6425*
+*Related: C-13801*
 
 ---
 
@@ -1565,7 +1565,7 @@ Topic for the Aspen succession statement.
 
 Topic for BCG's government roles.
 
-*Related: C-6390*
+*Related: C-13765*
 
 ---
 
@@ -1573,7 +1573,7 @@ Topic for BCG's government roles.
 
 Topic for the Gaza Humanitarian Foundation.
 
-*Related: C-6390, C-6391*
+*Related: C-13765, C-13766*
 
 ---
 
@@ -1581,7 +1581,7 @@ Topic for the Gaza Humanitarian Foundation.
 
 Topic for Charlie's White House visit.
 
-*Related: C-6395*
+*Related: C-13770*
 
 ---
 
@@ -1589,7 +1589,7 @@ Topic for Charlie's White House visit.
 
 Topic for the Andrew Wilson message leak.
 
-*Related: C-6359, C-6446*
+*Related: C-13731, C-13826*
 
 ---
 
@@ -1597,7 +1597,7 @@ Topic for the Andrew Wilson message leak.
 
 Topic for Erika's heaven-focus quotes.
 
-*Related: C-6444, C-6445*
+*Related: C-13824, C-13823*
 
 ---
 
@@ -1605,7 +1605,7 @@ Topic for Erika's heaven-focus quotes.
 
 Topic for the smears against the host.
 
-*Related: C-6418, C-6420, C-6435, C-6448*
+*Related: C-13794, C-13796, C-13811, C-13828*
 
 ---
 
@@ -1613,7 +1613,7 @@ Topic for the smears against the host.
 
 Organization behind the Cabot Phillips request.
 
-*Related: C-6423*
+*Related: C-13799*
 
 ---
 
@@ -1621,7 +1621,7 @@ Organization behind the Cabot Phillips request.
 
 Organization named in the missing-money claim.
 
-*Related: C-6375*
+*Related: C-13747*
 
 ---
 
@@ -1629,13 +1629,13 @@ Organization named in the missing-money claim.
 
 Topic for Gor's move to India.
 
-*Related: C-6388*
+*Related: C-13763*
 
 ---
 
 ## 5. Claim Register
 
-**C-3608** Erika sought “big hitters” donor lists via Dominate 2.0 Telegram before Mar-a-Lago fundraising
+**C-13730** Erika sought “big hitters” donor lists via Dominate 2.0 Telegram before Mar-a-Lago fundraising
 
 Claim Timestamp: 00:05:00
 
@@ -1650,7 +1650,7 @@ Investigative Direction: Preserve message screenshots with metadata if available
 
 ---
 
-**C-3609** Yrefy signed a detailed ~$2.25M TPUSA sponsorship contract in February 2025
+**C-13749** Yrefy signed a detailed ~$2.25M TPUSA sponsorship contract in February 2025
 
 Claim Timestamp: 00:15:21
 
@@ -1665,7 +1665,7 @@ Investigative Direction: Hash/store contract PDFs; verify signatories and whethe
 
 ---
 
-**C-3610** July 25 2025 Yrefy addendum paid ~$1.25M more solely for Charlie’s fall campus tour
+**C-13755** July 25 2025 Yrefy addendum paid ~$1.25M more solely for Charlie’s fall campus tour
 
 Claim Timestamp: 00:20:10
 
@@ -1680,7 +1680,7 @@ Investigative Direction: Confirm addendum execution date and wire evidence; sepa
 
 ---
 
-**C-3611** Feb–Aug 2025 events form a suspicious concurrent timeline around Charlie, Epstein, and UVU
+**C-13760** Feb–Aug 2025 events form a suspicious concurrent timeline around Charlie, Epstein, and UVU
 
 Claim Timestamp: 00:23:22
 
@@ -1695,7 +1695,7 @@ Investigative Direction: Source each bullet to primary docs; mark inference edge
 
 ---
 
-**C-3612** White House held repeated Epstein-files situation-room meetings (often without Trump) beside Candace’s Epstein series
+**C-13780** White House held repeated Epstein-files situation-room meetings (often without Trump) beside Candace’s Epstein series
 
 Claim Timestamp: 00:29:19
 
@@ -1710,7 +1710,7 @@ Investigative Direction: Pull primary NYT passages; verify attendee lists; keep 
 
 ---
 
-**C-3613** Host Says Brian Cole Jr.'s J6 Pipe-Bomb Confession Was Coerced From an Autistic Suspect
+**C-13814** Host Says Brian Cole Jr.'s J6 Pipe-Bomb Confession Was Coerced From an Autistic Suspect
 
 Claim Timestamp: 00:47:17
 
@@ -1725,7 +1725,7 @@ Investigative Direction: Obtain full interrogation recordings/transcripts and de
 
 ---
 
-**C-3614** Same Scripps Media team released obscure prior bodycam of both Tyler Robinson and Brian Cole Jr.
+**C-13817** Same Scripps Media team released obscure prior bodycam of both Tyler Robinson and Brian Cole Jr.
 
 Claim Timestamp: 00:51:47
 
@@ -1738,7 +1738,7 @@ Related Nodes: N-10873
 
 ---
 
-**C-3615** Erika’s Israel posture and partner choices contradict heaven-focused widow branding
+**C-13822** Erika’s Israel posture and partner choices contradict heaven-focused widow branding
 
 Claim Timestamp: 01:00:00
 Claim: A viewer comment the host reads says loyalty to Erika depends on her loyalty to Charlie; the host agrees and argues that Erika's changed stance on Israel, her professed lack of opinion, and letting people who pressured Charlie back into the organization register as fake after she pushed Charlie to be more against Israel, and she questions Erika teaming up with Andrew Wilson to share text messages.
@@ -1749,7 +1749,7 @@ Investigative Direction: Continue pairing Vanity Fair private-criticism quotes w
 
 ---
 
-**C-3616** Erika’s Telegram American-flag contact may be the shared/“fake Charlie” account
+**C-13825** Erika’s Telegram American-flag contact may be the shared/“fake Charlie” account
 
 Claim Timestamp: 01:03:21
 Claim: Viewer note + host source claim that Charlie had two Telegram accounts–one American-flag shared account and one personal–and that Erika’s Dominate traffic used the flag icon; host questions why sensitive texts went to Andrew Wilson rather than Kolvet/friendly media.
@@ -1760,7 +1760,7 @@ Investigative Direction: Forensic Telegram export if ever obtained; until then k
 
 ---
 
-**C-6351** Host says newly received TPUSA 2025 contracts confirm her suspicion that Charlie's tour came together quickly under financial pressure
+**C-13722** Host says newly received TPUSA 2025 contracts confirm her suspicion that Charlie's tour came together quickly under financial pressure
 
 Claim Timestamp: 00:00:01
 
@@ -1775,7 +1775,7 @@ Investigative Direction: Establish how and from whom the contracts were obtained
 
 ---
 
-**C-6352** Vanity Fair confirmed Erika took over as CEO and chairman within 48 hours
+**C-13723** Vanity Fair confirmed Erika took over as CEO and chairman within 48 hours
 
 Claim Timestamp: 00:01:36
 
@@ -1790,7 +1790,7 @@ Investigative Direction: Pull the Vanity Fair profile passage and TPUSA board re
 
 ---
 
-**C-6353** Doug DeGroote says journalists' pressure forced TPUSA to name a successor quickly
+**C-13724** Doug DeGroote says journalists' pressure forced TPUSA to name a successor quickly
 
 Claim Timestamp: 00:01:36
 
@@ -1805,7 +1805,7 @@ Investigative Direction: Obtain DeGroote's original statement in the Vanity Fair
 
 ---
 
-**C-6354** Host says the TPUSA staffer who fielded press requests told her something different from DeGroote
+**C-13725** Host says the TPUSA staffer who fielded press requests told her something different from DeGroote
 
 Claim Timestamp: 00:02:39
 
@@ -1816,12 +1816,12 @@ Transcript Snippet: I fact checked that with the person who was directly respons
 Anchored Artifacts: A-2809.1
 Mentions: N-496, N-3
 Related Nodes: N-11092
-Contradicts: C-6353
+Contradicts: C-13724
 Investigative Direction: Identify the TPUSA communications staffer and obtain the press inquiries received in the first 48 hours; compare with DeGroote's account.
 
 ---
 
-**C-6355** Host says Erika was in the office, on Zoom calls, announcing Turning Point 2.0 and celebrating merch sales within two weeks
+**C-13726** Host says Erika was in the office, on Zoom calls, announcing Turning Point 2.0 and celebrating merch sales within two weeks
 
 Claim Timestamp: 00:02:39
 
@@ -1836,7 +1836,7 @@ Investigative Direction: Identify attendees of the Zoom calls from September 202
 
 ---
 
-**C-6356** Host says TPUSA encased Charlie's bloodied microphone as an emotional appeal to donors at the Mar-a-Lago event
+**C-13727** Host says TPUSA encased Charlie's bloodied microphone as an emotional appeal to donors at the Mar-a-Lago event
 
 Claim Timestamp: 00:03:56
 
@@ -1851,7 +1851,7 @@ Investigative Direction: Obtain event photos and programs from the Mar-a-Lago ev
 
 ---
 
-**C-6357** Host says TPUSA allegedly raised $40 million at the Mar-a-Lago event
+**C-13728** Host says TPUSA allegedly raised $40 million at the Mar-a-Lago event
 
 Claim Timestamp: 00:04:11
 
@@ -1866,7 +1866,7 @@ Investigative Direction: Check TPUSA or Turning Point Action donor disclosures a
 
 ---
 
-**C-6358** Host says TPUSA staff feel lied to after the UVU independent review
+**C-13729** Host says TPUSA staff feel lied to after the UVU independent review
 
 Claim Timestamp: 00:04:28
 
@@ -1881,7 +1881,7 @@ Investigative Direction: Compare statements TPUSA leadership made about the UVU 
 
 ---
 
-**C-6359** Host says Erika shared text messages with Andrew Wilson
+**C-13731** Host says Erika shared text messages with Andrew Wilson
 
 Claim Timestamp: 00:06:30
 
@@ -1896,7 +1896,7 @@ Investigative Direction: Obtain the Wilson-released messages and determine who s
 
 ---
 
-**C-6360** Host says she got an early tip from inside TPUSA that the tour came together unusually
+**C-13732** Host says she got an early tip from inside TPUSA that the tour came together unusually
 
 Claim Timestamp: 00:06:30
 
@@ -1911,7 +1911,7 @@ Investigative Direction: Establish the date of the tip (e.g. from host emails or
 
 ---
 
-**C-6361** Host says two Utah tour stops separated by 10 days made no sense by tour-routing norms
+**C-13733** Host says two Utah tour stops separated by 10 days made no sense by tour-routing norms
 
 Claim Timestamp: 00:07:32
 
@@ -1926,7 +1926,7 @@ Investigative Direction: List the fall 2025 tour stops and dates and compare Uta
 
 ---
 
-**C-6362** Source says Charlie agreed to the Utah stops because he was under pressure to make money
+**C-13734** Source says Charlie agreed to the Utah stops because he was under pressure to make money
 
 Claim Timestamp: 00:07:32
 
@@ -1941,7 +1941,7 @@ Investigative Direction: Obtain TPUSA fall 2025 revenue plans or sponsor communi
 
 ---
 
-**C-6363** Host says Zionist donors pulled out in July over Charlie's shifting Israel stance, including Bob Shillman for millions
+**C-13735** Host says Zionist donors pulled out in July over Charlie's shifting Israel stance, including Bob Shillman for millions
 
 Claim Timestamp: 00:07:32
 
@@ -1952,12 +1952,12 @@ Transcript Snippet: when Bob Shillman pulled millions, and he wasn't the only on
 Anchored Artifacts: 
 Mentions: N-98, N-1
 Related Nodes: N-10036, N-10056
-Supports: C-1559
+Supports: C-2121
 Investigative Direction: Identify the donors, amounts and dates of withdrawn gifts through TPUSA or Turning Point Action filings and donor-side confirmation.
 
 ---
 
-**C-6364** Host says TPUSA still will not acknowledge Charlie's shifting stance on Israel
+**C-13736** Host says TPUSA still will not acknowledge Charlie's shifting stance on Israel
 
 Claim Timestamp: 00:07:32
 
@@ -1972,7 +1972,7 @@ Investigative Direction: Compile TPUSA's public statements on Charlie's Israel p
 
 ---
 
-**C-6365** Tipster says Yrefy came in with extra money to offset lost revenue
+**C-13737** Tipster says Yrefy came in with extra money to offset lost revenue
 
 Claim Timestamp: 00:08:45
 
@@ -1983,12 +1983,12 @@ Transcript Snippet: the company Yrefy came in with a ton a ton of extra money an
 Anchored Artifacts: A-2809.2, A-2468.1
 Mentions: 
 Related Nodes: N-10870
-Supports: C-6363
+Supports: C-13735
 Investigative Direction: Compare the timing of Bob Shillman's withdrawal with the July 25, 2025 addendum payment schedule and wire records.
 
 ---
 
-**C-6366** Tipster alleges Yrefy had a say in tour stops; host says no evidence beyond hearsay
+**C-13738** Tipster alleges Yrefy had a say in tour stops; host says no evidence beyond hearsay
 
 Claim Timestamp: 00:09:25
 
@@ -2003,7 +2003,7 @@ Investigative Direction: Seek the stop-selection correspondence between TPUSA ev
 
 ---
 
-**C-6367** Host says Yrefy became a massive TPUSA sponsor in 2024 right after she stopped touring with Charlie
+**C-13739** Host says Yrefy became a massive TPUSA sponsor in 2024 right after she stopped touring with Charlie
 
 Claim Timestamp: 00:10:05
 
@@ -2018,7 +2018,7 @@ Investigative Direction: Obtain the 2024 TPUSA sponsor lists and Yrefy's first s
 
 ---
 
-**C-6368** Host alleges Dylan Erickson is a former TPUSA employee, now a contractor, also paid by Yrefy
+**C-13740** Host alleges Dylan Erickson is a former TPUSA employee, now a contractor, also paid by Yrefy
 
 Claim Timestamp: 00:10:21
 
@@ -2033,7 +2033,7 @@ Investigative Direction: Obtain Erickson's contractor agreement with TPUSA and a
 
 ---
 
-**C-6369** Host says Erickson runs the influencer management company that flew pro-Israel influencers to the Hamptons
+**C-13741** Host says Erickson runs the influencer management company that flew pro-Israel influencers to the Hamptons
 
 Claim Timestamp: 00:10:21
 
@@ -2048,7 +2048,7 @@ Investigative Direction: Identify the company, its principals and travel invoice
 
 ---
 
-**C-6370** Host relays claim that Yrefy has many TPUSA contracts but does not pay
+**C-13742** Host relays claim that Yrefy has many TPUSA contracts but does not pay
 
 Claim Timestamp: 00:11:10
 
@@ -2063,7 +2063,7 @@ Investigative Direction: Compare executed contract totals with payments received
 
 ---
 
-**C-6371** Host says Laine Schoneberger, his daughter and Dylan Erickson were at UVU on the day of the assassination and flew in together
+**C-13743** Host says Laine Schoneberger, his daughter and Dylan Erickson were at UVU on the day of the assassination and flew in together
 
 Claim Timestamp: 00:11:10
 
@@ -2078,7 +2078,7 @@ Investigative Direction: Obtain flight and charter manifests for September 9-10,
 
 ---
 
-**C-6372** Daily Mail headline: Yrefy accused of paying TPUSA for speaking slots to pitch to college students
+**C-13744** Daily Mail headline: Yrefy accused of paying TPUSA for speaking slots to pitch to college students
 
 Claim Timestamp: 00:11:10
 
@@ -2093,7 +2093,7 @@ Investigative Direction: Retrieve the Daily Mail article and confirm date, bylin
 
 ---
 
-**C-6373** Daily Mail reports Yrefy faced $750,000 in state sanctions last year
+**C-13745** Daily Mail reports Yrefy faced $750,000 in state sanctions last year
 
 Claim Timestamp: 00:12:40
 
@@ -2108,7 +2108,7 @@ Investigative Direction: Obtain the state regulator's consent order or settlemen
 
 ---
 
-**C-6374** Schoneberger tells the Daily Mail his firm changed its marketing materials and resolved up to $2.1 million in Massachusetts regulatory issues
+**C-13746** Schoneberger tells the Daily Mail his firm changed its marketing materials and resolved up to $2.1 million in Massachusetts regulatory issues
 
 Claim Timestamp: 00:13:56
 
@@ -2123,7 +2123,7 @@ Investigative Direction: Check Massachusetts Securities Division records for the
 
 ---
 
-**C-6375** Host says Charlie noticed money missing at Turning Point USA, particularly Turning Point Action, and TPUSA denies it
+**C-13747** Host says Charlie noticed money missing at Turning Point USA, particularly Turning Point Action, and TPUSA denies it
 
 Claim Timestamp: 00:13:56
 
@@ -2138,7 +2138,7 @@ Investigative Direction: Obtain Turning Point Action financial statements and an
 
 ---
 
-**C-6376** Host says Charlie established a DOGE seven days before he died and she does not believe it was for no reason
+**C-13748** Host says Charlie established a DOGE seven days before he died and she does not believe it was for no reason
 
 Claim Timestamp: 00:13:56
 
@@ -2149,12 +2149,12 @@ Transcript Snippet: I don't believe that Charlie established a Doge for no reaso
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10434, N-10132
-Supports: C-1563, C-3632
+Supports: C-2136, C-896
 Investigative Direction: Pull the September 2, 2025 internal memo announcing the DOGE audit and identify its stated purpose.
 
 ---
 
-**C-6377** Host says the February 2025 contract voids and cancels all previous contracts
+**C-13750** Host says the February 2025 contract voids and cancels all previous contracts
 
 Claim Timestamp: 00:15:21
 
@@ -2169,7 +2169,7 @@ Investigative Direction: Read the contract's entire-agreement clause and total t
 
 ---
 
-**C-6378** Host says the Believer Summit named in the contract was later cancelled
+**C-13751** Host says the Believer Summit named in the contract was later cancelled
 
 Claim Timestamp: 00:17:29
 
@@ -2184,7 +2184,7 @@ Investigative Direction: Check TPUSA announcements for the cancelled Believer Su
 
 ---
 
-**C-6379** Contract lists Riley Gaines for multiple event appearances, social posts and video endorsements
+**C-13752** Contract lists Riley Gaines for multiple event appearances, social posts and video endorsements
 
 Claim Timestamp: 00:17:29
 
@@ -2199,7 +2199,7 @@ Investigative Direction: Compare Gaines's actual appearances and posts with the 
 
 ---
 
-**C-6380** Contract's proposed influencer blitz lists Alex Clark, Riley Gaines, Benny Johnson, Jack Posobiec and others
+**C-13753** Contract's proposed influencer blitz lists Alex Clark, Riley Gaines, Benny Johnson, Jack Posobiec and others
 
 Claim Timestamp: 00:17:29
 
@@ -2214,7 +2214,7 @@ Investigative Direction: Check each named influencer's posts for Yrefy promotion
 
 ---
 
-**C-6381** Contract gives Yrefy hotel rooms, six inauguration seats and 25 Turning Point Ball tickets
+**C-13754** Contract gives Yrefy hotel rooms, six inauguration seats and 25 Turning Point Ball tickets
 
 Claim Timestamp: 00:19:08
 
@@ -2229,7 +2229,7 @@ Investigative Direction: Verify the ticket and hotel allocations against inaugur
 
 ---
 
-**C-6382** Host says the July 25 addendum is only one page and far less descriptive than the February contract
+**C-13756** Host says the July 25 addendum is only one page and far less descriptive than the February contract
 
 Claim Timestamp: 00:20:10
 
@@ -2244,7 +2244,7 @@ Investigative Direction: Obtain the full addendum PDF and confirm signatories, e
 
 ---
 
-**C-6383** Addendum covers premier branding at 12 evening campus events
+**C-13757** Addendum covers premier branding at 12 evening campus events
 
 Claim Timestamp: 00:21:01
 
@@ -2259,7 +2259,7 @@ Investigative Direction: Cross-check the 12 events against the fall tour schedul
 
 ---
 
-**C-6384** Host says no mainstage video was possible at UVU despite the addendum benefit
+**C-13758** Host says no mainstage video was possible at UVU despite the addendum benefit
 
 Claim Timestamp: 00:21:01
 
@@ -2274,7 +2274,7 @@ Investigative Direction: Compare the addendum deliverables with UVU stage logist
 
 ---
 
-**C-6385** Host says people claim Yrefy never actually pays the money on its contracts
+**C-13759** Host says people claim Yrefy never actually pays the money on its contracts
 
 Claim Timestamp: 00:22:13
 
@@ -2289,7 +2289,7 @@ Investigative Direction: Request evidence of payment (wires, invoices) for the F
 
 ---
 
-**C-6386** Nebraska-Lincoln chapter reopened February 11 and Frank Turek spoke there February 12, 2025
+**C-13761** Nebraska-Lincoln chapter reopened February 11 and Frank Turek spoke there February 12, 2025
 
 Claim Timestamp: 00:23:22
 
@@ -2304,7 +2304,7 @@ Investigative Direction: Verify chapter reactivation and the Turek event date vi
 
 ---
 
-**C-6387** Charlie told the host on February 24, 2025 that Macron asked the White House for her to stop discussing Brigitte
+**C-13762** Charlie told the host on February 24, 2025 that Macron asked the White House for her to stop discussing Brigitte
 
 Claim Timestamp: 00:23:22
 
@@ -2319,7 +2319,7 @@ Investigative Direction: Obtain the host's message or call records from February
 
 ---
 
-**C-6388** Sergio Gor called the host on February 25 asking her to stop discussing Brigitte Macron as a favor to Trump
+**C-13763** Sergio Gor called the host on February 25 asking her to stop discussing Brigitte Macron as a favor to Trump
 
 Claim Timestamp: 00:23:22
 
@@ -2334,7 +2334,7 @@ Investigative Direction: Obtain the host's call log and any contemporaneous mess
 
 ---
 
-**C-6389** Trump called the host on February 26 asking her to stop speaking about Brigitte Macron
+**C-13764** Trump called the host on February 26 asking her to stop speaking about Brigitte Macron
 
 Claim Timestamp: 00:24:35
 
@@ -2349,7 +2349,7 @@ Investigative Direction: Obtain the host's call records for February 26, 2025 an
 
 ---
 
-**C-6390** Host says BCG abandoned the Gaza Humanitarian Foundation in early June 2025 because of scandal
+**C-13765** Host says BCG abandoned the Gaza Humanitarian Foundation in early June 2025 because of scandal
 
 Claim Timestamp: 00:24:57
 
@@ -2364,7 +2364,7 @@ Investigative Direction: Check BCG and GHF statements, press reports and contrac
 
 ---
 
-**C-6391** Johnnie Moore became chairman of the Gaza Humanitarian Aid Project on June 3
+**C-13766** Johnnie Moore became chairman of the Gaza Humanitarian Aid Project on June 3
 
 Claim Timestamp: 00:25:15
 
@@ -2379,7 +2379,7 @@ Investigative Direction: Verify the appointment date through GHF announcements a
 
 ---
 
-**C-6392** Host says Andrew Kolvet worked with Kairos, Johnnie Moore's company, before starting his own PR firm
+**C-13767** Host says Andrew Kolvet worked with Kairos, Johnnie Moore's company, before starting his own PR firm
 
 Claim Timestamp: 00:25:31
 
@@ -2394,7 +2394,7 @@ Investigative Direction: Obtain Kolvet's and TPUSA's vendor records with Kairos 
 
 ---
 
-**C-6393** Host says Charlie was one of the few voices lobbying Trump against US involvement in the Iran-Israel war
+**C-13768** Host says Charlie was one of the few voices lobbying Trump against US involvement in the Iran-Israel war
 
 Claim Timestamp: 00:25:31
 
@@ -2409,7 +2409,7 @@ Investigative Direction: Seek White House visitor logs and reporting from June 1
 
 ---
 
-**C-6394** Host says UVU hosted a mass-casualty drill with crisis actors on June 17
+**C-13769** Host says UVU hosted a mass-casualty drill with crisis actors on June 17
 
 Claim Timestamp: 00:25:31
 
@@ -2424,7 +2424,7 @@ Investigative Direction: Request UVU emergency-management records, public notice
 
 ---
 
-**C-6395** Host says Charlie went to the White House June 18-19 and won the debate on Iran involvement
+**C-13770** Host says Charlie went to the White House June 18-19 and won the debate on Iran involvement
 
 Claim Timestamp: 00:25:31
 
@@ -2439,7 +2439,7 @@ Investigative Direction: Pull White House visitor and schedule records for June 
 
 ---
 
-**C-6396** Host says Erika purged her Instagram on June 19, deleting 126 posts
+**C-13771** Host says Erika purged her Instagram on June 19, deleting 126 posts
 
 Claim Timestamp: 00:26:34
 
@@ -2450,12 +2450,12 @@ Transcript Snippet: On June 19th, Erika purges her Instagram. She deletes 126 po
 Anchored Artifacts: A-2469.1
 Mentions: N-2
 Related Nodes: N-10412
-Supports: C-2091
+Supports: C-5005
 Investigative Direction: Re-check the Social Blade or archive data for the June 19 deletions.
 
 ---
 
-**C-6397** Host says Bradley Hansell was confirmed as undersecretary of defense for intelligence on June 22, term starting July 25
+**C-13772** Host says Bradley Hansell was confirmed as undersecretary of defense for intelligence on June 22, term starting July 25
 
 Claim Timestamp: 00:26:34
 
@@ -2470,7 +2470,7 @@ Investigative Direction: Check the Senate confirmation record and the DoD sweari
 
 ---
 
-**C-6398** Host says Charlie told Tucker Carlson to go max on Epstein at the Student Action Summit and Zionist donors freaked out
+**C-13773** Host says Charlie told Tucker Carlson to go max on Epstein at the Student Action Summit and Zionist donors freaked out
 
 Claim Timestamp: 00:27:34
 
@@ -2481,12 +2481,12 @@ Transcript Snippet: Charlie tells him to go max on the Epstein stuff and the Zio
 Anchored Artifacts: A-2469.1
 Mentions: N-1, N-22, N-98, N-9
 Related Nodes: N-10036
-Supports: C-1669, C-1559
+Supports: C-2651, C-2121
 Investigative Direction: Obtain the SAS program and Tucker's remarks; identify donors who ended gifts after July 11, 2025.
 
 ---
 
-**C-6399** Host says Tucker Carlson at SAS said foreign-army servicemembers should lose citizenship and mused about Ackman's wealth
+**C-13774** Host says Tucker Carlson at SAS said foreign-army servicemembers should lose citizenship and mused about Ackman's wealth
 
 Claim Timestamp: 00:27:34
 
@@ -2497,12 +2497,12 @@ Transcript Snippet: He says that people who serve in foreign armies should be st
 Anchored Artifacts: A-2469.1
 Mentions: N-22, N-37, N-9
 Related Nodes: 
-Supports: C-1559
+Supports: C-2121
 Investigative Direction: Review the July 11, 2025 Tucker Carlson SAS speech video and transcript.
 
 ---
 
-**C-6400** Host says Frank Turek deleted his website on July 11
+**C-13775** Host says Frank Turek deleted his website on July 11
 
 Claim Timestamp: 00:28:21
 
@@ -2517,7 +2517,7 @@ Investigative Direction: Check Wayback Machine captures of Turek's site around J
 
 ---
 
-**C-6401** Per the New York Times, Trump angrily called Charlie on July 12 calling SAS an Epstein grievance fest
+**C-13776** Per the New York Times, Trump angrily called Charlie on July 12 calling SAS an Epstein grievance fest
 
 Claim Timestamp: 00:28:21
 
@@ -2532,7 +2532,7 @@ Investigative Direction: Pull the New York Times report and check whether it nam
 
 ---
 
-**C-6402** Charlie announced on July 14 he would stop covering Epstein and trusted friends in the administration
+**C-13777** Charlie announced on July 14 he would stop covering Epstein and trusted friends in the administration
 
 Claim Timestamp: 00:28:21
 
@@ -2547,7 +2547,7 @@ Investigative Direction: Review the July 14, 2025 Charlie Kirk Show episode for 
 
 ---
 
-**C-6403** Erika flew privately to Long Beach on July 14 and spoke at James Kaddis's Calvary Chapel
+**C-13778** Erika flew privately to Long Beach on July 14 and spoke at James Kaddis's Calvary Chapel
 
 Claim Timestamp: 00:28:21
 
@@ -2562,7 +2562,7 @@ Investigative Direction: Obtain the retreat program, flight records and any vide
 
 ---
 
-**C-6404** Host says Erika's Long Beach speech was pro-Israel and a call to arms
+**C-13779** Host says Erika's Long Beach speech was pro-Israel and a call to arms
 
 Claim Timestamp: 00:28:21
 
@@ -2577,7 +2577,7 @@ Investigative Direction: Review the video or transcript of the Long Beach speech
 
 ---
 
-**C-6405** Host premiered her Epstein series with Xavier Poussard's reporting, introduced by Dead Men Tell No Tales
+**C-13781** Host premiered her Epstein series with Xavier Poussard's reporting, introduced by Dead Men Tell No Tales
 
 Claim Timestamp: 00:29:19
 
@@ -2592,7 +2592,7 @@ Investigative Direction: Check the YouTube publish date of 'Dead Men Tell No Tal
 
 ---
 
-**C-6406** Host says her 'Midas Touch' episode argued Epstein's money was unexplained and he rose via blackmail
+**C-13782** Host says her 'Midas Touch' episode argued Epstein's money was unexplained and he rose via blackmail
 
 Claim Timestamp: 00:30:48
 
@@ -2607,7 +2607,7 @@ Investigative Direction: Compare the episode's sourcing with the documented reco
 
 ---
 
-**C-6407** Host says a formal request from the TPUSA UVU chapter was submitted July 18 and the event was set for UVU
+**C-13783** Host says a formal request from the TPUSA UVU chapter was submitted July 18 and the event was set for UVU
 
 Claim Timestamp: 00:31:08
 
@@ -2622,7 +2622,7 @@ Investigative Direction: Verify the July 18 date in the UVU independent review's
 
 ---
 
-**C-6408** Host says an Egyptian plane flew Cairo-Paris-Omaha-Lincoln on July 20
+**C-13784** Host says an Egyptian plane flew Cairo-Paris-Omaha-Lincoln on July 20
 
 Claim Timestamp: 00:31:20
 
@@ -2637,7 +2637,7 @@ Investigative Direction: Match the tail number's FlightAware or ADS-B history ag
 
 ---
 
-**C-6409** Host says the Kirks vacationed in Maine from July 20 with Mikey and Elizabeth McCoy, producing the final footage
+**C-13785** Host says the Kirks vacationed in Maine from July 20 with Mikey and Elizabeth McCoy, producing the final footage
 
 Claim Timestamp: 00:31:34
 
@@ -2652,7 +2652,7 @@ Investigative Direction: Obtain the McCoys' posts or the final-footage metadata 
 
 ---
 
-**C-6410** Host says an Epstein situation-room meeting followed each of her Epstein episodes the next day
+**C-13786** Host says an Epstein situation-room meeting followed each of her Epstein episodes the next day
 
 Claim Timestamp: 00:31:52
 
@@ -2667,7 +2667,7 @@ Investigative Direction: Tabulate her episode publish dates against the meeting 
 
 ---
 
-**C-6411** House Oversight voted July 23 to subpoena Epstein files, coinciding with a second situation-room meeting
+**C-13787** House Oversight voted July 23 to subpoena Epstein files, coinciding with a second situation-room meeting
 
 Claim Timestamp: 00:31:52
 
@@ -2682,7 +2682,7 @@ Investigative Direction: Check the House Oversight Committee vote record of July
 
 ---
 
-**C-6412** Host says her House of Maxwell episode covered Robert Maxwell's textbook printing in American schools
+**C-13788** Host says her House of Maxwell episode covered Robert Maxwell's textbook printing in American schools
 
 Claim Timestamp: 00:31:52
 
@@ -2697,7 +2697,7 @@ Investigative Direction: Compare the episode's textbook-printing claim with Robe
 
 ---
 
-**C-6413** Host says the Egyptian plane left Wilmington, Delaware for Cairo on July 27, noting she needs to double check
+**C-13789** Host says the Egyptian plane left Wilmington, Delaware for Cairo on July 27, noting she needs to double check
 
 Claim Timestamp: 00:33:08
 
@@ -2712,7 +2712,7 @@ Investigative Direction: Verify the departure airport and date in ADS-B records;
 
 ---
 
-**C-6414** Charlie and Erika landed in Bedford, New York on August 3 for the Hamptons retreat
+**C-13790** Charlie and Erika landed in Bedford, New York on August 3 for the Hamptons retreat
 
 Claim Timestamp: 00:33:08
 
@@ -2727,7 +2727,7 @@ Investigative Direction: Check flight-tracking records for Bedford (HPN or a nea
 
 ---
 
-**C-6415** Host says Netanyahu's call to Erika during the Hamptons weekend is confirmed and offered to take TPUSA to the next level
+**C-13791** Host says Netanyahu's call to Erika during the Hamptons weekend is confirmed and offered to take TPUSA to the next level
 
 Claim Timestamp: 00:33:08
 
@@ -2738,12 +2738,12 @@ Transcript Snippet: BB Netanyahu did in fact call Erika was present for this pho
 Anchored Artifacts: A-2469.1
 Mentions: N-36, N-2
 Related Nodes: N-10018, N-10446
-Supports: C-1129
+Supports: C-82
 Investigative Direction: Identify who confirmed the call and obtain the call time and participants.
 
 ---
 
-**C-6416** Host says Netanyahu invited Charlie to Israel, Charlie declined, and Kolvet has since admitted it
+**C-13792** Host says Netanyahu invited Charlie to Israel, Charlie declined, and Kolvet has since admitted it
 
 Claim Timestamp: 00:33:08
 
@@ -2754,12 +2754,12 @@ Transcript Snippet: I was also told that BB invited Charlie to Israel and Charli
 Anchored Artifacts: A-2469.1
 Mentions: N-36, N-1, N-14
 Related Nodes: N-10018
-Supports: C-1557, C-1129
+Supports: C-2132, C-82
 Investigative Direction: Locate Kolvet's statement acknowledging the invitation.
 
 ---
 
-**C-6417** Host says the influencers present on August 5-6 were not part of the Netanyahu call
+**C-13793** Host says the influencers present on August 5-6 were not part of the Netanyahu call
 
 Claim Timestamp: 00:33:08
 
@@ -2774,7 +2774,7 @@ Investigative Direction: Compare attendee lists and day-by-day schedules for the
 
 ---
 
-**C-6418** Host says a fake MySpace account for her was archived on August 4
+**C-13794** Host says a fake MySpace account for her was archived on August 4
 
 Claim Timestamp: 00:34:20
 
@@ -2789,7 +2789,7 @@ Investigative Direction: Check Wayback Machine capture dates for the MySpace pro
 
 ---
 
-**C-6419** Charlie went on Megyn Kelly's show on August 6 and said people were calling him an anti-semite
+**C-13795** Charlie went on Megyn Kelly's show on August 6 and said people were calling him an anti-semite
 
 Claim Timestamp: 00:34:39
 
@@ -2804,7 +2804,7 @@ Investigative Direction: Review the August 6, 2025 Megyn Kelly Show episode.
 
 ---
 
-**C-6420** Host says her 2015 Flickr account was archived for the first time on August 9
+**C-13796** Host says her 2015 Flickr account was archived for the first time on August 9
 
 Claim Timestamp: 00:34:39
 
@@ -2819,7 +2819,7 @@ Investigative Direction: Check Wayback Machine capture history for the Flickr ac
 
 ---
 
-**C-6421** Host says her Aug 13 episode said Clinton stopped hunting the 'Mega' mole after Netanyahu threatened to expose Lewinsky tapes
+**C-13797** Host says her Aug 13 episode said Clinton stopped hunting the 'Mega' mole after Netanyahu threatened to expose Lewinsky tapes
 
 Claim Timestamp: 00:34:39
 
@@ -2834,7 +2834,7 @@ Investigative Direction: Check the episode's sources for the Mega mole story and
 
 ---
 
-**C-6422** Per the book, the August 13 Epstein meeting ran about two hours, with Trump, Warrington and Woodward not named
+**C-13798** Per the book, the August 13 Epstein meeting ran about two hours, with Trump, Warrington and Woodward not named
 
 Claim Timestamp: 00:35:55
 
@@ -2849,7 +2849,7 @@ Investigative Direction: Check the book passage for the meeting length and atten
 
 ---
 
-**C-6423** Cabot Phillips asked TPUSA on August 14 to speak for the Daily Wire at UVU in late September
+**C-13799** Cabot Phillips asked TPUSA on August 14 to speak for the Daily Wire at UVU in late September
 
 Claim Timestamp: 00:35:55
 
@@ -2864,7 +2864,7 @@ Investigative Direction: Check the UVU independent review and records for Philli
 
 ---
 
-**C-6424** Erika had a photo shoot with the children and Charlie at the Biltmore on August 14, organized with TPUSA's CMO
+**C-13800** Erika had a photo shoot with the children and Charlie at the Biltmore on August 14, organized with TPUSA's CMO
 
 Claim Timestamp: 00:35:55
 
@@ -2879,7 +2879,7 @@ Investigative Direction: Obtain the photographer's booking and publication detai
 
 ---
 
-**C-6425** Host says the August 15-17 Aspen investor meeting is when Charlie reportedly appointed Erika successor
+**C-13801** Host says the August 15-17 Aspen investor meeting is when Charlie reportedly appointed Erika successor
 
 Claim Timestamp: 00:37:18
 
@@ -2894,7 +2894,7 @@ Investigative Direction: Obtain the Aspen meeting attendee list and any recordin
 
 ---
 
-**C-6426** Host says Egyptian planes landed in Lincoln at noon on August 17 and were also in Omaha
+**C-13802** Host says Egyptian planes landed in Lincoln at noon on August 17 and were also in Omaha
 
 Claim Timestamp: 00:37:27
 
@@ -2909,7 +2909,7 @@ Investigative Direction: Compare ADS-B arrival times and the airports against th
 
 ---
 
-**C-6427** Host says FOIA about Kash Patel's Omaha trip drew a neither-confirm-nor-deny response
+**C-13803** Host says FOIA about Kash Patel's Omaha trip drew a neither-confirm-nor-deny response
 
 Claim Timestamp: 00:37:41
 
@@ -2924,7 +2924,7 @@ Investigative Direction: Obtain the FOIA request number and response letter; che
 
 ---
 
-**C-6428** Host says Harpole claimed security planning began August 24 but UVU says it was not informed
+**C-13804** Host says Harpole claimed security planning began August 24 but UVU says it was not informed
 
 Claim Timestamp: 00:38:16
 
@@ -2935,12 +2935,12 @@ Transcript Snippet: but UVU, we've now learned, says that they were not informed
 Anchored Artifacts: A-2469.1
 Mentions: N-266
 Related Nodes: N-10839
-Supports: C-1967
+Supports: C-4238
 Investigative Direction: Compare Harpole's account with the independent review's timeline and UVU police records.
 
 ---
 
-**C-6429** Host Says an Operation Valhalla Strike Began Between Civilians and Military Training in Minnesota
+**C-13805** Host Says an Operation Valhalla Strike Began Between Civilians and Military Training in Minnesota
 
 Claim Timestamp: 00:38:16
 
@@ -2955,7 +2955,7 @@ Investigative Direction: Identify the exercise, its dates and participants, and 
 
 ---
 
-**C-6430** Host says TPUSA security was absent from the August 25 UVU major events call and Chief Long asked for a contact he did not get
+**C-13806** Host says TPUSA security was absent from the August 25 UVU major events call and Chief Long asked for a contact he did not get
 
 Claim Timestamp: 00:38:16
 
@@ -2970,7 +2970,7 @@ Investigative Direction: Verify the August 25 meeting entry and Long's contact r
 
 ---
 
-**C-6431** Host says September 2 was the first mention found of Charlie speaking in UVU's courtyard, and Long reached Dan Flood on September 3
+**C-13807** Host says September 2 was the first mention found of Charlie speaking in UVU's courtyard, and Long reached Dan Flood on September 3
 
 Claim Timestamp: 00:39:30
 
@@ -2985,7 +2985,7 @@ Investigative Direction: Verify the September 2-3 entries in the independent rev
 
 ---
 
-**C-6432** Host says 3,000 people showed up despite the event being announced so late
+**C-13808** Host says 3,000 people showed up despite the event being announced so late
 
 Claim Timestamp: 00:39:45
 
@@ -3000,7 +3000,7 @@ Investigative Direction: Check attendance estimates and ticketing or RSVP data f
 
 ---
 
-**C-6433** Host says the September 10 UVU event coincided with the university's military day
+**C-13809** Host says the September 10 UVU event coincided with the university's military day
 
 Claim Timestamp: 00:39:54
 
@@ -3015,7 +3015,7 @@ Investigative Direction: Check UVU's September 10, 2025 events calendar for mili
 
 ---
 
-**C-6434** Host says TPUSA was asked why former staff say Erika controlled the modeling-apartments company Jean-Luc Brunel started
+**C-13810** Host says TPUSA was asked why former staff say Erika controlled the modeling-apartments company Jean-Luc Brunel started
 
 Claim Timestamp: 00:40:55
 
@@ -3030,7 +3030,7 @@ Investigative Direction: Establish the company's corporate records and any role 
 
 ---
 
-**C-6435** Host says her college final submitted and archived was about the Adderall epidemic on campus
+**C-13811** Host says her college final submitted and archived was about the Adderall epidemic on campus
 
 Claim Timestamp: 00:42:04
 
@@ -3045,7 +3045,7 @@ Investigative Direction: View the archived college video and compare its subject
 
 ---
 
-**C-6436** Host says Patel and Bongino announced the arrest of autistic man Brian Cole Jr. five years after January 6
+**C-13812** Host says Patel and Bongino announced the arrest of autistic man Brian Cole Jr. five years after January 6
 
 Claim Timestamp: 00:45:54
 
@@ -3060,7 +3060,7 @@ Investigative Direction: Check the DOJ complaint and FBI announcement for arrest
 
 ---
 
-**C-6437** Host says she received information that everyone on Capitol Hill knows the pipe bomber came out of Pelosi's office and was allegedly a woman
+**C-13813** Host says she received information that everyone on Capitol Hill knows the pipe bomber came out of Pelosi's office and was allegedly a woman
 
 Claim Timestamp: 00:45:54
 
@@ -3075,7 +3075,7 @@ Investigative Direction: Seek corroboration from named Capitol Police or congres
 
 ---
 
-**C-6438** Host says agents descended on Cole's home in December 2025 and he lives with his mother
+**C-13815** Host says agents descended on Cole's home in December 2025 and he lives with his mother
 
 Claim Timestamp: 00:49:42
 
@@ -3090,7 +3090,7 @@ Investigative Direction: Check the arrest affidavit and press reports for the ar
 
 ---
 
-**C-6439** Host says Cole pleaded not guilty and was denied bond in January
+**C-13816** Host says Cole pleaded not guilty and was denied bond in January
 
 Claim Timestamp: 00:49:42
 
@@ -3105,7 +3105,7 @@ Investigative Direction: Check the docket for the plea and detention hearing.
 
 ---
 
-**C-6440** Scripps aired 2024 Virginia crash bodycam in which Cole was ticketed for following too closely
+**C-13818** Scripps aired 2024 Virginia crash bodycam in which Cole was ticketed for following too closely
 
 Claim Timestamp: 00:51:47
 
@@ -3120,7 +3120,7 @@ Investigative Direction: Obtain the Virginia police record of the 2024 crash and
 
 ---
 
-**C-6441** Scripps says it asked police departments near Robinson's home for reports and obtained his 2022 accident bodycam
+**C-13819** Scripps says it asked police departments near Robinson's home for reports and obtained his 2022 accident bodycam
 
 Claim Timestamp: 00:53:52
 
@@ -3135,7 +3135,7 @@ Investigative Direction: Obtain the Scripps records request and the department's
 
 ---
 
-**C-6442** Host says Erika attended daycare in Cincinnati's Scripps building in 1991, built in 1990
+**C-13820** Host says Erika attended daycare in Cincinnati's Scripps building in 1991, built in 1990
 
 Claim Timestamp: 00:55:15
 
@@ -3150,7 +3150,7 @@ Investigative Direction: Verify the daycare record, building construction date a
 
 ---
 
-**C-6443** Host says she found no evidence Erika's parents worked in the Scripps building
+**C-13821** Host says she found no evidence Erika's parents worked in the Scripps building
 
 Claim Timestamp: 00:55:31
 
@@ -3165,7 +3165,7 @@ Investigative Direction: Check employment history for Erika's parents against te
 
 ---
 
-**C-6444** Host quotes Erika as saying she asks herself whether something brings her closer to or further from heaven
+**C-13824** Host quotes Erika as saying she asks herself whether something brings her closer to or further from heaven
 
 Claim Timestamp: 01:01:24
 
@@ -3180,7 +3180,7 @@ Investigative Direction: Locate the original interview or post in which Erika ma
 
 ---
 
-**C-6445** Host says Erika now says she has no opinion on and does not think about Netanyahu
+**C-13823** Host says Erika now says she has no opinion on and does not think about Netanyahu
 
 Claim Timestamp: 01:00:00
 
@@ -3195,7 +3195,7 @@ Investigative Direction: Find Erika's public statements on Israel and Netanyahu 
 
 ---
 
-**C-6446** Host says Erika gave Vanity Fair four months of access
+**C-13826** Host says Erika gave Vanity Fair four months of access
 
 Claim Timestamp: 01:04:59
 
@@ -3210,7 +3210,7 @@ Investigative Direction: Check the Vanity Fair article's description of access g
 
 ---
 
-**C-6447** Host thanks Lake Forest Group, the UVU independent review and the Vanity Fair reporter for her vindication
+**C-13827** Host thanks Lake Forest Group, the UVU independent review and the Vanity Fair reporter for her vindication
 
 Claim Timestamp: 01:06:26
 
@@ -3225,7 +3225,7 @@ Investigative Direction: Confirm Lake Forest Group's role as author of the indep
 
 ---
 
-**C-6448** Host says her highly identifying mark means fake porn cannot be made about her
+**C-13828** Host says her highly identifying mark means fake porn cannot be made about her
 
 Claim Timestamp: 01:06:45
 

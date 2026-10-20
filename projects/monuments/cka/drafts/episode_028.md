@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep028): N-374, N-10451
   - Tip-minted Nodes (reintro-ep028): N-11159
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10d): C-9647–C-9697
+  - Claim Range: C-2491–C-2557
   - Tip-minted Nodes (reintro-ep028): N-711
   - (see registers)
 
@@ -140,7 +140,6 @@ Confidence: high
 ### Episode 28 Ledger Summary
 
 - Artifact Families Introduced: A-1355, A-1356, A-1357, A-1358, A-1359, A-1360, A-1361, A-1362, A-1363
-- Claim Range: C-1636 – C-1651
   - New Nodes Introduced: N-234, N-235, N-10237, N-10238
   - Reused Nodes Appearing: N-34, N-36, N-145, N-178, N-222, N-229, N-366, N-660, N-10000, N-10016, N-10025, N-10026, N-10056, N-10063, N-10081, N-10106, N-10345, N-10406, N-10900, N-11096, N-10236, N-10424
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens), plus previously inscribed nodes for Megyn Kelly, Tucker Carlson, Nick Fuentes, Ben Shapiro, Jeremy Boreing, Marjorie Taylor Greene, Eric Trump, Lara Trump, Ron Paul, Seth Dillon (node IDs to be reconciled against full ledger)
@@ -165,7 +164,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:01:13
 Confidence Level: Medium (read aloud as a quotation, not displayed)
-*Related: C-1636, N-Shapiro (existing)*
+*Related: C-2498, N-Shapiro (existing)*
 Flag: Artifact verbally referenced but not shown.
 
 **A-1355.2** Ben Shapiro tweet characterizing "Israel first" framing as antisemitism, directed at Nick Fuentes
@@ -174,7 +173,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:02:12
 Confidence Level: Medium (read aloud as a tweet, not displayed)
-*Related: C-1648, N-Shapiro (existing)*
+*Related: C-2491, N-Shapiro (existing)*
 Flag: Artifact verbally referenced but not shown.
 
 **A-1355.3** Ben Shapiro tweet about Ron Paul "corpse leaning forward from the grave and strangling the Jews"
@@ -183,7 +182,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:02:12
 Confidence Level: Medium (read aloud as a tweet, not displayed)
-*Related: C-1649, N-Shapiro (existing), N-Ron Paul (existing)*
+*Related: C-2492, N-Shapiro (existing), N-Ron Paul (existing)*
 Flag: Artifact verbally referenced but not shown.
 
 ---
@@ -197,7 +196,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:09:56–00:10:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played on air)
-*Related: C-1636, C-1637, C-1638, C-1639, N-Ben Shapiro (existing), N-Megyn Kelly (existing), N-Erika Kirk (N-3)*
+*Related: C-2498, C-2502, C-2503, C-2504, N-Ben Shapiro (existing), N-Megyn Kelly (existing), N-Erika Kirk (N-3)*
 
 **A-1356.2** Audio clip: Tucker Carlson speaking with Marjorie Taylor Greene about Zohran Mamdani
 
@@ -205,7 +204,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:06:24–00:08:57
 Confidence Level: High (audio played on air)
-*Related: C-1636, N-Tucker Carlson (existing), N-Marjorie Taylor Greene (existing), N-Zohran Mamdani (N-223)*
+*Related: C-2498, N-Tucker Carlson (existing), N-Marjorie Taylor Greene (existing), N-Zohran Mamdani (N-223)*
 
 ---
 
@@ -218,7 +217,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:04:34–00:05:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud by named sender)
-*Related: C-1650, N-Ben Shapiro (existing), N-Tucker Carlson (existing), N-Charlie Kirk (N-1)*
+*Related: C-2497, N-Ben Shapiro (existing), N-Tucker Carlson (existing), N-Charlie Kirk (N-1)*
 
 ---
 
@@ -231,7 +230,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:14:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (article read aloud in full excerpt)
-*Related: C-1640, C-1641, N-Jeremy Boreing (existing), N-Nick Fuentes (existing), N-Daily Wire (existing institution)*
+*Related: C-2510, C-2511, N-Jeremy Boreing (existing), N-Nick Fuentes (existing), N-Daily Wire (existing institution)*
 
 ---
 
@@ -243,7 +242,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:15:45
 Confidence Level: High (audio played on air)
-*Related: C-1640, C-1641, N-Jeremy Boreing (existing), N-Nick Fuentes (existing), N-Daily Wire (existing)*
+*Related: C-2510, C-2511, N-Jeremy Boreing (existing), N-Nick Fuentes (existing), N-Daily Wire (existing)*
 
 ---
 
@@ -256,7 +255,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:16:27–00:17:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud by named participant)
-*Related: C-1642, N-Candace Owens (existing), N-Charlie Kirk (N-1), N-Ben Shapiro (existing), N-10237*
+*Related: C-2515, N-Candace Owens (existing), N-Charlie Kirk (N-1), N-Ben Shapiro (existing), N-10237*
 
 **A-1360.2** Read-aloud headline: "Ben Shapiro's YAF launches smear campaign against Charlie Kirk and Candace Owens"
 
@@ -264,7 +263,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:16:27
 Confidence Level: Medium (referenced as thumbnail; not displayed in detail)
-*Related: C-1642, N-Ben Shapiro (existing), N-YAF (existing)*
+*Related: C-2515, N-Ben Shapiro (existing), N-YAF (existing)*
 Flag: Artifact verbally referenced but not shown.
 
 ---
@@ -277,7 +276,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:25:16–00:27:36
 Confidence Level: High (audio played on air)
-*Related: C-1643, N-Candace Owens (existing), N-Ariana (N-235), N-Daily Wire (existing)*
+*Related: C-2528, N-Candace Owens (existing), N-Ariana (N-235), N-Daily Wire (existing)*
 
 ---
 
@@ -289,7 +288,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:33:44–00:35:14
 Confidence Level: High (audio played on air)
-*Related: C-1644, C-1645, C-1651, N-Candace Owens (existing), N-Elle Reeve (N-234), N-CNN (existing)*
+*Related: C-2540, C-2539, C-2538, N-Candace Owens (existing), N-Elle Reeve (N-234), N-CNN (existing)*
 
 ---
 
@@ -301,7 +300,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:39:12–00:41:34
 Confidence Level: High (audio played on air)
-*Related: C-1646, C-1647, N-Eric Trump (existing), N-Lara Trump (existing), N-TPUSA (existing)*
+*Related: C-2543, C-2544, N-Eric Trump (existing), N-Lara Trump (existing), N-TPUSA (existing)*
 
 ---
 
@@ -314,7 +313,7 @@ Video Timestamp: 00:36:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9683, C-9684, N-3*
+*Related: C-2541, C-2542, N-3*
 
 ---
 
@@ -327,7 +326,7 @@ Video Timestamp: 00:49:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9695, N-3*
+*Related: C-2555, N-3*
 
 ---
 
@@ -338,7 +337,7 @@ Video Timestamp: 00:50:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9696, N-3*
+*Related: C-2556, N-3*
 
 ---
 
@@ -348,9 +347,9 @@ Confidence Level: Medium
 
 **N-711** Ron Paul
 
-Libertarian former congressman; named in C-1649 (Shapiro imagery).
+Libertarian former congressman; named in C-2492 (Shapiro imagery).
 
-*Related: C-1649*
+*Related: C-2492*
 
 ---
 
@@ -363,7 +362,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1362.1, C-1645, C-1651*
+*Related: A-1362.1, C-2539, C-2538*
 
 ---
 
@@ -376,7 +375,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1356.1, A-1356.2, C-1636*
+*Related: A-1356.1, A-1356.2, C-2498*
 
 ---
 
@@ -389,7 +388,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1361.1, C-1643, N-Daily Wire (existing)*
+*Related: A-1361.1, C-2528, N-Daily Wire (existing)*
 Flag: Name uncertainty.
 
 ---
@@ -405,7 +404,7 @@ Claim Count: 0 (no artifact-anchored claim inscribed in this episode)
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1356.1, A-1361.1, C-1636, C-1643*
+*Related: A-1356.1, A-1361.1, C-2498, C-2528*
 
 ---
 
@@ -418,7 +417,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1356.1, A-1360.1, C-1638, C-1639*
+*Related: A-1356.1, A-1360.1, C-2503, C-2504*
 
 ---
 
@@ -431,7 +430,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1361.1, C-1643, N-Daily Wire (existing), N-Alyssa Cordova (existing)*
+*Related: A-1361.1, C-2528, N-Daily Wire (existing), N-Alyssa Cordova (existing)*
 
 ---
 
@@ -439,7 +438,7 @@ Investigative Pressure: Medium
 
 Subject of the assassination; his reported texts, debate offer and views on pressure are cited.
 
-*Related: C-9650, C-9655, C-9656, C-9661, C-9662, C-9663, C-9664, C-9665, C-9666, C-9672, C-9676, C-9680, C-9681, C-9693, C-9694, C-9695, C-9697*
+*Related: C-2496, C-2506, C-2507, C-2514, C-2516, C-2517, C-2518, C-2519, C-2520, C-2526, C-2531, C-2535, C-2536, C-2553, C-2554, C-2555, C-2557*
 
 ---
 
@@ -447,7 +446,7 @@ Subject of the assassination; his reported texts, debate offer and views on pres
 
 Widow and TPUSA CEO; the host says she was not working at TPUSA when Charlie died.
 
-*Related: C-9648, C-9657, C-9666, C-9693*
+*Related: C-2494, C-2508, C-2520, C-2553*
 
 ---
 
@@ -455,7 +454,7 @@ Widow and TPUSA CEO; the host says she was not working at TPUSA when Charlie die
 
 Host; speaks for herself throughout.
 
-*Related: C-9647, C-9648, C-9654, C-9655, C-9656, C-9657, C-9658, C-9662, C-9663, C-9664, C-9666, C-9674, C-9675, C-9676, C-9677, C-9679, C-9681, C-9682, C-9683, C-9684, C-9693, C-9694, C-9696*
+*Related: C-2493, C-2494, C-2505, C-2506, C-2507, C-2508, C-2509, C-2516, C-2517, C-2518, C-2520, C-2529, C-2530, C-2531, C-2532, C-2534, C-2536, C-2537, C-2541, C-2542, C-2553, C-2554, C-2556*
 
 ---
 
@@ -463,7 +462,7 @@ Host; speaks for herself throughout.
 
 Subject of Shapiro's stage criticism and the Greene interview clip.
 
-*Related: C-9647, C-9649, C-9650, C-9651, C-9652, C-9653, C-9678*
+*Related: C-2493, C-2495, C-2496, C-2499, C-2500, C-2501, C-2533*
 
 ---
 
@@ -471,7 +470,7 @@ Subject of Shapiro's stage criticism and the Greene interview clip.
 
 Addressed by the Auburn student; the host's remarks on the Trump family.
 
-*Related: C-9685, C-9686, C-9687, C-9688, C-9689, C-9690, C-9691, C-9692*
+*Related: C-2545, C-2546, C-2547, C-2548, C-2549, C-2550, C-2551, C-2552*
 
 ---
 
@@ -479,7 +478,7 @@ Addressed by the Auburn student; the host's remarks on the Trump family.
 
 Subject of Shapiro's interview, the Auburn question and the host's remarks.
 
-*Related: C-9668, C-9686, C-9692*
+*Related: C-2522, C-2546, C-2552*
 
 ---
 
@@ -487,7 +486,7 @@ Subject of Shapiro's interview, the Auburn question and the host's remarks.
 
 Named by Shapiro on stage; the host says she accused him only of lying about the Hamptons meeting and pressuring Charlie.
 
-*Related: C-9655, C-9656*
+*Related: C-2506, C-2507*
 
 ---
 
@@ -495,7 +494,7 @@ Named by Shapiro on stage; the host says she accused him only of lying about the
 
 Host of the tour stop where Shapiro appeared; pressed to disavow Carlson and the host.
 
-*Related: C-9647, C-9654, C-9665, C-9672, C-9673, C-9678, C-9679, C-9680*
+*Related: C-2493, C-2505, C-2519, C-2526, C-2527, C-2533, C-2534, C-2535*
 
 ---
 
@@ -503,7 +502,7 @@ Host of the tour stop where Shapiro appeared; pressed to disavow Carlson and the
 
 Guest at the Kelly tour stop; subject of the host's rebuttal.
 
-*Related: C-9647, C-9648, C-9649, C-9650, C-9651, C-9654, C-9660, C-9661, C-9662, C-9663, C-9664, C-9667, C-9668, C-9669, C-9670, C-9672, C-9673, C-9676, C-9695, C-9697*
+*Related: C-2493, C-2494, C-2495, C-2496, C-2499, C-2505, C-2513, C-2514, C-2516, C-2517, C-2518, C-2521, C-2522, C-2523, C-2524, C-2526, C-2527, C-2531, C-2555, C-2557*
 
 ---
 
@@ -511,7 +510,7 @@ Guest at the Kelly tour stop; subject of the host's rebuttal.
 
 Interlocutor in the played Carlson clip.
 
-*Related: C-9651, C-9652, C-9653*
+*Related: C-2499, C-2500, C-2501*
 
 ---
 
@@ -519,7 +518,7 @@ Interlocutor in the played Carlson clip.
 
 Named by the host in her remarks on the Trump family and Middle East deals.
 
-*Related: C-9690*
+*Related: C-2550*
 
 ---
 
@@ -527,7 +526,7 @@ Named by the host in her remarks on the Trump family and Middle East deals.
 
 Subject of the Boring conversation, Shapiro's remarks and the host's views.
 
-*Related: C-9659, C-9660, C-9669, C-9670, C-9671, C-9696*
+*Related: C-2512, C-2513, C-2523, C-2524, C-2525, C-2556*
 
 ---
 
@@ -535,7 +534,7 @@ Subject of the Boring conversation, Shapiro's remarks and the host's views.
 
 Congressman the host says Shapiro congratulated.
 
-*Related: C-9667*
+*Related: C-2521*
 
 ---
 
@@ -543,7 +542,7 @@ Congressman the host says Shapiro congratulated.
 
 Named by the host as orchestrating the Daily Wire intern operation.
 
-*Related: C-9677*
+*Related: C-2532*
 
 ---
 
@@ -551,7 +550,7 @@ Named by the host as orchestrating the Daily Wire intern operation.
 
 Former Daily Wire CEO (transcript spelling Boring); the host cites his X Space with Fuentes.
 
-*Related: C-9658, C-9659, C-9660, C-9669*
+*Related: C-2509, C-2512, C-2513, C-2523*
 
 ---
 
@@ -559,7 +558,7 @@ Former Daily Wire CEO (transcript spelling Boring); the host cites his X Space w
 
 Spoke at the Auburn TPUSA event (transcript spelling Lara Trump).
 
-*Related: C-9685, C-9686, C-9687, C-9688, C-9689, C-9690, C-9691, C-9692*
+*Related: C-2545, C-2546, C-2547, C-2548, C-2549, C-2550, C-2551, C-2552*
 
 ---
 
@@ -567,7 +566,7 @@ Spoke at the Auburn TPUSA event (transcript spelling Lara Trump).
 
 Named in the host's remarks on Kushner's deals.
 
-*Related: C-9690*
+*Related: C-2550*
 
 ---
 
@@ -575,7 +574,7 @@ Named in the host's remarks on Kushner's deals.
 
 Organization whose leadership and Erika's role are discussed.
 
-*Related: C-9657, C-9666, C-9676*
+*Related: C-2508, C-2520, C-2531*
 
 ---
 
@@ -583,7 +582,7 @@ Organization whose leadership and Erika's role are discussed.
 
 Existing topic reused for Dillon's Hamptons claims.
 
-*Related: C-9656*
+*Related: C-2507*
 
 ---
 
@@ -591,7 +590,7 @@ Existing topic reused for Dillon's Hamptons claims.
 
 Existing topic reused for the host's pressure claims.
 
-*Related: C-9680, C-9693*
+*Related: C-2535, C-2553*
 
 ---
 
@@ -599,7 +598,7 @@ Existing topic reused for the host's pressure claims.
 
 Existing place node reused for the host's remarks on Israel's response.
 
-*Related: C-9653, C-9694*
+*Related: C-2501, C-2554*
 
 ---
 
@@ -607,7 +606,7 @@ Existing place node reused for the host's remarks on Israel's response.
 
 Existing topic reused for the host's remarks on Israel's immediate denial.
 
-*Related: C-9694*
+*Related: C-2554*
 
 ---
 
@@ -615,7 +614,7 @@ Existing topic reused for the host's remarks on Israel's immediate denial.
 
 Existing place node reused for the Kushner remarks.
 
-*Related: C-9690*
+*Related: C-2550*
 
 ---
 
@@ -623,7 +622,7 @@ Existing place node reused for the Kushner remarks.
 
 Existing topic reused for the campus speech remark.
 
-*Related: C-9691*
+*Related: C-2551*
 
 ---
 
@@ -631,7 +630,7 @@ Existing topic reused for the campus speech remark.
 
 Existing topic reused for the moral blackmail claim.
 
-*Related: C-9672*
+*Related: C-2526*
 
 ---
 
@@ -639,7 +638,7 @@ Existing topic reused for the moral blackmail claim.
 
 Existing topic reused for Dillon's Hamptons conduct.
 
-*Related: C-9656*
+*Related: C-2507*
 
 ---
 
@@ -647,7 +646,7 @@ Existing topic reused for Dillon's Hamptons conduct.
 
 Existing topic reused for Kelly's reaction to pressure.
 
-*Related: C-9647, C-9654, C-9665*
+*Related: C-2493, C-2505, C-2519*
 
 ---
 
@@ -655,7 +654,7 @@ Existing topic reused for Kelly's reaction to pressure.
 
 Existing topic reused for the host's op remark.
 
-*Related: C-9696*
+*Related: C-2556*
 
 ---
 
@@ -663,7 +662,7 @@ Existing topic reused for the host's op remark.
 
 Existing topic reused for the student's USS Liberty remark.
 
-*Related: C-9687*
+*Related: C-2547*
 
 ---
 
@@ -671,7 +670,7 @@ Existing topic reused for the student's USS Liberty remark.
 
 Existing topic reused for the TikTok remark.
 
-*Related: C-9692*
+*Related: C-2552*
 
 ---
 
@@ -679,7 +678,7 @@ Existing topic reused for the TikTok remark.
 
 Existing topic reused for the CNN clips.
 
-*Related: C-9681, C-9682, C-9683, C-9684*
+*Related: C-2536, C-2537, C-2541, C-2542*
 
 ---
 
@@ -687,7 +686,7 @@ Existing topic reused for the CNN clips.
 
 First named by the host at 00:12:33 in episode 28. Host of the X Space where Boring spoke with Fuentes.
 
-*Related: C-9658*
+*Related: C-2509*
 
 ---
 
@@ -696,7 +695,7 @@ First named by the host at 00:12:33 in episode 28. Host of the X Space where Bor
 Node Type: Organization
 Media company the host left; its CEO, staff agreements and intern operation are discussed.
 
-*Related: C-9649, C-9658, C-9659, C-9677*
+*Related: C-2495, C-2509, C-2512, C-2532*
 
 ---
 
@@ -705,13 +704,13 @@ Media company the host left; its CEO, staff agreements and intern operation are 
 Node Type: Organization
 Referred to by the host as YAF; she alleges its people were sent against her and Kirk and may attend Kelly's events.
 
-*Related: C-9662, C-9679*
+*Related: C-2516, C-2534*
 
 ---
 
 ## V. Claim Register
 
-**C-1636** Shapiro Stage Statement on Tucker's Mamdani Coverage
+**C-2498** Shapiro Stage Statement on Tucker's Mamdani Coverage
 
 Claim Timestamp: 00:05:18
 
@@ -725,7 +724,7 @@ Investigative Direction: Obtain transcripts/recordings of the cited Carlson and 
 
 ---
 
-**C-1637** Shapiro Labels Owens' Current Conduct "Evil"
+**C-2502** Shapiro Labels Owens' Current Conduct "Evil"
 
 Claim Timestamp: 00:09:56–00:10:33
 
@@ -740,7 +739,7 @@ Investigative Direction: Compare Shapiro's exact phrasing on stage to prior and 
 
 ---
 
-**C-1638** Shapiro Claims Owens Accused Erika Kirk of Murdering Charlie Kirk
+**C-2503** Shapiro Claims Owens Accused Erika Kirk of Murdering Charlie Kirk
 
 Claim Timestamp: 00:09:56–00:10:33
 
@@ -755,7 +754,7 @@ Investigative Direction: Pull transcripts of all Owens episodes cited by him and
 
 ---
 
-**C-1639** Shapiro Claims Owens Accused Seth Dillon of Murder Involvement
+**C-2504** Shapiro Claims Owens Accused Seth Dillon of Murder Involvement
 
 Claim Timestamp: 00:09:56–00:10:33
 
@@ -770,7 +769,7 @@ Investigative Direction: Identify the specific Owens episodes in which she discu
 
 ---
 
-**C-1640** HuffPost Report: Boreing Praised Fuentes on X Space
+**C-2510** HuffPost Report: Boreing Praised Fuentes on X Space
 
 Claim Timestamp: 00:12:50
 
@@ -785,7 +784,7 @@ Investigative Direction: Verify the original X Space audio against the HuffPost 
 
 ---
 
-**C-1641** Boreing Invited Fuentes Onto Daily Wire Shows
+**C-2511** Boreing Invited Fuentes Onto Daily Wire Shows
 
 Claim Timestamp: 00:14:04–00:15:45
 
@@ -800,7 +799,7 @@ Investigative Direction: Confirm via the original X Space audio that this invita
 
 ---
 
-**C-1642** Candace–Charlie Text Exchange Documents Shapiro's Behavior
+**C-2515** Candace–Charlie Text Exchange Documents Shapiro's Behavior
 
 Claim Timestamp: 00:16:27–00:17:50
 
@@ -815,7 +814,7 @@ Investigative Direction: Authenticate the underlying text messages via metadata,
 
 ---
 
-**C-1643** Owens Identified Daily Wire Intern Ariana at YWLS 2024
+**C-2528** Owens Identified Daily Wire Intern Ariana at YWLS 2024
 
 Claim Timestamp: 00:25:16–00:27:36
 
@@ -830,7 +829,7 @@ Investigative Direction: Identify the full name of the intern, confirm her emplo
 
 ---
 
-**C-1644** Owens Stated America Is "Occupied by Zionists" on CNN
+**C-2540** Owens Stated America Is "Occupied by Zionists" on CNN
 
 Claim Timestamp: 00:35:15
 
@@ -844,7 +843,7 @@ Investigative Direction: Pull the full CNN interview transcript to verify the ex
 
 ---
 
-**C-1645** Reeve Characterized Owens' Statements as White-Nationalist Tropes
+**C-2539** Reeve Characterized Owens' Statements as White-Nationalist Tropes
 
 Claim Timestamp: 00:33:44–00:35:14
 
@@ -858,7 +857,7 @@ Investigative Direction: Obtain the full CNN interview and any related Reeve rep
 
 ---
 
-**C-1646** Host Says Eric and Lara Trump Spoke at Auburn TPUSA Event
+**C-2543** Host Says Eric and Lara Trump Spoke at Auburn TPUSA Event
 
 Claim Timestamp: 00:39:12–00:41:34
 
@@ -873,7 +872,7 @@ Investigative Direction: Confirm the event date, attendance records, and Turning
 
 ---
 
-**C-1647** Auburn Student Cited $230M From Pro-Israel Groups to Trump
+**C-2544** Auburn Student Cited $230M From Pro-Israel Groups to Trump
 
 Claim Timestamp: 00:39:12–00:41:34
 
@@ -888,7 +887,7 @@ Investigative Direction: Trace the $230M figure to its underlying donor records,
 
 ---
 
-**C-1648** Shapiro Has Tweeted That "Israel First" Critique Is Antisemitism
+**C-2491** Shapiro Has Tweeted That "Israel First" Critique Is Antisemitism
 
 Claim Timestamp: 00:01:41
 
@@ -903,7 +902,7 @@ Investigative Direction: Locate the original tweet via X/Twitter search or web a
 
 ---
 
-**C-1649** Shapiro Tweeted Imagery of Ron Paul "Strangling the Jews"
+**C-2492** Shapiro Tweeted Imagery of Ron Paul "Strangling the Jews"
 
 Claim Timestamp: 00:02:12
 
@@ -918,7 +917,7 @@ Investigative Direction: Locate the original tweets via web archives to verify w
 
 ---
 
-**C-1650** Shapiro–Carlson Private Text Exchange After Kirk's Death
+**C-2497** Shapiro–Carlson Private Text Exchange After Kirk's Death
 
 Claim Timestamp: 00:04:34–00:05:23
 
@@ -932,7 +931,7 @@ Investigative Direction: Verify the exchange via Carlson or Shapiro public state
 
 ---
 
-**C-1651** Owens Describes CNN Interview as Occurring Days After Kirk's Death
+**C-2538** Owens Describes CNN Interview as Occurring Days After Kirk's Death
 
 Claim Timestamp: 00:33:08
 
@@ -946,7 +945,7 @@ Investigative Direction: Confirm the interview date against CNN's published inte
 
 ---
 
-**C-9647** Host Says Shapiro Set Out to Make Kelly Disavow Tucker and Candace
+**C-2493** Host Says Shapiro Set Out to Make Kelly Disavow Tucker and Candace
 
 Claim Timestamp: 00:02:12
 
@@ -962,7 +961,7 @@ Investigative Direction: Obtain full video of the Kelly tour stop and compare Sh
 
 ---
 
-**C-9648** Host Says Erika-Attack Narrative Was a Non-Organic Operation Shapiro Plays a Part In
+**C-2494** Host Says Erika-Attack Narrative Was a Non-Organic Operation Shapiro Plays a Part In
 
 Claim Timestamp: 00:02:12
 
@@ -978,7 +977,7 @@ Investigative Direction: Trace the earliest accounts and posts pushing the 'Cand
 
 ---
 
-**C-9649** Host Says Daily Wire Departing Staff Sign Six-Month Non-Tucker Agreements
+**C-2495** Host Says Daily Wire Departing Staff Sign Six-Month Non-Tucker Agreements
 
 Claim Timestamp: 00:03:52
 
@@ -994,7 +993,7 @@ Investigative Direction: Obtain a Daily Wire separation agreement or a former em
 
 ---
 
-**C-9650** Host Says Tucker and Shapiro Spoke the Day Kirk Died
+**C-2496** Host Says Tucker and Shapiro Spoke the Day Kirk Died
 
 Claim Timestamp: 00:04:08
 
@@ -1004,13 +1003,13 @@ Transcript Snippet: Tucker and him had a nice conversation on the day that Charl
 
 Anchored Artifacts: A-1357.1
 Mentions: N-22, N-97, N-1
-Supports: C-1650
+Supports: C-2497
 Tags: relevance:context
 Investigative Direction: Compare with Shapiro's own account of the call and text in the Kelly tour clip and any published text screenshots.
 
 ---
 
-**C-9651** Host Says Shapiro Insinuated Tucker Backed Mamdani
+**C-2499** Host Says Shapiro Insinuated Tucker Backed Mamdani
 
 Claim Timestamp: 00:06:24
 
@@ -1020,13 +1019,13 @@ Transcript Snippet: But to the insinuation that Tucker somehow supported Mandani
 
 Anchored Artifacts: A-1356.2
 Mentions: N-22, N-97, N-145, N-223
-Supports: C-1636
+Supports: C-2498
 Tags: relevance:tangential
 Investigative Direction: Pull the full Carlson and Greene episode and Shapiro's stage remarks to see whether Carlson praised or merely explained Mamdani's win.
 
 ---
 
-**C-9652** Clip: Tucker Says Mamdani Primary Win Came the Week DC Focused on Iran
+**C-2500** Clip: Tucker Says Mamdani Primary Win Came the Week DC Focused on Iran
 
 Claim Timestamp: 00:07:30
 
@@ -1041,7 +1040,7 @@ Investigative Direction: Confirm the date of the Carlson and Greene episode agai
 
 ---
 
-**C-9653** Clip: Mamdani Was the Only Debate Candidate to Say He Would Not Visit a Foreign Country
+**C-2501** Clip: Mamdani Was the Only Debate Candidate to Say He Would Not Visit a Foreign Country
 
 Claim Timestamp: 00:08:20
 
@@ -1057,7 +1056,7 @@ Investigative Direction: Check the debate transcript for the foreign-country que
 
 ---
 
-**C-9654** Clip: Megyn Kelly Tells Shapiro Her Position Is That It Is None of Her Business
+**C-2505** Clip: Megyn Kelly Tells Shapiro Her Position Is That It Is None of Her Business
 
 Claim Timestamp: 00:09:56
 
@@ -1073,7 +1072,7 @@ Investigative Direction: Compare with Kelly's later public statements on the Owe
 
 ---
 
-**C-9655** Host Denies Ever Accusing Seth Dillon of Murdering Charlie
+**C-2506** Host Denies Ever Accusing Seth Dillon of Murdering Charlie
 
 Claim Timestamp: 00:10:33
 
@@ -1084,13 +1083,13 @@ Transcript Snippet: I never once accused Seth Dillon of murdering Charlie Kirk.
 Anchored Artifacts: A-1356.1
 Mentions: N-3, N-38, N-1
 Related Nodes: N-10237
-Contradicts: C-1639
+Contradicts: C-2504
 Tags: relevance:core
 Investigative Direction: Search the host's episode transcripts for any statement tying Seth Dillon to the killing, as opposed to the Hamptons pressure claims.
 
 ---
 
-**C-9656** Host Says Dillon Lied About the Hamptons Meeting and Pressured Charlie on Israel
+**C-2507** Host Says Dillon Lied About the Hamptons Meeting and Pressured Charlie on Israel
 
 Claim Timestamp: 00:10:33
 
@@ -1101,13 +1100,13 @@ Transcript Snippet: Seth Dillon, I told the truth that Seth Dillon lied about th
 Anchored Artifacts: 
 Mentions: N-3, N-38, N-1
 Related Nodes: N-10345, N-10016
-Supports: C-1173
+Supports: C-239
 Tags: relevance:core
 Investigative Direction: Compare Dillon's public statements about the Hamptons meeting with attendee accounts, emails and calendar records of the August 2025 retreat.
 
 ---
 
-**C-9657** Host Says Her Audience Pressed Her to Cover Erika's Past and Parents
+**C-2508** Host Says Her Audience Pressed Her to Cover Erika's Past and Parents
 
 Claim Timestamp: 00:10:33
 
@@ -1123,7 +1122,7 @@ Investigative Direction: Review the host's earlier episodes for coverage of Erik
 
 ---
 
-**C-9658** Host Says Boring's X Space Happened the Week She Was Fired
+**C-2509** Host Says Boring's X Space Happened the Week She Was Fired
 
 Claim Timestamp: 00:12:33
 
@@ -1134,13 +1133,13 @@ Transcript Snippet: I distinctly remember the week that I was gloriously fired f
 Anchored Artifacts: A-1359.1
 Mentions: N-3, N-366, N-848
 Related Nodes: N-10900
-Supports: C-1640
+Supports: C-2510
 Tags: relevance:context
 Investigative Direction: Check the date of the X Space (HuffPost cites March 25) against the date of the host's Daily Wire exit.
 
 ---
 
-**C-9659** Host Dates the Boring-Fuentes Conversation to 2024
+**C-2512** Host Dates the Boring-Fuentes Conversation to 2024
 
 Claim Timestamp: 00:14:04
 
@@ -1151,13 +1150,13 @@ Transcript Snippet: when the Daily Wire position in 2024 was that their CEO coul
 Anchored Artifacts: A-1358.1, A-1359.1
 Mentions: N-366, N-201
 Related Nodes: N-10900
-Qualifies: C-1640
+Qualifies: C-2510
 Tags: relevance:context
-Investigative Direction: Confirm the year of the X Space; the existing claim C-1640 gives March 25, 2025, which the transcript does not state.
+Investigative Direction: Confirm the year of the X Space; the existing claim C-2510 gives March 25, 2025, which the transcript does not state.
 
 ---
 
-**C-9660** Clip: Fuentes Tells Boring That Shapiro Cannot Say 'Christ Is King'
+**C-2513** Clip: Fuentes Tells Boring That Shapiro Cannot Say 'Christ Is King'
 
 Claim Timestamp: 00:14:04
 
@@ -1172,7 +1171,7 @@ Investigative Direction: Obtain the full X Space recording and confirm the speak
 
 ---
 
-**C-9661** Host Says Shapiro Worked Behind the Scenes to Stop Kirk's Rise
+**C-2514** Host Says Shapiro Worked Behind the Scenes to Stop Kirk's Rise
 
 Claim Timestamp: 00:15:45
 
@@ -1187,7 +1186,7 @@ Investigative Direction: Obtain the host's text threads with Kirk and corroborat
 
 ---
 
-**C-9662** Host Says She Holds Hundreds of Texts on Shapiro Sending YAF and National Review Writers
+**C-2516** Host Says She Holds Hundreds of Texts on Shapiro Sending YAF and National Review Writers
 
 Claim Timestamp: 00:16:27
 
@@ -1198,13 +1197,13 @@ Transcript Snippet: I have literal hundreds of them pertaining to Ben sending hi
 Anchored Artifacts: A-1360.1, A-1360.2
 Mentions: N-3, N-97, N-1
 Related Nodes: N-11231
-Supports: C-1642
+Supports: C-2515
 Tags: relevance:context
 Investigative Direction: Examine the message archive and the cited YAF-linked articles for authorship and timing.
 
 ---
 
-**C-9663** Host Says Shapiro Called Kirk to Lament Their Friendship
+**C-2517** Host Says Shapiro Called Kirk to Lament Their Friendship
 
 Claim Timestamp: 00:16:27
 
@@ -1219,7 +1218,7 @@ Investigative Direction: Corroborate the call through Kirk's phone records or th
 
 ---
 
-**C-9664** Host Reads Kirk Text That Shapiro Was Saying 'Control Her' on the Call
+**C-2518** Host Reads Kirk Text That Shapiro Was Saying 'Control Her' on the Call
 
 Claim Timestamp: 00:17:50
 
@@ -1229,13 +1228,13 @@ Transcript Snippet: He views you as my slave 100%. Control her is what he really
 
 Anchored Artifacts: A-1360.1
 Mentions: N-1, N-97, N-3
-Supports: C-1642
+Supports: C-2515
 Tags: relevance:context
 Investigative Direction: Authenticate the text via the original device or metadata and date it relative to Shapiro's call.
 
 ---
 
-**C-9665** Host Says Megyn Kelly Was a Good Friend Who Told the Truth About Kirk's Ordeal
+**C-2519** Host Says Megyn Kelly Was a Good Friend Who Told the Truth About Kirk's Ordeal
 
 Claim Timestamp: 00:17:50
 
@@ -1246,13 +1245,13 @@ Transcript Snippet: Megan who was actually a very good friend to Charlie. Charli
 Anchored Artifacts: 
 Mentions: N-46, N-1
 Related Nodes: N-10406
-Supports: C-1162
+Supports: C-254
 Tags: relevance:context
 Investigative Direction: Review Kelly's public statements about Kirk's last weeks and what he told her.
 
 ---
 
-**C-9666** Host Says Erika Was Not Working for TPUSA When Charlie Died
+**C-2520** Host Says Erika Was Not Working for TPUSA When Charlie Died
 
 Claim Timestamp: 00:17:50
 
@@ -1268,7 +1267,7 @@ Investigative Direction: Check TPUSA payroll, board and org records for Erika Ki
 
 ---
 
-**C-9667** Host Says Shapiro Congratulated Randy Fine
+**C-2521** Host Says Shapiro Congratulated Randy Fine
 
 Claim Timestamp: 00:19:00
 
@@ -1283,7 +1282,7 @@ Investigative Direction: Locate Shapiro's post congratulating Fine and the Fine 
 
 ---
 
-**C-9668** Host Says Shapiro Interviewed Netanyahu Last Month Without Pressing on Genocide
+**C-2522** Host Says Shapiro Interviewed Netanyahu Last Month Without Pressing on Genocide
 
 Claim Timestamp: 00:19:46
 
@@ -1298,7 +1297,7 @@ Investigative Direction: Find the date and transcript of Shapiro's Netanyahu int
 
 ---
 
-**C-9669** Host Says Fuentes Was Pushed Out of the Market at 18 for Asking About Israel
+**C-2523** Host Says Fuentes Was Pushed Out of the Market at 18 for Asking About Israel
 
 Claim Timestamp: 00:20:35
 
@@ -1313,7 +1312,7 @@ Investigative Direction: Review the Boring and Fuentes X Space and Fuentes's own
 
 ---
 
-**C-9670** Host Says Shapiro Never Denied Fuentes's Account
+**C-2524** Host Says Shapiro Never Denied Fuentes's Account
 
 Claim Timestamp: 00:20:35
 
@@ -1328,7 +1327,7 @@ Investigative Direction: Search Shapiro's public statements for any denial or re
 
 ---
 
-**C-9671** Host Says Fuentes Was Put on the ADL's List
+**C-2525** Host Says Fuentes Was Put on the ADL's List
 
 Claim Timestamp: 00:22:08
 
@@ -1343,7 +1342,7 @@ Investigative Direction: Check the ADL's published listings for Fuentes and the 
 
 ---
 
-**C-9672** Host Calls Shapiro's Stage Questioning the Moral Blackmail Kirk Described
+**C-2526** Host Calls Shapiro's Stage Questioning the Moral Blackmail Kirk Described
 
 Claim Timestamp: 00:24:09
 
@@ -1354,13 +1353,13 @@ Transcript Snippet: That is exactly the moral blackmail that Charlie was speakin
 Anchored Artifacts: A-1356.1
 Mentions: N-97, N-46, N-1
 Related Nodes: N-10106
-Supports: C-1292
+Supports: C-847
 Tags: relevance:core
 Investigative Direction: Find Kirk's own statements using the phrase moral blackmail and the context in which he used it.
 
 ---
 
-**C-9673** Host Says the Kelly Stage Exchange Was Pre-Planned and Not Organic
+**C-2527** Host Says the Kelly Stage Exchange Was Pre-Planned and Not Organic
 
 Claim Timestamp: 00:24:09
 
@@ -1376,7 +1375,7 @@ Investigative Direction: Obtain the ticketing, seating and attendee data for the
 
 ---
 
-**C-9674** Host Says Daily Wire Planned to Circulate the Intern's Question as a Random Student
+**C-2529** Host Says Daily Wire Planned to Circulate the Intern's Question as a Random Student
 
 Claim Timestamp: 00:25:16
 
@@ -1387,13 +1386,13 @@ Transcript Snippet: they were going to pass around a clip, but they were going t
 Anchored Artifacts: A-1361.1
 Mentions: N-3, N-235
 Related Nodes: N-10238
-Supports: C-1643
+Supports: C-2528
 Tags: relevance:context
 Investigative Direction: Identify the original tipster at the Daily Wire and any message showing the plan to circulate the clip.
 
 ---
 
-**C-9675** Clip: Intern Allegedly Got a 10 p.m. Email and Flew In Posing as a Student
+**C-2530** Clip: Intern Allegedly Got a 10 p.m. Email and Flew In Posing as a Student
 
 Claim Timestamp: 00:26:34
 
@@ -1404,13 +1403,13 @@ Transcript Snippet: apparently she got an email at 10 p. m., hopped on a plane, 
 Anchored Artifacts: A-1361.1
 Mentions: N-3, N-235
 Related Nodes: N-10238
-Supports: C-1643
+Supports: C-2528
 Tags: relevance:context
 Investigative Direction: Seek the intern's identity, flight and email records, or attendee-list evidence from the event.
 
 ---
 
-**C-9676** Clip: Host Relays Kirk's Offer to Fly Shapiro to Detroit to Debate
+**C-2531** Clip: Host Relays Kirk's Offer to Fly Shapiro to Detroit to Debate
 
 Claim Timestamp: 00:27:36
 
@@ -1426,7 +1425,7 @@ Investigative Direction: Find any Kirk or TPUSA confirmation of the offer and wh
 
 ---
 
-**C-9677** Host Says Alyssa Cordova Orchestrated the Intern Operation
+**C-2532** Host Says Alyssa Cordova Orchestrated the Intern Operation
 
 Claim Timestamp: 00:27:36
 
@@ -1442,7 +1441,7 @@ Investigative Direction: Ask Cordova or former Daily Wire staff about the intern
 
 ---
 
-**C-9678** Host Says Those Pressing Kelly on Tucker at Her Events Are Paid Pro-Israel Operatives
+**C-2533** Host Says Those Pressing Kelly on Tucker at Her Events Are Paid Pro-Israel Operatives
 
 Claim Timestamp: 00:27:36
 
@@ -1458,7 +1457,7 @@ Investigative Direction: Obtain the audience-question sources and any payment or
 
 ---
 
-**C-9679** Host Predicts Kelly's Attendees Include YAF and Other Organization Members
+**C-2534** Host Predicts Kelly's Attendees Include YAF and Other Organization Members
 
 Claim Timestamp: 00:28:34
 
@@ -1474,7 +1473,7 @@ Investigative Direction: Compare any available ticket-holder list for the tour s
 
 ---
 
-**C-9680** Host Says the Same Bullying Process Cost the Pro-Israel Lobby Charlie Kirk
+**C-2535** Host Says the Same Bullying Process Cost the Pro-Israel Lobby Charlie Kirk
 
 Claim Timestamp: 00:31:59
 
@@ -1485,13 +1484,13 @@ Transcript Snippet: exact same process by which the pro-Israel lobby lost Charli
 Anchored Artifacts: 
 Mentions: N-1, N-46
 Related Nodes: N-10025
-Supports: C-1127
+Supports: C-73
 Tags: relevance:core
 Investigative Direction: Compare with Kirk's own statements about Israel-lobby pressure in the weeks before his death.
 
 ---
 
-**C-9681** Host Says the CNN Interview Was Booked Before and Was Not About Charlie
+**C-2536** Host Says the CNN Interview Was Booked Before and Was Not About Charlie
 
 Claim Timestamp: 00:32:51
 
@@ -1502,13 +1501,13 @@ Transcript Snippet: it was a couple of days after Charlie was killed. First inte
 Anchored Artifacts: A-1362.1
 Mentions: N-3, N-1
 Related Nodes: N-11159
-Supports: C-1651
+Supports: C-2538
 Tags: relevance:context
 Investigative Direction: Check CNN and the host's team for booking emails and the interview date.
 
 ---
 
-**C-9682** Host Says Reeve Is Circulating the CNN Clip
+**C-2537** Host Says Reeve Is Circulating the CNN Clip
 
 Claim Timestamp: 00:32:51
 
@@ -1524,7 +1523,7 @@ Investigative Direction: Check Reeve's and CNN's social accounts for who first p
 
 ---
 
-**C-9683** Clip: Reeve Says 'They' Sounds Like Jews
+**C-2541** Clip: Reeve Says 'They' Sounds Like Jews
 
 Claim Timestamp: 00:36:43
 
@@ -1540,7 +1539,7 @@ Investigative Direction: Review the full CNN interview for the exact exchange on
 
 ---
 
-**C-9684** Clip: Host Says 'Zionists Run the Media' Means Supporters of Israel's Ideology
+**C-2542** Clip: Host Says 'Zionists Run the Media' Means Supporters of Israel's Ideology
 
 Claim Timestamp: 00:37:23
 
@@ -1556,7 +1555,7 @@ Investigative Direction: Compare with the host's other statements on media owner
 
 ---
 
-**C-9685** Clip: Auburn Student Says Israel Attacked Iran Despite Trump Advising Against It
+**C-2545** Clip: Auburn Student Says Israel Attacked Iran Despite Trump Advising Against It
 
 Claim Timestamp: 00:39:12
 
@@ -1571,7 +1570,7 @@ Investigative Direction: Compare with the June 2025 timeline of Israeli and US s
 
 ---
 
-**C-9686** Clip: Auburn Student Says Trump Cursed on National TV Over Netanyahu
+**C-2546** Clip: Auburn Student Says Trump Cursed on National TV Over Netanyahu
 
 Claim Timestamp: 00:40:03
 
@@ -1586,7 +1585,7 @@ Investigative Direction: Identify the televised remark the student refers to and
 
 ---
 
-**C-9687** Clip: Auburn Student Dates the USS Liberty Attack to 1960
+**C-2547** Clip: Auburn Student Dates the USS Liberty Attack to 1960
 
 Claim Timestamp: 00:40:03
 
@@ -1602,7 +1601,7 @@ Investigative Direction: The attack on the USS Liberty is generally dated to 196
 
 ---
 
-**C-9688** Clip: Eric Trump Says His Father Has Had Frustration With Both Sides
+**C-2548** Clip: Eric Trump Says His Father Has Had Frustration With Both Sides
 
 Claim Timestamp: 00:40:42
 
@@ -1617,7 +1616,7 @@ Investigative Direction: Cross-check against public statements by Donald Trump a
 
 ---
 
-**C-9689** Clip: Lara Trump Cites Armenia-Azerbaijan and Thailand-Cambodia as Trump Peace Wins
+**C-2549** Clip: Lara Trump Cites Armenia-Azerbaijan and Thailand-Cambodia as Trump Peace Wins
 
 Claim Timestamp: 00:41:34
 
@@ -1632,7 +1631,7 @@ Investigative Direction: Verify the durations and outcomes of the cited conflict
 
 ---
 
-**C-9690** Host Says Young People Know About Kushner's Middle East Deals and Gaza Benefit
+**C-2550** Host Says Young People Know About Kushner's Middle East Deals and Gaza Benefit
 
 Claim Timestamp: 00:42:27
 
@@ -1648,7 +1647,7 @@ Investigative Direction: Review Kushner's Affinity Partners Middle East investme
 
 ---
 
-**C-9691** Host Says Students Are Told They Cannot Raise Israel on Campus Without Risk of Arrest
+**C-2551** Host Says Students Are Told They Cannot Raise Israel on Campus Without Risk of Arrest
 
 Claim Timestamp: 00:43:11
 
@@ -1664,7 +1663,7 @@ Investigative Direction: Identify specific campus arrests or state anti-semitism
 
 ---
 
-**C-9692** Host Refers to BB Buying TikTok
+**C-2552** Host Refers to BB Buying TikTok
 
 Claim Timestamp: 00:43:11
 
@@ -1680,7 +1679,7 @@ Investigative Direction: Verify what the host means; check reporting on the TikT
 
 ---
 
-**C-9693** Host Says Pressure to Stop Investigating Comes From People Who Were Not Charlie's Friends
+**C-2553** Host Says Pressure to Stop Investigating Comes From People Who Were Not Charlie's Friends
 
 Claim Timestamp: 00:48:20
 
@@ -1696,7 +1695,7 @@ Investigative Direction: Compile the public figures who have demanded the host s
 
 ---
 
-**C-9694** Host Says Israel Immediately Said It Was Not Them
+**C-2554** Host Says Israel Immediately Said It Was Not Them
 
 Claim Timestamp: 00:49:08
 
@@ -1712,7 +1711,7 @@ Investigative Direction: Find the dated Israeli official statements after Septem
 
 ---
 
-**C-9695** Host Confirms Shapiro Said 'Pick Up His Bloodstained Microphone' After Kirk's Death
+**C-2555** Host Confirms Shapiro Said 'Pick Up His Bloodstained Microphone' After Kirk's Death
 
 Claim Timestamp: 00:49:08
 
@@ -1727,7 +1726,7 @@ Investigative Direction: Find Shapiro's post-assassination statement containing 
 
 ---
 
-**C-9696** Host Says Fuentes's Reaction and Lying About How She Treated Him First Made Her Think He Was an Op
+**C-2556** Host Says Fuentes's Reaction and Lying About How She Treated Him First Made Her Think He Was an Op
 
 Claim Timestamp: 00:50:35
 
@@ -1743,7 +1742,7 @@ Investigative Direction: Compare the host's account of the interview planning wi
 
 ---
 
-**C-9697** Host Says Pro-Israel Lobby Squeezed Kirk After Losing a Debate
+**C-2557** Host Says Pro-Israel Lobby Squeezed Kirk After Losing a Debate
 
 Claim Timestamp: 00:52:55
 

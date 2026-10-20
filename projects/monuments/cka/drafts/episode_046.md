@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10b): N-11108
   - Hole-minted Nodes (reintro-ep046): N-10349, N-10377, N-10416, N-10493
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10b): C-6677–C-6741
+  - Claim Range: C-3976–C-4053
   - New Nodes Introduced: N-326, N-327, N-10335
   - Reused Nodes Appearing: N-3, N-261, N-1, N-266, N-10336, N-17, N-82, N-101, N-118, N-163, N-190, N-221, N-10012, N-10014, N-10021, N-10028, N-10030, N-10039, N-10040, N-10051, N-10085, N-10100, N-10130, N-10162, N-10164, N-10165, N-10169, N-10180, N-10181, N-10187, N-10193, N-10198, N-10237, N-10250, N-10253, N-10271, N-10282, N-10311, N-10350, N-10434, N-10853, N-11012, N-10334, N-10447, N-603, N-10346, N-11107, N-10566
   N-40, N-14
@@ -36,7 +36,7 @@
 ### Episode 46 Ledger Summary
 
 - **Artifact Families Introduced:** A-1533, A-1534, A-1535, A-1536, A-1537, A-1538
-- **Claim Range:** C-1912 – C-1923, C-3757
+- **Claim Range:** C-3984 – C-4050, C-3993
 - **New Nodes Introduced:** N-326, N-327, N-10334, N-10335, N-10336
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens), N-40 (Tyler Robinson), N-14 (Andrew Kolvet)
 
@@ -62,7 +62,7 @@ Video Timestamp: 00:06:58–00:07:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1912, C-1922, N-278, N-2, N-3, N-10334*
+*Related: C-3984, C-3985, N-278, N-2, N-3, N-10334*
 
 **A-1533.2** Erika Kirk on-camera response: "Stop. That's it. That's all I have to say. Stop."
 
@@ -72,7 +72,7 @@ Video Timestamp: 00:07:58–00:08:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1912, N-278, N-2, N-3*
+*Related: C-3984, N-278, N-2, N-3*
 
 **A-1533.3** Erika Kirk statement: "I think mental illness is involved in some of this stuff that is online."
 
@@ -82,7 +82,7 @@ Video Timestamp: 00:23:04–00:24:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1915, N-2, N-3*
+*Related: C-4015, N-2, N-3*
 
 **A-1533.4** Erika Kirk statement: "My husband's legacy is not about his murder."
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:23:04–00:24:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1916, N-2*
+*Related: C-4016, N-2*
 
 **A-1533.5** Hunter Kozak identified (by host) as audience member who asked the last question to Charlie Kirk prior to the assassination; CBS town hall also seated the father of a DC Jewish Museum shooting victim (host identifies possible IDF soldier)
 
@@ -102,7 +102,7 @@ Video Timestamp: 00:14:44–00:15:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1922, N-326, N-278, N-10334*
+*Related: C-3985, N-326, N-278, N-10334*
 
 ---
 
@@ -116,7 +116,7 @@ Video Timestamp: 00:16:29–00:17:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1913, N-237, N-2*
+*Related: C-4011, N-237, N-2*
 
 **A-1534.2** Erika Kirk on-court-system framing: "we need to do a better job of educating our citizens about our court systems"; "I want a tainted jury pool. I want justice for my husband. Anytime we have leads, anytime we hear anything, we send it to the authorities."
 
@@ -126,7 +126,7 @@ Video Timestamp: 00:19:20–00:20:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1917, N-237, N-2*
+*Related: C-4014, N-237, N-2*
 
 **A-1534.3** Erika Kirk denial of involvement: "None of us are involved in my husband's murder. None of us. Turning Point USA, myself, any of these other crazy accusations, none of us."
 
@@ -136,7 +136,7 @@ Video Timestamp: 00:19:20–00:20:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1914, N-237, N-2*
+*Related: C-4013, N-237, N-2*
 
 ---
 
@@ -150,7 +150,7 @@ Video Timestamp: 00:33:07–00:35:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1918, N-40, N-10336*
+*Related: C-4029, N-40, N-10336*
 
 ---
 
@@ -164,7 +164,7 @@ Video Timestamp: 00:35:58–00:39:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1919, N-227, N-3*
+*Related: C-4033, N-227, N-3*
 
 **A-1536.2** Allie Beth Stuckey Instagram comment reply: "You don't see value in learning how to decipher truth logically and biblically, and that's okay. My content is not for you then."
 
@@ -174,7 +174,7 @@ Video Timestamp: 00:40:13–00:41:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1921, N-227, N-3*
+*Related: C-4035, N-227, N-3*
 
 ---
 
@@ -188,7 +188,7 @@ Video Timestamp: 00:43:28–00:45:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1920, N-227, N-99, N-228, N-97, N-14*
+*Related: C-4041, N-227, N-99, N-228, N-97, N-14*
 
 ---
 
@@ -202,7 +202,7 @@ Video Timestamp: 00:54:02–00:55:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1923 (host's later response), N-327, N-1, N-3*
+*Related: C-4050 (host's later response), N-327, N-1, N-3*
 
 ---
 
@@ -215,7 +215,7 @@ Video Timestamp: 00:10:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-6686, C-6687, C-6688, C-6689, C-6690, C-6691, C-6692, C-6693, C-6694, C-6695, N-3*
+*Related: C-3987, C-3988, C-3989, C-3990, C-3991, C-3992, C-3994, C-3995, C-3996, C-3997, N-3*
 
 ---
 
@@ -226,7 +226,7 @@ Video Timestamp: 00:12:27
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-6696, C-6697, C-6698, C-6699, C-6700, C-6701, C-6702, C-6703, N-3*
+*Related: C-3998, C-3999, C-4000, C-4001, C-4002, C-4003, C-4004, C-4005, N-3*
 
 ---
 
@@ -239,7 +239,7 @@ Video Timestamp: 00:31:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6716, N-3*
+*Related: C-4023, N-3*
 
 ---
 
@@ -254,7 +254,7 @@ Video Timestamp: 00:50:39
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6732, N-3*
+*Related: C-4043, N-3*
 
 ---
 
@@ -265,7 +265,7 @@ Video Timestamp: 00:51:28
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6733, N-3*
+*Related: C-4044, N-3*
 
 ---
 
@@ -278,7 +278,7 @@ Video Timestamp: 00:56:27
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6738, N-3*
+*Related: C-4049, N-3*
 
 ---
 
@@ -291,7 +291,7 @@ Video Timestamp: 00:58:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6739, C-6740, N-3*
+*Related: C-4051, C-4052, N-3*
 
 ---
 
@@ -306,7 +306,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1533.1, A-1533.2, A-1533.5, C-1912, C-1922, N-10334*
+*Related: A-1533.1, A-1533.2, A-1533.5, C-3984, C-3985, N-10334*
 
 ---
 
@@ -319,7 +319,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1534.1, A-1534.2, A-1534.3, C-1913, C-1914, C-1917, N-2*
+*Related: A-1534.1, A-1534.2, A-1534.3, C-4011, C-4013, C-4014, N-2*
 
 ---
 
@@ -332,7 +332,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1536.1, A-1536.2, A-1537.1, C-1919, C-1920, C-1921, N-3*
+*Related: A-1536.1, A-1536.2, A-1537.1, C-4033, C-4041, C-4035, N-3*
 
 ---
 
@@ -345,7 +345,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1537.1, C-1920, N-227*
+*Related: A-1537.1, C-4041, N-227*
 
 ---
 
@@ -358,7 +358,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1537.1, C-1920, N-227*
+*Related: A-1537.1, C-4041, N-227*
 
 ---
 
@@ -371,7 +371,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1537.1, C-1920, N-227*
+*Related: A-1537.1, C-4041, N-227*
 
 ---
 
@@ -410,7 +410,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1533.1, A-1533.5, C-1922, N-278, N-326*
+*Related: A-1533.1, A-1533.5, C-3985, N-278, N-326*
 
 ---
 
@@ -423,7 +423,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1923 (host comment), N-40*
+*Related: C-4050 (host comment), N-40*
 
 ---
 
@@ -436,7 +436,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1535.1, C-1918, N-40*
+*Related: A-1535.1, C-4029, N-40*
 
 ---
 
@@ -444,7 +444,7 @@ Investigative Pressure: Medium
 
 Subject of the assassination; the host discusses his neck wound, his statements and texts.
 
-*Related: C-6679, C-6680, C-6681, C-6684, C-6687, C-6688, C-6689, C-6693, C-6694, C-6702, C-6706, C-6708, C-6710, C-6715, C-6726, C-6729, C-6734, C-6735*
+*Related: C-3978, C-3979, C-3980, C-3983, C-3988, C-3989, C-3990, C-3995, C-3996, C-4004, C-4008, C-4010, C-4017, C-4022, C-4036, C-4039, C-4045, C-4046*
 
 ---
 
@@ -452,7 +452,7 @@ Subject of the assassination; the host discusses his neck wound, his statements 
 
 Widow and TPUSA CEO; the host critiques her CBS and Blaze TV interviews.
 
-*Related: C-6677, C-6683, C-6702, C-6704, C-6708, C-6709, C-6710, C-6711, C-6713, C-6715, C-6732, C-6733, C-6738, C-6741*
+*Related: C-3976, C-3982, C-4004, C-4006, C-4010, C-4012, C-4017, C-4018, C-4020, C-4022, C-4043, C-4044, C-4049, C-4053*
 
 ---
 
@@ -460,7 +460,7 @@ Widow and TPUSA CEO; the host critiques her CBS and Blaze TV interviews.
 
 Host; speaks for herself.
 
-*Related: C-6677, C-6678, C-6679, C-6680, C-6681, C-6682, C-6683, C-6684, C-6685, C-6686, C-6687, C-6688, C-6689, C-6690, C-6691, C-6692, C-6693, C-6694, C-6695, C-6696, C-6697, C-6698, C-6699, C-6700, C-6701, C-6702, C-6703, C-6704, C-6705, C-6706, C-6707, C-6708, C-6709, C-6710, C-6711, C-6712, C-6713, C-6714, C-6715, C-6716, C-6717, C-6718, C-6719, C-6720, C-6721, C-6722, C-6723, C-6724, C-6725, C-6726, C-6727, C-6728, C-6729, C-6730, C-6731, C-6732, C-6733, C-6734, C-6735, C-6736, C-6737, C-6738, C-6739, C-6740, C-6741*
+*Related: C-3976, C-3977, C-3978, C-3979, C-3980, C-3981, C-3982, C-3983, C-3986, C-3987, C-3988, C-3989, C-3990, C-3991, C-3992, C-3994, C-3995, C-3996, C-3997, C-3998, C-3999, C-4000, C-4001, C-4002, C-4003, C-4004, C-4005, C-4006, C-4007, C-4008, C-4009, C-4010, C-4012, C-4017, C-4018, C-4019, C-4020, C-4021, C-4022, C-4023, C-4024, C-4025, C-4026, C-4027, C-4028, C-4030, C-4031, C-4032, C-4034, C-4036, C-4037, C-4038, C-4039, C-4040, C-4042, C-4043, C-4044, C-4045, C-4046, C-4047, C-4048, C-4049, C-4051, C-4052, C-4053*
 
 ---
 
@@ -468,7 +468,7 @@ Host; speaks for herself.
 
 Pastor; the host lists his account of Mikey calling his father first as a disputed statement.
 
-*Related: C-6686*
+*Related: C-3987*
 
 ---
 
@@ -476,7 +476,7 @@ Pastor; the host lists his account of Mikey calling his father first as a disput
 
 Accused; the host disputes the official arrest, confession and campus-presence accounts.
 
-*Related: C-6697, C-6698, C-6699, C-6700, C-6701, C-6717, C-6718, C-6719, C-6720, C-6721, C-6722*
+*Related: C-3999, C-4000, C-4001, C-4002, C-4003, C-4024, C-4025, C-4026, C-4027, C-4028, C-4030*
 
 ---
 
@@ -484,7 +484,7 @@ Accused; the host disputes the official arrest, confession and campus-presence a
 
 Commentator the host accuses of lying about Charlie's state of mind.
 
-*Related: C-6726*
+*Related: C-4036*
 
 ---
 
@@ -492,7 +492,7 @@ Commentator the host accuses of lying about Charlie's state of mind.
 
 Subject of the host's series; mentioned as an example of money-and-clicks criticism.
 
-*Related: C-6737*
+*Related: C-4048*
 
 ---
 
@@ -500,7 +500,7 @@ Subject of the host's series; mentioned as an example of money-and-clicks critic
 
 Daily Wire host named in the host's Stuckey remarks (transcript renders "Michael knows").
 
-*Related: C-6723*
+*Related: C-4031*
 
 ---
 
@@ -508,7 +508,7 @@ Daily Wire host named in the host's Stuckey remarks (transcript renders "Michael
 
 Named as the person who made DOGE a government-accountability phrase.
 
-*Related: C-6694*
+*Related: C-3996*
 
 ---
 
@@ -516,7 +516,7 @@ Named as the person who made DOGE a government-accountability phrase.
 
 Daily Wire host named in the host's Stuckey remarks.
 
-*Related: C-6723*
+*Related: C-4031*
 
 ---
 
@@ -524,7 +524,7 @@ Daily Wire host named in the host's Stuckey remarks.
 
 Rob McCoy's son; subject of the phone-records and call-order points.
 
-*Related: C-6686, C-6714*
+*Related: C-3987, C-4021*
 
 ---
 
@@ -532,7 +532,7 @@ Rob McCoy's son; subject of the phone-records and call-order points.
 
 Named among Daily Wire hosts in the host's Stuckey remarks.
 
-*Related: C-6723*
+*Related: C-4031*
 
 ---
 
@@ -540,7 +540,7 @@ Named among Daily Wire hosts in the host's Stuckey remarks.
 
 Camera and SD card figure; the host says he told her police did not tell him to remove the card.
 
-*Related: C-6692*
+*Related: C-3994*
 
 ---
 
@@ -548,7 +548,7 @@ Camera and SD card figure; the host says he told her police did not tell him to 
 
 TPUSA security figure; the host disputes his drone and rooftop statements.
 
-*Related: C-6695*
+*Related: C-3997*
 
 ---
 
@@ -556,7 +556,7 @@ TPUSA security figure; the host disputes his drone and rooftop statements.
 
 Named by the host as a recipient of out-of-context material.
 
-*Related: C-6724*
+*Related: C-4032*
 
 ---
 
@@ -564,7 +564,7 @@ Named by the host as a recipient of out-of-context material.
 
 Organization the host criticizes.
 
-*Related: C-6678, C-6687, C-6688, C-6689, C-6691, C-6702, C-6704, C-6715*
+*Related: C-3977, C-3988, C-3989, C-3990, C-3992, C-4004, C-4006, C-4022*
 
 ---
 
@@ -572,7 +572,7 @@ Organization the host criticizes.
 
 Venue of the September 10 event.
 
-*Related: C-6695*
+*Related: C-3997*
 
 ---
 
@@ -580,7 +580,7 @@ Venue of the September 10 event.
 
 Federal agency whose handling the host criticizes.
 
-*Related: C-6710*
+*Related: C-4017*
 
 ---
 
@@ -588,7 +588,7 @@ Federal agency whose handling the host criticizes.
 
 Existing topic reused.
 
-*Related: C-6697*
+*Related: C-3999*
 
 ---
 
@@ -596,7 +596,7 @@ Existing topic reused.
 
 Campus place in the host's on-campus question.
 
-*Related: C-6719*
+*Related: C-4026*
 
 ---
 
@@ -604,7 +604,7 @@ Campus place in the host's on-campus question.
 
 Existing topic reused.
 
-*Related: C-6696*
+*Related: C-3998*
 
 ---
 
@@ -612,7 +612,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6696*
+*Related: C-3998*
 
 ---
 
@@ -620,7 +620,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6719*
+*Related: C-4026*
 
 ---
 
@@ -628,7 +628,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6698, C-6718*
+*Related: C-4000, C-4025*
 
 ---
 
@@ -636,7 +636,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6680, C-6681*
+*Related: C-3979, C-3980*
 
 ---
 
@@ -644,7 +644,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6692, C-6693*
+*Related: C-3994, C-3995*
 
 ---
 
@@ -652,7 +652,7 @@ Existing topic reused.
 
 Existing organization reused.
 
-*Related: C-6694*
+*Related: C-3996*
 
 ---
 
@@ -660,7 +660,7 @@ Existing organization reused.
 
 Existing topic reused.
 
-*Related: C-6692, C-6693*
+*Related: C-3994, C-3995*
 
 ---
 
@@ -668,7 +668,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6689, C-6727*
+*Related: C-3990, C-4037*
 
 ---
 
@@ -676,7 +676,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6720*
+*Related: C-4027*
 
 ---
 
@@ -684,7 +684,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6726*
+*Related: C-4036*
 
 ---
 
@@ -692,7 +692,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6679, C-6680, C-6681, C-6687*
+*Related: C-3978, C-3979, C-3980, C-3988*
 
 ---
 
@@ -700,7 +700,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6717*
+*Related: C-4024*
 
 ---
 
@@ -708,7 +708,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6691, C-6726*
+*Related: C-3992, C-4036*
 
 ---
 
@@ -716,7 +716,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6686, C-6714*
+*Related: C-3987, C-4021*
 
 ---
 
@@ -724,7 +724,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6686*
+*Related: C-3987*
 
 ---
 
@@ -732,7 +732,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6690, C-6728, C-6729*
+*Related: C-3991, C-4038, C-4039*
 
 ---
 
@@ -740,7 +740,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6699*
+*Related: C-4001*
 
 ---
 
@@ -748,7 +748,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6702, C-6703, C-6715*
+*Related: C-4004, C-4005, C-4022*
 
 ---
 
@@ -756,7 +756,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6701*
+*Related: C-4003*
 
 ---
 
@@ -764,7 +764,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6682, C-6683, C-6705, C-6707*
+*Related: C-3981, C-3982, C-4007, C-4009*
 
 ---
 
@@ -772,7 +772,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6699, C-6738*
+*Related: C-4001, C-4049*
 
 ---
 
@@ -780,7 +780,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6692*
+*Related: C-3994*
 
 ---
 
@@ -788,7 +788,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6704, C-6711, C-6713*
+*Related: C-4006, C-4018, C-4020*
 
 ---
 
@@ -796,7 +796,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6689, C-6727*
+*Related: C-3990, C-4037*
 
 ---
 
@@ -804,7 +804,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6706*
+*Related: C-4008*
 
 ---
 
@@ -812,7 +812,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6723, C-6724*
+*Related: C-4031, C-4032*
 
 ---
 
@@ -820,7 +820,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6694*
+*Related: C-3996*
 
 ---
 
@@ -828,7 +828,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6687*
+*Related: C-3988*
 
 ---
 
@@ -836,7 +836,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6736*
+*Related: C-4047*
 
 ---
 
@@ -844,7 +844,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6697*
+*Related: C-3999*
 
 ---
 
@@ -852,7 +852,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6698*
+*Related: C-4000*
 
 ---
 
@@ -860,7 +860,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6697, C-6700, C-6701*
+*Related: C-3999, C-4002, C-4003*
 
 ---
 
@@ -869,7 +869,7 @@ Existing topic reused.
 Node Type: Topic
 Persistent target: the host's claim that Erika Kirk, Turning Point USA and allied influencers are running a coordinated PR campaign built on three talking points (a bigger mission, the trial could be ruined, doubters are mentally ill), with the CBS and Blaze TV interviews as its final stop.
 
-*Related: C-6677, C-6678, C-6708, C-6709, C-6733*
+*Related: C-3976, C-3977, C-4010, C-4012, C-4044*
 
 ---
 
@@ -878,13 +878,13 @@ Persistent target: the host's claim that Erika Kirk, Turning Point USA and allie
 Node Type: Topic
 Persistent target: whether Erika Kirk or Turning Point USA will specify any statement the host made that was false, in answer to the "Stop" request and the host's offer to stop once she is told what she lied about.
 
-*Related: C-6732*
+*Related: C-4043*
 
 ---
 
 ## V. Claim Register
 
-**C-1912** Erika Kirk directed "Stop" to Candace Owens in CBS town hall
+**C-3984** Erika Kirk directed "Stop" to Candace Owens in CBS town hall
 
 Claim Timestamp: 00:07:58
 
@@ -898,7 +898,7 @@ Investigative Direction: Confirm the verbatim exchange against the published CBS
 
 ---
 
-**C-1913** Erika Kirk stated "the truth is very clear" about the assassination in Glenn Beck interview
+**C-4011** Erika Kirk stated "the truth is very clear" about the assassination in Glenn Beck interview
 
 Claim Timestamp: 00:17:23
 
@@ -912,7 +912,7 @@ Investigative Direction: Obtain the unedited Blaze TV segment to verify exact ph
 
 ---
 
-**C-1914** Erika Kirk denied TPUSA and personal involvement in Kirk's murder
+**C-4013** Erika Kirk denied TPUSA and personal involvement in Kirk's murder
 
 Claim Timestamp: 00:19:20
 
@@ -926,7 +926,7 @@ Investigative Direction: Compare this on-camera denial against any subsequent do
 
 ---
 
-**C-1915** Glenn Beck Tells Erika Kirk Some Online Content Is Mental Illness
+**C-4015** Glenn Beck Tells Erika Kirk Some Online Content Is Mental Illness
 
 Claim Timestamp: 00:23:04
 
@@ -940,7 +940,7 @@ Investigative Direction: Verify the exact context of the "mental illness" statem
 
 ---
 
-**C-1916** Erika Kirk stated husband's "legacy is not about his murder"
+**C-4016** Erika Kirk stated husband's "legacy is not about his murder"
 
 Claim Timestamp: 00:23:04
 
@@ -954,7 +954,7 @@ Investigative Direction: Document the recurrence of this framing across Erika Ki
 
 ---
 
-**C-1917** Erika Kirk called for public education about the court system to preserve an untainted jury pool
+**C-4014** Erika Kirk called for public education about the court system to preserve an untainted jury pool
 
 Claim Timestamp: 00:19:20
 
@@ -968,7 +968,7 @@ Investigative Direction: Track whether this "education" framing recurs in subseq
 
 ---
 
-**C-1918** Host Says Tyler Robinson Made His First In-Person Court Appearance
+**C-4029** Host Says Tyler Robinson Made His First In-Person Court Appearance
 
 Claim Timestamp: 00:35:15
 
@@ -983,7 +983,7 @@ Investigative Direction: Obtain the official docket entry and any released court
 
 ---
 
-**C-1919** Allie Beth Stuckey accused Candace Owens of using BLM "Kafka trap" tactics
+**C-4033** Allie Beth Stuckey accused Candace Owens of using BLM "Kafka trap" tactics
 
 Claim Timestamp: 00:38:00
 
@@ -997,7 +997,7 @@ Investigative Direction: Verify the post is still publicly available and capture
 
 ---
 
-**C-1920** Allie Beth Stuckey publicly defended Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth
+**C-4041** Allie Beth Stuckey publicly defended Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth
 
 Claim Timestamp: 00:44:45
 
@@ -1011,7 +1011,7 @@ Investigative Direction: Catalog each prior host accusation against these five i
 
 ---
 
-**C-1921** Allie Beth Stuckey indicated her content is "not for you" if you question her biblical authority framing
+**C-4035** Allie Beth Stuckey indicated her content is "not for you" if you question her biblical authority framing
 
 Claim Timestamp: 00:40:13
 
@@ -1025,7 +1025,7 @@ Investigative Direction: Capture the comment thread for permanent record and ide
 
 ---
 
-**C-1922** Bari Weiss CBS town hall was pre-recorded with pre-selected questions (per host insider sources)
+**C-3985** Bari Weiss CBS town hall was pre-recorded with pre-selected questions (per host insider sources)
 
 Claim Timestamp: 00:08:10
 
@@ -1040,7 +1040,7 @@ Investigative Direction: Attempt to obtain leaked production documents, backstag
 
 ---
 
-**C-1923** Maroon color is associated with the U.S. Air Force and the Army 10th Mountain Brigade (per host military sources)
+**C-4050** Maroon color is associated with the U.S. Air Force and the Army 10th Mountain Brigade (per host military sources)
 
 Claim Timestamp: 00:57:40
 
@@ -1055,7 +1055,7 @@ Investigative Direction: Verify through official U.S. military color standards (
 
 ---
 
-**C-3757** Host lists statements she calls lies on the SD card removal, Charlie's DOGE and drones
+**C-3993** Host lists statements she calls lies on the SD card removal, Charlie's DOGE and drones
 
 Claim Timestamp: 00:11:47
 
@@ -1070,7 +1070,7 @@ Investigative Direction: Compare Farnsworth's account, the DOGE timeline and the
 
 ---
 
-**C-6677** Host Says the Erika Kirk Interviews Are the Final Stop of a TPUSA PR Campaign
+**C-3976** Host Says the Erika Kirk Interviews Are the Final Stop of a TPUSA PR Campaign
 
 Claim Timestamp: 00:00:56
 
@@ -1086,7 +1086,7 @@ Investigative Direction: Identify who organized the Erika Kirk media rollout (CB
 
 ---
 
-**C-6678** Host Lists Three Talking Points She Says the Campaign Uses
+**C-3977** Host Lists Three Talking Points She Says the Campaign Uses
 
 Claim Timestamp: 00:02:11
 
@@ -1102,7 +1102,7 @@ Investigative Direction: Compile the three framings as they appear across Erika 
 
 ---
 
-**C-6679** Host Says No Amount of Pressure Will Convince Her a Neck Stopped a .30-06 Bullet
+**C-3978** Host Says No Amount of Pressure Will Convince Her a Neck Stopped a .30-06 Bullet
 
 Claim Timestamp: 00:03:55
 
@@ -1113,13 +1113,13 @@ Transcript Snippet: There's not a number that is going to convince the masses uh
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10180
-Supports: C-5111
+Supports: C-3562
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy and ballistic findings on bullet caliber, path and whether the bullet was recovered.
 
 ---
 
-**C-6680** Host Says the Front of Charlie Kirk's Neck Showed Minimal Damage
+**C-3979** Host Says the Front of Charlie Kirk's Neck Showed Minimal Damage
 
 Claim Timestamp: 00:04:56
 
@@ -1135,7 +1135,7 @@ Investigative Direction: Review the autopsy and medical-examiner description of 
 
 ---
 
-**C-6681** Host Describes the Official Account as the Bullet Ricocheting Downward Into His Stomach
+**C-3980** Host Describes the Official Account as the Bullet Ricocheting Downward Into His Stomach
 
 Claim Timestamp: 00:05:39
 
@@ -1151,7 +1151,7 @@ Investigative Direction: Confirm from the autopsy report or official statements 
 
 ---
 
-**C-6682** Host Calls Bari Weiss a Tel Aviv Agent With Epstein-Style Promotion
+**C-3981** Host Calls Bari Weiss a Tel Aviv Agent With Epstein-Style Promotion
 
 Claim Timestamp: 00:05:39
 
@@ -1167,7 +1167,7 @@ Investigative Direction: Check Bari Weiss's published biography and CBS News app
 
 ---
 
-**C-6683** Host Says Weiss's Question Was Likely Reviewed by Lawyers and Delivered From a Script
+**C-3982** Host Says Weiss's Question Was Likely Reviewed by Lawyers and Delivered From a Script
 
 Claim Timestamp: 00:06:58
 
@@ -1178,13 +1178,13 @@ Transcript Snippet: this question, like I said, has likely, by the way, been rev
 Anchored Artifacts: A-1533.1
 Mentions: N-3, N-278, N-2
 Related Nodes: N-10334, N-10282
-Supports: C-1922
+Supports: C-3985
 Tags: relevance:core
 Investigative Direction: Obtain CBS legal-review or production records for the town hall question set; none is shown on air.
 
 ---
 
-**C-6684** Weiss's Question Says Candace Owens Is Making a Huge Amount of Money From Conspiracies
+**C-3983** Weiss's Question Says Candace Owens Is Making a Huge Amount of Money From Conspiracies
 
 Claim Timestamp: 00:06:58
 
@@ -1200,7 +1200,7 @@ Investigative Direction: Compare the question as aired with the unedited CBS bro
 
 ---
 
-**C-6685** Host Says She Already Had Her Business and Was at the Top of the Charts
+**C-3986** Host Says She Already Had Her Business and Was at the Top of the Charts
 
 Claim Timestamp: 00:08:55
 
@@ -1215,7 +1215,7 @@ Investigative Direction: Compare podcast chart rankings, book release dates and 
 
 ---
 
-**C-6686** Host Says Mikey McCoy Has Offered That His Father Was Confused
+**C-3987** Host Says Mikey McCoy Has Offered That His Father Was Confused
 
 Claim Timestamp: 00:10:19
 
@@ -1231,7 +1231,7 @@ Investigative Direction: Compare Rob McCoy's statements about whom Mikey McCoy c
 
 ---
 
-**C-6687** Host Lists the Ate-Healthy Strong-Bones Neck Explanation as a TPUSA Lie
+**C-3988** Host Lists the Ate-Healthy Strong-Bones Neck Explanation as a TPUSA Lie
 
 Claim Timestamp: 00:10:19
 
@@ -1247,7 +1247,7 @@ Investigative Direction: Identify who first offered the strong-bones explanation
 
 ---
 
-**C-6688** Host Lists "Charlie Never Wavered in His Support for Israel" as a Nasty Lie
+**C-3989** Host Lists "Charlie Never Wavered in His Support for Israel" as a Nasty Lie
 
 Claim Timestamp: 00:10:19
 
@@ -1263,7 +1263,7 @@ Investigative Direction: Collect Charlie Kirk's own public statements and privat
 
 ---
 
-**C-6689** Host Says Turning Point USA Lied About Charlie Only Liking Catholic Architecture
+**C-3990** Host Says Turning Point USA Lied About Charlie Only Liking Catholic Architecture
 
 Claim Timestamp: 00:11:07
 
@@ -1279,7 +1279,7 @@ Investigative Direction: Find the original Turning Point USA or Alex Clark state
 
 ---
 
-**C-6690** Host Says She Proved Ben Shapiro's No-Bad-Blood Claim Was Not True
+**C-3991** Host Says She Proved Ben Shapiro's No-Bad-Blood Claim Was Not True
 
 Claim Timestamp: 00:11:07
 
@@ -1295,7 +1295,7 @@ Investigative Direction: Review the texts the host cited and Shapiro's original 
 
 ---
 
-**C-6691** Host Describes TPUSA Pattern: Accuse of Lying, Then Attack Her for Showing the Text
+**C-3992** Host Describes TPUSA Pattern: Accuse of Lying, Then Attack Her for Showing the Text
 
 Claim Timestamp: 00:11:07
 
@@ -1311,7 +1311,7 @@ Investigative Direction: List each instance where a text was released after an a
 
 ---
 
-**C-6692** Host Says Farnsworth Told Her the Police Did Not Tell Him to Remove the SD Card
+**C-3994** Host Says Farnsworth Told Her the Police Did Not Tell Him to Remove the SD Card
 
 Claim Timestamp: 00:11:47
 
@@ -1322,13 +1322,13 @@ Transcript Snippet: Terryl Farnsworth personally told me that that was not true.
 Anchored Artifacts: A-2831.1
 Mentions: N-3, N-261
 Related Nodes: N-10100, N-10162, N-10346
-Supports: C-3757
+Supports: C-3993
 Tags: relevance:core
 Investigative Direction: Obtain Terryl Farnsworth's own account on record and police statements on the SD card removal.
 
 ---
 
-**C-6693** Host Says Theft Would Have Led to Taking the Cameras, Not Just the SD Card
+**C-3995** Host Says Theft Would Have Led to Taking the Cameras, Not Just the SD Card
 
 Claim Timestamp: 00:11:47
 
@@ -1339,13 +1339,13 @@ Transcript Snippet: you would have taken the cameras and not just the SD card pa
 Anchored Artifacts: A-2831.1
 Mentions: N-3, N-1
 Related Nodes: N-10100, N-10162
-Supports: C-5080, C-1257
+Supports: C-3527, C-711
 Tags: relevance:core
 Investigative Direction: Document which cameras had SD cards removed and which were left in place, with equipment logs.
 
 ---
 
-**C-6694** Host Says DOGE Did Not Exist Before Elon Musk, So Charlie's DOGE Was Unusual
+**C-3996** Host Says DOGE Did Not Exist Before Elon Musk, So Charlie's DOGE Was Unusual
 
 Claim Timestamp: 00:11:47
 
@@ -1356,13 +1356,13 @@ Transcript Snippet: Doge didn't even exist. Prior to Elon Musk making that a thi
 Anchored Artifacts: A-2831.1
 Mentions: N-3, N-1, N-118
 Related Nodes: N-10434, N-10130
-Supports: C-3757, C-1563
+Supports: C-3993, C-2136
 Tags: relevance:core
 Investigative Direction: Establish when the Turning Point USA internal DOGE was created and who proposed the name.
 
 ---
 
-**C-6695** Host Says the Rooftop Security Claim Actually Referred to the Walkway Behind
+**C-3997** Host Says the Rooftop Security Claim Actually Referred to the Walkway Behind
 
 Claim Timestamp: 00:12:27
 
@@ -1373,13 +1373,13 @@ Transcript Snippet: That was a lie. It was actually the walkway behind.
 Anchored Artifacts: A-2831.1
 Mentions: N-3, N-266
 Related Nodes: N-10012
-Supports: C-3757
+Supports: C-3993
 Tags: relevance:core
 Investigative Direction: Compare Harpole's statement with UVU police and security coordination records for rooftops and the rear walkway.
 
 ---
 
-**C-6696** Host Says Official Text Messages Were Presented Without Timestamps
+**C-3998** Host Says Official Text Messages Were Presented Without Timestamps
 
 Claim Timestamp: 00:12:27
 
@@ -1390,13 +1390,13 @@ Transcript Snippet: The lover text messages mysteriously presented without any t
 Anchored Artifacts: A-2831.2
 Mentions: N-3
 Related Nodes: N-10039, N-10030
-Supports: C-1155, C-1176
+Supports: C-193, C-301
 Tags: relevance:core
 Investigative Direction: Obtain the full charging-document exhibits to see whether message metadata exists.
 
 ---
 
-**C-6697** Host Says the Claim That Tyler Robinson Confessed and Turned Himself In Is Not What Happened
+**C-3999** Host Says the Claim That Tyler Robinson Confessed and Turned Himself In Is Not What Happened
 
 Claim Timestamp: 00:13:14
 
@@ -1407,13 +1407,13 @@ Transcript Snippet: They claimed that he confessed and turned himself in. That's
 Anchored Artifacts: A-2831.2
 Mentions: N-3, N-40
 Related Nodes: N-10021, N-10566, N-11012
-Supports: C-1142
+Supports: C-133
 Tags: relevance:core
 Investigative Direction: Compare the probable cause statement and press briefings with the father's account of the call to authorities.
 
 ---
 
-**C-6698** Host Says It Was Never Revealed That Robinson Was at the Dairy Queen After the Assassination
+**C-4000** Host Says It Was Never Revealed That Robinson Was at the Dairy Queen After the Assassination
 
 Claim Timestamp: 00:13:14
 
@@ -1424,13 +1424,13 @@ Transcript Snippet: Never revealed that Tyler Robinson was at the Dairy Queen fo
 Anchored Artifacts: A-2831.2
 Mentions: N-3, N-40
 Related Nodes: N-10051, N-10853
-Supports: C-1186
+Supports: C-403
 Tags: relevance:core
 Investigative Direction: Authenticate the Dairy Queen photo, its timestamp and any official acknowledgement of the stop.
 
 ---
 
-**C-6699** Host Says Tyler Robinson Was Not Arrested in a Maroon Shirt
+**C-4001** Host Says Tyler Robinson Was Not Arrested in a Maroon Shirt
 
 Claim Timestamp: 00:13:14
 
@@ -1441,13 +1441,13 @@ Transcript Snippet: They said Tyler Robinson was arrested wearing a maroon shirt
 Anchored Artifacts: A-2831.2
 Mentions: N-3, N-40
 Related Nodes: N-10311, N-10250
-Supports: C-1133
+Supports: C-114
 Tags: relevance:core
 Investigative Direction: Obtain the booking photograph, arrest report and clothing inventory.
 
 ---
 
-**C-6700** Host Says Suicidal Intent and Fear of Being Shot Cannot Both Explain the Surrender
+**C-4002** Host Says Suicidal Intent and Fear of Being Shot Cannot Both Explain the Surrender
 
 Claim Timestamp: 00:13:14
 
@@ -1458,13 +1458,13 @@ Transcript Snippet: They said Tyler Robinson was suicidal but also turned himsel
 Anchored Artifacts: A-2831.2
 Mentions: N-3, N-40
 Related Nodes: N-11012
-Supports: C-1306
+Supports: C-969
 Tags: relevance:core
 Investigative Direction: Compare the father's and pastor's accounts of the call with the charging document language.
 
 ---
 
-**C-6701** Host Says Footage of Tyler Robinson Turning Himself In Is Missing
+**C-4003** Host Says Footage of Tyler Robinson Turning Himself In Is Missing
 
 Claim Timestamp: 00:13:57
 
@@ -1480,7 +1480,7 @@ Investigative Direction: File records requests for surrender-site footage and th
 
 ---
 
-**C-6702** Host Lists the Egyptian Planes Tracking Charlie and Erika Kirk as an Unanswered Question
+**C-4004** Host Lists the Egyptian Planes Tracking Charlie and Erika Kirk as an Unanswered Question
 
 Claim Timestamp: 00:13:57
 
@@ -1491,13 +1491,13 @@ Transcript Snippet: which is the Egyptian planes. Tracking Charlie, following Er
 Anchored Artifacts: A-2831.2
 Mentions: N-3, N-1, N-2
 Related Nodes: N-10253, N-10000
-Supports: C-1545
+Supports: C-2074
 Tags: relevance:core
 Investigative Direction: Cross-check flight-tracking data for the Egyptian-registered aircraft against Kirk and Turning Point USA event dates.
 
 ---
 
-**C-6703** Host Asks Where She Has Lied Rather Than Made a Minor Error Such as a Time Zone
+**C-4005** Host Asks Where She Has Lied Rather Than Made a Minor Error Such as a Time Zone
 
 Claim Timestamp: 00:13:57
 
@@ -1513,7 +1513,7 @@ Investigative Direction: Identify the specific time-zone correction her critics 
 
 ---
 
-**C-6704** Host Says the Town Hall Included a Pre-Selected Question Setting Up Erika to Condemn Anti-Semitism
+**C-4006** Host Says the Town Hall Included a Pre-Selected Question Setting Up Erika to Condemn Anti-Semitism
 
 Claim Timestamp: 00:14:44
 
@@ -1524,13 +1524,13 @@ Transcript Snippet: setting the stage for her to condemn anti-Semitism.
 Anchored Artifacts: A-1533.5
 Mentions: N-3, N-2
 Related Nodes: N-10334, N-10349, N-10000
-Supports: C-1922
+Supports: C-3985
 Tags: relevance:core
 Investigative Direction: Compare the aired Saturday broadcast with the host's insider account of which questions were pre-submitted.
 
 ---
 
-**C-6705** Host Says CBS Seated the Father of a Jewish Museum Shooting Victim and Thinks He Was an IDF Soldier
+**C-4007** Host Says CBS Seated the Father of a Jewish Museum Shooting Victim and Thinks He Was an IDF Soldier
 
 Claim Timestamp: 00:15:32
 
@@ -1546,7 +1546,7 @@ Investigative Direction: Identify the audience member by name from the CBS broad
 
 ---
 
-**C-6706** Host Says Hunter Kozak Asked Charlie Kirk the Last Question and Was Seated at the Town Hall
+**C-4008** Host Says Hunter Kozak Asked Charlie Kirk the Last Question and Was Seated at the Town Hall
 
 Claim Timestamp: 00:15:32
 
@@ -1562,7 +1562,7 @@ Investigative Direction: Compare Kozak's identity with the questioner in the Sep
 
 ---
 
-**C-6707** Host Says CBS Filled the Audience With College Republicans and CBS-Selected Questions
+**C-4009** Host Says CBS Filled the Audience With College Republicans and CBS-Selected Questions
 
 Claim Timestamp: 00:15:32
 
@@ -1573,13 +1573,13 @@ Transcript Snippet: They filled the audience with people selected by CBS, Colleg
 Anchored Artifacts: A-1533.5
 Mentions: N-3
 Related Nodes: N-10334, N-10282
-Supports: C-1922
+Supports: C-3985
 Tags: relevance:core
 Investigative Direction: Obtain the audience recruitment communications and question submission process from CBS or from attendees.
 
 ---
 
-**C-6708** Host Says the Interviews Are Part of a PR Blitz for Charlie's Upcoming Book on the Sabbath
+**C-4010** Host Says the Interviews Are Part of a PR Blitz for Charlie's Upcoming Book on the Sabbath
 
 Claim Timestamp: 00:16:29
 
@@ -1595,7 +1595,7 @@ Investigative Direction: Verify the title, publisher and release date of the boo
 
 ---
 
-**C-6709** Host Says She Has Never Seen Anyone Say Erika Kirk Murdered Charlie, Only Investigate Her Background
+**C-4012** Host Says She Has Never Seen Anyone Say Erika Kirk Murdered Charlie, Only Investigate Her Background
 
 Claim Timestamp: 00:18:20
 
@@ -1611,7 +1611,7 @@ Investigative Direction: Survey high-profile commentators for any explicit accus
 
 ---
 
-**C-6710** Host Says the Government Appears Implicated Because Every Department Is Pushing Propaganda
+**C-4017** Host Says the Government Appears Implicated Because Every Department Is Pushing Propaganda
 
 Claim Timestamp: 00:24:03
 
@@ -1622,13 +1622,13 @@ Transcript Snippet: the government is implicated, otherwise it wouldn't require 
 Anchored Artifacts: A-1533.4
 Mentions: N-3, N-1
 Related Nodes: N-10014
-Supports: C-1916
+Supports: C-4016
 Tags: relevance:core
 Investigative Direction: The host offers no document; identify which department communications she regards as propaganda.
 
 ---
 
-**C-6711** Host Says Three Months On Erika's Answers Are Still Rehearsed
+**C-4018** Host Says Three Months On Erika's Answers Are Still Rehearsed
 
 Claim Timestamp: 00:26:17
 
@@ -1644,7 +1644,7 @@ Investigative Direction: Compare Erika Kirk's wording across interviews for repe
 
 ---
 
-**C-6712** Host Says She Never Asks for Questions Ahead of Time and Never Restricts Topics
+**C-4019** Host Says She Never Asks for Questions Ahead of Time and Never Restricts Topics
 
 Claim Timestamp: 00:27:51
 
@@ -1659,7 +1659,7 @@ Investigative Direction: Ask past interviewers of the host whether pre-interview
 
 ---
 
-**C-6713** Host Says Erika Had the Questions Ahead of Time So Her Answers Were Rehearsed
+**C-4020** Host Says Erika Had the Questions Ahead of Time So Her Answers Were Rehearsed
 
 Claim Timestamp: 00:28:41
 
@@ -1670,13 +1670,13 @@ Transcript Snippet: It has to be rehearsed. You got the questions ahead of time.
 Anchored Artifacts: A-1533.2
 Mentions: N-3, N-2
 Related Nodes: N-10349, N-10334
-Supports: C-1922
+Supports: C-3985
 Tags: relevance:core
 Investigative Direction: Seek the pre-submitted question list from CBS or Erika Kirk's team.
 
 ---
 
-**C-6714** Host Says Releasing Mikey McCoy's Phone Records Could Not Hurt the Court Case
+**C-4021** Host Says Releasing Mikey McCoy's Phone Records Could Not Hurt the Court Case
 
 Claim Timestamp: 00:28:41
 
@@ -1687,13 +1687,13 @@ Transcript Snippet: letting us see Mikey MacColl's phone records, just one examp
 Anchored Artifacts: 
 Mentions: N-3, N-190
 Related Nodes: N-10193
-Supports: C-1461, C-1462
+Supports: C-1734, C-1741
 Tags: relevance:core
 Investigative Direction: Check whether any prosecutor or court has restricted release of the McCoy call log and under what rule.
 
 ---
 
-**C-6715** Host Says the Egyptian Planes Near TPUSA Faith Events Are a Statistical Anomaly
+**C-4022** Host Says the Egyptian Planes Near TPUSA Faith Events Are a Statistical Anomaly
 
 Claim Timestamp: 00:29:52
 
@@ -1704,13 +1704,13 @@ Transcript Snippet: why it's a statistical anomaly for these Egyptian planes to 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-2
 Related Nodes: N-10253, N-10000
-Supports: C-1545
+Supports: C-2074
 Tags: relevance:core
 Investigative Direction: Compile the event-by-event overlap of aircraft arrivals with Turning Point USA faith events.
 
 ---
 
-**C-6716** Pre-Born Sponsor Copy Says a Mother Who Sees an Ultrasound Doubles Her Chance of Choosing Life
+**C-4023** Pre-Born Sponsor Copy Says a Mother Who Sees an Ultrasound Doubles Her Chance of Choosing Life
 
 Claim Timestamp: 00:31:24
 
@@ -1725,7 +1725,7 @@ Investigative Direction: Verify Pre-Born's published statistics and the matching
 
 ---
 
-**C-6717** Host Says Tyler Robinson Was Involved and So Were Multiple Others
+**C-4024** Host Says Tyler Robinson Was Involved and So Were Multiple Others
 
 Claim Timestamp: 00:33:07
 
@@ -1741,7 +1741,7 @@ Investigative Direction: Identify which additional participants the host believe
 
 ---
 
-**C-6718** Host Says Robinson Hid Clothes in the Cemetery Next to the Dairy Queen
+**C-4025** Host Says Robinson Hid Clothes in the Cemetery Next to the Dairy Queen
 
 Claim Timestamp: 00:33:07
 
@@ -1752,13 +1752,13 @@ Transcript Snippet: I think he took clothes and hid them in the cemetery whateve
 Anchored Artifacts: 
 Mentions: N-3, N-40
 Related Nodes: N-10051
-Supports: C-1186
+Supports: C-403
 Tags: relevance:core
 Investigative Direction: Locate the cemetery clothing recovery in police evidence logs.
 
 ---
 
-**C-6719** Host Says She Does Not Believe Tyler Robinson Was on Campus That Day
+**C-4026** Host Says She Does Not Believe Tyler Robinson Was on Campus That Day
 
 Claim Timestamp: 00:33:07
 
@@ -1774,7 +1774,7 @@ Investigative Direction: Examine campus footage and any evidence placing Robinso
 
 ---
 
-**C-6720** Host Says There Is Video of the Shot and Asks Why It Was Not Released
+**C-4027** Host Says There Is Video of the Shot and Asks Why It Was Not Released
 
 Claim Timestamp: 00:33:07
 
@@ -1790,7 +1790,7 @@ Investigative Direction: Ask the prosecution or UVU which video of the shooter i
 
 ---
 
-**C-6721** Host Says Robinson Seemed to Be Smiling at First In-Person Court Appearance
+**C-4028** Host Says Robinson Seemed to Be Smiling at First In-Person Court Appearance
 
 Claim Timestamp: 00:34:27
 
@@ -1801,13 +1801,13 @@ Transcript Snippet: kind of seemed like he was smiling I did not get the energy 
 Anchored Artifacts: A-1535.1
 Mentions: N-3, N-40
 Related Nodes: N-10336
-Supports: C-1918
+Supports: C-4029
 Tags: relevance:core
 Investigative Direction: Review the courtroom video and reporters' descriptions of his demeanor.
 
 ---
 
-**C-6722** Host Says Media Organizations Are Requesting the Transcript of the Hearing
+**C-4030** Host Says Media Organizations Are Requesting the Transcript of the Hearing
 
 Claim Timestamp: 00:35:42
 
@@ -1818,13 +1818,13 @@ Transcript Snippet: media organizations even for this case are requesting the tr
 Anchored Artifacts: A-1535.1
 Mentions: N-3, N-40
 Related Nodes: N-10336
-Supports: C-1918
+Supports: C-4029
 Tags: relevance:context
 Investigative Direction: Check the docket for media requests and the court's order on transcript access.
 
 ---
 
-**C-6723** Host Alleges Stuckey Hired a PR Agent Who Sent Someone to Follow Her
+**C-4031** Host Alleges Stuckey Hired a PR Agent Who Sent Someone to Follow Her
 
 Claim Timestamp: 00:35:58
 
@@ -1840,7 +1840,7 @@ Investigative Direction: The host names no agent; identify the PR agent and the 
 
 ---
 
-**C-6724** Host Alleges the PR Agent Keeps Files and Sends Out-of-Context Cuts to Ian Miles Cheong
+**C-4032** Host Alleges the PR Agent Keeps Files and Sends Out-of-Context Cuts to Ian Miles Cheong
 
 Claim Timestamp: 00:35:58
 
@@ -1856,7 +1856,7 @@ Investigative Direction: Identify any such materials as published by Cheong and 
 
 ---
 
-**C-6725** Host Says She Made a Documentary on BLM and George Floyd Exposing Media Collusion
+**C-4034** Host Says She Made a Documentary on BLM and George Floyd Exposing Media Collusion
 
 Claim Timestamp: 00:39:08
 
@@ -1871,7 +1871,7 @@ Investigative Direction: Reference the documentary and the claims it made about 
 
 ---
 
-**C-6726** Host Says Josh Hammer Explicitly Lied About Charlie's State of Mind
+**C-4036** Host Says Josh Hammer Explicitly Lied About Charlie's State of Mind
 
 Claim Timestamp: 00:41:15
 
@@ -1887,7 +1887,7 @@ Investigative Direction: Compare Hammer's podcast statements with the text messa
 
 ---
 
-**C-6727** Host Says Alex Clark's Architecture Episode Was Not True
+**C-4037** Host Says Alex Clark's Architecture Episode Was Not True
 
 Claim Timestamp: 00:42:30
 
@@ -1903,7 +1903,7 @@ Investigative Direction: Obtain the Alex Clark episode and compare with Charlie'
 
 ---
 
-**C-6728** Host Says Ben Shapiro Lied About Never Having Issues With Charlie
+**C-4038** Host Says Ben Shapiro Lied About Never Having Issues With Charlie
 
 Claim Timestamp: 00:42:30
 
@@ -1914,13 +1914,13 @@ Transcript Snippet: when Ben Shapiro lied and said that he never had any issues 
 Anchored Artifacts: A-1537.1
 Mentions: N-3, N-97, N-227, N-1
 Related Nodes: N-10237
-Supports: C-6690
+Supports: C-3991
 Tags: relevance:core
 Investigative Direction: Compare Shapiro's statements with released texts between Charlie and the host about Shapiro.
 
 ---
 
-**C-6729** Stuckey Says the Released Texts About Ben Shapiro Made Charlie Look Petty
+**C-4039** Stuckey Says the Released Texts About Ben Shapiro Made Charlie Look Petty
 
 Claim Timestamp: 00:43:28
 
@@ -1936,7 +1936,7 @@ Investigative Direction: Review the released texts and their dates to see how St
 
 ---
 
-**C-6730** Stuckey Says the Host Questioned Lila Rose's Military Connections Because Her Husband Is a Veteran
+**C-4040** Stuckey Says the Host Questioned Lila Rose's Military Connections Because Her Husband Is a Veteran
 
 Claim Timestamp: 00:44:33
 
@@ -1951,7 +1951,7 @@ Investigative Direction: Locate the host's statements about Lila Rose and her hu
 
 ---
 
-**C-6731** Host Calls Stuckey a Zionist Who Defends Zionists Caught Lying
+**C-4042** Host Calls Stuckey a Zionist Who Defends Zionists Caught Lying
 
 Claim Timestamp: 00:46:41
 
@@ -1966,7 +1966,7 @@ Investigative Direction: Review Stuckey's public statements on Israel; the host'
 
 ---
 
-**C-6732** Host Says She Will Stop Immediately Once Erika Says What She Lied About
+**C-4043** Host Says She Will Stop Immediately Once Erika Says What She Lied About
 
 Claim Timestamp: 00:50:39
 
@@ -1977,13 +1977,13 @@ Transcript Snippet: as soon as she tells me what it is I've lied about, I will c
 Anchored Artifacts: A-2833.1
 Mentions: N-3, N-2
 Related Nodes: N-11108
-Supports: C-1912
+Supports: C-3984
 Tags: relevance:core
 Investigative Direction: Check whether Erika Kirk or Turning Point USA later named specific false statements.
 
 ---
 
-**C-6733** Host Says the Stop Request Was Part of a Dress Rehearsal Followed by Influencer Echoes
+**C-4044** Host Says the Stop Request Was Part of a Dress Rehearsal Followed by Influencer Echoes
 
 Claim Timestamp: 00:51:28
 
@@ -1994,13 +1994,13 @@ Transcript Snippet: It's very obvious to me that was part of like the dress rehe
 Anchored Artifacts: A-2833.2
 Mentions: N-3, N-2
 Related Nodes: N-11107
-Supports: C-1912
+Supports: C-3984
 Tags: relevance:core
 Investigative Direction: Identify the accounts that repeated the "stop" line after the broadcast and whether they were coordinated or paid.
 
 ---
 
-**C-6734** Host Reads Alicia Yancey Comment Quoting Her 2018 Words and Says She Does Not Know Where She Said It
+**C-4045** Host Reads Alicia Yancey Comment Quoting Her 2018 Words and Says She Does Not Know Where She Said It
 
 Claim Timestamp: 00:54:02
 
@@ -2015,7 +2015,7 @@ Investigative Direction: Locate the original 2018 message the commenter paraphra
 
 ---
 
-**C-6735** Host Says She Had a Boyfriend the Whole Time She and Charlie Toured
+**C-4046** Host Says She Had a Boyfriend the Whole Time She and Charlie Toured
 
 Claim Timestamp: 00:54:02
 
@@ -2030,7 +2030,7 @@ Investigative Direction: The claim concerns the host's own history; no document 
 
 ---
 
-**C-6736** Host Says the Pierre and Billion-Dollar Incentive Segment Triggered a Wave of Attacks
+**C-4047** Host Says the Pierre and Billion-Dollar Incentive Segment Triggered a Wave of Attacks
 
 Claim Timestamp: 00:55:00
 
@@ -2046,7 +2046,7 @@ Investigative Direction: Review the prior episode's Pierre segment and the timin
 
 ---
 
-**C-6737** Host Says Nobody in the English-Speaking World Was Talking About Brigitte Macron Before She Did
+**C-4048** Host Says Nobody in the English-Speaking World Was Talking About Brigitte Macron Before She Did
 
 Claim Timestamp: 00:55:47
 
@@ -2061,7 +2061,7 @@ Investigative Direction: Check English-language coverage of the Brigitte Macron 
 
 ---
 
-**C-6738** Host Says Erika's Weiss Piece Will Mention the Maroon Boys as Crazy, but Military Men Tie Maroon to the Air Force
+**C-4049** Host Says Erika's Weiss Piece Will Mention the Maroon Boys as Crazy, but Military Men Tie Maroon to the Air Force
 
 Claim Timestamp: 00:56:27
 
@@ -2072,13 +2072,13 @@ Transcript Snippet: And apparently they also mentioned the maroon boys in Erika'
 Anchored Artifacts: A-2833.3
 Mentions: N-3, N-2, N-278
 Related Nodes: N-10335, N-10311
-Supports: C-1923
+Supports: C-4050
 Tags: relevance:core
 Investigative Direction: Watch the Saturday broadcast for any maroon-shirt mention and check the host's military color claims against official records.
 
 ---
 
-**C-6739** Host Promotes What a Woman Is, Available on Her Site for $1.99 Pay-Per-View
+**C-4051** Host Promotes What a Woman Is, Available on Her Site for $1.99 Pay-Per-View
 
 Claim Timestamp: 01:00:21
 
@@ -2093,7 +2093,7 @@ Investigative Direction: Confirm the price and availability on the host's site.
 
 ---
 
-**C-6740** Host Says Feminism Is Government-Sanctioned CIA With Homosexual Men Behind It
+**C-4052** Host Says Feminism Is Government-Sanctioned CIA With Homosexual Men Behind It
 
 Claim Timestamp: 01:00:21
 
@@ -2108,7 +2108,7 @@ Investigative Direction: Sweeping group claim with no document shown, recorded a
 
 ---
 
-**C-6741** Host Says Her Beef Is Not With Erika and Compares Her Stand to Her BLM Stand
+**C-4053** Host Says Her Beef Is Not With Erika and Compares Her Stand to Her BLM Stand
 
 Claim Timestamp: 01:01:13
 
@@ -2283,6 +2283,6 @@ Confidence: high
 - **Transcript ambiguity (Michael Knowles):** Transcript at [35:58] reads "Michael knows, nicest people ever," which is likely a transcription error for "Michael Knowles." Preserved as likely transcription artifact.
 - **Name uncertainty (DC Jewish Museum shooting victim):** The host at [15:32] references the father of a young woman shot at a DC Jewish Museum and speculates the victim was an IDF soldier but states "I might be wrong about that." Flag as unverified.
 - **Referenced but not shown (Saturday CBS interview):** The host references a Saturday Erika Kirk / Bari Weiss CBS interview scheduled to air after this episode's recording. The content is anticipated rather than artifact-present.
-- **Maroon color verification needed:** Host's claim (C-1923) conflates Air Force color (officially ultramarine blue) with 10th Mountain Brigade historical maroon beret. Host claim requires authoritative military-uniform verification rather than insider assertion.
+- **Maroon color verification needed:** Host's claim (C-4050) conflates Air Force color (officially ultramarine blue) with 10th Mountain Brigade historical maroon beret. Host claim requires authoritative military-uniform verification rather than insider assertion.
 - **Hunter Kozak role**: Host identifies Kozak as the questioner who asked Kirk his last question before the assassination. This is host-stated fact, not independently verified in this artifact bundle. Flag for cross-verification with video of Kirk's final event.
-- **Insider sourcing (town hall pre-recording):** Host's claim about CBS production practices (C-1922) relies entirely on her own insider contacts. No document artifact is shown. Flag for sourcing chain.
+- **Insider sourcing (town hall pre-recording):** Host's claim about CBS production practices (C-3985) relies entirely on her own insider contacts. No document artifact is shown. Flag for sourcing chain.

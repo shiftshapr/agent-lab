@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep152): N-194
   - Tip-minted Nodes (reintro-ep152): N-833, N-834
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10d): C-10500–C-10589
+  - Claim Range: C-13070–C-13179
   - Reused Nodes Appearing: N-10832, N-5, N-9, N-22, N-27, N-30, N-37, N-41, N-54, N-99, N-135, N-154, N-159, N-204, N-58, N-237, N-278, N-325, N-330, N-341, N-367, N-424, N-449, N-450, N-460, N-487, N-488, N-529, N-569, N-686, N-687, N-688, N-776, N-800, N-801, N-384, N-10006, N-10012, N-10014, N-10023, N-10026, N-10032, N-10056, N-10129, N-10151, N-10193, N-10198, N-10246, N-10338, N-10410, N-10411, N-10421, N-10435, N-10524, N-10609, N-10698, N-10725, N-10770, N-10899, N-10969, N-10989, N-11047, N-11099, N-11165, N-11167, N-11203, N-867
  - New Nodes Introduced: N-10831, N-10832
  - Reused Nodes Appearing: N-11, N-506
@@ -43,7 +43,7 @@
 ### Episode 152 Ledger Summary
 
 Artifact Families Introduced: A-2374, A-2375, A-2376, A-2377, A-2378, A-2379, A-2380, A-2381, A-2382
-Claim Range: C-3445–C-3464
+Claim Range: C-13070–C-13123
 New Nodes Introduced: N-10831, N-10832
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
@@ -68,7 +68,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:02:33–00:03:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio confirmed played)
-*Related: C-3445*
+*Related: C-13070*
 
 ---
 
@@ -81,7 +81,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:09:25–00:10:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-3446*
+*Related: C-13092*
 
 ---
 
@@ -94,7 +94,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:18:24–00:19:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (footage aired with description)
-*Related: C-3452, C-3453*
+*Related: C-13115, C-13121*
 
 **A-2376.2** Continuation of clip showing female officer beginning to take McCoy's statement while wearing ICAC vest
 
@@ -103,7 +103,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:19:17–00:19:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-3452*
+*Related: C-13115*
 
 ---
 
@@ -116,7 +116,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:20:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-3452*
+*Related: C-13115*
 
 **A-2377.2** Second still: clear view of vest reading "Police" and "Utah ICAC"
 
@@ -125,7 +125,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:20:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-3452*
+*Related: C-13115*
 
 **A-2377.3** Additional still showing ICAC vest text
 
@@ -134,7 +134,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:20:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-3452*
+*Related: C-13115*
 
 ---
 
@@ -147,7 +147,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:12:41–00:15:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud by host from document)
-*Related: C-3450, C-3451*
+*Related: C-13104, C-13105*
 
 ---
 
@@ -160,7 +160,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:36:17–00:37:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip aired)
-*Related: C-3457*
+*Related: C-13152*
 
 ---
 
@@ -173,7 +173,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:38:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-3457, N-2*
+*Related: C-13152, N-2*
 
 ---
 
@@ -186,7 +186,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:43:58–00:45:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-3458, C-3459*
+*Related: C-13157, C-13161*
 
 ---
 
@@ -199,7 +199,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:03:34–00:08:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-categorized compilation; original sourcing per individual row)
-*Related: C-3460*
+*Related: C-13071*
 
 ---
 
@@ -212,7 +212,7 @@ Video Timestamp: 00:16:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10532, N-3*
+*Related: C-13113, N-3*
 
 ---
 
@@ -225,7 +225,7 @@ Video Timestamp: 00:38:56
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10566, C-10567, N-3*
+*Related: C-13154, C-13155, N-3*
 
 ---
 
@@ -240,7 +240,7 @@ Video Timestamp: 00:56:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10579, N-3*
+*Related: C-13169, N-3*
 
 ---
 
@@ -253,7 +253,7 @@ Video Timestamp: 00:56:20
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10580, N-3*
+*Related: C-13170, N-3*
 
 ---
 
@@ -264,7 +264,7 @@ Video Timestamp: 00:57:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10583, N-3*
+*Related: C-13173, N-3*
 
 ---
 
@@ -275,7 +275,7 @@ Video Timestamp: 00:59:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10585, N-3*
+*Related: C-13175, N-3*
 
 ---
 
@@ -285,7 +285,7 @@ Confidence Level: Low
 
 First named by the host at 00:35:04 in episode 152.
 
-*Related: C-3457, A-2379.1, A-2380.1*
+*Related: C-13152, A-2379.1, A-2380.1*
 
 **N-10831** Search Warrant / Investigative Unit Pattern (Case Charlie Kirk)
 
@@ -295,7 +295,7 @@ Evidence Count: 3
 Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
-*Related: A-2378.1, A-2376.2, C-3450, C-3451, C-3452*
+*Related: A-2378.1, A-2376.2, C-13104, C-13105, C-13115*
 
 ---
 
@@ -307,7 +307,7 @@ Evidence Count: 1
 Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
-*Related: A-2382.1, C-3460, C-3464, N-2*
+*Related: A-2382.1, C-13071, C-13123, N-2*
 
 ---
 
@@ -324,7 +324,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 Subject of the assassination; the host reports his statements, phone calls and last days.
 
-*Related: C-10526, C-10529, C-10536, C-10542, C-10543, C-10545, C-10546, C-10560, C-10576, C-10588*
+*Related: C-13107, C-13110, C-13118, C-13127, C-13128, C-13130, C-13131, C-13147, C-13166, C-13178*
 
 ---
 
@@ -332,7 +332,7 @@ Subject of the assassination; the host reports his statements, phone calls and l
 
 Outlet on Erika's media tour.
 
-*Related: C-10583*
+*Related: C-13173*
 
 ---
 
@@ -340,7 +340,7 @@ Outlet on Erika's media tour.
 
 Site of the shooting.
 
-*Related: C-10528*
+*Related: C-13109*
 
 ---
 
@@ -348,7 +348,7 @@ Site of the shooting.
 
 FBI, listed among agencies at the scene.
 
-*Related: C-10538*
+*Related: C-13120*
 
 ---
 
@@ -356,7 +356,7 @@ FBI, listed among agencies at the scene.
 
 Existing topic reused.
 
-*Related: C-10547*
+*Related: C-13132*
 
 ---
 
@@ -364,7 +364,7 @@ Existing topic reused.
 
 Place; referenced in the host's pressure and blackmail claims.
 
-*Related: C-10560, C-10568*
+*Related: C-13147, C-13156*
 
 ---
 
@@ -372,7 +372,7 @@ Place; referenced in the host's pressure and blackmail claims.
 
 Existing topic reused.
 
-*Related: C-10524, C-10525*
+*Related: C-13101, C-13102*
 
 ---
 
@@ -380,7 +380,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-10546, C-10588*
+*Related: C-13131, C-13178*
 
 ---
 
@@ -388,7 +388,7 @@ Existing topic reused.
 
 Local police the host speculates the ICAC officer worked for.
 
-*Related: C-10539*
+*Related: C-13124*
 
 ---
 
@@ -396,7 +396,7 @@ Local police the host speculates the ICAC officer worked for.
 
 Existing topic reused.
 
-*Related: C-10520*
+*Related: C-13093*
 
 ---
 
@@ -404,7 +404,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-10534*
+*Related: C-13116*
 
 ---
 
@@ -412,7 +412,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-10536*
+*Related: C-13118*
 
 ---
 
@@ -420,7 +420,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-10506*
+*Related: C-13078*
 
 ---
 
@@ -428,7 +428,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-10537*
+*Related: C-13119*
 
 ---
 
@@ -436,7 +436,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-10510*
+*Related: C-13082*
 
 ---
 
@@ -444,7 +444,7 @@ Existing topic reused.
 
 Lawsuits over Romanian trafficking allegations against the church.
 
-*Related: C-10504*
+*Related: C-13076*
 
 ---
 
@@ -452,14 +452,14 @@ Lawsuits over Romanian trafficking allegations against the church.
 
 Existing topic reused.
 
-*Related: C-10514*
+*Related: C-13086*
 
 ---
 
 **N-10435** Fort Huachuca Erika Kirk Location Investigation
 Existing topic reused for the Fort Huachuca reference.
 
-*Related: C-10502*
+*Related: C-13074*
 
 ---
 
@@ -467,7 +467,7 @@ Existing topic reused for the Fort Huachuca reference.
 
 Existing topic reused.
 
-*Related: C-10556*
+*Related: C-13143*
 
 ---
 
@@ -475,7 +475,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-10515*
+*Related: C-13087*
 
 ---
 
@@ -483,7 +483,7 @@ Existing topic reused.
 
 Existing topic reused for the modeling apartments claims.
 
-*Related: C-10554, C-10555*
+*Related: C-13141, C-13142*
 
 ---
 
@@ -491,7 +491,7 @@ Existing topic reused for the modeling apartments claims.
 
 Existing topic reused.
 
-*Related: C-10522*
+*Related: C-13096*
 
 ---
 
@@ -499,7 +499,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-10530*
+*Related: C-13111*
 
 ---
 
@@ -507,7 +507,7 @@ Existing topic reused.
 
 YouTube channel the host says TPUSA used for a ballistics explanation.
 
-*Related: C-10558*
+*Related: C-13145*
 
 ---
 
@@ -515,7 +515,7 @@ YouTube channel the host says TPUSA used for a ballistics explanation.
 
 Existing topic reused.
 
-*Related: C-10543*
+*Related: C-13128*
 
 ---
 
@@ -523,7 +523,7 @@ Existing topic reused.
 
 Marx's charity.
 
-*Related: C-10512*
+*Related: C-13084*
 
 ---
 
@@ -531,7 +531,7 @@ Marx's charity.
 
 Existing topic reused.
 
-*Related: C-10575*
+*Related: C-13164*
 
 ---
 
@@ -539,14 +539,14 @@ Existing topic reused.
 
 Erika's charity named in the trafficking spreadsheet.
 
-*Related: C-10500, C-10501*
+*Related: C-13072, C-13073*
 
 ---
 
 **N-11167** Operation Underground Railroad
 Anti-trafficking group the host says Beck funded.
 
-*Related: C-10508, C-10515*
+*Related: C-13080, C-13087*
 
 ---
 
@@ -554,7 +554,7 @@ Anti-trafficking group the host says Beck funded.
 
 First TPUSA tour after Charlie's death.
 
-*Related: C-10503*
+*Related: C-13075*
 
 ---
 
@@ -562,7 +562,7 @@ First TPUSA tour after Charlie's death.
 
 Former undercover detective central to Robinson's surrender.
 
-*Related: C-10520*
+*Related: C-13093*
 
 ---
 
@@ -570,7 +570,7 @@ Former undercover detective central to Robinson's surrender.
 
 Judge in the Tyler Robinson case (transcribed Graph); the host reviews his career in sex crimes prosecution.
 
-*Related: C-10517, C-10518, C-10519*
+*Related: C-13089, C-13090, C-13091*
 
 ---
 
@@ -578,7 +578,7 @@ Judge in the Tyler Robinson case (transcribed Graph); the host reviews his caree
 
 Friend of the host in the Iceland call account (transcribed Mappen).
 
-*Related: C-10585, C-10586*
+*Related: C-13175, C-13176*
 
 ---
 
@@ -586,7 +586,7 @@ Friend of the host in the Iceland call account (transcribed Mappen).
 
 TPUSA staffer riding in the Denali (transcribed Blake Neff).
 
-*Related: C-10535*
+*Related: C-13117*
 
 ---
 
@@ -594,7 +594,7 @@ TPUSA staffer riding in the Denali (transcribed Blake Neff).
 
 Charlie's chief of staff whose statement was taken by an ICAC officer.
 
-*Related: C-10533, C-10534, C-10535, C-10536, C-10537, C-10538, C-10539*
+*Related: C-13114, C-13116, C-13117, C-13118, C-13119, C-13120, C-13124*
 
 ---
 
@@ -602,7 +602,7 @@ Charlie's chief of staff whose statement was taken by an ICAC officer.
 
 Patriots owner the host accuses of lobbying (transcribed Robert Kraft).
 
-*Related: C-10569*
+*Related: C-13160*
 
 ---
 
@@ -610,7 +610,7 @@ Patriots owner the host accuses of lobbying (transcribed Robert Kraft).
 
 Widow and TPUSA CEO; the host questions her charity ties, media tour and past.
 
-*Related: C-10500, C-10501, C-10503, C-10509, C-10534, C-10545, C-10551, C-10554, C-10555, C-10579, C-10583, C-10587*
+*Related: C-13072, C-13073, C-13075, C-13081, C-13116, C-13130, C-13136, C-13141, C-13142, C-13169, C-13173, C-13177*
 
 ---
 
@@ -618,7 +618,7 @@ Widow and TPUSA CEO; the host questions her charity ties, media tour and past.
 
 Host of the show where Mappin and Tatum appeared per a commenter (transcribed Pierce).
 
-*Related: C-10585*
+*Related: C-13175*
 
 ---
 
@@ -626,7 +626,7 @@ Host of the show where Mappin and Tatum appeared per a commenter (transcribed Pi
 
 Speaker the host says raised Epstein on stage.
 
-*Related: C-10544*
+*Related: C-13129*
 
 ---
 
@@ -634,7 +634,7 @@ Speaker the host says raised Epstein on stage.
 
 Commentator the host spoke to by phone.
 
-*Related: C-10585, C-10586, C-10587*
+*Related: C-13175, C-13176, C-13177*
 
 ---
 
@@ -642,7 +642,7 @@ Commentator the host spoke to by phone.
 
 Funder of Operation Underground and media figure present on September 10.
 
-*Related: C-10507, C-10508, C-10515, C-10583*
+*Related: C-13079, C-13080, C-13087, C-13173*
 
 ---
 
@@ -650,7 +650,7 @@ Funder of Operation Underground and media figure present on September 10.
 
 Cited as an example of lobby pressure and touring.
 
-*Related: C-10575, C-10577*
+*Related: C-13164, C-13167*
 
 ---
 
@@ -658,7 +658,7 @@ Cited as an example of lobby pressure and touring.
 
 Interviewer on Erika's media tour (transcribed Bari Weiss).
 
-*Related: C-10583*
+*Related: C-13173*
 
 ---
 
@@ -666,7 +666,7 @@ Interviewer on Erika's media tour (transcribed Bari Weiss).
 
 Host; speaks for herself throughout.
 
-*Related: C-10500, C-10509, C-10542, C-10545, C-10548, C-10554, C-10555, C-10557, C-10561, C-10562, C-10565, C-10575, C-10576, C-10581, C-10582, C-10583, C-10584, C-10586, C-10587, C-10588*
+*Related: C-13072, C-13081, C-13127, C-13130, C-13133, C-13141, C-13142, C-13144, C-13148, C-13149, C-13153, C-13164, C-13166, C-13171, C-13172, C-13173, C-13174, C-13176, C-13177, C-13178*
 
 ---
 
@@ -674,7 +674,7 @@ Host; speaks for herself throughout.
 
 The host's husband, fishing in Iceland.
 
-*Related: C-10586*
+*Related: C-13176*
 
 ---
 
@@ -682,7 +682,7 @@ The host's husband, fishing in Iceland.
 
 Operation Underground founder.
 
-*Related: C-10508*
+*Related: C-13080*
 
 ---
 
@@ -690,7 +690,7 @@ Operation Underground founder.
 
 Source of the clip and warrant findings.
 
-*Related: C-10519*
+*Related: C-13091*
 
 ---
 
@@ -698,7 +698,7 @@ Source of the clip and warrant findings.
 
 Evangelist whose charity the host links to trafficking work.
 
-*Related: C-10512*
+*Related: C-13084*
 
 ---
 
@@ -706,7 +706,7 @@ Evangelist whose charity the host links to trafficking work.
 
 Financier whose money's origin Carlson asked about (transcribed Bill Ackman).
 
-*Related: C-10544*
+*Related: C-13129*
 
 ---
 
@@ -714,7 +714,7 @@ Financier whose money's origin Carlson asked about (transcribed Bill Ackman).
 
 Driver on September 10 (transcribed Danny Phillip).
 
-*Related: C-10534, C-10535*
+*Related: C-13116, C-13117*
 
 ---
 
@@ -722,7 +722,7 @@ Driver on September 10 (transcribed Danny Phillip).
 
 Defendant in the Kirk case.
 
-*Related: C-10520, C-10521, C-10523, C-10528, C-10559, C-10561, C-10580*
+*Related: C-13093, C-13095, C-13097, C-13109, C-13146, C-13148, C-13170*
 
 ---
 
@@ -730,7 +730,7 @@ Defendant in the Kirk case.
 
 Utah governor who appointed Graf.
 
-*Related: C-10517*
+*Related: C-13089*
 
 ---
 
@@ -738,7 +738,7 @@ Utah governor who appointed Graf.
 
 Man who shouted that he did it.
 
-*Related: C-10524, C-10525, C-10529, C-10532*
+*Related: C-13101, C-13102, C-13110, C-13113*
 
 ---
 
@@ -746,7 +746,7 @@ Man who shouted that he did it.
 
 Named by the host as running trafficking-related work in Poland.
 
-*Related: C-10515*
+*Related: C-13087*
 
 ---
 
@@ -754,7 +754,7 @@ Named by the host as running trafficking-related work in Poland.
 
 Temple of Set founder named by the host (transcribed Michael Aquino).
 
-*Related: C-10510, C-10511*
+*Related: C-13082, C-13083*
 
 ---
 
@@ -762,7 +762,7 @@ Temple of Set founder named by the host (transcribed Michael Aquino).
 
 Pastor the host says headlined the first post-Charlie tour paperwork (transcribed Greg Laurie).
 
-*Related: C-10503, C-10504*
+*Related: C-13075, C-13076*
 
 ---
 
@@ -770,7 +770,7 @@ Pastor the host says headlined the first post-Charlie tour paperwork (transcribe
 
 TPUSA donor the host says is involved in child rescue.
 
-*Related: C-10514*
+*Related: C-13086*
 
 ---
 
@@ -778,7 +778,7 @@ TPUSA donor the host says is involved in child rescue.
 
 Said to have rescued kids from trafficking in South America via Operation Underground.
 
-*Related: C-10515*
+*Related: C-13087*
 
 ---
 
@@ -786,7 +786,7 @@ Said to have rescued kids from trafficking in South America via Operation Underg
 
 Runs a charity for abuse victims per the host (transcribed Yako Buyans).
 
-*Related: C-10513*
+*Related: C-13085*
 
 ---
 
@@ -794,7 +794,7 @@ Runs a charity for abuse victims per the host (transcribed Yako Buyans).
 
 Said by the host to have yelled at Charlie over Epstein.
 
-*Related: C-10543*
+*Related: C-13128*
 
 ---
 
@@ -802,7 +802,7 @@ Said by the host to have yelled at Charlie over Epstein.
 
 Officer who found the screwdriver per the host.
 
-*Related: C-10521, C-10522*
+*Related: C-13095, C-13096*
 
 ---
 
@@ -810,7 +810,7 @@ Officer who found the screwdriver per the host.
 
 Brought in for a second statement by the AG's office per the host.
 
-*Related: C-10540*
+*Related: C-13125*
 
 ---
 
@@ -818,7 +818,7 @@ Brought in for a second statement by the AG's office per the host.
 
 Modeling agency founder named by the host (transcribed John Luke Brunell).
 
-*Related: C-10556*
+*Related: C-13143*
 
 ---
 
@@ -826,7 +826,7 @@ Modeling agency founder named by the host (transcribed John Luke Brunell).
 
 Modeling agency head named by the host.
 
-*Related: C-10556*
+*Related: C-13143*
 
 ---
 
@@ -834,7 +834,7 @@ Modeling agency head named by the host.
 
 Co-founder of Sofer Global Ministries per the host (transcribed Phil Goldsberry).
 
-*Related: C-10516*
+*Related: C-13088*
 
 ---
 
@@ -842,7 +842,7 @@ Co-founder of Sofer Global Ministries per the host (transcribed Phil Goldsberry)
 
 Philip Goldsberry Sr. in the same family.
 
-*Related: C-10516*
+*Related: C-13088*
 
 ---
 
@@ -850,7 +850,7 @@ Philip Goldsberry Sr. in the same family.
 
 Colonel the host says was accused of running a brothel with Romanian children (transcribed Otto B O Busher).
 
-*Related: C-10501*
+*Related: C-13073*
 
 ---
 
@@ -858,7 +858,7 @@ Colonel the host says was accused of running a brothel with Romanian children (t
 
 Tyler Robinson's father.
 
-*Related: C-10520, C-10531*
+*Related: C-13093, C-13112*
 
 ---
 
@@ -866,7 +866,7 @@ Tyler Robinson's father.
 
 TPUSA adviser and retired army general named by the host (transcribed Paul Valle).
 
-*Related: C-10510*
+*Related: C-13082*
 
 ---
 
@@ -874,7 +874,7 @@ TPUSA adviser and retired army general named by the host (transcribed Paul Valle
 
 Rapper dropped from the tour (transcribed Macklemore).
 
-*Related: C-10569, C-10570, C-10571, C-10572, C-10573*
+*Related: C-13160, C-13158, C-13159, C-13162, C-13163*
 
 ---
 
@@ -882,7 +882,7 @@ Rapper dropped from the tour (transcribed Macklemore).
 
 Headliner whose tour dropped Macklemore.
 
-*Related: C-10572, C-10573, C-10574*
+*Related: C-13162, C-13163, C-13165*
 
 ---
 
@@ -890,7 +890,7 @@ Headliner whose tour dropped Macklemore.
 
 Referenced in the host's motive theory and blackmail claims.
 
-*Related: C-10542, C-10543, C-10544, C-10547, C-10556, C-10589*
+*Related: C-13127, C-13128, C-13129, C-13132, C-13143, C-13179*
 
 ---
 
@@ -898,7 +898,7 @@ Referenced in the host's motive theory and blackmail claims.
 
 TPUSA-aligned host the host says changed her message on forgiveness.
 
-*Related: C-10579, C-10583, C-10589*
+*Related: C-13169, C-13173, C-13179*
 
 ---
 
@@ -906,7 +906,7 @@ TPUSA-aligned host the host says changed her message on forgiveness.
 
 First named by the host at 00:03:34 in episode 152. Civilian commander at Fort Huachuca the host says was charged with running a child sex abuse ring. Real spelling unconfirmed.
 
-*Related: C-10502*
+*Related: C-13074*
 
 ---
 
@@ -914,7 +914,7 @@ First named by the host at 00:03:34 in episode 152. Civilian commander at Fort H
 
 First named by the host at 00:03:34 in episode 152. Man the host says the feds questioned on September 10 who warns about Ukrainian military sex trafficking. Real spelling unconfirmed.
 
-*Related: C-10505*
+*Related: C-13077*
 
 ---
 
@@ -922,7 +922,7 @@ First named by the host at 00:03:34 in episode 152. Man the host says the feds q
 
 First named by the host at 00:12:41 in episode 152. Police officer with a child-exploitation background who signed the first warrants.
 
-*Related: C-10527, C-10528, C-10529, C-10530, C-10531*
+*Related: C-13108, C-13109, C-13110, C-13111, C-13112*
 
 ---
 
@@ -930,7 +930,7 @@ First named by the host at 00:12:41 in episode 152. Police officer with a child-
 
 First named by the host at 00:24:49 in episode 152 (transcribed David O. Levit). Utah official the host links to 2017 tribal outreach and a 2022 ritual abuse investigation.
 
-*Related: C-10549, C-10550, C-10552*
+*Related: C-13134, C-13135, C-13138*
 
 ---
 
@@ -938,7 +938,7 @@ First named by the host at 00:24:49 in episode 152 (transcribed David O. Levit).
 
 First named by the host at 00:51:02 in episode 152. Singer the host cites as sued after cancelling a tour.
 
-*Related: C-10578*
+*Related: C-13168*
 
 ---
 
@@ -946,7 +946,7 @@ First named by the host at 00:51:02 in episode 152. Singer the host cites as sue
 
 First named by the host at 00:56:43 in episode 152. Podcaster on whose show the host appeared.
 
-*Related: C-10582*
+*Related: C-13172*
 
 ---
 
@@ -955,7 +955,7 @@ First named by the host at 00:56:43 in episode 152. Podcaster on whose show the 
 Node Type: Organization
 501(c)(3) the host says provides medical care and training to orphans in Romania, Albania and Ukraine, co-founded by Philip Goldsberry Jr. (transcribed Sofur).
 
-*Related: C-10516*
+*Related: C-13088*
 
 ---
 
@@ -964,7 +964,7 @@ Node Type: Organization
 Node Type: Organization
 State ICAC task force whose vest-wearing officer the host shows taking Mikey McCoy's statement; the host says it was established nationally by the Department of Justice and is run in Utah by the Attorney General's Office.
 
-*Related: C-10527, C-10535, C-10538, C-10539*
+*Related: C-13108, C-13117, C-13120, C-13124*
 
 ---
 
@@ -973,7 +973,7 @@ State ICAC task force whose vest-wearing officer the host shows taking Mikey McC
 Node Type: Organization
 State office the host says runs the Utah ICAC and brought in Lance Twiggs for a second statement in April.
 
-*Related: C-10540, C-10549*
+*Related: C-13125, C-13134*
 
 ---
 
@@ -982,13 +982,13 @@ State office the host says runs the Utah ICAC and brought in Lance Twiggs for a 
 Node Type: Organization
 Outlet the host credits (transcribed the bull work) with reporting on Matt Tardio's no contest plea.
 
-*Related: C-10566, C-10567*
+*Related: C-13154, C-13155*
 
 ---
 
 ## V. Claim Register
 
-**C-3445** Looney Tunes-style clip's audio is unedited and depicts evasive behavior by Farnsworth
+**C-13070** Looney Tunes-style clip's audio is unedited and depicts evasive behavior by Farnsworth
 
 Claim Timestamp: 00:02:33–00:03:11
 
@@ -1003,7 +1003,7 @@ Investigative Direction: Compare the aired audio against any independently circu
 
 ---
 
-**C-3446** Clip Has Judge Graf Saying 95% of His Work Is Sex Crimes Prosecution
+**C-13092** Clip Has Judge Graf Saying 95% of His Work Is Sex Crimes Prosecution
 
 Claim Timestamp: 00:09:25–00:10:50
 
@@ -1018,7 +1018,7 @@ Investigative Direction: Locate the full source clip and verify date / context; 
 
 ---
 
-**C-3447** Host Says Mike Mitchell Was an Undercover Detective Specializing in Internet Sex Crimes Against Children
+**C-13098** Host Says Mike Mitchell Was an Undercover Detective Specializing in Internet Sex Crimes Against Children
 
 Claim Timestamp: 00:11:09
 
@@ -1035,7 +1035,7 @@ Investigative Direction: Obtain Mike Mitchell's personnel records / Utah County 
 
 ---
 
-**C-3448** Host Says Officer Christopher Bagley Previously Worked Child Sex Crimes at Utah County Sheriff's Office
+**C-13100** Host Says Officer Christopher Bagley Previously Worked Child Sex Crimes at Utah County Sheriff's Office
 
 Claim Timestamp: 00:11:56
 
@@ -1052,7 +1052,7 @@ Investigative Direction: Verify Bagley's personnel record with UVU police / Utah
 
 ---
 
-**C-3449** Host Says George Zinn Had Child Pornography Pertaining to a 5-Year-Old on His Phone
+**C-13103** Host Says George Zinn Had Child Pornography Pertaining to a 5-Year-Old on His Phone
 
 Claim Timestamp: 00:12:07
 
@@ -1069,7 +1069,7 @@ Investigative Direction: Obtain New York Post article referenced and court recor
 
 ---
 
-**C-3450** Host Says Michael George Carl Signed the First Six Search Warrants in the Charlie Kirk Case
+**C-13104** Host Says Michael George Carl Signed the First Six Search Warrants in the Charlie Kirk Case
 
 Claim Timestamp: 00:12:41–00:15:26
 
@@ -1084,7 +1084,7 @@ Investigative Direction: Pull the search warrant records from Utah court filings
 
 ---
 
-**C-3451** Clip Has Baron Coleman Saying Michael George Carl's Primary Assignment Is Cyber Crimes Against Youth / SVU
+**C-13105** Clip Has Baron Coleman Saying Michael George Carl's Primary Assignment Is Cyber Crimes Against Youth / SVU
 
 Claim Timestamp: 00:12:41–00:15:26
 
@@ -1099,7 +1099,7 @@ Investigative Direction: Verify Carl's Utah County Sheriff's Office / ICAC assig
 
 ---
 
-**C-3452** Host Says a Utah ICAC Officer Took Mikey McCoy's Statement on September 10
+**C-13115** Host Says a Utah ICAC Officer Took Mikey McCoy's Statement on September 10
 
 Claim Timestamp: 00:18:24–00:20:34
 
@@ -1114,7 +1114,7 @@ Investigative Direction: Identify the specific officer via Utah ICAC roster; obt
 
 ---
 
-**C-3453** Host Says ICAC Unit Is Administratively Controlled by the Utah Attorney General's Office
+**C-13121** Host Says ICAC Unit Is Administratively Controlled by the Utah Attorney General's Office
 
 Claim Timestamp: 00:21:50
 
@@ -1130,7 +1130,7 @@ Investigative Direction: Verify Utah ICAC administrative structure via Utah AG p
 
 ---
 
-**C-3454** Host Says the ICAC Program Was Established by the U.S. Department of Justice in 1998
+**C-13122** Host Says the ICAC Program Was Established by the U.S. Department of Justice in 1998
 
 Claim Timestamp: 00:22:24
 
@@ -1146,7 +1146,7 @@ Investigative Direction: Verify DOJ / OJJDP documentation of the 1998 ICAC progr
 
 ---
 
-**C-3455** Host Says an HSI Whistleblower Alleged Video Evidence Potentially Implicating David Leavitt Was Received in 2020
+**C-13139** Host Says an HSI Whistleblower Alleged Video Evidence Potentially Implicating David Leavitt Was Received in 2020
 
 Claim Timestamp: 00:27:05
 
@@ -1163,7 +1163,7 @@ Investigative Direction: Obtain HSI whistleblower complaint / DOJ records pertai
 
 ---
 
-**C-3456** Host Says David Leavitt Was Named in a 151-Page Victim Statement Related to a 1990-2010 Ritual Child Abuse / Cannibalism Investigation in Utah
+**C-13137** Host Says David Leavitt Was Named in a 151-Page Victim Statement Related to a 1990-2010 Ritual Child Abuse / Cannibalism Investigation in Utah
 
 Claim Timestamp: 00:27:01–00:28:24
 
@@ -1180,7 +1180,7 @@ Investigative Direction: Obtain the May–June 2022 Utah County Sheriff's Office
 
 ---
 
-**C-3457** Matt Tardio pled no contest October 2025 to felony coercion and misdemeanor harassment in an incident captured by surveillance at an ICE facility
+**C-13152** Matt Tardio pled no contest October 2025 to felony coercion and misdemeanor harassment in an incident captured by surveillance at an ICE facility
 
 Claim Timestamp: 00:38:56–00:41:02
 
@@ -1195,7 +1195,7 @@ Investigative Direction: Pull Portland court records for Matt Tardio's October 2
 
 ---
 
-**C-3458** Macklemore made a "Free Palestine" speech at an Ed Sheeran tour stop
+**C-13157** Macklemore made a "Free Palestine" speech at an Ed Sheeran tour stop
 
 Claim Timestamp: 00:43:58–00:45:32
 
@@ -1210,7 +1210,7 @@ Investigative Direction: Identify the specific tour stop date and verify the ful
 
 ---
 
-**C-3459** Host Alleges Robert Kraft Lobbied for Macklemore's Removal from the Ed Sheeran Tour
+**C-13161** Host Alleges Robert Kraft Lobbied for Macklemore's Removal from the Ed Sheeran Tour
 
 Claim Timestamp: 00:47:38–00:48:56
 
@@ -1227,7 +1227,7 @@ Investigative Direction: Locate primary reporting on the lobbying / cancellation
 
 ---
 
-**C-3460** Host Lists TPUSA-Adjacent Figures She Connects to Trafficking and Child Sex Abuse
+**C-13071** Host Lists TPUSA-Adjacent Figures She Connects to Trafficking and Child Sex Abuse
 
 Claim Timestamp: 00:03:34–00:08:18
 
@@ -1242,7 +1242,7 @@ Investigative Direction: Verify each row of the spreadsheet against primary cour
 
 ---
 
-**C-3461** Host Says Mike Mitchell Convinced the Robinson Household to Turn Tyler Robinson In Despite Robinson's Denial of Murder
+**C-13094** Host Says Mike Mitchell Convinced the Robinson Household to Turn Tyler Robinson In Despite Robinson's Denial of Murder
 
 Claim Timestamp: 00:10:50–00:11:09
 
@@ -1259,7 +1259,7 @@ Investigative Direction: Verify Mitchell's role via investigative reporting and 
 
 ---
 
-**C-3462** Host Says Officer Bagley's Body Cam Footage Notoriously Went Off After About 25 Minutes
+**C-13099** Host Says Officer Bagley's Body Cam Footage Notoriously Went Off After About 25 Minutes
 
 Claim Timestamp: 00:11:10
 
@@ -1276,7 +1276,7 @@ Investigative Direction: Verify via Bagley's body cam records disclosed in preli
 
 ---
 
-**C-3463** Host Says George Zinn Was Sentenced for Child Sex Crimes After His Arrest
+**C-13106** Host Says George Zinn Was Sentenced for Child Sex Crimes After His Arrest
 
 Claim Timestamp: 00:12:41
 
@@ -1293,7 +1293,7 @@ Investigative Direction: Pull George Zinn's Utah court records for sentencing ou
 
 ---
 
-**C-3464** The episode asserts a pattern of institutional control by federal actors directed at the Charlie Kirk investigation
+**C-13123** The episode asserts a pattern of institutional control by federal actors directed at the Charlie Kirk investigation
 
 Claim Timestamp: 00:22:24–00:24:49
 
@@ -1310,7 +1310,7 @@ Investigative Direction: Treat as framing premise – testable only via underlyi
 
 ---
 
-**C-10500** Host Says She Spotted a Recurring Trafficking Theme Tied to Eastern Europe Charities Early On
+**C-13072** Host Says She Spotted a Recurring Trafficking Theme Tied to Eastern Europe Charities Early On
 
 Claim Timestamp: 00:03:34
 
@@ -1321,13 +1321,13 @@ Transcript Snippet: I recognized early on this weird recurring theme regarding h
 Anchored Artifacts: A-2382.1
 Mentions: N-3, N-2
 Related Nodes: N-11165
-Supports: C-3460
+Supports: C-13071
 Tags: relevance:context
 Investigative Direction: Review the spreadsheet row by row against court, charity and press records to test each listed link.
 
 ---
 
-**C-10501** Host Says Colonel Otto Busher Was Accused of Running a Brothel With Romanian Children and Worked With Romanian Angels
+**C-13073** Host Says Colonel Otto Busher Was Accused of Running a Brothel With Romanian Children and Worked With Romanian Angels
 
 Claim Timestamp: 00:03:34
 
@@ -1343,7 +1343,7 @@ Investigative Direction: Find the primary accusation records or reporting on Bus
 
 ---
 
-**C-10502** Host Says David Frodsham Was Charged at Fort Huachuca With Running a Child Sex Abuse Ring
+**C-13074** Host Says David Frodsham Was Charged at Fort Huachuca With Running a Child Sex Abuse Ring
 
 Claim Timestamp: 00:04:40
 
@@ -1359,7 +1359,7 @@ Investigative Direction: Identify the person under the correct spelling and pull
 
 ---
 
-**C-10503** Host Says Erika Put Pastor Greg Laurie on the Headlining Paperwork of the First Post-Charlie Tour
+**C-13075** Host Says Erika Put Pastor Greg Laurie on the Headlining Paperwork of the First Post-Charlie Tour
 
 Claim Timestamp: 00:04:52
 
@@ -1375,7 +1375,7 @@ Investigative Direction: Obtain the Make Heaven Crowded tour lineup and event pa
 
 ---
 
-**C-10504** Host Says Harvest Church Is in Court Over Accusations of Trafficking Children From Romania and Denies the Charges
+**C-13076** Host Says Harvest Church Is in Court Over Accusations of Trafficking Children From Romania and Denies the Charges
 
 Claim Timestamp: 00:05:08
 
@@ -1391,7 +1391,7 @@ Investigative Direction: Pull the docket and complaints in the Harvest Christian
 
 ---
 
-**C-10505** Host Says Andrew Piskadlo Was Questioned by the Feds on September 10 and Warns of Ukrainian Military Sex Trafficking
+**C-13077** Host Says Andrew Piskadlo Was Questioned by the Feds on September 10 and Warns of Ukrainian Military Sex Trafficking
 
 Claim Timestamp: 00:05:40
 
@@ -1406,7 +1406,7 @@ Investigative Direction: Identify Pascado under his correct spelling and find th
 
 ---
 
-**C-10506** Host Says Calvary Chapel Is Riddled With Pastor Abuse Stories and Looks Systemic
+**C-13078** Host Says Calvary Chapel Is Riddled With Pastor Abuse Stories and Looks Systemic
 
 Claim Timestamp: 00:05:53
 
@@ -1421,7 +1421,7 @@ Investigative Direction: Compile documented Calvary Chapel abuse cases and settl
 
 ---
 
-**C-10507** Host Says Glenn Beck's Daughters Were at the Event and He Was Heavily Involved in Media on September 10
+**C-13079** Host Says Glenn Beck's Daughters Were at the Event and He Was Heavily Involved in Media on September 10
 
 Claim Timestamp: 00:06:14
 
@@ -1436,7 +1436,7 @@ Investigative Direction: Confirm from event footage, attendance records or Beck'
 
 ---
 
-**C-10508** Host Says Beck Funded Operation Underground, Which Tim Ballard Conceived
+**C-13080** Host Says Beck Funded Operation Underground, Which Tim Ballard Conceived
 
 Claim Timestamp: 00:06:14
 
@@ -1452,7 +1452,7 @@ Investigative Direction: Check Operation Underground's founding history and fund
 
 ---
 
-**C-10509** Host Says Erika Claimed to Have Worked With Child Sex Trafficking Victims in China and the Host Cannot Find Who With
+**C-13081** Host Says Erika Claimed to Have Worked With Child Sex Trafficking Victims in China and the Host Cannot Find Who With
 
 Claim Timestamp: 00:06:14
 
@@ -1467,7 +1467,7 @@ Investigative Direction: Ask Erika Kirk to name the organization in China; searc
 
 ---
 
-**C-10510** Host Says TPUSA Adviser Paul Vallely Co-Wrote a Book With Michael Aquino, a Temple of Set Founder
+**C-13082** Host Says TPUSA Adviser Paul Vallely Co-Wrote a Book With Michael Aquino, a Temple of Set Founder
 
 Claim Timestamp: 00:06:14
 
@@ -1483,7 +1483,7 @@ Investigative Direction: Verify Vallely's TPUSA advisory role and the co-authore
 
 ---
 
-**C-10511** Host Says Aquino Was Accused of Abusing Children at the Army Child Development Center
+**C-13083** Host Says Aquino Was Accused of Abusing Children at the Army Child Development Center
 
 Claim Timestamp: 00:07:01
 
@@ -1498,7 +1498,7 @@ Investigative Direction: Check the 1980s Presidio Child Development Center alleg
 
 ---
 
-**C-10512** Host Says Victor Marx Funds His Child Trafficking Charity With Supplement Company Profits
+**C-13084** Host Says Victor Marx Funds His Child Trafficking Charity With Supplement Company Profits
 
 Claim Timestamp: 00:07:01
 
@@ -1514,7 +1514,7 @@ Investigative Direction: Review All Things Possible's filings for revenue source
 
 ---
 
-**C-10513** Host Says Jaco Booyens Runs a Charity for Child Sex Abuse Victims
+**C-13085** Host Says Jaco Booyens Runs a Charity for Child Sex Abuse Victims
 
 Claim Timestamp: 00:07:01
 
@@ -1529,7 +1529,7 @@ Investigative Direction: Identify Booyens's charity and its registration.
 
 ---
 
-**C-10514** Host Says Nelda Buckman, Announced as TPUSA's Biggest Donor Ever, Is Heavily Involved in Rescuing Trafficked Children
+**C-13086** Host Says Nelda Buckman, Announced as TPUSA's Biggest Donor Ever, Is Heavily Involved in Rescuing Trafficked Children
 
 Claim Timestamp: 00:07:01
 
@@ -1545,7 +1545,7 @@ Investigative Direction: Find TPUSA's announcement of the Buckman gift and the B
 
 ---
 
-**C-10515** Host Says Marcus Wada Is Linked to Trafficking Arms in Poland and Rick Cutler Rescued Kids From Trafficking in South America
+**C-13087** Host Says Marcus Wada Is Linked to Trafficking Arms in Poland and Rick Cutler Rescued Kids From Trafficking in South America
 
 Claim Timestamp: 00:07:01
 
@@ -1561,7 +1561,7 @@ Investigative Direction: Check Wada's Polish organizations and Cutler's Operatio
 
 ---
 
-**C-10516** Host Says Philip Goldsberry Jr. Co-Founded Soter Global Ministries Serving Orphans in Romania, Albania and Ukraine
+**C-13088** Host Says Philip Goldsberry Jr. Co-Founded Soter Global Ministries Serving Orphans in Romania, Albania and Ukraine
 
 Claim Timestamp: 00:07:01
 
@@ -1577,7 +1577,7 @@ Investigative Direction: Pull the IRS filing for Sofer Global Ministries and its
 
 ---
 
-**C-10517** Host Says Judge Graf Was Appointed by Governor Cox in August 2025 After Seven Years at the Salt Lake City DA's Office
+**C-13089** Host Says Judge Graf Was Appointed by Governor Cox in August 2025 After Seven Years at the Salt Lake City DA's Office
 
 Claim Timestamp: 00:08:18
 
@@ -1592,7 +1592,7 @@ Investigative Direction: Check the governor's appointment announcement date and 
 
 ---
 
-**C-10518** Host Says Graf Previously Led the Special Victims Unit at the Utah County Attorney's Office and Then Worked Abuse Cases in Davis County
+**C-13090** Host Says Graf Previously Led the Special Victims Unit at the Utah County Attorney's Office and Then Worked Abuse Cases in Davis County
 
 Claim Timestamp: 00:08:18
 
@@ -1607,7 +1607,7 @@ Investigative Direction: Obtain Graf's judicial nomination questionnaire or bio 
 
 ---
 
-**C-10519** Host Says Baron Coleman's Team Sourced the Graf Clip, Dated Around 2022
+**C-13091** Host Says Baron Coleman's Team Sourced the Graf Clip, Dated Around 2022
 
 Claim Timestamp: 00:08:18
 
@@ -1617,13 +1617,13 @@ Transcript Snippet: credit to Baron Coleman's team for sourcing this clip. I thi
 
 Anchored Artifacts: A-2375.1
 Mentions: N-330, N-135
-Supports: C-3446
+Supports: C-13092
 Tags: relevance:context
 Investigative Direction: Ask Coleman's team for the original clip URL and recording date.
 
 ---
 
-**C-10520** Host Says Mike Mitchell Claimed He Recognized Tyler Robinson From the News Because He Mentored Him in Boy Scouts
+**C-13093** Host Says Mike Mitchell Claimed He Recognized Tyler Robinson From the News Because He Mentored Him in Boy Scouts
 
 Claim Timestamp: 00:09:25
 
@@ -1634,13 +1634,13 @@ Transcript Snippet: because he's the one who claimed that he recognized Tyler Ro
 Anchored Artifacts: 
 Mentions: N-125, N-40, N-776
 Related Nodes: N-10151
-Supports: C-3461
+Supports: C-13094
 Tags: relevance:core
 Investigative Direction: Obtain Mitchell's statements, Boy Scout troop records and the Robinson family account of how he got involved.
 
 ---
 
-**C-10521** Host Says Officer Bagley Was the State's Preliminary Hearing Officer Who Found the Screwdriver, the Only Link to Tyler Robinson
+**C-13095** Host Says Officer Bagley Was the State's Preliminary Hearing Officer Who Found the Screwdriver, the Only Link to Tyler Robinson
 
 Claim Timestamp: 00:11:07
 
@@ -1655,7 +1655,7 @@ Investigative Direction: Review preliminary hearing testimony and exhibits for w
 
 ---
 
-**C-10522** Host Says Bagley's Body Camera Did Not Capture the Moment He Found the Screwdriver
+**C-13096** Host Says Bagley's Body Camera Did Not Capture the Moment He Found the Screwdriver
 
 Claim Timestamp: 00:11:07
 
@@ -1666,13 +1666,13 @@ Transcript Snippet: Unfortunately, his body cam footage failed him. He too forme
 Anchored Artifacts: 
 Mentions: N-506
 Related Nodes: N-10725
-Supports: C-3462
+Supports: C-13099
 Tags: relevance:core
 Investigative Direction: Obtain the preliminary hearing testimony and the camera's metadata on when recording stopped relative to the screwdriver discovery.
 
 ---
 
-**C-10523** Host Says the Screwdriver Does Not Show It Contains Tyler Robinson's DNA
+**C-13097** Host Says the Screwdriver Does Not Show It Contains Tyler Robinson's DNA
 
 Claim Timestamp: 00:11:07
 
@@ -1687,7 +1687,7 @@ Investigative Direction: Obtain the lab reports and hearing testimony on DNA fou
 
 ---
 
-**C-10524** Host Says George Zinn Shouted 'I Did It' Right After the Explosive Went Off as a Distraction
+**C-13101** Host Says George Zinn Shouted 'I Did It' Right After the Explosive Went Off as a Distraction
 
 Claim Timestamp: 00:11:56
 
@@ -1703,7 +1703,7 @@ Investigative Direction: Collect eyewitness video and police reports of Zinn's s
 
 ---
 
-**C-10525** Host Says Many People Wonder Whether Zinn Was Blackmailed Into the Distraction
+**C-13102** Host Says Many People Wonder Whether Zinn Was Blackmailed Into the Distraction
 
 Claim Timestamp: 00:11:56
 
@@ -1719,7 +1719,7 @@ Investigative Direction: Review Zinn's interviews, charging documents and any st
 
 ---
 
-**C-10526** Host Says Charlie's Death Was Announced Around 2:45 Utah Time
+**C-13107** Host Says Charlie's Death Was Announced Around 2:45 Utah Time
 
 Claim Timestamp: 00:15:26
 
@@ -1734,7 +1734,7 @@ Investigative Direction: Establish the official time of death announcement from 
 
 ---
 
-**C-10527** Host Says Michael George Carl Signed the First Warrants at About 3:19 pm
+**C-13108** Host Says Michael George Carl Signed the First Warrants at About 3:19 pm
 
 Claim Timestamp: 00:15:26
 
@@ -1745,13 +1745,13 @@ Transcript Snippet: He has signed off for these first warrants at about 3:19 p. 
 Anchored Artifacts: A-2378.1
 Mentions: N-865
 Related Nodes: N-11263
-Supports: C-3450
+Supports: C-13104
 Tags: relevance:core
 Investigative Direction: Pull the signed warrant returns and compare the timestamps with the death announcement and affidavit time.
 
 ---
 
-**C-10528** Host Says Carl's Warrants Targeted Tyler Robinson's Phone, Google Location Data and Cell Towers Around UVU
+**C-13109** Host Says Carl's Warrants Targeted Tyler Robinson's Phone, Google Location Data and Cell Towers Around UVU
 
 Claim Timestamp: 00:15:26
 
@@ -1762,13 +1762,13 @@ Transcript Snippet: Tyler Robinson's phone. Uh, the Google server that would hav
 Anchored Artifacts: A-2378.1
 Mentions: N-865, N-40
 Related Nodes: N-10012
-Supports: C-3450
+Supports: C-13104
 Tags: relevance:core
 Investigative Direction: Obtain each warrant and return from the Utah courts and list items to be seized.
 
 ---
 
-**C-10529** Host Says Carl's Warrants Also Covered George Zinn's Phone and Charlie's Belongings at Timpanogos
+**C-13110** Host Says Carl's Warrants Also Covered George Zinn's Phone and Charlie's Belongings at Timpanogos
 
 Claim Timestamp: 00:15:26
 
@@ -1778,13 +1778,13 @@ Transcript Snippet: George Zinn's phone. Uh, Charlie's belongings at Timpanogos.
 
 Anchored Artifacts: A-2378.1
 Mentions: N-865, N-42, N-1
-Supports: C-3450
+Supports: C-13104
 Tags: relevance:core
 Investigative Direction: Locate the warrant covering Charlie's belongings and the inventory of what was seized and where it is held.
 
 ---
 
-**C-10530** Host Says Carl Also Signed a Warrant for Intermountain Utah Valley Hospital Surveillance Footage on a Driving Perpetrator Rationale
+**C-13111** Host Says Carl Also Signed a Warrant for Intermountain Utah Valley Hospital Surveillance Footage on a Driving Perpetrator Rationale
 
 Claim Timestamp: 00:15:26
 
@@ -1800,7 +1800,7 @@ Investigative Direction: Obtain the hospital footage warrant and affidavit ratio
 
 ---
 
-**C-10531** Host Says Carl Signed Warrants to Search Matt and Amber Robinson's House
+**C-13112** Host Says Carl Signed Warrants to Search Matt and Amber Robinson's House
 
 Claim Timestamp: 00:16:39
 
@@ -1815,7 +1815,7 @@ Investigative Direction: Obtain the residence search warrant and inventory.
 
 ---
 
-**C-10532** Host Displays a Diagram of Case Figures With Child-Exploitation Careers, With Zinn as the Exception Who Committed a Crime
+**C-13113** Host Displays a Diagram of Case Figures With Child-Exploitation Careers, With Zinn as the Exception Who Committed a Crime
 
 Claim Timestamp: 00:16:49
 
@@ -1830,7 +1830,7 @@ Investigative Direction: Obtain the diagram source and verify each person's list
 
 ---
 
-**C-10533** Host Says the Clip Shows Mikey McCoy on the Phone With Three Officers Walking Behind Him
+**C-13114** Host Says the Clip Shows Mikey McCoy on the Phone With Three Officers Walking Behind Him
 
 Claim Timestamp: 00:18:04
 
@@ -1840,13 +1840,13 @@ Transcript Snippet: you're seeing Mikey. He is on the phone. Mikey is um he's go
 
 Anchored Artifacts: A-2376.1
 Mentions: N-190
-Supports: C-3452
+Supports: C-13115
 Tags: relevance:core
 Investigative Direction: Obtain the full source footage, its origin and its camera location and time.
 
 ---
 
-**C-10534** Host Says McCoy Ended His Call With Danny Phillip, Identified From Call Logs Erika Provided
+**C-13116** Host Says McCoy Ended His Call With Danny Phillip, Identified From Call Logs Erika Provided
 
 Claim Timestamp: 00:18:24
 
@@ -1862,7 +1862,7 @@ Investigative Direction: Compare the supplied call logs with phone-company recor
 
 ---
 
-**C-10535** Host Says the Statement Was Taken Behind the Denali Carrying Blake Neff, Driven by Danny Phillip
+**C-13117** Host Says the Statement Was Taken Behind the Denali Carrying Blake Neff, Driven by Danny Phillip
 
 Claim Timestamp: 00:19:29
 
@@ -1873,13 +1873,13 @@ Transcript Snippet: they're standing behind the SUV that uh Blake Neff and being
 Anchored Artifacts: A-2377.1
 Mentions: N-190, N-159, N-367
 Related Nodes: N-11263
-Supports: C-3452
+Supports: C-13115
 Tags: relevance:core
 Investigative Direction: Identify vehicle occupants and seating via the footage, driver records and the transport timeline.
 
 ---
 
-**C-10536** Host Says the Statement Was Taken About 25 Minutes After the Shooting With McCoy Still at the Scene
+**C-13118** Host Says the Statement Was Taken About 25 Minutes After the Shooting With McCoy Still at the Scene
 
 Claim Timestamp: 00:19:29
 
@@ -1890,13 +1890,13 @@ Transcript Snippet: we're talking 25 minutes um after Charlie shortly before 1:0
 Anchored Artifacts: A-2377.2
 Mentions: N-190, N-1
 Related Nodes: N-10198
-Supports: C-3452
+Supports: C-13115
 Tags: relevance:core
 Investigative Direction: Check the footage metadata time and compare with the hospital arrival time of McCoy and the group.
 
 ---
 
-**C-10537** Host Says McCoy's Group Had a Car Available but Stayed at the Scene
+**C-13119** Host Says McCoy's Group Had a Car Available but Stayed at the Scene
 
 Claim Timestamp: 00:20:34
 
@@ -1912,7 +1912,7 @@ Investigative Direction: Reconstruct vehicle positions and movements from footag
 
 ---
 
-**C-10538** Host Lists FBI, SBI, UVU Police, SWAT, US Marshals and Utah State University Police Already on the Ground When ICAC Took McCoy's Statement
+**C-13120** Host Lists FBI, SBI, UVU Police, SWAT, US Marshals and Utah State University Police Already on the Ground When ICAC Took McCoy's Statement
 
 Claim Timestamp: 00:20:34
 
@@ -1923,13 +1923,13 @@ Transcript Snippet: in the presence of the FBI, eventually the SBI, the UVU poli
 Anchored Artifacts: 
 Mentions: N-190
 Related Nodes: N-10014, N-11263
-Supports: C-3452
+Supports: C-13115
 Tags: relevance:core
 Investigative Direction: Obtain the multi-agency response roster and CAD logs for UVU on September 10.
 
 ---
 
-**C-10539** Host Says She Does Not Know Who the ICAC Officer Is and Wonders If She Worked Out of Orem Police
+**C-13124** Host Says She Does Not Know Who the ICAC Officer Is and Wonders If She Worked Out of Orem Police
 
 Claim Timestamp: 00:22:24
 
@@ -1940,13 +1940,13 @@ Transcript Snippet: So maybe this woman worked locally out of the ORM Police Dep
 Anchored Artifacts: A-2377.2
 Mentions: N-190
 Related Nodes: N-10129, N-11263
-Supports: C-3452
+Supports: C-13115
 Tags: relevance:core
 Investigative Direction: Identify the officer from the vest and footage, then request the statement report and agency assignment records.
 
 ---
 
-**C-10540** Host Says the Attorney General's Office Later Brought In Lance for a Second Statement in April Before Recording the Interview
+**C-13125** Host Says the Attorney General's Office Later Brought In Lance for a Second Statement in April Before Recording the Interview
 
 Claim Timestamp: 00:22:24
 
@@ -1957,13 +1957,13 @@ Transcript Snippet: the same attorney general's office that then brought in Lanc
 Anchored Artifacts: 
 Mentions: N-54
 Related Nodes: N-11264
-Supports: C-3453
+Supports: C-13121
 Tags: relevance:core
 Investigative Direction: Obtain the April interview record and identify who in the AG's office conducted it.
 
 ---
 
-**C-10541** Host Calls It Her Strong Opinion That Feds Are Directing the ICAC Presence as a Control Mechanism
+**C-13126** Host Calls It Her Strong Opinion That Feds Are Directing the ICAC Presence as a Control Mechanism
 
 Claim Timestamp: 00:22:24
 
@@ -1973,13 +1973,13 @@ Transcript Snippet: this feels like a control mechanism that's being directed by
 
 Anchored Artifacts: 
 Related Nodes: N-10831
-Supports: C-3464
+Supports: C-13123
 Tags: relevance:core
 Investigative Direction: No documentary test exists yet; trace tasking orders for the ICAC and SVU personnel to see who directed their presence.
 
 ---
 
-**C-10542** Host Says Epstein's Network Reemerged in the Nonprofit World in 2018 and Is a Plausible Motive for the Murder
+**C-13127** Host Says Epstein's Network Reemerged in the Nonprofit World in 2018 and Is a Plausible Motive for the Murder
 
 Claim Timestamp: 00:23:38
 
@@ -1994,7 +1994,7 @@ Investigative Direction: Define what the reemergence refers to and trace the non
 
 ---
 
-**C-10543** Host Says Trump Yelled at Charlie by Phone for Speaking About the Epstein Case
+**C-13128** Host Says Trump Yelled at Charlie by Phone for Speaking About the Epstein Case
 
 Claim Timestamp: 00:23:52
 
@@ -2010,7 +2010,7 @@ Investigative Direction: Locate the call and its witnesses; compare with the hos
 
 ---
 
-**C-10544** Host Says Tucker Carlson Spoke on Stage About Epstein and Asked Where Bill Ackman's Money Came From
+**C-13129** Host Says Tucker Carlson Spoke on Stage About Epstein and Asked Where Bill Ackman's Money Came From
 
 Claim Timestamp: 00:24:09
 
@@ -2020,13 +2020,13 @@ Transcript Snippet: Um he was speaking about Jeffrey Epste. He was asking where 
 
 Anchored Artifacts: 
 Mentions: N-22, N-9, N-37
-Supports: C-1559
+Supports: C-2121
 Tags: relevance:core
 Investigative Direction: Obtain the July 11 conference video and transcript of Carlson's remarks.
 
 ---
 
-**C-10545** Host Says Erika Was Sent and Set Up to Go After Charlie
+**C-13130** Host Says Erika Was Sent and Set Up to Go After Charlie
 
 Claim Timestamp: 00:24:09
 
@@ -2041,7 +2041,7 @@ Investigative Direction: The host would need to state a mechanism or source; loo
 
 ---
 
-**C-10546** Host Says People Lied About Arguments Charlie Had the Day Before and That He Was Under Pressure From Israel
+**C-13131** Host Says People Lied About Arguments Charlie Had the Day Before and That He Was Under Pressure From Israel
 
 Claim Timestamp: 00:24:49
 
@@ -2057,7 +2057,7 @@ Investigative Direction: Collect statements from those present on September 9 an
 
 ---
 
-**C-10547** Host Says Epstein Was Israel's Guy
+**C-13132** Host Says Epstein Was Israel's Guy
 
 Claim Timestamp: 00:24:49
 
@@ -2073,7 +2073,7 @@ Investigative Direction: The assertion needs a primary document; look for releas
 
 ---
 
-**C-10548** Host Says People Sent Her Many Tips About Utah County Attorney Office Controversies
+**C-13133** Host Says People Sent Her Many Tips About Utah County Attorney Office Controversies
 
 Claim Timestamp: 00:24:49
 
@@ -2088,7 +2088,7 @@ Investigative Direction: Review the tips received to identify which matters are 
 
 ---
 
-**C-10549** Host Says the Utah Attorney General Until 2022 Was David Leavitt, Who Faced Unproven Scandals
+**C-13134** Host Says the Utah Attorney General Until 2022 Was David Leavitt, Who Faced Unproven Scandals
 
 Claim Timestamp: 00:24:49
 
@@ -2104,7 +2104,7 @@ Investigative Direction: Verify Leavitt's office (the host says attorney general
 
 ---
 
-**C-10550** Host Says Leavitt in 2017 Met a Tribal President to Propose a Link Between the Tribe and Ukraine
+**C-13135** Host Says Leavitt in 2017 Met a Tribal President to Propose a Link Between the Tribe and Ukraine
 
 Claim Timestamp: 00:25:47
 
@@ -2119,7 +2119,7 @@ Investigative Direction: Check Northern Cheyenne tribal council records and Leav
 
 ---
 
-**C-10551** Host Asks Why Erika's Mother Is Doing So Much on Native American Reservations
+**C-13136** Host Asks Why Erika's Mother Is Doing So Much on Native American Reservations
 
 Claim Timestamp: 00:25:47
 
@@ -2134,7 +2134,7 @@ Investigative Direction: Review the earlier Erika series claims about Lori Frant
 
 ---
 
-**C-10552** Host Says the Utah County Sheriff's Office Announced a 2022 Investigation Into Ritualistic Child Abuse and Trafficking From 1990 to 2010
+**C-13138** Host Says the Utah County Sheriff's Office Announced a 2022 Investigation Into Ritualistic Child Abuse and Trafficking From 1990 to 2010
 
 Claim Timestamp: 00:27:01
 
@@ -2144,13 +2144,13 @@ Transcript Snippet: The Utah County Sheriff's Office announced that there was an
 
 Anchored Artifacts: 
 Mentions: 
-Supports: C-3456
+Supports: C-13137
 Tags: relevance:tangential
 Investigative Direction: Find the May and June 2022 sheriff announcement and the case outcome.
 
 ---
 
-**C-10553** Host Says TPUSA Insists on Access to High School Students
+**C-13140** Host Says TPUSA Insists on Access to High School Students
 
 Claim Timestamp: 00:29:26
 
@@ -2164,7 +2164,7 @@ Investigative Direction: Review TPUSA's high school chapter program statements a
 
 ---
 
-**C-10554** Host Says People Told Her Erika Ran Model Apartments in New York Housing Underage Eastern European Models
+**C-13141** Host Says People Told Her Erika Ran Model Apartments in New York Housing Underage Eastern European Models
 
 Claim Timestamp: 00:29:26
 
@@ -2180,7 +2180,7 @@ Investigative Direction: Obtain documents showing Erika's role at the agency and
 
 ---
 
-**C-10555** Host Says She Emailed for a Statement Before Running the Modeling Episode and Got No Flat Denial
+**C-13142** Host Says She Emailed for a Statement Before Running the Modeling Episode and Got No Flat Denial
 
 Claim Timestamp: 00:29:26
 
@@ -2196,7 +2196,7 @@ Investigative Direction: Obtain the host's outbound email and any reply or non-r
 
 ---
 
-**C-10556** Host Says Faith Kates Ran the Agency Where Epstein Was Frequent, Founded by Jean-Luc Brunel
+**C-13143** Host Says Faith Kates Ran the Agency Where Epstein Was Frequent, Founded by Jean-Luc Brunel
 
 Claim Timestamp: 00:29:26
 
@@ -2212,7 +2212,7 @@ Investigative Direction: Verify the agency's founding history, Kates's role and 
 
 ---
 
-**C-10557** Host Says Cases Involving the Same Topic Exist Among People Working for TPUSA That Day, Which She Is Withholding
+**C-13144** Host Says Cases Involving the Same Topic Exist Among People Working for TPUSA That Day, Which She Is Withholding
 
 Claim Timestamp: 00:31:12
 
@@ -2227,7 +2227,7 @@ Investigative Direction: Await publication; the host would need to name the case
 
 ---
 
-**C-10558** Host Says Paramount Tactical Was Used by TPUSA as a Green Beret Expert on the Magic Bullet
+**C-13145** Host Says Paramount Tactical Was Used by TPUSA as a Green Beret Expert on the Magic Bullet
 
 Claim Timestamp: 00:35:04
 
@@ -2242,7 +2242,7 @@ Investigative Direction: Review the TPUSA broadcast in which Paramount Tactical 
 
 ---
 
-**C-10559** Host Says Matt Tardio Popped Up Out of Nowhere as a TPUSA Go-To Expert
+**C-13146** Host Says Matt Tardio Popped Up Out of Nowhere as a TPUSA Go-To Expert
 
 Claim Timestamp: 00:35:04
 
@@ -2257,7 +2257,7 @@ Investigative Direction: Establish when Tardio first appeared on TPUSA platforms
 
 ---
 
-**C-10560** Host Plays a Tardio Clip Filmed in Tel Aviv Shortly After Charlie's Death
+**C-13147** Host Plays a Tardio Clip Filmed in Tel Aviv Shortly After Charlie's Death
 
 Claim Timestamp: 00:36:17
 
@@ -2273,7 +2273,7 @@ Investigative Direction: Date the original post and compare with Tardio's travel
 
 ---
 
-**C-10561** Host Says Her Footage Shows the Maroon-Shirt Man in the Parking Lot Is Thicker Than the Court Described Tyler Robinson
+**C-13148** Host Says Her Footage Shows the Maroon-Shirt Man in the Parking Lot Is Thicker Than the Court Described Tyler Robinson
 
 Claim Timestamp: 00:37:19
 
@@ -2288,7 +2288,7 @@ Investigative Direction: Obtain the original footage and the court exhibit and c
 
 ---
 
-**C-10562** Host Says TPUSA Brought Tardio on The Charlie Kirk Show to Debunk Her Footage Instead of Contacting Her
+**C-13149** Host Says TPUSA Brought Tardio on The Charlie Kirk Show to Debunk Her Footage Instead of Contacting Her
 
 Claim Timestamp: 00:37:19
 
@@ -2298,13 +2298,13 @@ Transcript Snippet: Instead, they brought on this Matt Tardio onto the Charlie K
 
 Anchored Artifacts: A-2380.1
 Mentions: N-588, N-3
-Supports: C-3457
+Supports: C-13152
 Tags: relevance:core
 Investigative Direction: Find the episode of The Charlie Kirk Show and its air date; ask TPUSA whether anyone contacted the host.
 
 ---
 
-**C-10563** Charlie Kirk Show Introduction Describes Tardio as a Former Army Ranger Sniper and Explosives Expert
+**C-13150** Charlie Kirk Show Introduction Describes Tardio as a Former Army Ranger Sniper and Explosives Expert
 
 Claim Timestamp: 00:37:19
 
@@ -2319,7 +2319,7 @@ Investigative Direction: Check Tardio's service record, noting the host calls hi
 
 ---
 
-**C-10564** Show Host Says the Video Could Be Exhibit 11 Which the Judge Did Not Allow the News Media to See
+**C-13151** Show Host Says the Video Could Be Exhibit 11 Which the Judge Did Not Allow the News Media to See
 
 Claim Timestamp: 00:38:36
 
@@ -2333,7 +2333,7 @@ Investigative Direction: Review the preliminary hearing record on exhibit 11 and
 
 ---
 
-**C-10565** Tardio Says the Host's Video Was Compressed or Screen Recorded and That There Is No Such Thing as a Lateral Crawl
+**C-13153** Tardio Says the Host's Video Was Compressed or Screen Recorded and That There Is No Such Thing as a Lateral Crawl
 
 Claim Timestamp: 00:38:56
 
@@ -2348,7 +2348,7 @@ Investigative Direction: Have independent video forensics experts assess the fil
 
 ---
 
-**C-10566** Host Says Tardio's Alleged Victim Said He Tried to Take a Fan to His Hotel Room and Carried Her Down an Alley
+**C-13154** Host Says Tardio's Alleged Victim Said He Tried to Take a Fan to His Hotel Room and Carried Her Down an Alley
 
 Claim Timestamp: 00:40:11
 
@@ -2359,13 +2359,13 @@ Transcript Snippet: Tardio tried to take one of his fans at the protest back to 
 Anchored Artifacts: A-3085.1
 Mentions: N-588
 Related Nodes: N-11265
-Supports: C-3457
+Supports: C-13152
 Tags: relevance:context
 Investigative Direction: Obtain the Bulwark report, the Portland police report and the court docket.
 
 ---
 
-**C-10567** Host Says Tardio Told a Portland Detective Antifa Activists Had Plotted to Get Him Stoned
+**C-13155** Host Says Tardio Told a Portland Detective Antifa Activists Had Plotted to Get Him Stoned
 
 Claim Timestamp: 00:40:45
 
@@ -2381,7 +2381,7 @@ Investigative Direction: Review the detective's interview transcript if released
 
 ---
 
-**C-10568** Host Says Israel Is Very Good at Blackmailing People and It Shows in the Backgrounds of Israel Supporters
+**C-13156** Host Says Israel Is Very Good at Blackmailing People and It Shows in the Backgrounds of Israel Supporters
 
 Claim Timestamp: 00:41:02
 
@@ -2396,7 +2396,7 @@ Investigative Direction: A sweeping group claim; no checkable evidence is offere
 
 ---
 
-**C-10569** Host Says Robert Kraft Owns the New England Patriots and the Stadium
+**C-13160** Host Says Robert Kraft Owns the New England Patriots and the Stadium
 
 Claim Timestamp: 00:46:20
 
@@ -2406,13 +2406,13 @@ Transcript Snippet: He's a billionaire. He owns the New England Patriots, right?
 
 Anchored Artifacts: 
 Mentions: N-194, N-833
-Supports: C-3459
+Supports: C-13161
 Tags: relevance:tangential
 Investigative Direction: Confirm stadium ownership and any communication from Kraft about the tour.
 
 ---
 
-**C-10570** Macklemore Thanks Columbia Encampment Students and Names Students for Justice in Palestine and Jewish Voices for Peace
+**C-13158** Macklemore Thanks Columbia Encampment Students and Names Students for Justice in Palestine and Jewish Voices for Peace
 
 Claim Timestamp: 00:44:05
 
@@ -2422,13 +2422,13 @@ Transcript Snippet: this next song was inspired by the bravery of Columbia Unive
 
 Anchored Artifacts: A-2381.1
 Mentions: N-833
-Supports: C-3458
+Supports: C-13157
 Tags: relevance:tangential
 Investigative Direction: Obtain the full concert recording.
 
 ---
 
-**C-10571** Macklemore Calls ICE a Terrorist Organization on Stage
+**C-13159** Macklemore Calls ICE a Terrorist Organization on Stage
 
 Claim Timestamp: 00:45:20
 
@@ -2438,13 +2438,13 @@ Transcript Snippet: Free all people in America living in fear over this terroris
 
 Anchored Artifacts: A-2381.1
 Mentions: N-833
-Supports: C-3458
+Supports: C-13157
 Tags: relevance:tangential
 Investigative Direction: Obtain the full concert recording and note the stop and date.
 
 ---
 
-**C-10572** Host Says Ed Sheeran Said He Had No Control and Blamed the Stadiums
+**C-13162** Host Says Ed Sheeran Said He Had No Control and Blamed the Stadiums
 
 Claim Timestamp: 00:48:56
 
@@ -2459,7 +2459,7 @@ Investigative Direction: Obtain Ed Sheeran's public statement on the decision.
 
 ---
 
-**C-10573** Host Says Three Other Tour Openers Have Dropped Out in Solidarity With Macklemore
+**C-13163** Host Says Three Other Tour Openers Have Dropped Out in Solidarity With Macklemore
 
 Claim Timestamp: 00:48:56
 
@@ -2474,7 +2474,7 @@ Investigative Direction: Identify the three openers and the dates and wording of
 
 ---
 
-**C-10574** Host Says Ed Sheeran's Tour Has Only Three Stops Left
+**C-13165** Host Says Ed Sheeran's Tour Has Only Three Stops Left
 
 Claim Timestamp: 00:50:07
 
@@ -2489,7 +2489,7 @@ Investigative Direction: Check the official tour schedule.
 
 ---
 
-**C-10575** Host Says She Is Banned From Australia Over Her Genocide Statement After Lobbying
+**C-13164** Host Says She Is Banned From Australia Over Her Genocide Statement After Lobbying
 
 Claim Timestamp: 00:48:56
 
@@ -2505,7 +2505,7 @@ Investigative Direction: Obtain the Australian Home Affairs decision and any doc
 
 ---
 
-**C-10576** Host Says Charlie Told Her Every Slave Colony Had More Slaves Than Masters
+**C-13166** Host Says Charlie Told Her Every Slave Colony Had More Slaves Than Masters
 
 Claim Timestamp: 00:51:02
 
@@ -2520,7 +2520,7 @@ Investigative Direction: A private recollection by the host; no independent reco
 
 ---
 
-**C-10577** Host Says Kanye Is Touring Despite Stadiums Turning Him Down by Going to Venues That Open Their Doors
+**C-13167** Host Says Kanye Is Touring Despite Stadiums Turning Him Down by Going to Venues That Open Their Doors
 
 Claim Timestamp: 00:51:02
 
@@ -2535,7 +2535,7 @@ Investigative Direction: Check Kanye's current tour schedule and cancelled venue
 
 ---
 
-**C-10578** Host Says Justin Bieber Was Sued After Cancelling the Rest of a Tour and Is Now Free and Happy
+**C-13168** Host Says Justin Bieber Was Sued After Cancelling the Rest of a Tour and Is Now Free and Happy
 
 Claim Timestamp: 00:51:02
 
@@ -2550,7 +2550,7 @@ Investigative Direction: Check the lawsuit record over the cancelled Bieber tour
 
 ---
 
-**C-10579** Commenter Says Erika Forgave the Young Man Immediately, and the Host Says Alex Clark Now Pushes Repentance First
+**C-13169** Commenter Says Erika Forgave the Young Man Immediately, and the Host Says Alex Clark Now Pushes Repentance First
 
 Claim Timestamp: 00:56:00
 
@@ -2565,7 +2565,7 @@ Investigative Direction: Compare Erika's memorial forgiveness statement with lat
 
 ---
 
-**C-10580** Commenter Says Tyler Limps Only as He Nears Where He Was Told the Camera Is
+**C-13170** Commenter Says Tyler Limps Only as He Nears Where He Was Told the Camera Is
 
 Claim Timestamp: 00:56:00
 
@@ -2580,7 +2580,7 @@ Investigative Direction: Review the full released footage frame by frame for gai
 
 ---
 
-**C-10581** Host Says Sources Were Fearful at First but Are Now Bravely Giving Her Information
+**C-13171** Host Says Sources Were Fearful at First but Are Now Bravely Giving Her Information
 
 Claim Timestamp: 00:56:43
 
@@ -2595,7 +2595,7 @@ Investigative Direction: No documentary test; consider the volume of new tips ov
 
 ---
 
-**C-10582** Host Says She Received Many Comments About Her Interview on Stephen A. Smith's Podcast
+**C-13172** Host Says She Received Many Comments About Her Interview on Stephen A. Smith's Podcast
 
 Claim Timestamp: 00:56:43
 
@@ -2610,7 +2610,7 @@ Investigative Direction: Find the Stephen A. Smith episode and its release date.
 
 ---
 
-**C-10583** Host Says Erika's Media Tour Was Entirely About Debunking Her and Responded to Things She Said
+**C-13173** Host Says Erika's Media Tour Was Entirely About Debunking Her and Responded to Things She Said
 
 Claim Timestamp: 00:57:30
 
@@ -2626,7 +2626,7 @@ Investigative Direction: Review each tour interview and match Erika's remarks to
 
 ---
 
-**C-10584** Host Says She Was Brought Into an Office and Questioned Over Her Genocide Tweet and Told It Was Not What She Meant
+**C-13174** Host Says She Was Brought Into an Office and Questioned Over Her Genocide Tweet and Told It Was Not What She Meant
 
 Claim Timestamp: 00:58:28
 
@@ -2641,7 +2641,7 @@ Investigative Direction: Identify the meeting, attendees and date; obtain any mi
 
 ---
 
-**C-10585** Host Says an Interview With John Mappin and Brandon Tatum Trended Over the Weekend
+**C-13175** Host Says an Interview With John Mappin and Brandon Tatum Trended Over the Weekend
 
 Claim Timestamp: 00:59:30
 
@@ -2656,7 +2656,7 @@ Investigative Direction: Locate the Piers Morgan Uncensored episode and its air 
 
 ---
 
-**C-10586** Host Says She Was Fishing in Iceland With Mappin and Her Husband When She Spoke to Tatum by Phone
+**C-13176** Host Says She Was Fishing in Iceland With Mappin and Her Husband When She Spoke to Tatum by Phone
 
 Claim Timestamp: 00:59:33
 
@@ -2671,7 +2671,7 @@ Investigative Direction: A private recollection; confirm via the interview itsel
 
 ---
 
-**C-10587** Host Says She and Tatum Disagree on Turning Point USA and Erika but Remain Friends
+**C-13177** Host Says She and Tatum Disagree on Turning Point USA and Erika but Remain Friends
 
 Claim Timestamp: 01:00:18
 
@@ -2686,7 +2686,7 @@ Investigative Direction: Compare with Tatum's own public statements on Erika.
 
 ---
 
-**C-10588** Host Says Charlie Was Telling People in His Last Days He Would Bring Her Back and Had Turned Against Israel
+**C-13178** Host Says Charlie Was Telling People in His Last Days He Would Bring Her Back and Had Turned Against Israel
 
 Claim Timestamp: 01:02:30
 
@@ -2702,7 +2702,7 @@ Investigative Direction: Identify the people Charlie spoke to in those days and 
 
 ---
 
-**C-10589** Host Mocks the Argument That Seeking the Epstein Files Is Gnosticism
+**C-13179** Host Mocks the Argument That Seeking the Epstein Files Is Gnosticism
 
 Claim Timestamp: 01:04:37
 
@@ -2828,10 +2828,10 @@ Confidence: high
 
 - **Name uncertainty** (judge name): transcript spells "Graph" / "Judge Graf" – likely "Tony Graf" pending verification.
 - **Name uncertainty**: "Colonel Otto Busher" / "Bobusher"; "Michael Aquino"; "David Frausham"; "Phil Goldsberry" – spellings preserved as transcript.
-- **Artifact verbally referenced but not shown**: New York Post George Zinn article (C-3449); HSI whistleblower case materials (C-3455); 151-page Leavitt victim statement (C-3456); Bagley body cam records (C-3462); George Zinn sentencing (C-3463).
-- **Claim failed admission test (Artifact Anchor)**: C-3447 (Mitchell background), C-3448 (Bagley background), C-3453 (ICAC/AG administrative control), C-3454 (DOJ 1998 ICAC founding), C-3461 (Mitchell's role in surrender). These are captured as host assertions only.
+- **Artifact verbally referenced but not shown**: New York Post George Zinn article (C-13103); HSI whistleblower case materials (C-13139); 151-page Leavitt victim statement (C-13137); Bagley body cam records (C-13099); George Zinn sentencing (C-13106).
+- **Claim failed admission test (Artifact Anchor)**: C-13098 (Mitchell background), C-13100 (Bagley background), C-13121 (ICAC/AG administrative control), C-13122 (DOJ 1998 ICAC founding), C-13094 (Mitchell's role in surrender). These are captured as host assertions only.
 - **Transcript ambiguity**: Spelling inconsistencies across names of trafficking-era and roster-connected figures preserved exactly.
-- **Framing Premise**: C-3464 captured but not inscribed as evidence-backed.
+- **Framing Premise**: C-13123 captured but not inscribed as evidence-backed.
 
 ---
 
@@ -2852,6 +2852,6 @@ Confidence: high
 
 Episode 152 analysis complete. Ledger continuation preserved. Next available IDs after this episode:
 - Next Artifact Family: A-2383
-- Next Claim ID: C-3465
+- Next Claim ID: C-3465 (pre-2026-10-20 claim ids)
 - Next Node ID (people): N-10169
 - Next Node ID (investigation targets): N-10833

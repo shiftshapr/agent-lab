@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10d): N-11245, N-11246, N-11247, N-11248, N-11249
   - Hole-minted Nodes (reintro-ep072): N-10517, N-10520, N-10526, N-10527, N-10665, N-10764
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10d): C-10059–C-10137
+  - Claim Range: C-6416–C-6509
   - New Nodes Introduced: N-557, N-558, N-559, N-560, N-10501, N-10502, N-10504, N-10505
   - Reused Nodes Appearing: N-2, N-11, N-3, N-545, N-553, N-1, N-326, N-38, N-40, N-55, N-60, N-82, N-97, N-99, N-159, N-164, N-190, N-217, N-270, N-278, N-554, N-708, N-10000, N-10012, N-10026, N-10027, N-10063, N-10085, N-10117, N-10148, N-10169, N-10180, N-10187, N-10268, N-10334, N-10340, N-10345, N-10374, N-10386, N-10406, N-10419, N-10428, N-10446, N-10447, N-10456, N-10470, N-10482, N-10493, N-10495, N-10498, N-10905, N-10968, N-11104, N-11110, N-11165, N-10503, N-11188
   - (see registers)
@@ -41,7 +41,7 @@ Video Timestamp: 00:31:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2353, N-2, N-10501, N-10503*
+*Related: C-6480, N-2, N-10501, N-10503*
 
 ---
 
@@ -55,7 +55,7 @@ Video Timestamp: 00:26:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2351, N-204, N-10502*
+*Related: C-6467, N-204, N-10502*
 
 ---
 
@@ -69,7 +69,7 @@ Video Timestamp: 00:27:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2352, N-557, N-204, N-10502*
+*Related: C-6470, N-557, N-204, N-10502*
 
 ---
 
@@ -83,7 +83,7 @@ Video Timestamp: 00:28:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2354, N-2, N-41, N-11*
+*Related: C-6472, N-2, N-41, N-11*
 
 ---
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:29:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2355, N-2, N-41*
+*Related: C-6474, N-2, N-41*
 
 **A-1767.2** Audio Clip: Erika Kirk on Megyn Kelly's Stage Recounting She Did Not Date in Manhattan
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:30:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2356, N-2*
+*Related: C-6476, N-2*
 
 ---
 
@@ -121,7 +121,7 @@ Video Timestamp: 00:19:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2357, C-2358, C-2359, C-2360, C-2363, N-1, N-3, N-46, N-204*
+*Related: C-6460, C-6462, C-6461, C-6457, C-6463, N-1, N-3, N-46, N-204*
 
 ---
 
@@ -134,7 +134,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:26:16
 Confidence Level: High
 
-*Related: C-2361, N-204, N-557, N-14, N-10502*
+*Related: C-6468, N-204, N-557, N-14, N-10502*
 
 ---
 
@@ -162,7 +162,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2362, N-559, N-560, N-493*
+*Related: C-6494, N-559, N-560, N-493*
 
 ---
 
@@ -175,7 +175,7 @@ Video Timestamp: 00:04:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-10065, C-10066, C-10067, C-10069, N-3*
+*Related: C-6423, C-6424, C-6425, C-6427, N-3*
 
 **A-3050.2** Host verbal reference to Charlie Kirk's text messages to Dan Flood and Andrew Kolvet saying 'they are going to kill me' (not shown)
 
@@ -184,7 +184,7 @@ Video Timestamp: 00:07:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-10072, C-10073, N-3*
+*Related: C-6430, C-6431, N-3*
 
 **A-3050.3** Host verbal reference to the text messages Charlie sent the night before, which Erika first denied, then placed on Telegram, and which the host says went by iMessage on Flood's phone (not shown)
 
@@ -193,7 +193,7 @@ Video Timestamp: 00:13:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-10080, C-10081, C-10082, N-3*
+*Related: C-6439, C-6440, C-6441, N-3*
 
 ---
 
@@ -206,7 +206,7 @@ Video Timestamp: 00:29:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-10105, C-10106, N-3*
+*Related: C-6473, C-6475, N-3*
 
 ---
 
@@ -219,7 +219,7 @@ Video Timestamp: 00:32:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: C-10114, N-3*
+*Related: C-6485, N-3*
 
 ---
 
@@ -234,7 +234,7 @@ Video Timestamp: 00:36:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-10119, N-3*
+*Related: C-6490, N-3*
 
 ---
 
@@ -247,7 +247,7 @@ Video Timestamp: 00:38:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-10126, N-3*
+*Related: C-6498, N-3*
 
 ---
 
@@ -260,7 +260,7 @@ Video Timestamp: 00:43:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: C-10133, N-3*
+*Related: C-6505, N-3*
 
 ---
 
@@ -276,7 +276,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1766.1, A-1767.1, A-1767.2, A-1768.1, C-2354, C-2355, C-2357, C-2358, N-11*
+*Related: A-1766.1, A-1767.1, A-1767.2, A-1768.1, C-6472, C-6474, C-6460, C-6462, N-11*
 
 ---
 
@@ -289,7 +289,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1768.1, C-2357, C-2358, C-2359, C-2360, C-2363*
+*Related: A-1768.1, C-6460, C-6462, C-6461, C-6457, C-6463*
 
 ---
 
@@ -315,7 +315,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1765.1, C-2352, N-10502*
+*Related: A-1765.1, C-6470, N-10502*
 
 ---
 
@@ -341,7 +341,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1771.1, C-2362, N-560*
+*Related: A-1771.1, C-6494, N-560*
 
 ---
 
@@ -354,7 +354,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1771.1, C-2362, N-551*
+*Related: A-1771.1, C-6494, N-551*
 
 ---
 
@@ -367,7 +367,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1769.1, C-2361*
+*Related: A-1769.1, C-6468*
 
 ---
 
@@ -445,7 +445,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1763.1, C-2353, N-2*
+*Related: A-1763.1, C-6480, N-2*
 
 ---
 
@@ -458,7 +458,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1764.1, A-1765.1, A-1769.1, C-2351, C-2352, N-2, N-557, N-558*
+*Related: A-1764.1, A-1765.1, A-1769.1, C-6467, C-6470, N-2, N-557, N-558*
 
 ---
 
@@ -506,7 +506,7 @@ Investigative Pressure: High
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
 
-*Related: C-2354*
+*Related: C-6472*
 
 ---
 
@@ -515,7 +515,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 Node Type: Topic
 Host-alleged joint filming of Benjamin Netanyahu, Erika Kirk and Ben Shapiro scheduled in Palm Beach weeks before this episode, possibly for the Super Bowl, which was canceled at the last second.
 
-*Related: C-10091*
+*Related: C-6450*
 
 ---
 
@@ -524,7 +524,7 @@ Host-alleged joint filming of Benjamin Netanyahu, Erika Kirk and Ben Shapiro sch
 Node Type: Organization
 Christian-branded clothing brand the host says she understood Erika Kirk was working on in New York around 2018, for which the host says a trademark was filed.
 
-*Related: C-10110, C-10112, C-10113*
+*Related: C-6481, C-6483, C-6484*
 
 ---
 
@@ -533,7 +533,7 @@ Christian-branded clothing brand the host says she understood Erika Kirk was wor
 Node Type: Organization
 University the host lists among those Erika Kirk is said to have attended.
 
-*Related: C-10117*
+*Related: C-6488*
 
 ---
 
@@ -542,7 +542,7 @@ University the host lists among those Erika Kirk is said to have attended.
 Node Type: Organization
 University the host lists among those Erika Kirk is said to have attended.
 
-*Related: C-10117*
+*Related: C-6488*
 
 ---
 
@@ -551,7 +551,7 @@ University the host lists among those Erika Kirk is said to have attended.
 Node Type: Topic
 GoFundMe the host promotes to support fired TPUSA employees.
 
-*Related: C-10126*
+*Related: C-6498*
 
 ---
 
@@ -559,7 +559,7 @@ GoFundMe the host promotes to support fired TPUSA employees.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10059, C-10060, C-10061, C-10062, C-10063, C-10070, C-10073, C-10076, C-10077, C-10078, C-10080, C-10081, C-10082, C-10083, C-10084, C-10085, C-10086, C-10088, C-10089, C-10091, C-10092, C-10097, C-10102, C-10103, C-10104, C-10106, C-10107, C-10108, C-10109, C-10110, C-10111, C-10112, C-10113, C-10114, C-10115, C-10116, C-10117, C-10118, C-10119, C-10120*
+*Related: C-6416, C-6417, C-6418, C-6419, C-6421, C-6428, C-6431, C-6435, C-6436, C-6437, C-6439, C-6440, C-6441, C-6442, C-6443, C-6444, C-6445, C-6447, C-6448, C-6450, C-6451, C-6456, C-6466, C-6469, C-6471, C-6475, C-6477, C-6478, C-6479, C-6481, C-6482, C-6483, C-6484, C-6485, C-6486, C-6487, C-6488, C-6489, C-6490, C-6491*
 
 ---
 
@@ -567,7 +567,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10059, A-3050.1, A-3050.2, A-3050.3, C-10060, A-3051.1, C-10061, A-3052.1, C-10062, A-3053.1, C-10063, A-3054.1, C-10064, A-3055.1, C-10065, C-10066, C-10067, C-10068, C-10069, C-10070, C-10071, C-10072, C-10073, C-10074, C-10075, C-10076, C-10077, C-10078, C-10079, C-10080, C-10081, C-10082, C-10083, C-10084, C-10085, C-10086, C-10087, C-10088, C-10089, C-10090, C-10091, C-10092, C-10093, C-10094, C-10095, C-10096, C-10097, C-10098, C-10099, C-10100, C-10101, C-10104, C-10105, C-10106, C-10107, C-10108, C-10109, C-10110, C-10111, C-10112, C-10113, C-10114, C-10115, C-10116, C-10117, C-10118, C-10119, C-10120, C-10121, C-10122, C-10123, C-10124, C-10125, C-10126, C-10127, C-10128, C-10129, C-10130, C-10131, C-10132, C-10133, C-10134, C-10135, C-10136, C-10137*
+*Related: C-6416, A-3050.1, A-3050.2, A-3050.3, C-6417, A-3051.1, C-6418, A-3052.1, C-6419, A-3053.1, C-6421, A-3054.1, C-6422, A-3055.1, C-6423, C-6424, C-6425, C-6426, C-6427, C-6428, C-6429, C-6430, C-6431, C-6432, C-6434, C-6435, C-6436, C-6437, C-6438, C-6439, C-6440, C-6441, C-6442, C-6443, C-6444, C-6445, C-6446, C-6447, C-6448, C-6449, C-6450, C-6451, C-6452, C-6453, C-6454, C-6455, C-6456, C-6458, C-6459, C-6464, C-6465, C-6471, C-6473, C-6475, C-6477, C-6478, C-6479, C-6481, C-6482, C-6483, C-6484, C-6485, C-6486, C-6487, C-6488, C-6489, C-6490, C-6491, C-6492, C-6493, C-6495, C-6496, C-6497, C-6498, C-6499, C-6500, C-6501, C-6502, C-6503, C-6504, C-6505, C-6506, C-6507, C-6508, C-6509*
 
 ---
 
@@ -575,7 +575,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10130*
+*Related: C-6502*
 
 ---
 
@@ -583,7 +583,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10094*
+*Related: C-6453*
 
 ---
 
@@ -591,7 +591,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10069, C-10070, C-10071*
+*Related: C-6427, C-6428, C-6429*
 
 ---
 
@@ -599,7 +599,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10131*
+*Related: C-6503*
 
 ---
 
@@ -607,7 +607,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10097*
+*Related: C-6456*
 
 ---
 
@@ -615,7 +615,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10085, C-10089, C-10091*
+*Related: C-6444, C-6448, C-6450*
 
 ---
 
@@ -623,7 +623,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10137*
+*Related: C-6509*
 
 ---
 
@@ -631,7 +631,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10075*
+*Related: C-6434*
 
 ---
 
@@ -639,7 +639,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10068, C-10069, C-10071*
+*Related: C-6426, C-6427, C-6429*
 
 ---
 
@@ -647,7 +647,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10060, C-10075*
+*Related: C-6417, C-6434*
 
 ---
 
@@ -655,7 +655,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10060*
+*Related: C-6417*
 
 ---
 
@@ -663,7 +663,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10072, C-10082*
+*Related: C-6430, C-6441*
 
 ---
 
@@ -671,7 +671,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10084, C-10116*
+*Related: C-6443, C-6487*
 
 ---
 
@@ -679,7 +679,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10059, C-10060, C-10061, C-10062, C-10064*
+*Related: C-6416, C-6417, C-6418, C-6419, C-6422*
 
 ---
 
@@ -687,7 +687,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10062, C-10064, C-10075*
+*Related: C-6419, C-6422, C-6434*
 
 ---
 
@@ -695,7 +695,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10130, C-10131, C-10132*
+*Related: C-6502, C-6503, C-6504*
 
 ---
 
@@ -703,7 +703,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10087, C-10088*
+*Related: C-6446, C-6447*
 
 ---
 
@@ -711,7 +711,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10066, C-10093, C-10095, C-10101, C-10104, C-10107, C-10121, C-10122, C-10123, C-10124, C-10126, C-10127, C-10128*
+*Related: C-6424, C-6452, C-6454, C-6465, C-6471, C-6477, C-6492, C-6493, C-6495, C-6496, C-6498, C-6499, C-6500*
 
 ---
 
@@ -719,7 +719,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10063, C-10064*
+*Related: C-6421, C-6422*
 
 ---
 
@@ -727,7 +727,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10099, C-10135*
+*Related: C-6459, C-6507*
 
 ---
 
@@ -735,7 +735,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10083*
+*Related: C-6442*
 
 ---
 
@@ -743,7 +743,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10133*
+*Related: C-6505*
 
 ---
 
@@ -751,7 +751,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10078*
+*Related: C-6437*
 
 ---
 
@@ -759,7 +759,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10073, C-10074*
+*Related: C-6431, C-6432*
 
 ---
 
@@ -767,7 +767,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10065, C-10067, C-10092, C-10100, C-10129*
+*Related: C-6423, C-6425, C-6451, C-6464, C-6501*
 
 ---
 
@@ -775,7 +775,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10068, C-10071*
+*Related: C-6426, C-6429*
 
 ---
 
@@ -783,7 +783,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10078*
+*Related: C-6437*
 
 ---
 
@@ -791,7 +791,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10069, C-10070*
+*Related: C-6427, C-6428*
 
 ---
 
@@ -799,7 +799,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10066, C-10085*
+*Related: C-6424, C-6444*
 
 ---
 
@@ -807,7 +807,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10084*
+*Related: C-6443*
 
 ---
 
@@ -815,7 +815,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10072, C-10080, C-10081, C-10082*
+*Related: C-6430, C-6439, C-6440, C-6441*
 
 ---
 
@@ -823,7 +823,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10130*
+*Related: C-6502*
 
 ---
 
@@ -831,7 +831,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10116*
+*Related: C-6487*
 
 ---
 
@@ -839,7 +839,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10089*
+*Related: C-6448*
 
 ---
 
@@ -847,7 +847,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10099*
+*Related: C-6459*
 
 ---
 
@@ -855,7 +855,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10120*
+*Related: C-6491*
 
 ---
 
@@ -863,7 +863,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10120*
+*Related: C-6491*
 
 ---
 
@@ -871,7 +871,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10083*
+*Related: C-6442*
 
 ---
 
@@ -879,7 +879,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10076, C-10077, C-10079*
+*Related: C-6435, C-6436, C-6438*
 
 ---
 
@@ -887,7 +887,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10090*
+*Related: C-6449*
 
 ---
 
@@ -895,7 +895,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10082*
+*Related: C-6441*
 
 ---
 
@@ -903,7 +903,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10060*
+*Related: C-6417*
 
 ---
 
@@ -911,7 +911,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10127*
+*Related: C-6499*
 
 ---
 
@@ -919,7 +919,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10083*
+*Related: C-6442*
 
 ---
 
@@ -927,7 +927,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10062, C-10075*
+*Related: C-6419, C-6434*
 
 ---
 
@@ -935,7 +935,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10117*
+*Related: C-6488*
 
 ---
 
@@ -943,7 +943,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10113, C-10114*
+*Related: C-6484, C-6485*
 
 ---
 
@@ -951,7 +951,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10109*
+*Related: C-6479*
 
 ---
 
@@ -959,7 +959,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10115*
+*Related: C-6486*
 
 ---
 
@@ -967,7 +967,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10117*
+*Related: C-6488*
 
 ---
 
@@ -975,7 +975,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10137*
+*Related: C-6509*
 
 ---
 
@@ -983,7 +983,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10086*
+*Related: C-6445*
 
 ---
 
@@ -991,7 +991,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10086*
+*Related: C-6445*
 
 ---
 
@@ -999,7 +999,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10113, C-10117*
+*Related: C-6484, C-6488*
 
 ---
 
@@ -1007,7 +1007,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10104, C-10105, C-10106*
+*Related: C-6471, C-6473, C-6475*
 
 ---
 
@@ -1015,7 +1015,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10102*
+*Related: C-6466*
 
 ---
 
@@ -1023,13 +1023,13 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10131*
+*Related: C-6503*
 
 ---
 
 ## 5. Claim Register
 
-**C-2351** USA Today Identified Erika Kirk as NYC Real Estate Agent for the Corcoran Group
+**C-6467** USA Today Identified Erika Kirk as NYC Real Estate Agent for the Corcoran Group
 
 Claim Timestamp: 00:26:41
 
@@ -1044,7 +1044,7 @@ Investigative Direction: Obtain and verify the original USA Today article and co
 
 ---
 
-**C-2352** Epstein Document Lists Lynn Forester de Rothschild as Corcoran Group Inc. President
+**C-6470** Epstein Document Lists Lynn Forester de Rothschild as Corcoran Group Inc. President
 
 Claim Timestamp: 00:27:38
 
@@ -1059,7 +1059,7 @@ Investigative Direction: Locate the underlying Epstein document entry and verify
 
 ---
 
-**C-2353** Per Host's Snapshot, Erika Kirk's NY Real Estate License Valid Until October 24, 2020
+**C-6480** Per Host's Snapshot, Erika Kirk's NY Real Estate License Valid Until October 24, 2020
 
 Claim Timestamp: 00:31:08
 
@@ -1074,7 +1074,7 @@ Investigative Direction: Verify license issuance and expiration dates against Ne
 
 ---
 
-**C-2354** Tyler Bowyer Recounted Erika Kirk's Introduction to TPUSA at Memorial
+**C-6472** Tyler Bowyer Recounted Erika Kirk's Introduction to TPUSA at Memorial
 
 Claim Timestamp: 00:28:47
 
@@ -1088,7 +1088,7 @@ Investigative Direction: Compare memorial account against contemporaneous text r
 
 ---
 
-**C-2355** Erika Kirk Recounted Charlie Kirk Ending Her Interview by Saying "I'm Going to Date You"
+**C-6474** Erika Kirk Recounted Charlie Kirk Ending Her Interview by Saying "I'm Going to Date You"
 
 Claim Timestamp: 00:29:35
 
@@ -1102,7 +1102,7 @@ Investigative Direction: Identify and verify the original source of this account
 
 ---
 
-**C-2356** Erika Kirk Stated She Did Not Date in Manhattan Because of Roommate Observations
+**C-6476** Erika Kirk Stated She Did Not Date in Manhattan Because of Roommate Observations
 
 Claim Timestamp: 00:30:20
 
@@ -1116,7 +1116,7 @@ Investigative Direction: Verify the original Megyn Kelly stage appearance and co
 
 ---
 
-**C-2357** Megyn Kelly Stated Charlie Kirk Was Developing Serious Questions About Israel
+**C-6460** Megyn Kelly Stated Charlie Kirk Was Developing Serious Questions About Israel
 
 Claim Timestamp: 00:20:40
 
@@ -1130,7 +1130,7 @@ Investigative Direction: Identify other inner-circle witnesses to Charlie Kirk's
 
 ---
 
-**C-2358** Megyn Kelly Stated She and Charlie Kirk Spent Hours Discussing Israel
+**C-6462** Megyn Kelly Stated She and Charlie Kirk Spent Hours Discussing Israel
 
 Claim Timestamp: 00:21:00
 
@@ -1144,7 +1144,7 @@ Investigative Direction: Locate any corroborating communications (messages, reco
 
 ---
 
-**C-2359** Megyn Kelly Stated She Was Pressured to Condemn Candace Owens and Refused
+**C-6461** Megyn Kelly Stated She Was Pressured to Condemn Candace Owens and Refused
 
 Claim Timestamp: 00:20:45
 
@@ -1158,7 +1158,7 @@ Investigative Direction: Identify the parties alleged to have applied pressure; 
 
 ---
 
-**C-2360** Megyn Kelly Stated Candace Owens Had Not Been on Her Show in Several Years
+**C-6457** Megyn Kelly Stated Candace Owens Had Not Been on Her Show in Several Years
 
 Claim Timestamp: 00:20:02
 
@@ -1172,7 +1172,7 @@ Investigative Direction: Verify against Kelly's guest appearance logs.
 
 ---
 
-**C-2361** Unnamed TikToker Posed Money-Laundering Question Regarding Corcoran Group Employment
+**C-6468** Unnamed TikToker Posed Money-Laundering Question Regarding Corcoran Group Employment
 
 Claim Timestamp: 00:26:41
 
@@ -1187,7 +1187,7 @@ Investigative Direction: Pursue independently whether any financial records conn
 
 ---
 
-**C-2362** Unidentified "Mike" Was Recorded Photographing Aubrey Laitsch's Home Claiming Legal Firm Instruction
+**C-6494** Unidentified "Mike" Was Recorded Photographing Aubrey Laitsch's Home Claiming Legal Firm Instruction
 
 Claim Timestamp: 00:37:32
 
@@ -1201,7 +1201,7 @@ Investigative Direction: Identify the legal firm referenced; determine whether t
 
 ---
 
-**C-2363** Host Concurred with Megyn Kelly's Characterization of Charlie Kirk's Position Shift as Truthful Disclosure
+**C-6463** Host Concurred with Megyn Kelly's Characterization of Charlie Kirk's Position Shift as Truthful Disclosure
 
 Claim Timestamp: 00:21:43
 
@@ -1215,7 +1215,7 @@ Investigative Direction: Cross-reference host concurrence with other artifact-ba
 
 ---
 
-**C-3759** Host says Erika Kirk's assistant was supposed to go to UVU on September 10
+**C-6420** Host says Erika Kirk's assistant was supposed to go to UVU on September 10
 
 Claim Timestamp: 00:04:05
 
@@ -1230,7 +1230,7 @@ Investigative Direction: Establish the assistant's September 10 travel plans and
 
 ---
 
-**C-3760** Host disputes the account that Charlie Kirk was excited and could not sleep before the UVU event
+**C-6433** Host disputes the account that Charlie Kirk was excited and could not sleep before the UVU event
 
 Claim Timestamp: 00:09:13
 
@@ -1245,7 +1245,7 @@ Investigative Direction: Compare Erika Kirk's account of the night before agains
 
 ---
 
-**C-10059** Host Says Tracy Martin Is Erika's Best Friend of Over 15 Years
+**C-6416** Host Says Tracy Martin Is Erika's Best Friend of Over 15 Years
 
 Claim Timestamp: 00:02:22
 
@@ -1260,7 +1260,7 @@ Investigative Direction: Confirm the friendship and its length through Tracy Mar
 
 ---
 
-**C-10060** Host Says Tip Placed Tracy Martin With Erika During the McCoy Call
+**C-6417** Host Says Tip Placed Tracy Martin With Erika During the McCoy Call
 
 Claim Timestamp: 00:02:22
 
@@ -1276,7 +1276,7 @@ Investigative Direction: Obtain the phone records or witness accounts of the McC
 
 ---
 
-**C-10061** Host Says Tracy Martin Has Denied Being With Erika on September 10
+**C-6418** Host Says Tracy Martin Has Denied Being With Erika on September 10
 
 Claim Timestamp: 00:03:09
 
@@ -1291,7 +1291,7 @@ Investigative Direction: Ask Tracy Martin or Erika Kirk's representatives direct
 
 ---
 
-**C-10062** Host Says She Confirmed Tracy Martin's Daughter Is Erika's Assistant
+**C-6419** Host Says She Confirmed Tracy Martin's Daughter Is Erika's Assistant
 
 Claim Timestamp: 00:03:09
 
@@ -1307,7 +1307,7 @@ Investigative Direction: Verify the daughter's employment with Erika Kirk or TPU
 
 ---
 
-**C-10063** Host Says Erika Admitted She Considered Going to UVU but Charlie Said Home Needs You
+**C-6421** Host Says Erika Admitted She Considered Going to UVU but Charlie Said Home Needs You
 
 Claim Timestamp: 00:04:05
 
@@ -1323,7 +1323,7 @@ Investigative Direction: Locate the interview in which Erika Kirk said she nearl
 
 ---
 
-**C-10064** Host Says Tracy Martin Pulled Her Daughter From UVU Over a Bad Feeling
+**C-6422** Host Says Tracy Martin Pulled Her Daughter From UVU Over a Bad Feeling
 
 Claim Timestamp: 00:04:56
 
@@ -1339,7 +1339,7 @@ Investigative Direction: Interview the people in Martin's orbit who heard the ex
 
 ---
 
-**C-10065** Host Says Charlie Messaged a Group Saying He Was Abandoning the Pro-Israel Cause
+**C-6423** Host Says Charlie Messaged a Group Saying He Was Abandoning the Pro-Israel Cause
 
 Claim Timestamp: 00:04:56
 
@@ -1350,13 +1350,13 @@ Transcript Snippet: Charlie messages a group of people and says that he is aband
 Anchored Artifacts: A-3050.1, A-3050.1
 Mentions: N-3, N-1
 Related Nodes: N-10148
-Supports: C-1376
+Supports: C-1350
 Tags: relevance:core
 Investigative Direction: Obtain the full group-chat export and verify author, recipients and timestamps.
 
 ---
 
-**C-10066** Host Says Charlie Texted TPUSA Staff He Wanted Candace Back at AmFest
+**C-6424** Host Says Charlie Texted TPUSA Staff He Wanted Candace Back at AmFest
 
 Claim Timestamp: 00:04:56
 
@@ -1372,7 +1372,7 @@ Investigative Direction: Obtain the TPUSA staff messages in which Kirk discussed
 
 ---
 
-**C-10067** Host Says Charlie Signaled He No Longer Cared About the Money and Wanted Donors Out
+**C-6425** Host Says Charlie Signaled He No Longer Cared About the Money and Wanted Donors Out
 
 Claim Timestamp: 00:05:47
 
@@ -1388,7 +1388,7 @@ Investigative Direction: Identify the messages in which Kirk told staff he did n
 
 ---
 
-**C-10068** Host Says Charlie Had an Emergency Zoom Call With Rabbi Wolicki at 4 A.M. Israel Time
+**C-6426** Host Says Charlie Had an Emergency Zoom Call With Rabbi Wolicki at 4 A.M. Israel Time
 
 Claim Timestamp: 00:05:47
 
@@ -1399,13 +1399,13 @@ Transcript Snippet: He then has what looks like an emergency Zoom call with Rabb
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-164
 Related Nodes: N-10169
-Supports: C-1397
+Supports: C-1449
 Tags: relevance:core
 Investigative Direction: Obtain the Zoom invitation or log and Wolicki's own account of the call time, participants and purpose.
 
 ---
 
-**C-10069** Host Says Wolicki Was on the Chat Two Hours Before the Call
+**C-6427** Host Says Wolicki Was on the Chat Two Hours Before the Call
 
 Claim Timestamp: 00:05:47
 
@@ -1416,13 +1416,13 @@ Transcript Snippet: He was on the chat 2 hours earlier before this call when Cha
 Anchored Artifacts: A-3050.1, A-3050.1
 Mentions: N-3, N-1, N-164, N-55
 Related Nodes: N-10187
-Supports: C-1377
+Supports: C-1352
 Tags: relevance:core
 Investigative Direction: Obtain the chat export and member list to confirm Wolicki and Hammer were participants and when each message was sent.
 
 ---
 
-**C-10070** Host Says Hammer and Erika Told Her the Chat Was Not a Big Deal
+**C-6428** Host Says Hammer and Erika Told Her the Chat Was Not a Big Deal
 
 Claim Timestamp: 00:06:34
 
@@ -1438,7 +1438,7 @@ Investigative Direction: Ask Hammer and Erika Kirk to state on the record how th
 
 ---
 
-**C-10071** Host Says the Account Is That Charlie Needed Debate Talking Points for College Students
+**C-6429** Host Says the Account Is That Charlie Needed Debate Talking Points for College Students
 
 Claim Timestamp: 00:07:00
 
@@ -1449,13 +1449,13 @@ Transcript Snippet: And so apparently um he needed Josh Hammer. He also needed t
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-55, N-164
 Related Nodes: N-10169
-Supports: C-1414
+Supports: C-1551
 Tags: relevance:core
 Investigative Direction: Obtain Hammer's and Wolicki's own statements about the purpose of the call and any talking-points material exchanged.
 
 ---
 
-**C-10072** Host Says Charlie Texted Flood and Kolvet That They Are Going to Kill Him
+**C-6430** Host Says Charlie Texted Flood and Kolvet That They Are Going to Kill Him
 
 Claim Timestamp: 00:07:36
 
@@ -1466,13 +1466,13 @@ Transcript Snippet: he sends off text messages to security chief Dan Flood, also
 Anchored Artifacts: A-3050.2, A-3050.2
 Mentions: N-3, N-1, N-270, N-14
 Related Nodes: N-10340
-Supports: C-6825
+Supports: C-4543
 Tags: relevance:core
 Investigative Direction: Obtain the original texts from Flood's and Kolvet's devices with metadata.
 
 ---
 
-**C-10073** Host Says Erika's Account Is That They Meant the Left or an Etsy Witch
+**C-6431** Host Says Erika's Account Is That They Meant the Left or an Etsy Witch
 
 Claim Timestamp: 00:07:36
 
@@ -1483,13 +1483,13 @@ Transcript Snippet: Erika wants us to believe that he was referring to the left,
 Anchored Artifacts: A-3050.2, A-3050.2
 Mentions: N-3, N-2, N-1
 Related Nodes: N-10117
-Supports: C-1927
+Supports: C-4064
 Tags: relevance:core
 Investigative Direction: Locate Erika Kirk's interview statement on who 'they' referred to and compare it with the message text.
 
 ---
 
-**C-10074** Host Says Charlie Reportedly Had a Priest Pray Over Him After the Call
+**C-6432** Host Says Charlie Reportedly Had a Priest Pray Over Him After the Call
 
 Claim Timestamp: 00:07:36
 
@@ -1500,13 +1500,13 @@ Transcript Snippet: we were also told that the definitely not at all Catholic Ch
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10117
-Supports: C-6459
+Supports: C-1335
 Tags: relevance:core
 Investigative Direction: Identify the priest and the date and place of the visit from the original sources who told the account.
 
 ---
 
-**C-10075** Host Says the Assistant Also Worked on Charlie's Show and the Crew Was at UVU
+**C-6434** Host Says the Assistant Also Worked on Charlie's Show and the Crew Was at UVU
 
 Claim Timestamp: 00:10:47
 
@@ -1522,7 +1522,7 @@ Investigative Direction: Obtain the September 10 travel and staffing roster for 
 
 ---
 
-**C-10076** Host Alleges Erika and Kolvet Held a Three-Way Call With Dr. Trotter on Funeral Day
+**C-6435** Host Alleges Erika and Kolvet Held a Three-Way Call With Dr. Trotter on Funeral Day
 
 Claim Timestamp: 00:13:10
 
@@ -1533,13 +1533,13 @@ Transcript Snippet: Erika and Andrew Kolvet had an emergency three-way call with
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-14, N-195
 Related Nodes: N-10447
-Supports: C-6780
+Supports: C-4493
 Tags: relevance:core
 Investigative Direction: Obtain call records or Trotter's account of the funeral-day call and who initiated it.
 
 ---
 
-**C-10077** Host Says Erika Suggested the Superman Neck Explanation
+**C-6436** Host Says Erika Suggested the Superman Neck Explanation
 
 Claim Timestamp: 00:13:10
 
@@ -1550,13 +1550,13 @@ Transcript Snippet: she is the one that suggested that Charlie has a Superman ne
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-1, N-195
 Related Nodes: N-10447
-Supports: C-6780
+Supports: C-4493
 Tags: relevance:core
 Investigative Direction: Compare Trotter's own account of what he said with Kolvet's post and identify who first used the phrase.
 
 ---
 
-**C-10078** Host Says the Cover Story Is Defensive Because She Reported No Exit and No Blood
+**C-6437** Host Says the Cover Story Is Defensive Because She Reported No Exit and No Blood
 
 Claim Timestamp: 00:13:10
 
@@ -1572,7 +1572,7 @@ Investigative Direction: Obtain the autopsy and surgical records on entry, exit 
 
 ---
 
-**C-10079** Host Says Kolvet Posted Superman Neck and It Was Presented as the Surgeon's Words
+**C-6438** Host Says Kolvet Posted Superman Neck and It Was Presented as the Surgeon's Words
 
 Claim Timestamp: 00:13:57
 
@@ -1583,13 +1583,13 @@ Transcript Snippet: we're led to believe for a very long time that that was refe
 Anchored Artifacts: A-1770.1
 Mentions: N-3, N-14, N-195
 Related Nodes: N-10447
-Supports: C-6824
+Supports: C-4542
 Tags: relevance:core
 Investigative Direction: Pull Kolvet's original post and Trotter's statements and compare their wording.
 
 ---
 
-**C-10080** Host Says Erika Lied to Glenn Beck About Charlie's Night-Before Texts
+**C-6439** Host Says Erika Lied to Glenn Beck About Charlie's Night-Before Texts
 
 Claim Timestamp: 00:13:57
 
@@ -1605,7 +1605,7 @@ Investigative Direction: Locate the Glenn Beck interview segment and compare Eri
 
 ---
 
-**C-10081** Host Says Erika Then Called It a Mistake and Blamed Telegram
+**C-6440** Host Says Erika Then Called It a Mistake and Blamed Telegram
 
 Claim Timestamp: 00:13:57
 
@@ -1621,7 +1621,7 @@ Investigative Direction: Obtain Erika Kirk's statement about Telegram and the ph
 
 ---
 
-**C-10082** Host Says Her Person Confirmed the Text Was Sent by iMessage From Flood's Phone
+**C-6441** Host Says Her Person Confirmed the Text Was Sent by iMessage From Flood's Phone
 
 Claim Timestamp: 00:13:57
 
@@ -1637,7 +1637,7 @@ Investigative Direction: Examine Flood's device message log for the platform, se
 
 ---
 
-**C-10083** Host Says Erika Was at the Hamptons When Bibi Called but Cannot Remember It
+**C-6442** Host Says Erika Was at the Hamptons When Bibi Called but Cannot Remember It
 
 Claim Timestamp: 00:14:42
 
@@ -1653,7 +1653,7 @@ Investigative Direction: Identify other attendees of the Hamptons meeting and ob
 
 ---
 
-**C-10084** Host Lists Erika Telling Bari Weiss That Jew Hatred Is Wrong
+**C-6443** Host Lists Erika Telling Bari Weiss That Jew Hatred Is Wrong
 
 Claim Timestamp: 00:14:42
 
@@ -1669,7 +1669,7 @@ Investigative Direction: Find the Bari Weiss event or interview and the exact wo
 
 ---
 
-**C-10085** Host Says Erika Allowed Ben Shapiro to Open at AmFest Behind Her
+**C-6444** Host Says Erika Allowed Ben Shapiro to Open at AmFest Behind Her
 
 Claim Timestamp: 00:14:42
 
@@ -1685,7 +1685,7 @@ Investigative Direction: Obtain the AmFest 2025 speaker schedule and sponsor arr
 
 ---
 
-**C-10086** Host Says Erika Welcomed the New York Times Into Their Shared Home
+**C-6445** Host Says Erika Welcomed the New York Times Into Their Shared Home
 
 Claim Timestamp: 00:14:42
 
@@ -1701,7 +1701,7 @@ Investigative Direction: Retrieve the New York Times article and confirm the int
 
 ---
 
-**C-10087** Host Says LBJ Reversed Every One of JFK's Policies After the Assassination
+**C-6446** Host Says LBJ Reversed Every One of JFK's Policies After the Assassination
 
 Claim Timestamp: 00:14:42
 
@@ -1716,7 +1716,7 @@ Investigative Direction: Historians' accounts of Johnson's policy continuity wou
 
 ---
 
-**C-10088** Host Says Erika Appears to Be Doing a Reversal Like LBJ's
+**C-6447** Host Says Erika Appears to Be Doing a Reversal Like LBJ's
 
 Claim Timestamp: 00:15:56
 
@@ -1731,7 +1731,7 @@ Investigative Direction: Compare Erika's TPUSA policies and alliances since Sept
 
 ---
 
-**C-10089** Host Says She Knows for a Fact Charlie Disliked Ben Shapiro
+**C-6448** Host Says She Knows for a Fact Charlie Disliked Ben Shapiro
 
 Claim Timestamp: 00:15:56
 
@@ -1742,13 +1742,13 @@ Transcript Snippet: I know for a fact Charlie dislikes Ben. Why would you let hi
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-97, N-2
 Related Nodes: N-10386
-Supports: C-6744
+Supports: C-4447
 Tags: relevance:core
 Investigative Direction: Collect Kirk's messages and witnesses about Shapiro and the terms of Shapiro's AmFest appearance.
 
 ---
 
-**C-10090** Host Says Charlie Said No to Bibi Netanyahu Coming on His Show
+**C-6449** Host Says Charlie Said No to Bibi Netanyahu Coming on His Show
 
 Claim Timestamp: 00:15:56
 
@@ -1764,7 +1764,7 @@ Investigative Direction: Find the show booking requests and the staff who handle
 
 ---
 
-**C-10091** Host Says a Joint Netanyahu, Erika and Shapiro Filming in Palm Beach Was Canceled
+**C-6450** Host Says a Joint Netanyahu, Erika and Shapiro Filming in Palm Beach Was Canceled
 
 Claim Timestamp: 00:16:30
 
@@ -1780,7 +1780,7 @@ Investigative Direction: Identify the production, venue and attendees through Pa
 
 ---
 
-**C-10092** Host Says Erika Has Not Publicly Acknowledged Charlie Shifting Positions
+**C-6451** Host Says Erika Has Not Publicly Acknowledged Charlie Shifting Positions
 
 Claim Timestamp: 00:17:03
 
@@ -1796,7 +1796,7 @@ Investigative Direction: Review Erika Kirk's public statements since September 2
 
 ---
 
-**C-10093** Host Says Megyn Kelly Supports TPUSA but Disagrees With Her
+**C-6452** Host Says Megyn Kelly Supports TPUSA but Disagrees With Her
 
 Claim Timestamp: 00:17:32
 
@@ -1812,7 +1812,7 @@ Investigative Direction: Compare Kelly's public statements on TPUSA with the hos
 
 ---
 
-**C-10094** Host Says Megyn Kelly Believes Tyler Robinson Was the Shooter
+**C-6453** Host Says Megyn Kelly Believes Tyler Robinson Was the Shooter
 
 Claim Timestamp: 00:18:22
 
@@ -1827,7 +1827,7 @@ Investigative Direction: Quote Kelly's on-air statements about Tyler Robinson's 
 
 ---
 
-**C-10095** Host Says Charlie Did Not Employ Megyn Kelly or Pay Her at TPUSA
+**C-6454** Host Says Charlie Did Not Employ Megyn Kelly or Pay Her at TPUSA
 
 Claim Timestamp: 00:19:06
 
@@ -1843,7 +1843,7 @@ Investigative Direction: Check TPUSA disclosures and Kelly's disclosures for any
 
 ---
 
-**C-10096** Host Says Piers Morgan Actually Platforms Her
+**C-6455** Host Says Piers Morgan Actually Platforms Her
 
 Claim Timestamp: 00:19:06
 
@@ -1858,7 +1858,7 @@ Investigative Direction: List Piers Morgan's interviews with the host.
 
 ---
 
-**C-10097** Piers Morgan Called Candace's Erika Kirk and Macron Coverage Regrettable in the Clip
+**C-6456** Piers Morgan Called Candace's Erika Kirk and Macron Coverage Regrettable in the Clip
 
 Claim Timestamp: 00:19:40
 
@@ -1873,7 +1873,7 @@ Investigative Direction: Locate the Piers Morgan interview with Megyn Kelly and 
 
 ---
 
-**C-10098** Megyn Kelly Said She Has Criticized Candace Many Times and Had Public Fights
+**C-6458** Megyn Kelly Said She Has Criticized Candace Many Times and Had Public Fights
 
 Claim Timestamp: 00:20:02
 
@@ -1888,7 +1888,7 @@ Investigative Direction: Verify the clip and catalogue Kelly's past public criti
 
 ---
 
-**C-10099** Megyn Kelly Said Pressure to Condemn Candace Rose After Charlie's Death
+**C-6459** Megyn Kelly Said Pressure to Condemn Candace Rose After Charlie's Death
 
 Claim Timestamp: 00:20:20
 
@@ -1904,7 +1904,7 @@ Investigative Direction: Identify who pressed Kelly and when, using her messages
 
 ---
 
-**C-10100** Host Says Charlie Had Plenty of Doubts About Israel and the Inner Circle Knows It
+**C-6464** Host Says Charlie Had Plenty of Doubts About Israel and the Inner Circle Knows It
 
 Claim Timestamp: 00:21:43
 
@@ -1920,7 +1920,7 @@ Investigative Direction: Interview members of Kirk's inner circle and collect an
 
 ---
 
-**C-10101** Host Says the Inner Circle Is Spending Money on Influencers to Discredit Her
+**C-6465** Host Says the Inner Circle Is Spending Money on Influencers to Discredit Her
 
 Claim Timestamp: 00:22:20
 
@@ -1936,7 +1936,7 @@ Investigative Direction: Identify any paid influencer campaigns and funding sour
 
 ---
 
-**C-10102** TikToker Says Private Investigators Contacted Her After Her Romanian Angels Video
+**C-6466** TikToker Says Private Investigators Contacted Her After Her Romanian Angels Video
 
 Claim Timestamp: 00:25:45
 
@@ -1952,7 +1952,7 @@ Investigative Direction: Identify the TikToker and obtain the messages from the 
 
 ---
 
-**C-10103** TikToker Says Pamela Liebman Has Been Corcoran's President and CEO Since 2000
+**C-6469** TikToker Says Pamela Liebman Has Been Corcoran's President and CEO Since 2000
 
 Claim Timestamp: 00:26:41
 
@@ -1968,7 +1968,7 @@ Investigative Direction: Verify Liebman's tenure and title with Corcoran Group p
 
 ---
 
-**C-10104** Host Says the Story Is That Erika and Charlie Fell in Love During a TPUSA Job Interview
+**C-6471** Host Says the Story Is That Erika and Charlie Fell in Love During a TPUSA Job Interview
 
 Claim Timestamp: 00:27:38
 
@@ -1979,13 +1979,13 @@ Transcript Snippet: Erika and Charlie Kirk fell in love when he was interviewing
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-1
 Related Nodes: N-11110, N-10000
-Supports: C-2355
+Supports: C-6474
 Tags: relevance:core
 Investigative Direction: Collect the dated public tellings of the interview story and compare their details.
 
 ---
 
-**C-10105** Host Says Bowyer's Memorial Account Is Truthful and Matches Her Texts
+**C-6473** Host Says Bowyer's Memorial Account Is Truthful and Matches Her Texts
 
 Claim Timestamp: 00:28:47
 
@@ -1996,13 +1996,13 @@ Transcript Snippet: he's telling the truth. I was around for that. I just had to
 Anchored Artifacts: A-3051.1, A-1766.1, A-3051.1
 Mentions: N-3, N-11
 Related Nodes: N-11110
-Supports: C-2354
+Supports: C-6472
 Tags: relevance:core
 Investigative Direction: Obtain the host's dated text messages with Bowyer and Charlie from 2018.
 
 ---
 
-**C-10106** Host Says Her Texts Date the Start of the Dating Story to September 2018
+**C-6475** Host Says Her Texts Date the Start of the Dating Story to September 2018
 
 Claim Timestamp: 00:29:35
 
@@ -2018,7 +2018,7 @@ Investigative Direction: Publish or independently verify the dated text messages
 
 ---
 
-**C-10107** Host Says Charlie Interviewed Erika in New York While She Sought a TPUSA Job
+**C-6477** Host Says Charlie Interviewed Erika in New York While She Sought a TPUSA Job
 
 Claim Timestamp: 00:30:20
 
@@ -2034,7 +2034,7 @@ Investigative Direction: Confirm the date and location of the interview with Bow
 
 ---
 
-**C-10108** Host Says Dating Began in Earnest in October 2018, the Month of Erika's Real Estate License
+**C-6478** Host Says Dating Began in Earnest in October 2018, the Month of Erika's Real Estate License
 
 Claim Timestamp: 00:30:20
 
@@ -2050,7 +2050,7 @@ Investigative Direction: Compare dated messages and New York Department of State
 
 ---
 
-**C-10109** Host Infers the License Was Issued October 24, 2018 From a Two-Year Term
+**C-6479** Host Infers the License Was Issued October 24, 2018 From a Two-Year Term
 
 Claim Timestamp: 00:30:50
 
@@ -2061,13 +2061,13 @@ Transcript Snippet: So, if it expired on October 24th, 2020, that means that she
 Anchored Artifacts: A-1763.1
 Mentions: N-3, N-2
 Related Nodes: N-10501, N-10526
-Supports: C-2353
+Supports: C-6480
 Tags: relevance:core
 Investigative Direction: Request the New York Department of State license history for original issue date.
 
 ---
 
-**C-10110** Host Says She Was Told Erika Worked in Fashion on Proclaim Streetwear
+**C-6481** Host Says She Was Told Erika Worked in Fashion on Proclaim Streetwear
 
 Claim Timestamp: 00:31:35
 
@@ -2083,7 +2083,7 @@ Investigative Direction: Search business and trademark records for Proclaim Stre
 
 ---
 
-**C-10111** Host Says She Met Erika at a Steakhouse Shortly After Charlie's Interview
+**C-6482** Host Says She Met Erika at a Steakhouse Shortly After Charlie's Interview
 
 Claim Timestamp: 00:31:50
 
@@ -2098,7 +2098,7 @@ Investigative Direction: Reconstruct the date and venue from the host's messages
 
 ---
 
-**C-10112** Host Says LLC Records Show Erika Filed a Trademark for Her Fashion Brand Through 2019
+**C-6483** Host Says LLC Records Show Erika Filed a Trademark for Her Fashion Brand Through 2019
 
 Claim Timestamp: 00:32:10
 
@@ -2114,7 +2114,7 @@ Investigative Direction: Pull USPTO and state LLC filings for Proclaim Streetwea
 
 ---
 
-**C-10113** Host Says Erika Was Simultaneously Running a Brand, Studying at Liberty, and Licensed at Corcoran
+**C-6484** Host Says Erika Was Simultaneously Running a Brand, Studying at Liberty, and Licensed at Corcoran
 
 Claim Timestamp: 00:32:33
 
@@ -2130,7 +2130,7 @@ Investigative Direction: Verify Liberty enrollment dates, license dates and Corc
 
 ---
 
-**C-10114** Host Says Wayback Machine Shows Only One Corcoran Listing for Erika
+**C-6485** Host Says Wayback Machine Shows Only One Corcoran Listing for Erika
 
 Claim Timestamp: 00:32:50
 
@@ -2146,7 +2146,7 @@ Investigative Direction: Retrieve the archived Corcoran page and compare it with
 
 ---
 
-**C-10115** Host Says She Did Not Know About the Real Estate Career
+**C-6486** Host Says She Did Not Know About the Real Estate Career
 
 Claim Timestamp: 00:33:00
 
@@ -2162,7 +2162,7 @@ Investigative Direction: Compare the host's early bios of Erika with TPUSA biogr
 
 ---
 
-**C-10116** Host Says Erika Did a Reality Dating Show Despite Telling Bari Weiss She Never Dated in New York
+**C-6487** Host Says Erika Did a Reality Dating Show Despite Telling Bari Weiss She Never Dated in New York
 
 Claim Timestamp: 00:33:10
 
@@ -2178,7 +2178,7 @@ Investigative Direction: Identify the reality show, its air date and cast listin
 
 ---
 
-**C-10117** Host Lists Regis, Loyola Marymount, Arizona State and Liberty Among Erika's Schools
+**C-6488** Host Lists Regis, Loyola Marymount, Arizona State and Liberty Among Erika's Schools
 
 Claim Timestamp: 00:35:48
 
@@ -2194,7 +2194,7 @@ Investigative Direction: Request enrollment verification from each school, with 
 
 ---
 
-**C-10118** Host Says No One Has Contacted Her Saying They Attended School With Erika
+**C-6489** Host Says No One Has Contacted Her Saying They Attended School With Erika
 
 Claim Timestamp: 00:36:05
 
@@ -2210,7 +2210,7 @@ Investigative Direction: Solicit named classmates and roommates and test their a
 
 ---
 
-**C-10119** Host Asks Classmates and Roommates of Erika to Send Tips
+**C-6490** Host Asks Classmates and Roommates of Erika to Send Tips
 
 Claim Timestamp: 00:36:20
 
@@ -2226,7 +2226,7 @@ Investigative Direction: Track the tips received at the tip line and verify each
 
 ---
 
-**C-10120** Host Says Erika Was Living in China While Enrolled in School
+**C-6491** Host Says Erika Was Living in China While Enrolled in School
 
 Claim Timestamp: 00:36:35
 
@@ -2242,7 +2242,7 @@ Investigative Direction: Compare dated China residence evidence with enrollment 
 
 ---
 
-**C-10121** Host Says Aubrey Laitsch Was Fired After Being Questioned About an Uber Ride by Marina Minas
+**C-6492** Host Says Aubrey Laitsch Was Fired After Being Questioned About an Uber Ride by Marina Minas
 
 Claim Timestamp: 00:36:47
 
@@ -2258,7 +2258,7 @@ Investigative Direction: Interview Aubrey Laitsch and obtain separation records 
 
 ---
 
-**C-10122** Host Says Laitsch's Husband or Fiance Was Also Fired From TPUSA
+**C-6493** Host Says Laitsch's Husband or Fiance Was Also Fired From TPUSA
 
 Claim Timestamp: 00:36:47
 
@@ -2274,7 +2274,7 @@ Investigative Direction: Identify the second fired employee and obtain the termi
 
 ---
 
-**C-10123** Host Says the Man Photographing Laitsch's Home Delivered No Documents
+**C-6495** Host Says the Man Photographing Laitsch's Home Delivered No Documents
 
 Claim Timestamp: 00:37:32
 
@@ -2290,7 +2290,7 @@ Investigative Direction: Identify the legal firm named and check whether any law
 
 ---
 
-**C-10124** Host Says It Looks Like TPUSA Sent Private Investigators to Gather Information on Employees
+**C-6496** Host Says It Looks Like TPUSA Sent Private Investigators to Gather Information on Employees
 
 Claim Timestamp: 00:37:32
 
@@ -2306,7 +2306,7 @@ Investigative Direction: Obtain the investigator's license and client from the l
 
 ---
 
-**C-10125** Host Says She Tweeted at Kolvet for a Statement on the Photographing
+**C-6497** Host Says She Tweeted at Kolvet for a Statement on the Photographing
 
 Claim Timestamp: 00:37:55
 
@@ -2321,7 +2321,7 @@ Investigative Direction: Check the host's post and any TPUSA reply.
 
 ---
 
-**C-10126** Host Says Fired TPUSA Employees' GoFundMe Is Coming Down Thursday
+**C-6498** Host Says Fired TPUSA Employees' GoFundMe Is Coming Down Thursday
 
 Claim Timestamp: 00:38:30
 
@@ -2337,7 +2337,7 @@ Investigative Direction: Check the GoFundMe page for its organizer, total and en
 
 ---
 
-**C-10127** Host Says Fired Employees Did Not See the Billions Allegedly Coming In From Pierre
+**C-6499** Host Says Fired Employees Did Not See the Billions Allegedly Coming In From Pierre
 
 Claim Timestamp: 00:38:50
 
@@ -2353,7 +2353,7 @@ Investigative Direction: Identify who 'Pierre' refers to and the alleged donatio
 
 ---
 
-**C-10128** Host Says Employees Were Emotionally Manipulated to Believe Charlie Was in the Office Working
+**C-6500** Host Says Employees Were Emotionally Manipulated to Believe Charlie Was in the Office Working
 
 Claim Timestamp: 00:38:55
 
@@ -2369,7 +2369,7 @@ Investigative Direction: Interview former employees about what they were told ab
 
 ---
 
-**C-10129** Host Says Charlie Stood Up in the End and Said He Was Done With It
+**C-6501** Host Says Charlie Stood Up in the End and Said He Was Done With It
 
 Claim Timestamp: 00:41:29
 
@@ -2380,13 +2380,13 @@ Transcript Snippet: he stood up and he said, "No, no more. I am done with this. 
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10148
-Supports: C-1376
+Supports: C-1350
 Tags: relevance:core
 Investigative Direction: Use the night-before messages to test the host's characterization.
 
 ---
 
-**C-10130** Host Says Prejean Boller Asked What Anti-Semitism Is and What Seth Did at the Hamptons
+**C-6502** Host Says Prejean Boller Asked What Anti-Semitism Is and What Seth Did at the Hamptons
 
 Claim Timestamp: 00:43:03
 
@@ -2402,7 +2402,7 @@ Investigative Direction: Watch the hearing and verify what Prejean Boller said a
 
 ---
 
-**C-10131** Host Says Whispers Say Prejean Boller Will Be Removed From the Religious Committee
+**C-6503** Host Says Whispers Say Prejean Boller Will Be Removed From the Religious Committee
 
 Claim Timestamp: 00:43:30
 
@@ -2418,7 +2418,7 @@ Investigative Direction: Check the commission's membership announcements and Loo
 
 ---
 
-**C-10132** Host Quotes Prejean Boller Saying Catholic Doctrine Is Not Worshipping Netanyahu
+**C-6504** Host Quotes Prejean Boller Saying Catholic Doctrine Is Not Worshipping Netanyahu
 
 Claim Timestamp: 00:43:56
 
@@ -2433,7 +2433,7 @@ Investigative Direction: Retrieve Prejean Boller's own remarks to confirm the wo
 
 ---
 
-**C-10133** Host Says She Posted a Video of Gaza on X
+**C-6505** Host Says She Posted a Video of Gaza on X
 
 Claim Timestamp: 00:44:20
 
@@ -2449,7 +2449,7 @@ Investigative Direction: Locate the host's post and verify the source and date o
 
 ---
 
-**C-10134** Host Says Netanyahu Is Making His Seventh Trip to the US This Week
+**C-6506** Host Says Netanyahu Is Making His Seventh Trip to the US This Week
 
 Claim Timestamp: 00:45:55
 
@@ -2464,7 +2464,7 @@ Investigative Direction: Check Netanyahu's travel schedule for the week of Febru
 
 ---
 
-**C-10135** Host Says the Military Has Been Hijacked by Israel Since Probably 1963
+**C-6507** Host Says the Military Has Been Hijacked by Israel Since Probably 1963
 
 Claim Timestamp: 00:46:00
 
@@ -2480,7 +2480,7 @@ Investigative Direction: This is a sweeping assertion; any documentary basis wou
 
 ---
 
-**C-10136** Host Offers to Retire From Podcasting if the Government Tells the Truth About Charlie
+**C-6508** Host Offers to Retire From Podcasting if the Government Tells the Truth About Charlie
 
 Claim Timestamp: 00:47:09
 
@@ -2495,7 +2495,7 @@ Investigative Direction: The offer is a conditional commitment; track whether an
 
 ---
 
-**C-10137** Host Says Alex Clark Told Them Charlie Just Liked Catholic Architecture
+**C-6509** Host Says Alex Clark Told Them Charlie Just Liked Catholic Architecture
 
 Claim Timestamp: 00:48:31
 

@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10): N-717, N-11027, N-11028, N-11029, N-11030, N-11031, N-11032, N-11033
   - Hole-minted Nodes (reintro-ep057): N-521, N-532
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10): C-5420–C-5484
+  - Claim Range: C-5066–C-5141
   - New Nodes Introduced: N-454, N-455, N-456, N-457, N-458, N-10414, N-10415
   - Reused Nodes Appearing: N-5, N-22, N-30, N-82, N-201, N-10000, N-10063, N-10270, N-10385, N-10388, N-10404, N-10416, N-10422, N-11034, N-10424, N-10454, N-10413
   - (see registers)
@@ -205,7 +205,7 @@ Video Timestamp: 00:08:22–00:09:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2097, C-2098, C-2099, N-10413, N-454*
+*Related: C-5083, C-5088, C-5087, N-10413, N-454*
 
 **A-1628.2** Be Inspired clip – Project Looking Glass segment with Bill Wood testimony
 
@@ -215,7 +215,7 @@ Video Timestamp: 00:13:05–00:15:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2097, C-2098, N-10413, N-454*
+*Related: C-5083, C-5088, N-10413, N-454*
 
 **A-1628.3** Be Inspired clip – The Matrix / 2012 convergence / CIA document segment
 
@@ -225,7 +225,7 @@ Video Timestamp: 00:17:07–00:18:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2098, C-2099, N-10413*
+*Related: C-5088, C-5087, N-10413*
 
 **A-1629** CERN Ritual Article Bundle
 
@@ -237,7 +237,7 @@ Video Timestamp: 00:36:29–00:37:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2100, C-2101, N-10414*
+*Related: C-5107, C-5108, N-10414*
 
 **A-1630** CERN Ritual Video Bundle
 
@@ -249,7 +249,7 @@ Video Timestamp: 00:38:17–00:39:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2100, C-2101, N-10414*
+*Related: C-5107, C-5108, N-10414*
 
 **A-1631** Daily Wire Egyptian Airways Parody Video Bundle
 
@@ -261,7 +261,7 @@ Video Timestamp: 00:40:52–00:42:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (video explicitly displayed)
 
-*Related: C-2102, N-10416, N-3*
+*Related: C-5114, N-10416, N-3*
 
 **A-1632** Pompeo Gaza History Book Clip Bundle
 
@@ -273,7 +273,7 @@ Video Timestamp: 00:43:34–00:44:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip explicitly played)
 
-*Related: C-2103, N-455*
+*Related: C-5118, N-455*
 
 **A-1633** Charlie Kirk Text Message Reference Bundle
 
@@ -284,7 +284,7 @@ Source Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (in prior episode); Medium (this episode reference only)
 
-*Related: C-2104, N-1*
+*Related: C-5068, N-1*
 
 *Optional Flag: Artifact verbally referenced but not shown in this episode; shown in a prior episode.*
 
@@ -308,7 +308,7 @@ Video Timestamp: 00:47:28–00:48:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (personal testimony)
 
-*Related: C-2106, N-457*
+*Related: C-5123, N-457*
 
 **A-1634.2** Read-aloud comment from "Marzy" (today's episode): claim that ICE agents receive training and recruitment from Israel/IDF
 
@@ -318,7 +318,7 @@ Video Timestamp: 00:51:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (unattributed)
 
-*Related: C-2107, N-458*
+*Related: C-5130, N-458*
 
 **A-1634.3** Read-aloud comment from "Anderson" (today's episode): personal testimony about sleep paralysis ("hatman shadow man"), being in a "gate" program as a child, and being given the "pink drink" (fluoride)
 
@@ -341,7 +341,7 @@ Video Timestamp: 00:49:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5469, C-5470, N-3*
+*Related: C-5125, C-5126, N-3*
 
 ---
 
@@ -352,7 +352,7 @@ Video Timestamp: 00:49:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5471, C-5472, C-5473, N-3*
+*Related: C-5127, C-5128, C-5129, N-3*
 
 ---
 
@@ -363,7 +363,7 @@ Video Timestamp: 00:50:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5474, N-3*
+*Related: C-5131, N-3*
 
 ---
 
@@ -374,7 +374,7 @@ Video Timestamp: 00:53:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5481, C-5482, N-3*
+*Related: C-5138, C-5139, N-3*
 
 ---
 
@@ -387,7 +387,7 @@ Video Timestamp: 00:42:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5462, C-5463, N-3*
+*Related: C-5116, C-5117, N-3*
 
 ---
 
@@ -403,7 +403,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1628.2, C-2097, N-10413*
+*Related: A-1628.2, C-5083, N-10413*
 
 **N-455** Mike Pompeo
 
@@ -414,7 +414,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1632.1, C-2103*
+*Related: A-1632.1, C-5118*
 
 **N-456** Bill Montgomery
 
@@ -438,7 +438,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1634.1, C-2106*
+*Related: A-1634.1, C-5123*
 
 **N-458** Marzy
 
@@ -449,7 +449,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1634.2, C-2107*
+*Related: A-1634.2, C-5130*
 
 **N-67** Mark Herman (director, Candace show)
 
@@ -471,7 +471,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1628.1, A-1628.2, A-1628.3, C-2097, C-2098, C-2099, N-454*
+*Related: A-1628.1, A-1628.2, A-1628.3, C-5083, C-5088, C-5087, N-454*
 
 **N-10414** CERN Satantic Ritual Claim
 
@@ -482,7 +482,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1629.1, A-1630.1, C-2100, C-2101*
+*Related: A-1629.1, A-1630.1, C-5107, C-5108*
 
 **N-10415** Charlie Kirk Premonition Pattern
 
@@ -493,7 +493,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1633.1, A-1633.2, C-2104, C-2105, N-1*
+*Related: A-1633.1, A-1633.2, C-5068, C-5092, N-1*
 
 **N-10416** Daily Wire Stalking Pattern
 
@@ -504,7 +504,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low (single video artifact; pattern claim is broader)
 
-*Related: A-1631.1, C-2102, N-3*
+*Related: A-1631.1, C-5114, N-3*
 
 ---
 
@@ -512,175 +512,175 @@ Investigative Pressure: Low (single video artifact; pattern claim is broader)
 
 Subject of the host's account of premonitions, security, gifted schooling and dreams.
 
-*Related: C-5420, C-5422, C-5423, C-5424, C-5425, C-5426, C-5427, C-5428, C-5429, C-5435, C-5436, C-5437, C-5438, C-5439, C-5440, C-5441, C-5442, C-5443, C-5444, C-5448, C-5449, C-5450, C-5456, C-5457, C-5458, C-5459, C-5460, C-5461, C-5464, C-5465, C-5466, C-5469, C-5470, C-5478, C-5479, C-5480, C-5481, C-5482, C-5483, C-5484*
+*Related: C-5066, C-5069, C-5070, C-5071, C-5072, C-5073, C-5074, C-5075, C-5076, C-5082, C-5084, C-5085, C-5086, C-5089, C-5090, C-5091, C-5093, C-5094, C-5095, C-5099, C-5100, C-5101, C-5110, C-5109, C-5111, C-5112, C-5113, C-5115, C-5119, C-5120, C-5121, C-5125, C-5126, C-5135, C-5136, C-5137, C-5138, C-5139, C-5140, C-5141*
 
 **N-3** Candace Owens
 
 Host; speaks for herself throughout.
 
-*Related: C-5421, C-5422, C-5425, C-5427, C-5428, C-5429, C-5434, C-5435, C-5437, C-5438, C-5441, C-5442, C-5444, C-5446, C-5447, C-5448, C-5449, C-5450, C-5451, C-5456, C-5457, C-5458, C-5459, C-5460, C-5461, C-5462, C-5463, C-5464, C-5467, C-5468, C-5469, C-5470, C-5471, C-5472, C-5473, C-5474, C-5475, C-5476, C-5477, C-5478, C-5479, C-5480, C-5482, C-5483, C-5484*
+*Related: C-5067, C-5069, C-5072, C-5074, C-5075, C-5076, C-5081, C-5082, C-5085, C-5086, C-5091, C-5093, C-5095, C-5097, C-5098, C-5099, C-5100, C-5101, C-5102, C-5110, C-5109, C-5111, C-5112, C-5113, C-5115, C-5116, C-5117, C-5119, C-5122, C-5124, C-5125, C-5126, C-5127, C-5128, C-5129, C-5131, C-5132, C-5133, C-5134, C-5135, C-5136, C-5137, C-5139, C-5140, C-5141*
 
 **N-5** Donald Trump
 
 Named by the host when she says she cannot support his actions and that he is controlled.
 
-*Related: C-5445, C-5462, C-5463, C-5475, C-5477*
+*Related: C-5096, C-5116, C-5117, C-5132, C-5134*
 
 **N-22** Tucker Carlson
 
 Named by the host as having exposed the Pompeo and Assange story.
 
-*Related: C-5462*
+*Related: C-5116*
 
 **N-30** George (Candace's husband)
 
 The host's husband, named when she tells how they met and got engaged.
 
-*Related: C-5428*
+*Related: C-5075*
 
 **N-82** Brigitte Macron
 
 Subject of the lawsuit the host calls a mistake that spread the story.
 
-*Related: C-5444*
+*Related: C-5095*
 
 **N-201** Nick Fuentes
 
 Subject of a commenter's report and the host's statement that he is a federal informant.
 
-*Related: C-5481, C-5482, C-5483*
+*Related: C-5138, C-5139, C-5140*
 
 **N-521** Peter Thiel
 
 Named by the host (as 'Peter Thiel') as giving interviews about the Antichrist.
 
-*Related: C-5445*
+*Related: C-5096*
 
 **N-532** Julian Assange
 
 Named in the Pompeo and CIA discussion.
 
-*Related: C-5462, C-5463*
+*Related: C-5116, C-5117*
 
 **N-10000** Turning Point USA
 
 Organization Charlie founded and in which the host says he knew he would die.
 
-*Related: C-5422, C-5423, C-5424, C-5443*
+*Related: C-5069, C-5070, C-5071, C-5094*
 
 **N-10063** Gaza
 
 Place at issue in the Pompeo clip.
 
-*Related: C-5464, C-5465, C-5466*
+*Related: C-5119, C-5120, C-5121*
 
 **N-10270** Macron Defamation Lawsuit Delaware Venue Question
 
 Topic for the Macron lawsuit the host calls a mistake.
 
-*Related: C-5444*
+*Related: C-5095*
 
 **N-10385** Daily Wire Show Targeting Candace Owens / Tucker Carlson
 
 Topic for the host's complaints about the Daily Wire.
 
-*Related: C-5448, C-5461*
+*Related: C-5099, C-5115*
 
 **N-10388** Missing Money from Turning Point Action
 
 Topic cited where the host describes Charlie telling them to take the money out of the organization.
 
-*Related: C-5443*
+*Related: C-5094*
 
 **N-10404** Candace Owens Dream Vision of Andrew Kolvet
 
 Topic for the host's dream that Charlie was betrayed.
 
-*Related: C-5484*
+*Related: C-5141*
 
 **N-10422** GATE / Gifted Education Program Investigation
 
 Topic for gifted-program claims about Charlie and commenters.
 
-*Related: C-5426, C-5478, C-5479, C-5480*
+*Related: C-5073, C-5135, C-5136, C-5137*
 
 **N-10424** Nick Fuentes Federal Informant Allegation
 
 Topic for the claim that Fuentes is a federal informant.
 
-*Related: C-5481, C-5482, C-5483*
+*Related: C-5138, C-5139, C-5140*
 
 **N-10454** Gaza Death Toll and Documentation Claims
 
 Topic for the host's claim that Palestinian deaths would be written out of textbooks.
 
-*Related: C-5464*
+*Related: C-5119*
 
 **N-717** Cathy O'Brien
 
 First named by the host at 00:51:51 in episode 57, reading a comment recommending her and her book Transformation of America.
 
-*Related: C-5474, A-2756.3*
+*Related: C-5131, A-2756.3*
 
 **N-11027** Be Inspired (YouTube Channel)
 
 Node Type: Organization
 YouTube channel whose clips on Y2K, the Mandela effect and Project Looking Glass the host plays and links in the comments.
 
-*Related: C-5429, C-5430, C-5431, C-5432, C-5433, C-5439, C-5440*
+*Related: C-5076, C-5077, C-5078, C-5079, C-5080, C-5089, C-5090*
 
 **N-11028** Project Camelot
 
 Node Type: Organization
 Interview project that the Be Inspired clip says interviewed Bill Wood and other Looking Glass whistleblowers.
 
-*Related: C-5436*
+*Related: C-5084*
 
 **N-11029** CERN
 
 Node Type: Organization
 European Organization for Nuclear Research in Geneva, home of the Large Hadron Collider; source of the ritual footage and of Mark's history of the Higgs search.
 
-*Related: C-5452, C-5453, C-5454, C-5455, C-5456, C-5457, C-5458, C-5459*
+*Related: C-5103, C-5104, C-5105, C-5106, C-5110, C-5109, C-5111, C-5112*
 
 **N-11030** Mandela Effect Claims
 
 Node Type: Topic
 The host's and the Be Inspired clip's examples of collective false memory presented as evidence of timeline changes (Fruit of the Loom cornucopia, Berenstain Bears, Pikachu's tail).
 
-*Related: C-5421, C-5431, C-5432, C-5433, C-5434*
+*Related: C-5067, C-5078, C-5079, C-5080, C-5081*
 
 **N-11031** Host Platform Suppression and Travel Ban Claims
 
 Node Type: Topic
 The host's claims that she was demonetized and throttled on YouTube, banned from countries and had event hosts threatened.
 
-*Related: C-5471, C-5472, C-5473*
+*Related: C-5127, C-5128, C-5129*
 
 **N-11032** Pompeo Assange Murder Option Claim
 
 Node Type: Topic
 The claim, attributed by the host to Tucker Carlson, that Mike Pompeo at the CIA tried to have Julian Assange murdered, and the on-air fact check.
 
-*Related: C-5462, C-5463*
+*Related: C-5116, C-5117*
 
 **N-11033** Project Monarch
 
 Node Type: Topic
 Alleged program that the host calls the precursor to what the Nazis did in the United States, about traumatizing children.
 
-*Related: C-5474*
+*Related: C-5131*
 
 **N-11034** Charlie Kirk Early Security Arrangement
 
 Node Type: Topic
 The host's account that Charlie Kirk had required, orchestrated security (Shaffer security, arranged by Bill Montgomery) from about 2017.
 
-*Related: C-5423, C-5424, C-5425*
+*Related: C-5070, C-5071, C-5072*
 
 ## 5. Claim Register
 
-**C-2097** Project Looking Glass described as future-timeline viewing device shut down at 2012 convergence
+**C-5083** Project Looking Glass described as future-timeline viewing device shut down at 2012 convergence
 
 Claim Timestamp: 00:13:05
 
@@ -695,7 +695,7 @@ Investigative Direction: Locate the original Project Camelot interview with Bill
 
 ---
 
-**C-2098** CIA document explores consciousness moving through time
+**C-5088** CIA document explores consciousness moving through time
 
 Claim Timestamp: 00:18:12
 
@@ -709,7 +709,7 @@ Investigative Direction: Locate the referenced CIA document in the CIA FOIA read
 
 ---
 
-**C-2099** Host concurs that The Matrix parallels Project Looking Glass / simulated-reality themes
+**C-5087** Host concurs that The Matrix parallels Project Looking Glass / simulated-reality themes
 
 Claim Timestamp: 00:17:07
 
@@ -723,7 +723,7 @@ Investigative Direction: Compare The Matrix's documented production context (Wac
 
 ---
 
-**C-2100** Article describes satanic human sacrifice staged at CERN Large Hadron Collider grounds
+**C-5107** Article describes satanic human sacrifice staged at CERN Large Hadron Collider grounds
 
 Claim Timestamp: 00:36:29
 
@@ -738,7 +738,7 @@ Investigative Direction: Identify the YouTuber who originally published the vide
 
 ---
 
-**C-2101** CERN spokesperson characterized the ritual as a "prank"
+**C-5108** CERN spokesperson characterized the ritual as a "prank"
 
 Claim Timestamp: 00:37:29
 
@@ -753,7 +753,7 @@ Investigative Direction: Locate CERN's official statement on the incident; ident
 
 ---
 
-**C-2102** Daily Wire video uses "watched"/"followed"/"we will follow" language with Candace's face
+**C-5114** Daily Wire video uses "watched"/"followed"/"we will follow" language with Candace's face
 
 Claim Timestamp: 00:40:52
 
@@ -768,7 +768,7 @@ Investigative Direction: Locate the Daily Wire video directly on its original pu
 
 ---
 
-**C-2103** Pompeo advocates history-book framing that excludes Gaza victim focus
+**C-5118** Pompeo advocates history-book framing that excludes Gaza victim focus
 
 Claim Timestamp: 00:43:34
 
@@ -782,7 +782,7 @@ Investigative Direction: Identify the original Pompeo interview (publication, ho
 
 ---
 
-**C-2104** Host Says Charlie Kirk Told Her by Text That He Was a Time Traveler
+**C-5068** Host Says Charlie Kirk Told Her by Text That He Was a Time Traveler
 
 Claim Timestamp: 00:02:53
 
@@ -797,7 +797,7 @@ Investigative Direction: Locate the specific text messages in the earlier episod
 
 ---
 
-**C-2105** Charlie Kirk asserted his death would relate to Turning Point USA
+**C-5092** Charlie Kirk asserted his death would relate to Turning Point USA
 
 Claim Timestamp: 00:20:15
 
@@ -812,7 +812,7 @@ Investigative Direction: Locate the specific text messages in which Charlie make
 
 ---
 
-**C-2106** Carly's father was an MP investigating pentagrams on a military base in 1982
+**C-5123** Carly's father was an MP investigating pentagrams on a military base in 1982
 
 Claim Timestamp: 00:47:28
 
@@ -826,7 +826,7 @@ Investigative Direction: Identify the military base, the "Lieutenant Aquino" ref
 
 ---
 
-**C-2107** ICE agents receive training and recruitment from Israel / IDF
+**C-5130** ICE agents receive training and recruitment from Israel / IDF
 
 Claim Timestamp: 00:51:51
 
@@ -840,7 +840,7 @@ Investigative Direction: Verify any documented ICE–Israeli-government training
 
 ---
 
-**C-5420** Host says Charlie knew he would die young and so did the agents around him
+**C-5066** Host says Charlie knew he would die young and so did the agents around him
 
 Claim Timestamp: 00:00:00
 
@@ -851,12 +851,12 @@ Transcript Snippet: I don't think I will ever get over the fact that Charlie Kir
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10415
-Supports: C-2023
+Supports: C-4702
 Investigative Direction: Locate the Charlie Kirk text messages the host has shown in earlier episodes in which he describes dying young; identify who the host means by 'the agents' and what evidence she has that they knew.
 
 ---
 
-**C-5421** Host asserts Fruit of the Loom logo had a cornucopia
+**C-5067** Host asserts Fruit of the Loom logo had a cornucopia
 
 Claim Timestamp: 00:00:00
 
@@ -871,7 +871,7 @@ Investigative Direction: Compare dated Fruit of the Loom logos and packaging fro
 
 ---
 
-**C-5422** Charlie Kirk and host met in 2017 or early 2018
+**C-5069** Charlie Kirk and host met in 2017 or early 2018
 
 Claim Timestamp: 00:02:53
 
@@ -886,7 +886,7 @@ Investigative Direction: Check the host's earliest dated communications and join
 
 ---
 
-**C-5423** Charlie required security at all times and it was orchestrated by Bill Montgomery
+**C-5070** Charlie required security at all times and it was orchestrated by Bill Montgomery
 
 Claim Timestamp: 00:02:53
 
@@ -901,7 +901,7 @@ Investigative Direction: Identify who Bill Montgomery was and when he died; obta
 
 ---
 
-**C-5424** Bill Montgomery from the military allegedly co-founded Turning Point USA with Charlie
+**C-5071** Bill Montgomery from the military allegedly co-founded Turning Point USA with Charlie
 
 Claim Timestamp: 00:02:53
 
@@ -916,7 +916,7 @@ Investigative Direction: Check Turning Point USA founding documents, early IRS f
 
 ---
 
-**C-5425** Charlie texted that he was not allowed to go anywhere and felt important
+**C-5072** Charlie texted that he was not allowed to go anywhere and felt important
 
 Claim Timestamp: 00:02:53
 
@@ -931,7 +931,7 @@ Investigative Direction: Retrieve the exact text from the host's message archive
 
 ---
 
-**C-5426** Host Says Charlie's Mother Refused to Let Them Drug Him and He Was Sent to a Gifted School
+**C-5073** Host Says Charlie's Mother Refused to Let Them Drug Him and He Was Sent to a Gifted School
 
 Claim Timestamp: 00:04:18
 
@@ -946,7 +946,7 @@ Investigative Direction: Identify which gifted school Charlie Kirk attended (the
 
 ---
 
-**C-5427** Host says street lights went out when Charlie ran after sundown
+**C-5074** Host says street lights went out when Charlie ran after sundown
 
 Claim Timestamp: 00:05:08
 
@@ -961,7 +961,7 @@ Investigative Direction: Ask people who ran with or lived near Charlie Kirk for 
 
 ---
 
-**C-5428** Host says she got engaged 18 days after meeting her husband and Charlie was there
+**C-5075** Host says she got engaged 18 days after meeting her husband and Charlie was there
 
 Claim Timestamp: 00:05:48
 
@@ -975,7 +975,7 @@ Investigative Direction: Compare with the host's earlier public accounts of meet
 
 ---
 
-**C-5429** Host calls Project Looking Glass a CIA program revealed by whistleblowers
+**C-5076** Host calls Project Looking Glass a CIA program revealed by whistleblowers
 
 Claim Timestamp: 00:06:54
 
@@ -986,12 +986,12 @@ Transcript Snippet: another shady government CIA program uh which came to be kno
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10413, N-11027
-Supports: C-2097
+Supports: C-5083
 Investigative Direction: Find declassified CIA or Department of Defense records referring to a program named Looking Glass; identify named whistleblowers beyond Bill Wood and confirm they described the same device.
 
 ---
 
-**C-5430** Clip says governments and corporations spent over 300 billion dollars on Y2K fixes
+**C-5077** Clip says governments and corporations spent over 300 billion dollars on Y2K fixes
 
 Claim Timestamp: 00:08:22
 
@@ -1005,7 +1005,7 @@ Investigative Direction: Check contemporaneous estimates of global Y2K remediati
 
 ---
 
-**C-5431** Clip says millions remember Berenstain Bears spelled with an E
+**C-5078** Clip says millions remember Berenstain Bears spelled with an E
 
 Claim Timestamp: 00:09:13
 
@@ -1020,7 +1020,7 @@ Investigative Direction: Check the publisher's spelling history for the series a
 
 ---
 
-**C-5432** Clip says the Mandela effect is named after people who remembered Mandela dying in prison
+**C-5079** Clip says the Mandela effect is named after people who remembered Mandela dying in prison
 
 Claim Timestamp: 00:09:57
 
@@ -1035,7 +1035,7 @@ Investigative Direction: Trace the origin of the term 'Mandela effect' to Fiona 
 
 ---
 
-**C-5433** Clip guest says raising consciousness changes the world so old things no longer exist
+**C-5080** Clip guest says raising consciousness changes the world so old things no longer exist
 
 Claim Timestamp: 00:09:57
 
@@ -1049,7 +1049,7 @@ Investigative Direction: Identify the speaker and the original interview; the cl
 
 ---
 
-**C-5434** Host says Pikachu had black at the end of his tail
+**C-5081** Host says Pikachu had black at the end of his tail
 
 Claim Timestamp: 00:11:03
 
@@ -1065,7 +1065,7 @@ Investigative Direction: Compare Pokemon official artwork across 1996-present fo
 
 ---
 
-**C-5435** Host says the deep state stole Looking Glass technology from ancient Sumer
+**C-5082** Host says the deep state stole Looking Glass technology from ancient Sumer
 
 Claim Timestamp: 00:11:03
 
@@ -1081,7 +1081,7 @@ Investigative Direction: Ask the host for her source; no archaeological or decla
 
 ---
 
-**C-5436** Clip says Looking Glass timelines converge between 2012 and 2016, citing Project Camelot
+**C-5084** Clip says Looking Glass timelines converge between 2012 and 2016, citing Project Camelot
 
 Claim Timestamp: 00:14:06
 
@@ -1092,13 +1092,13 @@ Transcript Snippet: every time they ran the device, no matter what variables the
 Anchored Artifacts: A-1628.2
 Mentions: N-454
 Related Nodes: N-10413, N-11028
-Supports: C-2097
+Supports: C-5083
 Tags: relevance:tangential
 Investigative Direction: List the Project Camelot interviews on Looking Glass and check whether each named witness gave the 2012-2016 range or only December 21, 2012.
 
 ---
 
-**C-5437** Host says the Mayan calendar backs up the 2012 limit
+**C-5085** Host says the Mayan calendar backs up the 2012 limit
 
 Claim Timestamp: 00:15:23
 
@@ -1113,7 +1113,7 @@ Investigative Direction: Compare the host's reading of the Maya Long Count end d
 
 ---
 
-**C-5438** Host says operators' conscious thoughts impacted the Looking Glass device
+**C-5086** Host says operators' conscious thoughts impacted the Looking Glass device
 
 Claim Timestamp: 00:16:14
 
@@ -1124,12 +1124,12 @@ Transcript Snippet: the people who were in the room while this device was being 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10413
-Supports: C-2097
+Supports: C-5083
 Investigative Direction: Identify which whistleblower account, if any, states that operators' thoughts affected outputs and whether the Be Inspired clip includes it.
 
 ---
 
-**C-5439** Clip says people report repeating numbers like 1111 as signals
+**C-5089** Clip says people report repeating numbers like 1111 as signals
 
 Claim Timestamp: 00:18:12
 
@@ -1143,7 +1143,7 @@ Investigative Direction: No documentary test exists for the numbers claim; confi
 
 ---
 
-**C-5440** Clip says whistleblowers claimed a confidential 2012 briefing acknowledged a convergence
+**C-5090** Clip says whistleblowers claimed a confidential 2012 briefing acknowledged a convergence
 
 Claim Timestamp: 00:18:12
 
@@ -1153,12 +1153,12 @@ Transcript Snippet: Some whistleblowers claimed that a confidential briefing too
 
 Anchored Artifacts: A-1628.3
 Related Nodes: N-10413, N-11027
-Supports: C-2098
+Supports: C-5088
 Investigative Direction: Identify which whistleblowers described the briefing, its date and attendees, and whether any document or recording exists.
 
 ---
 
-**C-5441** Host says the script for The Matrix was allegedly stolen
+**C-5091** Host says the script for The Matrix was allegedly stolen
 
 Claim Timestamp: 00:19:49
 
@@ -1169,12 +1169,12 @@ Transcript Snippet: you should look into how even the script for The Matrix was 
 Anchored Artifacts: A-1628.3
 Mentions: N-3
 Related Nodes: N-10413
-Supports: C-2099
+Supports: C-5087
 Investigative Direction: Ask the host which script-theft claim she means; check public litigation or credit disputes over The Matrix screenplay.
 
 ---
 
-**C-5442** Host says she was handled and believes Charlie was managed
+**C-5093** Host says she was handled and believes Charlie was managed
 
 Claim Timestamp: 00:21:23
 
@@ -1189,7 +1189,7 @@ Investigative Direction: Ask the host which earlier episodes describe her being 
 
 ---
 
-**C-5443** Host says Charlie pushed back, told them to take the money, and they panicked and killed him
+**C-5094** Host says Charlie pushed back, told them to take the money, and they panicked and killed him
 
 Claim Timestamp: 00:22:34
 
@@ -1204,7 +1204,7 @@ Investigative Direction: Identify who 'they' are and who the host says heard Cha
 
 ---
 
-**C-5444** Host says the Macron lawsuit was a mistake that spread the story
+**C-5095** Host says the Macron lawsuit was a mistake that spread the story
 
 Claim Timestamp: 00:23:30
 
@@ -1219,7 +1219,7 @@ Investigative Direction: Compare public interest and coverage of the Macron stor
 
 ---
 
-**C-5445** Host says Peter Thiel gives interviews about the Antichrist
+**C-5096** Host says Peter Thiel gives interviews about the Antichrist
 
 Claim Timestamp: 00:25:12
 
@@ -1233,7 +1233,7 @@ Investigative Direction: Locate Peter Thiel's recorded lectures and interviews o
 
 ---
 
-**C-5446** Host says a report with doctors was produced to argue Christ is King is wrong
+**C-5097** Host says a report with doctors was produced to argue Christ is King is wrong
 
 Claim Timestamp: 00:26:53
 
@@ -1247,7 +1247,7 @@ Investigative Direction: Identify the report the host means, its authors, sponso
 
 ---
 
-**C-5447** Host says Hollywood and removing the Bible from classrooms were designed to promote neopaganism
+**C-5098** Host says Hollywood and removing the Bible from classrooms were designed to promote neopaganism
 
 Claim Timestamp: 00:26:53
 
@@ -1261,7 +1261,7 @@ Investigative Direction: The claim attributes intent to unnamed actors; ask the 
 
 ---
 
-**C-5448** Host says she lost a job in part for saying pornography is a spiritual weapon against men
+**C-5099** Host says she lost a job in part for saying pornography is a spiritual weapon against men
 
 Claim Timestamp: 00:27:40
 
@@ -1276,7 +1276,7 @@ Investigative Direction: Check the Daily Wire's stated reasons for her departure
 
 ---
 
-**C-5449** Host says various whistleblowers report that thoughts can impact future events
+**C-5100** Host says various whistleblowers report that thoughts can impact future events
 
 Claim Timestamp: 00:28:28
 
@@ -1287,12 +1287,12 @@ Transcript Snippet: if it is true, as it's been reported by various whistleblowe
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10413
-Supports: C-2097
+Supports: C-5083
 Investigative Direction: Identify those 'various whistleblowers' beyond the Be Inspired clip and check whether any made the claim on record.
 
 ---
 
-**C-5450** Host says the moon landing involved rituals
+**C-5101** Host says the moon landing involved rituals
 
 Claim Timestamp: 00:31:56
 
@@ -1308,7 +1308,7 @@ Investigative Direction: Ask the host which moon landing footage and which ritua
 
 ---
 
-**C-5451** Host says a Spectator UK article described COVID as mirroring a religion
+**C-5102** Host says a Spectator UK article described COVID as mirroring a religion
 
 Claim Timestamp: 00:31:56
 
@@ -1322,7 +1322,7 @@ Investigative Direction: Find the Spectator UK article the host refers to and ch
 
 ---
 
-**C-5452** Mark says CERN was established in 1954 to research particle physics
+**C-5103** Mark says CERN was established in 1954 to research particle physics
 
 Claim Timestamp: 00:32:57
 
@@ -1338,7 +1338,7 @@ Investigative Direction: Check CERN's founding date (convention ratified in 1954
 
 ---
 
-**C-5453** Mark says the Higgs boson was theorized in 1964
+**C-5104** Mark says the Higgs boson was theorized in 1964
 
 Claim Timestamp: 00:32:57
 
@@ -1353,7 +1353,7 @@ Investigative Direction: Check the 1964 papers of Higgs, Englert-Brout and Gural
 
 ---
 
-**C-5454** Mark describes the LHC as a 17-mile tunnel up to 600 feet underground in Geneva
+**C-5105** Mark describes the LHC as a 17-mile tunnel up to 600 feet underground in Geneva
 
 Claim Timestamp: 00:32:57
 
@@ -1369,7 +1369,7 @@ Investigative Direction: Check LHC specifications on the CERN website: circumfer
 
 ---
 
-**C-5455** Mark says in 2012 CERN observed a reaction consistent with the Higgs boson called the God particle
+**C-5106** Mark says in 2012 CERN observed a reaction consistent with the Higgs boson called the God particle
 
 Claim Timestamp: 00:34:09
 
@@ -1385,7 +1385,7 @@ Investigative Direction: Check CERN's 4 July 2012 announcement of a Higgs-like b
 
 ---
 
-**C-5456** Host says the CERN ceremony took place under a Hindu deity statue
+**C-5110** Host says the CERN ceremony took place under a Hindu deity statue
 
 Claim Timestamp: 00:38:17
 
@@ -1401,7 +1401,7 @@ Investigative Direction: Identify the statue (CERN has a Shiva Nataraja statue g
 
 ---
 
-**C-5457** Host says a CERN PR person said staging a satanic ritual took their sense of humor too far
+**C-5109** Host says a CERN PR person said staging a satanic ritual took their sense of humor too far
 
 Claim Timestamp: 00:37:29
 
@@ -1412,13 +1412,13 @@ Transcript Snippet: someone at the facility gave a statement and said they were 
 Anchored Artifacts: A-1629.1
 Mentions: N-3
 Related Nodes: N-10414, N-11029
-Supports: C-2101
+Supports: C-5108
 Tags: relevance:tangential
 Investigative Direction: Locate the actual CERN statement and the outlet that quoted it; confirm the wording and the speaker.
 
 ---
 
-**C-5458** Host says an insider recorded the ritual and gave it to a YouTuber who published it
+**C-5111** Host says an insider recorded the ritual and gave it to a YouTuber who published it
 
 Claim Timestamp: 00:38:17
 
@@ -1429,13 +1429,13 @@ Transcript Snippet: Somebody who worked there recorded it, got it to a YouTuber 
 Anchored Artifacts: A-1630.1
 Mentions: N-3
 Related Nodes: N-10414, N-11029
-Supports: C-2100
+Supports: C-5107
 Tags: relevance:tangential
 Investigative Direction: Identify the YouTuber and the original upload date; check whether the recorder has been identified publicly.
 
 ---
 
-**C-5459** Host says the CERN spokesperson confirmed the ceremony was real and unauthorized to record
+**C-5112** Host says the CERN spokesperson confirmed the ceremony was real and unauthorized to record
 
 Claim Timestamp: 00:38:17
 
@@ -1446,13 +1446,13 @@ Transcript Snippet: the spokesperson confirmed it's real and this person had no 
 Anchored Artifacts: A-1630.1
 Mentions: N-3
 Related Nodes: N-10414, N-11029
-Supports: C-2101
+Supports: C-5108
 Tags: relevance:tangential
 Investigative Direction: Locate the spokesperson statement and compare with the host's paraphrase.
 
 ---
 
-**C-5460** Host says audio of the CERN footage includes a man swearing, which she takes as not a prank
+**C-5113** Host says audio of the CERN footage includes a man swearing, which she takes as not a prank
 
 Claim Timestamp: 00:39:04
 
@@ -1468,7 +1468,7 @@ Investigative Direction: Review the original video audio and note the exact word
 
 ---
 
-**C-5461** Host says Daily Wire gangstalking has gone on for two years behind the scenes
+**C-5115** Host says Daily Wire gangstalking has gone on for two years behind the scenes
 
 Claim Timestamp: 00:40:52
 
@@ -1483,7 +1483,7 @@ Investigative Direction: Ask the host for dated examples of the earlier behind-t
 
 ---
 
-**C-5462** Host says Tucker Carlson exposed Pompeo trying to have Assange murdered
+**C-5116** Host says Tucker Carlson exposed Pompeo trying to have Assange murdered
 
 Claim Timestamp: 00:42:37
 
@@ -1498,7 +1498,7 @@ Investigative Direction: Locate Tucker Carlson's broadcast on the CIA and Assang
 
 ---
 
-**C-5463** Host says her producers confirmed Pompeo discussed options to take out Assange
+**C-5117** Host says her producers confirmed Pompeo discussed options to take out Assange
 
 Claim Timestamp: 00:42:37
 
@@ -1513,7 +1513,7 @@ Investigative Direction: Check Pompeo's on-record statements about whether he di
 
 ---
 
-**C-5464** Host says Pompeo's remarks mean the killing of Palestinians is edited out of textbooks
+**C-5119** Host says Pompeo's remarks mean the killing of Palestinians is edited out of textbooks
 
 Claim Timestamp: 00:43:34
 
@@ -1524,12 +1524,12 @@ Transcript Snippet: The part about how they murdered tens and thousands of Pales
 Anchored Artifacts: A-1632.1
 Mentions: N-3, N-455
 Related Nodes: N-10454, N-10063
-Supports: C-2103
+Supports: C-5118
 Investigative Direction: Compare the full Pompeo remarks with the host's paraphrase; Pompeo speaks of history books and talking to children, not textbooks specifically.
 
 ---
 
-**C-5465** Pompeo says the next generation will not remember October 7 the same way
+**C-5120** Pompeo says the next generation will not remember October 7 the same way
 
 Claim Timestamp: 00:43:34
 
@@ -1540,12 +1540,12 @@ Transcript Snippet: The next generation of of young people won't remember Octobe
 Anchored Artifacts: A-1632.1
 Mentions: N-455
 Related Nodes: N-10063
-Supports: C-2103
+Supports: C-5118
 Investigative Direction: Find the original Pompeo event and full video to confirm the setting, date and wording.
 
 ---
 
-**C-5466** Pompeo says there were victims in Gaza but the victims were the people of Israel
+**C-5121** Pompeo says there were victims in Gaza but the victims were the people of Israel
 
 Claim Timestamp: 00:43:34
 
@@ -1556,12 +1556,12 @@ Transcript Snippet: There there were victims in Gaza, right? There it's true. Um
 Anchored Artifacts: A-1632.1
 Mentions: N-455
 Related Nodes: N-10063
-Supports: C-2103
+Supports: C-5118
 Investigative Direction: Compare against the full unedited Pompeo remarks; the clip as aired has a partial self-correction that the host omits.
 
 ---
 
-**C-5467** Host says the audience applauded Pompeo's statement
+**C-5122** Host says the audience applauded Pompeo's statement
 
 Claim Timestamp: 00:44:43
 
@@ -1571,12 +1571,12 @@ Transcript Snippet: I just love that they started applauding.
 
 Anchored Artifacts: A-1632.1
 Mentions: N-3, N-455
-Supports: C-2103
+Supports: C-5118
 Investigative Direction: Watch the full video to see whether applause follows that line and what the event was.
 
 ---
 
-**C-5468** Host says her channels now exist in Spanish, Portuguese and French
+**C-5124** Host says her channels now exist in Spanish, Portuguese and French
 
 Claim Timestamp: 00:47:28
 
@@ -1590,7 +1590,7 @@ Investigative Direction: Check the channel list linked from the episode descript
 
 ---
 
-**C-5469** Host says she believes Charlie became too aware of his captivity and was told he could not be a person
+**C-5125** Host says she believes Charlie became too aware of his captivity and was told he could not be a person
 
 Claim Timestamp: 00:49:41
 
@@ -1605,7 +1605,7 @@ Investigative Direction: Obtain the verse or message Charlie sent the host and t
 
 ---
 
-**C-5470** Host says the quote the commenter cited is a verse Charlie sent her
+**C-5126** Host says the quote the commenter cited is a verse Charlie sent her
 
 Claim Timestamp: 00:49:41
 
@@ -1620,7 +1620,7 @@ Investigative Direction: Identify the verse and its text from the message the ho
 
 ---
 
-**C-5471** Host says YouTube demonetized her and she was throttled, leading to building her website
+**C-5127** Host says YouTube demonetized her and she was throttled, leading to building her website
 
 Claim Timestamp: 00:50:49
 
@@ -1635,7 +1635,7 @@ Investigative Direction: Check YouTube monetization notices and channel analytic
 
 ---
 
-**C-5472** Host says she was banned from a country when she tried to tour
+**C-5128** Host says she was banned from a country when she tried to tour
 
 Claim Timestamp: 00:50:49
 
@@ -1650,7 +1650,7 @@ Investigative Direction: Identify which countries barred her, with dates and gov
 
 ---
 
-**C-5473** Host says people were called and threatened for hosting her at speaking events
+**C-5129** Host says people were called and threatened for hosting her at speaking events
 
 Claim Timestamp: 00:50:49
 
@@ -1665,7 +1665,7 @@ Investigative Direction: Identify the events, hosts and callers; the transcript 
 
 ---
 
-**C-5474** Host says she knows about Project Monarch as precursor to Nazi traumatization of children
+**C-5131** Host says she knows about Project Monarch as precursor to Nazi traumatization of children
 
 Claim Timestamp: 00:51:51
 
@@ -1681,7 +1681,7 @@ Investigative Direction: Find the earlier episode where the host discussed Proje
 
 ---
 
-**C-5475** Host says Zionists control Trump's entire cabinet and Trump has no thoughts of his own
+**C-5132** Host says Zionists control Trump's entire cabinet and Trump has no thoughts of his own
 
 Claim Timestamp: 00:52:43
 
@@ -1696,7 +1696,7 @@ Investigative Direction: The claim is a sweeping characterization; ask the host 
 
 ---
 
-**C-5476** Host says Zionists have controlled the US military since they killed JFK
+**C-5133** Host says Zionists have controlled the US military since they killed JFK
 
 Claim Timestamp: 00:52:43
 
@@ -1711,7 +1711,7 @@ Investigative Direction: Ask the host for evidence tying the JFK assassination t
 
 ---
 
-**C-5477** Host says she has retired from politics and cannot support Trump
+**C-5134** Host says she has retired from politics and cannot support Trump
 
 Claim Timestamp: 00:52:43
 
@@ -1725,7 +1725,7 @@ Investigative Direction: Compare with the host's earlier public statements about
 
 ---
 
-**C-5478** Anderson says he was in GATE as a kid and was given the pink drink
+**C-5135** Anderson says he was in GATE as a kid and was given the pink drink
 
 Claim Timestamp: 00:53:21
 
@@ -1740,7 +1740,7 @@ Investigative Direction: Identify what the pink drink was and the school distric
 
 ---
 
-**C-5479** Host says students were forced to drink fluoride which burns the pineal gland
+**C-5136** Host says students were forced to drink fluoride which burns the pineal gland
 
 Claim Timestamp: 00:53:21
 
@@ -1756,7 +1756,7 @@ Investigative Direction: Check peer-reviewed literature on fluoride accumulation
 
 ---
 
-**C-5480** Host says her cousin thinks hearing tests are frequency tests used to mark kids
+**C-5137** Host says her cousin thinks hearing tests are frequency tests used to mark kids
 
 Claim Timestamp: 00:53:21
 
@@ -1771,7 +1771,7 @@ Investigative Direction: The claim is second-hand from an unnamed cousin; no doc
 
 ---
 
-**C-5481** Commenter says Nick Fuentes called Epstein's 13 and 14 year old victims barely legal
+**C-5138** Commenter says Nick Fuentes called Epstein's 13 and 14 year old victims barely legal
 
 Claim Timestamp: 00:54:39
 
@@ -1786,7 +1786,7 @@ Investigative Direction: Locate the Fuentes show episode and timestamp and compa
 
 ---
 
-**C-5482** Host says Nick Fuentes flipped as if given instructions and is a federal informant
+**C-5139** Host says Nick Fuentes flipped as if given instructions and is a federal informant
 
 Claim Timestamp: 00:54:59
 
@@ -1801,7 +1801,7 @@ Investigative Direction: Obtain any court, FOIA or journalistic records alleging
 
 ---
 
-**C-5483** Host says the one-person 30-06 rooftop shooter was the federal talking point
+**C-5140** Host says the one-person 30-06 rooftop shooter was the federal talking point
 
 Claim Timestamp: 00:55:11
 
@@ -1816,7 +1816,7 @@ Investigative Direction: Transcript is garbled in this passage; verify exactly w
 
 ---
 
-**C-5484** Host says Charlie had recurring dreams about how he would die and she dreamed he was betrayed
+**C-5141** Host says Charlie had recurring dreams about how he would die and she dreamed he was betrayed
 
 Claim Timestamp: 00:55:11
 
@@ -1827,7 +1827,7 @@ Transcript Snippet: having these recurring dreams about how he would die and how
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10415, N-10404
-Supports: C-2047
+Supports: C-4881
 Investigative Direction: Retrieve the messages in which Charlie described the dreams and the host's own dream account from earlier episodes.
 
 ---

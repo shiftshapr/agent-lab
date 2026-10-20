@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10): N-709, N-11008
   - Hole-minted Nodes (reintro-ep036): N-283, N-10284, N-10294
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10): C-4975–C-5061
+  - Claim Range: C-3152–C-3248
   - New Nodes Introduced: N-270, N-10271, N-10272
   - Reused Nodes Appearing: N-5, N-9, N-14, N-16, N-36, N-37, N-38, N-42, N-69, N-82, N-329, N-10000, N-10001, N-10012, N-10020, N-10028, N-10029, N-10045, N-10051, N-10116, N-10134, N-10145, N-10175, N-10197, N-10224, N-10243, N-10246, N-10253, N-10261, N-10265, N-10266, N-10268, N-10269, N-10355, N-271, N-711, N-377, N-10270, N-11009, N-10316, N-10862, N-11011, N-710, N-10336, N-10337, N-10345, N-10853, N-11010, N-10342, N-272, N-11012
   - (see registers)
@@ -127,7 +127,7 @@ Video Timestamp: 00:12:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1759, C-1760, N-1, N-3, N-10270*
+*Related: C-3176, C-3177, N-1, N-3, N-10270*
 
 ---
 
@@ -141,7 +141,7 @@ Video Timestamp: 00:18:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1761, N-3, N-10270*
+*Related: C-3188, N-3, N-10270*
 
 ---
 
@@ -155,7 +155,7 @@ Video Timestamp: 00:34:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1762, N-266, N-270, N-271, N-224, N-10272*
+*Related: C-3214, N-266, N-270, N-271, N-224, N-10272*
 
 ---
 
@@ -169,7 +169,7 @@ Video Timestamp: 00:34:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1762, C-1763, N-266, N-270, N-271, N-10272*
+*Related: C-3214, C-3215, N-266, N-270, N-271, N-10272*
 
 ---
 
@@ -183,7 +183,7 @@ Video Timestamp: 00:41:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1764, C-1765, C-1766, N-272, N-10271*
+*Related: C-3225, C-3226, C-3227, N-272, N-10271*
 
 ---
 
@@ -197,7 +197,7 @@ Video Timestamp: 00:14:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1767, N-existing (Tucker Carlson – existing series node)*
+*Related: C-3183, N-existing (Tucker Carlson – existing series node)*
 
 ---
 
@@ -210,7 +210,7 @@ Video Timestamp: 00:07:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4983, C-4987, C-4990, C-4993, C-4994, C-4995, C-4996, C-4984, N-3*
+*Related: C-3160, C-3164, C-3167, C-3170, C-3171, C-3172, C-3173, C-3161, N-3*
 
 ---
 
@@ -225,7 +225,7 @@ Video Timestamp: 00:08:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4988, N-3, N-82, N-377, N-11011*
+*Related: C-3165, N-3, N-82, N-377, N-11011*
 
 ---
 
@@ -240,7 +240,7 @@ Video Timestamp: 00:09:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4992, N-11008, N-10269*
+*Related: C-3169, N-11008, N-10269*
 
 ---
 
@@ -253,7 +253,7 @@ Video Timestamp: 00:20:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5014, N-82, N-10294*
+*Related: C-3195, N-82, N-10294*
 
 ---
 
@@ -268,7 +268,7 @@ Video Timestamp: 00:51:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-5053, C-5054, N-711, N-1, N-3*
+*Related: C-3240, C-3241, N-711, N-1, N-3*
 
 ---
 
@@ -281,7 +281,7 @@ Video Timestamp: 00:53:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5057, C-5058, N-3*
+*Related: C-3244, C-3245, N-3*
 
 ---
 
@@ -296,7 +296,7 @@ Video Timestamp: 00:54:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-5061, N-3*
+*Related: C-3248, N-3*
 
 ---
 
@@ -311,7 +311,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1447.1, A-1448.1, C-1762, N-10272*
+*Related: A-1447.1, A-1448.1, C-3214, N-10272*
 
 ---
 
@@ -324,7 +324,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1448.1, C-1763, N-10272*
+*Related: A-1448.1, C-3215, N-10272*
 
 ---
 
@@ -337,7 +337,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1448.1, C-1763, N-10272*
+*Related: A-1448.1, C-3215, N-10272*
 
 ---
 
@@ -363,7 +363,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1449.1, C-1764, C-1765, C-1766, N-10271*
+*Related: A-1449.1, C-3225, C-3226, C-3227, N-10271*
 
 ---
 
@@ -389,7 +389,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1445.1, A-1446.1, C-1759, C-1761, N-3*
+*Related: A-1445.1, A-1446.1, C-3176, C-3188, N-3*
 
 ---
 
@@ -402,7 +402,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1449.1, C-1764, C-1765, C-1766, N-272*
+*Related: A-1449.1, C-3225, C-3226, C-3227, N-272*
 
 ---
 
@@ -415,7 +415,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1447.1, A-1448.1, C-1762, C-1763, N-266, N-270, N-271*
+*Related: A-1447.1, A-1448.1, C-3214, C-3215, N-266, N-270, N-271*
 
 ---
 
@@ -423,7 +423,7 @@ Investigative Pressure: Medium
 
 Subject of the relayed White House request, the Tucker Carlson SAS event, the Hamptons retreat and the UVU security discussion.
 
-*Related: C-4976, C-4985, C-4986, C-4997, C-4998, C-5000, C-5003, C-5004*
+*Related: C-3153, C-3162, C-3163, C-3174, C-3175, C-3179, C-3182, C-3184*
 
 ---
 
@@ -431,7 +431,7 @@ Subject of the relayed White House request, the Tucker Carlson SAS event, the Ha
 
 Host; narrates the timeline and speaks for herself throughout.
 
-*Related: C-4975, C-4976, C-4977, C-4978, C-4979, C-4980, C-4982, C-4983*
+*Related: C-3152, C-3153, C-3154, C-3155, C-3156, C-3157, C-3159, C-3160*
 
 ---
 
@@ -439,7 +439,7 @@ Host; narrates the timeline and speaks for herself throughout.
 
 Named in the host's account of the Macron meeting, the February 26 call and the dignitary discussion.
 
-*Related: C-4998, C-5000, C-5059*
+*Related: C-3175, C-3179, C-3246*
 
 ---
 
@@ -447,7 +447,7 @@ Named in the host's account of the Macron meeting, the February 26 call and the 
 
 Named in Tucker Carlson's SAS remarks and in the host's comparison to multiple passports.
 
-*Related: C-5003, C-5018*
+*Related: C-3182, C-3199*
 
 ---
 
@@ -455,7 +455,7 @@ Named in Tucker Carlson's SAS remarks and in the host's comparison to multiple p
 
 Host says he told her 'it was supposed to be you' and warned of a list.
 
-*Related: C-4977, C-4978*
+*Related: C-3154, C-3155*
 
 ---
 
@@ -463,7 +463,7 @@ Host says he told her 'it was supposed to be you' and warned of a list.
 
 Host says he called February 25, 2025 asking her to stop speaking about Brigitte Macron.
 
-*Related: C-4999*
+*Related: C-3178*
 
 ---
 
@@ -471,7 +471,7 @@ Host says he called February 25, 2025 asking her to stop speaking about Brigitte
 
 Host says he was on the warning list with her, was hosted by Kirk at SAS and discussed the Macron case with her.
 
-*Related: C-4978, C-4979, C-5003, C-5008, C-5009*
+*Related: C-3155, C-3156, C-3182, C-3189, C-3190*
 
 ---
 
@@ -479,7 +479,7 @@ Host says he was on the warning list with her, was hosted by Kirk at SAS and dis
 
 Host says he offered to take Turning Point to the next level financially.
 
-*Related: C-5012*
+*Related: C-3193*
 
 ---
 
@@ -487,7 +487,7 @@ Host says he offered to take Turning Point to the next level financially.
 
 Named as disputing Kirk's account of the Hamptons retreat.
 
-*Related: C-5011*
+*Related: C-3192*
 
 ---
 
@@ -495,7 +495,7 @@ Named as disputing Kirk's account of the Hamptons retreat.
 
 Named as disputing Kirk's account of the Hamptons retreat.
 
-*Related: C-5011*
+*Related: C-3192*
 
 ---
 
@@ -503,7 +503,7 @@ Named as disputing Kirk's account of the Hamptons retreat.
 
 Subject of the KUTV footage report and the host's retelling of the official account.
 
-*Related: C-5041, C-5042, C-5043, C-5044, C-5047, C-5048, C-5049, C-5050*
+*Related: C-3224, C-3228, C-3229, C-3230, C-3233, C-3234, C-3235, C-3236*
 
 ---
 
@@ -511,7 +511,7 @@ Subject of the KUTV footage report and the host's retelling of the official acco
 
 Named among people in the Kirk story the host links to child sex abuse history.
 
-*Related: C-5028*
+*Related: C-3209*
 
 ---
 
@@ -519,7 +519,7 @@ Named among people in the Kirk story the host links to child sex abuse history.
 
 Host says an article about him blocking Tulsi Gabbard's office cost him her trust.
 
-*Related: C-5056*
+*Related: C-3243*
 
 ---
 
@@ -527,7 +527,7 @@ Host says an article about him blocking Tulsi Gabbard's office cost him her trus
 
 Subject of the host's investigation, the cease and desist letters and the Paris Design Week timeline.
 
-*Related: C-4976, C-4983, C-4984, C-4988, C-5007, C-5009, C-5014, C-5015*
+*Related: C-3153, C-3160, C-3161, C-3165, C-3187, C-3190, C-3195, C-3196*
 
 ---
 
@@ -535,7 +535,7 @@ Subject of the host's investigation, the cease and desist letters and the Paris 
 
 Author of the Becoming Brigitte book whom the host interviewed in London on December 21, 2024.
 
-*Related: C-4988, C-4989, C-4994, C-4996, C-5021, C-5023*
+*Related: C-3165, C-3166, C-3171, C-3173, C-3202, C-3204*
 
 ---
 
@@ -543,7 +543,7 @@ Author of the Becoming Brigitte book whom the host interviewed in London on Dece
 
 Named in the host's comment about Kash Patel blocking her office.
 
-*Related: C-5056*
+*Related: C-3243*
 
 ---
 
@@ -551,7 +551,7 @@ Named in the host's comment about Kash Patel blocking her office.
 
 Named in the cease and desist, the July legal threat and the Delaware suit.
 
-*Related: C-4988, C-4991, C-4998, C-5002, C-5007, C-5019*
+*Related: C-3165, C-3168, C-3175, C-3181, C-3187, C-3200*
 
 ---
 
@@ -559,7 +559,7 @@ Named in the cease and desist, the July legal threat and the Delaware suit.
 
 Organization cited in the host's claims about security staff, the UVU request and its leaks.
 
-*Related: C-4977, C-4986, C-5003, C-5004, C-5010, C-5032, C-5034, C-5035*
+*Related: C-3154, C-3163, C-3182, C-3184, C-3191, C-3213, C-3217, C-3218*
 
 ---
 
@@ -567,7 +567,7 @@ Organization cited in the host's claims about security staff, the UVU request an
 
 Program the host says Macron's lawsuit cited 18 times and which her team explored.
 
-*Related: C-5019, C-5020, C-5022*
+*Related: C-3200, C-3201, C-3203*
 
 ---
 
@@ -575,7 +575,7 @@ Program the host says Macron's lawsuit cited 18 times and which her team explore
 
 Venue of the event; host says the school warned TPUSA about traffic control.
 
-*Related: C-5004, C-5010*
+*Related: C-3184, C-3191*
 
 ---
 
@@ -583,7 +583,7 @@ Venue of the event; host says the school warned TPUSA about traffic control.
 
 Existing topic on the weapon; related here to the host's smaller-weapon conclusion.
 
-*Related: C-5058*
+*Related: C-3245*
 
 ---
 
@@ -591,7 +591,7 @@ Existing topic on the weapon; related here to the host's smaller-weapon conclusi
 
 Place of the Sorensen Center, Hall of Flags and rooftops.
 
-*Related: C-5033, C-5034, C-5049*
+*Related: C-3216, C-3217, C-3235*
 
 ---
 
@@ -599,7 +599,7 @@ Place of the Sorensen Center, Hall of Flags and rooftops.
 
 Agency whose surveillance and holding-room video is unavailable per the KUTV report.
 
-*Related: C-5041, C-5042, C-5043, C-5044, C-5045, C-5046*
+*Related: C-3224, C-3228, C-3229, C-3230, C-3231, C-3232*
 
 ---
 
@@ -607,7 +607,7 @@ Agency whose surveillance and holding-room video is unavailable per the KUTV rep
 
 Existing topic tied to the host's Stanford hypothesis.
 
-*Related: C-5020, C-5023*
+*Related: C-3201, C-3204*
 
 ---
 
@@ -615,7 +615,7 @@ Existing topic tied to the host's Stanford hypothesis.
 
 Existing topic on the Dairy Queen photo; related to the host's retelling.
 
-*Related: C-5050*
+*Related: C-3236*
 
 ---
 
@@ -623,7 +623,7 @@ Existing topic on the Dairy Queen photo; related to the host's retelling.
 
 Existing topic on the host's MK Ultra line of investigation.
 
-*Related: C-5019, C-5020, C-5022, C-5023*
+*Related: C-3200, C-3201, C-3203, C-3204*
 
 ---
 
@@ -631,7 +631,7 @@ Existing topic on the host's MK Ultra line of investigation.
 
 Existing topic for the August 2025 Hamptons retreat.
 
-*Related: C-5011*
+*Related: C-3192*
 
 ---
 
@@ -639,7 +639,7 @@ Existing topic for the August 2025 Hamptons retreat.
 
 Existing topic on Robinson's prior familiarity with campus.
 
-*Related: C-5049*
+*Related: C-3235*
 
 ---
 
@@ -647,7 +647,7 @@ Existing topic on Robinson's prior familiarity with campus.
 
 Existing topic on missing or sparse footage; related to the roof video chain.
 
-*Related: C-5037, C-5038, C-5039, C-5040*
+*Related: C-3220, C-3221, C-3222, C-3223*
 
 ---
 
@@ -655,7 +655,7 @@ Existing topic on missing or sparse footage; related to the roof video chain.
 
 Existing topic on military ties around TPUSA events.
 
-*Related: C-4980, C-5032, C-5039*
+*Related: C-3157, C-3213, C-3222*
 
 ---
 
@@ -663,7 +663,7 @@ Existing topic on military ties around TPUSA events.
 
 Existing topic on the late UVU speaking request.
 
-*Related: C-5004*
+*Related: C-3184*
 
 ---
 
@@ -671,7 +671,7 @@ Existing topic on the late UVU speaking request.
 
 Existing topic on the venue choice against UVU advice.
 
-*Related: C-5010*
+*Related: C-3191*
 
 ---
 
@@ -679,7 +679,7 @@ Existing topic on the venue choice against UVU advice.
 
 Existing topic on Calvary Chapel abuse scandals.
 
-*Related: C-5028*
+*Related: C-3209*
 
 ---
 
@@ -687,7 +687,7 @@ Existing topic on Calvary Chapel abuse scandals.
 
 Existing umbrella topic for the Egyptian plane tracking.
 
-*Related: C-4975, C-5005, C-5017*
+*Related: C-3152, C-3185, C-3198*
 
 ---
 
@@ -695,7 +695,7 @@ Existing umbrella topic for the Egyptian plane tracking.
 
 Existing topic on rooftop sightings and access.
 
-*Related: C-5035, C-5037*
+*Related: C-3218, C-3220*
 
 ---
 
@@ -703,7 +703,7 @@ Existing topic on rooftop sightings and access.
 
 Existing topic for the Wilmington federal building.
 
-*Related: C-4982*
+*Related: C-3159*
 
 ---
 
@@ -711,7 +711,7 @@ Existing topic for the Wilmington federal building.
 
 Existing topic on SUBTT's stops in Wilmington.
 
-*Related: C-4981, C-4982, C-5005, C-5006, C-5007, C-5013, C-5016, C-5024*
+*Related: C-3158, C-3159, C-3185, C-3186, C-3187, C-3194, C-3197, C-3205*
 
 ---
 
@@ -719,7 +719,7 @@ Existing topic on SUBTT's stops in Wilmington.
 
 Existing topic on speakers removed from AmFest.
 
-*Related: C-4986*
+*Related: C-3163*
 
 ---
 
@@ -727,7 +727,7 @@ Existing topic on speakers removed from AmFest.
 
 Existing topic on the hangar and its federal links.
 
-*Related: C-4975, C-4981, C-4990, C-4991, C-4992, C-5024, C-5025*
+*Related: C-3152, C-3158, C-3167, C-3168, C-3169, C-3205, C-3206*
 
 ---
 
@@ -735,7 +735,7 @@ Existing topic on the hangar and its federal links.
 
 Existing topic on the federal agencies at 920 King Street.
 
-*Related: C-4982, C-5025, C-5030, C-5059, C-5060*
+*Related: C-3159, C-3206, C-3211, C-3246, C-3247*
 
 ---
 
@@ -743,7 +743,7 @@ Existing topic on the federal agencies at 920 King Street.
 
 Existing topic on Brigitte Macron's schedule in early September 2025.
 
-*Related: C-5014, C-5015, C-5016*
+*Related: C-3195, C-3196, C-3197*
 
 ---
 
@@ -751,7 +751,7 @@ Existing topic on Brigitte Macron's schedule in early September 2025.
 
 Existing topic on a possible France link.
 
-*Related: C-4976*
+*Related: C-3153*
 
 ---
 
@@ -759,7 +759,7 @@ Existing topic on a possible France link.
 
 Existing topic on Robinson's court appearance format.
 
-*Related: C-5048*
+*Related: C-3234*
 
 ---
 
@@ -767,7 +767,7 @@ Existing topic on Robinson's court appearance format.
 
 Existing topic on the prosecution's evidence.
 
-*Related: C-5051*
+*Related: C-3237*
 
 ---
 
@@ -775,7 +775,7 @@ Existing topic on the prosecution's evidence.
 
 Existing topic on Netanyahu's alleged funding offer.
 
-*Related: C-5012*
+*Related: C-3193*
 
 ---
 
@@ -783,7 +783,7 @@ Existing topic on Netanyahu's alleged funding offer.
 
 Existing topic on the Hamptons retreat confrontation.
 
-*Related: C-5011*
+*Related: C-3192*
 
 ---
 
@@ -791,7 +791,7 @@ Existing topic on the Hamptons retreat confrontation.
 
 Existing topic on the Patel and Gabbard dispute.
 
-*Related: C-5056*
+*Related: C-3243*
 
 ---
 
@@ -799,7 +799,7 @@ Existing topic on the Patel and Gabbard dispute.
 
 Existing topic on the Dairy Queen timestamp.
 
-*Related: C-5050*
+*Related: C-3236*
 
 ---
 
@@ -807,7 +807,7 @@ Existing topic on the Dairy Queen timestamp.
 
 Existing topic on Harpole's Shawn Ryan statements.
 
-*Related: C-5031*
+*Related: C-3212*
 
 ---
 
@@ -815,7 +815,7 @@ Existing topic on Harpole's Shawn Ryan statements.
 
 First named by the host at 00:09:25 in episode 36. Described as having sent a December 18, 2024 follow-up email about the cease and desist; his role is not stated in the episode.
 
-*Related: C-4993*
+*Related: C-3170*
 
 ---
 
@@ -823,7 +823,7 @@ First named by the host at 00:09:25 in episode 36. Described as having sent a De
 
 First named by the host at 00:20:40 in episode 36, transcribed as "Zilinski" and "Zalinski". Identification as Volodymyr Zelensky is inferred from "President" and the Ukraine leaders' meeting.
 
-*Related: C-5015*
+*Related: C-3196*
 
 ---
 
@@ -831,7 +831,7 @@ First named by the host at 00:20:40 in episode 36, transcribed as "Zilinski" and
 
 First named in a viewer comment read by the host at 00:51:14 in episode 36.
 
-*Related: C-5053, C-5054*
+*Related: C-3240, C-3241*
 
 ---
 
@@ -841,7 +841,7 @@ Node Type: Organization
 
 French aircraft-painting company, rendered Satys in the transcript, that announced a December 2024 deal for a Wilmington, Delaware hangar. The host says its CEO knows Emmanuel Macron and that her source and a tip show it was a front rather than a maintenance base.
 
-*Related: C-4975, C-4981, C-4990, C-4991, C-4992, C-5024, C-5029, C-5030*
+*Related: C-3152, C-3158, C-3167, C-3168, C-3169, C-3205, C-3210, C-3211*
 
 ---
 
@@ -851,7 +851,7 @@ Node Type: Topic
 
 Persistent investigative target on what was happening in the Hall of Flags at UVU on September 10, 2025, why Turning Point security focused on controlled access there, and why a student posting videos was inside it.
 
-*Related: C-5036, C-5040*
+*Related: C-3219, C-3223*
 
 ---
 
@@ -861,7 +861,7 @@ Node Type: Topic
 
 Persistent investigative target on the warnings the host says she received on September 10, 2025 that a list included her and Tucker Carlson and that they should lay low, and on who originated them.
 
-*Related: C-4978, C-4979*
+*Related: C-3155, C-3156*
 
 ---
 
@@ -871,7 +871,7 @@ Node Type: Topic
 
 Dated timeline of the Macron side's cease and desist letters, the Becoming Brigitte releases, the lawsuit threats and related events, as walked through by the host.
 
-*Related: C-4983, C-4984, C-4987, C-4988, C-4993, C-4994, C-4995, C-4996*
+*Related: C-3160, C-3161, C-3164, C-3165, C-3170, C-3171, C-3172, C-3173*
 
 ---
 
@@ -881,13 +881,13 @@ Node Type: Topic
 
 Persistent investigative target on how Tyler Robinson came into custody, including the father-turned-in story the host disputes and the missing sheriff's-office surrender footage.
 
-*Related: C-5041*
+*Related: C-3224*
 
 ---
 
 ## 5. Claim Register
 
-**C-1759** White House Contacted Candace Owens via Charlie Kirk About Macron Topic (Feb 24, 2025)
+**C-3176** White House Contacted Candace Owens via Charlie Kirk About Macron Topic (Feb 24, 2025)
 
 Claim Timestamp: 00:12:20
 
@@ -900,7 +900,7 @@ Investigative Direction: Authenticate text message metadata; identify the specif
 
 ---
 
-**C-1760** Charlie Kirk Stated POTUS Might Call Candace Owens Directly (Feb 25, 2025)
+**C-3177** Charlie Kirk Stated POTUS Might Call Candace Owens Directly (Feb 25, 2025)
 
 Claim Timestamp: 00:12:20
 
@@ -913,7 +913,7 @@ Investigative Direction: Cross-reference with the host's separately claimed Feb 
 
 ---
 
-**C-1761** Host's Legal Team Identified No Delaware Jurisdiction Basis in Macron Lawsuit (July 27, 2025)
+**C-3188** Host's Legal Team Identified No Delaware Jurisdiction Basis in Macron Lawsuit (July 27, 2025)
 
 Claim Timestamp: 00:18:38
 
@@ -926,7 +926,7 @@ Investigative Direction: Obtain the underlying court filings and motion-to-dismi
 
 ---
 
-**C-1762** Brian Harpole Presented Flood–Long Text Exchange as His Own Communication
+**C-3214** Brian Harpole Presented Flood–Long Text Exchange as His Own Communication
 
 Claim Timestamp: 00:34:36
 
@@ -939,7 +939,7 @@ Investigative Direction: Compare full Shawn Ryan interview transcript with authe
 
 ---
 
-**C-1763** Harpole Clip Presents Flood–Long Text Exchange on Student Roof Access at Sorensen Center
+**C-3215** Harpole Clip Presents Flood–Long Text Exchange on Student Roof Access at Sorensen Center
 
 Claim Timestamp: 00:34:36
 
@@ -952,7 +952,7 @@ Investigative Direction: Authenticate text records via UVU and Turning Point; cr
 
 ---
 
-**C-1764** Washington County Sheriff's Office States Tyler Robinson Surveillance Footage No Longer Available
+**C-3225** Washington County Sheriff's Office States Tyler Robinson Surveillance Footage No Longer Available
 
 Claim Timestamp: 00:41:28
 
@@ -965,7 +965,7 @@ Investigative Direction: Submit additional GRAMA requests; check for court-issue
 
 ---
 
-**C-1765** Washington County Cites 30-Day Retention Period for Footage Unavailability
+**C-3226** Washington County Cites 30-Day Retention Period for Footage Unavailability
 
 Claim Timestamp: 00:41:28
 
@@ -978,7 +978,7 @@ Investigative Direction: Obtain Washington County's written retention policy; ve
 
 ---
 
-**C-1766** Brooksby Statement: Friend Drove Tyler Robinson and Parents to Sheriff's Office
+**C-3227** Brooksby Statement: Friend Drove Tyler Robinson and Parents to Sheriff's Office
 
 Claim Timestamp: 00:41:28
 
@@ -991,7 +991,7 @@ Investigative Direction: Cross-reference Brooksby's account with charging docume
 
 ---
 
-**C-1767** Tucker Carlson Criticized Epstein-Connected and Crony Wealth at Turning Point Event (July 18, 2025)
+**C-3183** Tucker Carlson Criticized Epstein-Connected and Crony Wealth at Turning Point Event (July 18, 2025)
 
 Claim Timestamp: 00:14:15
 
@@ -1005,7 +1005,7 @@ Investigative Direction: Obtain full speech transcript and video; verify exact d
 ---
 
 
-**C-3650** Host invokes decentralized intelligence (near-DIA framing)
+**C-3239** Host invokes decentralized intelligence (near-DIA framing)
 
 Claim Timestamp: 00:51:14
 Claim: The host uses near-DIA wording ("decentralized intelligence") to describe crowd-sourced investigative capacity, without the full agency brand line in this beat.
@@ -1018,7 +1018,7 @@ Investigative Direction: Preserve as brand / network framing claim; cross-link M
 
 ---
 
-**C-4975** Host Says Source Proved French Company Was Not for Egyptian Plane Maintenance
+**C-3152** Host Says Source Proved French Company Was Not for Egyptian Plane Maintenance
 
 Claim Timestamp: 00:00:01
 
@@ -1033,7 +1033,7 @@ Investigative Direction: Obtain Satys corporate filings, the hangar lease and an
 
 ---
 
-**C-4976** Host Says Charlie Kirk Called to Tell Her They Wanted Her to Stop on Brigitte
+**C-3153** Host Says Charlie Kirk Called to Tell Her They Wanted Her to Stop on Brigitte
 
 Claim Timestamp: 00:00:50
 
@@ -1048,7 +1048,7 @@ Investigative Direction: Obtain the host's phone records and messages with Charl
 
 ---
 
-**C-4977** Host Says Kolvet Told Her It Was Supposed to Be Her
+**C-3154** Host Says Kolvet Told Her It Was Supposed to Be Her
 
 Claim Timestamp: 00:02:24
 
@@ -1063,7 +1063,7 @@ Investigative Direction: Ask Kolvet to confirm or deny the statement; obtain the
 
 ---
 
-**C-4978** Host Says Kolvet Warned of a List With Her and Tucker Carlson on September 10
+**C-3155** Host Says Kolvet Warned of a List With Her and Tucker Carlson on September 10
 
 Claim Timestamp: 00:03:45
 
@@ -1078,7 +1078,7 @@ Investigative Direction: Ask Kolvet who supplied the list and what it contained;
 
 ---
 
-**C-4979** Host Says a Woman Married to a CIA Contractor Gave the Same Warning
+**C-3156** Host Says a Woman Married to a CIA Contractor Gave the Same Warning
 
 Claim Timestamp: 00:03:45
 
@@ -1093,7 +1093,7 @@ Investigative Direction: Only testable through the host's source; ask her to say
 
 ---
 
-**C-4980** Host Says Virtually Everyone There That Day Had Military Ties
+**C-3157** Host Says Virtually Everyone There That Day Had Military Ties
 
 Claim Timestamp: 00:04:48
 
@@ -1108,7 +1108,7 @@ Investigative Direction: List the individuals the host counts as present and doc
 
 ---
 
-**C-4981** Host Says Satys Leased the Hangar for Only Two Years and the Egyptian Plane Began Landing There
+**C-3158** Host Says Satys Leased the Hangar for Only Two Years and the Egyptian Plane Began Landing There
 
 Claim Timestamp: 00:04:48
 
@@ -1119,12 +1119,12 @@ Transcript Snippet: suddenly this French company comes in and purchases leases a
 Anchored Artifacts: 
 Mentions: 
 Related Nodes: N-11008, N-10269, N-10266
-Supports: C-1750
+Supports: C-3073
 Investigative Direction: Obtain the Delaware River and Bay Authority lease, its term and signing date; compare with SUBTT landing records at the hangar.
 
 ---
 
-**C-4982** Host Says Source Claimed a Foreign Dignitary Was Moved to 920 King Street
+**C-3159** Host Says Source Claimed a Foreign Dignitary Was Moved to 920 King Street
 
 Claim Timestamp: 00:06:23
 
@@ -1135,12 +1135,12 @@ Transcript Snippet: a foreign dignitary was then discreetly moved to 920 King St
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10284, N-10265, N-10266
-Supports: C-1749
+Supports: C-3068
 Investigative Direction: Obtain Wilmington ground-transport, customs or security records for September 10, 2025; ask the source for corroboration of the dignitary's identity.
 
 ---
 
-**C-4983** Host Says Her First Brigitte Macron Episode Aired March 13, 2024
+**C-3160** Host Says Her First Brigitte Macron Episode Aired March 13, 2024
 
 Claim Timestamp: 00:06:40
 
@@ -1155,7 +1155,7 @@ Investigative Direction: Check the episode's upload date and Daily Wire's separa
 
 ---
 
-**C-4984** Host Says She Began Probing the Israel Narrative at the Same Time as the Macron Story
+**C-3161** Host Says She Began Probing the Israel Narrative at the Same Time as the Macron Story
 
 Claim Timestamp: 00:06:40
 
@@ -1170,7 +1170,7 @@ Investigative Direction: Compare the dates of the host's first Israel-critical s
 
 ---
 
-**C-4985** Host Says Charlie Kirk Publicly and Privately Defended Her After the Firing
+**C-3162** Host Says Charlie Kirk Publicly and Privately Defended Her After the Firing
 
 Claim Timestamp: 00:06:40
 
@@ -1185,7 +1185,7 @@ Investigative Direction: Collect Kirk's public statements from March 2024 and an
 
 ---
 
-**C-4986** Host Says Donors Squeezed Kirk to Remove Her From AmFest
+**C-3163** Host Says Donors Squeezed Kirk to Remove Her From AmFest
 
 Claim Timestamp: 00:07:30
 
@@ -1200,7 +1200,7 @@ Investigative Direction: Identify the donors and obtain AmFest speaker-invitatio
 
 ---
 
-**C-4987** Host Corrects Firing Date to March 19, 2024
+**C-3164** Host Corrects Firing Date to March 19, 2024
 
 Claim Timestamp: 00:07:30
 
@@ -1211,12 +1211,12 @@ Transcript Snippet: March 19th, just six days later, I'm fired from a Daily Wire
 Anchored Artifacts: A-2723.1
 Mentions: N-3
 Related Nodes: N-11011
-Revises: C-4983
+Revises: C-3160
 Investigative Direction: Check Daily Wire's announcement of the separation against March 19, 2024.
 
 ---
 
-**C-4988** Host Says First Cease and Desist Arrived December 3 at an Unmonitored Inbox
+**C-3165** Host Says First Cease and Desist Arrived December 3 at an Unmonitored Inbox
 
 Claim Timestamp: 00:08:14
 
@@ -1231,7 +1231,7 @@ Investigative Direction: Obtain the December 3, 2024 letter with email headers a
 
 ---
 
-**C-4989** Host Says Poussard Wrote the Becoming Brigitte Book and Was Never Sued for Defamation
+**C-3166** Host Says Poussard Wrote the Becoming Brigitte Book and Was Never Sued for Defamation
 
 Claim Timestamp: 00:08:14
 
@@ -1246,7 +1246,7 @@ Investigative Direction: Check French and US court records for any defamation su
 
 ---
 
-**C-4990** Host Says Satys Deal Was Publicly Announced December 10, Seven Days After the Cease and Desist
+**C-3167** Host Says Satys Deal Was Publicly Announced December 10, Seven Days After the Cease and Desist
 
 Claim Timestamp: 00:08:14
 
@@ -1257,12 +1257,12 @@ Transcript Snippet: 7 days later is when it's announced that Satys that's that's
 Anchored Artifacts: A-2723.1
 Mentions: 
 Related Nodes: N-11008, N-10269
-Supports: C-1750
+Supports: C-3073
 Investigative Direction: Pull the December 10, 2024 press coverage and DRBA announcement to confirm the date.
 
 ---
 
-**C-4991** Host Says Satys CEO Knows Emmanuel Macron and Signed a Two-Year Hangar Lease to Paint Planes
+**C-3168** Host Says Satys CEO Knows Emmanuel Macron and Signed a Two-Year Hangar Lease to Paint Planes
 
 Claim Timestamp: 00:09:25
 
@@ -1277,7 +1277,7 @@ Investigative Direction: Identify the Satys CEO by name and document the claimed
 
 ---
 
-**C-4992** Host Reads Article Describing Satys as Aircraft-Painting Company Opening in the New Year
+**C-3169** Host Reads Article Describing Satys as Aircraft-Painting Company Opening in the New Year
 
 Claim Timestamp: 00:09:25
 
@@ -1292,7 +1292,7 @@ Investigative Direction: Locate the December 2024 article and quote its descript
 
 ---
 
-**C-4993** Host Says Tom Clare Sent a Follow-Up December 18 Email She Also Did Not Receive
+**C-3170** Host Says Tom Clare Sent a Follow-Up December 18 Email She Also Did Not Receive
 
 Claim Timestamp: 00:09:25
 
@@ -1307,7 +1307,7 @@ Investigative Direction: Obtain the December 18, 2024 email and its delivery hea
 
 ---
 
-**C-4994** Host Suspects the Cease and Desist Was Aimed at Her Planned Poussard Interview
+**C-3171** Host Suspects the Cease and Desist Was Aimed at Her Planned Poussard Interview
 
 Claim Timestamp: 00:10:31
 
@@ -1322,7 +1322,7 @@ Investigative Direction: Establish who knew of the interview plan before Decembe
 
 ---
 
-**C-4995** Host Says Becoming Brigitte Season 1 Began January 31, 2025
+**C-3172** Host Says Becoming Brigitte Season 1 Began January 31, 2025
 
 Claim Timestamp: 00:10:31
 
@@ -1337,7 +1337,7 @@ Investigative Direction: Confirm the release date from the channel's upload reco
 
 ---
 
-**C-4996** Host Says Poussard Sit-Down Premiered February 17, 2025
+**C-3173** Host Says Poussard Sit-Down Premiered February 17, 2025
 
 Claim Timestamp: 00:11:24
 
@@ -1352,7 +1352,7 @@ Investigative Direction: Confirm the premiere date from the upload record.
 
 ---
 
-**C-4997** Host Says Kirk Tied the White House Request to the Ukraine Peace Deal
+**C-3174** Host Says Kirk Tied the White House Request to the Ukraine Peace Deal
 
 Claim Timestamp: 00:11:24
 
@@ -1363,12 +1363,12 @@ Transcript Snippet: Charlie Kirk reaches out and he tells me that the White Hous
 Anchored Artifacts: A-1445.1
 Mentions: N-1, N-3
 Related Nodes: N-10270
-Supports: C-1759
+Supports: C-3176
 Investigative Direction: Obtain the host's call log and any notes of the February 24, 2025 call; identify which White House staffer relayed the request.
 
 ---
 
-**C-4998** Host Says Trump Met Emmanuel Macron on the Same Day as Kirk's Call
+**C-3175** Host Says Trump Met Emmanuel Macron on the Same Day as Kirk's Call
 
 Claim Timestamp: 00:11:24
 
@@ -1383,7 +1383,7 @@ Investigative Direction: Check the White House schedule and press pool reports f
 
 ---
 
-**C-4999** Host Says Sergio Gor Called February 25 and Asked Her to Stop
+**C-3178** Host Says Sergio Gor Called February 25 and Asked Her to Stop
 
 Claim Timestamp: 00:12:20
 
@@ -1398,7 +1398,7 @@ Investigative Direction: Obtain the host's call records for February 25, 2025 an
 
 ---
 
-**C-5000** Host Says President Trump Called February 26 and Asked Her to Stop
+**C-3179** Host Says President Trump Called February 26 and Asked Her to Stop
 
 Claim Timestamp: 00:12:20
 
@@ -1409,12 +1409,12 @@ Transcript Snippet: February 26th, President Trump calls me and asks me to stop 
 Anchored Artifacts: A-1445.1
 Mentions: N-5, N-1, N-3
 Related Nodes: N-10270
-Supports: C-1760
+Supports: C-3177
 Investigative Direction: Obtain the host's call logs for February 26, 2025 and any White House call schedule entries.
 
 ---
 
-**C-5001** Host Says She Agreed to Stay Quiet for a While Over Ukraine Concerns
+**C-3180** Host Says She Agreed to Stay Quiet for a While Over Ukraine Concerns
 
 Claim Timestamp: 00:13:25
 
@@ -1429,7 +1429,7 @@ Investigative Direction: Establish when the host stopped covering the story and 
 
 ---
 
-**C-5002** Host Says Macron Side Sent Another Legal Threat on July 1
+**C-3181** Host Says Macron Side Sent Another Legal Threat on July 1
 
 Claim Timestamp: 00:13:25
 
@@ -1444,7 +1444,7 @@ Investigative Direction: Obtain the July 1, 2025 legal letter and its addressee.
 
 ---
 
-**C-5003** Host Says Kirk Hosted Tucker Carlson at SAS July 18 and Told Him to Go Max
+**C-3182** Host Says Kirk Hosted Tucker Carlson at SAS July 18 and Told Him to Go Max
 
 Claim Timestamp: 00:13:25
 
@@ -1459,7 +1459,7 @@ Investigative Direction: Ask Carlson or Kirk's staff whether Kirk gave such enco
 
 ---
 
-**C-5004** Host Says UVU Speaking Request Arrived Unusually Late
+**C-3184** Host Says UVU Speaking Request Arrived Unusually Late
 
 Claim Timestamp: 00:16:53
 
@@ -1474,7 +1474,7 @@ Investigative Direction: Obtain the UVU event application and approval records w
 
 ---
 
-**C-5005** Host Says SUBTT Flew Cairo-Paris-Omaha With the Longest Wilmington Stay
+**C-3185** Host Says SUBTT Flew Cairo-Paris-Omaha With the Longest Wilmington Stay
 
 Claim Timestamp: 00:16:53
 
@@ -1489,7 +1489,7 @@ Investigative Direction: Pull flight-tracking history for SU-BTT for July 2025, 
 
 ---
 
-**C-5006** Host Says SUBTT Stayed Six Days in Wilmington From July 20 to 26
+**C-3186** Host Says SUBTT Stayed Six Days in Wilmington From July 20 to 26
 
 Claim Timestamp: 00:17:47
 
@@ -1504,7 +1504,7 @@ Investigative Direction: Confirm arrival and departure times at Wilmington for S
 
 ---
 
-**C-5007** Host Says the Macrons Announced the Delaware Suit to the Financial Times During That Stay
+**C-3187** Host Says the Macrons Announced the Delaware Suit to the Financial Times During That Stay
 
 Claim Timestamp: 00:17:47
 
@@ -1519,7 +1519,7 @@ Investigative Direction: Compare the Financial Times article's publication time 
 
 ---
 
-**C-5008** Host Says Tucker Carlson Released an Episode With Her on August 1
+**C-3189** Host Says Tucker Carlson Released an Episode With Her on August 1
 
 Claim Timestamp: 00:18:38
 
@@ -1534,7 +1534,7 @@ Investigative Direction: Confirm the episode's release date and discussion of th
 
 ---
 
-**C-5009** Host Says Carlson Believes Brigitte Macron Was Born Male and the Clip Went Viral
+**C-3190** Host Says Carlson Believes Brigitte Macron Was Born Male and the Clip Went Viral
 
 Claim Timestamp: 00:19:46
 
@@ -1549,7 +1549,7 @@ Investigative Direction: Review the episode for Carlson's statement and viewersh
 
 ---
 
-**C-5010** Host Says UVU Warned Turning Point About No Traffic Control but TPUSA Insisted
+**C-3191** Host Says UVU Warned Turning Point About No Traffic Control but TPUSA Insisted
 
 Claim Timestamp: 00:19:46
 
@@ -1564,7 +1564,7 @@ Investigative Direction: Obtain UVU and TPUSA site-visit emails and security ass
 
 ---
 
-**C-5011** Host Says Kirk Called the Hamptons Retreat an Intervention and Ackman and Dillon Dispute It
+**C-3192** Host Says Kirk Called the Hamptons Retreat an Intervention and Ackman and Dillon Dispute It
 
 Claim Timestamp: 00:19:46
 
@@ -1575,12 +1575,12 @@ Transcript Snippet: That's the notorious Hampton's retreat uh that took place. C
 Anchored Artifacts: 
 Mentions: N-1, N-37, N-38
 Related Nodes: N-10134, N-10345
-Supports: C-1128
+Supports: C-79
 Investigative Direction: Collect Kirk's own description of the retreat and any public statements by Ackman and Dillon disputing it.
 
 ---
 
-**C-5012** Host Says Netanyahu Offered to Take Turning Point to the Next Level Financially and Kirk Declined
+**C-3193** Host Says Netanyahu Offered to Take Turning Point to the Next Level Financially and Kirk Declined
 
 Claim Timestamp: 00:20:40
 
@@ -1591,12 +1591,12 @@ Transcript Snippet: BB Netanyahu offers to take Turning Point to the next level 
 Anchored Artifacts: 
 Mentions: N-36, N-1
 Related Nodes: N-10342
-Supports: C-1130
+Supports: C-84
 Investigative Direction: Identify the host's source for the offer and any written record of the offer and its refusal.
 
 ---
 
-**C-5013** Host Says SUBTT Stayed One Night in Wilmington on August 23
+**C-3194** Host Says SUBTT Stayed One Night in Wilmington on August 23
 
 Claim Timestamp: 00:20:40
 
@@ -1611,7 +1611,7 @@ Investigative Direction: Match Kirk's August 23, 2025 appearance and the plane's
 
 ---
 
-**C-5014** Host Says Brigitte Macron Was Photographed With the Minister of Culture on September 3
+**C-3195** Host Says Brigitte Macron Was Photographed With the Minister of Culture on September 3
 
 Claim Timestamp: 00:20:40
 
@@ -1626,7 +1626,7 @@ Investigative Direction: Obtain the dated photographs of the September 3 event a
 
 ---
 
-**C-5015** Host Says Brigitte Macron Greeted Zelensky in Paris on September 3 as 35 State Leaders Met on Ukraine
+**C-3196** Host Says Brigitte Macron Greeted Zelensky in Paris on September 3 as 35 State Leaders Met on Ukraine
 
 Claim Timestamp: 00:20:40
 
@@ -1641,7 +1641,7 @@ Investigative Direction: Check Elysee schedules and press coverage for the Septe
 
 ---
 
-**C-5016** Host Says SUBTT Left Paris After September 3 and Went on to Wilmington
+**C-3197** Host Says SUBTT Left Paris After September 3 and Went on to Wilmington
 
 Claim Timestamp: 00:22:16
 
@@ -1652,12 +1652,12 @@ Transcript Snippet: BTT leaves from Paris and it's go time, right? This plane is
 Anchored Artifacts: 
 Mentions: 
 Related Nodes: N-10266, N-10294
-Supports: C-1746
+Supports: C-3056
 Investigative Direction: Pull SU-BTT's full flight log from September 4 through 11, 2025.
 
 ---
 
-**C-5017** Host Believes the Egyptian Plane Carried Non-Egyptians
+**C-3198** Host Believes the Egyptian Plane Carried Non-Egyptians
 
 Claim Timestamp: 00:22:16
 
@@ -1672,7 +1672,7 @@ Investigative Direction: Obtain the passenger manifest and customs declarations 
 
 ---
 
-**C-5018** Host Says Epstein Held a Saudi Identification and Multiple Passports and Names
+**C-3199** Host Says Epstein Held a Saudi Identification and Multiple Passports and Names
 
 Claim Timestamp: 00:22:16
 
@@ -1687,7 +1687,7 @@ Investigative Direction: Check the court record on the Epstein passport found in
 
 ---
 
-**C-5019** Host Says Becoming Brigitte Season 2 Began September 8 and Macron's Lawsuit Cited MK Ultra 18 Times
+**C-3200** Host Says Becoming Brigitte Season 2 Began September 8 and Macron's Lawsuit Cited MK Ultra 18 Times
 
 Claim Timestamp: 00:23:28
 
@@ -1702,7 +1702,7 @@ Investigative Direction: Count the MK Ultra references in the Delaware complaint
 
 ---
 
-**C-5020** Host Says Her Team Asked Whether Brigitte Macron Was Involved in a Stanford Experiment With a Protected Prisoner 2093
+**C-3201** Host Says Her Team Asked Whether Brigitte Macron Was Involved in a Stanford Experiment With a Protected Prisoner 2093
 
 Claim Timestamp: 00:23:34
 
@@ -1717,7 +1717,7 @@ Investigative Direction: Document what the team found about 'prisoner 2093' and 
 
 ---
 
-**C-5021** Host Suspects Poussard's Messages Were Being Read and Tracked
+**C-3202** Host Suspects Poussard's Messages Were Being Read and Tracked
 
 Claim Timestamp: 00:23:51
 
@@ -1732,7 +1732,7 @@ Investigative Direction: Ask Poussard for evidence of account compromise or fore
 
 ---
 
-**C-5022** Host Floats MK Ultra Used to Create New Identities for Serial Killers
+**C-3203** Host Floats MK Ultra Used to Create New Identities for Serial Killers
 
 Claim Timestamp: 00:23:51
 
@@ -1747,7 +1747,7 @@ Investigative Direction: Identify documents or witnesses supporting the hypothes
 
 ---
 
-**C-5023** Host Says the Team Perhaps Identified Brigitte Macron at Stanford at About 50-50
+**C-3204** Host Says the Team Perhaps Identified Brigitte Macron at Stanford at About 50-50
 
 Claim Timestamp: 00:24:39
 
@@ -1762,7 +1762,7 @@ Investigative Direction: Obtain the identification material and the basis for th
 
 ---
 
-**C-5024** Host Says a Tip Showed the Hangar Had No Lease From 2021 Through 2024 While the Plane Still Stopped There
+**C-3205** Host Says a Tip Showed the Hangar Had No Lease From 2021 Through 2024 While the Plane Still Stopped There
 
 Claim Timestamp: 00:24:39
 
@@ -1777,7 +1777,7 @@ Investigative Direction: Obtain DRBA hangar-lease history for 2021 to 2024 and c
 
 ---
 
-**C-5025** Host Says the Hangar Is in Federally Controlled Waterways With Feds, Homeland Security and Contractors Cooperating
+**C-3206** Host Says the Hangar Is in Federally Controlled Waterways With Feds, Homeland Security and Contractors Cooperating
 
 Claim Timestamp: 00:24:39
 
@@ -1792,7 +1792,7 @@ Investigative Direction: Identify the building and agencies in question from DRB
 
 ---
 
-**C-5026** Host Says France Is Harassing and Debanking People Who Told the Story
+**C-3207** Host Says France Is Harassing and Debanking People Who Told the Story
 
 Claim Timestamp: 00:25:57
 
@@ -1807,7 +1807,7 @@ Investigative Direction: Name the individuals and obtain account-closure notices
 
 ---
 
-**C-5027** Host Alludes to People Tied to the Story Who Wound Up Dead
+**C-3208** Host Alludes to People Tied to the Story Who Wound Up Dead
 
 Claim Timestamp: 00:25:57
 
@@ -1822,7 +1822,7 @@ Investigative Direction: Identify the individuals from the series and obtain pol
 
 ---
 
-**C-5028** Host Says Many People in the Kirk Story Have a History of Child Sex Abuse
+**C-3209** Host Says Many People in the Kirk Story Have a History of Child Sex Abuse
 
 Claim Timestamp: 00:28:44
 
@@ -1837,7 +1837,7 @@ Investigative Direction: Cross-check each named person against court records for
 
 ---
 
-**C-5029** Host Says She Is Receiving Tips About Satys and Will Chase Them Down
+**C-3210** Host Says She Is Receiving Tips About Satys and Will Chase Them Down
 
 Claim Timestamp: 00:29:30
 
@@ -1852,7 +1852,7 @@ Investigative Direction: Review the Satys tips received and publish the corrobor
 
 ---
 
-**C-5030** Host Says France Could Help by Saying Who Landed in Wilmington
+**C-3211** Host Says France Could Help by Saying Who Landed in Wilmington
 
 Claim Timestamp: 00:29:30
 
@@ -1867,7 +1867,7 @@ Investigative Direction: Send the question to French authorities and the Satys C
 
 ---
 
-**C-5031** Host Says Harpole Told Shawn Ryan the Fault Lay With UVU Police Chief Long
+**C-3212** Host Says Harpole Told Shawn Ryan the Fault Lay With UVU Police Chief Long
 
 Claim Timestamp: 00:32:51
 
@@ -1878,12 +1878,12 @@ Transcript Snippet: But this is actually the fault of UVU police, right? It's it
 Anchored Artifacts: 
 Mentions: N-266, N-224, N-271
 Related Nodes: N-10862, N-10272
-Supports: C-1762
+Supports: C-3214
 Investigative Direction: Review the full Shawn Ryan interview and compare Harpole's statements about UVU police with the text exchange.
 
 ---
 
-**C-5032** Host Says TPUSA Security Staff Are Being Fired or Moved and Families Threatened
+**C-3213** Host Says TPUSA Security Staff Are Being Fired or Moved and Families Threatened
 
 Claim Timestamp: 00:32:51
 
@@ -1898,7 +1898,7 @@ Investigative Direction: Identify the affected security staff and obtain employm
 
 ---
 
-**C-5033** Harpole Says the Sorensen Center Is the Building in Front of the Losee Center
+**C-3216** Harpole Says the Sorensen Center Is the Building in Front of the Losee Center
 
 Claim Timestamp: 00:34:54
 
@@ -1909,12 +1909,12 @@ Transcript Snippet: the Sorensen Center was the building in front of the Losee C
 Anchored Artifacts: A-1448.1
 Mentions: N-266
 Related Nodes: N-10028
-Supports: C-1763
+Supports: C-3215
 Investigative Direction: Check a UVU campus map for the position of the Sorensen Center relative to the Losee Center; the transcript spells the second building Lucy.
 
 ---
 
-**C-5034** Host Says TPUSA Security Did Not Walk the Campus on Arrival
+**C-3217** Host Says TPUSA Security Did Not Walk the Campus on Arrival
 
 Claim Timestamp: 00:37:13
 
@@ -1929,7 +1929,7 @@ Investigative Direction: Obtain the security advance report, walk-through logs a
 
 ---
 
-**C-5035** Host Says Dan Flood Cared Mainly About Clear SUV Access Behind Charlie
+**C-3218** Host Says Dan Flood Cared Mainly About Clear SUV Access Behind Charlie
 
 Claim Timestamp: 00:37:13
 
@@ -1944,7 +1944,7 @@ Investigative Direction: Obtain the security plan and vehicle staging diagram; i
 
 ---
 
-**C-5036** Host Says Security Focused on Controlled Access in the Hall of Flags
+**C-3219** Host Says Security Focused on Controlled Access in the Hall of Flags
 
 Claim Timestamp: 00:38:27
 
@@ -1959,7 +1959,7 @@ Investigative Direction: Establish what the Hall of Flags access control covered
 
 ---
 
-**C-5037** Host Says Only Two Videos Show the Alleged Shooter on the Roof
+**C-3220** Host Says Only Two Videos Show the Alleged Shooter on the Roof
 
 Claim Timestamp: 00:38:39
 
@@ -1974,7 +1974,7 @@ Investigative Direction: Catalogue all rooftop-related videos submitted to UVU, 
 
 ---
 
-**C-5038** Host Says the Two Roof Videos Reached Media Through Third and Fourth Parties
+**C-3221** Host Says the Two Roof Videos Reached Media Through Third and Fourth Parties
 
 Claim Timestamp: 00:38:39
 
@@ -1985,12 +1985,12 @@ Transcript Snippet: those students who shot it didn't post it themselves. They w
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10175
-Supports: C-1252
+Supports: C-681
 Investigative Direction: Trace the chain of custody of each roof video from filmer to first publication.
 
 ---
 
-**C-5039** Host Says Both Roof-Video Filmers Were in the Military or ROTC
+**C-3222** Host Says Both Roof-Video Filmers Were in the Military or ROTC
 
 Claim Timestamp: 00:38:39
 
@@ -2005,7 +2005,7 @@ Investigative Direction: Verify each filmer's service or ROTC enrollment through
 
 ---
 
-**C-5040** Host Says the Student Who Posted Videos and Gave Them to the News Was in the Hall of Flags
+**C-3223** Host Says the Student Who Posted Videos and Gave Them to the News Was in the Hall of Flags
 
 Claim Timestamp: 00:39:36
 
@@ -2020,7 +2020,7 @@ Investigative Direction: Identify the student and compare his video timestamps a
 
 ---
 
-**C-5041** Host Says the Father-Turned-In-Son Story Was a Lie and She Had Sources
+**C-3224** Host Says the Father-Turned-In-Son Story Was a Lie and She Had Sources
 
 Claim Timestamp: 00:40:40
 
@@ -2035,7 +2035,7 @@ Investigative Direction: Compare the host's sources with charging documents, pre
 
 ---
 
-**C-5042** KUTV Reporter Says Washington County Said Robinson Did Not Go to the Jail Area and Denied Holding-Room Video
+**C-3228** KUTV Reporter Says Washington County Said Robinson Did Not Go to the Jail Area and Denied Holding-Room Video
 
 Claim Timestamp: 00:41:28
 
@@ -2050,7 +2050,7 @@ Investigative Direction: Obtain the original GRAMA request and the county's two 
 
 ---
 
-**C-5043** Brooksby Says the Office's Job Was Not to Interview, Just Get Tyler Robinson There
+**C-3229** Brooksby Says the Office's Job Was Not to Interview, Just Get Tyler Robinson There
 
 Claim Timestamp: 00:41:28
 
@@ -2065,7 +2065,7 @@ Investigative Direction: Obtain the full press-conference recording and transcri
 
 ---
 
-**C-5044** KUTV Says Robinson Was Taken Into Custody in Washington County Less Than Two Days After the Shooting
+**C-3230** KUTV Says Robinson Was Taken Into Custody in Washington County Less Than Two Days After the Shooting
 
 Claim Timestamp: 00:41:28
 
@@ -2080,7 +2080,7 @@ Investigative Direction: Check the booking record and arrest timestamp against t
 
 ---
 
-**C-5045** Unnamed Speaker in KUTV Report Says Destroyed or Undisclosed Video Is Very Concerning
+**C-3231** Unnamed Speaker in KUTV Report Says Destroyed or Undisclosed Video Is Very Concerning
 
 Claim Timestamp: 00:42:24
 
@@ -2095,7 +2095,7 @@ Investigative Direction: Identify the speaker and their role from the full KUTV 
 
 ---
 
-**C-5046** KUTV Says Washington County Does Not Believe the Video Was Shared With Anyone Involved in the Case
+**C-3232** KUTV Says Washington County Does Not Believe the Video Was Shared With Anyone Involved in the Case
 
 Claim Timestamp: 00:42:24
 
@@ -2110,7 +2110,7 @@ Investigative Direction: Ask Utah County, the state and the FBI whether any copy
 
 ---
 
-**C-5047** KUTV Speaker Says Footage of the Surrender Would Be Crucial for Defense Mitigation Work
+**C-3233** KUTV Speaker Says Footage of the Surrender Would Be Crucial for Defense Mitigation Work
 
 Claim Timestamp: 00:42:24
 
@@ -2125,7 +2125,7 @@ Investigative Direction: Identify the speaker (likely a legal commentator) and c
 
 ---
 
-**C-5048** Host Says Tyler Robinson Appears Electronically and Need Not Show His Video
+**C-3234** Host Says Tyler Robinson Appears Electronically and Need Not Show His Video
 
 Claim Timestamp: 00:43:22
 
@@ -2140,7 +2140,7 @@ Investigative Direction: Review the court docket and hearing recordings for the 
 
 ---
 
-**C-5049** Host Says the Official Account Has Robinson Never on UVU Campus Before the Day
+**C-3235** Host Says the Official Account Has Robinson Never on UVU Campus Before the Day
 
 Claim Timestamp: 00:44:21
 
@@ -2155,7 +2155,7 @@ Investigative Direction: Check whether Robinson visited the campus before Septem
 
 ---
 
-**C-5050** Host Recounts Official Account of Robinson Texting a Partner From Dairy Queen and Next Day
+**C-3236** Host Recounts Official Account of Robinson Texting a Partner From Dairy Queen and Next Day
 
 Claim Timestamp: 00:44:21
 
@@ -2170,7 +2170,7 @@ Investigative Direction: Compare the prosecution's text-message exhibits and Dai
 
 ---
 
-**C-5051** Host Says the Official Account Gives Robinson a 4.3 GPA While He Wrote Out the Crime
+**C-3237** Host Says the Official Account Gives Robinson a 4.3 GPA While He Wrote Out the Crime
 
 Claim Timestamp: 00:44:21
 
@@ -2185,7 +2185,7 @@ Investigative Direction: Check school records or charging documents for Robinson
 
 ---
 
-**C-5052** Host Says She Is Sharing Everything as a Form of Insurance
+**C-3238** Host Says She Is Sharing Everything as a Form of Insurance
 
 Claim Timestamp: 00:50:20
 
@@ -2200,7 +2200,7 @@ Investigative Direction: Ask the host who has received the shared material and w
 
 ---
 
-**C-5053** Viewer Comment Says Ron Paul Questioned the Official Narrative on September 16, 2025
+**C-3240** Viewer Comment Says Ron Paul Questioned the Official Narrative on September 16, 2025
 
 Claim Timestamp: 00:51:14
 
@@ -2215,7 +2215,7 @@ Investigative Direction: Find the Ron Paul statement or broadcast and its date.
 
 ---
 
-**C-5054** Host Says She Should Send Ron Paul an Insurance Package
+**C-3241** Host Says She Should Send Ron Paul an Insurance Package
 
 Claim Timestamp: 00:51:14
 
@@ -2230,7 +2230,7 @@ Investigative Direction: Ask the host whether the package was sent and what it c
 
 ---
 
-**C-5055** Host Says She Has Never Been Recruited by the Government
+**C-3242** Host Says She Has Never Been Recruited by the Government
 
 Claim Timestamp: 00:51:58
 
@@ -2245,7 +2245,7 @@ Investigative Direction: No external check is available; this is a self-report.
 
 ---
 
-**C-5056** Host Says Reading That Patel Blocked Gabbard's Office Cost Him Her Trust
+**C-3243** Host Says Reading That Patel Blocked Gabbard's Office Cost Him Her Trust
 
 Claim Timestamp: 00:52:43
 
@@ -2260,7 +2260,7 @@ Investigative Direction: Locate the article about Patel blocking Gabbard's offic
 
 ---
 
-**C-5057** Host Says a Tip Described the Damage From an Accidental .306 Shot and She Declined to Share the Photo
+**C-3244** Host Says a Tip Described the Damage From an Accidental .306 Shot and She Declined to Share the Photo
 
 Claim Timestamp: 00:53:24
 
@@ -2275,7 +2275,7 @@ Investigative Direction: Ask the host for the tip submission and metadata; a med
 
 ---
 
-**C-5058** Host Concludes There Was No Bending Bullet and a Smaller Weapon Was Used
+**C-3245** Host Concludes There Was No Bending Bullet and a Smaller Weapon Was Used
 
 Claim Timestamp: 00:53:24
 
@@ -2290,7 +2290,7 @@ Investigative Direction: Compare the autopsy and ballistic evidence with the cal
 
 ---
 
-**C-5059** Host Says a First Lady or First Man of a Country Would Be Classified as a Foreign Dignitary
+**C-3246** Host Says a First Lady or First Man of a Country Would Be Classified as a Foreign Dignitary
 
 Claim Timestamp: 00:53:24
 
@@ -2305,7 +2305,7 @@ Investigative Direction: Check State Department and Secret Service definitions o
 
 ---
 
-**C-5060** Mark Says Dignitary Is a Broad Term Including Senior Officials, Aides and Religious Leaders
+**C-3247** Mark Says Dignitary Is a Broad Term Including Senior Officials, Aides and Religious Leaders
 
 Claim Timestamp: 00:54:41
 
@@ -2320,7 +2320,7 @@ Investigative Direction: Check State Department and Secret Service definitions o
 
 ---
 
-**C-5061** Host Asks Viewers to Email More Tips at the Candace Owens Tips Address
+**C-3248** Host Asks Viewers to Email More Tips at the Candace Owens Tips Address
 
 Claim Timestamp: 00:54:41
 

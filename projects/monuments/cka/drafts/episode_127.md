@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10b): N-777, N-778, N-779, N-11138
   - Hole-minted Nodes (reintro-ep127): N-10736, N-10772, N-10773, N-10778
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10b): C-7280–C-7351
+  - Claim Range: C-10862–C-10949
   - New Nodes Introduced: N-10725, N-10726, N-10727, N-10728, N-10731
   - Reused Nodes Appearing: N-378, N-505, N-10729, N-10730, N-11, N-14, N-22, N-27, N-40, N-50, N-69, N-97, N-159, N-208, N-224, N-231, N-325, N-330, N-366, N-430, N-683, N-738, N-10000, N-10012, N-10014, N-10021, N-10024, N-10026, N-10064, N-10090, N-10131, N-10177, N-10209, N-10447, N-10566, N-10681, N-10692, N-10712, N-10717, N-10818, N-10888, N-11017, N-11065, N-10754, N-80
   - Hole-minted Nodes (wave3): N-506
@@ -160,7 +160,7 @@ Video Timestamp: 00:05:36–00:06:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3042, C-3043, C-3044, N-10725*
+*Related: C-10867, C-10871, C-10873, N-10725*
 
 **A-2146.2** Unidentified badge-holding rooftop companion testimony
 
@@ -170,7 +170,7 @@ Video Timestamp: 00:09:06–00:10:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3043, C-3044, N-10726*
+*Related: C-10871, C-10873, N-10726*
 
 ---
 
@@ -184,7 +184,7 @@ Video Timestamp: 00:06:28–00:08:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (content displayed/read on air)
 
-*Related: C-3045, C-3056, N-10725*
+*Related: C-10869, C-10895, N-10725*
 
 ---
 
@@ -198,7 +198,7 @@ Video Timestamp: 00:15:19–00:16:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3046, C-3047, N-10727*
+*Related: C-10879, C-10882, N-10727*
 
 **A-2148.2** Reversal of FBI testing decision testimony
 
@@ -208,7 +208,7 @@ Video Timestamp: 00:16:23–00:17:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3047, C-3048, N-10727*
+*Related: C-10882, C-10883, N-10727*
 
 ---
 
@@ -222,7 +222,7 @@ Video Timestamp: 00:19:25–00:20:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3049, C-3050, N-10727*
+*Related: C-10887, C-10889, N-10727*
 
 **A-2149.2** Lab-notes attribution of backpack to "Kirk's detail"
 
@@ -232,7 +232,7 @@ Video Timestamp: 00:20:30–00:21:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3050, C-3051, N-10727*
+*Related: C-10889, C-10890, N-10727*
 
 ---
 
@@ -246,7 +246,7 @@ Video Timestamp: 00:35:42–00:38:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip displayed on air)
 
-*Related: C-3052, C-3053, N-10730*
+*Related: C-10908, C-10909, N-10730*
 
 ---
 
@@ -260,7 +260,7 @@ Video Timestamp: 00:30:48–00:34:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (letter read in full)
 
-*Related: C-3055*
+*Related: C-10905*
 
 ---
 
@@ -274,7 +274,7 @@ Video Timestamp: 00:46:07–00:47:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host described content; clip not replayed on air)
 
-*Related: C-3054, N-10731*
+*Related: C-10923, N-10731*
 
 ---
 
@@ -289,7 +289,7 @@ Video Timestamp: 00:26:17
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-7305, C-7306, N-3*
+*Related: C-10899, C-10900, N-3*
 
 ---
 
@@ -304,7 +304,7 @@ Video Timestamp: 00:49:39
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7332, N-3*
+*Related: C-10930, N-3*
 
 ---
 
@@ -317,7 +317,7 @@ Video Timestamp: 00:51:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-7333, C-7334, N-3*
+*Related: C-10931, C-10932, N-3*
 
 ---
 
@@ -330,7 +330,7 @@ Video Timestamp: 00:54:11
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-7335, C-7336, N-3*
+*Related: C-10933, C-10934, N-3*
 
 ---
 
@@ -345,7 +345,7 @@ Video Timestamp: 00:47:56
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7328, C-7329, C-7330, C-7331, N-3*
+*Related: C-10926, C-10927, C-10928, C-10929, N-3*
 
 ---
 
@@ -360,7 +360,7 @@ Video Timestamp: 00:41:38
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7322, N-3*
+*Related: C-10919, N-3*
 
 ---
 
@@ -373,7 +373,7 @@ Video Timestamp: 00:45:23
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7324, C-7325, N-3*
+*Related: C-10921, C-10922, N-3*
 
 ---
 
@@ -383,13 +383,13 @@ Confidence Level: Low
 
 First named by the host at 00:04:45 in episode 127. Aliases: Officer Bagley, Officer Christopher Bagley.
 
-*Related: C-3042, C-3043, C-3044*
+*Related: C-10867, C-10871, C-10873*
 
 **N-378** Dan Bongino
 
 Named by the host at 00:45:58 in episode 127; first introduced in episode 15.
 
-*Related: C-3054*
+*Related: C-10923*
 
 
 **N-10725** Officer Bagley Body-Cam Battery Anomaly
@@ -401,7 +401,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2146.1, A-2147.1, C-3042, C-3045*
+*Related: A-2146.1, A-2147.1, C-10867, C-10869*
 
 **N-10726** Unidentified Badge-Holding Rooftop Companion
 
@@ -412,7 +412,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2146.2, C-3043*
+*Related: A-2146.2, C-10871*
 
 **N-10727** Abandoned Backpack / Jacket / Gloves Non-Testing Decision
 
@@ -423,7 +423,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2148.1, A-2148.2, A-2149.1, A-2149.2, C-3046, C-3047, C-3048, C-3049, C-3050, C-3051*
+*Related: A-2148.1, A-2148.2, A-2149.1, A-2149.2, C-10879, C-10882, C-10883, C-10887, C-10889, C-10890*
 
 **N-10728** Timpanogos Hospital Pre-Notification Failure
 
@@ -434,7 +434,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3056*
+*Related: C-10895*
 
 **N-10729** 911 Call Identification Gap
 
@@ -445,7 +445,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3057*
+*Related: C-10898*
 
 **N-10730** Frank Turek FaceTime Story Inconsistency
 
@@ -456,7 +456,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2150.1, C-3052, C-3053*
+*Related: A-2150.1, C-10908, C-10909*
 
 **N-10731** Screwdriver Footage Graininess Discrepancy
 
@@ -467,7 +467,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2152.1, C-3054*
+*Related: A-2152.1, C-10923*
 
 ---
 
@@ -475,7 +475,7 @@ Investigative Pressure: Medium
 
 Subject of the assassination; the host refers to his detail, messages and fears.
 
-*Related: C-7300, C-7301, C-7320, C-7322, C-7328, C-7329, C-7336, C-7342, C-7345, C-7347, C-7351*
+*Related: C-10892, C-10893, C-10917, C-10919, C-10926, C-10927, C-10934, C-10940, C-10943, C-10945, C-10949*
 
 ---
 
@@ -483,7 +483,7 @@ Subject of the assassination; the host refers to his detail, messages and fears.
 
 Host; speaks for herself throughout.
 
-*Related: C-7280, C-7281, C-7282, C-7283, C-7284, C-7286, C-7289, C-7290, C-7291, C-7292, C-7296, C-7297, C-7299, C-7300, C-7301, C-7302, C-7303, C-7304, C-7307, C-7308, C-7309, C-7310, C-7311, C-7312, C-7313, C-7317, C-7318, C-7319, C-7320, C-7321, C-7323, C-7324, C-7325, C-7326, C-7327, C-7328, C-7329, C-7330, C-7331, C-7332, C-7333, C-7334, C-7335, C-7336, C-7337, C-7338, C-7339, C-7340, C-7341, C-7342, C-7343, C-7344, C-7345, C-7346, C-7347, C-7348, C-7349, C-7350, C-7351*
+*Related: C-10862, C-10863, C-10864, C-10865, C-10866, C-10870, C-10875, C-10876, C-10877, C-10878, C-10885, C-10886, C-10891, C-10892, C-10893, C-10894, C-10896, C-10897, C-10901, C-10902, C-10903, C-10904, C-10906, C-10907, C-10910, C-10914, C-10915, C-10916, C-10917, C-10918, C-10920, C-10921, C-10922, C-10924, C-10925, C-10926, C-10927, C-10928, C-10929, C-10930, C-10931, C-10932, C-10933, C-10934, C-10935, C-10936, C-10937, C-10938, C-10939, C-10940, C-10941, C-10942, C-10943, C-10944, C-10945, C-10946, C-10947, C-10948, C-10949*
 
 ---
 
@@ -491,7 +491,7 @@ Host; speaks for herself throughout.
 
 Apologist and Kirk's companion in the car; the host examines his FaceTime account and his family.
 
-*Related: C-7304, C-7309, C-7310, C-7311, C-7312, C-7313, C-7314, C-7315, C-7316, C-7317, C-7318, C-7321, C-7323, C-7349*
+*Related: C-10897, C-10903, C-10904, C-10906, C-10907, C-10910, C-10911, C-10912, C-10913, C-10914, C-10915, C-10918, C-10920, C-10947*
 
 ---
 
@@ -499,7 +499,7 @@ Apologist and Kirk's companion in the car; the host examines his FaceTime accoun
 
 Named as part of chats with the host about Mark Meckler.
 
-*Related: C-7331*
+*Related: C-10929*
 
 ---
 
@@ -507,7 +507,7 @@ Named as part of chats with the host about Mark Meckler.
 
 TPUSA spokesperson; the host quotes his initial tweet.
 
-*Related: C-7322*
+*Related: C-10919*
 
 ---
 
@@ -515,7 +515,7 @@ TPUSA spokesperson; the host quotes his initial tweet.
 
 Named by the host as one of two people who told the truth about Charlie.
 
-*Related: C-7347*
+*Related: C-10945*
 
 ---
 
@@ -523,7 +523,7 @@ Named by the host as one of two people who told the truth about Charlie.
 
 Cited in the host's account of a 5150 hold.
 
-*Related: C-7337*
+*Related: C-10935*
 
 ---
 
@@ -531,7 +531,7 @@ Cited in the host's account of a 5150 hold.
 
 Accused; the host disputes the video said to show him turning himself in.
 
-*Related: C-7282, C-7324, C-7325*
+*Related: C-10864, C-10921, C-10922*
 
 ---
 
@@ -539,7 +539,7 @@ Accused; the host disputes the video said to show him turning himself in.
 
 Host discusses her hosting of influencers and her statements about Charlie.
 
-*Related: C-7343, C-7344, C-7345, C-7346, C-7347*
+*Related: C-10941, C-10942, C-10943, C-10944, C-10945*
 
 ---
 
@@ -547,7 +547,7 @@ Host discusses her hosting of influencers and her statements about Charlie.
 
 The host credits studying Freud with helping her resist psychiatric attacks.
 
-*Related: C-7341, C-7342*
+*Related: C-10939, C-10940*
 
 ---
 
@@ -555,7 +555,7 @@ The host credits studying Freud with helping her resist psychiatric attacks.
 
 FBI director who announced the screwdriver DNA.
 
-*Related: C-7282*
+*Related: C-10864*
 
 ---
 
@@ -563,7 +563,7 @@ FBI director who announced the screwdriver DNA.
 
 His security team is said by the host to have given updates in the car.
 
-*Related: C-7306, C-7317*
+*Related: C-10900, C-10914*
 
 ---
 
@@ -571,7 +571,7 @@ His security team is said by the host to have given updates in the car.
 
 The host says he works at Turning Point.
 
-*Related: C-7280*
+*Related: C-10862*
 
 ---
 
@@ -579,7 +579,7 @@ The host says he works at Turning Point.
 
 Pastor Turek says he called to pray after the hospital.
 
-*Related: C-7314*
+*Related: C-10911*
 
 ---
 
@@ -587,7 +587,7 @@ Pastor Turek says he called to pray after the hospital.
 
 Host's interviewer in the 6 million view episode.
 
-*Related: C-7335*
+*Related: C-10933*
 
 ---
 
@@ -595,7 +595,7 @@ Host's interviewer in the 6 million view episode.
 
 Named by the host over his Christ is King video.
 
-*Related: C-7341*
+*Related: C-10939*
 
 ---
 
@@ -603,7 +603,7 @@ Named by the host over his Christ is King video.
 
 Car occupant whose hospital-arrival statement the host plays.
 
-*Related: C-7304, C-7305, C-7306*
+*Related: C-10897, C-10899, C-10900*
 
 ---
 
@@ -611,7 +611,7 @@ Car occupant whose hospital-arrival statement the host plays.
 
 Named by the host in re-examining her PragerU contacts.
 
-*Related: C-7349, C-7350*
+*Related: C-10947, C-10948*
 
 ---
 
@@ -619,7 +619,7 @@ Named by the host in re-examining her PragerU contacts.
 
 Flagged the Faumuina and Baker segment to the host.
 
-*Related: C-7281*
+*Related: C-10863*
 
 ---
 
@@ -627,7 +627,7 @@ Flagged the Faumuina and Baker segment to the host.
 
 Hosted Mark Meckler according to the host.
 
-*Related: C-7327*
+*Related: C-10925*
 
 ---
 
@@ -635,7 +635,7 @@ Hosted Mark Meckler according to the host.
 
 Named in a viewer comment on Sound of Freedom.
 
-*Related: C-7349*
+*Related: C-10947*
 
 ---
 
@@ -643,7 +643,7 @@ Named in a viewer comment on Sound of Freedom.
 
 Sergeant Jennifer Faumuina of the Utah Bureau of Investigations.
 
-*Related: C-7292, C-7293, C-7294, C-7295, C-7296*
+*Related: C-10878, C-10880, C-10881, C-10884, C-10885*
 
 ---
 
@@ -651,7 +651,7 @@ Sergeant Jennifer Faumuina of the Utah Bureau of Investigations.
 
 Turek's son named as FaceTiming during the event.
 
-*Related: C-7313, C-7315, C-7319, C-7320*
+*Related: C-10910, C-10912, C-10916, C-10917*
 
 ---
 
@@ -659,7 +659,7 @@ Turek's son named as FaceTiming during the event.
 
 Cited in the host's account of her Daily Wire firing.
 
-*Related: C-7338, C-7339*
+*Related: C-10936, C-10937*
 
 ---
 
@@ -667,7 +667,7 @@ Cited in the host's account of her Daily Wire firing.
 
 Named by the host as the trainer in the Kanye 5150 account.
 
-*Related: C-7337*
+*Related: C-10935*
 
 ---
 
@@ -675,7 +675,7 @@ Named by the host as the trainer in the Kanye 5150 account.
 
 Organization; Blake Neff's employer and subject of the Meckler proposal.
 
-*Related: C-7280, C-7328*
+*Related: C-10862, C-10926*
 
 ---
 
@@ -683,7 +683,7 @@ Organization; Blake Neff's employer and subject of the Meckler proposal.
 
 Host's correction concerns whether Faumuina is UVU police.
 
-*Related: C-7292*
+*Related: C-10878*
 
 ---
 
@@ -691,7 +691,7 @@ Host's correction concerns whether Faumuina is UVU police.
 
 Lab that processed or stopped testing the library items.
 
-*Related: C-7282, C-7298*
+*Related: C-10864, C-10888*
 
 ---
 
@@ -699,7 +699,7 @@ Lab that processed or stopped testing the library items.
 
 Existing topic reused.
 
-*Related: C-7324*
+*Related: C-10921*
 
 ---
 
@@ -707,7 +707,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7351*
+*Related: C-10949*
 
 ---
 
@@ -715,7 +715,7 @@ Existing topic reused.
 
 Subject of host's claims about bots, influencers and Taybeh.
 
-*Related: C-7310, C-7332, C-7333, C-7334*
+*Related: C-10904, C-10930, C-10931, C-10932*
 
 ---
 
@@ -723,7 +723,7 @@ Subject of host's claims about bots, influencers and Taybeh.
 
 Zach Turek's alleged workplace.
 
-*Related: C-7316*
+*Related: C-10913*
 
 ---
 
@@ -731,7 +731,7 @@ Zach Turek's alleged workplace.
 
 Existing topic reused for screwdriver claims.
 
-*Related: C-7282, C-7283, C-7284, C-7290, C-7291*
+*Related: C-10864, C-10865, C-10866, C-10876, C-10877*
 
 ---
 
@@ -739,7 +739,7 @@ Existing topic reused for screwdriver claims.
 
 Where the host says she met Ballard and others.
 
-*Related: C-7350*
+*Related: C-10948*
 
 ---
 
@@ -747,7 +747,7 @@ Where the host says she met Ballard and others.
 
 Existing topic reused for the host's message archive.
 
-*Related: C-7329, C-7330, C-7331*
+*Related: C-10927, C-10928, C-10929*
 
 ---
 
@@ -755,7 +755,7 @@ Existing topic reused for the host's message archive.
 
 Existing topic reused for pastor claims.
 
-*Related: C-7310, C-7312*
+*Related: C-10904, C-10907*
 
 ---
 
@@ -763,7 +763,7 @@ Existing topic reused for pastor claims.
 
 Existing topic reused for Kolvet's miracle tweet.
 
-*Related: C-7322*
+*Related: C-10919*
 
 ---
 
@@ -771,7 +771,7 @@ Existing topic reused for Kolvet's miracle tweet.
 
 Existing topic reused.
 
-*Related: C-7325*
+*Related: C-10922*
 
 ---
 
@@ -779,7 +779,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7335*
+*Related: C-10933*
 
 ---
 
@@ -787,7 +787,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7305, C-7308*
+*Related: C-10899, C-10902*
 
 ---
 
@@ -795,7 +795,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7306, C-7317*
+*Related: C-10900, C-10914*
 
 ---
 
@@ -803,7 +803,7 @@ Existing topic reused.
 
 Existing topic reused for the bus stop location.
 
-*Related: C-7294, C-7300, C-7302*
+*Related: C-10881, C-10892, C-10894*
 
 ---
 
@@ -811,7 +811,7 @@ Existing topic reused for the bus stop location.
 
 Existing topic reused.
 
-*Related: C-7290*
+*Related: C-10876*
 
 ---
 
@@ -819,7 +819,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7283, C-7291*
+*Related: C-10865, C-10877*
 
 ---
 
@@ -827,7 +827,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7287*
+*Related: C-10872*
 
 ---
 
@@ -835,7 +835,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7286*
+*Related: C-10870*
 
 ---
 
@@ -843,7 +843,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7288*
+*Related: C-10874*
 
 ---
 
@@ -851,7 +851,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7314*
+*Related: C-10911*
 
 ---
 
@@ -859,7 +859,7 @@ Existing topic reused.
 
 Department of Defense.
 
-*Related: C-7318*
+*Related: C-10915*
 
 ---
 
@@ -867,7 +867,7 @@ Department of Defense.
 
 Existing topic reused.
 
-*Related: C-7332*
+*Related: C-10930*
 
 ---
 
@@ -875,7 +875,7 @@ Existing topic reused.
 
 Existing topic reused for influencers at the hearing.
 
-*Related: C-7289, C-7343, C-7344, C-7346*
+*Related: C-10875, C-10941, C-10942, C-10944*
 
 ---
 
@@ -883,7 +883,7 @@ Existing topic reused for influencers at the hearing.
 
 First named by the host at 00:19:25 in episode 127. FBI agent who testified about exhibit nine, the backpack.
 
-*Related: C-7298, C-7299*
+*Related: C-10888, C-10891*
 
 ---
 
@@ -891,7 +891,7 @@ First named by the host at 00:19:25 in episode 127. FBI agent who testified abou
 
 First named by the host at 00:38:14 in episode 127. Aliases: Zachary Turek, Frank Zachary Turek, Pentagon Zack.
 
-*Related: C-7316, C-7318, C-7321*
+*Related: C-10913, C-10915, C-10918*
 
 ---
 
@@ -899,7 +899,7 @@ First named by the host at 00:38:14 in episode 127. Aliases: Zachary Turek, Fran
 
 First named by the host at 00:47:56 in episode 127. Convention of States figure, called the snake-ler by the host.
 
-*Related: C-7327, C-7328, C-7329, C-7331*
+*Related: C-10925, C-10926, C-10927, C-10929*
 
 ---
 
@@ -908,13 +908,13 @@ First named by the host at 00:47:56 in episode 127. Convention of States figure,
 Node Type: Topic
 The host's claims about the military postings of Frank Turek's sons and family, including Zach Turek at the Pentagon and Spencer as an Air Force pilot.
 
-*Related: C-7309, C-7313, C-7316, C-7319, C-7321*
+*Related: C-10903, C-10910, C-10913, C-10916, C-10918*
 
 ---
 
 ## 5. Claim Register
 
-**C-3042** Officer Bagley Testified Body-Cam Footage Ended While on Rooftop
+**C-10867** Officer Bagley Testified Body-Cam Footage Ended While on Rooftop
 
 Claim Timestamp: 00:05:36–00:06:28
 
@@ -929,7 +929,7 @@ Investigative Direction: Obtain full Axon Body Cam 4 battery-log metadata for Ba
 
 ---
 
-**C-3043** Officer Bagley testified he did not know the identity of his rooftop companion
+**C-10871** Officer Bagley testified he did not know the identity of his rooftop companion
 
 Claim Timestamp: 00:09:06–00:10:43
 
@@ -944,7 +944,7 @@ Investigative Direction: Identify the badge-holder from rooftop footage, radio t
 
 ---
 
-**C-3044** Officer Bagley testified he did not review video footage between 12:23 and 12:44 for other rooftop presence
+**C-10873** Officer Bagley testified he did not review video footage between 12:23 and 12:44 for other rooftop presence
 
 Claim Timestamp: 00:10:05–00:11:27
 
@@ -959,7 +959,7 @@ Investigative Direction: Locate the 20-minute footage gap referenced and obtain 
 
 ---
 
-**C-3045** Axon Body Cam 4 operator email disputes battery termination claim
+**C-10869** Axon Body Cam 4 operator email disputes battery termination claim
 
 Claim Timestamp: 00:06:28–00:08:12
 
@@ -973,7 +973,7 @@ Investigative Direction: Identify the email author (host has protected identity)
 
 ---
 
-**C-3046** Sergeant Faumuina testified backpack, jacket, and gloves were found at Fulton Library bus stop on shooter's route
+**C-10879** Sergeant Faumuina testified backpack, jacket, and gloves were found at Fulton Library bus stop on shooter's route
 
 Claim Timestamp: 00:15:19–00:16:23
 
@@ -988,7 +988,7 @@ Investigative Direction: Obtain Faumuina's September 22, 2025 crime-scene overvi
 
 ---
 
-**C-3047** Sergeant Faumuina testified items were sent to FBI lab for DNA processing
+**C-10882** Sergeant Faumuina testified items were sent to FBI lab for DNA processing
 
 Claim Timestamp: 00:16:23–00:17:06
 
@@ -1003,7 +1003,7 @@ Investigative Direction: Obtain the FBI lab intake documentation for these items
 
 ---
 
-**C-3048** Sergeant Faumuina testified that testing was halted without her direct communication of the decision
+**C-10883** Sergeant Faumuina testified that testing was halted without her direct communication of the decision
 
 Claim Timestamp: 00:17:06–00:17:53
 
@@ -1018,7 +1018,7 @@ Investigative Direction: Compare FBI/ATF lab notes to Faumuina's communication l
 
 ---
 
-**C-3049** FBI agent Amanda Bakker testified backpack was determined to be potentially left by a bystander
+**C-10887** FBI agent Amanda Bakker testified backpack was determined to be potentially left by a bystander
 
 Claim Timestamp: 00:19:25–00:20:30
 
@@ -1033,7 +1033,7 @@ Investigative Direction: Identify the bystander candidate; obtain the source of 
 
 ---
 
-**C-3050** Amanda Bakker testified lab notes attributed backpack to Kirk's detail via another lab employee's communication
+**C-10889** Amanda Bakker testified lab notes attributed backpack to Kirk's detail via another lab employee's communication
 
 Claim Timestamp: 00:20:30–00:21:15
 
@@ -1048,7 +1048,7 @@ Investigative Direction: Identify the lab employee who authored/added the "Kirk'
 
 ---
 
-**C-3051** Host stance: FBI "bystander/Kirk's detail" determination is unsubstantiated
+**C-10890** Host stance: FBI "bystander/Kirk's detail" determination is unsubstantiated
 
 Claim Timestamp: 00:20:30–00:24:14
 
@@ -1063,7 +1063,7 @@ Investigative Direction: Locate the original handwritten or digital lab note and
 
 ---
 
-**C-3052** Frank Turek stated he was FaceTiming his son and daughter-in-law during the event
+**C-10908** Frank Turek stated he was FaceTiming his son and daughter-in-law during the event
 
 Claim Timestamp: 00:35:42–00:36:38
 
@@ -1078,7 +1078,7 @@ Investigative Direction: Obtain call-detail records (timestamps, duration, devic
 
 ---
 
-**C-3053** Frank Turek Corrects Himself From Hotel to Hospital on FaceTime Duration
+**C-10909** Frank Turek Corrects Himself From Hotel to Hospital on FaceTime Duration
 
 Claim Timestamp: 00:35:42–00:38:14
 
@@ -1093,7 +1093,7 @@ Investigative Direction: Obtain the full unedited interview recordings and any p
 
 ---
 
-**C-3054** Dan Bongino stated on Sept. 15 that screwdriver rooftop footage was too grainy to discern
+**C-10923** Dan Bongino stated on Sept. 15 that screwdriver rooftop footage was too grainy to discern
 
 Claim Timestamp: 00:46:07–00:47:07
 
@@ -1108,7 +1108,7 @@ Investigative Direction: Obtain the original Megyn Kelly / Bongino Sept. 15 broa
 
 ---
 
-**C-3055** Anonymous husband letter claims wife's Candace-influenced beliefs are causing marriage strain
+**C-10905** Anonymous husband letter claims wife's Candace-influenced beliefs are causing marriage strain
 
 Claim Timestamp: 00:32:30
 
@@ -1123,7 +1123,7 @@ Investigative Direction: Note as Frank Turek show content artifact; not investig
 
 ---
 
-**C-3056** Verified Timpanogos Regional Hospital source states hospital was not pre-informed
+**C-10895** Verified Timpanogos Regional Hospital source states hospital was not pre-informed
 
 Claim Timestamp: 00:25:23–00:27:13
 
@@ -1140,7 +1140,7 @@ Investigative Direction: Obtain independent corroboration from hospital intake r
 
 ---
 
-**C-3057** Host Says Brian Harpole Did Not Personally Identify Himself as the 911 Caller
+**C-10898** Host Says Brian Harpole Did Not Personally Identify Himself as the 911 Caller
 
 Claim Timestamp: 00:26:17–00:27:13
 
@@ -1157,7 +1157,7 @@ Investigative Direction: Obtain the 911-call audio and CPD/EMS dispatch records 
 
 ---
 
-**C-7280** Host Says Blake Neff Works at Turning Point
+**C-10862** Host Says Blake Neff Works at Turning Point
 
 Claim Timestamp: 00:01:21
 
@@ -1173,7 +1173,7 @@ Investigative Direction: Confirm Blake Neff's current employment and role with T
 
 ---
 
-**C-7281** Host Says Coleman Flagged a Missed Hearing Segment on the Backpack
+**C-10863** Host Says Coleman Flagged a Missed Hearing Segment on the Backpack
 
 Claim Timestamp: 00:01:21
 
@@ -1189,7 +1189,7 @@ Investigative Direction: Review the preliminary hearing transcript for the Faumu
 
 ---
 
-**C-7282** Host Says Kash Patel Announced Screwdriver DNA Days After a Leak
+**C-10864** Host Says Kash Patel Announced Screwdriver DNA Days After a Leak
 
 Claim Timestamp: 00:03:06
 
@@ -1205,7 +1205,7 @@ Investigative Direction: Compare the dates of Patel's public DNA announcement, t
 
 ---
 
-**C-7283** Host Says Rooftop Eyewitness Never Saw a Towel or Screwdriver
+**C-10865** Host Says Rooftop Eyewitness Never Saw a Towel or Screwdriver
 
 Claim Timestamp: 00:03:53
 
@@ -1221,7 +1221,7 @@ Investigative Direction: Obtain the eyewitness's recorded statements and any FBI
 
 ---
 
-**C-7284** Host Says Bagley Reached the Roof at 12:44 and Found the Screwdriver
+**C-10866** Host Says Bagley Reached the Roof at 12:44 and Found the Screwdriver
 
 Claim Timestamp: 00:04:45
 
@@ -1237,7 +1237,7 @@ Investigative Direction: Obtain Bagley's report and evidence log for the screwdr
 
 ---
 
-**C-7285** Bagley Testified He Did Not Re-Dock or Restart His Body Cam
+**C-10868** Bagley Testified He Did Not Re-Dock or Restart His Body Cam
 
 Claim Timestamp: 00:05:36
 
@@ -1248,13 +1248,13 @@ Transcript Snippet: Usually dock it, but no, I didn't go back.
 Anchored Artifacts: A-2146.1
 Mentions: N-506
 Related Nodes: N-10725
-Supports: C-3042
+Supports: C-10867
 Tags: relevance:core
 Investigative Direction: Obtain Bagley's device dock log and the UVU police body-cam retention records for September 10.
 
 ---
 
-**C-7286** Host Says Body-Cam Data Will Show Whether the Battery Died or Was Turned Off
+**C-10870** Host Says Body-Cam Data Will Show Whether the Battery Died or Was Turned Off
 
 Claim Timestamp: 00:08:12
 
@@ -1265,13 +1265,13 @@ Transcript Snippet: it stores that data, and so we will be able to find out even
 Anchored Artifacts: A-2147.1
 Mentions: N-506, N-3
 Related Nodes: N-10725, N-10773
-Supports: C-3045
+Supports: C-10869
 Tags: relevance:core
 Investigative Direction: Subpoena Axon evidence-system audit logs for Bagley's camera showing battery state, power-off events and upload times.
 
 ---
 
-**C-7287** Bagley Testified He Brought a Backup Person Up the Stairs
+**C-10872** Bagley Testified He Brought a Backup Person Up the Stairs
 
 Claim Timestamp: 00:09:06
 
@@ -1282,13 +1282,13 @@ Transcript Snippet: I had somebody with me to back me up as I ran up the stairs 
 Anchored Artifacts: A-2146.2
 Mentions: N-506
 Related Nodes: N-10726, N-10772
-Supports: C-3043
+Supports: C-10871
 Tags: relevance:core
 Investigative Direction: Identify the armed person in civilian clothing from the body-cam frames and the radio log of who entered the building with Bagley.
 
 ---
 
-**C-7288** Bagley Testified Others Were Searching the Roof and He Learned of the Jump at the PD
+**C-10874** Bagley Testified Others Were Searching the Roof and He Learned of the Jump at the PD
 
 Claim Timestamp: 00:10:05
 
@@ -1299,13 +1299,13 @@ Transcript Snippet: there was people up there looking for an individual that ran
 Anchored Artifacts: A-2146.2
 Mentions: N-506
 Related Nodes: N-10778, N-10726
-Qualifies: C-3044
+Qualifies: C-10873
 Tags: relevance:core
 Investigative Direction: Obtain dispatch audio and CAD entries on the north-heading report and the roster of officers who cleared the building before 12:44.
 
 ---
 
-**C-7289** Host Says Influencers Reported 4K HD Rooftop Footage
+**C-10875** Host Says Influencers Reported 4K HD Rooftop Footage
 
 Claim Timestamp: 00:12:54
 
@@ -1321,7 +1321,7 @@ Investigative Direction: Identify which influencers attended the hearing and wha
 
 ---
 
-**C-7290** Host Says the Screwdriver Was Planted at a Different Time
+**C-10876** Host Says the Screwdriver Was Planted at a Different Time
 
 Claim Timestamp: 00:14:11
 
@@ -1337,7 +1337,7 @@ Investigative Direction: Review the evidence chain for the screwdriver: first of
 
 ---
 
-**C-7291** Host Says the Object Swung Was a Bag, Not a Towel
+**C-10877** Host Says the Object Swung Was a Bag, Not a Towel
 
 Claim Timestamp: 00:14:11
 
@@ -1353,7 +1353,7 @@ Investigative Direction: Obtain the eyewitness video and any enhanced stills of 
 
 ---
 
-**C-7292** Host Corrects Faumuina's Agency to the Utah Bureau of Investigations
+**C-10878** Host Corrects Faumuina's Agency to the Utah Bureau of Investigations
 
 Claim Timestamp: 00:14:11
 
@@ -1369,7 +1369,7 @@ Investigative Direction: Confirm Faumuina's employing agency and title from the 
 
 ---
 
-**C-7293** Faumuina Testified She Wrote Nine or More Reports Including a September 22 Overview
+**C-10880** Faumuina Testified She Wrote Nine or More Reports Including a September 22 Overview
 
 Claim Timestamp: 00:15:19
 
@@ -1380,13 +1380,13 @@ Transcript Snippet: nine of those reports in that larger body of reports was wri
 Anchored Artifacts: A-2148.1
 Mentions: N-505
 Related Nodes: N-10727
-Supports: C-3046
+Supports: C-10879
 Tags: relevance:core
 Investigative Direction: Request all Faumuina reports from the hearing exhibit list, especially the September 22 overview and any report naming the library items.
 
 ---
 
-**C-7294** Faumuina Testified Officers Found the Fulton Library Items Suspicious
+**C-10881** Faumuina Testified Officers Found the Fulton Library Items Suspicious
 
 Claim Timestamp: 00:15:19
 
@@ -1397,13 +1397,13 @@ Transcript Snippet: they determined that the Fulton Library stood out because th
 Anchored Artifacts: A-2148.1
 Mentions: N-505
 Related Nodes: N-10727, N-10717
-Supports: C-3046
+Supports: C-10879
 Tags: relevance:core
 Investigative Direction: Obtain the canvass notes and officer body-cam from the library bus stop showing who first flagged the items and when.
 
 ---
 
-**C-7295** Faumuina Testified No Further Information Existed When the Items Were Sent
+**C-10884** Faumuina Testified No Further Information Existed When the Items Were Sent
 
 Claim Timestamp: 00:17:06
 
@@ -1414,13 +1414,13 @@ Transcript Snippet: Um at the time when it was already sent, we didn't have more
 Anchored Artifacts: A-2148.2
 Mentions: N-505
 Related Nodes: N-10727
-Supports: C-3048
+Supports: C-10883
 Tags: relevance:core
 Investigative Direction: Obtain the FBI lab request form and any later communication about the items from state investigators.
 
 ---
 
-**C-7296** Faumuina Agreed It Was Fair to Say the Items Were Determined Unrelated
+**C-10885** Faumuina Agreed It Was Fair to Say the Items Were Determined Unrelated
 
 Claim Timestamp: 00:17:53
 
@@ -1431,13 +1431,13 @@ Transcript Snippet: Yeah, that would be fair. >> Okay, so the relevant thing is 
 Anchored Artifacts: A-2148.2
 Mentions: N-505, N-3
 Related Nodes: N-10727
-Supports: C-3048
+Supports: C-10883
 Tags: relevance:core
 Investigative Direction: Identify who made the unrelated determination, on what information, and where it is recorded in the state and FBI files.
 
 ---
 
-**C-7297** Host Says the Items Could Match the Eyewitness's Description of the Shooter
+**C-10886** Host Says the Items Could Match the Eyewitness's Description of the Shooter
 
 Claim Timestamp: 00:17:53
 
@@ -1453,7 +1453,7 @@ Investigative Direction: Compare the item descriptions in the lab inventory with
 
 ---
 
-**C-7298** Bakker Testified the Items Were Initially Processed for DNA
+**C-10888** Bakker Testified the Items Were Initially Processed for DNA
 
 Claim Timestamp: 00:19:25
 
@@ -1464,13 +1464,13 @@ Transcript Snippet: Not having any information from the investigators, we proces
 Anchored Artifacts: A-2149.1
 Mentions: N-777
 Related Nodes: N-10727, N-10014
-Supports: C-3049
+Supports: C-10887
 Tags: relevance:core
 Investigative Direction: Obtain the FBI lab DNA results, if any, for exhibit nine and the items from the backpack, with dates of processing.
 
 ---
 
-**C-7299** Host Says Bakker Also Said the Items Were First Thought Abandoned by the Shooter
+**C-10891** Host Says Bakker Also Said the Items Were First Thought Abandoned by the Shooter
 
 Claim Timestamp: 00:20:30
 
@@ -1481,13 +1481,13 @@ Transcript Snippet: similarly that they initially thought that it was abandoned 
 Anchored Artifacts: A-2149.1
 Mentions: N-777, N-3
 Related Nodes: N-10727
-Supports: C-3046
+Supports: C-10879
 Tags: relevance:core
 Investigative Direction: Check the Baker testimony transcript to see whether she said the items were initially treated as shooter-discarded or whether this is the host's inference.
 
 ---
 
-**C-7300** Host Says the Library Bus Stop Is Nowhere Near Losee Center or the Amphitheater
+**C-10892** Host Says the Library Bus Stop Is Nowhere Near Losee Center or the Amphitheater
 
 Claim Timestamp: 00:21:15
 
@@ -1498,13 +1498,13 @@ Transcript Snippet: Why on Earth was this individual up at a library bus stop th
 Anchored Artifacts: A-2149.2
 Mentions: N-1, N-3
 Related Nodes: N-10717, N-10727
-Supports: C-3051
+Supports: C-10890
 Tags: relevance:core
 Investigative Direction: Map the Fulton Library bus stop against the shooter route, the Losee Center and the security detail posts, and identify any detail member there.
 
 ---
 
-**C-7301** Host Cites 70 to 80 Percent of Homicide Victims Killed by Someone They Know
+**C-10893** Host Cites 70 to 80 Percent of Homicide Victims Killed by Someone They Know
 
 Claim Timestamp: 00:23:07
 
@@ -1520,7 +1520,7 @@ Investigative Direction: Check the figure against FBI Uniform Crime Reporting an
 
 ---
 
-**C-7302** Host Says a Surveillance Camera Must Cover the Bus Stop
+**C-10894** Host Says a Surveillance Camera Must Cover the Bus Stop
 
 Claim Timestamp: 00:24:14
 
@@ -1536,7 +1536,7 @@ Investigative Direction: Ask UVU, the transit authority and nearby buildings whe
 
 ---
 
-**C-7303** Host Says Her Source Explained 911 Triggers Hospital Preparation
+**C-10896** Host Says Her Source Explained 911 Triggers Hospital Preparation
 
 Claim Timestamp: 00:25:23
 
@@ -1547,13 +1547,13 @@ Transcript Snippet: they explained to me that procedurally what happens when you
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10728
-Supports: C-3056
+Supports: C-10895
 Tags: relevance:core
 Investigative Direction: Ask the hospital and county EMS for the pre-arrival notification procedure and the log of any notification for September 10.
 
 ---
 
-**C-7304** Host Says Nobody Has Taken Credit for Calling 911
+**C-10897** Host Says Nobody Has Taken Credit for Calling 911
 
 Claim Timestamp: 00:25:23
 
@@ -1564,13 +1564,13 @@ Transcript Snippet: nobody wants to take credits for calling 911.
 Anchored Artifacts: 
 Mentions: N-266, N-7, N-3
 Related Nodes: N-10729
-Supports: C-3057
+Supports: C-10898
 Tags: relevance:core
 Investigative Direction: Identify the caller from the released 911 records and compare with each car occupant's account.
 
 ---
 
-**C-7305** Harpole Said Hospital Staff Did Not Know They Were Coming
+**C-10899** Harpole Said Hospital Staff Did Not Know They Were Coming
 
 Claim Timestamp: 00:26:17
 
@@ -1581,13 +1581,13 @@ Transcript Snippet: Well, I feel bad for the hospital staff cuz we showed up loo
 Anchored Artifacts: A-2866.1, A-2866.1
 Mentions: N-266
 Related Nodes: N-10728, N-10692
-Supports: C-3056
+Supports: C-10895
 Tags: relevance:core
 Investigative Direction: Obtain the full Harpole interview and hospital arrival records to test his statement against the 911 pre-notification claim.
 
 ---
 
-**C-7306** Host Says Harpole Could Not Have Called 911 and Someone Was on the Phone With Shapiro's Security
+**C-10900** Host Says Harpole Could Not Have Called 911 and Someone Was on the Phone With Shapiro's Security
 
 Claim Timestamp: 00:26:17
 
@@ -1603,7 +1603,7 @@ Investigative Direction: Identify who in the vehicle was on the phone with Shapi
 
 ---
 
-**C-7307** Host Puts the Hospital Ride at About Seven Minutes
+**C-10901** Host Puts the Hospital Ride at About Seven Minutes
 
 Claim Timestamp: 00:26:17
 
@@ -1619,7 +1619,7 @@ Investigative Direction: Compare dispatch time, vehicle departure time and hospi
 
 ---
 
-**C-7308** Host Says the 911 Calls Were Released but This One Cannot Be Found
+**C-10902** Host Says the 911 Calls Were Released but This One Cannot Be Found
 
 Claim Timestamp: 00:26:17
 
@@ -1630,13 +1630,13 @@ Transcript Snippet: That's public information. The calls have been released. Peo
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10729, N-10692
-Supports: C-3057
+Supports: C-10898
 Tags: relevance:core
 Investigative Direction: Review the released 911 audio and logs for a call from the vehicle between 12:23 and 12:30 and publish the identifier of any matching call.
 
 ---
 
-**C-7309** Host Calls Turek the Leader of the Christian Grift and Cites His Family's Military Involvement
+**C-10903** Host Calls Turek the Leader of the Christian Grift and Cites His Family's Military Involvement
 
 Claim Timestamp: 00:30:49
 
@@ -1652,7 +1652,7 @@ Investigative Direction: Document Turek family military service from public biog
 
 ---
 
-**C-7310** Host Says the Pastors Were Part of a Psychological Operation Tying Christians to Israel
+**C-10904** Host Says the Pastors Were Part of a Psychological Operation Tying Christians to Israel
 
 Claim Timestamp: 00:30:49
 
@@ -1668,7 +1668,7 @@ Investigative Direction: The host offers no document here; identify which pastor
 
 ---
 
-**C-7311** Letter Says the Wife Believes Turek Is Dishonest and Involved in Criminal Wrongdoing
+**C-10906** Letter Says the Wife Believes Turek Is Dishonest and Involved in Criminal Wrongdoing
 
 Claim Timestamp: 00:32:53
 
@@ -1679,13 +1679,13 @@ Transcript Snippet: She has come to believe that you are dishonest and you are a
 Anchored Artifacts: A-2151.1
 Mentions: N-7, N-3
 Related Nodes: 
-Supports: C-3055
+Supports: C-10905
 Tags: relevance:context
 Investigative Direction: Obtain the original episode of Turek's show and confirm the letter's wording and whether it was verified.
 
 ---
 
-**C-7312** Host Says Turek's Movement of Pastors Hails From Military Operations Targeting Christians
+**C-10907** Host Says Turek's Movement of Pastors Hails From Military Operations Targeting Christians
 
 Claim Timestamp: 00:34:40
 
@@ -1696,13 +1696,13 @@ Transcript Snippet: And you're part of like of like I said that movement of Chri
 Anchored Artifacts: 
 Mentions: N-7, N-3
 Related Nodes: N-10209
-Supports: C-7310
+Supports: C-10904
 Tags: relevance:tangential
 Investigative Direction: The host names no unit or program here; ask for the specific military operations and pastors she means.
 
 ---
 
-**C-7313** Host Says Two Turek Sons Were Air Force Captains, One in Intelligence
+**C-10910** Host Says Two Turek Sons Were Air Force Captains, One in Intelligence
 
 Claim Timestamp: 00:35:43
 
@@ -1718,7 +1718,7 @@ Investigative Direction: Confirm each son's rank, branch and assignment from pub
 
 ---
 
-**C-7314** Turek Said He Called Jack Hibbs to Pray After the Hospital
+**C-10911** Turek Said He Called Jack Hibbs to Pray After the Hospital
 
 Claim Timestamp: 00:36:38
 
@@ -1734,7 +1734,7 @@ Investigative Direction: Obtain Turek's and Hibbs's call records for the hospita
 
 ---
 
-**C-7315** Turek Said He FaceTimed His Wife First and Then Called Spencer
+**C-10912** Turek Said He FaceTimed His Wife First and Then Called Spencer
 
 Claim Timestamp: 00:37:30
 
@@ -1745,13 +1745,13 @@ Transcript Snippet: First I I was FaceTiming my wife and then I said, "Ah, let m
 Anchored Artifacts: A-2150.1
 Mentions: N-7, N-683
 Related Nodes: N-10730
-Supports: C-3052
+Supports: C-10908
 Tags: relevance:core
 Investigative Direction: Obtain FaceTime call-detail records showing the order, start and end times of the wife and Spencer calls.
 
 ---
 
-**C-7316** Host Says Zach Turek Worked at the Pentagon and Is a Joint Staff Deputy Division Chief
+**C-10913** Host Says Zach Turek Worked at the Pentagon and Is a Joint Staff Deputy Division Chief
 
 Claim Timestamp: 00:38:14
 
@@ -1767,7 +1767,7 @@ Investigative Direction: Verify Zachary Turek's Joint Staff title and dates from
 
 ---
 
-**C-7317** Host Says Turek Sat Praying in the Back Seat Listening to Shapiro's Security
+**C-10914** Host Says Turek Sat Praying in the Back Seat Listening to Shapiro's Security
 
 Claim Timestamp: 00:39:06
 
@@ -1783,7 +1783,7 @@ Investigative Direction: Identify the updates relayed to the vehicle and who pas
 
 ---
 
-**C-7318** Host Says Turek Neither Called 911 Nor Phoned His Pentagon Son
+**C-10915** Host Says Turek Neither Called 911 Nor Phoned His Pentagon Son
 
 Claim Timestamp: 00:39:06
 
@@ -1794,13 +1794,13 @@ Transcript Snippet: Frank didn't call 911, nor did he think to phone his son who
 Anchored Artifacts: 
 Mentions: N-7, N-778, N-3
 Related Nodes: N-10729, N-10888
-Supports: C-7304
+Supports: C-10897
 Tags: relevance:core
 Investigative Direction: Obtain Turek's outbound call log for September 10 to test whether he called 911 or his son.
 
 ---
 
-**C-7319** Host Says Spencer Turek Is a Branch Chief Pilot for the Air Force
+**C-10916** Host Says Spencer Turek Is a Branch Chief Pilot for the Air Force
 
 Claim Timestamp: 00:39:56
 
@@ -1816,7 +1816,7 @@ Investigative Direction: Verify Spencer Turek's role, location and duty schedule
 
 ---
 
-**C-7320** Host Questions Why Spencer Was Free at 2:23 p.m. on the East Coast
+**C-10917** Host Questions Why Spencer Was Free at 2:23 p.m. on the East Coast
 
 Claim Timestamp: 00:39:56
 
@@ -1832,7 +1832,7 @@ Investigative Direction: Obtain the call-detail records and duty rosters that wo
 
 ---
 
-**C-7321** Host Says Frank and Zach Turek Co-Wrote Hollywood Heroes
+**C-10918** Host Says Frank and Zach Turek Co-Wrote Hollywood Heroes
 
 Claim Timestamp: 00:40:47
 
@@ -1848,7 +1848,7 @@ Investigative Direction: Check the book's publication record for authorship and 
 
 ---
 
-**C-7322** Host Quotes Kolvet's Initial Tweet as a Modern-Day Miracle
+**C-10919** Host Quotes Kolvet's Initial Tweet as a Modern-Day Miracle
 
 Claim Timestamp: 00:41:38
 
@@ -1864,7 +1864,7 @@ Investigative Direction: Retrieve Kolvet's earliest posts from September 10 and 
 
 ---
 
-**C-7323** Host Says a Lead Investigator Would Want the Turek Call Logs
+**C-10920** Host Says a Lead Investigator Would Want the Turek Call Logs
 
 Claim Timestamp: 00:41:38
 
@@ -1875,13 +1875,13 @@ Transcript Snippet: I would be interested in all of these call logs because a 35
 Anchored Artifacts: 
 Mentions: N-7, N-3
 Related Nodes: N-10730
-Supports: C-3053
+Supports: C-10909
 Tags: relevance:core
 Investigative Direction: Request FaceTime and carrier records for Turek, Spencer and the wife for 12:00 to 15:00 Mountain on September 10.
 
 ---
 
-**C-7324** Host Says the Video Shown as Robinson Turning Himself In Is an Interrogation Room
+**C-10921** Host Says the Video Shown as Robinson Turning Himself In Is an Interrogation Room
 
 Claim Timestamp: 00:45:23
 
@@ -1897,7 +1897,7 @@ Investigative Direction: Identify the video, its source, time and location, and 
 
 ---
 
-**C-7325** Host Says No Footage of Robinson Confessing Has Been Shown
+**C-10922** Host Says No Footage of Robinson Confessing Has Been Shown
 
 Claim Timestamp: 00:45:23
 
@@ -1913,7 +1913,7 @@ Investigative Direction: Determine whether any recording of a confession exists 
 
 ---
 
-**C-7326** Host Says a Sudden Enhancement of the Screwdriver Footage Sounds Tampered With
+**C-10924** Host Says a Sudden Enhancement of the Screwdriver Footage Sounds Tampered With
 
 Claim Timestamp: 00:47:07
 
@@ -1924,13 +1924,13 @@ Transcript Snippet: That sounds to me like it was tampered with.
 Anchored Artifacts: A-2152.1
 Mentions: N-378, N-3
 Related Nodes: N-10731
-Supports: C-3054
+Supports: C-10923
 Tags: relevance:core
 Investigative Direction: Obtain the chain of custody for the rooftop video, any enhancement logs and the version history between Bongino's September 15 remark and the hearing.
 
 ---
 
-**C-7327** Host Says Boreing Hosted Mark Meckler Telling a Story That She Was Mean to Him
+**C-10925** Host Says Boreing Hosted Mark Meckler Telling a Story That She Was Mean to Him
 
 Claim Timestamp: 00:47:56
 
@@ -1946,7 +1946,7 @@ Investigative Direction: Locate the Boreing and Meckler appearance and compare M
 
 ---
 
-**C-7328** Host Says Meckler Urged Donors to Push Charlie to Attach Convention of the States to TPUSA
+**C-10926** Host Says Meckler Urged Donors to Push Charlie to Attach Convention of the States to TPUSA
 
 Claim Timestamp: 00:47:56
 
@@ -1962,7 +1962,7 @@ Investigative Direction: Review the host's messages with Charlie, TPUSA donor co
 
 ---
 
-**C-7329** Host Says She and Charlie Messaged About Meckler as the Snake-ler
+**C-10927** Host Says She and Charlie Messaged About Meckler as the Snake-ler
 
 Claim Timestamp: 00:47:56
 
@@ -1978,7 +1978,7 @@ Investigative Direction: Obtain the message thread for forensic confirmation of 
 
 ---
 
-**C-7330** Host Says She Never Deletes Anything on Her Phone
+**C-10928** Host Says She Never Deletes Anything on Her Phone
 
 Claim Timestamp: 00:48:49
 
@@ -1994,7 +1994,7 @@ Investigative Direction: Request preservation and forensic imaging of the host's
 
 ---
 
-**C-7331** Host Says Chats With Tyler Bowyer Also Discussed Meckler
+**C-10929** Host Says Chats With Tyler Bowyer Also Discussed Meckler
 
 Claim Timestamp: 00:48:49
 
@@ -2010,7 +2010,7 @@ Investigative Direction: Review the group chats with Bowyer for the dates and co
 
 ---
 
-**C-7332** Host Cites a Time.com Piece on Israel's Spending on Bots and Influencers
+**C-10930** Host Cites a Time.com Piece on Israel's Spending on Bots and Influencers
 
 Claim Timestamp: 00:49:39
 
@@ -2026,7 +2026,7 @@ Investigative Direction: Locate the Time article and check the spending figures 
 
 ---
 
-**C-7333** Host Says the Oldest Christian Village Is Being Burned and Settlers Sent In
+**C-10931** Host Says the Oldest Christian Village Is Being Burned and Settlers Sent In
 
 Claim Timestamp: 00:51:03
 
@@ -2042,7 +2042,7 @@ Investigative Direction: Check reporting on Taybeh settler attacks and arson inc
 
 ---
 
-**C-7334** Trailer Interviewee Says a Settler Tried to Choke Him and His Mother
+**C-10932** Trailer Interviewee Says a Settler Tried to Choke Him and His Mother
 
 Claim Timestamp: 00:51:03
 
@@ -2053,13 +2053,13 @@ Transcript Snippet: a settler tried to choke you and your mother, you called the
 Anchored Artifacts: A-2868.1, A-2868.1
 Mentions: N-3
 Related Nodes: N-10026
-Supports: C-7333
+Supports: C-10931
 Tags: relevance:tangential
 Investigative Direction: Find the full documentary and corroborating police or press records for the incident.
 
 ---
 
-**C-7335** Host Says the Shawn Ryan Interview Reached About 6 Million Views in a Week
+**C-10933** Host Says the Shawn Ryan Interview Reached About 6 Million Views in a Week
 
 Claim Timestamp: 00:53:07
 
@@ -2075,7 +2075,7 @@ Investigative Direction: Check the YouTube view count and publication date of th
 
 ---
 
-**C-7336** Host Says She Believes Charlie Was Murdered in a Freemasonic Occult Ritual
+**C-10934** Host Says She Believes Charlie Was Murdered in a Freemasonic Occult Ritual
 
 Claim Timestamp: 00:54:11
 
@@ -2091,7 +2091,7 @@ Investigative Direction: The host cites no document here; ask what evidence she 
 
 ---
 
-**C-7337** Host Says Harley Pasternak's Ambulance Call Put Kanye on a 5150 Hold
+**C-10935** Host Says Harley Pasternak's Ambulance Call Put Kanye on a 5150 Hold
 
 Claim Timestamp: 00:57:13
 
@@ -2107,7 +2107,7 @@ Investigative Direction: Check Los Angeles reporting and hospital records, if pu
 
 ---
 
-**C-7338** Host Says Michael Jackson's Lyrics Named Specific Jews in Hollywood
+**C-10936** Host Says Michael Jackson's Lyrics Named Specific Jews in Hollywood
 
 Claim Timestamp: 00:58:01
 
@@ -2123,7 +2123,7 @@ Investigative Direction: Check the lyric source (They Don't Care About Us), the 
 
 ---
 
-**C-7339** Host Says She Was Fired From Daily Wire for Suggesting Jackson Could Have Been Truthful
+**C-10937** Host Says She Was Fired From Daily Wire for Suggesting Jackson Could Have Been Truthful
 
 Claim Timestamp: 00:58:01
 
@@ -2139,7 +2139,7 @@ Investigative Direction: Compare with Daily Wire's and the host's other accounts
 
 ---
 
-**C-7340** Host Says Hollywood Was Established by Jewish Gangs
+**C-10938** Host Says Hollywood Was Established by Jewish Gangs
 
 Claim Timestamp: 00:58:40
 
@@ -2155,7 +2155,7 @@ Investigative Direction: The host cites no source; this broad group claim is rec
 
 ---
 
-**C-7341** Host Says Klavan Was Upset She Mentioned Sigmund Freud
+**C-10939** Host Says Klavan Was Upset She Mentioned Sigmund Freud
 
 Claim Timestamp: 00:59:17
 
@@ -2171,7 +2171,7 @@ Investigative Direction: Watch the Klavan video and check whether he objects to 
 
 ---
 
-**C-7342** Host Says Freud Mainstreamed Gaslighting and Psychological Attacks Followed Charlie's Death
+**C-10940** Host Says Freud Mainstreamed Gaslighting and Psychological Attacks Followed Charlie's Death
 
 Claim Timestamp: 00:59:17
 
@@ -2187,7 +2187,7 @@ Investigative Direction: The host cites no specific attack here; identify the in
 
 ---
 
-**C-7343** Host Says Megyn Kelly Is Hosting the Influencers Who Attended the Hearing
+**C-10941** Host Says Megyn Kelly Is Hosting the Influencers Who Attended the Hearing
 
 Claim Timestamp: 01:00:53
 
@@ -2203,7 +2203,7 @@ Investigative Direction: Review Kelly's recent shows for which influencers she h
 
 ---
 
-**C-7344** Host Says It Was Leaked That the Influencers Saw a Zoomed-In Version
+**C-10942** Host Says It Was Leaked That the Influencers Saw a Zoomed-In Version
 
 Claim Timestamp: 01:01:29
 
@@ -2214,13 +2214,13 @@ Transcript Snippet: I don't know that she caught the what then was leaked afterw
 Anchored Artifacts: 
 Mentions: N-46, N-3
 Related Nodes: N-10731, N-11065
-Supports: C-3054
+Supports: C-10923
 Tags: relevance:core
 Investigative Direction: Identify the leak and its source and compare the footage shown in court with the original at 12.4.
 
 ---
 
-**C-7345** Host Says Kelly Told the Truth About What Charlie Feared in His Last Days
+**C-10943** Host Says Kelly Told the Truth About What Charlie Feared in His Last Days
 
 Claim Timestamp: 01:01:29
 
@@ -2236,7 +2236,7 @@ Investigative Direction: Compare Kelly's statements about Charlie's last days wi
 
 ---
 
-**C-7346** Host Says a September Decision Will Determine Whether the Trial Goes Forward
+**C-10944** Host Says a September Decision Will Determine Whether the Trial Goes Forward
 
 Claim Timestamp: 01:02:17
 
@@ -2252,7 +2252,7 @@ Investigative Direction: Check the court's scheduling order for the date of the 
 
 ---
 
-**C-7347** Host Says Only Kelly and Tucker Carlson Told the Truth About Charlie's Struggles
+**C-10945** Host Says Only Kelly and Tucker Carlson Told the Truth About Charlie's Struggles
 
 Claim Timestamp: 01:02:57
 
@@ -2268,7 +2268,7 @@ Investigative Direction: Compare the Kelly and Carlson accounts with other publi
 
 ---
 
-**C-7348** Host Says She Is Arranging for a Priest to Appear on the Show
+**C-10946** Host Says She Is Arranging for a Priest to Appear on the Show
 
 Claim Timestamp: 01:04:38
 
@@ -2284,7 +2284,7 @@ Investigative Direction: Watch for the announced priest guest on the show.
 
 ---
 
-**C-7349** Viewer Comment Says Sound of Freedom Was the First Movie Pushed by Influential and Parscale
+**C-10947** Viewer Comment Says Sound of Freedom Was the First Movie Pushed by Influential and Parscale
 
 Claim Timestamp: 01:05:30
 
@@ -2300,7 +2300,7 @@ Investigative Direction: Check Influential's and Parscale's roles in promoting S
 
 ---
 
-**C-7350** Host Says She Met These People Through PragerU and Is Re-Examining Tim Ballard
+**C-10948** Host Says She Met These People Through PragerU and Is Re-Examining Tim Ballard
 
 Claim Timestamp: 01:05:30
 
@@ -2316,7 +2316,7 @@ Investigative Direction: Identify which of the people she met through PragerU sh
 
 ---
 
-**C-7351** Host Maintains the Assassination Looks Like a Military Operation
+**C-10949** Host Maintains the Assassination Looks Like a Military Operation
 
 Claim Timestamp: 01:07:41
 

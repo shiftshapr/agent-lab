@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep047): N-432
   - Tip-minted Nodes (reintro-ep047): N-639
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10g): C-14003–C-14088
+  - Claim Range: C-4054–C-4176
   - (see registers)
 
 # Bride of Charlie – Episode 47 Analysis
@@ -34,7 +34,6 @@
 - Analysis Date: 2026-03-11
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1539, A-1540, A-1541, A-1542, A-1543, A-1544, A-1545, A-1546, A-1547, A-1548, A-1549, A-1550, A-1551
-  - Claim Range: C-1924–C-1959, C-3741
   - New Nodes Introduced: N-328, N-330, N-331, N-332, N-333, N-334, N-335, N-336, N-337, N-338, N-339, N-340, N-10339, N-10344, N-10347, N-10348, N-10351, N-10352, N-10354, N-10356, N-10357
   - Reused Nodes Appearing: N-329, N-10337, N-10338, N-10340, N-10342, N-10343, N-10345, N-10355, N-10898, N-10346, N-10349, N-10350, N-10353, N-10341, N-4, N-22, N-27, N-82, N-99, N-104, N-145, N-178, N-224, N-237, N-278, N-847, N-10000, N-10012, N-10018, N-10026, N-10097, N-10105, N-10110, N-10167, N-10253, N-10334, N-10358, N-10862, N-11287, N-11336, N-11337
 
@@ -62,7 +61,7 @@ Video Timestamp: 00:00:57–00:04:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1924, C-1925, C-1926, C-1927, C-1928, C-1937, C-1940, C-1944, C-1950, C-1951, C-1952, C-1953, N-2, N-15, N-10340, N-10342, N-10346, N-10348, N-10350*
+*Related: C-4056, C-4062, C-4063, C-4064, C-4086, C-4118, C-4072, C-4136, C-4153, C-4158, C-4156, C-4173, N-2, N-15, N-10340, N-10342, N-10346, N-10348, N-10350*
 
 ---
 
@@ -76,7 +75,7 @@ Video Timestamp: 00:17:03–00:20:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1928, C-1929, N-2, N-10337*
+*Related: C-4086, C-4091, N-2, N-10337*
 
 ---
 
@@ -98,7 +97,7 @@ Video Timestamp: 00:13:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1939, C-1940, N-217, N-10341*
+*Related: C-4076, C-4072, N-217, N-10341*
 
 ---
 
@@ -112,7 +111,7 @@ Video Timestamp: 00:24:47–00:26:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1932, C-1933, N-159, N-10338, N-10339*
+*Related: C-4104, C-4105, N-159, N-10338, N-10339*
 
 ---
 
@@ -126,7 +125,7 @@ Video Timestamp: 00:23:07–00:29:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1931, C-1932, C-1934, C-1935, C-1936, N-190, N-217, N-17, N-10338, N-10339*
+*Related: C-4093, C-4104, C-4099, C-4101, C-4109, N-190, N-217, N-17, N-10338, N-10339*
 
 ---
 
@@ -148,7 +147,7 @@ Video Timestamp: 00:49:48–00:52:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1941, C-1954, C-1956, C-1957, N-46, N-331, N-10343*
+*Related: C-4080, C-4111, C-4149, C-4151, N-46, N-331, N-10343*
 
 ---
 
@@ -170,7 +169,7 @@ Video Timestamp: 00:45:27–00:46:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1942, C-1943, C-1944, C-1945, N-267, N-10344*
+*Related: C-4081, C-4135, C-4136, C-4140, N-267, N-10344*
 
 ---
 
@@ -184,7 +183,7 @@ Video Timestamp: 00:39:39–00:42:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1946, C-1947, C-1948, N-10898, N-10351*
+*Related: C-4141, C-4128, C-4129, N-10898, N-10351*
 
 ---
 
@@ -198,7 +197,7 @@ Video Timestamp: 00:52:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (referenced by host, not displayed)
 
-*Related: C-1957, N-10343*
+*Related: C-4151, N-10343*
 
 ---
 
@@ -212,7 +211,7 @@ Video Timestamp: 00:52:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (referenced by host, not displayed)
 
-*Related: C-1956, C-1958, N-10343*
+*Related: C-4149, C-4152, N-10343*
 
 ---
 
@@ -226,7 +225,7 @@ Video Timestamp: 00:53:11–00:53:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (referenced by host, not displayed)
 
-*Related: C-1949, N-328, N-209*
+*Related: C-4127, N-328, N-209*
 
 ---
 
@@ -240,7 +239,7 @@ Video Timestamp: 01:01:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (transcription may vary)
 
-*Related: C-1959, N-1*
+*Related: C-4162, N-1*
 
 ---
 
@@ -327,7 +326,7 @@ Confidence Level: Low
 
 Flag: Artifact verbally referenced but not shown
 
-*Related: C-14009, N-1, N-10340, N-2, N-237, N-3*
+*Related: C-4061, N-1, N-10340, N-2, N-237, N-3*
 
 ---
 
@@ -342,7 +341,7 @@ Confidence Level: Low
 
 Flag: Artifact verbally referenced but not shown
 
-*Related: C-14010, N-10340, N-14, N-3, N-847*
+*Related: C-4065, N-10340, N-14, N-3, N-847*
 
 ---
 
@@ -357,7 +356,7 @@ Confidence Level: Low
 
 Flag: Artifact verbally referenced but not shown
 
-*Related: C-14024, C-14025, N-10000, N-10862, N-224, N-266, N-3*
+*Related: C-4083, C-4084, N-10000, N-10862, N-224, N-266, N-3*
 
 ---
 
@@ -372,7 +371,7 @@ Confidence Level: Low
 
 Flag: Artifact verbally referenced but not shown
 
-*Related: C-14039, N-10338, N-159, N-3*
+*Related: C-4106, N-10338, N-159, N-3*
 
 ---
 
@@ -387,7 +386,7 @@ Confidence Level: Low
 
 Flag: Artifact verbally referenced but not shown
 
-*Related: C-14047, C-14048, N-1, N-10000, N-10253, N-10347, N-2, N-3*
+*Related: C-4119, C-4120, N-1, N-10000, N-10253, N-10347, N-2, N-3*
 
 ---
 
@@ -400,7 +399,7 @@ Video Timestamp: 00:53:11
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14070, C-14071, N-639, N-11382, N-10097, N-104, N-333, N-40, N-42*
+*Related: C-4154, C-4155, N-639, N-11382, N-10097, N-104, N-333, N-40, N-42*
 
 ---
 
@@ -415,7 +414,7 @@ Confidence Level: Low
 
 Flag: Artifact verbally referenced but not shown
 
-*Related: C-14077, N-11380, N-1, N-3, N-330*
+*Related: C-4164, N-11380, N-1, N-3, N-330*
 
 ---
 
@@ -430,7 +429,7 @@ Confidence Level: Low
 
 Flag: Artifact verbally referenced but not shown
 
-*Related: C-14078, C-14079, C-14080, N-10352, N-3, N-330, N-4*
+*Related: C-4165, C-4166, C-4167, N-10352, N-3, N-330, N-4*
 
 ---
 
@@ -448,7 +447,7 @@ Claim Count: 8
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1539.1, A-1540.1, C-1924, C-1925, C-1926, C-1927, C-1937, C-1952, N-15, N-10340, N-10350, N-11*
+*Related: A-1539.1, A-1540.1, C-4056, C-4062, C-4063, C-4064, C-4118, C-4156, N-15, N-10340, N-10350, N-11*
 
 ---
 
@@ -460,7 +459,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1539.1, C-1924, N-2*
+*Related: A-1539.1, C-4056, N-2*
 
 ---
 
@@ -473,7 +472,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1542.1, A-1543.1, C-1931, C-1932, C-1933, C-1934, N-217, N-17, N-10338*
+*Related: A-1542.1, A-1543.1, C-4093, C-4104, C-4105, C-4099, N-217, N-17, N-10338*
 
 ---
 
@@ -486,7 +485,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1543.1, C-1931, C-1935, C-1936, N-190, N-10339*
+*Related: A-1543.1, C-4093, C-4101, C-4109, N-190, N-10339*
 
 ---
 
@@ -499,7 +498,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1539.1, C-1937, N-10348, N-10353*
+*Related: A-1539.1, C-4118, N-10348, N-10353*
 
 ---
 
@@ -512,7 +511,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1542.1, A-1543.1, C-1932, C-1933, N-190, N-10338*
+*Related: A-1542.1, A-1543.1, C-4104, C-4105, N-190, N-10338*
 
 ---
 
@@ -525,7 +524,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1545.1, A-1545.2, C-1942, C-1943, N-10344*
+*Related: A-1545.1, A-1545.2, C-4081, C-4135, N-10344*
 
 ---
 
@@ -538,7 +537,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1539.1, C-1924, N-2*
+*Related: A-1539.1, C-4056, N-2*
 
 ---
 
@@ -551,7 +550,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1549.1, C-1949, N-209*
+*Related: A-1549.1, C-4127, N-209*
 
 ---
 
@@ -564,7 +563,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1539.1, C-1950, N-10354*
+*Related: A-1539.1, C-4153, N-10354*
 
 ---
 
@@ -577,7 +576,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1539.1, C-1951, N-10355*
+*Related: A-1539.1, C-4158, N-10355*
 
 ---
 
@@ -590,7 +589,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1539.1, C-1951, N-10355*
+*Related: A-1539.1, C-4158, N-10355*
 
 ---
 
@@ -603,7 +602,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1539.1, C-1951, N-10355*
+*Related: A-1539.1, C-4158, N-10355*
 
 ---
 
@@ -629,7 +628,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1539.1, C-1953, N-10345*
+*Related: A-1539.1, C-4173, N-10345*
 
 ---
 
@@ -642,7 +641,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1539.1, C-1938, N-10342*
+*Related: A-1539.1, C-4114, N-10342*
 
 ---
 
@@ -655,7 +654,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1544.2, C-1954, N-10343*
+*Related: A-1544.2, C-4111, N-10343*
 
 ---
 
@@ -668,7 +667,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1539.1, C-1944, N-10344*
+*Related: A-1539.1, C-4136, N-10344*
 
 ---
 
@@ -681,7 +680,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1539.1, C-1937, N-10342*
+*Related: A-1539.1, C-4118, N-10342*
 
 ---
 
@@ -694,7 +693,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1544.1, A-1549.1, C-1949*
+*Related: A-1544.1, A-1549.1, C-4127*
 
 ---
 
@@ -710,7 +709,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1546.1, C-1946, C-1947, C-1948, N-10351*
+*Related: A-1546.1, C-4141, C-4128, C-4129, N-10351*
 
 ---
 
@@ -723,7 +722,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-3741, N-10131*
+*Related: C-4115, N-10131*
 
 ---
 
@@ -816,7 +815,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1540.1, C-1928, C-1929*
+*Related: A-1540.1, C-4086, C-4091*
 
 ---
 
@@ -829,7 +828,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1542.1, A-1543.1, C-1931, C-1932, C-1933, N-190, N-217, N-159*
+*Related: A-1542.1, A-1543.1, C-4093, C-4104, C-4105, N-190, N-217, N-159*
 
 ---
 
@@ -842,7 +841,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1543.1, C-1935, C-1936, N-217*
+*Related: A-1543.1, C-4101, C-4109, N-217*
 
 ---
 
@@ -855,7 +854,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1539.1, C-1926, C-1927, N-2*
+*Related: A-1539.1, C-4063, C-4064, N-2*
 
 ---
 
@@ -868,7 +867,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1541.1, A-1541.2, C-1939, C-1940*
+*Related: A-1541.1, A-1541.2, C-4076, C-4072*
 
 ---
 
@@ -881,7 +880,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1539.1, C-1937, C-1938, N-36, N-14*
+*Related: A-1539.1, C-4118, C-4114, N-36, N-14*
 
 ---
 
@@ -894,7 +893,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1544.2, A-1547.1, A-1548.1, C-1956, C-1957, C-1958, N-331*
+*Related: A-1544.2, A-1547.1, A-1548.1, C-4149, C-4151, C-4152, N-331*
 
 ---
 
@@ -907,7 +906,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1539.1, A-1545.1, A-1545.2, C-1942, C-1943, C-1944, C-1945, N-267, N-332*
+*Related: A-1539.1, A-1545.1, A-1545.2, C-4081, C-4135, C-4136, C-4140, N-267, N-332*
 
 ---
 
@@ -920,7 +919,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1539.1, C-1953, N-38*
+*Related: A-1539.1, C-4173, N-38*
 
 ---
 
@@ -933,7 +932,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1539.1, C-1938, N-2*
+*Related: A-1539.1, C-4114, N-2*
 
 ---
 
@@ -959,7 +958,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1539.1, C-1937, N-17*
+*Related: A-1539.1, C-4118, N-17*
 
 ---
 
@@ -985,7 +984,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1539.1, A-1551.7, C-1952, N-2, N-335*
+*Related: A-1539.1, A-1551.7, C-4156, N-2, N-335*
 
 ---
 
@@ -998,7 +997,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1546.1, C-1948, N-10898*
+*Related: A-1546.1, C-4129, N-10898*
 
 ---
 
@@ -1037,7 +1036,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1539.1, C-1950, N-42*
+*Related: A-1539.1, C-4153, N-42*
 
 ---
 
@@ -1050,7 +1049,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1539.1, C-1951, N-69, N-329, N-209*
+*Related: A-1539.1, C-4158, N-69, N-329, N-209*
 
 ---
 
@@ -1093,7 +1092,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 First named by a clip speaker at 00:53:58 in episode 47 (spelled Ryan Routh in the transcript). Named alongside Thomas Crooks in a radicalization timing theory.
 
-*Related: C-14070*
+*Related: C-4154*
 
 ---
 
@@ -1102,7 +1101,7 @@ First named by a clip speaker at 00:53:58 in episode 47 (spelled Ryan Routh in t
 Node Type: Topic
 The roughly 4.5-hour private meeting between the host, Erika Kirk and Justin Streiff, and the surrounding dispute over why it was not livestreamed.
 
-*Related: C-14004, C-14005, C-14007, C-14008, C-14014, C-14026, C-14035, C-14058, C-14059, C-14065, C-14074, C-14075, C-14081, C-14082, C-14083*
+*Related: C-4055, C-4057, C-4059, C-4060, C-4069, C-4085, C-4098, C-4133, C-4134, C-4144, C-4161, C-4160, C-4168, C-4169, C-4170*
 
 ---
 
@@ -1111,7 +1110,7 @@ The roughly 4.5-hour private meeting between the host, Erika Kirk and Justin Str
 Node Type: Topic
 A viewer theory, raised via a super chat and Baron Coleman's video, that Charlie Kirk was electrocuted and that his hands were charred, which the host rejects.
 
-*Related: C-14077*
+*Related: C-4164*
 
 ---
 
@@ -1120,7 +1119,7 @@ A viewer theory, raised via a super chat and Baron Coleman's video, that Charlie
 Node Type: Topic
 A rumor that the host socialized with TPUSA employees at Tucker Carlson's Christmas party, which the host denies.
 
-*Related: C-14085*
+*Related: C-4172*
 
 ---
 
@@ -1129,7 +1128,7 @@ A rumor that the host socialized with TPUSA employees at Tucker Carlson's Christ
 Node Type: Topic
 Theories voiced in a Kirk Show clip that Tyler Robinson's radicalization coincided with other political violence suspects and that George Zinn acted as a decoy.
 
-*Related: C-14070, C-14071*
+*Related: C-4154, C-4155*
 
 ---
 
@@ -1137,7 +1136,7 @@ Theories voiced in a Kirk Show clip that Tyler Robinson's radicalization coincid
 
 Subject of the assassination; the host reports his night-before texts, security views and Catholicism.
 
-*Related: C-14009, C-14026, C-14028, C-14038, C-14046, C-14048, C-14058, C-14061, C-14067, C-14069, C-14077, C-14083, C-14086*
+*Related: C-4061, C-4085, C-4088, C-4103, C-4117, C-4120, C-4133, C-4138, C-4146, C-4148, C-4164, C-4170, C-4174*
 
 ---
 
@@ -1145,7 +1144,7 @@ Subject of the assassination; the host reports his night-before texts, security 
 
 Host; speaks for herself throughout.
 
-*Related: C-14003, C-14004, C-14005, C-14006, C-14007, C-14008, C-14009, C-14010, C-14011, C-14012, C-14013, C-14014, C-14015, C-14016, C-14017, C-14018, C-14019, C-14020, C-14021, C-14022, C-14023, C-14024, C-14025, C-14026, C-14027, C-14028, C-14029, C-14030, C-14031, C-14032, C-14033, C-14034, C-14035, C-14037, C-14038, C-14039, C-14040, C-14041, C-14042, C-14043, C-14044, C-14045, C-14046, C-14047, C-14048, C-14049, C-14050, C-14051, C-14052, C-14053, C-14054, C-14055, C-14056, C-14057, C-14058, C-14059, C-14060, C-14061, C-14062, C-14063, C-14064, C-14065, C-14072, C-14073, C-14074, C-14075, C-14076, C-14077, C-14078, C-14079, C-14080, C-14081, C-14082, C-14083, C-14084, C-14085, C-14086, C-14087, C-14088*
+*Related: C-4054, C-4055, C-4057, C-4058, C-4059, C-4060, C-4061, C-4065, C-4066, C-4067, C-4068, C-4069, C-4070, C-4071, C-4073, C-4074, C-4075, C-4077, C-4078, C-4079, C-4082, C-4083, C-4084, C-4085, C-4087, C-4088, C-4089, C-4090, C-4092, C-4094, C-4096, C-4097, C-4098, C-4102, C-4103, C-4106, C-4107, C-4108, C-4110, C-4112, C-4113, C-4116, C-4117, C-4119, C-4120, C-4121, C-4122, C-4123, C-4124, C-4125, C-4126, C-4130, C-4131, C-4132, C-4133, C-4134, C-4137, C-4138, C-4139, C-4142, C-4143, C-4144, C-4157, C-4159, C-4161, C-4160, C-4163, C-4164, C-4165, C-4166, C-4167, C-4168, C-4169, C-4170, C-4171, C-4172, C-4174, C-4175, C-4176*
 
 ---
 
@@ -1153,7 +1152,7 @@ Host; speaks for herself throughout.
 
 Vice President; the host rejects a suggestion that he was on the Fort Huachuca base.
 
-*Related: C-14079, C-14080*
+*Related: C-4166, C-4167*
 
 ---
 
@@ -1161,7 +1160,7 @@ Vice President; the host rejects a suggestion that he was on the Fort Huachuca b
 
 Host's friend; his Christmas party is the subject of a rumor.
 
-*Related: C-14085, C-14088*
+*Related: C-4172, C-4176*
 
 ---
 
@@ -1169,7 +1168,7 @@ Host's friend; his Christmas party is the subject of a rumor.
 
 Cited for his tweet about firing his manager.
 
-*Related: C-14003*
+*Related: C-4054*
 
 ---
 
@@ -1177,7 +1176,7 @@ Cited for his tweet about firing his manager.
 
 Host's husband; subject of the Qatari Wikipedia claim.
 
-*Related: C-14053*
+*Related: C-4125*
 
 ---
 
@@ -1185,7 +1184,7 @@ Host's husband; subject of the Qatari Wikipedia claim.
 
 Charged suspect; the host says the evidence is at the affidavit stage.
 
-*Related: C-14026, C-14027, C-14028, C-14029, C-14031, C-14066, C-14067, C-14068, C-14070, C-14071*
+*Related: C-4085, C-4087, C-4088, C-4089, C-4092, C-4145, C-4146, C-4147, C-4154, C-4155*
 
 ---
 
@@ -1193,7 +1192,7 @@ Charged suspect; the host says the evidence is at the affidavit stage.
 
 Named by the host as someone whose demand she ignored.
 
-*Related: C-14062*
+*Related: C-4139*
 
 ---
 
@@ -1201,7 +1200,7 @@ Named by the host as someone whose demand she ignored.
 
 Podcaster who interviewed Kolvet about Catholicism and the $150 million.
 
-*Related: C-14006, C-14007, C-14044*
+*Related: C-4058, C-4059, C-4113*
 
 ---
 
@@ -1209,7 +1208,7 @@ Podcaster who interviewed Kolvet about Catholicism and the $150 million.
 
 Named in a clip speaker's radicalization timing theory.
 
-*Related: C-14070*
+*Related: C-4154*
 
 ---
 
@@ -1217,7 +1216,7 @@ Named in a clip speaker's radicalization timing theory.
 
 Named by the host regarding Tucker Carlson's Christmas party.
 
-*Related: C-14085*
+*Related: C-4172*
 
 ---
 
@@ -1225,7 +1224,7 @@ Named by the host regarding Tucker Carlson's Christmas party.
 
 Named by the host regarding Qatar deals.
 
-*Related: C-14088*
+*Related: C-4176*
 
 ---
 
@@ -1233,7 +1232,7 @@ Named by the host regarding Qatar deals.
 
 Host of the show where Brian Harpole gave an interview.
 
-*Related: C-14024, C-14025*
+*Related: C-4083, C-4084*
 
 ---
 
@@ -1241,7 +1240,7 @@ Host of the show where Brian Harpole gave an interview.
 
 Interviewer in the viral Erika Kirk clip about Charlie's phone.
 
-*Related: C-14009*
+*Related: C-4061*
 
 ---
 
@@ -1249,7 +1248,7 @@ Interviewer in the viral Erika Kirk clip about Charlie's phone.
 
 Person who took the cameras down; the host says he lied to her.
 
-*Related: C-14017, C-14018, C-14019*
+*Related: C-4073, C-4074, C-4075*
 
 ---
 
@@ -1257,7 +1256,7 @@ Person who took the cameras down; the host says he lied to her.
 
 Former TPUSA security figure who gave the Shawn Ryan interview.
 
-*Related: C-14024, C-14025, C-14063*
+*Related: C-4083, C-4084, C-4142*
 
 ---
 
@@ -1265,7 +1264,7 @@ Former TPUSA security figure who gave the Shawn Ryan interview.
 
 Recipient of a night-before text and subject of the message-attribution dispute.
 
-*Related: C-14011, C-14012, C-14013, C-14063*
+*Related: C-4066, C-4067, C-4068, C-4142*
 
 ---
 
@@ -1273,7 +1272,7 @@ Recipient of a night-before text and subject of the message-attribution dispute.
 
 Host of the CBS event whose questions the host says were planned.
 
-*Related: C-14014, C-14015, C-14016, C-14074*
+*Related: C-4069, C-4070, C-4071, C-4161*
 
 ---
 
@@ -1281,7 +1280,7 @@ Host of the CBS event whose questions the host says were planned.
 
 Named by the host regarding a demand she ignored.
 
-*Related: C-14062*
+*Related: C-4139*
 
 ---
 
@@ -1289,7 +1288,7 @@ Named by the host regarding a demand she ignored.
 
 Host of the show where Candace clarified her text sourcing.
 
-*Related: C-14010*
+*Related: C-4065*
 
 ---
 
@@ -1298,7 +1297,7 @@ Host of the show where Candace clarified her text sourcing.
 Node Type: Organization
 Organization at the center of the meeting.
 
-*Related: C-14005, C-14008, C-14024, C-14025, C-14027, C-14048, C-14065, C-14085*
+*Related: C-4057, C-4060, C-4083, C-4084, C-4087, C-4120, C-4144, C-4172*
 
 ---
 
@@ -1307,7 +1306,7 @@ Organization at the center of the meeting.
 Node Type: Organization
 Campus where the event took place.
 
-*Related: C-14027, C-14067*
+*Related: C-4087, C-4146*
 
 ---
 
@@ -1316,7 +1315,7 @@ Campus where the event took place.
 Node Type: Topic
 Existing topic reused for new claims in this episode.
 
-*Related: C-14046*
+*Related: C-4117*
 
 ---
 
@@ -1325,7 +1324,7 @@ Existing topic reused for new claims in this episode.
 Node Type: Place
 Place the host says Egyptian planes fly to and from.
 
-*Related: C-14049, C-14050, C-14087*
+*Related: C-4121, C-4122, C-4175*
 
 ---
 
@@ -1334,7 +1333,7 @@ Place the host says Egyptian planes fly to and from.
 Node Type: Topic
 Existing topic reused for new claims in this episode.
 
-*Related: C-14071*
+*Related: C-4155*
 
 ---
 
@@ -1343,7 +1342,7 @@ Existing topic reused for new claims in this episode.
 Node Type: Topic
 Existing topic reused for new claims in this episode.
 
-*Related: C-14044, C-14045*
+*Related: C-4113, C-4116*
 
 ---
 
@@ -1352,7 +1351,7 @@ Existing topic reused for new claims in this episode.
 Node Type: Topic
 Existing topic reused for new claims in this episode.
 
-*Related: C-14031*
+*Related: C-4092*
 
 ---
 
@@ -1361,7 +1360,7 @@ Existing topic reused for new claims in this episode.
 Node Type: Topic
 Existing topic reused for new claims in this episode.
 
-*Related: C-14018*
+*Related: C-4074*
 
 ---
 
@@ -1370,7 +1369,7 @@ Existing topic reused for new claims in this episode.
 Node Type: Topic
 Existing topic reused for new claims in this episode.
 
-*Related: C-14047*
+*Related: C-4119*
 
 ---
 
@@ -1379,7 +1378,7 @@ Existing topic reused for new claims in this episode.
 Node Type: Topic
 Existing topic reused for new claims in this episode.
 
-*Related: C-14015*
+*Related: C-4070*
 
 ---
 
@@ -1388,7 +1387,7 @@ Existing topic reused for new claims in this episode.
 Node Type: Topic
 Existing topic reused for new claims in this episode.
 
-*Related: C-14023*
+*Related: C-4082*
 
 ---
 
@@ -1397,7 +1396,7 @@ Existing topic reused for new claims in this episode.
 Node Type: Topic
 Existing topic reused for new claims in this episode.
 
-*Related: C-14024*
+*Related: C-4083*
 
 ---
 
@@ -1406,7 +1405,7 @@ Existing topic reused for new claims in this episode.
 Node Type: Topic
 Existing topic reused for new claims in this episode.
 
-*Related: C-14060*
+*Related: C-4137*
 
 ---
 
@@ -1415,7 +1414,7 @@ Existing topic reused for new claims in this episode.
 Node Type: Place
 Place discussed in the Qatar claims.
 
-*Related: C-14053, C-14087, C-14088*
+*Related: C-4125, C-4175, C-4176*
 
 ---
 
@@ -1424,13 +1423,13 @@ Place discussed in the Qatar claims.
 Node Type: Organization
 Organization the host links to Qatar's intermediary role.
 
-*Related: C-14087*
+*Related: C-4175*
 
 ---
 
 ## V. Claim Register
 
-**C-1924** Private meeting with Erika and Justin Streiff lasted 4 hours 30 minutes
+**C-4056** Private meeting with Erika and Justin Streiff lasted 4 hours 30 minutes
 
 Claim Timestamp: 00:01:58
 
@@ -1444,7 +1443,7 @@ Investigative Direction: Verify meeting date, location, and stated duration agai
 
 ---
 
-**C-1925** Host Says Erika Kirk Confirmed Possession of Charlie's Phone
+**C-4062** Host Says Erika Kirk Confirmed Possession of Charlie's Phone
 
 Claim Timestamp: 00:06:18
 
@@ -1459,7 +1458,7 @@ Investigative Direction: Verify Charlie Kirk's actual messaging platforms throug
 
 ---
 
-**C-1926** Erika confirmed Andrew Kolvet received pre-incident text
+**C-4063** Erika confirmed Andrew Kolvet received pre-incident text
 
 Claim Timestamp: 00:06:18
 
@@ -1474,7 +1473,7 @@ Investigative Direction: Obtain the original message from Andrew Kolvet or his d
 
 ---
 
-**C-1927** Erika stated Dan Flood's pre-incident text specified "the left"
+**C-4064** Erika stated Dan Flood's pre-incident text specified "the left"
 
 Claim Timestamp: 00:06:18
 
@@ -1489,7 +1488,7 @@ Investigative Direction: Obtain original Dan Flood message through his records o
 
 ---
 
-**C-1928** TPUSA case lawyer stated evidence base is at affidavit stage only
+**C-4086** TPUSA case lawyer stated evidence base is at affidavit stage only
 
 Claim Timestamp: 00:17:03
 
@@ -1504,7 +1503,7 @@ Investigative Direction: Verify the May probable cause hearing date through Utah
 
 ---
 
-**C-1929** Host Says Probable Cause Hearing Is Scheduled for May
+**C-4091** Host Says Probable Cause Hearing Is Scheduled for May
 
 Claim Timestamp: 00:19:00
 
@@ -1518,7 +1517,7 @@ Investigative Direction: Confirm hearing date through Utah state court docket.
 
 ---
 
-**C-1930** Candace spoke with witness who filmed rooftop person at 12:23 pm
+**C-4095** Candace spoke with witness who filmed rooftop person at 12:23 pm
 
 Claim Timestamp: 00:21:40
 
@@ -1533,7 +1532,7 @@ Investigative Direction: Identify the witness and verify the video and timestamp
 
 ---
 
-**C-1931** Host Says Rooftop-Filming Witness Described Smaller Gun, Black Tactical Gear, No Recoil
+**C-4093** Host Says Rooftop-Filming Witness Described Smaller Gun, Black Tactical Gear, No Recoil
 
 Claim Timestamp: 00:21:02
 
@@ -1547,7 +1546,7 @@ Investigative Direction: Verify witness testimony through investigators and reco
 
 ---
 
-**C-1932** Mikey McCoy's first call was to wife Elizabeth McCoy
+**C-4104** Mikey McCoy's first call was to wife Elizabeth McCoy
 
 Claim Timestamp: 00:27:04
 
@@ -1562,7 +1561,7 @@ Investigative Direction: Obtain the call logs directly from Mikey McCoy or from 
 
 ---
 
-**C-1933** Host Says Mikey Three-Wayed Erika 3 Minutes After Shot and Father 2 Minutes Later
+**C-4105** Host Says Mikey Three-Wayed Erika 3 Minutes After Shot and Father 2 Minutes Later
 
 Claim Timestamp: 00:27:12
 
@@ -1577,7 +1576,7 @@ Investigative Direction: Verify the three-way call sequence against carrier reco
 
 ---
 
-**C-1934** Host Says Mikey McCoy's Real First Name Is Michael
+**C-4099** Host Says Mikey McCoy's Real First Name Is Michael
 
 Claim Timestamp: 00:23:53
 
@@ -1591,7 +1590,7 @@ Investigative Direction: Verify against official identity records.
 
 ---
 
-**C-1935** Blake Neff's account contradicts the call logs
+**C-4101** Blake Neff's account contradicts the call logs
 
 Claim Timestamp: 00:26:28
 
@@ -1599,7 +1598,7 @@ Claim: The host says Blake Neff's interview account - that Mikey's first call af
 
 Anchored Artifacts: A-1542.1, A-1543.1
 Mentions: N-3, N-159, N-190, N-2, N-17
-Contradicts: C-1932
+Contradicts: C-4104
 
 Related Nodes: N-10338
 
@@ -1607,7 +1606,7 @@ Investigative Direction: Cross-reference Blake Neff's recorded statement against
 
 ---
 
-**C-1936** Elizabeth McCoy was removed from public narrative despite memorial/vacation visibility
+**C-4109** Elizabeth McCoy was removed from public narrative despite memorial/vacation visibility
 
 Claim Timestamp: 00:28:48
 
@@ -1622,7 +1621,7 @@ Investigative Direction: Investigate the editorial decisions that excluded Eliza
 
 ---
 
-**C-1937** Three sources corroborated Bibi Netanyahu funding offer
+**C-4118** Three sources corroborated Bibi Netanyahu funding offer
 
 Claim Timestamp: 00:32:51
 
@@ -1637,7 +1636,7 @@ Investigative Direction: Identify the three sources and obtain documentary evide
 
 ---
 
-**C-1938** Andrew Kolvet told Candace Bibi offered to take TPUSA to next level
+**C-4114** Andrew Kolvet told Candace Bibi offered to take TPUSA to next level
 
 Claim Timestamp: 00:31:40
 
@@ -1652,7 +1651,7 @@ Investigative Direction: Verify Andrew Kolvet's specific statement; clarify whet
 
 ---
 
-**C-3741** Host Says Some of the Paid Campaigns Attacking Her Are Paid by PragerU
+**C-4115** Host Says Some of the Paid Campaigns Attacking Her Are Paid by PragerU
 
 Claim Timestamp: 00:32:14
 Claim: The host says she has the names of people in paid campaigns attacking her, that some are paid by PR firms and "too many" are paid by PragerU, and that she knows Marissa (N-334) there.
@@ -1665,7 +1664,7 @@ Investigative Direction: Identify the named paid accounts and any PragerU or PR-
 
 ---
 
-**C-1939** Rob McCoy does not work for TPUSA in any capacity
+**C-4076** Rob McCoy does not work for TPUSA in any capacity
 
 Claim Timestamp: 00:11:35
 
@@ -1680,7 +1679,7 @@ Investigative Direction: Verify Rob McCoy's formal affiliations independently of
 
 ---
 
-**C-1940** Host Says TPUSA Defended Terryl Farnsworth's Camera Removal
+**C-4072** Host Says TPUSA Defended Terryl Farnsworth's Camera Removal
 
 Claim Timestamp: 00:09:23
 
@@ -1695,7 +1694,7 @@ Investigative Direction: Verify TPUSA's documented livestream policy and Farnswo
 
 ---
 
-**C-1941** Andrew Kolvet posted surgeon "man of steel" bullet description
+**C-4080** Andrew Kolvet posted surgeon "man of steel" bullet description
 
 Claim Timestamp: 00:12:42
 
@@ -1710,7 +1709,7 @@ Investigative Direction: Verify the original tweet content and the surgeon's ide
 
 ---
 
-**C-1942** Host Says They Did Not Know Kolvet Would Write the Surgeon Tweet
+**C-4081** Host Says They Did Not Know Kolvet Would Write the Surgeon Tweet
 
 Claim Timestamp: 00:14:03
 
@@ -1725,7 +1724,7 @@ Investigative Direction: Verify Kolvet's stated communication with the surgeon a
 
 ---
 
-**C-1943** Tim Pool previously said Candace has no security
+**C-4135** Tim Pool previously said Candace has no security
 
 Claim Timestamp: 00:44:36
 
@@ -1740,7 +1739,7 @@ Investigative Direction: Verify the earlier Tim Pool statement against his show 
 
 ---
 
-**C-1944** Tim Pool now claims Candace uses same security as Charlie Kirk
+**C-4136** Tim Pool now claims Candace uses same security as Charlie Kirk
 
 Claim Timestamp: 00:45:27
 
@@ -1755,7 +1754,7 @@ Investigative Direction: Verify the current claim against any documented securit
 
 ---
 
-**C-1945** Candace used different security from the start via Shafer Security
+**C-4140** Candace used different security from the start via Shafer Security
 
 Claim Timestamp: 00:46:28
 
@@ -1770,7 +1769,7 @@ Investigative Direction: Verify Greg Shaffer's public statement and Shafer Secur
 
 ---
 
-**C-1946** No cease and desist received from Charlie's security
+**C-4141** No cease and desist received from Charlie's security
 
 Claim Timestamp: 00:47:23
 
@@ -1785,7 +1784,7 @@ Investigative Direction: Confirm absence of legal correspondence through counsel
 
 ---
 
-**C-1947** New York Post alleged Candace threw car keys at Daily Wire producer
+**C-4128** New York Post alleged Candace threw car keys at Daily Wire producer
 
 Claim Timestamp: 00:41:01
 
@@ -1800,7 +1799,7 @@ Investigative Direction: Verify the cited Daily Wire source and article publicat
 
 ---
 
-**C-1948** Candace never drove her car to Daily Wire
+**C-4129** Candace never drove her car to Daily Wire
 
 Claim Timestamp: 00:41:22
 
@@ -1815,7 +1814,7 @@ Investigative Direction: Verify against Daily Wire security logs or contemporane
 
 ---
 
-**C-1949** Host Says Husband's Wikipedia Falsely Listed Qatari Citizenship
+**C-4127** Host Says Husband's Wikipedia Falsely Listed Qatari Citizenship
 
 Claim Timestamp: 00:39:55
 
@@ -1830,7 +1829,7 @@ Investigative Direction: Verify travel and passport records.
 
 ---
 
-**C-1950** Clip Cites Turkey Tom Video on Robinson Discord Messaging Style
+**C-4153** Clip Cites Turkey Tom Video on Robinson Discord Messaging Style
 
 Claim Timestamp: 00:53:11
 
@@ -1844,7 +1843,7 @@ Investigative Direction: Verify Turkey Tom's claimed Discord membership through 
 
 ---
 
-**C-1951** George Zinn allegedly told nurses he was paid to pose as shooter
+**C-4158** George Zinn allegedly told nurses he was paid to pose as shooter
 
 Claim Timestamp: 00:56:50
 
@@ -1859,7 +1858,7 @@ Investigative Direction: Verify through hospital records, nurse testimony, or po
 
 ---
 
-**C-1952** Kash Patel allegedly angry at Gabbard and Kent over terrorist-angle probe
+**C-4156** Kash Patel allegedly angry at Gabbard and Kent over terrorist-angle probe
 
 Claim Timestamp: 00:56:14
 
@@ -1874,7 +1873,7 @@ Investigative Direction: Verify through any on-record statements from the named 
 
 ---
 
-**C-1953** Erika confirmed Charlie was attending mass and reportedly planning conversion
+**C-4173** Erika confirmed Charlie was attending mass and reportedly planning conversion
 
 Claim Timestamp: 01:10:45
 
@@ -1889,7 +1888,7 @@ Investigative Direction: Verify through parish records and direct corroboration 
 
 ---
 
-**C-1954** Hampton retreat involved Seth Dillon confronting Charlie over hypothetical anti-Netanyahu tweet
+**C-4111** Hampton retreat involved Seth Dillon confronting Charlie over hypothetical anti-Netanyahu tweet
 
 Claim Timestamp: 00:30:25
 
@@ -1904,7 +1903,7 @@ Investigative Direction: Verify through any recording or attendee corroboration 
 
 ---
 
-**C-1955** Charlie Kirk Show Speaker Identifies Andrew Sypher as TPUSA Head of Field
+**C-4150** Charlie Kirk Show Speaker Identifies Andrew Sypher as TPUSA Head of Field
 
 Claim Timestamp: 00:51:02
 
@@ -1919,7 +1918,7 @@ Investigative Direction: Verify Andrew Sypher's official TPUSA title.
 
 ---
 
-**C-1956** Charlie Kirk Show segment asserted August 27 had full location
+**C-4149** Charlie Kirk Show segment asserted August 27 had full location
 
 Claim Timestamp: 00:50:15
 
@@ -1934,7 +1933,7 @@ Investigative Direction: Verify the specific August 27 post referenced.
 
 ---
 
-**C-1957** Candace identifies September 2 KAMYU as first public location mention
+**C-4151** Candace identifies September 2 KAMYU as first public location mention
 
 Claim Timestamp: 00:51:20
 
@@ -1949,7 +1948,7 @@ Investigative Direction: Verify KAMYU broadcast date and content.
 
 ---
 
-**C-1958** TPUSA/UVU/BYU August 27 graphic had no location details
+**C-4152** TPUSA/UVU/BYU August 27 graphic had no location details
 
 Claim Timestamp: 00:51:40
 
@@ -1963,7 +1962,7 @@ Investigative Direction: Obtain the original August 27 graphic.
 
 ---
 
-**C-1959** Charlie Kirk direct quotation on asking questions
+**C-4162** Charlie Kirk direct quotation on asking questions
 
 Claim Timestamp: 01:01:56
 
@@ -1977,7 +1976,7 @@ Investigative Direction: Verify the quotation against the cited Charlie Kirk sou
 
 ---
 
-**C-14003** Host Cites Kanye West Tweet About Firing His Manager
+**C-4054** Host Cites Kanye West Tweet About Firing His Manager
 
 Claim Timestamp: 00:00:57
 
@@ -1992,7 +1991,7 @@ Investigative Direction: Locate the original Kanye West tweet and its date; this
 
 ---
 
-**C-14004** Host Says TPUSA Side Told Her There Were No Rules and Any Question Was Allowed
+**C-4055** Host Says TPUSA Side Told Her There Were No Rules and Any Question Was Allowed
 
 Claim Timestamp: 00:01:51
 
@@ -2008,7 +2007,7 @@ Investigative Direction: Ask TPUSA to confirm the ground rules of the meeting; c
 
 ---
 
-**C-14005** Host Says Streiff and Erika Were Most Upset About Her Godforsaken Company Tweet
+**C-4057** Host Says Streiff and Erika Were Most Upset About Her Godforsaken Company Tweet
 
 Claim Timestamp: 00:03:16
 
@@ -2024,7 +2023,7 @@ Investigative Direction: Locate the host's godforsaken company tweet and its dat
 
 ---
 
-**C-14006** Host Says Alex Clark and Kolvet Podcast Interview Was Aimed at Her Without Naming Her
+**C-4058** Host Says Alex Clark and Kolvet Podcast Interview Was Aimed at Her Without Naming Her
 
 Claim Timestamp: 00:04:10
 
@@ -2035,13 +2034,13 @@ Transcript Snippet: Alex Clark and Andrew Kolvet then jump onto a podcast, and t
 Anchored Artifacts: 
 Mentions: N-99, N-14, N-3
 Related Nodes: N-10350
-Supports: C-12022
+Supports: C-692
 Tags: relevance:core
 Investigative Direction: Retrieve the Alex Clark and Kolvet interview and its promotional teases and check whether the host is named.
 
 ---
 
-**C-14007** Host Says TPUSA Told Her Erika Never Authorized Anyone to Call the Catholicism Claim a Lie
+**C-4059** Host Says TPUSA Told Her Erika Never Authorized Anyone to Call the Catholicism Claim a Lie
 
 Claim Timestamp: 00:04:10
 
@@ -2057,7 +2056,7 @@ Investigative Direction: Ask Erika Kirk or TPUSA to confirm on the record that n
 
 ---
 
-**C-14008** Host Says TPUSA Described Itself as a Company of 650 Employees and Owned Miscommunications
+**C-4060** Host Says TPUSA Described Itself as a Company of 650 Employees and Owned Miscommunications
 
 Claim Timestamp: 00:05:12
 
@@ -2073,7 +2072,7 @@ Investigative Direction: Check TPUSA's Form 990 and public statements for headco
 
 ---
 
-**C-14009** Host Says Erika Told Glenn Beck That Charlie Never Texted Anyone the Night Before
+**C-4061** Host Says Erika Told Glenn Beck That Charlie Never Texted Anyone the Night Before
 
 Claim Timestamp: 00:05:12
 
@@ -2084,13 +2083,13 @@ Transcript Snippet: it was Erika saying that she had Charlie's phone, and that C
 Anchored Artifacts: A-3291
 Mentions: N-2, N-237, N-1, N-3
 Related Nodes: N-10340
-Contradicts: C-1926
+Contradicts: C-4063
 Tags: relevance:core
 Investigative Direction: Locate the Glenn Beck interview clip and compare Erika Kirk's wording with her later acknowledgment of the Kolvet and Flood messages.
 
 ---
 
-**C-14010** Host Says She Got the Text Claim Directly From Kolvet and Clarified on Jimmy Dore
+**C-4065** Host Says She Got the Text Claim Directly From Kolvet and Clarified on Jimmy Dore
 
 Claim Timestamp: 00:06:18
 
@@ -2106,7 +2105,7 @@ Investigative Direction: Retrieve the Jimmy Dore episode and compare with Kolvet
 
 ---
 
-**C-14011** Host Says Her Dan Flood Text Came From Someone With Access to His Communications
+**C-4066** Host Says Her Dan Flood Text Came From Someone With Access to His Communications
 
 Claim Timestamp: 00:06:18
 
@@ -2122,7 +2121,7 @@ Investigative Direction: Identify the host's source for the Flood text and obtai
 
 ---
 
-**C-14012** Host Says TPUSA Checked Charlie's Records Only After Hearing Her Claim
+**C-4067** Host Says TPUSA Checked Charlie's Records Only After Hearing Her Claim
 
 Claim Timestamp: 00:06:18
 
@@ -2133,13 +2132,13 @@ Transcript Snippet: they then went and looked, and yes, that what I said was tru
 Anchored Artifacts: 
 Mentions: N-2, N-14, N-270, N-3
 Related Nodes: N-10340
-Supports: C-1926
+Supports: C-4063
 Tags: relevance:core
 Investigative Direction: Ask TPUSA when the review of Charlie Kirk's device was done and by whom.
 
 ---
 
-**C-14013** Host Says She Cannot Confirm Whether Flood's Text Said the Left or They
+**C-4068** Host Says She Cannot Confirm Whether Flood's Text Said the Left or They
 
 Claim Timestamp: 00:07:30
 
@@ -2150,13 +2149,13 @@ Transcript Snippet: I can't confirm that one way or the other. I have to trust t
 Anchored Artifacts: 
 Mentions: N-270, N-3
 Related Nodes: N-10340
-Qualifies: C-1927
+Qualifies: C-4064
 Tags: relevance:core
 Investigative Direction: Obtain the original Flood message from his device or from TPUSA to settle the wording.
 
 ---
 
-**C-14014** Host Says Erika Told Her She Did Not Ask Her to Stop Because She Was Learning From the Show
+**C-4069** Host Says Erika Told Her She Did Not Ask Her to Stop Because She Was Learning From the Show
 
 Claim Timestamp: 00:07:41
 
@@ -2172,7 +2171,7 @@ Investigative Direction: Ask Erika Kirk to confirm her reasons on the record; re
 
 ---
 
-**C-14015** Host Says Bari Weiss Picked the Questions and the Event Was Planned
+**C-4070** Host Says Bari Weiss Picked the Questions and the Event Was Planned
 
 Claim Timestamp: 00:08:26
 
@@ -2188,7 +2187,7 @@ Investigative Direction: Obtain CBS production records or participant accounts o
 
 ---
 
-**C-14016** Host Says Erika Knew the General Idea but Not the Specific Podcaster Question
+**C-4071** Host Says Erika Knew the General Idea but Not the Specific Podcaster Question
 
 Claim Timestamp: 00:08:26
 
@@ -2204,7 +2203,7 @@ Investigative Direction: Ask Erika Kirk and CBS what advance notice she had of t
 
 ---
 
-**C-14017** Host Says Terryl Farnsworth Lied to Her Several Times
+**C-4073** Host Says Terryl Farnsworth Lied to Her Several Times
 
 Claim Timestamp: 00:09:23
 
@@ -2215,13 +2214,13 @@ Transcript Snippet: my skin crawled after I spoke to Terryl Farnsworth, the pers
 Anchored Artifacts: 
 Mentions: N-261, N-3
 Related Nodes: N-10346
-Supports: C-9302
+Supports: C-1130
 Tags: relevance:core
 Investigative Direction: Obtain the host's recorded exchange with Farnsworth and compare his statements with TPUSA's account of the livestream test.
 
 ---
 
-**C-14018** Host Says Bowyer's Claim That Police Wanted the Camera Taken Down Is Not True
+**C-4074** Host Says Bowyer's Claim That Police Wanted the Camera Taken Down Is Not True
 
 Claim Timestamp: 00:10:45
 
@@ -2237,7 +2236,7 @@ Investigative Direction: Locate Bowyer's tweet and compare its timing with video
 
 ---
 
-**C-14019** Host Says TPUSA Told Her an Officer or Fed Asked Farnsworth to Secure Footage After the Cameras Were Down
+**C-4075** Host Says TPUSA Told Her an Officer or Fed Asked Farnsworth to Secure Footage After the Cameras Were Down
 
 Claim Timestamp: 00:10:45
 
@@ -2253,7 +2252,7 @@ Investigative Direction: Identify the officer or agent and obtain the chain of c
 
 ---
 
-**C-14020** Host Says She Was Wrong That Rob McCoy Worked for TPUSA
+**C-4077** Host Says She Was Wrong That Rob McCoy Worked for TPUSA
 
 Claim Timestamp: 00:11:35
 
@@ -2264,14 +2263,14 @@ Transcript Snippet: So, I guess, to be clear, we were just wrong about that and 
 Anchored Artifacts: 
 Mentions: N-17, N-3
 Related Nodes: N-10348
-Supports: C-1939
-Revises: C-6517
+Supports: C-4076
+Revises: C-1955
 Tags: relevance:core
 Investigative Direction: Check TPUSA and TPUSA Faith payroll, contract and filing records for any payments to Rob McCoy.
 
 ---
 
-**C-14021** Host Says McCoy Called Himself America's Pastor and Had Wikipedia Updated
+**C-4078** Host Says McCoy Called Himself America's Pastor and Had Wikipedia Updated
 
 Claim Timestamp: 00:11:35
 
@@ -2287,7 +2286,7 @@ Investigative Direction: Review the Wikipedia edit history for the TPUSA Faith e
 
 ---
 
-**C-14022** Host Recalls Saying She Saw Footage With No Blood Before the Kolvet Tweet
+**C-4079** Host Recalls Saying She Saw Footage With No Blood Before the Kolvet Tweet
 
 Claim Timestamp: 00:12:24
 
@@ -2303,7 +2302,7 @@ Investigative Direction: Locate the show segment where the host first made the n
 
 ---
 
-**C-14023** Host Says Kolvet Was Not One of the People Who Got Into the Hospital
+**C-4082** Host Says Kolvet Was Not One of the People Who Got Into the Hospital
 
 Claim Timestamp: 00:14:53
 
@@ -2319,7 +2318,7 @@ Investigative Direction: Obtain hospital visitor and staff records and TPUSA acc
 
 ---
 
-**C-14024** Host Says TPUSA Did Not Approve or Know About Harpole's Shawn Ryan Interview
+**C-4083** Host Says TPUSA Did Not Approve or Know About Harpole's Shawn Ryan Interview
 
 Claim Timestamp: 00:14:53
 
@@ -2335,7 +2334,7 @@ Investigative Direction: Ask TPUSA and Shawn Ryan's production when and how the 
 
 ---
 
-**C-14025** Host Says She Does Not Believe Harpole Works at TPUSA Anymore
+**C-4084** Host Says She Does Not Believe Harpole Works at TPUSA Anymore
 
 Claim Timestamp: 00:14:53
 
@@ -2351,7 +2350,7 @@ Investigative Direction: Confirm Harpole's current employment status with TPUSA.
 
 ---
 
-**C-14026** Host Says She Told TPUSA She Wanted to Be Able to Say Tyler Robinson Shot Charlie
+**C-4085** Host Says She Told TPUSA She Wanted to Be Able to Say Tyler Robinson Shot Charlie
 
 Claim Timestamp: 00:16:04
 
@@ -2367,7 +2366,7 @@ Investigative Direction: Ask TPUSA what evidence it offered to support Robinson'
 
 ---
 
-**C-14027** Host Says TPUSA Has Access to UVU Cameras
+**C-4087** Host Says TPUSA Has Access to UVU Cameras
 
 Claim Timestamp: 00:17:03
 
@@ -2383,7 +2382,7 @@ Investigative Direction: Ask UVU and TPUSA whether TPUSA was given access to cam
 
 ---
 
-**C-14028** Host Says TPUSA Called Its Lawyer and What She Heard Did Not Make Her Confident Robinson Shot Charlie
+**C-4088** Host Says TPUSA Called Its Lawyer and What She Heard Did Not Make Her Confident Robinson Shot Charlie
 
 Claim Timestamp: 00:17:03
 
@@ -2394,13 +2393,13 @@ Transcript Snippet: what I got from the lawyer did not make me feel that Tyler R
 Anchored Artifacts: 
 Mentions: N-40, N-1, N-3
 Related Nodes: N-10337
-Supports: C-1928
+Supports: C-4086
 Tags: relevance:core
 Investigative Direction: Identify the lawyer and the party he represents; compare with public filings in the case.
 
 ---
 
-**C-14029** Host Says She Offered Not to Disclose Specifics if TPUSA Had Something Solid
+**C-4089** Host Says She Offered Not to Disclose Specifics if TPUSA Had Something Solid
 
 Claim Timestamp: 00:17:03
 
@@ -2411,13 +2410,13 @@ Transcript Snippet: I'm not going to if you say, 'We've got the footage of him t
 Anchored Artifacts: 
 Mentions: N-3, N-40
 Related Nodes: N-10337
-Supports: C-1928
+Supports: C-4086
 Tags: relevance:core
 Investigative Direction: Ask the lawyer to confirm the exchange; this can only be verified through the participants.
 
 ---
 
-**C-14030** Host Says the Lawyer Told Her Victims Like Erika Are Not Told Investigators' Findings Until May
+**C-4090** Host Says the Lawyer Told Her Victims Like Erika Are Not Told Investigators' Findings Until May
 
 Claim Timestamp: 00:18:08
 
@@ -2428,13 +2427,13 @@ Transcript Snippet: they don't actually share that information with the victim. 
 Anchored Artifacts: 
 Mentions: N-2, N-3
 Related Nodes: N-10337
-Supports: C-1929
+Supports: C-4091
 Tags: relevance:core
 Investigative Direction: Check Utah victim-rights procedure and the court calendar for the May hearing.
 
 ---
 
-**C-14031** Host Says She Does Not Believe Tyler Robinson Pulled the Trigger
+**C-4092** Host Says She Does Not Believe Tyler Robinson Pulled the Trigger
 
 Claim Timestamp: 00:20:25
 
@@ -2450,7 +2449,7 @@ Investigative Direction: Track the evidence presented at the preliminary hearing
 
 ---
 
-**C-14032** Host Says the Rooftop-Filming Witness Trains People to Shoot at a Range
+**C-4094** Host Says the Rooftop-Filming Witness Trains People to Shoot at a Range
 
 Claim Timestamp: 00:21:02
 
@@ -2461,13 +2460,13 @@ Transcript Snippet: This is a guy who trains people to shoot guns at a range. He
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10337
-Supports: C-1930
+Supports: C-4095
 Tags: relevance:core
 Investigative Direction: Identify the witness and verify his occupation and his video.
 
 ---
 
-**C-14033** Host Says Both Video Witnesses Told Her Investigators Never Contacted Them
+**C-4096** Host Says Both Video Witnesses Told Her Investigators Never Contacted Them
 
 Claim Timestamp: 00:22:13
 
@@ -2483,7 +2482,7 @@ Investigative Direction: Ask the witnesses and the Utah investigators whether an
 
 ---
 
-**C-14034** Host Says TPUSA Side Replied Investigators Need Not Check the Witness Because the Video Speaks for Itself
+**C-4097** Host Says TPUSA Side Replied Investigators Need Not Check the Witness Because the Video Speaks for Itself
 
 Claim Timestamp: 00:22:13
 
@@ -2499,7 +2498,7 @@ Investigative Direction: Ask investigators whether a clearer video exists; compa
 
 ---
 
-**C-14035** Host Says TPUSA Came to the Meeting With Paperwork Including Mikey's Call Logs
+**C-4098** Host Says TPUSA Came to the Meeting With Paperwork Including Mikey's Call Logs
 
 Claim Timestamp: 00:23:07
 
@@ -2515,7 +2514,7 @@ Investigative Direction: Obtain the call logs and a carrier record to confirm pr
 
 ---
 
-**C-14036** Blake Neff Clip Has Mikey Calling His Father and Telling Him to Call His Pastor Friends
+**C-4100** Blake Neff Clip Has Mikey Calling His Father and Telling Him to Call His Pastor Friends
 
 Claim Timestamp: 00:25:30
 
@@ -2531,7 +2530,7 @@ Investigative Direction: Compare the Neff interview with the carrier records for
 
 ---
 
-**C-14037** Host Says the Public Was Told Over and Over That Mikey's First Call Was to Erika
+**C-4102** Host Says the Public Was Told Over and Over That Mikey's First Call Was to Erika
 
 Claim Timestamp: 00:26:28
 
@@ -2547,7 +2546,7 @@ Investigative Direction: Collect the public statements from TPUSA figures assert
 
 ---
 
-**C-14038** Host Says Mikey Did Not Follow the Reported Training and First Called His Wife
+**C-4103** Host Says Mikey Did Not Follow the Reported Training and First Called His Wife
 
 Claim Timestamp: 00:26:28
 
@@ -2558,14 +2557,14 @@ Transcript Snippet: Well, he didn't do that. Actually, the first person he calle
 Anchored Artifacts: 
 Mentions: N-190, N-217, N-1, N-3
 Related Nodes: N-10338
-Supports: C-1932
-Contradicts: C-1499
+Supports: C-4104
+Contradicts: C-1896
 Tags: relevance:core
 Investigative Direction: Compare the call-log sequence with Kolvet's account of the emergency-call training.
 
 ---
 
-**C-14039** Host Says Neff's Call Log Shows a 45-Second Call to His Mother Ending Around 12:25
+**C-4106** Host Says Neff's Call Log Shows a 45-Second Call to His Mother Ending Around 12:25
 
 Claim Timestamp: 00:27:12
 
@@ -2581,7 +2580,7 @@ Investigative Direction: Obtain Neff's call log and the shot time from timestamp
 
 ---
 
-**C-14040** Host Mentions Danny McCoy, Mikey's Brother in the Military, in the Call Log
+**C-4107** Host Mentions Danny McCoy, Mikey's Brother in the Military, in the Call Log
 
 Claim Timestamp: 00:27:12
 
@@ -2597,7 +2596,7 @@ Investigative Direction: Identify the third caller from the call logs; the host 
 
 ---
 
-**C-14041** Host Says Mikey Added Erika Only After Neff's Call to His Mother Ended
+**C-4108** Host Says Mikey Added Erika Only After Neff's Call to His Mother Ended
 
 Claim Timestamp: 00:28:02
 
@@ -2608,13 +2607,13 @@ Transcript Snippet: Mikey called Erika after Blake Neff ended that phone call wi
 Anchored Artifacts: 
 Mentions: N-190, N-159, N-2, N-3
 Related Nodes: N-10338
-Supports: C-1935, C-1933
+Supports: C-4101, C-4105
 Tags: relevance:core
 Investigative Direction: Align Mikey's and Neff's logs to the second against the shot time.
 
 ---
 
-**C-14042** Host Says Mikey's Brother Called Back a Minute After He Ended the Call With His Wife
+**C-4110** Host Says Mikey's Brother Called Back a Minute After He Ended the Call With His Wife
 
 Claim Timestamp: 00:28:48
 
@@ -2630,7 +2629,7 @@ Investigative Direction: Check the call logs for the callback and duration.
 
 ---
 
-**C-14043** Host Says Erika Told Her She Was Not Aware of the Netanyahu Offer
+**C-4112** Host Says Erika Told Her She Was Not Aware of the Netanyahu Offer
 
 Claim Timestamp: 00:31:16
 
@@ -2646,7 +2645,7 @@ Investigative Direction: Ask Erika Kirk and TPUSA business staff whether any Net
 
 ---
 
-**C-14044** Host Says Kolvet Told Alex Clark the $150 Million Was Made Up
+**C-4113** Host Says Kolvet Told Alex Clark the $150 Million Was Made Up
 
 Claim Timestamp: 00:31:16
 
@@ -2657,13 +2656,13 @@ Transcript Snippet: Andrew said, "Oh, there was not a $150 million. That's made 
 Anchored Artifacts: 
 Mentions: N-14, N-99, N-3
 Related Nodes: N-10105
-Supports: C-1256
+Supports: C-704
 Tags: relevance:core
 Investigative Direction: Retrieve the Alex Clark interview and compare Kolvet's wording with the host's account.
 
 ---
 
-**C-14045** Host Says She Never Said $150 Million
+**C-4116** Host Says She Never Said $150 Million
 
 Claim Timestamp: 00:32:14
 
@@ -2674,13 +2673,13 @@ Transcript Snippet: I never said $150 million ever, not once on this show.
 Anchored Artifacts: 
 Mentions: N-3, N-36
 Related Nodes: N-10105, N-10342
-Supports: C-12030
+Supports: C-702
 Tags: relevance:core
 Investigative Direction: Search the host's published episodes for any use of the $150 million figure.
 
 ---
 
-**C-14046** Host Says Netanyahu's Call to Charlie Was Never Denied and Netanyahu Himself Shared It
+**C-4117** Host Says Netanyahu's Call to Charlie Was Never Denied and Netanyahu Himself Shared It
 
 Claim Timestamp: 00:32:14
 
@@ -2696,7 +2695,7 @@ Investigative Direction: Locate Netanyahu's public statement about the call and 
 
 ---
 
-**C-14047** Host Says People Misread a Spreadsheet Column as Erika's Exact Location
+**C-4119** Host Says People Misread a Spreadsheet Column as Erika's Exact Location
 
 Claim Timestamp: 00:33:07
 
@@ -2707,13 +2706,13 @@ Transcript Snippet: people assumed that that one of the columns, which was actua
 Anchored Artifacts: A-3295
 Mentions: N-3, N-2
 Related Nodes: N-10347, N-10253
-Qualifies: C-1720
+Qualifies: C-2917
 Tags: relevance:core
 Investigative Direction: Publish the spreadsheet and timeline with the date windows made explicit.
 
 ---
 
-**C-14048** Host Says the Egyptian Planes Were Tracking TPUSA Faith and Broader Events
+**C-4120** Host Says the Egyptian Planes Were Tracking TPUSA Faith and Broader Events
 
 Claim Timestamp: 00:33:07
 
@@ -2724,13 +2723,13 @@ Transcript Snippet: I'm certain that these Egyptian planes are incredibly shady 
 Anchored Artifacts: A-3295
 Mentions: N-3, N-2, N-1
 Related Nodes: N-10347, N-10000
-Supports: C-1545
+Supports: C-2074
 Tags: relevance:core
 Investigative Direction: Overlay the planes' landing dates with TPUSA event dates in the promised interactive timeline.
 
 ---
 
-**C-14049** Host Says the Egyptian Planes Fly In and Out of Israel With Their Transponders Off
+**C-4121** Host Says the Egyptian Planes Fly In and Out of Israel With Their Transponders Off
 
 Claim Timestamp: 00:34:33
 
@@ -2746,7 +2745,7 @@ Investigative Direction: Review ADS-B and flight-plan records for the tail numbe
 
 ---
 
-**C-14050** Host Says She Will Show How the Egyptian Planes Tie Back to Israel the Next Day
+**C-4122** Host Says She Will Show How the Egyptian Planes Tie Back to Israel the Next Day
 
 Claim Timestamp: 00:35:15
 
@@ -2762,7 +2761,7 @@ Investigative Direction: Check the following episode for the promised evidence a
 
 ---
 
-**C-14051** Host Corrects That the Caller Was Another Charlie Assistant Named Danny, Not Danny McCoy
+**C-4123** Host Corrects That the Caller Was Another Charlie Assistant Named Danny, Not Danny McCoy
 
 Claim Timestamp: 00:38:59
 
@@ -2773,13 +2772,13 @@ Transcript Snippet: it is not Danny McCoy. It is Danny, another one of Charlie's
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10338
-Revises: C-14040
+Revises: C-4107
 Tags: relevance:core
 Investigative Direction: Identify the assistant named Danny and confirm his role with TPUSA.
 
 ---
 
-**C-14052** Host Says Attacks on Her Read Like Candace Owens Fan Fiction and Mean She Is Close
+**C-4124** Host Says Attacks on Her Read Like Candace Owens Fan Fiction and Mean She Is Close
 
 Claim Timestamp: 00:38:59
 
@@ -2794,7 +2793,7 @@ Investigative Direction: Collect the specific pieces the host calls fan fiction 
 
 ---
 
-**C-14053** Host Says Her Husband's Wikipedia Was Changed to Say He Was Qatari
+**C-4125** Host Says Her Husband's Wikipedia Was Changed to Say He Was Qatari
 
 Claim Timestamp: 00:39:39
 
@@ -2805,13 +2804,13 @@ Transcript Snippet: they changed my my husband's Wikipedia. It said that he was 
 Anchored Artifacts: 
 Mentions: N-3, N-30
 Related Nodes: N-10351, N-11336
-Supports: C-1949
+Supports: C-4127
 Tags: relevance:tangential
 Investigative Direction: Review the Wikipedia edit history for the page for the relevant edit and editor.
 
 ---
 
-**C-14054** Host Says the New York Post Article Says She Is Sadistic and Dangerous
+**C-4126** Host Says the New York Post Article Says She Is Sadistic and Dangerous
 
 Claim Timestamp: 00:39:39
 
@@ -2827,7 +2826,7 @@ Investigative Direction: Retrieve the Post article and its date and byline.
 
 ---
 
-**C-14055** Host Says She Does Her Own Shows and the Post's Research Claim Is False
+**C-4130** Host Says She Does Her Own Shows and the Post's Research Claim Is False
 
 Claim Timestamp: 00:41:47
 
@@ -2838,13 +2837,13 @@ Transcript Snippet: I have always always done my own shows. I I can't I can't re
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10898
-Supports: C-1948
+Supports: C-4129
 Tags: relevance:tangential
 Investigative Direction: Obtain the Post article and its sourcing; compare with past Daily Wire accounts of her show preparation.
 
 ---
 
-**C-14056** Host Says She Never Discussed a People Magazine Cover
+**C-4131** Host Says She Never Discussed a People Magazine Cover
 
 Claim Timestamp: 00:41:47
 
@@ -2860,7 +2859,7 @@ Investigative Direction: Ask the Post for its sources and check the host's forme
 
 ---
 
-**C-14057** Host Says Her Team Came With Her When She Was Fired
+**C-4132** Host Says Her Team Came With Her When She Was Fired
 
 Claim Timestamp: 00:41:47
 
@@ -2876,7 +2875,7 @@ Investigative Direction: Check the host's staff history against the Post's claim
 
 ---
 
-**C-14058** Host Says She Told Erika She Believes Charlie Was Betrayed by People Close to Him
+**C-4133** Host Says She Told Erika She Believes Charlie Was Betrayed by People Close to Him
 
 Claim Timestamp: 00:42:41
 
@@ -2892,7 +2891,7 @@ Investigative Direction: Ask Erika Kirk to describe her answer to the question.
 
 ---
 
-**C-14059** Host Says Erika Answered That the Charlie Circle Is All Her Family
+**C-4134** Host Says Erika Answered That the Charlie Circle Is All Her Family
 
 Claim Timestamp: 00:43:35
 
@@ -2908,7 +2907,7 @@ Investigative Direction: Ask Erika Kirk for her account; the transcript phrasing
 
 ---
 
-**C-14060** Tim Pool Says People Are Filing Legal Paperwork Against the Host
+**C-4137** Tim Pool Says People Are Filing Legal Paperwork Against the Host
 
 Claim Timestamp: 00:45:27
 
@@ -2924,7 +2923,7 @@ Investigative Direction: Check court dockets for any complaint against the host 
 
 ---
 
-**C-14061** Host Says She Told Charlie She Did Not Like the Security Apparatus
+**C-4138** Host Says She Told Charlie She Did Not Like the Security Apparatus
 
 Claim Timestamp: 00:46:06
 
@@ -2935,13 +2934,13 @@ Transcript Snippet: I told Charlie I did not like the security apparatus. I got 
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10344
-Supports: C-1945
+Supports: C-4140
 Tags: relevance:core
 Investigative Direction: Review any messages between the host and Charlie Kirk about security and the host's security contracts.
 
 ---
 
-**C-14062** Host Says She Ignored Demands to Correct From Brigitte Macron and Kim Klacik Because She Told the Truth
+**C-4139** Host Says She Ignored Demands to Correct From Brigitte Macron and Kim Klacik Because She Told the Truth
 
 Claim Timestamp: 00:46:06
 
@@ -2957,7 +2956,7 @@ Investigative Direction: Identify the Macron and Klacik demand letters and their
 
 ---
 
-**C-14063** Host Says Harpole's Shown Message Belonged to Flood and No Walk-Through Was Done
+**C-4142** Host Says Harpole's Shown Message Belonged to Flood and No Walk-Through Was Done
 
 Claim Timestamp: 00:47:37
 
@@ -2973,7 +2972,7 @@ Investigative Direction: Obtain the original message metadata and any UVU securi
 
 ---
 
-**C-14064** Host Says There Is Something at Fort Huachuca That Caused a Panic
+**C-4143** Host Says There Is Something at Fort Huachuca That Caused a Panic
 
 Claim Timestamp: 00:47:37
 
@@ -2989,7 +2988,7 @@ Investigative Direction: Track the host's following episode on Fort Huachuca and
 
 ---
 
-**C-14065** Host Says TPUSA Violated a Ceasefire by Airing the Case on Its Daily Show
+**C-4144** Host Says TPUSA Violated a Ceasefire by Airing the Case on Its Daily Show
 
 Claim Timestamp: 00:48:23
 
@@ -3005,7 +3004,7 @@ Investigative Direction: Ask both sides what media ground rules were agreed.
 
 ---
 
-**C-14066** Kirk Show Speaker Reads Charging Document Saying Robinson Became More Political and Leaned Left
+**C-4145** Kirk Show Speaker Reads Charging Document Saying Robinson Became More Political and Leaned Left
 
 Claim Timestamp: 00:48:23
 
@@ -3021,7 +3020,7 @@ Investigative Direction: Read the charging document passage in the court filing 
 
 ---
 
-**C-14067** Kirk Show Reading Says Robinson Called the UVU Event a Stupid Venue and Accused Kirk of Spreading Hate
+**C-4146** Kirk Show Reading Says Robinson Called the UVU Event a Stupid Venue and Accused Kirk of Spreading Hate
 
 Claim Timestamp: 00:48:23
 
@@ -3037,7 +3036,7 @@ Investigative Direction: Read the charging document passage in the court filing 
 
 ---
 
-**C-14068** Kirk Show Speaker Says Easy Rooftop Access Shows Robinson Had a Plan
+**C-4147** Kirk Show Speaker Says Easy Rooftop Access Shows Robinson Had a Plan
 
 Claim Timestamp: 00:48:23
 
@@ -3053,7 +3052,7 @@ Investigative Direction: Obtain UVU roof access records and Robinson's prior cam
 
 ---
 
-**C-14069** Kirk Show Speaker Says Charlie Sometimes Announced Outdoor Events 7 to 10 Days in Advance
+**C-4148** Kirk Show Speaker Says Charlie Sometimes Announced Outdoor Events 7 to 10 Days in Advance
 
 Claim Timestamp: 00:49:48
 
@@ -3069,7 +3068,7 @@ Investigative Direction: Compare TPUSA's historical announcement lead times for 
 
 ---
 
-**C-14070** Clip Speaker Says Robinson Was Radicalized Around the Same Time as Crooks and Routh
+**C-4154** Clip Speaker Says Robinson Was Radicalized Around the Same Time as Crooks and Routh
 
 Claim Timestamp: 00:53:58
 
@@ -3085,7 +3084,7 @@ Investigative Direction: Identify the speaker and compare the dates of the named
 
 ---
 
-**C-14071** Clip Speaker Theorizes George Zinn Was a Decoy Who Knew of the Plan
+**C-4155** Clip Speaker Theorizes George Zinn Was a Decoy Who Knew of the Plan
 
 Claim Timestamp: 00:55:40
 
@@ -3101,7 +3100,7 @@ Investigative Direction: Ask investigators whether Zin appears in any Discord re
 
 ---
 
-**C-14072** Host Says She Broke the Story That Zinn Told Utah Valley Nurses He Was Paid
+**C-4157** Host Says She Broke the Story That Zinn Told Utah Valley Nurses He Was Paid
 
 Claim Timestamp: 00:56:14
 
@@ -3112,13 +3111,13 @@ Transcript Snippet: I broke the story that the nurses were told at Utah Valley, 
 Anchored Artifacts: 
 Mentions: N-3, N-42
 Related Nodes: N-10354
-Supports: C-1951
+Supports: C-4158
 Tags: relevance:core
 Investigative Direction: Locate the host's earlier episode with the nurse account and the source for it.
 
 ---
 
-**C-14073** Host Says It May Be the First Time Kolvet Said the Robinson Messages Seemed Weird
+**C-4159** Host Says It May Be the First Time Kolvet Said the Robinson Messages Seemed Weird
 
 Claim Timestamp: 00:56:50
 
@@ -3134,7 +3133,7 @@ Investigative Direction: Identify who in the clip said the messages were weird a
 
 ---
 
-**C-14074** Host Says Megyn Kelly Offered to Ref the Conversation Before the Bari Weiss Moment
+**C-4161** Host Says Megyn Kelly Offered to Ref the Conversation Before the Bari Weiss Moment
 
 Claim Timestamp: 00:57:55
 
@@ -3150,7 +3149,7 @@ Investigative Direction: Ask Megyn Kelly's team to confirm her role in arranging
 
 ---
 
-**C-14075** Host Says Blake Neff Fumbled the First Invite
+**C-4160** Host Says Blake Neff Fumbled the First Invite
 
 Claim Timestamp: 00:56:50
 
@@ -3166,7 +3165,7 @@ Investigative Direction: Retrieve the first invitation from Neff and the host's 
 
 ---
 
-**C-14076** Host Says Offers and Threats Were Made Over the Last Two Years and She Did Not Sell Out
+**C-4163** Host Says Offers and Threats Were Made Over the Last Two Years and She Did Not Sell Out
 
 Claim Timestamp: 01:02:32
 
@@ -3181,7 +3180,7 @@ Investigative Direction: Ask the host for specifics on the offers and threats; n
 
 ---
 
-**C-14077** Host Says Charlie's Hands Were Not Charred When He Was Buried
+**C-4164** Host Says Charlie's Hands Were Not Charred When He Was Buried
 
 Claim Timestamp: 01:03:40
 
@@ -3197,7 +3196,7 @@ Investigative Direction: Identify the source who saw the body at burial and comp
 
 ---
 
-**C-14078** Host Says Coleman's Fort Huachuca Video Made Her Notice Things and Sparked Collaboration
+**C-4165** Host Says Coleman's Fort Huachuca Video Made Her Notice Things and Sparked Collaboration
 
 Claim Timestamp: 01:03:40
 
@@ -3213,7 +3212,7 @@ Investigative Direction: Review Coleman's video against the host's Fort Huachuca
 
 ---
 
-**C-14079** Host Says Coleman Heavily Suggested JD Vance Could Have Been on the Base
+**C-4166** Host Says Coleman Heavily Suggested JD Vance Could Have Been on the Base
 
 Claim Timestamp: 01:04:40
 
@@ -3229,7 +3228,7 @@ Investigative Direction: Watch Coleman's episode to see exactly what he said abo
 
 ---
 
-**C-14080** Host Says Video of Vance Shows He Could Not Have Been at the Base
+**C-4167** Host Says Video of Vance Shows He Could Not Have Been at the Base
 
 Claim Timestamp: 01:04:40
 
@@ -3245,7 +3244,7 @@ Investigative Direction: Identify the video of Vance the host relied on and matc
 
 ---
 
-**C-14081** Host Says Neff's Offer Was Not a True Offer and Erika Went Through Megyn Kelly
+**C-4168** Host Says Neff's Offer Was Not a True Offer and Erika Went Through Megyn Kelly
 
 Claim Timestamp: 01:05:19
 
@@ -3261,7 +3260,7 @@ Investigative Direction: Retrieve Neff's offer and the communications between Er
 
 ---
 
-**C-14082** Host Says Streiff Proposed a Private Conversation to Lower the Temperature
+**C-4169** Host Says Streiff Proposed a Private Conversation to Lower the Temperature
 
 Claim Timestamp: 01:06:23
 
@@ -3277,7 +3276,7 @@ Investigative Direction: Ask Streiff to confirm who proposed taking the conversa
 
 ---
 
-**C-14083** Host Says She Told TPUSA Things She Has Not Yet Said Publicly to Fact-Check
+**C-4170** Host Says She Told TPUSA Things She Has Not Yet Said Publicly to Fact-Check
 
 Claim Timestamp: 01:06:23
 
@@ -3293,7 +3292,7 @@ Investigative Direction: Watch later episodes for the matters the host says she 
 
 ---
 
-**C-14084** Host Says Erika Said She Did Not See the Night-Before Messages and Feds Were Not Discussed
+**C-4171** Host Says Erika Said She Did Not See the Night-Before Messages and Feds Were Not Discussed
 
 Claim Timestamp: 01:08:42
 
@@ -3309,7 +3308,7 @@ Investigative Direction: Ask Erika Kirk whether she or investigators have review
 
 ---
 
-**C-14085** Host Says She Saw and Spoke to No TPUSA Employees at Tucker's Christmas Party
+**C-4172** Host Says She Saw and Spoke to No TPUSA Employees at Tucker's Christmas Party
 
 Claim Timestamp: 01:09:35
 
@@ -3325,7 +3324,7 @@ Investigative Direction: Ask attendees for a guest list; the host says the rumor
 
 ---
 
-**C-14086** Host Says She Had Catholicism Conversations With Charlie While He Was Attending Mass
+**C-4174** Host Says She Had Catholicism Conversations With Charlie While He Was Attending Mass
 
 Claim Timestamp: 01:10:54
 
@@ -3336,13 +3335,13 @@ Transcript Snippet: I can only speak on the fact that I wasn't lying. And that I
 Anchored Artifacts: 
 Mentions: N-1, N-2, N-3
 Related Nodes: N-10350
-Supports: C-12023
+Supports: C-693
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk or the parish about Charlie's attendance and any conversion steps.
 
 ---
 
-**C-14087** Host Says Qatar Said It Worked With Hamas Because Israel and the US Asked It To
+**C-4175** Host Says Qatar Said It Worked With Hamas Because Israel and the US Asked It To
 
 Claim Timestamp: 01:12:01
 
@@ -3358,7 +3357,7 @@ Investigative Direction: Locate the Qatari statement and its date and speaker.
 
 ---
 
-**C-14088** Host Says Jared Kushner Was Recently Allowed to Do Deals in Qatar
+**C-4176** Host Says Jared Kushner Was Recently Allowed to Do Deals in Qatar
 
 Claim Timestamp: 01:12:54
 

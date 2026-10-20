@@ -27,8 +27,8 @@
           "ref": "A-1690.1",
           "description": "Bassem Youssef Piers Morgan Appearance with Casualty Chart",
           "related_claims": [
-            "C-2225",
-            "C-2230"
+            "C-5850",
+            "C-5873"
           ],
           "related_nodes": [
             "N-497",
@@ -55,8 +55,8 @@
           "ref": "A-1691.1",
           "description": "Anti-Semite of Year 2024/2025 Segment from Youssef's Show",
           "related_claims": [
-            "C-2226",
-            "C-2227"
+            "C-5800",
+            "C-5801"
           ],
           "related_nodes": [
             "N-497",
@@ -119,7 +119,7 @@
           "ref": "A-1693.2",
           "description": "Ostrovsky Bandaged Photo",
           "related_claims": [
-            "C-2231"
+            "C-5824"
           ],
           "related_nodes": [
             "N-501",
@@ -188,8 +188,8 @@
           "ref": "A-1694.4",
           "description": "Walter Midi Hunter Comment – IDF Soldier Suicide Rate",
           "related_claims": [
-            "C-2228",
-            "C-2229"
+            "C-5878",
+            "C-5881"
           ],
           "related_nodes": [
             "N-498",
@@ -219,7 +219,7 @@
           "ref": "A-1695.1",
           "description": "Belly of the Beast Tour Dates",
           "related_claims": [
-            "C-2237"
+            "C-5905"
           ],
           "related_nodes": [
             "N-497",
@@ -246,7 +246,7 @@
           "ref": "A-1696.1",
           "description": "Candace Owens Sits Down with Phil Tourney",
           "related_claims": [
-            "C-2229"
+            "C-5881"
           ],
           "related_nodes": [
             "N-498",
@@ -273,8 +273,8 @@
           "ref": "A-1697.1",
           "description": "Victor Ostrovsky Book and 1992 Gag Order Claim",
           "related_claims": [
-            "C-2232",
-            "C-2233"
+            "C-5889",
+            "C-5891"
           ],
           "related_nodes": [
             "N-500",
@@ -302,7 +302,7 @@
           "ref": "A-1698.1",
           "description": "Documentary Clip Featuring Pastors Addressing Children",
           "related_claims": [
-            "C-2234"
+            "C-5826"
           ],
           "related_nodes": [
             "N-10454",
@@ -447,10 +447,10 @@
           "ref": "A-2763.1",
           "description": "Host verbal reference to the Daily Wire lawsuit filed after her Phil Tourney interview and to her call asking Tourney to testify (not shown)",
           "related_claims": [
-            "C-5582",
-            "C-5583",
-            "C-5584",
-            "C-5585"
+            "C-5812",
+            "C-5813",
+            "C-5814",
+            "C-5815"
           ],
           "related_nodes": [
             "N-498",
@@ -478,7 +478,7 @@
           "ref": "A-2764.1",
           "description": "Speaker's verbal account of a Mike Pompeo remark about how October 7th should be remembered (not shown)",
           "related_claims": [
-            "C-5586"
+            "C-5816"
           ],
           "related_nodes": [
             "N-455",
@@ -496,7 +496,7 @@
           "ref": "A-2764.2",
           "description": "Speaker's verbal account of a friend's report from the Cannes film festival of a $200 million pledge to produce Israeli-perspective October 7th content (not shown)",
           "related_claims": [
-            "C-5587"
+            "C-5817"
           ],
           "related_nodes": [
             "N-10026"
@@ -521,8 +521,8 @@
           "ref": "A-2765.1",
           "description": "Host verbal reference to Erika Kirk calls with TPUSA employees five days after Charlie Kirk's death, which the host says she revealed the day before (not played in this episode)",
           "related_claims": [
-            "C-5606",
-            "C-5607"
+            "C-5839",
+            "C-5840"
           ],
           "related_nodes": [
             "N-2",
@@ -550,7 +550,7 @@
           "ref": "A-2766.1",
           "description": "Youssef's verbal description of a Charlie Kirk clip about Gaza buildings and gay people (not shown)",
           "related_claims": [
-            "C-5601"
+            "C-5833"
           ],
           "related_nodes": [
             "N-497",
@@ -569,8 +569,8 @@
           "ref": "A-2766.2",
           "description": "Youssef's verbal description of a Charlie Kirk tweet the day before his death about Islam (not shown)",
           "related_claims": [
-            "C-5602",
-            "C-5603"
+            "C-5834",
+            "C-5835"
           ],
           "related_nodes": [
             "N-497",
@@ -598,8 +598,8 @@
           "ref": "A-2767.1",
           "description": "Host verbal reference to her earlier sit-down interview with Norman Finkelstein, including his account of his parents and of the New York Times rape reporting (not shown)",
           "related_claims": [
-            "C-5614",
-            "C-5647"
+            "C-5847",
+            "C-5885"
           ],
           "related_nodes": [
             "N-199",
@@ -626,8 +626,8 @@
           "ref": "A-2768.1",
           "description": "Host verbal reference to a list of every Egyptian name on the passports tied to the Egyptian aircraft that tracked Charlie Kirk and TPUSA faith events (not shown)",
           "related_claims": [
-            "C-5635",
-            "C-5636"
+            "C-5869",
+            "C-5870"
           ],
           "related_nodes": [
             "N-1",
@@ -655,9 +655,9 @@
           "ref": "A-2769.1",
           "description": "Host verbal reference to her interview with Rabbi Barclay near the end of her Daily Wire tenure, and to his offer of a private screening of October 7th footage (not shown)",
           "related_claims": [
-            "C-5654",
-            "C-5655",
-            "C-5656"
+            "C-5894",
+            "C-5895",
+            "C-5896"
           ],
           "related_nodes": [
             "N-3",
@@ -685,8 +685,8 @@
           "ref": "A-2770.1",
           "description": "Host verbal reference to her earlier podcast coverage of Michael Aquino and the Temple of Set at Fort Huachuca (not shown)",
           "related_claims": [
-            "C-5658",
-            "C-5659"
+            "C-5898",
+            "C-5899"
           ],
           "related_nodes": [
             "N-3",
@@ -718,9 +718,9 @@
         "A-1695.1"
       ],
       "related_claims": [
-        "C-2225",
-        "C-2230",
-        "C-2237"
+        "C-5850",
+        "C-5873",
+        "C-5905"
       ],
       "tags": [],
       "evidence_count": 4,
@@ -744,7 +744,7 @@
         "A-1696.1"
       ],
       "related_claims": [
-        "C-2229"
+        "C-5881"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -767,7 +767,7 @@
         "A-1694.1"
       ],
       "related_claims": [
-        "C-2228"
+        "C-5878"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -789,8 +789,8 @@
         "A-1697.1"
       ],
       "related_claims": [
-        "C-2232",
-        "C-2233"
+        "C-5889",
+        "C-5891"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -814,7 +814,7 @@
         "A-1693.2"
       ],
       "related_claims": [
-        "C-2231"
+        "C-5824"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -854,7 +854,7 @@
         "A-1690.1"
       ],
       "related_claims": [
-        "C-2225"
+        "C-5850"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -878,8 +878,8 @@
         "A-1697.1"
       ],
       "related_claims": [
-        "C-2228",
-        "C-2229"
+        "C-5878",
+        "C-5881"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -902,8 +902,8 @@
         "A-1691.1"
       ],
       "related_claims": [
-        "C-2226",
-        "C-2227"
+        "C-5800",
+        "C-5801"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -925,7 +925,7 @@
         "A-1690.1"
       ],
       "related_claims": [
-        "C-2225"
+        "C-5850"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1018,7 +1018,7 @@
         "A-1693.2"
       ],
       "related_claims": [
-        "C-2231"
+        "C-5824"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1040,7 +1040,7 @@
         "A-1695.1"
       ],
       "related_claims": [
-        "C-2237"
+        "C-5905"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1062,7 +1062,7 @@
         "A-1697.1"
       ],
       "related_claims": [
-        "C-2233"
+        "C-5891"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1084,7 +1084,7 @@
         "A-1697.1"
       ],
       "related_claims": [
-        "C-2232"
+        "C-5889"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1106,7 +1106,7 @@
         "A-1698.1"
       ],
       "related_claims": [
-        "C-2234"
+        "C-5826"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1125,7 +1125,7 @@
         "A-1694.1"
       ],
       "related_claims": [
-        "C-2228"
+        "C-5878"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1149,7 +1149,7 @@
         "A-1696.1"
       ],
       "related_claims": [
-        "C-2229"
+        "C-5881"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1187,20 +1187,20 @@
       "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5583",
-        "C-5595",
-        "C-5599",
-        "C-5600",
-        "C-5601",
-        "C-5602",
-        "C-5603",
-        "C-5604",
-        "C-5605",
-        "C-5607",
-        "C-5635",
-        "C-5639",
-        "C-5640",
-        "C-5663"
+        "C-5813",
+        "C-5827",
+        "C-5831",
+        "C-5832",
+        "C-5833",
+        "C-5834",
+        "C-5835",
+        "C-5836",
+        "C-5838",
+        "C-5840",
+        "C-5869",
+        "C-5874",
+        "C-5875",
+        "C-5903"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1218,51 +1218,51 @@
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5572",
-        "C-5574",
-        "C-5575",
-        "C-5576",
-        "C-5582",
-        "C-5583",
-        "C-5584",
-        "C-5585",
-        "C-5588",
-        "C-5595",
-        "C-5596",
-        "C-5597",
-        "C-5598",
-        "C-5599",
-        "C-5604",
-        "C-5605",
-        "C-5606",
-        "C-5607",
-        "C-5608",
-        "C-5614",
-        "C-5615",
-        "C-5622",
-        "C-5624",
-        "C-5627",
-        "C-5629",
-        "C-5631",
-        "C-5633",
-        "C-5635",
-        "C-5636",
-        "C-5638",
-        "C-5639",
-        "C-5640",
-        "C-5641",
-        "C-5642",
-        "C-5647",
-        "C-5648",
-        "C-5649",
-        "C-5650",
-        "C-5654",
-        "C-5655",
-        "C-5656",
-        "C-5658",
-        "C-5659",
-        "C-5660",
-        "C-5663"
+        "C-5802",
+        "C-5804",
+        "C-5805",
+        "C-5806",
+        "C-5812",
+        "C-5813",
+        "C-5814",
+        "C-5815",
+        "C-5818",
+        "C-5827",
+        "C-5828",
+        "C-5829",
+        "C-5830",
+        "C-5831",
+        "C-5836",
+        "C-5838",
+        "C-5839",
+        "C-5840",
+        "C-5841",
+        "C-5847",
+        "C-5848",
+        "C-5856",
+        "C-5858",
+        "C-5861",
+        "C-5863",
+        "C-5865",
+        "C-5867",
+        "C-5869",
+        "C-5870",
+        "C-5872",
+        "C-5874",
+        "C-5875",
+        "C-5876",
+        "C-5877",
+        "C-5885",
+        "C-5886",
+        "C-5887",
+        "C-5888",
+        "C-5894",
+        "C-5895",
+        "C-5896",
+        "C-5898",
+        "C-5899",
+        "C-5900",
+        "C-5903"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1296,11 +1296,11 @@
       "description": "July DC visit; Hamptons call offering to take TPUSA “to the next level”; Israel-pressure backdrop.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5594",
-        "C-5605",
-        "C-5610",
-        "C-5640",
-        "C-5663"
+        "C-5825",
+        "C-5838",
+        "C-5843",
+        "C-5875",
+        "C-5903"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1335,9 +1335,9 @@
       "description": "Subject of the host's account of her calls with TPUSA employees and her Fox News remarks about sleep.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5606",
-        "C-5607",
-        "C-5608"
+        "C-5839",
+        "C-5840",
+        "C-5841"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1354,8 +1354,8 @@
       "description": "Subject of Youssef's statements on his 2008 indictment and alleged Mossad ties.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5637",
-        "C-5653"
+        "C-5871",
+        "C-5893"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1372,7 +1372,7 @@
       "description": "Named by Youssef as the person who ran Charlie Kirk's Twitter feed. Transcript spelling: Andrew Kolvet.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5603"
+        "C-5835"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1389,7 +1389,7 @@
       "description": "Host of the PBD podcast on which Youssef says Kirk raised questions about Israel.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5600"
+        "C-5832"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1406,7 +1406,7 @@
       "description": "Named by Youssef for a pre-appointment statement on prioritizing Israel.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5609"
+        "C-5842"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1423,13 +1423,13 @@
       "description": "Subject of Youssef's three stories on Shapiro's rhetoric and of the host's Daily Wire lawsuit account.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5576",
-        "C-5577",
-        "C-5578",
-        "C-5580",
-        "C-5581",
-        "C-5583",
-        "C-5631"
+        "C-5806",
+        "C-5807",
+        "C-5808",
+        "C-5810",
+        "C-5811",
+        "C-5813",
+        "C-5865"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1446,7 +1446,7 @@
       "description": "Named by the host as 'Marissa at Prageru', her former employer. Transcript spelling: Marissa.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5633"
+        "C-5867"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1463,8 +1463,8 @@
       "description": "Named by Youssef as a billionaire donating to the IDF and by the host in connection with buying TikTok.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5621",
-        "C-5624"
+        "C-5855",
+        "C-5858"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1481,7 +1481,7 @@
       "description": "Named by the host in connection with a real estate deal in Gaza.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5588"
+        "C-5818"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1498,8 +1498,8 @@
       "description": "Interview guest the host cites for his parents' account and his review of the New York Times rape reporting. Transcript spelling: Norman Finkelstein.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5614",
-        "C-5647"
+        "C-5847",
+        "C-5885"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1516,7 +1516,7 @@
       "description": "Interviewer to whom the host says Erika Kirk said she slept fine. Transcript spelling: Jesse Watters.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5608"
+        "C-5841"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1533,7 +1533,7 @@
       "description": "Named by Youssef as now in control of Paramount Plus. Transcript spelling: Bari Weiss.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5664"
+        "C-5904"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1550,8 +1550,8 @@
       "description": "Named by the host and by Youssef; transcript spellings: Miriam Mson, Miam Idlen.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5594",
-        "C-5598"
+        "C-5825",
+        "C-5830"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1568,7 +1568,7 @@
       "description": "Daily Wire head the host says sent her the lawsuit on his birthday. Transcript spelling: Jeremy Boreing.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5585"
+        "C-5815"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1585,8 +1585,8 @@
       "description": "Subject of the host's Temple of Set and Fort Huachuca statements. Transcript spelling: Michael Aquino.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5658",
-        "C-5659"
+        "C-5898",
+        "C-5899"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1603,7 +1603,7 @@
       "description": "Named by a speaker for a remark about how October 7th will be remembered.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5586"
+        "C-5816"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1620,7 +1620,7 @@
       "description": "Named by Youssef among billionaires he says donate to the IDF. Transcript spelling: Peter Thiel.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5621"
+        "C-5855"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1637,10 +1637,10 @@
       "description": "Organization whose employees received Erika Kirk's calls and whose event hosted the Shapiro Liberty exchange.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5577",
-        "C-5605",
-        "C-5606",
-        "C-5607"
+        "C-5807",
+        "C-5838",
+        "C-5839",
+        "C-5840"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1657,13 +1657,13 @@
       "description": "Organization named in Youssef's historical false-flag claims and his Ostrovsky statements.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5590",
-        "C-5591",
-        "C-5592",
-        "C-5593",
-        "C-5644",
-        "C-5651",
-        "C-5653"
+        "C-5820",
+        "C-5821",
+        "C-5822",
+        "C-5823",
+        "C-5882",
+        "C-5890",
+        "C-5893"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1680,8 +1680,8 @@
       "description": "Topic related to Youssef's statements on Epstein.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5637",
-        "C-5653"
+        "C-5871",
+        "C-5893"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1698,16 +1698,16 @@
       "description": "Place at the center of the episode's statements.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5579",
-        "C-5586",
-        "C-5587",
-        "C-5599",
-        "C-5604",
-        "C-5621",
-        "C-5623",
-        "C-5625",
-        "C-5630",
-        "C-5648"
+        "C-5809",
+        "C-5816",
+        "C-5817",
+        "C-5831",
+        "C-5836",
+        "C-5855",
+        "C-5857",
+        "C-5859",
+        "C-5864",
+        "C-5886"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1724,9 +1724,9 @@
       "description": "Topic linked to the host's statements on Netanyahu's press tour and Trump's tweet.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5639",
-        "C-5640",
-        "C-5663"
+        "C-5874",
+        "C-5875",
+        "C-5903"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1743,7 +1743,7 @@
       "description": "Show on which Youssef says Kirk asked questions about Israel.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5600"
+        "C-5832"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1760,10 +1760,10 @@
       "description": "Place discussed throughout the episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5588",
-        "C-5601",
-        "C-5632",
-        "C-5645"
+        "C-5818",
+        "C-5833",
+        "C-5866",
+        "C-5883"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1780,7 +1780,7 @@
       "description": "Organization where the host says she worked for Marissa.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5633"
+        "C-5867"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1797,7 +1797,7 @@
       "description": "Aircraft investigation target related to the host's Egyptian passport names claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5636"
+        "C-5870"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1814,8 +1814,8 @@
       "description": "Investigation target for the Egyptian aircraft that tracked Kirk and TPUSA faith events.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5635",
-        "C-5636"
+        "C-5869",
+        "C-5870"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1832,7 +1832,7 @@
       "description": "Topic related to the host's statements about Calvary Chapel.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5597"
+        "C-5829"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1849,7 +1849,7 @@
       "description": "Topic related to the host's statement that Kirk said no when Netanyahu wanted to take Turning Point further.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5605"
+        "C-5838"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1866,8 +1866,8 @@
       "description": "Topic related to the host's Aquino and Temple of Set statements.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5658",
-        "C-5659"
+        "C-5898",
+        "C-5899"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1884,7 +1884,7 @@
       "description": "Topic related to the host's Fort Huachuca statement.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5658"
+        "C-5898"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1901,12 +1901,12 @@
       "description": "Organization that the host says barred Youssef and sued her after the Tourney interview.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5574",
-        "C-5576",
-        "C-5582",
-        "C-5583",
-        "C-5585",
-        "C-5654"
+        "C-5804",
+        "C-5806",
+        "C-5812",
+        "C-5813",
+        "C-5815",
+        "C-5894"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1923,9 +1923,9 @@
       "description": "Organization discussed in Youssef's and the host's statements about its Gaza reporting.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5644",
-        "C-5645",
-        "C-5646"
+        "C-5882",
+        "C-5883",
+        "C-5884"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1942,7 +1942,7 @@
       "description": "First named by Youssef at 00:18:27 in episode 65. Comedian and friend of Youssef who, per Youssef, changed from liberal Zionist to anti-Zionist after a Birthright trip. Transcript spelling: Matt Lieb.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5594"
+        "C-5825"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1959,7 +1959,7 @@
       "description": "First named by Youssef at 01:04:37 in episode 65. Described as an ex-IDF spokesman who appeared on Piers Morgan's show. The name is spelled phonetically in the transcript.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5632"
+        "C-5866"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1976,9 +1976,9 @@
       "description": "First named by the host at 01:32:22 in episode 65. Rabbi the host says she interviewed near the end of her Daily Wire tenure. Spelled phonetically in the transcript.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5654",
-        "C-5655",
-        "C-5656"
+        "C-5894",
+        "C-5895",
+        "C-5896"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1995,7 +1995,7 @@
       "description": "First named by Youssef at 01:35:56 in episode 65. Rabbi whose lectures Youssef describes. Spelled phonetically in the transcript.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5657"
+        "C-5897"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2012,7 +2012,7 @@
       "description": "First named by the host at 01:41:10 in episode 65. Described by the host as an avowed Satanist connected to the Apollo-era program.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5660"
+        "C-5900"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2031,10 +2031,10 @@
         "A-2763.1"
       ],
       "related_claims": [
-        "C-5582",
-        "C-5583",
-        "C-5584",
-        "C-5585"
+        "C-5812",
+        "C-5813",
+        "C-5814",
+        "C-5815"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -2051,8 +2051,8 @@
       "description": "Investigation target: Youssef's claim that the head of cybersecurity in Netanyahu's office was found with a minor in a Las Vegas sting and allowed to leave.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5610",
-        "C-5611"
+        "C-5843",
+        "C-5844"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2069,12 +2069,12 @@
       "description": "Investigation target: Youssef's claims about historical staged or covert attacks attributed to Israel or Mossad, including the King David Hotel, Iraq 1950-51, Lavon, London 1994, Mexico 2001 and Patria.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5589",
-        "C-5590",
-        "C-5591",
-        "C-5592",
-        "C-5593",
-        "C-5616"
+        "C-5819",
+        "C-5820",
+        "C-5821",
+        "C-5822",
+        "C-5823",
+        "C-5849"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2091,7 +2091,7 @@
       "description": "Investigation target: Youssef's claim that the US sanctioned an ICC judge, a Dutch national, cutting off his bank access.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5626"
+        "C-5860"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2110,8 +2110,8 @@
         "A-2765.1"
       ],
       "related_claims": [
-        "C-5606",
-        "C-5607"
+        "C-5839",
+        "C-5840"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -2130,9 +2130,9 @@
         "A-2767.1"
       ],
       "related_claims": [
-        "C-5646",
-        "C-5647",
-        "C-5648"
+        "C-5884",
+        "C-5885",
+        "C-5886"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -2149,7 +2149,7 @@
       "description": "Investigation target: Youssef's claim that an ICE field office is in Tel Aviv.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5620"
+        "C-5854"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2161,8 +2161,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-2225",
-      "ref": "C-2225",
+      "@id": "C-5850",
+      "ref": "C-5850",
       "label": "Piers Morgan Chart Cited 2014 Casualty Ratio of ~1:27",
       "claim": "In a clip of his Piers Morgan appearance that the host plays, Bassem Youssef displays a chart stating that in 2014, 88 Israelis and 2,329 Palestinians were killed, which he describes as \"one Israeli for 27 Palestinian.\"",
       "anchored_artifacts": [
@@ -2181,8 +2181,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2226",
-      "ref": "C-2226",
+      "@id": "C-5800",
+      "ref": "C-5800",
       "label": "Youssef Says He Was Nominated for Anti-Semite of the Year 2024 and Candace Owens Won",
       "claim": "In a clip of his show that the host plays, Bassem Youssef says he was nominated for Anti-Semite of the Year 2024 but did not win, and that Candace Owens won it.",
       "anchored_artifacts": [
@@ -2201,8 +2201,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2227",
-      "ref": "C-2227",
+      "@id": "C-5801",
+      "ref": "C-5801",
       "label": "In Clip, Bassem Youssef Says Tucker Carlson Won Anti-Semite of the Year",
       "claim": "In a clip of his show that the host plays, Bassem Youssef asks who got Anti-Semite of the Year this year, and the answer given is Tucker Carlson.",
       "anchored_artifacts": [
@@ -2221,8 +2221,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2228",
-      "ref": "C-2228",
+      "@id": "C-5878",
+      "ref": "C-5878",
       "label": "Ward Boston Notarized Statement on USS Liberty Published in San Diego Union Tribune",
       "claim": "Per read-aloud viewer comment, Navy JAG Ward Boston published a notarized statement in the San Diego Union Tribune asserting the USS Liberty investigation was a cover-up and the attack was deliberate.",
       "anchored_artifacts": [
@@ -2241,8 +2241,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2229",
-      "ref": "C-2229",
+      "@id": "C-5881",
+      "ref": "C-5881",
       "label": "Candace Owens Phil Tourney Interview Received Approximately 7 Million Views",
       "claim": "Per host, her Phil Tourney interview received approximately 7 million views, prompting New York Times outreach.",
       "anchored_artifacts": [
@@ -2263,8 +2263,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2230",
-      "ref": "C-2230",
+      "@id": "C-5873",
+      "ref": "C-5873",
       "label": "Bassem Youssef US Citizenship in December 2019",
       "claim": "Youssef states he took his U.S. citizenship pledge of allegiance in December 2019.",
       "anchored_artifacts": [],
@@ -2278,8 +2278,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2231",
-      "ref": "C-2231",
+      "@id": "C-5824",
+      "ref": "C-5824",
       "label": "Ostrovsky Bandaged Bondi Attack Photo Shows No Blood on Bandages Despite Bloody Face",
       "claim": "Per Bassem Youssef, in displayed images, the bandaged follow-up photo of Arsen Ostrovsky shows no blood on the bandages while his face is left bloody, which he says no self-respecting medic would do.",
       "anchored_artifacts": [
@@ -2298,8 +2298,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2232",
-      "ref": "C-2232",
+      "@id": "C-5889",
+      "ref": "C-5889",
       "label": "Victor Ostrovsky Book Claims Mossad Had Advance Knowledge of 1982 Beirut Barracks Bombing",
       "claim": "Per Youssef's account, *By Way of Deception* by Victor Ostrovsky alleged Mossad knew in advance about the 1982 Beirut barracks bombing (American embassy/Marine bombing).",
       "anchored_artifacts": [],
@@ -2316,8 +2316,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2233",
-      "ref": "C-2233",
+      "@id": "C-5891",
+      "ref": "C-5891",
       "label": "24-Hour Gag Order on *By Way of Deception* in 1992",
       "claim": "Per Youssef, *By Way of Deception* was subject to a 24-hour gag order in 1992, allegedly the only such order in American literary history.",
       "anchored_artifacts": [],
@@ -2334,8 +2334,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2234",
-      "ref": "C-2234",
+      "@id": "C-5826",
+      "ref": "C-5826",
       "label": "*Till Kingdom Come* Documentary Features Pastors Telling Children Jews Are More Special",
       "claim": "Per Youssef, the documentary *Till Kingdom Come* contains clips of pastors addressing children and saying \"Jews are better than us. They are more special than us. They are not like us.\"",
       "anchored_artifacts": [],
@@ -2351,8 +2351,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2235",
-      "ref": "C-2235",
+      "@id": "C-5837",
+      "ref": "C-5837",
       "label": "Charlie Kirk Did Not Allow Benjamin Netanyahu on Show in August",
       "claim": "Per host Candace Owens, Charlie Kirk refused to allow Benjamin Netanyahu on his show in August (referenced as 2025) during Netanyahu's \"mini tour\" of media appearances.",
       "anchored_artifacts": [],
@@ -2370,8 +2370,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2236",
-      "ref": "C-2236",
+      "@id": "C-5880",
+      "ref": "C-5880",
       "label": "New York Times Preparing a Piece on USS Liberty",
       "claim": "Per host, the New York Times contacted her about her Phil Tourney interview and is working on a piece regarding USS Liberty.",
       "anchored_artifacts": [],
@@ -2389,8 +2389,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2237",
-      "ref": "C-2237",
+      "@id": "C-5905",
+      "ref": "C-5905",
       "label": "Bassem Youssef Says His Tour Dates Include Portland March 20 and Seattle March 21",
       "claim": "Bassem Youssef, the episode's guest, says his Belly of the Beast tour dates include Portland March 20 and Seattle March 21, with additional cities Philadelphia, DC, Houston, Atlanta.",
       "anchored_artifacts": [
@@ -2408,8 +2408,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5572",
-      "ref": "C-5572",
+      "@id": "C-5802",
+      "ref": "C-5802",
       "label": "Youssef's show clip says he was nominated for 2024 Anti-Semite of the Year and Candace Owens won",
       "claim": "In the opening clip from his own show, Bassem Youssef says he was himself nominated for Anti-Semite of the Year 2024 but did not win, and that Candace Owens won.",
       "anchored_artifacts": [
@@ -2423,7 +2423,7 @@
       "investigative_direction": "Re-listen to the clip and identify the award body or the show segment; confirm who the 2024 nominee and winner were in the clip's framing.",
       "transcript_snippet": "And I was even nominated to be Anti-Semite of the year 2024, but I didn't get it. I didn't win.",
       "revises_claim_refs": [
-        "C-2226"
+        "C-5800"
       ],
       "mentions_person_refs": [
         "N-497",
@@ -2432,8 +2432,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5573",
-      "ref": "C-5573",
+      "@id": "C-5803",
+      "ref": "C-5803",
       "label": "Miss Rachel named as a nominee for Anti-Semite of the Year",
       "claim": "In the clip, a speaker says one of the nominees for Anti-Semite of the Year this year was Miss Rachel.",
       "anchored_artifacts": [
@@ -2449,8 +2449,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5574",
-      "ref": "C-5574",
+      "@id": "C-5804",
+      "ref": "C-5804",
       "label": "Host says she won the Anti-Semite of the Year award and was fired from Daily Wire that year",
       "claim": "The host says she won the award without asking anyone to vote for her, in large part because she was fired from Daily Wire that year.",
       "anchored_artifacts": [
@@ -2470,8 +2470,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5575",
-      "ref": "C-5575",
+      "@id": "C-5805",
+      "ref": "C-5805",
       "label": "Host says Piers Morgan chart clip was her wake-up call on Gaza",
       "claim": "The host says that Bassem Youssef's Piers Morgan clip with the casualty chart was her wake-up call to what was happening in Gaza.",
       "anchored_artifacts": [
@@ -2485,7 +2485,7 @@
       "investigative_direction": "Ask the host or her producers for when she first saw the clip; compare with the date of the Piers Morgan broadcast.",
       "transcript_snippet": "you were my wakeup call to what was happening in Gaza.",
       "supports_claim_refs": [
-        "C-2225"
+        "C-5850"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2495,8 +2495,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5576",
-      "ref": "C-5576",
+      "@id": "C-5806",
+      "ref": "C-5806",
       "label": "Host says Daily Wire producer told her Youssef could not be booked because he hurt Ben Shapiro's feelings",
       "claim": "The host says that after she asked her producer to book Youssef, the answer from Daily Wire was that he was not allowed on because he had hurt Ben Shapiro's feelings.",
       "anchored_artifacts": [],
@@ -2515,8 +2515,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5577",
-      "ref": "C-5577",
+      "@id": "C-5807",
+      "ref": "C-5807",
       "label": "Youssef says Shapiro told a TPUSA questioner the USS Liberty attack was investigated and proved a mistake",
       "claim": "Youssef says Ben Shapiro, answering a young questioner at a Turning Point USA event, claimed there had been an investigation that proved beyond any doubt that the USS Liberty attack was a mistake.",
       "anchored_artifacts": [
@@ -2537,8 +2537,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5578",
-      "ref": "C-5578",
+      "@id": "C-5808",
+      "ref": "C-5808",
       "label": "A speaker says USS Liberty crew were threatened and under a gag order",
       "claim": "Youssef says the crew of the USS Liberty were threatened and put under a gag order and could not talk, contrary to Ben Shapiro's answer.",
       "anchored_artifacts": [],
@@ -2556,8 +2556,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5579",
-      "ref": "C-5579",
+      "@id": "C-5809",
+      "ref": "C-5809",
       "label": "Youssef says Israel paid $6 million for damages and $6 million for the victims of the USS Liberty",
       "claim": "Youssef says Israel fought the USS Liberty claim for 15 years and then paid $6 million for damages and $6 million for the victims.",
       "anchored_artifacts": [
@@ -2577,8 +2577,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5580",
-      "ref": "C-5580",
+      "@id": "C-5810",
+      "ref": "C-5810",
       "label": "Youssef says Shapiro gave a rapid non-answer on whether Israel committed genocide on the Charlamagne tha God morning show",
       "claim": "Youssef says that when asked on a morning show hosted by Charlamagne tha God whether Israel committed genocide, Ben Shapiro answered in rapid word-salad style, and that Mehdi Hasan appeared the next day to go through details.",
       "anchored_artifacts": [
@@ -2596,8 +2596,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5581",
-      "ref": "C-5581",
+      "@id": "C-5811",
+      "ref": "C-5811",
       "label": "Youssef says Shapiro showed a Hamas water-pipe video whose Arabic narration said the opposite",
       "claim": "Youssef says Ben Shapiro showed a video of pipes being dug out in Gaza as proof that Hamas turns European Union aid into weapons, while the Arabic narration said the pipes were found running from inside Israel to take its water.",
       "anchored_artifacts": [
@@ -2615,8 +2615,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5582",
-      "ref": "C-5582",
+      "@id": "C-5812",
+      "ref": "C-5812",
       "label": "Host says Phil Tourney gave her his Purple Heart and she was then sued by Daily Wire",
       "claim": "The host says that after she met Phil Tourney, a USS Liberty survivor, and cried with him, he gave her his Purple Heart, and that she was then sued by the Daily Wire.",
       "anchored_artifacts": [
@@ -2638,8 +2638,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5583",
-      "ref": "C-5583",
+      "@id": "C-5813",
+      "ref": "C-5813",
       "label": "Host Says Tourney Named Charlie Kirk and Ben Shapiro as People Calling the USS Liberty a Hoax",
       "claim": "The host says that during the sit-down Phil Tourney called out people who said the USS Liberty attack was a hoax and named Charlie Kirk and then Ben Shapiro, and that the Daily Wire sued her.",
       "anchored_artifacts": [
@@ -2663,8 +2663,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5584",
-      "ref": "C-5584",
+      "@id": "C-5814",
+      "ref": "C-5814",
       "label": "Host Says She Asked Tourney to Testify That She Did Not Put Him Up to Naming Kirk and Shapiro",
       "claim": "The host says that, because the Daily Wire argued she had put Tourney up to it, she called him and asked whether he would testify that she had not.",
       "anchored_artifacts": [
@@ -2684,8 +2684,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5585",
-      "ref": "C-5585",
+      "@id": "C-5815",
+      "ref": "C-5815",
       "label": "Host says Jeremy Boreing sent her the lawsuit on his birthday",
       "claim": "The host says Jeremy Boreing, then at the helm of the Daily Wire, sent her the lawsuit on his birthday.",
       "anchored_artifacts": [
@@ -2706,8 +2706,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5586",
-      "ref": "C-5586",
+      "@id": "C-5816",
+      "ref": "C-5816",
       "label": "Speaker says Mike Pompeo said October 7th should be remembered with Israel as the victim",
       "claim": "Youssef says Mike Pompeo said at an event that the way October 7th is remembered will not be how it is remembered today and that people should remember Israel as the victim.",
       "anchored_artifacts": [
@@ -2727,8 +2727,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5587",
-      "ref": "C-5587",
+      "@id": "C-5817",
+      "ref": "C-5817",
       "label": "Speaker says a friend reported a $200 million pledge at Cannes to produce Israeli-view October 7th content",
       "claim": "Youssef says a friend who attended the Cannes film festival last year reported that pledges of over $200 million had been made to produce TV shows and movies retelling October 7th from the Israeli point of view.",
       "anchored_artifacts": [
@@ -2747,8 +2747,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5588",
-      "ref": "C-5588",
+      "@id": "C-5818",
+      "ref": "C-5818",
       "label": "Host says Jared Kushner's Gaza role is a real estate deal",
       "claim": "The host says that understanding what Jared Kushner is doing in Gaza showed her it was a real estate deal.",
       "anchored_artifacts": [],
@@ -2766,8 +2766,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5589",
-      "ref": "C-5589",
+      "@id": "C-5819",
+      "ref": "C-5819",
       "label": "Youssef says the King David Hotel bombing killed 92 British soldiers and was carried out by Hagana members dressed as Palestinians",
       "claim": "Youssef says the bombing of the King David Hotel killed 92 British soldiers and that the Hagana members who did it were dressed as Palestinians.",
       "anchored_artifacts": [],
@@ -2784,8 +2784,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5590",
-      "ref": "C-5590",
+      "@id": "C-5820",
+      "ref": "C-5820",
       "label": "Youssef says Israel sent a Mossad agent to bomb Iraqi Jewish sites in 1950-51 to drive emigration",
       "claim": "Youssef says that in 1950-51 Israel sent a Mossad agent who led four to five bomb attacks on synagogues and Jewish communities in Iraq, and that about 150,000 Jews then went to Israel.",
       "anchored_artifacts": [],
@@ -2803,8 +2803,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5591",
-      "ref": "C-5591",
+      "@id": "C-5821",
+      "ref": "C-5821",
       "label": "Youssef says Israel acknowledged the Lavon affair in 2005 with participation certificates",
       "claim": "Youssef says Israel denied the 1954 Lavon affair for 51 years and in 2005 acknowledged it by giving the participants certificates.",
       "anchored_artifacts": [],
@@ -2822,8 +2822,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5592",
-      "ref": "C-5592",
+      "@id": "C-5822",
+      "ref": "C-5822",
       "label": "Youssef says the 1994 London embassy bombing was done by Mossad and two Palestinians were blamed",
       "claim": "Youssef says the 1994 bombing of the Israeli embassy in London was done by Mossad and that they 'kind of nailed' two Palestinians for it.",
       "anchored_artifacts": [],
@@ -2841,8 +2841,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5593",
-      "ref": "C-5593",
+      "@id": "C-5823",
+      "ref": "C-5823",
       "label": "Youssef says two Mossad individuals staged an attack on the Mexican parliament in October 2001",
       "claim": "Youssef says that in October 2001 two Mossad individuals pretending to be Palestinians were discovered before bombing the Mexican parliament.",
       "anchored_artifacts": [],
@@ -2860,8 +2860,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5594",
-      "ref": "C-5594",
+      "@id": "C-5825",
+      "ref": "C-5825",
       "label": "Youssef says friend Matt Lieb turned anti-Zionist after Netanyahu and Miriam Adelson spoke at his Birthright event",
       "claim": "Youssef says his friend, comedian Matt Lieb, was a liberal Zionist at 26 and changed his mind on a Birthright trip when the main speaker was Benjamin Netanyahu accompanied by Miriam Adelson.",
       "anchored_artifacts": [],
@@ -2879,8 +2879,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5595",
-      "ref": "C-5595",
+      "@id": "C-5827",
+      "ref": "C-5827",
       "label": "Host says Rob McCoy was not actually close to Charlie Kirk, who could not stand him by the end",
       "claim": "The host says Rob McCoy purported to be close to Charlie Kirk but that Charlie could not stand him toward the end, and that Turning Point should say so.",
       "anchored_artifacts": [],
@@ -2899,8 +2899,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5596",
-      "ref": "C-5596",
+      "@id": "C-5828",
+      "ref": "C-5828",
       "label": "Host says Rob McCoy's father ran psychological operations for the Navy",
       "claim": "The host says Rob McCoy's father ran psychological operations for the Navy.",
       "anchored_artifacts": [],
@@ -2918,8 +2918,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5597",
-      "ref": "C-5597",
+      "@id": "C-5829",
+      "ref": "C-5829",
       "label": "Host says Calvary Chapel is a CIA story",
       "claim": "The host says the entire Calvary Chapel church is a CIA story and describes it as a place for hippies to go.",
       "anchored_artifacts": [],
@@ -2937,8 +2937,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5598",
-      "ref": "C-5598",
+      "@id": "C-5830",
+      "ref": "C-5830",
       "label": "Host says Miriam Adelson's money comes from debauchery",
       "claim": "The host says Miriam Adelson's money and wealth comes from debauchery; a speaker adds that they built Las Vegas and Only Fans.",
       "anchored_artifacts": [],
@@ -2954,8 +2954,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5599",
-      "ref": "C-5599",
+      "@id": "C-5831",
+      "ref": "C-5831",
       "label": "Host says she and Charlie Kirk genuinely supported Israel because friends told them the truth",
       "claim": "The host says she and Charlie Kirk were genuine in their support for Israel because they believed their friends were telling them the truth.",
       "anchored_artifacts": [],
@@ -2973,8 +2973,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5600",
-      "ref": "C-5600",
+      "@id": "C-5832",
+      "ref": "C-5832",
       "label": "Youssef says Charlie Kirk started asking questions about Israel on the PBD podcast",
       "claim": "Youssef says he agrees Charlie Kirk was starting to wake up toward the end because he asked questions on the PBD podcast, including one Youssef says he had raised on Piers Morgan about Israel's size and response time.",
       "anchored_artifacts": [],
@@ -2994,8 +2994,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5601",
-      "ref": "C-5601",
+      "@id": "C-5833",
+      "ref": "C-5833",
       "label": "Youssef says Charlie Kirk said there are no high buildings left in Gaza to throw gay people from",
       "claim": "Youssef says that close to his death Charlie Kirk said Muslims throw gay people from high buildings and that there are no high buildings in Gaza anymore, calling Muslims stupid.",
       "anchored_artifacts": [
@@ -3015,8 +3015,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5602",
-      "ref": "C-5602",
+      "@id": "C-5834",
+      "ref": "C-5834",
       "label": "Youssef says Charlie Kirk tweeted the day before his death that Islam is the sword the left uses to slit America's throat",
       "claim": "Youssef says the day before he died Charlie Kirk tweeted that Islam is the sword the left is using to slit America's throat.",
       "anchored_artifacts": [
@@ -3034,8 +3034,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5603",
-      "ref": "C-5603",
+      "@id": "C-5835",
+      "ref": "C-5835",
       "label": "Host Says Andrew Kolvet, Not Charlie Kirk, Ran Kirk's Twitter Feed",
       "claim": "The host says Charlie Kirk did not run his Twitter feed and that Andrew Kolvet did.",
       "anchored_artifacts": [
@@ -3056,8 +3056,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5604",
-      "ref": "C-5604",
+      "@id": "C-5836",
+      "ref": "C-5836",
       "label": "Host says she and Charlie Kirk went to Israel to open an embassy and were shown around by friends",
       "claim": "The host says that she and Charlie Kirk were in Israel on a tour for the opening of an embassy and were guided by people she thought were friends.",
       "anchored_artifacts": [],
@@ -3075,8 +3075,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5605",
-      "ref": "C-5605",
+      "@id": "C-5838",
+      "ref": "C-5838",
       "label": "Host says Charlie Kirk told Netanyahu no when asked to take Turning Point to the next level",
       "claim": "The host says that when Benjamin Netanyahu wanted to take Turning Point to the next level, Charlie Kirk said no.",
       "anchored_artifacts": [],
@@ -3089,7 +3089,7 @@
       "investigative_direction": "Obtain accounts from TPUSA staff and the text messages the host says she released on Kirk's response.",
       "transcript_snippet": "When BB wanted to take Turning Point to the next level, Charlie said no.",
       "supports_claim_refs": [
-        "C-2235"
+        "C-5837"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -3099,8 +3099,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5606",
-      "ref": "C-5606",
+      "@id": "C-5839",
+      "ref": "C-5839",
       "label": "Host says Erika Kirk told TPUSA employees five days after the death that she would protect them and their jobs were safe",
       "claim": "The host says that in Erika Kirk calls revealed the day before, made five days after her husband died, Erika appealed to TPUSA employees, telling them she would protect them, their jobs were safe and they were now a family.",
       "anchored_artifacts": [
@@ -3121,8 +3121,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5607",
-      "ref": "C-5607",
+      "@id": "C-5840",
+      "ref": "C-5840",
       "label": "Host says Erika Kirk told employees Charlie was with them in the office and would not want them at home",
       "claim": "The host says Erika Kirk told employees that Charlie was with them in the office and that he would not want them at home sitting on their couch.",
       "anchored_artifacts": [
@@ -3137,7 +3137,7 @@
       "investigative_direction": "Listen to the call recording and transcribe the passage in full.",
       "transcript_snippet": "Don't go home. He She literally says he wouldn't want you at home sitting on your couch.",
       "supports_claim_refs": [
-        "C-5606"
+        "C-5839"
       ],
       "mentions_person_refs": [
         "N-2",
@@ -3147,8 +3147,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5608",
-      "ref": "C-5608",
+      "@id": "C-5841",
+      "ref": "C-5841",
       "label": "Host says Erika Kirk told Jesse Watters she did not need a sleeping pill or wine and slept fine",
       "claim": "The host says Erika Kirk told Jesse Watters she did not need to take a sleeping pill or have a glass of wine and that she slept fine.",
       "anchored_artifacts": [],
@@ -3165,8 +3165,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5609",
-      "ref": "C-5609",
+      "@id": "C-5842",
+      "ref": "C-5842",
       "label": "Youssef says Kash Patel said before taking office that America must prioritize Israel",
       "claim": "Youssef says that before he took office as FBI director, Kash Patel said America needs to wake up and prioritize Israel.",
       "anchored_artifacts": [],
@@ -3182,8 +3182,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5610",
-      "ref": "C-5610",
+      "@id": "C-5843",
+      "ref": "C-5843",
       "label": "Youssef says the head of cybersecurity in Netanyahu's office was caught in a Las Vegas sting involving a minor and allowed to leave",
       "claim": "Youssef says the head of cybersecurity in Netanyahu's office came to Las Vegas, was found with a minor in a sting operation, and was allowed to leave.",
       "anchored_artifacts": [],
@@ -3201,8 +3201,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5611",
-      "ref": "C-5611",
+      "@id": "C-5844",
+      "ref": "C-5844",
       "label": "Youssef says the acting district attorney is an Israeli national who let the official go",
       "claim": "Youssef says the acting district attorney in the Las Vegas case happens to be an Israeli national who let the man go.",
       "anchored_artifacts": [],
@@ -3214,7 +3214,7 @@
       "investigative_direction": "Identify the prosecutor in the case and verify nationality and role.",
       "transcript_snippet": "you have like the the act the acting DA who happens to be an Israeli national",
       "supports_claim_refs": [
-        "C-5610"
+        "C-5843"
       ],
       "mentions_person_refs": [
         "N-497"
@@ -3222,8 +3222,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5612",
-      "ref": "C-5612",
+      "@id": "C-5845",
+      "ref": "C-5845",
       "label": "Host Says Auschwitz Museum Said Much of What Was Said About Mengele Was Made Up",
       "claim": "The host says the Auschwitz Museum put on its website that a lot of what was said about Dr. Joseph Mengele was made up and that he never did these things.",
       "anchored_artifacts": [
@@ -3241,8 +3241,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5613",
-      "ref": "C-5613",
+      "@id": "C-5846",
+      "ref": "C-5846",
       "label": "A speaker says the Auschwitz death toll figure was changed from 4 million to 1 million overnight",
       "claim": "A speaker says the Auschwitz figure was changed from 4 million to 1 million overnight.",
       "anchored_artifacts": [
@@ -3256,8 +3256,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5614",
-      "ref": "C-5614",
+      "@id": "C-5847",
+      "ref": "C-5847",
       "label": "Host says Norman Finkelstein told her his parents saw some people take tattoos off and some put them on",
       "claim": "The host says Norman Finkelstein told her his parents had said some people were taking tattoos off and some were putting them on.",
       "anchored_artifacts": [
@@ -3275,8 +3275,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5615",
-      "ref": "C-5615",
+      "@id": "C-5848",
+      "ref": "C-5848",
       "label": "Host says the number one victims of World War II were Christians, not Jews",
       "claim": "The host says the number one victims of World War II were not Jews but Christians.",
       "anchored_artifacts": [],
@@ -3291,8 +3291,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5616",
-      "ref": "C-5616",
+      "@id": "C-5849",
+      "ref": "C-5849",
       "label": "Youssef says the Hagana blew up the ship Patria with Jewish refugees at Haifa",
       "claim": "Youssef says the Hagana blew up a ship carrying 1,500 Jewish refugees at the port of Haifa in the 1940s when British authorities would not let it go, and that he thinks they killed 150 Jews.",
       "anchored_artifacts": [],
@@ -3309,8 +3309,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5617",
-      "ref": "C-5617",
+      "@id": "C-5851",
+      "ref": "C-5851",
       "label": "Piers Morgan clip: 37 Palestinian children killed in the West Bank through August",
       "claim": "In the Piers Morgan clip, Youssef says that in the West Bank, where Hamas has no control, 37 Palestinian children were killed through August.",
       "anchored_artifacts": [
@@ -3324,7 +3324,7 @@
       "investigative_direction": "Compare with UN OCHA West Bank child fatality figures for the relevant year.",
       "transcript_snippet": "since the beginning of this street only through August 37 Palestinian kids were killed.",
       "supports_claim_refs": [
-        "C-2225"
+        "C-5850"
       ],
       "mentions_person_refs": [
         "N-497",
@@ -3333,8 +3333,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5618",
-      "ref": "C-5618",
+      "@id": "C-5852",
+      "ref": "C-5852",
       "label": "Piers Morgan clip: 7,000 Palestinians killed since the occupation of the West Bank",
       "claim": "In the Piers Morgan clip, Youssef says that since the occupation of the West Bank, 7,000 Palestinians were killed.",
       "anchored_artifacts": [
@@ -3348,7 +3348,7 @@
       "investigative_direction": "Identify the source of the 7,000 figure and the period it covers.",
       "transcript_snippet": "Since the occupation of the West Bank, 7,000 Palestinians were killed.",
       "supports_claim_refs": [
-        "C-2225"
+        "C-5850"
       ],
       "mentions_person_refs": [
         "N-497",
@@ -3357,8 +3357,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5619",
-      "ref": "C-5619",
+      "@id": "C-5853",
+      "ref": "C-5853",
       "label": "Youssef says Israel killed more Palestinian children in three weeks after the ceasefire than Israeli children in 75 years",
       "claim": "Youssef says that in three weeks after the ceasefire Israel killed more children on the Palestinian side than Israeli children were killed in 75 years.",
       "anchored_artifacts": [
@@ -3377,8 +3377,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5620",
-      "ref": "C-5620",
+      "@id": "C-5854",
+      "ref": "C-5854",
       "label": "Youssef says one of ICE's field offices is in Tel Aviv",
       "claim": "Youssef says that ICE's field office location turns out to be in Tel Aviv; another speaker suggests it was a Department of Homeland Security office.",
       "anchored_artifacts": [],
@@ -3395,8 +3395,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5621",
-      "ref": "C-5621",
+      "@id": "C-5855",
+      "ref": "C-5855",
       "label": "Youssef says Thiel, Karp and Ellison openly donate to the IDF and have headquarters in Israel",
       "claim": "Youssef says billionaires Peter Thiel, Alex Karp and Larry Ellison openly donate to the IDF and openly have their headquarters in Israel.",
       "anchored_artifacts": [],
@@ -3415,8 +3415,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5622",
-      "ref": "C-5622",
+      "@id": "C-5856",
+      "ref": "C-5856",
       "label": "Host says LBJ murdered JFK and put his own people into the military",
       "claim": "The host says America is very clearly an Israeli empire and that LBJ murdered JFK, adding 'it got his boys in there and took over our military.'",
       "anchored_artifacts": [],
@@ -3431,8 +3431,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5623",
-      "ref": "C-5623",
+      "@id": "C-5857",
+      "ref": "C-5857",
       "label": "Youssef says NYPD and LAPD have Israeli special operations officers on site with them",
       "claim": "Youssef says that in the crackdowns on universities, the NYPD and LAPD have had Israeli special operations officers on site with them.",
       "anchored_artifacts": [],
@@ -3449,8 +3449,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5624",
-      "ref": "C-5624",
+      "@id": "C-5858",
+      "ref": "C-5858",
       "label": "Host says Larry Ellison and others said they needed to buy TikTok",
       "claim": "The host says Larry Ellison and others were saying they needed to buy TikTok.",
       "anchored_artifacts": [],
@@ -3466,8 +3466,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5625",
-      "ref": "C-5625",
+      "@id": "C-5859",
+      "ref": "C-5859",
       "label": "Youssef says 37 or 38 US states have laws against boycotting Israel",
       "claim": "Youssef says 37 or 38 US states have laws that bar boycotting Israel.",
       "anchored_artifacts": [],
@@ -3484,8 +3484,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5626",
-      "ref": "C-5626",
+      "@id": "C-5860",
+      "ref": "C-5860",
       "label": "Youssef says the US sanctioned an ICC judge, a Dutch national who lost access to his bank account",
       "claim": "Youssef says the US sanctioned a judge at the International Criminal Court, a Dutch national, who cannot access his bank account or pay his bills.",
       "anchored_artifacts": [],
@@ -3502,8 +3502,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5627",
-      "ref": "C-5627",
+      "@id": "C-5861",
+      "ref": "C-5861",
       "label": "Host says police recently visited a Miami resident over a tweet",
       "claim": "The host says that recently in Miami a police officer showed up at someone's door and asked whether they had sent a tweet.",
       "anchored_artifacts": [],
@@ -3518,8 +3518,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5628",
-      "ref": "C-5628",
+      "@id": "C-5862",
+      "ref": "C-5862",
       "label": "Youssef says a Palestinian friend was shot and paralyzed from the waist down while wearing a keffiyeh",
       "claim": "Youssef says a Palestinian friend and two others were shot, leaving his friend paralyzed from the waist down, though he was not a protester and was wearing a keffiyeh and speaking Arabic.",
       "anchored_artifacts": [],
@@ -3534,8 +3534,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5629",
-      "ref": "C-5629",
+      "@id": "C-5863",
+      "ref": "C-5863",
       "label": "Host says she is banned from Australia",
       "claim": "The host says she is banned from an entire country, Australia, over standing up for Palestinian children.",
       "anchored_artifacts": [],
@@ -3550,8 +3550,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5630",
-      "ref": "C-5630",
+      "@id": "C-5864",
+      "ref": "C-5864",
       "label": "Youssef says Congress writes laws sending $28 to $30 billion of tax money to another country and is bought by lobbies",
       "claim": "Youssef says members of Congress write laws to give $28 billion or $30 billion of taxpayers' money to another country and are bought by lobbies.",
       "anchored_artifacts": [],
@@ -3568,8 +3568,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5631",
-      "ref": "C-5631",
+      "@id": "C-5865",
+      "ref": "C-5865",
       "label": "Host says Ben Shapiro's father follows him to every job",
       "claim": "The host says Ben Shapiro has a too-close relationship with his dad, who follows him to every job.",
       "anchored_artifacts": [],
@@ -3585,8 +3585,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5632",
-      "ref": "C-5632",
+      "@id": "C-5866",
+      "ref": "C-5866",
       "label": "Youssef Says Jonathan Conricus, an Ex-IDF Spokesman, Said on Piers Morgan That There Was No Famine in Gaza",
       "claim": "Youssef says Piers Morgan brought on Jonathan Conricus, described as an ex-IDF spokesman, who said there was no famine in Gaza and pointed to videos of fat Palestinians.",
       "anchored_artifacts": [],
@@ -3605,8 +3605,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5633",
-      "ref": "C-5633",
+      "@id": "C-5867",
+      "ref": "C-5867",
       "label": "Host says she worked for Marissa at PragerU",
       "claim": "The host says she adored Marissa at PragerU when she worked for her.",
       "anchored_artifacts": [],
@@ -3624,8 +3624,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5634",
-      "ref": "C-5634",
+      "@id": "C-5868",
+      "ref": "C-5868",
       "label": "Youssef says a Syrian passport was found near a suicide bomber in the November 2015 Paris attacks",
       "claim": "Youssef says that in the November 2015 Paris attacks a Syrian passport was found near a suicide bomber.",
       "anchored_artifacts": [],
@@ -3640,8 +3640,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5635",
-      "ref": "C-5635",
+      "@id": "C-5869",
+      "ref": "C-5869",
       "label": "Host says the real names on passports tied to Egyptian aircraft that tracked Charlie Kirk include many Palestinians",
       "claim": "The host says that in looking at the Egyptian aircraft that tracked Charlie Kirk and Turning Point USA faith events, the real names on the passports are interesting because many are Palestinian.",
       "anchored_artifacts": [
@@ -3661,8 +3661,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5636",
-      "ref": "C-5636",
+      "@id": "C-5870",
+      "ref": "C-5870",
       "label": "Host says one name on the Egyptian passports matches a person who died in Palestine",
       "claim": "The host says she found that one person died in Palestine and that the exact full name is one of the passports, and that she has the list of every Egyptian name on it.",
       "anchored_artifacts": [
@@ -3677,7 +3677,7 @@
       "investigative_direction": "Obtain the list and the source of the matched name; verify the death record.",
       "transcript_snippet": "I was like oh this is interesting this person died in Palestine and this exact full name is one of the passports I got the list of every Egyptian name that's on this",
       "supports_claim_refs": [
-        "C-5635"
+        "C-5869"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -3685,8 +3685,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5637",
-      "ref": "C-5637",
+      "@id": "C-5871",
+      "ref": "C-5871",
       "label": "Youssef says Epstein was indicted in 2008 and was allowed to go to Israel",
       "claim": "Youssef says Jeffrey Epstein was indicted in 2008 and was allowed to go to Israel during that period.",
       "anchored_artifacts": [],
@@ -3704,8 +3704,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5638",
-      "ref": "C-5638",
+      "@id": "C-5872",
+      "ref": "C-5872",
       "label": "Host says the CIA is trafficking human beings",
       "claim": "The host says the CIA is trafficking human beings.",
       "anchored_artifacts": [],
@@ -3720,8 +3720,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5639",
-      "ref": "C-5639",
+      "@id": "C-5874",
+      "ref": "C-5874",
       "label": "Host says Trump posted a tweet showing him hugging the Israeli flag after the Kirk killing",
       "claim": "The host says Trump posted a tweet showing him hugging the Israeli flag in the period after Charlie Kirk was killed.",
       "anchored_artifacts": [],
@@ -3739,8 +3739,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5640",
-      "ref": "C-5640",
+      "@id": "C-5875",
+      "ref": "C-5875",
       "label": "Host says Netanyahu went on a press tour immediately after Kirk's death to deny involvement",
       "claim": "The host says Benjamin Netanyahu went on a press tour immediately after Charlie Kirk's death to say he did not kill him.",
       "anchored_artifacts": [],
@@ -3752,7 +3752,7 @@
       "investigative_direction": "List Netanyahu's interviews after September 10, 2025 and what he said about the Kirk killing.",
       "transcript_snippet": "BB going on a press tour immediately after to say,",
       "supports_claim_refs": [
-        "C-5640"
+        "C-5875"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3762,8 +3762,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5641",
-      "ref": "C-5641",
+      "@id": "C-5876",
+      "ref": "C-5876",
       "label": "Host Says a Testosterone Crisis Is Due to What Is Put in the Water and Food",
       "claim": "The host says a testosterone crisis exists because of what is put in the water and food.",
       "anchored_artifacts": [],
@@ -3778,8 +3778,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5642",
-      "ref": "C-5642",
+      "@id": "C-5877",
+      "ref": "C-5877",
       "label": "Viewer comment read aloud says IDF soldiers who fought in Gaza have a high suicide rate",
       "claim": "A viewer comment from Walter Midi Hunter, read aloud, says IDF soldiers who fought in Gaza have a high suicide rate; the host replies that this is correct.",
       "anchored_artifacts": [
@@ -3798,8 +3798,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5643",
-      "ref": "C-5643",
+      "@id": "C-5879",
+      "ref": "C-5879",
       "label": "Youssef says Breaking the Silence is a group of ex-IDF soldiers who speak about atrocities",
       "claim": "Youssef says Breaking the Silence is a movement of ex-IDF soldiers who speak about the atrocities they committed in Gaza and the West Bank.",
       "anchored_artifacts": [
@@ -3818,8 +3818,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5644",
-      "ref": "C-5644",
+      "@id": "C-5882",
+      "ref": "C-5882",
       "label": "Youssef says New York Times editorial staff are full of former IDF and Mossad people",
       "claim": "Youssef says the New York Times editorial team is full of people from the IDF and ex-Mossad.",
       "anchored_artifacts": [],
@@ -3837,8 +3837,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5645",
-      "ref": "C-5645",
+      "@id": "C-5883",
+      "ref": "C-5883",
       "label": "Youssef says the New York Times published a piece that more tunnels lie under Gaza than the length of the New York subway system",
       "claim": "Youssef says the New York Times published a piece claiming there are more tunnels under Gaza than the length of the New York subway system.",
       "anchored_artifacts": [],
@@ -3856,8 +3856,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5646",
-      "ref": "C-5646",
+      "@id": "C-5884",
+      "ref": "C-5884",
       "label": "Youssef says the New York Times ran a rape hoax piece that was fabricated and Israelis named in it denied it",
       "claim": "Youssef says the New York Times ran a whole piece about rape on October 7th that was completely fabricated and that Israelis mentioned in the article said it did not happen.",
       "anchored_artifacts": [],
@@ -3875,8 +3875,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5647",
-      "ref": "C-5647",
+      "@id": "C-5885",
+      "ref": "C-5885",
       "label": "Host says Norman Finkelstein explained how the rape claims were lied about",
       "claim": "The host says Norman Finkelstein sat across from her and explained thoroughly how the rape claims were lied about and that he looked into it.",
       "anchored_artifacts": [
@@ -3896,8 +3896,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5648",
-      "ref": "C-5648",
+      "@id": "C-5886",
+      "ref": "C-5886",
       "label": "Host says the claim that babies were put in ovens was made up",
       "claim": "The host says the claim that babies were put in ovens was propaganda that was all made up.",
       "anchored_artifacts": [],
@@ -3915,8 +3915,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5649",
-      "ref": "C-5649",
+      "@id": "C-5887",
+      "ref": "C-5887",
       "label": "Host Relays Tourney's Account That Israeli Flags Were Aboard the USS Liberty",
       "claim": "The host, relaying Phil Tourney's account, says the ship carried Israeli flags and Star of David items because they were there to protect Israel.",
       "anchored_artifacts": [
@@ -3936,8 +3936,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5650",
-      "ref": "C-5650",
+      "@id": "C-5888",
+      "ref": "C-5888",
       "label": "Host Relays Tourney's Account That an Israeli Soldier on a Boat Gave Him the Middle Finger After the Torpedo Warning",
       "claim": "The host, relaying Phil Tourney's account, says that an IDF soldier on a boat that approached made eye contact and gave him the middle finger after the warning that they were about to be torpedoed.",
       "anchored_artifacts": [
@@ -3957,8 +3957,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5651",
-      "ref": "C-5651",
+      "@id": "C-5890",
+      "ref": "C-5890",
       "label": "Youssef says the Beirut barracks bombing foreknowledge included the blue Mercedes-Benz van",
       "claim": "Youssef says that in Ostrovsky's book, Mossad knew about the Beirut bombing, including the blue Mercedes-Benz van that would be used, and withheld that from American troops.",
       "anchored_artifacts": [
@@ -3973,7 +3973,7 @@
       "investigative_direction": "Locate the passage in By Way of Deception and compare it with the commission reports on the 1983 Marine barracks bombing.",
       "transcript_snippet": "the blue MercedesBenz van that was going to be using the attack and they withheld the information from the American troops",
       "supports_claim_refs": [
-        "C-2232"
+        "C-5889"
       ],
       "mentions_person_refs": [
         "N-497",
@@ -3982,8 +3982,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5652",
-      "ref": "C-5652",
+      "@id": "C-5892",
+      "ref": "C-5892",
       "label": "Host Says Hollywood Babylon Was Also Changed and Publishing Rights Let Owners Alter Books",
       "claim": "The host says there was also Hollywood Babylon, that 'they then changed it', and that they are obsessed with publishing rights because if they own your book, when you die, they can change what is in it.",
       "anchored_artifacts": [
@@ -4000,8 +4000,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5653",
-      "ref": "C-5653",
+      "@id": "C-5893",
+      "ref": "C-5893",
       "label": "Host Says Victor Ostrovsky Said on Camera That Epstein Worked for Mossad",
       "claim": "The host says Victor Ostrovsky was also on camera speaking about how Jeffrey Epstein worked for them (Mossad).",
       "anchored_artifacts": [
@@ -4023,8 +4023,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5654",
-      "ref": "C-5654",
+      "@id": "C-5894",
+      "ref": "C-5894",
       "label": "Host Says Her Last or Second-to-Last Daily Wire Episode Was the Interview With Rabbi Barclay",
       "claim": "The host says her very last, or second-to-last, Daily Wire episode was with Rabbi Barclay, and Youssef says that is what broke them.",
       "anchored_artifacts": [
@@ -4045,8 +4045,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5655",
-      "ref": "C-5655",
+      "@id": "C-5895",
+      "ref": "C-5895",
       "label": "Host Says Rabbi Barclay Answered a Request for a Definition of Antisemitism With Whatever We Want",
       "claim": "The host says that when she asked Rabbi Barclay for a definition of antisemitism, he answered that it is whatever we want.",
       "anchored_artifacts": [
@@ -4064,8 +4064,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5656",
-      "ref": "C-5656",
+      "@id": "C-5896",
+      "ref": "C-5896",
       "label": "Host Says Rabbi Barclay Offered Her a Private Screening of October 7th Footage",
       "claim": "The host says that after the interview Rabbi Barclay told her she could have a private screening of October 7th footage, with a laptop brought to her to show what Hamas did.",
       "anchored_artifacts": [
@@ -4083,8 +4083,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5657",
-      "ref": "C-5657",
+      "@id": "C-5897",
+      "ref": "C-5897",
       "label": "Youssef Says Rabbi Yosef Mizrachi Calls Jesus JC Penney in Lectures",
       "claim": "Youssef says another rabbi, called Yosef Mizrachi, gives lectures in Los Angeles and New York in which he does not call him Jesus Christ but JC Penney.",
       "anchored_artifacts": [],
@@ -4100,8 +4100,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5658",
-      "ref": "C-5658",
+      "@id": "C-5898",
+      "ref": "C-5898",
       "label": "Host says Temple of Set was at Fort Huachuca and Aquino was hired because he was an avowed Satanist",
       "claim": "The host says the Temple of Set was at Fort Huachuca and that an avowed Satanist who started his own Temple of Set, Michael Aquino, was hired for that reason to run psychological operations.",
       "anchored_artifacts": [
@@ -4122,8 +4122,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5659",
-      "ref": "C-5659",
+      "@id": "C-5899",
+      "ref": "C-5899",
       "label": "Host says Aquino left the Church of Satan after a schism and founded the Temple of Set",
       "claim": "The host says Michael Aquino split from the Church of Satan over whether Satan is a real being and then started the Temple of Set.",
       "anchored_artifacts": [
@@ -4143,8 +4143,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5660",
-      "ref": "C-5660",
+      "@id": "C-5900",
+      "ref": "C-5900",
       "label": "Host says Jack Parsons was an avowed Satanist who performed sexual rituals to summon demons",
       "claim": "The host says Jack Parsons of the Apollo program era was a committed avowed Satanist throwing sexual rituals and trying to summon demons.",
       "anchored_artifacts": [],
@@ -4160,8 +4160,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5661",
-      "ref": "C-5661",
+      "@id": "C-5901",
+      "ref": "C-5901",
       "label": "Youssef says he was a heart surgeon for 20 years before comedy",
       "claim": "Youssef says he was a heart surgeon for 20 years before becoming a comedian.",
       "anchored_artifacts": [],
@@ -4176,8 +4176,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5662",
-      "ref": "C-5662",
+      "@id": "C-5902",
+      "ref": "C-5902",
       "label": "Youssef says his return ticket from Miami was for September 17, 2001 but he came home earlier",
       "claim": "Youssef says that in summer 2001 he went to Miami to learn salsa, his return ticket was for September 17, and he moved it up after running out of money a week before 9/11.",
       "anchored_artifacts": [],
@@ -4192,8 +4192,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5663",
-      "ref": "C-5663",
+      "@id": "C-5903",
+      "ref": "C-5903",
       "label": "Host says Netanyahu is doing podcasts in America after Kirk's death",
       "claim": "The host says Netanyahu is giving podcast interviews in America after Charlie Kirk's death, which she says is not a smart move if he is involved.",
       "anchored_artifacts": [],
@@ -4205,7 +4205,7 @@
       "investigative_direction": "List Netanyahu's podcast appearances after September 10, 2025 with dates.",
       "transcript_snippet": "BB in control is not doing podcasts in America after Charlie Kirk dies.",
       "supports_claim_refs": [
-        "C-5640"
+        "C-5875"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -4215,8 +4215,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5664",
-      "ref": "C-5664",
+      "@id": "C-5904",
+      "ref": "C-5904",
       "label": "Youssef says Bari Weiss now controls Paramount Plus, which carries Lioness, and expects to be removed",
       "claim": "Youssef says Bari Weiss is now in control of Paramount Plus, which carries Lioness, the show he appears in, and that he expects to be removed from it.",
       "anchored_artifacts": [

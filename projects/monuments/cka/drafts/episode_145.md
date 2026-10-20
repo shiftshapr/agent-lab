@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10f): N-928, N-929, N-11363
   - Hole-minted Nodes (reintro-ep145): N-281, N-10885
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10f): C-13280–C-13345
+  - Claim Range: C-12448–C-12532
   - Reused Nodes Appearing: N-10814, N-10815, N-10816, N-18, N-22, N-30, N-58, N-118, N-154, N-155, N-178, N-190, N-375, N-486, N-660, N-871, N-927, N-10000, N-10024, N-10026, N-10235, N-10386, N-10661, N-10888, N-10900, N-11191, N-11195, N-11262
  - New Nodes Introduced: N-10814, N-10815, N-10816
  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-484
@@ -56,7 +56,7 @@ Video Timestamp: 00:13:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3328, C-3329*
+*Related: C-12466, C-12467*
 
 ---
 
@@ -70,7 +70,7 @@ Video Timestamp: 00:07:38–00:08:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3326, C-3327, N-1, N-2*
+*Related: C-12461, C-12462, N-1, N-2*
 
 ---
 
@@ -84,7 +84,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Flag: Artifact verbally referenced but not displayed
 
-*Related: C-3330, C-3331, C-3332, N-10815*
+*Related: C-12488, C-12489, C-12490, N-10815*
 
 ---
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:30:13–00:31:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3333, C-3334, C-3335*
+*Related: C-12495, C-12498, C-12499*
 
 ---
 
@@ -110,7 +110,7 @@ Video Timestamp: 00:34:07–00:34:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3336, C-3337, N-10814*
+*Related: C-12507, C-12509, N-10814*
 
 ---
 
@@ -123,7 +123,7 @@ Video Timestamp: 00:33:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3338, C-3339, N-10814*
+*Related: C-12504, C-12505, N-10814*
 
 ---
 
@@ -137,7 +137,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Flag: Artifact verbally referenced; precise post identification not specified
 
-*Related: C-3335, N-10814*
+*Related: C-12499, N-10814*
 
 ---
 
@@ -150,7 +150,7 @@ Video Timestamp: 00:31:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3334, N-10814*
+*Related: C-12498, N-10814*
 
 ---
 
@@ -164,7 +164,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Flag: Artifact verbally referenced; specific announcement post not displayed
 
-*Related: C-3341*
+*Related: C-12516*
 
 ---
 
@@ -177,7 +177,7 @@ Video Timestamp: 00:17:34–00:18:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3342, C-3343*
+*Related: C-12474, C-12475*
 
 **A-3255** Host October 27 War Statement Bundle
 
@@ -190,7 +190,7 @@ Video Timestamp: 00:00:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-13282*
+*Related: C-12450*
 
 ---
 
@@ -203,7 +203,7 @@ Video Timestamp: 00:03:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-13284*
+*Related: C-12452*
 
 ---
 
@@ -218,7 +218,7 @@ Video Timestamp: 00:25:04
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-13309, C-13310*
+*Related: C-12483, C-12484*
 
 ---
 
@@ -231,7 +231,7 @@ Video Timestamp: 00:29:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-13316*
+*Related: C-12493*
 
 ---
 
@@ -244,7 +244,7 @@ Video Timestamp: 00:33:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-13322*
+*Related: C-12503*
 
 ---
 
@@ -257,7 +257,7 @@ Video Timestamp: 00:40:51
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-13336*
+*Related: C-12523*
 
 ---
 
@@ -272,7 +272,7 @@ Video Timestamp: 00:44:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-13338*
+*Related: C-12525*
 
 ---
 
@@ -285,7 +285,7 @@ Video Timestamp: 00:45:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-13339*
+*Related: C-12526*
 
 ---
 
@@ -302,7 +302,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2313.1, A-2314.1, A-2315.1, A-2316.1, A-2317.1, C-3334, C-3335, C-3336, C-3340, C-3344*
+*Related: A-2313.1, A-2314.1, A-2315.1, A-2316.1, A-2317.1, C-12498, C-12499, C-12507, C-12501, C-12512*
 
 ---
 
@@ -315,7 +315,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2312.1, C-3330, C-3331, C-3332*
+*Related: A-2312.1, C-12488, C-12489, C-12490*
 
 ---
 
@@ -342,7 +342,7 @@ Investigative Pressure: Medium
 
 Subject of the assassination; the host reports his past statements, dreams and alleged messages.
 
-*Related: C-13281, C-13285, C-13286, C-13287, C-13290, C-13293, C-13294, C-13295, C-13327, C-13331, C-13334, C-13335, C-13341, C-13342, C-13345*
+*Related: C-12449, C-12453, C-12454, C-12455, C-12458, C-12463, C-12464, C-12465, C-12513, C-12518, C-12521, C-12522, C-12528, C-12529, C-12532*
 
 ---
 
@@ -350,7 +350,7 @@ Subject of the assassination; the host reports his past statements, dreams and a
 
 Widow and TPUSA CEO; the host places her first sighting of Charlie in May 2018.
 
-*Related: C-13287, C-13288, C-13293, C-13319*
+*Related: C-12455, C-12456, C-12463, C-12497*
 
 ---
 
@@ -358,7 +358,7 @@ Widow and TPUSA CEO; the host places her first sighting of Charlie in May 2018.
 
 Host; speaks for herself throughout.
 
-*Related: C-13280, C-13281, C-13282, C-13283, C-13284, C-13285, C-13289, C-13290, C-13291, C-13292, C-13293, C-13294, C-13295, C-13296, C-13297, C-13304, C-13305, C-13306, C-13307, C-13311, C-13312, C-13313, C-13319, C-13327, C-13328, C-13329, C-13337, C-13338, C-13339, C-13341, C-13342, C-13345*
+*Related: C-12448, C-12449, C-12450, C-12451, C-12452, C-12453, C-12457, C-12458, C-12459, C-12460, C-12463, C-12464, C-12465, C-12468, C-12469, C-12478, C-12480, C-12479, C-12481, C-12485, C-12486, C-12487, C-12497, C-12513, C-12514, C-12515, C-12524, C-12525, C-12526, C-12528, C-12529, C-12532*
 
 ---
 
@@ -366,7 +366,7 @@ Host; speaks for herself throughout.
 
 TPUSA spokesperson; the host says he instantly retweeted the Pounds thread.
 
-*Related: C-13318*
+*Related: C-12496*
 
 ---
 
@@ -374,7 +374,7 @@ TPUSA spokesperson; the host says he instantly retweeted the Pounds thread.
 
 Debater the host says TPUSA uses as an attack dog.
 
-*Related: C-13311, C-13340*
+*Related: C-12485, C-12527*
 
 ---
 
@@ -382,7 +382,7 @@ Debater the host says TPUSA uses as an attack dog.
 
 Tucker Carlson; the host says he is not on the tour speaker list.
 
-*Related: C-13343*
+*Related: C-12530*
 
 ---
 
@@ -390,7 +390,7 @@ Tucker Carlson; the host says he is not on the tour speaker list.
 
 The host's husband; anniversary and London meeting.
 
-*Related: C-13284, C-13285, C-13295*
+*Related: C-12452, C-12453, C-12465*
 
 ---
 
@@ -398,7 +398,7 @@ The host's husband; anniversary and London meeting.
 
 Billionaire who promoted Data Republican; the host speculates on funding.
 
-*Related: C-13320, C-13326*
+*Related: C-12500, C-12511*
 
 ---
 
@@ -406,7 +406,7 @@ Billionaire who promoted Data Republican; the host speculates on funding.
 
 Defendant whose preliminary hearing week the host references.
 
-*Related: C-13312*
+*Related: C-12486*
 
 ---
 
@@ -414,7 +414,7 @@ Defendant whose preliminary hearing week the host references.
 
 Speaker who has traditionally toured with TPUSA.
 
-*Related: C-13330*
+*Related: C-12517*
 
 ---
 
@@ -422,7 +422,7 @@ Speaker who has traditionally toured with TPUSA.
 
 Daily Wire figure the host says wants to take over TPUSA.
 
-*Related: C-13330, C-13331, C-13343*
+*Related: C-12517, C-12518, C-12530*
 
 ---
 
@@ -430,7 +430,7 @@ Daily Wire figure the host says wants to take over TPUSA.
 
 Alex Clark; on the new tour lineup.
 
-*Related: C-13330*
+*Related: C-12517*
 
 ---
 
@@ -438,7 +438,7 @@ Alex Clark; on the new tour lineup.
 
 Michael Knowles; long-time TPUSA tour speaker.
 
-*Related: C-13330*
+*Related: C-12517*
 
 ---
 
@@ -446,7 +446,7 @@ Michael Knowles; long-time TPUSA tour speaker.
 
 Elon Musk; the host says he promoted Pounds in 2025.
 
-*Related: C-13317*
+*Related: C-12494*
 
 ---
 
@@ -454,7 +454,7 @@ Elon Musk; the host says he promoted Pounds in 2025.
 
 John Mappin; friend and supporter of the host, relayed the black propaganda description.
 
-*Related: C-13285, C-13286, C-13287, C-13288, C-13291, C-13292*
+*Related: C-12453, C-12454, C-12455, C-12456, C-12459, C-12460*
 
 ---
 
@@ -462,7 +462,7 @@ John Mappin; friend and supporter of the host, relayed the black propaganda desc
 
 Irina Mappin; friend and supporter of the host.
 
-*Related: C-13285, C-13286, C-13287, C-13288, C-13292*
+*Related: C-12453, C-12454, C-12455, C-12456, C-12460*
 
 ---
 
@@ -470,7 +470,7 @@ Irina Mappin; friend and supporter of the host.
 
 Blake Neff; the host says he is close friends with Sarah Rogers.
 
-*Related: C-13322, C-13323*
+*Related: C-12503, C-12506*
 
 ---
 
@@ -478,7 +478,7 @@ Blake Neff; the host says he is close friends with Sarah Rogers.
 
 Jared Kushner; the host says he was in Iceland weeks before her.
 
-*Related: C-13280*
+*Related: C-12448*
 
 ---
 
@@ -486,7 +486,7 @@ Jared Kushner; the host says he was in Iceland weeks before her.
 
 Mikey McCoy; the host says the Mappins know him very well.
 
-*Related: C-13288*
+*Related: C-12456*
 
 ---
 
@@ -494,7 +494,7 @@ Mikey McCoy; the host says the Mappins know him very well.
 
 Jennica Pounds (Data Republican); the host details her background, thread and SGE status.
 
-*Related: C-13315, C-13316, C-13317, C-13318, C-13319, C-13320, C-13321, C-13324, C-13325, C-13326*
+*Related: C-12492, C-12493, C-12494, C-12496, C-12497, C-12500, C-12502, C-12508, C-12510, C-12511*
 
 ---
 
@@ -502,7 +502,7 @@ Jennica Pounds (Data Republican); the host details her background, thread and SG
 
 Ryan Reynolds; host's account of the Deadpool reshoot and pressure on Baldoni.
 
-*Related: C-13300, C-13303*
+*Related: C-12472, C-12477*
 
 ---
 
@@ -510,7 +510,7 @@ Ryan Reynolds; host's account of the Deadpool reshoot and pressure on Baldoni.
 
 Blake Lively; host's account of the Baldoni litigation.
 
-*Related: C-13297, C-13298, C-13299, C-13300, C-13301, C-13302*
+*Related: C-12469, C-12470, C-12471, C-12472, C-12473, C-12476*
 
 ---
 
@@ -518,7 +518,7 @@ Blake Lively; host's account of the Baldoni litigation.
 
 Justin Baldoni; host's airport encounter and account of the litigation.
 
-*Related: C-13296, C-13298, C-13299, C-13300, C-13302, C-13303, C-13305, C-13306, C-13307, C-13308*
+*Related: C-12468, C-12470, C-12471, C-12472, C-12476, C-12477, C-12480, C-12479, C-12481, C-12482*
 
 ---
 
@@ -526,7 +526,7 @@ Justin Baldoni; host's airport encounter and account of the litigation.
 
 Taylor Swift; referenced in the Baldoni litigation account.
 
-*Related: C-13301, C-13308*
+*Related: C-12473, C-12482*
 
 ---
 
@@ -534,7 +534,7 @@ Taylor Swift; referenced in the Baldoni litigation account.
 
 Ivanka Trump; the host says she was in Iceland weeks earlier.
 
-*Related: C-13280*
+*Related: C-12448*
 
 ---
 
@@ -542,7 +542,7 @@ Ivanka Trump; the host says she was in Iceland weeks earlier.
 
 Britney Spears; the host's comparison for media-driven breakdown.
 
-*Related: C-13289*
+*Related: C-12457*
 
 ---
 
@@ -550,7 +550,7 @@ Britney Spears; the host's comparison for media-driven breakdown.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13286, C-13313, C-13323, C-13328, C-13330, C-13333, C-13334, C-13335, C-13340, C-13343, C-13344*
+*Related: C-12454, C-12487, C-12506, C-12514, C-12517, C-12520, C-12521, C-12522, C-12527, C-12530, C-12531*
 
 ---
 
@@ -558,7 +558,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13329, C-13338*
+*Related: C-12515, C-12525*
 
 ---
 
@@ -566,7 +566,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13287*
+*Related: C-12455*
 
 ---
 
@@ -574,7 +574,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13293*
+*Related: C-12463*
 
 ---
 
@@ -582,7 +582,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13331*
+*Related: C-12518*
 
 ---
 
@@ -590,7 +590,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13296, C-13298, C-13299, C-13300, C-13308*
+*Related: C-12468, C-12470, C-12471, C-12472, C-12482*
 
 ---
 
@@ -598,7 +598,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13324*
+*Related: C-12508*
 
 ---
 
@@ -606,7 +606,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13281, C-13282, C-13324*
+*Related: C-12449, C-12450, C-12508*
 
 ---
 
@@ -614,7 +614,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13331, C-13332, C-13333, C-13334*
+*Related: C-12518, C-12519, C-12520, C-12521*
 
 ---
 
@@ -622,7 +622,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13309, C-13310*
+*Related: C-12483, C-12484*
 
 ---
 
@@ -630,7 +630,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13281, C-13311*
+*Related: C-12449, C-12485*
 
 ---
 
@@ -638,7 +638,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13340*
+*Related: C-12527*
 
 ---
 
@@ -646,7 +646,7 @@ Existing node reused for new claims in this episode.
 
 First named by the host at 00:00:01 in episode 145 (as "Rabbi Shmuley").
 
-*Related: C-13280, C-13283*
+*Related: C-12448, C-12451*
 
 ---
 
@@ -655,7 +655,7 @@ First named by the host at 00:00:01 in episode 145 (as "Rabbi Shmuley").
 Node Type: Organization
 Tax-resolution firm advertised in the sponsor read at 00:40:51 in episode 145.
 
-*Related: C-13336*
+*Related: C-12523*
 
 ---
 
@@ -663,7 +663,7 @@ Tax-resolution firm advertised in the sponsor read at 00:40:51 in episode 145.
 
 First named by the host at 00:25:04 in episode 145. President of Pre-Born, per the sponsor read.
 
-*Related: C-13309, C-13310*
+*Related: C-12483, C-12484*
 
 ---
 
@@ -671,13 +671,13 @@ First named by the host at 00:25:04 in episode 145. President of Pre-Born, per t
 
 First named by the host at 00:32:35 in episode 145. Under Secretary for Public Diplomacy at the State Department, whom the host says leaked to Jennica Pounds.
 
-*Related: C-13321, C-13322, C-13323*
+*Related: C-12502, C-12503, C-12506*
 
 ---
 
 ## V. Claim Register
 
-**C-3326** Mappin Article Characterizes Charlie Kirk's Death as Politically Consequential Assassination
+**C-12461** Mappin Article Characterizes Charlie Kirk's Death as Politically Consequential Assassination
 
 Claim Timestamp: 00:07:38
 
@@ -689,7 +689,7 @@ Investigative Direction: Obtain the full October 6, 2025 article from its origin
 
 ---
 
-**C-3327** Host Concurs with Mappin Article's Characterization
+**C-12462** Host Concurs with Mappin Article's Characterization
 
 Claim Timestamp: 00:08:27
 
@@ -701,7 +701,7 @@ Investigative Direction: Compare the host's subsequent public statements to the 
 
 ---
 
-**C-3328** Host Encountered Justin Baldoni at Iceland Airport
+**C-12466** Host Encountered Justin Baldoni at Iceland Airport
 
 Claim Timestamp: 00:13:27
 
@@ -714,7 +714,7 @@ Investigative Direction: Independent corroboration of the encounter is achievabl
 
 ---
 
-**C-3329** Justin Baldoni Was on Layover from Sweden During Encounter
+**C-12467** Justin Baldoni Was on Layover from Sweden During Encounter
 
 Claim Timestamp: 00:14:02
 
@@ -727,7 +727,7 @@ Investigative Direction: Verify via flight records or independent statements fro
 
 ---
 
-**C-3330** NCRI Report Titled "Permission to Kill" Characterized Host as "Digital Assassin"
+**C-12488** NCRI Report Titled "Permission to Kill" Characterized Host as "Digital Assassin"
 
 Claim Timestamp: 00:28:26
 
@@ -740,7 +740,7 @@ Investigative Direction: Obtain the full NCRI report; verify authorship, publica
 
 ---
 
-**C-3331** Host Says NCRI Is Led by Andrew Kolvet's Former PR-Firm Partner
+**C-12489** Host Says NCRI Is Led by Andrew Kolvet's Former PR-Firm Partner
 
 Claim Timestamp: 00:28:26
 
@@ -753,7 +753,7 @@ Investigative Direction: Verify Kairos company's involvement in NCRI; verify Kol
 
 ---
 
-**C-3332** NCRI Report Released During Week of Tyler Robinson Preliminary Hearing
+**C-12490** NCRI Report Released During Week of Tyler Robinson Preliminary Hearing
 
 Claim Timestamp: 00:28:26
 
@@ -766,7 +766,7 @@ Investigative Direction: Compare the NCRI report publication date to the court d
 
 ---
 
-**C-3333** Data Republican Posted X Thread Arguing Host's Audience Will Eventually Want to Kill Erika Kirk
+**C-12495** Data Republican Posted X Thread Arguing Host's Audience Will Eventually Want to Kill Erika Kirk
 
 Claim Timestamp: 00:30:13
 
@@ -779,7 +779,7 @@ Investigative Direction: Retrieve the full X thread directly from the platform; 
 
 ---
 
-**C-3334** Andrew Kolvet Publicly Endorsed Data Republican's Allegations Against Host
+**C-12498** Andrew Kolvet Publicly Endorsed Data Republican's Allegations Against Host
 
 Claim Timestamp: 00:31:33
 
@@ -792,7 +792,7 @@ Investigative Direction: Retrieve the original Kolvet post; verify timestamp and
 
 ---
 
-**C-3335** Bill Ackman Promoted Data Republican's Content
+**C-12499** Bill Ackman Promoted Data Republican's Content
 
 Claim Timestamp: 00:31:33
 
@@ -805,7 +805,7 @@ Investigative Direction: Retrieve the specific Bill Ackman post; verify date and
 
 ---
 
-**C-3336** Jennica Pounds Admitted Working as Special Government Employee for Department of War Since July
+**C-12507** Jennica Pounds Admitted Working as Special Government Employee for Department of War Since July
 
 Claim Timestamp: 00:34:07
 
@@ -818,7 +818,7 @@ Investigative Direction: Retrieve the original X post; cross-reference against D
 
 ---
 
-**C-3337** Jennica Pounds' Pentagon Press Credentials Expired in June
+**C-12509** Jennica Pounds' Pentagon Press Credentials Expired in June
 
 Claim Timestamp: 00:34:29
 
@@ -831,7 +831,7 @@ Investigative Direction: Retrieve the full quoted X post; verify against Pentago
 
 ---
 
-**C-3338** Blake Neff Publicly Described Sarah Rogers as "One of Charlie's Favorite Trump Nominees"
+**C-12504** Blake Neff Publicly Described Sarah Rogers as "One of Charlie's Favorite Trump Nominees"
 
 Claim Timestamp: 00:33:25
 
@@ -844,7 +844,7 @@ Investigative Direction: Retrieve the Blake Neff post directly; verify quoted te
 
 ---
 
-**C-3339** Sarah Rogers Confirmed and Sworn In as Under Secretary for Public Diplomacy
+**C-12505** Sarah Rogers Confirmed and Sworn In as Under Secretary for Public Diplomacy
 
 Claim Timestamp: 00:33:25
 
@@ -857,7 +857,7 @@ Investigative Direction: Cross-reference Senate confirmation records and State D
 
 ---
 
-**C-3340** Sarah Rogers Allegedly Leaked Information to Jennica Pounds
+**C-12501** Sarah Rogers Allegedly Leaked Information to Jennica Pounds
 
 Claim Timestamp: 00:32:35
 
@@ -870,7 +870,7 @@ Investigative Direction: Retrieve the original Data Republican post in which the
 
 ---
 
-**C-3341** Host Says TPUSA Announced "Love It or Leave It" Tour Featuring Daily Wire Personalities
+**C-12516** Host Says TPUSA Announced "Love It or Leave It" Tour Featuring Daily Wire Personalities
 
 Claim Timestamp: 00:37:33
 
@@ -883,7 +883,7 @@ Investigative Direction: Retrieve TPUSA's official tour announcement; verify lin
 
 ---
 
-**C-3342** Per CCRD Filing Host Reads, Lively Accused Jamie Heath of Showing Pornography on Set
+**C-12474** Per CCRD Filing Host Reads, Lively Accused Jamie Heath of Showing Pornography on Set
 
 Claim Timestamp: 00:17:34
 
@@ -896,7 +896,7 @@ Investigative Direction: Obtain the full CCRD filing; verify the quoted passage 
 
 ---
 
-**C-3343** Filing Later Clarified the Video Was a Birthing Video
+**C-12475** Filing Later Clarified the Video Was a Birthing Video
 
 Claim Timestamp: 00:17:34
 
@@ -909,7 +909,7 @@ Investigative Direction: Verify by reading the full CCRD filing; compare to subs
 
 ---
 
-**C-3344** Host Asserts Coordinated Propaganda Operation Across State Department, Department of War, TPUSA Allies, and Bill Ackman
+**C-12512** Host Asserts Coordinated Propaganda Operation Across State Department, Department of War, TPUSA Allies, and Bill Ackman
 
 Claim Timestamp: 00:35:22
 
@@ -920,7 +920,7 @@ Mentions: N-14, N-1, N-37, N-159, N-929, N-281
 Related Nodes: N-10814
 Investigative Direction: Independently verify each component of the coordination claim; obtain responses from named individuals or their representatives; review FOIA disclosures for SGE activity at the Department of War.
 
-**C-13280** Host Says Rabbi Shmuley, Ivanka and Jared Kushner Were in Iceland Weeks Before Her Trip
+**C-12448** Host Says Rabbi Shmuley, Ivanka and Jared Kushner Were in Iceland Weeks Before Her Trip
 
 Claim Timestamp: 00:00:01
 
@@ -935,7 +935,7 @@ Investigative Direction: Public posts, photos or Icelandic press placing Shmuley
 
 ---
 
-**C-13281** Host Says the Department of War Has People on Payroll Attacking Her Investigation
+**C-12449** Host Says the Department of War Has People on Payroll Attacking Her Investigation
 
 Claim Timestamp: 00:00:45
 
@@ -946,13 +946,13 @@ Transcript Snippet: it was revealed that the Department of War has people on pay
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10888, N-10814, N-11195
-Supports: C-3344
+Supports: C-12512
 Tags: relevance:core
 Investigative Direction: Department of War payroll, personal-services contract and special government employee records for the individuals the host names later in the episode; any official statement from the department.
 
 ---
 
-**C-13282** Host Recalls Saying "I Want War With All of You" on October 27
+**C-12450** Host Recalls Saying "I Want War With All of You" on October 27
 
 Claim Timestamp: 00:00:45
 
@@ -968,7 +968,7 @@ Investigative Direction: Locate the October 27, 2025 episode and confirm the exa
 
 ---
 
-**C-13283** Host Says Icelanders Effectively Chased Rabbi Shmuley Out Weeks Earlier
+**C-12451** Host Says Icelanders Effectively Chased Rabbi Shmuley Out Weeks Earlier
 
 Claim Timestamp: 00:02:21
 
@@ -978,13 +978,13 @@ Transcript Snippet: I was especially excited after they effectively chased Rabbi
 
 Anchored Artifacts: 
 Mentions: N-927, N-3
-Supports: C-3256
+Supports: C-12006
 Tags: relevance:tangential
 Investigative Direction: The Iceland video of the confrontation with Shmuley Boteach and Icelandic news coverage of his visit and departure.
 
 ---
 
-**C-13284** Host Says Trip Was for Her Seventh Anniversary and Produced Her First Atlantic Salmon
+**C-12452** Host Says Trip Was for Her Seventh Anniversary and Produced Her First Atlantic Salmon
 
 Claim Timestamp: 00:03:10
 
@@ -999,7 +999,7 @@ Investigative Direction: The host's own social posts from the trip; the 2019 wed
 
 ---
 
-**C-13285** Host Says She Met Her Husband at a 2018 London Event Hosted by the Mappins
+**C-12453** Host Says She Met Her Husband at a 2018 London Event Hosted by the Mappins
 
 Claim Timestamp: 00:04:04
 
@@ -1014,7 +1014,7 @@ Investigative Direction: Event listing or press for the May 2018 London appearan
 
 ---
 
-**C-13286** Host Says Mappin Introductions Launched Turning Point USA Financially
+**C-12454** Host Says Mappin Introductions Launched Turning Point USA Financially
 
 Claim Timestamp: 00:04:53
 
@@ -1030,7 +1030,7 @@ Investigative Direction: Donor and introduction records for TPUSA in the Mappins
 
 ---
 
-**C-13287** Host Says Charlie, Erika and the Mappins Traveled to Israel Together
+**C-12455** Host Says Charlie, Erika and the Mappins Traveled to Israel Together
 
 Claim Timestamp: 00:04:53
 
@@ -1046,7 +1046,7 @@ Investigative Direction: Date and itinerary of the trip; Mappin or Kirk social p
 
 ---
 
-**C-13288** Host Says the Mappins Know Erika Kirk and Mikey McCoy Very Well
+**C-12456** Host Says the Mappins Know Erika Kirk and Mikey McCoy Very Well
 
 Claim Timestamp: 00:04:53
 
@@ -1061,7 +1061,7 @@ Investigative Direction: Ask the Mappins to describe their relationship with Mik
 
 ---
 
-**C-13289** Host Alleges an Intentional Effort to Drive Her to Insanity
+**C-12457** Host Alleges an Intentional Effort to Drive Her to Insanity
 
 Claim Timestamp: 00:05:49
 
@@ -1076,7 +1076,7 @@ Investigative Direction: Examples of coordinated media or influencer pressure on
 
 ---
 
-**C-13290** Host Alleges Charlie's Supposed Friends Lied About His Beliefs and Her Friendship With Him
+**C-12458** Host Alleges Charlie's Supposed Friends Lied About His Beliefs and Her Friendship With Him
 
 Claim Timestamp: 00:05:49
 
@@ -1091,7 +1091,7 @@ Investigative Direction: The specific public statements by TPUSA figures about K
 
 ---
 
-**C-13291** Host Says John Mappin Called the Campaign Against Her a Black Propaganda Campaign
+**C-12459** Host Says John Mappin Called the Campaign Against Her a Black Propaganda Campaign
 
 Claim Timestamp: 00:06:44
 
@@ -1107,7 +1107,7 @@ Investigative Direction: Ask John Mappin to confirm the conversation and wording
 
 ---
 
-**C-13292** Host Says Donors Privately Told Her They Found the Narrative Weird
+**C-12460** Host Says Donors Privately Told Her They Found the Narrative Weird
 
 Claim Timestamp: 00:06:44
 
@@ -1122,7 +1122,7 @@ Investigative Direction: Identify the donors willing to confirm on the record; c
 
 ---
 
-**C-13293** Host Says Erika First Laid Eyes on Charlie in the Same Weeks as the 2018 London Event
+**C-12463** Host Says Erika First Laid Eyes on Charlie in the Same Weeks as the 2018 London Event
 
 Claim Timestamp: 00:08:27
 
@@ -1138,7 +1138,7 @@ Investigative Direction: Date of the Erika Kirk and Charlie Kirk first meeting v
 
 ---
 
-**C-13294** Host Says Charlie Was Having Dreams About His Death in May 2018
+**C-12464** Host Says Charlie Was Having Dreams About His Death in May 2018
 
 Claim Timestamp: 00:08:27
 
@@ -1153,7 +1153,7 @@ Investigative Direction: The host's texts or notes from 2018 with Kirk about the
 
 ---
 
-**C-13295** Host Says She Became Engaged 18 Days After Meeting Her Husband
+**C-12465** Host Says She Became Engaged 18 Days After Meeting Her Husband
 
 Claim Timestamp: 00:09:51
 
@@ -1168,7 +1168,7 @@ Investigative Direction: The host's earlier accounts of the engagement timeline.
 
 ---
 
-**C-13296** Host Says She Had Never Met or Contacted Baldoni Before the Iceland Encounter
+**C-12468** Host Says She Had Never Met or Contacted Baldoni Before the Iceland Encounter
 
 Claim Timestamp: 00:14:29
 
@@ -1184,7 +1184,7 @@ Investigative Direction: Baldoni and his representatives on prior contact; any p
 
 ---
 
-**C-13297** Host Says a Colleague Called Blake Lively Her Least Favorite Person to Work With
+**C-12469** Host Says a Colleague Called Blake Lively Her Least Favorite Person to Work With
 
 Claim Timestamp: 00:14:29
 
@@ -1199,7 +1199,7 @@ Investigative Direction: Identify the Glamour staffer and ask for confirmation; 
 
 ---
 
-**C-13298** Host Says Baldoni Bought the Book Rights Through His Own Studio and Cast Lively
+**C-12470** Host Says Baldoni Bought the Book Rights Through His Own Studio and Cast Lively
 
 Claim Timestamp: 00:14:29
 
@@ -1215,7 +1215,7 @@ Investigative Direction: Rights purchase and production records for the film ada
 
 ---
 
-**C-13299** Host Says Lively Fancied Herself the Writer and Edited the Scripts
+**C-12471** Host Says Lively Fancied Herself the Writer and Edited the Scripts
 
 Claim Timestamp: 00:16:24
 
@@ -1226,13 +1226,13 @@ Transcript Snippet: Blake Lively sort of in her own head fancied herself as the 
 Anchored Artifacts: 
 Mentions: N-484, N-485
 Related Nodes: N-10661
-Supports: C-6926
+Supports: C-4659
 Tags: relevance:tangential
 Investigative Direction: The litigation exhibits on script and edit control; contemporaneous emails and text messages cited in the court record.
 
 ---
 
-**C-13300** Host Says Lively and Reynolds Used a New York Times Hit Piece to Pressure Baldoni
+**C-12472** Host Says Lively and Reynolds Used a New York Times Hit Piece to Pressure Baldoni
 
 Claim Timestamp: 00:16:34
 
@@ -1243,13 +1243,13 @@ Transcript Snippet: the New York Times just drops a hit piece and they're like, 
 Anchored Artifacts: 
 Mentions: N-484, N-485, N-375
 Related Nodes: N-10661
-Supports: C-6926
+Supports: C-4659
 Tags: relevance:tangential
 Investigative Direction: The court record on the timing of the New York Times article and any demands made of Baldoni's side.
 
 ---
 
-**C-13301** Host Says Lively Implicitly Threatened to Release Her Dragons Including Taylor Swift
+**C-12473** Host Says Lively Implicitly Threatened to Release Her Dragons Including Taylor Swift
 
 Claim Timestamp: 00:16:44
 
@@ -1264,7 +1264,7 @@ Investigative Direction: The message in the litigation record that the host para
 
 ---
 
-**C-13302** Host Says Baldoni Was Made to Sit in the Basement During the Premiere of His Own Movie
+**C-12476** Host Says Baldoni Was Made to Sit in the Basement During the Premiere of His Own Movie
 
 Claim Timestamp: 00:17:34
 
@@ -1274,13 +1274,13 @@ Transcript Snippet: and them making Justin Baldoni sit in the basement during th
 
 Anchored Artifacts: 
 Mentions: N-485, N-484
-Supports: C-2882
+Supports: C-8894
 Tags: relevance:tangential
 Investigative Direction: Premiere seating accounts and the sources the host relies on; statements from attendees.
 
 ---
 
-**C-13303** Host Says Reynolds Reshot Deadpool Scenes With a Baldoni-Based Character Called Nicepool
+**C-12477** Host Says Reynolds Reshot Deadpool Scenes With a Baldoni-Based Character Called Nicepool
 
 Claim Timestamp: 00:18:39
 
@@ -1290,13 +1290,13 @@ Transcript Snippet: Ryan Reynolds then reshooting the scenes of Deadpool, incorp
 
 Anchored Artifacts: 
 Mentions: N-375, N-485
-Supports: C-2880
+Supports: C-8890
 Tags: relevance:tangential
 Investigative Direction: The released film and reshoot reporting; studio or crew statements on the character's origin.
 
 ---
 
-**C-13304** Host Credits Steph With the Deets and Marcos of the Be Better Company for Reading the Filings
+**C-12478** Host Credits Steph With the Deets and Marcos of the Be Better Company for Reading the Filings
 
 Claim Timestamp: 00:19:29
 
@@ -1311,7 +1311,7 @@ Investigative Direction: The channels' own content on the filings.
 
 ---
 
-**C-13305** Host Says Baldoni Told Her He Never Watched the Deadpool Movie or Scene
+**C-12480** Host Says Baldoni Told Her He Never Watched the Deadpool Movie or Scene
 
 Claim Timestamp: 00:21:04
 
@@ -1321,13 +1321,13 @@ Transcript Snippet: he told me he never even watched the Deadpool movie or the s
 
 Anchored Artifacts: 
 Mentions: N-485, N-3
-Supports: C-2880
+Supports: C-8890
 Tags: relevance:tangential
 Investigative Direction: Baldoni's own statements on the film; this is a private conversation reported by the host.
 
 ---
 
-**C-13306** Host Says Baldoni and His Wife Said They Came Close to Rock Bottom
+**C-12479** Host Says Baldoni and His Wife Said They Came Close to Rock Bottom
 
 Claim Timestamp: 00:19:29
 
@@ -1342,7 +1342,7 @@ Investigative Direction: Baldoni's own public statements; this is a private conv
 
 ---
 
-**C-13307** Host Says Baldoni Told Her He Does Not Drink Kombucha
+**C-12481** Host Says Baldoni Told Her He Does Not Drink Kombucha
 
 Claim Timestamp: 00:22:30
 
@@ -1357,7 +1357,7 @@ Investigative Direction: Baldoni's public statements about kombucha; this is a p
 
 ---
 
-**C-13308** Host Says Baldoni Was Up Against the New York Times, WME and the Most Powerful PR People
+**C-12482** Host Says Baldoni Was Up Against the New York Times, WME and the Most Powerful PR People
 
 Claim Timestamp: 00:23:25
 
@@ -1373,7 +1373,7 @@ Investigative Direction: Litigation and press records identifying the PR and age
 
 ---
 
-**C-13309** Host Reads Pre-Born Claim That 50,000 Babies Were Saved This Year
+**C-12483** Host Reads Pre-Born Claim That 50,000 Babies Were Saved This Year
 
 Claim Timestamp: 00:25:04
 
@@ -1389,7 +1389,7 @@ Investigative Direction: Pre-Born's own reporting; this is a sponsor claim.
 
 ---
 
-**C-13310** Host Reads Pre-Born Cost Figures for Ultrasounds
+**C-12484** Host Reads Pre-Born Cost Figures for Ultrasounds
 
 Claim Timestamp: 00:25:04
 
@@ -1400,13 +1400,13 @@ Transcript Snippet: It costs just $28 to provide one life-saving ultrasound and 
 Anchored Artifacts: A-3257.1
 Mentions: N-928
 Related Nodes: N-11191
-Supports: C-9809
+Supports: C-3302
 Tags: relevance:tangential
 Investigative Direction: Pre-Born's published cost figures.
 
 ---
 
-**C-13311** Host Says the Campaign Against Her Looks Well Funded and Military
+**C-12485** Host Says the Campaign Against Her Looks Well Funded and Military
 
 Claim Timestamp: 00:27:32
 
@@ -1417,13 +1417,13 @@ Transcript Snippet: We had suggested this that this looks like a very well-funde
 Anchored Artifacts: 
 Mentions: N-18, N-3
 Related Nodes: N-11195, N-10814
-Supports: C-3344
+Supports: C-12512
 Tags: relevance:core
 Investigative Direction: Funding and contract records for the accounts the host names; the Department of War contracts and SGE appointments referenced later in the episode.
 
 ---
 
-**C-13312** Host Says She Was in Spain During the Week of the Robinson Preliminary Hearing
+**C-12486** Host Says She Was in Spain During the Week of the Robinson Preliminary Hearing
 
 Claim Timestamp: 00:27:32
 
@@ -1438,7 +1438,7 @@ Investigative Direction: The preliminary hearing dates in the Robinson docket ag
 
 ---
 
-**C-13313** Host Says a Media Assault Was Executed Against Her on Behalf of Turning Point USA
+**C-12487** Host Says a Media Assault Was Executed Against Her on Behalf of Turning Point USA
 
 Claim Timestamp: 00:27:32
 
@@ -1449,13 +1449,13 @@ Transcript Snippet: there was a full-blown media assault that was executed again
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10000
-Supports: C-3344
+Supports: C-12512
 Tags: relevance:core
 Investigative Direction: Catalogue of TPUSA-aligned posts, articles and reports aimed at the host in the week of the hearing and any shared authorship or funding.
 
 ---
 
-**C-13314** Host Calls NCRI a Team of Zionists
+**C-12491** Host Calls NCRI a Team of Zionists
 
 Claim Timestamp: 00:28:26
 
@@ -1470,7 +1470,7 @@ Investigative Direction: NCRI's own leadership, funders and mission statements; 
 
 ---
 
-**C-13315** Host Says Jennica Pounds Mysteriously Expanded on the NCRI Report
+**C-12492** Host Says Jennica Pounds Mysteriously Expanded on the NCRI Report
 
 Claim Timestamp: 00:28:26
 
@@ -1486,7 +1486,7 @@ Investigative Direction: Timestamps of the NCRI report and Pounds' thread, and a
 
 ---
 
-**C-13316** Host Says Jennica Pounds Is a Utah Software Engineer
+**C-12493** Host Says Jennica Pounds Is a Utah Software Engineer
 
 Claim Timestamp: 00:29:21
 
@@ -1501,7 +1501,7 @@ Investigative Direction: Pounds' public profile and employment history; Utah res
 
 ---
 
-**C-13317** Host Says Elon Musk Promoted Jennica Pounds in 2025
+**C-12494** Host Says Elon Musk Promoted Jennica Pounds in 2025
 
 Claim Timestamp: 00:29:21
 
@@ -1516,7 +1516,7 @@ Investigative Direction: Musk's 2025 posts about Data Republican.
 
 ---
 
-**C-13318** Host Says Kolvet Instantly Retweeted Pounds' Thread
+**C-12496** Host Says Kolvet Instantly Retweeted Pounds' Thread
 
 Claim Timestamp: 00:30:13
 
@@ -1526,13 +1526,13 @@ Transcript Snippet: the narrative that was seeded. Instantly retweeted by Andrew
 
 Anchored Artifacts: A-2313.1
 Mentions: N-14, N-281
-Supports: C-3334
+Supports: C-12498
 Tags: relevance:core
 Investigative Direction: Timestamps for the Pounds thread and Kolvet's repost; any direct messages between them.
 
 ---
 
-**C-13319** Host Says Pounds' Thread Included Posts From Audience Members and Theories About the 30-06
+**C-12497** Host Says Pounds' Thread Included Posts From Audience Members and Theories About the 30-06
 
 Claim Timestamp: 00:30:13
 
@@ -1547,7 +1547,7 @@ Investigative Direction: The full thread: which accounts it quotes, whether any 
 
 ---
 
-**C-13320** Host Says Ackman Promoted Data Republican Three Days After the Thread
+**C-12500** Host Says Ackman Promoted Data Republican Three Days After the Thread
 
 Claim Timestamp: 00:31:33
 
@@ -1557,13 +1557,13 @@ Transcript Snippet: oh actually 3 days later, um Bill Ackman promotes Data Repub
 
 Anchored Artifacts: A-2316.1
 Mentions: N-37, N-281
-Supports: C-3335
+Supports: C-12499
 Tags: relevance:core
 Investigative Direction: Post dates for the Pounds thread and Ackman's repost.
 
 ---
 
-**C-13321** Host Says Pounds Feared She Was Being Set Up With Leaked Documents
+**C-12502** Host Says Pounds Feared She Was Being Set Up With Leaked Documents
 
 Claim Timestamp: 00:32:35
 
@@ -1574,13 +1574,13 @@ Transcript Snippet: she thought that she was being set up. That they were leakin
 Anchored Artifacts: 
 Mentions: N-281, N-929
 Related Nodes: N-10814
-Supports: C-3340
+Supports: C-12501
 Tags: relevance:core
 Investigative Direction: Pounds' original post and any later edits or deletions; State Department comment.
 
 ---
 
-**C-13322** Host Says Sarah Rogers Is Besties With Blake Neff
+**C-12503** Host Says Sarah Rogers Is Besties With Blake Neff
 
 Claim Timestamp: 00:32:35
 
@@ -1590,13 +1590,13 @@ Transcript Snippet: Sarah Rogers just happens to be besties with Blake Neff.
 
 Anchored Artifacts: A-3259.1
 Mentions: N-929, N-159
-Supports: C-3338
+Supports: C-12504
 Tags: relevance:core
 Investigative Direction: Neff's own post calling her his friend, and the photograph shown; their public association.
 
 ---
 
-**C-13323** Host Concludes Turning Point USA Is Working With the State Department
+**C-12506** Host Concludes Turning Point USA Is Working With the State Department
 
 Claim Timestamp: 00:33:25
 
@@ -1607,13 +1607,13 @@ Transcript Snippet: So, now we realize that Turning Point USA is working with th
 Anchored Artifacts: A-2315.1
 Mentions: N-159, N-929
 Related Nodes: N-10000, N-10814
-Supports: C-3344
+Supports: C-12512
 Tags: relevance:core
 Investigative Direction: Any official contact between TPUSA and the State Department; FOIA to State Public Diplomacy for communications with TPUSA staff.
 
 ---
 
-**C-13324** Host Says Pounds Was an SGE During the Very Week Of the Attack on Her
+**C-12508** Host Says Pounds Was an SGE During the Very Week Of the Attack on Her
 
 Claim Timestamp: 00:34:07
 
@@ -1624,13 +1624,13 @@ Transcript Snippet: The very week that they came after me, she was working as a 
 Anchored Artifacts: A-2314.1
 Mentions: N-281
 Related Nodes: N-10885, N-10888
-Supports: C-3336
+Supports: C-12507
 Tags: relevance:core
 Investigative Direction: Pounds' appointment letter and SGE service dates against the dates of the NCRI report and her thread.
 
 ---
 
-**C-13325** Host Says Pounds Set Up an Institute and Urges Looking Into Its Funding
+**C-12510** Host Says Pounds Set Up an Institute and Urges Looking Into Its Funding
 
 Claim Timestamp: 00:34:53
 
@@ -1645,7 +1645,7 @@ Investigative Direction: Incorporation and tax filings for the institute.
 
 ---
 
-**C-13326** Host Speculates Bill Ackman May Be Funding Pounds
+**C-12511** Host Speculates Bill Ackman May Be Funding Pounds
 
 Claim Timestamp: 00:34:53
 
@@ -1660,7 +1660,7 @@ Investigative Direction: Donor and funding disclosures for any Pounds-linked ins
 
 ---
 
-**C-13327** Host Says She Knew From the Moment Charlie Was Shot That He Was Betrayed
+**C-12513** Host Says She Knew From the Moment Charlie Was Shot That He Was Betrayed
 
 Claim Timestamp: 00:36:39
 
@@ -1675,7 +1675,7 @@ Investigative Direction: The host's earliest posts and messages from September 1
 
 ---
 
-**C-13328** Host Promises Explosive Reveals This Week Showing TPUSA Has Explaining to Do
+**C-12514** Host Promises Explosive Reveals This Week Showing TPUSA Has Explaining to Do
 
 Claim Timestamp: 00:36:39
 
@@ -1691,7 +1691,7 @@ Investigative Direction: The episodes aired in the following week (episodes 146 
 
 ---
 
-**C-13329** Host Says Everybody's Alibis Are In and Cannot Be Changed
+**C-12515** Host Says Everybody's Alibis Are In and Cannot Be Changed
 
 Claim Timestamp: 00:36:39
 
@@ -1707,7 +1707,7 @@ Investigative Direction: The compiled September 10 alibis from TPUSA staff and a
 
 ---
 
-**C-13330** Host Says Knowles and Tatum Have Traditionally Toured With Turning Point USA
+**C-12517** Host Says Knowles and Tatum Have Traditionally Toured With Turning Point USA
 
 Claim Timestamp: 00:37:33
 
@@ -1723,7 +1723,7 @@ Investigative Direction: Past TPUSA tour lineups.
 
 ---
 
-**C-13331** Host Says Shapiro Wants to Take Over Turning Point USA
+**C-12518** Host Says Shapiro Wants to Take Over Turning Point USA
 
 Claim Timestamp: 00:38:16
 
@@ -1734,13 +1734,13 @@ Transcript Snippet: he wants to pick up that bloody mic, and he by golly, he's g
 Anchored Artifacts: A-2318.1
 Mentions: N-97, N-1
 Related Nodes: N-10386, N-10900
-Supports: C-8557
+Supports: C-7412
 Tags: relevance:context
 Investigative Direction: Shapiro statements about TPUSA and the tour; TPUSA leadership discussions about Shapiro.
 
 ---
 
-**C-13332** Host Says a Daily Wire Hire Was Arrested in Florida for Threats Against a Daycare
+**C-12519** Host Says a Daily Wire Hire Was Arrested in Florida for Threats Against a Daycare
 
 Claim Timestamp: 00:38:16
 
@@ -1755,7 +1755,7 @@ Investigative Direction: Identify the person correctly (the transcript name may 
 
 ---
 
-**C-13333** Host Says the Same Daily Wire Hire Is Going on Tour With TPUSA as a Debater
+**C-12520** Host Says the Same Daily Wire Hire Is Going on Tour With TPUSA as a Debater
 
 Claim Timestamp: 00:39:06
 
@@ -1770,7 +1770,7 @@ Investigative Direction: The official tour lineup and the debater roster.
 
 ---
 
-**C-13334** Host Says It Is Outrageous That TPUSA Would Partner With Charlie's Enemies
+**C-12521** Host Says It Is Outrageous That TPUSA Would Partner With Charlie's Enemies
 
 Claim Timestamp: 00:39:06
 
@@ -1786,7 +1786,7 @@ Investigative Direction: Kirk's own statements about the Daily Wire and Shapiro;
 
 ---
 
-**C-13335** Host Predicts a New Organization Will Rise to Take TPUSA's Place
+**C-12522** Host Predicts a New Organization Will Rise to Take TPUSA's Place
 
 Claim Timestamp: 00:39:54
 
@@ -1802,7 +1802,7 @@ Investigative Direction: Any new organization launched by former TPUSA staff or 
 
 ---
 
-**C-13336** Host Reads Tax Network USA Claim It Has Resolved Over $1 Billion in Tax Debt
+**C-12523** Host Reads Tax Network USA Claim It Has Resolved Over $1 Billion in Tax Debt
 
 Claim Timestamp: 00:40:51
 
@@ -1817,7 +1817,7 @@ Investigative Direction: The company's own figures; this is a sponsor claim.
 
 ---
 
-**C-13337** Host Says Her Maternity Leave Is About Six Weeks Away
+**C-12524** Host Says Her Maternity Leave Is About Six Weeks Away
 
 Claim Timestamp: 00:43:43
 
@@ -1827,13 +1827,13 @@ Transcript Snippet: we are in the countdown before I go on maternity leave, but 
 
 Anchored Artifacts: 
 Mentions: N-3
-Supports: C-9151
+Supports: C-11905
 Tags: relevance:tangential
 Investigative Direction: The host's later announcements and the show schedule in October 2026.
 
 ---
 
-**C-13338** Host Asks Viewers With Another Piece of the Puzzle to Email Tips
+**C-12525** Host Asks Viewers With Another Piece of the Puzzle to Email Tips
 
 Claim Timestamp: 00:44:50
 
@@ -1849,7 +1849,7 @@ Investigative Direction: Tip volume and any tips acted on in later episodes.
 
 ---
 
-**C-13339** Host Invites State Department Insiders and Whistleblowers to Contact Her
+**C-12526** Host Invites State Department Insiders and Whistleblowers to Contact Her
 
 Claim Timestamp: 00:45:12
 
@@ -1865,7 +1865,7 @@ Investigative Direction: Any State Department tipsters reported in later episode
 
 ---
 
-**C-13340** Host Says TPUSA Is Using Andrew Wilson as an Attack Dog
+**C-12527** Host Says TPUSA Is Using Andrew Wilson as an Attack Dog
 
 Claim Timestamp: 00:45:12
 
@@ -1881,7 +1881,7 @@ Investigative Direction: Wilson's engagement terms and any payments by TPUSA; re
 
 ---
 
-**C-13341** Host Says Charlie Texted Multiple People on September 9 That He Wanted Her Back
+**C-12528** Host Says Charlie Texted Multiple People on September 9 That He Wanted Her Back
 
 Claim Timestamp: 00:46:15
 
@@ -1897,7 +1897,7 @@ Investigative Direction: Obtain the recipients' September 9, 2025 messages; the 
 
 ---
 
-**C-13342** Host Says Charlie Started to See Those People Differently in His Last Year
+**C-12529** Host Says Charlie Started to See Those People Differently in His Last Year
 
 Claim Timestamp: 00:46:15
 
@@ -1912,7 +1912,7 @@ Investigative Direction: Message and call records between the host and Kirk afte
 
 ---
 
-**C-13343** Host Says Tucker Carlson Is Not Slated to Speak at the Tour but Ben Shapiro Is
+**C-12530** Host Says Tucker Carlson Is Not Slated to Speak at the Tour but Ben Shapiro Is
 
 Claim Timestamp: 00:48:28
 
@@ -1928,7 +1928,7 @@ Investigative Direction: The official speaker list and any statement about Carls
 
 ---
 
-**C-13344** Host Alleges Tour Speakers Are Being Paid to Appear
+**C-12531** Host Alleges Tour Speakers Are Being Paid to Appear
 
 Claim Timestamp: 00:48:28
 
@@ -1943,7 +1943,7 @@ Investigative Direction: Speaker contracts and fees for the tour; none are shown
 
 ---
 
-**C-13345** Host Says She Won a Fishing Weekend With a 38 lb Salmon and Recalls a Photo With Charlie
+**C-12532** Host Says She Won a Fishing Weekend With a 38 lb Salmon and Recalls a Photo With Charlie
 
 Claim Timestamp: 00:49:28
 
@@ -2177,7 +2177,7 @@ Confidence: high
 
 Artifact Families Introduced: A-2310, A-2311, A-2312, A-2313, A-2314, A-2315, A-2316, A-2317, A-2318, A-2319
 
-Claim Range: C-3326–C-3344
+Claim Range: C-12461–C-12512
 
 New Nodes Introduced:
 N-10814, N-10815, N-10816

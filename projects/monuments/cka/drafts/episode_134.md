@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 498191448f0429779cb41d878bd4596c8d20c9fdcbb3d3ef271dbb2b7b27e70a
 
 - **Episode Ledger Summary**:
-  - Claim Range (supplement_2026-10b): C-7400–C-7473
+  - Claim Range: C-11506–C-11592
   - Reused Nodes Appearing: N-10759, N-10762, N-7, N-40, N-186, N-217, N-367, N-506, N-10104, N-10110, N-10164, N-10172, N-10201, N-10233, N-10323, N-10341, N-10343, N-10350, N-10687, N-10715, N-10719, N-10725, N-10751, N-10768, N-10769, N-11065, N-10764, N-11143
  - (see registers)
 
@@ -28,7 +28,6 @@
 - Analysis date: 2026-07-30
 - Ledger continuation summary:
  - Artifact Families Introduced: A-2205, A-2206, A-2207, A-2208, A-2209, A-2210, A-2211, A-2212, A-2213, A-2214, A-2215, A-2216
- - Claim Range: C-3162–C-3174
  - New Nodes Introduced: N-10759, N-10760, N-10761, N-10763
  - Reused Nodes Appearing: N-2
  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens)
@@ -55,7 +54,7 @@ Video Timestamp: 00:15:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3166, N-1, N-10763*
+*Related: C-11536, N-1, N-10763*
 
 ---
 
@@ -69,7 +68,7 @@ Video Timestamp: 00:18:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3167, N-10764*
+*Related: C-11541, N-10764*
 
 ---
 
@@ -83,7 +82,7 @@ Video Timestamp: 00:33:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3162, C-3163, N-1, N-10761*
+*Related: C-11568, C-11570, N-1, N-10761*
 
 ---
 
@@ -97,7 +96,7 @@ Video Timestamp: 00:02:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3168, N-3*
+*Related: C-11510, N-3*
 
 ---
 
@@ -111,7 +110,7 @@ Video Timestamp: 00:40:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3174, N-3*
+*Related: C-11583, N-3*
 
 ---
 
@@ -125,7 +124,7 @@ Video Timestamp: 00:05:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3165*
+*Related: C-11514*
 
 ---
 
@@ -139,7 +138,7 @@ Video Timestamp: 00:06:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3170*
+*Related: C-11516*
 
 ---
 
@@ -153,7 +152,7 @@ Video Timestamp: 00:09:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3164, N-10762*
+*Related: C-11521, N-10762*
 
 ---
 
@@ -167,7 +166,7 @@ Video Timestamp: 00:12:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3171, N-10762*
+*Related: C-11530, N-10762*
 
 ---
 
@@ -181,7 +180,7 @@ Video Timestamp: 00:07:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3172*
+*Related: C-11518*
 
 ---
 
@@ -195,7 +194,7 @@ Video Timestamp: 00:03:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3169, N-3*
+*Related: C-11513, N-3*
 
 ---
 
@@ -209,7 +208,7 @@ Video Timestamp: 00:02:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3173, N-3*
+*Related: C-11511, N-3*
 
 ---
 
@@ -222,7 +221,7 @@ Video Timestamp: 00:00:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-7400*
+*Related: C-11506*
 
 ---
 
@@ -235,7 +234,7 @@ Video Timestamp: 00:00:46
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-7402*
+*Related: C-11508*
 
 ---
 
@@ -248,7 +247,7 @@ Video Timestamp: 00:16:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-7422*
+*Related: C-11537*
 
 ---
 
@@ -261,7 +260,7 @@ Video Timestamp: 00:22:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7432, C-7433, C-7434*
+*Related: C-11548, C-11549, C-11550*
 
 ---
 
@@ -274,7 +273,7 @@ Video Timestamp: 00:38:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-7462, C-7463*
+*Related: C-11580, C-11581*
 
 ---
 
@@ -289,7 +288,7 @@ Video Timestamp: 00:51:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-7471*
+*Related: C-11590*
 
 ---
 
@@ -304,7 +303,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3162, C-3163, C-3166, A-2205.1, A-2207.1, N-10759, N-10761, N-10764*
+*Related: C-11568, C-11570, C-11536, A-2205.1, A-2207.1, N-10759, N-10761, N-10764*
 
 ---
 
@@ -345,7 +344,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3162, C-3163, A-2207.1, N-1*
+*Related: C-11568, C-11570, A-2207.1, N-1*
 
 ---
 
@@ -358,7 +357,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3164, C-3171, A-2212.1, A-2213.1*
+*Related: C-11521, C-11530, A-2212.1, A-2213.1*
 
 ---
 
@@ -371,7 +370,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3166, A-2205.1, N-10759, N-10760*
+*Related: C-11536, A-2205.1, N-10759, N-10760*
 
 ---
 
@@ -384,7 +383,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3167, A-2206.1, N-2, N-10760*
+*Related: C-11541, A-2206.1, N-2, N-10760*
 
 ---
 
@@ -392,7 +391,7 @@ Investigative Pressure: Medium
 
 Host; speaks for herself throughout.
 
-*Related: C-7401, C-7402, C-7404, C-7405, C-7406, C-7407, C-7408, C-7410, C-7413, C-7414, C-7418, C-7419, C-7424, C-7425, C-7426, C-7427, C-7429, C-7431, C-7432, C-7433, C-7434, C-7438, C-7440, C-7442, C-7443, C-7444, C-7445, C-7446, C-7447, C-7448, C-7450, C-7451, C-7453, C-7457, C-7458, C-7459, C-7460, C-7461, C-7462, C-7463, C-7464, C-7465, C-7466, C-7467, C-7468, C-7469, C-7470, C-7471, C-7472, C-7473*
+*Related: C-11507, C-11508, C-11512, C-11515, C-11517, C-11519, C-11520, C-11523, C-11526, C-11527, C-11532, C-11533, C-11539, C-11540, C-11542, C-11543, C-11545, C-11547, C-11548, C-11549, C-11550, C-11554, C-11556, C-11558, C-11559, C-11560, C-11561, C-11562, C-11563, C-11564, C-11566, C-11567, C-11571, C-11575, C-11576, C-11577, C-11578, C-11579, C-11580, C-11581, C-11582, C-11584, C-11585, C-11586, C-11587, C-11588, C-11589, C-11590, C-11591, C-11592*
 
 ---
 
@@ -400,7 +399,7 @@ Host; speaks for herself throughout.
 
 Widow and TPUSA CEO; the host discusses her interview answer, casket footage, priest ties and funeral arrangements.
 
-*Related: C-7400, C-7401, C-7420, C-7421, C-7422, C-7429, C-7435, C-7436, C-7437, C-7445, C-7455*
+*Related: C-11506, C-11507, C-11534, C-11535, C-11537, C-11545, C-11551, C-11552, C-11553, C-11561, C-11573*
 
 ---
 
@@ -408,7 +407,7 @@ Widow and TPUSA CEO; the host discusses her interview answer, casket footage, pr
 
 TPUSA spokesperson; the host discusses his Alex Clark interview, his courtroom-contact remarks and her dream text to him.
 
-*Related: C-7417, C-7428, C-7429, C-7430, C-7452, C-7465, C-7466*
+*Related: C-11531, C-11544, C-11545, C-11546, C-11569, C-11584, C-11585*
 
 ---
 
@@ -416,7 +415,7 @@ TPUSA spokesperson; the host discusses his Alex Clark interview, his courtroom-c
 
 TPUSA figure whose post about the rooftop footage and evidence the host rebuts.
 
-*Related: C-7409, C-7410, C-7411, C-7412, C-7413, C-7414, C-7415, C-7416, C-7448, C-7449, C-7464, C-7470*
+*Related: C-11522, C-11523, C-11524, C-11525, C-11526, C-11527, C-11528, C-11529, C-11564, C-11565, C-11582, C-11589*
 
 ---
 
@@ -424,7 +423,7 @@ TPUSA figure whose post about the rooftop footage and evidence the host rebuts.
 
 Broadcaster whose tweet about the Lozi footage prompted replies from Neff and Tim Pool.
 
-*Related: C-7406, C-7409*
+*Related: C-11517, C-11522*
 
 ---
 
@@ -432,7 +431,7 @@ Broadcaster whose tweet about the Lozi footage prompted replies from Neff and Ti
 
 Commentator who tweeted that the Lozi footage counters the exploding mic claims.
 
-*Related: C-7406*
+*Related: C-11517*
 
 ---
 
@@ -440,7 +439,7 @@ Commentator who tweeted that the Lozi footage counters the exploding mic claims.
 
 Defendant in the Kirk case; subject of the preliminary hearing and the footage dispute.
 
-*Related: C-7400, C-7401, C-7403, C-7409, C-7411, C-7412, C-7413, C-7414, C-7418, C-7469, C-7470*
+*Related: C-11506, C-11507, C-11509, C-11522, C-11524, C-11525, C-11526, C-11527, C-11532, C-11588, C-11589*
 
 ---
 
@@ -448,7 +447,7 @@ Defendant in the Kirk case; subject of the preliminary hearing and the footage d
 
 Apologist the host says reported that Charlie had no pulse in the critical minutes.
 
-*Related: C-7454*
+*Related: C-11572*
 
 ---
 
@@ -456,7 +455,7 @@ Apologist the host says reported that Charlie had no pulse in the critical minut
 
 Elizabeth McCoy; the host says she allegedly recorded Erika at the open casket in Utah.
 
-*Related: C-7420, C-7422*
+*Related: C-11534, C-11537*
 
 ---
 
@@ -464,7 +463,7 @@ Elizabeth McCoy; the host says she allegedly recorded Erika at the open casket i
 
 Previously named by the host as the person who recorded the casket footage; the host now says it was allegedly Elizabeth McCoy.
 
-*Related: C-7420*
+*Related: C-11534*
 
 ---
 
@@ -472,7 +471,7 @@ Previously named by the host as the person who recorded the casket footage; the 
 
 Person the host says Blake Neff excludes from his account of Sept 10 driving.
 
-*Related: C-7464*
+*Related: C-11582*
 
 ---
 
@@ -480,7 +479,7 @@ Person the host says Blake Neff excludes from his account of Sept 10 driving.
 
 Officer Bagley; the host sarcastically references his body-cam footage and the screwdriver.
 
-*Related: C-7449*
+*Related: C-11565*
 
 ---
 
@@ -488,7 +487,7 @@ Officer Bagley; the host sarcastically references his body-cam footage and the s
 
 Host of the show on which Kolvet gave the pre-recorded interview.
 
-*Related: C-7428*
+*Related: C-11544*
 
 ---
 
@@ -496,7 +495,7 @@ Host of the show on which Kolvet gave the pre-recorded interview.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7400, C-7401, C-7412, C-7413*
+*Related: C-11506, C-11507, C-11525, C-11526*
 
 ---
 
@@ -504,7 +503,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7404, C-7405, C-7418*
+*Related: C-11512, C-11515, C-11532*
 
 ---
 
@@ -512,7 +511,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7402, C-7406, C-7407, C-7408, C-7409, C-7411, C-7416, C-7459, C-7460, C-7463*
+*Related: C-11508, C-11517, C-11519, C-11520, C-11522, C-11524, C-11529, C-11577, C-11578, C-11581*
 
 ---
 
@@ -520,7 +519,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7406, C-7460*
+*Related: C-11517, C-11578*
 
 ---
 
@@ -528,7 +527,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7414*
+*Related: C-11527*
 
 ---
 
@@ -536,7 +535,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7419, C-7420, C-7421, C-7422, C-7446*
+*Related: C-11533, C-11534, C-11535, C-11537, C-11562*
 
 ---
 
@@ -544,7 +543,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7425, C-7427, C-7429*
+*Related: C-11540, C-11543, C-11545*
 
 ---
 
@@ -552,7 +551,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7425, C-7426, C-7428*
+*Related: C-11540, C-11542, C-11544*
 
 ---
 
@@ -560,7 +559,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7426*
+*Related: C-11542*
 
 ---
 
@@ -568,7 +567,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7423, C-7424, C-7430, C-7435, C-7438, C-7439, C-7445*
+*Related: C-11538, C-11539, C-11546, C-11551, C-11554, C-11555, C-11561*
 
 ---
 
@@ -576,7 +575,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7435, C-7436, C-7437*
+*Related: C-11551, C-11552, C-11553*
 
 ---
 
@@ -584,7 +583,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7440, C-7441, C-7442, C-7444*
+*Related: C-11556, C-11557, C-11558, C-11560*
 
 ---
 
@@ -592,7 +591,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7449*
+*Related: C-11565*
 
 ---
 
@@ -600,7 +599,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7452*
+*Related: C-11569*
 
 ---
 
@@ -608,7 +607,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7454*
+*Related: C-11572*
 
 ---
 
@@ -616,7 +615,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7457, C-7458, C-7471*
+*Related: C-11575, C-11576, C-11590*
 
 ---
 
@@ -624,7 +623,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7464*
+*Related: C-11582*
 
 ---
 
@@ -632,7 +631,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7461*
+*Related: C-11579*
 
 ---
 
@@ -641,13 +640,13 @@ Existing topic reused for new claims in this episode.
 Node Type: Topic
 The dispute over whether a screwdriver was recovered from or used on the Losee rooftop: Neff and the prosecution (exhibits 12.1 and 12.4) are cited as asserting it, and the host says no evidence of a screwdriver has been shown.
 
-*Related: C-7448, C-7449, C-7462, C-7463*
+*Related: C-11564, C-11565, C-11580, C-11581*
 
 ---
 
 ## V. Claim Register
 
-**C-3162** Prosecution Memo: Bullet Perforated Left Neck Structures and C7 Vertebra
+**C-11568** Prosecution Memo: Bullet Perforated Left Neck Structures and C7 Vertebra
 
 Claim Timestamp: 00:33:25
 
@@ -662,7 +661,7 @@ Investigative Direction: Obtain the complete defense memorandum and compare with
 
 ---
 
-**C-3163** Prosecution Memo: Hemorrhaging Around Heart and Both Lungs Observed
+**C-11570** Prosecution Memo: Hemorrhaging Around Heart and Both Lungs Observed
 
 Claim Timestamp: 00:34:21
 
@@ -677,7 +676,7 @@ Investigative Direction: Obtain complete autopsy findings; consult independent m
 
 ---
 
-**C-3164** Blake Neff Asserts Existence of Another Rooftop Angle
+**C-11521** Blake Neff Asserts Existence of Another Rooftop Angle
 
 Claim Timestamp: 00:09:40
 
@@ -692,7 +691,7 @@ Investigative Direction: Verify the claim via courtroom exhibit records; determi
 
 ---
 
-**C-3165** Andrew Kolvet Responds With Pronunciation List Tweet
+**C-11514** Andrew Kolvet Responds With Pronunciation List Tweet
 
 Claim Timestamp: 00:05:44
 
@@ -709,7 +708,7 @@ Investigative Direction: Obtain the original tweet thread; verify timing relativ
 
 ---
 
-**C-3166** Sky News Reports Kirk's Body En Route to Hansen Mortuary
+**C-11536** Sky News Reports Kirk's Body En Route to Hansen Mortuary
 
 Claim Timestamp: 00:15:40
 
@@ -724,7 +723,7 @@ Investigative Direction: Cross-reference Sky News broadcast archive; confirm mor
 
 ---
 
-**C-3167** Andrew Kolvet States Charlie Was Not Becoming Catholic
+**C-11541** Andrew Kolvet States Charlie Was Not Becoming Catholic
 
 Claim Timestamp: 00:18:27
 
@@ -739,7 +738,7 @@ Investigative Direction: Obtain the full Alex Clark interview recording; verify 
 
 ---
 
-**C-3168** Lisa Knows Accuses Candace of Releasing Restricted Footage
+**C-11510** Lisa Knows Accuses Candace of Releasing Restricted Footage
 
 Claim Timestamp: 00:02:44
 
@@ -756,7 +755,7 @@ Investigative Direction: Verify original tweet; cross-reference court orders on 
 
 ---
 
-**C-3169** Community Note Clarifies Broadcasting Limits and Obstruction Standard
+**C-11513** Community Note Clarifies Broadcasting Limits and Obstruction Standard
 
 Claim Timestamp: 00:03:53
 
@@ -770,7 +769,7 @@ Investigative Direction: Verify original tweet with Community Note attached; con
 
 ---
 
-**C-3170** Tim Pool Characterizes Lozi Footage as Counter to Exploding Mic Claims
+**C-11516** Tim Pool Characterizes Lozi Footage as Counter to Exploding Mic Claims
 
 Claim Timestamp: 00:06:39
 
@@ -787,7 +786,7 @@ Investigative Direction: Verify original tweet content and timing.
 
 ---
 
-**C-3171** Podcast Describes Another Angle Showing Weapon Handling
+**C-11530** Podcast Describes Another Angle Showing Weapon Handling
 
 Claim Timestamp: 00:12:19
 
@@ -802,7 +801,7 @@ Investigative Direction: Identify the actual podcast; obtain the full episode; v
 
 ---
 
-**C-3172** Media Siege Shares Baby Photo to Argue Untrained Reflex
+**C-11518** Media Siege Shares Baby Photo to Argue Untrained Reflex
 
 Claim Timestamp: 00:07:33
 
@@ -816,7 +815,7 @@ Investigative Direction: Verify the original tweet; identify the posting account
 
 ---
 
-**C-3173** X User Calls for Candace's Arrest on Obstruction Charges
+**C-11511** X User Calls for Candace's Arrest on Obstruction Charges
 
 Claim Timestamp: 00:02:44
 
@@ -832,7 +831,7 @@ Investigative Direction: Verify original tweet content; note possible transcript
 
 ---
 
-**C-3174** Viewer Email Credits Candace's Series With Helping Marriage
+**C-11583** Viewer Email Credits Candace's Series With Helping Marriage
 
 Claim Timestamp: 00:40:16
 
@@ -846,7 +845,7 @@ Investigative Direction: Verify by contacting the viewer with consent; tangentia
 
 ---
 
-**C-7400** Clip Shows Erika Answering Yes That Tyler Robinson Murdered Her Husband
+**C-11506** Clip Shows Erika Answering Yes That Tyler Robinson Murdered Her Husband
 
 Claim Timestamp: 00:00:01
 
@@ -862,7 +861,7 @@ Investigative Direction: Locate the original interview in which Erika Kirk was a
 
 ---
 
-**C-7401** Host Says No Evidence Indicated Tyler Robinson Guilt After Sitting With Erika
+**C-11507** Host Says No Evidence Indicated Tyler Robinson Guilt After Sitting With Erika
 
 Claim Timestamp: 00:00:01
 
@@ -878,7 +877,7 @@ Investigative Direction: Compare the host's private interview with Erika to the 
 
 ---
 
-**C-7402** Host Says Exclusive Rooftop Video Released the Day Before Raised Questions
+**C-11508** Host Says Exclusive Rooftop Video Released the Day Before Raised Questions
 
 Claim Timestamp: 00:00:01
 
@@ -894,7 +893,7 @@ Investigative Direction: Obtain the released video and its provenance; compare w
 
 ---
 
-**C-7403** Host Says Tyler's Defense Filed Memorandum Highlighting Autopsy Injuries
+**C-11509** Host Says Tyler's Defense Filed Memorandum Highlighting Autopsy Injuries
 
 Claim Timestamp: 00:00:56
 
@@ -910,7 +909,7 @@ Investigative Direction: Pull the filed memorandum from the court docket and ide
 
 ---
 
-**C-7404** Host Says Influencers Brought to Court Are Lying About What They Saw
+**C-11512** Host Says Influencers Brought to Court Are Lying About What They Saw
 
 Claim Timestamp: 00:02:44
 
@@ -926,7 +925,7 @@ Investigative Direction: Identify which influencers attended the preliminary hea
 
 ---
 
-**C-7405** Host Alleges Influencers Were Instructed to Perform Dramatic Reactions
+**C-11515** Host Alleges Influencers Were Instructed to Perform Dramatic Reactions
 
 Claim Timestamp: 00:05:44
 
@@ -942,7 +941,7 @@ Investigative Direction: Find who coordinated influencer attendance at the heari
 
 ---
 
-**C-7406** Host Says Her Video Shows the Rooftop Person Was a Decoy Who Never Fired
+**C-11517** Host Says Her Video Shows the Rooftop Person Was a Decoy Who Never Fired
 
 Claim Timestamp: 00:06:39
 
@@ -958,7 +957,7 @@ Investigative Direction: Compare the rooftop footage frame by frame with the pos
 
 ---
 
-**C-7407** Host Relays Viewer Point That Gravel Would Have Kicked Up From a .30-06
+**C-11519** Host Relays Viewer Point That Gravel Would Have Kicked Up From a .30-06
 
 Claim Timestamp: 00:07:33
 
@@ -974,7 +973,7 @@ Investigative Direction: Have a ballistics expert assess whether muzzle blast wo
 
 ---
 
-**C-7408** Host Says Even Her Source's Recording Does Not Show a Gun
+**C-11520** Host Says Even Her Source's Recording Does Not Show a Gun
 
 Claim Timestamp: 00:07:33
 
@@ -990,7 +989,7 @@ Investigative Direction: Interview the person who recorded the rooftop video and
 
 ---
 
-**C-7409** Blake Neff Says the Defense Demanded the Footage Be Kept From the Public
+**C-11522** Blake Neff Says the Defense Demanded the Footage Be Kept From the Public
 
 Claim Timestamp: 00:09:40
 
@@ -1006,7 +1005,7 @@ Investigative Direction: Check the docket for the defense motion seeking to limi
 
 ---
 
-**C-7410** Host Says Neff's Other-Angle Claim Is New to Her
+**C-11523** Host Says Neff's Other-Angle Claim Is New to Her
 
 Claim Timestamp: 00:10:30
 
@@ -1017,13 +1016,13 @@ Transcript Snippet: I've never heard anybody make the claim that there's another
 Anchored Artifacts: A-2212.1
 Mentions: N-159, N-3
 Related Nodes: N-10762
-Qualifies: C-3164
+Qualifies: C-11521
 Tags: relevance:core
 Investigative Direction: Ask the prosecution and court whether a second rooftop angle exists in the exhibit list.
 
 ---
 
-**C-7411** Neff Says the Rooftop Person Does Not Look Like Anyone at That Distance
+**C-11524** Neff Says the Rooftop Person Does Not Look Like Anyone at That Distance
 
 Claim Timestamp: 00:10:30
 
@@ -1039,7 +1038,7 @@ Investigative Direction: Measure resolvable detail in the rooftop clip at the ca
 
 ---
 
-**C-7412** Neff Says Campus Footage Shows a Close-Up of a Person His Parents Identified
+**C-11525** Neff Says Campus Footage Shows a Close-Up of a Person His Parents Identified
 
 Claim Timestamp: 00:10:30
 
@@ -1055,7 +1054,7 @@ Investigative Direction: Obtain the campus footage exhibits and any statement fr
 
 ---
 
-**C-7413** Host Says There Is Zero Proof Tyler's Parents Identified Him in Footage
+**C-11526** Host Says There Is Zero Proof Tyler's Parents Identified Him in Footage
 
 Claim Timestamp: 00:10:30
 
@@ -1066,13 +1065,13 @@ Transcript Snippet: There's zero proof his parents said that.
 Anchored Artifacts: 
 Mentions: N-3, N-159, N-40
 Related Nodes: N-10110
-Contradicts: C-7412
+Contradicts: C-11525
 Tags: relevance:core
 Investigative Direction: Check charging documents and hearing testimony for any parental identification from footage.
 
 ---
 
-**C-7414** Host Says Plates and Car in the Campus Footage Were Blurry
+**C-11527** Host Says Plates and Car in the Campus Footage Were Blurry
 
 Claim Timestamp: 00:11:19
 
@@ -1088,7 +1087,7 @@ Investigative Direction: Review the car-arrival footage exhibit and any plate or
 
 ---
 
-**C-7415** Neff Says the Medical Examiner Report Confirms a Bullet Came From That Direction
+**C-11528** Neff Says the Medical Examiner Report Confirms a Bullet Came From That Direction
 
 Claim Timestamp: 00:11:19
 
@@ -1104,7 +1103,7 @@ Investigative Direction: Compare the autopsy's wound trajectory description with
 
 ---
 
-**C-7416** Neff Says Recoil From a Prone Position Can Easily Be Minimal
+**C-11529** Neff Says Recoil From a Prone Position Can Easily Be Minimal
 
 Claim Timestamp: 00:11:19
 
@@ -1120,7 +1119,7 @@ Investigative Direction: Consult a firearms expert on visible recoil of a rifle 
 
 ---
 
-**C-7417** Show Speaker Says Courtroom Contacts Describe a Different Angle Not in the Clip
+**C-11531** Show Speaker Says Courtroom Contacts Describe a Different Angle Not in the Clip
 
 Claim Timestamp: 00:12:19
 
@@ -1131,13 +1130,13 @@ Transcript Snippet: I did check with people inside the courtroom that day, and t
 Anchored Artifacts: A-2213.1
 Mentions: N-14
 Related Nodes: N-10762
-Supports: C-3171
+Supports: C-11530
 Tags: relevance:core
 Investigative Direction: Identify the show and speakers, and obtain the court exhibit list to see whether a second angle was admitted.
 
 ---
 
-**C-7418** Host Says Courtroom Influencers Earlier Claimed the Footage Was 4K and Tyler
+**C-11532** Host Says Courtroom Influencers Earlier Claimed the Footage Was 4K and Tyler
 
 Claim Timestamp: 00:13:36
 
@@ -1153,7 +1152,7 @@ Investigative Direction: Collect the influencers' original posts describing the 
 
 ---
 
-**C-7419** Host Says TPUSA Was Initially Very Open About Charlie's Body
+**C-11533** Host Says TPUSA Was Initially Very Open About Charlie's Body
 
 Claim Timestamp: 00:14:48
 
@@ -1169,7 +1168,7 @@ Investigative Direction: Collect early TPUSA and family statements and posts abo
 
 ---
 
-**C-7420** Host Says Elizabeth McCoy Allegedly Recorded Erika at the Open Casket in Utah
+**C-11534** Host Says Elizabeth McCoy Allegedly Recorded Erika at the Open Casket in Utah
 
 Claim Timestamp: 00:14:48
 
@@ -1185,7 +1184,7 @@ Investigative Direction: Ask Elizabeth McCoy or Erika's team who filmed the cask
 
 ---
 
-**C-7421** Host Dates the Utah Casket Recording to Sept 11 Midday
+**C-11535** Host Dates the Utah Casket Recording to Sept 11 Midday
 
 Claim Timestamp: 00:14:48
 
@@ -1201,7 +1200,7 @@ Investigative Direction: Check the casket video's capture time and location agai
 
 ---
 
-**C-7422** Host Says Erika Posted the Utah Casket Footage the Day After It Was Captured
+**C-11537** Host Says Erika Posted the Utah Casket Footage the Day After It Was Captured
 
 Claim Timestamp: 00:16:41
 
@@ -1212,13 +1211,13 @@ Transcript Snippet: Erika moves to post the footage that Elizabeth actually capt
 Anchored Artifacts: A-2880.1
 Mentions: N-2, N-217, N-1
 Related Nodes: N-10201
-Supports: C-1899
+Supports: C-3906
 Tags: relevance:core
 Investigative Direction: Compare the post date with the capture date and where the casket was on each day.
 
 ---
 
-**C-7423** Host Says the Catholic Funeral Mass Was Held Sept 20 at a Church Charlie Attended
+**C-11538** Host Says the Catholic Funeral Mass Was Held Sept 20 at a Church Charlie Attended
 
 Claim Timestamp: 00:16:41
 
@@ -1234,7 +1233,7 @@ Investigative Direction: Confirm the date, church and officiant of the funeral m
 
 ---
 
-**C-7424** Host Says the Funeral Mass Was Not Open to the Public but Not Hidden
+**C-11539** Host Says the Funeral Mass Was Not Open to the Public but Not Hidden
 
 Claim Timestamp: 00:17:38
 
@@ -1250,7 +1249,7 @@ Investigative Direction: Obtain parish schedule and accounts from parishioners w
 
 ---
 
-**C-7425** Host Says a Mockingbird Campaign Attacked Her Over the Conversion Rumblings
+**C-11540** Host Says a Mockingbird Campaign Attacked Her Over the Conversion Rumblings
 
 Claim Timestamp: 00:17:38
 
@@ -1266,7 +1265,7 @@ Investigative Direction: Collect the host's original statement on Charlie's conv
 
 ---
 
-**C-7426** Host Says She and Charlie Discussed Him Taking the Next Step Toward Catholicism
+**C-11542** Host Says She and Charlie Discussed Him Taking the Next Step Toward Catholicism
 
 Claim Timestamp: 00:18:27
 
@@ -1282,7 +1281,7 @@ Investigative Direction: Look for messages or witnesses to the host's conversati
 
 ---
 
-**C-7427** Host Says TPUSA Made Shutting Down the Conversion Idea a High Priority
+**C-11543** Host Says TPUSA Made Shutting Down the Conversion Idea a High Priority
 
 Claim Timestamp: 00:18:27
 
@@ -1298,7 +1297,7 @@ Investigative Direction: Compile TPUSA's early statements on Charlie's faith and
 
 ---
 
-**C-7428** Kolvet Says Charlie Really Loved Catholic Mass and Its Ritual
+**C-11544** Kolvet Says Charlie Really Loved Catholic Mass and Its Ritual
 
 Claim Timestamp: 00:18:27
 
@@ -1309,13 +1308,13 @@ Transcript Snippet: No. But he really loved Catholic mass. He loved the ritual o
 Anchored Artifacts: A-2206.1
 Mentions: N-14, N-1, N-99
 Related Nodes: N-10350
-Supports: C-3167
+Supports: C-11541
 Tags: relevance:core
 Investigative Direction: Obtain the full Alex Clark interview.
 
 ---
 
-**C-7429** Host Says Kolvet Texted Erika Throughout the Pre-Recorded Interview for Approval
+**C-11545** Host Says Kolvet Texted Erika Throughout the Pre-Recorded Interview for Approval
 
 Claim Timestamp: 00:20:22
 
@@ -1331,7 +1330,7 @@ Investigative Direction: Obtain the unedited recording and Kolvet's and Erika's 
 
 ---
 
-**C-7430** Host Says the Interview Was Pre-Recorded Before the Funeral Mass, a Day Earlier
+**C-11546** Host Says the Interview Was Pre-Recorded Before the Funeral Mass, a Day Earlier
 
 Claim Timestamp: 00:20:22
 
@@ -1342,13 +1341,13 @@ Transcript Snippet: it was a pre-record which took place before Charlie's Cathol
 Anchored Artifacts: A-2206.1
 Mentions: N-14, N-1
 Related Nodes: N-10323
-Qualifies: C-3167
+Qualifies: C-11541
 Tags: relevance:core
 Investigative Direction: Establish the recording date of the Alex Clark episode against the Sept 20 funeral mass.
 
 ---
 
-**C-7431** Host Says the Mock Burial Tip Has Checked Out in a Major Way
+**C-11547** Host Says the Mock Burial Tip Has Checked Out in a Major Way
 
 Claim Timestamp: 00:21:09
 
@@ -1364,7 +1363,7 @@ Investigative Direction: Identify what in the tip has been independently verifie
 
 ---
 
-**C-7432** Host Says Hansen Refused to Take Part in a Mock Burial
+**C-11548** Host Says Hansen Refused to Take Part in a Mock Burial
 
 Claim Timestamp: 00:21:09
 
@@ -1380,7 +1379,7 @@ Investigative Direction: Ask Hansen Mortuary whether it was asked to host or arr
 
 ---
 
-**C-7433** Host Says She Read Text Messages Supporting the Mock Burial Account
+**C-11549** Host Says She Read Text Messages Supporting the Mock Burial Account
 
 Claim Timestamp: 00:22:19
 
@@ -1396,7 +1395,7 @@ Investigative Direction: Obtain or have an independent party review the text mes
 
 ---
 
-**C-7434** Host Says Hansen Declined and TPUSA Shopped Around
+**C-11550** Host Says Hansen Declined and TPUSA Shopped Around
 
 Claim Timestamp: 00:22:19
 
@@ -1412,7 +1411,7 @@ Investigative Direction: Identify which funeral homes or churches TPUSA contacte
 
 ---
 
-**C-7435** Host Says TPUSA Landed on the Catholic Church Because of Erika's Ties to the Priest
+**C-11551** Host Says TPUSA Landed on the Catholic Church Because of Erika's Ties to the Priest
 
 Claim Timestamp: 00:22:19
 
@@ -1428,7 +1427,7 @@ Investigative Direction: Identify the priest and the arrangements made between t
 
 ---
 
-**C-7436** Host Says Erika Brought the Priest to Utah Instead of Flying Family Members
+**C-11552** Host Says Erika Brought the Priest to Utah Instead of Flying Family Members
 
 Claim Timestamp: 00:23:21
 
@@ -1444,7 +1443,7 @@ Investigative Direction: Check flight and travel records for the priest and for 
 
 ---
 
-**C-7437** Host Says the Priest Traveled With Erika to Ole Miss on Oct 29
+**C-11553** Host Says the Priest Traveled With Erika to Ole Miss on Oct 29
 
 Claim Timestamp: 00:24:06
 
@@ -1455,13 +1454,13 @@ Transcript Snippet: There was that Turning Point event in October, which feature
 Anchored Artifacts: 
 Mentions: N-2
 Related Nodes: N-10233
-Supports: C-1623
+Supports: C-2426
 Tags: relevance:core
 Investigative Direction: Review event footage and credential lists for the priest at Ole Miss.
 
 ---
 
-**C-7438** Host Says Charlie's Casket Was Closed at the Catholic Funeral Mass
+**C-11554** Host Says Charlie's Casket Was Closed at the Catholic Funeral Mass
 
 Claim Timestamp: 00:24:06
 
@@ -1477,7 +1476,7 @@ Investigative Direction: Interview attendees of the funeral mass about the caske
 
 ---
 
-**C-7439** Host Says the Casket Went to a Catholic Cemetery Where Donors and Family Gathered
+**C-11555** Host Says the Casket Went to a Catholic Cemetery Where Donors and Family Gathered
 
 Claim Timestamp: 00:25:17
 
@@ -1493,7 +1492,7 @@ Investigative Direction: Identify the cemetery and attendees and obtain intermen
 
 ---
 
-**C-7440** Host Says No Grave Was Dug and Attendees Did Not See Charlie Lowered
+**C-11556** Host Says No Grave Was Dug and Attendees Did Not See Charlie Lowered
 
 Claim Timestamp: 00:25:17
 
@@ -1509,7 +1508,7 @@ Investigative Direction: Request cemetery plot, grave opening and interment reco
 
 ---
 
-**C-7441** Host Says Attendees Were Told to Leave and That the Location Would Be Unmarked
+**C-11557** Host Says Attendees Were Told to Leave and That the Location Would Be Unmarked
 
 Claim Timestamp: 00:25:17
 
@@ -1520,13 +1519,13 @@ Transcript Snippet: Rather, they were told, "You leave and we'll handle the rest
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10759, N-10751
-Supports: C-1897
+Supports: C-3904
 Tags: relevance:core
 Investigative Direction: Interview attendees about what they were told at the cemetery and who told them.
 
 ---
 
-**C-7442** Host Says No Attendee Can Truthfully Claim to Have Seen Him Buried
+**C-11558** Host Says No Attendee Can Truthfully Claim to Have Seen Him Buried
 
 Claim Timestamp: 00:25:17
 
@@ -1542,7 +1541,7 @@ Investigative Direction: Ask funeral attendees whether any witnessed interment.
 
 ---
 
-**C-7443** Host Says She Believes It Was a Mock Burial Done as a Favor by a Friend
+**C-11559** Host Says She Believes It Was a Mock Burial Done as a Favor by a Friend
 
 Claim Timestamp: 00:26:34
 
@@ -1558,7 +1557,7 @@ Investigative Direction: Identify the friend and the cemetery or church role in 
 
 ---
 
-**C-7444** Host Says She Believes Charlie Was Cremated Before or After the Ceremony
+**C-11560** Host Says She Believes Charlie Was Cremated Before or After the Ceremony
 
 Claim Timestamp: 00:26:34
 
@@ -1574,7 +1573,7 @@ Investigative Direction: Seek cremation authorization or death certificate dispo
 
 ---
 
-**C-7445** Host Says the Mock Burial Is Why Erika Chose a Catholic Funeral Mass
+**C-11561** Host Says the Mock Burial Is Why Erika Chose a Catholic Funeral Mass
 
 Claim Timestamp: 00:26:34
 
@@ -1590,7 +1589,7 @@ Investigative Direction: Compare the family's stated reasons for the Catholic ma
 
 ---
 
-**C-7446** Host Says Burial Places of Other Prominent Figures Are Publicly Findable
+**C-11562** Host Says Burial Places of Other Prominent Figures Are Publicly Findable
 
 Claim Timestamp: 00:27:34
 
@@ -1606,7 +1605,7 @@ Investigative Direction: Check public records on those burials and any TPUSA sta
 
 ---
 
-**C-7447** Host Says She Knows More Than She Has Released and Is Timing Disclosures
+**C-11563** Host Says She Knows More Than She Has Released and Is Timing Disclosures
 
 Claim Timestamp: 00:31:30
 
@@ -1621,7 +1620,7 @@ Investigative Direction: Track which later episodes release the material she say
 
 ---
 
-**C-7448** Host Says There Is No Evidence of a Screwdriver
+**C-11564** Host Says There Is No Evidence of a Screwdriver
 
 Claim Timestamp: 00:32:31
 
@@ -1637,7 +1636,7 @@ Investigative Direction: Review the exhibit list and item logs for any screwdriv
 
 ---
 
-**C-7449** Host Mockingly Suggests Officer Bagley's Body Cam Went Off at the Screwdriver
+**C-11565** Host Mockingly Suggests Officer Bagley's Body Cam Went Off at the Screwdriver
 
 Claim Timestamp: 00:32:31
 
@@ -1653,7 +1652,7 @@ Investigative Direction: Obtain Bagley's body-cam records and activation logs fo
 
 ---
 
-**C-7450** Host Says Her Team Is Delaying Drops While TPUSA Keeps Making Mistakes
+**C-11566** Host Says Her Team Is Delaying Drops While TPUSA Keeps Making Mistakes
 
 Claim Timestamp: 00:32:31
 
@@ -1668,7 +1667,7 @@ Investigative Direction: Observe later episodes for the material she says is bei
 
 ---
 
-**C-7451** Host Says Her Producer Corrected That the Prosecution Filed the Memorandum
+**C-11567** Host Says Her Producer Corrected That the Prosecution Filed the Memorandum
 
 Claim Timestamp: 00:32:31
 
@@ -1679,13 +1678,13 @@ Transcript Snippet: It was in fact my producer corrected the prosecution that fi
 Anchored Artifacts: A-2207.1
 Mentions: N-3
 Related Nodes: N-10761
-Revises: C-7403, C-3162, C-3163
+Revises: C-11509, C-11568, C-11570
 Tags: relevance:core
 Investigative Direction: Check the docket to confirm the filing party and date.
 
 ---
 
-**C-7452** Host Recalls Kolvet Describing the Bullet Hitting the Back and Going Down the Vertebrae
+**C-11569** Host Recalls Kolvet Describing the Bullet Hitting the Back and Going Down the Vertebrae
 
 Claim Timestamp: 00:33:25
 
@@ -1701,7 +1700,7 @@ Investigative Direction: Find Kolvet's earlier description and compare to the au
 
 ---
 
-**C-7453** Host Says Hearts and Lungs Cannot Hemorrhage Without a Heartbeat
+**C-11571** Host Says Hearts and Lungs Cannot Hemorrhage Without a Heartbeat
 
 Claim Timestamp: 00:34:21
 
@@ -1712,13 +1711,13 @@ Transcript Snippet: You can do a cursory search and determine that your heart an
 Anchored Artifacts: A-2207.1
 Mentions: N-3, N-1
 Related Nodes: N-10761
-Qualifies: C-3163
+Qualifies: C-11570
 Tags: relevance:core
 Investigative Direction: Ask an independent forensic pathologist whether post-mortem hemorrhage of this kind can occur.
 
 ---
 
-**C-7454** Host Says Frank Turek Said Charlie Had No Pulse in Those Critical Minutes
+**C-11572** Host Says Frank Turek Said Charlie Had No Pulse in Those Critical Minutes
 
 Claim Timestamp: 00:34:21
 
@@ -1734,7 +1733,7 @@ Investigative Direction: Obtain Turek's original statement and the CPR timeline.
 
 ---
 
-**C-7455** Host Says Erika Said Charlie Died Instantly
+**C-11573** Host Says Erika Said Charlie Died Instantly
 
 Claim Timestamp: 00:35:25
 
@@ -1750,7 +1749,7 @@ Investigative Direction: Locate Erika's statement and compare it with medical an
 
 ---
 
-**C-7456** Host Says There Is a Scenario Where His Heart Was Restarted at the Hospital
+**C-11574** Host Says There Is a Scenario Where His Heart Was Restarted at the Hospital
 
 Claim Timestamp: 00:35:25
 
@@ -1766,7 +1765,7 @@ Investigative Direction: Review the hospital records and treatment timeline.
 
 ---
 
-**C-7457** Host Says She Believes the Microphone Exploded on Charlie
+**C-11575** Host Says She Believes the Microphone Exploded on Charlie
 
 Claim Timestamp: 00:36:14
 
@@ -1782,7 +1781,7 @@ Investigative Direction: Examine the microphone, shirt and chest injuries for bl
 
 ---
 
-**C-7458** Host Says Chest Bruising Would Tell More of the Story
+**C-11576** Host Says Chest Bruising Would Tell More of the Story
 
 Claim Timestamp: 00:37:04
 
@@ -1798,7 +1797,7 @@ Investigative Direction: Review autopsy photographs and external examination not
 
 ---
 
-**C-7459** Host Says She Has Ruled Out the Lozi Rooftop Person Having Shot Charlie
+**C-11577** Host Says She Has Ruled Out the Lozi Rooftop Person Having Shot Charlie
 
 Claim Timestamp: 00:37:16
 
@@ -1809,13 +1808,13 @@ Transcript Snippet: now that I have fully rinsed out any chance that the person 
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10769
-Supports: C-7406
+Supports: C-11517
 Tags: relevance:core
 Investigative Direction: Reconstruct the shot geometry and compare with the rooftop footage.
 
 ---
 
-**C-7460** Host Says the Rooftop Man Was a Military Decoy Tasked With Running
+**C-11578** Host Says the Rooftop Man Was a Military Decoy Tasked With Running
 
 Claim Timestamp: 00:37:50
 
@@ -1831,7 +1830,7 @@ Investigative Direction: Identify the rooftop person and any military or contrac
 
 ---
 
-**C-7461** Host Says the Prosecution Has Not Contacted the Rooftop Witnesses
+**C-11579** Host Says the Prosecution Has Not Contacted the Rooftop Witnesses
 
 Claim Timestamp: 00:38:01
 
@@ -1847,7 +1846,7 @@ Investigative Direction: Ask the prosecution and the witnesses whether any conta
 
 ---
 
-**C-7462** Prosecution Cites Exhibits 12.1 and 12.4 as Proof of a Screwdriver
+**C-11580** Prosecution Cites Exhibits 12.1 and 12.4 as Proof of a Screwdriver
 
 Claim Timestamp: 00:38:01
 
@@ -1863,7 +1862,7 @@ Investigative Direction: Pull exhibits 12.1 and 12.4 from the hearing record.
 
 ---
 
-**C-7463** Host Says There Is No Evidence of a Screwdriver or a Gun on the Lozi Rooftop
+**C-11581** Host Says There Is No Evidence of a Screwdriver or a Gun on the Lozi Rooftop
 
 Claim Timestamp: 00:38:01
 
@@ -1874,13 +1873,13 @@ Transcript Snippet: We have seen no evidence of either a screwdriver or a gun on
 Anchored Artifacts: A-2882.1
 Mentions: N-3
 Related Nodes: N-11143, N-10769
-Contradicts: C-7462
+Contradicts: C-11580
 Tags: relevance:core
 Investigative Direction: Compare exhibits and property logs with that claim.
 
 ---
 
-**C-7464** Host Says Blake Neff Has Convenient Amnesia and Excludes Danny Philip
+**C-11582** Host Says Blake Neff Has Convenient Amnesia and Excludes Danny Philip
 
 Claim Timestamp: 00:39:05
 
@@ -1896,7 +1895,7 @@ Investigative Direction: Review Neff's accounts of Sept 10 against vehicle and d
 
 ---
 
-**C-7465** Host Says She Texted Andrew That Charlie Told Her He Betrayed Him
+**C-11584** Host Says She Texted Andrew That Charlie Told Her He Betrayed Him
 
 Claim Timestamp: 00:42:17
 
@@ -1906,13 +1905,13 @@ Transcript Snippet: The fact that I woke up and texted Andrew and I said Charlie
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-1
-Supports: C-2047
+Supports: C-4881
 Tags: relevance:core
 Investigative Direction: Obtain the text and any reply from Kolvet.
 
 ---
 
-**C-7466** Host Describes Dream of Charlie Saying He Was Betrayed Then Seeing Kolvet's Face
+**C-11585** Host Describes Dream of Charlie Saying He Was Betrayed Then Seeing Kolvet's Face
 
 Claim Timestamp: 00:42:17
 
@@ -1927,7 +1926,7 @@ Investigative Direction: Personal account; no document would verify it beyond th
 
 ---
 
-**C-7467** Host Says She Spoke to Her Priest Worrying Charlie Was in Purgatory
+**C-11586** Host Says She Spoke to Her Priest Worrying Charlie Was in Purgatory
 
 Claim Timestamp: 00:43:27
 
@@ -1942,7 +1941,7 @@ Investigative Direction: Personal account only.
 
 ---
 
-**C-7468** Host Says Attendees at the Memorial Event Were Happy and Are Now Angry
+**C-11587** Host Says Attendees at the Memorial Event Were Happy and Are Now Angry
 
 Claim Timestamp: 00:49:40
 
@@ -1957,7 +1956,7 @@ Investigative Direction: Review footage of the memorial event and later public s
 
 ---
 
-**C-7469** Host Says Tyler Robinson Faces the Death Penalty
+**C-11588** Host Says Tyler Robinson Faces the Death Penalty
 
 Claim Timestamp: 00:50:37
 
@@ -1972,7 +1971,7 @@ Investigative Direction: Check the charging documents and prosecutor's notice re
 
 ---
 
-**C-7470** Host Says Blake Neff Has Said to Convict Tyler Robinson
+**C-11589** Host Says Blake Neff Has Said to Convict Tyler Robinson
 
 Claim Timestamp: 00:50:37
 
@@ -1987,7 +1986,7 @@ Investigative Direction: Locate Neff's original statements calling for convictio
 
 ---
 
-**C-7471** Host Agrees Charlie Did Not Go Backward and Moved Up and to the Side
+**C-11590** Host Agrees Charlie Did Not Go Backward and Moved Up and to the Side
 
 Claim Timestamp: 00:51:30
 
@@ -2003,7 +2002,7 @@ Investigative Direction: Have a physicist or forensic expert analyze the shot vi
 
 ---
 
-**C-7472** Host Says Her Book Club Is Reading About the Pale of Settlement
+**C-11591** Host Says Her Book Club Is Reading About the Pale of Settlement
 
 Claim Timestamp: 00:52:26
 
@@ -2018,7 +2017,7 @@ Investigative Direction: Tangential assertion recorded as said; no case-relevant
 
 ---
 
-**C-7473** Host Says She Knew Instantly That Charlie Was Betrayed
+**C-11592** Host Says She Knew Instantly That Charlie Was Betrayed
 
 Claim Timestamp: 00:53:58
 
@@ -2177,7 +2176,7 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Transcription artifacts**: "judge graph" (A-2216.1 / C-3173), "docked a witness" (A-2208.1 / C-3168), "Mike" for "mic" (A-2211.1 / C-3170) – likely auto-caption errors.
+- **Transcription artifacts**: "judge graph" (A-2216.1 / C-11511), "docked a witness" (A-2208.1 / C-11510), "Mike" for "mic" (A-2211.1 / C-11516) – likely auto-caption errors.
 - **Verbally referenced, not displayed verbatim**: A-2210.1 (Kolvet pronunciation list content summarized rather than read aloud).
 - **Undisplayed referenced text messages**: Host references text messages from "the people that would have knowledge of" the mock burial, but no text message image or quote is displayed in the episode.
 - **Unnamed source / Hunted tip**: The mock-burial allegation (N-10760) and downstream claims about casket-closed, family-asked-to-leave, no-burial-plot, and presumed cremation all trace to a single unnamed tipster; these fail the Artifact Anchor Test and are NOT inscribed as claims.

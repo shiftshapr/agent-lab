@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep098): N-373, N-430
   - Tip-minted Nodes (reintro-ep098): N-10910, N-10914
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10e): C-11492–C-11560
+  - Claim Range: C-8728–C-8818
   - New Nodes Introduced: N-10652, N-10654, N-10655, N-10656
   - Hole-minted Nodes (wave3): N-429
   - Reused Nodes Appearing: N-10900, N-10653, N-10651, N-5, N-22, N-30, N-36, N-40, N-46, N-85, N-101, N-117, N-163, N-231, N-270, N-366, N-484, N-485, N-860, N-10000, N-10002, N-10131, N-10238, N-10379, N-10385, N-10406, N-10416, N-10487, N-10631, N-10637, N-10640, N-10661, N-10689, N-10694, N-11116
@@ -156,7 +156,7 @@ Video Timestamp: 00:05:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2834, C-2835, C-2836, N-10900*
+*Related: C-8738, C-8739, C-8740, N-10900*
 
 ---
 
@@ -170,7 +170,7 @@ Video Timestamp: 00:09:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2837, C-2838, C-2839, C-2840*
+*Related: C-8748, C-8749, C-8744, C-8764*
 
 ---
 
@@ -184,7 +184,7 @@ Video Timestamp: 00:22:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2841, N-3*
+*Related: C-8765, N-3*
 
 ---
 
@@ -198,7 +198,7 @@ Video Timestamp: 00:24:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2842, N-3*
+*Related: C-8774, N-3*
 
 ---
 
@@ -212,7 +212,7 @@ Video Timestamp: 00:32:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2843, N-10651, N-10656*
+*Related: C-8786, N-10651, N-10656*
 
 ---
 
@@ -226,7 +226,7 @@ Video Timestamp: 00:37:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2844, C-2845, N-10652, N-10653*
+*Related: C-8789, C-8785, N-10652, N-10653*
 
 ---
 
@@ -240,7 +240,7 @@ Video Timestamp: 00:36:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2845, C-2846, C-2847, C-2851, N-10652*
+*Related: C-8785, C-8795, C-8796, C-8731, N-10652*
 
 ---
 
@@ -254,7 +254,7 @@ Video Timestamp: 00:40:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2848, N-10653*
+*Related: C-8763, N-10653*
 
 ---
 
@@ -268,7 +268,7 @@ Video Timestamp: 00:22:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2849, N-3, N-10651*
+*Related: C-8771, N-3, N-10651*
 
 ---
 
@@ -282,7 +282,7 @@ Video Timestamp: 00:31:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2850, N-10656*
+*Related: C-8776, N-10656*
 
 ---
 
@@ -294,7 +294,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:44:40
 Confidence Level: High
 
-*Related: C-2853, N-10653*
+*Related: C-8803, N-10653*
 
 **A-2040.2** Character Life top comment: "Every time someone tries to sue Candace, all they end up doing is giving the public a magnifying glass to look into their past."
 
@@ -302,7 +302,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:46:05
 Confidence Level: High
 
-*Related: C-2854*
+*Related: C-8806*
 
 **A-2040.3** Jen comments donation: "I hope this will help you pay for attorneys to pursue discovery in the Brian Harpole case. It's the only chance we might have to get to the truth."
 
@@ -310,7 +310,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:49:43
 Confidence Level: High
 
-*Related: C-2855, N-10651*
+*Related: C-8794, N-10651*
 
 **A-2040.4** Mike Michaela donation in honor of Theo Von (Russian Blue Cat)
 
@@ -421,7 +421,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flags: Artifact verbally referenced but not shown
 
-*Related: C-2851, N-10651, N-10656*
+*Related: C-8731, N-10651, N-10656*
 
 ---
 
@@ -436,7 +436,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 Optional Flags: Document partially read aloud; full text not shown
 
-*Related: C-2852, N-10651*
+*Related: C-8777, N-10651*
 
 ---
 
@@ -451,7 +451,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flags: Artifact verbally referenced but not shown
 
-*Related: C-2853, N-10651*
+*Related: C-8803, N-10651*
 
 ---
 
@@ -465,7 +465,7 @@ Video Timestamp: 00:44:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2846, N-10653*
+*Related: C-8795, N-10653*
 
 ---
 
@@ -478,7 +478,7 @@ Video Timestamp: 00:16:31
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11511, C-11512, C-11513, C-11522, N-3*
+*Related: C-8754, C-8755, C-8756, C-8768, N-3*
 
 ---
 
@@ -489,7 +489,7 @@ Video Timestamp: 00:17:11
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11514, C-11515, N-3*
+*Related: C-8757, C-8758, N-3*
 
 ---
 
@@ -502,7 +502,7 @@ Video Timestamp: 00:24:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11520, C-11521, N-3*
+*Related: C-8766, C-8767, N-3*
 
 ---
 
@@ -517,7 +517,7 @@ Video Timestamp: 00:44:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11546, N-3*
+*Related: C-8802, N-3*
 
 ---
 
@@ -527,7 +527,7 @@ Confidence Level: High
 
 First named by the host at 00:37:02 in episode 98.
 
-*Related: C-2843, C-2844, C-2845, C-2846*
+*Related: C-8786, C-8789, C-8785, C-8795*
 
 
 **N-10651** Brian Harpole Lawsuit Coordination Question
@@ -539,7 +539,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2042.1, A-2041.1, A-2043.1, A-2040.3, A-2038.1, A-2034.1, C-2851, C-2852, C-2853, C-2855*
+*Related: A-2042.1, A-2041.1, A-2043.1, A-2040.3, A-2038.1, A-2034.1, C-8731, C-8777, C-8803, C-8794*
 
 ---
 
@@ -552,7 +552,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2036.1, A-2035.1, A-2040.8, C-2847, C-2851*
+*Related: A-2036.1, A-2035.1, A-2040.8, C-8796, C-8731*
 
 ---
 
@@ -565,7 +565,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2036.1, A-2037.1, A-2044.1, A-2040.1, C-2846, C-2848*
+*Related: A-2036.1, A-2037.1, A-2044.1, A-2040.1, C-8795, C-8763*
 
 ---
 
@@ -604,7 +604,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2039.1, A-2034.1, A-2041.1, C-2843, C-2850*
+*Related: A-2039.1, A-2034.1, A-2041.1, C-8786, C-8776*
 
 ---
 
@@ -612,7 +612,7 @@ Investigative Pressure: Medium
 
 Subject of the assassination; the host says Shapiro tried to destroy him behind the scenes and that he spoke monthly at Dream City Church.
 
-*Related: C-11517, C-11518, C-11540, C-11545, C-11558*
+*Related: C-8760, C-8761, C-8793, C-8801, C-8816*
 
 ---
 
@@ -620,7 +620,7 @@ Subject of the assassination; the host says Shapiro tried to destroy him behind 
 
 Widow and TPUSA CEO; the host says Shapiro urged her to sue the host and she called the funeral the event of the century.
 
-*Related: C-11512, C-11514, C-11522, C-11540, C-11551*
+*Related: C-8755, C-8757, C-8768, C-8793, C-8809*
 
 ---
 
@@ -628,7 +628,7 @@ Widow and TPUSA CEO; the host says Shapiro urged her to sue the host and she cal
 
 Host; speaks for herself throughout.
 
-*Related: C-11492, C-11493, C-11494, C-11495, C-11496, C-11497, C-11498, C-11499, C-11500, C-11501, C-11502, C-11507, C-11508, C-11509, C-11510, C-11511, C-11512, C-11513, C-11514, C-11515, C-11516, C-11519, C-11520, C-11521, C-11522, C-11524, C-11525, C-11526, C-11544, C-11546, C-11547, C-11548, C-11549, C-11550, C-11551, C-11552, C-11553, C-11559, C-11560*
+*Related: C-8728, C-8729, C-8730, C-8732, C-8733, C-8734, C-8735, C-8736, C-8737, C-8741, C-8742, C-8750, C-8751, C-8752, C-8753, C-8754, C-8755, C-8756, C-8757, C-8758, C-8759, C-8762, C-8766, C-8767, C-8768, C-8770, C-8772, C-8773, C-8800, C-8802, C-8804, C-8805, C-8807, C-8808, C-8809, C-8810, C-8811, C-8817, C-8818*
 
 ---
 
@@ -636,7 +636,7 @@ Host; speaks for herself throughout.
 
 The host says the president posted her photo while she was in Italy.
 
-*Related: C-11493, C-11560*
+*Related: C-8729, C-8818*
 
 ---
 
@@ -644,7 +644,7 @@ The host says the president posted her photo while she was in Italy.
 
 TPUSA spokesperson; the host notes he did not name his geofencing partners and sat with Dhillon at the WHCD.
 
-*Related: C-11541, C-11542*
+*Related: C-8797, C-8798*
 
 ---
 
@@ -652,7 +652,7 @@ TPUSA spokesperson; the host notes he did not name his geofencing partners and s
 
 Named in Gupta's post and in a clip telling him not to go silent.
 
-*Related: C-11505, C-11515*
+*Related: C-8747, C-8758*
 
 ---
 
@@ -660,7 +660,7 @@ Named in Gupta's post and in a clip telling him not to go silent.
 
 The host's husband, subject of the hit-and-run and DUI allegations she denies.
 
-*Related: C-11492, C-11528, C-11559*
+*Related: C-8728, C-8778, C-8817*
 
 ---
 
@@ -668,7 +668,7 @@ The host's husband, subject of the hit-and-run and DUI allegations she denies.
 
 Israeli prime minister the host says Shapiro hosts on his platform.
 
-*Related: C-11523*
+*Related: C-8769*
 
 ---
 
@@ -676,7 +676,7 @@ Israeli prime minister the host says Shapiro hosts on his platform.
 
 The host says he was not alone on a rooftop.
 
-*Related: C-11558*
+*Related: C-8816*
 
 ---
 
@@ -684,7 +684,7 @@ The host says he was not alone on a rooftop.
 
 Named in Gupta's post and in a clip calling her a coward.
 
-*Related: C-11505, C-11515*
+*Related: C-8747, C-8758*
 
 ---
 
@@ -692,7 +692,7 @@ Named in Gupta's post and in a clip calling her a coward.
 
 The host alleges coordination between Loomer and Matt Sarelson and describes Loomer's merch call.
 
-*Related: C-11520, C-11521, C-11527, C-11528*
+*Related: C-8766, C-8767, C-8775, C-8778*
 
 ---
 
@@ -700,7 +700,7 @@ The host alleges coordination between Loomer and Matt Sarelson and describes Loo
 
 Attorney General the host says Harmeet Dhillon is frontrunner to replace.
 
-*Related: C-11531*
+*Related: C-8781*
 
 ---
 
@@ -708,7 +708,7 @@ Attorney General the host says Harmeet Dhillon is frontrunner to replace.
 
 Daily Wire co-founder; subject of the host's claims about the layoffs, bought views and urging Erika Kirk to sue.
 
-*Related: C-11494, C-11495, C-11499, C-11504, C-11511, C-11512, C-11513, C-11514, C-11516, C-11517, C-11518, C-11519, C-11522, C-11523, C-11524, C-11527, C-11556*
+*Related: C-8730, C-8732, C-8736, C-8746, C-8754, C-8755, C-8756, C-8757, C-8759, C-8760, C-8761, C-8762, C-8768, C-8769, C-8770, C-8775, C-8814*
 
 ---
 
@@ -716,7 +716,7 @@ Daily Wire co-founder; subject of the host's claims about the layoffs, bought vi
 
 Appears in a clip declining to dance like a puppet for the podcast wars.
 
-*Related: C-11513, C-11514*
+*Related: C-8756, C-8757*
 
 ---
 
@@ -724,7 +724,7 @@ Appears in a clip declining to dance like a puppet for the podcast wars.
 
 PragerU CEO the host says she stayed close to after leaving PragerU.
 
-*Related: C-11507*
+*Related: C-8750*
 
 ---
 
@@ -732,7 +732,7 @@ PragerU CEO the host says she stayed close to after leaving PragerU.
 
 Subject of Shapiro's low-IQ conspiracist remark in the clip.
 
-*Related: C-11511, C-11523*
+*Related: C-8754, C-8769*
 
 ---
 
@@ -740,7 +740,7 @@ Subject of Shapiro's low-IQ conspiracist remark in the clip.
 
 Gupta's post credits his documentary Am I Racist? as a top-grossing 2024 release.
 
-*Related: C-11506*
+*Related: C-8743*
 
 ---
 
@@ -748,7 +748,7 @@ Gupta's post credits his documentary Am I Racist? as a top-grossing 2024 release
 
 The host wishes he had never made the Crisis King video.
 
-*Related: C-11510*
+*Related: C-8753*
 
 ---
 
@@ -756,7 +756,7 @@ The host wishes he had never made the Crisis King video.
 
 Plaintiff in the lawsuit against the host.
 
-*Related: C-11494, C-11522, C-11549, C-11550, C-11551*
+*Related: C-8730, C-8768, C-8807, C-8808, C-8809*
 
 ---
 
@@ -764,7 +764,7 @@ Plaintiff in the lawsuit against the host.
 
 The host says she did not believe he was involved and hopes for access to his phone.
 
-*Related: C-11549, C-11551*
+*Related: C-8807, C-8809*
 
 ---
 
@@ -772,7 +772,7 @@ The host says she did not believe he was involved and hopes for access to his ph
 
 Daily Wire co-founder (transcribed Jeremy Boreing); stepped down as co-CEO per Gupta's post, and the host blames him for the debt.
 
-*Related: C-11503, C-11547, C-11548*
+*Related: C-8745, C-8804, C-8805*
 
 ---
 
@@ -780,7 +780,7 @@ Daily Wire co-founder (transcribed Jeremy Boreing); stepped down as co-CEO per G
 
 DOJ Civil Rights head; the host discusses her law firm, her stake and her possible attorney general bid.
 
-*Related: C-11529, C-11530, C-11531, C-11532, C-11542*
+*Related: C-8779, C-8780, C-8781, C-8782, C-8798*
 
 ---
 
@@ -788,7 +788,7 @@ DOJ Civil Rights head; the host discusses her law firm, her stake and her possib
 
 Named in the Times of Israel article as holding a $1.5 million a month contract.
 
-*Related: C-11537*
+*Related: C-8790*
 
 ---
 
@@ -796,7 +796,7 @@ Named in the Times of Israel article as holding a $1.5 million a month contract.
 
 Party to the settled lawsuit the host discusses.
 
-*Related: C-11554*
+*Related: C-8812*
 
 ---
 
@@ -804,7 +804,7 @@ Party to the settled lawsuit the host discusses.
 
 Party to the settled lawsuit the host discusses.
 
-*Related: C-11554, C-11555*
+*Related: C-8812, C-8813*
 
 ---
 
@@ -812,7 +812,7 @@ Party to the settled lawsuit the host discusses.
 
 Lawyer who sent the Harpole lawsuit and the host's long-time arbitration opponent.
 
-*Related: C-11494, C-11525, C-11526, C-11527*
+*Related: C-8730, C-8772, C-8773, C-8775*
 
 ---
 
@@ -820,7 +820,7 @@ Lawyer who sent the Harpole lawsuit and the host's long-time arbitration opponen
 
 Organization the host says possesses 4K footage and was geofencing the memorial.
 
-*Related: C-11507, C-11518, C-11552*
+*Related: C-8750, C-8761, C-8810*
 
 ---
 
@@ -828,7 +828,7 @@ Organization the host says possesses 4K footage and was geofencing the memorial.
 
 Memorial and funeral topic.
 
-*Related: C-11540*
+*Related: C-8793*
 
 ---
 
@@ -836,7 +836,7 @@ Memorial and funeral topic.
 
 Organization the host says was not destroyed by her exit.
 
-*Related: C-11507*
+*Related: C-8750*
 
 ---
 
@@ -844,7 +844,7 @@ Organization the host says was not destroyed by her exit.
 
 Existing topic reused for the intern claim.
 
-*Related: C-11495*
+*Related: C-8732*
 
 ---
 
@@ -852,7 +852,7 @@ Existing topic reused for the intern claim.
 
 Existing topic reused for the channels claim.
 
-*Related: C-11508*
+*Related: C-8751*
 
 ---
 
@@ -860,7 +860,7 @@ Existing topic reused for the channels claim.
 
 Existing topic reused for the show claim.
 
-*Related: C-11509*
+*Related: C-8752*
 
 ---
 
@@ -868,7 +868,7 @@ Existing topic reused for the show claim.
 
 Existing topic reused for the clip claim.
 
-*Related: C-11515*
+*Related: C-8758*
 
 ---
 
@@ -876,7 +876,7 @@ Existing topic reused for the clip claim.
 
 Existing topic reused for the stalking claims.
 
-*Related: C-11495, C-11496*
+*Related: C-8732, C-8733*
 
 ---
 
@@ -884,7 +884,7 @@ Existing topic reused for the stalking claims.
 
 Existing topic reused for the Dream City claim.
 
-*Related: C-11545*
+*Related: C-8801*
 
 ---
 
@@ -892,7 +892,7 @@ Existing topic reused for the Dream City claim.
 
 Existing topic reused for the hit-and-run accusation.
 
-*Related: C-11492*
+*Related: C-8728*
 
 ---
 
@@ -900,7 +900,7 @@ Existing topic reused for the hit-and-run accusation.
 
 Existing topic reused for the Kolvet seating claim.
 
-*Related: C-11542*
+*Related: C-8798*
 
 ---
 
@@ -908,7 +908,7 @@ Existing topic reused for the Kolvet seating claim.
 
 Existing topic reused for the photo post.
 
-*Related: C-11493, C-11560*
+*Related: C-8729, C-8818*
 
 ---
 
@@ -916,7 +916,7 @@ Existing topic reused for the photo post.
 
 Existing topic reused for the settlement claims.
 
-*Related: C-11554, C-11555*
+*Related: C-8812, C-8813*
 
 ---
 
@@ -924,7 +924,7 @@ Existing topic reused for the settlement claims.
 
 Existing topic reused for the finance claims.
 
-*Related: C-11497, C-11498, C-11500, C-11516, C-11548*
+*Related: C-8734, C-8735, C-8737, C-8759, C-8805*
 
 ---
 
@@ -932,7 +932,7 @@ Existing topic reused for the finance claims.
 
 Existing topic reused for the Flood claim.
 
-*Related: C-11549*
+*Related: C-8807*
 
 ---
 
@@ -940,7 +940,7 @@ Existing topic reused for the Flood claim.
 
 Organization whose layoffs the episode discusses.
 
-*Related: C-11496, C-11497, C-11498, C-11499, C-11500, C-11501, C-11502, C-11503, C-11504, C-11506, C-11508, C-11509, C-11516, C-11519, C-11524, C-11548*
+*Related: C-8733, C-8734, C-8735, C-8736, C-8737, C-8741, C-8742, C-8745, C-8746, C-8743, C-8751, C-8752, C-8759, C-8762, C-8770, C-8805*
 
 ---
 
@@ -948,7 +948,7 @@ Organization whose layoffs the episode discusses.
 
 Law firm of Harmeet Dhillon, counsel on the Show Faith by Works filing.
 
-*Related: C-11529, C-11530, C-11532*
+*Related: C-8779, C-8780, C-8782*
 
 ---
 
@@ -956,7 +956,7 @@ Law firm of Harmeet Dhillon, counsel on the Show Faith by Works filing.
 
 FARA-registered company running the church geofencing campaign.
 
-*Related: C-11533, C-11534, C-11535, C-11536, C-11541, C-11543, C-11544*
+*Related: C-8783, C-8784, C-8787, C-8788, C-8797, C-8799, C-8800*
 
 ---
 
@@ -964,7 +964,7 @@ FARA-registered company running the church geofencing campaign.
 
 Existing topic reused for the Klavan claim.
 
-*Related: C-11510*
+*Related: C-8753*
 
 ---
 
@@ -973,7 +973,7 @@ Existing topic reused for the Klavan claim.
 First named by the host at 00:55:14 in episode 98 (transcribed Bryan Freedman). Lawyer the host congratulates for the Baldoni result.
 Aliases: Bryan Freedman
 
-*Related: C-11555*
+*Related: C-8813*
 
 ---
 
@@ -981,7 +981,7 @@ Aliases: Bryan Freedman
 
 First named by the host at 00:55:14 in episode 98. PR professional the host congratulates.
 
-*Related: C-11555*
+*Related: C-8813*
 
 ---
 
@@ -989,7 +989,7 @@ First named by the host at 00:55:14 in episode 98. PR professional the host cong
 
 First named by the host at 00:56:47 in episode 98. The host asks if he is Ben Shapiro's uncle who took uranium to Israel.
 
-*Related: C-11556, C-11557*
+*Related: C-8814, C-8815*
 
 ---
 
@@ -998,13 +998,13 @@ First named by the host at 00:56:47 in episode 98. The host asks if he is Ben Sh
 Node Type: Organization
 Firm named in the Times of Israel article as contracted to create an influencer network called the Esther project for Israel's Foreign Ministry.
 
-*Related: C-11538*
+*Related: C-8791*
 
 ---
 
 ## 5. Claim Register
 
-**C-2834** Daily Wire announced restructuring and mass layoffs in a statement released to Breitbart Media
+**C-8738** Daily Wire announced restructuring and mass layoffs in a statement released to Breitbart Media
 
 Claim Timestamp: 00:05:52
 
@@ -1016,7 +1016,7 @@ Mentions:
 
 ---
 
-**C-2835** Daily Wire's statement asserted cuts were concentrated in the Nashville production office
+**C-8739** Daily Wire's statement asserted cuts were concentrated in the Nashville production office
 
 Claim Timestamp: 00:05:52
 
@@ -1030,7 +1030,7 @@ Investigative Direction: Cross-check statement against dismissed-employee report
 
 ---
 
-**C-2836** Daily Wire's statement claimed new production investment in DC, the Northeast, and Florida
+**C-8740** Daily Wire's statement claimed new production investment in DC, the Northeast, and Florida
 
 Claim Timestamp: 00:05:52
 
@@ -1044,7 +1044,7 @@ Investigative Direction: Verify against LinkedIn/public hiring records and any D
 
 ---
 
-**C-2837** Akash Gupta X post asserted Shapiro's monthly YouTube views collapsed from 170M (late 2023) to ~22M (early 2026)
+**C-8748** Akash Gupta X post asserted Shapiro's monthly YouTube views collapsed from 170M (late 2023) to ~22M (early 2026)
 
 Claim Timestamp: 00:11:40
 
@@ -1059,7 +1059,7 @@ Investigative Direction: Verify via third-party YouTube analytics services (e.g.
 
 ---
 
-**C-2838** Akash Gupta X post asserted LayoffHedge.com estimates Daily Wire workforce reduction above 60% over the past year
+**C-8749** Akash Gupta X post asserted LayoffHedge.com estimates Daily Wire workforce reduction above 60% over the past year
 
 Claim Timestamp: 00:11:55
 
@@ -1074,7 +1074,7 @@ Investigative Direction: Independently query LayoffHedge.com archive and corrobo
 
 ---
 
-**C-2839** Akash Gupta X post stated Candace Owens has 5.5M YouTube subscribers and ~805M views since January 2025
+**C-8744** Akash Gupta X post stated Candace Owens has 5.5M YouTube subscribers and ~805M views since January 2025
 
 Claim Timestamp: 00:11:15
 
@@ -1089,7 +1089,7 @@ Investigative Direction: Cross-check via YouTube studio public metrics.
 
 ---
 
-**C-2840** X post listed companies sponsoring Candace Owens' podcast and called for sponsor boycott
+**C-8764** X post listed companies sponsoring Candace Owens' podcast and called for sponsor boycott
 
 Claim Timestamp: 00:22:55
 
@@ -1103,7 +1103,7 @@ Investigative Direction: Confirm sponsors listed match actual podcast ad-read sp
 
 ---
 
-**C-2841** X Post Mocked Candace Owens for Shirts, Cups and Stickers Bearing Her Name and Face
+**C-8765** X Post Mocked Candace Owens for Shirts, Cups and Stickers Bearing Her Name and Face
 
 Claim Timestamp: 00:24:13
 
@@ -1115,7 +1115,7 @@ Mentions: N-3
 
 ---
 
-**C-2842** Laura Loomer Posted That Candace Owens Was Having a Bad Week, Almost Like She Got Ambushed
+**C-8774** Laura Loomer Posted That Candace Owens Was Having a Bad Week, Almost Like She Got Ambushed
 
 Claim Timestamp: 00:32:50
 
@@ -1128,7 +1128,7 @@ Related Nodes: N-10651, N-10656
 
 ---
 
-**C-2843** Times of Israel reported Israel plans to spend up to $4.1M on a U.S. Christian geofencing PR campaign
+**C-8786** Times of Israel reported Israel plans to spend up to $4.1M on a U.S. Christian geofencing PR campaign
 
 Claim Timestamp: 00:37:02
 
@@ -1143,7 +1143,7 @@ Investigative Direction: Cross-check against the original FARA filing in DOJ FAR
 
 ---
 
-**C-2844** Host Reads Times of Israel Saying Show Faith by Works Is Run by Chad Schnitger
+**C-8789** Host Reads Times of Israel Saying Show Faith by Works Is Run by Chad Schnitger
 
 Claim Timestamp: 00:37:43
 
@@ -1156,7 +1156,7 @@ Related Nodes: N-10652
 
 ---
 
-**C-2845** Host Says Show Faith by Works LLC Registered Under FARA Eight Days After Charlie Kirk's Assassination
+**C-8785** Host Says Show Faith by Works LLC Registered Under FARA Eight Days After Charlie Kirk's Assassination
 
 Claim Timestamp: 00:36:17
 
@@ -1169,7 +1169,7 @@ Related Nodes: N-10652
 
 ---
 
-**C-2846** Host Says Show Faith by Works LLC Was Contracted by Havas Media Before Charlie Kirk's Public Funeral
+**C-8795** Host Says Show Faith by Works LLC Was Contracted by Havas Media Before Charlie Kirk's Public Funeral
 
 Claim Timestamp: 00:39:35
 
@@ -1184,7 +1184,7 @@ Investigative Direction: Confirm contract date and counterparty from FARA filing
 
 ---
 
-**C-2847** Andrew Kolvet stated partners geofenced 277,000 devices at State Farm Stadium in Glendale, Arizona
+**C-8796** Andrew Kolvet stated partners geofenced 277,000 devices at State Farm Stadium in Glendale, Arizona
 
 Claim Timestamp: 00:40:12
 
@@ -1197,7 +1197,7 @@ Related Nodes: N-10653
 
 ---
 
-**C-2848** Ben Shapiro publicly accused Candace Owens' audience of being "complicit" via monetization
+**C-8763** Ben Shapiro publicly accused Candace Owens' audience of being "complicit" via monetization
 
 Claim Timestamp: 00:22:03
 
@@ -1210,7 +1210,7 @@ Related Nodes: N-10651
 
 ---
 
-**C-2849** Baron Coleman Read a Comment Alleging "Larry L" Tried to Pay for Airport Photos of Candace as the Harpole Lawsuit News Dropped
+**C-8771** Baron Coleman Read a Comment Alleging "Larry L" Tried to Pay for Airport Photos of Candace as the Harpole Lawsuit News Dropped
 
 Claim Timestamp: 00:31:50
 
@@ -1223,7 +1223,7 @@ Related Nodes: N-10656
 
 ---
 
-**C-2850** Matt Sarelson's X wall showed he heavily retweeted Laura Loomer attacks before posting the Harpole lawsuit
+**C-8776** Matt Sarelson's X wall showed he heavily retweeted Laura Loomer attacks before posting the Harpole lawsuit
 
 Claim Timestamp: 00:33:10
 
@@ -1238,7 +1238,7 @@ Investigative Direction: Pull archived Sarelson X timeline via Wayback Machine t
 
 ---
 
-**C-2851** Jacob William Roth is listed as a partner on the Brian Harpole lawsuit and is Ben Shapiro's brother-in-law
+**C-8731** Jacob William Roth is listed as a partner on the Brian Harpole lawsuit and is Ben Shapiro's brother-in-law
 
 Claim Timestamp: 00:01:15
 
@@ -1253,7 +1253,7 @@ Investigative Direction: Obtain PACER docket copy of Harpole filing and marriage
 
 ---
 
-**C-2852** Host Says Jacob William Roth Retweeted the Brian Harpole Lawsuit
+**C-8777** Host Says Jacob William Roth Retweeted the Brian Harpole Lawsuit
 
 Claim Timestamp: 00:33:10
 
@@ -1268,7 +1268,7 @@ Investigative Direction: Pull archived Roth X timeline.
 
 ---
 
-**C-2853** FARA filing's church targeting list overlaps with Turning Point-affiliated churches (Calvary Chapel, Dream City Church)
+**C-8803** FARA filing's church targeting list overlaps with Turning Point-affiliated churches (Calvary Chapel, Dream City Church)
 
 Claim Timestamp: 00:45:07
 
@@ -1281,7 +1281,7 @@ Related Nodes: N-10653
 
 ---
 
-**C-2854** Donation from Jen comments asserts the Harpole case could enable discovery of underlying materials
+**C-8806** Donation from Jen comments asserts the Harpole case could enable discovery of underlying materials
 
 Claim Timestamp: 00:49:25
 
@@ -1294,7 +1294,7 @@ Related Nodes: N-10651
 
 ---
 
-**C-2855** Host Says FARA Registration Identifies Dhillon Law Group as Legal Representative of Show Faith by Works LLC
+**C-8794** Host Says FARA Registration Identifies Dhillon Law Group as Legal Representative of Show Faith by Works LLC
 
 Claim Timestamp: 00:39:20
 
@@ -1306,7 +1306,7 @@ Related Nodes: N-10652
 
 ---
 
-**C-11492** Host says last week's attacks included doxing, money-hiding and hit-and-run accusations
+**C-8728** Host says last week's attacks included doxing, money-hiding and hit-and-run accusations
 
 Claim Timestamp: 00:00:01
 
@@ -1322,7 +1322,7 @@ Investigative Direction: Identify the original posts making the doxing, money-hi
 
 ---
 
-**C-11493** Host says the president posted a photo of her sick while she was in Italy
+**C-8729** Host says the president posted a photo of her sick while she was in Italy
 
 Claim Timestamp: 00:00:01
 
@@ -1338,7 +1338,7 @@ Investigative Direction: Locate the Truth Social post, its date and time, and th
 
 ---
 
-**C-11494** Host says the Harpole lawsuit came from the lawyer already suing her for Shapiro
+**C-8730** Host says the Harpole lawsuit came from the lawyer already suing her for Shapiro
 
 Claim Timestamp: 00:00:48
 
@@ -1354,7 +1354,7 @@ Investigative Direction: Compare counsel of record on the Harpole filing with co
 
 ---
 
-**C-11495** Host says Daily Wire sent an intern to follow her at her event
+**C-8732** Host says Daily Wire sent an intern to follow her at her event
 
 Claim Timestamp: 00:01:55
 
@@ -1370,7 +1370,7 @@ Investigative Direction: Match to the earlier intern recording episodes and any 
 
 ---
 
-**C-11496** Host says Daily Wire monitored her likes and sued over a liked tweet
+**C-8733** Host says Daily Wire monitored her likes and sued over a liked tweet
 
 Claim Timestamp: 00:03:10
 
@@ -1386,7 +1386,7 @@ Investigative Direction: Obtain the arbitration or court filing that cites a lik
 
 ---
 
-**C-11497** Host says layoffs began Thursday and continued through Friday
+**C-8734** Host says layoffs began Thursday and continued through Friday
 
 Claim Timestamp: 00:03:10
 
@@ -1402,7 +1402,7 @@ Investigative Direction: Check Tennessee WARN notices and dated reports on the l
 
 ---
 
-**C-11498** Host says whole departments, lawyers, the COO, an EVP and marketing were cut
+**C-8735** Host says whole departments, lawyers, the COO, an EVP and marketing were cut
 
 Claim Timestamp: 00:03:10
 
@@ -1418,7 +1418,7 @@ Investigative Direction: Compare against named departures reported by trade pres
 
 ---
 
-**C-11499** Host counts about 54 people laid off, including a director on Shapiro's team
+**C-8736** Host counts about 54 people laid off, including a director on Shapiro's team
 
 Claim Timestamp: 00:04:01
 
@@ -1434,7 +1434,7 @@ Investigative Direction: Reconcile the host's count with the WARN filing and wit
 
 ---
 
-**C-11500** Host says Daily Wire brought in private equity about two years ago
+**C-8737** Host says Daily Wire brought in private equity about two years ago
 
 Claim Timestamp: 00:04:49
 
@@ -1450,7 +1450,7 @@ Investigative Direction: Identify the investor and the date and terms of the inv
 
 ---
 
-**C-11501** Host says Daily Wire shuttered Bentkey Kids and its sports department
+**C-8741** Host says Daily Wire shuttered Bentkey Kids and its sports department
 
 Claim Timestamp: 00:06:57
 
@@ -1466,7 +1466,7 @@ Investigative Direction: Check dated announcements or reports on the Bentkey shu
 
 ---
 
-**C-11502** Host says people in DC were also fired
+**C-8742** Host says people in DC were also fired
 
 Claim Timestamp: 00:06:57
 
@@ -1482,7 +1482,7 @@ Investigative Direction: Compare the DC staff list before and after the layoffs 
 
 ---
 
-**C-11503** Gupta post says Jeremy Boreing stepped down as co-CEO in early 2025
+**C-8745** Gupta post says Jeremy Boreing stepped down as co-CEO in early 2025
 
 Claim Timestamp: 00:11:30
 
@@ -1498,7 +1498,7 @@ Investigative Direction: Verify the date of Boreing's change of role and the Ben
 
 ---
 
-**C-11504** Gupta post says the channel lost 60,000 subscribers in 90 days
+**C-8746** Gupta post says the channel lost 60,000 subscribers in 90 days
 
 Claim Timestamp: 00:11:30
 
@@ -1514,7 +1514,7 @@ Investigative Direction: Check subscriber history on a third-party analytics ser
 
 ---
 
-**C-11505** Gupta post says Carlson kept his audience and Kelly drew 138 million views in February
+**C-8747** Gupta post says Carlson kept his audience and Kelly drew 138 million views in February
 
 Claim Timestamp: 00:11:30
 
@@ -1529,7 +1529,7 @@ Investigative Direction: Verify the February view count on a third-party analyti
 
 ---
 
-**C-11506** Gupta post says Am I Racist? was a top-grossing documentary of 2024
+**C-8743** Gupta post says Am I Racist? was a top-grossing documentary of 2024
 
 Claim Timestamp: 00:10:45
 
@@ -1545,7 +1545,7 @@ Investigative Direction: Check 2024 documentary box-office rankings.
 
 ---
 
-**C-11507** Host says she left PragerU and TPUSA without destroying them and worked with TPUSA under contract until this year
+**C-8750** Host says she left PragerU and TPUSA without destroying them and worked with TPUSA under contract until this year
 
 Claim Timestamp: 00:13:09
 
@@ -1561,7 +1561,7 @@ Investigative Direction: Obtain the host's contract with Turning Point and its e
 
 ---
 
-**C-11508** Host says Daily Wire brought back her social channels to mock her
+**C-8751** Host says Daily Wire brought back her social channels to mock her
 
 Claim Timestamp: 00:14:04
 
@@ -1577,7 +1577,7 @@ Investigative Direction: Compare the dates the Daily Wire reactivated the channe
 
 ---
 
-**C-11509** Host says Daily Wire tried to create a show dedicated to making fun of her show
+**C-8752** Host says Daily Wire tried to create a show dedicated to making fun of her show
 
 Claim Timestamp: 00:14:04
 
@@ -1593,7 +1593,7 @@ Investigative Direction: Identify the show and its dates of release and the date
 
 ---
 
-**C-11510** Host says Klavan's Crisis King video is why she could not simply leave
+**C-8753** Host says Klavan's Crisis King video is why she could not simply leave
 
 Claim Timestamp: 00:15:44
 
@@ -1609,7 +1609,7 @@ Investigative Direction: Identify the Klavan video and compare its date with the
 
 ---
 
-**C-11511** Clip has Shapiro call Theo Von a low-IQ conspiracist
+**C-8754** Clip has Shapiro call Theo Von a low-IQ conspiracist
 
 Claim Timestamp: 00:16:31
 
@@ -1624,7 +1624,7 @@ Investigative Direction: Locate the original Shapiro show episode and timestamp.
 
 ---
 
-**C-11512** Clip has Shapiro say Erika Kirk should sue Candace Owens
+**C-8755** Clip has Shapiro say Erika Kirk should sue Candace Owens
 
 Claim Timestamp: 00:16:31
 
@@ -1639,7 +1639,7 @@ Investigative Direction: Locate the original Shapiro show episode and timestamp 
 
 ---
 
-**C-11513** Clip has Shapiro say what the host is doing is evil
+**C-8756** Clip has Shapiro say what the host is doing is evil
 
 Claim Timestamp: 00:16:31
 
@@ -1649,13 +1649,13 @@ Transcript Snippet: I think that what Candace Owens is doing right now is evil.
 
 Anchored Artifacts: A-3138.1
 Mentions: N-97, N-101, N-3
-Supports: C-1637
+Supports: C-2502
 Tags: relevance:context
 Investigative Direction: Locate the original interview with Knowles and compare with Shapiro's earlier use of the word evil.
 
 ---
 
-**C-11514** Clip has Knowles say he will not dance like a puppet for the podcast wars
+**C-8757** Clip has Knowles say he will not dance like a puppet for the podcast wars
 
 Claim Timestamp: 00:17:11
 
@@ -1670,7 +1670,7 @@ Investigative Direction: Locate the original Shapiro-Knowles exchange and its da
 
 ---
 
-**C-11515** Clip has a speaker call Megyn Kelly a coward and tell Carlson not to go silent
+**C-8758** Clip has a speaker call Megyn Kelly a coward and tell Carlson not to go silent
 
 Claim Timestamp: 00:17:47
 
@@ -1686,7 +1686,7 @@ Investigative Direction: Identify the speaker and original program for the clip.
 
 ---
 
-**C-11516** Host infers Shapiro, as part owner, knew about the layoffs months ahead
+**C-8759** Host infers Shapiro, as part owner, knew about the layoffs months ahead
 
 Claim Timestamp: 00:18:30
 
@@ -1702,7 +1702,7 @@ Investigative Direction: Check Shapiro's ownership stake and board position in c
 
 ---
 
-**C-11517** Host says Shapiro tried to destroy Charlie Kirk behind the scenes
+**C-8760** Host says Shapiro tried to destroy Charlie Kirk behind the scenes
 
 Claim Timestamp: 00:20:31
 
@@ -1712,13 +1712,13 @@ Transcript Snippet: You can spend uh trying to destroy someone behind the scenes
 
 Anchored Artifacts: 
 Mentions: N-97, N-1
-Supports: C-9661
+Supports: C-2514
 Tags: relevance:core
 Investigative Direction: Compare with the host's texts from Kirk about Shapiro and with Shapiro's public statements.
 
 ---
 
-**C-11518** Host says Shapiro threw a million dollars into Charlie's studio to buy his legacy
+**C-8761** Host says Shapiro threw a million dollars into Charlie's studio to buy his legacy
 
 Claim Timestamp: 00:20:31
 
@@ -1734,7 +1734,7 @@ Investigative Direction: Identify any payment, donation or sponsorship from Shap
 
 ---
 
-**C-11519** Host says Shapiro devoted his Friday show to her instead of addressing laid-off employees
+**C-8762** Host says Shapiro devoted his Friday show to her instead of addressing laid-off employees
 
 Claim Timestamp: 00:21:19
 
@@ -1750,7 +1750,7 @@ Investigative Direction: Review the Friday show episode for any mention of the l
 
 ---
 
-**C-11520** Host says Laura Loomer called for people to get rid of Candace's merch
+**C-8766** Host says Laura Loomer called for people to get rid of Candace's merch
 
 Claim Timestamp: 00:24:13
 
@@ -1765,7 +1765,7 @@ Investigative Direction: Locate Loomer's tweet and its date.
 
 ---
 
-**C-11521** Host denies owning a million dollars of cars or living in two homes
+**C-8767** Host denies owning a million dollars of cars or living in two homes
 
 Claim Timestamp: 00:24:25
 
@@ -1780,7 +1780,7 @@ Investigative Direction: Property and vehicle registrations would confirm or ref
 
 ---
 
-**C-11522** Host alleges Shapiro encouraged Erika Kirk to sue her and landed on Harpole
+**C-8768** Host alleges Shapiro encouraged Erika Kirk to sue her and landed on Harpole
 
 Claim Timestamp: 00:25:25
 
@@ -1791,13 +1791,13 @@ Transcript Snippet: after working behind the scenes to encourage and in front of
 Anchored Artifacts: A-3138.1
 Mentions: N-97, N-2, N-266, N-3
 Related Nodes: N-10651
-Supports: C-9648
+Supports: C-2494
 Tags: relevance:core
 Investigative Direction: Seek communications between Shapiro's side, Erika Kirk's side and the Harpole lawyers.
 
 ---
 
-**C-11523** Host says Shapiro hosts Netanyahu on his platform
+**C-8769** Host says Shapiro hosts Netanyahu on his platform
 
 Claim Timestamp: 00:27:13
 
@@ -1807,13 +1807,13 @@ Transcript Snippet: while he unflinchingly hosts Ben Shap- uh uh Bibi Netanyahu 
 
 Anchored Artifacts: 
 Mentions: N-97, N-36
-Supports: C-9668
+Supports: C-2522
 Tags: relevance:context
 Investigative Direction: Identify the Shapiro-Netanyahu interview and its date.
 
 ---
 
-**C-11524** Host alleges Shapiro bought YouTube views
+**C-8770** Host alleges Shapiro bought YouTube views
 
 Claim Timestamp: 00:30:24
 
@@ -1829,7 +1829,7 @@ Investigative Direction: Seek audit, advertiser or former-employee records on pa
 
 ---
 
-**C-11525** Host says she was in the Charlotte airport when the Sarelson email arrived
+**C-8772** Host says she was in the Charlotte airport when the Sarelson email arrived
 
 Claim Timestamp: 00:31:50
 
@@ -1840,13 +1840,13 @@ Transcript Snippet: but I was standing in the Charlotte airport when I received 
 Anchored Artifacts: A-2039.1
 Mentions: N-3, N-860
 Related Nodes: N-10656
-Supports: C-2849
+Supports: C-8771
 Tags: relevance:core
 Investigative Direction: Check the email's timestamp and the host's flight records against the commenter's account.
 
 ---
 
-**C-11526** Host says Sarelson first sent a demand saying a lawsuit would be filed in four days
+**C-8773** Host says Sarelson first sent a demand saying a lawsuit would be filed in four days
 
 Claim Timestamp: 00:32:30
 
@@ -1862,7 +1862,7 @@ Investigative Direction: Obtain the demand letter and its date.
 
 ---
 
-**C-11527** Host alleges coordination between Sarelson and Laura Loomer
+**C-8775** Host alleges coordination between Sarelson and Laura Loomer
 
 Claim Timestamp: 00:32:50
 
@@ -1878,7 +1878,7 @@ Investigative Direction: Look for communications, payments or contacts between L
 
 ---
 
-**C-11528** Host says Loomer asserted the host's husband was involved in a DUI
+**C-8778** Host says Loomer asserted the host's husband was involved in a DUI
 
 Claim Timestamp: 00:33:10
 
@@ -1893,7 +1893,7 @@ Investigative Direction: Locate the Loomer post and any police or court record o
 
 ---
 
-**C-11529** Host says Dhillon Law Group is Harmeet Dhillon's firm and she is at DOJ
+**C-8779** Host says Dhillon Law Group is Harmeet Dhillon's firm and she is at DOJ
 
 Claim Timestamp: 00:34:19
 
@@ -1909,7 +1909,7 @@ Investigative Direction: DOJ biography and confirmation records.
 
 ---
 
-**C-11530** Host says Dhillon transferred her stake in the firm to her brother
+**C-8780** Host says Dhillon transferred her stake in the firm to her brother
 
 Claim Timestamp: 00:34:19
 
@@ -1925,7 +1925,7 @@ Investigative Direction: Ethics disclosures and state business filings for the f
 
 ---
 
-**C-11531** Host says Dhillon is the frontrunner to replace Pam Bondi as Attorney General
+**C-8781** Host says Dhillon is the frontrunner to replace Pam Bondi as Attorney General
 
 Claim Timestamp: 00:34:19
 
@@ -1940,7 +1940,7 @@ Investigative Direction: News reporting on the attorney general succession.
 
 ---
 
-**C-11532** Host says Dhillon's firm is heavily involved in legal matters for Israel
+**C-8782** Host says Dhillon's firm is heavily involved in legal matters for Israel
 
 Claim Timestamp: 00:35:11
 
@@ -1956,7 +1956,7 @@ Investigative Direction: FARA and court dockets listing the firm's clients.
 
 ---
 
-**C-11533** Host says the principal of Show Faith by Works is Israel's Ministry of Foreign Affairs
+**C-8783** Host says the principal of Show Faith by Works is Israel's Ministry of Foreign Affairs
 
 Claim Timestamp: 00:35:57
 
@@ -1972,7 +1972,7 @@ Investigative Direction: Retrieve the FARA registration and its principal field.
 
 ---
 
-**C-11534** Host says Show Faith by Works aims to target US Christians with pro-Israel messaging via geofencing
+**C-8784** Host says Show Faith by Works aims to target US Christians with pro-Israel messaging via geofencing
 
 Claim Timestamp: 00:35:57
 
@@ -1988,7 +1988,7 @@ Investigative Direction: Retrieve the FARA registration statement and its scope-
 
 ---
 
-**C-11535** Times of Israel says the campaign was billed as the largest church geofencing campaign in US history
+**C-8787** Times of Israel says the campaign was billed as the largest church geofencing campaign in US history
 
 Claim Timestamp: 00:37:02
 
@@ -2004,7 +2004,7 @@ Investigative Direction: Retrieve the Times of Israel article and the FARA exhib
 
 ---
 
-**C-11536** Times of Israel says the campaign would send a mobile October 7th experience to church parking lots
+**C-8788** Times of Israel says the campaign would send a mobile October 7th experience to church parking lots
 
 Claim Timestamp: 00:37:02
 
@@ -2020,7 +2020,7 @@ Investigative Direction: Retrieve the FARA exhibit describing the mobile experie
 
 ---
 
-**C-11537** Times of Israel says the campaign adds to a $1.5 million a month Parscale contract
+**C-8790** Times of Israel says the campaign adds to a $1.5 million a month Parscale contract
 
 Claim Timestamp: 00:38:09
 
@@ -2035,7 +2035,7 @@ Investigative Direction: FARA filing for the Parscale contract.
 
 ---
 
-**C-11538** Times of Israel Says Bridges Partners Is Creating the Esther Project Influencer Network
+**C-8791** Times of Israel Says Bridges Partners Is Creating the Esther Project Influencer Network
 
 Claim Timestamp: 00:38:09
 
@@ -2051,7 +2051,7 @@ Investigative Direction: FARA filing for Bridges Partners.
 
 ---
 
-**C-11539** Times of Israel says the Foreign Ministry was allocated $150 million for public relations
+**C-8792** Times of Israel says the Foreign Ministry was allocated $150 million for public relations
 
 Claim Timestamp: 00:38:09
 
@@ -2066,7 +2066,7 @@ Investigative Direction: Israeli budget documents and the cited article.
 
 ---
 
-**C-11540** Host says the funeral was described by Erika Kirk as the event of the century
+**C-8793** Host says the funeral was described by Erika Kirk as the event of the century
 
 Claim Timestamp: 00:39:15
 
@@ -2082,7 +2082,7 @@ Investigative Direction: Find Erika Kirk's own statements using that phrase.
 
 ---
 
-**C-11541** Host says Kolvet did not name his geofencing partners so a Show Faith link is unconfirmed
+**C-8797** Host says Kolvet did not name his geofencing partners so a Show Faith link is unconfirmed
 
 Claim Timestamp: 00:40:35
 
@@ -2093,13 +2093,13 @@ Transcript Snippet: He didn't name who his partners were. Um so we don't know if
 Anchored Artifacts: A-2037.1
 Mentions: N-14
 Related Nodes: N-10653, N-10914
-Qualifies: C-2847
+Qualifies: C-8796
 Tags: relevance:core
 Investigative Direction: Ask Turning Point who supplied the memorial geotagging data.
 
 ---
 
-**C-11542** Host says Kolvet sat with Harmeet Dhillon at the White House Correspondents Dinner
+**C-8798** Host says Kolvet sat with Harmeet Dhillon at the White House Correspondents Dinner
 
 Claim Timestamp: 00:40:35
 
@@ -2115,7 +2115,7 @@ Investigative Direction: Obtain the WHCD seating chart and table assignments.
 
 ---
 
-**C-11543** Host says the filing targets Tucson, Phoenix and Las Vegas, a Turning Point hub
+**C-8799** Host says the filing targets Tucson, Phoenix and Las Vegas, a Turning Point hub
 
 Claim Timestamp: 00:41:16
 
@@ -2131,7 +2131,7 @@ Investigative Direction: Retrieve the FARA exhibit listing target markets.
 
 ---
 
-**C-11544** Host says she has not confirmed that the Show Faith company worked with a Turning Point partner
+**C-8800** Host says she has not confirmed that the Show Faith company worked with a Turning Point partner
 
 Claim Timestamp: 00:44:40
 
@@ -2147,7 +2147,7 @@ Investigative Direction: Identify the vendor Turning Point used for the memorial
 
 ---
 
-**C-11545** Host says Charlie spoke at Dream City Church once a month
+**C-8801** Host says Charlie spoke at Dream City Church once a month
 
 Claim Timestamp: 00:44:40
 
@@ -2163,7 +2163,7 @@ Investigative Direction: Dream City Church event calendar and Kirk's speaking da
 
 ---
 
-**C-11546** Host asks viewers for geofencing information at the tips addresses
+**C-8802** Host asks viewers for geofencing information at the tips addresses
 
 Claim Timestamp: 00:44:40
 
@@ -2179,7 +2179,7 @@ Investigative Direction: Review incoming tips on the geofencing vendor.
 
 ---
 
-**C-11547** Host says Daily Wire's last action against her was sent on Jeremy Boreing's birthday
+**C-8804** Host says Daily Wire's last action against her was sent on Jeremy Boreing's birthday
 
 Claim Timestamp: 00:48:19
 
@@ -2194,7 +2194,7 @@ Investigative Direction: Compare dates of the earlier filing with Boreing's birt
 
 ---
 
-**C-11548** Host Says Boreing's Focus on Himself and Neglect of Talent Led the Company Into Debt
+**C-8805** Host Says Boreing's Focus on Himself and Neglect of Talent Led the Company Into Debt
 
 Claim Timestamp: 00:48:19
 
@@ -2210,7 +2210,7 @@ Investigative Direction: Daily Wire financing disclosures.
 
 ---
 
-**C-11549** Host says she did not believe Harpole or Dan Flood were involved and defended them
+**C-8807** Host says she did not believe Harpole or Dan Flood were involved and defended them
 
 Claim Timestamp: 00:49:43
 
@@ -2226,7 +2226,7 @@ Investigative Direction: Review the host's earlier statements about Harpole and 
 
 ---
 
-**C-11550** Host says she had worked with Harpole and has generally gotten along with security people
+**C-8808** Host says she had worked with Harpole and has generally gotten along with security people
 
 Claim Timestamp: 00:49:43
 
@@ -2241,7 +2241,7 @@ Investigative Direction: Identify events or work where the host's team and Harpo
 
 ---
 
-**C-11551** Host hopes the lawsuit leads to access to the phones of Harpole, Flood and Erika Kirk and to footage
+**C-8809** Host hopes the lawsuit leads to access to the phones of Harpole, Flood and Erika Kirk and to footage
 
 Claim Timestamp: 00:50:30
 
@@ -2257,7 +2257,7 @@ Investigative Direction: Check discovery requests in the Harpole docket.
 
 ---
 
-**C-11552** Host says Turning Point USA possesses footage in 4K
+**C-8810** Host says Turning Point USA possesses footage in 4K
 
 Claim Timestamp: 00:50:30
 
@@ -2268,13 +2268,13 @@ Transcript Snippet: great thing there's footage in 4K that Turning Point USA is 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10000
-Supports: C-6487, C-9595
+Supports: C-1372, C-2423
 Tags: relevance:core
 Investigative Direction: Request the footage or confirm its custody with Turning Point and law enforcement.
 
 ---
 
-**C-11553** Host says her merch sales are on track for their biggest day
+**C-8811** Host says her merch sales are on track for their biggest day
 
 Claim Timestamp: 00:51:12
 
@@ -2289,7 +2289,7 @@ Investigative Direction: None; self-reported commercial figure.
 
 ---
 
-**C-11554** Host says the Blake Lively and Justin Baldoni case has settled
+**C-8812** Host says the Blake Lively and Justin Baldoni case has settled
 
 Claim Timestamp: 00:53:30
 
@@ -2305,7 +2305,7 @@ Investigative Direction: Court docket entry of dismissal or settlement.
 
 ---
 
-**C-11555** Host congratulates Bryan Freedman and PR professional Melissa Nathan
+**C-8813** Host congratulates Bryan Freedman and PR professional Melissa Nathan
 
 Claim Timestamp: 00:55:14
 
@@ -2321,7 +2321,7 @@ Investigative Direction: Docket entries listing counsel for Baldoni and Wayfarer
 
 ---
 
-**C-11556** Host asks if Ben Shapiro's uncle Zalman Shapiro took uranium to Israel
+**C-8814** Host asks if Ben Shapiro's uncle Zalman Shapiro took uranium to Israel
 
 Claim Timestamp: 00:56:47
 
@@ -2337,7 +2337,7 @@ Investigative Direction: Check the family relationship and the NUMEC records.
 
 ---
 
-**C-11557** Host says Zalman Shapiro was never found guilty
+**C-8815** Host says Zalman Shapiro was never found guilty
 
 Claim Timestamp: 00:57:40
 
@@ -2353,7 +2353,7 @@ Investigative Direction: Check the outcome of the NUMEC investigation.
 
 ---
 
-**C-11558** Host says it was not Tyler Robinson alone on a rooftop
+**C-8816** Host says it was not Tyler Robinson alone on a rooftop
 
 Claim Timestamp: 00:57:40
 
@@ -2364,13 +2364,13 @@ Transcript Snippet: we're definitely going to find out who was really behind the
 Anchored Artifacts: 
 Mentions: N-1, N-40
 Related Nodes: N-10655
-Supports: C-6520
+Supports: C-1958
 Tags: relevance:core
 Investigative Direction: Review the evidence record in the Robinson prosecution.
 
 ---
 
-**C-11559** Host says she was confirmed Catholic in Italy and received two relics
+**C-8817** Host says she was confirmed Catholic in Italy and received two relics
 
 Claim Timestamp: 00:59:13
 
@@ -2385,7 +2385,7 @@ Investigative Direction: None; personal religious event.
 
 ---
 
-**C-11560** Host says the president posted her photo the night of her confirmation
+**C-8818** Host says the president posted her photo the night of her confirmation
 
 Claim Timestamp: 00:59:13
 

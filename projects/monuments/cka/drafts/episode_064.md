@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep064): N-497, N-10689
   - Tip-minted Nodes (reintro-ep064): N-11000
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10d): C-9913–C-10010
+  - Claim Range: C-5683–C-5799
   - (see registers)
 
 # I. META-DATA
@@ -33,7 +33,6 @@
 **Episode 64 Ledger Summary**
 
 - Artifact Families Introduced: A-1686, A-1687, A-1688, A-1689
-- Claim Range: C-2206–C-2224
   - New Nodes Introduced: N-496, N-10448, N-10449, N-10450
   - Reused Nodes Appearing: N-10447, N-10446, N-14, N-22, N-36, N-97, N-195, N-201, N-221, N-231, N-361, N-470, N-493, N-10000, N-10027, N-10074, N-10238, N-10341, N-10342, N-10346, N-10416, N-10439, N-10452, N-10492, N-10548, N-10560, N-10899, N-10900, N-11014, N-11084, N-11092, N-11116, N-11180, N-11191, N-10554, N-11182, N-10561
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk – preserved as N-2 series entry; note: transcript renders "Erika" – see Optional Flags); N-261 (Terryl Farnsworth)
@@ -243,7 +242,7 @@ Video Timestamp: 00:24:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2206, C-2207, C-2220, N-186, N-261*
+*Related: C-5707, C-5734, C-5723, N-186, N-261*
 
 **A-1686.2** Main Address – "Family" Framing, Job-Safety Assurance, Self-Correction Around "Happy"
 
@@ -253,7 +252,7 @@ Video Timestamp: 00:17:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2206, C-2208, C-2209, C-2210, N-186, N-10448*
+*Related: C-5707, C-5729, C-5728, C-5730, N-186, N-10448*
 
 **A-1686.3** Closing Segment – "Be Soft With One Another," Airplane 15-Minute Story Attributed to "Usha," "So Sweet, God Bless You All"
 
@@ -263,7 +262,7 @@ Video Timestamp: 00:26:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2206, C-2211, C-2212, N-2, N-10448*
+*Related: C-5707, C-5737, C-5740, N-2, N-10448*
 
 **A-1687** TPUSA Board Announcement Letter Bundle
 
@@ -275,7 +274,7 @@ Video Timestamp: 00:09:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2213, C-2214, N-2, N-496*
+*Related: C-5708, C-5709, N-2, N-496*
 
 **A-1688** Jeremy Boreing Interview Clip Bundle
 
@@ -287,7 +286,7 @@ Video Timestamp: 00:39:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2215, N-366*
+*Related: C-5750, N-366*
 
 **A-1688.2** Boreing on Candace as "Nuclear Energy" Doing "An Incredible Amount of Damage"
 
@@ -297,7 +296,7 @@ Video Timestamp: 00:40:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2216, C-2221, N-366*
+*Related: C-5754, C-5755, N-366*
 
 **A-1688.3** Boreing Comparing Candace's Show to "Rhetorical Pornography"
 
@@ -307,7 +306,7 @@ Video Timestamp: 00:41:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2217, C-2222, N-366*
+*Related: C-5756, C-5760, N-366*
 
 **A-1688.4** Boreing Claiming Candace Said "I Believe What the People Believe" on Two Occasions
 
@@ -317,7 +316,7 @@ Video Timestamp: 00:44:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2218, C-2223, N-366*
+*Related: C-5761, C-5762, N-366*
 
 **A-1689** The Bulwark Podcast Clip Bundle
 
@@ -329,7 +328,7 @@ Video Timestamp: 00:47:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2219, C-2224, N-366, N-10449*
+*Related: C-5769, C-5770, N-366, N-10449*
 
 ---
 
@@ -342,7 +341,7 @@ Video Timestamp: 00:15:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9948, N-186, N-2*
+*Related: C-5721, N-186, N-2*
 
 ---
 
@@ -357,7 +356,7 @@ Video Timestamp: 00:31:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9966, N-14, N-195*
+*Related: C-5746, N-14, N-195*
 
 ---
 
@@ -372,7 +371,7 @@ Video Timestamp: 00:33:28
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9969, N-11191*
+*Related: C-5749, N-11191*
 
 ---
 
@@ -387,7 +386,7 @@ Video Timestamp: 00:58:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9999, N-3*
+*Related: C-5788, N-3*
 
 ---
 
@@ -402,7 +401,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1688.1, A-1688.2, A-1688.3, A-1688.4, A-1689.1, C-2215, C-2216, C-2217, C-2218, C-2219, C-2221, C-2222, C-2223, C-2224, N-10449*
+*Related: A-1688.1, A-1688.2, A-1688.3, A-1688.4, A-1689.1, C-5750, C-5754, C-5756, C-5761, C-5769, C-5755, C-5760, C-5762, C-5770, N-10449*
 
 **N-186** Stacy Sheridan
 
@@ -413,7 +412,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1686.2, C-2208*
+*Related: A-1686.2, C-5729*
 
 **N-496** Doug DeGroote
 
@@ -424,7 +423,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1687.1, C-2213, C-2214*
+*Related: A-1687.1, C-5708, C-5709*
 
 **N-261** Terryl Farnsworth
 
@@ -435,7 +434,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1686.1, C-2220*
+*Related: A-1686.1, C-5723*
 
 **N-10446** Hamptons Summit / Netanyahu Funding Offer Discrepancy
 
@@ -468,7 +467,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1686.2, A-1686.3, C-2207, C-2208, C-2209, C-2210, C-2211, N-2*
+*Related: A-1686.2, A-1686.3, C-5734, C-5729, C-5728, C-5730, C-5737, N-2*
 
 **N-10449** Daily Wire Hungary Production Expenditure Investigation
 
@@ -479,7 +478,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1689.1, C-2219, C-2224, N-366*
+*Related: A-1689.1, C-5769, C-5770, N-366*
 
 **N-10450** Fort Huachuca PR Response Coordination Question
 
@@ -498,7 +497,7 @@ Investigative Pressure: Medium
 
 Subject of the assassination; his statements, family and the memorial are cited.
 
-*Related: C-9925, C-9926, C-9930, C-9937, C-9941, C-9944, C-9945, C-9946, C-9952, C-9953, C-9957, C-9960, C-9961, C-10004, C-10007*
+*Related: C-5695, C-5696, C-5700, C-5710, C-5714, C-5717, C-5718, C-5719, C-5726, C-5727, C-5735, C-5739, C-5741, C-5793, C-5796*
 
 ---
 
@@ -506,7 +505,7 @@ Subject of the assassination; his statements, family and the memorial are cited.
 
 Employer in the firing, call and PR claims.
 
-*Related: C-9913, C-9930, C-9939, C-9949, C-9950, C-9961, C-9962, C-9968, C-9991, C-10000, C-10001, C-10004, C-10007*
+*Related: C-5683, C-5700, C-5712, C-5722, C-5724, C-5741, C-5742, C-5748, C-5780, C-5789, C-5790, C-5793, C-5796*
 
 ---
 
@@ -514,7 +513,7 @@ Employer in the firing, call and PR claims.
 
 Location of the retreat where the Netanyahu call occurred.
 
-*Related: C-9923, C-9926*
+*Related: C-5693, C-5696*
 
 ---
 
@@ -522,7 +521,7 @@ Location of the retreat where the Netanyahu call occurred.
 
 Airport where the host says Kolvet and Erika met on the tarmac.
 
-*Related: C-9932*
+*Related: C-5702*
 
 ---
 
@@ -530,7 +529,7 @@ Airport where the host says Kolvet and Erika met on the tarmac.
 
 Existing topic reused for new claims.
 
-*Related: C-9991, C-9992, C-9993*
+*Related: C-5780, C-5781, C-5782*
 
 ---
 
@@ -538,7 +537,7 @@ Existing topic reused for new claims.
 
 Existing topic reused for new claims.
 
-*Related: C-9918, C-9920, C-9966*
+*Related: C-5688, C-5690, C-5746*
 
 ---
 
@@ -546,7 +545,7 @@ Existing topic reused for new claims.
 
 Existing topic reused for new claims.
 
-*Related: C-9924*
+*Related: C-5694*
 
 ---
 
@@ -554,7 +553,7 @@ Existing topic reused for new claims.
 
 Existing topic reused for new claims.
 
-*Related: C-9951*
+*Related: C-5725*
 
 ---
 
@@ -562,7 +561,7 @@ Existing topic reused for new claims.
 
 Existing topic reused for new claims.
 
-*Related: C-9991, C-9992, C-9993*
+*Related: C-5780, C-5781, C-5782*
 
 ---
 
@@ -570,7 +569,7 @@ Existing topic reused for new claims.
 
 Existing topic reused for new claims.
 
-*Related: C-9967*
+*Related: C-5747*
 
 ---
 
@@ -578,7 +577,7 @@ Existing topic reused for new claims.
 
 Existing topic reused for new claims.
 
-*Related: C-10008*
+*Related: C-5797*
 
 ---
 
@@ -586,7 +585,7 @@ Existing topic reused for new claims.
 
 Existing topic reused for new claims.
 
-*Related: C-9916, C-9949, C-9950, C-9956, C-9958, C-9962, C-9967*
+*Related: C-5686, C-5722, C-5724, C-5733, C-5736, C-5742, C-5747*
 
 ---
 
@@ -594,7 +593,7 @@ Existing topic reused for new claims.
 
 Existing topic reused for new claims.
 
-*Related: C-9932, C-9933, C-9934, C-9935*
+*Related: C-5702, C-5703, C-5704, C-5705*
 
 ---
 
@@ -602,7 +601,7 @@ Existing topic reused for new claims.
 
 Existing topic reused for new claims.
 
-*Related: C-9932, C-9933*
+*Related: C-5702, C-5703*
 
 ---
 
@@ -610,7 +609,7 @@ Existing topic reused for new claims.
 
 Existing topic reused for new claims.
 
-*Related: C-9934, C-9935, C-9936*
+*Related: C-5704, C-5705, C-5706*
 
 ---
 
@@ -618,7 +617,7 @@ Existing topic reused for new claims.
 
 Existing topic reused for new claims.
 
-*Related: C-9943*
+*Related: C-5716*
 
 ---
 
@@ -626,7 +625,7 @@ Existing topic reused for new claims.
 
 Existing topic reused for new claims.
 
-*Related: C-9978, C-9980, C-9981*
+*Related: C-5765, C-5767, C-5768*
 
 ---
 
@@ -634,7 +633,7 @@ Existing topic reused for new claims.
 
 Gary Melton's YouTube channel that handled the Fort Huachuca response and appeared on Kirk's show.
 
-*Related: C-9928, C-9929, C-9930*
+*Related: C-5698, C-5699, C-5700*
 
 ---
 
@@ -642,7 +641,7 @@ Gary Melton's YouTube channel that handled the Fort Huachuca response and appear
 
 Company at the center of the Boreing allegations.
 
-*Related: C-9977, C-9978, C-9979, C-9988, C-9989, C-9990, C-9994, C-9995, C-9996, C-9997, C-10006, C-10009*
+*Related: C-5764, C-5765, C-5766, C-5777, C-5778, C-5779, C-5783, C-5784, C-5785, C-5786, C-5795, C-5798*
 
 ---
 
@@ -650,7 +649,7 @@ Company at the center of the Boreing allegations.
 
 Existing topic reused for new claims.
 
-*Related: C-9937*
+*Related: C-5710*
 
 ---
 
@@ -658,7 +657,7 @@ Existing topic reused for new claims.
 
 Existing topic reused for new claims.
 
-*Related: C-9961*
+*Related: C-5741*
 
 ---
 
@@ -666,7 +665,7 @@ Existing topic reused for new claims.
 
 Existing topic reused for new claims.
 
-*Related: C-9916, C-9956, C-9958, C-10001*
+*Related: C-5686, C-5733, C-5736, C-5790*
 
 ---
 
@@ -674,7 +673,7 @@ Existing topic reused for new claims.
 
 Existing topic reused for new claims.
 
-*Related: C-9937, C-9938, C-9939*
+*Related: C-5710, C-5711, C-5712*
 
 ---
 
@@ -682,7 +681,7 @@ Existing topic reused for new claims.
 
 Existing topic reused for new claims.
 
-*Related: C-9970, C-9975, C-9984, C-9985, C-9986, C-9987, C-9988, C-10008*
+*Related: C-5751, C-5759, C-5773, C-5774, C-5775, C-5776, C-5777, C-5797*
 
 ---
 
@@ -690,7 +689,7 @@ Existing topic reused for new claims.
 
 Existing topic reused for new claims.
 
-*Related: C-9968, C-10004*
+*Related: C-5748, C-5793*
 
 ---
 
@@ -698,7 +697,7 @@ Existing topic reused for new claims.
 
 Existing organization reused for new claims.
 
-*Related: C-9917, C-9963*
+*Related: C-5687, C-5743*
 
 ---
 
@@ -706,7 +705,7 @@ Existing organization reused for new claims.
 
 Sponsor of the ad read.
 
-*Related: C-9969*
+*Related: C-5749*
 
 ---
 
@@ -714,7 +713,7 @@ Sponsor of the ad read.
 
 TPUSA spokesperson (transcribed Kolbint, Kolbenschlag, Kolb, Callaway); his tarmac, surgeon and Netanyahu accounts are discussed.
 
-*Related: C-9918, C-9919, C-9920, C-9921, C-9924, C-9926, C-9927, C-9931, C-9932, C-9933, C-9934, C-9935, C-9936, C-9937, C-9963, C-9964, C-9965, C-9966, C-10003*
+*Related: C-5688, C-5689, C-5690, C-5691, C-5694, C-5696, C-5697, C-5701, C-5702, C-5703, C-5704, C-5705, C-5706, C-5710, C-5743, C-5744, C-5745, C-5746, C-5792*
 
 ---
 
@@ -722,7 +721,7 @@ TPUSA spokesperson (transcribed Kolbint, Kolbenschlag, Kolb, Callaway); his tarm
 
 Surgeon at the center of the three-way call dispute.
 
-*Related: C-9918, C-9919, C-9920, C-9922, C-9965*
+*Related: C-5688, C-5689, C-5690, C-5692, C-5745*
 
 ---
 
@@ -730,7 +729,7 @@ Surgeon at the center of the three-way call dispute.
 
 Widow and TPUSA CEO; her September 16 call, accounts to the host and role in PR are discussed.
 
-*Related: C-9913, C-9917, C-9918, C-9919, C-9920, C-9921, C-9922, C-9923, C-9925, C-9927, C-9928, C-9931, C-9932, C-9934, C-9935, C-9936, C-9937, C-9938, C-9939, C-9940, C-9942, C-9943, C-9945, C-9947, C-9948, C-9952, C-9953, C-9954, C-9955, C-9957, C-9958, C-9959, C-9960, C-9963, C-9964, C-9965, C-10000, C-10002, C-10003, C-10007*
+*Related: C-5683, C-5687, C-5688, C-5689, C-5690, C-5691, C-5692, C-5693, C-5695, C-5697, C-5698, C-5701, C-5702, C-5704, C-5705, C-5706, C-5710, C-5711, C-5712, C-5713, C-5715, C-5716, C-5718, C-5720, C-5721, C-5726, C-5727, C-5731, C-5732, C-5735, C-5736, C-5738, C-5739, C-5743, C-5744, C-5745, C-5789, C-5791, C-5792, C-5796*
 
 ---
 
@@ -738,7 +737,7 @@ Widow and TPUSA CEO; her September 16 call, accounts to the host and role in PR 
 
 Named in the host's account of management's suspicion.
 
-*Related: C-9986*
+*Related: C-5775*
 
 ---
 
@@ -746,7 +745,7 @@ Named in the host's account of management's suspicion.
 
 Named in Boreing's alleged comparison and in management's alleged suspicion of the host.
 
-*Related: C-9914, C-9986*
+*Related: C-5684, C-5775*
 
 ---
 
@@ -754,7 +753,7 @@ Named in Boreing's alleged comparison and in management's alleged suspicion of t
 
 Former Daily Wire employee whose departure the host discusses.
 
-*Related: C-9994, C-9995, C-9996, C-9997*
+*Related: C-5783, C-5784, C-5785, C-5786*
 
 ---
 
@@ -762,7 +761,7 @@ Former Daily Wire employee whose departure the host discusses.
 
 Daily Wire host whose episode Boreing allegedly reviewed.
 
-*Related: C-9989*
+*Related: C-5778*
 
 ---
 
@@ -770,7 +769,7 @@ Daily Wire host whose episode Boreing allegedly reviewed.
 
 Host; speaks for herself.
 
-*Related: C-9913, C-9914, C-9915, C-9916, C-9917, C-9918, C-9919, C-9920, C-9921, C-9922, C-9923, C-9924, C-9925, C-9926, C-9927, C-9928, C-9929, C-9930, C-9931, C-9932, C-9933, C-9934, C-9937, C-9938, C-9939, C-9940, C-9941, C-9942, C-9943, C-9944, C-9946, C-9947, C-9948, C-9949, C-9950, C-9951, C-9956, C-9957, C-9958, C-9961, C-9962, C-9963, C-9964, C-9965, C-9966, C-9967, C-9968, C-9970, C-9971, C-9972, C-9973, C-9974, C-9975, C-9976, C-9977, C-9978, C-9979, C-9980, C-9981, C-9983, C-9984, C-9985, C-9986, C-9987, C-9988, C-9989, C-9990, C-9991, C-9992, C-9993, C-9994, C-9995, C-9996, C-9997, C-9998, C-9999, C-10000, C-10001, C-10002, C-10003, C-10004, C-10005, C-10006, C-10007, C-10008, C-10009, C-10010*
+*Related: C-5683, C-5684, C-5685, C-5686, C-5687, C-5688, C-5689, C-5690, C-5691, C-5692, C-5693, C-5694, C-5695, C-5696, C-5697, C-5698, C-5699, C-5700, C-5701, C-5702, C-5703, C-5704, C-5710, C-5711, C-5712, C-5713, C-5714, C-5715, C-5716, C-5717, C-5719, C-5720, C-5721, C-5722, C-5724, C-5725, C-5733, C-5735, C-5736, C-5741, C-5742, C-5743, C-5744, C-5745, C-5746, C-5747, C-5748, C-5751, C-5752, C-5753, C-5757, C-5758, C-5759, C-5763, C-5764, C-5765, C-5766, C-5767, C-5768, C-5772, C-5773, C-5774, C-5775, C-5776, C-5777, C-5778, C-5779, C-5780, C-5781, C-5782, C-5783, C-5784, C-5785, C-5786, C-5787, C-5788, C-5789, C-5790, C-5791, C-5792, C-5793, C-5794, C-5795, C-5796, C-5797, C-5798, C-5799*
 
 ---
 
@@ -778,7 +777,7 @@ Host; speaks for herself.
 
 Caller at the Hamptons retreat and subject of the funding-offer dispute.
 
-*Related: C-9923, C-9924, C-9925*
+*Related: C-5693, C-5694, C-5695*
 
 ---
 
@@ -786,7 +785,7 @@ Caller at the Hamptons retreat and subject of the funding-offer dispute.
 
 Likely subject of 'Mitch's entire past' as dug into by Paramount Tactical (transcribed with McConnell).
 
-*Related: C-9929*
+*Related: C-5699*
 
 ---
 
@@ -794,7 +793,7 @@ Likely subject of 'Mitch's entire past' as dug into by Paramount Tactical (trans
 
 Chicago-area man the host says was wrongly pictured as Bob Ferguson in the prior episode.
 
-*Related: C-9915*
+*Related: C-5685*
 
 ---
 
@@ -802,7 +801,7 @@ Chicago-area man the host says was wrongly pictured as Bob Ferguson in the prior
 
 Host calls her Marina, the COO, and Marina Minas; accused of loyalty-test firings.
 
-*Related: C-9967, C-10000*
+*Related: C-5747, C-5789*
 
 ---
 
@@ -810,7 +809,7 @@ Host calls her Marina, the COO, and Marina Minas; accused of loyalty-test firing
 
 Next-day guest; Daily Wire allegedly denied the host's request to host him.
 
-*Related: C-10009, C-10010*
+*Related: C-5798, C-5799*
 
 ---
 
@@ -818,7 +817,7 @@ Next-day guest; Daily Wire allegedly denied the host's request to host him.
 
 Named in the host's account of her Daily Wire exit and Boreing's loan.
 
-*Related: C-9981, C-9985*
+*Related: C-5768, C-5774*
 
 ---
 
@@ -826,7 +825,7 @@ Named in the host's account of her Daily Wire exit and Boreing's loan.
 
 First named by the host at 00:01:26 in episode 64. Iowa man wrongly pictured in the prior episode as Bob Flood; the host says he has nothing to do with the story and apologizes.
 
-*Related: C-9915*
+*Related: C-5685*
 
 ---
 
@@ -835,7 +834,7 @@ First named by the host at 00:01:26 in episode 64. Iowa man wrongly pictured in 
 Node Type: Topic
 The host's questions about who accompanied Erika Kirk in Utah on September 10 and afterward, including the claim that no relatives were present and Stacy Sheridan was beside her.
 
-*Related: C-9940, C-9941, C-9942, C-9943, C-9944, C-9945, C-9947, C-9948*
+*Related: C-5713, C-5714, C-5715, C-5716, C-5717, C-5718, C-5720, C-5721*
 
 ---
 
@@ -844,13 +843,13 @@ The host's questions about who accompanied Erika Kirk in Utah on September 10 an
 Node Type: Topic
 The host's allegations about Jeremy Boreing's handling of Brett Cooper's departure before her wedding, the maid of honor offer, the smear and the lawsuit against the host.
 
-*Related: C-9994, C-9995, C-9996, C-9997*
+*Related: C-5783, C-5784, C-5785, C-5786*
 
 ---
 
 # V. CLAIM REGISTER
 
-**C-2206** Host Says Erika Kirk Hosted TPUSA Corporate Zoom Call on September 16, 2025
+**C-5707** Host Says Erika Kirk Hosted TPUSA Corporate Zoom Call on September 16, 2025
 
 Claim Timestamp: 00:08:40
 
@@ -863,7 +862,7 @@ Related Nodes: N-10448
 
 Investigative Direction: Verify call metadata, attendee list, and recording provenance; cross-reference against the September 17 public board announcement (A-1687.1).
 
-**C-2207** Erika Kirk's Sept 16 Call Opened With Laughter and Visible "Thumbs Up" Reactions
+**C-5734** Erika Kirk's Sept 16 Call Opened With Laughter and Visible "Thumbs Up" Reactions
 
 Claim Timestamp: 00:23:52
 
@@ -876,7 +875,7 @@ Related Nodes: N-10448
 
 Investigative Direction: Obtain unedited full recording; confirm reaction icons, laughter timing, and participant count.
 
-**C-2208** Erika Kirk Framed TPUSA Staff as "Family" on Sept 16 Call
+**C-5729** Erika Kirk Framed TPUSA Staff as "Family" on Sept 16 Call
 
 Claim Timestamp: 00:19:09
 
@@ -889,7 +888,7 @@ Related Nodes: N-10448
 
 Investigative Direction: Compile every instance of "family" usage; obtain termination records of named attendees to verify the host's juxtaposition.
 
-**C-2209** Erika Kirk Promised Job Security to TPUSA Staff on Sept 16 Call
+**C-5728** Erika Kirk Promised Job Security to TPUSA Staff on Sept 16 Call
 
 Claim Timestamp: 00:19:00
 
@@ -902,7 +901,7 @@ Related Nodes: N-10448
 
 Investigative Direction: Cross-reference against TPUSA termination data from Q4 2025 onward; identify whether attendees retained employment.
 
-**C-2210** Host Says Erika Kirk Self-Corrected to Avoid the Word "Happy" About Charlie on Sept 16 Call
+**C-5730** Host Says Erika Kirk Self-Corrected to Avoid the Word "Happy" About Charlie on Sept 16 Call
 
 Claim Timestamp: 00:20:00
 
@@ -915,7 +914,7 @@ Related Nodes: N-10448
 
 Investigative Direction: Obtain unedited recording; confirm whether the self-correction is verbatim as transcribed.
 
-**C-2211** Erika Kirk's Sept 16 Call Included "Be Soft With One Another in Ways Differently"
+**C-5737** Erika Kirk's Sept 16 Call Included "Be Soft With One Another in Ways Differently"
 
 Claim Timestamp: 00:27:13
 
@@ -928,7 +927,7 @@ Related Nodes: N-10448
 
 Investigative Direction: Verify exact phrasing on unedited recording; trace adoption timeline of the "everybody grieves differently" framing across TPUSA communications.
 
-**C-2212** Erika Kirk's Sept 16 Call Included "15 Minutes Before Landing" Analogy Attributed to "Usha"
+**C-5740** Erika Kirk's Sept 16 Call Included "15 Minutes Before Landing" Analogy Attributed to "Usha"
 
 Claim Timestamp: 00:28:01
 
@@ -941,7 +940,7 @@ Related Nodes: N-10448
 
 Investigative Direction: Identify the "Usha" referenced; verify identity and whether the analogy was shared privately on the tarmac as Erika describes.
 
-**C-2213** TPUSA Board Announcement Letter (Sept 17) Was Signed Off by Doug DeGroote
+**C-5708** TPUSA Board Announcement Letter (Sept 17) Was Signed Off by Doug DeGroote
 
 Claim Timestamp: 00:09:08
 
@@ -953,7 +952,7 @@ Mentions: N-496, N-2
 
 Investigative Direction: Obtain original signed letter; verify Doug DeGroote's role on the TPUSA board at the time of issuance.
 
-**C-2214** TPUSA Board Letter Invoked Ecclesiastes and Framed the Appointment as Divinely Ordained
+**C-5709** TPUSA Board Letter Invoked Ecclesiastes and Framed the Appointment as Divinely Ordained
 
 Claim Timestamp: 00:09:08
 
@@ -965,7 +964,7 @@ Mentions: N-2
 
 Investigative Direction: Verify exact wording against original letter; document all subsequent TPUSA communications invoking similar framing.
 
-**C-2215** Jeremy Boreing Described Hiring Candace Owens as His "Biggest Professional Mistake"
+**C-5750** Jeremy Boreing Described Hiring Candace Owens as His "Biggest Professional Mistake"
 
 Claim Timestamp: 00:39:00
 
@@ -977,7 +976,7 @@ Mentions: N-366, N-3
 
 Investigative Direction: Identify the source podcast and episode date; verify Boreing's full context for the statement.
 
-**C-2216** Jeremy Boreing Characterized Candace Owens as "Nuclear Energy" Capable of "Flattening a City"
+**C-5754** Jeremy Boreing Characterized Candace Owens as "Nuclear Energy" Capable of "Flattening a City"
 
 Claim Timestamp: 00:39:57
 
@@ -989,7 +988,7 @@ Mentions: N-366, N-3
 
 Investigative Direction: Identify source podcast and date; verify exact quote and surrounding context.
 
-**C-2217** Jeremy Boreing Compared Candace Owens's Show to "Rhetorical Pornography"
+**C-5756** Jeremy Boreing Compared Candace Owens's Show to "Rhetorical Pornography"
 
 Claim Timestamp: 00:41:59
 
@@ -1001,7 +1000,7 @@ Mentions: N-366, N-3, N-2, N-1
 
 Investigative Direction: Identify source podcast and date; verify quote against full unedited clip.
 
-**C-2218** Jeremy Boreing Claimed Candace Said "I Believe What the People Believe" on Two Occasions
+**C-5761** Jeremy Boreing Claimed Candace Said "I Believe What the People Believe" on Two Occasions
 
 Claim Timestamp: 00:44:36
 
@@ -1013,7 +1012,7 @@ Mentions: N-366, N-3
 
 Investigative Direction: Identify source podcast and date; verify whether Candace Owens has ever publicly responded to or denied this characterization.
 
-**C-2219** The Bulwark Reported Daily Wire Production Involved 100+ Extras in a Hungarian Marsh, Travel to Italy, and Bulls Imported From Spain
+**C-5769** The Bulwark Reported Daily Wire Production Involved 100+ Extras in a Hungarian Marsh, Travel to Italy, and Bulls Imported From Spain
 
 Claim Timestamp: 00:47:50
 
@@ -1026,7 +1025,7 @@ Related Nodes: N-10449
 
 Investigative Direction: Identify the Bulwark episode and date; verify whether Daily Wire or Boreing has disputed these production details.
 
-**C-2220** Terryl Farnsworth Was in the Background of the Sept 16 TPUSA Call
+**C-5723** Terryl Farnsworth Was in the Background of the Sept 16 TPUSA Call
 
 Claim Timestamp: 00:16:46
 
@@ -1038,7 +1037,7 @@ Mentions: N-261
 
 Investigative Direction: Confirm Terryl Farnsworth's identity and role at TPUSA at the time of the call; verify whether he was a scheduled participant.
 
-**C-2221** Host Calls Boreing's BLM-Era Hiring Remarks "Objectively Racist"
+**C-5755** Host Calls Boreing's BLM-Era Hiring Remarks "Objectively Racist"
 
 Claim Timestamp: 00:40:30
 
@@ -1050,7 +1049,7 @@ Mentions: N-366, N-3
 
 Investigative Direction: Evaluate the host's interpretive claim against the verbatim Boreing quote; consider whether Boreing's prior public statements confirm or rebut this framing.
 
-**C-2222** Host Rejects Boreing's "Rhetorical Pornography" Comparison
+**C-5760** Host Rejects Boreing's "Rhetorical Pornography" Comparison
 
 Claim Timestamp: 00:43:08
 
@@ -1062,7 +1061,7 @@ Mentions: N-366, N-3
 
 Investigative Direction: Document the factual claims about Israeli sexual blackmail and Gaza pornography broadcasts; identify primary sources for each.
 
-**C-2223** Host Says Boreing's "I Believe What the People Believe" Account Is Made Up
+**C-5762** Host Says Boreing's "I Believe What the People Believe" Account Is Made Up
 
 Claim Timestamp: 00:44:36
 
@@ -1074,7 +1073,7 @@ Mentions: N-366, N-3
 
 Investigative Direction: Compare Boreing's account against any other contemporaneous documentation of the alleged conversations.
 
-**C-2224** Host Concurs With Bulwark Reporting on Daily Wire Hungary Production Costs
+**C-5770** Host Concurs With Bulwark Reporting on Daily Wire Hungary Production Costs
 
 Claim Timestamp: 00:48:28
 
@@ -1089,7 +1088,7 @@ Investigative Direction: Identify any public Daily Wire financial disclosures or
 
 ---
 
-**C-9913** Host Says Everybody Grieves Differently Was First Used Inside TPUSA on the Sept 16 Call
+**C-5683** Host Says Everybody Grieves Differently Was First Used Inside TPUSA on the Sept 16 Call
 
 Claim Timestamp: 00:00:00
 
@@ -1100,13 +1099,13 @@ Transcript Snippet: who actually uttered that expression first over at Turning P
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10000, N-10448
-Supports: C-2211
+Supports: C-5737
 Tags: relevance:core
 Investigative Direction: Obtain the full recording of the September 16 call and search the transcript for the phrase 'grieves differently'; compare with the first public use by TPUSA-aligned accounts.
 
 ---
 
-**C-9914** Host Says Boreing Compared Her and Tucker Carlson to Antifa and Her Show to Pornography
+**C-5684** Host Says Boreing Compared Her and Tucker Carlson to Antifa and Her Show to Pornography
 
 Claim Timestamp: 00:00:52
 
@@ -1122,7 +1121,7 @@ Investigative Direction: Locate the Boreing podcast interview and check whether 
 
 ---
 
-**C-9915** Host Corrects Photo: Man Shown Was Bob Ferguson of Iowa, Not Bob Flood of Chicago
+**C-5685** Host Corrects Photo: Man Shown Was Bob Ferguson of Iowa, Not Bob Flood of Chicago
 
 Claim Timestamp: 00:01:26
 
@@ -1138,7 +1137,7 @@ Investigative Direction: Compare the removed segment of the prior episode with t
 
 ---
 
-**C-9916** Host Says She Spoke With Fired Employees Who Were Not Her Leakers
+**C-5686** Host Says She Spoke With Fired Employees Who Were Not Her Leakers
 
 Claim Timestamp: 00:02:22
 
@@ -1149,13 +1148,13 @@ Transcript Snippet: after now speaking with employees who were let go in this re
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11084, N-10492
-Supports: C-6986
+Supports: C-5603
 Tags: relevance:core
 Investigative Direction: Obtain the names of the separated employees (from the host or former staff) and TPUSA separation records to test whether any leaked to the host.
 
 ---
 
-**C-9917** Host Says Erika Was Intimately Involved in the PR Campaign Against Her
+**C-5687** Host Says Erika Was Intimately Involved in the PR Campaign Against Her
 
 Claim Timestamp: 00:02:22
 
@@ -1171,7 +1170,7 @@ Investigative Direction: Identify the PR firm or agency engaged by TPUSA and any
 
 ---
 
-**C-9918** Host Says Erika Lied to Her Face About Superman Neck and Blamed Kolvet
+**C-5688** Host Says Erika Lied to Her Face About Superman Neck and Blamed Kolvet
 
 Claim Timestamp: 00:02:22
 
@@ -1182,13 +1181,13 @@ Transcript Snippet: She lied to my face actually regarding the Superman neck. Sh
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-14, N-195
 Related Nodes: N-10447, N-10341
-Supports: C-6824
+Supports: C-4542
 Tags: relevance:core
 Investigative Direction: Compare the host's notes or recording of the private meeting with Erika Kirk against Kolvet's surgeon post and any statement from Dr. Trotter.
 
 ---
 
-**C-9919** Host Says Erika Claimed the Two Men Violated HIPAA Without Her Knowledge
+**C-5689** Host Says Erika Claimed the Two Men Violated HIPAA Without Her Knowledge
 
 Claim Timestamp: 00:02:22
 
@@ -1204,7 +1203,7 @@ Investigative Direction: Obtain the recording or notes of the private meeting an
 
 ---
 
-**C-9920** Host Says It Was a Three-Way Call and the Superman Neck Statement Came From Erika
+**C-5690** Host Says It Was a Three-Way Call and the Superman Neck Statement Came From Erika
 
 Claim Timestamp: 00:02:22
 
@@ -1215,13 +1214,13 @@ Transcript Snippet: It was actually a three-way call and the statement pertainin
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-195
 Related Nodes: N-10447, N-10341
-Supports: C-5403
+Supports: C-4425
 Tags: relevance:core
 Investigative Direction: Obtain call records for the three-way call and the surgeon's account, and compare with the wording of Kolvet's post.
 
 ---
 
-**C-9921** Host Says Kolvet Was Doing Erika's Bidding and Taking a Bullet for Her
+**C-5691** Host Says Kolvet Was Doing Erika's Bidding and Taking a Bullet for Her
 
 Claim Timestamp: 00:02:22
 
@@ -1232,13 +1231,13 @@ Transcript Snippet: Andrew Kolbint in that regard was doing Erika's bidding. He 
 Anchored Artifacts: 
 Mentions: N-14, N-2, N-3
 Related Nodes: N-10447
-Supports: C-9920
+Supports: C-5690
 Tags: relevance:core
 Investigative Direction: Look for messages between Kolvet and Erika Kirk around the surgeon call that show who authorized the post.
 
 ---
 
-**C-9922** Host Says Erika Knew She Was on the Call and Did Not Misspeak
+**C-5692** Host Says Erika Knew She Was on the Call and Did Not Misspeak
 
 Claim Timestamp: 00:03:39
 
@@ -1249,13 +1248,13 @@ Transcript Snippet: She lied to the doctor, a surgeon, and she knew that she was
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-195
 Related Nodes: N-10447
-Supports: C-9918
+Supports: C-5688
 Tags: relevance:core
 Investigative Direction: Interview the surgeon or his intermediary and obtain phone records for the day of the call.
 
 ---
 
-**C-9923** Host Says Erika Was Confirmed Present at the Hamptons Retreat When Netanyahu Called
+**C-5693** Host Says Erika Was Confirmed Present at the Hamptons Retreat When Netanyahu Called
 
 Claim Timestamp: 00:03:39
 
@@ -1271,7 +1270,7 @@ Investigative Direction: Obtain the attendee list and travel records for the Aug
 
 ---
 
-**C-9924** Host Says Two Unrelated People Confirmed Kolvet's Account of the Netanyahu Funding Offer
+**C-5694** Host Says Two Unrelated People Confirmed Kolvet's Account of the Netanyahu Funding Offer
 
 Claim Timestamp: 00:03:39
 
@@ -1282,13 +1281,13 @@ Transcript Snippet: I have since confirmed what Andrew Kolvet said with two peop
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-36
 Related Nodes: N-10342, N-10446
-Supports: C-1938
+Supports: C-4114
 Tags: relevance:core
 Investigative Direction: Obtain the two confirming sources' accounts (anonymized if necessary) and Kolvet's original statement.
 
 ---
 
-**C-9925** Host Says Erika Recalls No Offer and Says Bibi Called About Charlie's May Letter
+**C-5695** Host Says Erika Recalls No Offer and Says Bibi Called About Charlie's May Letter
 
 Claim Timestamp: 00:04:25
 
@@ -1299,13 +1298,13 @@ Transcript Snippet: She says that there was not an offer that was made and that 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-36, N-1
 Related Nodes: N-10446
-Contradicts: C-1938
+Contradicts: C-4114
 Tags: relevance:core
 Investigative Direction: Compare Erika Kirk's account with Kolvet's and with the May 2025 letter released by Netanyahu's office.
 
 ---
 
-**C-9926** Host Says Kolvet Told Her Charlie Called the Summit an Intervention Over Israel
+**C-5696** Host Says Kolvet Told Her Charlie Called the Summit an Intervention Over Israel
 
 Claim Timestamp: 00:04:25
 
@@ -1316,13 +1315,13 @@ Transcript Snippet: Andrew uh confirmed to me that Charlie described that summit
 Anchored Artifacts: 
 Mentions: N-14, N-1, N-3
 Related Nodes: N-10027, N-10446
-Supports: C-1128
+Supports: C-79
 Tags: relevance:core
 Investigative Direction: Obtain Kolvet's original account and any contemporaneous messages in which Charlie Kirk characterized the summit.
 
 ---
 
-**C-9927** Host Says Erika and Kolvet Worked Together on the Fort Huachuca PR Response
+**C-5697** Host Says Erika and Kolvet Worked Together on the Fort Huachuca PR Response
 
 Claim Timestamp: 00:05:18
 
@@ -1338,7 +1337,7 @@ Investigative Direction: Identify who drafted and approved the Fort Huachuca res
 
 ---
 
-**C-9928** Host Says the Response Went Through Paramount Tactical Rather Than to Her After Their Four-Hour Meeting
+**C-5698** Host Says the Response Went Through Paramount Tactical Rather Than to Her After Their Four-Hour Meeting
 
 Claim Timestamp: 00:05:18
 
@@ -1354,7 +1353,7 @@ Investigative Direction: Obtain communications between TPUSA and Paramount Tacti
 
 ---
 
-**C-9929** Host Says Paramount Tactical Also Dug Into Mitch's Entire Past
+**C-5699** Host Says Paramount Tactical Also Dug Into Mitch's Entire Past
 
 Claim Timestamp: 00:05:18
 
@@ -1370,7 +1369,7 @@ Investigative Direction: Confirm which Mitch is meant (Mitch Snow is the likely 
 
 ---
 
-**C-9930** Host Says TPUSA Welcomed Paramount Tactical Onto Charlie Kirk's Show While She Was in a Hotel
+**C-5700** Host Says TPUSA Welcomed Paramount Tactical Onto Charlie Kirk's Show While She Was in a Hotel
 
 Claim Timestamp: 00:06:09
 
@@ -1386,7 +1385,7 @@ Investigative Direction: Find the Charlie Kirk Show episode with Paramount Tacti
 
 ---
 
-**C-9931** Host Says Kolvet Was Caught Live Messaging From Erika After She Said He Was Out of PR
+**C-5701** Host Says Kolvet Was Caught Live Messaging From Erika After She Said He Was Out of PR
 
 Claim Timestamp: 00:06:09
 
@@ -1402,7 +1401,7 @@ Investigative Direction: Identify the livestream in which Kolvet was seen messag
 
 ---
 
-**C-9932** Host Says Kolvet Told Her He Collapsed Crying Into Erika's Arms on the Provo Tarmac
+**C-5702** Host Says Kolvet Told Her He Collapsed Crying Into Erika's Arms on the Provo Tarmac
 
 Claim Timestamp: 00:06:09
 
@@ -1418,7 +1417,7 @@ Investigative Direction: Obtain airport video, flight records and eyewitness acc
 
 ---
 
-**C-9933** Host Says She Was Led to Think Kolvet Flew Alone, Then Was Told His Wife Was Aboard
+**C-5703** Host Says She Was Led to Think Kolvet Flew Alone, Then Was Told His Wife Was Aboard
 
 Claim Timestamp: 00:06:09
 
@@ -1434,7 +1433,7 @@ Investigative Direction: Obtain the passenger manifest for Kolvet's September 10
 
 ---
 
-**C-9934** Host Says Erika Had No Recollection of Kolvet's Wife and Could Not Say if She Flew In
+**C-5704** Host Says Erika Had No Recollection of Kolvet's Wife and Could Not Say if She Flew In
 
 Claim Timestamp: 00:07:17
 
@@ -1450,7 +1449,7 @@ Investigative Direction: Compare with the manifest and eyewitness accounts; ask 
 
 ---
 
-**C-9935** Host Says Per Kolvet Erika Waited an Hour on the Tarmac for His Flight
+**C-5705** Host Says Per Kolvet Erika Waited an Hour on the Tarmac for His Flight
 
 Claim Timestamp: 00:07:17
 
@@ -1466,7 +1465,7 @@ Investigative Direction: Reconcile Erika Kirk's September 10 movements with flig
 
 ---
 
-**C-9936** Host Says Kolvet and Erika Entered the Hospital by Separate Entrances
+**C-5706** Host Says Kolvet and Erika Entered the Hospital by Separate Entrances
 
 Claim Timestamp: 00:07:17
 
@@ -1482,7 +1481,7 @@ Investigative Direction: Obtain hospital entrance accounts from staff present on
 
 ---
 
-**C-9937** Host Says Kolvet Told Her the Board Had Picked Erika Within About 72 Hours
+**C-5710** Host Says Kolvet Told Her the Board Had Picked Erika Within About 72 Hours
 
 Claim Timestamp: 00:09:56
 
@@ -1498,7 +1497,7 @@ Investigative Direction: Obtain TPUSA board minutes or written consent recording
 
 ---
 
-**C-9938** Host Reasons Erika Had to Consent Before the Board Vote
+**C-5711** Host Reasons Erika Had to Consent Before the Board Vote
 
 Claim Timestamp: 00:10:40
 
@@ -1509,13 +1508,13 @@ Transcript Snippet: She had to give her consent for that to go up for a board vo
 Anchored Artifacts: 
 Mentions: N-2, N-3
 Related Nodes: N-11092
-Supports: C-9937
+Supports: C-5710
 Tags: relevance:core
 Investigative Direction: Obtain the board resolution and any record of when Erika Kirk agreed to be nominated.
 
 ---
 
-**C-9939** Host Says She Publicly Said TPUSA Should Have Appointed an Interim CEO
+**C-5712** Host Says She Publicly Said TPUSA Should Have Appointed an Interim CEO
 
 Claim Timestamp: 00:11:49
 
@@ -1531,7 +1530,7 @@ Investigative Direction: Locate the host's earlier public statement calling for 
 
 ---
 
-**C-9940** Host Says Erika Brought No Member of Her Own Family to Utah
+**C-5713** Host Says Erika Brought No Member of Her Own Family to Utah
 
 Claim Timestamp: 00:12:57
 
@@ -1547,7 +1546,7 @@ Investigative Direction: Obtain accounts from Erika Kirk's relatives and hospita
 
 ---
 
-**C-9941** Host Says Charlie's Mother, Father and Sister Raced to the Utah Hospital
+**C-5714** Host Says Charlie's Mother, Father and Sister Raced to the Utah Hospital
 
 Claim Timestamp: 00:12:57
 
@@ -1563,7 +1562,7 @@ Investigative Direction: Confirm the Kirk family's travel and arrival times with
 
 ---
 
-**C-9942** Host Says Erika's Father Lives in Scottsdale and She Has a Sister
+**C-5715** Host Says Erika's Father Lives in Scottsdale and She Has a Sister
 
 Claim Timestamp: 00:12:57
 
@@ -1579,7 +1578,7 @@ Investigative Direction: Verify the residence of Erika Kirk's relatives through 
 
 ---
 
-**C-9943** Host Says Stacy Sheridan Accompanied Erika Instead of Family
+**C-5716** Host Says Stacy Sheridan Accompanied Erika Instead of Family
 
 Claim Timestamp: 00:12:57
 
@@ -1590,13 +1589,13 @@ Transcript Snippet: Instead, she was joined by Stacy Sheridan, who was playing t
 Anchored Artifacts: 
 Mentions: N-2, N-186, N-3
 Related Nodes: N-11243, N-10561
-Supports: C-9940
+Supports: C-5713
 Tags: relevance:core
 Investigative Direction: Confirm Sheridan's travel to Utah via flight records or staff accounts.
 
 ---
 
-**C-9944** Host Says Sheridan Filmed Charlie in the Casket
+**C-5717** Host Says Sheridan Filmed Charlie in the Casket
 
 Claim Timestamp: 00:13:50
 
@@ -1612,7 +1611,7 @@ Investigative Direction: Locate any video of Charlie Kirk in the casket and iden
 
 ---
 
-**C-9945** Host Says Sheridan Held Erika's Hand as the Casket Came Off Air Force Two
+**C-5718** Host Says Sheridan Held Erika's Hand as the Casket Came Off Air Force Two
 
 Claim Timestamp: 00:13:50
 
@@ -1628,7 +1627,7 @@ Investigative Direction: Review the arrival footage and photos at the airport to
 
 ---
 
-**C-9946** Host Says She Personally Warned Charlie About Sheridan
+**C-5719** Host Says She Personally Warned Charlie About Sheridan
 
 Claim Timestamp: 00:13:50
 
@@ -1644,7 +1643,7 @@ Investigative Direction: Look for the host's messages or recollections to Charli
 
 ---
 
-**C-9947** Host Says She Checked With People at the Hospital and No Family Was There
+**C-5720** Host Says She Checked With People at the Hospital and No Family Was There
 
 Claim Timestamp: 00:14:50
 
@@ -1655,13 +1654,13 @@ Transcript Snippet: I've checked with people at the hospital. No no family was t
 Anchored Artifacts: 
 Mentions: N-3, N-2
 Related Nodes: N-11243
-Supports: C-9940
+Supports: C-5713
 Tags: relevance:core
 Investigative Direction: Interview hospital personnel or review visitor logs for who accompanied Erika Kirk.
 
 ---
 
-**C-9948** Host Says Sheridan Was Beside Erika at All Moments, Including Car Rides, Capturing Everything
+**C-5721** Host Says Sheridan Was Beside Erika at All Moments, Including Car Rides, Capturing Everything
 
 Claim Timestamp: 00:15:00
 
@@ -1677,7 +1676,7 @@ Investigative Direction: Identify the source and date of the car clip and who fi
 
 ---
 
-**C-9949** Host Says Remaining Employees Describe the Atmosphere as Cult-Like
+**C-5722** Host Says Remaining Employees Describe the Atmosphere as Cult-Like
 
 Claim Timestamp: 00:15:51
 
@@ -1693,7 +1692,7 @@ Investigative Direction: Obtain statements from current and former employees abo
 
 ---
 
-**C-9950** Host Says Employees Were Fired After a Quarter Billion Dollars Was Raised
+**C-5724** Host Says Employees Were Fired After a Quarter Billion Dollars Was Raised
 
 Claim Timestamp: 00:16:46
 
@@ -1704,13 +1703,13 @@ Transcript Snippet: to drive them to work like horses only to then fire them aft
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10000, N-10492
-Supports: C-6985
+Supports: C-5602
 Tags: relevance:core
 Investigative Direction: Compare TPUSA's post-assassination fundraising totals with separation dates and numbers.
 
 ---
 
-**C-9951** Host Says Farnsworth Is the Man Who Took Down the Cameras
+**C-5725** Host Says Farnsworth Is the Man Who Took Down the Cameras
 
 Claim Timestamp: 00:16:46
 
@@ -1721,13 +1720,13 @@ Transcript Snippet: that is Terryl Farnsworth, the guy who took down the cameras
 Anchored Artifacts: A-1686.1
 Mentions: N-261, N-3
 Related Nodes: N-10346
-Supports: C-2220
+Supports: C-5723
 Tags: relevance:core
 Investigative Direction: Confirm Farnsworth's role in removing the cameras from earlier reporting and the camera records.
 
 ---
 
-**C-9952** Erika Told Staff on the Call TPUSA Would Be Bigger Than Ever
+**C-5726** Erika Told Staff on the Call TPUSA Would Be Bigger Than Ever
 
 Claim Timestamp: 00:17:35
 
@@ -1743,7 +1742,7 @@ Investigative Direction: Verify wording against the unedited recording of the ca
 
 ---
 
-**C-9953** Erika Said Charlie Is More Alive Than Ever and Will Guide Staff
+**C-5727** Erika Said Charlie Is More Alive Than Ever and Will Guide Staff
 
 Claim Timestamp: 00:18:23
 
@@ -1759,7 +1758,7 @@ Investigative Direction: Verify wording against the unedited recording of the ca
 
 ---
 
-**C-9954** Erika Told Staff Work From Before Sept 10 Was Not Irrelevant but Things Had Changed
+**C-5731** Erika Told Staff Work From Before Sept 10 Was Not Irrelevant but Things Had Changed
 
 Claim Timestamp: 00:21:00
 
@@ -1775,7 +1774,7 @@ Investigative Direction: Verify wording against the unedited recording and ident
 
 ---
 
-**C-9955** Erika Closed the Main Address Saying She Felt Blessed and Honored
+**C-5732** Erika Closed the Main Address Saying She Felt Blessed and Honored
 
 Claim Timestamp: 00:21:47
 
@@ -1786,13 +1785,13 @@ Transcript Snippet: I feel so blessed. And honored.
 Anchored Artifacts: A-1686.2
 Mentions: N-2
 Related Nodes: N-10448
-Supports: C-2208
+Supports: C-5729
 Tags: relevance:context
 Investigative Direction: Verify wording against the unedited recording.
 
 ---
 
-**C-9956** Host Says a Fired Young Woman Never Leaked and Was Told to Get Out With Security Present
+**C-5733** Host Says a Fired Young Woman Never Leaked and Was Told to Get Out With Security Present
 
 Claim Timestamp: 00:23:04
 
@@ -1803,13 +1802,13 @@ Transcript Snippet: She never leaked anything. She never spoke to me. Nothing. G
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11084, N-10492
-Supports: C-6986
+Supports: C-5603
 Tags: relevance:core
 Investigative Direction: Identify the employee and obtain her account and any termination paperwork.
 
 ---
 
-**C-9957** Host Says Erika Sounded Close to Tears Only About Staff Keeping Their Jobs
+**C-5735** Host Says Erika Sounded Close to Tears Only About Staff Keeping Their Jobs
 
 Claim Timestamp: 00:25:29
 
@@ -1820,13 +1819,13 @@ Transcript Snippet: hearing her sound like she's about to cry when she discusses
 Anchored Artifacts: A-1686.2
 Mentions: N-3, N-2, N-1
 Related Nodes: N-10448
-Supports: C-2209
+Supports: C-5728
 Tags: relevance:core
 Investigative Direction: Compare the audio with later separation records to test the sincerity of the job-security promise.
 
 ---
 
-**C-9958** Host Says Erika Went On to Fire Many Staff Without Cause or Conversation
+**C-5736** Host Says Erika Went On to Fire Many Staff Without Cause or Conversation
 
 Claim Timestamp: 00:25:29
 
@@ -1837,13 +1836,13 @@ Transcript Snippet: she's going to fire a boatload of them without cause or even
 Anchored Artifacts: 
 Mentions: N-3, N-2
 Related Nodes: N-10492, N-11084
-Supports: C-6986
+Supports: C-5603
 Tags: relevance:core
 Investigative Direction: Obtain a count and list of separations with dates and stated reasons.
 
 ---
 
-**C-9959** Erika Told Staff to Rebuke Anyone Who Tries to Divide the Team
+**C-5738** Erika Told Staff to Rebuke Anyone Who Tries to Divide the Team
 
 Claim Timestamp: 00:27:13
 
@@ -1859,7 +1858,7 @@ Investigative Direction: Verify wording against the unedited recording.
 
 ---
 
-**C-9960** Erika Told Staff Charlie Would Want Them in the Office
+**C-5739** Erika Told Staff Charlie Would Want Them in the Office
 
 Claim Timestamp: 00:27:13
 
@@ -1875,7 +1874,7 @@ Investigative Direction: Verify wording against the unedited recording.
 
 ---
 
-**C-9961** Host Says Employees Were Asked to Come In on Weekends to Pack T-Shirts
+**C-5741** Host Says Employees Were Asked to Come In on Weekends to Pack T-Shirts
 
 Claim Timestamp: 00:29:41
 
@@ -1891,7 +1890,7 @@ Investigative Direction: Obtain employee accounts and any internal messages aski
 
 ---
 
-**C-9962** Host Says Employees Told Her They Felt Emotionally Manipulated
+**C-5742** Host Says Employees Told Her They Felt Emotionally Manipulated
 
 Claim Timestamp: 00:29:41
 
@@ -1902,13 +1901,13 @@ Transcript Snippet: and they said that they felt like they were being emotionall
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10000, N-10492
-Supports: C-9949
+Supports: C-5722
 Tags: relevance:core
 Investigative Direction: Obtain statements from the employees who spoke to the host.
 
 ---
 
-**C-9963** Host Says Erika Orchestrated the PR Campaign From Behind the Scenes
+**C-5743** Host Says Erika Orchestrated the PR Campaign From Behind the Scenes
 
 Claim Timestamp: 00:30:30
 
@@ -1919,13 +1918,13 @@ Transcript Snippet: I do believe with all of the new information that I am getti
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-14
 Related Nodes: N-11182
-Supports: C-9917
+Supports: C-5687
 Tags: relevance:core
 Investigative Direction: Obtain the host's sources' documents or messages showing Erika Kirk directing PR statements.
 
 ---
 
-**C-9964** Host Says Kolvet Was Allowed to Absorb Blame and the Public Was Lied To
+**C-5744** Host Says Kolvet Was Allowed to Absorb Blame and the Public Was Lied To
 
 Claim Timestamp: 00:30:30
 
@@ -1936,13 +1935,13 @@ Transcript Snippet: to allow people to think that it was just him acting rogue w
 Anchored Artifacts: 
 Mentions: N-14, N-2, N-3
 Related Nodes: N-10447
-Supports: C-9920
+Supports: C-5690
 Tags: relevance:core
 Investigative Direction: Compare Kolvet's public statements with the surgeon's account and call records.
 
 ---
 
-**C-9965** Host Says the Three-Way Call With the Surgeon Took Place on the Day of the Funeral Mass
+**C-5745** Host Says the Three-Way Call With the Surgeon Took Place on the Day of the Funeral Mass
 
 Claim Timestamp: 00:31:41
 
@@ -1953,13 +1952,13 @@ Transcript Snippet: That was on the day of Charlie's actual funeral mass.
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-14
 Related Nodes: N-10447
-Supports: C-5403
+Supports: C-4425
 Tags: relevance:core
 Investigative Direction: Obtain phone records for the September 20, 2025 date and the timing of Kolvet's post.
 
 ---
 
-**C-9966** Host Says the Call Came the Day After Her Episode on No Blood in the Back
+**C-5746** Host Says the Call Came the Day After Her Episode on No Blood in the Back
 
 Claim Timestamp: 00:31:41
 
@@ -1975,7 +1974,7 @@ Investigative Direction: Match the time stamp of Kolvet's X post to the host's e
 
 ---
 
-**C-9967** Host Says Staff Are Being Let Go in Loyalty Tests Run by Marina, the COO, Who Asks Uber Drivers
+**C-5747** Host Says Staff Are Being Let Go in Loyalty Tests Run by Marina, the COO, Who Asks Uber Drivers
 
 Claim Timestamp: 00:32:40
 
@@ -1986,13 +1985,13 @@ Transcript Snippet: being let go for no reason other than loyalty tests that are
 Anchored Artifacts: 
 Mentions: N-493, N-3
 Related Nodes: N-10492, N-10439
-Supports: C-6986
+Supports: C-5603
 Tags: relevance:core
 Investigative Direction: Identify Marina's exact title and the employees allegedly dismissed after remarks overheard by drivers.
 
 ---
 
-**C-9968** Host Says TPUSA Sent Her a Cease and Desist After She Told the Truth
+**C-5748** Host Says TPUSA Sent Her a Cease and Desist After She Told the Truth
 
 Claim Timestamp: 00:33:28
 
@@ -2003,13 +2002,13 @@ Transcript Snippet: I don't like when they send me cease and desist because I to
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11180, N-10000
-Supports: C-6987
+Supports: C-5604
 Tags: relevance:core
 Investigative Direction: Obtain the cease and desist letter and its date and demands.
 
 ---
 
-**C-9969** Sponsor Read Says Pre-Born Helped Rescue Over 80,000 Babies Last Year
+**C-5749** Sponsor Read Says Pre-Born Helped Rescue Over 80,000 Babies Last Year
 
 Claim Timestamp: 00:33:28
 
@@ -2020,13 +2019,13 @@ Transcript Snippet: last year Pre-Born helped rescue over 80,000 babies
 Anchored Artifacts: A-3043.1
 Mentions: 
 Related Nodes: N-11191
-Supports: C-6716
+Supports: C-4023
 Tags: relevance:tangential
 Investigative Direction: Check Pre-Born's published annual figures for the claimed number.
 
 ---
 
-**C-9970** Boreing Said He Had Misgivings About Hiring Candace but It Was Not Cynical
+**C-5751** Boreing Said He Had Misgivings About Hiring Candace but It Was Not Cynical
 
 Claim Timestamp: 00:39:00
 
@@ -2042,7 +2041,7 @@ Investigative Direction: Identify the podcast and date and view the full clip.
 
 ---
 
-**C-9971** Boreing Called Candace the Most Talented Person He Has Met
+**C-5752** Boreing Called Candace the Most Talented Person He Has Met
 
 Claim Timestamp: 00:39:00
 
@@ -2058,7 +2057,7 @@ Investigative Direction: Verify wording against the full source interview.
 
 ---
 
-**C-9972** Boreing Said Her Gifts Are Now Used for Ill
+**C-5753** Boreing Said Her Gifts Are Now Used for Ill
 
 Claim Timestamp: 00:39:30
 
@@ -2069,13 +2068,13 @@ Transcript Snippet: all those same gifts that she has at various times used for 
 Anchored Artifacts: A-1688.2
 Mentions: N-366, N-3
 Related Nodes: 
-Supports: C-2216
+Supports: C-5754
 Tags: relevance:context
 Investigative Direction: Verify wording against the full source interview.
 
 ---
 
-**C-9973** Boreing Recounted Telling a Man to Answer His Wife With Porno Stories
+**C-5757** Boreing Recounted Telling a Man to Answer His Wife With Porno Stories
 
 Claim Timestamp: 00:41:59
 
@@ -2086,13 +2085,13 @@ Transcript Snippet: I would just respond by say telling her fun things that you 
 Anchored Artifacts: A-1688.3
 Mentions: N-366, N-3
 Related Nodes: 
-Supports: C-2217
+Supports: C-5756
 Tags: relevance:context
 Investigative Direction: Verify wording and context against the full source interview.
 
 ---
 
-**C-9974** Boreing Said the Show Titillates, Gets Clicks and Makes Tons of Money
+**C-5758** Boreing Said the Show Titillates, Gets Clicks and Makes Tons of Money
 
 Claim Timestamp: 00:42:56
 
@@ -2103,13 +2102,13 @@ Transcript Snippet: It titillates, it stimulates, it's slightly naughty. Uh it's
 Anchored Artifacts: A-1688.3
 Mentions: N-366, N-3
 Related Nodes: 
-Supports: C-2217
+Supports: C-5756
 Tags: relevance:context
 Investigative Direction: Verify wording against the full source interview.
 
 ---
 
-**C-9975** Host Says One Reason She Was Fired Was Saying to Look Into the History of Pornography
+**C-5759** Host Says One Reason She Was Fired Was Saying to Look Into the History of Pornography
 
 Claim Timestamp: 00:42:56
 
@@ -2120,13 +2119,13 @@ Transcript Snippet: one of the reasons I got fired is I said we should look into
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11116
-Supports: C-6923
+Supports: C-4656
 Tags: relevance:context
 Investigative Direction: Compare with Boreing's own stated reasons for the firing in earlier interviews.
 
 ---
 
-**C-9976** Boreing Said Candace Articulates Audience Capture as a Virtue
+**C-5763** Boreing Said Candace Articulates Audience Capture as a Virtue
 
 Claim Timestamp: 00:44:36
 
@@ -2137,13 +2136,13 @@ Transcript Snippet: she's essentially she's articulating audience capture as a v
 Anchored Artifacts: A-1688.4
 Mentions: N-366, N-3
 Related Nodes: 
-Supports: C-2218
+Supports: C-5761
 Tags: relevance:context
 Investigative Direction: Verify wording against the full source interview.
 
 ---
 
-**C-9977** Host Alleges Boreing Had His Hair and Makeup Done Daily and Kept Talent Waiting
+**C-5764** Host Alleges Boreing Had His Hair and Makeup Done Daily and Kept Talent Waiting
 
 Claim Timestamp: 00:45:59
 
@@ -2159,7 +2158,7 @@ Investigative Direction: Seek accounts from former Daily Wire staff on grooming 
 
 ---
 
-**C-9978** Host Alleges Hundreds of Thousands of Dollars Went to a Clothing Rack
+**C-5765** Host Alleges Hundreds of Thousands of Dollars Went to a Clothing Rack
 
 Claim Timestamp: 00:45:59
 
@@ -2175,7 +2174,7 @@ Investigative Direction: Seek Daily Wire expense records or former finance staff
 
 ---
 
-**C-9979** Host Says Boreing Flew Nearly the Whole Company to Hungary to Film a Book From His Youth
+**C-5766** Host Says Boreing Flew Nearly the Whole Company to Hungary to Film a Book From His Youth
 
 Claim Timestamp: 00:46:51
 
@@ -2186,13 +2185,13 @@ Transcript Snippet: He flew out virtually the entire company to Hungary to bring
 Anchored Artifacts: 
 Mentions: N-366, N-3
 Related Nodes: N-10449, N-10900
-Supports: C-2224
+Supports: C-5770
 Tags: relevance:context
 Investigative Direction: Obtain Daily Wire production budget and travel records for the Hungary shoot.
 
 ---
 
-**C-9980** Host Says She Was Told $67 Million Was Spent on the Hungary Production
+**C-5767** Host Says She Was Told $67 Million Was Spent on the Hungary Production
 
 Claim Timestamp: 00:46:51
 
@@ -2208,7 +2207,7 @@ Investigative Direction: Seek budget documents or credible reporting on the prod
 
 ---
 
-**C-9981** Host Says Boreing Emptied His Savings and Borrowed Money From Ben Shapiro
+**C-5768** Host Says Boreing Emptied His Savings and Borrowed Money From Ben Shapiro
 
 Claim Timestamp: 00:46:51
 
@@ -2224,7 +2223,7 @@ Investigative Direction: Seek confirmation from Daily Wire insiders or financial
 
 ---
 
-**C-9982** Bulwark Guest Said the Project Is Set in Roman-Era Britain, Filmed in Hungary, and Not Yet Released
+**C-5771** Bulwark Guest Said the Project Is Set in Roman-Era Britain, Filmed in Hungary, and Not Yet Released
 
 Claim Timestamp: 00:48:28
 
@@ -2235,13 +2234,13 @@ Transcript Snippet: Well, that might explain some of this departure agreement wh
 Anchored Artifacts: A-1689.1
 Mentions: N-366
 Related Nodes: N-10449
-Supports: C-2219
+Supports: C-5769
 Tags: relevance:context
 Investigative Direction: Identify the Bulwark episode and the project's release status.
 
 ---
 
-**C-9983** Host Says the Project Failed and Nobody Wanted to Buy It
+**C-5772** Host Says the Project Failed and Nobody Wanted to Buy It
 
 Claim Timestamp: 00:48:28
 
@@ -2257,7 +2256,7 @@ Investigative Direction: Check distribution announcements or buyer statements ab
 
 ---
 
-**C-9984** Host Says She Approached Boreing Eight and a Half Months Pregnant to Fix Things or Part Amicably
+**C-5773** Host Says She Approached Boreing Eight and a Half Months Pregnant to Fix Things or Part Amicably
 
 Claim Timestamp: 00:49:32
 
@@ -2273,7 +2272,7 @@ Investigative Direction: Seek contemporaneous messages or accounts of the post-O
 
 ---
 
-**C-9985** Host Says Shapiro Jumped on a Table and Called Her a Faux Sophisticate
+**C-5774** Host Says Shapiro Jumped on a Table and Called Her a Faux Sophisticate
 
 Claim Timestamp: 00:49:32
 
@@ -2289,7 +2288,7 @@ Investigative Direction: Seek eyewitness accounts or recordings of the meeting.
 
 ---
 
-**C-9986** Host Says Management Suspected She Was Secretly Working With Fuentes and Carlson
+**C-5775** Host Says Management Suspected She Was Secretly Working With Fuentes and Carlson
 
 Claim Timestamp: 00:49:32
 
@@ -2305,7 +2304,7 @@ Investigative Direction: Seek the host's contemporaneous messages or witnesses t
 
 ---
 
-**C-9987** Host Alleges Daily Wire Planned a Fake Scandal Modeled on Breitbart
+**C-5776** Host Alleges Daily Wire Planned a Fake Scandal Modeled on Breitbart
 
 Claim Timestamp: 00:49:32
 
@@ -2321,7 +2320,7 @@ Investigative Direction: Seek Daily Wire internal communications from the weeks 
 
 ---
 
-**C-9988** Host Alleges the Firing Was Timed to Lent Over Christ Is King to Boost Sign-Ups
+**C-5777** Host Alleges the Firing Was Timed to Lent Over Christ Is King to Boost Sign-Ups
 
 Claim Timestamp: 00:50:52
 
@@ -2332,13 +2331,13 @@ Transcript Snippet: Over having said Christ is king, we'll do this during Lent b
 Anchored Artifacts: 
 Mentions: N-3, N-366
 Related Nodes: N-11116, N-10900
-Supports: C-9987
+Supports: C-5776
 Tags: relevance:context
 Investigative Direction: Compare Daily Wire subscription data around March 2024.
 
 ---
 
-**C-9989** Host Says Boreing Personally Reviewed Klavan's Episode Before It Aired
+**C-5778** Host Says Boreing Personally Reviewed Klavan's Episode Before It Aired
 
 Claim Timestamp: 00:50:52
 
@@ -2354,7 +2353,7 @@ Investigative Direction: Identify the Klavan episode and seek editorial approval
 
 ---
 
-**C-9990** Host Says Many Daily Wire Employees Left and Leaked What Happened to the Press
+**C-5779** Host Says Many Daily Wire Employees Left and Leaked What Happened to the Press
 
 Claim Timestamp: 00:51:39
 
@@ -2370,7 +2369,7 @@ Investigative Direction: Identify the press reports based on former Daily Wire s
 
 ---
 
-**C-9991** Host Says Boreing Sent an Intern to Dallas to Stalk Her at Turning Point USA
+**C-5780** Host Says Boreing Sent an Intern to Dallas to Stalk Her at Turning Point USA
 
 Claim Timestamp: 00:52:26
 
@@ -2381,13 +2380,13 @@ Transcript Snippet: having sent an intern on a secret mission to stalk the woman
 Anchored Artifacts: 
 Mentions: N-366, N-3
 Related Nodes: N-10416, N-10238, N-10000
-Supports: C-5351
+Supports: C-4365
 Tags: relevance:context
 Investigative Direction: Obtain the Daily Wire email and the intern's account and any recording from the event.
 
 ---
 
-**C-9992** Host Says Boreing Wrote a Nearly Five-Page Email to the Company Admitting It
+**C-5781** Host Says Boreing Wrote a Nearly Five-Page Email to the Company Admitting It
 
 Claim Timestamp: 00:52:26
 
@@ -2398,13 +2397,13 @@ Transcript Snippet: to then author a maniacal, almost five-page-long email to th
 Anchored Artifacts: 
 Mentions: N-366, N-3
 Related Nodes: N-10416, N-10238
-Supports: C-9991
+Supports: C-5780
 Tags: relevance:context
 Investigative Direction: Obtain the email from former Daily Wire staff.
 
 ---
 
-**C-9993** Host Quotes Boreing's Email as Saying It Was His Right to Know What She Was Saying
+**C-5782** Host Quotes Boreing's Email as Saying It Was His Right to Know What She Was Saying
 
 Claim Timestamp: 00:52:26
 
@@ -2415,13 +2414,13 @@ Transcript Snippet: It's my right. It's my right to know what she's saying.
 Anchored Artifacts: 
 Mentions: N-366, N-3
 Related Nodes: N-10416, N-10238
-Supports: C-9992
+Supports: C-5781
 Tags: relevance:context
 Investigative Direction: Obtain the email and verify the quoted wording.
 
 ---
 
-**C-9994** Host Says Boreing Told Brett Cooper Before Her Wedding That He Would Turn Her Into a Star
+**C-5783** Host Says Boreing Told Brett Cooper Before Her Wedding That He Would Turn Her Into a Star
 
 Claim Timestamp: 00:52:26
 
@@ -2437,7 +2436,7 @@ Investigative Direction: Seek Brett Cooper's own account of the conversation.
 
 ---
 
-**C-9995** Host Alleges Boreing Offered the Maid of Honor a Large Sum to Replace Brett Cooper
+**C-5784** Host Alleges Boreing Offered the Maid of Honor a Large Sum to Replace Brett Cooper
 
 Claim Timestamp: 00:53:57
 
@@ -2453,7 +2452,7 @@ Investigative Direction: Seek the maid of honor's account and any contract or of
 
 ---
 
-**C-9996** Host Alleges Boreing's Circle Tried to Smear Cooper as Anti-Semitic Over an Instagram Like
+**C-5785** Host Alleges Boreing's Circle Tried to Smear Cooper as Anti-Semitic Over an Instagram Like
 
 Claim Timestamp: 00:53:57
 
@@ -2469,7 +2468,7 @@ Investigative Direction: Locate the articles or posts that attacked Cooper over 
 
 ---
 
-**C-9997** Host Says Boreing Sued Her for Standing Up for Brett Cooper
+**C-5786** Host Says Boreing Sued Her for Standing Up for Brett Cooper
 
 Claim Timestamp: 00:54:52
 
@@ -2485,7 +2484,7 @@ Investigative Direction: Search court dockets for the Daily Wire suit against th
 
 ---
 
-**C-9998** Host Says Boreing Admitted a Mental Break in Hungary and Did Not Sleep for Days
+**C-5787** Host Says Boreing Admitted a Mental Break in Hungary and Did Not Sleep for Days
 
 Claim Timestamp: 00:55:36
 
@@ -2501,7 +2500,7 @@ Investigative Direction: Seek corroboration from Daily Wire staff present in Hun
 
 ---
 
-**C-9999** Host Announces a Merged Club Candace Tier at $11.99 a Month or $120 a Year
+**C-5788** Host Announces a Merged Club Candace Tier at $11.99 a Month or $120 a Year
 
 Claim Timestamp: 00:58:01
 
@@ -2517,7 +2516,7 @@ Investigative Direction: Check the website pricing page.
 
 ---
 
-**C-10000** Host Says Erika Was in the Office Daily Making Decisions With Sheridan and Marina Minas
+**C-5789** Host Says Erika Was in the Office Daily Making Decisions With Sheridan and Marina Minas
 
 Claim Timestamp: 00:58:47
 
@@ -2528,13 +2527,13 @@ Transcript Snippet: she was in the office every day, and she was making informed
 Anchored Artifacts: 
 Mentions: N-2, N-186, N-493, N-3
 Related Nodes: N-10000
-Supports: C-7009
+Supports: C-5634
 Tags: relevance:core
 Investigative Direction: Obtain employee accounts of Erika Kirk's daily presence and role in September 2025.
 
 ---
 
-**C-10001** Host Says TPUSA Watched Her Show Live in the Office and Fired Someone for Screenshotting It
+**C-5790** Host Says TPUSA Watched Her Show Live in the Office and Fired Someone for Screenshotting It
 
 Claim Timestamp: 00:58:47
 
@@ -2545,13 +2544,13 @@ Transcript Snippet: Turning Point USA watches this show live in the office, and 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10000, N-11084
-Supports: C-5486
+Supports: C-5335
 Tags: relevance:core
 Investigative Direction: Identify the employee and obtain termination records.
 
 ---
 
-**C-10002** Host Says Erika Told Her a Lot of Fibs During the Sit-Down
+**C-5791** Host Says Erika Told Her a Lot of Fibs During the Sit-Down
 
 Claim Timestamp: 00:59:24
 
@@ -2562,13 +2561,13 @@ Transcript Snippet: she did tell me a lot of uh fibs during our sit-down
 Anchored Artifacts: 
 Mentions: N-3, N-2
 Related Nodes: 
-Supports: C-9918
+Supports: C-5688
 Tags: relevance:core
 Investigative Direction: Compare the host's notes of the meeting with later verified facts.
 
 ---
 
-**C-10003** Host Says the Biggest Fib Was Blaming Kolvet, Who Others Say Told the Truth
+**C-5792** Host Says the Biggest Fib Was Blaming Kolvet, Who Others Say Told the Truth
 
 Claim Timestamp: 00:59:24
 
@@ -2579,13 +2578,13 @@ Transcript Snippet: the consistent throwing Andrew Kolvet under the bus and then
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-14
 Related Nodes: N-10447
-Supports: C-9918
+Supports: C-5688
 Tags: relevance:core
 Investigative Direction: Identify the other sources and compare their accounts with Erika Kirk's.
 
 ---
 
-**C-10004** Host Says the TPUSA Contract Is Used to Bar Her From Asking Questions About the Murder
+**C-5793** Host Says the TPUSA Contract Is Used to Bar Her From Asking Questions About the Murder
 
 Claim Timestamp: 01:01:07
 
@@ -2601,7 +2600,7 @@ Investigative Direction: Obtain the tour agreement and the cease and desist lett
 
 ---
 
-**C-10005** Host Says She Told the Priest She Would Chill and Has Not Spoken to Him in About Seven Weeks
+**C-5794** Host Says She Told the Priest She Would Chill and Has Not Spoken to Him in About Seven Weeks
 
 Claim Timestamp: 01:01:57
 
@@ -2617,7 +2616,7 @@ Investigative Direction: No external record available.
 
 ---
 
-**C-10006** Host Says Daily Wire Management Threatened to Bankrupt Her If She Told Anyone
+**C-5795** Host Says Daily Wire Management Threatened to Bankrupt Her If She Told Anyone
 
 Claim Timestamp: 01:03:27
 
@@ -2633,7 +2632,7 @@ Investigative Direction: Seek contemporaneous messages or witnesses to the threa
 
 ---
 
-**C-10007** Host Cites the Mic Kept in a Cage and a Place Set at a Fundraiser Dinner for Charlie
+**C-5796** Host Cites the Mic Kept in a Cage and a Place Set at a Fundraiser Dinner for Charlie
 
 Claim Timestamp: 01:04:05
 
@@ -2649,7 +2648,7 @@ Investigative Direction: Find footage or photos of the caged mic and the fundrai
 
 ---
 
-**C-10008** Host Says She Tweeted Christ Is King Not at Anyone and It Was Spun as Anti-Semitic
+**C-5797** Host Says She Tweeted Christ Is King Not at Anyone and It Was Spun as Anti-Semitic
 
 Claim Timestamp: 01:04:56
 
@@ -2665,7 +2664,7 @@ Investigative Direction: Review the original tweet and the coverage characterizi
 
 ---
 
-**C-10009** Host Says Daily Wire Denied Her Request to Have Bassem Youssef on Her Show
+**C-5798** Host Says Daily Wire Denied Her Request to Have Bassem Youssef on Her Show
 
 Claim Timestamp: 01:07:49
 
@@ -2681,7 +2680,7 @@ Investigative Direction: Seek confirmation from Daily Wire staff or messages reg
 
 ---
 
-**C-10010** Host Says Bassem Youssef Will Join Her Live the Next Day
+**C-5799** Host Says Bassem Youssef Will Join Her Live the Next Day
 
 Claim Timestamp: 01:07:49
 

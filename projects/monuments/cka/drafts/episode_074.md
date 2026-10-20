@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep074): N-165
   - Tip-minted Nodes (reintro-ep074): N-10953
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10d): C-10138–C-10226
+  - Claim Range: C-6596–C-6703
   - New Nodes Introduced: N-564, N-565, N-566, N-567, N-568, N-10511, N-10513, N-10514, N-10515, N-10516, N-10518
   - Reused Nodes Appearing: N-10512, N-5, N-9, N-11, N-40, N-47, N-55, N-69, N-99, N-186, N-237, N-259, N-330, N-486, N-489, N-545, N-580, N-10000, N-10110, N-10138, N-10275, N-10311, N-10324, N-10367, N-10419, N-10428, N-10440, N-10477, N-10487, N-10506, N-10509, N-10561, N-10832, N-11014, N-11098, N-10517
   - (see registers)
@@ -249,7 +249,7 @@ Video Timestamp: 00:02:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2378, C-2379, N-564, N-565, N-566*
+*Related: C-6600, C-6604, N-564, N-565, N-566*
 
 ---
 
@@ -263,7 +263,7 @@ Video Timestamp: 00:02:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2378, C-2379, N-565, N-566*
+*Related: C-6600, C-6604, N-565, N-566*
 
 **A-1781.2** Jillian Falcon reply, 2014-02-13: "@ErikaFrantzve, gorgeous as always"
 
@@ -273,7 +273,7 @@ Video Timestamp: 00:04:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2378, N-565*
+*Related: C-6600, N-565*
 
 **A-1781.3** Jillian Falcon tweet, 2014-03-06: "Why did @ErikaFrantzve just send me this?" with attached Valentine-themed photo captioned "This Valentine's Day I am going to touch your butt."
 
@@ -283,7 +283,7 @@ Video Timestamp: 00:04:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2380, N-565*
+*Related: C-6608, N-565*
 
 **A-1781.4** Jillian Falcon tweet, 2014-03-13, sharing screenshot of Erika Kirk text messages (hydration/alcohol/bloating exchange; "Spit it out, you twatwaffle")
 
@@ -293,7 +293,7 @@ Video Timestamp: 00:05:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2381, C-2382, N-565*
+*Related: C-6609, C-6624, N-565*
 
 **A-1781.5** Jillian Falcon tweet, 2014-03-26 morning: "I just want to be somebody's woman crush Wednesday. Is that too much to ask?"
 
@@ -313,7 +313,7 @@ Video Timestamp: 00:06:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2383, N-565*
+*Related: C-6610, N-565*
 
 **A-1781.7** Jillian Falcon tweet, 2014-04-03: "I miss this goon." Followed by Jillian reporting Erika texted "#nonewfriends."
 
@@ -333,7 +333,7 @@ Video Timestamp: 00:07:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2384, A-1783.1, N-565*
+*Related: C-6612, A-1783.1, N-565*
 
 **A-1781.9** Jillian Falcon tweet, 2014-06-07: "This has to be the most heartfelt compliment I've ever gotten." with attached screenshot of compliment exchange
 
@@ -343,7 +343,7 @@ Video Timestamp: 00:07:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2385, N-565*
+*Related: C-6613, N-565*
 
 **A-1781.10** Jillian Falcon tweet, June 2014 (date not precisely given in episode): "I haven't seen my dad over 2 years."
 
@@ -367,7 +367,7 @@ Video Timestamp: 00:05:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2380, N-565*
+*Related: C-6608, N-565*
 
 **A-1782.2** Erika text, captured in A-1781.3: "Sex. Sex, too, but not from you. lol."
 
@@ -377,7 +377,7 @@ Video Timestamp: 00:05:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2380, N-565*
+*Related: C-6608, N-565*
 
 **A-1782.3** Erika text, captured in A-1781.3: "You always make me laugh. I don't bat for the other team just yet."
 
@@ -387,7 +387,7 @@ Video Timestamp: 00:05:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2380, N-565*
+*Related: C-6608, N-565*
 
 **A-1782.4** Erika text, captured in A-1781.4: "I forgot to tell you hydrate tonight. No alcohol and don't eat a lot of salty foods. You don't want to look bloated."
 
@@ -397,7 +397,7 @@ Video Timestamp: 00:05:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2381, C-2382, N-565*
+*Related: C-6609, C-6624, N-565*
 
 **A-1782.5** Erika text, captured in A-1781.4: "Spit it out, you twatwaffle."
 
@@ -407,7 +407,7 @@ Video Timestamp: 00:05:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2381, N-565*
+*Related: C-6609, N-565*
 
 **A-1782.6** Erika text, captured in A-1781.9: "You have the most stunning features… Your eyes, your lips, your skin, you're absolutely beautiful."
 
@@ -417,7 +417,7 @@ Video Timestamp: 00:07:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2385, N-565*
+*Related: C-6613, N-565*
 
 ---
 
@@ -431,7 +431,7 @@ Video Timestamp: 00:07:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2384, N-565*
+*Related: C-6612, N-565*
 
 ---
 
@@ -475,7 +475,7 @@ Video Timestamp: 00:14:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2386, N-565*
+*Related: C-6622, N-565*
 
 ---
 
@@ -489,7 +489,7 @@ Video Timestamp: 00:21:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2387, C-2389, N-10515*
+*Related: C-6640, C-6642, N-10515*
 
 **A-1785.2** Erika tweet, 2025-09-09 at 9:44 a.m. local time: "O taste and see that the Lord is good. Blessed is the man that takes refuge in him."
 
@@ -499,7 +499,7 @@ Video Timestamp: 00:22:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2388, N-10515*
+*Related: C-6641, N-10515*
 
 **A-1785.3** Erika tweet, 2025-09-10 at 9:45 a.m. Arizona time, day of Charlie Kirk assassination: "God is our refuge and strength, a very present help in trouble."
 
@@ -509,7 +509,7 @@ Video Timestamp: 00:22:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2389, C-2390, N-10515*
+*Related: C-6642, C-6643, N-10515*
 
 ---
 
@@ -523,7 +523,7 @@ Video Timestamp: 00:28:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2391, N-10511*
+*Related: C-6656, N-10511*
 
 ---
 
@@ -537,7 +537,7 @@ Video Timestamp: 00:33:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2392, N-10512*
+*Related: C-6662, N-10512*
 
 ---
 
@@ -551,7 +551,7 @@ Video Timestamp: 00:37:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2393, C-2394, N-190, N-10512*
+*Related: C-6668, C-6670, N-190, N-10512*
 
 ---
 
@@ -565,7 +565,7 @@ Video Timestamp: 00:38:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2393, C-2394, N-190, N-10512*
+*Related: C-6668, C-6670, N-190, N-10512*
 
 ---
 
@@ -579,7 +579,7 @@ Video Timestamp: 00:41:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2395, N-567*
+*Related: C-6690, N-567*
 
 ---
 
@@ -593,7 +593,7 @@ Video Timestamp: 00:46:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2395, N-85*
+*Related: C-6690, N-85*
 
 ---
 
@@ -608,7 +608,7 @@ Video Timestamp: 00:33:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10190, C-10191, N-3, N-2, N-237, N-10506*
+*Related: C-6663, C-6664, N-3, N-2, N-237, N-10506*
 
 ---
 
@@ -623,7 +623,7 @@ Video Timestamp: 00:22:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10174, N-3*
+*Related: C-6645, N-3*
 
 ---
 
@@ -638,7 +638,7 @@ Video Timestamp: 00:23:36
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10175, N-3*
+*Related: C-6646, N-3*
 
 ---
 
@@ -653,7 +653,7 @@ Video Timestamp: 00:25:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10179, N-3*
+*Related: C-6650, N-3*
 
 ---
 
@@ -668,7 +668,7 @@ Video Timestamp: 00:54:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10220, N-3*
+*Related: C-6697, N-3*
 
 ---
 
@@ -683,7 +683,7 @@ Video Timestamp: 00:19:48
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10166, C-10167, N-186, N-855*
+*Related: C-6633, C-6634, N-186, N-855*
 
 ---
 
@@ -698,7 +698,7 @@ Video Timestamp: 00:19:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10165, N-11251, N-10487*
+*Related: C-6632, N-11251, N-10487*
 
 ---
 
@@ -713,7 +713,7 @@ Video Timestamp: 00:45:31
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10213, C-10214, N-85, N-567*
+*Related: C-6689, C-6691, N-85, N-567*
 
 ---
 
@@ -728,7 +728,7 @@ Video Timestamp: 00:56:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-10223, C-10224, N-259*
+*Related: C-6700, C-6701, N-259*
 
 ---
 
@@ -743,7 +743,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1780.1, C-2378, C-2379*
+*Related: A-1780.1, C-6600, C-6604*
 
 ---
 
@@ -756,7 +756,7 @@ Claim Count: 9
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1781.1–A-1781.10, A-1782.1–A-1782.6, A-1783.1, A-1784.1–A-1784.4, C-2378–C-2386, N-10513*
+*Related: A-1781.1–A-1781.10, A-1782.1–A-1782.6, A-1783.1, A-1784.1–A-1784.4, C-6600–C-6622, N-10513*
 
 ---
 
@@ -769,7 +769,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1781.1, A-1780.1, C-2378*
+*Related: A-1781.1, A-1780.1, C-6600*
 
 ---
 
@@ -782,7 +782,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1788.1, A-1789.1, C-2393, C-2394, N-10512*
+*Related: A-1788.1, A-1789.1, C-6668, C-6670, N-10512*
 
 ---
 
@@ -808,7 +808,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1790.1, C-2395*
+*Related: A-1790.1, C-6690*
 
 ---
 
@@ -821,7 +821,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1791.1, C-2395*
+*Related: A-1791.1, C-6690*
 
 ---
 
@@ -834,7 +834,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-2388, N-565, N-10513*
+*Related: C-6641, N-565, N-10513*
 
 ---
 
@@ -847,7 +847,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1786.1, C-2391*
+*Related: A-1786.1, C-6656*
 
 ---
 
@@ -860,7 +860,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1787.1, A-1788.1, A-1789.1, C-2392, C-2393, C-2394, N-190, N-14*
+*Related: A-1787.1, A-1788.1, A-1789.1, C-6662, C-6668, C-6670, N-190, N-14*
 
 ---
 
@@ -873,7 +873,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1781.10, C-2388, N-565, N-568*
+*Related: A-1781.10, C-6641, N-565, N-568*
 
 ---
 
@@ -899,7 +899,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1785.1, A-1785.2, A-1785.3, C-2387, C-2388, C-2389, N-10514*
+*Related: A-1785.1, A-1785.2, A-1785.3, C-6640, C-6641, C-6642, N-10514*
 
 ---
 
@@ -946,7 +946,7 @@ Investigative Pressure: Low
 
 The assassination victim; discussed as the subject of the studio photo, father absence and the night before.
 
-*Related: C-10152, C-10182, C-10183, C-10186, C-10190, C-10191, C-10193, C-10194, C-10195, C-10198, C-10218*
+*Related: C-6617, C-6653, C-6654, C-6658, C-6663, C-6664, C-6666, C-6667, C-6671, C-6674, C-6695*
 
 ---
 
@@ -954,7 +954,7 @@ The assassination victim; discussed as the subject of the studio photo, father a
 
 Widow; subject of the Jillian messages, the alibi questions and the photo discrepancy.
 
-*Related: C-10138, C-10140, C-10142, C-10144, C-10145, C-10146, C-10147, C-10148, C-10149, C-10150, C-10153, C-10155, C-10156, C-10157*
+*Related: C-6596, C-6598, C-6601, C-6603, C-6605, C-6606, C-6607, C-6611, C-6614, C-6615, C-6618, C-6620, C-6621, C-6623*
 
 ---
 
@@ -962,7 +962,7 @@ Widow; subject of the Jillian messages, the alibi questions and the photo discre
 
 Host of the episode.
 
-*Related: C-10138, C-10139, C-10140, C-10141, C-10142, C-10145, C-10150, C-10151, C-10152, C-10153, C-10154, C-10155, C-10156, C-10157*
+*Related: C-6596, C-6597, C-6598, C-6599, C-6601, C-6605, C-6615, C-6616, C-6617, C-6618, C-6619, C-6620, C-6621, C-6623*
 
 ---
 
@@ -970,7 +970,7 @@ Host of the episode.
 
 President whose statements and administration are criticized in the Moskowitz and Bondi clips.
 
-*Related: C-10200, C-10203, C-10208, C-10212*
+*Related: C-6676, C-6679, C-6684, C-6688*
 
 ---
 
@@ -978,7 +978,7 @@ President whose statements and administration are criticized in the Moskowitz an
 
 Subject of the House Oversight clips and of the Kenneth Starr connection.
 
-*Related: C-10166, C-10167, C-10205, C-10211, C-10212, C-10215*
+*Related: C-6633, C-6634, C-6681, C-6687, C-6688, C-6692*
 
 ---
 
@@ -986,7 +986,7 @@ Subject of the House Oversight clips and of the Kenneth Starr connection.
 
 Said by the host to have handpicked the TPUSA headquarters location.
 
-*Related: C-10163*
+*Related: C-6630*
 
 ---
 
@@ -994,7 +994,7 @@ Said by the host to have handpicked the TPUSA headquarters location.
 
 Defendant whose defense team the host says has not contacted her.
 
-*Related: C-10226*
+*Related: C-6703*
 
 ---
 
@@ -1002,7 +1002,7 @@ Defendant whose defense team the host says has not contacted her.
 
 Named in Moskowitz's remarks on transfer, deals and clemency.
 
-*Related: C-10201, C-10206, C-10207*
+*Related: C-6677, C-6682, C-6683*
 
 ---
 
@@ -1010,7 +1010,7 @@ Named in Moskowitz's remarks on transfer, deals and clemency.
 
 Host says he is Newsweek's editor at large.
 
-*Related: C-10192*
+*Related: C-6665*
 
 ---
 
@@ -1018,7 +1018,7 @@ Host says he is Newsweek's editor at large.
 
 FBI director whose sworn statements Moskowitz challenges.
 
-*Related: C-10204, C-10208*
+*Related: C-6680, C-6684*
 
 ---
 
@@ -1026,7 +1026,7 @@ FBI director whose sworn statements Moskowitz challenges.
 
 Said by the host to have demanded her sponsor be pressured; criticized for the memorial-site photo.
 
-*Related: C-10217, C-10218*
+*Related: C-6694, C-6695*
 
 ---
 
@@ -1034,7 +1034,7 @@ Said by the host to have demanded her sponsor be pressured; criticized for the m
 
 Subject of Moskowitz's remarks about visits to Epstein's home and island.
 
-*Related: C-10209, C-10210, C-10211*
+*Related: C-6685, C-6686, C-6687*
 
 ---
 
@@ -1042,7 +1042,7 @@ Subject of Moskowitz's remarks about visits to Epstein's home and island.
 
 Said by the host to have worked in Kenneth Starr's office and to have met Erika before the airport on Sept 10.
 
-*Related: C-10166, C-10167, C-10168, C-10180, C-10181, C-10182*
+*Related: C-6633, C-6634, C-6635, C-6651, C-6652, C-6653*
 
 ---
 
@@ -1050,7 +1050,7 @@ Said by the host to have worked in Kenneth Starr's office and to have met Erika 
 
 Host of the December interview in which Erika said she had not been in the studio in forever.
 
-*Related: C-10190, C-10191*
+*Related: C-6663, C-6664*
 
 ---
 
@@ -1058,7 +1058,7 @@ Host of the December interview in which Erika said she had not been in the studi
 
 Host criticizes his handling of the bullet inscription leak and the Nashville notebook.
 
-*Related: C-10224, C-10225*
+*Related: C-6701, C-6702*
 
 ---
 
@@ -1066,7 +1066,7 @@ Host criticizes his handling of the bullet inscription leak and the Nashville no
 
 Whose viral episode and instruction not to contact Jillian are described.
 
-*Related: C-10138, C-10139, C-10141*
+*Related: C-6596, C-6597, C-6599*
 
 ---
 
@@ -1074,7 +1074,7 @@ Whose viral episode and instruction not to contact Jillian are described.
 
 Subject of the host's aside on tween emotion and business.
 
-*Related: C-10154*
+*Related: C-6619*
 
 ---
 
@@ -1082,7 +1082,7 @@ Subject of the host's aside on tween emotion and business.
 
 Said by the host to be Erika's real mother and operator of Desert Spirit Tech.
 
-*Related: C-10168, C-10169*
+*Related: C-6635, C-6636*
 
 ---
 
@@ -1090,7 +1090,7 @@ Said by the host to be Erika's real mother and operator of Desert Spirit Tech.
 
 Erika's best friend, said to do trafficking-victim charity work via Dream City Church.
 
-*Related: C-10164*
+*Related: C-6631*
 
 ---
 
@@ -1098,7 +1098,7 @@ Erika's best friend, said to do trafficking-victim charity work via Dream City C
 
 Sponsor of the discharge petition described by Moskowitz.
 
-*Related: C-10202*
+*Related: C-6678*
 
 ---
 
@@ -1106,7 +1106,7 @@ Sponsor of the discharge petition described by Moskowitz.
 
 Organization whose headquarters location and photo statement are discussed.
 
-*Related: C-10162, C-10163, C-10223*
+*Related: C-6629, C-6630, C-6700*
 
 ---
 
@@ -1114,7 +1114,7 @@ Organization whose headquarters location and photo statement are discussed.
 
 Topic reused for the defense-team contact claim.
 
-*Related: C-10226*
+*Related: C-6703*
 
 ---
 
@@ -1122,7 +1122,7 @@ Topic reused for the defense-team contact claim.
 
 Topic reused for the bullet inscription leak to Crowder.
 
-*Related: C-10225*
+*Related: C-6702*
 
 ---
 
@@ -1130,7 +1130,7 @@ Topic reused for the bullet inscription leak to Crowder.
 
 Topic reused for the host's military-operation and color of the day claims.
 
-*Related: C-10183, C-10184, C-10187, C-10189*
+*Related: C-6654, C-6655, C-6659, C-6661*
 
 ---
 
@@ -1138,7 +1138,7 @@ Topic reused for the host's military-operation and color of the day claims.
 
 Topic reused for the maroon men attending alone.
 
-*Related: C-10189*
+*Related: C-6661*
 
 ---
 
@@ -1146,7 +1146,7 @@ Topic reused for the maroon men attending alone.
 
 Topic reused for the Moskowitz and Bondi hearing claims.
 
-*Related: C-10199, C-10200, C-10201, C-10202, C-10203, C-10204, C-10205, C-10206, C-10207, C-10208, C-10209, C-10210, C-10211, C-10212*
+*Related: C-6675, C-6676, C-6677, C-6678, C-6679, C-6680, C-6681, C-6682, C-6683, C-6684, C-6685, C-6686, C-6687, C-6688*
 
 ---
 
@@ -1154,7 +1154,7 @@ Topic reused for the Moskowitz and Bondi hearing claims.
 
 Topic reused for the alleged Erika sighting.
 
-*Related: C-10172*
+*Related: C-6639*
 
 ---
 
@@ -1162,7 +1162,7 @@ Topic reused for the alleged Erika sighting.
 
 Topic reused for the China charity reference.
 
-*Related: C-10145*
+*Related: C-6605*
 
 ---
 
@@ -1170,7 +1170,7 @@ Topic reused for the China charity reference.
 
 Topic reused for the China charity reference.
 
-*Related: C-10145*
+*Related: C-6605*
 
 ---
 
@@ -1178,7 +1178,7 @@ Topic reused for the China charity reference.
 
 Topic reused for the reservation, address and trafficking-email claims.
 
-*Related: C-10169, C-10170, C-10171*
+*Related: C-6636, C-6637, C-6638*
 
 ---
 
@@ -1186,7 +1186,7 @@ Topic reused for the reservation, address and trafficking-email claims.
 
 Topic reused for the Sept 8 alibi question.
 
-*Related: C-10172*
+*Related: C-6639*
 
 ---
 
@@ -1194,7 +1194,7 @@ Topic reused for the Sept 8 alibi question.
 
 Topic reused for Tracy Martin and the Phoenix Dream Center claims.
 
-*Related: C-10164, C-10165*
+*Related: C-6631, C-6632*
 
 ---
 
@@ -1202,7 +1202,7 @@ Topic reused for Tracy Martin and the Phoenix Dream Center claims.
 
 Topic reused for the photo being present then gone.
 
-*Related: C-10190, C-10194*
+*Related: C-6663, C-6667*
 
 ---
 
@@ -1210,7 +1210,7 @@ Topic reused for the photo being present then gone.
 
 Topic reused for the toddler alibi recap and the alleged fight.
 
-*Related: C-10193, C-10198*
+*Related: C-6666, C-6674*
 
 ---
 
@@ -1218,7 +1218,7 @@ Topic reused for the toddler alibi recap and the alleged fight.
 
 Topic reused for the Sept 10 travel account.
 
-*Related: C-10181, C-10182*
+*Related: C-6652, C-6653*
 
 ---
 
@@ -1226,7 +1226,7 @@ Topic reused for the Sept 10 travel account.
 
 Topic reused for the proximity-to-trafficking claim.
 
-*Related: C-10161*
+*Related: C-6628*
 
 ---
 
@@ -1234,7 +1234,7 @@ Topic reused for the proximity-to-trafficking claim.
 
 Sponsor named in the Alex Clark pressure allegation.
 
-*Related: C-10217, C-10219*
+*Related: C-6694, C-6696*
 
 ---
 
@@ -1242,7 +1242,7 @@ Sponsor named in the Alex Clark pressure allegation.
 
 Topic reused for the Zoom call merchandise remarks.
 
-*Related: C-10196*
+*Related: C-6672*
 
 ---
 
@@ -1250,7 +1250,7 @@ Topic reused for the Zoom call merchandise remarks.
 
 Topic reused for the boots-and-memorial remarks.
 
-*Related: C-10218*
+*Related: C-6695*
 
 ---
 
@@ -1258,7 +1258,7 @@ Topic reused for the boots-and-memorial remarks.
 
 First named by the host at 00:19:48 in episode 74. Former independent counsel described by the host as Jeffrey Epstein's friend, under whom Stacy Sheridan claims to have worked at Pepperdine University. Aliases in the transcript: Kenneth Starr.
 
-*Related: C-10166, C-10167, A-3061.1, N-186, N-11252*
+*Related: C-6633, C-6634, A-3061.1, N-186, N-11252*
 
 ---
 
@@ -1266,7 +1266,7 @@ First named by the host at 00:19:48 in episode 74. Former independent counsel de
 
 First named by the host at 00:46:09 in episode 74. Former Attorney General, referred to in Pam Bondi's remark that no one asked him about Epstein.
 
-*Related: C-10215*
+*Related: C-6692*
 
 ---
 
@@ -1275,7 +1275,7 @@ First named by the host at 00:46:09 in episode 74. Former Attorney General, refe
 Node Type: Place
 Place the host says is across the street from Turning Point USA headquarters and which she calls the number one human and child sex trafficking location in Arizona.
 
-*Related: C-10162, C-10163*
+*Related: C-6629, C-6630*
 
 ---
 
@@ -1284,7 +1284,7 @@ Place the host says is across the street from Turning Point USA headquarters and
 Node Type: Organization
 Rehabilitation and shelter center that the host says is run by Dream City Church and, per its website, serves victims of human trafficking.
 
-*Related: C-10165, A-3062.1*
+*Related: C-6632, A-3062.1*
 
 ---
 
@@ -1293,7 +1293,7 @@ Rehabilitation and shelter center that the host says is run by Dream City Church
 Node Type: Topic
 The host's claim, from Stacy Sheridan's resume, that she worked eight years in Kenneth Starr's office at Pepperdine while Starr was working with Jeffrey Epstein, and that the host cannot find other trace of her employment.
 
-*Related: C-10166, C-10167, A-3061.1, N-186, N-855*
+*Related: C-6633, C-6634, A-3061.1, N-186, N-855*
 
 ---
 
@@ -1302,7 +1302,7 @@ The host's claim, from Stacy Sheridan's resume, that she worked eight years in K
 Node Type: Topic
 The host's questions about why Steven Crowder received the bullet inscription details after September 10 and the Nashville notebook, and whether he knowingly passed on fed material.
 
-*Related: C-10224, C-10225, A-3064.1, N-259*
+*Related: C-6701, C-6702, A-3064.1, N-259*
 
 ---
 
@@ -1311,13 +1311,13 @@ The host's questions about why Steven Crowder received the bullet inscription de
 Node Type: Topic
 The host's allegation, sourced to people fired from TPUSA, that Alex Clark demanded someone call the host's sponsor Paleo Valley and force it to choose between them.
 
-*Related: C-10217, C-10219, N-99, N-10953*
+*Related: C-6694, C-6696, N-99, N-10953*
 
 ---
 
 ## 5. Claim Register
 
-**C-2378** Per Nicey Clip, Erika Kirk (Then Frantzve) Met Jillian Falcon in Michigan on September 15, 2013 When Erika Was 25 and Jillian Was 15
+**C-6600** Per Nicey Clip, Erika Kirk (Then Frantzve) Met Jillian Falcon in Michigan on September 15, 2013 When Erika Was 25 and Jillian Was 15
 
 Claim Timestamp: 00:02:07
 Claim: In a video by YouTuber Nicey that the host plays, Nicey says Erika Kirk (then Erika Frantzve), Josh Harrellson, and Jillian Falcon met on September 15, 2013 in Michigan, when Erika was 25 and Jillian was 15.
@@ -1327,7 +1327,7 @@ Investigative Direction: Pull Jillian's original Sept 15, 2013 X/Twitter posts d
 
 ---
 
-**C-2379** Erika and Jillian First Connected Through a Rent-Payment Encounter
+**C-6604** Erika and Jillian First Connected Through a Rent-Payment Encounter
 
 Claim Timestamp: 00:03:40
 Claim: The host says, relaying what Jillian Falcon told her, that Jillian met Erika Kirk at a door over a payment for rent, and that the two somehow exchanged numbers during that rent arrangement, though Jillian does not recall how.
@@ -1337,7 +1337,7 @@ Investigative Direction: Re-interview Jillian (now adult) directly and document 
 
 ---
 
-**C-2380** Nicey Clip Shows Erika Messages to Jillian Including "I don't bat for the other team just yet"
+**C-6608** Nicey Clip Shows Erika Messages to Jillian Including "I don't bat for the other team just yet"
 
 Claim Timestamp: 00:05:48
 Claim: In a video by YouTuber Nicey that the host plays, Nicey presents text messages Jillian Falcon posted on or about 2014-03-06 and reads them as Erika Kirk writing "Let me call you. Hold on, sweetheart. Give me a sex." and then "Sex." "Sex, too, but not from you. lol." and "You always make me laugh. I don't bat for the other team just yet."
@@ -1347,7 +1347,7 @@ Investigative Direction: Obtain original screenshots and verify posting metadata
 
 ---
 
-**C-2381** Nicey Clip Shows Erika Telling Jillian to Avoid Alcohol and Salt Before an Unspecified Evening Event
+**C-6609** Nicey Clip Shows Erika Telling Jillian to Avoid Alcohol and Salt Before an Unspecified Evening Event
 
 Claim Timestamp: 00:05:48
 Claim: In a video by YouTuber Nicey that the host plays, Nicey presents a text Jillian Falcon posted on March 13, 2014, in which Erika Kirk wrote: "I forgot to tell you hydrate tonight. No alcohol and don't eat a lot of salty foods. You don't want to look bloated."
@@ -1357,7 +1357,7 @@ Investigative Direction: Compare against the same-day Jillian social-media activ
 
 ---
 
-**C-2382** Host Says Erika's "No Alcohol / Hydrate" Texts Referred to an Arranged Photo Session, Not an Outing Together
+**C-6624** Host Says Erika's "No Alcohol / Hydrate" Texts Referred to an Arranged Photo Session, Not an Outing Together
 
 Claim Timestamp: 00:15:15
 Claim: The host says, relaying what Jillian Falcon told her, that the hydration/alcohol text exchange was tied to a photo session Erika had arranged for Jillian via a third-party photographer, rather than to an event Erika and Jillian attended together.
@@ -1368,7 +1368,7 @@ Investigative Direction: Identify the photographer (name begins with "R") and ob
 
 ---
 
-**C-2383** Nicey Clip Shows Jillian Sharing Gnome Image After Thanking Erika
+**C-6610** Nicey Clip Shows Jillian Sharing Gnome Image After Thanking Erika
 
 Claim Timestamp: 00:06:37
 Claim: In a video by YouTuber Nicey that the host plays, Nicey says Jillian Falcon tweeted on or about 2014-03-26 "Thank you, @EricaFrantzve, for making my whole week" and shared a photo of a gnome reading "I want to be inside your lady garden. Know what I'm saying?"
@@ -1378,7 +1378,7 @@ Investigative Direction: Locate the original image file and verify its posting d
 
 ---
 
-**C-2384** Nicey Clip Shows Erika Sending Jillian Chocolate-Covered Strawberries with a Personal Card for Her 16th Birthday
+**C-6612** Nicey Clip Shows Erika Sending Jillian Chocolate-Covered Strawberries with a Personal Card for Her 16th Birthday
 
 Claim Timestamp: 00:07:30
 Claim: In a video by YouTuber Nicey that the host plays, Nicey says that on or about 2014-04-05 Erika Kirk sent Jillian Falcon a red box of chocolate-covered strawberries and other desserts accompanied by a card reading "Happy sweet 16, beautiful girl… Love you, E."
@@ -1388,7 +1388,7 @@ Investigative Direction: Obtain the original photo from Jillian's X/Twitter post
 
 ---
 
-**C-2385** Nicey Clip Shows Erika Telling Jillian She Had "the most stunning features" and Was "absolutely beautiful"
+**C-6613** Nicey Clip Shows Erika Telling Jillian She Had "the most stunning features" and Was "absolutely beautiful"
 
 Claim Timestamp: 00:07:30
 Claim: In a video by YouTuber Nicey that the host plays, Nicey presents a screenshot Jillian Falcon shared on June 7, 2014, in which Erika Kirk texted Jillian: "You have the most stunning features… Your eyes, your lips, your skin, you're absolutely beautiful."
@@ -1398,7 +1398,7 @@ Investigative Direction: Obtain the original screenshot and verify against Jilli
 
 ---
 
-**C-2386** Host Says Erika Publicly Commented on Jillian's Instagram Photo Calling Her "a dime piece beside the car"
+**C-6622** Host Says Erika Publicly Commented on Jillian's Instagram Photo Calling Her "a dime piece beside the car"
 
 Claim Timestamp: 00:14:26
 Claim: The host shows an Instagram comment in which Erika Kirk, referring to Jillian Falcon beside a car, wrote "That dime piece beside the car though."
@@ -1408,7 +1408,7 @@ Investigative Direction: Pull the original Instagram comment from Jillian's acco
 
 ---
 
-**C-2387** Erika broke a years-long Twitter silence on 2025-09-08 with a scripture tweet
+**C-6640** Erika broke a years-long Twitter silence on 2025-09-08 with a scripture tweet
 
 Claim Timestamp: 00:21:40
 Claim: Episode presents that Erika Kirk had not authored an X/Twitter post since 2023 and broke that silence on 2025-09-08 at 10:49 a.m. Arizona time with a tweet quoting Ephesians 2:8.
@@ -1419,7 +1419,7 @@ Investigative Direction: Pull Erika's full X/Twitter posting log directly to ver
 
 ---
 
-**C-2388** Erika tweeted scripture on 2025-09-09 ("O taste and see")
+**C-6641** Erika tweeted scripture on 2025-09-09 ("O taste and see")
 
 Claim Timestamp: 00:22:28
 Claim: Episode presents that Erika Kirk tweeted on 2025-09-09 at 9:44 a.m. local time: "O taste and see that the Lord is good. Blessed is the man that takes refuge in him."
@@ -1430,7 +1430,7 @@ Investigative Direction: Pull the original Erika Kirk X/Twitter post and confirm
 
 ---
 
-**C-2389** Erika tweeted "God is our refuge and strength" approximately 1.5 hours before Charlie Kirk's assassination
+**C-6642** Erika tweeted "God is our refuge and strength" approximately 1.5 hours before Charlie Kirk's assassination
 
 Claim Timestamp: 00:22:28
 Claim: Episode presents that Erika Kirk tweeted at 9:45 a.m. Arizona time on 2025-09-10, "God is our refuge and strength, a very present help in trouble," approximately 1.5 hours before Charlie Kirk's assassination that day.
@@ -1441,7 +1441,7 @@ Investigative Direction: Pull the original Erika Kirk X/Twitter post and compare
 
 ---
 
-**C-2390** The three scripture tweets of Sept 8, 9, and 10, 2025 occurred in immediate proximity to Charlie Kirk's assassination
+**C-6643** The three scripture tweets of Sept 8, 9, and 10, 2025 occurred in immediate proximity to Charlie Kirk's assassination
 
 Claim Timestamp: 00:22:28
 Claim: Episode presents that Erika Kirk's three scripture X/Twitter posts fell on September 8, 9, and 10, 2025, with the third occurring on the day of the assassination and within ~1.5 hours of the event.
@@ -1452,7 +1452,7 @@ Investigative Direction: Independent verification of Erika's X/Twitter posting t
 
 ---
 
-**C-2391** Among ~40 DOJ file mentions of "color of the day," the file for the day of Charlie Kirk's assassination is the only one with the color redacted
+**C-6656** Among ~40 DOJ file mentions of "color of the day," the file for the day of Charlie Kirk's assassination is the only one with the color redacted
 
 Claim Timestamp: 00:29:58
 Claim: Episode presents that, per a TikTok source, the speaker located ~40 DOJ file results containing the phrase "color of the day," and the file corresponding to the day of Charlie Kirk's assassination was the only one in which the color itself was redacted.
@@ -1463,7 +1463,7 @@ Investigative Direction: Pull the cited DOJ files directly, confirm the count an
 
 ---
 
-**C-2392** Turning Point USA told Newsweek that Erika moved the wedding photo to a lower shelf for her daughter
+**C-6662** Turning Point USA told Newsweek that Erika moved the wedding photo to a lower shelf for her daughter
 
 Claim Timestamp: 00:33:02
 Claim: Episode presents that a Turning Point USA spokesperson told Newsweek that Erika moved the wedding photo to a lower shelf "when her daughter asked to see it" so the child could "hold and look at the photo."
@@ -1474,7 +1474,7 @@ Investigative Direction: Pull the Newsweek article directly and confirm the exac
 
 ---
 
-**C-2393** Mikey McCoy was already occupying Charlie Kirk's home studio in the days and weeks after the assassination
+**C-6668** Mikey McCoy was already occupying Charlie Kirk's home studio in the days and weeks after the assassination
 
 Claim Timestamp: 00:37:36
 Claim: Episode presents that Mikey McCoy was using Charlie Kirk's home studio post-assassination, with evidence drawn from his Real America's Voice interview on 2025-11-08 and his Fox News/Martha MacCallum interview on 2025-09-22.
@@ -1485,7 +1485,7 @@ Investigative Direction: Pull the original Real America's Voice and Fox News/Mar
 
 ---
 
-**C-2394** The wedding photo was visible in the background of Mikey McCoy's 2025-09-22 Fox News interview but absent from his 2025-11-08 Real America's Voice interview
+**C-6670** The wedding photo was visible in the background of Mikey McCoy's 2025-09-22 Fox News interview but absent from his 2025-11-08 Real America's Voice interview
 
 Claim Timestamp: 00:38:26
 Claim: Episode presents that the wedding photo appeared in the background of Mikey McCoy's 2025-09-22 Fox News/Martha MacCallum interview but was absent from the corner of his 2025-11-08 Real America's Voice interview, per finds the host credits to a "mommy sleuth" (Nov 8) and "another sleuth" (Sept 22).
@@ -1496,7 +1496,7 @@ Investigative Direction: Pull the two interview segments and visually verify the
 
 ---
 
-**C-2395** Pam Bondi Asserts at a House Hearing That the Trump Administration Released Over 3 Million Pages of Epstein Documents and Trump Signed the Law Releasing Them
+**C-6690** Pam Bondi Asserts at a House Hearing That the Trump Administration Released Over 3 Million Pages of Epstein Documents and Trump Signed the Law Releasing Them
 
 Claim Timestamp: 00:46:09
 Claim: Episode presents that Attorney General Pam Bondi, in a hearing clip, asserted that the Trump administration released over 3 million pages of Epstein documents and that President Trump signed the law releasing them, characterizing him as "the most transparent president in the nation's history."
@@ -1507,7 +1507,7 @@ Investigative Direction: Pull the hearing transcript and video to confirm Bondi'
 ---
 
 
-**C-3663** Host elevates mommy sleuth crowd investigators
+**C-6669** Host elevates mommy sleuth crowd investigators
 
 Claim Timestamp: 00:37:36
 Claim: The host praises "mommy sleuth(s)" as amateur / parent investigators emailing tips, framed as part of the crowd intelligence effort.
@@ -1520,7 +1520,7 @@ Investigative Direction: Cross-link M-16 Mommy Sleuth meme when register present
 
 ---
 
-**C-10138** Host says Baron Coleman's episode on Erika and Jillian went viral and some call it grooming
+**C-6596** Host says Baron Coleman's episode on Erika and Jillian went viral and some call it grooming
 
 Claim Timestamp: 00:00:01
 
@@ -1536,7 +1536,7 @@ Investigative Direction: Pull Baron Coleman's episode and its view counts and co
 
 ---
 
-**C-10139** Host Says She Contacted Jillian Despite Coleman's Instruction Not To
+**C-6597** Host Says She Contacted Jillian Despite Coleman's Instruction Not To
 
 Claim Timestamp: 00:00:01
 
@@ -1551,7 +1551,7 @@ Investigative Direction: Obtain a signed account or call record from Jillian con
 
 ---
 
-**C-10140** Host says the show is going off air a week to prepare an Erika Kirk biographical series
+**C-6598** Host says the show is going off air a week to prepare an Erika Kirk biographical series
 
 Claim Timestamp: 00:01:13
 
@@ -1566,7 +1566,7 @@ Investigative Direction: Check the published title and release date of the Erika
 
 ---
 
-**C-10141** Host credits Nicey first and Baron Coleman second for surfacing the Jillian material
+**C-6599** Host credits Nicey first and Baron Coleman second for surfacing the Jillian material
 
 Claim Timestamp: 00:01:13
 
@@ -1581,7 +1581,7 @@ Investigative Direction: Find Nicey's original upload date and Coleman's episode
 
 ---
 
-**C-10142** Nicey (via host clip) says Erika moved to Michigan to be with basketball player Josh Harrellson in 2013
+**C-6601** Nicey (via host clip) says Erika moved to Michigan to be with basketball player Josh Harrellson in 2013
 
 Claim Timestamp: 00:02:07
 
@@ -1596,7 +1596,7 @@ Investigative Direction: Verify Erika's 2013 residence in Michigan and the end o
 
 ---
 
-**C-10143** Nicey says Jillian tweeted at 3:53 p.m. on Sept 15, 2013 that she was out for sushi
+**C-6602** Nicey says Jillian tweeted at 3:53 p.m. on Sept 15, 2013 that she was out for sushi
 
 Claim Timestamp: 00:02:07
 
@@ -1606,13 +1606,13 @@ Transcript Snippet: At 3:53 p. m., Jillian tweeted that she was out for sushi wi
 
 Anchored Artifacts: A-1780.1, A-1781.1
 Mentions: N-564, N-565, N-566, N-2
-Supports: C-2378
+Supports: C-6600
 Tags: relevance:core
 Investigative Direction: Retrieve Jillian's original tweets with their timestamps and the sushi venue to confirm the sequence.
 
 ---
 
-**C-10144** Nicey says the friend's grandparents were renting a home to Erika in Michigan
+**C-6603** Nicey says the friend's grandparents were renting a home to Erika in Michigan
 
 Claim Timestamp: 00:02:07
 
@@ -1622,13 +1622,13 @@ Transcript Snippet: Jillian had a friend and the friend's grandparents were rent
 
 Anchored Artifacts: A-1780.1
 Mentions: N-564, N-565, N-2
-Qualifies: C-2379
+Qualifies: C-6604
 Tags: relevance:core
 Investigative Direction: Ask Jillian which account of the first meeting is correct and obtain Michigan rental records for the home Erika leased.
 
 ---
 
-**C-10145** Host says Erika was working with sex trafficking charities in 2013
+**C-6605** Host says Erika was working with sex trafficking charities in 2013
 
 Claim Timestamp: 00:04:50
 
@@ -1644,7 +1644,7 @@ Investigative Direction: Identify the named charities and dates in Erika's offic
 
 ---
 
-**C-10146** Nicey says Jillian replied to Erika on Feb 13, 2014 'gorgeous as always'
+**C-6606** Nicey says Jillian replied to Erika on Feb 13, 2014 'gorgeous as always'
 
 Claim Timestamp: 00:04:50
 
@@ -1659,7 +1659,7 @@ Investigative Direction: Pull the archived tweet from Jillian's account and conf
 
 ---
 
-**C-10147** Nicey Says Jillian Tweeted a Valentine Image Erika Sent Reading 'I am going to touch your butt' Hours After Her Feb 13, 2014 Reply
+**C-6607** Nicey Says Jillian Tweeted a Valentine Image Erika Sent Reading 'I am going to touch your butt' Hours After Her Feb 13, 2014 Reply
 
 Claim Timestamp: 00:04:50
 
@@ -1669,13 +1669,13 @@ Transcript Snippet: And there is a photo which says, "This Valentine's Day I am 
 
 Anchored Artifacts: A-1781.3
 Mentions: N-564, N-565, N-2
-Supports: C-2380
+Supports: C-6608
 Tags: relevance:core
 Investigative Direction: Obtain the original tweet image and check whether the caption is a stock meme image and who sent it.
 
 ---
 
-**C-10148** Nicey says Jillian tweeted on April 3, 2014 that Erika texted her '#nonewfriends'
+**C-6611** Nicey says Jillian tweeted on April 3, 2014 that Erika texted her '#nonewfriends'
 
 Claim Timestamp: 00:06:37
 
@@ -1690,7 +1690,7 @@ Investigative Direction: Pull the April 3, 2014 tweets and the screenshot of the
 
 ---
 
-**C-10149** Nicey says Erika commented 'Unreal gorgeous' and 'I could see why, boo' on Jillian's Puerto Rico beach photo
+**C-6614** Nicey says Erika commented 'Unreal gorgeous' and 'I could see why, boo' on Jillian's Puerto Rico beach photo
 
 Claim Timestamp: 00:07:30
 
@@ -1705,7 +1705,7 @@ Investigative Direction: Retrieve the Instagram post and comment thread (or arch
 
 ---
 
-**C-10150** Host says Erika messaged Jillian 'No new friends' after Jillian posted a photo with someone her own age
+**C-6615** Host says Erika messaged Jillian 'No new friends' after Jillian posted a photo with someone her own age
 
 Claim Timestamp: 00:08:42
 
@@ -1715,13 +1715,13 @@ Transcript Snippet: message them when they posted a photo of them with a a perso
 
 Anchored Artifacts: A-1781.7
 Mentions: N-3, N-2, N-565
-Supports: C-10148
+Supports: C-6611
 Tags: relevance:core
 Investigative Direction: Ask Jillian what the April 3 photo showed and what exactly Erika's text said and when.
 
 ---
 
-**C-10151** Host says Jillian tweeted in June 2014 that she had not seen her dad in over two years
+**C-6616** Host says Jillian tweeted in June 2014 that she had not seen her dad in over two years
 
 Claim Timestamp: 00:11:13
 
@@ -1736,7 +1736,7 @@ Investigative Direction: Locate the original June 2014 tweet and confirm its dat
 
 ---
 
-**C-10152** Host says she and Charlie Kirk discussed father absence on the road
+**C-6617** Host says she and Charlie Kirk discussed father absence on the road
 
 Claim Timestamp: 00:11:13
 
@@ -1751,7 +1751,7 @@ Investigative Direction: Look for recorded or public statements by Kirk on fathe
 
 ---
 
-**C-10153** Host says Jillian told her she was blown away by Erika's attention at 15
+**C-6618** Host says Jillian told her she was blown away by Erika's attention at 15
 
 Claim Timestamp: 00:12:02
 
@@ -1766,7 +1766,7 @@ Investigative Direction: Obtain Jillian's own first-person account, ideally reco
 
 ---
 
-**C-10154** Host says Taylor Swift harnesses tween emotion to get business deals done
+**C-6619** Host says Taylor Swift harnesses tween emotion to get business deals done
 
 Claim Timestamp: 00:13:14
 
@@ -1781,7 +1781,7 @@ Investigative Direction: No case-relevant verification; record as the host's opi
 
 ---
 
-**C-10155** Host says Jillian is now 27 and fully appreciates how weird the relationship was
+**C-6620** Host says Jillian is now 27 and fully appreciates how weird the relationship was
 
 Claim Timestamp: 00:13:29
 
@@ -1796,7 +1796,7 @@ Investigative Direction: Confirm Jillian's birth year against the 15-years-old-i
 
 ---
 
-**C-10156** Host says Jillian noted Erika never had this relationship with her friend Cheyenne
+**C-6621** Host says Jillian noted Erika never had this relationship with her friend Cheyenne
 
 Claim Timestamp: 00:13:29
 
@@ -1811,7 +1811,7 @@ Investigative Direction: Identify Cheyenne and ask whether she had any contact w
 
 ---
 
-**C-10157** Host says Jillian told her she and Erika never hung out in person after the first meeting
+**C-6623** Host says Jillian told her she and Erika never hung out in person after the first meeting
 
 Claim Timestamp: 00:14:26
 
@@ -1826,7 +1826,7 @@ Investigative Direction: Ask Jillian for any evidence of in-person contact after
 
 ---
 
-**C-10158** Host says Erika set Jillian up with a friend photographer and framed it as help getting into modeling
+**C-6625** Host says Erika set Jillian up with a friend photographer and framed it as help getting into modeling
 
 Claim Timestamp: 00:15:15
 
@@ -1837,13 +1837,13 @@ Transcript Snippet: She's helping her cuz she's just so beautiful get into maybe
 Anchored Artifacts: A-1781.4, A-1782.4
 Mentions: N-3, N-2, N-565, N-568
 Related Nodes: N-10513
-Supports: C-2382
+Supports: C-6624
 Tags: relevance:core
 Investigative Direction: Ask Jillian for the messages in which Erika proposed the shoot and any photos or contacts from it.
 
 ---
 
-**C-10159** Host says Jillian recalls the photographer was male, shorter, chubbier, with a name beginning with R
+**C-6626** Host says Jillian recalls the photographer was male, shorter, chubbier, with a name beginning with R
 
 Claim Timestamp: 00:16:00
 
@@ -1859,7 +1859,7 @@ Investigative Direction: Identify the photographer from Erika's Michigan or Ariz
 
 ---
 
-**C-10160** Host says Jillian told her Erika never spoke to Jillian's mother
+**C-6627** Host says Jillian told her Erika never spoke to Jillian's mother
 
 Claim Timestamp: 00:16:56
 
@@ -1874,7 +1874,7 @@ Investigative Direction: Ask Jillian's mother whether she knew of Erika or the p
 
 ---
 
-**C-10161** Host says everything in Erika Kirk's story has proximity to child trafficking scandals
+**C-6628** Host says everything in Erika Kirk's story has proximity to child trafficking scandals
 
 Claim Timestamp: 00:17:39
 
@@ -1890,7 +1890,7 @@ Investigative Direction: Wait for the series and list each named charity and sca
 
 ---
 
-**C-10162** Host says TPUSA headquarters is almost directly across the street from Arizona Mills, which she calls Arizona's top trafficking location
+**C-6629** Host says TPUSA headquarters is almost directly across the street from Arizona Mills, which she calls Arizona's top trafficking location
 
 Claim Timestamp: 00:17:39
 
@@ -1901,13 +1901,13 @@ Transcript Snippet: They're almost directly across the street from the number on
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11250, N-10000
-Supports: C-6877
+Supports: C-4603
 Tags: relevance:core
 Investigative Direction: Map the TPUSA Phoenix address against Arizona Mills and find law-enforcement data supporting the trafficking characterization.
 
 ---
 
-**C-10163** Host says Tyler Bowyer handpicked the TPUSA location
+**C-6630** Host says Tyler Bowyer handpicked the TPUSA location
 
 Claim Timestamp: 00:18:26
 
@@ -1923,7 +1923,7 @@ Investigative Direction: Find the lease or purchase records and broker for the T
 
 ---
 
-**C-10164** Host says Tracy Martin, Erika's best friend, does charity work for trafficking victims via Dream City Church
+**C-6631** Host says Tracy Martin, Erika's best friend, does charity work for trafficking victims via Dream City Church
 
 Claim Timestamp: 00:19:03
 
@@ -1939,7 +1939,7 @@ Investigative Direction: Locate Tracy Martin's role in Dream City Church or Phoe
 
 ---
 
-**C-10165** Host says Dream City Church runs Phoenix Dream Center, which per its website serves trafficking victims
+**C-6632** Host says Dream City Church runs Phoenix Dream Center, which per its website serves trafficking victims
 
 Claim Timestamp: 00:19:03
 
@@ -1955,7 +1955,7 @@ Investigative Direction: Capture the Phoenix Dream Center website text and confi
 
 ---
 
-**C-10166** Host says Stacy Sheridan's resume says she worked 8 years at Pepperdine in Kenneth Starr's office
+**C-6633** Host says Stacy Sheridan's resume says she worked 8 years at Pepperdine in Kenneth Starr's office
 
 Claim Timestamp: 00:19:48
 
@@ -1971,7 +1971,7 @@ Investigative Direction: Obtain the resume, request Pepperdine employment confir
 
 ---
 
-**C-10167** Host says Stacy Sheridan worked for Kenneth Starr for almost a decade while Starr was working with Epstein
+**C-6634** Host says Stacy Sheridan worked for Kenneth Starr for almost a decade while Starr was working with Epstein
 
 Claim Timestamp: 00:19:48
 
@@ -1987,7 +1987,7 @@ Investigative Direction: Document Starr's work for Epstein with dates and overla
 
 ---
 
-**C-10168** Host says Stacy Sheridan is not Erika's real mother and Lori is
+**C-6635** Host says Stacy Sheridan is not Erika's real mother and Lori is
 
 Claim Timestamp: 00:19:48
 
@@ -2002,7 +2002,7 @@ Investigative Direction: Check birth, family or probate records and Erika's own 
 
 ---
 
-**C-10169** Host says Lori was running Desert Spirit Tech on a Native American reservation
+**C-6636** Host says Lori was running Desert Spirit Tech on a Native American reservation
 
 Claim Timestamp: 00:19:48
 
@@ -2018,7 +2018,7 @@ Investigative Direction: Pull Desert Spirit Tech's corporate filing and identify
 
 ---
 
-**C-10170** Host says viewers emailed about high incidence of child trafficking from that reservation
+**C-6637** Host says viewers emailed about high incidence of child trafficking from that reservation
 
 Claim Timestamp: 00:19:48
 
@@ -2034,7 +2034,7 @@ Investigative Direction: Check tribal, federal or state data on trafficking inci
 
 ---
 
-**C-10171** Host says someone reported that the Desert Spirit Tech reservation office address does not exist
+**C-6638** Host says someone reported that the Desert Spirit Tech reservation office address does not exist
 
 Claim Timestamp: 00:20:53
 
@@ -2050,7 +2050,7 @@ Investigative Direction: Verify the filed address against county or tribal parce
 
 ---
 
-**C-10172** Host says Erika was weird about giving an alibi for September 8 and someone believes they saw her at Fort Huachuca
+**C-6639** Host says Erika was weird about giving an alibi for September 8 and someone believes they saw her at Fort Huachuca
 
 Claim Timestamp: 00:20:53
 
@@ -2066,7 +2066,7 @@ Investigative Direction: Identify the witness who reported a Fort Huachuca sight
 
 ---
 
-**C-10173** Host says Jillian is speaking with her because she wants people to stop messaging her
+**C-6644** Host says Jillian is speaking with her because she wants people to stop messaging her
 
 Claim Timestamp: 00:22:58
 
@@ -2081,7 +2081,7 @@ Investigative Direction: Confirm with Jillian that she asked followers to stop c
 
 ---
 
-**C-10174** Host Puts Out an APB for Information
+**C-6645** Host Puts Out an APB for Information
 
 Claim Timestamp: 00:22:58
 
@@ -2091,13 +2091,13 @@ Transcript Snippet: I want to be thorough and again put out an APB for certain i
 
 Anchored Artifacts: A-3057.1
 Mentions: N-3
-Supports: C-10175
+Supports: C-6646
 Tags: relevance:core
 Investigative Direction: Record the volume and content of tips received at the address after this appeal.
 
 ---
 
-**C-10175** DIA beat: host asks viewers to email moretips@candaceowens.com and not clutter the inbox
+**C-6646** DIA beat: host asks viewers to email moretips@candaceowens.com and not clutter the inbox
 
 Claim Timestamp: 00:23:36
 
@@ -2112,7 +2112,7 @@ Investigative Direction: Log tips received and which of the listed questions the
 
 ---
 
-**C-10176** Host says her team is working to identify the photographer and expects more information next week
+**C-6647** Host says her team is working to identify the photographer and expects more information next week
 
 Claim Timestamp: 00:23:36
 
@@ -2128,7 +2128,7 @@ Investigative Direction: Watch for the host's follow-up identifying the photogra
 
 ---
 
-**C-10177** Host says Erika tweeted that she knew someone who was at the Batman Colorado theater shooting
+**C-6648** Host says Erika tweeted that she knew someone who was at the Batman Colorado theater shooting
 
 Claim Timestamp: 00:24:25
 
@@ -2144,7 +2144,7 @@ Investigative Direction: Find Erika's original tweet and identify the person; ch
 
 ---
 
-**C-10178** Host says Erika's biography has her from Ohio until high school and then suddenly in Arizona
+**C-6649** Host says Erika's biography has her from Ohio until high school and then suddenly in Arizona
 
 Claim Timestamp: 00:24:25
 
@@ -2160,7 +2160,7 @@ Investigative Direction: Check Ohio school records and classmates for Erika Fran
 
 ---
 
-**C-10179** DIA beat: host asks Ohio schoolmates to email moretips@candaceowens.com
+**C-6650** DIA beat: host asks Ohio schoolmates to email moretips@candaceowens.com
 
 Claim Timestamp: 00:25:08
 
@@ -2171,13 +2171,13 @@ Transcript Snippet: Moretips@candaceowens. com. Did you attend elementary school
 Anchored Artifacts: A-3059.1
 Mentions: N-3, N-2
 Related Nodes: N-10516
-Supports: C-10178
+Supports: C-6649
 Tags: relevance:context
 Investigative Direction: Log responses from Ohio schoolmates and check yearbooks for Erika Frantzve.
 
 ---
 
-**C-10180** Host says classmates from Stacy Sheridan's year at Loyola Marymount do not remember Erika and no one has come forward
+**C-6651** Host says classmates from Stacy Sheridan's year at Loyola Marymount do not remember Erika and no one has come forward
 
 Claim Timestamp: 00:25:08
 
@@ -2193,7 +2193,7 @@ Investigative Direction: Obtain the Loyola Marymount program, enrollment verific
 
 ---
 
-**C-10181** Host says TPUSA employees were told Erika got the news while with her mom and drove herself home
+**C-6652** Host says TPUSA employees were told Erika got the news while with her mom and drove herself home
 
 Claim Timestamp: 00:25:50
 
@@ -2209,7 +2209,7 @@ Investigative Direction: Identify the employees who were told this and the sourc
 
 ---
 
-**C-10182** Host says neighbors do not remember seeing Erika on Sept 10 and she reportedly met Stacy Sheridan then went to the airport
+**C-6653** Host says neighbors do not remember seeing Erika on Sept 10 and she reportedly met Stacy Sheridan then went to the airport
 
 Claim Timestamp: 00:25:50
 
@@ -2225,7 +2225,7 @@ Investigative Direction: Canvass neighbors and the Scottsdale terminal for sight
 
 ---
 
-**C-10183** Host says September 10 was obviously a military operation
+**C-6654** Host says September 10 was obviously a military operation
 
 Claim Timestamp: 00:28:58
 
@@ -2236,13 +2236,13 @@ Transcript Snippet: which I believe September 10th was obviously a military oper
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10275
-Supports: C-5098
+Supports: C-3547
 Tags: relevance:core
 Investigative Direction: Compare participant lists and unit affiliations of the maroon-shirt men with any military or federal rosters.
 
 ---
 
-**C-10184** Host says she hypothesized a color of the day and that everyone in maroon was involved
+**C-6655** Host says she hypothesized a color of the day and that everyone in maroon was involved
 
 Claim Timestamp: 00:28:58
 
@@ -2258,7 +2258,7 @@ Investigative Direction: Identify the maroon-shirted men and establish whether a
 
 ---
 
-**C-10185** TikToker says military people confirmed they choose a color of the day during secret operations in public areas
+**C-6657** TikToker says military people confirmed they choose a color of the day during secret operations in public areas
 
 Claim Timestamp: 00:29:58
 
@@ -2274,7 +2274,7 @@ Investigative Direction: Ask military veterans or doctrine sources whether color
 
 ---
 
-**C-10186** TikToker says on the morning of the assassination a color of the day was established for a sit rep
+**C-6658** TikToker says on the morning of the assassination a color of the day was established for a sit rep
 
 Claim Timestamp: 00:29:58
 
@@ -2285,13 +2285,13 @@ Transcript Snippet: However, on the day of Charlie Kirk's assassination, the mor
 Anchored Artifacts: A-1786.1
 Mentions: N-1
 Related Nodes: N-10511
-Supports: C-2391
+Supports: C-6656
 Tags: relevance:core
 Investigative Direction: Pull the cited DOJ file, read the sit rep header, and identify the operation and issuing office.
 
 ---
 
-**C-10187** Host says the attendees looked organized by battalion with white hats and high socks
+**C-6659** Host says the attendees looked organized by battalion with white hats and high socks
 
 Claim Timestamp: 00:31:10
 
@@ -2302,13 +2302,13 @@ Transcript Snippet: I felt like they were organizing by battalion. Some people w
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10275
-Supports: C-5098
+Supports: C-3547
 Tags: relevance:core
 Investigative Direction: Catalog attire across event footage to test the white-hat and sock-height patterns.
 
 ---
 
-**C-10188** Host cautions the redacted color of the day may refer to some other operation that day
+**C-6660** Host cautions the redacted color of the day may refer to some other operation that day
 
 Claim Timestamp: 00:31:52
 
@@ -2319,13 +2319,13 @@ Transcript Snippet: It could be pertaining to any number of military operations 
 Anchored Artifacts: A-1786.1
 Mentions: N-3
 Related Nodes: N-10511
-Qualifies: C-2391
+Qualifies: C-6656
 Tags: relevance:core
 Investigative Direction: Request the redacted file under FOIA with a segregability review to identify the operation.
 
 ---
 
-**C-10189** Host says the maroon boys were somehow involved and each came to the event alone
+**C-6661** Host says the maroon boys were somehow involved and each came to the event alone
 
 Claim Timestamp: 00:31:52
 
@@ -2341,7 +2341,7 @@ Investigative Direction: Check footage to see whether the maroon-shirt men atten
 
 ---
 
-**C-10190** Host says the wedding photo was in Charlie's last show and gone when Erika spoke to Glenn Beck in December
+**C-6663** Host says the wedding photo was in Charlie's last show and gone when Erika spoke to Glenn Beck in December
 
 Claim Timestamp: 00:33:02
 
@@ -2357,7 +2357,7 @@ Investigative Direction: Compare dated screenshots of Charlie's last show with t
 
 ---
 
-**C-10191** Host quotes Erika telling Beck she had not been in the studio in forever
+**C-6664** Host quotes Erika telling Beck she had not been in the studio in forever
 
 Claim Timestamp: 00:33:02
 
@@ -2373,7 +2373,7 @@ Investigative Direction: Pull the Beck interview video and transcribe Erika's ex
 
 ---
 
-**C-10192** Host says she thinks Josh Hammer is Newsweek's editor at large
+**C-6665** Host says she thinks Josh Hammer is Newsweek's editor at large
 
 Claim Timestamp: 00:33:02
 
@@ -2389,7 +2389,7 @@ Investigative Direction: Confirm Hammer's Newsweek title and whether he edited o
 
 ---
 
-**C-10193** Host recaps toddler-based alibis, including that GG kicked Charlie out of bed the night before
+**C-6666** Host recaps toddler-based alibis, including that GG kicked Charlie out of bed the night before
 
 Claim Timestamp: 00:34:48
 
@@ -2405,7 +2405,7 @@ Investigative Direction: Find the original statements from TPUSA or Erika about 
 
 ---
 
-**C-10194** Host says she can now debunk her earlier suspicion that Charlie moved the photo himself
+**C-6667** Host says she can now debunk her earlier suspicion that Charlie moved the photo himself
 
 Claim Timestamp: 00:36:28
 
@@ -2421,7 +2421,7 @@ Investigative Direction: Establish by dated images exactly when the photo left t
 
 ---
 
-**C-10195** Host says Mikey McCoy was being hard-launched as slated to take over for Charlie
+**C-6671** Host says Mikey McCoy was being hard-launched as slated to take over for Charlie
 
 Claim Timestamp: 00:38:26
 
@@ -2432,13 +2432,13 @@ Transcript Snippet: Mikey was Mikey was like slated to take over for Charlie and
 Anchored Artifacts: A-1789.1
 Mentions: N-3, N-190, N-1
 Related Nodes: N-10512
-Supports: C-6553
+Supports: C-2262
 Tags: relevance:core
 Investigative Direction: Collect TPUSA announcements on McCoy's role and media schedule for September 2025.
 
 ---
 
-**C-10196** Host says Erika was on a Zoom call with employees on September 22 telling them to get back to work
+**C-6672** Host says Erika was on a Zoom call with employees on September 22 telling them to get back to work
 
 Claim Timestamp: 00:38:26
 
@@ -2454,7 +2454,7 @@ Investigative Direction: Obtain a recording, transcript or attendee account of t
 
 ---
 
-**C-10197** Host speculates Mikey got ahead of himself and moved the wedding photo
+**C-6673** Host speculates Mikey got ahead of himself and moved the wedding photo
 
 Claim Timestamp: 00:39:09
 
@@ -2470,7 +2470,7 @@ Investigative Direction: Ask McCoy or studio staff who moved the photo and when;
 
 ---
 
-**C-10198** Host says she strongly believes Charlie and Erika had a fight on the 9th
+**C-6674** Host says she strongly believes Charlie and Erika had a fight on the 9th
 
 Claim Timestamp: 00:40:04
 
@@ -2486,7 +2486,7 @@ Investigative Direction: Identify any witness, message or record from the evenin
 
 ---
 
-**C-10199** Moskowitz says the Epstein list was on Bondi's desk and a memo then said there was no list
+**C-6675** Moskowitz says the Epstein list was on Bondi's desk and a memo then said there was no list
 
 Claim Timestamp: 00:41:33
 
@@ -2502,7 +2502,7 @@ Investigative Direction: Obtain the hearing video, the July 2025 DOJ memo and Bo
 
 ---
 
-**C-10200** Moskowitz says the president called the Epstein matter a hoax and blamed Obama
+**C-6676** Moskowitz says the president called the Epstein matter a hoax and blamed Obama
 
 Claim Timestamp: 00:41:33
 
@@ -2513,13 +2513,13 @@ Transcript Snippet: The president of the United States says the Epstein thing is
 Anchored Artifacts: A-1790.1
 Mentions: N-567, N-5
 Related Nodes: N-10324
-Supports: C-6650
+Supports: C-2785
 Tags: relevance:context
 Investigative Direction: Collect the president's dated statements on the Epstein matter.
 
 ---
 
-**C-10201** Moskowitz says Maxwell met the Deputy AG, said something favorable about the president, and was moved to minimum security
+**C-6677** Moskowitz says Maxwell met the Deputy AG, said something favorable about the president, and was moved to minimum security
 
 Claim Timestamp: 00:42:12
 
@@ -2535,7 +2535,7 @@ Investigative Direction: Check Bureau of Prisons transfer records and the Maxwel
 
 ---
 
-**C-10202** Moskowitz says the White House brought Republican signers into the Situation Room over the Massie petition
+**C-6678** Moskowitz says the White House brought Republican signers into the Situation Room over the Massie petition
 
 Claim Timestamp: 00:42:12
 
@@ -2551,7 +2551,7 @@ Investigative Direction: Identify the members who described the Situation Room m
 
 ---
 
-**C-10203** Moskowitz says the president signed the release law only because of a veto-proof majority
+**C-6679** Moskowitz says the president signed the release law only because of a veto-proof majority
 
 Claim Timestamp: 00:43:01
 
@@ -2567,7 +2567,7 @@ Investigative Direction: Check the vote tallies for the Epstein Files Transparen
 
 ---
 
-**C-10204** Moskowitz says Patel told Senator Kennedy under oath that the FBI had no credible evidence Epstein trafficked girls to anyone but himself
+**C-6680** Moskowitz says Patel told Senator Kennedy under oath that the FBI had no credible evidence Epstein trafficked girls to anyone but himself
 
 Claim Timestamp: 00:43:01
 
@@ -2583,7 +2583,7 @@ Investigative Direction: Pull Patel's letter and sworn statement to Sen. Kennedy
 
 ---
 
-**C-10205** Moskowitz says documents show Epstein had a worldwide trafficking ring and groomed girls at a summer camp
+**C-6681** Moskowitz says documents show Epstein had a worldwide trafficking ring and groomed girls at a summer camp
 
 Claim Timestamp: 00:43:01
 
@@ -2599,7 +2599,7 @@ Investigative Direction: Cite the specific released documents for each element.
 
 ---
 
-**C-10206** Moskowitz says Maxwell says 29 Epstein associates cut secret DOJ deals
+**C-6682** Moskowitz says Maxwell says 29 Epstein associates cut secret DOJ deals
 
 Claim Timestamp: 00:43:01
 
@@ -2615,7 +2615,7 @@ Investigative Direction: Identify the source for Maxwell's claim and any DOJ con
 
 ---
 
-**C-10207** Moskowitz says there is a list with six names that can be seen if unredacted and Maxwell wants clemency to release more names
+**C-6683** Moskowitz says there is a list with six names that can be seen if unredacted and Maxwell wants clemency to release more names
 
 Claim Timestamp: 00:43:47
 
@@ -2631,7 +2631,7 @@ Investigative Direction: Check the redaction logs and Maxwell's Oversight appear
 
 ---
 
-**C-10208** Moskowitz says Patel's under-oath claim that Trump's name appears under 100 times is untrue
+**C-6684** Moskowitz says Patel's under-oath claim that Trump's name appears under 100 times is untrue
 
 Claim Timestamp: 00:43:47
 
@@ -2647,7 +2647,7 @@ Investigative Direction: Count occurrences of the president's name in the releas
 
 ---
 
-**C-10209** Moskowitz says Lutnick told of visiting Epstein's home in 2008 and seeing a massage table
+**C-6685** Moskowitz says Lutnick told of visiting Epstein's home in 2008 and seeing a massage table
 
 Claim Timestamp: 00:43:47
 
@@ -2663,7 +2663,7 @@ Investigative Direction: Find Lutnick's own account of the 2008 visit and compar
 
 ---
 
-**C-10210** Moskowitz says Lutnick said Epstein was the greatest blackmailer of all time and the Epstein stuff is on video
+**C-6686** Moskowitz says Lutnick said Epstein was the greatest blackmailer of all time and the Epstein stuff is on video
 
 Claim Timestamp: 00:44:34
 
@@ -2679,7 +2679,7 @@ Investigative Direction: Identify the source document or interview for the quote
 
 ---
 
-**C-10211** Moskowitz says Lutnick and family were on Epstein's island in 2012 after Epstein's guilty plea
+**C-6687** Moskowitz says Lutnick and family were on Epstein's island in 2012 after Epstein's guilty plea
 
 Claim Timestamp: 00:44:34
 
@@ -2695,7 +2695,7 @@ Investigative Direction: Find the document placing the Lutnick family on the isl
 
 ---
 
-**C-10212** Moskowitz says documents dispute the president's claim that he kicked Epstein out of his club
+**C-6688** Moskowitz says documents dispute the president's claim that he kicked Epstein out of his club
 
 Claim Timestamp: 00:44:34
 
@@ -2711,7 +2711,7 @@ Investigative Direction: Retrieve the club manager statements and compare with t
 
 ---
 
-**C-10213** Bondi tells Moskowitz nothing is funny about mocking the Bible and holding up a Trump Bible
+**C-6689** Bondi tells Moskowitz nothing is funny about mocking the Bible and holding up a Trump Bible
 
 Claim Timestamp: 00:45:31
 
@@ -2727,7 +2727,7 @@ Investigative Direction: Obtain the hearing video and transcript for Bondi's exa
 
 ---
 
-**C-10214** Host says Moskowitz did not mock the Bible in any way
+**C-6691** Host says Moskowitz did not mock the Bible in any way
 
 Claim Timestamp: 00:46:09
 
@@ -2738,13 +2738,13 @@ Transcript Snippet: Actually, he did not mock the Bible in any way.
 Anchored Artifacts: A-3063.1
 Mentions: N-3, N-567, N-85
 Related Nodes: N-10324
-Contradicts: C-10213
+Contradicts: C-6689
 Tags: relevance:context
 Investigative Direction: Review Moskowitz's prop and wording in the hearing video.
 
 ---
 
-**C-10215** Bondi says none of Trump's critics asked Merrick Garland about Epstein in four years
+**C-6692** Bondi says none of Trump's critics asked Merrick Garland about Epstein in four years
 
 Claim Timestamp: 00:46:09
 
@@ -2760,7 +2760,7 @@ Investigative Direction: Check Garland-era oversight hearings for questions on E
 
 ---
 
-**C-10216** Bondi cites the Dow at over 50,000, the S&P near 7,000 and rising 401(k)s as what Congress should discuss
+**C-6693** Bondi cites the Dow at over 50,000, the S&P near 7,000 and rising 401(k)s as what Congress should discuss
 
 Claim Timestamp: 00:47:17
 
@@ -2775,7 +2775,7 @@ Investigative Direction: Check index closing values on the hearing date.
 
 ---
 
-**C-10217** Host says Alex Clark demanded that Dylan call the host's sponsor Paleo Valley
+**C-6694** Host says Alex Clark demanded that Dylan call the host's sponsor Paleo Valley
 
 Claim Timestamp: 00:50:28
 
@@ -2791,7 +2791,7 @@ Investigative Direction: Ask Paleo Valley whether it received such a call and id
 
 ---
 
-**C-10218** Host says she criticized Alex Clark for posing in boots over the Charlie memorial site for a newspaper photo
+**C-6695** Host says she criticized Alex Clark for posing in boots over the Charlie memorial site for a newspaper photo
 
 Claim Timestamp: 00:50:28
 
@@ -2802,13 +2802,13 @@ Transcript Snippet: because I had gone after her for dressing up in boots and st
 Anchored Artifacts: 
 Mentions: N-3, N-99, N-1
 Related Nodes: N-11098
-Supports: C-6491
+Supports: C-1376
 Tags: relevance:context
 Investigative Direction: Find the published photograph and identify the outlet; the host elsewhere names the WSJ.
 
 ---
 
-**C-10219** Host says Paleo Valley never told her about the call
+**C-6696** Host says Paleo Valley never told her about the call
 
 Claim Timestamp: 00:53:18
 
@@ -2824,7 +2824,7 @@ Investigative Direction: Ask Paleo Valley to confirm or deny any contact from TP
 
 ---
 
-**C-10220** DIA beat: host reminds viewers to email more tips at candaceowens.com
+**C-6697** DIA beat: host reminds viewers to email more tips at candaceowens.com
 
 Claim Timestamp: 00:54:08
 
@@ -2839,7 +2839,7 @@ Investigative Direction: Tally tips received after this reminder against the ope
 
 ---
 
-**C-10221** Host says the show will be dark and return Monday the 23rd
+**C-6698** Host says the show will be dark and return Monday the 23rd
 
 Claim Timestamp: 00:55:02
 
@@ -2854,7 +2854,7 @@ Investigative Direction: Check the channel's upload log for the next episode dat
 
 ---
 
-**C-10222** Host says the 1960s were one big psyop and Tavistock social engineering is real
+**C-6699** Host says the 1960s were one big psyop and Tavistock social engineering is real
 
 Claim Timestamp: 00:56:03
 
@@ -2869,7 +2869,7 @@ Investigative Direction: No case-specific verification; record as the host's gen
 
 ---
 
-**C-10223** Host says Erika's 'we're a family' message mirrors engineered shared trauma after an assassination
+**C-6700** Host says Erika's 'we're a family' message mirrors engineered shared trauma after an assassination
 
 Claim Timestamp: 00:56:47
 
@@ -2885,7 +2885,7 @@ Investigative Direction: Collect Erika's 'we're a family' statements with dates 
 
 ---
 
-**C-10224** Host says Crowder was the one who got the Nashville notebook
+**C-6701** Host says Crowder was the one who got the Nashville notebook
 
 Claim Timestamp: 00:56:47
 
@@ -2901,7 +2901,7 @@ Investigative Direction: Check Crowder's Nashville reporting and the source of t
 
 ---
 
-**C-10225** Host says Crowder knew he was shoveling out fed slop about the inscribed bullets
+**C-6702** Host says Crowder knew he was shoveling out fed slop about the inscribed bullets
 
 Claim Timestamp: 00:56:47
 
@@ -2917,7 +2917,7 @@ Investigative Direction: Find Crowder's first publication of the bullet inscript
 
 ---
 
-**C-10226** Host says Tyler Robinson's defense team has not reached out to her about tips
+**C-6703** Host says Tyler Robinson's defense team has not reached out to her about tips
 
 Claim Timestamp: 00:58:26
 

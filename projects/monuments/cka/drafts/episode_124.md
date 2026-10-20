@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep124): N-10748
   - Tip-minted Nodes (reintro-ep124): N-11065
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10b): C-7203–C-7279
+  - Claim Range: C-10598–C-10694
   - New Nodes Introduced: N-10709, N-10712
   - Reused Nodes Appearing: N-487, N-3, N-267, N-366, N-97, N-1, N-40, N-7, N-14, N-36, N-125, N-159, N-163, N-266, N-270, N-278, N-365, N-607, N-10000, N-10012, N-10018, N-10022, N-10027, N-10028, N-10051, N-10077, N-10381, N-10386, N-10389, N-10495, N-10572, N-10598, N-10679, N-10692, N-10703, N-10729, N-10900, N-10975, N-11017, N-10710, N-10711, N-11135, N-776, N-11137, N-58, N-492, N-10713
   - (see registers)
@@ -34,7 +34,7 @@
 
 Episode 124 Ledger Summary
 Artifact Families Introduced: A-2115, A-2116, A-2117, A-2118, A-2119, A-2120, A-2121, A-2122, A-2123, A-2124, A-2125, A-2126, A-2127, A-2128
-Claim Range: C-3000 – C-3016, C-3761, C-3764, C-3770
+Claim Range: C-10600 – C-10629, C-10677, C-10678, C-10603
 New Nodes Introduced: N-10709, N-10710, N-10711, N-10712, N-10713
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), and prior-episode figures referenced by name (Tyler Robinson, Lance Twiggs, Ben Shapiro, Mike Mitchell, Matt Robinson, Bill Ackman, Bari Weiss, Benny Johnson, Josh Hammer, Caitlin Oliver, Samantha Karner, Miss Noble, Jeremy Boreing, Tim Pool, Blake Neff, Baron Coleman, Frank Turek, Brian Harpole, Rick Cutler, Justin Davis, Dan Flood, Andrew Kolvet/Kulvat, Brandon Tatum, Graham Allen, Mike Lee, Clay Travis, Carrie Prejean Boller)
 
@@ -58,7 +58,7 @@ Confidence: high
 Video Timestamp: 01:07:02
 Speaker: N-3
 Quote: I will put up $10,000 bounty on that piece of information. Tips at candace. com.
-Context: DIA tip-line call: host offers a $10,000 bounty for evidence of who Ben Shapiro was at lunch with (C-3764).
+Context: DIA tip-line call: host offers a $10,000 bounty for evidence of who Ben Shapiro was at lunch with (C-10678).
 Tags: tips_network, dia_tip_line, transcript_backfill
 Confidence: high
 
@@ -69,7 +69,7 @@ Confidence: high
 Video Timestamp: 00:25:33
 Speaker: N-3
 Quote: please email us tips at kennace. com.
-Context: Host asks for tips on when the K9 officers arrived (C-7229).
+Context: Host asks for tips on when the K9 officers arrived (C-10632).
 Tags: dia, tips, tip line
 Confidence: high
 
@@ -278,7 +278,7 @@ Video Timestamp: 00:04:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3000, N-2*
+*Related: C-10600, N-2*
 
 ---
 
@@ -292,7 +292,7 @@ Video Timestamp: 00:05:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3001*
+*Related: C-10601*
 
 ---
 
@@ -306,7 +306,7 @@ Video Timestamp: 00:07:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3002, N-37*
+*Related: C-10602, N-37*
 
 **A-2117.2** Audio clip of commentator stating Tyler Robinson's parents identified him from a news photo and began questioning him about his grandfather's gun.
 
@@ -316,7 +316,7 @@ Video Timestamp: 00:07:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3002*
+*Related: C-10602*
 
 **A-2117.3** Audio clip of commentator citing "three confessions" and stating local sheriffs took first statements from Robinson's parents identifying him as shooter and providing motive.
 
@@ -326,7 +326,7 @@ Video Timestamp: 00:08:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3002*
+*Related: C-10602*
 
 **A-2117.4** Host's on-air account that Bill Ackman ("Bill Ackman" in the captions) immediately pledged $1 million to Tyler Robinson's father, Matt Robinson, for turning in his son (verbal reference; no displayed artifact)
 
@@ -336,7 +336,7 @@ Video Timestamp: 00:06:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host account; pledge not shown)
 
-*Related: C-3770, N-37, N-40*
+*Related: C-10603, N-37, N-40*
 
 ---
 
@@ -350,7 +350,7 @@ Video Timestamp: 00:17:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3003, Tyler Robinson (existing)*
+*Related: C-10620, Tyler Robinson (existing)*
 
 **A-2118.2** Audio of Lance Twiggs stating Tyler Robinson was not political, did not discuss Charlie Kirk, and engaged with politics primarily via radio during carpool.
 
@@ -360,7 +360,7 @@ Video Timestamp: 00:27:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3004, Tyler Robinson (existing)*
+*Related: C-10636, Tyler Robinson (existing)*
 
 ---
 
@@ -374,7 +374,7 @@ Video Timestamp: 00:20:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3005*
+*Related: C-10623*
 
 ---
 
@@ -388,7 +388,7 @@ Video Timestamp: 00:19:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3006, N-10709*
+*Related: C-10621, N-10709*
 
 **A-2120.2** Still image of Tyler Robinson's actual Dodge Challenger (post-tow), featuring a singular exhaust pipe.
 
@@ -398,7 +398,7 @@ Video Timestamp: 00:19:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3006, N-10709*
+*Related: C-10621, N-10709*
 
 ---
 
@@ -412,7 +412,7 @@ Video Timestamp: 00:14:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3007*
+*Related: C-10649*
 
 **A-2121.2** Witness audio testimony explaining Exhibit 12.1 enhancements relative to 12.4 (red circles/ovals highlighting individuals, face blurring in parking garage footage, zoom in/out on rooftop segment).
 
@@ -422,7 +422,7 @@ Video Timestamp: 00:43:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3008*
+*Related: C-10651*
 
 ---
 
@@ -436,7 +436,7 @@ Video Timestamp: 00:46:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3009*
+*Related: C-10652*
 
 ---
 
@@ -450,7 +450,7 @@ Video Timestamp: 00:24:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3016*
+*Related: C-10629*
 
 ---
 
@@ -464,7 +464,7 @@ Video Timestamp: 00:31:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3010*
+*Related: C-10638*
 
 **A-2124.2** Audio of Caitlin Oliver explaining DNA samples from the trigger and trigger guard were mixed samples with at least 4–7 contributors, with "major contributor"/"minor contributor" referring only to DNA quantity contributed, not to activity attribution.
 
@@ -474,7 +474,7 @@ Video Timestamp: 00:32:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3011*
+*Related: C-10639*
 
 **A-2124.3** Audio of Caitlin Oliver confirming that Tyler Robinson's DNA sample was the most degraded of all contributors on the firearm (swab 1.3 of trigger/trigger guard).
 
@@ -484,7 +484,7 @@ Video Timestamp: 00:35:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3012, N-10711*
+*Related: C-10642, N-10711*
 
 ---
 
@@ -498,7 +498,7 @@ Video Timestamp: 00:40:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3013, N-10710*
+*Related: C-10647, N-10710*
 
 ---
 
@@ -512,7 +512,7 @@ Video Timestamp: 00:49:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3014*
+*Related: C-10653*
 
 ---
 
@@ -526,7 +526,7 @@ Video Timestamp: 01:01:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3015, N-10712, N-1*
+*Related: C-10667, N-10712, N-1*
 
 **A-2127.2** Host's on-air $10,000 bounty for who Ben Shapiro was at lunch with in LA when Charlie Kirk was shot, with tips to candaceowens.com (verbal reference; no displayed artifact)
 
@@ -536,7 +536,7 @@ Video Timestamp: 01:07:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3764, N-3, N-97, N-10712*
+*Related: C-10678, N-3, N-97, N-10712*
 
 ---
 
@@ -560,7 +560,7 @@ Video Timestamp: 01:19:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3004*
+*Related: C-10636*
 
 ---
 
@@ -575,7 +575,7 @@ Video Timestamp: 00:25:33
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7229, N-3*
+*Related: C-10632, N-3*
 
 ---
 
@@ -588,7 +588,7 @@ Video Timestamp: 00:21:42
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7223, N-3*
+*Related: C-10625, N-3*
 
 ---
 
@@ -601,7 +601,7 @@ Video Timestamp: 01:09:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7268, C-7269, N-3*
+*Related: C-10683, C-10684, N-3*
 
 ---
 
@@ -611,7 +611,7 @@ Confidence Level: Low
 
 First named by the host at 01:03:20 in episode 124.
 
-*Related: C-3015*
+*Related: C-10667*
 
 **N-10709** Car Exhaust Pipe Discrepancy
 
@@ -622,7 +622,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2120.1, A-2120.2, C-3006*
+*Related: A-2120.1, A-2120.2, C-10621*
 
 ---
 
@@ -635,7 +635,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2125.1, C-3013*
+*Related: A-2125.1, C-10647*
 
 ---
 
@@ -648,7 +648,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2124.3, C-3012*
+*Related: A-2124.3, C-10642*
 
 ---
 
@@ -661,7 +661,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2127.1, C-3015, N-1*
+*Related: A-2127.1, C-10667, N-1*
 
 ---
 
@@ -682,7 +682,7 @@ Investigative Pressure: Low
 
 Subject of the assassination; the hearing, the transport car and the Shapiro updates all concern him.
 
-*Related: C-7203, C-7206, C-7213, C-7222, C-7232, C-7239, C-7242, C-7250, C-7252, C-7256, C-7257, C-7258, C-7259, C-7263, C-7264, C-7265, C-7266, C-7267, C-7272, C-7276*
+*Related: C-10598, C-10605, C-10612, C-10624, C-10635, C-10646, C-10654, C-10662, C-10664, C-10669, C-10670, C-10671, C-10672, C-10676, C-10679, C-10680, C-10681, C-10682, C-10687, C-10691*
 
 ---
 
@@ -690,7 +690,7 @@ Subject of the assassination; the hearing, the transport car and the Shapiro upd
 
 Turning Point USA; where staff and leadership are discussed throughout.
 
-*Related: C-7222, C-7252*
+*Related: C-10624, C-10664*
 
 ---
 
@@ -698,7 +698,7 @@ Turning Point USA; where staff and leadership are discussed throughout.
 
 Utah Valley University; the hearing and the Loy Center are tied to it.
 
-*Related: C-7217, C-7218, C-7220, C-7221, C-7241*
+*Related: C-10616, C-10617, C-10619, C-10622, C-10650*
 
 ---
 
@@ -706,7 +706,7 @@ Utah Valley University; the hearing and the Loy Center are tied to it.
 
 Existing topic reused for the Netanyahu call.
 
-*Related: C-7266*
+*Related: C-10681*
 
 ---
 
@@ -714,7 +714,7 @@ Existing topic reused for the Netanyahu call.
 
 Existing topic reused for the claim that Robinson's parents turned him in.
 
-*Related: C-7205, C-7210, C-7211, C-7230*
+*Related: C-10604, C-10609, C-10610, C-10633*
 
 ---
 
@@ -722,7 +722,7 @@ Existing topic reused for the claim that Robinson's parents turned him in.
 
 The Hamptons; location of the gathering with the Netanyahu call.
 
-*Related: C-7267*
+*Related: C-10682*
 
 ---
 
@@ -730,7 +730,7 @@ The Hamptons; location of the gathering with the Netanyahu call.
 
 Campus where Robinson's movements and the Loy Center are placed.
 
-*Related: C-7218, C-7219, C-7220, C-7241, C-7277*
+*Related: C-10617, C-10618, C-10619, C-10650, C-10692*
 
 ---
 
@@ -738,7 +738,7 @@ Campus where Robinson's movements and the Loy Center are placed.
 
 Existing topic reused for the host's belief Robinson was at the Dairy Queen.
 
-*Related: C-7277*
+*Related: C-10692*
 
 ---
 
@@ -746,7 +746,7 @@ Existing topic reused for the host's belief Robinson was at the Dairy Queen.
 
 Existing topic reused for the Tyler-Lance texts.
 
-*Related: C-7224, C-7225, C-7226, C-7227, C-7228, C-7229*
+*Related: C-10626, C-10627, C-10628, C-10630, C-10631, C-10632*
 
 ---
 
@@ -754,7 +754,7 @@ Existing topic reused for the Tyler-Lance texts.
 
 Existing topic reused for the Panguitch steak claim.
 
-*Related: C-7223, C-7224, C-7271*
+*Related: C-10625, C-10626, C-10686*
 
 ---
 
@@ -762,7 +762,7 @@ Existing topic reused for the Panguitch steak claim.
 
 Existing topic reused for the Charlie-Shapiro relationship.
 
-*Related: C-7250*
+*Related: C-10662*
 
 ---
 
@@ -770,7 +770,7 @@ Existing topic reused for the Charlie-Shapiro relationship.
 
 Existing topic reused for the dreams.
 
-*Related: C-7272*
+*Related: C-10687*
 
 ---
 
@@ -778,7 +778,7 @@ Existing topic reused for the dreams.
 
 Existing topic reused for the Netanyahu call allegation.
 
-*Related: C-7265, C-7266, C-7267*
+*Related: C-10680, C-10681, C-10682*
 
 ---
 
@@ -786,7 +786,7 @@ Existing topic reused for the Netanyahu call allegation.
 
 Existing topic reused for the gun and bullet linkage.
 
-*Related: C-7213, C-7240*
+*Related: C-10612, C-10648*
 
 ---
 
@@ -794,7 +794,7 @@ Existing topic reused for the gun and bullet linkage.
 
 Existing topic reused for the federal asset claim about Lance.
 
-*Related: C-7215, C-7216, C-7231, C-7232, C-7249, C-7270*
+*Related: C-10614, C-10615, C-10634, C-10635, C-10661, C-10685*
 
 ---
 
@@ -802,7 +802,7 @@ Existing topic reused for the federal asset claim about Lance.
 
 Existing topic reused for limits on Lance's testimony and cross-examination.
 
-*Related: C-7216, C-7249*
+*Related: C-10615, C-10661*
 
 ---
 
@@ -810,7 +810,7 @@ Existing topic reused for limits on Lance's testimony and cross-examination.
 
 Existing topic reused for 911 and transport vehicle events.
 
-*Related: C-7262, C-7273, C-7276*
+*Related: C-10675, C-10688, C-10691*
 
 ---
 
@@ -818,7 +818,7 @@ Existing topic reused for 911 and transport vehicle events.
 
 Existing topic reused for the set-up theory.
 
-*Related: C-7215, C-7238*
+*Related: C-10614, C-10645*
 
 ---
 
@@ -826,7 +826,7 @@ Existing topic reused for the set-up theory.
 
 Existing topic reused for who called 911.
 
-*Related: C-7262*
+*Related: C-10675*
 
 ---
 
@@ -834,7 +834,7 @@ Existing topic reused for who called 911.
 
 Existing topic reused for who Shapiro was with at lunch.
 
-*Related: C-7256, C-7263*
+*Related: C-10669, C-10676*
 
 ---
 
@@ -842,7 +842,7 @@ Existing topic reused for who Shapiro was with at lunch.
 
 Daily Wire; Shapiro's company, discussed in the lawsuit and donation claims.
 
-*Related: C-7252, C-7253, C-7254, C-7255*
+*Related: C-10664, C-10665, C-10666, C-10668*
 
 ---
 
@@ -850,7 +850,7 @@ Daily Wire; Shapiro's company, discussed in the lawsuit and donation claims.
 
 ATF; the source of the DNA and ballistics testimony.
 
-*Related: C-7233, C-7234, C-7235, C-7236, C-7239*
+*Related: C-10637, C-10640, C-10641, C-10643, C-10646*
 
 ---
 
@@ -858,7 +858,7 @@ ATF; the source of the DNA and ballistics testimony.
 
 Existing topic reused for the host's pay allegation about influencers.
 
-*Related: C-7248, C-7269*
+*Related: C-10660, C-10684*
 
 ---
 
@@ -866,7 +866,7 @@ Existing topic reused for the host's pay allegation about influencers.
 
 Existing topic reused for the invitation of influencers to the hearing.
 
-*Related: C-7203, C-7204, C-7242, C-7245, C-7246, C-7247*
+*Related: C-10598, C-10599, C-10654, C-10657, C-10658, C-10659*
 
 ---
 
@@ -874,7 +874,7 @@ Existing topic reused for the invitation of influencers to the hearing.
 
 Former undercover detective, family friend and scout leader whom the host says brought Robinson in.
 
-*Related: C-7211*
+*Related: C-10610*
 
 ---
 
@@ -882,7 +882,7 @@ Former undercover detective, family friend and scout leader whom the host says b
 
 TPUSA spokesperson; the host cites his statement that it was supposed to be her and his reported revival of the Lance Twiggs angle.
 
-*Related: C-7250, C-7265, C-7270*
+*Related: C-10662, C-10680, C-10685*
 
 ---
 
@@ -890,7 +890,7 @@ TPUSA spokesperson; the host cites his statement that it was supposed to be her 
 
 Blake Neff; the host says his memory of the evening is fuzzy.
 
-*Related: C-7222*
+*Related: C-10624*
 
 ---
 
@@ -898,7 +898,7 @@ Blake Neff; the host says his memory of the evening is fuzzy.
 
 Matt Walsh; the host recalls a December phone call with him.
 
-*Related: C-7253*
+*Related: C-10665*
 
 ---
 
@@ -906,7 +906,7 @@ Matt Walsh; the host recalls a December phone call with him.
 
 Widow and TPUSA CEO; the host alleges she invited influencers to the hearing and discusses her account of the Netanyahu call.
 
-*Related: C-7203, C-7204, C-7208, C-7243, C-7245, C-7252, C-7266, C-7278, C-7279*
+*Related: C-10598, C-10599, C-10607, C-10655, C-10657, C-10664, C-10681, C-10693, C-10694*
 
 ---
 
@@ -914,7 +914,7 @@ Widow and TPUSA CEO; the host alleges she invited influencers to the hearing and
 
 Brandon Tatum; an influencer the host says was invited to the courthouse.
 
-*Related: C-7203*
+*Related: C-10598*
 
 ---
 
@@ -922,7 +922,7 @@ Brandon Tatum; an influencer the host says was invited to the courthouse.
 
 Brian Harpole; in the transport car and plaintiff against the host.
 
-*Related: C-7254, C-7257, C-7259, C-7273, C-7274, C-7275*
+*Related: C-10666, C-10670, C-10672, C-10688, C-10689, C-10690*
 
 ---
 
@@ -930,7 +930,7 @@ Brian Harpole; in the transport car and plaintiff against the host.
 
 Dan Flood; one of the two remaining candidates in the host's elimination of who updated Shapiro's security.
 
-*Related: C-7262*
+*Related: C-10675*
 
 ---
 
@@ -938,7 +938,7 @@ Dan Flood; one of the two remaining candidates in the host's elimination of who 
 
 Bari Weiss (captioned Bari Weiss); interviewed Erika Kirk.
 
-*Related: C-7208*
+*Related: C-10607*
 
 ---
 
@@ -946,7 +946,7 @@ Bari Weiss (captioned Bari Weiss); interviewed Erika Kirk.
 
 Host; speaks for herself throughout.
 
-*Related: C-7203, C-7204, C-7206, C-7207, C-7208, C-7209, C-7210, C-7211, C-7212, C-7213, C-7214, C-7215, C-7216, C-7217, C-7218, C-7219, C-7220, C-7221, C-7222, C-7223, C-7224, C-7225, C-7226, C-7227, C-7228, C-7229, C-7230, C-7231, C-7232, C-7233, C-7234, C-7235, C-7237, C-7238, C-7239, C-7240, C-7246, C-7247, C-7248, C-7249, C-7250, C-7251, C-7252, C-7253, C-7254, C-7255, C-7257, C-7258, C-7259, C-7260, C-7261, C-7262, C-7263, C-7264, C-7265, C-7266, C-7267, C-7268, C-7269, C-7270, C-7271, C-7272, C-7273, C-7274, C-7275, C-7276, C-7277, C-7278, C-7279*
+*Related: C-10598, C-10599, C-10605, C-10606, C-10607, C-10608, C-10609, C-10610, C-10611, C-10612, C-10613, C-10614, C-10615, C-10616, C-10617, C-10618, C-10619, C-10622, C-10624, C-10625, C-10626, C-10627, C-10628, C-10630, C-10631, C-10632, C-10633, C-10634, C-10635, C-10637, C-10640, C-10641, C-10644, C-10645, C-10646, C-10648, C-10658, C-10659, C-10660, C-10661, C-10662, C-10663, C-10664, C-10665, C-10666, C-10668, C-10670, C-10671, C-10672, C-10673, C-10674, C-10675, C-10676, C-10679, C-10680, C-10681, C-10682, C-10683, C-10684, C-10685, C-10686, C-10687, C-10688, C-10689, C-10690, C-10691, C-10692, C-10693, C-10694*
 
 ---
 
@@ -954,7 +954,7 @@ Host; speaks for herself throughout.
 
 Benjamin Netanyahu; the host discusses the phone call in the Hamptons.
 
-*Related: C-7266, C-7267*
+*Related: C-10681, C-10682*
 
 ---
 
@@ -962,7 +962,7 @@ Benjamin Netanyahu; the host discusses the phone call in the Hamptons.
 
 Bill Ackman (captioned Bill Ackman); the host says he put Netanyahu on the phone with Charlie.
 
-*Related: C-7230, C-7267*
+*Related: C-10633, C-10682*
 
 ---
 
@@ -970,7 +970,7 @@ Bill Ackman (captioned Bill Ackman); the host says he put Netanyahu on the phone
 
 Researcher the host credits with speaking to the waiter in Panguitch.
 
-*Related: C-7271*
+*Related: C-10686*
 
 ---
 
@@ -978,7 +978,7 @@ Researcher the host credits with speaking to the waiter in Panguitch.
 
 Defendant at the preliminary hearing whose evidence the host disputes.
 
-*Related: C-7205, C-7206, C-7207, C-7208, C-7209, C-7210, C-7211, C-7212, C-7213, C-7214, C-7215, C-7217, C-7218, C-7219, C-7221, C-7223, C-7224, C-7225, C-7227, C-7228, C-7229, C-7230, C-7233, C-7234, C-7235, C-7236, C-7237, C-7238, C-7240, C-7241, C-7242, C-7243, C-7246, C-7249, C-7270, C-7277*
+*Related: C-10604, C-10605, C-10606, C-10607, C-10608, C-10609, C-10610, C-10611, C-10612, C-10613, C-10614, C-10616, C-10617, C-10618, C-10622, C-10625, C-10626, C-10627, C-10630, C-10631, C-10632, C-10633, C-10637, C-10640, C-10641, C-10643, C-10644, C-10645, C-10648, C-10650, C-10654, C-10655, C-10658, C-10661, C-10685, C-10692*
 
 ---
 
@@ -986,7 +986,7 @@ Defendant at the preliminary hearing whose evidence the host disputes.
 
 Rick Cutler; in the transport car, said by the host to have been holding Charlie.
 
-*Related: C-7258*
+*Related: C-10671*
 
 ---
 
@@ -994,7 +994,7 @@ Rick Cutler; in the transport car, said by the host to have been holding Charlie
 
 Lance Twiggs, Robinson's roommate and hearing witness, whom the host calls a federal asset.
 
-*Related: C-7206, C-7215, C-7216, C-7224, C-7225, C-7226, C-7231, C-7232, C-7235, C-7238, C-7249, C-7270, C-7277*
+*Related: C-10605, C-10614, C-10615, C-10626, C-10627, C-10628, C-10634, C-10635, C-10641, C-10645, C-10661, C-10685, C-10692*
 
 ---
 
@@ -1002,7 +1002,7 @@ Lance Twiggs, Robinson's roommate and hearing witness, whom the host calls a fed
 
 Graham Allen; an influencer the host says was invited to the courthouse.
 
-*Related: C-7203*
+*Related: C-10598*
 
 ---
 
@@ -1010,7 +1010,7 @@ Graham Allen; an influencer the host says was invited to the courthouse.
 
 Frank Turek; the host weighs his CPR and FaceTime accounts in the transport car.
 
-*Related: C-7259, C-7261*
+*Related: C-10672, C-10674*
 
 ---
 
@@ -1018,7 +1018,7 @@ Frank Turek; the host weighs his CPR and FaceTime accounts in the transport car.
 
 Influencer who attended the hearing and posted the 4K video claims.
 
-*Related: C-7203, C-7204, C-7242, C-7243, C-7244, C-7245, C-7246, C-7247, C-7248*
+*Related: C-10598, C-10599, C-10654, C-10655, C-10656, C-10657, C-10658, C-10659, C-10660*
 
 ---
 
@@ -1026,7 +1026,7 @@ Influencer who attended the hearing and posted the 4K video claims.
 
 Ben Shapiro; his security's live updates and Los Angeles meeting are the subject of the second half.
 
-*Related: C-7250, C-7251, C-7252, C-7253, C-7254, C-7255, C-7256, C-7263, C-7264, C-7275*
+*Related: C-10662, C-10663, C-10664, C-10665, C-10666, C-10668, C-10669, C-10676, C-10679, C-10690*
 
 ---
 
@@ -1034,7 +1034,7 @@ Ben Shapiro; his security's live updates and Los Angeles meeting are the subject
 
 First named by the host at 00:30:07 in episode 124. ATF forensic biologist who testified on DNA at the preliminary hearing.
 
-*Related: C-7233, C-7234, C-7235, C-7236, C-7237*
+*Related: C-10637, C-10640, C-10641, C-10643, C-10644*
 
 ---
 
@@ -1042,7 +1042,7 @@ First named by the host at 00:30:07 in episode 124. ATF forensic biologist who t
 
 First named by the host at 00:37:36 in episode 124. ATF ballistics expert who testified on day four about bullet fragment 6A.
 
-*Related: C-7239, C-7240*
+*Related: C-10646, C-10648*
 
 ---
 
@@ -1050,7 +1050,7 @@ First named by the host at 00:37:36 in episode 124. ATF ballistics expert who te
 
 First named by the host at 00:06:50 in episode 124. Tyler Robinson's father, whose prints the host says were on the gun. Aliases: Matt Robinson.
 
-*Related: C-7235*
+*Related: C-10641*
 
 ---
 
@@ -1059,7 +1059,7 @@ First named by the host at 00:06:50 in episode 124. Tyler Robinson's father, who
 Node Type: Topic
 The host's point that seven fragments were reportedly taken from Charlie's body, but the ATF examiner testified she received four, found three unusable and examined one, labeled 6A.
 
-*Related: C-7239*
+*Related: C-10646*
 
 ---
 
@@ -1068,7 +1068,7 @@ The host's point that seven fragments were reportedly taken from Charlie's body,
 Node Type: Topic
 A tip the host says she received about a piece that looked like cardboard in the back of the transport vehicle.
 
-*Related: C-7268, C-7269*
+*Related: C-10683, C-10684*
 
 ---
 
@@ -1077,13 +1077,13 @@ A tip the host says she received about a piece that looked like cardboard in the
 Node Type: Topic
 The dispute over whether the first aid given in the transport vehicle, including CPR, neck stabilization and Harpole's EMT credential, was competent, which underlies the lawsuit against the host.
 
-*Related: C-7273, C-7274, C-7275, C-7276*
+*Related: C-10688, C-10689, C-10690, C-10691*
 
 ---
 
 # V. Claim Register
 
-**C-3000** Host Says Multiple Influencers Used Identical "Overwhelming" Language
+**C-10600** Host Says Multiple Influencers Used Identical "Overwhelming" Language
 
 Claim Timestamp: 00:04:24
 
@@ -1097,7 +1097,7 @@ Investigative Direction: Cross-reference timestamps and language across influenc
 
 ---
 
-**C-3001** Josh Hammer Calls the Hearing Evidence the Most Overwhelming He Has Seen in His Life
+**C-10601** Josh Hammer Calls the Hearing Evidence the Most Overwhelming He Has Seen in His Life
 
 Claim Timestamp: 00:05:14
 
@@ -1112,7 +1112,7 @@ Investigative Direction: Compare Hammer's stated impression against the actual h
 
 ---
 
-**C-3002** Host Plays Pre-Hearing Clips Asserting Tyler's Parents Turned Him In
+**C-10602** Host Plays Pre-Hearing Clips Asserting Tyler's Parents Turned Him In
 
 Claim Timestamp: 00:06:50
 
@@ -1127,7 +1127,7 @@ Investigative Direction: Compare pre-hearing narrative claims against actual pre
 
 ---
 
-**C-3003** Lance Twiggs identified Tyler Robinson only by generic clothing items
+**C-10620** Lance Twiggs identified Tyler Robinson only by generic clothing items
 
 Claim Timestamp: 00:17:15
 
@@ -1142,7 +1142,7 @@ Investigative Direction: Cross-reference Lance's testimony with other witness id
 
 ---
 
-**C-3004** Host Says Lance Twiggs Confirmed Tyler Robinson Was Not Political
+**C-10636** Host Says Lance Twiggs Confirmed Tyler Robinson Was Not Political
 
 Claim Timestamp: 00:27:55
 
@@ -1157,7 +1157,7 @@ Investigative Direction: Compare Lance's testimony against text messages introdu
 
 ---
 
-**C-3005** Miss Noble reported seeing a bald man with three others driving the gray Challenger
+**C-10623** Miss Noble reported seeing a bald man with three others driving the gray Challenger
 
 Claim Timestamp: 00:20:59
 
@@ -1171,7 +1171,7 @@ Investigative Direction: Obtain Ring camera footage and police interview transcr
 
 ---
 
-**C-3006** Host Says Court-Displayed Car Had Dual Exhaust; Tyler Robinson's Actual Car Had Single Exhaust
+**C-10621** Host Says Court-Displayed Car Had Dual Exhaust; Tyler Robinson's Actual Car Had Single Exhaust
 
 Claim Timestamp: 00:19:09
 
@@ -1186,7 +1186,7 @@ Investigative Direction: Obtain vehicle registration and VIN data for Tyler Robi
 
 ---
 
-**C-3007** Exhibit 12.4 does not show Tyler Robinson taking the shot
+**C-10649** Exhibit 12.4 does not show Tyler Robinson taking the shot
 
 Claim Timestamp: 00:42:26
 
@@ -1201,7 +1201,7 @@ Investigative Direction: Verify whether any other exhibit purports to show the s
 
 ---
 
-**C-3008** Witness in Hearing Clip Says Exhibit 12.1 Differs from 12.4 Only by Red Circles, Face Blurring, and Zoom
+**C-10651** Witness in Hearing Clip Says Exhibit 12.1 Differs from 12.4 Only by Red Circles, Face Blurring, and Zoom
 
 Claim Timestamp: 00:43:52
 
@@ -1215,7 +1215,7 @@ Investigative Direction: Obtain certified copies of both exhibits for direct com
 
 ---
 
-**C-3009** Host Says Leaked 12.1 Footage Shows Only a Pixel Running Across Rooftop
+**C-10652** Host Says Leaked 12.1 Footage Shows Only a Pixel Running Across Rooftop
 
 Claim Timestamp: 00:46:15
 
@@ -1229,7 +1229,7 @@ Investigative Direction: Obtain full Court TV Day 2 footage for independent anal
 
 ---
 
-**C-3010** Caitlin Oliver testified media "DNA on the gun" framing was scientifically indefensible
+**C-10638** Caitlin Oliver testified media "DNA on the gun" framing was scientifically indefensible
 
 Claim Timestamp: 00:31:06
 
@@ -1244,7 +1244,7 @@ Investigative Direction: Compare Caitlin Oliver's testimony against ATF report l
 
 ---
 
-**C-3011** DNA samples from trigger/trigger guard were mixed samples with at least 4–7 contributors
+**C-10639** DNA samples from trigger/trigger guard were mixed samples with at least 4–7 contributors
 
 Claim Timestamp: 00:32:07
 
@@ -1259,7 +1259,7 @@ Investigative Direction: Obtain the full DNA report to verify contributor counts
 
 ---
 
-**C-3012** Host Says Tyler Robinson's DNA on the Gun Was the Most Degraded of All Contributors
+**C-10642** Host Says Tyler Robinson's DNA on the Gun Was the Most Degraded of All Contributors
 
 Claim Timestamp: 00:35:20
 
@@ -1274,7 +1274,7 @@ Investigative Direction: Cross-reference degradation findings with handling/time
 
 ---
 
-**C-3013** 6A bullet jacket fragment diameter measured 286–301 thousandths of an inch
+**C-10647** 6A bullet jacket fragment diameter measured 286–301 thousandths of an inch
 
 Claim Timestamp: 00:40:31
 
@@ -1289,7 +1289,7 @@ Investigative Direction: Cross-reference measured diameter with .30-06 SAAMI spe
 
 ---
 
-**C-3014** Benny Johnson claimed the court showed 4K HD video of Robinson committing the murder
+**C-10653** Benny Johnson claimed the court showed 4K HD video of Robinson committing the murder
 
 Claim Timestamp: 00:49:12
 
@@ -1304,7 +1304,7 @@ Investigative Direction: Compare Johnson's claim against Court TV leaked footage
 
 ---
 
-**C-3015** Ben Shapiro's security received live updates during Charlie's transport
+**C-10667** Ben Shapiro's security received live updates during Charlie's transport
 
 Claim Timestamp: 01:01:37
 
@@ -1319,7 +1319,7 @@ Investigative Direction: Identify the person in Charlie's vehicle who provided t
 
 ---
 
-**C-3016** Host Displays Tyler-Lance Text Messages Including Specific Phrases
+**C-10629** Host Displays Tyler-Lance Text Messages Including Specific Phrases
 
 Claim Timestamp: 00:24:20
 
@@ -1334,7 +1334,7 @@ Investigative Direction: Obtain certified chat exports and metadata; cross-refer
 
 ---
 
-**C-3761** Host says Tim Pool and Jeremy Boreing lied about who received live updates from the transport car
+**C-10677** Host says Tim Pool and Jeremy Boreing lied about who received live updates from the transport car
 
 Claim Timestamp: 01:05:57
 
@@ -1349,7 +1349,7 @@ Investigative Direction: Identify who in the car was in contact with outside sec
 
 ---
 
-**C-3764** Host offers a $10,000 bounty for evidence of who Ben Shapiro was at lunch with in LA when Charlie Kirk was shot
+**C-10678** Host offers a $10,000 bounty for evidence of who Ben Shapiro was at lunch with in LA when Charlie Kirk was shot
 
 Claim Timestamp: 01:07:02
 
@@ -1364,7 +1364,7 @@ Investigative Direction: Collect tip-line submissions on the lunch; corroborate 
 
 ---
 
-**C-3770** Host says Bill Ackman immediately pledged $1 million to Tyler Robinson's father, Matt Robinson
+**C-10603** Host says Bill Ackman immediately pledged $1 million to Tyler Robinson's father, Matt Robinson
 
 Claim Timestamp: 00:06:50
 
@@ -1381,7 +1381,7 @@ Investigative Direction: Locate Bill Ackman's original pledge post and any recor
 
 ---
 
-**C-7203** Host Says Erika Invited Influencers to the Courthouse but Not to the Private Funeral Mass
+**C-10598** Host Says Erika Invited Influencers to the Courthouse but Not to the Private Funeral Mass
 
 Claim Timestamp: 00:00:50
 
@@ -1397,7 +1397,7 @@ Investigative Direction: Obtain the hearing attendance and seating list and any 
 
 ---
 
-**C-7204** Host Says Benny Johnson Announced That Erika Asked Him to Be at the Hearing
+**C-10599** Host Says Benny Johnson Announced That Erika Asked Him to Be at the Hearing
 
 Claim Timestamp: 00:01:00
 
@@ -1413,7 +1413,7 @@ Investigative Direction: Locate Benny Johnson's original post or video stating t
 
 ---
 
-**C-7205** Commentator Cites Three Confessions by Robinson
+**C-10604** Commentator Cites Three Confessions by Robinson
 
 Claim Timestamp: 00:08:31
 
@@ -1429,7 +1429,7 @@ Investigative Direction: Identify the commentator and compare each claimed confe
 
 ---
 
-**C-7206** Host Recaps Narrative That Robinson Acted in Rage Over Trans Rights
+**C-10605** Host Recaps Narrative That Robinson Acted in Rage Over Trans Rights
 
 Claim Timestamp: 00:09:27
 
@@ -1445,7 +1445,7 @@ Investigative Direction: Compare the motive narrative against the indictment, th
 
 ---
 
-**C-7207** Host Recalls Promise That Footage of the Shot Would Be Released Later
+**C-10606** Host Recalls Promise That Footage of the Shot Would Be Released Later
 
 Claim Timestamp: 00:09:27
 
@@ -1461,7 +1461,7 @@ Investigative Direction: Collect the official statements promising footage of th
 
 ---
 
-**C-7208** Host Says Erika Told Viewers She Had Seen the Evidence and Was Convinced
+**C-10607** Host Says Erika Told Viewers She Had Seen the Evidence and Was Convinced
 
 Claim Timestamp: 00:09:27
 
@@ -1477,7 +1477,7 @@ Investigative Direction: Review the Erika Kirk interview with Bari Weiss and any
 
 ---
 
-**C-7209** Host Says Narrative Presented Robinson's Prints and DNA on the Gun Exclusively
+**C-10608** Host Says Narrative Presented Robinson's Prints and DNA on the Gun Exclusively
 
 Claim Timestamp: 00:10:16
 
@@ -1493,7 +1493,7 @@ Investigative Direction: Compare earlier official and media statements about pri
 
 ---
 
-**C-7210** Host Says Parents Did Not Turn Robinson In
+**C-10609** Host Says Parents Did Not Turn Robinson In
 
 Claim Timestamp: 00:10:16
 
@@ -1504,13 +1504,13 @@ Transcript Snippet: I maintained that Tyler Robinson's parents did parents did n
 Anchored Artifacts: 
 Mentions: N-3, N-40
 Related Nodes: N-10022
-Supports: C-5291
+Supports: C-4295
 Tags: relevance:core
 Investigative Direction: Obtain the Washington County Sheriff's Office arrest narrative and search warrant records on how and with whom Robinson arrived.
 
 ---
 
-**C-7211** Host Says Mike Mitchell Told the Robinsons They Could Do It the Easy Way or the Hard Way
+**C-10610** Host Says Mike Mitchell Told the Robinsons They Could Do It the Easy Way or the Hard Way
 
 Claim Timestamp: 00:10:16
 
@@ -1526,7 +1526,7 @@ Investigative Direction: Interview Mike Mitchell or the Robinson family about th
 
 ---
 
-**C-7212** Host Says Robinson Was Not Political and Came From a Family of Trump Supporters
+**C-10611** Host Says Robinson Was Not Political and Came From a Family of Trump Supporters
 
 Claim Timestamp: 00:11:24
 
@@ -1537,13 +1537,13 @@ Transcript Snippet: Um, I also expressed to you that Tyler Robinson was not poli
 Anchored Artifacts: 
 Mentions: N-3, N-40
 Related Nodes: 
-Supports: C-3004
+Supports: C-10636
 Tags: relevance:core
 Investigative Direction: Pull voter registration and donation records for the Robinson household and compare with Lance Twiggs's testimony.
 
 ---
 
-**C-7213** Host Says the Gun Was Robinson's but Was Not Fired That Day
+**C-10612** Host Says the Gun Was Robinson's but Was Not Fired That Day
 
 Claim Timestamp: 00:11:24
 
@@ -1559,7 +1559,7 @@ Investigative Direction: Obtain ATF test-fire and bullet comparison reports and 
 
 ---
 
-**C-7214** Host Says Robinson Was a Fisherman and His Brothers Were the Hunters
+**C-10613** Host Says Robinson Was a Fisherman and His Brothers Were the Hunters
 
 Claim Timestamp: 00:11:24
 
@@ -1575,7 +1575,7 @@ Investigative Direction: Seek licensing records or family testimony on who in th
 
 ---
 
-**C-7215** Host Says Lance Twiggs Is a Federal Asset Who Gathered Tyler's Belongings and Is Blackmailed
+**C-10614** Host Says Lance Twiggs Is a Federal Asset Who Gathered Tyler's Belongings and Is Blackmailed
 
 Claim Timestamp: 00:11:24
 
@@ -1591,7 +1591,7 @@ Investigative Direction: Look for court filings or records on any agreement with
 
 ---
 
-**C-7216** Host Says Lance Twiggs Got Immunity and Was Not Cross-Examined Despite Hearsay Objections
+**C-10615** Host Says Lance Twiggs Got Immunity and Was Not Cross-Examined Despite Hearsay Objections
 
 Claim Timestamp: 00:12:49
 
@@ -1607,7 +1607,7 @@ Investigative Direction: Obtain the immunity or cooperation agreement and the he
 
 ---
 
-**C-7217** Host Says Feds Flooded the Zone With Brunette Decoys She Calls Maroon Boys
+**C-10616** Host Says Feds Flooded the Zone With Brunette Decoys She Calls Maroon Boys
 
 Claim Timestamp: 00:13:12
 
@@ -1623,7 +1623,7 @@ Investigative Direction: Compare the host's published decoy footage with campus 
 
 ---
 
-**C-7218** Host Says Her Biggest Claim Was That Robinson Did Not Step Onto Campus
+**C-10617** Host Says Her Biggest Claim Was That Robinson Did Not Step Onto Campus
 
 Claim Timestamp: 00:13:44
 
@@ -1639,7 +1639,7 @@ Investigative Direction: Establish Robinson's movements through campus access lo
 
 ---
 
-**C-7219** Host Says No Clear Photo of Robinson on Campus Was Presented
+**C-10618** Host Says No Clear Photo of Robinson on Campus Was Presented
 
 Claim Timestamp: 00:14:07
 
@@ -1655,7 +1655,7 @@ Investigative Direction: Review Exhibit 12.4 frame by frame and any other exhibi
 
 ---
 
-**C-7220** Host Says the Top Floor of the Loy Center Houses UVU's Military-Affiliated MASH Center
+**C-10619** Host Says the Top Floor of the Loy Center Houses UVU's Military-Affiliated MASH Center
 
 Claim Timestamp: 00:16:22
 
@@ -1671,7 +1671,7 @@ Investigative Direction: Check UVU building directories for the MASH center loca
 
 ---
 
-**C-7221** Host Says a Witness Saw a Bald Driver in the Gray Challenger at 12:47 a.m.
+**C-10622** Host Says a Witness Saw a Bald Driver in the Gray Challenger at 12:47 a.m.
 
 Claim Timestamp: 00:20:00
 
@@ -1682,13 +1682,13 @@ Transcript Snippet: a witness confirmed that they saw someone else driving a gra
 Anchored Artifacts: A-2119.1
 Mentions: N-3, N-40
 Related Nodes: N-10012
-Supports: C-3005
+Supports: C-10623
 Tags: relevance:core
 Investigative Direction: Obtain the Nest and Ring video with metadata and the police interview with the woman who captured it.
 
 ---
 
-**C-7222** Host Says Blake Neff Has Fuzzy Memory of the Evening and TPUSA Staff Went Out That Night
+**C-10624** Host Says Blake Neff Has Fuzzy Memory of the Evening and TPUSA Staff Went Out That Night
 
 Claim Timestamp: 00:21:42
 
@@ -1704,7 +1704,7 @@ Investigative Direction: Review the Blake Neff X live and compare his account of
 
 ---
 
-**C-7223** Host Says Robinson Paid for a Steak in Panguitch at 9:47 p.m. by Debit Card
+**C-10625** Host Says Robinson Paid for a Steak in Panguitch at 9:47 p.m. by Debit Card
 
 Claim Timestamp: 00:21:42
 
@@ -1715,13 +1715,13 @@ Transcript Snippet: because we broke the story that Tyler was eating a steak dow
 Anchored Artifacts: A-2864.1
 Mentions: N-3, N-40
 Related Nodes: N-10381
-Supports: C-2004
+Supports: C-4521
 Tags: relevance:core
 Investigative Direction: Obtain the Panguitch restaurant receipt and card transaction record and the establishment's own timestamps.
 
 ---
 
-**C-7224** Host Says Texting Lance After 11 p.m. About Babysitting the Campus Does Not Fit the Panguitch Timeline
+**C-10626** Host Says Texting Lance After 11 p.m. About Babysitting the Campus Does Not Fit the Panguitch Timeline
 
 Claim Timestamp: 00:22:55
 
@@ -1737,7 +1737,7 @@ Investigative Direction: Obtain the full carrier and device records for both pho
 
 ---
 
-**C-7225** Host Says the Tyler-Lance Messages Were Not Timestamped
+**C-10627** Host Says the Tyler-Lance Messages Were Not Timestamped
 
 Claim Timestamp: 00:22:55
 
@@ -1748,13 +1748,13 @@ Transcript Snippet: The messages are problematic, and that's why they're not tim
 Anchored Artifacts: A-2123.1
 Mentions: N-3, N-40, N-54
 Related Nodes: N-10077
-Supports: C-1155, C-1176
+Supports: C-193, C-301
 Tags: relevance:core
 Investigative Direction: Obtain the extraction report and native message database showing time fields for each message.
 
 ---
 
-**C-7226** Host Says the Lance Messages Were Extracted by a Company Based in Tel Aviv
+**C-10628** Host Says the Lance Messages Were Extracted by a Company Based in Tel Aviv
 
 Claim Timestamp: 00:22:55
 
@@ -1770,7 +1770,7 @@ Investigative Direction: Identify the extraction vendor and the examiner named i
 
 ---
 
-**C-7227** Host Says the Old Age Line Conflicts With the Suicidal Narrative
+**C-10630** Host Says the Old Age Line Conflicts With the Suicidal Narrative
 
 Claim Timestamp: 00:24:20
 
@@ -1786,7 +1786,7 @@ Investigative Direction: Compare the message text with other statements about Ro
 
 ---
 
-**C-7228** Host Says the Messages Read Like Translation by a Non-Native American English Speaker
+**C-10631** Host Says the Messages Read Like Translation by a Non-Native American English Speaker
 
 Claim Timestamp: 00:25:33
 
@@ -1802,7 +1802,7 @@ Investigative Direction: Have independent linguists compare the messages with Ro
 
 ---
 
-**C-7229** Host Asks for Tips on When the K9 Officers Were Brought to the Scene
+**C-10632** Host Asks for Tips on When the K9 Officers Were Brought to the Scene
 
 Claim Timestamp: 00:25:33
 
@@ -1818,7 +1818,7 @@ Investigative Direction: Collect tip-line submissions and agency records on the 
 
 ---
 
-**C-7230** Host Says No Testimony Supported the Parents Turning Their Son In
+**C-10633** Host Says No Testimony Supported the Parents Turning Their Son In
 
 Claim Timestamp: 00:27:09
 
@@ -1829,13 +1829,13 @@ Transcript Snippet: Anyway, uh noticeably missing was any of that shock testimon
 Anchored Artifacts: 
 Mentions: N-3, N-40
 Related Nodes: N-10022
-Supports: C-5291
+Supports: C-4295
 Tags: relevance:core
 Investigative Direction: Review the hearing witness list and transcripts for any testimony by deputies or family on the first statements.
 
 ---
 
-**C-7231** Host Says Testimony Showed Lance Twiggs's Prints on the Towel, the Gun and the Dremel
+**C-10634** Host Says Testimony Showed Lance Twiggs's Prints on the Towel, the Gun and the Dremel
 
 Claim Timestamp: 00:27:09
 
@@ -1851,7 +1851,7 @@ Investigative Direction: Obtain the latent print and DNA reports itemizing the i
 
 ---
 
-**C-7232** Host Says Lance Claims He Slept Until 1 p.m. on September 10
+**C-10635** Host Says Lance Claims He Slept Until 1 p.m. on September 10
 
 Claim Timestamp: 00:27:09
 
@@ -1867,7 +1867,7 @@ Investigative Direction: Check the roommate's phone, building access and other r
 
 ---
 
-**C-7233** Host Says Influencers Pushed 4K Footage Claims to Overcome Caitlin Oliver's Testimony
+**C-10637** Host Says Influencers Pushed 4K Footage Claims to Overcome Caitlin Oliver's Testimony
 
 Claim Timestamp: 00:30:07
 
@@ -1883,7 +1883,7 @@ Investigative Direction: Compare the dates of the influencer videos with Oliver'
 
 ---
 
-**C-7234** Host Says Robinson's Lawyer Said Mixed Samples Have Not Been Relied On Since 1996
+**C-10640** Host Says Robinson's Lawyer Said Mixed Samples Have Not Been Relied On Since 1996
 
 Claim Timestamp: 00:34:11
 
@@ -1899,7 +1899,7 @@ Investigative Direction: Read the cross-examination transcript and the ATF DNA r
 
 ---
 
-**C-7235** Host Says Oliver Confirmed a Minimum of Five Sets of DNA With Lance Twiggs and Matt Robinson Among the Prints
+**C-10641** Host Says Oliver Confirmed a Minimum of Five Sets of DNA With Lance Twiggs and Matt Robinson Among the Prints
 
 Claim Timestamp: 00:34:22
 
@@ -1915,7 +1915,7 @@ Investigative Direction: Obtain the DNA report listing contributor counts and an
 
 ---
 
-**C-7236** Oliver Testified the Trigger and Trigger Guard Were Swabbed Together
+**C-10643** Oliver Testified the Trigger and Trigger Guard Were Swabbed Together
 
 Claim Timestamp: 00:35:20
 
@@ -1931,7 +1931,7 @@ Investigative Direction: Obtain the evidence photographs, collection notes and t
 
 ---
 
-**C-7237** Host Says Media Claimed DNA on the Trigger but Oliver Admitted It Could Be the Trigger Guard
+**C-10644** Host Says Media Claimed DNA on the Trigger but Oliver Admitted It Could Be the Trigger Guard
 
 Claim Timestamp: 00:36:46
 
@@ -1947,7 +1947,7 @@ Investigative Direction: Collect the original media and official statements abou
 
 ---
 
-**C-7238** Host Argues Rapid DNA Degradation Does Not Fit Recent Handling and Fits Lance Setting Up the Heirloom Gun
+**C-10645** Host Argues Rapid DNA Degradation Does Not Fit Recent Handling and Fits Lance Setting Up the Heirloom Gun
 
 Claim Timestamp: 00:37:36
 
@@ -1958,13 +1958,13 @@ Transcript Snippet: It does not seem to me that DNA would suddenly degrade immed
 Anchored Artifacts: A-2124.3
 Mentions: N-3, N-54, N-40
 Related Nodes: N-10711, N-10703
-Supports: C-3012
+Supports: C-10642
 Tags: relevance:core
 Investigative Direction: Ask independent forensic DNA experts to review the degradation finding and storage and handling conditions of the rifle.
 
 ---
 
-**C-7239** Host Says Samantha Karner Received Only Four of Seven Fragments Taken From Charlie's Body
+**C-10646** Host Says Samantha Karner Received Only Four of Seven Fragments Taken From Charlie's Body
 
 Claim Timestamp: 00:39:45
 
@@ -1980,7 +1980,7 @@ Investigative Direction: Obtain the medical examiner's evidence log and the ATF 
 
 ---
 
-**C-7240** Host Says a .30-06 Bullet Begins at .308 So the 6A Fragment Is Too Small for Robinson's Rifle
+**C-10648** Host Says a .30-06 Bullet Begins at .308 So the 6A Fragment Is Too Small for Robinson's Rifle
 
 Claim Timestamp: 00:40:31
 
@@ -1991,13 +1991,13 @@ Transcript Snippet: The reason why that matters is because it's too small for Ty
 Anchored Artifacts: A-2125.1
 Mentions: N-3, N-775, N-40
 Related Nodes: N-10710, N-10572
-Supports: C-3013
+Supports: C-10647
 Tags: relevance:core
 Investigative Direction: Check SAAMI specifications and Carner's report on whether fragment diameter ranges permit a .30-06 bullet.
 
 ---
 
-**C-7241** Hearing Testimony Described Exhibit 12.4 as Movements by Vehicle and on Foot
+**C-10650** Hearing Testimony Described Exhibit 12.4 as Movements by Vehicle and on Foot
 
 Claim Timestamp: 00:42:26
 
@@ -2008,13 +2008,13 @@ Transcript Snippet: Uh arriving and leaving in a vehicle, arriving and leaving o
 Anchored Artifacts: A-2121.1
 Mentions: N-40
 Related Nodes: N-10012, N-10028
-Supports: C-3007
+Supports: C-10649
 Tags: relevance:core
 Investigative Direction: Review Exhibit 12.4 and the witness's notes to see the basis for identifying each movement as Robinson.
 
 ---
 
-**C-7242** Benny Johnson Said the Judge Ruled the Public Cannot See the 4K Video
+**C-10654** Benny Johnson Said the Judge Ruled the Public Cannot See the 4K Video
 
 Claim Timestamp: 00:49:12
 
@@ -2025,13 +2025,13 @@ Transcript Snippet: And the judge ruled that you can't see the highdefin quality
 Anchored Artifacts: A-2126.1
 Mentions: N-89, N-40, N-1
 Related Nodes: N-11065
-Supports: C-3014
+Supports: C-10653
 Tags: relevance:core
 Investigative Direction: Obtain the court order on public release of the video and the hearing record of what was shown in the gallery.
 
 ---
 
-**C-7243** Benny Johnson Described Robinson and Erika Kirk in the Courtroom
+**C-10655** Benny Johnson Described Robinson and Erika Kirk in the Courtroom
 
 Claim Timestamp: 00:49:12
 
@@ -2047,7 +2047,7 @@ Investigative Direction: Compare with courtroom sketch, pool reporter and Court 
 
 ---
 
-**C-7244** Benny Johnson Said the Court Played 20 Minutes of High-Definition Security Footage
+**C-10656** Benny Johnson Said the Court Played 20 Minutes of High-Definition Security Footage
 
 Claim Timestamp: 00:50:12
 
@@ -2058,13 +2058,13 @@ Transcript Snippet: The judge played all 20 minutes of the highde security foota
 Anchored Artifacts: A-2126.1
 Mentions: N-89
 Related Nodes: 
-Supports: C-3014
+Supports: C-10653
 Tags: relevance:core
 Investigative Direction: Check the hearing record for a 20 minute exhibit and compare with the Exhibit 12.1 runtime and Court TV coverage.
 
 ---
 
-**C-7245** Benny Johnson Said Erika Kirk Asked Them to Urge Prayer for a Speedy Trial
+**C-10657** Benny Johnson Said Erika Kirk Asked Them to Urge Prayer for a Speedy Trial
 
 Claim Timestamp: 00:50:12
 
@@ -2080,7 +2080,7 @@ Investigative Direction: Find any message or statement from Erika Kirk's team re
 
 ---
 
-**C-7246** Host Says Influencers Backtracked to Say the Video Shows Robinson Getting Into a Prone Position
+**C-10658** Host Says Influencers Backtracked to Say the Video Shows Robinson Getting Into a Prone Position
 
 Claim Timestamp: 00:51:50
 
@@ -2096,7 +2096,7 @@ Investigative Direction: Collect the later statements by Benny Johnson and other
 
 ---
 
-**C-7247** Host Says Only Influencers Saw the 4K Footage at the End of the Hearing
+**C-10659** Host Says Only Influencers Saw the 4K Footage at the End of the Hearing
 
 Claim Timestamp: 00:52:34
 
@@ -2107,13 +2107,13 @@ Transcript Snippet: Everyone else was spending nine hours a day watching every d
 Anchored Artifacts: 
 Mentions: N-3, N-89
 Related Nodes: N-11065
-Supports: C-3014
+Supports: C-10653
 Tags: relevance:core
 Investigative Direction: Determine who attended the day five viewing and whether the footage shown in the gallery matches any filed exhibit.
 
 ---
 
-**C-7248** Host Says People Are Getting Paid and Suggests FARA Filing Explains It
+**C-10660** Host Says People Are Getting Paid and Suggests FARA Filing Explains It
 
 Claim Timestamp: 00:52:34
 
@@ -2129,7 +2129,7 @@ Investigative Direction: Search FARA registrations and payment records for the i
 
 ---
 
-**C-7249** Host Says Lance Twiggs Has More DNA on the Gun Than Tyler and Is Not Treated as a Suspect
+**C-10661** Host Says Lance Twiggs Has More DNA on the Gun Than Tyler and Is Not Treated as a Suspect
 
 Claim Timestamp: 00:54:18
 
@@ -2145,7 +2145,7 @@ Investigative Direction: Obtain the DNA report quantifying each contributor's sh
 
 ---
 
-**C-7250** Host Says Charlie Kirk Did Not Like Ben Shapiro Because Shapiro Tried to Stop His Rise
+**C-10662** Host Says Charlie Kirk Did Not Like Ben Shapiro Because Shapiro Tried to Stop His Rise
 
 Claim Timestamp: 00:59:00
 
@@ -2161,7 +2161,7 @@ Investigative Direction: Collect statements from Kirk's associates and past exch
 
 ---
 
-**C-7251** Host Says Shapiro's Father Controls Accounts and Writes Flattering Content Under Pen Names
+**C-10663** Host Says Shapiro's Father Controls Accounts and Writes Flattering Content Under Pen Names
 
 Claim Timestamp: 00:59:57
 
@@ -2177,7 +2177,7 @@ Investigative Direction: Identify any accounts or bylines the host attributes to
 
 ---
 
-**C-7252** Host Says Shapiro Raced to Give a Million Dollars to TPUSA While His Company Is Suffering
+**C-10664** Host Says Shapiro Raced to Give a Million Dollars to TPUSA While His Company Is Suffering
 
 Claim Timestamp: 00:59:57
 
@@ -2193,7 +2193,7 @@ Investigative Direction: Look for TPUSA donor records or announcements of a Shap
 
 ---
 
-**C-7253** Host Says Her December Call With Matt Walsh Occurred While Shapiro Was in Town
+**C-10665** Host Says Her December Call With Matt Walsh Occurred While Shapiro Was in Town
 
 Claim Timestamp: 01:00:47
 
@@ -2209,7 +2209,7 @@ Investigative Direction: Establish Shapiro's whereabouts and Walsh's call timing
 
 ---
 
-**C-7254** Host Says Harpole Is Suing Her Using Shapiro's Lawyers and Brother-in-Law
+**C-10666** Host Says Harpole Is Suing Her Using Shapiro's Lawyers and Brother-in-Law
 
 Claim Timestamp: 01:01:00
 
@@ -2220,13 +2220,13 @@ Transcript Snippet: which Brian Harpole is suing me over and using Ben Shapiro's
 Anchored Artifacts: 
 Mentions: N-3, N-266, N-97
 Related Nodes: N-10900
-Supports: C-2851, C-2810
+Supports: C-8731, C-8636
 Tags: relevance:core
 Investigative Direction: Review the complaint's signature block for counsel of record and their relationship to Shapiro.
 
 ---
 
-**C-7255** Host Says Shapiro's Lawyers Have Sued Her and Her Family for Years
+**C-10668** Host Says Shapiro's Lawyers Have Sued Her and Her Family for Years
 
 Claim Timestamp: 01:01:37
 
@@ -2242,7 +2242,7 @@ Investigative Direction: Pull the dockets for the Daily Wire and Owens litigatio
 
 ---
 
-**C-7256** Shapiro Said He Was in Los Angeles at a Breakfast or Lunch Meeting When Charlie Was Shot
+**C-10669** Shapiro Said He Was in Los Angeles at a Breakfast or Lunch Meeting When Charlie Was Shot
 
 Claim Timestamp: 01:01:37
 
@@ -2253,13 +2253,13 @@ Transcript Snippet: I was in Los Angeles. I had sort of a breakfast slunch meeti
 Anchored Artifacts: A-2127.1
 Mentions: N-97, N-1
 Related Nodes: N-10748, N-10712
-Supports: C-3015
+Supports: C-10667
 Tags: relevance:core
 Investigative Direction: Establish where Shapiro was and with whom at the time; compare with his schedule and the host's bounty request.
 
 ---
 
-**C-7257** Host Says Harpole Stipulates He Was Packing About 40 Feet of Gauze Into Charlie's Neck
+**C-10670** Host Says Harpole Stipulates He Was Packing About 40 Feet of Gauze Into Charlie's Neck
 
 Claim Timestamp: 01:02:37
 
@@ -2275,7 +2275,7 @@ Investigative Direction: Compare Harpole's account of treatment with his lawsuit
 
 ---
 
-**C-7258** Host Says Rick Cutler Could Not Have Made the Calls Because He Was Holding Charlie
+**C-10671** Host Says Rick Cutler Could Not Have Made the Calls Because He Was Holding Charlie
 
 Claim Timestamp: 01:02:37
 
@@ -2291,7 +2291,7 @@ Investigative Direction: Interview Cutler and review vehicle video or photograph
 
 ---
 
-**C-7259** Host Says Frank Turek Claims He Started CPR While Harpole Says No CPR Took Place
+**C-10672** Host Says Frank Turek Claims He Started CPR While Harpole Says No CPR Took Place
 
 Claim Timestamp: 01:03:20
 
@@ -2307,7 +2307,7 @@ Investigative Direction: Compare Frank Turek's and Brian Harpole's recorded acco
 
 ---
 
-**C-7260** Host Says Justin Davis Was Driving Up to 100 Miles Per Hour
+**C-10673** Host Says Justin Davis Was Driving Up to 100 Miles Per Hour
 
 Claim Timestamp: 01:03:20
 
@@ -2323,7 +2323,7 @@ Investigative Direction: Obtain vehicle telematics, GPS or dashcam data for the 
 
 ---
 
-**C-7261** Host Says Frank Turek Left His Kids on FaceTime While Praying Aloud
+**C-10674** Host Says Frank Turek Left His Kids on FaceTime While Praying Aloud
 
 Claim Timestamp: 01:04:18
 
@@ -2339,7 +2339,7 @@ Investigative Direction: Ask Turek for his call log and statement about the Face
 
 ---
 
-**C-7262** Host Says the Released 911 Calls Show Neither Dan Flood Nor Justin Davis Called 911
+**C-10675** Host Says the Released 911 Calls Show Neither Dan Flood Nor Justin Davis Called 911
 
 Claim Timestamp: 01:04:18
 
@@ -2350,13 +2350,13 @@ Transcript Snippet: Which one of you guys called 911? Because they've never said
 Anchored Artifacts: 
 Mentions: N-3, N-270, N-492
 Related Nodes: N-10729, N-10692
-Supports: C-3828, C-4031
+Supports: C-8491, C-9178
 Tags: relevance:core
 Investigative Direction: Obtain the CAD log and all 911 audio for the incident and match callers to numbers.
 
 ---
 
-**C-7263** Host Says Ben Shapiro Knew Before the Public Learned at About 12:38 p.m.
+**C-10676** Host Says Ben Shapiro Knew Before the Public Learned at About 12:38 p.m.
 
 Claim Timestamp: 01:05:11
 
@@ -2367,13 +2367,13 @@ Transcript Snippet: so Ben knew what was happening before the rest of the world 
 Anchored Artifacts: 
 Mentions: N-3, N-97, N-1
 Related Nodes: N-10712, N-10748
-Supports: C-3015
+Supports: C-10667
 Tags: relevance:core
 Investigative Direction: Establish the timestamp of the first Shapiro-side call and compare it with the first public posts of the video.
 
 ---
 
-**C-7264** Host Describes Shapiro's Security as a Former IDF Team
+**C-10679** Host Describes Shapiro's Security as a Former IDF Team
 
 Claim Timestamp: 01:07:02
 
@@ -2389,7 +2389,7 @@ Investigative Direction: Identify Shapiro's security provider and personnel and 
 
 ---
 
-**C-7265** Host Asks Whether Charlie Became a Liability for Saying No
+**C-10680** Host Asks Whether Charlie Became a Liability for Saying No
 
 Claim Timestamp: 01:07:02
 
@@ -2400,13 +2400,13 @@ Transcript Snippet: the statement from Andrew Colbeat it was supposed to be you
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-1
 Related Nodes: N-10495
-Supports: C-4977
+Supports: C-3154
 Tags: relevance:core
 Investigative Direction: Pin down the exact Kolvet statement and when it was made; the host's follow-up questions are speculation.
 
 ---
 
-**C-7266** Host Says Erika Acknowledged the Netanyahu Call and Described It as a Follow-Up on Charlie's May Letter
+**C-10681** Host Says Erika Acknowledged the Netanyahu Call and Described It as a Follow-Up on Charlie's May Letter
 
 Claim Timestamp: 01:08:31
 
@@ -2417,13 +2417,13 @@ Transcript Snippet: I only got an acknowledgement that it happened from Erika in
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-36, N-1
 Related Nodes: N-10495, N-10018
-Supports: C-1164
+Supports: C-251
 Tags: relevance:core
 Investigative Direction: Obtain statements from others present at the Hamptons gathering and records of the call.
 
 ---
 
-**C-7267** Host Says Bill Ackman Put Netanyahu on the Phone With Charlie in the Hamptons
+**C-10682** Host Says Bill Ackman Put Netanyahu on the Phone With Charlie in the Hamptons
 
 Claim Timestamp: 01:08:31
 
@@ -2439,7 +2439,7 @@ Investigative Direction: Establish who arranged the call, its date and length, f
 
 ---
 
-**C-7268** Host Says She Received an Unbelievable Tip About a Cardboard-Like Piece in the Back of the Car
+**C-10683** Host Says She Received an Unbelievable Tip About a Cardboard-Like Piece in the Back of the Car
 
 Claim Timestamp: 01:09:21
 
@@ -2455,7 +2455,7 @@ Investigative Direction: Publish the tip and the underlying photo or witness; id
 
 ---
 
-**C-7269** Host Says the Cardboard Tip Caused the Mass Panic and Influencer Attacks
+**C-10684** Host Says the Cardboard Tip Caused the Mass Panic and Influencer Attacks
 
 Claim Timestamp: 01:09:21
 
@@ -2471,7 +2471,7 @@ Investigative Direction: Establish timing of the tip and the first attacks on th
 
 ---
 
-**C-7270** Host Echoes a Comment That Kolvet Is Reviving the Lance Twiggs Angle
+**C-10685** Host Echoes a Comment That Kolvet Is Reviving the Lance Twiggs Angle
 
 Claim Timestamp: 01:16:57
 
@@ -2487,7 +2487,7 @@ Investigative Direction: Find the Kolvet statements about Lance Twiggs the comme
 
 ---
 
-**C-7271** Host Says Diligent Denizen Spoke to the Waiter in Panguitch
+**C-10686** Host Says Diligent Denizen Spoke to the Waiter in Panguitch
 
 Claim Timestamp: 01:16:57
 
@@ -2498,13 +2498,13 @@ Transcript Snippet: Diligent Denizen went and spoke to the waiter uh down at in 
 Anchored Artifacts: 
 Mentions: N-3, N-365
 Related Nodes: N-10381
-Supports: C-2004
+Supports: C-4521
 Tags: relevance:core
 Investigative Direction: Obtain the waiter's account and the restaurant's order and payment times.
 
 ---
 
-**C-7272** Host Says She Had Vivid Dreams After Charlie Was Taken Out and Charlie Had Them in 2018
+**C-10687** Host Says She Had Vivid Dreams After Charlie Was Taken Out and Charlie Had Them in 2018
 
 Claim Timestamp: 01:17:50
 
@@ -2520,7 +2520,7 @@ Investigative Direction: No external record is available for the dreams; compare
 
 ---
 
-**C-7273** Host Agrees Correct Emergency Order Was to Call 911, Stop Bleeding and Stabilize the Neck
+**C-10688** Host Agrees Correct Emergency Order Was to Call 911, Stop Bleeding and Stabilize the Neck
 
 Claim Timestamp: 01:18:37
 
@@ -2536,7 +2536,7 @@ Investigative Direction: Get an independent trauma or EMS opinion on first-aid p
 
 ---
 
-**C-7274** Host Says a Viewer Reported Harpole's EMT License Dated From 1996 and Should Be State-Registered
+**C-10689** Host Says a Viewer Reported Harpole's EMT License Dated From 1996 and Should Be State-Registered
 
 Claim Timestamp: 01:18:37
 
@@ -2552,7 +2552,7 @@ Investigative Direction: Check Utah EMS licensing records and the National Regis
 
 ---
 
-**C-7275** Host Says She Is Being Sued for Calling the Team's Actions Incompetent
+**C-10690** Host Says She Is Being Sued for Calling the Team's Actions Incompetent
 
 Claim Timestamp: 01:18:37
 
@@ -2563,13 +2563,13 @@ Transcript Snippet: Obviously, I'm being sued for saying that what they did was 
 Anchored Artifacts: 
 Mentions: N-3, N-266, N-97
 Related Nodes: N-11137
-Supports: C-2810
+Supports: C-8636
 Tags: relevance:core
 Investigative Direction: Review the complaint's causes of action and the host's answer for the incompetence statements at issue.
 
 ---
 
-**C-7276** Host Says Photos Show They Did Not Hold Charlie's Neck and Held His Shirt
+**C-10691** Host Says Photos Show They Did Not Hold Charlie's Neck and Held His Shirt
 
 Claim Timestamp: 01:18:37
 
@@ -2585,7 +2585,7 @@ Investigative Direction: Identify the specific photographs and have a medical ex
 
 ---
 
-**C-7277** Host Says She Believes Robinson Was Around Campus, at Dairy Queen, Depositing Clothes
+**C-10692** Host Says She Believes Robinson Was Around Campus, at Dairy Queen, Depositing Clothes
 
 Claim Timestamp: 01:19:42
 
@@ -2601,7 +2601,7 @@ Investigative Direction: Compare the host's statement with her earlier positions
 
 ---
 
-**C-7278** Host Says She Has Never Called for Harm to Erika Kirk
+**C-10693** Host Says She Has Never Called for Harm to Erika Kirk
 
 Claim Timestamp: 01:20:56
 
@@ -2617,7 +2617,7 @@ Investigative Direction: Review the host's past statements on Erika Kirk for any
 
 ---
 
-**C-7279** Host Says It Is Possible Erika Could Be Harmed and the Host Blamed
+**C-10694** Host Says It Is Possible Erika Could Be Harmed and the Host Blamed
 
 Claim Timestamp: 01:21:38
 

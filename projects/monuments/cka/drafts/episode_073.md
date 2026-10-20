@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep073): N-10512
   - Tip-minted Nodes (reintro-ep073): N-11086
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10c): C-8433–C-8504
+  - Claim Range: C-6510–C-6595
   - (see registers)
 
 # Episode 73 Analysis
@@ -38,7 +38,6 @@
 - Analysis Date: 2026-02-11
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1772, A-1773, A-1774, A-1775, A-1776, A-1777, A-1778, A-1779
-  - Claim Range: C-2364–C-2377
   - New Nodes Introduced: N-562, N-563, N-10506, N-10507, N-10508, N-10509
   - Reused Nodes Appearing: N-7, N-9, N-36, N-40, N-48, N-69, N-159, N-186, N-190, N-220, N-270, N-330, N-10000, N-10006, N-10011, N-10012, N-10110, N-10268, N-10320, N-10340, N-10396, N-10417, N-10465, N-10470, N-10499, N-10905, N-10968, N-10510, N-10554, N-11188, N-804, N-805
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens)
@@ -68,7 +67,7 @@ Video Timestamp: 00:46:33
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-8495, C-8496, C-8497, C-8498, N-3*
+*Related: C-6586, C-6587, C-6588, C-6589, N-3*
 
 ---
 
@@ -81,7 +80,7 @@ Video Timestamp: 00:49:16
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8499, N-3*
+*Related: C-6590, N-3*
 
 ---
 
@@ -94,7 +93,7 @@ Video Timestamp: 00:51:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-8502, N-3*
+*Related: C-6592, N-3*
 
 ---
 
@@ -107,7 +106,7 @@ Video Timestamp: 00:51:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-8501, N-3*
+*Related: C-6593, N-3*
 
 ---
 
@@ -120,7 +119,7 @@ Video Timestamp: 00:03:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8438, N-3*
+*Related: C-6517, N-3*
 
 ---
 
@@ -133,7 +132,7 @@ Video Timestamp: 00:07:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8444, N-3*
+*Related: C-6525, N-3*
 
 ---
 
@@ -146,7 +145,7 @@ Video Timestamp: 00:37:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8482, N-3*
+*Related: C-6568, N-3*
 
 ---
 
@@ -162,7 +161,7 @@ Confidence Level: High
 
 Text read on air: "It is time for Mrs. Erika Kirk to sue Candace Owens. She has gone too far."
 
-*Related: C-2366, N-60, N-2*
+*Related: C-6510, N-60, N-2*
 
 ---
 
@@ -176,7 +175,7 @@ Video Timestamp: 00:03:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2364, C-2365, N-1, N-2, N-10506*
+*Related: C-6514, C-6520, N-1, N-2, N-10506*
 
 ---
 
@@ -190,7 +189,7 @@ Video Timestamp: 00:04:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2365, C-2367, N-2, N-237, N-10506*
+*Related: C-6520, C-6521, N-2, N-237, N-10506*
 
 **A-1774.2** Segment: Erika Kirk denying Charlie sent messages that "they're going to get me"; asserting she possesses his cell phone
 
@@ -200,7 +199,7 @@ Video Timestamp: 00:21:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2369, C-2377, N-2, N-237, N-10507*
+*Related: C-6548, C-6549, N-2, N-237, N-10507*
 
 ---
 
@@ -214,7 +213,7 @@ Video Timestamp: 00:10:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2368, N-2, N-211, N-10509*
+*Related: C-6530, N-2, N-211, N-10509*
 
 **A-1775.2** Segment: Jesse Watters asking "Tell me about the day before the shooting"; Erika's edited response mentioning priest/dinner, death threats, Erika's mother in Phoenix, Charlie saying "Home needs you"
 
@@ -224,7 +223,7 @@ Video Timestamp: 00:16:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2368, N-2, N-211, N-10509*
+*Related: C-6530, N-2, N-211, N-10509*
 
 ---
 
@@ -238,7 +237,7 @@ Video Timestamp: 00:29:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2371, N-554*
+*Related: C-6557, N-554*
 
 **A-1776.2** Segment: Carrie Prejean Boller stating "I'm a Catholic and Catholics do not embrace Zionism"
 
@@ -248,7 +247,7 @@ Video Timestamp: 00:30:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2371, N-554*
+*Related: C-6557, N-554*
 
 ---
 
@@ -264,7 +263,7 @@ Confidence Level: High
 
 Text excerpt: "Carrie Preaching Baller has been removed from President Trump's religious liberty commission… No member of the commission has the right to hijack a hearing for their own personal and political agenda on any issue."
 
-*Related: C-2370, N-554, N-562*
+*Related: C-6562, N-554, N-562*
 
 ---
 
@@ -278,7 +277,7 @@ Video Timestamp: 00:37:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2372, C-2373, C-2374, C-2376, N-2, N-563, N-10510*
+*Related: C-6570, C-6575, C-6573, C-6571, N-2, N-563, N-10510*
 
 ---
 
@@ -292,7 +291,7 @@ Video Timestamp: 00:42:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2375, N-10510*
+*Related: C-6582, N-10510*
 
 ---
 
@@ -308,7 +307,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1772.1, C-2366*
+*Related: A-1772.1, C-6510*
 
 ---
 
@@ -321,7 +320,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1776.2, A-1777.1, C-2370, C-2371*
+*Related: A-1776.2, A-1777.1, C-6562, C-6557*
 
 ---
 
@@ -334,7 +333,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1777.1, C-2370*
+*Related: A-1777.1, C-6562*
 
 ---
 
@@ -347,7 +346,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1775.1, A-1775.2, C-2368*
+*Related: A-1775.1, A-1775.2, C-6530*
 
 ---
 
@@ -360,7 +359,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1774.1, A-1774.2, C-2365, C-2367, C-2369, C-2377*
+*Related: A-1774.1, A-1774.2, C-6520, C-6521, C-6548, C-6549*
 
 ---
 
@@ -386,7 +385,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1773.1, A-1774.1, C-2364, C-2365, C-2367, N-1, N-2*
+*Related: A-1773.1, A-1774.1, C-6514, C-6520, C-6521, N-1, N-2*
 
 ---
 
@@ -399,7 +398,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1774.2, C-2369, C-2377, N-2*
+*Related: A-1774.2, C-6548, C-6549, N-2*
 
 ---
 
@@ -425,7 +424,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1775.1, A-1775.2, C-2368, N-1, N-2*
+*Related: A-1775.1, A-1775.2, C-6530, N-1, N-2*
 
 ---
 
@@ -438,7 +437,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1778.1, A-1779.1, C-2372, C-2373, C-2374, C-2375, C-2376, N-2*
+*Related: A-1778.1, A-1779.1, C-6570, C-6575, C-6573, C-6582, C-6571, N-2*
 
 ---
 
@@ -446,7 +445,7 @@ Investigative Pressure: Medium
 
 Subject of the assassination; the host reconstructs his final days and statements.
 
-*Related: C-8433, C-8434, C-8435, C-8437, C-8438, C-8441, C-8442, C-8443, C-8445, C-8448, C-8449, C-8450, C-8451, C-8452, C-8453, C-8454, C-8456, C-8457, C-8458, C-8459, C-8460, C-8461, C-8462, C-8463, C-8464, C-8465, C-8467, C-8469, C-8482*
+*Related: C-6516, C-6511, C-6512, C-6515, C-6517, C-6522, C-6523, C-6524, C-6526, C-6529, C-6531, C-6532, C-6533, C-6534, C-6535, C-6536, C-6538, C-6539, C-6540, C-6541, C-6542, C-6543, C-6544, C-6545, C-6546, C-6547, C-6551, C-6553, C-6568*
 
 ---
 
@@ -454,7 +453,7 @@ Subject of the assassination; the host reconstructs his final days and statement
 
 Widow and TPUSA CEO; her Beck and Fox accounts of the night before are examined.
 
-*Related: C-8434, C-8436, C-8437, C-8438, C-8439, C-8440, C-8441, C-8442, C-8443, C-8444, C-8445, C-8446, C-8447, C-8448, C-8449, C-8450, C-8451, C-8452, C-8453, C-8454, C-8455, C-8456, C-8457, C-8458, C-8459, C-8460, C-8462, C-8463, C-8464, C-8465, C-8466, C-8467, C-8468, C-8469, C-8499, C-8500, C-8502, C-8504*
+*Related: C-6511, C-6513, C-6515, C-6517, C-6518, C-6519, C-6522, C-6523, C-6524, C-6525, C-6526, C-6527, C-6528, C-6529, C-6531, C-6532, C-6533, C-6534, C-6535, C-6536, C-6537, C-6538, C-6539, C-6540, C-6541, C-6542, C-6544, C-6545, C-6546, C-6547, C-6550, C-6551, C-6552, C-6553, C-6590, C-6591, C-6592, C-6595*
 
 ---
 
@@ -462,7 +461,7 @@ Widow and TPUSA CEO; her Beck and Fox accounts of the night before are examined.
 
 Host; speaks for herself throughout.
 
-*Related: C-8433, C-8434, C-8435, C-8436, C-8437, C-8438, C-8439, C-8440, C-8443, C-8444, C-8445, C-8446, C-8447, C-8448, C-8452, C-8453, C-8454, C-8455, C-8460, C-8461, C-8462, C-8463, C-8464, C-8468, C-8469, C-8470, C-8471, C-8474, C-8475, C-8476, C-8477, C-8480, C-8482, C-8483, C-8484, C-8485, C-8486, C-8487, C-8488, C-8489, C-8490, C-8491, C-8492, C-8493, C-8494, C-8495, C-8496, C-8497, C-8498, C-8499, C-8500, C-8501, C-8502, C-8503, C-8504*
+*Related: C-6516, C-6511, C-6512, C-6513, C-6515, C-6517, C-6518, C-6519, C-6524, C-6525, C-6526, C-6527, C-6528, C-6529, C-6534, C-6535, C-6536, C-6537, C-6542, C-6543, C-6544, C-6545, C-6546, C-6552, C-6553, C-6554, C-6555, C-6559, C-6560, C-6561, C-6563, C-6566, C-6568, C-6569, C-6572, C-6574, C-6576, C-6577, C-6578, C-6579, C-6580, C-6581, C-6583, C-6584, C-6585, C-6586, C-6587, C-6588, C-6589, C-6590, C-6591, C-6593, C-6592, C-6594, C-6595*
 
 ---
 
@@ -470,7 +469,7 @@ Host; speaks for herself throughout.
 
 President; subject of the halftime show watching claim and the Netanyahu motorcade remark.
 
-*Related: C-8470, C-8490, C-8491*
+*Related: C-6554, C-6580, C-6581*
 
 ---
 
@@ -478,7 +477,7 @@ President; subject of the halftime show watching claim and the Netanyahu motorca
 
 Named by the host among those whose phone records are unavailable.
 
-*Related: C-8434*
+*Related: C-6511*
 
 ---
 
@@ -486,7 +485,7 @@ Named by the host among those whose phone records are unavailable.
 
 Named in connection with the Epstein files and a New Mexico house remark.
 
-*Related: C-8495, C-8497*
+*Related: C-6586, C-6588*
 
 ---
 
@@ -494,7 +493,7 @@ Named in connection with the Epstein files and a New Mexico house remark.
 
 Israeli prime minister; the host describes his motorcade.
 
-*Related: C-8470*
+*Related: C-6554*
 
 ---
 
@@ -502,7 +501,7 @@ Israeli prime minister; the host describes his motorcade.
 
 Accused; the host says no evidence has been produced tying him to the crime.
 
-*Related: C-8503*
+*Related: C-6594*
 
 ---
 
@@ -510,7 +509,7 @@ Accused; the host says no evidence has been produced tying him to the crime.
 
 Named by the host in a claim about public school textbooks.
 
-*Related: C-8475*
+*Related: C-6560*
 
 ---
 
@@ -518,7 +517,7 @@ Named by the host in a claim about public school textbooks.
 
 FBI director; mentioned in the host's remarks on the Guthrie case.
 
-*Related: C-8496*
+*Related: C-6587*
 
 ---
 
@@ -526,7 +525,7 @@ FBI director; mentioned in the host's remarks on the Guthrie case.
 
 Named by the host as largely writing Erika Kirk's first speech.
 
-*Related: C-8444*
+*Related: C-6525*
 
 ---
 
@@ -534,7 +533,7 @@ Named by the host as largely writing Erika Kirk's first speech.
 
 Named by the host as a likelier stager of the background photo.
 
-*Related: C-8447*
+*Related: C-6528*
 
 ---
 
@@ -542,7 +541,7 @@ Named by the host as a likelier stager of the background photo.
 
 Named among those whose phone logs the host lacks.
 
-*Related: C-8434*
+*Related: C-6511*
 
 ---
 
@@ -550,7 +549,7 @@ Named among those whose phone logs the host lacks.
 
 Commentator the host says she recently had on her show.
 
-*Related: C-8495*
+*Related: C-6586*
 
 ---
 
@@ -558,7 +557,7 @@ Commentator the host says she recently had on her show.
 
 Named in claims about iMessage and phone access.
 
-*Related: C-8434, C-8468*
+*Related: C-6511, C-6552*
 
 ---
 
@@ -566,7 +565,7 @@ Named in claims about iMessage and phone access.
 
 Whose episode the host says she watched about a viewer allegation.
 
-*Related: C-8499*
+*Related: C-6590*
 
 ---
 
@@ -574,7 +573,7 @@ Whose episode the host says she watched about a viewer allegation.
 
 Organization whose messaging, halftime show and staff are discussed.
 
-*Related: C-8443, C-8444, C-8445, C-8446, C-8483, C-8492*
+*Related: C-6524, C-6525, C-6526, C-6527, C-6569, C-6583*
 
 ---
 
@@ -582,7 +581,7 @@ Organization whose messaging, halftime show and staff are discussed.
 
 Network that aired the Watters interview with Erika Kirk.
 
-*Related: C-8455*
+*Related: C-6537*
 
 ---
 
@@ -590,7 +589,7 @@ Network that aired the Watters interview with Erika Kirk.
 
 Outlet the host says somehow obtained the tape in the Guthrie case.
 
-*Related: C-8496*
+*Related: C-6587*
 
 ---
 
@@ -598,7 +597,7 @@ Outlet the host says somehow obtained the tape in the Guthrie case.
 
 Site of the September 10 event; the host says she has done a UVU event with Charlie.
 
-*Related: C-8452*
+*Related: C-6534*
 
 ---
 
@@ -606,7 +605,7 @@ Site of the September 10 event; the host says she has done a UVU event with Char
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8503, C-8504*
+*Related: C-6594, C-6595*
 
 ---
 
@@ -614,7 +613,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8461*
+*Related: C-6543*
 
 ---
 
@@ -622,7 +621,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8434, C-8461, C-8464, C-8468, C-8482*
+*Related: C-6511, C-6543, C-6546, C-6552, C-6568*
 
 ---
 
@@ -630,7 +629,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8464*
+*Related: C-6546*
 
 ---
 
@@ -638,7 +637,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8502*
+*Related: C-6592*
 
 ---
 
@@ -646,7 +645,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8436, C-8458*
+*Related: C-6513, C-6540*
 
 ---
 
@@ -654,7 +653,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8477*
+*Related: C-6563*
 
 ---
 
@@ -662,7 +661,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8468*
+*Related: C-6552*
 
 ---
 
@@ -670,7 +669,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8485, C-8491*
+*Related: C-6574, C-6581*
 
 ---
 
@@ -678,7 +677,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8448*
+*Related: C-6529*
 
 ---
 
@@ -686,7 +685,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8453*
+*Related: C-6535*
 
 ---
 
@@ -694,7 +693,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8438*
+*Related: C-6517*
 
 ---
 
@@ -702,7 +701,7 @@ Existing topic reused for new claims in this episode.
 
 Outlet whose apartment interview with Erika Kirk the host cites.
 
-*Related: C-8438*
+*Related: C-6517*
 
 ---
 
@@ -710,7 +709,7 @@ Outlet whose apartment interview with Erika Kirk the host cites.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8460, C-8463*
+*Related: C-6542, C-6545*
 
 ---
 
@@ -720,7 +719,7 @@ First named by the host at 00:46:33 in episode 73 (transcript: 'Savannah Guthrie
 
 Aliases: Savannah Guthrie
 
-*Related: C-8496, C-8497, C-8498*
+*Related: C-6587, C-6588, C-6589*
 
 ---
 
@@ -728,7 +727,7 @@ Aliases: Savannah Guthrie
 
 First named by the host at 00:00:01 in episode 73. Performer named in the halftime informant account, who the informants say they waited on longest.
 
-*Related: C-8489, C-8492*
+*Related: C-6579, C-6583*
 
 ---
 
@@ -736,7 +735,7 @@ First named by the host at 00:00:01 in episode 73. Performer named in the halfti
 
 First named by the host at 00:39:40 in episode 73. Performer of the official Super Bowl halftime show to which the TPUSA show was compared.
 
-*Related: C-8485, C-8491*
+*Related: C-6574, C-6581*
 
 ---
 
@@ -745,7 +744,7 @@ First named by the host at 00:39:40 in episode 73. Performer of the official Sup
 Node Type: Topic
 The reported abduction of Savannah Guthrie's mother and the host's remarks that the TMZ tape, FBI travel and Pima County angle do not smell right and may distract from other stories.
 
-*Related: C-8496, C-8497, C-8498*
+*Related: C-6587, C-6588, C-6589*
 
 ---
 
@@ -754,13 +753,13 @@ The reported abduction of Savannah Guthrie's mother and the host's remarks that 
 Node Type: Organization
 Presidential commission whose hearing on anti-Semitism led to Carrie Prejean Boller's removal, announced by Dan Patrick on X.
 
-*Related: C-8471, C-8472, C-8473, C-8476, C-8478, C-8479, C-8480, C-8481, C-8501*
+*Related: C-6555, C-6556, C-6558, C-6561, C-6564, C-6565, C-6566, C-6567, C-6593*
 
 ---
 
 ## V. Claim Register
 
-**C-2364** Host Says Wedding Photo Was Visible in Charlie Kirk's Home Studio Background on Sept 8, 2025
+**C-6514** Host Says Wedding Photo Was Visible in Charlie Kirk's Home Studio Background on Sept 8, 2025
 
 Claim Timestamp: 00:03:08
 
@@ -775,7 +774,7 @@ Investigative Direction: Compare the September 8, 2025 broadcast frame against p
 
 ---
 
-**C-2365** Wedding photo absent from same background during Dec 12, 2025 Glenn Beck interview
+**C-6520** Wedding photo absent from same background during Dec 12, 2025 Glenn Beck interview
 
 Claim Timestamp: 00:04:44
 
@@ -790,7 +789,7 @@ Investigative Direction: Obtain the full Glenn Beck segment in higher resolution
 
 ---
 
-**C-2366** Laura Loomer publicly called for Erika Kirk to sue Candace Owens
+**C-6510** Laura Loomer publicly called for Erika Kirk to sue Candace Owens
 
 Claim Timestamp: 00:01:14
 
@@ -804,7 +803,7 @@ Investigative Direction: Verify the post's existence on X, capture the timestamp
 
 ---
 
-**C-2367** Erika Kirk claimed she had not been in Charlie's home office in a long time
+**C-6521** Erika Kirk claimed she had not been in Charlie's home office in a long time
 
 Claim Timestamp: 00:04:44
 
@@ -819,7 +818,7 @@ Investigative Direction: Compare Erika's "first time back" framing against any o
 
 ---
 
-**C-2368** Erika stated Charlie removed his wedding ring the night before and retrieved it from the bathroom the next morning
+**C-6530** Erika stated Charlie removed his wedding ring the night before and retrieved it from the bathroom the next morning
 
 Claim Timestamp: 00:10:40
 
@@ -834,7 +833,7 @@ Investigative Direction: Obtain the original Fox News segment; check whether jew
 
 ---
 
-**C-2369** Erika Denied That Charlie Messaged People Saying They Were Coming After Him
+**C-6548** Erika Denied That Charlie Messaged People Saying They Were Coming After Him
 
 Claim Timestamp: 00:21:54
 
@@ -849,7 +848,7 @@ Investigative Direction: Obtain and review the phone records/text messages cited
 
 ---
 
-**C-2370** Per Dan Patrick's X Post, Carrie Prejean Boller Was Removed from Religious Liberty Commission
+**C-6562** Per Dan Patrick's X Post, Carrie Prejean Boller Was Removed from Religious Liberty Commission
 
 Claim Timestamp: 00:34:48
 
@@ -863,7 +862,7 @@ Investigative Direction: Verify the official announcement and date; document the
 
 ---
 
-**C-2371** Carrie Prejean Boller stated Catholics do not embrace Zionism at hearing
+**C-6557** Carrie Prejean Boller stated Catholics do not embrace Zionism at hearing
 
 Claim Timestamp: 00:30:14
 
@@ -877,7 +876,7 @@ Investigative Direction: Obtain the full hearing transcript and video; cross-ref
 
 ---
 
-**C-2372** Host Relays Informants' Claim That TPUSA Halftime Show Was Pre-Filmed with Camera Tricks and ~180 Audience Members
+**C-6570** Host Relays Informants' Claim That TPUSA Halftime Show Was Pre-Filmed with Camera Tricks and ~180 Audience Members
 
 Claim Timestamp: 00:39:05
 
@@ -891,7 +890,7 @@ Investigative Direction: Confirm production location and dates through venue rec
 
 ---
 
-**C-2373** Host Relays Informants' Claim That TPUSA Halftime Show Participants Were Paid $250 Stipends
+**C-6575** Host Relays Informants' Claim That TPUSA Halftime Show Participants Were Paid $250 Stipends
 
 Claim Timestamp: 00:40:30
 
@@ -905,7 +904,7 @@ Investigative Direction: Cross-reference any 1099 or payment records; compare to
 
 ---
 
-**C-2374** Host Relays Informants' Claim That Erika Kirk Was Not Present at TPUSA Halftime Show Filming
+**C-6573** Host Relays Informants' Claim That Erika Kirk Was Not Present at TPUSA Halftime Show Filming
 
 Claim Timestamp: 00:39:58
 
@@ -920,7 +919,7 @@ Investigative Direction: Confirm via TPUSA production schedules, attendee lists,
 
 ---
 
-**C-2375** Host Says Photo Shows Trump at Mar-a-Lago with Bad Bunny Halftime Show in Background
+**C-6582** Host Says Photo Shows Trump at Mar-a-Lago with Bad Bunny Halftime Show in Background
 
 Claim Timestamp: 00:42:01
 
@@ -935,7 +934,7 @@ Investigative Direction: Confirm photograph provenance and timestamp; cross-refe
 
 ---
 
-**C-2376** Host Relays Informants' Account: Songs Required 3-5 Takes Except Gabby Barrett's (2 Takes)
+**C-6571** Host Relays Informants' Account: Songs Required 3-5 Takes Except Gabby Barrett's (2 Takes)
 
 Claim Timestamp: 00:39:25
 
@@ -949,7 +948,7 @@ Investigative Direction: Corroborate with any production logs, call sheets, or a
 
 ---
 
-**C-2377** Erika Kirk publicly claimed during Glenn Beck interview to possess Charlie Kirk's cell phone
+**C-6549** Erika Kirk publicly claimed during Glenn Beck interview to possess Charlie Kirk's cell phone
 
 Claim Timestamp: 00:21:54
 
@@ -964,7 +963,7 @@ Investigative Direction: Determine whether Charlie Kirk's phone was ever in law 
 
 ---
 
-**C-8433** Host Says Charlie Went Into the Office on September 9
+**C-6516** Host Says Charlie Went Into the Office on September 9
 
 Claim Timestamp: 00:03:39
 
@@ -980,7 +979,7 @@ Investigative Direction: Reconstruct Charlie Kirk's September 9 schedule from ca
 
 ---
 
-**C-8434** Host Says Phones of Charlie, Erika, Flood, McCoy and Turek Are Unavailable
+**C-6511** Host Says Phones of Charlie, Erika, Flood, McCoy and Turek Are Unavailable
 
 Claim Timestamp: 00:01:52
 
@@ -996,7 +995,7 @@ Investigative Direction: Identify which of these phones or phone logs were seize
 
 ---
 
-**C-8435** Host Says Charlie Did a One-Hour Show From Home Studio After Late Return From Tokyo
+**C-6512** Host Says Charlie Did a One-Hour Show From Home Studio After Late Return From Tokyo
 
 Claim Timestamp: 00:02:50
 
@@ -1012,7 +1011,7 @@ Investigative Direction: Compare the September 8 broadcast time with the Tokyo r
 
 ---
 
-**C-8436** Host Believes Erika Was at Fort Huachuca on September 8
+**C-6513** Host Believes Erika Was at Fort Huachuca on September 8
 
 Claim Timestamp: 00:02:55
 
@@ -1028,7 +1027,7 @@ Investigative Direction: Obtain Fort Huachuca visitor logs and the SAM702 passen
 
 ---
 
-**C-8437** Host Says Wedding Photo Is Available on Both Spouses' Instagram Accounts
+**C-6515** Host Says Wedding Photo Is Available on Both Spouses' Instagram Accounts
 
 Claim Timestamp: 00:03:10
 
@@ -1044,7 +1043,7 @@ Investigative Direction: Check both accounts for the wedding photograph and comp
 
 ---
 
-**C-8438** Host Says Erika Told NYT She Did Not Move Charlie's Items From the Bathroom
+**C-6517** Host Says Erika Told NYT She Did Not Move Charlie's Items From the Bathroom
 
 Claim Timestamp: 00:03:40
 
@@ -1060,7 +1059,7 @@ Investigative Direction: Obtain the New York Times article and compare Erika Kir
 
 ---
 
-**C-8439** Host Says Beck Interview Was Erika's First From Charlie's Home Office
+**C-6518** Host Says Beck Interview Was Erika's First From Charlie's Home Office
 
 Claim Timestamp: 00:04:05
 
@@ -1076,7 +1075,7 @@ Investigative Direction: Confirm whether any earlier interview or video by Erika
 
 ---
 
-**C-8440** Erika Says in Beck Interview She Is Looking Down at Charlie's Leftover Papers
+**C-6519** Erika Says in Beck Interview She Is Looking Down at Charlie's Leftover Papers
 
 Claim Timestamp: 00:04:25
 
@@ -1092,7 +1091,7 @@ Investigative Direction: Review the full Beck interview to see which items on th
 
 ---
 
-**C-8441** Erika Reads Charlie's Priorities Note on Air
+**C-6522** Erika Reads Charlie's Priorities Note on Air
 
 Claim Timestamp: 00:05:10
 
@@ -1107,7 +1106,7 @@ Investigative Direction: Obtain a clear image of the handwritten note and have i
 
 ---
 
-**C-8442** Erika Says Charlie Wrote in a Journal at His Desk on Sundays
+**C-6523** Erika Says Charlie Wrote in a Journal at His Desk on Sundays
 
 Claim Timestamp: 00:05:45
 
@@ -1123,7 +1122,7 @@ Investigative Direction: Ask whether the journals and notepad left on the desk h
 
 ---
 
-**C-8443** Host Rejects That Erika Moved the Photo, Citing TPUSA's 'My Charlie' Messaging
+**C-6524** Host Rejects That Erika Moved the Photo, Citing TPUSA's 'My Charlie' Messaging
 
 Claim Timestamp: 00:06:59
 
@@ -1139,7 +1138,7 @@ Investigative Direction: Collect the TPUSA fundraising emails and speech transcr
 
 ---
 
-**C-8444** Host Says Blake Neff Largely Wrote Erika's First Speech
+**C-6525** Host Says Blake Neff Largely Wrote Erika's First Speech
 
 Claim Timestamp: 00:07:30
 
@@ -1155,7 +1154,7 @@ Investigative Direction: Identify the host's source for Neff's authorship and co
 
 ---
 
-**C-8445** Host Says TPUSA Fundraising Letters Repeated 'My Charlie'
+**C-6526** Host Says TPUSA Fundraising Letters Repeated 'My Charlie'
 
 Claim Timestamp: 00:07:40
 
@@ -1171,7 +1170,7 @@ Investigative Direction: Obtain the TPUSA donor emails and letters sent after Se
 
 ---
 
-**C-8446** Host Says the Messaging Laid Emotional Groundwork for a Transfer of Power
+**C-6527** Host Says the Messaging Laid Emotional Groundwork for a Transfer of Power
 
 Claim Timestamp: 00:08:05
 
@@ -1187,7 +1186,7 @@ Investigative Direction: Compare the board resolution on Erika Kirk's appointmen
 
 ---
 
-**C-8447** Host Speculates Stacy Sheridan Would Have Staged the Photo Behind Erika
+**C-6528** Host Speculates Stacy Sheridan Would Have Staged the Photo Behind Erika
 
 Claim Timestamp: 00:08:25
 
@@ -1203,7 +1202,7 @@ Investigative Direction: Ask the production staff for the Beck interview who set
 
 ---
 
-**C-8448** Host Concludes Charlie Moved the Photo on September 9 and Erika Did Not Notice
+**C-6529** Host Concludes Charlie Moved the Photo on September 9 and Erika Did Not Notice
 
 Claim Timestamp: 00:08:40
 
@@ -1219,7 +1218,7 @@ Investigative Direction: Look for any footage, photos or staff accounts of the h
 
 ---
 
-**C-8449** Erika Says Charlie Got Up for a Snack Around 2:45 and the Daughter Woke
+**C-6531** Erika Says Charlie Got Up for a Snack Around 2:45 and the Daughter Woke
 
 Claim Timestamp: 00:10:50
 
@@ -1235,7 +1234,7 @@ Investigative Direction: Seek any corroboration of the 2:45 a.m. waking, such as
 
 ---
 
-**C-8450** Erika Says She Sent Charlie to Sleep in the Daughter's Room
+**C-6532** Erika Says She Sent Charlie to Sleep in the Daughter's Room
 
 Claim Timestamp: 00:11:15
 
@@ -1251,7 +1250,7 @@ Investigative Direction: Ask whether any witness or record places Charlie in the
 
 ---
 
-**C-8451** Erika Says Charlie Took His Ring and Necklace From the Bathroom and Left Without a Kiss
+**C-6533** Erika Says Charlie Took His Ring and Necklace From the Bathroom and Left Without a Kiss
 
 Claim Timestamp: 00:11:40
 
@@ -1267,7 +1266,7 @@ Investigative Direction: Check the personal effects inventory from the hospital 
 
 ---
 
-**C-8452** Host Says She Has Done a UVU Event With Charlie
+**C-6534** Host Says She Has Done a UVU Event With Charlie
 
 Claim Timestamp: 00:12:15
 
@@ -1283,7 +1282,7 @@ Investigative Direction: Identify the date of the earlier joint UVU event and co
 
 ---
 
-**C-8453** Host Notes Charlie Had a 6:30 A.M. Flight Scheduled
+**C-6535** Host Notes Charlie Had a 6:30 A.M. Flight Scheduled
 
 Claim Timestamp: 00:14:15
 
@@ -1299,7 +1298,7 @@ Investigative Direction: Compare the 6:30 a.m. departure with the flight plan an
 
 ---
 
-**C-8454** Host Speculates the Daughter Woke Because of an Argument
+**C-6536** Host Speculates the Daughter Woke Because of an Argument
 
 Claim Timestamp: 00:15:20
 
@@ -1315,7 +1314,7 @@ Investigative Direction: Seek witnesses, neighbors or security staff who were ne
 
 ---
 
-**C-8455** Host Says Fox Edited Erika's Answer With Many Cuts
+**C-6537** Host Says Fox Edited Erika's Answer With Many Cuts
 
 Claim Timestamp: 00:16:30
 
@@ -1331,7 +1330,7 @@ Investigative Direction: Obtain the uncut Fox News interview footage or ask Fox 
 
 ---
 
-**C-8456** Erika Says They Planned Dinner With a Dear Friend to Pray Before the Event
+**C-6538** Erika Says They Planned Dinner With a Dear Friend to Pray Before the Event
 
 Claim Timestamp: 00:17:00
 
@@ -1347,7 +1346,7 @@ Investigative Direction: Identify the friend, the dinner location and time, and 
 
 ---
 
-**C-8457** Erika Says Charlie Had Looked Into Wearing a Vest
+**C-6539** Erika Says Charlie Had Looked Into Wearing a Vest
 
 Claim Timestamp: 00:17:20
 
@@ -1362,7 +1361,7 @@ Investigative Direction: Compare with supplier accounts of the campus-tour vests
 
 ---
 
-**C-8458** Fox Segment Says Erika Stayed in Phoenix to Care for Her Mother
+**C-6540** Fox Segment Says Erika Stayed in Phoenix to Care for Her Mother
 
 Claim Timestamp: 00:17:40
 
@@ -1378,7 +1377,7 @@ Investigative Direction: Verify Erika Kirk's whereabouts on September 8 to 10 ag
 
 ---
 
-**C-8459** Erika Says Charlie Told Her 'Home Needs You' and Asked Her to Come on Thursday
+**C-6541** Erika Says Charlie Told Her 'Home Needs You' and Asked Her to Come on Thursday
 
 Claim Timestamp: 00:17:54
 
@@ -1393,7 +1392,7 @@ Investigative Direction: Confirm the Thursday event, its location and Erika's pl
 
 ---
 
-**C-8460** Host Says the Dear Friend Was a Priest Who Prayed Over the Marriage
+**C-6542** Host Says the Dear Friend Was a Priest Who Prayed Over the Marriage
 
 Claim Timestamp: 00:18:15
 
@@ -1409,7 +1408,7 @@ Investigative Direction: Identify the priest and obtain his account of the visit
 
 ---
 
-**C-8461** Host Says Charlie Told People on September 9 He Wanted to Bring Her Back to AmFest
+**C-6543** Host Says Charlie Told People on September 9 He Wanted to Bring Her Back to AmFest
 
 Claim Timestamp: 00:19:30
 
@@ -1425,7 +1424,7 @@ Investigative Direction: Identify the recipients of these communications and obt
 
 ---
 
-**C-8462** Host Says Charlie's Last Day Consisted of Many Arguments Over His Israel Shift
+**C-6544** Host Says Charlie's Last Day Consisted of Many Arguments Over His Israel Shift
 
 Claim Timestamp: 00:19:50
 
@@ -1441,7 +1440,7 @@ Investigative Direction: Seek participants in the September 9 conversations and 
 
 ---
 
-**C-8463** Host Says the Marriage Portrayal Was Not Honest
+**C-6545** Host Says the Marriage Portrayal Was Not Honest
 
 Claim Timestamp: 00:20:30
 
@@ -1457,7 +1456,7 @@ Investigative Direction: Compare TPUSA's public statements on the marriage with 
 
 ---
 
-**C-8464** Host Says Charlie Messaged Multiple People He Thought They Would Kill Him
+**C-6546** Host Says Charlie Messaged Multiple People He Thought They Would Kill Him
 
 Claim Timestamp: 00:21:00
 
@@ -1473,7 +1472,7 @@ Investigative Direction: Obtain the messages themselves with sender and recipien
 
 ---
 
-**C-8465** Beck Says He Knows Erika and Charlie Met With Their Priest the Night Before
+**C-6547** Beck Says He Knows Erika and Charlie Met With Their Priest the Night Before
 
 Claim Timestamp: 00:21:45
 
@@ -1489,7 +1488,7 @@ Investigative Direction: Ask Beck's team where the priest meeting detail came fr
 
 ---
 
-**C-8466** Erika Says She and Her Team Receive Many Death Threats
+**C-6550** Erika Says She and Her Team Receive Many Death Threats
 
 Claim Timestamp: 00:22:20
 
@@ -1504,7 +1503,7 @@ Investigative Direction: Request threat assessment records and law enforcement r
 
 ---
 
-**C-8467** Erika Says They Prayed the Night Before as They Did Before Tours
+**C-6551** Erika Says They Prayed the Night Before as They Did Before Tours
 
 Claim Timestamp: 00:23:10
 
@@ -1520,7 +1519,7 @@ Investigative Direction: Compare with the priest's account of whether the prayer
 
 ---
 
-**C-8468** Host Says Dan Flood Messaged by iMessage, So a Messaging App Does Not Explain Missing Messages
+**C-6552** Host Says Dan Flood Messaged by iMessage, So a Messaging App Does Not Explain Missing Messages
 
 Claim Timestamp: 00:24:00
 
@@ -1536,7 +1535,7 @@ Investigative Direction: Obtain the carrier and iCloud records for Dan Flood's i
 
 ---
 
-**C-8469** Host Says Erika Got the Phone Back Quickly and It Was Perhaps Never Seized
+**C-6553** Host Says Erika Got the Phone Back Quickly and It Was Perhaps Never Seized
 
 Claim Timestamp: 00:24:20
 
@@ -1552,7 +1551,7 @@ Investigative Direction: File a records request for the chain of custody of Char
 
 ---
 
-**C-8470** Host Says Netanyahu Arrived in a Motorcade Bigger Than Trump's
+**C-6554** Host Says Netanyahu Arrived in a Motorcade Bigger Than Trump's
 
 Claim Timestamp: 00:27:05
 
@@ -1567,7 +1566,7 @@ Investigative Direction: Compare the described motorcade with press pool reports
 
 ---
 
-**C-8471** Host Says Carrie Prejean Boller Called the Hearing Unacceptable
+**C-6555** Host Says Carrie Prejean Boller Called the Hearing Unacceptable
 
 Claim Timestamp: 00:28:25
 
@@ -1583,7 +1582,7 @@ Investigative Direction: Obtain the full hearing recording and transcript to see
 
 ---
 
-**C-8472** Rabbi at Hearing Says Anti-Zionism Is Anti-Semitism and Cites 28 Muslim and 13 Christian Countries
+**C-6556** Rabbi at Hearing Says Anti-Zionism Is Anti-Semitism and Cites 28 Muslim and 13 Christian Countries
 
 Claim Timestamp: 00:29:30
 
@@ -1599,7 +1598,7 @@ Investigative Direction: Identify the rabbi and the panel and obtain the hearing
 
 ---
 
-**C-8473** Carrie Prejean Boller Asks Whether All Catholics Are Anti-Semites
+**C-6558** Carrie Prejean Boller Asks Whether All Catholics Are Anti-Semites
 
 Claim Timestamp: 00:30:25
 
@@ -1615,7 +1614,7 @@ Investigative Direction: Obtain the full hearing recording to confirm the questi
 
 ---
 
-**C-8474** Host Says Those She Addresses Are 'From Turkey Somewhere' and Deleted Their Books
+**C-6559** Host Says Those She Addresses Are 'From Turkey Somewhere' and Deleted Their Books
 
 Claim Timestamp: 00:33:40
 
@@ -1630,7 +1629,7 @@ Investigative Direction: No investigative direction beyond historical scholarshi
 
 ---
 
-**C-8475** Host Says Robert Maxwell Put the Public Schools Through a Brainwashing Program
+**C-6560** Host Says Robert Maxwell Put the Public Schools Through a Brainwashing Program
 
 Claim Timestamp: 00:33:50
 
@@ -1645,7 +1644,7 @@ Investigative Direction: Ask for documentation of Robert Maxwell's role in US te
 
 ---
 
-**C-8476** Host Says Zionists Demanded Carrie Prejean Boller's Removal
+**C-6561** Host Says Zionists Demanded Carrie Prejean Boller's Removal
 
 Claim Timestamp: 00:34:30
 
@@ -1661,7 +1660,7 @@ Investigative Direction: Identify who, if anyone, publicly called for her remova
 
 ---
 
-**C-8477** Host Says Calvary Chapel Was Started by the CIA
+**C-6563** Host Says Calvary Chapel Was Started by the CIA
 
 Claim Timestamp: 00:34:50
 
@@ -1677,7 +1676,7 @@ Investigative Direction: Document the founding history of Calvary Chapel and any
 
 ---
 
-**C-8478** Patrick's Post Says No Commissioner May Hijack a Hearing for a Personal Agenda
+**C-6564** Patrick's Post Says No Commissioner May Hijack a Hearing for a Personal Agenda
 
 Claim Timestamp: 00:35:55
 
@@ -1693,7 +1692,7 @@ Investigative Direction: Capture the original post and compare the full text wit
 
 ---
 
-**C-8479** Patrick's Post Says the Hearing at Issue Was Monday's and the Removal Was His Decision
+**C-6565** Patrick's Post Says the Hearing at Issue Was Monday's and the Removal Was His Decision
 
 Claim Timestamp: 00:36:05
 
@@ -1709,7 +1708,7 @@ Investigative Direction: Identify the hearing date and confirm whether the White
 
 ---
 
-**C-8480** Host Alleges Dan Patrick Takes a Lot of Money From Zionists
+**C-6566** Host Alleges Dan Patrick Takes a Lot of Money From Zionists
 
 Claim Timestamp: 00:36:10
 
@@ -1725,7 +1724,7 @@ Investigative Direction: Review Texas Ethics Commission and FEC contribution rec
 
 ---
 
-**C-8481** Patrick's Post Says Commission Has Held Five Hearings With Two More Scheduled
+**C-6567** Patrick's Post Says Commission Has Held Five Hearings With Two More Scheduled
 
 Claim Timestamp: 00:36:20
 
@@ -1741,7 +1740,7 @@ Investigative Direction: Check the commission's published hearing schedule for t
 
 ---
 
-**C-8482** Host Says Charlie Began Pivoting on Catholicism and Zionism a Year Before His Death
+**C-6568** Host Says Charlie Began Pivoting on Catholicism and Zionism a Year Before His Death
 
 Claim Timestamp: 00:37:15
 
@@ -1752,13 +1751,13 @@ Transcript Snippet: We started talking about the Catholic faith, the issues with
 Anchored Artifacts: A-2937.1
 Mentions: N-3, N-1
 Related Nodes: N-10320
-Supports: C-6465
+Supports: C-1341
 Tags: relevance:core
 Investigative Direction: Publish or authenticate the text messages with Charlie Kirk dating the pivot.
 
 ---
 
-**C-8483** Host Says Several People From the Halftime Show Reached Out to Her
+**C-6569** Host Says Several People From the Halftime Show Reached Out to Her
 
 Claim Timestamp: 00:37:50
 
@@ -1774,7 +1773,7 @@ Investigative Direction: Establish how many informants spoke to the host, and wh
 
 ---
 
-**C-8484** Informants Say Most Did Not Know They Were Signing Up for a Split Halftime Show
+**C-6572** Informants Say Most Did Not Know They Were Signing Up for a Split Halftime Show
 
 Claim Timestamp: 00:39:45
 
@@ -1790,7 +1789,7 @@ Investigative Direction: Obtain the audience recruitment emails or releases to s
 
 ---
 
-**C-8485** Informants Say Many Attendees Liked Bad Bunny and Doubted the TPUSA Show Could Rival It
+**C-6574** Informants Say Many Attendees Liked Bad Bunny and Doubted the TPUSA Show Could Rival It
 
 Claim Timestamp: 00:40:10
 
@@ -1806,7 +1805,7 @@ Investigative Direction: Compare the TPUSA broadcast viewership figures with the
 
 ---
 
-**C-8486** Informants Say Filming Days Were 12 Hours Long
+**C-6576** Informants Say Filming Days Were 12 Hours Long
 
 Claim Timestamp: 00:40:40
 
@@ -1822,7 +1821,7 @@ Investigative Direction: Request call sheets and wrap times for the two filming 
 
 ---
 
-**C-8487** Informants Say Food Ran Out on Day One and Was Mediterranean, Then Tacos
+**C-6577** Informants Say Food Ran Out on Day One and Was Mediterranean, Then Tacos
 
 Claim Timestamp: 00:40:50
 
@@ -1838,7 +1837,7 @@ Investigative Direction: Request catering invoices for the two filming days.
 
 ---
 
-**C-8488** Informants Say Attendees Waited Hours in a Holding Room With Technical Problems
+**C-6578** Informants Say Attendees Waited Hours in a Holding Room With Technical Problems
 
 Claim Timestamp: 00:41:00
 
@@ -1854,7 +1853,7 @@ Investigative Direction: Seek attendee accounts or production logs that record d
 
 ---
 
-**C-8489** Informants Say They Waited Longest for Kid Rock
+**C-6579** Informants Say They Waited Longest for Kid Rock
 
 Claim Timestamp: 00:41:19
 
@@ -1870,7 +1869,7 @@ Investigative Direction: Request artist call times from the production.
 
 ---
 
-**C-8490** Informants Say Producer Matt Told Them Trump Was Watching
+**C-6580** Informants Say Producer Matt Told Them Trump Was Watching
 
 Claim Timestamp: 00:41:30
 
@@ -1886,7 +1885,7 @@ Investigative Direction: Identify the producer Matt and ask TPUSA what basis the
 
 ---
 
-**C-8491** Informants Say Matt Predicted More Views Than the Bad Bunny Show
+**C-6581** Informants Say Matt Predicted More Views Than the Bad Bunny Show
 
 Claim Timestamp: 00:41:50
 
@@ -1902,7 +1901,7 @@ Investigative Direction: Compare official viewership numbers for both programs w
 
 ---
 
-**C-8492** Informants Say TPUSA Paid for Hotel Rooms but Assigned Random Roommates
+**C-6583** Informants Say TPUSA Paid for Hotel Rooms but Assigned Random Roommates
 
 Claim Timestamp: 00:42:05
 
@@ -1918,7 +1917,7 @@ Investigative Direction: Request hotel block records for the event from TPUSA or
 
 ---
 
-**C-8493** Informants Say Their NDA Expired One Hour After the Show
+**C-6584** Informants Say Their NDA Expired One Hour After the Show
 
 Claim Timestamp: 00:42:20
 
@@ -1934,7 +1933,7 @@ Investigative Direction: Obtain a copy of the NDA from an attendee to confirm it
 
 ---
 
-**C-8494** Host Says Club Candace Tiers Merged at $1.99 a Month or $120 a Year
+**C-6585** Host Says Club Candace Tiers Merged at $1.99 a Month or $120 a Year
 
 Claim Timestamp: 00:45:20
 
@@ -1949,7 +1948,7 @@ Investigative Direction: Check the website for the tier prices.
 
 ---
 
-**C-8495** Host Says She Recently Had Milo on Her Show
+**C-6586** Host Says She Recently Had Milo on Her Show
 
 Claim Timestamp: 00:47:50
 
@@ -1964,7 +1963,7 @@ Investigative Direction: Locate the episode featuring Milo Yiannopoulos and chec
 
 ---
 
-**C-8496** Host Says TMZ Somehow Got the Tape in the Guthrie Mother Case
+**C-6587** Host Says TMZ Somehow Got the Tape in the Guthrie Mother Case
 
 Claim Timestamp: 00:48:40
 
@@ -1980,7 +1979,7 @@ Investigative Direction: Establish how the tape reached TMZ and what the FBI dir
 
 ---
 
-**C-8497** Host Says Feds Make Deals With Native American Reservations
+**C-6588** Host Says Feds Make Deals With Native American Reservations
 
 Claim Timestamp: 00:49:00
 
@@ -1996,7 +1995,7 @@ Investigative Direction: No source is cited on air; the host says 'don't quote m
 
 ---
 
-**C-8498** Host Says Part of the Guthrie Coverage Was to Distract
+**C-6589** Host Says Part of the Guthrie Coverage Was to Distract
 
 Claim Timestamp: 00:49:20
 
@@ -2012,7 +2011,7 @@ Investigative Direction: Compare coverage volume of the Guthrie case with covera
 
 ---
 
-**C-8499** Host Says She Looked Into a Viewer's Allegation About Erika in Michigan
+**C-6590** Host Says She Looked Into a Viewer's Allegation About Erika in Michigan
 
 Claim Timestamp: 00:50:05
 
@@ -2027,7 +2026,7 @@ Investigative Direction: The allegation is a viewer comment read on air and is u
 
 ---
 
-**C-8500** Host Says She Is Taking a Week Off to Assemble an Erika Series
+**C-6591** Host Says She Is Taking a Week Off to Assemble an Erika Series
 
 Claim Timestamp: 00:50:20
 
@@ -2042,7 +2041,7 @@ Investigative Direction: Check the following episodes for the release of the Eri
 
 ---
 
-**C-8501** Host Says Audience at Hearing Booed Carrie Prejean Boller for Saying She Is Catholic
+**C-6593** Host Says Audience at Hearing Booed Carrie Prejean Boller for Saying She Is Catholic
 
 Claim Timestamp: 00:51:15
 
@@ -2058,7 +2057,7 @@ Investigative Direction: Review the hearing video to confirm the booing and its 
 
 ---
 
-**C-8502** Host Says the Event After UVU Was in Colorado at Charis Bible College With No Security
+**C-6592** Host Says the Event After UVU Was in Colorado at Charis Bible College With No Security
 
 Claim Timestamp: 00:51:13
 
@@ -2074,7 +2073,7 @@ Investigative Direction: Obtain the Charis Bible College event contract, securit
 
 ---
 
-**C-8503** Host Says Not a Shred of Evidence Has Been Produced Tying Tyler Robinson to the Crime
+**C-6594** Host Says Not a Shred of Evidence Has Been Produced Tying Tyler Robinson to the Crime
 
 Claim Timestamp: 00:52:34
 
@@ -2090,7 +2089,7 @@ Investigative Direction: Compare against the exhibits and testimony from the pre
 
 ---
 
-**C-8504** Host Says Erika's Side Had Nothing More Than the Public Account When They Met
+**C-6595** Host Says Erika's Side Had Nothing More Than the Public Account When They Met
 
 Claim Timestamp: 00:52:39
 
@@ -2112,7 +2111,7 @@ Investigative Direction: Compare with the host's earlier account of her private 
 - A-1773.1 (Sept 8, 2025 home studio broadcast) shows the wedding photo present.
 - A-1774.1 (Dec 12, 2025 Glenn Beck interview, same office) shows the wedding photo absent.
 - A-1774.1 also captures Erika's claim of not having been in the office for a long time.
-- C-2364, C-2365, C-2367 all reference N-10506.
+- C-6514, C-6520, C-6521 all reference N-10506.
 
 This is the central inscribed contradiction of the episode: an artifact-backed before/after paired with a verbal claim that is difficult to reconcile with the visible change in the same physical space.
 
@@ -2278,7 +2277,7 @@ Confidence: high
 
 - **Possible transcription error:** "Bassam Yousef" referenced in viewer comment at 46:33 – preserved as it appears.
 
-- **Requires human verification:** All informant-based claims (C-2372, C-2373, C-2374, C-2376) rest on Candace Owens' secondhand reporting from unidentified informants present at the TPUSA halftime filming. Source identity, number of informants, and corroboration status are not disclosed in this episode.
+- **Requires human verification:** All informant-based claims (C-6570, C-6575, C-6573, C-6571) rest on Candace Owens' secondhand reporting from unidentified informants present at the TPUSA halftime filming. Source identity, number of informants, and corroboration status are not disclosed in this episode.
 
 - **Claim failed admission test (not inscribed):** The host's claim that "Charlie messaged multiple people saying that he thought they were going to kill him the night before" is referenced but the underlying messages are not displayed or quoted in this episode; not inscribed as a C-claim despite being thematically central. Anchor for this claim would have to come from a prior or future episode.
 

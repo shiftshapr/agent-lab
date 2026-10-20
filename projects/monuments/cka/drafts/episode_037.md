@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep037): N-307, N-10290, N-10303, N-10314, N-10334, N-10358, N-10366
   - Tip-minted Nodes (reintro-ep037): N-11191
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10d): C-9765–C-9829
+  - Claim Range: C-3249–C-3327
   - New Nodes Introduced: N-273, N-274, N-275, N-276, N-279, N-280, N-10273, N-10275, N-10276, N-10278, N-10279, N-10280, N-10281, N-10282
   - Reused Nodes Appearing: N-1, N-277, N-7, N-14, N-17, N-22, N-36, N-82, N-125, N-140, N-176, N-195, N-208, N-212, N-246, N-268, N-130, N-10012, N-10031, N-10074, N-10094, N-10098, N-10137, N-10141, N-10151, N-10183, N-10197, N-10244, N-10253, N-10260, N-10265, N-10266, N-10270, N-10284, N-10817, N-11008, N-10274, N-10277, N-10311, N-278
   - (see registers)
@@ -162,7 +162,7 @@ Video Timestamp: 00:08:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1768, C-1769, C-1770, N-69, N-10273, N-10277, N-10278, N-10279*
+*Related: C-3262, C-3263, C-3264, N-69, N-10273, N-10277, N-10278, N-10279*
 
 ---
 
@@ -176,7 +176,7 @@ Video Timestamp: 00:01:06–00:02:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (video played from prior interview; original air date not stated)
 
-*Related: C-1771, N-1, N-3*
+*Related: C-3251, N-1, N-3*
 
 ---
 
@@ -190,7 +190,7 @@ Video Timestamp: 00:09:53–00:10:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1772, N-69, N-10273*
+*Related: C-3266, N-69, N-10273*
 
 ---
 
@@ -204,7 +204,7 @@ Video Timestamp: 00:05:34–00:07:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (sender identity redacted by host; content verbally read)
 
-*Related: C-1773, C-1774, C-1775, N-69, N-10274, N-10277, N-10278, N-10273*
+*Related: C-3256, C-3257, C-3258, N-69, N-10274, N-10277, N-10278, N-10273*
 
 ---
 
@@ -218,7 +218,7 @@ Video Timestamp: 00:12:13–00:13:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (news clip played; exact source outlet not specified)
 
-*Related: C-1776, N-279, N-10276*
+*Related: C-3271, N-279, N-10276*
 
 ---
 
@@ -232,7 +232,7 @@ Video Timestamp: 00:26:00–00:28:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1777, N-273, N-275*
+*Related: C-3303, N-273, N-275*
 
 ---
 
@@ -246,7 +246,7 @@ Video Timestamp: 00:26:15–00:28:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (specific outlet not named in transcript)
 
-*Related: C-1778, N-273, N-274*
+*Related: C-3304, N-273, N-274*
 
 ---
 
@@ -260,7 +260,7 @@ Video Timestamp: 00:28:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1779, N-273, N-274, N-280*
+*Related: C-3306, N-273, N-274, N-280*
 
 ---
 
@@ -274,7 +274,7 @@ Video Timestamp: 00:29:33–00:31:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (email content read verbatim)
 
-*Related: C-1780, N-3, N-276, N-10281*
+*Related: C-3308, N-3, N-276, N-10281*
 
 ---
 
@@ -301,7 +301,7 @@ Video Timestamp: 00:10:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9776, C-9777, C-9778, C-9780, C-9781, N-279, N-22, N-1*
+*Related: C-3268, C-3269, C-3270, C-3273, C-3274, N-279, N-22, N-1*
 
 ---
 
@@ -314,7 +314,7 @@ Video Timestamp: 00:19:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9799, C-9800, N-307, N-1*
+*Related: C-3292, C-3293, N-307, N-1*
 
 ---
 
@@ -329,7 +329,7 @@ Video Timestamp: 00:41:51
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9819, N-69*
+*Related: C-3317, N-69*
 
 ---
 
@@ -342,7 +342,7 @@ Video Timestamp: 00:42:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9820, N-1*
+*Related: C-3318, N-1*
 
 ---
 
@@ -355,7 +355,7 @@ Video Timestamp: 00:45:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9828, C-9829, N-3, N-268, N-130*
+*Related: C-3326, C-3327, N-3, N-268, N-130*
 
 ---
 
@@ -368,7 +368,7 @@ Video Timestamp: 00:43:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9824, C-9825, C-9826, C-9827, N-3*
+*Related: C-3322, C-3323, C-3324, C-3325, N-3*
 
 ---
 
@@ -381,7 +381,7 @@ Video Timestamp: 00:23:04
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9809, N-3*
+*Related: C-3302, N-3*
 
 ---
 
@@ -397,7 +397,7 @@ Claim Count: 3
 Episode Count: 2 (this series)
 Investigative Pressure: High
 
-*Related: A-1451.1, A-1452.1, A-1453.1, C-1768, C-1771, C-1772, N-10273*
+*Related: A-1451.1, A-1452.1, A-1453.1, C-3262, C-3251, C-3266, N-10273*
 
 ---
 
@@ -410,7 +410,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1453.1, A-1454.1, C-1772, C-1775, N-10273*
+*Related: A-1453.1, A-1454.1, C-3266, C-3258, N-10273*
 
 ---
 
@@ -423,7 +423,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1456.1, A-1457.1, A-1458.1, C-1777, C-1778, C-1779, N-274, N-275, N-280*
+*Related: A-1456.1, A-1457.1, A-1458.1, C-3303, C-3304, C-3306, N-274, N-275, N-280*
 
 ---
 
@@ -436,7 +436,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1457.1, A-1458.1, C-1778, C-1779, N-273*
+*Related: A-1457.1, A-1458.1, C-3304, C-3306, N-273*
 
 ---
 
@@ -449,7 +449,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1456.1, C-1777, N-273*
+*Related: A-1456.1, C-3303, N-273*
 
 ---
 
@@ -462,7 +462,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1459.1, C-1780, N-3, N-10281*
+*Related: A-1459.1, C-3308, N-3, N-10281*
 
 ---
 
@@ -501,7 +501,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1455.1, C-1776, N-10276*
+*Related: A-1455.1, C-3271, N-10276*
 
 ---
 
@@ -514,7 +514,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1458.1, C-1779, N-273, N-274*
+*Related: A-1458.1, C-3306, N-273, N-274*
 
 ---
 
@@ -527,7 +527,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1451.1, A-1453.1, A-1454.1, C-1768, C-1772, C-1775, N-69, N-10278*
+*Related: A-1451.1, A-1453.1, A-1454.1, C-3262, C-3266, C-3258, N-69, N-10278*
 
 ---
 
@@ -540,7 +540,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1454.1, C-1773, N-10277, N-10278*
+*Related: A-1454.1, C-3256, N-10277, N-10278*
 
 ---
 
@@ -566,7 +566,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1455.1, C-1776, N-279*
+*Related: A-1455.1, C-3271, N-279*
 
 ---
 
@@ -579,7 +579,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1451.1, A-1454.1, C-1769, C-1773, N-10274, N-10278*
+*Related: A-1451.1, A-1454.1, C-3263, C-3256, N-10274, N-10278*
 
 ---
 
@@ -592,7 +592,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1451.1, A-1454.1, C-1768, C-1770, N-10273, N-10277*
+*Related: A-1451.1, A-1454.1, C-3262, C-3264, N-10273, N-10277*
 
 ---
 
@@ -605,7 +605,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1451.1, C-1768, N-10278*
+*Related: A-1451.1, C-3262, N-10278*
 
 ---
 
@@ -618,7 +618,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1459.1, C-1780, N-276, N-278*
+*Related: A-1459.1, C-3308, N-276, N-278*
 
 ---
 
@@ -631,7 +631,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1459.1, C-1780, N-276*
+*Related: A-1459.1, C-3308, N-276*
 
 ---
 
@@ -652,7 +652,7 @@ Investigative Pressure: Low
 
 Host; speaks for herself throughout.
 
-*Related: C-9809, C-9813, C-9814, C-9818, C-9826, C-9827, C-9828, C-9829*
+*Related: C-3302, C-3310, C-3311, C-3315, C-3324, C-3325, C-3326, C-3327*
 
 ---
 
@@ -660,7 +660,7 @@ Host; speaks for herself throughout.
 
 Named by the host among military-connected figures present at the assassination.
 
-*Related: C-9787*
+*Related: C-3280*
 
 ---
 
@@ -668,7 +668,7 @@ Named by the host among military-connected figures present at the assassination.
 
 Named by the host (transcribed Kolvet) among military-connected figures; brother and cousin said to be captains.
 
-*Related: C-9786*
+*Related: C-3279*
 
 ---
 
@@ -676,7 +676,7 @@ Named by the host (transcribed Kolvet) among military-connected figures; brother
 
 Pastor named (transcribed McCoyy) in the host's list of military-linked figures.
 
-*Related: C-9788*
+*Related: C-3281*
 
 ---
 
@@ -684,7 +684,7 @@ Pastor named (transcribed McCoyy) in the host's list of military-linked figures.
 
 Named by the host in a correction about the date of his Turning Point speech.
 
-*Related: C-9780*
+*Related: C-3273*
 
 ---
 
@@ -692,7 +692,7 @@ Named by the host in a correction about the date of his Turning Point speech.
 
 Named by the host as having met Jonathan Pollard on the runway after his release.
 
-*Related: C-9810*
+*Related: C-3305*
 
 ---
 
@@ -700,7 +700,7 @@ Named by the host as having met Jonathan Pollard on the runway after his release
 
 Accused shooter; the host discusses his Boy Scout background, uncle and maroon shirt.
 
-*Related: C-9794, C-9795, C-9797*
+*Related: C-3287, C-3288, C-3290*
 
 ---
 
@@ -708,7 +708,7 @@ Accused shooter; the host discusses his Boy Scout background, uncle and maroon s
 
 Plaintiff in the Delaware lawsuit that the host says names Tim Dillon.
 
-*Related: C-9814*
+*Related: C-3311*
 
 ---
 
@@ -716,7 +716,7 @@ Plaintiff in the Delaware lawsuit that the host says names Tim Dillon.
 
 Named as Mitchell by the host, who asks whether he is the uncle who convinced Robinson to surrender.
 
-*Related: C-9794, C-9795*
+*Related: C-3287, C-3288*
 
 ---
 
@@ -724,7 +724,7 @@ Named as Mitchell by the host, who asks whether he is the uncle who convinced Ro
 
 Named in the Tim Dillon clip as the person who hired Bari Weiss.
 
-*Related: C-9816*
+*Related: C-3313*
 
 ---
 
@@ -732,7 +732,7 @@ Named in the Tim Dillon clip as the person who hired Bari Weiss.
 
 Medical examiner; the host says she is a major in the military (transcribed Deirdre Amaro).
 
-*Related: C-9785*
+*Related: C-3278*
 
 ---
 
@@ -740,7 +740,7 @@ Medical examiner; the host says she is a major in the military (transcribed Deir
 
 Alleged surgeon; the host says he is a pilot who did his residency at an Air Force base.
 
-*Related: C-9784*
+*Related: C-3277*
 
 ---
 
@@ -748,7 +748,7 @@ Alleged surgeon; the host says he is a pilot who did his residency at an Air For
 
 Pastor whose brother Butch the host says was invited to the event.
 
-*Related: C-9792*
+*Related: C-3285*
 
 ---
 
@@ -756,7 +756,7 @@ Pastor whose brother Butch the host says was invited to the event.
 
 Named in the host's joke and her reaction.
 
-*Related: C-9813*
+*Related: C-3310*
 
 ---
 
@@ -764,7 +764,7 @@ Named in the host's joke and her reaction.
 
 Brother of Pastor Jack Hibbs; the host says he attended after a phone call to Charlie.
 
-*Related: C-9792*
+*Related: C-3285*
 
 ---
 
@@ -772,7 +772,7 @@ Brother of Pastor Jack Hibbs; the host says he attended after a phone call to Ch
 
 Subject of a viewer comment about self-censorship on Israel.
 
-*Related: C-9829*
+*Related: C-3327*
 
 ---
 
@@ -780,7 +780,7 @@ Subject of a viewer comment about self-censorship on Israel.
 
 Person the host identifies as having emerged from behind the bush.
 
-*Related: C-9799, C-9800, C-9801, C-9802, C-9803*
+*Related: C-3292, C-3293, C-3294, C-3295, C-3296*
 
 ---
 
@@ -788,7 +788,7 @@ Person the host identifies as having emerged from behind the bush.
 
 Guest the host says Rogan had on to discuss Israel (transcribed Ian Carroll).
 
-*Related: C-9829*
+*Related: C-3327*
 
 ---
 
@@ -796,7 +796,7 @@ Guest the host says Rogan had on to discuss Israel (transcribed Ian Carroll).
 
 Event site; the host says its school color is not maroon.
 
-*Related: C-9793, C-9796, C-9798*
+*Related: C-3286, C-3289, C-3291*
 
 ---
 
@@ -804,7 +804,7 @@ Event site; the host says its school color is not maroon.
 
 Existing topic reused for the host's reading of Patel's press conference.
 
-*Related: C-9775*
+*Related: C-3267*
 
 ---
 
@@ -812,7 +812,7 @@ Existing topic reused for the host's reading of Patel's press conference.
 
 Existing place reused for the Egyptian plane's destination.
 
-*Related: C-9766, C-9770*
+*Related: C-3250, C-3255*
 
 ---
 
@@ -820,7 +820,7 @@ Existing place reused for the Egyptian plane's destination.
 
 Existing organization reused for Kasparian's father's reported temple role.
 
-*Related: C-9801*
+*Related: C-3294*
 
 ---
 
@@ -828,7 +828,7 @@ Existing organization reused for Kasparian's father's reported temple role.
 
 Existing topic reused for the running and lying-down videos.
 
-*Related: C-9789, C-9790, C-9791*
+*Related: C-3282, C-3283, C-3284*
 
 ---
 
@@ -836,7 +836,7 @@ Existing topic reused for the running and lying-down videos.
 
 Existing topic reused for the host's identification of the person behind the bush.
 
-*Related: C-9799, C-9800*
+*Related: C-3292, C-3293*
 
 ---
 
@@ -844,7 +844,7 @@ Existing topic reused for the host's identification of the person behind the bus
 
 Existing topic reused for the uncle Mitchell question.
 
-*Related: C-9795*
+*Related: C-3288*
 
 ---
 
@@ -852,7 +852,7 @@ Existing topic reused for the uncle Mitchell question.
 
 Existing topic reused for the uncle Mitchell question.
 
-*Related: C-9795*
+*Related: C-3288*
 
 ---
 
@@ -860,7 +860,7 @@ Existing topic reused for the uncle Mitchell question.
 
 Existing topic reused for the host's military claim about Dr. Amaro.
 
-*Related: C-9785*
+*Related: C-3278*
 
 ---
 
@@ -868,7 +868,7 @@ Existing topic reused for the host's military claim about Dr. Amaro.
 
 Existing topic reused for the host's list of military connections.
 
-*Related: C-9784, C-9785, C-9786, C-9787, C-9788, C-9805*
+*Related: C-3277, C-3278, C-3279, C-3280, C-3281, C-3298*
 
 ---
 
@@ -876,7 +876,7 @@ Existing topic reused for the host's list of military connections.
 
 Existing topic reused for the bush-area sightings.
 
-*Related: C-9799*
+*Related: C-3292*
 
 ---
 
@@ -884,7 +884,7 @@ Existing topic reused for the bush-area sightings.
 
 Existing topic reused for the Egyptian planes claims.
 
-*Related: C-9766, C-9768, C-9769, C-9776, C-9796*
+*Related: C-3250, C-3253, C-3254, C-3268, C-3289*
 
 ---
 
@@ -892,7 +892,7 @@ Existing topic reused for the Egyptian planes claims.
 
 Existing topic reused for the host's escort claim.
 
-*Related: C-9807*
+*Related: C-3300*
 
 ---
 
@@ -900,7 +900,7 @@ Existing topic reused for the host's escort claim.
 
 Existing topic reused for the facility discussion.
 
-*Related: C-9770, C-9806, C-9807, C-9808*
+*Related: C-3255, C-3299, C-3300, C-3301*
 
 ---
 
@@ -908,7 +908,7 @@ Existing topic reused for the facility discussion.
 
 Existing topic reused for the host's Wilmington stay correction.
 
-*Related: C-9770, C-9777*
+*Related: C-3255, C-3269*
 
 ---
 
@@ -916,7 +916,7 @@ Existing topic reused for the host's Wilmington stay correction.
 
 Existing topic reused for the host's Delaware lawsuit and local counsel remarks.
 
-*Related: C-9814, C-9826*
+*Related: C-3311, C-3324*
 
 ---
 
@@ -924,7 +924,7 @@ Existing topic reused for the host's Delaware lawsuit and local counsel remarks.
 
 Existing topic reused for the host's defence of the location tip.
 
-*Related: C-9770, C-9806, C-9808, C-9824, C-9825*
+*Related: C-3255, C-3299, C-3301, C-3322, C-3323*
 
 ---
 
@@ -932,7 +932,7 @@ Existing topic reused for the host's defence of the location tip.
 
 Existing topic reused for the host's Foreign Legion tips.
 
-*Related: C-9782*
+*Related: C-3275*
 
 ---
 
@@ -940,7 +940,7 @@ Existing topic reused for the host's Foreign Legion tips.
 
 Existing topic reused for the host's explanation of local counsel.
 
-*Related: C-9824, C-9826, C-9827*
+*Related: C-3322, C-3324, C-3325*
 
 ---
 
@@ -948,7 +948,7 @@ Existing topic reused for the host's explanation of local counsel.
 
 Existing topic reused for the maroon-shirt claims.
 
-*Related: C-9797, C-9803*
+*Related: C-3290, C-3296*
 
 ---
 
@@ -956,7 +956,7 @@ Existing topic reused for the maroon-shirt claims.
 
 Existing topic reused for the running-video filmer.
 
-*Related: C-9790*
+*Related: C-3283*
 
 ---
 
@@ -964,7 +964,7 @@ Existing topic reused for the running-video filmer.
 
 Existing topic reused for the Weiss CBS commentary.
 
-*Related: C-9815*
+*Related: C-3312*
 
 ---
 
@@ -972,7 +972,7 @@ Existing topic reused for the Weiss CBS commentary.
 
 Existing topic reused for the alleged surgeon.
 
-*Related: C-9784*
+*Related: C-3277*
 
 ---
 
@@ -980,7 +980,7 @@ Existing topic reused for the alleged surgeon.
 
 Existing topic reused for the exercise claims.
 
-*Related: C-9766, C-9781, C-9821*
+*Related: C-3250, C-3274, C-3319*
 
 ---
 
@@ -988,7 +988,7 @@ Existing topic reused for the exercise claims.
 
 Existing topic reused for Butch Hibbs's presence.
 
-*Related: C-9792*
+*Related: C-3285*
 
 ---
 
@@ -996,7 +996,7 @@ Existing topic reused for Butch Hibbs's presence.
 
 Existing organization reused for the French company at the Wilmington hangar.
 
-*Related: C-9765, C-9807*
+*Related: C-3249, C-3300*
 
 ---
 
@@ -1004,7 +1004,7 @@ Existing organization reused for the French company at the Wilmington hangar.
 
 Existing organization reused for the sponsor read.
 
-*Related: C-9809*
+*Related: C-3302*
 
 ---
 
@@ -1012,7 +1012,7 @@ Existing organization reused for the sponsor read.
 
 First named by the host at 00:17:18 in episode 37. Tyler Robinson's mother, per the host's reference to photos of her visiting an uncle Mitchell.
 
-*Related: C-9794*
+*Related: C-3287*
 
 ---
 
@@ -1021,13 +1021,13 @@ First named by the host at 00:17:18 in episode 37. Tyler Robinson's mother, per 
 Node Type: Topic
 The host's theory that the September 10 event was barely advertised and posters went up at the last second so that organizers could control who attended and who recorded video.
 
-*Related: C-9793, C-9804, C-9805*
+*Related: C-3286, C-3297, C-3298*
 
 ---
 
 ## 5. Claim Register
 
-**C-1768** Per Minot AFB Website Host Reads, Operation Valhalla Strike Held August 24–29, 2025 at Camp Ripley
+**C-3262** Per Minot AFB Website Host Reads, Operation Valhalla Strike Held August 24–29, 2025 at Camp Ripley
 
 Claim Timestamp: 00:08:24
 
@@ -1042,7 +1042,7 @@ Investigative Direction: Cross-check public DoD exercise announcements for the s
 
 ---
 
-**C-1769** Per Minot AFB Website Host Reads, Operation Valhalla Training Focused on Ground Defense, Nuclear Security, and Long-Range Live Fire
+**C-3263** Per Minot AFB Website Host Reads, Operation Valhalla Training Focused on Ground Defense, Nuclear Security, and Long-Range Live Fire
 
 Claim Timestamp: 00:08:24
 
@@ -1056,7 +1056,7 @@ Investigative Direction: Compare with official 891st MSFS mission description an
 
 ---
 
-**C-1770** Per Minot AFB Website Host Reads, 891st Squadron Is a Combined Military and Civilian Security Force
+**C-3264** Per Minot AFB Website Host Reads, 891st Squadron Is a Combined Military and Civilian Security Force
 
 Claim Timestamp: 00:08:24
 
@@ -1070,7 +1070,7 @@ Investigative Direction: Verify against official USAF fact sheets.
 
 ---
 
-**C-1771** Charlie Kirk Identified Julius Caesar as a Favorite Pre-1850 Historical Figure
+**C-3251** Charlie Kirk Identified Julius Caesar as a Favorite Pre-1850 Historical Figure
 
 Claim Timestamp: 00:01:47
 
@@ -1084,7 +1084,7 @@ Investigative Direction: Locate original PragerU upload date and full interview 
 
 ---
 
-**C-1772** Kash Patel Closed Press Conference with "See You in Valhalla" Reference to Charlie Kirk
+**C-3266** Kash Patel Closed Press Conference with "See You in Valhalla" Reference to Charlie Kirk
 
 Claim Timestamp: 00:09:53
 
@@ -1099,7 +1099,7 @@ Investigative Direction: Compare to full Patel press conference record on FBI.go
 
 ---
 
-**C-1773** Host Says BTT Aircraft Stopped at Minot, ND for About One Hour on September 4, 2025
+**C-3256** Host Says BTT Aircraft Stopped at Minot, ND for About One Hour on September 4, 2025
 
 Claim Timestamp: 00:05:34
 
@@ -1114,7 +1114,7 @@ Investigative Direction: Cross-reference with ADS-B / Flightradar24 historical d
 
 ---
 
-**C-1774** Tipster Email Says Minot Has an Air Force Base and FBI Office
+**C-3257** Tipster Email Says Minot Has an Air Force Base and FBI Office
 
 Claim Timestamp: 00:05:34
 
@@ -1128,7 +1128,7 @@ Investigative Direction: Verify via Minot AFB public site and FBI field office d
 
 ---
 
-**C-1775** 891st MSFS Just Completed Operation Valhalla Before BTT's Minot Stopover
+**C-3258** 891st MSFS Just Completed Operation Valhalla Before BTT's Minot Stopover
 
 Claim Timestamp: 00:06:30
 
@@ -1143,7 +1143,7 @@ Investigative Direction: Confirm exercise completion dates and any overlap with 
 
 ---
 
-**C-1776** Host Plays Clip of Nebraska Secretary of State Bob Evnen Announcing Egypt Trade Mission
+**C-3271** Host Plays Clip of Nebraska Secretary of State Bob Evnen Announcing Egypt Trade Mission
 
 Claim Timestamp: 00:12:13
 
@@ -1158,7 +1158,7 @@ Investigative Direction: Locate the original announcement on the Nebraska Secret
 
 ---
 
-**C-1777** Host Says Mike Huckabee and David Friedman Performed at a Jerusalem Event
+**C-3303** Host Says Mike Huckabee and David Friedman Performed at a Jerusalem Event
 
 Claim Timestamp: 00:26:00
 
@@ -1172,7 +1172,7 @@ Investigative Direction: Identify the event organizer, venue, and date.
 
 ---
 
-**C-1778** Host Says Mike Huckabee Met with Jonathan Pollard
+**C-3304** Host Says Mike Huckabee Met with Jonathan Pollard
 
 Claim Timestamp: 00:26:15
 
@@ -1186,7 +1186,7 @@ Investigative Direction: Identify the headline outlet and obtain the underlying 
 
 ---
 
-**C-1779** Host Quotes Leavitt Saying White House Was Not Aware of Huckabee–Pollard Meeting
+**C-3306** Host Quotes Leavitt Saying White House Was Not Aware of Huckabee–Pollard Meeting
 
 Claim Timestamp: 00:27:39
 
@@ -1200,7 +1200,7 @@ Investigative Direction: Locate full White House briefing transcript or video.
 
 ---
 
-**C-1780** Host Reads Free Press Writer's Email Requesting Comment
+**C-3308** Host Reads Free Press Writer's Email Requesting Comment
 
 Claim Timestamp: 00:29:33
 
@@ -1216,7 +1216,7 @@ Investigative Direction: Confirm whether the article was published and whether R
 ---
 
 
-**C-3651** Host identifies show community as Decentralized Intelligence Agency
+**C-3316** Host identifies show community as Decentralized Intelligence Agency
 
 Claim Timestamp: 00:41:04
 Claim: The host says, after reading a viewer comment, 'This is why I love the decentralized intelligence agency.'
@@ -1229,7 +1229,7 @@ Investigative Direction: Preserve as brand / network framing claim; cross-link M
 
 ---
 
-**C-9765** Host Says Tips Show the Satys Angle Opens New Possibilities Beyond Painting Planes
+**C-3249** Host Says Tips Show the Satys Angle Opens New Possibilities Beyond Painting Planes
 
 Claim Timestamp: 00:00:00
 
@@ -1240,13 +1240,13 @@ Transcript Snippet: It seems that that company, Satys, that French company. The 
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-11008
-Supports: C-5029
+Supports: C-3210
 Tags: relevance:core
 Investigative Direction: Identify who at Satys the tipsters name and obtain the Satys hangar lease and any work orders for the Wilmington facility.
 
 ---
 
-**C-9766** Host Says Joint Military Exercise Just Before the Assassination Relates to the Egyptian Plane's Landing Place
+**C-3250** Host Says Joint Military Exercise Just Before the Assassination Relates to the Egyptian Plane's Landing Place
 
 Claim Timestamp: 00:00:30
 
@@ -1257,13 +1257,13 @@ Transcript Snippet: rather we've learned that just before Charlie's assassinatio
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10366, N-10274, N-10253, N-10074
-Supports: C-1775
+Supports: C-3258
 Tags: relevance:core
 Investigative Direction: Compare the exercise dates and Minot AFB transient records with the SU-BTT September 4 flight log.
 
 ---
 
-**C-9767** Host Says Caesar Was Stabbed 23 Times by Senators Including Brutus
+**C-3252** Host Says Caesar Was Stabbed 23 Times by Senators Including Brutus
 
 Claim Timestamp: 00:03:36
 
@@ -1277,7 +1277,7 @@ Investigative Direction: Check standard histories of Caesar's assassination (Sue
 
 ---
 
-**C-9768** Host Says There Is Real Panic and Discussion in Government About the Egyptian Planes
+**C-3253** Host Says There Is Real Panic and Discussion in Government About the Egyptian Planes
 
 Claim Timestamp: 00:04:50
 
@@ -1292,7 +1292,7 @@ Investigative Direction: Identify the government sources or offices the host's i
 
 ---
 
-**C-9769** Host Says She Senses the Egyptian Planes Hold the Key to Solving the Assassination
+**C-3254** Host Says She Senses the Egyptian Planes Hold the Key to Solving the Assassination
 
 Claim Timestamp: 00:04:55
 
@@ -1308,7 +1308,7 @@ Investigative Direction: Lay out what the planes' flights prove or disprove rela
 
 ---
 
-**C-9770** Host Says She Will Identify the Foreign Dignitary Who Went to 920 North King and Flew From Provo to Wilmington
+**C-3255** Host Says She Will Identify the Foreign Dignitary Who Went to 920 North King and Flew From Provo to Wilmington
 
 Claim Timestamp: 00:05:10
 
@@ -1319,13 +1319,13 @@ Transcript Snippet: We are going to figure out who that foreign dignitary was wh
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10284, N-10265, N-10266, N-10074
-Supports: C-1745
+Supports: C-3052
 Tags: relevance:core
 Investigative Direction: Obtain passenger and ground-transport records for the SU-BTT September 10 Wilmington arrival and any visitor log for 920 North King Street.
 
 ---
 
-**C-9771** Host Says Her Team Fact-Checked the Military Tipster's Minot Claims as True
+**C-3259** Host Says Her Team Fact-Checked the Military Tipster's Minot Claims as True
 
 Claim Timestamp: 00:07:00
 
@@ -1335,13 +1335,13 @@ Transcript Snippet: And so we investigated that and that fact checked true, righ
 
 Anchored Artifacts: A-1454.1
 Related Nodes: N-10277, N-10274
-Supports: C-1774
+Supports: C-3257
 Tags: relevance:core
 Investigative Direction: Ask the host for the sources used to verify the email claims; cross-check Minot AFB and FBI field office listings.
 
 ---
 
-**C-9772** Host Says Minot Has 45,000 Residents Including 5,000 Stationed at the Base
+**C-3260** Host Says Minot Has 45,000 Residents Including 5,000 Stationed at the Base
 
 Claim Timestamp: 00:07:30
 
@@ -1356,7 +1356,7 @@ Investigative Direction: Check Census figures for Minot and the base's published
 
 ---
 
-**C-9773** Host Says Minot Is Home to a Global Command Strike Center Hosting Multinational Joint Exercises
+**C-3261** Host Says Minot Is Home to a Global Command Strike Center Hosting Multinational Joint Exercises
 
 Claim Timestamp: 00:07:50
 
@@ -1371,7 +1371,7 @@ Investigative Direction: Verify the Air Force Global Strike Command footprint at
 
 ---
 
-**C-9774** Minot Site Article Describes a Squadron of More Than 250 Airmen and Civilians
+**C-3265** Minot Site Article Describes a Squadron of More Than 250 Airmen and Civilians
 
 Claim Timestamp: 00:08:50
 
@@ -1386,7 +1386,7 @@ Investigative Direction: Compare the headcount with the official 91st Missile Wi
 
 ---
 
-**C-9775** Host Says Kash Patel's Press Conference Seemed to Signal to Insiders With Valhalla and 33 Hours
+**C-3267** Host Says Kash Patel's Press Conference Seemed to Signal to Insiders With Valhalla and 33 Hours
 
 Claim Timestamp: 00:09:53
 
@@ -1397,13 +1397,13 @@ Transcript Snippet: he was signaling to other people who were like in the club t
 Anchored Artifacts: A-1453.1
 Mentions: N-69
 Related Nodes: N-10031, N-10273
-Supports: C-1772
+Supports: C-3266
 Tags: relevance:core
 Investigative Direction: Compare the full press conference transcript with the 33-hour surrender timeline and ask the FBI the source of the Valhalla phrasing.
 
 ---
 
-**C-9776** Host Says SU-BTT Flew Cairo-Paris-Omaha on July 20 and Stayed Longest in Nebraska, Departing From Lincoln
+**C-3268** Host Says SU-BTT Flew Cairo-Paris-Omaha on July 20 and Stayed Longest in Nebraska, Departing From Lincoln
 
 Claim Timestamp: 00:10:55
 
@@ -1413,13 +1413,13 @@ Transcript Snippet: It stayed in Nebraska for the longest stretch yet, departing
 
 Anchored Artifacts: A-3030.1
 Related Nodes: N-10276, N-10253
-Supports: C-5005
+Supports: C-3185
 Tags: relevance:core
 Investigative Direction: Pull ADS-B and FAA records for SU-BTT's July 2025 Omaha and Lincoln movements.
 
 ---
 
-**C-9777** Host Corrects That SU-BTT Stayed One Night in Wilmington, Not Six Days
+**C-3269** Host Corrects That SU-BTT Stayed One Night in Wilmington, Not Six Days
 
 Claim Timestamp: 00:11:05
 
@@ -1429,13 +1429,13 @@ Transcript Snippet: I think yesterday I said that it stayed in Wilmington for si
 
 Anchored Artifacts: A-3030.1
 Related Nodes: N-10266
-Revises: C-5006
+Revises: C-3186
 Tags: relevance:core
 Investigative Direction: Check flight-tracking logs for the actual Wilmington arrival and departure dates on the July trip.
 
 ---
 
-**C-9778** Host Says the Nebraska Trade Delegation Announcement Fell During the Plane's Nebraska Stretch
+**C-3270** Host Says the Nebraska Trade Delegation Announcement Fell During the Plane's Nebraska Stretch
 
 Claim Timestamp: 00:11:30
 
@@ -1446,13 +1446,13 @@ Transcript Snippet: during this stretch on July 22nd, the Nebraskan Secretary of
 Anchored Artifacts: A-1455.1, A-3030.1
 Mentions: N-279
 Related Nodes: N-10276
-Supports: C-1776
+Supports: C-3271
 Tags: relevance:core
 Investigative Direction: Match the announcement date to SU-BTT's Nebraska dates and request the Nebraska Secretary of State's meeting calendar for July 2025.
 
 ---
 
-**C-9779** Host Says the Nebraska Egypt Idea Lines Up With the Plane Arriving the Same Day
+**C-3272** Host Says the Nebraska Egypt Idea Lines Up With the Plane Arriving the Same Day
 
 Claim Timestamp: 00:12:50
 
@@ -1463,13 +1463,13 @@ Transcript Snippet: and it happens to line up with this plane that comes in um u
 Anchored Artifacts: A-1455.1
 Mentions: 
 Related Nodes: N-10276
-Supports: C-1776
+Supports: C-3271
 Tags: relevance:core
 Investigative Direction: Obtain the Nebraska delegation schedule and meetings with Egyptian officials in July 2025.
 
 ---
 
-**C-9780** Host Corrects That Tucker Carlson Spoke on July 11, Not July 18
+**C-3273** Host Corrects That Tucker Carlson Spoke on July 11, Not July 18
 
 Claim Timestamp: 00:13:10
 
@@ -1479,13 +1479,13 @@ Transcript Snippet: I also minor correction I think yesterday I said that Tucker
 
 Anchored Artifacts: A-3030.1
 Mentions: N-22
-Revises: C-1767
+Revises: C-3183
 Tags: relevance:core
 Investigative Direction: Confirm the date of Carlson's Turning Point speech against the event program and video.
 
 ---
 
-**C-9781** Host Says Operation Valhalla Places a Military Exercise 12 Days Before the Assassination
+**C-3274** Host Says Operation Valhalla Places a Military Exercise 12 Days Before the Assassination
 
 Claim Timestamp: 00:13:40
 
@@ -1496,13 +1496,13 @@ Transcript Snippet: We are talking about a tminus 12 days until Charlie Kirk is 
 Anchored Artifacts: A-3030.1
 Mentions: N-1
 Related Nodes: N-10366, N-10273
-Supports: C-1768
+Supports: C-3262
 Tags: relevance:core
 Investigative Direction: Establish whether the 891st had any link to Utah, Wilmington or Provo; the date gap alone proves no causation.
 
 ---
 
-**C-9782** Host Says She Has Received Tips That the French Foreign Legion Was Involved in the Assassination
+**C-3275** Host Says She Has Received Tips That the French Foreign Legion Was Involved in the Assassination
 
 Claim Timestamp: 00:13:55
 
@@ -1517,7 +1517,7 @@ Investigative Direction: Seek documentation of Foreign Legion personnel or exerc
 
 ---
 
-**C-9783** Host Says She Has Begun Sharing Information With Other Content Creators
+**C-3276** Host Says She Has Begun Sharing Information With Other Content Creators
 
 Claim Timestamp: 00:14:10
 
@@ -1531,7 +1531,7 @@ Investigative Direction: Ask which creators received material and whether any pu
 
 ---
 
-**C-9784** Host Says the Alleged Surgeon Dr. Lee Trotter Is a Pilot Who Did His Residency at an Air Force Base
+**C-3277** Host Says the Alleged Surgeon Dr. Lee Trotter Is a Pilot Who Did His Residency at an Air Force Base
 
 Claim Timestamp: 00:14:57
 
@@ -1547,7 +1547,7 @@ Investigative Direction: Check medical licensing and residency records for Dr. L
 
 ---
 
-**C-9785** Host Says Medical Examiner Dr. Deirdre Amaro Is a Major in the Military
+**C-3278** Host Says Medical Examiner Dr. Deirdre Amaro Is a Major in the Military
 
 Claim Timestamp: 00:15:10
 
@@ -1563,7 +1563,7 @@ Investigative Direction: Verify Dr. Amaro's reserve or active-duty military stat
 
 ---
 
-**C-9786** Host Says Andrew Kolvet's Brother and Cousin Are Captains in the Military
+**C-3279** Host Says Andrew Kolvet's Brother and Cousin Are Captains in the Military
 
 Claim Timestamp: 00:15:30
 
@@ -1579,7 +1579,7 @@ Investigative Direction: Verify the rank and service of Kolvet's brother and cou
 
 ---
 
-**C-9787** Host Says Frank Turek Was a Naval Flight Officer and His Sons Are in the Air Force
+**C-3280** Host Says Frank Turek Was a Naval Flight Officer and His Sons Are in the Air Force
 
 Claim Timestamp: 00:15:40
 
@@ -1595,7 +1595,7 @@ Investigative Direction: Verify Turek's Navy service and his sons' service recor
 
 ---
 
-**C-9788** Host Says Pastor McCoy Has a Naval Intelligence Psychological Operations Family Background
+**C-3281** Host Says Pastor McCoy Has a Naval Intelligence Psychological Operations Family Background
 
 Claim Timestamp: 00:15:50
 
@@ -1611,7 +1611,7 @@ Investigative Direction: Check the McCoy family's naval service records and any 
 
 ---
 
-**C-9789** Host Says the Running Video Shows the Figure Moving Too Fast From a Crouch
+**C-3282** Host Says the Running Video Shows the Figure Moving Too Fast From a Crouch
 
 Claim Timestamp: 00:16:00
 
@@ -1626,7 +1626,7 @@ Investigative Direction: Have a firearms or biomechanics expert time the movemen
 
 ---
 
-**C-9790** Host Says the Running Video Was Filmed by a Person in the ROC Who Sent It Through Three People
+**C-3283** Host Says the Running Video Was Filmed by a Person in the ROC Who Sent It Through Three People
 
 Claim Timestamp: 00:16:15
 
@@ -1636,13 +1636,13 @@ Transcript Snippet: Very strange. They didn't want to be involved and sent it th
 
 Anchored Artifacts: 
 Related Nodes: N-10098, N-10314
-Supports: C-5039
+Supports: C-3222
 Tags: relevance:core
 Investigative Direction: Trace the upload chain of the running video to its first public post and identify the filmer.
 
 ---
 
-**C-9791** Host Says the Video of the Man Lying Down Was Recorded by a Military Person Who Teaches Shooting
+**C-3284** Host Says the Video of the Man Lying Down Was Recorded by a Military Person Who Teaches Shooting
 
 Claim Timestamp: 00:16:25
 
@@ -1652,13 +1652,13 @@ Transcript Snippet: That also was recorded by a person in the military who actua
 
 Anchored Artifacts: 
 Related Nodes: N-10098
-Supports: C-5039
+Supports: C-3222
 Tags: relevance:core
 Investigative Direction: Identify the filmer of the pre-shot video and confirm any military or instructor background.
 
 ---
 
-**C-9792** Host Says Butch Hibbs Is the Brother of Pastor Jack Hibbs, Who Phoned Charlie to Ask If He Could Attend
+**C-3285** Host Says Butch Hibbs Is the Brother of Pastor Jack Hibbs, Who Phoned Charlie to Ask If He Could Attend
 
 Claim Timestamp: 00:16:40
 
@@ -1669,13 +1669,13 @@ Transcript Snippet: Burton Hibbs, Butch, the brother of Pastor Jack Hibbs. Jack 
 Anchored Artifacts: 
 Mentions: N-246, N-208, N-1
 Related Nodes: N-10817
-Supports: C-1673
+Supports: C-2695
 Tags: relevance:core
 Investigative Direction: Ask Jack Hibbs or TPUSA whether the call occurred and when; compare with Butch Hibbs's own account.
 
 ---
 
-**C-9793** Host Says the Event Was Barely Advertised, Which She Believes Was to Control Who Attended
+**C-3286** Host Says the Event Was Barely Advertised, Which She Believes Was to Control Who Attended
 
 Claim Timestamp: 00:16:55
 
@@ -1690,7 +1690,7 @@ Investigative Direction: Obtain UVU and TPUSA promotion records, poster dates an
 
 ---
 
-**C-9794** Host Says Tyler Robinson Was a Boy Scout and Photos Show Amber Robinson Visiting an Uncle Mitchell
+**C-3287** Host Says Tyler Robinson Was a Boy Scout and Photos Show Amber Robinson Visiting an Uncle Mitchell
 
 Claim Timestamp: 00:17:30
 
@@ -1706,7 +1706,7 @@ Investigative Direction: Locate the photos and verify the identity of the uncle 
 
 ---
 
-**C-9795** Host Asks Whether Uncle Mitchell Is the Mitchell Who Convinced Robinson to Surrender and Says He Is in the Military in Ukraine
+**C-3288** Host Asks Whether Uncle Mitchell Is the Mitchell Who Convinced Robinson to Surrender and Says He Is in the Military in Ukraine
 
 Claim Timestamp: 00:17:50
 
@@ -1722,7 +1722,7 @@ Investigative Direction: Establish whether Mike Mitchell is related to the Robin
 
 ---
 
-**C-9796** Host Says Every Plane Flying Over UVU That Day Was Military-Contracted, Including the Egyptian Planes
+**C-3289** Host Says Every Plane Flying Over UVU That Day Was Military-Contracted, Including the Egyptian Planes
 
 Claim Timestamp: 00:18:15
 
@@ -1737,7 +1737,7 @@ Investigative Direction: Compile FAA flight data for aircraft over Orem on Septe
 
 ---
 
-**C-9797** Host Says People She Finds Shady Wear Maroon Shirts as if Told to Identify Each Other
+**C-3290** Host Says People She Finds Shady Wear Maroon Shirts as if Told to Identify Each Other
 
 Claim Timestamp: 00:18:45
 
@@ -1753,7 +1753,7 @@ Investigative Direction: Catalog the maroon-shirted individuals in crowd footage
 
 ---
 
-**C-9798** Host Says Her Utah Source Told Her Maroon Is Not the UVU School Color
+**C-3291** Host Says Her Utah Source Told Her Maroon Is Not the UVU School Color
 
 Claim Timestamp: 00:19:20
 
@@ -1768,7 +1768,7 @@ Investigative Direction: Check UVU's official color palette and merchandise.
 
 ---
 
-**C-9799** Host Says the Person Behind the Bush Is Jacob Kasparian
+**C-3292** Host Says the Person Behind the Bush Is Jacob Kasparian
 
 Claim Timestamp: 00:19:45
 
@@ -1784,7 +1784,7 @@ Investigative Direction: Verify the identification through event footage and ask
 
 ---
 
-**C-9800** Host Says Kasparian Posted About a Bulletproof Skateboard on September 10 and Never Posted About Kirk
+**C-3293** Host Says Kasparian Posted About a Bulletproof Skateboard on September 10 and Never Posted About Kirk
 
 Claim Timestamp: 00:19:55
 
@@ -1800,7 +1800,7 @@ Investigative Direction: Capture the archived September 10 post and later posts 
 
 ---
 
-**C-9801** Host Says Kasparian's Father Is President of the Mormon Temple in Los Angeles
+**C-3294** Host Says Kasparian's Father Is President of the Mormon Temple in Los Angeles
 
 Claim Timestamp: 00:20:10
 
@@ -1816,7 +1816,7 @@ Investigative Direction: Verify the father's LDS temple role through Church reco
 
 ---
 
-**C-9802** Host Says She Is Still Researching Kasparian's Father's Middle East Connections
+**C-3295** Host Says She Is Still Researching Kasparian's Father's Middle East Connections
 
 Claim Timestamp: 00:20:33
 
@@ -1831,7 +1831,7 @@ Investigative Direction: Request the host's sourcing on the father's alleged Mid
 
 ---
 
-**C-9803** Host Says Kasparian Was Also Wearing a Maroon Shirt
+**C-3296** Host Says Kasparian Was Also Wearing a Maroon Shirt
 
 Claim Timestamp: 00:20:40
 
@@ -1847,7 +1847,7 @@ Investigative Direction: Confirm via footage the shirt color and the person's id
 
 ---
 
-**C-9804** Host Theorizes Posters Were Put Up at the Last Second to Control Attendance and Video
+**C-3297** Host Theorizes Posters Were Put Up at the Last Second to Control Attendance and Video
 
 Claim Timestamp: 00:20:50
 
@@ -1862,7 +1862,7 @@ Investigative Direction: Collect dated photographs and social posts showing when
 
 ---
 
-**C-9805** Host Suspects the Livestreamers That Day Had Military Backgrounds but Says She Must Check
+**C-3298** Host Suspects the Livestreamers That Day Had Military Backgrounds but Says She Must Check
 
 Claim Timestamp: 00:21:05
 
@@ -1877,7 +1877,7 @@ Investigative Direction: Identify each livestream account at the event and resea
 
 ---
 
-**C-9806** Host Says the 920 North King Location Is 1,000 Percent Legitimate and Her Debunkers' Prank Narrative Is Wrong
+**C-3299** Host Says the 920 North King Location Is 1,000 Percent Legitimate and Her Debunkers' Prank Narrative Is Wrong
 
 Claim Timestamp: 00:21:50
 
@@ -1892,7 +1892,7 @@ Investigative Direction: Request the host's verification trail for the 920 North
 
 ---
 
-**C-9807** Host Says the Egyptian Planes Were Definitively Pulled Into Satys and a Foreign Dignitary Was Escorted
+**C-3300** Host Says the Egyptian Planes Were Definitively Pulled Into Satys and a Foreign Dignitary Was Escorted
 
 Claim Timestamp: 00:22:20
 
@@ -1902,13 +1902,13 @@ Transcript Snippet: The Egyptian planes definitively were pulled into Satys uh a
 
 Anchored Artifacts: 
 Related Nodes: N-11008, N-10260, N-10265
-Supports: C-4919
+Supports: C-2986
 Tags: relevance:core
 Investigative Direction: Obtain Satys hangar logs and any escort records for foreign aircraft at Wilmington.
 
 ---
 
-**C-9808** Host Says the Facility Hosts Joint DHS and DOJ Operations Including Secret Service, FBI and DEA
+**C-3301** Host Says the Facility Hosts Joint DHS and DOJ Operations Including Secret Service, FBI and DEA
 
 Claim Timestamp: 00:22:40
 
@@ -1923,7 +1923,7 @@ Investigative Direction: Confirm which agencies are tenants at 920 North King St
 
 ---
 
-**C-9809** Pre-Born Sponsor Read Says $28 Provides a Free Ultrasound
+**C-3302** Pre-Born Sponsor Read Says $28 Provides a Free Ultrasound
 
 Claim Timestamp: 00:23:04
 
@@ -1939,7 +1939,7 @@ Investigative Direction: Compare the $28 figure with Pre-Born's published cost p
 
 ---
 
-**C-9810** Host Says Netanyahu Met the Released Pollard on the Runway
+**C-3305** Host Says Netanyahu Met the Released Pollard on the Runway
 
 Claim Timestamp: 00:27:20
 
@@ -1949,13 +1949,13 @@ Transcript Snippet: I think BB Netanyahu met him met met him on the runway like 
 
 Anchored Artifacts: A-1457.1
 Mentions: N-274, N-36
-Supports: C-1778
+Supports: C-3304
 Tags: relevance:context
 Investigative Direction: Check news reports of Pollard's 2020 arrival in Israel for who greeted him.
 
 ---
 
-**C-9811** Host Says Bari Weiss Started and Part Owns the Free Press Before Going to CBS
+**C-3307** Host Says Bari Weiss Started and Part Owns the Free Press Before Going to CBS
 
 Claim Timestamp: 00:28:47
 
@@ -1971,7 +1971,7 @@ Investigative Direction: Check corporate records of The Free Press ownership and
 
 ---
 
-**C-9812** Host Says Ashley Rindsberg Lives in Tel Aviv
+**C-3309** Host Says Ashley Rindsberg Lives in Tel Aviv
 
 Claim Timestamp: 00:31:33
 
@@ -1987,7 +1987,7 @@ Investigative Direction: Verify Rindsberg's residence from his public bios and b
 
 ---
 
-**C-9813** Host Says Her Joke About Alexis Wilkins and Tim Dillon's Content Drew a Rant Against Her
+**C-3310** Host Says Her Joke About Alexis Wilkins and Tim Dillon's Content Drew a Rant Against Her
 
 Claim Timestamp: 00:31:50
 
@@ -2002,7 +2002,7 @@ Investigative Direction: Locate the host's remark, Wilkins's response and the Yo
 
 ---
 
-**C-9814** Host Says Brigitte Macron's Lawsuit Mentions Tim Dillon but Sues Only the Host
+**C-3311** Host Says Brigitte Macron's Lawsuit Mentions Tim Dillon but Sues Only the Host
 
 Claim Timestamp: 00:32:20
 
@@ -2013,13 +2013,13 @@ Transcript Snippet: Breashit sues me, not Tim Dillon, who she mentions in the la
 Anchored Artifacts: 
 Mentions: N-82, N-277, N-3
 Related Nodes: N-10270
-Supports: C-6665
+Supports: C-2802
 Tags: relevance:tangential
 Investigative Direction: Read the Delaware complaint for references to Dillon and the named defendants.
 
 ---
 
-**C-9815** Tim Dillon Clip Says Weiss Was Sent to Make CBS a Vessel of State Propaganda
+**C-3312** Tim Dillon Clip Says Weiss Was Sent to Make CBS a Vessel of State Propaganda
 
 Claim Timestamp: 00:32:45
 
@@ -2035,7 +2035,7 @@ Investigative Direction: Treat as satirical commentary; compare with Weiss's own
 
 ---
 
-**C-9816** Tim Dillon Clip Says Larry Ellison Hired Weiss to Deliver Israeli Propaganda
+**C-3313** Tim Dillon Clip Says Larry Ellison Hired Weiss to Deliver Israeli Propaganda
 
 Claim Timestamp: 00:33:50
 
@@ -2051,7 +2051,7 @@ Investigative Direction: Check reporting on who recommended or hired Weiss at CB
 
 ---
 
-**C-9817** Tim Dillon Clip Says Paramount Already Has a Blacklist of Actors
+**C-3314** Tim Dillon Clip Says Paramount Already Has a Blacklist of Actors
 
 Claim Timestamp: 00:34:15
 
@@ -2067,7 +2067,7 @@ Investigative Direction: Look for reporting on any Paramount blacklist of actors
 
 ---
 
-**C-9818** Host Says She Was Physically Sick After the Assassination and Was Told She Was on a Short List to Be Murdered
+**C-3315** Host Says She Was Physically Sick After the Assassination and Was Told She Was on a Short List to Be Murdered
 
 Claim Timestamp: 00:39:40
 
@@ -2077,13 +2077,13 @@ Transcript Snippet: I was physically sick from then being told that I was on thi
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Supports: C-4978
+Supports: C-3155
 Tags: relevance:core
 Investigative Direction: Identify who told her about the list and when; compare with Kolvet's reported September 10 warning.
 
 ---
 
-**C-9819** Host Says Government Leaders Including Kash Patel Are Lying and Telling Americans Not to Believe Their Eyes
+**C-3317** Host Says Government Leaders Including Kash Patel Are Lying and Telling Americans Not to Believe Their Eyes
 
 Claim Timestamp: 00:42:10
 
@@ -2098,7 +2098,7 @@ Investigative Direction: Specify which Patel statements the host considers false
 
 ---
 
-**C-9820** Host Says Charlie Kirk Is Not in Witness Protection
+**C-3318** Host Says Charlie Kirk Is Not in Witness Protection
 
 Claim Timestamp: 00:42:35
 
@@ -2113,7 +2113,7 @@ Investigative Direction: Cross-check with the autopsy, hospital and funeral reco
 
 ---
 
-**C-9821** Host Says Some Claim Valhalla Used to Be a Program in New Zealand
+**C-3319** Host Says Some Claim Valhalla Used to Be a Program in New Zealand
 
 Claim Timestamp: 00:42:50
 
@@ -2128,7 +2128,7 @@ Investigative Direction: Check whether any New Zealand program named Valhalla ex
 
 ---
 
-**C-9822** Host Says Her Contacts Saw Charlie's Body and Cannot Deny He Died
+**C-3320** Host Says Her Contacts Saw Charlie's Body and Cannot Deny He Died
 
 Claim Timestamp: 00:43:10
 
@@ -2143,7 +2143,7 @@ Investigative Direction: Ask the host to specify whom she means by contacts who 
 
 ---
 
-**C-9823** Host Replies to a Viewer Who Said She Lost the Cringe Challenge
+**C-3321** Host Replies to a Viewer Who Said She Lost the Cringe Challenge
 
 Claim Timestamp: 00:43:20
 
@@ -2157,7 +2157,7 @@ Investigative Direction: None; recorded for continuity with the Huckabee-Friedma
 
 ---
 
-**C-9824** Host Says Debunkers Falsely Claimed Her Own Lawyer Is in the 920 North King Office
+**C-3322** Host Says Debunkers Falsely Claimed Her Own Lawyer Is in the 920 North King Office
 
 Claim Timestamp: 00:43:40
 
@@ -2172,7 +2172,7 @@ Investigative Direction: Identify who Kittis is and which law firm occupies the 
 
 ---
 
-**C-9825** Host Says She Withheld Parts of the Letter for a Specific Reason
+**C-3323** Host Says She Withheld Parts of the Letter for a Specific Reason
 
 Claim Timestamp: 00:43:55
 
@@ -2187,7 +2187,7 @@ Investigative Direction: Ask the host which parts were withheld and why, and obt
 
 ---
 
-**C-9826** Host Says Her Lawyer Noah Must Attach a Local Firm's License When She Is Sued in Another State
+**C-3324** Host Says Her Lawyer Noah Must Attach a Local Firm's License When She Is Sued in Another State
 
 Claim Timestamp: 00:44:15
 
@@ -2203,7 +2203,7 @@ Investigative Direction: Review Delaware court filings for counsel of record and
 
 ---
 
-**C-9827** Host Says Noah Is Never Listed on Her Paperwork and She Was Unaware of Something Before the Letter
+**C-3325** Host Says Noah Is Never Listed on Her Paperwork and She Was Unaware of Something Before the Letter
 
 Claim Timestamp: 00:44:45
 
@@ -2219,7 +2219,7 @@ Investigative Direction: Compare the host's filings in other states for the same
 
 ---
 
-**C-9828** Host Says Bloodlines Ruling the World Has Been Her Conclusion This Year
+**C-3326** Host Says Bloodlines Ruling the World Has Been Her Conclusion This Year
 
 Claim Timestamp: 00:45:40
 
@@ -2234,7 +2234,7 @@ Investigative Direction: Not checkable as stated; record only.
 
 ---
 
-**C-9829** Host Says Joe Rogan Has Taken Risks on Israel, Had Ian Carroll On and Has Shouted Out Her Podcast
+**C-3327** Host Says Joe Rogan Has Taken Risks on Israel, Had Ian Carroll On and Has Shouted Out Her Podcast
 
 Claim Timestamp: 00:46:10
 

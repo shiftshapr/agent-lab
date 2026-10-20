@@ -14,7 +14,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-751, N-753, N-11074, N-11075, N-11076, N-11077, N-11078, N-11081
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10): C-6171–C-6285
+  - Claim Range: C-13518–C-13644
   - New Nodes Introduced: N-10859, N-10861
   - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-271, N-224, N-266, N-7, N-270, N-159, N-10221, N-10243, N-10645, N-10373, N-10675, N-10694, N-10839, N-10840, N-8, N-10, N-11, N-12, N-10862, N-10863, N-5, N-9, N-19, N-22, N-36, N-37, N-40, N-46, N-59, N-69, N-85, N-190, N-217, N-227, N-331, N-361, N-378, N-489, N-506, N-535, N-666, N-10012, N-10018, N-10027, N-10074, N-10117, N-10122, N-10129, N-10219, N-10253, N-10264, N-10276, N-10324, N-10342, N-10347, N-10356, N-10366, N-10388, N-10412, N-10446, N-10456, N-10539, N-10651, N-10673, N-10674, N-10687, N-10699, N-10700, N-10725, N-10784, N-10841, N-10870, N-10871, N-10888, N-10925, N-752, N-10860, N-11080, N-226, N-11079, N-754
   - (see registers)
@@ -186,7 +186,7 @@ Video Timestamp: 00:04:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (document as read on air); Medium (page citations as stated by host)
 
-*Related: C-3584, C-3585, N-10839, N-10859*
+*Related: C-13522, C-13521, N-10839, N-10859*
 
 ---
 
@@ -197,7 +197,7 @@ Video Timestamp: 00:14:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as read); Medium (club-president intent characterization)
 
-*Related: C-3586, N-10860, N-10675, N-10243, N-8*
+*Related: C-13532, N-10860, N-10675, N-10243, N-8*
 
 ---
 
@@ -208,7 +208,7 @@ Video Timestamp: 00:35:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3587, N-10243, N-10860*
+*Related: C-13566, N-10243, N-10860*
 
 ---
 
@@ -221,7 +221,7 @@ Video Timestamp: 00:05:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3584, N-10859, N-266, N-270, N-10694, N-8*
+*Related: C-13522, N-10859, N-266, N-270, N-10694, N-8*
 
 ---
 
@@ -234,7 +234,7 @@ Video Timestamp: 00:45:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium–High (document vs podcast as characterized by host)
 
-*Related: C-3588, C-3589, N-10862, N-266, N-224, N-10645, N-10373*
+*Related: C-13580, C-13582, N-10862, N-266, N-224, N-10645, N-10373*
 
 ---
 
@@ -247,7 +247,7 @@ Video Timestamp: 00:28:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (threat content as summarized); High (that SIAC contact is reported)
 
-*Related: C-3590, N-10861, N-271*
+*Related: C-13555, N-10861, N-271*
 
 ---
 
@@ -260,7 +260,7 @@ Video Timestamp: 00:24:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as read)
 
-*Related: C-3591, N-270, N-271, N-10694, N-10272*
+*Related: C-13551, N-270, N-271, N-10694, N-10272*
 
 ---
 
@@ -273,7 +273,7 @@ Video Timestamp: 00:56:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (composite host timeline)
 
-*Related: C-3592, N-10863, N-1, N-10675*
+*Related: C-13595, N-10863, N-1, N-10675*
 
 ---
 
@@ -286,7 +286,7 @@ Video Timestamp: 01:12:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip as aired); Low (any causal link to UVU event–host presents as background context only)
 
-*Related: C-3593, N-10860, N-8*
+*Related: C-13626, N-10860, N-8*
 
 ---
 
@@ -299,7 +299,7 @@ Video Timestamp: 01:22:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (comments as read)
 
-*Related: C-3594, C-3595, N-10861, N-10839*
+*Related: C-13519, C-13636, N-10861, N-10839*
 
 ---
 
@@ -314,7 +314,7 @@ Video Timestamp: 00:09:31
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6176, N-2*
+*Related: C-13526, N-2*
 
 ---
 
@@ -325,7 +325,7 @@ Video Timestamp: 00:11:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6177, C-6178, C-6179, N-8*
+*Related: C-13527, C-13528, C-13529, N-8*
 
 ---
 
@@ -336,7 +336,7 @@ Video Timestamp: 00:15:17
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6182, C-6183, N-10, N-8*
+*Related: C-13533, C-13534, N-10, N-8*
 
 ---
 
@@ -347,7 +347,7 @@ Video Timestamp: 00:17:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6184, C-6185, C-6186, C-6187, C-6189, C-6194, C-6195, C-6196, C-6197, C-6198, C-6199, C-6200, N-1, N-10, N-271*
+*Related: C-13535, C-13536, C-13537, C-13538, C-13540, C-13545, C-13546, C-13547, C-13548, C-13549, C-13550, C-13552, N-1, N-10, N-271*
 
 ---
 
@@ -358,7 +358,7 @@ Video Timestamp: 00:28:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6173, C-6203, C-6204, C-6205, C-6206, C-6207, C-6208, C-6209, C-6210, C-6211, C-6212, N-270, N-266, N-489*
+*Related: C-13523, C-13556, C-13557, C-13558, C-13559, C-13560, C-13561, C-13562, C-13563, C-13564, C-13565, N-270, N-266, N-489*
 
 ---
 
@@ -369,7 +369,7 @@ Video Timestamp: 00:35:31
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6174, C-6190, C-6191, C-6192, C-6193, C-6213, C-6214, C-6215, N-8, N-271, N-751*
+*Related: C-13524, C-13541, C-13542, C-13543, C-13544, C-13567, C-13568, C-13569, N-8, N-271, N-751*
 
 ---
 
@@ -380,7 +380,7 @@ Video Timestamp: 00:37:42
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6216, C-6217, N-10*
+*Related: C-13570, C-13571, N-10*
 
 ---
 
@@ -391,7 +391,7 @@ Video Timestamp: 00:39:54
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6218, N-271*
+*Related: C-13572, N-271*
 
 ---
 
@@ -402,7 +402,7 @@ Video Timestamp: 00:42:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6201, C-6202, C-6205, C-6219, C-6220, N-2, N-270, N-271*
+*Related: C-13553, C-13554, C-13558, C-13573, C-13574, N-2, N-270, N-271*
 
 ---
 
@@ -413,7 +413,7 @@ Video Timestamp: 00:43:33
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6221, C-6222, C-6223, C-6224, C-6225, N-3, N-266, N-1*
+*Related: C-13575, C-13576, C-13579, C-13577, C-13578, N-3, N-266, N-1*
 
 ---
 
@@ -424,7 +424,7 @@ Video Timestamp: 00:46:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6226, C-6227, N-266*
+*Related: C-13581, C-13583, N-266*
 
 ---
 
@@ -435,7 +435,7 @@ Video Timestamp: 00:49:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6228, C-6229, C-6230, C-6231, N-506, N-1*
+*Related: C-13584, C-13585, C-13586, C-13587, N-506, N-1*
 
 ---
 
@@ -446,7 +446,7 @@ Video Timestamp: 00:51:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6232, C-6233, C-6234, C-6264, N-271, N-266, N-270*
+*Related: C-13588, C-13589, C-13590, C-13621, N-271, N-266, N-270*
 
 ---
 
@@ -457,7 +457,7 @@ Video Timestamp: 00:51:54
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6235, C-6236, C-6237, C-6238, N-1*
+*Related: C-13591, C-13592, C-13593, C-13594, N-1*
 
 ---
 
@@ -472,7 +472,7 @@ Video Timestamp: 00:59:39
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6244, C-6245, C-6246, N-1, N-9, N-69*
+*Related: C-13601, C-13602, C-13603, N-1, N-9, N-69*
 
 ---
 
@@ -485,7 +485,7 @@ Video Timestamp: 00:58:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-6242, N-7, N-3*
+*Related: C-13599, N-7, N-3*
 
 ---
 
@@ -496,7 +496,7 @@ Video Timestamp: 00:58:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-6243, N-5, N-1*
+*Related: C-13600, N-5, N-1*
 
 ---
 
@@ -507,7 +507,7 @@ Video Timestamp: 01:06:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-6260, N-69, N-3*
+*Related: C-13617, N-69, N-3*
 
 ---
 
@@ -518,7 +518,7 @@ Video Timestamp: 01:09:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-6265, C-6266, C-6267, C-6268, N-8, N-3, N-12*
+*Related: C-13622, C-13623, C-13624, C-13625, N-8, N-3, N-12*
 
 ---
 
@@ -529,7 +529,7 @@ Video Timestamp: 01:20:39
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-6274, C-6275, C-6276, N-11, N-3, N-1*
+*Related: C-13632, C-13633, C-13634, N-11, N-3, N-1*
 
 ---
 
@@ -540,7 +540,7 @@ Video Timestamp: 01:26:32
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-6280, C-6281, N-3, N-226*
+*Related: C-13639, C-13640, N-3, N-226*
 
 ---
 
@@ -554,7 +554,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3586, C-3592, A-2451.2, A-2456.1*
+*Related: C-13532, C-13595, A-2451.2, A-2456.1*
 
 ---
 
@@ -566,7 +566,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3585, C-3592, A-2456.1*
+*Related: C-13521, C-13595, A-2456.1*
 
 ---
 
@@ -590,7 +590,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3585, A-2456.1, N-8*
+*Related: C-13521, A-2456.1, N-8*
 
 ---
 
@@ -602,7 +602,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3590, C-3591, A-2454.1, A-2455.1*
+*Related: C-13555, C-13551, A-2454.1, A-2455.1*
 
 ---
 
@@ -614,7 +614,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3588, A-2453.1*
+*Related: C-13580, A-2453.1*
 
 ---
 
@@ -626,7 +626,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3584, C-3588, C-3589, A-2452.1, A-2453.1, N-10862*
+*Related: C-13522, C-13580, C-13582, A-2452.1, A-2453.1, N-10862*
 
 ---
 
@@ -650,7 +650,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3584, C-3591, A-2452.1, A-2455.1, N-10694*
+*Related: C-13522, C-13551, A-2452.1, A-2455.1, N-10694*
 
 ---
 
@@ -662,7 +662,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3585*
+*Related: C-13521*
 
 ---
 
@@ -674,7 +674,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3586, N-10860*
+*Related: C-13532, N-10860*
 
 ---
 
@@ -686,7 +686,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3587, C-3588, A-2451.3*
+*Related: C-13566, C-13580, A-2451.3*
 
 ---
 
@@ -698,7 +698,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3591, A-2455.1*
+*Related: C-13551, A-2455.1*
 
 ---
 
@@ -710,7 +710,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3589, A-2453.1*
+*Related: C-13582, A-2453.1*
 
 ---
 
@@ -722,7 +722,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3588, N-10862*
+*Related: C-13580, N-10862*
 
 ---
 
@@ -734,7 +734,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3586, C-3587, A-2451.2, N-10860*
+*Related: C-13532, C-13566, A-2451.2, N-10860*
 
 ---
 
@@ -746,7 +746,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3584, C-3591, A-2455.1*
+*Related: C-13522, C-13551, A-2455.1*
 
 ---
 
@@ -758,7 +758,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3584, C-3585, A-2451.1, N-10859*
+*Related: C-13522, C-13521, A-2451.1, N-10859*
 
 ---
 
@@ -783,7 +783,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3584, C-3585, A-2452.1, N-10839*
+*Related: C-13522, C-13521, A-2452.1, N-10839*
 
 ---
 
@@ -796,7 +796,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3586, C-3587, A-2451.2, A-2451.3, N-10675, N-10243, N-8*
+*Related: C-13532, C-13566, A-2451.2, A-2451.3, N-10675, N-10243, N-8*
 
 ---
 
@@ -809,7 +809,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3590, A-2454.1, N-271*
+*Related: C-13555, A-2454.1, N-271*
 
 ---
 
@@ -822,7 +822,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3588, C-3589, A-2453.1, N-266, N-224, N-10373*
+*Related: C-13580, C-13582, A-2453.1, N-266, N-224, N-10373*
 
 ---
 
@@ -835,7 +835,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3592, A-2456.1, N-1, N-10675*
+*Related: C-13595, A-2456.1, N-1, N-10675*
 
 ---
 
@@ -844,7 +844,7 @@ Investigative Pressure: Medium
 Node Type: Person
 TPUSA senior field representative. The UVU independent review names her as directing the courtyard and fountain booking.
 
-*Related: C-3584, C-3586, C-3587, C-3593*
+*Related: C-13522, C-13532, C-13566, C-13626*
 
 ---
 
@@ -871,7 +871,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 Node Type: Person
 Relative of Maycee Crofts. Host cites a public criminal-case dismissal news clip while sketching her biography.
 
-*Related: C-3593*
+*Related: C-13626*
 
 ---
 
@@ -879,7 +879,7 @@ Relative of Maycee Crofts. Host cites a public criminal-case dismissal news clip
 
 Named as the president who called Charlie Kirk on July 12 and as the president who agreed to bomb nuclear sites in the June timeline.
 
-*Related: C-6243, C-6284*
+*Related: C-13600, C-13643*
 
 ---
 
@@ -887,7 +887,7 @@ Named as the president who called Charlie Kirk on July 12 and as the president w
 
 Subject of Charlie Kirk's July 2025 Epstein-coverage pressure, the July 14 clip and the Trump call.
 
-*Related: C-6243, C-6244*
+*Related: C-13600, C-13601*
 
 ---
 
@@ -895,7 +895,7 @@ Subject of Charlie Kirk's July 2025 Epstein-coverage pressure, the July 14 clip 
 
 Named by the host as the sponsor representative who will be present when Charlie goes down; tied to the July 25 sponsorship addendum.
 
-*Related: C-6251*
+*Related: C-13608*
 
 ---
 
@@ -903,7 +903,7 @@ Named by the host as the sponsor representative who will be present when Charlie
 
 Named for his July 11 Student Action Summit remarks and the Ackman comment.
 
-*Related: C-6240, C-6241, C-6246, C-6254*
+*Related: C-13597, C-13598, C-13603, C-13611*
 
 ---
 
@@ -911,7 +911,7 @@ Named for his July 11 Student Action Summit remarks and the Ackman comment.
 
 Named in the host timeline for the July 7 to 9 Washington visit, the August call, the Israel invitation and the declined show appearance.
 
-*Related: C-6239, C-6255, C-6256, C-6257, C-6258*
+*Related: C-13596, C-13612, C-13613, C-13614, C-13615*
 
 ---
 
@@ -919,7 +919,7 @@ Named in the host timeline for the July 7 to 9 Washington visit, the August call
 
 Named as the Hamptons retreat sponsor and as the person Tucker Carlson questioned on stage (transcript spelling Bill Ackman).
 
-*Related: C-6241, C-6254*
+*Related: C-13598, C-13611*
 
 ---
 
@@ -927,7 +927,7 @@ Named as the Hamptons retreat sponsor and as the person Tucker Carlson questione
 
 Named in the host's note on when a girl he is said to approach arrived on campus.
 
-*Related: C-6207*
+*Related: C-13560*
 
 ---
 
@@ -935,7 +935,7 @@ Named in the host's note on when a girl he is said to approach arrived on campus
 
 Named with Tucker Carlson as explaining Kirk's Epstein push at SAS.
 
-*Related: C-6246*
+*Related: C-13603*
 
 ---
 
@@ -943,7 +943,7 @@ Named with Tucker Carlson as explaining Kirk's Epstein push at SAS.
 
 Named as the podcast hosts Netanyahu recorded with during his July 2025 Washington visit (transcript spelling Elk Boys).
 
-*Related: C-6239*
+*Related: C-13596*
 
 ---
 
@@ -951,7 +951,7 @@ Named as the podcast hosts Netanyahu recorded with during his July 2025 Washingt
 
 Named in the August 19 Omaha field office visit, the FOIA response and Kirk's clip.
 
-*Related: C-6245, C-6259, C-6260*
+*Related: C-13602, C-13616, C-13617*
 
 ---
 
@@ -959,7 +959,7 @@ Named in the August 19 Omaha field office visit, the FOIA response and Kirk's cl
 
 Named by Charlie Kirk in the July 14 clip among officials he trusts.
 
-*Related: C-6245*
+*Related: C-13602*
 
 ---
 
@@ -967,7 +967,7 @@ Named by Charlie Kirk in the July 14 clip among officials he trusts.
 
 Named for the Maine vacation footage and for allegedly telling people Charlie wanted to fire Tyler Bowyer.
 
-*Related: C-6250, C-6276*
+*Related: C-13607, C-13634*
 
 ---
 
@@ -975,7 +975,7 @@ Named for the Maine vacation footage and for allegedly telling people Charlie wa
 
 Named as Elizabeth, who joined the Maine vacation with Mikey McCoy.
 
-*Related: C-6250*
+*Related: C-13607*
 
 ---
 
@@ -983,7 +983,7 @@ Named as Elizabeth, who joined the Maine vacation with Mikey McCoy.
 
 Named as the person the New York Post story said paid the host $1.5 million, which she denies.
 
-*Related: C-6280, C-6281*
+*Related: C-13639, C-13640*
 
 ---
 
@@ -991,7 +991,7 @@ Named as the person the New York Post story said paid the host $1.5 million, whi
 
 Named for sharing correspondence with Andrew Kolvet to rebut the host (transcript spelling Ally Stucky).
 
-*Related: C-6180*
+*Related: C-13530*
 
 ---
 
@@ -999,7 +999,7 @@ Named for sharing correspondence with Andrew Kolvet to rebut the host (transcrip
 
 Named as Andrew Sypher in the transcript: TPUSA's longtime head of field, promoted to a chief position per the host.
 
-*Related: C-6263, C-6272, C-6273*
+*Related: C-13620, C-13630, C-13631*
 
 ---
 
@@ -1007,7 +1007,7 @@ Named as Andrew Sypher in the transcript: TPUSA's longtime head of field, promot
 
 Named in the host's reference to Harpole's lawyer commenting on the Mitch story.
 
-*Related: C-6278*
+*Related: C-13638*
 
 ---
 
@@ -1015,7 +1015,7 @@ Named in the host's reference to Harpole's lawyer commenting on the Mitch story.
 
 Named by Charlie Kirk in the July 14 clip (transcript spelling Dan Bongino).
 
-*Related: C-6245*
+*Related: C-13602*
 
 ---
 
@@ -1023,7 +1023,7 @@ Named by Charlie Kirk in the July 14 clip (transcript spelling Dan Bongino).
 
 Named for the host's remark linking her family to EMPs.
 
-*Related: C-6203*
+*Related: C-13556*
 
 ---
 
@@ -1031,7 +1031,7 @@ Named for the host's remark linking her family to EMPs.
 
 Officer Bagley, named in the review passage on the first suggestion to go up to the Losee Center roof.
 
-*Related: C-6228, C-6229, C-6230, C-6231*
+*Related: C-13584, C-13585, C-13586, C-13587*
 
 ---
 
@@ -1039,7 +1039,7 @@ Officer Bagley, named in the review passage on the first suggestion to go up to 
 
 Named by Charlie Kirk in the July 14 clip among officials he trusts.
 
-*Related: C-6245*
+*Related: C-13602*
 
 ---
 
@@ -1047,7 +1047,7 @@ Named by Charlie Kirk in the July 14 clip among officials he trusts.
 
 Named as the Calvary Chapel pastor hosting Erika's July 14 speech (transcript spelling James Kaddis).
 
-*Related: C-6247, C-6248*
+*Related: C-13604, C-13605*
 
 ---
 
@@ -1055,7 +1055,7 @@ Named as the Calvary Chapel pastor hosting Erika's July 14 speech (transcript sp
 
 Institution commissioning the Lake Forest Group review and hosting the September 10 event.
 
-*Related: C-6172, C-6176, C-6179, C-6196, C-6282*
+*Related: C-13520, C-13526, C-13529, C-13547, C-13641*
 
 ---
 
@@ -1063,7 +1063,7 @@ Institution commissioning the Lake Forest Group review and hosting the September
 
 Topic of Netanyahu inviting Charlie Kirk to Israel.
 
-*Related: C-6257*
+*Related: C-13614*
 
 ---
 
@@ -1071,7 +1071,7 @@ Topic of Netanyahu inviting Charlie Kirk to Israel.
 
 Place of the August 2025 donor retreat.
 
-*Related: C-6253, C-6254*
+*Related: C-13610, C-13611*
 
 ---
 
@@ -1079,7 +1079,7 @@ Place of the August 2025 donor retreat.
 
 Place whose airport airspace Harpole cited for the drone restriction.
 
-*Related: C-6226*
+*Related: C-13581*
 
 ---
 
@@ -1087,7 +1087,7 @@ Place whose airport airspace Harpole cited for the drone restriction.
 
 Topic of the Jezebel witch's curse article.
 
-*Related: C-6285*
+*Related: C-13644*
 
 ---
 
@@ -1095,7 +1095,7 @@ Topic of the Jezebel witch's curse article.
 
 Publication that ran the June 26 witch's curse article.
 
-*Related: C-6285*
+*Related: C-13644*
 
 ---
 
@@ -1103,7 +1103,7 @@ Publication that ran the June 26 witch's curse article.
 
 Neighboring police department whose drone the review says could have been requested.
 
-*Related: C-6227*
+*Related: C-13583*
 
 ---
 
@@ -1111,7 +1111,7 @@ Neighboring police department whose drone the review says could have been reques
 
 Prior topic on Mikey McCoy's pre-death documentation pattern, tied to the Maine footage.
 
-*Related: C-6250*
+*Related: C-13607*
 
 ---
 
@@ -1119,7 +1119,7 @@ Prior topic on Mikey McCoy's pre-death documentation pattern, tied to the Maine 
 
 Topic tracking the Egyptian planes in the July and August timeline.
 
-*Related: C-6249, C-6252, C-6259*
+*Related: C-13606, C-13609, C-13616*
 
 ---
 
@@ -1127,7 +1127,7 @@ Topic tracking the Egyptian planes in the July and August timeline.
 
 Topic for Calvary Chapel pro-Israel coordination, linked to Erika's July 14 speech.
 
-*Related: C-6247, C-6248*
+*Related: C-13604, C-13605*
 
 ---
 
@@ -1135,7 +1135,7 @@ Topic for Calvary Chapel pro-Israel coordination, linked to Erika's July 14 spee
 
 Topic tying Nebraska flights to the Egyptian plane timeline.
 
-*Related: C-6249, C-6259*
+*Related: C-13606, C-13616*
 
 ---
 
@@ -1143,7 +1143,7 @@ Topic tying Nebraska flights to the Egyptian plane timeline.
 
 Topic for Epstein files release, tied to Kirk's July pressure.
 
-*Related: C-6244, C-6245*
+*Related: C-13601, C-13602*
 
 ---
 
@@ -1151,7 +1151,7 @@ Topic for Epstein files release, tied to Kirk's July pressure.
 
 Prior topic on the Netanyahu offer to take TPUSA to the next level; the host adds Kolvet's account and TPUSA's private rebuttal.
 
-*Related: C-6255, C-6256*
+*Related: C-13612, C-13613*
 
 ---
 
@@ -1159,7 +1159,7 @@ Prior topic on the Netanyahu offer to take TPUSA to the next level; the host add
 
 Topic for Egyptian planes and Israel flight patterns.
 
-*Related: C-6252*
+*Related: C-13609*
 
 ---
 
@@ -1167,7 +1167,7 @@ Topic for Egyptian planes and Israel flight patterns.
 
 Prior topic on Harpole presenting the Flood and Long texts as his own; reinforced by the verbatim exchange read here.
 
-*Related: C-6200, C-6201, C-6202, C-6219, C-6220*
+*Related: C-13552, C-13553, C-13554, C-13573, C-13574*
 
 ---
 
@@ -1175,7 +1175,7 @@ Prior topic on Harpole presenting the Flood and Long texts as his own; reinforce
 
 Prior topic on Operation Valhalla Strike, which the host places in Minnesota from August 24.
 
-*Related: C-6261*
+*Related: C-13618*
 
 ---
 
@@ -1183,7 +1183,7 @@ Prior topic on Operation Valhalla Strike, which the host places in Minnesota fro
 
 Topic for missing Turning Point Action money and the alleged plan to fire Tyler Bowyer.
 
-*Related: C-6274, C-6275, C-6276*
+*Related: C-13632, C-13633, C-13634*
 
 ---
 
@@ -1191,7 +1191,7 @@ Topic for missing Turning Point Action money and the alleged plan to fire Tyler 
 
 Prior topic on Erika Kirk's June 19 Instagram purge.
 
-*Related: C-6283*
+*Related: C-13642*
 
 ---
 
@@ -1199,7 +1199,7 @@ Prior topic on Erika Kirk's June 19 Instagram purge.
 
 Prior topic on the Hamptons Netanyahu funding offer.
 
-*Related: C-6255*
+*Related: C-13612*
 
 ---
 
@@ -1207,7 +1207,7 @@ Prior topic on the Hamptons Netanyahu funding offer.
 
 Prior topic on Charlie declining to host Netanyahu.
 
-*Related: C-6258*
+*Related: C-13615*
 
 ---
 
@@ -1215,7 +1215,7 @@ Prior topic on Charlie declining to host Netanyahu.
 
 Prior topic on Charlie Kirk's June Iran war opposition.
 
-*Related: C-6283*
+*Related: C-13642*
 
 ---
 
@@ -1223,7 +1223,7 @@ Prior topic on Charlie Kirk's June Iran war opposition.
 
 Prior topic on Harpole lawsuit coordination, tied to the host's statement that she is being sued.
 
-*Related: C-6221, C-6278*
+*Related: C-13575, C-13638*
 
 ---
 
@@ -1231,7 +1231,7 @@ Prior topic on Harpole lawsuit coordination, tied to the host's statement that s
 
 Prior topic on the August Hamptons intervention event.
 
-*Related: C-6253, C-6254*
+*Related: C-13610, C-13611*
 
 ---
 
@@ -1239,7 +1239,7 @@ Prior topic on the August Hamptons intervention event.
 
 Prior topic on the June 18 White House meeting.
 
-*Related: C-6283*
+*Related: C-13642*
 
 ---
 
@@ -1247,7 +1247,7 @@ Prior topic on the June 18 White House meeting.
 
 Prior topic on Frank Turek's CPR claim, tied to the review's fire chief CPR line.
 
-*Related: C-6212*
+*Related: C-13565*
 
 ---
 
@@ -1255,7 +1255,7 @@ Prior topic on Frank Turek's CPR claim, tied to the review's fire chief CPR line
 
 Prior topic on the Harpole and Turek CPR contradiction.
 
-*Related: C-6212*
+*Related: C-13565*
 
 ---
 
@@ -1263,7 +1263,7 @@ Prior topic on the Harpole and Turek CPR contradiction.
 
 Prior topic listing pending FOIA requests.
 
-*Related: C-6260*
+*Related: C-13617*
 
 ---
 
@@ -1271,7 +1271,7 @@ Prior topic listing pending FOIA requests.
 
 Prior topic on Officer Bagley's body camera battery.
 
-*Related: C-6228, C-6229, C-6230*
+*Related: C-13584, C-13585, C-13586*
 
 ---
 
@@ -1279,7 +1279,7 @@ Prior topic on Officer Bagley's body camera battery.
 
 Prior topic on Officer Bagley's sex crimes background.
 
-*Related: C-6231*
+*Related: C-13587*
 
 ---
 
@@ -1287,7 +1287,7 @@ Prior topic on Officer Bagley's sex crimes background.
 
 Prior topic on Nampa, Idaho context linked by the host to Kip Crofts's arrest by Nampa police.
 
-*Related: C-6266*
+*Related: C-13623*
 
 ---
 
@@ -1295,7 +1295,7 @@ Prior topic on Nampa, Idaho context linked by the host to Kip Crofts's arrest by
 
 Prior topic on the Yrefy sponsorship and the July 25 addendum.
 
-*Related: C-6251*
+*Related: C-13608*
 
 ---
 
@@ -1303,7 +1303,7 @@ Prior topic on the Yrefy sponsorship and the July 25 addendum.
 
 Prior topic on the expanded concurrent timeline for 2025.
 
-*Related: C-6239, C-6243, C-6244, C-6247*
+*Related: C-13596, C-13600, C-13601, C-13604*
 
 ---
 
@@ -1311,7 +1311,7 @@ Prior topic on the expanded concurrent timeline for 2025.
 
 Named as the agency the host says runs a paid online campaign.
 
-*Related: C-6171*
+*Related: C-13518*
 
 ---
 
@@ -1319,7 +1319,7 @@ Named as the agency the host says runs a paid online campaign.
 
 Organization whose finances are the subject of the missing money rumors.
 
-*Related: C-6274*
+*Related: C-13632*
 
 ---
 
@@ -1329,7 +1329,7 @@ Node Type: Person
 First named by the host at 00:36:24 in episode 157 as UVU's director of emergency management and safety who expressed reservations at the August 25 MEAC meeting.
 Aliases (transcript spelling): Robin Ebmeyer.
 
-*Related: C-6214*
+*Related: C-13568*
 
 ---
 
@@ -1337,9 +1337,9 @@ Aliases (transcript spelling): Robin Ebmeyer.
 
 Node Type: Person
 First named by the host at 00:23:46 in episode 157 as UVU President, in the transcript spelling Tuminez.
-Aliases (transcript spelling): Tuminez. The full name is not stated in this transcript; it is taken from the UVU presidency and earlier episodes (see claim C-1711).
+Aliases (transcript spelling): Tuminez. The full name is not stated in this transcript; it is taken from the UVU presidency and earlier episodes (see claim C-2873).
 
-*Related: C-6196*
+*Related: C-13547*
 
 ---
 
@@ -1348,7 +1348,7 @@ Aliases (transcript spelling): Tuminez. The full name is not stated in this tran
 Node Type: Person
 First named by the host at 01:11:03 in episode 157 as the Canyon County prosecuting attorney who told the judge the classroom door may have been locked.
 
-*Related: C-6268*
+*Related: C-13625*
 
 ---
 
@@ -1358,7 +1358,7 @@ Node Type: Person
 First named by the host at 01:27:40 in episode 157 as the writer of a June 26 Jezebel article with no prior writing profile.
 Aliases (transcript spelling): Claire Guinan.
 
-*Related: C-6285*
+*Related: C-13644*
 
 ---
 
@@ -1367,7 +1367,7 @@ Aliases (transcript spelling): Claire Guinan.
 Node Type: Topic
 Chief Long's command post on the second floor of the Fugal Gateway building from 11:30 a.m. on September 10, from which the review says the whole event area was visible and which no TPUSA security member joined.
 
-*Related: C-6211*
+*Related: C-13564*
 
 ---
 
@@ -1376,7 +1376,7 @@ Chief Long's command post on the second floor of the Fugal Gateway building from
 Node Type: Topic
 The host's question about who distributed wristbands to people seated near Charlie Kirk's vehicle given the review's finding of no formal credentialing, screening or ticket verification.
 
-*Related: C-6236, C-6237, C-6238*
+*Related: C-13592, C-13593, C-13594*
 
 ---
 
@@ -1385,7 +1385,7 @@ The host's question about who distributed wristbands to people seated near Charl
 Node Type: Organization
 The third-party firm UVU engaged almost immediately after the assassination to review security protocols for the September 10 event (transcript spelling Lake Forest Group).
 
-*Related: C-6172*
+*Related: C-13520*
 
 ---
 
@@ -1394,7 +1394,7 @@ The third-party firm UVU engaged almost immediately after the assassination to r
 Node Type: Organization
 The UVU committee, convened from August 21, 2025, that reviewed the TPUSA event in an August 25 Teams meeting and approved it on August 27.
 
-*Related: C-6174, C-6177, C-6187, C-6190, C-6191, C-6192, C-6193, C-6197, C-6213, C-6214, C-6262*
+*Related: C-13524, C-13527, C-13538, C-13541, C-13542, C-13543, C-13544, C-13548, C-13567, C-13568, C-13619*
 
 ---
 
@@ -1403,7 +1403,7 @@ The UVU committee, convened from August 21, 2025, that reviewed the TPUSA event 
 Node Type: Organization
 The UVU committee the host praises for flagging expected protests, monitoring complaints and discussing emergency operations center activation before the event.
 
-*Related: C-6189, C-6193, C-6195*
+*Related: C-13540, C-13544, C-13546*
 
 ---
 
@@ -1412,7 +1412,7 @@ The UVU committee the host praises for flagging expected protests, monitoring co
 Node Type: Topic
 The June 2025 U.S. strike on Iranian nuclear sites named by the host in her concurrent timeline.
 
-*Related: C-6284*
+*Related: C-13643*
 
 ---
 
@@ -1421,7 +1421,7 @@ The June 2025 U.S. strike on Iranian nuclear sites named by the host in her conc
 Node Type: Topic
 The TPUSA Student Action Summit held July 11 to 13, 2025 in Tampa, Florida, where Tucker Carlson spoke and Kirk's Epstein remarks drew donor reaction per the host.
 
-*Related: C-6240, C-6241, C-6246*
+*Related: C-13597, C-13598, C-13603*
 
 ---
 
@@ -1430,13 +1430,13 @@ The TPUSA Student Action Summit held July 11 to 13, 2025 in Tampa, Florida, wher
 Node Type: Topic
 The story the host says the New York Post ran in the week of the episode implying she accepted $1.5 million from Harvey Weinstein, which she denies.
 
-*Related: C-6280, C-6281*
+*Related: C-13639, C-13640*
 
 ---
 
 ## 5. Claim Register
 
-**C-3584** TPUSA-linked individuals did not respond to UVU independent-review outreach
+**C-13522** TPUSA-linked individuals did not respond to UVU independent-review outreach
 
 Claim Timestamp: 00:05:20
 
@@ -1451,7 +1451,7 @@ Investigative Direction: Obtain the review’s outreach log appendices; confirm 
 
 ---
 
-**C-3585** Public “want the truth” posture conflicts with organizational non-participation
+**C-13521** Public “want the truth” posture conflicts with organizational non-participation
 
 Claim Timestamp: 00:04:22
 
@@ -1466,7 +1466,7 @@ Investigative Direction: Archive contemporaneous TPUSA / Erika statements on coo
 
 ---
 
-**C-3586** July 10, 2025 courtyard request was initiated by TPUSA field rep Maycee Crofts
+**C-13532** July 10, 2025 courtyard request was initiated by TPUSA field rep Maycee Crofts
 
 Claim Timestamp: 00:14:22
 
@@ -1481,7 +1481,7 @@ Investigative Direction: Publish/obtain the underlying email quoted in the revie
 
 ---
 
-**C-3587** Crofts insisted on Fountain Courtyard at August 25 MEAC despite UVU concerns
+**C-13566** Crofts insisted on Fountain Courtyard at August 25 MEAC despite UVU concerns
 
 Claim Timestamp: 00:35:31
 
@@ -1496,7 +1496,7 @@ Investigative Direction: Obtain MEAC minutes / Teams recording if retained; list
 
 ---
 
-**C-3588** Harpole’s claim that UVU selected the venue is contradicted by the review
+**C-13580** Harpole’s claim that UVU selected the venue is contradicted by the review
 
 Claim Timestamp: 00:45:34
 
@@ -1511,7 +1511,7 @@ Investigative Direction: Clip-align the Shawn Ryan episode timestamps to each co
 
 ---
 
-**C-3589** Harpole podcast statements on drones/airspace/counter-sniper conflict with review evidence
+**C-13582** Harpole podcast statements on drones/airspace/counter-sniper conflict with review evidence
 
 Claim Timestamp: 00:47:38
 
@@ -1526,7 +1526,7 @@ Investigative Direction: Verify airspace rules for the event footprint; check UV
 
 ---
 
-**C-3590** Anonymous EMP-device threat was reported to SIAC on September 10 morning
+**C-13555** Anonymous EMP-device threat was reported to SIAC on September 10 morning
 
 Claim Timestamp: 00:28:35
 
@@ -1541,7 +1541,7 @@ Investigative Direction: FOIA/SIAC records for the tip text; correlate tip timin
 
 ---
 
-**C-3591** TPUSA did not provide ticket totals to UVU police a week before the event
+**C-13551** TPUSA did not provide ticket totals to UVU police a week before the event
 
 Claim Timestamp: 00:25:32
 
@@ -1556,7 +1556,7 @@ Investigative Direction: Obtain ticket-platform export timestamps; compare to UV
 
 ---
 
-**C-3592** July 2025 personal/political pressures coincide with UVU booking start
+**C-13595** July 2025 personal/political pressures coincide with UVU booking start
 
 Claim Timestamp: 00:56:42
 
@@ -1571,7 +1571,7 @@ Investigative Direction: Build a sourced chronology with primary citations for e
 
 ---
 
-**C-3593** Maycee Crofts’s uncle Kip Crofts had a sexual-abuse case dismissed shortly before/around related public attention
+**C-13626** Maycee Crofts’s uncle Kip Crofts had a sexual-abuse case dismissed shortly before/around related public attention
 
 Claim Timestamp: 01:12:05
 
@@ -1586,7 +1586,7 @@ Investigative Direction: Verify case caption, docket, dismissal basis, and kinsh
 
 ---
 
-**C-3594** Kirk-family UVU-blame statement was a preemptive strike before the review dropped
+**C-13519** Kirk-family UVU-blame statement was a preemptive strike before the review dropped
 
 Claim Timestamp: 00:01:46
 
@@ -1601,7 +1601,7 @@ Investigative Direction: Timestamp the family statement vs review publication; i
 
 ---
 
-**C-3595** Security cameras went out for crucial minutes near the shooting (host prior claim restated)
+**C-13636** Security cameras went out for crucial minutes near the shooting (host prior claim restated)
 
 Claim Timestamp: 01:22:32
 
@@ -1616,7 +1616,7 @@ Investigative Direction: Re-verify camera-outage windows from prior episodes’ 
 
 ---
 
-**C-6171** Host says the Department of War ran a paid online campaign against doubters
+**C-13518** Host says the Department of War ran a paid online campaign against doubters
 
 Claim Timestamp: 00:00:01
 
@@ -1631,7 +1631,7 @@ Investigative Direction: Obtain contracts, payment records or disclosures showin
 
 ---
 
-**C-6172** UVU engaged the Lake Forest Group almost immediately for a broad security review
+**C-13520** UVU engaged the Lake Forest Group almost immediately for a broad security review
 
 Claim Timestamp: 00:03:14
 
@@ -1646,7 +1646,7 @@ Investigative Direction: Obtain UVU's engagement letter or contract with Lake Fo
 
 ---
 
-**C-6173** Review describes Dan Flood as the TPUSA security coordinator with Harpole and a contact of Chief Long
+**C-13523** Review describes Dan Flood as the TPUSA security coordinator with Harpole and a contact of Chief Long
 
 Claim Timestamp: 00:05:58
 
@@ -1661,7 +1661,7 @@ Investigative Direction: Check the review's description of Flood's role against 
 
 ---
 
-**C-6174** Review says Maycee Crofts joined the August 25 MEAC planning meeting online
+**C-13524** Review says Maycee Crofts joined the August 25 MEAC planning meeting online
 
 Claim Timestamp: 00:05:58
 
@@ -1676,7 +1676,7 @@ Investigative Direction: Obtain the MEAC Teams attendee log and any recording or
 
 ---
 
-**C-6175** Utah risk-management official urged TPUSA to have its people cooperate with the review
+**C-13525** Utah risk-management official urged TPUSA to have its people cooperate with the review
 
 Claim Timestamp: 00:07:56
 
@@ -1691,7 +1691,7 @@ Investigative Direction: Identify the Utah risk-management official and the TPUS
 
 ---
 
-**C-6176** Review opinion: no UVU employee or agent acted in bad faith
+**C-13526** Review opinion: no UVU employee or agent acted in bad faith
 
 Claim Timestamp: 00:09:31
 
@@ -1706,7 +1706,7 @@ Investigative Direction: Compare the page 10 executive summary wording with the 
 
 ---
 
-**C-6177** Review says key event security decisions were deferred to TPUSA's field representative
+**C-13527** Review says key event security decisions were deferred to TPUSA's field representative
 
 Claim Timestamp: 00:11:26
 
@@ -1721,7 +1721,7 @@ Investigative Direction: Obtain the MEAC process documents showing who held deci
 
 ---
 
-**C-6178** Review says TPUSA's venue and ticketing choices limited UVU's control and attendance information
+**C-13528** Review says TPUSA's venue and ticketing choices limited UVU's control and attendance information
 
 Claim Timestamp: 00:11:26
 
@@ -1736,7 +1736,7 @@ Investigative Direction: Compare UVU's venue risk notes with the final attendanc
 
 ---
 
-**C-6179** Review says UVU should have retained decision authority over venue, ticketing and access
+**C-13529** Review says UVU should have retained decision authority over venue, ticketing and access
 
 Claim Timestamp: 00:11:26
 
@@ -1751,7 +1751,7 @@ Investigative Direction: Obtain UVU's event policy on who holds security decisio
 
 ---
 
-**C-6180** Host says Allie Beth Stuckey shared Andrew's correspondence to rebut her
+**C-13530** Host says Allie Beth Stuckey shared Andrew's correspondence to rebut her
 
 Claim Timestamp: 00:12:21
 
@@ -1766,7 +1766,7 @@ Investigative Direction: Locate Stuckey's original post and the correspondence s
 
 ---
 
-**C-6181** Host describes the normal TPUSA event booking process as chapter requests planned a semester ahead
+**C-13531** Host describes the normal TPUSA event booking process as chapter requests planned a semester ahead
 
 Claim Timestamp: 00:13:41
 
@@ -1781,7 +1781,7 @@ Investigative Direction: Obtain TPUSA's chapter speaker-request procedure and a 
 
 ---
 
-**C-6182** Host says the club president did not know why he was requesting the event
+**C-13533** Host says the club president did not know why he was requesting the event
 
 Claim Timestamp: 00:15:17
 
@@ -1796,7 +1796,7 @@ Investigative Direction: Interview or obtain a statement from Chilcutt on what h
 
 ---
 
-**C-6183** Club president's verbatim email says his TPUSA field representative asked him to book the courtyard
+**C-13534** Club president's verbatim email says his TPUSA field representative asked him to book the courtyard
 
 Claim Timestamp: 00:15:17
 
@@ -1807,12 +1807,12 @@ Transcript Snippet: My field representative for Turning Point USA has asked me t
 Anchored Artifacts: A-2802.3
 Mentions: N-10, N-8
 Related Nodes: N-10860, N-10675
-Supports: C-3586
+Supports: C-13532
 Investigative Direction: Obtain the original email with header metadata and the reply from club services.
 
 ---
 
-**C-6184** Review: July 18 event request described a Kirk appearance on current events with external ticketing
+**C-13535** Review: July 18 event request described a Kirk appearance on current events with external ticketing
 
 Claim Timestamp: 00:17:21
 
@@ -1827,7 +1827,7 @@ Investigative Direction: Obtain the July 18 event request form and its stated ti
 
 ---
 
-**C-6185** Review: club's annual TPUSA registration had to be completed before approval
+**C-13536** Review: club's annual TPUSA registration had to be completed before approval
 
 Claim Timestamp: 00:17:21
 
@@ -1842,7 +1842,7 @@ Investigative Direction: Obtain the club registration filing date and status his
 
 ---
 
-**C-6186** Review: TPUSA told UVU 600 attendees and offered to connect UVUPD to its security
+**C-13537** Review: TPUSA told UVU 600 attendees and offered to connect UVUPD to its security
 
 Claim Timestamp: 00:18:07
 
@@ -1857,7 +1857,7 @@ Investigative Direction: Compare the 600-attendee figure and registration counts
 
 ---
 
-**C-6187** Review: Chief Long first learned of the event on August 21
+**C-13538** Review: Chief Long first learned of the event on August 21
 
 Claim Timestamp: 00:18:59
 
@@ -1872,7 +1872,7 @@ Investigative Direction: Obtain the August 21 event services email chain showing
 
 ---
 
-**C-6188** Host says she believes the Kirk family filing explicitly named Chief Long
+**C-13539** Host says she believes the Kirk family filing explicitly named Chief Long
 
 Claim Timestamp: 00:18:59
 
@@ -1887,7 +1887,7 @@ Investigative Direction: Obtain the Kirk family filing and check whether it name
 
 ---
 
-**C-6189** Review: UVU free speech committee flagged expected protests citing the 2019 Kirk appearance
+**C-13540** Review: UVU free speech committee flagged expected protests citing the 2019 Kirk appearance
 
 Claim Timestamp: 00:20:28
 
@@ -1902,7 +1902,7 @@ Investigative Direction: Obtain the free speech committee's notes and the 2019 U
 
 ---
 
-**C-6190** Review: no TPUSA security attended the August 25 MEAC meeting
+**C-13541** Review: no TPUSA security attended the August 25 MEAC meeting
 
 Claim Timestamp: 00:21:34
 
@@ -1917,7 +1917,7 @@ Investigative Direction: Obtain the MEAC attendee list and confirm whether any T
 
 ---
 
-**C-6191** Review: TPUSA told UVU it would have about eight security personnel
+**C-13542** Review: TPUSA told UVU it would have about eight security personnel
 
 Claim Timestamp: 00:22:35
 
@@ -1932,7 +1932,7 @@ Investigative Direction: Obtain the MEAC record of the stated headcount and comp
 
 ---
 
-**C-6192** Review: Chief Long requested contact with TPUSA security leadership on August 25
+**C-13543** Review: Chief Long requested contact with TPUSA security leadership on August 25
 
 Claim Timestamp: 00:22:35
 
@@ -1947,7 +1947,7 @@ Investigative Direction: Obtain Chief Long's request and any reply recorded in U
 
 ---
 
-**C-6193** Review: free speech committee discussed possible EOC activation on August 25
+**C-13544** Review: free speech committee discussed possible EOC activation on August 25
 
 Claim Timestamp: 00:22:35
 
@@ -1962,7 +1962,7 @@ Investigative Direction: Obtain minutes showing the EOC discussion and any decis
 
 ---
 
-**C-6194** Review: UVU formally approved the event on August 27
+**C-13545** Review: UVU formally approved the event on August 27
 
 Claim Timestamp: 00:22:35
 
@@ -1977,7 +1977,7 @@ Investigative Direction: Obtain the formal approval record, approver and date fr
 
 ---
 
-**C-6195** Review: anonymous caller demanded cancellation of the event
+**C-13546** Review: anonymous caller demanded cancellation of the event
 
 Claim Timestamp: 00:23:46
 
@@ -1992,7 +1992,7 @@ Investigative Direction: Obtain the complaint log and any record of the anonymou
 
 ---
 
-**C-6196** Review: UVU President Tuminez requested event planning updates on August 31
+**C-13547** Review: UVU President Tuminez requested event planning updates on August 31
 
 Claim Timestamp: 00:23:46
 
@@ -2007,7 +2007,7 @@ Investigative Direction: Obtain the president's office request and the response 
 
 ---
 
-**C-6197** Review: on September 2 Chief Long had received no TPUSA security requests
+**C-13548** Review: on September 2 Chief Long had received no TPUSA security requests
 
 Claim Timestamp: 00:23:46
 
@@ -2022,7 +2022,7 @@ Investigative Direction: Obtain the September 2 Long message and any reply from 
 
 ---
 
-**C-6198** Review: first Flood and Chief Long call on September 3 lasted 5 minutes 28 seconds
+**C-13549** Review: first Flood and Chief Long call on September 3 lasted 5 minutes 28 seconds
 
 Claim Timestamp: 00:24:35
 
@@ -2037,7 +2037,7 @@ Investigative Direction: Obtain the call detail records referenced by the review
 
 ---
 
-**C-6199** Review: Flood's September 3 concerns were arrival, departure and parking
+**C-13550** Review: Flood's September 3 concerns were arrival, departure and parking
 
 Claim Timestamp: 00:24:35
 
@@ -2052,7 +2052,7 @@ Investigative Direction: Compare the September 3 call topics with the pre-event 
 
 ---
 
-**C-6200** Review: September 8 TPUSA security concern was the pedestrian walkway above the canopy
+**C-13552** Review: September 8 TPUSA security concern was the pedestrian walkway above the canopy
 
 Claim Timestamp: 00:25:32
 
@@ -2063,12 +2063,12 @@ Transcript Snippet: TPUSA security is now concerned about what do they say? the 
 Anchored Artifacts: A-2802.4
 Mentions: N-1
 Related Nodes: N-10356, N-10272
-Supports: C-1763
+Supports: C-3215
 Investigative Direction: Obtain the September 8 messages and student group message that prompted Flood's concern.
 
 ---
 
-**C-6201** Host says the Kirk family filing claimed the Flood text was about rooftops, not the canopy
+**C-13553** Host says the Kirk family filing claimed the Flood text was about rooftops, not the canopy
 
 Claim Timestamp: 00:25:32
 
@@ -2079,12 +2079,12 @@ Transcript Snippet: that this text communication between Dan Flood was not about
 Anchored Artifacts: A-2802.9
 Mentions: N-2, N-270, N-266
 Related Nodes: N-10356
-Supports: C-1762
+Supports: C-3214
 Investigative Direction: Compare the filing's description of the Flood and Long texts with the verbatim exchange quoted in the review.
 
 ---
 
-**C-6202** Review: Dan Flood initiated the September 8 text exchange about the canopy area
+**C-13554** Review: Dan Flood initiated the September 8 text exchange about the canopy area
 
 Claim Timestamp: 00:27:35
 
@@ -2095,12 +2095,12 @@ Transcript Snippet: We are told that Dan initiated that text exchange on Septemb
 Anchored Artifacts: A-2802.9
 Mentions: N-270, N-271
 Related Nodes: N-10356, N-10272
-Supports: C-1763
+Supports: C-3215
 Investigative Direction: Obtain the full text thread with timestamps from UVUPD.
 
 ---
 
-**C-6203** Host links Lori Frantzve's family to EMP involvement
+**C-13556** Host links Lori Frantzve's family to EMP involvement
 
 Claim Timestamp: 00:28:35
 
@@ -2115,7 +2115,7 @@ Investigative Direction: Document Frantzve family patents, companies or filings 
 
 ---
 
-**C-6204** Review: TPUSA security arrived on campus at 9:00 a.m.
+**C-13557** Review: TPUSA security arrived on campus at 9:00 a.m.
 
 Claim Timestamp: 00:28:35
 
@@ -2130,7 +2130,7 @@ Investigative Direction: Obtain the review's arrival log and any gate or parking
 
 ---
 
-**C-6205** Review: at 9:04 Dan Flood texted Chief Long that the rest of security had arrived
+**C-13558** Review: at 9:04 Dan Flood texted Chief Long that the rest of security had arrived
 
 Claim Timestamp: 00:28:35
 
@@ -2145,7 +2145,7 @@ Investigative Direction: Obtain the 9:04 text and the subsequent thread on the H
 
 ---
 
-**C-6206** Review: additional Kirk staff arrived at 9:28 and 10:28
+**C-13559** Review: additional Kirk staff arrived at 9:28 and 10:28
 
 Claim Timestamp: 00:30:02
 
@@ -2160,7 +2160,7 @@ Investigative Direction: Obtain the staff call sheet and identify who arrived at
 
 ---
 
-**C-6207** Host says she knows the identity of the girl Tyler Robinson is said to approach
+**C-13560** Host says she knows the identity of the girl Tyler Robinson is said to approach
 
 Claim Timestamp: 00:30:02
 
@@ -2175,7 +2175,7 @@ Investigative Direction: Identify the girl and her arrival time through event st
 
 ---
 
-**C-6208** Review: UVU, not TPUSA, requested added officers after seeing the crowd at 11:00
+**C-13561** Review: UVU, not TPUSA, requested added officers after seeing the crowd at 11:00
 
 Claim Timestamp: 00:31:20
 
@@ -2186,12 +2186,12 @@ Transcript Snippet: So, it was actually UVU that requested more people after obs
 Anchored Artifacts: A-2802.5
 Mentions: N-271
 Related Nodes: N-10839
-Qualifies: C-3591
+Qualifies: C-13551
 Investigative Direction: Obtain the 11:00 request and staffing records showing who asked for additional officers.
 
 ---
 
-**C-6209** Review: Chief Long's 10:49 request to meet Flood at 11:00 did not occur
+**C-13562** Review: Chief Long's 10:49 request to meet Flood at 11:00 did not occur
 
 Claim Timestamp: 00:32:21
 
@@ -2206,7 +2206,7 @@ Investigative Direction: Obtain the 10:49 text and any reply from Flood explaini
 
 ---
 
-**C-6210** Review: protesters at the Hall of Flags moved away and were blocked off with tape
+**C-13563** Review: protesters at the Hall of Flags moved away and were blocked off with tape
 
 Claim Timestamp: 00:33:21
 
@@ -2221,7 +2221,7 @@ Investigative Direction: Compare the review's protester timeline with video of t
 
 ---
 
-**C-6211** Review: Chief Long set up a command post in the Fugal Gateway building with no TPUSA security present
+**C-13564** Review: Chief Long set up a command post in the Fugal Gateway building with no TPUSA security present
 
 Claim Timestamp: 00:33:21
 
@@ -2236,7 +2236,7 @@ Investigative Direction: Obtain the command post log and a floor plan with sight
 
 ---
 
-**C-6212** Review: a fire chief performed CPR when Charlie Kirk reached the hospital
+**C-13565** Review: a fire chief performed CPR when Charlie Kirk reached the hospital
 
 Claim Timestamp: 00:34:55
 
@@ -2251,7 +2251,7 @@ Investigative Direction: Obtain the review's emergency response section and hosp
 
 ---
 
-**C-6213** Review: UVU suggested the Fulton Library, the quad or interior locations
+**C-13567** Review: UVU suggested the Fulton Library, the quad or interior locations
 
 Claim Timestamp: 00:35:31
 
@@ -2262,12 +2262,12 @@ Transcript Snippet: UVU officials suggested alternative locations such as the Fu
 Anchored Artifacts: A-2802.6
 Mentions: 
 Related Nodes: N-11077, N-10243
-Supports: C-3587
+Supports: C-13566
 Investigative Direction: Obtain MEAC participant statements naming who proposed each alternative site.
 
 ---
 
-**C-6214** Review: Crofts preferred TPUSA manage ticketing through its Phoenix national office; Robin Ebmeyer had reservations
+**C-13568** Review: Crofts preferred TPUSA manage ticketing through its Phoenix national office; Robin Ebmeyer had reservations
 
 Claim Timestamp: 00:36:24
 
@@ -2282,7 +2282,7 @@ Investigative Direction: Obtain Emer's statements to the review team on her rese
 
 ---
 
-**C-6215** Host disputes that Charlie Kirk previously spoke in the fountain courtyard
+**C-13569** Host disputes that Charlie Kirk previously spoke in the fountain courtyard
 
 Claim Timestamp: 00:36:24
 
@@ -2297,7 +2297,7 @@ Investigative Direction: Obtain records of Kirk's prior UVU appearances, includi
 
 ---
 
-**C-6216** Review: the club president's MEAC questionnaire contained answers straight from the TPUSA team
+**C-13570** Review: the club president's MEAC questionnaire contained answers straight from the TPUSA team
 
 Claim Timestamp: 00:37:42
 
@@ -2312,7 +2312,7 @@ Investigative Direction: Obtain the questionnaire and email with attachments and
 
 ---
 
-**C-6217** Review: questionnaire answers listed 600 attendees, no risk factors and no need for emergency medical services
+**C-13571** Review: questionnaire answers listed 600 attendees, no risk factors and no need for emergency medical services
 
 Claim Timestamp: 00:38:47
 
@@ -2327,7 +2327,7 @@ Investigative Direction: Obtain the questionnaire and compare its EMS answer wit
 
 ---
 
-**C-6218** Review: SIAC said the EMP tip was not credible because the tipster had been unreliable before
+**C-13572** Review: SIAC said the EMP tip was not credible because the tipster had been unreliable before
 
 Claim Timestamp: 00:39:54
 
@@ -2338,12 +2338,12 @@ Transcript Snippet: it was not a credible threat as it appeared the tipster had 
 Anchored Artifacts: A-2802.8
 Mentions: N-271
 Related Nodes: N-10861
-Supports: C-3590
+Supports: C-13555
 Investigative Direction: Request the SIAC response and the prior unreliable-tip history from Utah SIAC.
 
 ---
 
-**C-6219** Review: verbatim Flood text asked for controlled access to student roof walkways
+**C-13573** Review: verbatim Flood text asked for controlled access to student roof walkways
 
 Claim Timestamp: 00:42:01
 
@@ -2354,12 +2354,12 @@ Transcript Snippet: I was told students have access above us. If this is true, i
 Anchored Artifacts: A-2802.9
 Mentions: N-270, N-271
 Related Nodes: N-10356, N-10272
-Supports: C-1763
+Supports: C-3215
 Investigative Direction: Obtain the complete thread and the student group message Flood forwarded.
 
 ---
 
-**C-6220** Host says a TPUSA employee gave Harpole the Flood text to take to Shawn Ryan
+**C-13574** Host says a TPUSA employee gave Harpole the Flood text to take to Shawn Ryan
 
 Claim Timestamp: 00:42:01
 
@@ -2370,12 +2370,12 @@ Transcript Snippet: Because their employee gave him the text message to go on to
 Anchored Artifacts: A-2802.9
 Mentions: N-266, N-270, N-224
 Related Nodes: N-10356
-Supports: C-1762
+Supports: C-3214
 Investigative Direction: Determine how Harpole obtained the Flood and Long text thread before the Shawn Ryan taping.
 
 ---
 
-**C-6221** Host says she is being sued for calling Harpole a liar
+**C-13575** Host says she is being sued for calling Harpole a liar
 
 Claim Timestamp: 00:43:17
 
@@ -2390,7 +2390,7 @@ Investigative Direction: Obtain the complaint and docket in the Harpole suit aga
 
 ---
 
-**C-6222** Review: Harpole said his first meeting on the event was August 24
+**C-13576** Review: Harpole said his first meeting on the event was August 24
 
 Claim Timestamp: 00:43:33
 
@@ -2405,7 +2405,7 @@ Investigative Direction: Locate the Shawn Ryan timestamp for the August 24 state
 
 ---
 
-**C-6223** Review: Harpole said the venue looked horrible when his team arrived hours before
+**C-13579** Review: Harpole said the venue looked horrible when his team arrived hours before
 
 Claim Timestamp: 00:45:02
 
@@ -2420,7 +2420,7 @@ Investigative Direction: Locate the Shawn Ryan timestamp and check whether Harpo
 
 ---
 
-**C-6224** Review: Harpole said Flood shared no specific threats during pre-event planning
+**C-13577** Review: Harpole said Flood shared no specific threats during pre-event planning
 
 Claim Timestamp: 00:43:33
 
@@ -2435,7 +2435,7 @@ Investigative Direction: Compare Harpole's statement with the Flood and Harpole 
 
 ---
 
-**C-6225** Review: Harpole gave no indication he considered requesting a pre-event meeting with campus police
+**C-13578** Review: Harpole gave no indication he considered requesting a pre-event meeting with campus police
 
 Claim Timestamp: 00:43:33
 
@@ -2450,7 +2450,7 @@ Investigative Direction: Ask UVUPD and Integrity Solutions for any record of a r
 
 ---
 
-**C-6226** Review: Harpole said TPUSA's video team used little bitty drones before the event
+**C-13581** Review: Harpole said TPUSA's video team used little bitty drones before the event
 
 Claim Timestamp: 00:46:19
 
@@ -2461,12 +2461,12 @@ Transcript Snippet: He stated that TPUSA's team, video team, used what he descri
 Anchored Artifacts: A-2802.11
 Mentions: N-266
 Related Nodes: N-10645, N-10862, N-10074
-Qualifies: C-1754
+Qualifies: C-3106
 Investigative Direction: Obtain the TPUSA video team's drone flight logs and FAA authorization for September 10.
 
 ---
 
-**C-6227** Review: a drone from the Orem Police Department could have been requested but was not
+**C-13583** Review: a drone from the Orem Police Department could have been requested but was not
 
 Claim Timestamp: 00:47:38
 
@@ -2481,7 +2481,7 @@ Investigative Direction: Ask Orem Police for any record of a drone request or av
 
 ---
 
-**C-6228** Review: Officer Bagley first suggested going up to the Losee Center roof
+**C-13584** Review: Officer Bagley first suggested going up to the Losee Center roof
 
 Claim Timestamp: 00:49:15
 
@@ -2496,7 +2496,7 @@ Investigative Direction: Obtain Bagley's report and dispatch audio showing when 
 
 ---
 
-**C-6229** Review: Bagley found a screwdriver and disturbed gravel consistent with a prone shooting position
+**C-13585** Review: Bagley found a screwdriver and disturbed gravel consistent with a prone shooting position
 
 Claim Timestamp: 00:49:15
 
@@ -2511,7 +2511,7 @@ Investigative Direction: Obtain the evidence log and photographs of the screwdri
 
 ---
 
-**C-6230** Host says Officer Bagley's body cam went off after losing battery and he testified he had none
+**C-13586** Host says Officer Bagley's body cam went off after losing battery and he testified he had none
 
 Claim Timestamp: 00:49:15
 
@@ -2526,7 +2526,7 @@ Investigative Direction: Obtain Bagley's testimony and UVUPD body camera invento
 
 ---
 
-**C-6231** Host says Bagley and others have background in sex crimes
+**C-13587** Host says Bagley and others have background in sex crimes
 
 Claim Timestamp: 00:49:15
 
@@ -2541,7 +2541,7 @@ Investigative Direction: Verify Bagley's assignment history and the other office
 
 ---
 
-**C-6232** Review: limited time between Chief Long learning of the event and the event date
+**C-13588** Review: limited time between Chief Long learning of the event and the event date
 
 Claim Timestamp: 00:51:01
 
@@ -2556,7 +2556,7 @@ Investigative Direction: Compare the August 21 notice date to UVU's normal lead 
 
 ---
 
-**C-6233** Review: coordination with the TPUSA security team was very limited
+**C-13589** Review: coordination with the TPUSA security team was very limited
 
 Claim Timestamp: 00:51:01
 
@@ -2571,7 +2571,7 @@ Investigative Direction: Request any briefing agenda, attendance or site walk re
 
 ---
 
-**C-6234** Review: no dedicated real-time security video monitoring by UVUPD dispatch
+**C-13590** Review: no dedicated real-time security video monitoring by UVUPD dispatch
 
 Claim Timestamp: 00:51:54
 
@@ -2586,7 +2586,7 @@ Investigative Direction: Review UVU camera system access logs and dispatch staff
 
 ---
 
-**C-6235** Review: TPUSA never issued tickets and required only online registration
+**C-13591** Review: TPUSA never issued tickets and required only online registration
 
 Claim Timestamp: 00:51:54
 
@@ -2601,7 +2601,7 @@ Investigative Direction: Obtain the registration platform data and communication
 
 ---
 
-**C-6236** Review: no formal VIP credentialing, ticket verification or screening
+**C-13592** Review: no formal VIP credentialing, ticket verification or screening
 
 Claim Timestamp: 00:52:41
 
@@ -2616,7 +2616,7 @@ Investigative Direction: Obtain the review's access control section and TPUSA wr
 
 ---
 
-**C-6237** Host says TPUSA National staff handed out wristbands to people seated to Charlie's right
+**C-13593** Host says TPUSA National staff handed out wristbands to people seated to Charlie's right
 
 Claim Timestamp: 00:52:41
 
@@ -2631,7 +2631,7 @@ Investigative Direction: Identify the staffer and the recipients and obtain TPUS
 
 ---
 
-**C-6238** Host says wristband holders included people who filmed and later spoke to the press
+**C-13594** Host says wristband holders included people who filmed and later spoke to the press
 
 Claim Timestamp: 00:53:40
 
@@ -2646,7 +2646,7 @@ Investigative Direction: Compile identities of wristbanded attendees and match t
 
 ---
 
-**C-6239** Host timeline: Netanyahu in Washington July 7 to 9 and recorded a podcast with the Nelk Boys
+**C-13596** Host timeline: Netanyahu in Washington July 7 to 9 and recorded a podcast with the Nelk Boys
 
 Claim Timestamp: 00:56:42
 
@@ -2661,7 +2661,7 @@ Investigative Direction: Confirm Netanyahu's July 2025 itinerary and the Nelk Bo
 
 ---
 
-**C-6240** Host timeline: Tucker Carlson spoke at SAS on July 11 and donors reacted
+**C-13597** Host timeline: Tucker Carlson spoke at SAS on July 11 and donors reacted
 
 Claim Timestamp: 00:57:42
 
@@ -2672,12 +2672,12 @@ Transcript Snippet: Tucker Carlson uh on the 11th speaks and donors freak out. C
 Anchored Artifacts: A-2456.1
 Mentions: N-22, N-1
 Related Nodes: N-11080
-Supports: C-1559
+Supports: C-2121
 Investigative Direction: Collect dated donor communications and the SAS Tampa speech recording.
 
 ---
 
-**C-6241** Host says Tucker mused on stage about where Bill Ackman's wealth comes from
+**C-13598** Host says Tucker mused on stage about where Bill Ackman's wealth comes from
 
 Claim Timestamp: 00:57:42
 
@@ -2692,7 +2692,7 @@ Investigative Direction: Review the SAS Tampa speech recording for the Ackman re
 
 ---
 
-**C-6242** Host says Frank Turek deleted his website on July 11
+**C-13599** Host says Frank Turek deleted his website on July 11
 
 Claim Timestamp: 00:58:55
 
@@ -2707,7 +2707,7 @@ Investigative Direction: Check Internet Archive snapshots of the website around 
 
 ---
 
-**C-6243** Host says the New York Times reported Trump scolded Kirk on July 12
+**C-13600** Host says the New York Times reported Trump scolded Kirk on July 12
 
 Claim Timestamp: 00:58:55
 
@@ -2722,7 +2722,7 @@ Investigative Direction: Locate the New York Times article reporting the July 12
 
 ---
 
-**C-6244** Clip: Kirk says on July 14 he is done talking about Epstein and will trust the administration
+**C-13601** Clip: Kirk says on July 14 he is done talking about Epstein and will trust the administration
 
 Claim Timestamp: 00:59:39
 
@@ -2737,7 +2737,7 @@ Investigative Direction: Obtain the full July 14 Charlie Kirk Show episode and c
 
 ---
 
-**C-6245** Clip: Kirk says he would love DOJ to unseal grand jury testimony and trusts named officials
+**C-13602** Clip: Kirk says he would love DOJ to unseal grand jury testimony and trusts named officials
 
 Claim Timestamp: 01:00:27
 
@@ -2752,7 +2752,7 @@ Investigative Direction: Transcribe the clip from the primary broadcast and conf
 
 ---
 
-**C-6246** Host says Tucker and Megyn Kelly later explained Kirk meant to go max on Epstein at SAS
+**C-13603** Host says Tucker and Megyn Kelly later explained Kirk meant to go max on Epstein at SAS
 
 Claim Timestamp: 01:00:27
 
@@ -2767,7 +2767,7 @@ Investigative Direction: Locate the Tucker Carlson and Megyn Kelly statements de
 
 ---
 
-**C-6247** Host timeline: Erika flew privately to Long Beach on July 14
+**C-13604** Host timeline: Erika flew privately to Long Beach on July 14
 
 Claim Timestamp: 01:01:20
 
@@ -2782,7 +2782,7 @@ Investigative Direction: Obtain the flight record and Calvary Chapel event listi
 
 ---
 
-**C-6248** Host says Erika gave a pro-Israel call-to-arms speech at the women's retreat
+**C-13605** Host says Erika gave a pro-Israel call-to-arms speech at the women's retreat
 
 Claim Timestamp: 01:01:20
 
@@ -2797,7 +2797,7 @@ Investigative Direction: Obtain the recording or transcript of the speech at the
 
 ---
 
-**C-6249** Host timeline: Egyptian planes flew into Omaha and then Lincoln, Nebraska
+**C-13606** Host timeline: Egyptian planes flew into Omaha and then Lincoln, Nebraska
 
 Claim Timestamp: 01:02:14
 
@@ -2812,7 +2812,7 @@ Investigative Direction: Pull flight-tracking records for the Egyptian-registere
 
 ---
 
-**C-6250** Host says Mikey and Elizabeth McCoy first joined the Kirks' Maine vacation and filmed final footage
+**C-13607** Host says Mikey and Elizabeth McCoy first joined the Kirks' Maine vacation and filmed final footage
 
 Claim Timestamp: 01:02:14
 
@@ -2827,7 +2827,7 @@ Investigative Direction: Obtain dated posts and metadata of the Maine vacation f
 
 ---
 
-**C-6251** Yrefy Re-Upped as Top Sponsor on July 25 Despite Contract Through Year End
+**C-13608** Yrefy Re-Upped as Top Sponsor on July 25 Despite Contract Through Year End
 
 Claim Timestamp: 01:03:03
 
@@ -2842,7 +2842,7 @@ Investigative Direction: Obtain the January sponsorship contract and the July 25
 
 ---
 
-**C-6252** Host timeline: the Egyptian plane left Wilmington for Cairo on July 27
+**C-13609** Host timeline: the Egyptian plane left Wilmington for Cairo on July 27
 
 Claim Timestamp: 01:04:12
 
@@ -2857,7 +2857,7 @@ Investigative Direction: Verify the July 27 departure in flight-tracking records
 
 ---
 
-**C-6253** Host timeline: Charlie and Erika landed in Bedford, New York on August 3
+**C-13610** Host timeline: Charlie and Erika landed in Bedford, New York on August 3
 
 Claim Timestamp: 01:04:12
 
@@ -2872,7 +2872,7 @@ Investigative Direction: Obtain the flight record for the August 3 landing.
 
 ---
 
-**C-6254** Host says the Hamptons retreat was sponsored by Bill Ackman
+**C-13611** Host says the Hamptons retreat was sponsored by Bill Ackman
 
 Claim Timestamp: 01:04:12
 
@@ -2883,12 +2883,12 @@ Transcript Snippet: the influencers trip, is sponsored by Bill Ackman, the very 
 Anchored Artifacts: A-2456.1
 Mentions: N-37, N-1, N-22
 Related Nodes: N-10673, N-10027
-Supports: C-1128
+Supports: C-79
 Investigative Direction: Obtain the retreat invitation and sponsor disclosures.
 
 ---
 
-**C-6255** Host says Andrew Kolvet told her Netanyahu offered to take TPUSA to the next level
+**C-13612** Host says Andrew Kolvet told her Netanyahu offered to take TPUSA to the next level
 
 Claim Timestamp: 01:05:11
 
@@ -2899,12 +2899,12 @@ Transcript Snippet: I was told directly by Andrew Kolvet to take Turning Point U
 Anchored Artifacts: A-2456.1
 Mentions: N-14, N-36, N-1, N-3
 Related Nodes: N-10342, N-10446
-Supports: C-1562
+Supports: C-2134
 Investigative Direction: Obtain Kolvet's contemporaneous account and call records for the August Netanyahu call.
 
 ---
 
-**C-6256** Host says TPUSA privately told her Netanyahu's call followed up a May letter with no offer
+**C-13613** Host says TPUSA privately told her Netanyahu's call followed up a May letter with no offer
 
 Claim Timestamp: 01:05:11
 
@@ -2915,12 +2915,12 @@ Transcript Snippet: it was just a followup to a letter that Charlie had written 
 Anchored Artifacts: A-2456.1
 Mentions: N-2, N-14, N-36, N-3
 Related Nodes: N-10342
-Qualifies: C-1562
+Qualifies: C-2134
 Investigative Direction: Obtain TPUSA's written rebuttal and the May 2025 Kirk letter to Netanyahu.
 
 ---
 
-**C-6257** Host says Netanyahu invited Charlie to Israel and he declined
+**C-13614** Host says Netanyahu invited Charlie to Israel and he declined
 
 Claim Timestamp: 01:05:11
 
@@ -2935,7 +2935,7 @@ Investigative Direction: Obtain the invitation and Kirk's reply.
 
 ---
 
-**C-6258** Host says Charlie declined to have Netanyahu on his show
+**C-13615** Host says Charlie declined to have Netanyahu on his show
 
 Claim Timestamp: 01:05:11
 
@@ -2950,7 +2950,7 @@ Investigative Direction: Obtain the booking request to The Charlie Kirk Show and
 
 ---
 
-**C-6259** Host timeline: Kash Patel visited the Omaha, Nebraska field office on August 19
+**C-13616** Host timeline: Kash Patel visited the Omaha, Nebraska field office on August 19
 
 Claim Timestamp: 01:06:07
 
@@ -2965,7 +2965,7 @@ Investigative Direction: Verify Patel's August 19 itinerary and plane records.
 
 ---
 
-**C-6260** Host says her FOIA for who was on Patel's plane received a cannot confirm or deny reply
+**C-13617** Host says her FOIA for who was on Patel's plane received a cannot confirm or deny reply
 
 Claim Timestamp: 01:06:07
 
@@ -2980,7 +2980,7 @@ Investigative Direction: Obtain the FOIA request and the agency's response lette
 
 ---
 
-**C-6261** Host timeline: Operation Valhalla Strike began in Minnesota around August 24
+**C-13618** Host timeline: Operation Valhalla Strike began in Minnesota around August 24
 
 Claim Timestamp: 01:06:59
 
@@ -2991,12 +2991,12 @@ Transcript Snippet: On the military side of things, Operation Valhalla Strike be
 Anchored Artifacts: A-2456.1
 Mentions: 
 Related Nodes: N-10366
-Supports: C-1768
+Supports: C-3262
 Investigative Direction: Obtain the Camp Ripley exercise schedule and participant list.
 
 ---
 
-**C-6262** Host says UVU police asked Crofts for a TPUSA security contact and none was provided
+**C-13619** Host says UVU police asked Crofts for a TPUSA security contact and none was provided
 
 Claim Timestamp: 01:06:59
 
@@ -3011,7 +3011,7 @@ Investigative Direction: Obtain UVUPD's requests to Crofts and Chilcutt and any 
 
 ---
 
-**C-6263** Host says Maycee Crofts worked with Andrew Sypher, the longtime head of field
+**C-13620** Host says Maycee Crofts worked with Andrew Sypher, the longtime head of field
 
 Claim Timestamp: 01:08:14
 
@@ -3022,12 +3022,12 @@ Transcript Snippet: she would be working with Andrew Sypher on this. He's the lo
 Anchored Artifacts: 
 Mentions: N-8, N-331, N-11
 Related Nodes: 
-Supports: C-1955
+Supports: C-4150
 Investigative Direction: Verify Cipher's role and September 10 presence through TPUSA staffing records.
 
 ---
 
-**C-6264** Host says the documents note the event could have been moved inside if TPUSA had raised concerns
+**C-13621** Host says the documents note the event could have been moved inside if TPUSA had raised concerns
 
 Claim Timestamp: 01:08:47
 
@@ -3042,7 +3042,7 @@ Investigative Direction: Identify the review passage on indoor alternatives and 
 
 ---
 
-**C-6265** Host says Maycee Crofts's father died suddenly and her family was in Idaho law enforcement
+**C-13622** Host says Maycee Crofts's father died suddenly and her family was in Idaho law enforcement
 
 Claim Timestamp: 01:09:15
 
@@ -3057,7 +3057,7 @@ Investigative Direction: Verify through obituaries and Idaho public records.
 
 ---
 
-**C-6266** Host: a warrant charged Kip Crofts, her dad's brother, with sexual abuse of a minor
+**C-13623** Host: a warrant charged Kip Crofts, her dad's brother, with sexual abuse of a minor
 
 Claim Timestamp: 01:10:04
 
@@ -3072,7 +3072,7 @@ Investigative Direction: Obtain the Canyon County warrant, docket and arrest rec
 
 ---
 
-**C-6267** Host says Kip Crofts was accused of touching himself in a classroom in 2024
+**C-13624** Host says Kip Crofts was accused of touching himself in a classroom in 2024
 
 Claim Timestamp: 01:10:04
 
@@ -3087,7 +3087,7 @@ Investigative Direction: Obtain the charging documents describing the alleged 20
 
 ---
 
-**C-6268** Host: prosecutor told the judge new information showed the classroom door may have been locked
+**C-13625** Host: prosecutor told the judge new information showed the classroom door may have been locked
 
 Claim Timestamp: 01:11:03
 
@@ -3102,7 +3102,7 @@ Investigative Direction: Obtain the hearing transcript and dismissal order from 
 
 ---
 
-**C-6269** News clip: case centered on allegations at a Caldwell High School classroom with a 14-year-old present
+**C-13627** News clip: case centered on allegations at a Caldwell High School classroom with a 14-year-old present
 
 Claim Timestamp: 01:12:05
 
@@ -3117,7 +3117,7 @@ Investigative Direction: Identify the news outlet and broadcast date of the clip
 
 ---
 
-**C-6270** Host says Erika Kirk is now visiting middle schools
+**C-13628** Host says Erika Kirk is now visiting middle schools
 
 Claim Timestamp: 01:19:25
 
@@ -3132,7 +3132,7 @@ Investigative Direction: Identify dated school appearances by Erika Kirk and any
 
 ---
 
-**C-6271** Host says TPUSA spokespeople spoke to CBS and ABC but not the independent review
+**C-13629** Host says TPUSA spokespeople spoke to CBS and ABC but not the independent review
 
 Claim Timestamp: 01:19:43
 
@@ -3147,7 +3147,7 @@ Investigative Direction: List TPUSA interviews with CBS and ABC and compare date
 
 ---
 
-**C-6272** Host says Andrew Sypher was promoted to a chief position shortly after the event
+**C-13630** Host says Andrew Sypher was promoted to a chief position shortly after the event
 
 Claim Timestamp: 01:20:39
 
@@ -3158,12 +3158,12 @@ Transcript Snippet: likely by Andrew Sypher who was promoted shortly thereafter 
 Anchored Artifacts: 
 Mentions: N-8, N-331
 Related Nodes: 
-Supports: C-1955
+Supports: C-4150
 Investigative Direction: Verify the date and title of any Cipher promotion through TPUSA announcements.
 
 ---
 
-**C-6273** Host Says Andrew Sypher Has Always Been Tyler Bowyer's Guy
+**C-13631** Host Says Andrew Sypher Has Always Been Tyler Bowyer's Guy
 
 Claim Timestamp: 01:20:39
 
@@ -3178,7 +3178,7 @@ Investigative Direction: Document Cipher's reporting line and ties to Bowyer thr
 
 ---
 
-**C-6274** Host says early rumblings held that money was missing from Turning Point Action
+**C-13632** Host says early rumblings held that money was missing from Turning Point Action
 
 Claim Timestamp: 01:20:39
 
@@ -3193,7 +3193,7 @@ Investigative Direction: Review Turning Point Action financial filings and any a
 
 ---
 
-**C-6275** Host says an outside source told her Charlie was gearing up to fire Tyler Bowyer
+**C-13633** Host says an outside source told her Charlie was gearing up to fire Tyler Bowyer
 
 Claim Timestamp: 01:20:39
 
@@ -3208,7 +3208,7 @@ Investigative Direction: Seek a second independent source and any dated written 
 
 ---
 
-**C-6276** Host says Mikey McCoy told people Charlie wanted to fire Tyler Bowyer
+**C-13634** Host says Mikey McCoy told people Charlie wanted to fire Tyler Bowyer
 
 Claim Timestamp: 01:20:39
 
@@ -3223,7 +3223,7 @@ Investigative Direction: Identify the people McCoy allegedly told and obtain the
 
 ---
 
-**C-6277** Host says Bowyer and Erika go back to before Erika knew Charlie
+**C-13635** Host says Bowyer and Erika go back to before Erika knew Charlie
 
 Claim Timestamp: 01:21:33
 
@@ -3238,7 +3238,7 @@ Investigative Direction: Document the dates and nature of the Bowyer and Erika a
 
 ---
 
-**C-6278** Host Says Harpole's Lawyer Repeatedly Asked About an Alibi
+**C-13638** Host Says Harpole's Lawyer Repeatedly Asked About an Alibi
 
 Claim Timestamp: 01:25:48
 
@@ -3253,7 +3253,7 @@ Investigative Direction: Obtain the lawyer's communications with the host and th
 
 ---
 
-**C-6279** Host says the earlier-week Fort Huachuca push was a preemptive strike before the review
+**C-13637** Host says the earlier-week Fort Huachuca push was a preemptive strike before the review
 
 Claim Timestamp: 01:25:33
 
@@ -3264,12 +3264,12 @@ Transcript Snippet: what was with this random push about Fort Huachuca when we w
 Anchored Artifacts: A-2458.1
 Mentions: N-3
 Related Nodes: N-10373, N-10859
-Supports: C-3594
+Supports: C-13519
 Investigative Direction: Timeline the Fort Huachuca coverage and statements that week against the review's release.
 
 ---
 
-**C-6280** Host says the New York Post story implied she accepted $1.5 million from Harvey Weinstein
+**C-13639** Host says the New York Post story implied she accepted $1.5 million from Harvey Weinstein
 
 Claim Timestamp: 01:26:32
 
@@ -3284,7 +3284,7 @@ Investigative Direction: Locate the New York Post article and its publication da
 
 ---
 
-**C-6281** Host denies taking money from Weinstein and says the Post never contacted her
+**C-13640** Host denies taking money from Weinstein and says the Post never contacted her
 
 Claim Timestamp: 01:26:32
 
@@ -3299,7 +3299,7 @@ Investigative Direction: Request the Post's contact attempts and a statement fro
 
 ---
 
-**C-6282** Host says the UVU terrorist drill was on June 17
+**C-13641** Host says the UVU terrorist drill was on June 17
 
 Claim Timestamp: 01:26:32
 
@@ -3314,7 +3314,7 @@ Investigative Direction: Obtain UVU's records of the June 2025 drill date and pa
 
 ---
 
-**C-6283** Host says Kirk won a White House debate against Zionist lobbyists on Iran on June 18 and 19
+**C-13642** Host says Kirk won a White House debate against Zionist lobbyists on Iran on June 18 and 19
 
 Claim Timestamp: 01:27:40
 
@@ -3329,7 +3329,7 @@ Investigative Direction: Verify the White House meeting and attendees and the In
 
 ---
 
-**C-6284** Host says Operation Midnight Hammer followed, with Trump agreeing to bomb nuclear sites
+**C-13643** Host says Operation Midnight Hammer followed, with Trump agreeing to bomb nuclear sites
 
 Claim Timestamp: 01:27:40
 
@@ -3344,7 +3344,7 @@ Investigative Direction: Confirm the Operation Midnight Hammer date against publ
 
 ---
 
-**C-6285** Host says Claire Guinan wrote her first Jezebel article on June 26 with no prior writing profile
+**C-13644** Host says Claire Guinan wrote her first Jezebel article on June 26 with no prior writing profile
 
 Claim Timestamp: 01:27:40
 

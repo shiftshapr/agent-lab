@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep087): N-10620, N-10888
   - Tip-minted Nodes (reintro-ep087): N-11142, N-11199
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10g): C-14550–C-14629
+  - Claim Range: C-7758–C-7865
   - New Nodes Introduced: N-10574, N-10575, N-10577, N-10578, N-10579, N-10580
   - Hole-minted Nodes (wave3): N-411, N-412, N-413, N-414, N-415, N-416, N-417
   - Reused Nodes Appearing: N-410, N-10153, N-28, N-10569, N-10576, N-10581, N-6, N-14, N-42, N-54, N-61, N-128, N-209, N-261, N-330, N-361, N-708, N-711, N-10000, N-10007, N-10012, N-10014, N-10032, N-10048, N-10065, N-10074, N-10076, N-10078, N-10082, N-10092, N-10106, N-10110, N-10144, N-10168, N-10184, N-10202, N-10223, N-10239, N-10253, N-10326, N-10337, N-10342, N-10346, N-10347, N-10354, N-10355, N-10367, N-10370, N-10383, N-10446, N-10456, N-10495, N-10535, N-10539, N-10543, N-10551, N-10572, N-10573, N-10674, N-10975, N-11128, N-11208, N-11325
@@ -46,7 +46,6 @@
 ### Episode 87 Ledger Summary
 
 - Artifact Families Introduced: A-1917, A-1918, A-1919, A-1920, A-1921, A-1922, A-1923, A-1924, A-1925, A-1926
-- Claim Range: C-2626–C-2653
 - New People Nodes Introduced: none (Wave 2: local ids removed)
 - New Investigation Target Nodes Introduced: N-10574, N-10575, N-10576, N-10577, N-10578, N-10579, N-10580, N-10581
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
@@ -77,7 +76,7 @@ Confidence Level: Medium
 
 *Display excerpt:* "this article in the New York Times back in 2012 says a friendship dating to to 1976 resonates in 2012, and that is about, and it goes in, and you should read it, about their remarkable friendship."
 
-*Related: C-2626, N-10574*
+*Related: C-7766, N-10574*
 
 ---
 
@@ -93,7 +92,7 @@ Confidence Level: High
 
 *Quoted text:* "The subject for the horrific shooting today that took the life of Charlie Kirk is now in custody. Thank you to the local and state authorities in Utah for your partnership with the FBI. We will provide updates when able."
 
-*Related: C-2627, C-2628, N-10578*
+*Related: C-7779, C-7781, N-10578*
 
 **A-1918.2** Kash Patel X Post: Subject Released After Interrogation (5:59 PM)
 
@@ -105,7 +104,7 @@ Confidence Level: High
 
 *Quoted text:* "The subject in custody has been released after an interrogation by law enforcement. Our investigation continues, and we will continue to release information in interest of transparency."
 
-*Related: C-2627, C-2628, N-10578*
+*Related: C-7779, C-7781, N-10578*
 
 ---
 
@@ -121,7 +120,7 @@ Confidence Level: Medium
 
 *Display details read aloud:* "president and COO of BILT Incorporated, which is based in Dallas-Fort Worth, Texas... he is the commanding officer, the headquarters of the East Coast... a captain... May 2024 to present... co-founded Built back in 2015 when he was full-time as an O5."
 
-*Related: C-2629, C-2630, C-2631, N-10577*
+*Related: C-7772, C-7783, C-7794, N-10577*
 
 ---
 
@@ -137,7 +136,7 @@ Confidence Level: Medium
 
 *Data points read aloud:* "first little contract is a $50,000 contract way back in 2019... 3.1 million... $185,000, we've got 49,000... 4.9, 2.4... June 1 and June 16 of 2025... 7.4 million from the Air Force and just under a quarter million from the Navy."
 
-*Related: C-2631, C-2632, N-10577*
+*Related: C-7794, C-7793, N-10577*
 
 **A-1920.2** Baron Coleman Audio Clip – Built Inc. Contract Analysis
 
@@ -147,7 +146,7 @@ Video Timestamp: 00:12:44–00:15:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2631, C-2632, N-10577*
+*Related: C-7794, C-7793, N-10577*
 
 ---
 
@@ -163,7 +162,7 @@ Confidence Level: Medium
 
 *Display details read aloud:* "vice president of their user experience... Gina Romney also went to BYU."
 
-*Related: C-2633, N-10574*
+*Related: C-7797, N-10574*
 
 ---
 
@@ -179,7 +178,7 @@ Confidence Level: High
 
 *Quoted excerpts:* "The science which is known as comparative bullet lead analysis was first used after President John F. Kennedy's assassination in 1963... In 2004... the National Academy of Sciences concluded that variations in the manufacturing process rendered the FBI's testimony about the science unreliable and potentially misleading... A year later... the bureau abandoned the analysis."
 
-*Related: C-2635, C-2636, N-10569*
+*Related: C-7830, C-7831, N-10569*
 
 ---
 
@@ -195,7 +194,7 @@ Confidence Level: High
 
 *Quoted text:* "I think you should sue him... Of course, I told her you got to sue somebody. They're so jealous of Erika... Sue their ass off."
 
-*Related: C-2637, N-2*
+*Related: C-7846, N-2*
 
 ---
 
@@ -209,7 +208,7 @@ Video Timestamp: 00:28:49
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (posts referenced, partial display)
 
-*Related: C-2641*
+*Related: C-7809*
 
 **A-1924.2** Robbie Hild BYU Lacrosse Image (Graduated ~2020)
 
@@ -219,7 +218,7 @@ Video Timestamp: 00:29:30–00:30:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: C-2641, C-2645*
+*Related: C-7809, C-7824*
 
 ---
 
@@ -233,7 +232,7 @@ Video Timestamp: 00:05:38–00:06:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (referenced but not directly displayed/quoted)
 
-*Related: C-2627*
+*Related: C-7779*
 
 ---
 
@@ -249,7 +248,7 @@ Confidence Level: Medium
 
 *Quoted text:* "Who uses a photo of a grieving widow walking out on stage in her sparkle suit to a show of fireworks in a direct mail plea for more donations?"
 
-*Related: C-2646, C-2647, N-2*
+*Related: C-7852, C-7853, N-2*
 
 **A-1926.2** "007" Comment – 2012 RNC Delegate Rule Change
 
@@ -261,7 +260,7 @@ Confidence Level: Medium
 
 *Quoted text:* "They eliminated the Ron Paul threat at Romney's 2012 convention with a fake floor vote changing the delegate rule... 2012 was when Charlie Kirk fell in love with free markets and liberty."
 
-*Related: C-2626, N-1*
+*Related: C-7766, N-1*
 
 **A-1926.3** Amar Ramusa Comment – BYU Physicist Steven Jones / 9/11 Thermite Study
 
@@ -273,7 +272,7 @@ Confidence Level: Medium
 
 *Quoted text:* "Dr. Steven Jones, a physicist at BYU, published a study in 2009 proving advanced thermite-based explosives in abundance in the dust from ground zero on 9/11."
 
-*Related: C-2638, N-10575*
+*Related: C-7795, N-10575*
 
 **A-1926.4** Seven Sheets Comment – Praise for Investigative Team
 
@@ -298,7 +297,7 @@ Video Timestamp: 00:10:27
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14571, N-10577*
+*Related: C-7784, N-10577*
 
 ---
 
@@ -311,7 +310,7 @@ Video Timestamp: 00:19:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14580, C-14581, C-14582, C-14583, N-10577*
+*Related: C-7796, C-7799, C-7800, C-7801, N-10577*
 
 ---
 
@@ -324,7 +323,7 @@ Video Timestamp: 00:22:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14584, N-40, N-414*
+*Related: C-7802, N-40, N-414*
 
 ---
 
@@ -337,7 +336,7 @@ Video Timestamp: 00:27:39
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14591, N-134, N-417*
+*Related: C-7816, N-134, N-417*
 
 ---
 
@@ -350,7 +349,7 @@ Video Timestamp: 00:28:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14597*
+*Related: C-7823*
 
 ---
 
@@ -365,7 +364,7 @@ Video Timestamp: 00:29:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14598, N-3, N-943*
+*Related: C-7825, N-3, N-943*
 
 ---
 
@@ -380,7 +379,7 @@ Video Timestamp: 00:42:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14617, N-261*
+*Related: C-7848, N-261*
 
 ---
 
@@ -395,7 +394,7 @@ Video Timestamp: 00:48:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14623, C-14624*
+*Related: C-7859, C-7860*
 
 ---
 
@@ -410,7 +409,7 @@ Video Timestamp: 00:49:11
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14626, N-1*
+*Related: C-7862, N-1*
 
 ---
 
@@ -420,49 +419,49 @@ Confidence Level: Low
 
 First named by the host at 00:06:41 in episode 87. Aliases: Zachariah Qureshi.
 
-*Related: C-2627, C-2628, C-2629*
+*Related: C-7779, C-7781, C-7772*
 
 **N-411** Ahmed Qureshi
 
 First named by the host at 00:09:45 in episode 87. Aliases: Ahmed Qureshi, Ahmed Qureshi.
 
-*Related: C-2627, C-2628, C-2629, C-2631, C-2632, C-2633, C-2634, C-2638*
+*Related: C-7779, C-7781, C-7772, C-7794, C-7793, C-7797, C-7798, C-7795*
 
 **N-412** Nathan Henderson
 
 First named by the host at 00:16:55 in episode 87.
 
-*Related: C-2631, C-2632, C-2633, C-2634, C-2638*
+*Related: C-7794, C-7793, C-7797, C-7798, C-7795*
 
 **N-414** Connor Henderson
 
 First named by the host at 00:17:51 in episode 87.
 
-*Related: C-2631, C-2632, C-2633, C-2634, C-2638*
+*Related: C-7794, C-7793, C-7797, C-7798, C-7795*
 
 **N-413** Gina Romney Henderson
 
 First named by the host at 00:16:55 in episode 87. Aliases: Gina Romney.
 
-*Related: C-2631, C-2632, C-2633, C-2634, C-2638*
+*Related: C-7794, C-7793, C-7797, C-7798, C-7795*
 
 **N-416** Caleb Cunningham
 
 First named by the host at 00:25:43 in episode 87.
 
-*Related: C-2639, C-2640, C-2641, C-2642, C-2644, C-2649, C-2650*
+*Related: C-7806, C-7807, C-7809, C-7810, C-7817, C-7812, C-7813*
 
 **N-415** Jeffrey Knuckles
 
 First named by the host at 00:25:43 in episode 87.
 
-*Related: C-2639, C-2640, C-2641, C-2642, C-2644, C-2649, C-2650*
+*Related: C-7806, C-7807, C-7809, C-7810, C-7817, C-7812, C-7813*
 
 **N-417** Michael Shawn Covey
 
 First named by the host at 00:27:39 in episode 87.
 
-*Related: C-2639, C-2640, C-2641, C-2642, C-2644, C-2649, C-2650*
+*Related: C-7806, C-7807, C-7809, C-7810, C-7817, C-7812, C-7813*
 
 
 
@@ -478,7 +477,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1917.1, A-1921.1, A-1924.2, C-2626, C-2633, C-2648*
+*Related: A-1917.1, A-1921.1, A-1924.2, C-7766, C-7797, C-7826*
 
 **N-10575** BYU Jerusalem CIA Recruitment Question
 
@@ -489,7 +488,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1926.3, C-2642*
+*Related: A-1926.3, C-7810*
 
 **N-10576** Timpanogos Hospital Records / Chain of Custody
 
@@ -500,7 +499,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-2634, C-2638, C-2639*
+*Related: C-7798, C-7795, C-7806*
 
 **N-10569** Comparative Bullet Lead Analysis Revival
 
@@ -511,7 +510,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1922.1, C-2635, C-2636*
+*Related: A-1922.1, C-7830, C-7831*
 
 **N-10577** Built Inc. Federal Contracting Pattern
 
@@ -522,7 +521,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1919.1, A-1920.1, A-1920.2, C-2631, C-2632*
+*Related: A-1919.1, A-1920.1, A-1920.2, C-7794, C-7793*
 
 **N-10578** Decoy Subject Investigation (Qureshi/Qureshi)
 
@@ -533,7 +532,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1918.1, A-1918.2, C-2628*
+*Related: A-1918.1, A-1918.2, C-7781*
 
 **N-10579** Robbie Hild–Romney Family Tie Verification
 
@@ -544,7 +543,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1924.2, C-2648*
+*Related: A-1924.2, C-7826*
 
 **N-10580** Andrew Zenger CIA Contract Work Question
 
@@ -555,7 +554,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-2643, C-2644*
+*Related: C-7815, C-7817*
 
 **N-10581** Tyler Robinson Defense – Chain of Custody / Documents
 
@@ -566,7 +565,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1926.1, C-2653*
+*Related: A-1926.1, C-7851*
 
 ---
 
@@ -575,7 +574,7 @@ Investigative Pressure: Medium
 Node Type: Person
 Former US senator and presidential candidate. Host recalls his BCG advisory tie to Benjamin Netanyahu.
 
-*Related: C-2626*
+*Related: C-7766*
 
 ---
 
@@ -583,7 +582,7 @@ Former US senator and presidential candidate. Host recalls his BCG advisory tie 
 
 Subject of the assassination; the host discusses his Netanyahu call, Iran stance and alleged abandonment of the pro-Israel cause.
 
-*Related: C-14550, C-14551, C-14552, C-14555, C-14556, C-14563, C-14572, C-14579, C-14610, C-14611, C-14624, C-14625, C-14626, C-14628, C-14629, A-3333.1*
+*Related: C-7758, C-7759, C-7760, C-7763, C-7764, C-7773, C-7785, C-7792, C-7840, C-7841, C-7860, C-7861, C-7862, C-7864, C-7865, A-3333.1*
 
 ---
 
@@ -591,7 +590,7 @@ Subject of the assassination; the host discusses his Netanyahu call, Iran stance
 
 Widow and TPUSA CEO; discussed in connection with Trump, the footage conversation and reversing Charlie's positions.
 
-*Related: C-14562, C-14618, C-14627, C-14629*
+*Related: C-7771, C-7849, C-7863, C-7865*
 
 ---
 
@@ -599,7 +598,7 @@ Widow and TPUSA CEO; discussed in connection with Trump, the footage conversatio
 
 Host; speaks for herself throughout.
 
-*Related: C-14550, C-14551, C-14552, C-14553, C-14554, C-14555, C-14556, C-14557, C-14558, C-14559, C-14560, C-14561, C-14562, C-14563, C-14564, C-14565, C-14566, C-14567, C-14568, C-14569, C-14570, C-14571, C-14572, C-14573, C-14574, C-14575, C-14576, C-14577, C-14578, C-14579, C-14580, C-14581, C-14582, C-14583, C-14584, C-14585, C-14586, C-14587, C-14588, C-14589, C-14590, C-14591, C-14592, C-14593, C-14594, C-14595, C-14596, C-14597, C-14598, C-14599, C-14600, C-14601, C-14602, C-14603, C-14604, C-14605, C-14606, C-14607, C-14608, C-14609, C-14610, C-14611, C-14612, C-14613, C-14614, C-14615, C-14616, C-14617, C-14618, C-14619, C-14620, C-14621, C-14622, C-14623, C-14624, C-14625, C-14626, C-14627, C-14628, C-14629, A-3330.1*
+*Related: C-7758, C-7759, C-7760, C-7761, C-7762, C-7763, C-7764, C-7765, C-7767, C-7768, C-7769, C-7770, C-7771, C-7773, C-7774, C-7775, C-7776, C-7777, C-7778, C-7780, C-7782, C-7784, C-7785, C-7786, C-7787, C-7788, C-7789, C-7790, C-7791, C-7792, C-7796, C-7799, C-7800, C-7801, C-7802, C-7803, C-7804, C-7805, C-7808, C-7811, C-7814, C-7816, C-7818, C-7819, C-7820, C-7821, C-7822, C-7823, C-7825, C-7827, C-7828, C-7829, C-7832, C-7833, C-7834, C-7835, C-7836, C-7837, C-7838, C-7839, C-7840, C-7841, C-7842, C-7843, C-7844, C-7845, C-7847, C-7848, C-7849, C-7850, C-7854, C-7855, C-7856, C-7859, C-7860, C-7861, C-7862, C-7863, C-7864, C-7865, A-3330.1*
 
 ---
 
@@ -607,7 +606,7 @@ Host; speaks for herself throughout.
 
 Donald Trump; the host says Charlie told him not to go to war with Iran.
 
-*Related: C-14610*
+*Related: C-7840*
 
 ---
 
@@ -615,7 +614,7 @@ Donald Trump; the host says Charlie told him not to go to war with Iran.
 
 Journalist whom the host says was on the ground at Utah Valley hospital on September 10.
 
-*Related: C-14560, C-14561, C-14562*
+*Related: C-7769, C-7770, C-7771*
 
 ---
 
@@ -623,7 +622,7 @@ Journalist whom the host says was on the ground at Utah Valley hospital on Septe
 
 TPUSA spokesperson; the host says TPUSA attacked Joe Kent instead of disclosing Charlie's position.
 
-*Related: C-14627*
+*Related: C-7863*
 
 ---
 
@@ -631,7 +630,7 @@ TPUSA spokesperson; the host says TPUSA attacked Joe Kent instead of disclosing 
 
 Benjamin Netanyahu; the host discusses his call with Charlie and alleged Provo visits.
 
-*Related: C-14550, C-14551, C-14552, C-14553, C-14555, C-14556, C-14613, C-14625*
+*Related: C-7758, C-7759, C-7760, C-7761, C-7763, C-7764, C-7843, C-7861*
 
 ---
 
@@ -639,7 +638,7 @@ Benjamin Netanyahu; the host discusses his call with Charlie and alleged Provo v
 
 Tyler Robinson; the defendant, discussed regarding resemblance, footage and the defense's discovery demands.
 
-*Related: C-14584, C-14594, C-14606, C-14607, C-14608, C-14616, A-3327.1*
+*Related: C-7802, C-7820, C-7836, C-7837, C-7838, C-7847, A-3327.1*
 
 ---
 
@@ -647,7 +646,7 @@ Tyler Robinson; the defendant, discussed regarding resemblance, footage and the 
 
 George Zinn, spelled Zin in the transcript; the first decoy per the host.
 
-*Related: C-14566, C-14567*
+*Related: C-7776, C-7777*
 
 ---
 
@@ -655,7 +654,7 @@ George Zinn, spelled Zin in the transcript; the first decoy per the host.
 
 Lance Twiggs; the host says the footage figure looks more like him than Tyler Robinson.
 
-*Related: C-14594*
+*Related: C-7820*
 
 ---
 
@@ -663,7 +662,7 @@ Lance Twiggs; the host says the footage figure looks more like him than Tyler Ro
 
 Phil Lyman; the host says his family owned the block near the shooting.
 
-*Related: C-14592, C-14593, C-14595*
+*Related: C-7818, C-7819, C-7821*
 
 ---
 
@@ -671,7 +670,7 @@ Phil Lyman; the host says his family owned the block near the shooting.
 
 Kash Patel; FBI director whose posts and hospital footage seizure the host discusses.
 
-*Related: C-14559, C-14565, C-14569*
+*Related: C-7768, C-7775, C-7780*
 
 ---
 
@@ -679,7 +678,7 @@ Kash Patel; FBI director whose posts and hospital footage seizure the host discu
 
 Shane Lyman; the Lyman relative the host says Robbie Hild stood alongside.
 
-*Related: C-14592, C-14595, C-14596*
+*Related: C-7818, C-7821, C-7822*
 
 ---
 
@@ -687,7 +686,7 @@ Shane Lyman; the Lyman relative the host says Robbie Hild stood alongside.
 
 Andrew Zenger; Timpanogos CEO whose BYU and Jerusalem history the host discusses.
 
-*Related: C-14588, C-14590, C-14591, C-14601, A-3328.1*
+*Related: C-7808, C-7814, C-7816, C-7829, A-3328.1*
 
 ---
 
@@ -695,7 +694,7 @@ Andrew Zenger; Timpanogos CEO whose BYU and Jerusalem history the host discusses
 
 Joe Kent; the host says TPUSA attacked him instead of disclosing Charlie's position.
 
-*Related: C-14627*
+*Related: C-7863*
 
 ---
 
@@ -703,7 +702,7 @@ Joe Kent; the host says TPUSA attacked him instead of disclosing Charlie's posit
 
 Terryl Farnsworth, spelled Teal and Terra in the transcript; camera-takedown figure the host links to the Mormon colony families.
 
-*Related: C-14609, C-14617, C-14618, C-14619, A-3331.1*
+*Related: C-7839, C-7848, C-7849, C-7850, A-3331.1*
 
 ---
 
@@ -711,7 +710,7 @@ Terryl Farnsworth, spelled Teal and Terra in the transcript; camera-takedown fig
 
 Baron Coleman; co-analyst of Built's federal contracts.
 
-*Related: C-14575, C-14576, C-14577, C-14578, C-14579, C-14584*
+*Related: C-7788, C-7789, C-7790, C-7791, C-7792, C-7802*
 
 ---
 
@@ -719,7 +718,7 @@ Baron Coleman; co-analyst of Built's federal contracts.
 
 Mitch Snow; the host recalls his account of O5s and O6s at Fort Huachuca.
 
-*Related: C-14570*
+*Related: C-7782*
 
 ---
 
@@ -727,7 +726,7 @@ Mitch Snow; the host recalls his account of O5s and O6s at Fort Huachuca.
 
 John F. Kennedy; subject of the CBLA history and Texas comparison.
 
-*Related: C-14573, C-14602, C-14605*
+*Related: C-7786, C-7832, C-7835*
 
 ---
 
@@ -735,7 +734,7 @@ John F. Kennedy; subject of the CBLA history and Texas comparison.
 
 Ron Paul; subject of the 2012 convention comment.
 
-*Related: C-14620, C-14621*
+*Related: C-7854, C-7855*
 
 ---
 
@@ -744,7 +743,7 @@ Ron Paul; subject of the 2012 convention comment.
 Node Type: Organization
 Existing node reused for new claims in this episode.
 
-*Related: C-14553, C-14554, C-14556*
+*Related: C-7761, C-7762, C-7764*
 
 ---
 
@@ -753,7 +752,7 @@ Existing node reused for new claims in this episode.
 Node Type: Organization
 Existing node reused for new claims in this episode.
 
-*Related: C-14620, C-14621*
+*Related: C-7854, C-7855*
 
 ---
 
@@ -762,7 +761,7 @@ Existing node reused for new claims in this episode.
 Node Type: Organization
 Existing node reused for new claims in this episode.
 
-*Related: C-14578*
+*Related: C-7791*
 
 ---
 
@@ -771,7 +770,7 @@ Existing node reused for new claims in this episode.
 Node Type: Organization
 Existing node reused for new claims in this episode.
 
-*Related: C-14603*
+*Related: C-7833*
 
 ---
 
@@ -780,7 +779,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14566, C-14568*
+*Related: C-7776, C-7778*
 
 ---
 
@@ -789,7 +788,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14579*
+*Related: C-7792*
 
 ---
 
@@ -798,7 +797,7 @@ Existing node reused for new claims in this episode.
 Node Type: Organization
 Existing node reused for new claims in this episode.
 
-*Related: C-14593*
+*Related: C-7819*
 
 ---
 
@@ -807,7 +806,7 @@ Existing node reused for new claims in this episode.
 Node Type: Place
 Existing node reused for new claims in this episode.
 
-*Related: C-14557, C-14612, C-14613, C-14615*
+*Related: C-7765, C-7842, C-7843, C-7845*
 
 ---
 
@@ -816,7 +815,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14617*
+*Related: C-7848*
 
 ---
 
@@ -825,7 +824,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14554*
+*Related: C-7762*
 
 ---
 
@@ -834,7 +833,7 @@ Existing node reused for new claims in this episode.
 Node Type: Organization
 Existing node reused for new claims in this episode.
 
-*Related: C-14573, C-14591, C-14600, C-14605, C-14623, C-14624*
+*Related: C-7786, C-7816, C-7828, C-7835, C-7859, C-7860*
 
 ---
 
@@ -843,7 +842,7 @@ Existing node reused for new claims in this episode.
 Node Type: Organization
 Existing node reused for new claims in this episode.
 
-*Related: C-14581, C-14588, C-14589*
+*Related: C-7799, C-7808, C-7811*
 
 ---
 
@@ -852,7 +851,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14626, C-14628*
+*Related: C-7862, C-7864*
 
 ---
 
@@ -861,7 +860,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14597, C-14606, C-14616*
+*Related: C-7823, C-7836, C-7847*
 
 ---
 
@@ -870,7 +869,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14592, C-14593, C-14595, C-14596*
+*Related: C-7818, C-7819, C-7821, C-7822*
 
 ---
 
@@ -879,7 +878,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14592, C-14596, C-14598, C-14599, C-14608*
+*Related: C-7818, C-7822, C-7825, C-7827, C-7838*
 
 ---
 
@@ -888,7 +887,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14594*
+*Related: C-7820*
 
 ---
 
@@ -897,7 +896,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14593*
+*Related: C-7819*
 
 ---
 
@@ -906,7 +905,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14559, C-14565, C-14569*
+*Related: C-7768, C-7775, C-7780*
 
 ---
 
@@ -915,7 +914,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14567*
+*Related: C-7777*
 
 ---
 
@@ -924,7 +923,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14559*
+*Related: C-7768*
 
 ---
 
@@ -933,7 +932,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14557, C-14572, C-14587, C-14612, C-14614*
+*Related: C-7765, C-7785, C-7805, C-7842, C-7844*
 
 ---
 
@@ -942,7 +941,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14570*
+*Related: C-7782*
 
 ---
 
@@ -951,7 +950,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14597, C-14606*
+*Related: C-7823, C-7836*
 
 ---
 
@@ -960,7 +959,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14550, C-14552, C-14553*
+*Related: C-7758, C-7760, C-7761*
 
 ---
 
@@ -969,7 +968,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14617, C-14618, C-14619*
+*Related: C-7848, C-7849, C-7850*
 
 ---
 
@@ -978,7 +977,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14557, C-14612, C-14613, C-14614*
+*Related: C-7765, C-7842, C-7843, C-7844*
 
 ---
 
@@ -987,7 +986,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14567*
+*Related: C-7777*
 
 ---
 
@@ -996,7 +995,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14627*
+*Related: C-7863*
 
 ---
 
@@ -1005,7 +1004,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14570*
+*Related: C-7782*
 
 ---
 
@@ -1014,7 +1013,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14570, C-14572*
+*Related: C-7782, C-7785*
 
 ---
 
@@ -1023,7 +1022,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14609*
+*Related: C-7839*
 
 ---
 
@@ -1032,7 +1031,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14550, C-14551, C-14552, C-14628*
+*Related: C-7758, C-7759, C-7760, C-7864*
 
 ---
 
@@ -1041,7 +1040,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14625*
+*Related: C-7861*
 
 ---
 
@@ -1050,7 +1049,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14551*
+*Related: C-7759*
 
 ---
 
@@ -1059,7 +1058,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14618*
+*Related: C-7849*
 
 ---
 
@@ -1068,7 +1067,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14555, C-14556, C-14610, C-14611*
+*Related: C-7763, C-7764, C-7840, C-7841*
 
 ---
 
@@ -1077,7 +1076,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14556, C-14624, C-14625, C-14626, C-14629*
+*Related: C-7764, C-7860, C-7861, C-7862, C-7865*
 
 ---
 
@@ -1086,7 +1085,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14627*
+*Related: C-7863*
 
 ---
 
@@ -1095,7 +1094,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14604*
+*Related: C-7834*
 
 ---
 
@@ -1104,7 +1103,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14558, C-14560, C-14561, C-14563*
+*Related: C-7767, C-7769, C-7770, C-7773*
 
 ---
 
@@ -1113,7 +1112,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14604*
+*Related: C-7834*
 
 ---
 
@@ -1122,7 +1121,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14610*
+*Related: C-7840*
 
 ---
 
@@ -1131,7 +1130,7 @@ Existing node reused for new claims in this episode.
 Node Type: Organization
 Existing node reused for new claims in this episode.
 
-*Related: C-14574*
+*Related: C-7787*
 
 ---
 
@@ -1140,7 +1139,7 @@ Existing node reused for new claims in this episode.
 Node Type: Organization
 Existing node reused for new claims in this episode.
 
-*Related: C-14604*
+*Related: C-7834*
 
 ---
 
@@ -1149,7 +1148,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14555, C-14611*
+*Related: C-7763, C-7841*
 
 ---
 
@@ -1158,7 +1157,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14564*
+*Related: C-7774*
 
 ---
 
@@ -1167,7 +1166,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14563*
+*Related: C-7773*
 
 ---
 
@@ -1176,7 +1175,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 Existing node reused for new claims in this episode.
 
-*Related: C-14558*
+*Related: C-7767*
 
 ---
 
@@ -1185,7 +1184,7 @@ Existing node reused for new claims in this episode.
 Node Type: Organization
 Existing node reused for new claims in this episode.
 
-*Related: C-14560, C-14561*
+*Related: C-7769, C-7770*
 
 ---
 
@@ -1193,7 +1192,7 @@ Existing node reused for new claims in this episode.
 
 First named by the host at 00:27:39 in episode 87 (spelled Robbie Hild and Robbie Hild in the transcript). Person the host says she put an APB out for because he stood alongside a Lyman relative; she says he attended BYU, played lacrosse and graduated around 2020.
 
-*Related: C-14592, C-14596, C-14598, C-14599, C-14608, A-3330.1*
+*Related: C-7818, C-7822, C-7825, C-7827, C-7838, A-3330.1*
 
 ---
 
@@ -1202,7 +1201,7 @@ First named by the host at 00:27:39 in episode 87 (spelled Robbie Hild and Robbi
 Node Type: Topic
 The host's examination of marriage and migration ties among the Romney, Farnsworth, Robinson and Hild families, including the Mormon colonies in Chihuahua, Mexico.
 
-*Related: C-14586, C-14607, C-14608, C-14609*
+*Related: C-7804, C-7837, C-7838, C-7839*
 
 ---
 
@@ -1211,13 +1210,13 @@ The host's examination of marriage and migration ties among the Romney, Farnswor
 Node Type: Topic
 The host reads that the RNC altered 2012 convention rules to bind delegates and refused to recognize Ron Paul's Maine delegates.
 
-*Related: C-14620, C-14621*
+*Related: C-7854, C-7855*
 
 ---
 
 ## V. Claim Register
 
-**C-2626** Romney–Netanyahu Friendship Dated to 1976 at Boston Consulting Group
+**C-7766** Romney–Netanyahu Friendship Dated to 1976 at Boston Consulting Group
 
 Claim Timestamp: 00:03:21–00:04:22
 
@@ -1232,7 +1231,7 @@ Investigative Direction: Obtain the NYT 2012 article in full and verify the 1976
 
 ---
 
-**C-2627** Kash Patel Declared Subject in Custody ~4 Hours After Shooting
+**C-7779** Kash Patel Declared Subject in Custody ~4 Hours After Shooting
 
 Claim Timestamp: 00:08:11
 
@@ -1247,7 +1246,7 @@ Investigative Direction: Verify the tweet's exact timestamp and confirm the subj
 
 ---
 
-**C-2628** Same Subject Released After Interrogation ~90 Minutes Later
+**C-7781** Same Subject Released After Interrogation ~90 Minutes Later
 
 Claim Timestamp: 00:09:01
 
@@ -1262,7 +1261,7 @@ Investigative Direction: Obtain law enforcement records documenting the detentio
 
 ---
 
-**C-2629** Detained Subject Identified as Zachariah Qureshi
+**C-7772** Detained Subject Identified as Zachariah Qureshi
 
 Claim Timestamp: 00:06:41–00:09:45
 
@@ -1277,7 +1276,7 @@ Investigative Direction: Confirm spelling of "Qureshi" vs. "Qureshi" against off
 
 ---
 
-**C-2630** Host Says Ahmed Qureshi Is Active-Duty Navy Captain (O6)
+**C-7783** Host Says Ahmed Qureshi Is Active-Duty Navy Captain (O6)
 
 Claim Timestamp: 00:10:27–00:12:44
 
@@ -1292,7 +1291,7 @@ Investigative Direction: Verify current rank and command assignment via official
 
 ---
 
-**C-2631** Host Says Ahmed Qureshi and Nathan Henderson Co-Founded BILT Incorporated
+**C-7794** Host Says Ahmed Qureshi and Nathan Henderson Co-Founded BILT Incorporated
 
 Claim Timestamp: 00:16:35
 
@@ -1307,7 +1306,7 @@ Investigative Direction: Cross-check corporate registration records (Secretary o
 
 ---
 
-**C-2632** Host Says USA Spending Shows BILT Inc. Received ~$7.4M Air Force + Under $250K Navy in June 2025
+**C-7793** Host Says USA Spending Shows BILT Inc. Received ~$7.4M Air Force + Under $250K Navy in June 2025
 
 Claim Timestamp: 00:15:43–00:16:05
 
@@ -1322,7 +1321,7 @@ Investigative Direction: Retrieve the raw USA Spending entries for Built Inc. by
 
 ---
 
-**C-2633** Host Shows LinkedIn Listing Gina Romney Henderson as VP UX at BILT Inc.
+**C-7797** Host Shows LinkedIn Listing Gina Romney Henderson as VP UX at BILT Inc.
 
 Claim Timestamp: 00:17:51
 
@@ -1337,7 +1336,7 @@ Investigative Direction: Confirm employment and BYU degree via LinkedIn and univ
 
 ---
 
-**C-2634** Host Says Connor Henderson Worked as ER Scribe at Timpanogos
+**C-7798** Host Says Connor Henderson Worked as ER Scribe at Timpanogos
 
 Claim Timestamp: 00:17:51–00:19:43
 
@@ -1352,7 +1351,7 @@ Investigative Direction: Obtain Connor Henderson's actual LinkedIn profile; veri
 
 ---
 
-**C-2635** FBI Abandoned Comparative Bullet Lead Analysis in 2005
+**C-7830** FBI Abandoned Comparative Bullet Lead Analysis in 2005
 
 Claim Timestamp: 00:32:26–00:33:30
 
@@ -1366,7 +1365,7 @@ Investigative Direction: Retrieve the 2004 NAS report and 2007 WaPo article in f
 
 ---
 
-**C-2636** Host Says the FBI Is Reviving CBLA in the Robinson Case
+**C-7831** Host Says the FBI Is Reviving CBLA in the Robinson Case
 
 Claim Timestamp: 00:32:26–00:34:18
 
@@ -1381,7 +1380,7 @@ Investigative Direction: Obtain court filings and ATF lab reports in the Robinso
 
 ---
 
-**C-2637** Trump Told Erika Kirk at Easter to Sue Critics
+**C-7846** Trump Told Erika Kirk at Easter to Sue Critics
 
 Claim Timestamp: 00:38:57–00:40:20
 
@@ -1396,7 +1395,7 @@ Investigative Direction: Obtain full unedited video of the Easter remarks; docum
 
 ---
 
-**C-2638** Qureshi and Henderson Families Lived in Same House, Keller, Texas
+**C-7795** Qureshi and Henderson Families Lived in Same House, Keller, Texas
 
 Claim Timestamp: 00:16:55–00:17:51
 
@@ -1411,7 +1410,7 @@ Investigative Direction: Pull property records for Keller, Texas to identify own
 
 ---
 
-**C-2639** Host Says Andrew Zenger Was Appointed CEO of Timpanogos on 2025-08-19
+**C-7806** Host Says Andrew Zenger Was Appointed CEO of Timpanogos on 2025-08-19
 
 Claim Timestamp: 00:23:46
 
@@ -1426,7 +1425,7 @@ Investigative Direction: Confirm via Timpanogos press releases, LinkedIn, or Uta
 
 ---
 
-**C-2640** Host Says Andrew Zenger Was Previously COO at Medical City, McKinney, Texas
+**C-7807** Host Says Andrew Zenger Was Previously COO at Medical City, McKinney, Texas
 
 Claim Timestamp: 00:23:46–00:24:39
 
@@ -1441,7 +1440,7 @@ Investigative Direction: Verify via Medical City Healthcare press releases or Li
 
 ---
 
-**C-2641** Andrew Zenger Attended BYU Jerusalem
+**C-7809** Andrew Zenger Attended BYU Jerusalem
 
 Claim Timestamp: 00:24:39
 
@@ -1456,7 +1455,7 @@ Investigative Direction: Confirm via BYU Jerusalem Center enrollment records or 
 
 ---
 
-**C-2642** BYU Jerusalem Is a CIA Recruitment Site for Elite Mormon Youth
+**C-7810** BYU Jerusalem Is a CIA Recruitment Site for Elite Mormon Youth
 
 Claim Timestamp: 00:24:39–00:25:43
 
@@ -1471,7 +1470,7 @@ Investigative Direction: Obtain corroborating documentation; on-screen artifact 
 
 ---
 
-**C-2643** Metro One Talent Is the CIA's Recruiting Vendor
+**C-7815** Metro One Talent Is the CIA's Recruiting Vendor
 
 Claim Timestamp: 00:26:30
 
@@ -1485,7 +1484,7 @@ Investigative Direction: Identify Metro One Talent corporate records and any gov
 
 ---
 
-**C-2644** Host Says Michael Shawn Covey (Zenger's Jerusalem Roommate) Does CIA Contract Work
+**C-7817** Host Says Michael Shawn Covey (Zenger's Jerusalem Roommate) Does CIA Contract Work
 
 Claim Timestamp: 00:27:39
 
@@ -1500,7 +1499,7 @@ Investigative Direction: Verify any government contract records for "Michael Sha
 
 ---
 
-**C-2645** Host Says Robbie Hild Attended BYU, Played Lacrosse, Graduated ~2020
+**C-7824** Host Says Robbie Hild Attended BYU, Played Lacrosse, Graduated ~2020
 
 Claim Timestamp: 00:29:30–00:30:18
 
@@ -1515,7 +1514,7 @@ Investigative Direction: Confirm via BYU athletics records and class roster.
 
 ---
 
-**C-2646** Turning Point Sent Fundraising Texts Within 48 Hours of Death
+**C-7852** Turning Point Sent Fundraising Texts Within 48 Hours of Death
 
 Claim Timestamp: 00:44:25–00:45:16
 
@@ -1529,7 +1528,7 @@ Investigative Direction: Obtain copies of the original SMS messages and the time
 
 ---
 
-**C-2647** Viewer Comment Host Reads Says Turning Point Sent Funeral-Image Fundraising Mailer
+**C-7853** Viewer Comment Host Reads Says Turning Point Sent Funeral-Image Fundraising Mailer
 
 Claim Timestamp: 00:44:25–00:45:16
 
@@ -1543,7 +1542,7 @@ Investigative Direction: Obtain the actual mailer from recipients; verify whethe
 
 ---
 
-**C-2648** Robbie Hild Family Allegedly Married Into Romney Family
+**C-7826** Robbie Hild Family Allegedly Married Into Romney Family
 
 Claim Timestamp: 00:29:45
 
@@ -1558,7 +1557,7 @@ Investigative Direction: Verify via marriage records, family genealogical databa
 
 ---
 
-**C-2649** Host Says Caleb Cunningham Was in Jerusalem During 2012 Romney Campaign
+**C-7812** Host Says Caleb Cunningham Was in Jerusalem During 2012 Romney Campaign
 
 Claim Timestamp: 00:25:43–00:26:30
 
@@ -1573,7 +1572,7 @@ Investigative Direction: Cross-reference Romney 2012 campaign staff lists and BY
 
 ---
 
-**C-2650** Host Says Jeffrey Knuckles Was in Jerusalem and Later Romney Campaign Advisor
+**C-7813** Host Says Jeffrey Knuckles Was in Jerusalem and Later Romney Campaign Advisor
 
 Claim Timestamp: 00:25:43–00:26:30
 
@@ -1588,7 +1587,7 @@ Investigative Direction: Verify via Romney 2012 campaign staff biographies.
 
 ---
 
-**C-2651** BYU Recruits CIA Talent From Hawaii and Jerusalem Campuses
+**C-7857** BYU Recruits CIA Talent From Hawaii and Jerusalem Campuses
 
 Claim Timestamp: 00:47:08–00:48:01
 
@@ -1602,7 +1601,7 @@ Investigative Direction: Identify any open-source reporting on BYU recruitment t
 
 ---
 
-**C-2652** Viewer Comment Read by the Host Says a 2009 BYU Study Found Thermite in WTC Dust
+**C-7858** Viewer Comment Read by the Host Says a 2009 BYU Study Found Thermite in WTC Dust
 
 Claim Timestamp: 00:47:08
 
@@ -1616,7 +1615,7 @@ Investigative Direction: Retrieve the actual 2009 paper and verify the journal o
 
 ---
 
-**C-2653** Viewer Suggests Robinson Defense Release 600,000 Documents
+**C-7851** Viewer Suggests Robinson Defense Release 600,000 Documents
 
 Claim Timestamp: 00:43:39–00:44:25
 
@@ -1631,7 +1630,7 @@ Investigative Direction: Identify the document set being referenced and any pend
 
 ---
 
-**C-14550** Host Says TPUSA Tweets Vetted by Lawyers and PR Agents Never Addressed the Netanyahu Call
+**C-7758** Host Says TPUSA Tweets Vetted by Lawyers and PR Agents Never Addressed the Netanyahu Call
 
 Claim Timestamp: 00:00:54
 
@@ -1647,7 +1646,7 @@ Investigative Direction: Collect TPUSA's public statements since 2025-09-10 and 
 
 ---
 
-**C-14551** Host Says Charlie's Final Call With Netanyahu Took Place in the Hamptons
+**C-7759** Host Says Charlie's Final Call With Netanyahu Took Place in the Hamptons
 
 Claim Timestamp: 00:00:54
 
@@ -1663,7 +1662,7 @@ Investigative Direction: Establish whether the Hamptons gathering and the Netany
 
 ---
 
-**C-14552** Host Says Charlie Described the Netanyahu Call as an Intervention Over Israel
+**C-7760** Host Says Charlie Described the Netanyahu Call as an Intervention Over Israel
 
 Claim Timestamp: 00:01:37
 
@@ -1674,13 +1673,13 @@ Transcript Snippet: Charlie described it, as I told you, as an intervention over
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-36
 Related Nodes: N-10446, N-10342
-Supports: C-12314
+Supports: C-2130
 Tags: relevance:core
 Investigative Direction: Identify who Kirk described the call to and obtain their account; compare with Hamptons attendees' accounts and Kirk's messages from August 2025.
 
 ---
 
-**C-14553** Host Says Netanyahu Offered to Take Turning Point to the Next Level
+**C-7761** Host Says Netanyahu Offered to Take Turning Point to the Next Level
 
 Claim Timestamp: 00:01:37
 
@@ -1691,13 +1690,13 @@ Transcript Snippet: BB offered, as I said, to take Turning Point to the next lev
 Anchored Artifacts: 
 Mentions: N-3, N-36
 Related Nodes: N-10342, N-10000
-Supports: C-1562, C-10767
+Supports: C-2134, C-654
 Tags: relevance:core
 Investigative Direction: Obtain the source of the offer (host elsewhere names Andrew Kolvet) and any TPUSA or Israeli government records of a funding proposal.
 
 ---
 
-**C-14554** Host Says Turning Point Already Brings In $100 Million Per Year
+**C-7762** Host Says Turning Point Already Brings In $100 Million Per Year
 
 Claim Timestamp: 00:01:37
 
@@ -1713,7 +1712,7 @@ Investigative Direction: Check TPUSA's IRS Form 990 filings and annual reports f
 
 ---
 
-**C-14555** Host Says Charlie and Netanyahu Were Butting Heads Over War in Iran
+**C-7763** Host Says Charlie and Netanyahu Were Butting Heads Over War in Iran
 
 Claim Timestamp: 00:01:37
 
@@ -1729,7 +1728,7 @@ Investigative Direction: Collect Kirk's June 2025 public and private statements 
 
 ---
 
-**C-14556** Host Says TPUSA Is Recasting Charlie's Legacy as Pro-War in the Middle East
+**C-7764** Host Says TPUSA Is Recasting Charlie's Legacy as Pro-War in the Middle East
 
 Claim Timestamp: 00:02:32
 
@@ -1745,7 +1744,7 @@ Investigative Direction: Compare TPUSA statements and events since September 202
 
 ---
 
-**C-14557** Host Says the Egyptian Planes Revealed a Connection Between Israel and Utah
+**C-7765** Host Says the Egyptian Planes Revealed a Connection Between Israel and Utah
 
 Claim Timestamp: 00:02:32
 
@@ -1761,7 +1760,7 @@ Investigative Direction: Obtain the flight-tracking records for the Egyptian-reg
 
 ---
 
-**C-14558** Host Says There Are No Eyewitnesses From Inside Timpanogos Hospital on September 10
+**C-7767** Host Says There Are No Eyewitnesses From Inside Timpanogos Hospital on September 10
 
 Claim Timestamp: 00:04:22
 
@@ -1777,7 +1776,7 @@ Investigative Direction: Seek accounts from Timpanogos ER patients, visitors and
 
 ---
 
-**C-14559** Host Says Kash Patel Had the FBI Seize Hospital Footage on Arrival
+**C-7768** Host Says Kash Patel Had the FBI Seize Hospital Footage on Arrival
 
 Claim Timestamp: 00:05:38
 
@@ -1793,7 +1792,7 @@ Investigative Direction: Obtain the FBI evidence receipt or legal process for th
 
 ---
 
-**C-14560** Host Says Elizabeth Lane Was on the Ground at Utah Valley Hospital and Sent a Colleague to Timpanogos
+**C-7769** Host Says Elizabeth Lane Was on the Ground at Utah Valley Hospital and Sent a Colleague to Timpanogos
 
 Claim Timestamp: 00:05:38
 
@@ -1809,7 +1808,7 @@ Investigative Direction: Read Lane's X post and ask her which hospital staff and
 
 ---
 
-**C-14561** Host Says Both Hospitals Were Locked Down
+**C-7770** Host Says Both Hospitals Were Locked Down
 
 Claim Timestamp: 00:05:38
 
@@ -1825,7 +1824,7 @@ Investigative Direction: Obtain lockdown orders, hospital security logs and Orem
 
 ---
 
-**C-14562** Host Says Elizabeth Lane Has Been Positing That Erika Kirk Is a Psychopath
+**C-7771** Host Says Elizabeth Lane Has Been Positing That Erika Kirk Is a Psychopath
 
 Claim Timestamp: 00:05:38
 
@@ -1840,7 +1839,7 @@ Investigative Direction: Locate Lane's X posts making this characterization and 
 
 ---
 
-**C-14563** Host Says the Public Reason for the Lockdown Was the Shooter Seeking Kirk at Hospitals, Never Clarified
+**C-7773** Host Says the Public Reason for the Lockdown Was the Shooter Seeking Kirk at Hospitals, Never Clarified
 
 Claim Timestamp: 00:06:41
 
@@ -1856,7 +1855,7 @@ Investigative Direction: Find the first public statement giving this reason (pol
 
 ---
 
-**C-14564** Host Says Police Moved to Detain Zachariah Qureshi After Scanner Traffic About Hospitals
+**C-7774** Host Says Police Moved to Detain Zachariah Qureshi After Scanner Traffic About Hospitals
 
 Claim Timestamp: 00:06:41
 
@@ -1872,7 +1871,7 @@ Investigative Direction: Obtain the police scanner audio and CAD log for 2025-09
 
 ---
 
-**C-14565** Host Says Patel's Custody Tweet Came After Zachariah Was Detained and Ended the Manhunt Prematurely
+**C-7775** Host Says Patel's Custody Tweet Came After Zachariah Was Detained and Ended the Manhunt Prematurely
 
 Claim Timestamp: 00:06:41
 
@@ -1888,7 +1887,7 @@ Investigative Direction: Compare the detention time of the young man with Patel'
 
 ---
 
-**C-14566** Host Calls Zachariah Qureshi Decoy Boy Number Two After George Zinn
+**C-7776** Host Calls Zachariah Qureshi Decoy Boy Number Two After George Zinn
 
 Claim Timestamp: 00:06:41
 
@@ -1904,7 +1903,7 @@ Investigative Direction: Obtain booking and release records for both men and est
 
 ---
 
-**C-14567** Host Says Zinn Later Told People at Utah Valley Hospital He Was Paid
+**C-7777** Host Says Zinn Later Told People at Utah Valley Hospital He Was Paid
 
 Claim Timestamp: 00:07:33
 
@@ -1915,13 +1914,13 @@ Transcript Snippet: He would later tell people at Utah Valley, where he was bein
 Anchored Artifacts: 
 Mentions: N-3, N-42
 Related Nodes: N-10223, N-10354
-Supports: C-1402
+Supports: C-1486
 Tags: relevance:core
 Investigative Direction: Identify hospital staff or patients who heard Zin and obtain any incident or police report of the statement.
 
 ---
 
-**C-14568** Host Says Responding Officers Felt They Were Intentionally Sent All Around
+**C-7778** Host Says Responding Officers Felt They Were Intentionally Sent All Around
 
 Claim Timestamp: 00:07:33
 
@@ -1937,7 +1936,7 @@ Investigative Direction: Identify the officers quoted, their dispatch assignment
 
 ---
 
-**C-14569** Host Says Patel's Mistake Gave the True Assassin or Assassins an Hour and a Half Buffer
+**C-7780** Host Says Patel's Mistake Gave the True Assassin or Assassins an Hour and a Half Buffer
 
 Claim Timestamp: 00:08:11
 
@@ -1953,7 +1952,7 @@ Investigative Direction: Obtain search-operation logs showing when roadblocks an
 
 ---
 
-**C-14570** Host Says Mitch Snow Saw O5s and O6s Leaving a Meeting at Fort Huachuca
+**C-7782** Host Says Mitch Snow Saw O5s and O6s Leaving a Meeting at Fort Huachuca
 
 Claim Timestamp: 00:09:45
 
@@ -1969,7 +1968,7 @@ Investigative Direction: Re-interview Mitch Snow on the meeting date, location a
 
 ---
 
-**C-14571** Host Reads BILT Incorporated's Description of Its XR Instruction App
+**C-7784** Host Reads BILT Incorporated's Description of Its XR Instruction App
 
 Claim Timestamp: 00:10:27
 
@@ -1985,7 +1984,7 @@ Investigative Direction: Capture the BILT Incorporated website or app-store page
 
 ---
 
-**C-14572** Host Says Planes From Fort Huachuca Fuel Suspicion of a Texas Play
+**C-7785** Host Says Planes From Fort Huachuca Fuel Suspicion of a Texas Play
 
 Claim Timestamp: 00:10:27
 
@@ -2001,7 +2000,7 @@ Investigative Direction: Pull flight-tracking records for the September 9 and 10
 
 ---
 
-**C-14573** Host Says the CIA Ran the JFK Operation Out of Texas
+**C-7786** Host Says the CIA Ran the JFK Operation Out of Texas
 
 Claim Timestamp: 00:10:27
 
@@ -2017,7 +2016,7 @@ Investigative Direction: Cite the historical record (Warren Commission, Church C
 
 ---
 
-**C-14574** Host Says Built Receives Contracts From the Department of Defense
+**C-7787** Host Says Built Receives Contracts From the Department of Defense
 
 Claim Timestamp: 00:12:44
 
@@ -2033,7 +2032,7 @@ Investigative Direction: Query USAspending.gov by Built's UEI for all DoD awards
 
 ---
 
-**C-14575** Coleman Says Built's First Contract Was $50,000 in 2019 With a Three-Month Period
+**C-7788** Coleman Says Built's First Contract Was $50,000 in 2019 With a Three-Month Period
 
 Claim Timestamp: 00:13:43
 
@@ -2049,7 +2048,7 @@ Investigative Direction: Pull the 2019 award record on USAspending.gov and confi
 
 ---
 
-**C-14576** Coleman Says Built Got a $3.1 Million Contract in 2020
+**C-7789** Coleman Says Built Got a $3.1 Million Contract in 2020
 
 Claim Timestamp: 00:13:43
 
@@ -2065,7 +2064,7 @@ Investigative Direction: Pull the 2020 award on USAspending.gov and list all Bui
 
 ---
 
-**C-14577** Coleman Says the 2025 Contracts Came After Years Without a Contract of Any Value
+**C-7790** Coleman Says the 2025 Contracts Came After Years Without a Contract of Any Value
 
 Claim Timestamp: 00:14:35
 
@@ -2081,7 +2080,7 @@ Investigative Direction: Compute Built's annual federal obligations 2019 to 2025
 
 ---
 
-**C-14578** Coleman Says the UVU Event Was Probably Being Planned Around June
+**C-7791** Coleman Says the UVU Event Was Probably Being Planned Around June
 
 Claim Timestamp: 00:14:35
 
@@ -2097,7 +2096,7 @@ Investigative Direction: Obtain UVU and TPUSA records of when the event was firs
 
 ---
 
-**C-14579** Coleman Says the Planning of Charlie's Removal Began Around March or April and Heated Up in June and July
+**C-7792** Coleman Says the Planning of Charlie's Removal Began Around March or April and Heated Up in June and July
 
 Claim Timestamp: 00:14:35
 
@@ -2113,7 +2112,7 @@ Investigative Direction: Ask Coleman which records support the March to April an
 
 ---
 
-**C-14580** Host Says Nathan Henderson Is Married to Gina Romney
+**C-7796** Host Says Nathan Henderson Is Married to Gina Romney
 
 Claim Timestamp: 00:16:55
 
@@ -2129,7 +2128,7 @@ Investigative Direction: Check marriage records and corporate filings; establish
 
 ---
 
-**C-14581** Host Says Connor Henderson and Zachariah Qureshi Attended the Same School at the Same Time
+**C-7799** Host Says Connor Henderson and Zachariah Qureshi Attended the Same School at the Same Time
 
 Claim Timestamp: 00:17:51
 
@@ -2145,7 +2144,7 @@ Investigative Direction: Confirm enrollment and graduation years through BYU rec
 
 ---
 
-**C-14582** Host Says the Henderson and Qureshi Sons Both Interned at Built
+**C-7800** Host Says the Henderson and Qureshi Sons Both Interned at Built
 
 Claim Timestamp: 00:17:51
 
@@ -2161,7 +2160,7 @@ Investigative Direction: Check LinkedIn profiles and Built staff pages for inter
 
 ---
 
-**C-14583** Host Says This Is the Third Time the Romney Name Has Come Up in the Investigation
+**C-7801** Host Says This Is the Third Time the Romney Name Has Come Up in the Investigation
 
 Claim Timestamp: 00:19:43
 
@@ -2177,7 +2176,7 @@ Investigative Direction: Identify the earlier two Romney-name occurrences in pri
 
 ---
 
-**C-14584** Host Says Viewers and Baron Coleman Noted That Tyler Robinson Looks Like Connor Henderson
+**C-7802** Host Says Viewers and Baron Coleman Noted That Tyler Robinson Looks Like Connor Henderson
 
 Claim Timestamp: 00:22:43
 
@@ -2193,7 +2192,7 @@ Investigative Direction: A resemblance in photographs is not evidence of a link;
 
 ---
 
-**C-14585** Host Says the Romneys Are an Exceedingly Powerful Family in Utah With Generational Power
+**C-7803** Host Says the Romneys Are an Exceedingly Powerful Family in Utah With Generational Power
 
 Claim Timestamp: 00:22:43
 
@@ -2209,7 +2208,7 @@ Investigative Direction: Document the family's public holdings, offices and phil
 
 ---
 
-**C-14586** Host Says the Romneys Are Also Powerful in Mexico Through a Mormon Colony
+**C-7804** Host Says the Romneys Are Also Powerful in Mexico Through a Mormon Colony
 
 Claim Timestamp: 00:22:43
 
@@ -2225,7 +2224,7 @@ Investigative Direction: Cite the historical record of the Mormon colonies in Ch
 
 ---
 
-**C-14587** Host Says the Qureshis, the Hendersons and the Planes All Came Out of Texas
+**C-7805** Host Says the Qureshis, the Hendersons and the Planes All Came Out of Texas
 
 Claim Timestamp: 00:22:43
 
@@ -2241,7 +2240,7 @@ Investigative Direction: Confirm the Texas residence history of both families an
 
 ---
 
-**C-14588** Host Says Zenger, Qureshi, Henderson and Gina Romney All Attended BYU
+**C-7808** Host Says Zenger, Qureshi, Henderson and Gina Romney All Attended BYU
 
 Claim Timestamp: 00:23:46
 
@@ -2257,7 +2256,7 @@ Investigative Direction: Verify each person's BYU attendance from alumni or publ
 
 ---
 
-**C-14589** Host Says a Source Told Her the Jerusalem Center Is Where Elite Mormon Youth Are Introduced to Powerful Circles
+**C-7811** Host Says a Source Told Her the Jerusalem Center Is Where Elite Mormon Youth Are Introduced to Powerful Circles
 
 Claim Timestamp: 00:24:39
 
@@ -2273,7 +2272,7 @@ Investigative Direction: Single unnamed source; obtain corroboration from alumni
 
 ---
 
-**C-14590** Host Says Zenger Was Good Friends With Jeffrey Knuckles in Jerusalem
+**C-7814** Host Says Zenger Was Good Friends With Jeffrey Knuckles in Jerusalem
 
 Claim Timestamp: 00:25:43
 
@@ -2289,7 +2288,7 @@ Investigative Direction: Find public posts or photos tying Zenger and Knuckles t
 
 ---
 
-**C-14591** Host Says Zenger's Roommates Were Recruited and One Did CIA Contract Work for a CIA Department of Education
+**C-7816** Host Says Zenger's Roommates Were Recruited and One Did CIA Contract Work for a CIA Department of Education
 
 Claim Timestamp: 00:26:30
 
@@ -2305,7 +2304,7 @@ Investigative Direction: Single-source assertion; request the source's documenta
 
 ---
 
-**C-14592** Host Says She Put Out an APB for Robbie Hild Because He Stood Alongside Shane Lyman
+**C-7818** Host Says She Put Out an APB for Robbie Hild Because He Stood Alongside Shane Lyman
 
 Claim Timestamp: 00:27:39
 
@@ -2321,7 +2320,7 @@ Investigative Direction: Locate the original episode and the photo of Hild with 
 
 ---
 
-**C-14593** Host Says Phil Lyman's Family Owned the Block and the Walkers on Camera Were Tied to Caldera Engineering
+**C-7819** Host Says Phil Lyman's Family Owned the Block and the Walkers on Camera Were Tied to Caldera Engineering
 
 Claim Timestamp: 00:27:39
 
@@ -2332,13 +2331,13 @@ Transcript Snippet: Remember, we learned like Phil Lyman's whole family owned th
 Anchored Artifacts: 
 Mentions: N-3, N-61
 Related Nodes: N-10065, N-10184, N-10144
-Supports: C-1308
+Supports: C-1018
 Tags: relevance:core
 Investigative Direction: Pull Utah County property records for the block and Caldera Engineering's ownership and employee ties.
 
 ---
 
-**C-14594** Host Says the Figure on the Footage Looks More Like Lance Than Tyler Robinson
+**C-7820** Host Says the Figure on the Footage Looks More Like Lance Than Tyler Robinson
 
 Claim Timestamp: 00:27:39
 
@@ -2354,7 +2353,7 @@ Investigative Direction: Identify which footage is meant and compare the figure'
 
 ---
 
-**C-14595** Host Says Phil Lyman Calls the Relative a Cousin
+**C-7821** Host Says Phil Lyman Calls the Relative a Cousin
 
 Claim Timestamp: 00:27:39
 
@@ -2365,13 +2364,13 @@ Transcript Snippet: Phil Lyman's nephew and or cousin, Phil Lyman says it's a co
 Anchored Artifacts: 
 Mentions: N-3, N-61, N-128
 Related Nodes: N-10144
-Supports: C-9267
+Supports: C-1082
 Tags: relevance:context
 Investigative Direction: Compare the relative's own posts with Phil Lyman's statements on the relationship.
 
 ---
 
-**C-14596** Host Says Shane Lyman and Friends Posted Instagram Content Retracing the Killer's Steps and a Footprint
+**C-7822** Host Says Shane Lyman and Friends Posted Instagram Content Retracing the Killer's Steps and a Footprint
 
 Claim Timestamp: 00:28:49
 
@@ -2382,13 +2381,13 @@ Transcript Snippet: he and some friends uniquely traced the steps of the killer 
 Anchored Artifacts: A-1924.1
 Mentions: N-3, N-943, N-128
 Related Nodes: N-10153, N-10144
-Supports: C-9259, C-1312
+Supports: C-1073, C-1046
 Tags: relevance:core
 Investigative Direction: Archive the Instagram posts with timestamps and compare against the official evidence log for the footprint.
 
 ---
 
-**C-14597** Host Says the Footprint Is Mentioned in the Document Released the Day Before
+**C-7823** Host Says the Footprint Is Mentioned in the Document Released the Day Before
 
 Claim Timestamp: 00:28:49
 
@@ -2404,7 +2403,7 @@ Investigative Direction: Identify the court filing or probable-cause document re
 
 ---
 
-**C-14598** Host Asks Viewers for the Hild-Romney Family Link at the More Tips Address
+**C-7825** Host Asks Viewers for the Hild-Romney Family Link at the More Tips Address
 
 Claim Timestamp: 00:29:30
 
@@ -2420,7 +2419,7 @@ Investigative Direction: Collect viewer tips on Hild-Romney marriage records or 
 
 ---
 
-**C-14599** Host Says the Investigation Into Robbie Hild Is Open Again
+**C-7827** Host Says the Investigation Into Robbie Hild Is Open Again
 
 Claim Timestamp: 00:30:18
 
@@ -2436,7 +2435,7 @@ Investigative Direction: Track subsequent episodes for new findings on Hild's id
 
 ---
 
-**C-14600** Host Says the Sears Company Is Also Involved in How the CIA Approaches These People
+**C-7828** Host Says the Sears Company Is Also Involved in How the CIA Approaches These People
 
 Claim Timestamp: 00:30:18
 
@@ -2452,7 +2451,7 @@ Investigative Direction: Single-source assertion with no document shown; ask the
 
 ---
 
-**C-14601** Host Says Many Romney Campaign People Were Stationed in Jerusalem in 2011
+**C-7829** Host Says Many Romney Campaign People Were Stationed in Jerusalem in 2011
 
 Claim Timestamp: 00:31:16
 
@@ -2468,7 +2467,7 @@ Investigative Direction: Obtain Romney 2012 campaign staff lists and travel or b
 
 ---
 
-**C-14602** Washington Post Says Comparative Bullet Lead Analysis Was First Used After JFK's Assassination
+**C-7832** Washington Post Says Comparative Bullet Lead Analysis Was First Used After JFK's Assassination
 
 Claim Timestamp: 00:32:26
 
@@ -2484,7 +2483,7 @@ Investigative Direction: Retrieve the 2007 Washington Post article and the 2004 
 
 ---
 
-**C-14603** Washington Post Reports NAS Found FBI Jury Testimony on Bullet Lead Overstated and Misleading
+**C-7833** Washington Post Reports NAS Found FBI Jury Testimony on Bullet Lead Overstated and Misleading
 
 Claim Timestamp: 00:32:26
 
@@ -2500,7 +2499,7 @@ Investigative Direction: Read the 2004 NAS report 'Forensic Analysis: Weighing B
 
 ---
 
-**C-14604** Host Says the ATF Found the Bullet Comparison Inconclusive
+**C-7834** Host Says the ATF Found the Bullet Comparison Inconclusive
 
 Claim Timestamp: 00:33:30
 
@@ -2516,7 +2515,7 @@ Investigative Direction: Obtain the ATF laboratory report or court filing statin
 
 ---
 
-**C-14605** Host Says We All Know Who Killed JFK and It Was Not Lee Harvey Oswald
+**C-7835** Host Says We All Know Who Killed JFK and It Was Not Lee Harvey Oswald
 
 Claim Timestamp: 00:33:30
 
@@ -2532,7 +2531,7 @@ Investigative Direction: Assertion without a named alternative; refer to the War
 
 ---
 
-**C-14606** Host Says 'They' Know Tyler Robinson Did Not Do It
+**C-7836** Host Says 'They' Know Tyler Robinson Did Not Do It
 
 Claim Timestamp: 00:34:18
 
@@ -2548,7 +2547,7 @@ Investigative Direction: Identify the 'they' and the evidence the host believes 
 
 ---
 
-**C-14607** Host Says the Romney Family Is Married Into the Robinson Family but Not Necessarily a Tie
+**C-7837** Host Says the Romney Family Is Married Into the Robinson Family but Not Necessarily a Tie
 
 Claim Timestamp: 00:34:18
 
@@ -2564,7 +2563,7 @@ Investigative Direction: Genealogical records would show whether any Romney-Robi
 
 ---
 
-**C-14608** Host Says the Hild Family Is Married Into the Robinsons
+**C-7838** Host Says the Hild Family Is Married Into the Robinsons
 
 Claim Timestamp: 00:34:18
 
@@ -2580,7 +2579,7 @@ Investigative Direction: Genealogical and marriage records for the Hild and Robi
 
 ---
 
-**C-14609** Host Says the Farnsworth and Romney Families Were Among Those Who Went to Chihuahua
+**C-7839** Host Says the Farnsworth and Romney Families Were Among Those Who Went to Chihuahua
 
 Claim Timestamp: 00:34:18
 
@@ -2596,7 +2595,7 @@ Investigative Direction: Historical records of the Mormon colonies in Chihuahua 
 
 ---
 
-**C-14610** Host Says Charlie Told Trump Not to Go to War With Iran
+**C-7840** Host Says Charlie Told Trump Not to Go to War With Iran
 
 Claim Timestamp: 00:35:18
 
@@ -2612,7 +2611,7 @@ Investigative Direction: Find the source of Kirk's statement to Trump (Kirk's ow
 
 ---
 
-**C-14611** Host Says Charlie Stepped on the Toes of People Who Trade on War and Do Real Estate Deals Before Wars
+**C-7841** Host Says Charlie Stepped on the Toes of People Who Trade on War and Do Real Estate Deals Before Wars
 
 Claim Timestamp: 00:35:18
 
@@ -2628,7 +2627,7 @@ Investigative Direction: The host names no persons or deals; identify which deal
 
 ---
 
-**C-14612** Host Says Egyptian Planes Repeatedly Carried Someone From Israel to Provo During Israeli Conflicts
+**C-7842** Host Says Egyptian Planes Repeatedly Carried Someone From Israel to Provo During Israeli Conflicts
 
 Claim Timestamp: 00:35:18
 
@@ -2644,7 +2643,7 @@ Investigative Direction: Release the flight-by-flight table and cross-check each
 
 ---
 
-**C-14613** Host Says Her Sense Was That the Passenger Is Netanyahu Hiding in Provo but She Is Not Saying It Is
+**C-7843** Host Says Her Sense Was That the Passenger Is Netanyahu Hiding in Provo but She Is Not Saying It Is
 
 Claim Timestamp: 00:36:18
 
@@ -2660,7 +2659,7 @@ Investigative Direction: Check Netanyahu's documented whereabouts on the dates o
 
 ---
 
-**C-14614** Host Says Her Egyptian Plane Spreadsheet Shows Flights in Sync With Bombing Campaigns Toward Israel
+**C-7844** Host Says Her Egyptian Plane Spreadsheet Shows Flights in Sync With Bombing Campaigns Toward Israel
 
 Claim Timestamp: 00:36:18
 
@@ -2671,13 +2670,13 @@ Transcript Snippet: there's a lot of evidence that these planes are in sync with
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10347, N-10253
-Supports: C-14612
+Supports: C-7842
 Tags: relevance:core
 Investigative Direction: Publish the spreadsheet and test the alignment statistically against a dated list of attacks on Israel.
 
 ---
 
-**C-14615** Host Says Provo Has a Whole Underground City
+**C-7845** Host Says Provo Has a Whole Underground City
 
 Claim Timestamp: 00:36:18
 
@@ -2693,7 +2692,7 @@ Investigative Direction: Ask the host for the source; check public records on un
 
 ---
 
-**C-14616** Host Says Tyler Robinson's Defense Is Asking How the Prosecution Got Its Technology and Wants the Chain of Custody
+**C-7847** Host Says Tyler Robinson's Defense Is Asking How the Prosecution Got Its Technology and Wants the Chain of Custody
 
 Claim Timestamp: 00:41:09
 
@@ -2709,7 +2708,7 @@ Investigative Direction: Read the defense's discovery motions for requests about
 
 ---
 
-**C-14617** Commenter Says Terryl Farnsworth Took a Chair From the Crime Scene to Mess With the Camera
+**C-7848** Commenter Says Terryl Farnsworth Took a Chair From the Crime Scene to Mess With the Camera
 
 Claim Timestamp: 00:42:19
 
@@ -2720,13 +2719,13 @@ Transcript Snippet: the guy taking a chair from a crime scene to stand on to mes
 Anchored Artifacts: A-3331.1
 Mentions: N-3, N-261
 Related Nodes: N-10346, N-10076
-Supports: C-1205
+Supports: C-501
 Tags: relevance:core
 Investigative Direction: Compare the video of the camera removal with Farnsworth's account and the crime-scene log.
 
 ---
 
-**C-14618** Host Says Someone Spoke to Erika Days After Charlie Died About the Behind-the-Head Footage
+**C-7849** Host Says Someone Spoke to Erika Days After Charlie Died About the Behind-the-Head Footage
 
 Claim Timestamp: 00:43:05
 
@@ -2742,7 +2741,7 @@ Investigative Direction: Clarify who spoke to Erika, when, and what was said (Fa
 
 ---
 
-**C-14619** Host Says Terryl Farnsworth Was All Crazy on the Phone
+**C-7850** Host Says Terryl Farnsworth Was All Crazy on the Phone
 
 Claim Timestamp: 00:43:05
 
@@ -2758,7 +2757,7 @@ Investigative Direction: Identify the phone call or video the host means, its da
 
 ---
 
-**C-14620** Host Says Her Producer Notes the RNC Altered Convention Rules to Bind Delegates in 2012
+**C-7854** Host Says Her Producer Notes the RNC Altered Convention Rules to Bind Delegates in 2012
 
 Claim Timestamp: 00:45:16
 
@@ -2774,7 +2773,7 @@ Investigative Direction: Read the RNC 2012 Rules (Rule 16 and the Rules Committe
 
 ---
 
-**C-14621** Host Says the RNC Refused to Recognize Ron Paul's Delegates From Maine
+**C-7855** Host Says the RNC Refused to Recognize Ron Paul's Delegates From Maine
 
 Claim Timestamp: 00:45:16
 
@@ -2790,7 +2789,7 @@ Investigative Direction: Check 2012 convention credentials rulings on the Maine 
 
 ---
 
-**C-14622** Host Says LDS Community Members Describe the Romney Family as Powerful, Disliked and Considered Corrupt
+**C-7856** Host Says LDS Community Members Describe the Romney Family as Powerful, Disliked and Considered Corrupt
 
 Claim Timestamp: 00:46:09
 
@@ -2806,7 +2805,7 @@ Investigative Direction: Anonymous reputational hearsay; no document is cited. T
 
 ---
 
-**C-14623** Host Says the Manson Narrative Was the Opposite of What Happened With a CIA Apparatus Behind It
+**C-7859** Host Says the Manson Narrative Was the Opposite of What Happened With a CIA Apparatus Behind It
 
 Claim Timestamp: 00:48:01
 
@@ -2822,7 +2821,7 @@ Investigative Direction: Refer to the sources for Chaos (Tom O'Neill) and the cr
 
 ---
 
-**C-14624** Host Says the Goal Was to Socially Engineer Society Toward Support for Israel
+**C-7860** Host Says the Goal Was to Socially Engineer Society Toward Support for Israel
 
 Claim Timestamp: 00:48:01
 
@@ -2838,7 +2837,7 @@ Investigative Direction: Define the 'they' and the operation alleged; identify a
 
 ---
 
-**C-14625** Host Says the Public Narrative Held That Charlie's Last Words Were Shabbat Shalom and I Love Israel
+**C-7861** Host Says the Public Narrative Held That Charlie's Last Words Were Shabbat Shalom and I Love Israel
 
 Claim Timestamp: 00:48:01
 
@@ -2854,7 +2853,7 @@ Investigative Direction: Trace who first reported the 'Shabbat Shalom' last word
 
 ---
 
-**C-14626** Host Says Charlie Wrote That He Had No Choice but to Abandon the Pro-Israel Cause
+**C-7862** Host Says Charlie Wrote That He Had No Choice but to Abandon the Pro-Israel Cause
 
 Claim Timestamp: 00:49:11
 
@@ -2865,13 +2864,13 @@ Transcript Snippet: You've left me no choice but to abandon the pro-Israel cause
 Anchored Artifacts: A-3333.1
 Mentions: N-3, N-1
 Related Nodes: N-10106, N-10543
-Supports: C-9309, C-9356, C-9428
+Supports: C-1138, C-1557, C-2042
 Tags: relevance:core
 Investigative Direction: Obtain the full message and its date and recipients from the original chat.
 
 ---
 
-**C-14627** Host Says TPUSA Attacked Joe Kent Instead of Disclosing That Charlie Was Abandoning the Cause
+**C-7863** Host Says TPUSA Attacked Joe Kent Instead of Disclosing That Charlie Was Abandoning the Cause
 
 Claim Timestamp: 00:49:11
 
@@ -2887,7 +2886,7 @@ Investigative Direction: Collect TPUSA statements about Joe Kent and the timing 
 
 ---
 
-**C-14628** Host Says Charlie Was Under Immense Pressure With Money Pulled and Financial Threats and Felt Morally Blackmailed
+**C-7864** Host Says Charlie Was Under Immense Pressure With Money Pulled and Financial Threats and Felt Morally Blackmailed
 
 Claim Timestamp: 00:49:11
 
@@ -2898,13 +2897,13 @@ Transcript Snippet: because they were pulling money from him and they were threa
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-2
 Related Nodes: N-10106, N-10446
-Supports: C-1258, C-11966, C-9431
+Supports: C-715, C-454, C-2045
 Tags: relevance:core
 Investigative Direction: Identify the donors and the messages or witnesses supporting each element, especially any record of conditions on who he could speak to.
 
 ---
 
-**C-14629** Host Says Erika Is Being Forced to Reverse Charlie's Positions Like LBJ After JFK
+**C-7865** Host Says Erika Is Being Forced to Reverse Charlie's Positions Like LBJ After JFK
 
 Claim Timestamp: 00:50:08
 
@@ -3067,11 +3066,11 @@ Confidence: high
 
 - **Artifact verbally referenced but not shown:** Multiple artifacts are referenced by the host without on-screen display, including: Ahmed Qureshi's full LinkedIn page (URL not captured), Gina Romney Henderson's LinkedIn (URL not captured), USA Spending portal pages (specific entries not pinned), Andrew Zenger's appointment announcement, BYU Jerusalem Center program documentation, Metro One Talent corporate filings. Flag: **Artifact verbally referenced but not shown.**
 
-- **Unanchored claims:** C-2642 (BYU Jerusalem CIA recruitment), C-2643 (Metro One Talent as CIA vendor), C-2644 (Michael Shawn Covey CIA contractor), C-2639 (Andrew Zenger CEO appointment date), C-2640 (Andrew Zenger COO at Medical City), C-2641 (Andrew Zenger BYU Jerusalem attendance), C-2638 (cohabitation in Keller, Texas), C-2649 (Caleb Cunningham Jerusalem), C-2650 (Jeffrey Knuckles Jerusalem). These claims appear in the claim register only with "host assertion; no displayed evidence" notes and should be treated as **Requires human verification** until anchored.
+- **Unanchored claims:** C-7810 (BYU Jerusalem CIA recruitment), C-7815 (Metro One Talent as CIA vendor), C-7817 (Michael Shawn Covey CIA contractor), C-7806 (Andrew Zenger CEO appointment date), C-7807 (Andrew Zenger COO at Medical City), C-7809 (Andrew Zenger BYU Jerusalem attendance), C-7795 (cohabitation in Keller, Texas), C-7812 (Caleb Cunningham Jerusalem), C-7813 (Jeffrey Knuckles Jerusalem). These claims appear in the claim register only with "host assertion; no displayed evidence" notes and should be treated as **Requires human verification** until anchored.
 
-- **Single-source attribution:** The BYU Jerusalem CIA recruitment thesis (C-2642, C-2651) is presented by the host as certain ("I am saying this with 100% certainty, it is not a conspiracy") but is attributed in the transcript only to "someone told me." Flag: **Single-source attribution – high fragility.**
+- **Single-source attribution:** The BYU Jerusalem CIA recruitment thesis (C-7810, C-7857) is presented by the host as certain ("I am saying this with 100% certainty, it is not a conspiracy") but is attributed in the transcript only to "someone told me." Flag: **Single-source attribution – high fragility.**
 
-- **Funeral image attribution:** C-2647 cites a comment claiming the direct mail piece used a "funeral" image of Erika Kirk in a sparkle suit; the host does not independently confirm the funeral framing and asks the audience to weigh in. Flag: **Source event context unverified.**
+- **Funeral image attribution:** C-7853 cites a comment claiming the direct mail piece used a "funeral" image of Erika Kirk in a sparkle suit; the host does not independently confirm the funeral framing and asks the audience to weigh in. Flag: **Source event context unverified.**
 
 - **Romney–Hild family tie:** The host explicitly states she cannot relocate the underlying document connecting the Hild family to the Romney family (19:43–30:18) and solicits tips via email. Flag: **Claim failed admission test until documentary anchor surfaced.**
 

@@ -27,14 +27,14 @@
           "ref": "A-1912.1",
           "description": "Defense Motion for Continuance of Preliminary Hearing (~28 pages plus exhibits, filed in State of Utah v. Tyler Robinson)",
           "related_claims": [
-            "C-2609",
-            "C-2610",
-            "C-2611",
-            "C-2613",
-            "C-2614",
-            "C-2615",
-            "C-2616",
-            "C-2617"
+            "C-7717",
+            "C-7731",
+            "C-7734",
+            "C-7726",
+            "C-7728",
+            "C-7721",
+            "C-7720",
+            "C-7718"
           ],
           "related_nodes": [
             "N-10569",
@@ -62,9 +62,9 @@
           "ref": "A-1913.1",
           "description": "Andrew Kolvet X/Twitter Post, September 20, 2025 – \"I want to address some of the discussion about the lack of an exit wound with Charlie...\"",
           "related_claims": [
-            "C-2618",
-            "C-2619",
-            "C-2625"
+            "C-7705",
+            "C-7706",
+            "C-7702"
           ],
           "related_nodes": [
             "N-10085"
@@ -90,7 +90,7 @@
           "ref": "A-1914.1",
           "description": "Local Atlanta News Segment on FBI Bullet Lead Analysis Discontinuation (featuring national investigative reporter Chris Nakamoto; case subject: Jimmy Ates)",
           "related_claims": [
-            "C-2612"
+            "C-7738"
           ],
           "related_nodes": [
             "N-10569"
@@ -116,7 +116,7 @@
           "ref": "A-1915.1",
           "description": "Viewer Email Regarding Long Beach Airport and Joint Forces Air Base in Los Alamitos, CA",
           "related_claims": [
-            "C-2620"
+            "C-7749"
           ],
           "related_nodes": [
             "N-10571"
@@ -142,9 +142,9 @@
           "ref": "A-1916.1",
           "description": "Kim Haven Comment (top comment from prior episode) – asserts doctors do not publicly announce patient deaths and labels Frank Turek \"absolutely a liar\"",
           "related_claims": [
-            "C-2621",
-            "C-2622",
-            "C-2623"
+            "C-7752",
+            "C-7754",
+            "C-7755"
           ],
           "related_nodes": [],
           "tags": [],
@@ -196,9 +196,9 @@
           "ref": "A-3072.1",
           "description": "Host verbal reference to her screen recording of the September 19 FaceTime with Terryl Farnsworth showing the back footage (not played)",
           "related_claims": [
-            "C-10307",
-            "C-10308",
-            "C-10309"
+            "C-7694",
+            "C-7695",
+            "C-7696"
           ],
           "related_nodes": [
             "N-3"
@@ -223,7 +223,7 @@
           "ref": "A-3073.1",
           "description": "Host verbal reference to her meticulous notes of the September 23 conversation with Andrew Kolvet (not shown)",
           "related_claims": [
-            "C-10317"
+            "C-7707"
           ],
           "related_nodes": [
             "N-3"
@@ -248,7 +248,7 @@
           "ref": "A-3074.1",
           "description": "Host verbal reference to Erika Kirk saying on Fox News that she just wants the case to be fast (not played)",
           "related_claims": [
-            "C-10333"
+            "C-7729"
           ],
           "related_nodes": [
             "N-3"
@@ -273,7 +273,7 @@
           "ref": "A-3075.1",
           "description": "Host verbal reference to the APB for information on Erika's July 14 flight and the email tip it produced",
           "related_claims": [
-            "C-10345"
+            "C-7745"
           ],
           "related_nodes": [
             "N-3"
@@ -300,9 +300,9 @@
         "A-1914.1"
       ],
       "related_claims": [
-        "C-2611",
-        "C-2612",
-        "C-2624"
+        "C-7734",
+        "C-7738",
+        "C-7736"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -321,11 +321,11 @@
         "A-1912.1"
       ],
       "related_claims": [
-        "C-2613",
-        "C-2614",
-        "C-2615",
-        "C-2616",
-        "C-2617"
+        "C-7726",
+        "C-7728",
+        "C-7721",
+        "C-7720",
+        "C-7718"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -344,7 +344,7 @@
         "A-1915.1"
       ],
       "related_claims": [
-        "C-2620"
+        "C-7749"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -363,7 +363,7 @@
         "A-1912.1"
       ],
       "related_claims": [
-        "C-2610"
+        "C-7731"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -395,17 +395,17 @@
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10304",
-        "C-10312",
-        "C-10313",
-        "C-10314",
-        "C-10315",
-        "C-10316",
-        "C-10333",
-        "C-10345",
-        "C-10346",
-        "C-10351",
-        "C-10352"
+        "C-7690",
+        "C-7699",
+        "C-7700",
+        "C-7701",
+        "C-7703",
+        "C-7704",
+        "C-7729",
+        "C-7745",
+        "C-7746",
+        "C-7753",
+        "C-7756"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -425,9 +425,9 @@
         "A-1913.1"
       ],
       "related_claims": [
-        "C-2618",
-        "C-2619",
-        "C-2625"
+        "C-7705",
+        "C-7706",
+        "C-7702"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -444,19 +444,19 @@
       "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10299",
-        "C-10300",
-        "C-10304",
-        "C-10305",
-        "C-10306",
-        "C-10312",
-        "C-10316",
-        "C-10317",
-        "C-10319",
-        "C-10347",
-        "C-10349",
-        "C-10350",
-        "C-10351"
+        "C-7685",
+        "C-7686",
+        "C-7690",
+        "C-7691",
+        "C-7692",
+        "C-7699",
+        "C-7704",
+        "C-7707",
+        "C-7709",
+        "C-7747",
+        "C-7750",
+        "C-7751",
+        "C-7753"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -474,7 +474,7 @@
       "description": "Comments revisit CPR narratives vs unnamed fire captain.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10351"
+        "C-7753"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -492,13 +492,13 @@
       "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10302",
-        "C-10313",
-        "C-10314",
-        "C-10316",
-        "C-10317",
-        "C-10318",
-        "C-10353"
+        "C-7688",
+        "C-7700",
+        "C-7701",
+        "C-7704",
+        "C-7707",
+        "C-7708",
+        "C-7757"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -516,24 +516,24 @@
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10320",
-        "C-10321",
-        "C-10323",
-        "C-10324",
-        "C-10326",
-        "C-10327",
-        "C-10328",
-        "C-10329",
-        "C-10330",
-        "C-10331",
-        "C-10332",
-        "C-10334",
-        "C-10335",
-        "C-10336",
-        "C-10340",
-        "C-10341",
-        "C-10342",
-        "C-10343"
+        "C-7710",
+        "C-7711",
+        "C-7713",
+        "C-7714",
+        "C-7716",
+        "C-7719",
+        "C-7722",
+        "C-7723",
+        "C-7724",
+        "C-7725",
+        "C-7727",
+        "C-7730",
+        "C-7732",
+        "C-7733",
+        "C-7740",
+        "C-7741",
+        "C-7742",
+        "C-7743"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -551,19 +551,19 @@
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10303",
-        "C-10307",
-        "C-10308",
-        "C-10310",
-        "C-10317",
-        "C-10322",
-        "C-10325",
-        "C-10344",
-        "C-10345",
-        "C-10347",
-        "C-10349",
-        "C-10350",
-        "C-10352"
+        "C-7689",
+        "C-7694",
+        "C-7695",
+        "C-7697",
+        "C-7707",
+        "C-7712",
+        "C-7715",
+        "C-7744",
+        "C-7745",
+        "C-7747",
+        "C-7750",
+        "C-7751",
+        "C-7756"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -581,9 +581,9 @@
       "description": "Turning Point USA; subject of the host's allegations about the footage and employee statements.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10301",
-        "C-10344",
-        "C-10353"
+        "C-7687",
+        "C-7744",
+        "C-7757"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -600,8 +600,8 @@
       "description": "George (the host's husband); asked by Justin Streiff whether the host recorded the FaceTime.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10309",
-        "C-10310"
+        "C-7696",
+        "C-7697"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -618,7 +618,7 @@
       "description": "Elizabeth Lane; cited by the host as discussing the other hospital and a strange lockdown.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10350"
+        "C-7751"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -635,7 +635,7 @@
       "description": "Tucker Carlson; his on-stage remarks are tied by the host to the July 13 timeline.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10347"
+        "C-7747"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -652,9 +652,9 @@
       "description": "Justin Streiff; TPUSA COO, said by the host to have asked her husband about the FaceTime recording.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10309",
-        "C-10310",
-        "C-10311"
+        "C-7696",
+        "C-7697",
+        "C-7698"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -671,7 +671,7 @@
       "description": "Fox News; venue of Erika Kirk's remark about wanting the case to be fast.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10333"
+        "C-7729"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -688,7 +688,7 @@
       "description": "Benjamin Netanyahu; named in the host's account of Tucker Carlson's remarks.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10347"
+        "C-7747"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -705,7 +705,7 @@
       "description": "Katherine Locastro (transcribed Katherine Locastro); named as a passenger on Erika's July 14 flight.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10346"
+        "C-7746"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -722,7 +722,7 @@
       "description": "Utah Valley University; source of students and staff the host says she spoke to.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10325"
+        "C-7715"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -739,10 +739,10 @@
       "description": "Federal Bureau of Investigation; alleged to have been calling TPUSA about the footage and to be running a second bullet analysis.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10311",
-        "C-10319",
-        "C-10323",
-        "C-10325"
+        "C-7698",
+        "C-7709",
+        "C-7713",
+        "C-7715"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -759,7 +759,7 @@
       "description": "Derek Niekerk; named as a passenger on Erika's July 14 flight.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10346"
+        "C-7746"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -776,7 +776,7 @@
       "description": "Baron Coleman; cited for his explanation that the people involved are tied to each other.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10353"
+        "C-7757"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -793,7 +793,7 @@
       "description": "Missing Text Message Timestamps; reused for the PDF text messages the defense says lack time data.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10343"
+        "C-7743"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -810,16 +810,16 @@
       "description": "Terryl Farnsworth (transcribed Tarro); AV contractor who removed the SD card and later showed the host the back footage.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10300",
-        "C-10301",
-        "C-10302",
-        "C-10303",
-        "C-10304",
-        "C-10305",
-        "C-10306",
-        "C-10307",
-        "C-10308",
-        "C-10309"
+        "C-7686",
+        "C-7687",
+        "C-7688",
+        "C-7689",
+        "C-7690",
+        "C-7691",
+        "C-7692",
+        "C-7694",
+        "C-7695",
+        "C-7696"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -836,7 +836,7 @@
       "description": "Brian Harpole; cited for his later account of where the bullet fragmented.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10318"
+        "C-7708"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -853,7 +853,7 @@
       "description": "Jonathan Barcelo (transcribed Barcello); named as a passenger on Erika's July 14 flight.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10346"
+        "C-7746"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -870,7 +870,7 @@
       "description": "Matt Robinson; Tyler Robinson's father, expected to testify about the gun.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10327"
+        "C-7719"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -887,11 +887,11 @@
       "description": "Dr. Lee Trotter; the surgeon whose call with Erika and Kolvet is disputed.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10313",
-        "C-10314",
-        "C-10315",
-        "C-10316",
-        "C-10352"
+        "C-7700",
+        "C-7701",
+        "C-7703",
+        "C-7704",
+        "C-7756"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -908,10 +908,10 @@
       "description": "TPUSA SD Card Removal; reused for the Farnsworth card removal claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10300",
-        "C-10302",
-        "C-10305",
-        "C-10306"
+        "C-7686",
+        "C-7688",
+        "C-7691",
+        "C-7692"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -928,8 +928,8 @@
       "description": "Tyler Robinson Evidence Gaps; reused for the prints and DNA claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10324",
-        "C-10334"
+        "C-7714",
+        "C-7730"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -946,7 +946,7 @@
       "description": "SD Card Removal Narrative Discrepancy; reused.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10300"
+        "C-7686"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -963,7 +963,7 @@
       "description": "Charlie Kirk Burial / Funeral Narrative Discrepancy; reused for the September 20 burial date.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10312"
+        "C-7699"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -980,7 +980,7 @@
       "description": "Justin Streiff Post-Assassination Phone Call; reused for the host's account of his contact with her husband.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10309"
+        "C-7696"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -997,8 +997,8 @@
       "description": "Terryl Farnsworth Camera Removal Justification; reused for his and Kolvet's explanations.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10302",
-        "C-10304"
+        "C-7688",
+        "C-7690"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1015,7 +1015,7 @@
       "description": "Gun Discovery Procedure Question; reused for the planted-gun allegation.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10323"
+        "C-7713"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1032,7 +1032,7 @@
       "description": "Charlie Kirk Premonition Dreams; reused for the host's account that he told her he would die.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10349"
+        "C-7750"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1049,11 +1049,11 @@
       "description": "Three-Way Surgeon Call / Superman Neck HIPAA Discrepancy; reused for the Erika, Kolvet and Trotter call.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10313",
-        "C-10314",
-        "C-10315",
-        "C-10316",
-        "C-10352"
+        "C-7700",
+        "C-7701",
+        "C-7703",
+        "C-7704",
+        "C-7756"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1070,7 +1070,7 @@
       "description": "Charlie Kirk Iran War Opposition (June 2025); reused for the host's timeline theory.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10347"
+        "C-7747"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1087,8 +1087,8 @@
       "description": "Tyler Robinson Defense Chain of Custody / Documents; reused.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10328",
-        "C-10343"
+        "C-7722",
+        "C-7743"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1105,10 +1105,10 @@
       "description": "Gun Firing Evidence Verification; reused for the GSR, prints and heirloom ammunition claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10320",
-        "C-10321",
-        "C-10323",
-        "C-10324"
+        "C-7710",
+        "C-7711",
+        "C-7713",
+        "C-7714"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1125,7 +1125,7 @@
       "description": "Defense Access to Firearm Evidence (Quantico); reused for the outstanding ATF and FBI materials.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10331"
+        "C-7725"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1142,7 +1142,7 @@
       "description": "Tyler Robinson DNA Most Degraded Anomaly; reused for the DNA mixture claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10334"
+        "C-7730"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1159,7 +1159,7 @@
       "description": "Utah Valley Hospital File Anomaly; reused for the hospital routing question.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10350"
+        "C-7751"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1176,7 +1176,7 @@
       "description": "Terryl Farnsworth Google-Hack Contradiction; reused for his excuses for not sending the footage.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10307"
+        "C-7694"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1193,9 +1193,9 @@
       "description": "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF); source of the inconclusive bullet finding.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10331",
-        "C-10335",
-        "C-10336"
+        "C-7725",
+        "C-7732",
+        "C-7733"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1212,7 +1212,7 @@
       "description": "Bomb Dog Deployment at the Crime Scene; reused.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10322"
+        "C-7712"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1229,7 +1229,7 @@
       "description": "Tyler Robinson Gunshot Residue Test Question; reused.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10321"
+        "C-7711"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1246,9 +1246,9 @@
       "description": "Utah Rule 1102 Hearsay Standard; reused for the hearsay argument.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10332",
-        "C-10340",
-        "C-10342"
+        "C-7727",
+        "C-7740",
+        "C-7742"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1265,11 +1265,11 @@
       "description": "Tyler Robinson Preliminary Hearing and Motion to Dismiss; reused for the continuance request.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10326",
-        "C-10327",
-        "C-10330",
-        "C-10340",
-        "C-10342"
+        "C-7716",
+        "C-7719",
+        "C-7724",
+        "C-7740",
+        "C-7742"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1286,7 +1286,7 @@
       "description": "First named by the host at 00:08:17 in episode 86. Named as a TPUSA figure who, with Justin Streiff, was on the phone with the FBI about the back footage, per the host.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10311"
+        "C-7698"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1303,10 +1303,10 @@
       "description": "Topic. The host's account that on September 20, 2025 TPUSA leadership and the FBI were asking whether she had recorded Terryl Farnsworth's September 19 FaceTime showing the back-camera footage.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10308",
-        "C-10309",
-        "C-10310",
-        "C-10311"
+        "C-7695",
+        "C-7696",
+        "C-7697",
+        "C-7698"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1323,7 +1323,7 @@
       "description": "Organization. Prosecuting office in State of Utah v. Tyler Robinson; the filing says it was also awaiting the lab files.",
       "related_artifacts": [],
       "related_claims": [
-        "C-10329"
+        "C-7723"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1335,8 +1335,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-2609",
-      "ref": "C-2609",
+      "@id": "C-7717",
+      "ref": "C-7717",
       "label": "Per Filing Host Reads, Defense Moves to Continue Preliminary Hearing",
       "claim": "Per the defense filing the host shows and reads, the defense seeks to continue the preliminary hearing currently scheduled for May 2026.",
       "anchored_artifacts": [
@@ -1349,8 +1349,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2610",
-      "ref": "C-2610",
+      "@id": "C-7731",
+      "ref": "C-7731",
       "label": "ATF Unable to Identify Bullet to Rifle",
       "claim": "Per the defense filing the host reads, the ATF was unable to identify the bullet recovered at autopsy to the rifle allegedly tied to Tyler Robinson, according to an ATF summary report provided to the defense.",
       "anchored_artifacts": [
@@ -1368,8 +1368,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2611",
-      "ref": "C-2611",
+      "@id": "C-7734",
+      "ref": "C-7734",
       "label": "Per Filing Host Reads, FBI Conducting Second Comparative Bullet and Bullet Lead Analyses",
       "claim": "Per the defense filing the host reads, the state has indicated that the FBI is in the process of conducting a second comparative bullet analysis and a bullet lead analysis, neither of which is yet complete.",
       "anchored_artifacts": [
@@ -1384,8 +1384,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2612",
-      "ref": "C-2612",
+      "@id": "C-7738",
+      "ref": "C-7738",
       "label": "News Clip Host Plays Says FBI Discontinued Comparative Bullet Lead Analysis in 2005",
       "claim": "In a local Atlanta news clip the host plays, a reporter says the FBI admitted using comparative bullet lead analysis in 2,500 cases and discontinued the practice in 2005 after acknowledging that neither scientists nor manufacturers can definitively attest to the significance of a match; the host says the technique lacked scientific, statistical and interpretive validity.",
       "anchored_artifacts": [
@@ -1400,8 +1400,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2613",
-      "ref": "C-2613",
+      "@id": "C-7726",
+      "ref": "C-7726",
       "label": "Autopsy Report Delayed to Defense",
       "claim": "Per the defense filing the host reads, the autopsy report, completed September 16, 2025, was not provided to the defense until November 13, 2025.",
       "anchored_artifacts": [
@@ -1416,8 +1416,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2614",
-      "ref": "C-2614",
+      "@id": "C-7728",
+      "ref": "C-7728",
       "label": "Per Filing Host Reads, Autopsy Photographs Delayed to Defense",
       "claim": "Per the defense filing the host reads, autopsy photographs taken on September 10, 2025 were not produced to the defense until March 18, 2026.",
       "anchored_artifacts": [
@@ -1432,8 +1432,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2615",
-      "ref": "C-2615",
+      "@id": "C-7721",
+      "ref": "C-7721",
       "label": "Per Filing Host Reads, ~600,000 Files / ~12 TB Dumped at March 12, 2026 Conference",
       "claim": "Per the defense filing the host reads, at the March 12, 2026 conference the state provided the defense with a hard drive containing approximately 12 terabytes of data and over 600,000 files.",
       "anchored_artifacts": [
@@ -1448,8 +1448,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2616",
-      "ref": "C-2616",
+      "@id": "C-7720",
+      "ref": "C-7720",
       "label": "Per Filing Host Reads, Prior Discovery Volume Before March 12, 2026 Conference",
       "claim": "Per the defense filing the host reads, prior to the March 12, 2026 conference the defense had received approximately 20,000 files (excluding digital electronic discovery), 61,500 pages, 31 hours of audio, more than 5,000 video files, and more than 700 hours of video.",
       "anchored_artifacts": [
@@ -1464,8 +1464,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2617",
-      "ref": "C-2617",
+      "@id": "C-7718",
+      "ref": "C-7718",
       "label": "State's Preliminary Hearing Evidence Through Three Law Enforcement Witnesses",
       "claim": "Per the defense filing the host reads, the state intends to present at the preliminary hearing, through three identified law enforcement witnesses, conclusory forensic DNA and ballistics reports authored by the FBI and the ATF, phone and social media data, testimony by law enforcement officials about the crime scene and search locations, and testimony by Mr. Robinson's parents and roommate.",
       "anchored_artifacts": [
@@ -1481,8 +1481,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2618",
-      "ref": "C-2618",
+      "@id": "C-7705",
+      "ref": "C-7705",
       "label": "Andrew Kolvet Tweet: Coroner Found Bullet Beneath Skin",
       "claim": "In a September 20, 2025 X/Twitter post, Andrew Kolvet wrote that the coroner found the bullet just beneath Charlie Kirk's skin.",
       "anchored_artifacts": [
@@ -1501,8 +1501,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2619",
-      "ref": "C-2619",
+      "@id": "C-7706",
+      "ref": "C-7706",
       "label": "Andrew Kolvet Tweet: \"Man of Steel\" Surgeon Quote",
       "claim": "In the same September 20, 2025 post, Andrew Kolvet attributed a quote to a surgeon who worked on Charlie Kirk at the hospital stating that Kirk's bone density was so healthy that he was \"like the man of steel\" and that it was a miracle no one behind Kirk was killed.",
       "anchored_artifacts": [
@@ -1521,8 +1521,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2620",
-      "ref": "C-2620",
+      "@id": "C-7749",
+      "ref": "C-7749",
       "label": "Viewer Email Host Reads Says Long Beach Airport Is Near Joint Forces Air Base",
       "claim": "Per an email from a viewer that the host reads, Long Beach Airport is approximately a 10–15 minute drive from a Joint Forces Air Base in Los Alamitos, CA, which is also used by the California National Guard and hosts annual air shows.",
       "anchored_artifacts": [
@@ -1537,8 +1537,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2621",
-      "ref": "C-2621",
+      "@id": "C-7752",
+      "ref": "C-7752",
       "label": "Kim Haven Asserts Doctors Do Not Publicly Announce Deaths",
       "claim": "Kim Haven, identifying as a nurse, asserted in a YouTube comment that doctors do not come out and publicly announce a patient's death, but instead pull the next of kin into a separate room.",
       "anchored_artifacts": [
@@ -1551,8 +1551,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2622",
-      "ref": "C-2622",
+      "@id": "C-7754",
+      "ref": "C-7754",
       "label": "Kim Haven Asserts Frank Turek Is \"Absolutely a Liar\"",
       "claim": "Kim Haven asserted in her YouTube comment that Frank Turek is \"absolutely a liar\" regarding his hospital account.",
       "anchored_artifacts": [
@@ -1568,8 +1568,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2623",
-      "ref": "C-2623",
+      "@id": "C-7755",
+      "ref": "C-7755",
       "label": "Host Concurs With Kim Haven's Assessment",
       "claim": "The host says Frank Turek's account of the surgeon announcing \"He's dead. He's dead. I need to speak to Erika\" did not ring true, citing her producer Ashley's questions about how the surgeon knew Erika's name within 30 minutes and saying it feels like someone writing a script.",
       "anchored_artifacts": [
@@ -1587,8 +1587,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2624",
-      "ref": "C-2624",
+      "@id": "C-7736",
+      "ref": "C-7736",
       "label": "Host Says FBI CBLA Revival Is Corrupt",
       "claim": "The host says the FBI's planned use of comparative bullet lead analysis – a technique discontinued in 2005 – in the Tyler Robinson case shows the feds are going to make the bullet fit no matter what, and that they have been corrupt since the beginning.",
       "anchored_artifacts": [
@@ -1607,8 +1607,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2625",
-      "ref": "C-2625",
+      "@id": "C-7702",
+      "ref": "C-7702",
       "label": "Host Disagrees With \"Man of Steel\" Medical Framing",
       "claim": "The host says the \"man of steel\" framing in Andrew Kolvet's September 20, 2025 tweet came from Erika Kirk saying Charlie ate healthy and had a neck like Superman, calls it girly and emotional, and says it is not how serious trauma surgeons communicate.",
       "anchored_artifacts": [
@@ -1629,8 +1629,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3750",
-      "ref": "C-3750",
+      "@id": "C-7693",
+      "ref": "C-7693",
       "label": "Host says the scene was paved over quickly to protect the pass-through narrative",
       "claim": "The host says she believes the shooting scene was paved over so quickly because the narrative was supposed to be that the .30-06 round passed through Charlie Kirk, which she says it did not.",
       "anchored_artifacts": [],
@@ -1646,8 +1646,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10299",
-      "ref": "C-10299",
+      "@id": "C-7685",
+      "ref": "C-7685",
       "label": "Kirk shot at 12:23 p.m. Mountain Time on September 10",
       "claim": "The host says Charlie Kirk was shot on September 10 at 12:23 p.m. Mountain Time.",
       "anchored_artifacts": [],
@@ -1664,8 +1664,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10300",
-      "ref": "C-10300",
+      "@id": "C-7686",
+      "ref": "C-7686",
       "label": "Farnsworth grabbed Kirk's chair and removed the SD card minutes after the shot",
       "claim": "The host says that, a mere four minutes she thinks, after Charlie Kirk was carried to the SUV, Terryl Farnsworth came down from his recording position, took the chair Kirk had been sitting in, stood on it and removed the SD card from the camera behind Kirk's head.",
       "anchored_artifacts": [],
@@ -1680,7 +1680,7 @@
       "investigative_direction": "Obtain scene video showing Farnsworth's movements and the chain of custody of the SD card from that camera.",
       "transcript_snippet": "He returns to the crime scene and violates it. More specifically, he grabs the very chair that Charlie Kirk had just been sitting in",
       "supports_claim_refs": [
-        "C-6475"
+        "C-1355"
       ],
       "mentions_person_refs": [
         "N-261",
@@ -1689,8 +1689,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10301",
-      "ref": "C-10301",
+      "@id": "C-7687",
+      "ref": "C-7687",
       "label": "Farnsworth's AV company has worked TPUSA events for over a decade",
       "claim": "The host says Farnsworth runs the audio-visual company Turning Point employs, which she says it may have used for over a decade for its big events, and that he never goes to these college events but, he says, they were trying something different that day.",
       "anchored_artifacts": [],
@@ -1709,8 +1709,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10302",
-      "ref": "C-10302",
+      "@id": "C-7688",
+      "ref": "C-7688",
       "label": "Host says Kolvet's theft explanation for the SD card fails because the camera was left",
       "claim": "The host says Andrew Kolvet later explained that Farnsworth acted heroically because students were going to steal items from the table, and she says this is false because Farnsworth left the expensive camera and took only the roughly $15 SD card.",
       "anchored_artifacts": [],
@@ -1725,7 +1725,7 @@
       "investigative_direction": "Compare Kolvet's public explanation with the scene video showing which items were on the table and what was taken.",
       "transcript_snippet": "Yeah, we we know Andrew Kolvet lying because Tarro did not take the expensive camera.",
       "supports_claim_refs": [
-        "C-6480"
+        "C-1361"
       ],
       "mentions_person_refs": [
         "N-14",
@@ -1734,8 +1734,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10303",
-      "ref": "C-10303",
+      "@id": "C-7689",
+      "ref": "C-7689",
       "label": "Host called Farnsworth on September 17, one week after the shooting",
       "claim": "The host says she decided on September 17, exactly one week after the assassination, to call Farnsworth.",
       "anchored_artifacts": [],
@@ -1753,8 +1753,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10304",
-      "ref": "C-10304",
+      "@id": "C-7690",
+      "ref": "C-7690",
       "label": "Host says Farnsworth stammered and said he took the footage to protect Erika",
       "claim": "The host says Farnsworth was exceedingly nervous, stammered through nonsensical excuses, and said he wanted to secure the footage so Erika would not see Charlie being shot in 4K, which the host calls a lie because the footage was already circulating and a closer camera would have captured more.",
       "anchored_artifacts": [],
@@ -1775,8 +1775,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10305",
-      "ref": "C-10305",
+      "@id": "C-7691",
+      "ref": "C-7691",
       "label": "Host says the back-camera footage showed almost no blood",
       "claim": "The host says that once she saw the footage from the camera behind Charlie it had no blood, only a drop on his back as he went down, which she calls the mildest shot of all.",
       "anchored_artifacts": [],
@@ -1796,8 +1796,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10306",
-      "ref": "C-10306",
+      "@id": "C-7692",
+      "ref": "C-7692",
       "label": "Host speculates the footage was hidden because it showed the bullet did not exit",
       "claim": "The host says she speculates the SD card was removed to hide that the bullet did not go through Charlie, which she believes was meant to remain a state secret, because the public had assumed a .30-06 from about 150 yards had gone through.",
       "anchored_artifacts": [],
@@ -1818,8 +1818,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10307",
-      "ref": "C-10307",
+      "@id": "C-7694",
+      "ref": "C-7694",
       "label": "Farnsworth showed the host the back footage by FaceTime on September 19",
       "claim": "The host says that after she kept pressing him, and after he gave excuses such as fear that Google might hack him and not knowing how to send files, Farnsworth showed her the back footage by FaceTime on September 19.",
       "anchored_artifacts": [
@@ -1841,8 +1841,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10308",
-      "ref": "C-10308",
+      "@id": "C-7695",
+      "ref": "C-7695",
       "label": "Host recorded the FaceTime and told viewers the bullet did not go through",
       "claim": "The host says she recorded the September 19 FaceTime call with Farnsworth because his energy made her uncomfortable, and that later that day she told her audience the bullet did not go through.",
       "anchored_artifacts": [
@@ -1864,8 +1864,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10309",
-      "ref": "C-10309",
+      "@id": "C-7696",
+      "ref": "C-7696",
       "label": "Justin Streiff repeatedly asked the host's husband whether she recorded the FaceTime",
       "claim": "The host says that on September 20 Justin Streiff contacted her husband several times asking whether she had recorded the FaceTime call with Farnsworth, and she reads this as a sign of panic at Turning Point USA.",
       "anchored_artifacts": [
@@ -1889,8 +1889,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10310",
-      "ref": "C-10310",
+      "@id": "C-7697",
+      "ref": "C-7697",
       "label": "Host says she told her husband not to answer the question",
       "claim": "The host says her husband told her Justin Streiff was urgently asking whether she had recorded something, and she told him not to answer because she found the question itself weird.",
       "anchored_artifacts": [],
@@ -1911,8 +1911,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10311",
-      "ref": "C-10311",
+      "@id": "C-7698",
+      "ref": "C-7698",
       "label": "Host Says the FBI Was on the Phone With Streiff and Frank Carni About the Back Footage",
       "claim": "The host says she learned that the FBI was on the phone with Justin Streiff and Frank Carni that day and that they were apparently discussing with the feds whether she had recorded the footage.",
       "anchored_artifacts": [],
@@ -1933,8 +1933,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10312",
-      "ref": "C-10312",
+      "@id": "C-7699",
+      "ref": "C-7699",
       "label": "Host says September 20 was the day of Charlie's private burial",
       "claim": "The host says September 20 was the exact day of Charlie Kirk's private burial and that Erika was highly concerned about the back footage that day rather than attending only to the funeral.",
       "anchored_artifacts": [],
@@ -1954,8 +1954,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10313",
-      "ref": "C-10313",
+      "@id": "C-7700",
+      "ref": "C-7700",
       "label": "Host says Erika and Andrew called Dr. Lee Trotter on the day of the funeral",
       "claim": "The host says that on the day of Charlie's funeral Erika and Andrew Kolvet stepped aside and conferenced the surgeon, Dr. Lee Trotter, to craft a response about why the bullet had not gone through.",
       "anchored_artifacts": [],
@@ -1977,8 +1977,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10314",
-      "ref": "C-10314",
+      "@id": "C-7701",
+      "ref": "C-7701",
       "label": "Host says Erika told her Andrew and the surgeon went rogue",
       "claim": "The host says Erika Kirk later insisted to her face that Andrew went rogue that day and that the surgeon went rogue too, and the host says she did not believe it.",
       "anchored_artifacts": [],
@@ -1999,8 +1999,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10315",
-      "ref": "C-10315",
+      "@id": "C-7703",
+      "ref": "C-7703",
       "label": "Host says Dr. Trotter did not violate HIPAA and could sue for defamation",
       "claim": "The host says Dr. Lee Trotter did not violate HIPAA and that, in her personal opinion, he could sue Erika Kirk for defamation over the claim that he did.",
       "anchored_artifacts": [],
@@ -2020,8 +2020,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10316",
-      "ref": "C-10316",
+      "@id": "C-7704",
+      "ref": "C-7704",
       "label": "Host says Erika was on the call and said Charlie ate healthy and had a neck like Superman",
       "claim": "The host says Erika Kirk was on the phone with Andrew asking the doctor what they could tell the public, and that it was Erika who said Charlie ate healthy and had a neck like Superman.",
       "anchored_artifacts": [],
@@ -2043,8 +2043,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10317",
-      "ref": "C-10317",
+      "@id": "C-7707",
+      "ref": "C-7707",
       "label": "Host says Kolvet told her on September 23 the bullet ran from C2 to C6 and shattered in the thorax",
       "claim": "The host says that on September 23 Andrew Kolvet gave her more detail on the man-of-steel tweet, telling her the bullet traveled from C2 down to C6 and then into Charlie's thorax where it shattered, and that she took notes and would testify to this under oath.",
       "anchored_artifacts": [
@@ -2067,8 +2067,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10318",
-      "ref": "C-10318",
+      "@id": "C-7708",
+      "ref": "C-7708",
       "label": "Host Says the Official Bullet Account Kept Changing",
       "claim": "The host says the account moved from the bullet found beneath the skin, to a bullet fragmented in the thorax, to Brian Harpole saying it fragmented in the stomach or thorax, and she reads these as adjustments because the original story was failing.",
       "anchored_artifacts": [],
@@ -2088,8 +2088,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10319",
-      "ref": "C-10319",
+      "@id": "C-7709",
+      "ref": "C-7709",
       "label": "Host theorizes the feds pivoted after the back footage ruined their plan",
       "claim": "The host says her best guess is that the feds realized their initial plan was ruined by the back footage and had to pivot, first sloppily within 24 hours.",
       "anchored_artifacts": [],
@@ -2109,8 +2109,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10320",
-      "ref": "C-10320",
+      "@id": "C-7710",
+      "ref": "C-7710",
       "label": "Host's source says the family heirloom gun takes special bullets",
       "claim": "The host says a source close to the Robinson family told her the heirloom gun takes special bullets and that the prosecution could not connect the bullets to that gun.",
       "anchored_artifacts": [],
@@ -2130,8 +2130,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10321",
-      "ref": "C-10321",
+      "@id": "C-7711",
+      "ref": "C-7711",
       "label": "Host says there was no reported GSR test 33 hours later",
       "claim": "The host says the media is not reporting a basic gunshot residue test and asks whether one was done 33 hours later to see whether Tyler Robinson had fired a weapon, saying the prosecution cannot even prove the gun was fired.",
       "anchored_artifacts": [],
@@ -2151,8 +2151,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10322",
-      "ref": "C-10322",
+      "@id": "C-7712",
+      "ref": "C-7712",
       "label": "Host says the bomb dogs went into the field and did not find the weapon",
       "claim": "The host says bomb dogs were taken into the field where the weapon was later found, that she broke that story, and that they did not find the weapon.",
       "anchored_artifacts": [],
@@ -2171,8 +2171,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10323",
-      "ref": "C-10323",
+      "@id": "C-7713",
+      "ref": "C-7713",
       "label": "Host says her sources believe the feds planted an unfired gun",
       "claim": "The host says the gun eventually found was not fired on September 10 and that her sources say they are convinced the feds planted it when they arrived.",
       "anchored_artifacts": [],
@@ -2193,8 +2193,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10324",
-      "ref": "C-10324",
+      "@id": "C-7714",
+      "ref": "C-7714",
       "label": "Host says six sets of prints were found on the gun",
       "claim": "The host says critics leave out that a total of six sets of prints were found on the gun, that Robinson's prints on his own gun are not shocking, and that the real question is who placed the gun in the field unfired.",
       "anchored_artifacts": [],
@@ -2209,7 +2209,7 @@
       "investigative_direction": "Obtain the latent print report identifying the six sets and their donors.",
       "transcript_snippet": "is that they found a total of six sets of prints on the gun.",
       "supports_claim_refs": [
-        "C-1283"
+        "C-756"
       ],
       "mentions_person_refs": [
         "N-40"
@@ -2217,8 +2217,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10325",
-      "ref": "C-10325",
+      "@id": "C-7715",
+      "ref": "C-7715",
       "label": "Host says SWAT, police and UVU sources say the feds are part of a conspiracy",
       "claim": "The host says she has spoken to SWAT, local police departments, sources close to the accused, UVU students and people who work at UVU, and that everyone says the feds are part of a broader conspiracy.",
       "anchored_artifacts": [],
@@ -2238,8 +2238,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10326",
-      "ref": "C-10326",
+      "@id": "C-7716",
+      "ref": "C-7716",
       "label": "Host rejects the claim that Robinson confessed, citing the continuance request",
       "claim": "The host says the repeated claim that Tyler Robinson confessed can be dismissed because a man who confessed would not ask for a continuance to gather evidence.",
       "anchored_artifacts": [
@@ -2260,8 +2260,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10327",
-      "ref": "C-10327",
+      "@id": "C-7719",
+      "ref": "C-7719",
       "label": "Host expects Matt Robinson to be asked to identify the gun",
       "claim": "The host says Matt Robinson is named as a witness and will be compelled to answer questions under oath, likely about the gun he gave Tyler, which she says is not the same as testifying for the prosecution.",
       "anchored_artifacts": [
@@ -2283,8 +2283,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10328",
-      "ref": "C-10328",
+      "@id": "C-7722",
+      "ref": "C-7722",
       "label": "Defense says it has requested forensic case files since September 30",
       "claim": "The host reads that Robinson has not received the forensic case files and the data underlying the lab reports, and that the defense has been requesting them since September 30.",
       "anchored_artifacts": [
@@ -2306,8 +2306,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10329",
-      "ref": "C-10329",
+      "@id": "C-7723",
+      "ref": "C-7723",
       "label": "Filing says the county attorney's office was also awaiting the lab files",
       "claim": "The host reads the filing as saying that at the January hearing the Utah County Attorney's Office informed the defense it too was awaiting the lab files, and that the defense memorialized this in a February 3 letter.",
       "anchored_artifacts": [
@@ -2329,8 +2329,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10330",
-      "ref": "C-10330",
+      "@id": "C-7724",
+      "ref": "C-7724",
       "label": "Judge said on December 11 the May hearing date was not set in stone",
       "claim": "The host reads the filing as quoting the judge on December 11 as finding no prejudice in setting the preliminary hearing date and saying it is not set in stone and can certainly be moved.",
       "anchored_artifacts": [
@@ -2351,8 +2351,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10331",
-      "ref": "C-10331",
+      "@id": "C-7725",
+      "ref": "C-7725",
       "label": "Filing lists outstanding FBI and ATF case files and protocols",
       "claim": "The host reads the filing as listing outstanding materials, including validation studies, electronic data files, the case file for the comparative bullet analysis, the bullet lead analysis still in progress at the FBI, and the ATF comparative analysis case file and protocols.",
       "anchored_artifacts": [
@@ -2375,8 +2375,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10332",
-      "ref": "C-10332",
+      "@id": "C-7727",
+      "ref": "C-7727",
       "label": "Filing says the state will offer the autopsy report without expert testimony",
       "claim": "The host reads the filing as saying that on March 12 the state indicated it intended to introduce the autopsy report into evidence without any supporting expert testimony.",
       "anchored_artifacts": [
@@ -2398,8 +2398,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10333",
-      "ref": "C-10333",
+      "@id": "C-7729",
+      "ref": "C-7729",
       "label": "Host says Erika said on Fox News she wanted the case to move fast",
       "claim": "The host says Erika Kirk said on Fox News that she just wants the case to be fast, and the host frames the discovery delay as relying on the widow's wish for speed.",
       "anchored_artifacts": [
@@ -2420,8 +2420,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10334",
-      "ref": "C-10334",
+      "@id": "C-7730",
+      "ref": "C-7730",
       "label": "Filing says DNA reports show mixtures of up to five or more individuals",
       "claim": "The host reads the filing as saying the FBI and ATF DNA reports recovered minute quantities of DNA on various items that the reports opine are mixtures of up to five or more individuals, and that the state will offer these without supporting expert testimony.",
       "anchored_artifacts": [
@@ -2443,8 +2443,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10335",
-      "ref": "C-10335",
+      "@id": "C-7732",
+      "ref": "C-7732",
       "label": "Filing says the state will not offer the ATF report but the defense may call the analyst",
       "claim": "The host reads the filing as saying the ATF summary report found the autopsy bullet could not be identified to the rifle allegedly tied to Robinson, that the state has not indicated it will produce the report at the hearing, and that the defense may call the ATF analyst as exculpatory evidence.",
       "anchored_artifacts": [
@@ -2461,7 +2461,7 @@
       "investigative_direction": "Obtain the ATF summary report and the filed motion at the firearm evidence paragraph.",
       "transcript_snippet": "Although the state has not indicated an intent to produce this report at the preliminary hearing, the defense may very well decide to offer the testimony of the ATF firearm analyst as exculpatory evidence.",
       "supports_claim_refs": [
-        "C-2610"
+        "C-7731"
       ],
       "mentions_person_refs": [
         "N-40"
@@ -2469,8 +2469,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10336",
-      "ref": "C-10336",
+      "@id": "C-7733",
+      "ref": "C-7733",
       "label": "Host says the state told the defense it would not raise the ATF finding",
       "claim": "The host says the state told the defense it would not even bring up the ATF result and that the defense should take its word, and she says that is not good enough because the result is exculpatory.",
       "anchored_artifacts": [
@@ -2492,8 +2492,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10337",
-      "ref": "C-10337",
+      "@id": "C-7735",
+      "ref": "C-7735",
       "label": "Host describes bullet lead analysis as FBI technique used from the 1980s to 2004",
       "claim": "The host says the compositional bullet lead analysis examined trace elements such as copper and arsenic in lead to link crime scene bullets to suspects, was used by the FBI from the 1980s until 2004, and was abandoned in 2005 for flawed scientific, statistical and interpretive validity.",
       "anchored_artifacts": [],
@@ -2507,13 +2507,13 @@
       "investigative_direction": "Cross-check with the 2004 National Academy of Sciences report on bullet lead analysis and the FBI's 2005 announcement.",
       "transcript_snippet": "analyzed trace elements, uh copper, arsenic in lead to link crime scene bullets to suspects. It was primarily used by the FBI from the 1980s until 2004",
       "supports_claim_refs": [
-        "C-2612"
+        "C-7738"
       ]
     },
     {
       "@type": "Claim",
-      "@id": "C-10338",
-      "ref": "C-10338",
+      "@id": "C-7737",
+      "ref": "C-7737",
       "label": "Host says bullet lead analysis put wrong people in prison",
       "claim": "The host says that, as her colleague found, people have been freed because of how flawed the technique was, and that it put the wrong people in prison until nobody would stand behind it.",
       "anchored_artifacts": [],
@@ -2529,8 +2529,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10339",
-      "ref": "C-10339",
+      "@id": "C-7739",
+      "ref": "C-7739",
       "label": "Clip says Norma Jean Ates was shot seven times in 1991 and her husband later convicted",
       "claim": "The Atlanta news clip says Norma Jean Ates was found shot to death seven times in 1991 in a home set on fire, that her husband Jimmy Ates was convicted six years later partly on bullet lead evidence from a bullet in his vehicle, and that he was released in 2021.",
       "anchored_artifacts": [
@@ -2548,8 +2548,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10340",
-      "ref": "C-10340",
+      "@id": "C-7740",
+      "ref": "C-7740",
       "label": "Filing argues hearsay summaries violate due process and other amendments",
       "claim": "The host reads the filing as asserting that in a capital case the state cannot, consistent with due process and the Fourth and Eighth Amendments and separation of powers, rely on hearsay summary reports, and she says the defense has repeatedly asked for the underlying science.",
       "anchored_artifacts": [
@@ -2571,8 +2571,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10341",
-      "ref": "C-10341",
+      "@id": "C-7741",
+      "ref": "C-7741",
       "label": "Filing says the delay does not fall on the defense",
       "claim": "The host reads the filing as stating the defense did not contribute to the delay, has diligently reviewed discovery, and has raised its concerns verbally and in writing over several months.",
       "anchored_artifacts": [
@@ -2593,8 +2593,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10342",
-      "ref": "C-10342",
+      "@id": "C-7742",
+      "ref": "C-7742",
       "label": "Filing asks for production by April 17, 2026 or vacatur of the hearing date",
       "claim": "The host reads the filing as asking that, unless the requested materials are produced by April 17, 2026, the hearing date be vacated, and that if they are produced a hearing be set about six months out; the filing also calls the unproduced reports hearsay under the Utah rule of evidence.",
       "anchored_artifacts": [
@@ -2616,8 +2616,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10343",
-      "ref": "C-10343",
+      "@id": "C-7743",
+      "ref": "C-7743",
       "label": "Host says the state's text messages came as PDFs without timestamps or extraction data",
       "claim": "The host says the text messages attributed to Robinson were given as a PDF without the times they came in or how they were pulled from the server, and that the defense is owed the means by which they were obtained.",
       "anchored_artifacts": [
@@ -2639,8 +2639,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10344",
-      "ref": "C-10344",
+      "@id": "C-7744",
+      "ref": "C-7744",
       "label": "Host says she has spoken with former TPUSA employees about the lies they were told",
       "claim": "The host says she has communicated with former Turning Point USA employees about the lies they were told and the way the organization has behaved and edited its story.",
       "anchored_artifacts": [],
@@ -2659,8 +2659,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10345",
-      "ref": "C-10345",
+      "@id": "C-7745",
+      "ref": "C-7745",
       "label": "Host says a viewer emailed in response to her APB on Erika's July 14 flight",
       "claim": "The host says she received an email from a woman responding to the APB she put out the previous day asking for information on Erika's July 14 flight.",
       "anchored_artifacts": [
@@ -2682,8 +2682,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10346",
-      "ref": "C-10346",
+      "@id": "C-7746",
+      "ref": "C-7746",
       "label": "Host Says Erika Flew to Long Beach on July 14 with Locastro, Niekerk and Barcelo",
       "claim": "The host says Erika's July 14 flight was taken with Katherine Locastro, Derek Niekerk and Jonathan Barcelo, and that it goes to Long Beach.",
       "anchored_artifacts": [
@@ -2707,8 +2707,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10347",
-      "ref": "C-10347",
+      "@id": "C-7747",
+      "ref": "C-7747",
       "label": "Host dates the decision to kill Charlie to between June and July 13",
       "claim": "The host says she feels strongly that between June and July 13 a decision was made to kill Charlie, on the basis of the Iran war and of Tucker Carlson's remarks on stage questioning Netanyahu's network and the Epstein files.",
       "anchored_artifacts": [],
@@ -2730,8 +2730,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10348",
-      "ref": "C-10348",
+      "@id": "C-7748",
+      "ref": "C-7748",
       "label": "Emailer says the Los Alamitos base is discreet and used by officials",
       "claim": "The emailer says the Joint Forces Air Base entrance sits in a housing subdivision, away from heavy traffic, so it would be easy to move in and out unnoticed, that US government officials fly in and out when visiting Southern California, and that the flight from Phoenix is just over an hour.",
       "anchored_artifacts": [
@@ -2749,8 +2749,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10349",
-      "ref": "C-10349",
+      "@id": "C-7750",
+      "ref": "C-7750",
       "label": "Host says Charlie carefully explained to her that he was going to die",
       "claim": "The host says that the moment Charlie was killed she knew he was betrayed, and that this sense may have come from his having carefully explained to her that he was going to die.",
       "anchored_artifacts": [],
@@ -2770,8 +2770,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10350",
-      "ref": "C-10350",
+      "@id": "C-7751",
+      "ref": "C-7751",
       "label": "Host says she maintains Charlie went to Utah Valley first, then Timpanogos",
       "claim": "The host says Elizabeth Lane was discussing the other hospital and a strange lockdown, that she has maintained from the beginning that there was more evidence Charlie was at Utah Valley initially and then transported to Timpanogos, and that she will give an update the next day.",
       "anchored_artifacts": [],
@@ -2793,8 +2793,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10351",
-      "ref": "C-10351",
+      "@id": "C-7753",
+      "ref": "C-7753",
       "label": "Host Relays Producer's Question of How the Surgeon Knew Erika's Name",
       "claim": "The host relays her producer Ashley's point that, in Frank Turek's telling, the surgeon's next sentence was 'He's dead. I need to talk to Erika,' about 30 minutes after Charlie was rushed to the hospital, and Ashley's question of how the surgeon knew Erika was Charlie's wife's name.",
       "anchored_artifacts": [
@@ -2815,8 +2815,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10352",
-      "ref": "C-10352",
+      "@id": "C-7756",
+      "ref": "C-7756",
       "label": "Host says Erika told her she had no part in the doctor discussion",
       "claim": "The host says that, regarding the surgeon's alleged HIPAA violation, Erika told her she had no part in it.",
       "anchored_artifacts": [],
@@ -2830,7 +2830,7 @@
       "investigative_direction": "Obtain the host's notes of the conversation with Erika Kirk.",
       "transcript_snippet": "I guess they didn't technically tweet that. She told me that. Um but that she didn't she had no part in it.",
       "supports_claim_refs": [
-        "C-10314"
+        "C-7701"
       ],
       "mentions_person_refs": [
         "N-2",
@@ -2840,8 +2840,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-10353",
-      "ref": "C-10353",
+      "@id": "C-7757",
+      "ref": "C-7757",
       "label": "Host says that under a cover-up the TPUSA figures are tied together and one takes the blame",
       "claim": "The host says that if the cover-up theory is correct the people involved are tied to each other, as Baron Coleman explains, and whoever has to be the bad guy that day takes the hits, for example making Andrew look like a dunce.",
       "anchored_artifacts": [],

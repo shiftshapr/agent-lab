@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (reintro-ep066): N-10653
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10c): C-8317–C-8375
+  - Claim Range: C-5906–C-5978
   - (see registers)
 
 # Episode Analysis: Bride of Charlie – Monument Episode 66
@@ -35,7 +35,6 @@
 **Episode 66 Ledger Summary**
 
 - Artifact Families Introduced: A-1704, A-1705, A-1706, A-1707, A-1708, A-1709, A-1710, A-1711, A-1712, A-1713
-- Claim Range: C-2239–C-2252
   - New Nodes Introduced: N-512, N-513, N-514, N-515, N-516, N-517, N-518, N-10466, N-10468, N-10469
   - Reused Nodes Appearing: N-9, N-36, N-40, N-57, N-93, N-99, N-722, N-10000, N-10002, N-10015, N-10026, N-10059, N-10070, N-10209, N-10324, N-10439, N-10492, N-10869, N-10899, N-11014, N-11035, N-10467, N-11182, N-11183
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
@@ -64,7 +63,7 @@ Video Timestamp: 00:02:51–00:05:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2239, C-2240, N-2, N-512, N-513*
+*Related: C-5908, C-5909, N-2, N-512, N-513*
 
 ---
 
@@ -78,7 +77,7 @@ Video Timestamp: 00:10:38–00:11:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2241, C-2242, N-2, N-1*
+*Related: C-5916, C-5911, N-2, N-1*
 
 ---
 
@@ -92,7 +91,7 @@ Video Timestamp: 00:13:09–00:20:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2243, C-2244, C-2248, N-514, N-186, N-2*
+*Related: C-5917, C-5947, C-5951, N-514, N-186, N-2*
 
 ---
 
@@ -106,7 +105,7 @@ Video Timestamp: 00:26:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2244, N-514, N-2, A-1706.1*
+*Related: C-5947, N-514, N-2, A-1706.1*
 
 ---
 
@@ -120,7 +119,7 @@ Video Timestamp: 00:23:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2246, N-1, N-2, N-514*
+*Related: C-5936, N-1, N-2, N-514*
 
 ---
 
@@ -134,7 +133,7 @@ Video Timestamp: 00:24:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2247, N-515, N-2, N-10466, N-10469*
+*Related: C-5941, N-515, N-2, N-10466, N-10469*
 
 ---
 
@@ -148,7 +147,7 @@ Video Timestamp: 00:38:28–00:40:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2251, N-7, N-2*
+*Related: C-5959, N-7, N-2*
 
 ---
 
@@ -162,7 +161,7 @@ Video Timestamp: 00:47:00–00:48:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2252, N-516, N-85*
+*Related: C-5964, N-516, N-85*
 
 ---
 
@@ -176,7 +175,7 @@ Video Timestamp: 00:26:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: C-2249, N-10466, A-1709.1*
+*Related: C-5944, N-10466, A-1709.1*
 
 ---
 
@@ -190,7 +189,7 @@ Video Timestamp: 00:32:17–00:34:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2250, N-10467*
+*Related: C-5952, N-10467*
 
 ---
 
@@ -205,7 +204,7 @@ Video Timestamp: 00:24:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-8346, N-3, N-10466*
+*Related: C-5943, N-3, N-10466*
 
 ---
 
@@ -220,7 +219,7 @@ Video Timestamp: 00:54:09
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8369, C-8370, N-3, N-11014*
+*Related: C-5972, C-5973, N-3, N-11014*
 
 ---
 
@@ -236,7 +235,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1704.1, C-2239*
+*Related: A-1704.1, C-5908*
 
 ---
 
@@ -249,7 +248,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1704.1, C-2240*
+*Related: A-1704.1, C-5909*
 
 ---
 
@@ -262,7 +261,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1710.1, C-2251*
+*Related: A-1710.1, C-5959*
 
 ---
 
@@ -275,7 +274,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1706.1, C-2243, N-2*
+*Related: A-1706.1, C-5917, N-2*
 
 ---
 
@@ -288,7 +287,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1706.1, A-1707.1, A-1708.1, C-2243, C-2244, N-2*
+*Related: A-1706.1, A-1707.1, A-1708.1, C-5917, C-5947, N-2*
 
 ---
 
@@ -301,7 +300,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1709.1, C-2247, N-10467*
+*Related: A-1709.1, C-5941, N-10467*
 
 ---
 
@@ -314,7 +313,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1711.1, C-2252, N-85*
+*Related: A-1711.1, C-5964, N-85*
 
 ---
 
@@ -379,7 +378,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1709.1, A-1712.1, C-2247, C-2249, N-10469*
+*Related: A-1709.1, A-1712.1, C-5941, C-5944, N-10469*
 
 ---
 
@@ -392,7 +391,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1706.1, A-1709.1, A-1713.1, C-2243, C-2250, N-186, N-515, N-14*
+*Related: A-1706.1, A-1709.1, A-1713.1, C-5917, C-5952, N-186, N-515, N-14*
 
 ---
 
@@ -418,7 +417,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1709.1, C-2247, N-10466*
+*Related: A-1709.1, C-5941, N-10466*
 
 ---
 
@@ -426,7 +425,7 @@ Investigative Pressure: Medium
 
 Charlie Kirk; the host reports his Bible-verse texts, his mass attendance and Sheridan's donor hand-offs.
 
-*Related: C-8322, C-8323, C-8329, C-8332, C-8336, C-8339, C-8340, C-8341, C-8343, C-8349, C-8365*
+*Related: C-5914, C-5915, C-5923, C-5926, C-5931, C-5934, C-5935, C-5937, C-5939, C-5948, C-5968*
 
 ---
 
@@ -434,7 +433,7 @@ Charlie Kirk; the host reports his Bible-verse texts, his mass attendance and Sh
 
 Erika Kirk; the host and donor email describe her contact with the priest, donor and fundraisers, and the host questions her statements about Kolvet.
 
-*Related: C-8317, C-8319, C-8322, C-8323, C-8325, C-8329, C-8330, C-8331, C-8332, C-8339, C-8340, C-8344, C-8349, C-8350, C-8351, C-8352, C-8358, C-8366, C-8372, C-8373, C-8374*
+*Related: C-5906, C-5910, C-5914, C-5915, C-5919, C-5923, C-5924, C-5925, C-5926, C-5934, C-5935, C-5940, C-5948, C-5949, C-5950, C-5953, C-5960, C-5969, C-5975, C-5976, C-5977*
 
 ---
 
@@ -442,7 +441,7 @@ Erika Kirk; the host and donor email describe her contact with the priest, donor
 
 Host; speaks for herself throughout.
 
-*Related: A-2928.1, A-2929.1, C-8317, C-8318, C-8320, C-8321, C-8322, C-8323, C-8324, C-8327, C-8333, C-8334, C-8337, C-8338, C-8340, C-8345, C-8346, C-8347, C-8348, C-8354, C-8357, C-8358, C-8359, C-8360, C-8363, C-8364, C-8365, C-8366, C-8367, C-8368, C-8369, C-8370, C-8372, C-8374, C-8375*
+*Related: A-2928.1, A-2929.1, C-5906, C-5907, C-5912, C-5913, C-5914, C-5915, C-5918, C-5921, C-5928, C-5929, C-5932, C-5933, C-5935, C-5942, C-5943, C-5945, C-5946, C-5955, C-5958, C-5960, C-5961, C-5962, C-5966, C-5967, C-5968, C-5969, C-5970, C-5971, C-5972, C-5973, C-5975, C-5977, C-5978*
 
 ---
 
@@ -450,7 +449,7 @@ Host; speaks for herself throughout.
 
 Jeffrey Epstein; named in the host's remark about Pam Bondi.
 
-*Related: C-8362*
+*Related: C-5965*
 
 ---
 
@@ -458,7 +457,7 @@ Jeffrey Epstein; named in the host's remark about Pam Bondi.
 
 Benjamin Netanyahu; named in the host's remark about Hamas funding.
 
-*Related: C-8364*
+*Related: C-5967*
 
 ---
 
@@ -466,7 +465,7 @@ Benjamin Netanyahu; named in the host's remark about Hamas funding.
 
 Tyler Robinson; the suspect whom Erika Kirk forgave on stage.
 
-*Related: C-8358*
+*Related: C-5960*
 
 ---
 
@@ -474,7 +473,7 @@ Tyler Robinson; the suspect whom Erika Kirk forgave on stage.
 
 Patrick Bet-David; his podcast is the circle in which the donor networked.
 
-*Related: C-8341*
+*Related: C-5937*
 
 ---
 
@@ -482,7 +481,7 @@ Patrick Bet-David; his podcast is the circle in which the donor networked.
 
 Alex Jones; the host says Kolvet organized his involvement.
 
-*Related: C-8367*
+*Related: C-5970*
 
 ---
 
@@ -490,7 +489,7 @@ Alex Jones; the host says Kolvet organized his involvement.
 
 Alex Clark; interviewer whose interview with Kolvet the donor and the host dispute.
 
-*Related: C-8327, C-8372, C-8373*
+*Related: C-5921, C-5975, C-5976*
 
 ---
 
@@ -498,7 +497,7 @@ Alex Clark; interviewer whose interview with Kolvet the donor and the host dispu
 
 Rabbi Barclay (the transcript spells him Rabbi Barclay); the host says her debate with him and his interview shaped her view of Zionism.
 
-*Related: C-8375*
+*Related: C-5978*
 
 ---
 
@@ -506,7 +505,7 @@ Rabbi Barclay (the transcript spells him Rabbi Barclay); the host says her debat
 
 Turning Point USA; subject of the crisis PR, donor targeting and firing claims.
 
-*Related: C-8317, C-8318, C-8323, C-8326, C-8334, C-8347, C-8351, C-8359, C-8360*
+*Related: C-5906, C-5907, C-5915, C-5920, C-5929, C-5945, C-5950, C-5961, C-5962*
 
 ---
 
@@ -514,7 +513,7 @@ Turning Point USA; subject of the crisis PR, donor targeting and firing claims.
 
 Charlie Kirk Death and Memorial; the setting for the donor's account.
 
-*Related: C-8322, C-8328, C-8342, C-8345, C-8347*
+*Related: C-5914, C-5922, C-5938, C-5942, C-5945*
 
 ---
 
@@ -522,7 +521,7 @@ Charlie Kirk Death and Memorial; the setting for the donor's account.
 
 Mossad; named in the host's remark about CIA and Mossad training.
 
-*Related: C-8363*
+*Related: C-5966*
 
 ---
 
@@ -530,7 +529,7 @@ Mossad; named in the host's remark about CIA and Mossad training.
 
 Israel; context for the host's Zionism and Mar-a-Lago remarks.
 
-*Related: C-8364, C-8375*
+*Related: C-5967, C-5978*
 
 ---
 
@@ -538,7 +537,7 @@ Israel; context for the host's Zionism and Mar-a-Lago remarks.
 
 PBD Podcast; the donor networked with people orbiting it.
 
-*Related: C-8341*
+*Related: C-5937*
 
 ---
 
@@ -546,7 +545,7 @@ PBD Podcast; the donor networked with people orbiting it.
 
 Daily Mail; publisher of the grief-policing article.
 
-*Related: C-8319*
+*Related: C-5910*
 
 ---
 
@@ -554,7 +553,7 @@ Daily Mail; publisher of the grief-policing article.
 
 Existing topic reused: TPUSA Faith / Christian Zionist infiltration question.
 
-*Related: C-8353, C-8355*
+*Related: C-5954, C-5956*
 
 ---
 
@@ -562,7 +561,7 @@ Existing topic reused: TPUSA Faith / Christian Zionist infiltration question.
 
 Epstein Files Release Status; context for the host's Bondi remark.
 
-*Related: C-8362*
+*Related: C-5965*
 
 ---
 
@@ -570,7 +569,7 @@ Epstein Files Release Status; context for the host's Bondi remark.
 
 TPUSA Termination Cause Investigation; reused for the firing claims.
 
-*Related: C-8368*
+*Related: C-5971*
 
 ---
 
@@ -578,7 +577,7 @@ TPUSA Termination Cause Investigation; reused for the firing claims.
 
 TPUSA Post-Charlie Loyalty-Test Termination Pattern; reused for the loyalty-test claim.
 
-*Related: C-8359*
+*Related: C-5961*
 
 ---
 
@@ -586,7 +585,7 @@ TPUSA Post-Charlie Loyalty-Test Termination Pattern; reused for the loyalty-test
 
 Turning Point Geofencing / Show Faith by Works Link; reused for the memorial geofencing claim.
 
-*Related: C-8347*
+*Related: C-5945*
 
 ---
 
@@ -594,7 +593,7 @@ Turning Point Geofencing / Show Faith by Works Link; reused for the memorial geo
 
 Dominate 2.0 Mar-a-Lago Big Hitters Telegram Donor List; reused as the Mar-a-Lago gala context.
 
-*Related: C-8353, C-8354*
+*Related: C-5954, C-5955*
 
 ---
 
@@ -602,7 +601,7 @@ Dominate 2.0 Mar-a-Lago Big Hitters Telegram Donor List; reused as the Mar-a-Lag
 
 Paramount Tactical; the host says it is part of TPUSA's paid orbit.
 
-*Related: C-8318, C-8367*
+*Related: C-5907, C-5970*
 
 ---
 
@@ -610,7 +609,7 @@ Paramount Tactical; the host says it is part of TPUSA's paid orbit.
 
 TPUSA Post-Assassination Merchandise Revenue Claim; reused for the hat claims.
 
-*Related: A-2929.1, C-8369, C-8370*
+*Related: A-2929.1, C-5972, C-5973*
 
 ---
 
@@ -618,7 +617,7 @@ TPUSA Post-Assassination Merchandise Revenue Claim; reused for the hat claims.
 
 TPUSA Employee Purge and Leak Hunt; reused for the firing claims.
 
-*Related: C-8359, C-8368*
+*Related: C-5961, C-5971*
 
 ---
 
@@ -627,7 +626,7 @@ TPUSA Employee Purge and Leak Hunt; reused for the firing claims.
 Node Type: Organization
 The crisis PR team the host says Erika Kirk told her TPUSA hired because of Andrew Kolvet's mistakes.
 
-*Related: C-8317*
+*Related: C-5906*
 
 ---
 
@@ -636,13 +635,13 @@ The crisis PR team the host says Erika Kirk told her TPUSA hired because of Andr
 Node Type: Topic
 The dispute over Kolvet's interview with Alex Clark: the donor and the host call it untruthful, Erika Kirk allegedly said Kolvet went rogue, and a former staffer says he texted Erika during it.
 
-*Related: C-8327, C-8371, C-8372, C-8373*
+*Related: C-5921, C-5974, C-5975, C-5976*
 
 ---
 
 ## V. Claim Register
 
-**C-2239** Daily Mail article cites "experts" framing Kirk criticism as grief policing and sexism
+**C-5908** Daily Mail article cites "experts" framing Kirk criticism as grief policing and sexism
 
 Claim Timestamp: 00:02:51
 
@@ -654,7 +653,7 @@ Investigative Direction: Retrieve full Daily Mail article text and verify quotes
 
 ---
 
-**C-2240** Daily Mail Article Quotes Dr. Alan Wolfelt and Bidwell Smith Defending Kirk's Hyperfunctioning
+**C-5909** Daily Mail Article Quotes Dr. Alan Wolfelt and Bidwell Smith Defending Kirk's Hyperfunctioning
 
 Claim Timestamp: 00:04:11
 
@@ -666,7 +665,7 @@ Investigative Direction: Confirm expert credentials, prior publication record, a
 
 ---
 
-**C-2241** Erika Kirk's Speech Beside Charlie's Chair Directs Audience to TPUSA-Affiliated Sign-Ups
+**C-5916** Erika Kirk's Speech Beside Charlie's Chair Directs Audience to TPUSA-Affiliated Sign-Ups
 
 Claim Timestamp: 00:10:38
 
@@ -678,7 +677,7 @@ Investigative Direction: Obtain full memorial transcript and compare against TPU
 
 ---
 
-**C-2242** Host contrasts Vanessa Bryant's eulogy with Erika Kirk's memorial speech
+**C-5911** Host contrasts Vanessa Bryant's eulogy with Erika Kirk's memorial speech
 
 Claim Timestamp: 00:06:32
 
@@ -690,7 +689,7 @@ Investigative Direction: Obtain and compare the full transcripts of both memoria
 
 ---
 
-**C-2243** Catholic donor reports interaction with Father Blank and Stacy Sheridan
+**C-5917** Catholic donor reports interaction with Father Blank and Stacy Sheridan
 
 Claim Timestamp: 00:13:09
 
@@ -703,7 +702,7 @@ Investigative Direction: Verify the email's metadata, the donor's identity, the 
 
 ---
 
-**C-2244** Per Text the Host Shows, Father Blank Told the Donor Erika May Be at Monday Morning Mass
+**C-5947** Per Text the Host Shows, Father Blank Told the Donor Erika May Be at Monday Morning Mass
 
 Claim Timestamp: 00:26:40
 
@@ -715,7 +714,7 @@ Investigative Direction: Obtain phone records or screenshots of the actual text 
 
 ---
 
-**C-2245** Donor Tells Host She Gave Erika Kirk a Relic of St. Paul II
+**C-5927** Donor Tells Host She Gave Erika Kirk a Relic of St. Paul II
 
 Claim Timestamp: 00:18:53
 
@@ -727,7 +726,7 @@ Investigative Direction: Cross-check donor's account with Erika Kirk's public ac
 
 ---
 
-**C-2246** Host Says Charlie Kirk Sent Group-Chat Text Quoting 1 Corinthians 16:9 on September 9
+**C-5936** Host Says Charlie Kirk Sent Group-Chat Text Quoting 1 Corinthians 16:9 on September 9
 
 Claim Timestamp: 00:23:14
 
@@ -739,7 +738,7 @@ Investigative Direction: Obtain forensic verification of text message origin, ti
 
 ---
 
-**C-2247** Text Introducing Donor to TPUSA Staffer Cites $6M Memorial Cost Tied to Displaced RV Show at Cardinal Stadium
+**C-5941** Text Introducing Donor to TPUSA Staffer Cites $6M Memorial Cost Tied to Displaced RV Show at Cardinal Stadium
 
 Claim Timestamp: 00:24:55
 
@@ -752,7 +751,7 @@ Investigative Direction: Verify Cardinal Stadium event calendar for that weekend
 
 ---
 
-**C-2248** Father Blank responded to donor's thank-you note attributing connection to God
+**C-5951** Father Blank responded to donor's thank-you note attributing connection to God
 
 Claim Timestamp: 00:31:07
 
@@ -764,7 +763,7 @@ Investigative Direction: Verify text message metadata and check whether the prie
 
 ---
 
-**C-2249** Host claims Wayback Machine review found no RV show at Cardinal Stadium
+**C-5944** Host claims Wayback Machine review found no RV show at Cardinal Stadium
 
 Claim Timestamp: 00:25:29
 
@@ -776,7 +775,7 @@ Investigative Direction: Host must release or publish the Wayback Machine screen
 
 ---
 
-**C-2250** TPUSA top fundraiser pitched donor on Mar-a-Lago gala with ~$42M target
+**C-5952** TPUSA top fundraiser pitched donor on Mar-a-Lago gala with ~$42M target
 
 Claim Timestamp: 00:31:32
 
@@ -788,7 +787,7 @@ Investigative Direction: Identify the fundraiser; obtain the full text thread; c
 
 ---
 
-**C-2251** Frank Turek on-air clip attributes criticism of Kirk to satanic pattern behavior
+**C-5959** Frank Turek on-air clip attributes criticism of Kirk to satanic pattern behavior
 
 Claim Timestamp: 00:39:28
 
@@ -800,7 +799,7 @@ Investigative Direction: Identify the original Frank Turek episode/podcast the c
 
 ---
 
-**C-2252** Host Says Don Lemon Video Shows Him Questioning ICE-Affiliated Pastor at Minnesota Church Protest
+**C-5964** Host Says Don Lemon Video Shows Him Questioning ICE-Affiliated Pastor at Minnesota Church Protest
 
 Claim Timestamp: 00:47:00
 
@@ -812,7 +811,7 @@ Investigative Direction: Confirm the underlying church affiliation and ICE relat
 
 ---
 
-**C-8317** Host Says Erika Told Her TPUSA Hired a Crisis PR Team Because of Andrew's Mistakes
+**C-5906** Host Says Erika Told Her TPUSA Hired a Crisis PR Team Because of Andrew's Mistakes
 
 Claim Timestamp: 00:01:31
 
@@ -828,7 +827,7 @@ Investigative Direction: Identify the crisis PR firm and its engagement date thr
 
 ---
 
-**C-8318** Host Says TPUSA Pays an Orbit of People to Push Talking Points Including Paramount Tactical
+**C-5907** Host Says TPUSA Pays an Orbit of People to Push Talking Points Including Paramount Tactical
 
 Claim Timestamp: 00:01:31
 
@@ -844,7 +843,7 @@ Investigative Direction: Look for payment records, sponsorship disclosures or co
 
 ---
 
-**C-8319** Daily Mail Article Has Dr. Wolfelt Calling Erika's Getting Dressed and Making Up a Survival Tactic
+**C-5910** Daily Mail Article Has Dr. Wolfelt Calling Erika's Getting Dressed and Making Up a Survival Tactic
 
 Claim Timestamp: 00:04:59
 
@@ -855,13 +854,13 @@ Transcript Snippet: Dr. Wolf similarly suspects that Kirk's insistence on gettin
 Anchored Artifacts: A-1704.1
 Mentions: N-512, N-2
 Related Nodes: N-10070
-Supports: C-2240
+Supports: C-5909
 Tags: relevance:context
 Investigative Direction: Retrieve the Daily Mail article and confirm the Wolft attribution and wording; confirm whether the quoted experts had any contact with Kirk or TPUSA.
 
 ---
 
-**C-8320** Host Says Vanessa Bryant Sued the Photo Leakers and the Helicopter Company
+**C-5912** Host Says Vanessa Bryant Sued the Photo Leakers and the Helicopter Company
 
 Claim Timestamp: 00:06:32
 
@@ -871,13 +870,13 @@ Transcript Snippet: Vanessa was suing everybody. She was suing people who releas
 
 Anchored Artifacts: 
 Mentions: N-518, N-517, N-3
-Supports: C-2242
+Supports: C-5911
 Tags: relevance:tangential
 Investigative Direction: Check court dockets for Vanessa Bryant's suits over the crash photos and against the helicopter operator to confirm the host's description of her litigation.
 
 ---
 
-**C-8321** Host Says Vanessa Bryant Gave Her First Interview Four Months Later Accepting Kobe's Hall of Fame Induction
+**C-5913** Host Says Vanessa Bryant Gave Her First Interview Four Months Later Accepting Kobe's Hall of Fame Induction
 
 Claim Timestamp: 00:08:08
 
@@ -887,13 +886,13 @@ Transcript Snippet: when she gave her first interview, just so you know, that wa
 
 Anchored Artifacts: 
 Mentions: N-518, N-517, N-3
-Supports: C-2242
+Supports: C-5911
 Tags: relevance:tangential
 Investigative Direction: Check the date and venue of Vanessa Bryant's first post-crash interview and the Hall of Fame induction coverage against the host's account.
 
 ---
 
-**C-8322** Host Says Erika's Speech Transcript Teaches Nothing About Charlie Beyond TPUSA
+**C-5914** Host Says Erika's Speech Transcript Teaches Nothing About Charlie Beyond TPUSA
 
 Claim Timestamp: 00:09:20
 
@@ -904,13 +903,13 @@ Transcript Snippet: And you don't actually when you read the transcript learn an
 Anchored Artifacts: 
 Mentions: N-2, N-1, N-3
 Related Nodes: N-10002
-Supports: C-2242
+Supports: C-5911
 Tags: relevance:core
 Investigative Direction: Obtain the full transcript of the memorial speech and count the personal references to Charlie Kirk against the organizational references.
 
 ---
 
-**C-8323** Host Says Erika's First Speech Beside Charlie's Chair Also Pitched Help for TPUSA
+**C-5915** Host Says Erika's First Speech Beside Charlie's Chair Also Pitched Help for TPUSA
 
 Claim Timestamp: 00:09:28
 
@@ -926,7 +925,7 @@ Investigative Direction: Obtain the transcript of Erika Kirk's first public spee
 
 ---
 
-**C-8324** Host Says She Received the Catholic Donor Email in October and Filed It Away
+**C-5918** Host Says She Received the Catholic Donor Email in October and Filed It Away
 
 Claim Timestamp: 00:13:09
 
@@ -942,7 +941,7 @@ Investigative Direction: Check the date of the original email in the host's inbo
 
 ---
 
-**C-8325** Email Says Erika Asked the Priest to Pray the Rosary at the Hospital
+**C-5919** Email Says Erika Asked the Priest to Pray the Rosary at the Hospital
 
 Claim Timestamp: 00:14:05
 
@@ -952,13 +951,13 @@ Transcript Snippet: She actually asked him to pray the rosary there at the hospi
 
 Anchored Artifacts: A-1706.1
 Mentions: N-2, N-514
-Supports: C-2243
+Supports: C-5917
 Tags: relevance:core
 Investigative Direction: Confirm with the hospital chaplaincy, the parish or Erika Kirk's team whether the priest was present at the hospital and officiated at the private funeral.
 
 ---
 
-**C-8326** Email Says the Donor Had No Prior Involvement With TPUSA
+**C-5920** Email Says the Donor Had No Prior Involvement With TPUSA
 
 Claim Timestamp: 00:14:05
 
@@ -974,7 +973,7 @@ Investigative Direction: Check the donor's donation or event history with TPUSA;
 
 ---
 
-**C-8327** Email Says the Alex Clark Interview Made the Donor's Stomach Hurt for How Untruthful It Was
+**C-5921** Email Says the Alex Clark Interview Made the Donor's Stomach Hurt for How Untruthful It Was
 
 Claim Timestamp: 00:14:57
 
@@ -990,7 +989,7 @@ Investigative Direction: Identify the Alex Clark interview the host played and t
 
 ---
 
-**C-8328** Email Says the Donor Sat About Eight Hours Beside the Priest in the Third Row
+**C-5922** Email Says the Donor Sat About Eight Hours Beside the Priest in the Third Row
 
 Claim Timestamp: 00:14:57
 
@@ -1006,7 +1005,7 @@ Investigative Direction: Check the memorial seating chart and credential records
 
 ---
 
-**C-8329** Email Says the Priest Showed the Donor Messages From Charlie and Told Stories of Charlie at Mass
+**C-5923** Email Says the Priest Showed the Donor Messages From Charlie and Told Stories of Charlie at Mass
 
 Claim Timestamp: 00:15:43
 
@@ -1021,7 +1020,7 @@ Investigative Direction: Ask the donor for the messages the priest showed her an
 
 ---
 
-**C-8330** Email Says a Tall Bodyguard and a Middle-Aged Woman Sat With Erika at the Monday Mass
+**C-5924** Email Says a Tall Bodyguard and a Middle-Aged Woman Sat With Erika at the Monday Mass
 
 Claim Timestamp: 00:16:25
 
@@ -1036,7 +1035,7 @@ Investigative Direction: Identify Erika Kirk's security detail and companion tha
 
 ---
 
-**C-8331** Email Says the Woman Who Tapped the Donor Seemed to Be an Assistant Whose Role She Could Not Recall
+**C-5925** Email Says the Woman Who Tapped the Donor Seemed to Be an Assistant Whose Role She Could Not Recall
 
 Claim Timestamp: 00:17:36
 
@@ -1047,13 +1046,13 @@ Transcript Snippet: A minute or two later, as I was still in prayer, I had a tap
 Anchored Artifacts: A-1706.1
 Mentions: N-2, N-186
 Related Nodes: N-10467
-Supports: C-2243
+Supports: C-5917
 Tags: relevance:core
 Investigative Direction: Ask the donor to confirm in writing who tapped her and how she learned the woman's name, since the email as read does not name her.
 
 ---
 
-**C-8332** Email Says Erika Told the Donor Charlie Went to Mass There and the Priest Opened the Church for Him
+**C-5926** Email Says Erika Told the Donor Charlie Went to Mass There and the Priest Opened the Church for Him
 
 Claim Timestamp: 00:18:06
 
@@ -1068,7 +1067,7 @@ Investigative Direction: Check Charlie Kirk's mass attendance with the parish; t
 
 ---
 
-**C-8333** Host Says Sheridan Would Only Approach Someone With a Boatload of Money
+**C-5928** Host Says Sheridan Would Only Approach Someone With a Boatload of Money
 
 Claim Timestamp: 00:18:53
 
@@ -1084,7 +1083,7 @@ Investigative Direction: Ask the donor to confirm Sheridan was the woman who tap
 
 ---
 
-**C-8334** Host Says TPUSA Had the Donor Clocked Before She Walked Into the Memorial
+**C-5929** Host Says TPUSA Had the Donor Clocked Before She Walked Into the Memorial
 
 Claim Timestamp: 00:20:09
 
@@ -1100,7 +1099,7 @@ Investigative Direction: Look for pre-memorial donor lists or briefing notes; th
 
 ---
 
-**C-8335** Host Says Sheridan's Job Is to Know Every Prospect's Net Worth Including Their Parents'
+**C-5930** Host Says Sheridan's Job Is to Know Every Prospect's Net Worth Including Their Parents'
 
 Claim Timestamp: 00:20:53
 
@@ -1116,7 +1115,7 @@ Investigative Direction: Obtain Sheridan's job description and any donor-profile
 
 ---
 
-**C-8336** Host Says Sheridan Would Whisper Prospects' Wealth to Charlie, Which Is Why She Was Brought On
+**C-5931** Host Says Sheridan Would Whisper Prospects' Wealth to Charlie, Which Is Why She Was Brought On
 
 Claim Timestamp: 00:20:53
 
@@ -1128,11 +1127,11 @@ Anchored Artifacts:
 Mentions: N-186, N-1
 Related Nodes: N-10467
 Tags: relevance:core
-Investigative Direction: Ask former TPUSA event staff to describe the donor hand-off routine at events; check the host's earlier references to this in ep 19 (C-1479).
+Investigative Direction: Ask former TPUSA event staff to describe the donor hand-off routine at events; check the host's earlier references to this in ep 19 (C-1723).
 
 ---
 
-**C-8337** Host Says She Told the Donor She Had Been Targeted and the Donor Had Already Concluded So
+**C-5932** Host Says She Told the Donor She Had Been Targeted and the Donor Had Already Concluded So
 
 Claim Timestamp: 00:20:53
 
@@ -1148,7 +1147,7 @@ Investigative Direction: Obtain the host's reply and the donor's response in wri
 
 ---
 
-**C-8338** Host Says the Donor's Family Is Extraordinarily Wealthy From a Sold Business and a Massive Business
+**C-5933** Host Says the Donor's Family Is Extraordinarily Wealthy From a Sold Business and a Massive Business
 
 Claim Timestamp: 00:21:52
 
@@ -1164,7 +1163,7 @@ Investigative Direction: The donor is unnamed on air; verify her wealth through 
 
 ---
 
-**C-8339** Host Says the Donor's Evidence Included a Text the Priest Had Shared With Her
+**C-5934** Host Says the Donor's Evidence Included a Text the Priest Had Shared With Her
 
 Claim Timestamp: 00:21:52
 
@@ -1174,13 +1173,13 @@ Transcript Snippet: She even supplied evidence uh in the form of a text message 
 
 Anchored Artifacts: A-1708.1
 Mentions: N-1, N-2, N-514
-Supports: C-2246
+Supports: C-5936
 Tags: relevance:core
 Investigative Direction: Obtain the original screenshot or forward from the donor and verify its provenance and metadata.
 
 ---
 
-**C-8340** Host Says Charlie's Texts to Her Typically Carried Verses of Encouragement
+**C-5935** Host Says Charlie's Texts to Her Typically Carried Verses of Encouragement
 
 Claim Timestamp: 00:22:39
 
@@ -1195,7 +1194,7 @@ Investigative Direction: Compare with the host's earlier release of Charlie Kirk
 
 ---
 
-**C-8341** Host Says the Donor Was at a Marketing Conference Among People Orbiting PBD's Podcast When Charlie Was Shot
+**C-5937** Host Says the Donor Was at a Marketing Conference Among People Orbiting PBD's Podcast When Charlie Was Shot
 
 Claim Timestamp: 00:23:14
 
@@ -1211,7 +1210,7 @@ Investigative Direction: Identify the marketing conference and the attendees; as
 
 ---
 
-**C-8342** Host Says a Contact Hooked the Donor Up With Someone Who Could Get Her Into the Venue
+**C-5938** Host Says a Contact Hooked the Donor Up With Someone Who Could Get Her Into the Venue
 
 Claim Timestamp: 00:23:14
 
@@ -1227,7 +1226,7 @@ Investigative Direction: Obtain the donor's introduction text thread (A-1709.1 s
 
 ---
 
-**C-8343** Text Introduces the Donor to a TPUSA Staffer Who Traveled Everywhere With Charlie Handling Big Donors
+**C-5939** Text Introduces the Donor to a TPUSA Staffer Who Traveled Everywhere With Charlie Handling Big Donors
 
 Claim Timestamp: 00:24:08
 
@@ -1243,7 +1242,7 @@ Investigative Direction: Identify the TPUSA staffer and the sender of the text f
 
 ---
 
-**C-8344** Text Says Erika Is Getting More Death Threats and the Staffer Will Run Point on Funding the Memorial
+**C-5940** Text Says Erika Is Getting More Death Threats and the Staffer Will Run Point on Funding the Memorial
 
 Claim Timestamp: 00:24:08
 
@@ -1254,13 +1253,13 @@ Transcript Snippet: Blank says that Erika has been getting more death threats ev
 Anchored Artifacts: A-1709.1
 Mentions: N-2, N-515
 Related Nodes: N-10469
-Supports: C-2247
+Supports: C-5941
 Tags: relevance:core
 Investigative Direction: Obtain the full text; check Erika Kirk's reported threat environment and who raised the memorial funds.
 
 ---
 
-**C-8345** Host Says Questions Arose About How the White House Could Secure the Venue So Fast
+**C-5942** Host Says Questions Arose About How the White House Could Secure the Venue So Fast
 
 Claim Timestamp: 00:24:55
 
@@ -1271,13 +1270,13 @@ Transcript Snippet: We've been told the story a couple of times now that the Whi
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10466, N-10002
-Supports: C-1339
+Supports: C-1155
 Tags: relevance:core
 Investigative Direction: Obtain stadium booking and White House correspondence on the memorial venue through records requests.
 
 ---
 
-**C-8346** Host Asks Viewers With Knowledge of the RV Show to Email More Tips
+**C-5943** Host Asks Viewers With Knowledge of the RV Show to Email More Tips
 
 Claim Timestamp: 00:24:55
 
@@ -1293,7 +1292,7 @@ Investigative Direction: Track whether tips about the RV show or cancellation em
 
 ---
 
-**C-8347** Host Says TPUSA Geofenced Everybody's Phones at the Memorial and Could Sell the Data
+**C-5945** Host Says TPUSA Geofenced Everybody's Phones at the Memorial and Could Sell the Data
 
 Claim Timestamp: 00:26:12
 
@@ -1309,7 +1308,7 @@ Investigative Direction: Look for TPUSA privacy policies, ticketing terms and an
 
 ---
 
-**C-8348** Host Says the Priest Also Cancelled His Mass on September 10
+**C-5946** Host Says the Priest Also Cancelled His Mass on September 10
 
 Claim Timestamp: 00:26:12
 
@@ -1325,7 +1324,7 @@ Investigative Direction: Check the parish bulletin and mass schedule; note the h
 
 ---
 
-**C-8349** Host Says Erika Gave Stacy Sheridan Permission to Tap the Donor
+**C-5948** Host Says Erika Gave Stacy Sheridan Permission to Tap the Donor
 
 Claim Timestamp: 00:28:10
 
@@ -1336,13 +1335,13 @@ Transcript Snippet: What moved Stacy Sheridan to tap on this person's shoulder? 
 Anchored Artifacts: A-1706.1
 Mentions: N-2, N-186, N-1
 Related Nodes: N-10467
-Supports: C-2243
+Supports: C-5917
 Tags: relevance:core
 Investigative Direction: Ask Sheridan and Erika Kirk's team whether the approach was requested; the host offers this as inference.
 
 ---
 
-**C-8350** Host Says the Relic the Donor Gave Erika Was of St. Michael
+**C-5949** Host Says the Relic the Donor Gave Erika Was of St. Michael
 
 Claim Timestamp: 00:29:22
 
@@ -1353,11 +1352,11 @@ Transcript Snippet: she organizes to get a relic um from St. Michael, the same a
 Anchored Artifacts: A-1706.1
 Mentions: N-2, N-3
 Tags: relevance:context
-Investigative Direction: The email as read names relics of St. Paul II (C-2245) while the host names St. Michael; ask the donor which relic she delivered.
+Investigative Direction: The email as read names relics of St. Paul II (C-5927) while the host names St. Michael; ask the donor which relic she delivered.
 
 ---
 
-**C-8351** Host Says Another Top TPUSA Fundraiser Met the Donor at Mass and Said Erika Wanted Him to Follow Up
+**C-5950** Host Says Another Top TPUSA Fundraiser Met the Donor at Mass and Said Erika Wanted Him to Follow Up
 
 Claim Timestamp: 00:30:24
 
@@ -1373,7 +1372,7 @@ Investigative Direction: Identify the fundraiser; compare with the later Chicago
 
 ---
 
-**C-8352** Fundraiser's Text Says Erika Repeated How Much She Loved Meeting the Donor Again
+**C-5953** Fundraiser's Text Says Erika Repeated How Much She Loved Meeting the Donor Again
 
 Claim Timestamp: 00:32:17
 
@@ -1389,7 +1388,7 @@ Investigative Direction: Obtain the full text thread and ask Erika Kirk's team w
 
 ---
 
-**C-8353** Host Says the Donor Reports Frank Turek Speaking at the Mar-a-Lago Gala
+**C-5954** Host Says the Donor Reports Frank Turek Speaking at the Mar-a-Lago Gala
 
 Claim Timestamp: 00:33:02
 
@@ -1405,7 +1404,7 @@ Investigative Direction: Check the Mar-a-Lago event program and speaker list; as
 
 ---
 
-**C-8354** Host Says Mar-a-Lago Is Where Meetings With Zionist Donors Take Place
+**C-5955** Host Says Mar-a-Lago Is Where Meetings With Zionist Donors Take Place
 
 Claim Timestamp: 00:33:02
 
@@ -1421,7 +1420,7 @@ Investigative Direction: Characterization by the host; no checkable fact beyond 
 
 ---
 
-**C-8355** Host Says the TPUSA Contact Put Off the Donor's Catholic Request as Future Plans
+**C-5956** Host Says the TPUSA Contact Put Off the Donor's Catholic Request as Future Plans
 
 Claim Timestamp: 00:33:48
 
@@ -1437,7 +1436,7 @@ Investigative Direction: Check for any TPUSA Catholic outreach launched afterwar
 
 ---
 
-**C-8356** Host Reads Follow-Up Texts Asking the Donor for a Call in February
+**C-5957** Host Reads Follow-Up Texts Asking the Donor for a Call in February
 
 Claim Timestamp: 00:33:48
 
@@ -1448,13 +1447,13 @@ Transcript Snippet: Are you available the second or third week of February?
 Anchored Artifacts: A-1713.1
 Mentions: 
 Related Nodes: N-10467
-Supports: C-2250
+Supports: C-5952
 Tags: relevance:core
 Investigative Direction: Obtain the texts with dates; confirm no donation was made.
 
 ---
 
-**C-8357** Host Says the Donor Concluded She Had Been Targeted
+**C-5958** Host Says the Donor Concluded She Had Been Targeted
 
 Claim Timestamp: 00:34:51
 
@@ -1470,7 +1469,7 @@ Investigative Direction: Test the targeting claim against TPUSA's donor-outreach
 
 ---
 
-**C-8358** Host Says Erika's On-Stage Forgiveness Implies She Convicted Robinson
+**C-5960** Host Says Erika's On-Stage Forgiveness Implies She Convicted Robinson
 
 Claim Timestamp: 00:42:57
 
@@ -1480,13 +1479,13 @@ Transcript Snippet: How about they convicted him when Erika said on stage, "I fo
 
 Anchored Artifacts: 
 Mentions: N-2, N-40, N-3
-Supports: C-6450
+Supports: C-1326
 Tags: relevance:core
 Investigative Direction: Compare the wording of Erika Kirk's memorial statement with the host's characterization.
 
 ---
 
-**C-8359** Host Says TPUSA Fires Employees Without Cause Through Loyalty Tests Over Talking to Uber Drivers
+**C-5961** Host Says TPUSA Fires Employees Without Cause Through Loyalty Tests Over Talking to Uber Drivers
 
 Claim Timestamp: 00:42:57
 
@@ -1497,13 +1496,13 @@ Transcript Snippet: People that are firing employees without cause through some 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11035, N-10492, N-10000
-Supports: C-6986
+Supports: C-5603
 Tags: relevance:core
 Investigative Direction: Identify the employees and the Uber driver incident through the host's sources and TPUSA termination records.
 
 ---
 
-**C-8360** Host Again Invites Frank Turek and TPUSA to Appear on Her Show
+**C-5962** Host Again Invites Frank Turek and TPUSA to Appear on Her Show
 
 Claim Timestamp: 00:43:54
 
@@ -1514,13 +1513,13 @@ Transcript Snippet: I extend it to you and any of your homies at TPUSA to come o
 Anchored Artifacts: 
 Mentions: N-7, N-3
 Related Nodes: N-10000
-Supports: C-6603
+Supports: C-2732
 Tags: relevance:context
 Investigative Direction: Check whether Turek or TPUSA responds to the invitation.
 
 ---
 
-**C-8361** Host Says the Lemon Arrest Was Driven by Pam Bondi Wanting a Headline
+**C-5963** Host Says the Lemon Arrest Was Driven by Pam Bondi Wanting a Headline
 
 Claim Timestamp: 00:44:38
 
@@ -1535,7 +1534,7 @@ Investigative Direction: Review the federal charging documents for the Lemon arr
 
 ---
 
-**C-8362** Host Says Pam Bondi Protected Jeffrey Epstein
+**C-5965** Host Says Pam Bondi Protected Jeffrey Epstein
 
 Claim Timestamp: 00:47:29
 
@@ -1551,7 +1550,7 @@ Investigative Direction: Review Epstein files release records and DOJ statements
 
 ---
 
-**C-8363** Host Says the CIA and Mossad Train Radicals
+**C-5966** Host Says the CIA and Mossad Train Radicals
 
 Claim Timestamp: 00:51:02
 
@@ -1567,7 +1566,7 @@ Investigative Direction: Characterization recorded as said; no specific document
 
 ---
 
-**C-8364** Host Says Netanyahu Funded Hamas
+**C-5967** Host Says Netanyahu Funded Hamas
 
 Claim Timestamp: 00:51:02
 
@@ -1583,7 +1582,7 @@ Investigative Direction: Characterization recorded as said; no specific document
 
 ---
 
-**C-8365** Host Says Charlie Was Not a Catholic
+**C-5968** Host Says Charlie Was Not a Catholic
 
 Claim Timestamp: 00:52:38
 
@@ -1598,7 +1597,7 @@ Investigative Direction: The passage is partly garbled; check Charlie Kirk's sta
 
 ---
 
-**C-8366** Host Says Erika Told Her TPUSA Was Getting Rid of Kolvet and Replacing Him
+**C-5969** Host Says Erika Told Her TPUSA Was Getting Rid of Kolvet and Replacing Him
 
 Claim Timestamp: 00:54:09
 
@@ -1608,13 +1607,13 @@ Transcript Snippet: when I saw her and Andrew Kolvet colluding after she told me
 
 Anchored Artifacts: 
 Mentions: N-2, N-14, N-3
-Supports: C-8317
+Supports: C-5906
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk's team whether a replacement for Kolvet was discussed; check Kolvet's role in later episodes.
 
 ---
 
-**C-8367** Host Says Kolvet Was the One Organizing Paramount Tactical and Alex Jones
+**C-5970** Host Says Kolvet Was the One Organizing Paramount Tactical and Alex Jones
 
 Claim Timestamp: 00:54:09
 
@@ -1625,13 +1624,13 @@ Transcript Snippet: and then I realized he's the one organizing the Paramount Ta
 Anchored Artifacts: 
 Mentions: N-14, N-93, N-3
 Related Nodes: N-10899
-Supports: C-6775, C-7045
+Supports: C-4488, C-5675
 Tags: relevance:core
 Investigative Direction: Obtain communications between Kolvet, Paramount Tactical and Alex Jones; the host says she has confirmed the Alex Jones contact elsewhere.
 
 ---
 
-**C-8368** Host Says People Fired for No Reason Confirmed It Was Andrew
+**C-5971** Host Says People Fired for No Reason Confirmed It Was Andrew
 
 Claim Timestamp: 00:54:09
 
@@ -1647,7 +1646,7 @@ Investigative Direction: The sentence is garbled; identify which firings the hos
 
 ---
 
-**C-8369** Viewer Comment Says the TPUSA Hat Arrived After the Leaked Call and Contract-Wording Attention
+**C-5972** Viewer Comment Says the TPUSA Hat Arrived After the Leaked Call and Contract-Wording Attention
 
 Claim Timestamp: 00:54:09
 
@@ -1663,7 +1662,7 @@ Investigative Direction: Locate the contract wording and the leaked call being r
 
 ---
 
-**C-8370** Host Says Many Emailers Who Never Got Their Hat Are Now Receiving It
+**C-5973** Host Says Many Emailers Who Never Got Their Hat Are Now Receiving It
 
 Claim Timestamp: 00:54:09
 
@@ -1679,7 +1678,7 @@ Investigative Direction: Ask viewers for order dates and delivery dates.
 
 ---
 
-**C-8371** Host Says the Donor Emailed After Seeing a Strange Lie From Kolvet About the Catholic Faith
+**C-5974** Host Says the Donor Emailed After Seeing a Strange Lie From Kolvet About the Catholic Faith
 
 Claim Timestamp: 00:55:45
 
@@ -1695,7 +1694,7 @@ Investigative Direction: Identify the Kolvet statement about Catholic faith that
 
 ---
 
-**C-8372** Host Says Erika Told Her Kolvet Went Rogue in the Alex Clark Interview, Which the Host Calls Untrue
+**C-5975** Host Says Erika Told Her Kolvet Went Rogue in the Alex Clark Interview, Which the Host Calls Untrue
 
 Claim Timestamp: 00:56:06
 
@@ -1711,7 +1710,7 @@ Investigative Direction: Obtain the Alex Clark interview and the host's recordin
 
 ---
 
-**C-8373** Host Says Kolvet Was Communicating With Erika During the Alex Clark Interview, Per a Former Staffer
+**C-5976** Host Says Kolvet Was Communicating With Erika During the Alex Clark Interview, Per a Former Staffer
 
 Claim Timestamp: 00:56:16
 
@@ -1727,7 +1726,7 @@ Investigative Direction: Identify the former staffer and obtain any screenshot o
 
 ---
 
-**C-8374** Host Announces a Week Break With Two Profile Episodes on Erika's Background
+**C-5977** Host Announces a Week Break With Two Profile Episodes on Erika's Background
 
 Claim Timestamp: 00:57:27
 
@@ -1742,7 +1741,7 @@ Investigative Direction: Check later episodes for the promised profile episodes.
 
 ---
 
-**C-8375** Host Says Watching the Rabbi Barclay Interview Began the End of Her Support for Zionism
+**C-5978** Host Says Watching the Rabbi Barclay Interview Began the End of Her Support for Zionism
 
 Claim Timestamp: 00:58:17
 
@@ -1900,11 +1899,11 @@ Confidence: high
 
 - **Name uncertainty:** "Andrew Kolvet" / "Kouvet" / "Covette" / "Coven" – transcript shows multiple spellings for the same TPUSA figure (N-14). Requires human verification against correct spelling.
 - **Artifact verbally referenced but not shown:** A-1712.1 (Wayback Machine screenshots for Cardinal Stadium RV show) – referenced verbally but not displayed on-screen. Marked Low confidence.
-- **Artifact verbally referenced but not shown:** Vanessa Bryant's Kobe memorial speech is recommended for viewing by the host but never played, quoted, or displayed in the episode. Comparison claim C-2242 should be re-anchored if/when the speech artifact is produced.
+- **Artifact verbally referenced but not shown:** Vanessa Bryant's Kobe memorial speech is recommended for viewing by the host but never played, quoted, or displayed in the episode. Comparison claim C-5911 should be re-anchored if/when the speech artifact is produced.
 - **Name redaction in source:** "Father Blank" and "TPUSA Blank" are host-applied redactions of the email author's original names; the actual names were blanked out before air and are not recoverable from this artifact alone.
 - **Host claim without artifact anchor:** N-10468 (Father Blank's alleged cancellation of his regular September 10 mass) is asserted by the host without supporting artifact. Recommend verifying via parish bulletin, diocese calendar, or live-streamed mass archive.
 - **Transcript ambiguity:** Host refers to "Andrew Coven" (in comment section) and "Andrew Kouvet" (in interview discussion); same person referenced by all variants.
-- **Claim passed admission test with host-interpretation caveat:** C-2242 (Vanessa Bryant comparison) uses Kobe Bryant memorial speech as comparison anchor; speech itself is not artifact-presented in this episode. Investigative direction flags this for follow-up.
+- **Claim passed admission test with host-interpretation caveat:** C-5911 (Vanessa Bryant comparison) uses Kobe Bryant memorial speech as comparison anchor; speech itself is not artifact-presented in this episode. Investigative direction flags this for follow-up.
 
 ---
 

@@ -16,7 +16,7 @@
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Tip-minted Nodes (skeleton): N-636, N-637, N-638, N-10943, N-10944
   - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-14, N-40, N-46, N-54, N-146, N-190, N-208, N-266, N-268, N-270, N-341, N-343, N-580, N-10000, N-10006, N-10014, N-10026, N-10070, N-10075, N-10132, N-10194, N-10322, N-10340, N-10455, N-10581, N-10605, N-10622, N-10637, N-10651, N-10664, N-10899, N-10916, N-10923, N-10700, N-10942, N-10679
-  - Claim Range: C-4213–C-4266
+  - Claim Range: C-9489–C-9542
   - (see registers)
 
 ## 2. Executive Summary
@@ -40,7 +40,7 @@ Video Timestamp: 00:02:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4215, C-4216, N-341, N-3*
+*Related: C-9491, C-9492, N-341, N-3*
 
 ---
 
@@ -55,7 +55,7 @@ Video Timestamp: 00:04:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4217, C-4218, C-4219, C-4220, N-341, N-3, N-1, N-7*
+*Related: C-9493, C-9494, C-9495, C-9496, N-341, N-3, N-1, N-7*
 
 **A-2600.2** Clip from the interview on Marx visiting Erika Kirk's home and his team relieving the security team (played)
 
@@ -66,7 +66,7 @@ Video Timestamp: 00:13:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4228, C-4229, N-341, N-2*
+*Related: C-9504, C-9505, N-341, N-2*
 
 **A-2600.3** Clip from the interview on Marx's text to Erika Kirk while she was at the hospital (played)
 
@@ -77,7 +77,7 @@ Video Timestamp: 00:14:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4230, N-341, N-2, N-10942*
+*Related: C-9506, N-341, N-2, N-10942*
 
 ---
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:10:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4223, C-4224, N-14, N-3*
+*Related: C-9499, C-9500, N-14, N-3*
 
 ---
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:12:44
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4214, C-4227, N-341, N-266, N-10651*
+*Related: C-9490, C-9503, N-341, N-266, N-10651*
 
 **A-2602.2** Host verbal reference to the preservation letter sent to Paramount Not So Tactical (not shown)
 
@@ -114,7 +114,7 @@ Video Timestamp: 00:15:46
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4231, N-10899*
+*Related: C-9507, N-10899*
 
 ---
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:16:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4232, C-4246, N-2, N-1, N-10943*
+*Related: C-9508, C-9522, N-2, N-1, N-10943*
 
 ---
 
@@ -142,7 +142,7 @@ Video Timestamp: 00:25:32
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4242, C-4243, N-636, N-10944*
+*Related: C-9518, C-9519, N-636, N-10944*
 
 ---
 
@@ -157,7 +157,7 @@ Video Timestamp: 00:32:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4248, N-2, N-10923*
+*Related: C-9524, N-2, N-10923*
 
 **A-2605.2** Host verbal reference to her FOIA request for White House Correspondents' Dinner communications (not shown)
 
@@ -166,7 +166,7 @@ Video Timestamp: 00:32:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4247, N-10700, N-10637*
+*Related: C-9523, N-10700, N-10637*
 
 ---
 
@@ -181,7 +181,7 @@ Video Timestamp: 00:34:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4251, N-40, N-10006*
+*Related: C-9527, N-40, N-10006*
 
 **A-2606.2** AP News headline on the defense asking to seal evidence (shown)
 
@@ -192,7 +192,7 @@ Video Timestamp: 00:34:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4252, N-40*
+*Related: C-9528, N-40*
 
 **A-2606.3** NewsNation headline on the defense seeking to seal evidence (shown)
 
@@ -203,7 +203,7 @@ Video Timestamp: 00:34:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4252, N-40*
+*Related: C-9528, N-40*
 
 **A-2606.4** Tyler Robinson defense filing page listing the items to be sealed and the reasons (shown)
 
@@ -214,7 +214,7 @@ Video Timestamp: 00:37:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4254, C-4255, C-4256, C-4257, N-40, N-54, N-10581, N-10782*
+*Related: C-9530, C-9531, C-9532, C-9533, N-40, N-54, N-10581, N-10782*
 
 ---
 
@@ -229,7 +229,7 @@ Video Timestamp: 00:39:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4258, C-4259, C-4260, N-268, N-146*
+*Related: C-9534, C-9535, C-9536, N-268, N-146*
 
 **A-2607.2** Theo Von's response to the Rogan clip (read aloud)
 
@@ -240,7 +240,7 @@ Video Timestamp: 00:41:33
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4261, N-146*
+*Related: C-9537, N-146*
 
 **A-2607.3** Joe Rogan's recorded apology regarding Theo Von (played)
 
@@ -251,7 +251,7 @@ Video Timestamp: 00:43:09
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4262, N-268, N-146*
+*Related: C-9538, N-268, N-146*
 
 ---
 
@@ -266,7 +266,7 @@ Video Timestamp: 00:49:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4263, N-2, N-1*
+*Related: C-9539, N-2, N-1*
 
 **A-2608.2** Viewer comment (Zack Cassello) read on air about the timing of Victor Marx's Instagram post
 
@@ -277,7 +277,7 @@ Video Timestamp: 00:52:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4264, N-341, N-14, N-10622*
+*Related: C-9540, N-341, N-14, N-10622*
 
 ---
 ## 4. Node Register
@@ -286,298 +286,298 @@ Confidence Level: Low
 
 Assassination victim. The episode covers the timing of the first announcements of his death, the reported September 15 end-of-life document appointment, his life insurance, the alleged missing $10 million and his "they're going to kill me" texts.
 
-*Related: C-4217, C-4218, C-4219, C-4222, C-4223, C-4225, C-4228, C-4230, C-4232, C-4233, C-4234, C-4235, C-4236, C-4237, C-4238, C-4239, C-4240, C-4252, C-4263, C-4265, A-2600.1, A-2603.1, A-2608.1*
+*Related: C-9493, C-9494, C-9495, C-9498, C-9499, C-9501, C-9504, C-9506, C-9508, C-9509, C-9510, C-9511, C-9512, C-9513, C-9514, C-9515, C-9516, C-9528, C-9539, C-9541, A-2600.1, A-2603.1, A-2608.1*
 
 **N-2** Erika Kirk
 
 Said by the host to have told multiple people about a September 15 end-of-life document appointment. She received Victor Marx's "they just wanted Charlie" text, was described as an "emotional asset" in White House communications, and is the subject of a trademark rumor the host dismisses.
 
-*Related: C-4217, C-4221, C-4223, C-4228, C-4229, C-4230, C-4232, C-4233, C-4234, C-4246, C-4248, C-4249, C-4250, C-4253, C-4263, C-4264, A-2600.2, A-2600.3, A-2603.1, A-2605.1, A-2608.1*
+*Related: C-9493, C-9497, C-9499, C-9504, C-9505, C-9506, C-9508, C-9509, C-9510, C-9522, C-9524, C-9525, C-9526, C-9529, C-9539, C-9540, A-2600.2, A-2600.3, A-2603.1, A-2605.1, A-2608.1*
 
 **N-3** Candace Owens
 
 Host; defendant in Brian Harpole's defamation suit. She sends preservation letters, reads her own September 10 texts with Andrew Kolvet, and is awaiting a White House FOIA response.
 
-*Related: C-4214, C-4215, C-4217, C-4223, C-4224, C-4226, C-4227, C-4231, C-4232, C-4238, C-4247, C-4263, A-2599.1, A-2600.1, A-2601.1*
+*Related: C-9490, C-9491, C-9493, C-9499, C-9500, C-9502, C-9503, C-9507, C-9508, C-9514, C-9523, C-9539, A-2599.1, A-2600.1, A-2601.1*
 
 **N-5** Donald Trump
 
 His announcement of Charlie Kirk's death is the reference point for the timing of Victor Marx's post.
 
-*Related: C-4217*
+*Related: C-9493*
 
 **N-7** Frank Turek
 
 Transcript spelling "Frank Chirico". Marx says he knows him; the host says he and the security team took Charlie Kirk to the hospital.
 
-*Related: C-4220, C-4225, A-2600.1*
+*Related: C-9496, C-9501, A-2600.1*
 
 **N-14** Andrew Kolvet
 
 Transcript spelling "Andrew Kolvet". His September 10 texts with the host are read aloud; the host says he ran Charlie Kirk's Twitter and learned of the death shortly after Marx posted.
 
-*Related: C-4223, C-4224, C-4239, C-4264, A-2601.1, A-2608.2*
+*Related: C-9499, C-9500, C-9515, C-9540, A-2601.1, A-2608.2*
 
 **N-40** Tyler Robinson
 
 Accused shooter whose defense seeks to have preliminary-hearing evidence sealed pending discovery.
 
-*Related: C-4251, C-4252, C-4253, C-4254, C-4256, C-4257, A-2606.1, A-2606.2, A-2606.3, A-2606.4*
+*Related: C-9527, C-9528, C-9529, C-9530, C-9532, C-9533, A-2606.1, A-2606.2, A-2606.3, A-2606.4*
 
 **N-46** Megyn Kelly
 
 Transcript spelling "Megyn Kelly". The host says Erika Kirk told her that Charlie only expressed his succession wish three weeks before his death.
 
-*Related: C-4233*
+*Related: C-9509*
 
 **N-54** Lance Twiggs
 
 Transcript spelling "Lance Lance Twiggs". Expected to testify at the preliminary hearing, per the host.
 
-*Related: C-4255, A-2606.4*
+*Related: C-9531, A-2606.4*
 
 **N-146** Theo Von
 
 Subject of Joe Rogan's remarks about SSRI use and his mental state; responded that the clip was "mostly cap."
 
-*Related: C-4258, C-4259, C-4261, C-4262, A-2607.1, A-2607.2, A-2607.3*
+*Related: C-9534, C-9535, C-9537, C-9538, A-2607.1, A-2607.2, A-2607.3*
 
 **N-190** Mikey McCoy
 
 Named by the host as having had Charlie Kirk's laptop.
 
-*Related: C-4240*
+*Related: C-9516*
 
 **N-208** Jack Hibbs
 
 The host says he and TPUSA faith-adjacent figures were among the first to say Charlie Kirk had died and that Israel knew first.
 
-*Related: C-4265*
+*Related: C-9541*
 
 **N-266** Brian Harpole
 
 Transcript spellings "Bryan Harpold" and "Brian Harpole". Head of Charlie Kirk's security team and plaintiff suing the host for defamation; the host seeks Marx's communications with the security team.
 
-*Related: C-4214, C-4226, C-4227, A-2602.1*
+*Related: C-9490, C-9502, C-9503, A-2602.1*
 
 **N-268** Joe Rogan
 
 His comments about Theo Von drew backlash; he later recorded an apology, which the host praises.
 
-*Related: C-4258, C-4259, C-4260, C-4261, C-4262, A-2607.1, A-2607.3*
+*Related: C-9534, C-9535, C-9536, C-9537, C-9538, A-2607.1, A-2607.3*
 
 **N-270** Dan Flood
 
 Named only as "Dan" alongside Brian Harpole when the host speculates about the security team's communications with Marx.
 
-*Related: C-4227*
+*Related: C-9503*
 
 **N-341** Victor Marx
 
 Transcript spellings "Victor Marx" and "Victor March". Colorado gubernatorial candidate interviewed the day before. His early, later-deleted post announcing Charlie Kirk's death, his text to Erika Kirk and his team's takeover of security are scrutinized; the host has sent him a preservation letter.
 
-*Related: C-4214, C-4215, C-4216, C-4217, C-4218, C-4219, C-4220, C-4221, C-4222, C-4226, C-4227, C-4228, C-4229, C-4230, C-4264, A-2599.1, A-2600.1, A-2600.2, A-2600.3, A-2602.1, A-2608.2*
+*Related: C-9490, C-9491, C-9492, C-9493, C-9494, C-9495, C-9496, C-9497, C-9498, C-9502, C-9503, C-9504, C-9505, C-9506, C-9540, A-2599.1, A-2600.1, A-2600.2, A-2600.3, A-2602.1, A-2608.2*
 
 **N-343** Eileen Marx
 
 Victor Marx's wife; the host says she mentors Erika Kirk.
 
-*Related: C-4221*
+*Related: C-9497*
 
 **N-580** Thomas Massie
 
 The host opens by noting he lost in Kentucky.
 
-*Related: C-4213*
+*Related: C-9489*
 
 **N-636** Kouri Richins
 
 First named by the host at 00:24:28 in episode 108. Utah widow whom the host says was found guilty of murdering her husband after writing a children's book on grief. Transcript spelling "Kouri D. Richins".
 
-*Related: C-4241, C-4242, C-4243, C-4244, C-4245, A-2604.1, N-10944*
+*Related: C-9517, C-9518, C-9519, C-9520, C-9521, A-2604.1, N-10944*
 
 **N-637** Eric Richins
 
 First named by the host at 00:26:29 in episode 108. Kouri Richins's husband, who the host says covertly transferred his estate to his sister before he was killed. Transcript spelling "Eric Richens".
 
-*Related: C-4244, C-4245, N-10944*
+*Related: C-9520, C-9521, N-10944*
 
 **N-638** Ed Gallrein
 
 First named by the host at 00:52:19 in episode 108. Named in the comments as a candidate the host calls embarrassing, with no crowd at his victory party. Kept in the transcript spelling (see Optional Flags).
 
-*Related: C-4266, N-10916*
+*Related: C-9542, N-10916*
 
 **N-10000** Turning Point USA
 
 Organization whose board member was reportedly to help with the will changes, from which $10 million was allegedly missing, and which offered the Daily Mail a private screening of the disputed video.
 
-*Related: C-4235, C-4246, C-4249*
+*Related: C-9511, C-9522, C-9525*
 
 **N-10006** Fox News
 
 Ran a headline on the Tyler Robinson defense seeking to restrict evidence that the host says misrepresented the filing.
 
-*Related: C-4251, A-2606.1*
+*Related: C-9527, A-2606.1*
 
 **N-10014** Federal Bureau of Investigation
 
 Its DNA report (towel, screwdriver) is among the items the defense seeks to seal; the host mocks the FBI's "non-investigation."
 
-*Related: C-4256*
+*Related: C-9532*
 
 **N-10026** Israel
 
 The host says Jack Hibbs's circle claimed Israel knew of the death first.
 
-*Related: C-4265*
+*Related: C-9541*
 
 **N-10070** Daily Mail
 
 The host says it confirmed that a TPUSA board member was helping with the Kirks' affairs and that TPUSA offered it a private screening of the disputed video.
 
-*Related: C-4246, C-4249*
+*Related: C-9522, C-9525*
 
 **N-10075** White House
 
 Still not answering the host's FOIA request on White House Correspondents' Dinner communications.
 
-*Related: C-4247*
+*Related: C-9523*
 
 **N-10132** TPUSA DOGE Department / Financial Audit
 
 The host says Charlie Kirk set up a DOGE internal audit to find an alleged missing $10 million, cancelled after his death.
 
-*Related: C-4235, C-4236*
+*Related: C-9511, C-9512*
 
 **N-10194** TPUSA Succession Plan Disclosure Timeline
 
 Erika Kirk's account to Megyn Kelly that Charlie only expressed his succession wish three weeks before his death.
 
-*Related: C-4233*
+*Related: C-9509*
 
 **N-10322** Charlie Kirk Life Insurance Policy & Beneficiary
 
 The host says the corporate policy included a $10 million payout for Erika Kirk and the children.
 
-*Related: C-4234*
+*Related: C-9510*
 
 **N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood
 
 The "they're going to kill me" texts the host cites as context for the planned will change.
 
-*Related: C-4237*
+*Related: C-9513*
 
 **N-10455** Andrew Kolvet Charlie Kirk Twitter Control Claim
 
 The host repeats that Kolvet was running Charlie Kirk's Twitter.
 
-*Related: C-4239*
+*Related: C-9515*
 
 **N-10581** Tyler Robinson Defense – Chain of Custody / Documents
 
 The defense's lack of discovery and its request to seal preliminary-hearing evidence.
 
-*Related: C-4253, C-4254, A-2606.4*
+*Related: C-9529, C-9530, A-2606.4*
 
 **N-10605** Erika Kirk–Victor Marx Relationship Verification
 
 Eileen Marx's mentoring of Erika Kirk and the Marxes' visit to the Kirk home in the first days.
 
-*Related: C-4221, C-4228*
+*Related: C-9497, C-9504*
 
 **N-10622** Early-Death-Announcement Timeline Verification
 
 Timing of Victor Marx's post relative to the president's announcement and to when Erika Kirk and Andrew Kolvet learned of the death.
 
-*Related: C-4217, C-4264, A-2608.2*
+*Related: C-9493, C-9540, A-2608.2*
 
 **N-10637** WHCD Incident Reconstruction
 
 White House Correspondents' Dinner communications sought by the host's FOIA request.
 
-*Related: C-4247, A-2605.2*
+*Related: C-9523, A-2605.2*
 
 **N-10651** Brian Harpole Lawsuit Coordination Question
 
 The Harpole defamation suit, within which the host sent preservation letters to Victor Marx and others.
 
-*Related: C-4214, C-4226, C-4227, A-2602.1*
+*Related: C-9490, C-9502, C-9503, A-2602.1*
 
 **N-10664** Charlie Kirk Aspen Audio Authenticity Question
 
 The disputed video, of which the host says TPUSA offered the Daily Mail a private screening and to whose audio Erika Kirk walked out.
 
-*Related: C-4249, C-4250*
+*Related: C-9525, C-9526*
 
 **N-10679** Lance Twiggs Preliminary Hearing Testimony Limitation
 
 The host says the state plans to call five officers and Lance Twiggs at the preliminary hearing.
 
-*Related: C-4255*
+*Related: C-9531*
 
 **N-10700** Pending FOIA Requests
 
 The host's FOIA request on White House Correspondents' Dinner communications.
 
-*Related: C-4247, A-2605.2*
+*Related: C-9523, A-2605.2*
 
 **N-10782** Tyler Robinson Case Evidence Inventory
 
 The FBI DNA report and ATF ballistics report listed as items 31 and 32 in the defense filing.
 
-*Related: C-4256, C-4257, A-2606.4*
+*Related: C-9532, C-9533, A-2606.4*
 
 **N-10813** Foreign / Israeli Angle Investigation
 
 The claim by Jack Hibbs's circle that Israel knew of the death first.
 
-*Related: C-4265*
+*Related: C-9541*
 
 **N-10899** Paramount Tactical
 
 Called "Paramount not so tactical" by the host; she says she sent it a preservation letter and names it as part of the media and influencer orbit.
 
-*Related: C-4231, A-2602.2*
+*Related: C-9507, A-2602.2*
 
 **N-10916** Thomas Massie Kentucky Primary Outside Spending
 
 Node Type: Topic
 Thomas Massie's Kentucky primary loss, which the host frames as an attempt to buy an outcome with money; it connects to her comments on the candidate she calls "Ed Gallrein."
 
-*Related: C-4213, C-4266, N-580, N-638*
+*Related: C-9489, C-9542, N-580, N-638*
 
 **N-10942** Victor Marx "They Only Wanted Charlie" Text to Erika Kirk
 
 Node Type: Topic
 Investigation target: the text Victor Marx says he sent Erika Kirk while she was at the hospital, telling her "nobody's going to kill you" and that "they just wanted Charlie." The host asks who "they" are and why that would be a first text to a widow.
 
-*Related: C-4230, A-2600.3, N-341, N-2*
+*Related: C-9506, A-2600.3, N-341, N-2*
 
 **N-10943** Charlie Kirk September 15 End-of-Life Document Appointment
 
 Node Type: Topic
 Investigation target: the host's report that Erika Kirk told multiple people that she and Charlie Kirk were due to sign updated end-of-life documents on Monday, September 15, 2025. She also reportedly said a TPUSA board member would help with the changes. The host asks what life event would have prompted the change and offers investigators the names of the people Erika told.
 
-*Related: C-4232, C-4246, A-2603.1, N-2, N-1*
+*Related: C-9508, C-9522, A-2603.1, N-2, N-1*
 
 **N-10944** Kouri Richins Murder Case
 
 Node Type: Topic
 The Utah case of Kouri Richins, who the host says was found guilty of murdering her husband Eric Richins after publishing a children's grief book. The host says his covert estate transfer and her attempted life insurance beneficiary change were central to the prosecution. She cites the case as precedent for scrutinizing will changes around an unexpected death.
 
-*Related: C-4241, C-4242, C-4243, C-4244, C-4245, A-2604.1, N-636, N-637*
+*Related: C-9517, C-9518, C-9519, C-9520, C-9521, A-2604.1, N-636, N-637*
 
 **N-10923** White House Military Office Erika Kirk Amplification Email
 
 Node Type: Topic
 The communication in which, per the host, Erika Kirk was "written in as an emotional asset just over an hour after shots are fired" at the White House Correspondents' Dinner, with the focus on making her video "number one in the morning."
 
-*Related: C-4248, A-2605.1, N-2*
+*Related: C-9524, A-2605.1, N-2*
 
 ## 5. Claim Register
 
-**C-4213** Thomas Massie lost his Kentucky primary
+**C-9489** Thomas Massie lost his Kentucky primary
 
 Claim Timestamp: 00:00:00
 
@@ -592,7 +592,7 @@ Investigative Direction: Check the certified Kentucky Republican primary results
 
 ---
 
-**C-4214** Host sent preservation letters in her lawsuit with Brian Harpole after the Marx interview
+**C-9490** Host sent preservation letters in her lawsuit with Brian Harpole after the Marx interview
 
 Claim Timestamp: 00:00:44
 
@@ -607,7 +607,7 @@ Investigative Direction: Check the Harpole v. Owens docket and counsel correspon
 
 ---
 
-**C-4215** Victor Marx called the interview a 1-hour no-moderator debate
+**C-9491** Victor Marx called the interview a 1-hour no-moderator debate
 
 Claim Timestamp: 00:02:47
 
@@ -621,7 +621,7 @@ Investigative Direction: Retrieve Victor Marx's X post of May 19–20, 2026 and 
 
 ---
 
-**C-4216** Victor Marx says scrutiny began only because he entered politics and is winning the governor's race
+**C-9492** Victor Marx says scrutiny began only because he entered politics and is winning the governor's race
 
 Claim Timestamp: 00:02:47
 
@@ -635,7 +635,7 @@ Investigative Direction: Compare public polling for the 2026 Colorado gubernator
 
 ---
 
-**C-4217** Victor Marx's deleted death post came about 1 hour 20 minutes before the president's announcement
+**C-9493** Victor Marx's deleted death post came about 1 hour 20 minutes before the president's announcement
 
 Claim Timestamp: 00:04:50
 
@@ -646,12 +646,12 @@ Transcript Snippet: you were first to post a video that was later on removed say
 Anchored Artifacts: A-2600.1
 Mentions: N-341, N-1, N-5, N-2, N-3
 Related Nodes: N-10622
-Supports: C-3702
+Supports: C-9362
 Investigative Direction: Recover the archived Instagram story or video with platform timestamps and compare it with Trump's Truth Social post time on September 10, 2025.
 
 ---
 
-**C-4218** Marx says he learned of the shooting from a text by a father whose son was at the event
+**C-9494** Marx says he learned of the shooting from a text by a father whose son was at the event
 
 Claim Timestamp: 00:05:43
 
@@ -666,7 +666,7 @@ Investigative Direction: Obtain the text message and sender identity from Marx's
 
 ---
 
-**C-4219** Marx says he watched the shooting once and his former special operations team judged it fatal
+**C-9495** Marx says he watched the shooting once and his former special operations team judged it fatal
 
 Claim Timestamp: 00:06:34
 
@@ -677,12 +677,12 @@ Transcript Snippet: I watched Charlie being shot one time. And my team uh many w
 Anchored Artifacts: A-2600.1
 Mentions: N-341, N-1
 Related Nodes: N-10622
-Supports: C-3713
+Supports: C-9435
 Investigative Direction: Identify the team members present with Marx on September 10, 2025 and obtain their statements and communications from that afternoon.
 
 ---
 
-**C-4220** Marx says he took the post down as premature after seeing no one else post
+**C-9496** Marx says he took the post down as premature after seeing no one else post
 
 Claim Timestamp: 00:06:34
 
@@ -697,7 +697,7 @@ Investigative Direction: Obtain Instagram deletion metadata for the post and any
 
 ---
 
-**C-4221** Eileen Marx mentors Erika Kirk
+**C-9497** Eileen Marx mentors Erika Kirk
 
 Claim Timestamp: 00:07:31
 
@@ -712,7 +712,7 @@ Investigative Direction: Review the full Marx interview and public records of Ei
 
 ---
 
-**C-4222** Marx's team took over Charlie Kirk's security apparatus 48 hours later in Phoenix
+**C-9498** Marx's team took over Charlie Kirk's security apparatus 48 hours later in Phoenix
 
 Claim Timestamp: 00:07:31
 
@@ -726,7 +726,7 @@ Investigative Direction: Obtain TPUSA and Kirk family security staffing records 
 
 ---
 
-**C-4223** Kolvet texted the host "Shot for sure" on September 10
+**C-9499** Kolvet texted the host "Shot for sure" on September 10
 
 Claim Timestamp: 00:10:12
 
@@ -740,7 +740,7 @@ Investigative Direction: Verify message timestamps from the host's and Kolvet's 
 
 ---
 
-**C-4224** Kolvet told the host Charlie Kirk was shot "in the neck head area"
+**C-9500** Kolvet told the host Charlie Kirk was shot "in the neck head area"
 
 Claim Timestamp: 00:10:12
 
@@ -754,7 +754,7 @@ Investigative Direction: Verify the message timestamp and compare it with when t
 
 ---
 
-**C-4225** Frank Turek and the security team took Charlie Kirk to the hospital
+**C-9501** Frank Turek and the security team took Charlie Kirk to the hospital
 
 Claim Timestamp: 00:11:12
 
@@ -768,7 +768,7 @@ Investigative Direction: Obtain Timpanogos Hospital arrival records and the secu
 
 ---
 
-**C-4226** Host is being sued by Brian Harpole, head of Charlie Kirk's security team
+**C-9502** Host is being sued by Brian Harpole, head of Charlie Kirk's security team
 
 Claim Timestamp: 00:12:00
 
@@ -783,7 +783,7 @@ Investigative Direction: Pull the complaint and docket in Harpole's defamation s
 
 ---
 
-**C-4227** Host sent Victor Marx a legal preservation letter
+**C-9503** Host sent Victor Marx a legal preservation letter
 
 Claim Timestamp: 00:12:44
 
@@ -798,7 +798,7 @@ Investigative Direction: Obtain the letter and any subsequent subpoena for Marx'
 
 ---
 
-**C-4228** Victor Marx went to Erika and Charlie Kirk's home in the first two days
+**C-9504** Victor Marx went to Erika and Charlie Kirk's home in the first two days
 
 Claim Timestamp: 00:12:44
 
@@ -809,12 +809,12 @@ Transcript Snippet: actually maybe it was actually just you in the first 2 days 
 Anchored Artifacts: A-2600.2
 Mentions: N-341, N-2, N-1
 Related Nodes: N-10605
-Supports: C-3703
+Supports: C-9363
 Investigative Direction: Obtain visitor or security logs for the Kirk residence for September 10–12, 2025.
 
 ---
 
-**C-4229** Marx says his team relieved an exhausted security team that had no secondary
+**C-9505** Marx says his team relieved an exhausted security team that had no secondary
 
 Claim Timestamp: 00:13:43
 
@@ -828,7 +828,7 @@ Investigative Direction: Identify who asked Marx's team to provide security and 
 
 ---
 
-**C-4230** Marx texted Erika Kirk that "they just wanted Charlie"
+**C-9506** Marx texted Erika Kirk that "they just wanted Charlie"
 
 Claim Timestamp: 00:14:49
 
@@ -843,7 +843,7 @@ Investigative Direction: Obtain the text and its timestamp from Marx's or Erika 
 
 ---
 
-**C-4231** Host sent a preservation letter to Paramount Not So Tactical
+**C-9507** Host sent a preservation letter to Paramount Not So Tactical
 
 Claim Timestamp: 00:15:46
 
@@ -858,7 +858,7 @@ Investigative Direction: Confirm the letter's recipient and date through the hos
 
 ---
 
-**C-4232** Erika Kirk told multiple people she and Charlie were to sign updated end-of-life documents on September 15
+**C-9508** Erika Kirk told multiple people she and Charlie were to sign updated end-of-life documents on September 15
 
 Claim Timestamp: 00:16:26
 
@@ -873,7 +873,7 @@ Investigative Direction: Identify the Kirks' estate attorney and any calendar en
 
 ---
 
-**C-4233** Erika Kirk told Megyn Kelly Charlie expressed his succession wish only three weeks before his death
+**C-9509** Erika Kirk told Megyn Kelly Charlie expressed his succession wish only three weeks before his death
 
 Claim Timestamp: 00:17:28
 
@@ -888,7 +888,7 @@ Investigative Direction: Review the Megyn Kelly interview transcript for Erika K
 
 ---
 
-**C-4234** Charlie Kirk's corporate life insurance included a $10 million payout for Erika and the children
+**C-9510** Charlie Kirk's corporate life insurance included a $10 million payout for Erika and the children
 
 Claim Timestamp: 00:20:57
 
@@ -903,7 +903,7 @@ Investigative Direction: Check TPUSA Form 990 disclosures and any key-person ins
 
 ---
 
-**C-4235** Charlie Kirk told people $10 million was missing from his company
+**C-9511** Charlie Kirk told people $10 million was missing from his company
 
 Claim Timestamp: 00:22:52
 
@@ -918,7 +918,7 @@ Investigative Direction: Interview the people Kirk told and review TPUSA financi
 
 ---
 
-**C-4236** Charlie Kirk's DOGE internal audit was cancelled after his death
+**C-9512** Charlie Kirk's DOGE internal audit was cancelled after his death
 
 Claim Timestamp: 00:22:52
 
@@ -929,12 +929,12 @@ Transcript Snippet: in the midst of him establishing a DOGE internal audit to lo
 Anchored Artifacts:
 Mentions: N-1
 Related Nodes: N-10132
-Supports: C-1876
+Supports: C-3788
 Investigative Direction: Obtain TPUSA internal memos on the audit or DOGE department and any later cancellation notice.
 
 ---
 
-**C-4237** Charlie Kirk texted those closest to him "They're going to kill me"
+**C-9513** Charlie Kirk texted those closest to him "They're going to kill me"
 
 Claim Timestamp: 00:22:52
 
@@ -949,7 +949,7 @@ Investigative Direction: Obtain the original messages and recipients from the ph
 
 ---
 
-**C-4238** Charlie Kirk said "I want Candace back"
+**C-9514** Charlie Kirk said "I want Candace back"
 
 Claim Timestamp: 00:23:50
 
@@ -963,7 +963,7 @@ Investigative Direction: Identify who heard Kirk say this and when, and obtain a
 
 ---
 
-**C-4239** Andrew Kolvet ran Charlie Kirk's Twitter
+**C-9515** Andrew Kolvet ran Charlie Kirk's Twitter
 
 Claim Timestamp: 00:23:50
 
@@ -978,7 +978,7 @@ Investigative Direction: Obtain X account login and session records for @charlie
 
 ---
 
-**C-4240** Mikey McCoy had Charlie Kirk's laptop
+**C-9516** Mikey McCoy had Charlie Kirk's laptop
 
 Claim Timestamp: 00:24:28
 
@@ -992,7 +992,7 @@ Investigative Direction: Establish custody of Kirk's laptop and devices before a
 
 ---
 
-**C-4241** Kouri Richins was found guilty of murdering her husband after a grief book tour
+**C-9517** Kouri Richins was found guilty of murdering her husband after a grief book tour
 
 Claim Timestamp: 00:24:28
 
@@ -1007,7 +1007,7 @@ Investigative Direction: Check the Summit County, Utah court record for the verd
 
 ---
 
-**C-4242** Kouri Richins said on TV her husband died unexpectedly at 39
+**C-9518** Kouri Richins said on TV her husband died unexpectedly at 39
 
 Claim Timestamp: 00:25:32
 
@@ -1022,7 +1022,7 @@ Investigative Direction: Locate the original broadcast and its air date.
 
 ---
 
-**C-4243** Kouri Richins was arrested a month after the book interview
+**C-9519** Kouri Richins was arrested a month after the book interview
 
 Claim Timestamp: 00:26:29
 
@@ -1037,7 +1037,7 @@ Investigative Direction: Check the arrest date in Summit County, Utah records ag
 
 ---
 
-**C-4244** Eric Richins covertly transferred his estate to his sister before his death
+**C-9520** Eric Richins covertly transferred his estate to his sister before his death
 
 Claim Timestamp: 00:26:29
 
@@ -1052,7 +1052,7 @@ Investigative Direction: Review trial testimony and estate filings in the Richin
 
 ---
 
-**C-4245** Kouri Richins attempted to change the beneficiary of her husband's life insurance
+**C-9521** Kouri Richins attempted to change the beneficiary of her husband's life insurance
 
 Claim Timestamp: 00:27:25
 
@@ -1067,7 +1067,7 @@ Investigative Direction: Review trial exhibits on the insurance beneficiary chan
 
 ---
 
-**C-4246** Erika Kirk said a TPUSA board member would help with the will changes, which the Daily Mail later confirmed
+**C-9522** Erika Kirk said a TPUSA board member would help with the will changes, which the Daily Mail later confirmed
 
 Claim Timestamp: 00:30:40
 
@@ -1082,7 +1082,7 @@ Investigative Direction: Identify the TPUSA board member quoted in the Daily Mai
 
 ---
 
-**C-4247** Host filed a FOIA request on White House Correspondents' Dinner communications and the White House has not responded
+**C-9523** Host filed a FOIA request on White House Correspondents' Dinner communications and the White House has not responded
 
 Claim Timestamp: 00:32:07
 
@@ -1097,7 +1097,7 @@ Investigative Direction: Track the FOIA request number and statutory response de
 
 ---
 
-**C-4248** Erika Kirk was written in as an "emotional asset" just over an hour after shots were fired
+**C-9524** Erika Kirk was written in as an "emotional asset" just over an hour after shots were fired
 
 Claim Timestamp: 00:32:07
 
@@ -1112,7 +1112,7 @@ Investigative Direction: Obtain the original email with headers and timestamps a
 
 ---
 
-**C-4249** TPUSA offered the Daily Mail a private screening of the disputed video
+**C-9525** TPUSA offered the Daily Mail a private screening of the disputed video
 
 Claim Timestamp: 00:32:07
 
@@ -1127,7 +1127,7 @@ Investigative Direction: Review the Daily Mail article describing the screening 
 
 ---
 
-**C-4250** Erika Kirk walked out to only the audio of the video
+**C-9526** Erika Kirk walked out to only the audio of the video
 
 Claim Timestamp: 00:33:12
 
@@ -1142,7 +1142,7 @@ Investigative Direction: Identify the event where the audio was played for Erika
 
 ---
 
-**C-4251** Fox News headline said the Robinson defense moved to restrict evidence and testimony
+**C-9527** Fox News headline said the Robinson defense moved to restrict evidence and testimony
 
 Claim Timestamp: 00:34:07
 
@@ -1157,7 +1157,7 @@ Investigative Direction: Compare the Fox News article with the defense motion fi
 
 ---
 
-**C-4252** AP and NewsNation reported the defense sought to seal evidence
+**C-9528** AP and NewsNation reported the defense sought to seal evidence
 
 Claim Timestamp: 00:34:43
 
@@ -1171,7 +1171,7 @@ Investigative Direction: Retrieve the AP and NewsNation articles and compare the
 
 ---
 
-**C-4253** The Robinson defense still has not received its discovery requests
+**C-9529** The Robinson defense still has not received its discovery requests
 
 Claim Timestamp: 00:34:43
 
@@ -1186,7 +1186,7 @@ Investigative Direction: Check the docket for discovery motions, orders and the 
 
 ---
 
-**C-4254** The defense asks that preliminary-hearing evidence be sealed in case it is later ruled inadmissible
+**C-9530** The defense asks that preliminary-hearing evidence be sealed in case it is later ruled inadmissible
 
 Claim Timestamp: 00:35:34
 
@@ -1201,7 +1201,7 @@ Investigative Direction: Obtain the defense motion to seal and its exhibit table
 
 ---
 
-**C-4255** The state plans to call five officers and Lance Twiggs at the preliminary hearing
+**C-9531** The state plans to call five officers and Lance Twiggs at the preliminary hearing
 
 Claim Timestamp: 00:36:18
 
@@ -1216,7 +1216,7 @@ Investigative Direction: Check the state's witness list for the preliminary hear
 
 ---
 
-**C-4256** The sealing list includes the FBI DNA report on the towel and screwdriver
+**C-9532** The sealing list includes the FBI DNA report on the towel and screwdriver
 
 Claim Timestamp: 00:37:12
 
@@ -1231,7 +1231,7 @@ Investigative Direction: Obtain the filing's exhibit list and the FBI laboratory
 
 ---
 
-**C-4257** The defense says it has not been able to see the gun; the ATF ballistics report is item 32
+**C-9533** The defense says it has not been able to see the gun; the ATF ballistics report is item 32
 
 Claim Timestamp: 00:37:12
 
@@ -1246,7 +1246,7 @@ Investigative Direction: Check defense filings on access to the rifle and the AT
 
 ---
 
-**C-4258** Joe Rogan said Theo Von's Netflix taping was shelved
+**C-9534** Joe Rogan said Theo Von's Netflix taping was shelved
 
 Claim Timestamp: 00:39:00
 
@@ -1260,7 +1260,7 @@ Investigative Direction: Check Netflix's release records and reporting on any un
 
 ---
 
-**C-4259** Rogan said Theo Von told a crowd he was "trying not to take my own life"
+**C-9535** Rogan said Theo Von told a crowd he was "trying not to take my own life"
 
 Claim Timestamp: 00:39:00
 
@@ -1274,7 +1274,7 @@ Investigative Direction: Locate the crowd video and its context; the host says T
 
 ---
 
-**C-4260** Rogan said the chemical-imbalance explanation for SSRIs is not real
+**C-9536** Rogan said the chemical-imbalance explanation for SSRIs is not real
 
 Claim Timestamp: 00:40:04
 
@@ -1288,7 +1288,7 @@ Investigative Direction: Review the 2022 Moncrieff et al. umbrella review on ser
 
 ---
 
-**C-4261** Theo Von responded that the Rogan clip was "mostly cap"
+**C-9537** Theo Von responded that the Rogan clip was "mostly cap"
 
 Claim Timestamp: 00:41:33
 
@@ -1302,7 +1302,7 @@ Investigative Direction: Retrieve Theo Von's post and its timestamp.
 
 ---
 
-**C-4262** Joe Rogan recorded a standalone apology for the first time in his show's history
+**C-9538** Joe Rogan recorded a standalone apology for the first time in his show's history
 
 Claim Timestamp: 00:41:33
 
@@ -1316,7 +1316,7 @@ Investigative Direction: Check the Joe Rogan Experience feed for the standalone 
 
 ---
 
-**C-4263** Host says the Erika Kirk trademark lawsuit rumor is unfounded
+**C-9539** Host says the Erika Kirk trademark lawsuit rumor is unfounded
 
 Claim Timestamp: 00:49:12
 
@@ -1330,7 +1330,7 @@ Investigative Direction: Search USPTO filings for "Charlie Kirk" marks and their
 
 ---
 
-**C-4264** Marx's post came around when Erika learned of the death and just before Kolvet did
+**C-9540** Marx's post came around when Erika learned of the death and just before Kolvet did
 
 Claim Timestamp: 00:52:19
 
@@ -1345,7 +1345,7 @@ Investigative Direction: Build a minute-level timeline from Marx's post metadata
 
 ---
 
-**C-4265** Jack Hibbs's circle said early that Charlie had died and that Israel knew first
+**C-9541** Jack Hibbs's circle said early that Charlie had died and that Israel knew first
 
 Claim Timestamp: 00:52:19
 
@@ -1360,7 +1360,7 @@ Investigative Direction: Timestamp Jack Hibbs's earliest public statements and i
 
 ---
 
-**C-4266** Ed Gallrein had no crowd at his victory party
+**C-9542** Ed Gallrein had no crowd at his victory party
 
 Claim Timestamp: 00:55:09
 
@@ -1592,7 +1592,7 @@ Confidence: high
 - **Duration**: the skeleton meta gave 00:56:29; the range was reset to the transcript front-matter duration 57:23.
 - **Not inscribed as claims (admission test)**:
   - The host's speculation that the board member was "maybe like a Doug DeGroote, like Miller" (31:39), which she calls "a shot in the dark". "Miller" is unidentifiable.
-  - "you're protecting someone" and the inference that Marx was informed by someone at the hospital (kept only within C-4264)
+  - "you're protecting someone" and the inference that Marx was informed by someone at the hospital (kept only within C-9540)
   - Characterizations of Marx as arrogant, "soft", "emotionally unstable", and the viewer allegation of emotional abuse
   - The "three-year-old beheading a cat" comparison
   - "Who's they?" and other rhetorical questions
@@ -1601,4 +1601,4 @@ Confidence: high
   - Slave-code and 9/11 historical asides
   - Insults directed at Ed Gallrein
 - **Minor beats not inscribed**: the Nimi Skin Care sponsor read; the Hunter Biden interview airing the next day at 5:00 p.m. Eastern; the show being off for Memorial Day; the YouTube channel "flirting with 6 million" subscribers; the host's college Xanax prescription anecdote; the viewer question on the LA mosque shooting (the host did not follow it); and the data-center comment.
-- **Cross-episode links**: C-4217 Supports C-3702, C-4219 Supports C-3713, C-4228 Supports C-3703 (all episode 107), and C-4236 Supports C-1876 (DOJ audit cancelled). Links left out: C-4237 vs C-2274/C-2787 (kill-me texts; recipients and framing differ); C-4261 vs C-1365 (Theo Von denial in episode 14 appears to be an earlier, different incident); C-4217 vs C-2748 (episode 93 gives a 1:13 PM time, not the same proposition); C-4232 vs C-3414 (episode 150 is later and cannot be linked).
+- **Cross-episode links**: C-9493 Supports C-9362, C-9495 Supports C-9435, C-9504 Supports C-9363 (all episode 107), and C-9512 Supports C-3788 (DOJ audit cancelled). Links left out: C-9513 vs C-6052/C-8474 (kill-me texts; recipients and framing differ); C-9537 vs C-1312 (Theo Von denial in episode 14 appears to be an earlier, different incident); C-9493 vs C-8316 (episode 93 gives a 1:13 PM time, not the same proposition); C-9508 vs C-12974 (episode 150 is later and cannot be linked).

@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10f): N-11356
   - Tip-minted Nodes (reintro-ep102): N-10963, N-11312
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10f): C-12970–C-13055
+  - Claim Range: C-9042–C-9151
   - New Nodes Introduced: N-10666, N-10667
   - Hole-minted Nodes (wave3): N-431
   - Reused Nodes Appearing: N-11, N-10373, N-424, N-10664, N-432, N-10665, N-4, N-15, N-46, N-130, N-157, N-213, N-224, N-267, N-278, N-361, N-484, N-485, N-580, N-595, N-799, N-892, N-10000, N-10059, N-10349, N-10367, N-10417, N-10538, N-10609, N-10649, N-10862, N-10897, N-10899, N-10936, N-11001, N-11104, N-11109, N-11182, N-11248, N-11255, N-11287
@@ -37,7 +37,6 @@
 - Analysis date: 2026-05-11
 - Ledger continuation summary:
   - Artifact Families Introduced: A-2062, A-2063, A-2064, A-2065, A-2066, A-2067, A-2068, A-2069, A-2070, A-2071, A-2072, A-2073, A-2074, A-2075
-  - Claim Range: C-2884–C-2908
   - New Nodes Introduced (people): none (Wave 2: local ids removed)
   - New Nodes Introduced (investigation targets): N-10664–N-10667
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
@@ -66,7 +65,7 @@ Video Timestamp: 00:01:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2885, N-10667*
+*Related: C-9045, N-10667*
 
 **A-2063** Andrew Kolvet Response Bundle
 
@@ -80,7 +79,7 @@ Video Timestamp: 00:01:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2884, N-10667*
+*Related: C-9044, N-10667*
 
 **A-2064** Tyler Bowyer Response Bundle
 
@@ -94,7 +93,7 @@ Video Timestamp: 00:02:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2886, N-41, N-10667, N-11*
+*Related: C-9046, N-41, N-10667, N-11*
 
 **A-2065** Blake Neff Response Bundle
 
@@ -108,7 +107,7 @@ Video Timestamp: 00:02:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2887, N-10667*
+*Related: C-9047, N-10667*
 
 **A-2066** Charlie Kirk Aspen Audio Bundle
 
@@ -122,7 +121,7 @@ Video Timestamp: 00:05:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2888, C-2889, N-1, N-2, N-10664*
+*Related: C-9050, C-9053, N-1, N-2, N-10664*
 
 **A-2066.2** Host-maintained count: 39 days since first donor-faked report
 
@@ -132,7 +131,7 @@ Video Timestamp: 00:04:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2888, N-1, N-10664*
+*Related: C-9050, N-1, N-10664*
 
 **A-2067** Kimberly Klacik Social Media Bundle
 
@@ -146,7 +145,7 @@ Video Timestamp: 00:09:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2893, N-10664*
+*Related: C-9063, N-10664*
 
 **A-2068** Marcus Wada AI Voice Bundle
 
@@ -158,7 +157,7 @@ Video Timestamp: 00:07:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2890, N-10664*
+*Related: C-9057, N-10664*
 
 **A-2068.2** Source claim: TPUSA typically uses Pastor John Amanchukwu's AI-cloned voice for presentations
 
@@ -168,7 +167,7 @@ Video Timestamp: 00:07:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2891, N-10664*
+*Related: C-9058, N-10664*
 
 **A-2069** John Mappin Social Media Bundle
 
@@ -182,7 +181,7 @@ Video Timestamp: 00:09:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2888, C-2892, N-1, N-10664*
+*Related: C-9050, C-9062, N-1, N-10664*
 
 **A-2070** Hillsdale College Event Bundle
 
@@ -195,7 +194,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (verbal reference, no displayed source)
 Flag: Artifact verbally referenced but not shown
 
-*Related: C-2894, N-2*
+*Related: C-9066, N-2*
 
 **A-2070.2** Brian Allen tweet criticizing Hillsdale honorary doctorate
 
@@ -207,7 +206,7 @@ Video Timestamp: 00:16:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2895, N-2*
+*Related: C-9068, N-2*
 
 **A-2071** Erika Kirk LinkedIn Bundle
 
@@ -219,7 +218,7 @@ Video Timestamp: 00:17:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (archived/captured before removal)
 
-*Related: C-2896, N-10665*
+*Related: C-9069, N-10665*
 
 **A-2071.2** Erika Kirk LinkedIn page – claimed summa cum laude with double degree (political science and international relations)
 
@@ -229,7 +228,7 @@ Video Timestamp: 00:18:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (archived/captured before removal)
 
-*Related: C-2897, N-10665*
+*Related: C-9072, N-10665*
 
 **A-2071.3** Erika Kirk LinkedIn page – claimed Doctor of Education in Christian Leadership from Liberty University
 
@@ -239,7 +238,7 @@ Video Timestamp: 00:18:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2899, N-2, N-10665*
+*Related: C-9076, N-2, N-10665*
 
 **A-2072** ASU Catalog Verification Bundle
 
@@ -251,7 +250,7 @@ Video Timestamp: 00:18:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2898, N-10665*
+*Related: C-9075, N-10665*
 
 **A-2073** Nick Shirley Favela Bundle
 
@@ -265,7 +264,7 @@ Video Timestamp: 00:26:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2901, N-10666*
+*Related: C-9082, N-10666*
 
 **A-2073.2** Patrick Bet-David interview clip with Nick Shirley
 
@@ -277,7 +276,7 @@ Video Timestamp: 00:28:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2902, N-10666*
+*Related: C-9087, N-10666*
 
 **A-2074** Alex Clark Social Media Bundle
 
@@ -291,7 +290,7 @@ Video Timestamp: 00:30:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2903, N-10666*
+*Related: C-9089, N-10666*
 
 **A-2075** Brian Harpole Fort Huachuca Alibi Bundle
 
@@ -305,7 +304,7 @@ Video Timestamp: 00:49:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (relayed from Erika)
 
-*Related: C-2904, C-2908, N-2, N-10373*
+*Related: C-9124, C-9105, N-2, N-10373*
 
 **A-2075.2** Fort Huachuca alibi photograph provided by Andrew Kolvet
 
@@ -317,7 +316,7 @@ Video Timestamp: 00:52:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2905, C-2907, N-10373*
+*Related: C-9134, C-9136, N-10373*
 
 **A-2075.3** Paramount Tactical admission that Fort Huachuca alibi photo boy is not Erika Kirk's son
 
@@ -327,7 +326,7 @@ Video Timestamp: 00:52:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2906, N-2, N-10373*
+*Related: C-9135, N-2, N-10373*
 
 ---
 
@@ -342,7 +341,7 @@ Video Timestamp: 00:02:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-12972, N-10667, N-10897, N-159*
+*Related: C-9048, N-10667, N-10897, N-159*
 
 ---
 
@@ -355,7 +354,7 @@ Video Timestamp: 00:17:23
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12985, C-12986, N-10665, N-11248, N-2*
+*Related: C-9070, C-9071, N-10665, N-11248, N-2*
 
 ---
 
@@ -370,7 +369,7 @@ Video Timestamp: 00:37:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-13005, N-10963*
+*Related: C-9096, N-10963*
 
 ---
 
@@ -385,7 +384,7 @@ Video Timestamp: 00:45:18
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-13014, N-157, N-3*
+*Related: C-9106, N-157, N-3*
 
 ---
 
@@ -398,7 +397,7 @@ Video Timestamp: 00:53:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13045, C-13046, N-10367, N-361*
+*Related: C-9141, C-9142, N-10367, N-361*
 
 ---
 
@@ -411,7 +410,7 @@ Video Timestamp: 00:54:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13048, C-13049, C-13050, N-10373, N-10862, N-224, N-266, N-3*
+*Related: C-9144, C-9145, C-9146, N-10373, N-10862, N-224, N-266, N-3*
 
 ---
 
@@ -424,7 +423,7 @@ Video Timestamp: 00:59:04
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13055, N-10649, N-3*
+*Related: C-9151, N-10649, N-3*
 
 ---
 
@@ -434,13 +433,13 @@ Confidence Level: Low
 
 First named by the host at 00:07:32 in episode 102.
 
-*Related: C-2890, C-2891*
+*Related: C-9057, C-9058*
 
 **N-432** Kimberly Klacik
 
 First named by the host at 00:09:42 in episode 102. Aliases: Kim Klacik.
 
-*Related: C-2893*
+*Related: C-9063*
 
 
 
@@ -453,7 +452,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2066.1, A-2066.2, A-2067.1, A-2068.1, A-2068.2, A-2069.1, C-2888, C-2889, C-2890, C-2891, C-2892, C-2893, N-1, N-2*
+*Related: A-2066.1, A-2066.2, A-2067.1, A-2068.1, A-2068.2, A-2069.1, C-9050, C-9053, C-9057, C-9058, C-9062, C-9063, N-1, N-2*
 
 **N-10665** Erika Kirk Educational Credentials Discrepancy
 
@@ -464,7 +463,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2071.1, A-2071.2, A-2071.3, A-2072.1, C-2896, C-2897, C-2898, C-2899, N-2*
+*Related: A-2071.1, A-2071.2, A-2071.3, A-2072.1, C-9069, C-9072, C-9075, C-9076, N-2*
 
 **N-10373** Brian Harpole Fort Huachuca Presence Verification
 
@@ -475,7 +474,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2075.1, A-2075.2, A-2075.3, C-2904, C-2905, C-2906, C-2907, C-2908, N-2*
+*Related: A-2075.1, A-2075.2, A-2075.3, C-9124, C-9134, C-9135, C-9136, C-9105, N-2*
 
 **N-10666** Nick Shirley Background and Backing Verification
 
@@ -486,7 +485,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2073.1, A-2073.2, A-2074.1, C-2901, C-2902, C-2903*
+*Related: A-2073.1, A-2073.2, A-2074.1, C-9082, C-9087, C-9089*
 
 **N-10667** Project Constitution / TPUSA Divorce Rumor Verification
 
@@ -497,7 +496,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2062.1, A-2063.1, A-2064.1, A-2065.1, C-2884, C-2885, C-2886, C-2887, N-41*
+*Related: A-2062.1, A-2063.1, A-2064.1, A-2065.1, C-9044, C-9045, C-9046, C-9047, N-41*
 
 ---
 
@@ -506,7 +505,7 @@ Investigative Pressure: Low
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
 
-*Related: C-2886*
+*Related: C-9046*
 
 ---
 
@@ -514,7 +513,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 Subject of the appointment audio and the host's account of his stance on women working.
 
-*Related: C-12974, C-12978, C-12980, C-12981, C-12982, C-12984, C-12992, C-12995, C-12996, C-13003, C-13007, C-13012, C-13013, C-13054*
+*Related: C-9051, C-9056, C-9060, C-9061, C-9064, C-9067, C-9080, C-9084, C-9085, C-9094, C-9098, C-9103, C-9104, C-9150*
 
 ---
 
@@ -522,7 +521,7 @@ Subject of the appointment audio and the host's account of his stance on women w
 
 Widow and TPUSA CEO; subject of the credentials, Hillsdale and Fort Huachuca claims.
 
-*Related: C-12970, C-12971, C-12977, C-12978, C-12982, C-12984, C-12985, C-12986, C-12987, C-12988, C-12989, C-12990, C-13003, C-13007, C-13008, C-13011, C-13012, C-13017, C-13019, C-13020, C-13021, C-13022, C-13023, C-13024, C-13032, C-13033, C-13039, C-13040, C-13041, C-13042, C-13043, C-13044, C-13053, C-13054*
+*Related: C-9042, C-9043, C-9055, C-9056, C-9064, C-9067, C-9070, C-9071, C-9073, C-9074, C-9077, C-9078, C-9094, C-9098, C-9099, C-9102, C-9103, C-9109, C-9111, C-9112, C-9113, C-9114, C-9115, C-9116, C-9125, C-9126, C-9132, C-9133, C-9137, C-9138, C-9139, C-9140, C-9149, C-9150*
 
 ---
 
@@ -530,7 +529,7 @@ Widow and TPUSA CEO; subject of the credentials, Hillsdale and Fort Huachuca cla
 
 Host; speaks for herself throughout.
 
-*Related: C-12970, C-12973, C-12976, C-12990, C-12992, C-12995, C-12996, C-13002, C-13014, C-13015, C-13016, C-13021, C-13022, C-13023, C-13024, C-13025, C-13026, C-13027, C-13028, C-13029, C-13030, C-13031, C-13033, C-13034, C-13035, C-13036, C-13038, C-13039, C-13040, C-13041, C-13042, C-13043, C-13044, C-13047, C-13049, C-13050, C-13051, C-13053, C-13055*
+*Related: C-9042, C-9049, C-9054, C-9078, C-9080, C-9084, C-9085, C-9093, C-9106, C-9107, C-9108, C-9113, C-9114, C-9115, C-9116, C-9117, C-9118, C-9119, C-9120, C-9121, C-9122, C-9123, C-9126, C-9127, C-9128, C-9129, C-9131, C-9132, C-9133, C-9137, C-9138, C-9139, C-9140, C-9143, C-9145, C-9146, C-9147, C-9149, C-9151*
 
 ---
 
@@ -538,7 +537,7 @@ Host; speaks for herself throughout.
 
 Vice President; the host says he lectured the audience when Erika did not attend.
 
-*Related: C-13011*
+*Related: C-9102*
 
 ---
 
@@ -546,7 +545,7 @@ Vice President; the host says he lectured the audience when Erika did not attend
 
 TPUSA spokesperson; subject of the alibi coordination, PR role and divorce rumor claims.
 
-*Related: C-12973, C-13008, C-13042, C-13043, C-13044*
+*Related: C-9049, C-9099, C-9138, C-9139, C-9140*
 
 ---
 
@@ -554,7 +553,7 @@ TPUSA spokesperson; subject of the alibi coordination, PR role and divorce rumor
 
 TPUSA COO; the host says he emailed her team and asked when her show goes off air.
 
-*Related: C-13025, C-13034*
+*Related: C-9117, C-9127*
 
 ---
 
@@ -562,7 +561,7 @@ TPUSA COO; the host says he emailed her team and asked when her show goes off ai
 
 Megyn Kelly; Erika told her an emotional story about the video.
 
-*Related: C-12977*
+*Related: C-9055*
 
 ---
 
@@ -570,7 +569,7 @@ Megyn Kelly; Erika told her an emotional story about the video.
 
 Patrick Bet-David; hosted Nick Shirley and a guest on Charlie.
 
-*Related: C-12995, C-12997, C-12999, C-13000*
+*Related: C-9084, C-9086, C-9090, C-9091*
 
 ---
 
@@ -578,7 +577,7 @@ Patrick Bet-David; hosted Nick Shirley and a guest on Charlie.
 
 Ian Carroll; the host says he called her as Valhalla threatened her.
 
-*Related: C-13026*
+*Related: C-9118*
 
 ---
 
@@ -586,7 +585,7 @@ Ian Carroll; the host says he called her as Valhalla threatened her.
 
 John Mappin; said to have introduced Charlie to his biggest donor.
 
-*Related: C-12980*
+*Related: C-9060*
 
 ---
 
@@ -594,7 +593,7 @@ John Mappin; said to have introduced Charlie to his biggest donor.
 
 The Quartering; subject of a viewer comment about a potential lawsuit.
 
-*Related: C-13014*
+*Related: C-9106*
 
 ---
 
@@ -602,7 +601,7 @@ The Quartering; subject of a viewer comment about a potential lawsuit.
 
 Blake Neff; his AI concern and subway scenario are the stated reasons for withholding the video.
 
-*Related: C-12972, C-12975, C-12983*
+*Related: C-9048, C-9052, C-9065*
 
 ---
 
@@ -610,7 +609,7 @@ Blake Neff; his AI concern and subway scenario are the stated reasons for withho
 
 Nick Shirley; subject of the host's favela video skepticism.
 
-*Related: C-12991, C-12992, C-12993, C-12994, C-12997, C-12998, C-12999, C-13000, C-13001, C-13004*
+*Related: C-9079, C-9080, C-9081, C-9083, C-9086, C-9088, C-9090, C-9091, C-9092, C-9095*
 
 ---
 
@@ -618,7 +617,7 @@ Nick Shirley; subject of the host's favela video skepticism.
 
 Shawn Ryan; host of the interview in which Harpole appeared.
 
-*Related: C-13032, C-13050*
+*Related: C-9125, C-9146*
 
 ---
 
@@ -626,7 +625,7 @@ Shawn Ryan; host of the interview in which Harpole appeared.
 
 Brian Harpole; subject of the alibi and lawsuit claims.
 
-*Related: C-13017, C-13018, C-13019, C-13021, C-13028, C-13029, C-13032, C-13048, C-13049, C-13050, C-13051, C-13052*
+*Related: C-9109, C-9110, C-9111, C-9113, C-9120, C-9121, C-9125, C-9144, C-9145, C-9146, C-9147, C-9148*
 
 ---
 
@@ -634,7 +633,7 @@ Brian Harpole; subject of the alibi and lawsuit claims.
 
 Tim Pool; named among those backing Shirley.
 
-*Related: C-12994*
+*Related: C-9083*
 
 ---
 
@@ -642,7 +641,7 @@ Tim Pool; named among those backing Shirley.
 
 Bari Weiss; interviewed Erika with the cut clip about the host.
 
-*Related: C-13023, C-13024*
+*Related: C-9115, C-9116*
 
 ---
 
@@ -650,7 +649,7 @@ Bari Weiss; interviewed Erika with the cut clip about the host.
 
 Mitch Snow; the Fort Huachuca eyewitness.
 
-*Related: C-13016, C-13017, C-13018, C-13019, C-13026, C-13027, C-13028, C-13034, C-13035, C-13036, C-13037, C-13038, C-13045, C-13046, C-13047*
+*Related: C-9108, C-9109, C-9110, C-9111, C-9118, C-9119, C-9120, C-9127, C-9128, C-9129, C-9130, C-9131, C-9141, C-9142, C-9143*
 
 ---
 
@@ -658,7 +657,7 @@ Mitch Snow; the Fort Huachuca eyewitness.
 
 Marcus Wada; TPUSA employee the host calls a former arms dealer.
 
-*Related: C-12979*
+*Related: C-9059*
 
 ---
 
@@ -666,7 +665,7 @@ Marcus Wada; TPUSA employee the host calls a former arms dealer.
 
 Blake Lively; party in the dispute the host cites.
 
-*Related: C-13015*
+*Related: C-9107*
 
 ---
 
@@ -674,7 +673,7 @@ Blake Lively; party in the dispute the host cites.
 
 Justin Baldoni; party in the dispute the host cites.
 
-*Related: C-13015*
+*Related: C-9107*
 
 ---
 
@@ -682,7 +681,7 @@ Justin Baldoni; party in the dispute the host cites.
 
 Thomas Massie; named in a viewer comment.
 
-*Related: C-13054*
+*Related: C-9150*
 
 ---
 
@@ -690,7 +689,7 @@ Thomas Massie; named in a viewer comment.
 
 Druski (spelled Druski and Druski in the transcript); comedian whose skit mocked Erika.
 
-*Related: C-13007, C-13008, C-13009, C-13010*
+*Related: C-9098, C-9099, C-9100, C-9101*
 
 ---
 
@@ -698,7 +697,7 @@ Druski (spelled Druski and Druski in the transcript); comedian whose skit mocked
 
 Harris Faulkner; Fox host who interviewed Erika.
 
-*Related: C-13022*
+*Related: C-9114*
 
 ---
 
@@ -706,7 +705,7 @@ Harris Faulkner; Fox host who interviewed Erika.
 
 Bryan Freedman; lawyer whose publish-it-all approach the host cites.
 
-*Related: C-13015*
+*Related: C-9107*
 
 ---
 
@@ -714,7 +713,7 @@ Bryan Freedman; lawyer whose publish-it-all approach the host cites.
 
 Turning Point USA; withholds the video.
 
-*Related: C-12974, C-12976, C-13003*
+*Related: C-9051, C-9054, C-9094*
 
 ---
 
@@ -722,7 +721,7 @@ Turning Point USA; withholds the video.
 
 PBD Podcast; platform for the Shirley interview.
 
-*Related: C-12995*
+*Related: C-9084*
 
 ---
 
@@ -730,7 +729,7 @@ PBD Podcast; platform for the Shirley interview.
 
 Existing topic reused for the Bari Weiss question.
 
-*Related: C-13023, C-13024*
+*Related: C-9115, C-9116*
 
 ---
 
@@ -738,7 +737,7 @@ Existing topic reused for the Bari Weiss question.
 
 Existing topic reused for the Mitch eyewitness encounter.
 
-*Related: C-13016, C-13017, C-13019, C-13021, C-13022, C-13035, C-13045, C-13046, C-13047*
+*Related: C-9108, C-9109, C-9111, C-9113, C-9114, C-9128, C-9141, C-9142, C-9143*
 
 ---
 
@@ -746,7 +745,7 @@ Existing topic reused for the Mitch eyewitness encounter.
 
 Existing topic reused for Erika's Fort Huachuca ties.
 
-*Related: C-13020*
+*Related: C-9112*
 
 ---
 
@@ -754,7 +753,7 @@ Existing topic reused for Erika's Fort Huachuca ties.
 
 Existing topic reused for the Massie disavowal.
 
-*Related: C-13054*
+*Related: C-9150*
 
 ---
 
@@ -762,7 +761,7 @@ Existing topic reused for the Massie disavowal.
 
 Existing topic reused for Wada's background.
 
-*Related: C-12979*
+*Related: C-9059*
 
 ---
 
@@ -770,7 +769,7 @@ Existing topic reused for Wada's background.
 
 Existing topic reused for the December 15 meeting.
 
-*Related: C-13015, C-13030, C-13033, C-13034, C-13055*
+*Related: C-9107, C-9122, C-9126, C-9127, C-9151*
 
 ---
 
@@ -778,7 +777,7 @@ Existing topic reused for the December 15 meeting.
 
 Existing topic reused for Harpole's statements.
 
-*Related: C-13032, C-13048, C-13049, C-13050, C-13052*
+*Related: C-9125, C-9144, C-9145, C-9146, C-9148*
 
 ---
 
@@ -786,7 +785,7 @@ Existing topic reused for Harpole's statements.
 
 Project Constitution; the X account Neff replied to.
 
-*Related: C-12972*
+*Related: C-9048*
 
 ---
 
@@ -794,7 +793,7 @@ Project Constitution; the X account Neff replied to.
 
 Paramount Tactical; livestream account that read the alibi.
 
-*Related: C-13026, C-13027, C-13031, C-13036, C-13037, C-13038, C-13039, C-13040, C-13041*
+*Related: C-9118, C-9119, C-9123, C-9129, C-9130, C-9131, C-9132, C-9133, C-9137*
 
 ---
 
@@ -802,7 +801,7 @@ Paramount Tactical; livestream account that read the alibi.
 
 Existing topic reused for non-release of the video.
 
-*Related: C-12974, C-12975, C-12983*
+*Related: C-9051, C-9052, C-9065*
 
 ---
 
@@ -810,7 +809,7 @@ Existing topic reused for non-release of the video.
 
 Cuba; subject of Shirley's trip and the headline.
 
-*Related: C-13004, C-13005, C-13006*
+*Related: C-9095, C-9096, C-9097*
 
 ---
 
@@ -818,7 +817,7 @@ Cuba; subject of Shirley's trip and the headline.
 
 Valhalla VFT; account the host says threatened her.
 
-*Related: C-13026, C-13027, C-13036, C-13037, C-13038*
+*Related: C-9118, C-9119, C-9129, C-9130, C-9131*
 
 ---
 
@@ -826,7 +825,7 @@ Valhalla VFT; account the host says threatened her.
 
 Liberty University; Erika's master's.
 
-*Related: C-12989*
+*Related: C-9077*
 
 ---
 
@@ -834,7 +833,7 @@ Liberty University; Erika's master's.
 
 Existing topic reused for the rogue explanation.
 
-*Related: C-13044*
+*Related: C-9140*
 
 ---
 
@@ -842,7 +841,7 @@ Existing topic reused for the rogue explanation.
 
 TPUSA Crisis PR Team; the PR firm Erika mentioned.
 
-*Related: C-13042, C-13043*
+*Related: C-9138, C-9139*
 
 ---
 
@@ -850,7 +849,7 @@ TPUSA Crisis PR Team; the PR firm Erika mentioned.
 
 Arizona State University; Erika's claimed degree.
 
-*Related: C-12986, C-12987*
+*Related: C-9071, C-9073*
 
 ---
 
@@ -858,7 +857,7 @@ Arizona State University; Erika's claimed degree.
 
 Hillsdale College; commencement and honorary doctorate.
 
-*Related: C-12970, C-12984, C-13053*
+*Related: C-9042, C-9067, C-9149*
 
 ---
 
@@ -866,7 +865,7 @@ Hillsdale College; commencement and honorary doctorate.
 
 Existing topic reused for the Tim Pool dispute.
 
-*Related: C-12994*
+*Related: C-9083*
 
 ---
 
@@ -874,7 +873,7 @@ Existing topic reused for the Tim Pool dispute.
 
 Existing topic reused for Kolvet PR role.
 
-*Related: C-13043*
+*Related: C-9139*
 
 ---
 
@@ -883,13 +882,13 @@ Existing topic reused for Kolvet PR role.
 Node Type: Topic
 The dispute over a Druski comedy skit that mocked Erika Kirk, including whether it was racial and whether she took it too seriously.
 
-*Related: C-13007, C-13008, C-13009, C-13010*
+*Related: C-9098, C-9099, C-9100, C-9101*
 
 ---
 
 ## V. Claim Register
 
-**C-2884** Andrew Kolvet denied divorce rumor via social media
+**C-9044** Andrew Kolvet denied divorce rumor via social media
 
 Claim Timestamp: 00:01:44
 
@@ -904,7 +903,7 @@ Investigative Direction: Verify the exact wording of Kolvet's post and timestamp
 
 ---
 
-**C-2885** Project Constitution reported Andrew Kolvet divorce rumor
+**C-9045** Project Constitution reported Andrew Kolvet divorce rumor
 
 Claim Timestamp: 00:01:44
 
@@ -919,7 +918,7 @@ Investigative Direction: Identify the author and posting history of the Project 
 
 ---
 
-**C-2886** Tyler Bowyer accused rumor-mongers of "reckless disregard for truth"
+**C-9046** Tyler Bowyer accused rumor-mongers of "reckless disregard for truth"
 
 Claim Timestamp: 00:02:41
 
@@ -934,7 +933,7 @@ Investigative Direction: Verify the original X post and any subsequent posts by 
 
 ---
 
-**C-2887** Blake Neff defended Andrew Kolvet's WHCD absence
+**C-9047** Blake Neff defended Andrew Kolvet's WHCD absence
 
 Claim Timestamp: 00:02:41
 
@@ -949,7 +948,7 @@ Investigative Direction: Verify the original post; check WHCD invitation lists i
 
 ---
 
-**C-2888** Donors present in Aspen assert Charlie Kirk's "I appoint my wife" audio was faked
+**C-9050** Donors present in Aspen assert Charlie Kirk's "I appoint my wife" audio was faked
 
 Claim Timestamp: 00:04:12
 
@@ -964,7 +963,7 @@ Investigative Direction: Identify the specific donors by name; obtain written or
 
 ---
 
-**C-2889** Released audio clip contains Charlie Kirk saying "I appoint my wife to run Turning Point USA"
+**C-9053** Released audio clip contains Charlie Kirk saying "I appoint my wife to run Turning Point USA"
 
 Claim Timestamp: 00:05:53
 
@@ -979,7 +978,7 @@ Investigative Direction: Locate TPUSA's original release of the clip; obtain tim
 
 ---
 
-**C-2890** Marcus Wada provides AI voice services for TPUSA presentations
+**C-9057** Marcus Wada provides AI voice services for TPUSA presentations
 
 Claim Timestamp: 00:07:32
 
@@ -994,7 +993,7 @@ Investigative Direction: Verify Wada's TPUSA employment and the scope of his AI 
 
 ---
 
-**C-2891** TPUSA typically uses AI-cloned voice of Pastor John Amanchukwu in presentations
+**C-9058** TPUSA typically uses AI-cloned voice of Pastor John Amanchukwu in presentations
 
 Claim Timestamp: 00:07:32
 
@@ -1009,7 +1008,7 @@ Investigative Direction: Obtain a TPUSA presentation featuring the contested voi
 
 ---
 
-**C-2892** John Mappin publicly shared Aspen donor's claim the audio moment never happened
+**C-9062** John Mappin publicly shared Aspen donor's claim the audio moment never happened
 
 Claim Timestamp: 00:09:42
 
@@ -1024,7 +1023,7 @@ Investigative Direction: Verify Mappin's original X post and identify the donor 
 
 ---
 
-**C-2893** Kimberly Klacik publicly questioned why the audio matters
+**C-9063** Kimberly Klacik publicly questioned why the audio matters
 
 Claim Timestamp: 00:09:42
 
@@ -1039,7 +1038,7 @@ Investigative Direction: Verify the original post; obtain TPUSA board meeting mi
 
 ---
 
-**C-2894** Host Says Erika Kirk Received Honorary Doctorate from Hillsdale College
+**C-9066** Host Says Erika Kirk Received Honorary Doctorate from Hillsdale College
 
 Claim Timestamp: 00:14:43
 
@@ -1056,7 +1055,7 @@ Flag: Artifact verbally referenced but not shown
 
 ---
 
-**C-2895** Brian Allen publicly characterized Hillsdale's honorary doctorate for Erika as DEI
+**C-9068** Brian Allen publicly characterized Hillsdale's honorary doctorate for Erika as DEI
 
 Claim Timestamp: 00:16:39
 
@@ -1071,7 +1070,7 @@ Investigative Direction: Verify the original post; cross-reference Hillsdale's p
 
 ---
 
-**C-2896** Host Says Erika Kirk Claimed ASU Magna Cum Laude, Later Summa Cum Laude on LinkedIn
+**C-9069** Host Says Erika Kirk Claimed ASU Magna Cum Laude, Later Summa Cum Laude on LinkedIn
 
 Claim Timestamp: 00:17:23
 
@@ -1086,7 +1085,7 @@ Investigative Direction: Obtain archived versions of the LinkedIn page (Wayback 
 
 ---
 
-**C-2897** Host Alleges Erika Kirk's LinkedIn Was Upgraded to Claim Summa Cum Laude with Double Degree
+**C-9072** Host Alleges Erika Kirk's LinkedIn Was Upgraded to Claim Summa Cum Laude with Double Degree
 
 Claim Timestamp: 00:18:10
 
@@ -1101,7 +1100,7 @@ Investigative Direction: Obtain archived LinkedIn captures showing both versions
 
 ---
 
-**C-2898** ASU did not offer international relations degree in 2012
+**C-9075** ASU did not offer international relations degree in 2012
 
 Claim Timestamp: 00:18:59
 
@@ -1116,7 +1115,7 @@ Investigative Direction: Obtain ASU's archived 2012 course catalog directly from
 
 ---
 
-**C-2899** Host Alleges Erika Kirk's LinkedIn Claimed Doctor of Education from Liberty University
+**C-9076** Host Alleges Erika Kirk's LinkedIn Claimed Doctor of Education from Liberty University
 
 Claim Timestamp: 00:18:59
 
@@ -1131,7 +1130,7 @@ Investigative Direction: Verify Liberty's Ed.D. in Christian Leadership program;
 
 ---
 
-**C-2901** Host Says Nick Shirley Video Claimed He Infiltrated Brazilian Gang in 48 Hours
+**C-9082** Host Says Nick Shirley Video Claimed He Infiltrated Brazilian Gang in 48 Hours
 
 Claim Timestamp: 00:26:59
 
@@ -1146,7 +1145,7 @@ Investigative Direction: Locate the original favela video; verify any corroborat
 
 ---
 
-**C-2902** Patrick Bet-David hosted Nick Shirley and discussed Candace's prior skepticism
+**C-9087** Patrick Bet-David hosted Nick Shirley and discussed Candace's prior skepticism
 
 Claim Timestamp: 00:28:51
 
@@ -1161,7 +1160,7 @@ Investigative Direction: Obtain the full PBD interview clip and timestamp; verif
 
 ---
 
-**C-2903** Alex Clark publicly defended Nick Shirley against Candace Owens
+**C-9089** Alex Clark publicly defended Nick Shirley against Candace Owens
 
 Claim Timestamp: 00:30:15
 
@@ -1176,7 +1175,7 @@ Investigative Direction: Verify the original post and Alex Clark's relationship 
 
 ---
 
-**C-2904** Host Says Brian Harpole's Alibi Flights Were 1:49 PM on the 9th to Utah
+**C-9124** Host Says Brian Harpole's Alibi Flights Were 1:49 PM on the 9th to Utah
 
 Claim Timestamp: 00:49:33
 
@@ -1191,7 +1190,7 @@ Investigative Direction: Verify the flight records independently through airline
 
 ---
 
-**C-2905** Host Says Andrew Kolvet Sent Erika Kirk's Alibi Photo Marked Don't Share
+**C-9134** Host Says Andrew Kolvet Sent Erika Kirk's Alibi Photo Marked Don't Share
 
 Claim Timestamp: 00:52:24
 
@@ -1206,7 +1205,7 @@ Investigative Direction: Locate the original alibi photo and Andrew Kolvet's acc
 
 ---
 
-**C-2906** Paramount Tactical admitted the Fort Huachuca alibi photo boy is not Erika Kirk's son
+**C-9135** Paramount Tactical admitted the Fort Huachuca alibi photo boy is not Erika Kirk's son
 
 Claim Timestamp: 00:52:24
 
@@ -1221,7 +1220,7 @@ Investigative Direction: Locate Paramount Tactical's specific admission statemen
 
 ---
 
-**C-2907** Andrew Kolvet Coordinated Erika Alibi Pushback with Paramount Tactical and Valhalla
+**C-9136** Andrew Kolvet Coordinated Erika Alibi Pushback with Paramount Tactical and Valhalla
 
 Claim Timestamp: 00:52:24
 
@@ -1236,7 +1235,7 @@ Investigative Direction: Obtain direct evidence of coordination (emails, DMs, co
 
 ---
 
-**C-2908** Erika Kirk provided Candace with Brian Harpole's alibi during their private interview
+**C-9105** Erika Kirk provided Candace with Brian Harpole's alibi during their private interview
 
 Claim Timestamp: 00:45:18
 
@@ -1251,7 +1250,7 @@ Investigative Direction: Obtain Candace's documented record of the interview; ve
 
 ---
 
-**C-12970** Host Says Erika Said She Needed to Go Home Before Appearing at Hillsdale
+**C-9042** Host Says Erika Said She Needed to Go Home Before Appearing at Hillsdale
 
 Claim Timestamp: 00:00:01
 
@@ -1267,7 +1266,7 @@ Investigative Direction: Locate Erika Kirk's earlier public statements about goi
 
 ---
 
-**C-12971** Host Says Erika Cited Fear of Flying and Secret Service Gaps but Now Has No Secret Service
+**C-9043** Host Says Erika Cited Fear of Flying and Secret Service Gaps but Now Has No Secret Service
 
 Claim Timestamp: 00:00:01
 
@@ -1277,13 +1276,13 @@ Transcript Snippet: She's too scared to get on a plane by herself. Secret Servic
 
 Anchored Artifacts: 
 Mentions: N-2
-Supports: C-8783
+Supports: C-8586
 Tags: relevance:context
 Investigative Direction: Obtain Erika Kirk's own statements on her protection status and any Secret Service or private security arrangements for the Hillsdale event.
 
 ---
 
-**C-12972** Neff Replied to Project Constitution That It Was Not Very Smart
+**C-9048** Neff Replied to Project Constitution That It Was Not Very Smart
 
 Claim Timestamp: 00:02:41
 
@@ -1299,7 +1298,7 @@ Investigative Direction: Pull Blake Neff's X reply to Project Constitution and c
 
 ---
 
-**C-12973** Host Says She Never Heard Kolvet Was Divorcing
+**C-9049** Host Says She Never Heard Kolvet Was Divorcing
 
 Claim Timestamp: 00:03:41
 
@@ -1315,7 +1314,7 @@ Investigative Direction: Check Arizona court records for any divorce filing and 
 
 ---
 
-**C-12974** Host Says TPUSA Refuses to Release the Video of the Appointment Moment
+**C-9051** Host Says TPUSA Refuses to Release the Video of the Appointment Moment
 
 Claim Timestamp: 00:05:04
 
@@ -1331,7 +1330,7 @@ Investigative Direction: Ask TPUSA for the original camera footage and metadata 
 
 ---
 
-**C-12975** Host Says Neff Worried People Would Call the Video AI
+**C-9052** Host Says Neff Worried People Would Call the Video AI
 
 Claim Timestamp: 00:05:04
 
@@ -1347,7 +1346,7 @@ Investigative Direction: Find Blake Neff's own public or private statement expre
 
 ---
 
-**C-12976** Host Says TPUSA Itself Pointed Her Team to the Video
+**C-9054** Host Says TPUSA Itself Pointed Her Team to the Video
 
 Claim Timestamp: 00:06:34
 
@@ -1363,7 +1362,7 @@ Investigative Direction: Identify who at TPUSA mentioned the video to the host's
 
 ---
 
-**C-12977** Host Says Erika Told Megyn Kelly an Emotional Story About First Watching the Video
+**C-9055** Host Says Erika Told Megyn Kelly an Emotional Story About First Watching the Video
 
 Claim Timestamp: 00:06:34
 
@@ -1379,7 +1378,7 @@ Investigative Direction: Review the Megyn Kelly interview with Erika Kirk for he
 
 ---
 
-**C-12978** Host Says the Appointment Contradicts Charlie's Public Statements About Women Working
+**C-9056** Host Says the Appointment Contradicts Charlie's Public Statements About Women Working
 
 Claim Timestamp: 00:06:34
 
@@ -1395,7 +1394,7 @@ Investigative Direction: Compile Charlie Kirk's recorded statements on women and
 
 ---
 
-**C-12979** Host Calls Marcus Wada a Former Arms Dealer Now at TPUSA
+**C-9059** Host Calls Marcus Wada a Former Arms Dealer Now at TPUSA
 
 Claim Timestamp: 00:07:32
 
@@ -1406,13 +1405,13 @@ Transcript Snippet: the Turning Point employee that's a rehabilitated former arm
 Anchored Artifacts: 
 Mentions: N-424
 Related Nodes: N-10609
-Supports: C-11428
+Supports: C-8280
 Tags: relevance:context
 Investigative Direction: Review Wada's own TPUSA biography, his LinkedIn and any reporting on his past arms-related work to confirm the description.
 
 ---
 
-**C-12980** Host Says John Mappin Introduced Charlie to His Biggest Donor
+**C-9060** Host Says John Mappin Introduced Charlie to His Biggest Donor
 
 Claim Timestamp: 00:08:50
 
@@ -1427,7 +1426,7 @@ Investigative Direction: Ask John Mappin or TPUSA donor records who the largest 
 
 ---
 
-**C-12981** Host Says the Biggest Donor Was First on the List Called From the Hospital
+**C-9061** Host Says the Biggest Donor Was First on the List Called From the Hospital
 
 Claim Timestamp: 00:08:50
 
@@ -1442,7 +1441,7 @@ Investigative Direction: Obtain the donor call list and call records from the ho
 
 ---
 
-**C-12982** Host Describes Erika Walking Out at AmFest to Charlie's Voice in a Glittering Pantsuit
+**C-9064** Host Describes Erika Walking Out at AmFest to Charlie's Voice in a Glittering Pantsuit
 
 Claim Timestamp: 00:11:17
 
@@ -1458,7 +1457,7 @@ Investigative Direction: Review the AmFest 2025 stream and program for the audio
 
 ---
 
-**C-12983** Host Says Neff's Subway Killer Scenario Is TPUSA's Reason for Not Releasing the Video
+**C-9065** Host Says Neff's Subway Killer Scenario Is TPUSA's Reason for Not Releasing the Video
 
 Claim Timestamp: 00:13:53
 
@@ -1474,7 +1473,7 @@ Investigative Direction: Locate Blake Neff's original subway comparison and any 
 
 ---
 
-**C-12984** Host Says Erika Accepted a Posthumous Honorary Doctorate for Charlie
+**C-9067** Host Says Erika Accepted a Posthumous Honorary Doctorate for Charlie
 
 Claim Timestamp: 00:14:43
 
@@ -1485,13 +1484,13 @@ Transcript Snippet: she accepted a posthumous doctorate degree for Charlie uh ho
 Anchored Artifacts: A-2070.1
 Mentions: N-2, N-1
 Related Nodes: N-11255
-Supports: C-2894
+Supports: C-9066
 Tags: relevance:context
 Investigative Direction: Check Hillsdale College's commencement announcement for the list of honorary degrees conferred.
 
 ---
 
-**C-12985** Host Says Erika Auditioned for the Great American Race With an Ex-Boyfriend
+**C-9070** Host Says Erika Auditioned for the Great American Race With an Ex-Boyfriend
 
 Claim Timestamp: 00:17:23
 
@@ -1507,7 +1506,7 @@ Investigative Direction: Obtain the audition video and any Erika Kirk interviews
 
 ---
 
-**C-12986** Host Says Erika Claimed ASU Magna Cum Laude in Her Audition Video
+**C-9071** Host Says Erika Claimed ASU Magna Cum Laude in Her Audition Video
 
 Claim Timestamp: 00:17:23
 
@@ -1523,7 +1522,7 @@ Investigative Direction: Obtain the audition video and ASU's records of degree a
 
 ---
 
-**C-12987** Host Says Erika Graduated With No Honors and No Double Degree
+**C-9073** Host Says Erika Graduated With No Honors and No Double Degree
 
 Claim Timestamp: 00:18:10
 
@@ -1539,7 +1538,7 @@ Investigative Direction: Request ASU's degree verification (National Student Cle
 
 ---
 
-**C-12988** Host Says the Inflated Credentials Were Put in Official Bios
+**C-9074** Host Says the Inflated Credentials Were Put in Official Bios
 
 Claim Timestamp: 00:18:10
 
@@ -1555,7 +1554,7 @@ Investigative Direction: Collect archived TPUSA and third-party bios of Erika Ki
 
 ---
 
-**C-12989** Host Says Erika Did Receive a Master's From Liberty University Online
+**C-9077** Host Says Erika Did Receive a Master's From Liberty University Online
 
 Claim Timestamp: 00:20:00
 
@@ -1571,7 +1570,7 @@ Investigative Direction: Verify the master's degree and field with Liberty Unive
 
 ---
 
-**C-12990** Host Says Bride of Charlie Left Out Erika's Educational Background
+**C-9078** Host Says Bride of Charlie Left Out Erika's Educational Background
 
 Claim Timestamp: 00:20:00
 
@@ -1587,7 +1586,7 @@ Investigative Direction: Compare the Bride of Charlie episodes with the later cr
 
 ---
 
-**C-12991** Host Says Critics Call Nick Shirley Fed Jacketed
+**C-9079** Host Says Critics Call Nick Shirley Fed Jacketed
 
 Claim Timestamp: 00:24:42
 
@@ -1603,7 +1602,7 @@ Investigative Direction: Identify who is using the term and what they cite for t
 
 ---
 
-**C-12992** Host Says She Covered Shirley on Her September 10 Show and Owned a Mistake
+**C-9080** Host Says She Covered Shirley on Her September 10 Show and Owned a Mistake
 
 Claim Timestamp: 00:25:20
 
@@ -1619,7 +1618,7 @@ Investigative Direction: Review the host's September 10 show and her follow-up c
 
 ---
 
-**C-12993** Host Says Shirley Is Known for Uncovering Somali Daycare Welfare Fraud
+**C-9081** Host Says Shirley Is Known for Uncovering Somali Daycare Welfare Fraud
 
 Claim Timestamp: 00:25:20
 
@@ -1630,13 +1629,13 @@ Transcript Snippet: they say, Nick Fuentes has uncovered massive welfare fraud i
 Anchored Artifacts: 
 Mentions: N-213
 Related Nodes: N-10666
-Supports: C-8531
+Supports: C-7381
 Tags: relevance:tangential
 Investigative Direction: Review the Minnesota daycare fraud reporting and the charging records that followed.
 
 ---
 
-**C-12994** Host Says Her Remark Trended and Figures Like Tim Pool Backed Shirley
+**C-9083** Host Says Her Remark Trended and Figures Like Tim Pool Backed Shirley
 
 Claim Timestamp: 00:26:59
 
@@ -1652,7 +1651,7 @@ Investigative Direction: Collect the posts defending Shirley and their timing re
 
 ---
 
-**C-12995** Host Says a PBD Guest Said She Had Not Spoken to Charlie Since 2019
+**C-9084** Host Says a PBD Guest Said She Had Not Spoken to Charlie Since 2019
 
 Claim Timestamp: 00:26:59
 
@@ -1668,7 +1667,7 @@ Investigative Direction: Identify the guest and episode, and compare with the ho
 
 ---
 
-**C-12996** Host Says She and Charlie Were at War With Each Other
+**C-9085** Host Says She and Charlie Were at War With Each Other
 
 Claim Timestamp: 00:28:05
 
@@ -1683,7 +1682,7 @@ Investigative Direction: Compare with the host's other accounts of her relations
 
 ---
 
-**C-12997** Host Says PBD Feigned Ignorance of Her Remark About Shirley
+**C-9086** Host Says PBD Feigned Ignorance of Her Remark About Shirley
 
 Claim Timestamp: 00:28:05
 
@@ -1699,7 +1698,7 @@ Investigative Direction: Review the full PBD interview and PBD's earlier stateme
 
 ---
 
-**C-12998** Host Says Shirley Made Videos Infiltrating Antifa and El Salvador at 23
+**C-9088** Host Says Shirley Made Videos Infiltrating Antifa and El Salvador at 23
 
 Claim Timestamp: 00:29:35
 
@@ -1715,7 +1714,7 @@ Investigative Direction: Review Shirley's antifa and El Salvador videos for sour
 
 ---
 
-**C-12999** PBD Asks Whether Shirley Is Being Called a Handler's Asset
+**C-9090** PBD Asks Whether Shirley Is Being Called a Handler's Asset
 
 Claim Timestamp: 00:30:15
 
@@ -1730,7 +1729,7 @@ Investigative Direction: Watch the PBD interview segment and transcribe the full
 
 ---
 
-**C-13000** Shirley Says Podcasters Should Leave Their Studios and Do Journalism
+**C-9091** Shirley Says Podcasters Should Leave Their Studios and Do Journalism
 
 Claim Timestamp: 00:30:15
 
@@ -1746,7 +1745,7 @@ Investigative Direction: Obtain the PBD episode and confirm the quote and contex
 
 ---
 
-**C-13001** Host Calls Shirley a Mormon Kid From Utah
+**C-9092** Host Calls Shirley a Mormon Kid From Utah
 
 Claim Timestamp: 00:31:38
 
@@ -1757,13 +1756,13 @@ Transcript Snippet: A Mormon kid from Utah with the camera
 Anchored Artifacts: 
 Mentions: N-213
 Related Nodes: N-10666
-Supports: C-8533
+Supports: C-7384
 Tags: relevance:tangential
 Investigative Direction: Check Shirley's own statements about his religion and home state.
 
 ---
 
-**C-13002** Host Says She Lived in South America for Two Months to Learn Spanish
+**C-9093** Host Says She Lived in South America for Two Months to Learn Spanish
 
 Claim Timestamp: 00:31:38
 
@@ -1778,7 +1777,7 @@ Investigative Direction: This is the host's own biography and could only be chec
 
 ---
 
-**C-13003** Host Says Erika Laughed About Emojis on a Zoom Call Six Days After the Assassination
+**C-9094** Host Says Erika Laughed About Emojis on a Zoom Call Six Days After the Assassination
 
 Claim Timestamp: 00:35:48
 
@@ -1789,13 +1788,13 @@ Transcript Snippet: it is not normal for a woman whose husband was assassinated 
 Anchored Artifacts: 
 Mentions: N-2, N-1
 Related Nodes: N-10000
-Supports: C-2206
+Supports: C-5707
 Tags: relevance:core
 Investigative Direction: Obtain the recording or leaked audio of the TPUSA staff Zoom call and locate the emoji exchange.
 
 ---
 
-**C-13004** Host Says Shirley Claims He Went to Cuba and Was Almost Taken Hostage
+**C-9095** Host Says Shirley Claims He Went to Cuba and Was Almost Taken Hostage
 
 Claim Timestamp: 00:36:34
 
@@ -1811,7 +1810,7 @@ Investigative Direction: Review Shirley's Cuba video and posts for what he says 
 
 ---
 
-**C-13005** Headline Says US Spy Flights Over Cuba Are Surging and New Sanctions Are in Place
+**C-9096** Headline Says US Spy Flights Over Cuba Are Surging and New Sanctions Are in Place
 
 Claim Timestamp: 00:37:14
 
@@ -1827,7 +1826,7 @@ Investigative Direction: Find the headline and underlying article and the flight
 
 ---
 
-**C-13006** Host Says the CIA Is Involved in Cuba at This Moment
+**C-9097** Host Says the CIA Is Involved in Cuba at This Moment
 
 Claim Timestamp: 00:37:14
 
@@ -1843,7 +1842,7 @@ Investigative Direction: No source is given on air; any reporting on current CIA
 
 ---
 
-**C-13007** Host Says Charlie Would Have Laughed at the Druski Skit but Erika Took It Seriously
+**C-9098** Host Says Charlie Would Have Laughed at the Druski Skit but Erika Took It Seriously
 
 Claim Timestamp: 00:40:55
 
@@ -1859,7 +1858,7 @@ Investigative Direction: Locate the Druski skit and Erika Kirk's or TPUSA's publ
 
 ---
 
-**C-13008** Host Says Kolvet and Others Tried to Make the Skit Racial
+**C-9099** Host Says Kolvet and Others Tried to Make the Skit Racial
 
 Claim Timestamp: 00:41:46
 
@@ -1875,7 +1874,7 @@ Investigative Direction: Find Kolvet's and other TPUSA figures' posts characteri
 
 ---
 
-**C-13009** Host Says Druski Also Mocks Vietnamese People in a Nail Salon Skit
+**C-9100** Host Says Druski Also Mocks Vietnamese People in a Nail Salon Skit
 
 Claim Timestamp: 00:41:46
 
@@ -1891,7 +1890,7 @@ Investigative Direction: Locate the nail salon skit and its date.
 
 ---
 
-**C-13010** Host Says Druski Posted a Video Last Week Targeting Black British Actors
+**C-9101** Host Says Druski Posted a Video Last Week Targeting Black British Actors
 
 Claim Timestamp: 00:41:46
 
@@ -1907,7 +1906,7 @@ Investigative Direction: Locate the video and its date.
 
 ---
 
-**C-13011** Host Says JD Vance Lectured the Audience When Erika Did Not Show Up
+**C-9102** Host Says JD Vance Lectured the Audience When Erika Did Not Show Up
 
 Claim Timestamp: 00:43:01
 
@@ -1917,13 +1916,13 @@ Transcript Snippet: she doesn't show up to an event and you have JD Vance lectur
 
 Anchored Artifacts: 
 Mentions: N-4, N-2
-Supports: C-11446
+Supports: C-8303
 Tags: relevance:core
 Investigative Direction: Identify the event and review Vance's remarks and Erika Kirk's stated reason for not attending.
 
 ---
 
-**C-13012** Host Alleges Erika Made an AI Video of Charlie Saying He Wanted Her
+**C-9103** Host Alleges Erika Made an AI Video of Charlie Saying He Wanted Her
 
 Claim Timestamp: 00:43:01
 
@@ -1934,13 +1933,13 @@ Transcript Snippet: you wanted to be Charlie Kirk so bad that you allegedly made
 Anchored Artifacts: 
 Mentions: N-2, N-1
 Related Nodes: N-10664
-Supports: C-2888
+Supports: C-9050
 Tags: relevance:core
 Investigative Direction: Forensic audio analysis of the released clip and the original Aspen recording, and testimony from event staff and the donors present.
 
 ---
 
-**C-13013** Host Says Charlie Did Not Change His Mind Two Weeks Before He Died
+**C-9104** Host Says Charlie Did Not Change His Mind Two Weeks Before He Died
 
 Claim Timestamp: 00:43:51
 
@@ -1956,7 +1955,7 @@ Investigative Direction: Compile dated Charlie Kirk clips on women and work to t
 
 ---
 
-**C-13014** Comment Says The Quartering Faces a Potential Lawsuit Over False Flagging and Doxing
+**C-9106** Comment Says The Quartering Faces a Potential Lawsuit Over False Flagging and Doxing
 
 Claim Timestamp: 00:45:18
 
@@ -1971,7 +1970,7 @@ Investigative Direction: Search court dockets for any complaint against The Quar
 
 ---
 
-**C-13015** Host Says She Is Considering Publishing Everything Online Like Bryan Freedman
+**C-9107** Host Says She Is Considering Publishing Everything Online Like Bryan Freedman
 
 Claim Timestamp: 00:45:18
 
@@ -1987,7 +1986,7 @@ Investigative Direction: Watch for the host's publication of the Fort Huachuca t
 
 ---
 
-**C-13016** Host Says Mitch's Friend Emailed Her and She Called Mitch
+**C-9108** Host Says Mitch's Friend Emailed Her and She Called Mitch
 
 Claim Timestamp: 00:45:18
 
@@ -2003,7 +2002,7 @@ Investigative Direction: The host's original email and call log would show who m
 
 ---
 
-**C-13017** Host Says Mitch Saw Erika on the 8th Not Leaving a Meeting
+**C-9109** Host Says Mitch Saw Erika on the 8th Not Leaving a Meeting
 
 Claim Timestamp: 00:45:18
 
@@ -2014,13 +2013,13 @@ Transcript Snippet: He was clear that he saw Brian Harpole and he saw Erika. But
 Anchored Artifacts: 
 Mentions: N-361, N-266, N-2
 Related Nodes: N-10367
-Supports: C-1973, C-6761
+Supports: C-4347, C-4470
 Tags: relevance:core
 Investigative Direction: Obtain Mitch's account with hotel and base records for September 8 and 9, 2025.
 
 ---
 
-**C-13018** Host Says Mitch Saw Harpole Leaving the Meeting on the 9th When the Cops Were Called
+**C-9110** Host Says Mitch Saw Harpole Leaving the Meeting on the 9th When the Cops Were Called
 
 Claim Timestamp: 00:46:33
 
@@ -2031,13 +2030,13 @@ Transcript Snippet: Brian Harpole he saw on the 9th, and he was leaving the meet
 Anchored Artifacts: 
 Mentions: N-361, N-266
 Related Nodes: N-10373
-Supports: C-6758
+Supports: C-4467
 Tags: relevance:core
 Investigative Direction: Request Fort Huachuca police call logs for September 9, 2025.
 
 ---
 
-**C-13019** Host Says Mitch Saw Erika at a Hotel Not Tied to the Meeting and Not With Harpole
+**C-9111** Host Says Mitch Saw Erika at a Hotel Not Tied to the Meeting and Not With Harpole
 
 Claim Timestamp: 00:46:33
 
@@ -2053,7 +2052,7 @@ Investigative Direction: Candlewood hotel records and security footage for Septe
 
 ---
 
-**C-13020** Host Says Erika's Mother and Stepfather Have Government Contracts
+**C-9112** Host Says Erika's Mother and Stepfather Have Government Contracts
 
 Claim Timestamp: 00:46:33
 
@@ -2064,13 +2063,13 @@ Transcript Snippet: I knew that her mom and her stepdad have contracts with the 
 Anchored Artifacts: 
 Mentions: N-2
 Related Nodes: N-10417
-Supports: C-6901
+Supports: C-4630
 Tags: relevance:context
 Investigative Direction: Federal contract databases (SAM.gov, USAspending) for the mother's and stepfather's companies.
 
 ---
 
-**C-13021** Host Says Her First Presentation Left Erika Out Entirely
+**C-9113** Host Says Her First Presentation Left Erika Out Entirely
 
 Claim Timestamp: 00:46:33
 
@@ -2086,7 +2085,7 @@ Investigative Direction: Rewatch the host's first Mitch segment to confirm Erika
 
 ---
 
-**C-13022** Host Says Erika Went on Harris Faulkner the Next Day Fired Up About Conspiracy Theories
+**C-9114** Host Says Erika Went on Harris Faulkner the Next Day Fired Up About Conspiracy Theories
 
 Claim Timestamp: 00:47:28
 
@@ -2097,13 +2096,13 @@ Transcript Snippet: Harris Faulkner, she went on that show and then she was all 
 Anchored Artifacts: 
 Mentions: N-2, N-799, N-3
 Related Nodes: N-10367
-Supports: C-8066
+Supports: C-3901
 Tags: relevance:core
 Investigative Direction: Pull the Fox News broadcast and match its date to the host's first Mitch segment.
 
 ---
 
-**C-13023** Host Says the Bari Weiss Interview Clip Cut Erika Addressing the Podcaster Candace Owens
+**C-9115** Host Says the Bari Weiss Interview Clip Cut Erika Addressing the Podcaster Candace Owens
 
 Claim Timestamp: 00:47:28
 
@@ -2119,7 +2118,7 @@ Investigative Direction: Obtain the full CBS interview and the cut clip.
 
 ---
 
-**C-13024** Host Says She Later Learned the Question Segment Was Planned
+**C-9116** Host Says She Later Learned the Question Segment Was Planned
 
 Claim Timestamp: 00:47:28
 
@@ -2135,7 +2134,7 @@ Investigative Direction: Identify the source of the host's later information and
 
 ---
 
-**C-13025** Host Says Justin Streiff Emailed Her Team While the Show Was Off for the Weekend
+**C-9117** Host Says Justin Streiff Emailed Her Team While the Show Was Off for the Weekend
 
 Claim Timestamp: 00:47:28
 
@@ -2150,7 +2149,7 @@ Investigative Direction: Obtain the Streiff email, its date and content.
 
 ---
 
-**C-13026** Host Says Ian Carroll Called as Valhalla Already Threatened Her Not to Interview Mitch
+**C-9118** Host Says Ian Carroll Called as Valhalla Already Threatened Her Not to Interview Mitch
 
 Claim Timestamp: 00:47:28
 
@@ -2166,7 +2165,7 @@ Investigative Direction: Obtain the threatening messages, the call record with I
 
 ---
 
-**C-13027** Host Says She Was Threatened With a Lawsuit Before Interviewing Mitch
+**C-9119** Host Says She Was Threatened With a Lawsuit Before Interviewing Mitch
 
 Claim Timestamp: 00:48:43
 
@@ -2182,7 +2181,7 @@ Investigative Direction: Obtain the written threat and identify its sender.
 
 ---
 
-**C-13028** Host Says She Messaged Harpole Offering a Chance to Debunk Mitch
+**C-9120** Host Says She Messaged Harpole Offering a Chance to Debunk Mitch
 
 Claim Timestamp: 00:48:53
 
@@ -2193,13 +2192,13 @@ Transcript Snippet: So I message Brian Harpole and I'm like, "Hey, like I'm goin
 Anchored Artifacts: 
 Mentions: N-266, N-361, N-3
 Related Nodes: N-10373
-Supports: C-5398
+Supports: C-4419
 Tags: relevance:core
 Investigative Direction: Produce the host's message to Harpole and its timestamp.
 
 ---
 
-**C-13029** Host Says Harpole Did Not Answer Her Message
+**C-9121** Host Says Harpole Did Not Answer Her Message
 
 Claim Timestamp: 00:48:53
 
@@ -2210,13 +2209,13 @@ Transcript Snippet: I haven't yet had Mitch on. He doesn't answer.
 Anchored Artifacts: 
 Mentions: N-266, N-3
 Related Nodes: N-10373
-Supports: C-6837
+Supports: C-4558
 Tags: relevance:core
 Investigative Direction: The message thread would show delivery and any reply.
 
 ---
 
-**C-13030** Host Says the Erika Meeting Was Scheduled in Her Show Block With a Ceasefire
+**C-9122** Host Says the Erika Meeting Was Scheduled in Her Show Block With a Ceasefire
 
 Claim Timestamp: 00:48:53
 
@@ -2232,7 +2231,7 @@ Investigative Direction: Obtain the scheduling messages for the December 15 meet
 
 ---
 
-**C-13031** Host Says TPUSA Boosted Paramount Tactical During Her Four-Hour Meeting
+**C-9123** Host Says TPUSA Boosted Paramount Tactical During Her Four-Hour Meeting
 
 Claim Timestamp: 00:48:53
 
@@ -2243,13 +2242,13 @@ Transcript Snippet: and then they boosted Paramount Tactical basically trying to
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10899
-Supports: C-9930
+Supports: C-5700
 Tags: relevance:core
 Investigative Direction: Review the broadcast and TPUSA's channels for the date and time Paramount Tactical was featured.
 
 ---
 
-**C-13032** Host Says Erika Claimed a Communication Breakdown With Harpole and No Authorization for Shawn Ryan
+**C-9125** Host Says Erika Claimed a Communication Breakdown With Harpole and No Authorization for Shawn Ryan
 
 Claim Timestamp: 00:49:33
 
@@ -2260,13 +2259,13 @@ Transcript Snippet: she said to me that they were very upset with Brian Harpole 
 Anchored Artifacts: 
 Mentions: N-2, N-266, N-224
 Related Nodes: N-10862
-Supports: C-3997
+Supports: C-9034
 Tags: relevance:core
 Investigative Direction: Compare with Harpole's statements about whether TPUSA approved his Shawn Ryan appearance.
 
 ---
 
-**C-13033** Host Says She Clocked Erika in a Couple of Lies During the Meeting
+**C-9126** Host Says She Clocked Erika in a Couple of Lies During the Meeting
 
 Claim Timestamp: 00:50:10
 
@@ -2282,7 +2281,7 @@ Investigative Direction: The host's notes or recording of the meeting would iden
 
 ---
 
-**C-13034** Host Says Justin Asked When Her Show Goes Off Air Before Christmas
+**C-9127** Host Says Justin Asked When Her Show Goes Off Air Before Christmas
 
 Claim Timestamp: 00:50:10
 
@@ -2298,7 +2297,7 @@ Investigative Direction: The host's notes and any witnesses to the question.
 
 ---
 
-**C-13035** Host Says She Interviewed Mitch on the 18th
+**C-9128** Host Says She Interviewed Mitch on the 18th
 
 Claim Timestamp: 00:50:57
 
@@ -2314,7 +2313,7 @@ Investigative Direction: The episode's air date and the host's publication log.
 
 ---
 
-**C-13036** Host Says Valhalla Messages Threatened to Ruin Her Unless She Revoked Her Fort Huachuca Commentary
+**C-9129** Host Says Valhalla Messages Threatened to Ruin Her Unless She Revoked Her Fort Huachuca Commentary
 
 Claim Timestamp: 00:50:57
 
@@ -2325,13 +2324,13 @@ Transcript Snippet: if she does not like basically revoke her commentary about F
 Anchored Artifacts: 
 Mentions: N-361, N-3
 Related Nodes: N-11001, N-10899
-Supports: C-9929
+Supports: C-5699
 Tags: relevance:core
 Investigative Direction: Obtain the Valhalla messages and their metadata.
 
 ---
 
-**C-13037** Host Says Paramount Tactical and Valhalla Called Mitch and Played Good Cop
+**C-9130** Host Says Paramount Tactical and Valhalla Called Mitch and Played Good Cop
 
 Claim Timestamp: 00:51:41
 
@@ -2342,13 +2341,13 @@ Transcript Snippet: They were like, "Yeah, brother. Like uh we'd love to have ha
 Anchored Artifacts: 
 Mentions: N-361
 Related Nodes: N-10899, N-11001
-Supports: C-6763
+Supports: C-4473
 Tags: relevance:core
 Investigative Direction: Obtain Mitch's account and any recording of the calls.
 
 ---
 
-**C-13038** Host Says They Told Her It Was a Case of Stolen Valor
+**C-9131** Host Says They Told Her It Was a Case of Stolen Valor
 
 Claim Timestamp: 00:51:41
 
@@ -2364,7 +2363,7 @@ Investigative Direction: Compare their messages to the host with their calls to 
 
 ---
 
-**C-13039** Host Says Paramount Tactical Accidentally Read Erika's Alibi Live
+**C-9132** Host Says Paramount Tactical Accidentally Read Erika's Alibi Live
 
 Claim Timestamp: 00:51:41
 
@@ -2375,13 +2374,13 @@ Transcript Snippet: accidentally Paramount Tactical read Erika's alibi um live o
 Anchored Artifacts: 
 Mentions: N-2, N-3
 Related Nodes: N-10899
-Supports: C-3904
+Supports: C-8941
 Tags: relevance:core
 Investigative Direction: Review the Paramount Tactical stream for the moment the message was read.
 
 ---
 
-**C-13040** Host Says She Had Known the Photo's Children Were Not Erika's
+**C-9133** Host Says She Had Known the Photo's Children Were Not Erika's
 
 Claim Timestamp: 00:51:41
 
@@ -2397,7 +2396,7 @@ Investigative Direction: Identify the host's source for the knowledge; do not id
 
 ---
 
-**C-13041** Host Says They Could Have Texted Her Instead of Going Through YouTubers
+**C-9137** Host Says They Could Have Texted Her Instead of Going Through YouTubers
 
 Claim Timestamp: 00:53:10
 
@@ -2408,13 +2407,13 @@ Transcript Snippet: Erika and I had just sat down. So they could have just texte
 Anchored Artifacts: 
 Mentions: N-2, N-3
 Related Nodes: N-10899
-Supports: C-9928
+Supports: C-5698
 Tags: relevance:core
 Investigative Direction: The host's phone and message records would show whether any text was sent.
 
 ---
 
-**C-13042** Host Says Erika Told Her TPUSA Hired Crisis PR
+**C-9138** Host Says Erika Told Her TPUSA Hired Crisis PR
 
 Claim Timestamp: 00:53:10
 
@@ -2430,7 +2429,7 @@ Investigative Direction: Identify the crisis PR firm and its contract date.
 
 ---
 
-**C-13043** Host Says Erika Said Kolvet Was Moved Completely Off PR as an Unmitigated Disaster
+**C-9139** Host Says Erika Said Kolvet Was Moved Completely Off PR as an Unmitigated Disaster
 
 Claim Timestamp: 00:53:10
 
@@ -2441,13 +2440,13 @@ Transcript Snippet: she said they were moving him completely off of PR, full sto
 Anchored Artifacts: 
 Mentions: N-2, N-14, N-3
 Related Nodes: N-11312, N-11182
-Supports: C-9931
+Supports: C-5701
 Tags: relevance:core
 Investigative Direction: Compare with Kolvet's public roles on TPUSA broadcasts after the meeting.
 
 ---
 
-**C-13044** Host Says Erika Lied About Andrew Going Rogue
+**C-9140** Host Says Erika Lied About Andrew Going Rogue
 
 Claim Timestamp: 00:53:10
 
@@ -2458,13 +2457,13 @@ Transcript Snippet: That was when she was lying about Andrew went rogue, Andrew 
 Anchored Artifacts: 
 Mentions: N-2, N-14, N-3
 Related Nodes: N-11109
-Supports: C-5562
+Supports: C-5419
 Tags: relevance:core
 Investigative Direction: Compare Erika's rogue account with the Kolvet to Paramount Tactical messages.
 
 ---
 
-**C-13045** Host Says Mitch Had Videos Proving He Was There
+**C-9141** Host Says Mitch Had Videos Proving He Was There
 
 Claim Timestamp: 00:53:10
 
@@ -2475,13 +2474,13 @@ Transcript Snippet: I obviously fact-checked enough to know that Mitch was there
 Anchored Artifacts: A-3240.1
 Mentions: N-361
 Related Nodes: N-10367
-Supports: C-1987
+Supports: C-4409
 Tags: relevance:core
 Investigative Direction: Obtain and authenticate Mitch's videos and metadata.
 
 ---
 
-**C-13046** Host Says She Obtained Mitch's Hotel Reservation and Confirmed His ID Tags Were Real
+**C-9142** Host Says She Obtained Mitch's Hotel Reservation and Confirmed His ID Tags Were Real
 
 Claim Timestamp: 00:54:26
 
@@ -2492,13 +2491,13 @@ Transcript Snippet: I had his hotel reservation. I had um I had confirmed with a
 Anchored Artifacts: A-3240.1
 Mentions: N-361
 Related Nodes: N-10367
-Supports: C-1987, C-8102
+Supports: C-4409, C-3947
 Tags: relevance:core
 Investigative Direction: Candlewood reservation records and military ID tag verification.
 
 ---
 
-**C-13047** Host Says the Reaction Moved Her From 40/60 or 30/70 Toward Believing Mitch
+**C-9143** Host Says the Reaction Moved Her From 40/60 or 30/70 Toward Believing Mitch
 
 Claim Timestamp: 00:54:26
 
@@ -2514,7 +2513,7 @@ Investigative Direction: The host's own earlier statements on her confidence lev
 
 ---
 
-**C-13048** Host Says Harpole's Lawsuit Contains Lies but Does Not Show He Was Not at Fort Huachuca
+**C-9144** Host Says Harpole's Lawsuit Contains Lies but Does Not Show He Was Not at Fort Huachuca
 
 Claim Timestamp: 00:54:26
 
@@ -2530,7 +2529,7 @@ Investigative Direction: Compare the filing's factual statements with the record
 
 ---
 
-**C-13049** Host Says Harpole's Filing Claims She Had His Alibi, Which She Says Is Untrue
+**C-9145** Host Says Harpole's Filing Claims She Had His Alibi, Which She Says Is Untrue
 
 Claim Timestamp: 00:54:26
 
@@ -2546,7 +2545,7 @@ Investigative Direction: Read the complaint paragraph on the alibi and compare w
 
 ---
 
-**C-13050** Host Says Harpole's Filing Blames Her for His Shawn Ryan Appearance Though She Had Not Mentioned Him
+**C-9146** Host Says Harpole's Filing Blames Her for His Shawn Ryan Appearance Though She Had Not Mentioned Him
 
 Claim Timestamp: 00:55:19
 
@@ -2557,13 +2556,13 @@ Transcript Snippet: Why are you saying he went on Shawn Ryan because of the grie
 Anchored Artifacts: A-3241.1
 Mentions: N-266, N-224, N-3
 Related Nodes: N-10862
-Supports: C-2817, C-2816
+Supports: C-8658, C-8657
 Tags: relevance:core
 Investigative Direction: Compare the airing dates of the host's first Harpole mention and the Shawn Ryan interview.
 
 ---
 
-**C-13051** Host Says She Messaged Harpole Four Times
+**C-9147** Host Says She Messaged Harpole Four Times
 
 Claim Timestamp: 00:55:19
 
@@ -2579,7 +2578,7 @@ Investigative Direction: The message thread would show the count; earlier episod
 
 ---
 
-**C-13052** Host Says Harpole Has Not Provided Receipts for the Morning of the 9th
+**C-9148** Host Says Harpole Has Not Provided Receipts for the Morning of the 9th
 
 Claim Timestamp: 00:55:19
 
@@ -2595,7 +2594,7 @@ Investigative Direction: Check the court docket for any submitted alibi evidence
 
 ---
 
-**C-13053** Host Says Hillsdale Students Messaged Her Upset About Erika Speaking
+**C-9149** Host Says Hillsdale Students Messaged Her Upset About Erika Speaking
 
 Claim Timestamp: 00:56:04
 
@@ -2606,13 +2605,13 @@ Transcript Snippet: I had so many students messaging me that were upset about it
 Anchored Artifacts: 
 Mentions: N-2, N-3
 Related Nodes: N-11255
-Supports: C-10279
+Supports: C-6872
 Tags: relevance:tangential
 Investigative Direction: Collect the student messages and any Hillsdale student newspaper coverage.
 
 ---
 
-**C-13054** Host Says Erika Is Teaming Up With People Who Bullied Charlie
+**C-9150** Host Says Erika Is Teaming Up With People Who Bullied Charlie
 
 Claim Timestamp: 00:56:48
 
@@ -2628,7 +2627,7 @@ Investigative Direction: Define who is meant by the bullies and list the joint a
 
 ---
 
-**C-13055** Host Says She Plans a Website With Documents, Messages and Her Timeline
+**C-9151** Host Says She Plans a Website With Documents, Messages and Her Timeline
 
 Claim Timestamp: 00:59:04
 

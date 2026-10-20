@@ -1,6 +1,6 @@
 {
   "description": "Hostile hard-gate codes accepted as documented exceptions (Wave 2, LED-P2-1). Each entry needs a rationale; the hostile report echoes it under meta.accepted.",
   "accepted": {
-    "CA_DEBT_CALLOUT": "Informational, not a defect: CKA claim and artifact ids continue the BoC remap bands (claims start at C-1115, artifacts at A-1077) because eps 1-10 were remapped from Bride of Charlie in Batch 1. The leading holes are expected and are never minted into."
+    "CA_DEBT_CALLOUT": "Informational, not a defect: CKA claims were renumbered densely from C-1 in airing order on 2026-10-20 (map in audits/claim_renumber_2026-10-20/id_map.csv); artifact ids still continue the BoC remap band (artifacts start at A-1077), so the leading artifact holes are expected."
   }
 }

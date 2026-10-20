@@ -15,7 +15,7 @@
   - Tip-minted Nodes (supplement_2026-10b): N-11098
   - Hole-minted Nodes (reintro-ep015): N-153, N-201, N-204, N-10230, N-10398, N-10810
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10b): C-6449–C-6511
+  - Claim Range: C-1325–C-1401
   - New Nodes Introduced: N-10162, N-10163, N-10164, N-10166, N-10167
   - Reused Nodes Appearing: N-1, N-2, N-11, N-10165, N-5, N-15, N-36, N-40, N-46, N-50, N-51, N-101, N-10000, N-10016, N-10025, N-10026, N-10100, N-10104, N-10117, N-10132, N-10139, N-10662, N-10350, N-11096, N-11099, N-11097
   - Hole-minted Nodes (wave3): N-378
@@ -145,7 +145,7 @@ Confidence Level: Medium (read-aloud artifact; screen capture of tweet not visib
 
 Description: Bowyer tweet responding to claim that staff "tampered with cameras," asserting "The law enforcement officers asked them to turn them over immediately so they didn't get lost in commotion before they took everyone into lockdown."
 
-*Related: C-1366, C-1370, C-1371, N-41, N-10162, N-11*
+*Related: C-1363, C-1364, C-1366, N-41, N-10162, N-11*
 
 **A-1220.2** Tyler Bowyer X post – DoJ department / audit denial
 
@@ -157,7 +157,7 @@ Confidence Level: Medium (read-aloud artifact)
 
 Description: Bowyer tweet stating "She took a sentence and made something up. TPUSA doesn't audit every year. Always has."
 
-*Related: C-1368, C-1379, N-41, N-11*
+*Related: C-1385, C-1383, N-41, N-11*
 
 **A-1220.3** Tyler Bowyer X post – campus footage release
 
@@ -169,7 +169,7 @@ Confidence Level: Medium (read-aloud artifact)
 
 Description: Bowyer tweet asserting "there is camera footage all over that campus that the police have, plus all the cameras that we had. They likely won't release it until the trial."
 
-*Related: C-1367, N-41, N-10165, N-11*
+*Related: C-1369, N-41, N-10165, N-11*
 
 **A-1221** Andrew Kolvet Tucker Carlson Interview Clip
 
@@ -183,7 +183,7 @@ Confidence Level: High (audio/video clip referenced as played on air)
 
 Description: Kolvet on Tucker Carlson show defending the TPUSA staffer who removed SD cards from the camera behind Charlie Kirk. Asserts staffer was motivated by fear of theft (cited hats being stolen from the table), that the SD cards were given to the FBI, and quotes staffer as saying "Because I know people can be evil."
 
-*Related: C-1369, C-1370, N-14, N-10162*
+*Related: C-1358, C-1364, N-14, N-10162*
 
 **A-1222** Wall Street Journal Article – Alex Clark Profile
 
@@ -197,7 +197,7 @@ Confidence Level: High (article photo and text read aloud and shown)
 
 Description: Wall Street Journal feature on Alex Clark containing photographic image of Clark at the Charlie Kirk memorial site (described as showing her in "high boots" at the memorial). Direct quotes: "The very first thought that popped into my head was, 'I'm so glad that Charlie knew Jesus.'" Third thought: "'Thank God Trump is president.'" States Clark is 32. Praises FBI director Kash Patel and deputy Dan Bongino.
 
-*Related: C-1372, C-1373, N-99, N-10166*
+*Related: C-1378, C-1381, N-99, N-10166*
 
 **A-1223** Alex Clark Instagram Post
 
@@ -211,7 +211,7 @@ Confidence Level: Medium (described on air by host)
 
 Description: Alex Clark's Instagram post sharing Tyler Bowyer's X post defending TPUSA on the DoJ department matter; characterized by host as "half-truth PR spin."
 
-*Related: C-1379, N-99, N-11*
+*Related: C-1383, N-99, N-11*
 
 **A-1224** Pastor Rob McCoy Instagram Post
 
@@ -225,7 +225,7 @@ Confidence Level: High (full text read aloud on air)
 
 Description: Rob McCoy Instagram post stating: "Charlie Kirk was my friend and I was his pastor... He never operated nor entertained gossip or innuendo concerning Candace. My only comment I offer regarding Candace is this, I only wish that at this tragic time of mourning she would be the friend to Charlie that he was to her. He would never have treated Candace or her family in such a way had God forbid this tragedy been hers. A friend loves at all times. Proverbs."
 
-*Related: C-1374, N-17, N-10166*
+*Related: C-1343, N-17, N-10166*
 
 **A-1225** Pre-Assassination Group Chat Bundle
 
@@ -239,7 +239,7 @@ Confidence Level: Medium (read aloud; original chat provenance not independently
 
 Description: Text attributed to Charlie Kirk in a 9-person group chat: "Just lost another huge Jewish donor uh 2 million a year because we won't cancel Tucker. I'm thinking of inviting Candace."
 
-*Related: C-1375, C-1376, N-10163*
+*Related: C-1349, C-1350, N-10163*
 
 **A-1225.2** Charlie Kirk message – refusing to be bullied
 
@@ -251,7 +251,7 @@ Confidence Level: Medium
 
 Description: Text attributed to Charlie Kirk: "Jewish donors play into all of the stereotypes. I cannot and will not be bullied like this. Leaving me no choice but to leave the pro-Israel cause."
 
-*Related: C-1376, N-10163, N-10164*
+*Related: C-1350, N-10163, N-10164*
 
 **A-1225.3** Donor reply – counsel against inviting Candace
 
@@ -275,7 +275,7 @@ Confidence Level: Medium (verbal identification only; chat text not displayed ve
 
 Description: Host verbally identifies Josh Hammer as a participant on the pre-assassination group chat.
 
-*Related: C-1377, N-14, N-10163*
+*Related: C-1352, N-14, N-10163*
 
 **A-1226** Pastor Sermon Clip
 
@@ -289,7 +289,7 @@ Confidence Level: High (audio/video clip played on air)
 
 Description: Sermon titled "What has defiled you." Cites 2 Corinthians 7:1. References a Tucker Carlson / Megyn Kelly interview; calls Candace Owens and Nick Fuentes "deceived," "foolish," and "defiled" regarding modern state of Israel. Concludes urging congregants to "block them" on Instagram as an act of purification. Host declines to name the pastor.
 
-*Related: C-1378*
+*Related: C-1391*
 
 ---
 
@@ -302,7 +302,7 @@ Video Timestamp: 00:03:42
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6450*
+*Related: C-1326*
 
 ---
 
@@ -315,7 +315,7 @@ Video Timestamp: 00:09:29
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6460, C-6461, C-6462, C-6463, C-6464*
+*Related: C-1336, C-1337, C-1338, C-1339, C-1340*
 
 ---
 
@@ -330,7 +330,7 @@ Video Timestamp: 00:12:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6465*
+*Related: C-1341*
 
 ---
 
@@ -345,7 +345,7 @@ Video Timestamp: 00:26:20
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-6485*
+*Related: C-1370*
 
 ---
 
@@ -360,7 +360,7 @@ Video Timestamp: 00:58:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-6507*
+*Related: C-1397*
 
 ---
 
@@ -373,7 +373,7 @@ Video Timestamp: 01:01:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-6508, C-6509*
+*Related: C-1398, C-1399*
 
 ---
 
@@ -383,7 +383,7 @@ Confidence Level: Medium
 
 First named by the host at 00:38:08 in episode 15. Aliases: Dan Bongino.
 
-*Related: C-1373, A-1222.1*
+*Related: C-1381, A-1222.1*
 
 **N-14** Andrew Kolvet
 
@@ -394,7 +394,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1221.1, C-1369, N-10162*
+*Related: A-1221.1, C-1358, N-10162*
 
 **N-99** Alex Clark
 
@@ -405,7 +405,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1222.1, A-1223.1, C-1372, C-1373, C-1379, N-10166*
+*Related: A-1222.1, A-1223.1, C-1378, C-1381, C-1383, N-10166*
 
 **N-17** Rob McCoy
 
@@ -416,7 +416,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1224.1, A-1225.4, C-1374, N-10166*
+*Related: A-1224.1, A-1225.4, C-1343, N-10166*
 
 **N-10162** SD Card Removal Narrative Discrepancy
 
@@ -427,7 +427,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1220.1, A-1221.1, C-1366, C-1369, C-1370, N-41, N-14*
+*Related: A-1220.1, A-1221.1, C-1363, C-1358, C-1364, N-41, N-14*
 
 **N-10163** Pre-Assassination Group Chat Content
 
@@ -438,7 +438,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1225.1, A-1225.2, A-1225.3, A-1225.4, C-1375, C-1376, C-1377, N-1, N-17, N-14*
+*Related: A-1225.1, A-1225.2, A-1225.3, A-1225.4, C-1349, C-1350, C-1352, N-1, N-17, N-14*
 
 **N-10164** Charlie Kirk Catholic Trajectory Verification
 
@@ -460,7 +460,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1220.3, C-1367, N-41*
+*Related: A-1220.3, C-1369, N-41*
 
 **N-10166** Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question
 
@@ -491,7 +491,7 @@ Investigative Pressure: Medium
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
 
-*Related: C-1366, C-1367, C-1368, C-1370, C-1379*
+*Related: C-1363, C-1369, C-1385, C-1364, C-1383*
 
 ---
 
@@ -499,7 +499,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 Subject of the assassination; the host reports his faith, messages and the group chat.
 
-*Related: C-6449, C-6450, C-6453, C-6454, C-6455, C-6456, C-6457, C-6458, C-6459, C-6460, C-6461, C-6462, C-6463, C-6465, C-6466, C-6467, C-6469, C-6470, C-6471, C-6472, C-6474, C-6475, C-6477, C-6489, C-6490, C-6491, C-6492, C-6493, C-6494, C-6495, C-6496, C-6499*
+*Related: C-1325, C-1326, C-1329, C-1330, C-1331, C-1332, C-1333, C-1334, C-1335, C-1336, C-1337, C-1338, C-1339, C-1341, C-1342, C-1344, C-1346, C-1347, C-1348, C-1351, C-1354, C-1355, C-1357, C-1374, C-1375, C-1376, C-1377, C-1379, C-1380, C-1382, C-1384, C-1388*
 
 ---
 
@@ -507,7 +507,7 @@ Subject of the assassination; the host reports his faith, messages and the group
 
 Widow; subject of mourning-based claims and the Catholic observance accounts.
 
-*Related: C-6451, C-6458, C-6459, C-6461, C-6462*
+*Related: C-1327, C-1334, C-1335, C-1337, C-1338*
 
 ---
 
@@ -515,7 +515,7 @@ Widow; subject of mourning-based claims and the Catholic observance accounts.
 
 Host; speaks for herself throughout.
 
-*Related: C-6449, C-6450, C-6451, C-6452, C-6453, C-6454, C-6460, C-6464, C-6465, C-6466, C-6467, C-6468, C-6469, C-6470, C-6471, C-6472, C-6473, C-6474, C-6475, C-6476, C-6480, C-6481, C-6482, C-6483, C-6484, C-6487, C-6488, C-6489, C-6490, C-6491, C-6493, C-6495, C-6496, C-6498, C-6499, C-6500, C-6501, C-6503, C-6504, C-6505, C-6506, C-6507, C-6509, C-6510, C-6511*
+*Related: C-1325, C-1326, C-1327, C-1328, C-1329, C-1330, C-1336, C-1340, C-1341, C-1342, C-1344, C-1345, C-1346, C-1347, C-1348, C-1351, C-1353, C-1354, C-1355, C-1356, C-1361, C-1362, C-1365, C-1367, C-1368, C-1372, C-1373, C-1374, C-1375, C-1376, C-1379, C-1382, C-1384, C-1387, C-1388, C-1389, C-1390, C-1393, C-1394, C-1395, C-1396, C-1397, C-1399, C-1400, C-1401*
 
 ---
 
@@ -523,14 +523,14 @@ Host; speaks for herself throughout.
 
 Donald Trump; the host criticizes his post pairing Kirk with an Israeli flag.
 
-*Related: C-6495*
+*Related: C-1382*
 
 ---
 
 **N-15** Justin Streiff
 Named by the host as the COO announced in Charlie Kirk's internal email (transcript spells it Stripe).
 
-*Related: C-6496*
+*Related: C-1384*
 
 ---
 
@@ -538,7 +538,7 @@ Named by the host as the COO announced in Charlie Kirk's internal email (transcr
 
 Interviewed Kolvet; subject of the lost-donor message and a quoted voice in the sermon.
 
-*Related: C-6474, C-6476, C-6479, C-6502*
+*Related: C-1354, C-1356, C-1360, C-1392*
 
 ---
 
@@ -546,7 +546,7 @@ Interviewed Kolvet; subject of the lost-donor message and a quoted voice in the 
 
 Subject of the host's TikTok and Trump-post claims.
 
-*Related: C-6495, C-6501, C-6504*
+*Related: C-1382, C-1390, C-1394*
 
 ---
 
@@ -554,7 +554,7 @@ Subject of the host's TikTok and Trump-post claims.
 
 Accused shooter; subject of the forgiveness remark and campus footage claims.
 
-*Related: C-6450, C-6485, C-6486*
+*Related: C-1326, C-1370, C-1371*
 
 ---
 
@@ -562,7 +562,7 @@ Accused shooter; subject of the forgiveness remark and campus footage claims.
 
 Cited for the priest and hex account and in the sermon.
 
-*Related: C-6459, C-6474, C-6502*
+*Related: C-1335, C-1354, C-1392*
 
 ---
 
@@ -570,7 +570,7 @@ Cited for the priest and hex account and in the sermon.
 
 Subject of the book club title.
 
-*Related: C-6506*
+*Related: C-1396*
 
 ---
 
@@ -578,7 +578,7 @@ Subject of the book club title.
 
 Author of the next book club selection.
 
-*Related: C-6506*
+*Related: C-1396*
 
 ---
 
@@ -586,7 +586,7 @@ Author of the next book club selection.
 
 Named in the clip as Kirk's debate partner on Protestant versus Catholic theology.
 
-*Related: C-6463*
+*Related: C-1339*
 
 ---
 
@@ -594,7 +594,7 @@ Named in the clip as Kirk's debate partner on Protestant versus Catholic theolog
 
 Named in a moderator comment as questioning the Kirk story.
 
-*Related: C-6508*
+*Related: C-1398*
 
 ---
 
@@ -602,7 +602,7 @@ Named in a moderator comment as questioning the Kirk story.
 
 Named with the host in the sermon.
 
-*Related: C-6503*
+*Related: C-1393*
 
 ---
 
@@ -610,7 +610,7 @@ Named with the host in the sermon.
 
 Host of the show named in a moderator comment.
 
-*Related: C-6508*
+*Related: C-1398*
 
 ---
 
@@ -618,7 +618,7 @@ Host of the show named in a moderator comment.
 
 Organization at the center of the episode.
 
-*Related: C-6450, C-6451, C-6452, C-6454, C-6460, C-6468, C-6481, C-6488, C-6490, C-6500*
+*Related: C-1326, C-1327, C-1328, C-1330, C-1336, C-1345, C-1362, C-1373, C-1375, C-1389*
 
 ---
 
@@ -626,7 +626,7 @@ Organization at the center of the episode.
 
 Existing topic reused.
 
-*Related: C-6472*
+*Related: C-1351*
 
 ---
 
@@ -634,7 +634,7 @@ Existing topic reused.
 
 Existing topic reused for the host's donor-pressure remarks.
 
-*Related: C-6474*
+*Related: C-1354*
 
 ---
 
@@ -642,7 +642,7 @@ Existing topic reused for the host's donor-pressure remarks.
 
 Place at the center of the donor-pressure and sermon discussion.
 
-*Related: C-6466, C-6470, C-6495, C-6501, C-6502, C-6511*
+*Related: C-1342, C-1347, C-1382, C-1390, C-1392, C-1401*
 
 ---
 
@@ -650,7 +650,7 @@ Place at the center of the donor-pressure and sermon discussion.
 
 Existing topic reused.
 
-*Related: C-6475, C-6476, C-6477, C-6478, C-6480*
+*Related: C-1355, C-1356, C-1357, C-1359, C-1361*
 
 ---
 
@@ -658,7 +658,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6453, C-6454, C-6460, C-6461, C-6462, C-6464*
+*Related: C-1329, C-1330, C-1336, C-1337, C-1338, C-1340*
 
 ---
 
@@ -666,7 +666,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6459*
+*Related: C-1335*
 
 ---
 
@@ -674,7 +674,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6489, C-6496, C-6497, C-6498, C-6499, C-6500*
+*Related: C-1374, C-1384, C-1386, C-1387, C-1388, C-1389*
 
 ---
 
@@ -682,7 +682,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6503*
+*Related: C-1393*
 
 ---
 
@@ -690,7 +690,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6457*
+*Related: C-1333*
 
 ---
 
@@ -698,7 +698,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6453, C-6455, C-6463, C-6465, C-6466*
+*Related: C-1329, C-1331, C-1339, C-1341, C-1342*
 
 ---
 
@@ -706,7 +706,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6469*
+*Related: C-1346*
 
 ---
 
@@ -714,7 +714,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6511*
+*Related: C-1401*
 
 ---
 
@@ -722,7 +722,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-6475, C-6477, C-6481*
+*Related: C-1355, C-1357, C-1362*
 
 ---
 
@@ -731,7 +731,7 @@ Existing topic reused.
 Node Type: Topic
 The host's claims that TikTok's moderation involves IDF-linked personnel and Netanyahu's stated aim to take over TikTok, and a reported ban on the juice box emoji.
 
-*Related: C-6504, C-6505*
+*Related: C-1394, C-1395*
 
 ---
 
@@ -740,7 +740,7 @@ The host's claims that TikTok's moderation involves IDF-linked personnel and Net
 Node Type: Topic
 The host's claim that Turning Point USA raised tens of millions of dollars in the two weeks after the assassination.
 
-*Related: C-6490*
+*Related: C-1375*
 
 ---
 
@@ -749,7 +749,7 @@ The host's claim that Turning Point USA raised tens of millions of dollars in th
 Node Type: Topic
 The host's criticism of Alex Clark's Wall Street Journal profile photo taken at the Kirk memorial site, with the quotes in the article.
 
-*Related: C-6491, C-6492, C-6494*
+*Related: C-1376, C-1377, C-1380*
 
 ---
 
@@ -758,13 +758,13 @@ The host's criticism of Alex Clark's Wall Street Journal profile photo taken at 
 Node Type: Topic
 The host's statement that an Australian court heard her visa arguments and a decision is pending.
 
-*Related: C-6510*
+*Related: C-1400*
 
 ---
 
 ## 5. Claim Register
 
-**C-1366** Bowyer SD card removal account – law enforcement instruction
+**C-1363** Bowyer SD card removal account – law enforcement instruction
 
 Claim Timestamp: 00:24:03
 
@@ -772,13 +772,13 @@ Claim: Tyler Bowyer publicly stated on X that TPUSA staff removed SD cards becau
 
 Anchored Artifacts: A-1220.1
 Mentions: N-11
-Contradicts: C-1369
+Contradicts: C-1358
 
 Related Nodes: N-10162
 
 Investigative Direction: Obtain Bowyer's original tweet via X/Twitter archive; cross-reference against FBI or university police statements from September 10, 2025.
 
-**C-1367** Bowyer campus footage release stance
+**C-1369** Bowyer campus footage release stance
 
 Claim Timestamp: 00:26:20
 
@@ -791,7 +791,7 @@ Related Nodes: N-10165
 
 Investigative Direction: FOIA requests to UVU police department; compare against DOJ statements on evidentiary release timing.
 
-**C-1368** Bowyer audit / DoJ department denial
+**C-1385** Bowyer audit / DoJ department denial
 
 Claim Timestamp: 00:40:21
 
@@ -803,7 +803,7 @@ Mentions: N-11, N-1
 
 Investigative Direction: Obtain TPUSA Form 990 filings via ProPublica Nonprofit Explorer; cross-reference against the previously displayed internal memo referenced in earlier episodes.
 
-**C-1369** Kolvet SD card removal account – theft prevention
+**C-1358** Kolvet SD card removal account – theft prevention
 
 Claim Timestamp: 00:22:06
 
@@ -811,13 +811,13 @@ Claim: Andrew Kolvet, speaking with Tucker Carlson, who was guest-hosting Charli
 
 Anchored Artifacts: A-1221.1
 Mentions: N-14, N-22
-Contradicts: C-1366
+Contradicts: C-1363
 
 Related Nodes: N-10162
 
 Investigative Direction: Obtain full clip; cross-reference against FBI evidentiary custody records.
 
-**C-1370** Conflicting SD card removal accounts (Kolvet vs. Bowyer)
+**C-1364** Conflicting SD card removal accounts (Kolvet vs. Bowyer)
 
 Claim Timestamp: 00:24:03
 
@@ -830,7 +830,7 @@ Related Nodes: N-10162
 
 Investigative Direction: Subpoena or FOIA records of communication between TPUSA staff, Andrew Kolvet, Tyler Bowyer, and UVU/FBI personnel regarding the SD card handling between September 10–12, 2025.
 
-**C-1371** Unflagged host assertion – phone call with TPUSA SD card individual
+**C-1366** Unflagged host assertion – phone call with TPUSA SD card individual
 
 Claim Timestamp: 00:25:00
 
@@ -838,13 +838,13 @@ Claim: The host asserts she personally spoke with the TPUSA individual who remov
 
 Anchored Artifacts: None displayed
 Mentions: N-3, N-2
-Contradicts: C-1366, C-1369
+Contradicts: C-1363, C-1358
 
 Related Nodes: N-10162
 
 Investigative Direction: Independent corroboration required; flag for human verification. (Failed admission test – artifact anchor absent in this episode.)
 
-**C-1372** Wall Street Journal article quotes Alex Clark
+**C-1378** Wall Street Journal article quotes Alex Clark
 
 Claim Timestamp: 00:37:10
 
@@ -857,7 +857,7 @@ Related Nodes: N-10166
 
 Investigative Direction: Obtain original WSJ article via ProQuest or LexisNexis to verify exact wording and photographic attribution.
 
-**C-1373** WSJ article – Clark praise of Patel and Bongino
+**C-1381** WSJ article – Clark praise of Patel and Bongino
 
 Claim Timestamp: 00:38:03
 
@@ -870,7 +870,7 @@ Related Nodes: N-10166
 
 Investigative Direction: Verify quote against the original WSJ article.
 
-**C-1374** Rob McCoy Instagram post responding to Hamptons meeting
+**C-1343** Rob McCoy Instagram post responding to Hamptons meeting
 
 Claim Timestamp: 00:13:08
 
@@ -883,7 +883,7 @@ Related Nodes: N-10166
 
 Investigative Direction: Obtain post directly from McCoy's Instagram; verify timestamp and provenance.
 
-**C-1375** Charlie Kirk group chat statement – lost $2M/year Jewish donor
+**C-1349** Charlie Kirk group chat statement – lost $2M/year Jewish donor
 
 Claim Timestamp: 00:16:50
 
@@ -896,7 +896,7 @@ Related Nodes: N-10163, N-10164
 
 Investigative Direction: Independent forensic authentication of chat metadata and participant identities; flag – original chat provenance not independently confirmed.
 
-**C-1376** Charlie Kirk group chat statement – refusing to be bullied / leaving pro-Israel cause
+**C-1350** Charlie Kirk group chat statement – refusing to be bullied / leaving pro-Israel cause
 
 Claim Timestamp: 00:16:50
 
@@ -909,7 +909,7 @@ Related Nodes: N-10163, N-10164
 
 Investigative Direction: Independent forensic authentication of chat; cross-reference against donor records and any contemporaneous statements from Kirk on the topic.
 
-**C-1377** Josh Hammer identified as group chat participant
+**C-1352** Josh Hammer identified as group chat participant
 
 Claim Timestamp: 00:17:45
 
@@ -922,7 +922,7 @@ Related Nodes: N-10163
 
 Investigative Direction: Direct forensic confirmation of Hammer's presence in the chat (e.g., phone number, handle).
 
-**C-1378** Pastor sermon clip – Candace / Fuentes defiled framing
+**C-1391** Pastor sermon clip – Candace / Fuentes defiled framing
 
 Claim Timestamp: 00:45:52
 
@@ -935,7 +935,7 @@ Related Nodes:
 
 Investigative Direction: Obtain full sermon recording; identify delivering church for archival purposes.
 
-**C-1379** Alex Clark Instagram amplification of Bowyer DoJ department defense
+**C-1383** Alex Clark Instagram amplification of Bowyer DoJ department defense
 
 Claim Timestamp: 00:39:45
 
@@ -949,7 +949,7 @@ Investigative Direction: Direct verification of Alex Clark's Instagram post; the
 
 ---
 
-**C-6449** Host Says Feds Are Definitively Lying but the Day's Events Are Unknown
+**C-1325** Host Says Feds Are Definitively Lying but the Day's Events Are Unknown
 
 Claim Timestamp: 00:02:53
 
@@ -964,7 +964,7 @@ Investigative Direction: Compile the specific federal statements the host consid
 
 ---
 
-**C-6450** Host Relays X User Asking Why TPUSA Wants Forgiveness for Robinson but Attacks Investigators
+**C-1326** Host Relays X User Asking Why TPUSA Wants Forgiveness for Robinson but Attacks Investigators
 
 Claim Timestamp: 00:03:42
 
@@ -980,7 +980,7 @@ Investigative Direction: Locate the original X post; compare TPUSA leaders' publ
 
 ---
 
-**C-6451** Host Says Influencers Invoke Erika Kirk's Mourning to Block Questions but Erika Has Not Said So
+**C-1327** Host Says Influencers Invoke Erika Kirk's Mourning to Block Questions but Erika Has Not Said So
 
 Claim Timestamp: 00:04:46
 
@@ -996,7 +996,7 @@ Investigative Direction: Collect the influencer statements that cite Erika's gri
 
 ---
 
-**C-6452** Host Says She Initially Let TPUSA White Lies Pass and Changed Course That Weekend
+**C-1328** Host Says She Initially Let TPUSA White Lies Pass and Changed Course That Weekend
 
 Claim Timestamp: 00:06:37
 
@@ -1012,7 +1012,7 @@ Investigative Direction: Compare the host's earlier episodes with this one to se
 
 ---
 
-**C-6453** Host Says She Never Said Charlie Kirk Converted to Catholicism
+**C-1329** Host Says She Never Said Charlie Kirk Converted to Catholicism
 
 Claim Timestamp: 00:08:02
 
@@ -1028,7 +1028,7 @@ Investigative Direction: Review the host's earlier statements on Kirk and Cathol
 
 ---
 
-**C-6454** Host Says Videos Disputing Her Catholicism Remarks Felt Coordinated
+**C-1330** Host Says Videos Disputing Her Catholicism Remarks Felt Coordinated
 
 Claim Timestamp: 00:08:02
 
@@ -1044,7 +1044,7 @@ Investigative Direction: Identify the videos, their authors and posting dates an
 
 ---
 
-**C-6455** Host Says Charlie Kirk Attended Mass Weekly and Sometimes Daily
+**C-1331** Host Says Charlie Kirk Attended Mass Weekly and Sometimes Daily
 
 Claim Timestamp: 00:08:02
 
@@ -1060,7 +1060,7 @@ Investigative Direction: Seek parish records, priests or attendees who saw Kirk 
 
 ---
 
-**C-6456** Host Says Kirk Was Not Attending Rob McCoy's Church
+**C-1332** Host Says Kirk Was Not Attending Rob McCoy's Church
 
 Claim Timestamp: 00:08:42
 
@@ -1076,7 +1076,7 @@ Investigative Direction: Ask McCoy's church and Kirk's associates whether Kirk w
 
 ---
 
-**C-6457** Host Says Kirk Wore Saint Michael Pendant When He Died
+**C-1333** Host Says Kirk Wore Saint Michael Pendant When He Died
 
 Claim Timestamp: 00:08:42
 
@@ -1092,7 +1092,7 @@ Investigative Direction: Check photographs and evidence inventories for the pend
 
 ---
 
-**C-6458** Host Says Erika Took a Catholic Bishop to Pray Over Kirk's Body
+**C-1334** Host Says Erika Took a Catholic Bishop to Pray Over Kirk's Body
 
 Claim Timestamp: 00:08:42
 
@@ -1108,7 +1108,7 @@ Investigative Direction: Identify the bishop and the publication that reported t
 
 ---
 
-**C-6459** Host Says Megyn Kelly Presented Account of Priest Praying Over Kirks After Hex
+**C-1335** Host Says Megyn Kelly Presented Account of Priest Praying Over Kirks After Hex
 
 Claim Timestamp: 00:08:42
 
@@ -1124,7 +1124,7 @@ Investigative Direction: Review Megyn Kelly's broadcast for the priest account a
 
 ---
 
-**C-6460** Host Says TPUSA Staff Knew Kirk's Catholic Practice Was Real
+**C-1336** Host Says TPUSA Staff Knew Kirk's Catholic Practice Was Real
 
 Claim Timestamp: 00:09:29
 
@@ -1140,7 +1140,7 @@ Investigative Direction: Establish what TPUSA staff knew about Kirk's mass atten
 
 ---
 
-**C-6461** Kolvet Says Kirk Was Not Becoming Catholic but Loved the Mass
+**C-1337** Kolvet Says Kirk Was Not Becoming Catholic but Loved the Mass
 
 Claim Timestamp: 00:09:29
 
@@ -1151,13 +1151,13 @@ Transcript Snippet: Was he becoming Catholic? No. But, he really loved Catholic 
 Anchored Artifacts: A-2814.1
 Mentions: N-14, N-1, N-2
 Related Nodes: N-10104
-Supports: C-1255
+Supports: C-695
 Tags: relevance:context
 Investigative Direction: Locate the original Kolvet interview and date; compare with mass-attendance accounts.
 
 ---
 
-**C-6462** Clip Speaker Says Erika Replied They Just Like Attending Sometimes
+**C-1338** Clip Speaker Says Erika Replied They Just Like Attending Sometimes
 
 Claim Timestamp: 00:10:36
 
@@ -1173,7 +1173,7 @@ Investigative Direction: Find Erika Kirk's original Instagram post and comment r
 
 ---
 
-**C-6463** Clip Has Speaker Say Kirk Disliked Worshipping in a Gym and Debated Knowles on Catholicism
+**C-1339** Clip Has Speaker Say Kirk Disliked Worshipping in a Gym and Debated Knowles on Catholicism
 
 Claim Timestamp: 00:10:36
 
@@ -1184,13 +1184,13 @@ Transcript Snippet: You can go check the videos out him debating with uh Michael
 Anchored Artifacts: A-2814.1
 Mentions: N-1, N-101
 Related Nodes: N-10350
-Supports: C-3727
+Supports: C-700
 Tags: relevance:context
 Investigative Direction: Find the Kirk-Knowles Protestant versus Catholic debate videos.
 
 ---
 
-**C-6464** Host Says Clip's Account Felt Like a Cover-Up
+**C-1340** Host Says Clip's Account Felt Like a Cover-Up
 
 Claim Timestamp: 00:11:26
 
@@ -1206,7 +1206,7 @@ Investigative Direction: Test the account against witnesses to Kirk's mass atten
 
 ---
 
-**C-6465** Host Says Kirk Messaged Her That Catholicism Was Sounding Better and Better
+**C-1341** Host Says Kirk Messaged Her That Catholicism Was Sounding Better and Better
 
 Claim Timestamp: 00:12:12
 
@@ -1222,7 +1222,7 @@ Investigative Direction: Obtain the message thread with metadata to confirm the 
 
 ---
 
-**C-6466** Host Says She Sent Kirk a Chart Linking Judeo-Christian to the Founding of Israel
+**C-1342** Host Says She Sent Kirk a Chart Linking Judeo-Christian to the Founding of Israel
 
 Claim Timestamp: 00:12:12
 
@@ -1238,7 +1238,7 @@ Investigative Direction: Obtain the chart and the message exchange from the host
 
 ---
 
-**C-6467** Host Says McCoy Effectively Asked Her to Pause Her Inquiry Until the Memorial
+**C-1344** Host Says McCoy Effectively Asked Her to Pause Her Inquiry Until the Memorial
 
 Claim Timestamp: 00:13:08
 
@@ -1254,7 +1254,7 @@ Investigative Direction: Compare McCoy's full Instagram text with the host's int
 
 ---
 
-**C-6468** Host Says McCoy's Son and Daughter-in-Law Work for TPUSA
+**C-1345** Host Says McCoy's Son and Daughter-in-Law Work for TPUSA
 
 Claim Timestamp: 00:14:40
 
@@ -1270,7 +1270,7 @@ Investigative Direction: Check TPUSA staff pages and filings for the family memb
 
 ---
 
-**C-6469** Host Says Kirk's Faith Direction Would Have Financial Implications for TPUSA
+**C-1346** Host Says Kirk's Faith Direction Would Have Financial Implications for TPUSA
 
 Claim Timestamp: 00:14:40
 
@@ -1286,7 +1286,7 @@ Investigative Direction: Review the faith division's funding and structure for d
 
 ---
 
-**C-6470** Host Says McCoy Knew for a Fact Kirk Was Done with Israel Bullying
+**C-1347** Host Says McCoy Knew for a Fact Kirk Was Done with Israel Bullying
 
 Claim Timestamp: 00:15:44
 
@@ -1302,7 +1302,7 @@ Investigative Direction: Authenticate the group chat and McCoy's participation; 
 
 ---
 
-**C-6471** Host Says Group Chat Had Nine Members Including Kirk and McCoy
+**C-1348** Host Says Group Chat Had Nine Members Including Kirk and McCoy
 
 Claim Timestamp: 00:15:44
 
@@ -1318,7 +1318,7 @@ Investigative Direction: Forensic review of the chat export for membership, numb
 
 ---
 
-**C-6472** Host Says Hamptons Meeting Is Something Participants Are All Lying About
+**C-1351** Host Says Hamptons Meeting Is Something Participants Are All Lying About
 
 Claim Timestamp: 00:16:50
 
@@ -1334,7 +1334,7 @@ Investigative Direction: Compare attendees' accounts of the Hamptons meeting wit
 
 ---
 
-**C-6473** Host Says a Rabbi Is in the Group Chat
+**C-1353** Host Says a Rabbi Is in the Group Chat
 
 Claim Timestamp: 00:18:23
 
@@ -1350,7 +1350,7 @@ Investigative Direction: Identify chat members' roles; the host has not named th
 
 ---
 
-**C-6474** Host Says Only She, Tucker and Megyn Have Vindicated Kirk's Pressure Account
+**C-1354** Host Says Only She, Tucker and Megyn Have Vindicated Kirk's Pressure Account
 
 Claim Timestamp: 00:18:23
 
@@ -1366,7 +1366,7 @@ Investigative Direction: Survey statements by other conservative hosts about don
 
 ---
 
-**C-6475** Host Says Someone Raced to Grab SD Cards Four Minutes After Kirk Was Shot
+**C-1355** Host Says Someone Raced to Grab SD Cards Four Minutes After Kirk Was Shot
 
 Claim Timestamp: 00:20:16
 
@@ -1377,13 +1377,13 @@ Transcript Snippet: 4 minutes after Charlie was shot, someone on their team nerv
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10100, N-10810
-Supports: C-1257
+Supports: C-711
 Tags: relevance:core
 Investigative Direction: Obtain video timing of the SD card removal and identify the staffer; compare against crime-scene entry logs.
 
 ---
 
-**C-6476** Host Says TPUSA Presents SD Card Removal as Heroic and Critics as Conspiracy Spinners
+**C-1356** Host Says TPUSA Presents SD Card Removal as Heroic and Critics as Conspiracy Spinners
 
 Claim Timestamp: 00:21:03
 
@@ -1399,7 +1399,7 @@ Investigative Direction: Obtain the full Kolvet-Carlson interview and compare fr
 
 ---
 
-**C-6477** Kolvet Says the SD Card Staffer Was a Dear Friend from the Beginning
+**C-1357** Kolvet Says the SD Card Staffer Was a Dear Friend from the Beginning
 
 Claim Timestamp: 00:21:03
 
@@ -1415,7 +1415,7 @@ Investigative Direction: Identify the staffer and role at TPUSA; the host later 
 
 ---
 
-**C-6478** Kolvet Says Staffer Wanted 4K Footage Protected
+**C-1359** Kolvet Says Staffer Wanted 4K Footage Protected
 
 Claim Timestamp: 00:22:24
 
@@ -1431,7 +1431,7 @@ Investigative Direction: Compare with Bowyer's and the staffer's own stated moti
 
 ---
 
-**C-6479** Tucker Carlson Says Public Distrust of Authorities Is Justified
+**C-1360** Tucker Carlson Says Public Distrust of Authorities Is Justified
 
 Claim Timestamp: 00:22:48
 
@@ -1446,7 +1446,7 @@ Investigative Direction: Obtain the full Carlson interview.
 
 ---
 
-**C-6480** Host Says Taking the SD Card but Not the Camera Undercuts the Theft Rationale
+**C-1361** Host Says Taking the SD Card but Not the Camera Undercuts the Theft Rationale
 
 Claim Timestamp: 00:23:06
 
@@ -1457,13 +1457,13 @@ Transcript Snippet: but also you took the SD card out and not the very expensive
 Anchored Artifacts: A-1221.1
 Mentions: N-3
 Related Nodes: N-10162, N-10100
-Supports: C-1257
+Supports: C-711
 Tags: relevance:context
 Investigative Direction: Ask TPUSA why the card was removed and the camera left, and who authorized it.
 
 ---
 
-**C-6481** Host Says TPUSA Has the Footage and She Saw Part of It
+**C-1362** Host Says TPUSA Has the Footage and She Saw Part of It
 
 Claim Timestamp: 00:23:06
 
@@ -1479,7 +1479,7 @@ Investigative Direction: Ask the host which footage she saw and from whom; reque
 
 ---
 
-**C-6482** Host Says Bowyer Is COO of Turning Point Action
+**C-1365** Host Says Bowyer Is COO of Turning Point Action
 
 Claim Timestamp: 00:24:03
 
@@ -1495,7 +1495,7 @@ Investigative Direction: Check TP Action filings and public bios for Bowyer's ti
 
 ---
 
-**C-6483** Host Says No One Heard of a Police Instruction on SD Cards Until Bowyer Tweeted
+**C-1367** Host Says No One Heard of a Police Instruction on SD Cards Until Bowyer Tweeted
 
 Claim Timestamp: 00:25:39
 
@@ -1506,13 +1506,13 @@ Transcript Snippet: No one's ever heard police officers ask them to secure the f
 Anchored Artifacts: A-1220.1
 Mentions: N-11, N-3
 Related Nodes: N-10162
-Contradicts: C-1257
+Contradicts: C-711
 Tags: relevance:core
 Investigative Direction: Request UVU police and FBI records on any instruction to TPUSA staff; compare Bowyer's tweet with earlier statements.
 
 ---
 
-**C-6484** Host Says Bowyer Is Responding to People Accusing TPUSA of a Hand in the Murder
+**C-1368** Host Says Bowyer Is Responding to People Accusing TPUSA of a Hand in the Murder
 
 Claim Timestamp: 00:25:39
 
@@ -1528,7 +1528,7 @@ Investigative Direction: Identify the posts Bowyer was answering and any explici
 
 ---
 
-**C-6485** X User Begs Bowyer to Seek Losee Center Security Footage
+**C-1370** X User Begs Bowyer to Seek Losee Center Security Footage
 
 Claim Timestamp: 00:26:20
 
@@ -1544,7 +1544,7 @@ Investigative Direction: Locate the original post and any FOIA or evidence reque
 
 ---
 
-**C-6486** Host Says Only a Blurry Image Was Released During the 33-Hour Manhunt
+**C-1371** Host Says Only a Blurry Image Was Released During the 33-Hour Manhunt
 
 Claim Timestamp: 00:27:14
 
@@ -1555,13 +1555,13 @@ Transcript Snippet: why only release a blurry image when there is, as he mention
 Anchored Artifacts: A-1220.3
 Mentions: N-3
 Related Nodes: N-10165
-Supports: C-4881
+Supports: C-353
 Tags: relevance:core
 Investigative Direction: Compare the FBI's manhunt-era releases with the footage inventory later cited by Bowyer.
 
 ---
 
-**C-6487** Host Says Some Campus Footage Is in 4K
+**C-1372** Host Says Some Campus Footage Is in 4K
 
 Claim Timestamp: 00:27:14
 
@@ -1577,7 +1577,7 @@ Investigative Direction: Ask UVU, TPUSA and the FBI for resolution specification
 
 ---
 
-**C-6488** Host Says TPUSA Responds with Name-Calling, Suit Threats and Demonic Accusations
+**C-1373** Host Says TPUSA Responds with Name-Calling, Suit Threats and Demonic Accusations
 
 Claim Timestamp: 00:29:28
 
@@ -1593,7 +1593,7 @@ Investigative Direction: Collect the specific TPUSA statements and legal letters
 
 ---
 
-**C-6489** Host Says She Shared Charlie's Email on the New DOGE Department
+**C-1374** Host Says She Shared Charlie's Email on the New DOGE Department
 
 Claim Timestamp: 00:33:36
 
@@ -1604,13 +1604,13 @@ Transcript Snippet: tried to make it seem like I lied about the new DOGE departm
 Anchored Artifacts: A-1223.1
 Mentions: N-99, N-1, N-3
 Related Nodes: N-10132
-Supports: C-3632
+Supports: C-896
 Tags: relevance:core
 Investigative Direction: Compare the host's earlier on-air email with the September 2 memo and Clark's post.
 
 ---
 
-**C-6490** Host Says TPUSA Made Tens of Millions in the Two Weeks After the Assassination
+**C-1375** Host Says TPUSA Made Tens of Millions in the Two Weeks After the Assassination
 
 Claim Timestamp: 00:34:23
 
@@ -1626,7 +1626,7 @@ Investigative Direction: Look for TPUSA and TP Action fundraising disclosures co
 
 ---
 
-**C-6491** Host Says Alex Clark Had the WSJ Photograph Her in High Boots at the Memorial Site
+**C-1376** Host Says Alex Clark Had the WSJ Photograph Her in High Boots at the Memorial Site
 
 Claim Timestamp: 00:35:49
 
@@ -1642,7 +1642,7 @@ Investigative Direction: Obtain the WSJ article, photographer credit and shoot d
 
 ---
 
-**C-6492** Host Says the WSJ Photo Shows Clark in Front of Gifts Left for Kirk and Is Not Photoshopped
+**C-1377** Host Says the WSJ Photo Shows Clark in Front of Gifts Left for Kirk and Is Not Photoshopped
 
 Claim Timestamp: 00:36:29
 
@@ -1658,7 +1658,7 @@ Investigative Direction: Check the WSJ original image and caption data.
 
 ---
 
-**C-6493** Host Says She Has Not Given Any Press Interview About Kirk
+**C-1379** Host Says She Has Not Given Any Press Interview About Kirk
 
 Claim Timestamp: 00:37:10
 
@@ -1673,7 +1673,7 @@ Investigative Direction: Review the host's interview record for any interview ab
 
 ---
 
-**C-6494** WSJ Article Says Clark Was About to Fly to Celebrate Her Podcast's First Anniversary
+**C-1380** WSJ Article Says Clark Was About to Fly to Celebrate Her Podcast's First Anniversary
 
 Claim Timestamp: 00:37:10
 
@@ -1689,7 +1689,7 @@ Investigative Direction: Verify against the WSJ article text.
 
 ---
 
-**C-6495** Host Says Trump Did a Same-Time Post with Netanyahu and Posted Kirk with an Israeli Flag
+**C-1382** Host Says Trump Did a Same-Time Post with Netanyahu and Posted Kirk with an Israeli Flag
 
 Claim Timestamp: 00:39:04
 
@@ -1705,7 +1705,7 @@ Investigative Direction: Retrieve the Trump and Netanyahu posts from September 1
 
 ---
 
-**C-6496** Host Says She Did Not Read the Paragraph Naming Justin Streiff COO
+**C-1384** Host Says She Did Not Read the Paragraph Naming Justin Streiff COO
 
 Claim Timestamp: 00:39:45
 
@@ -1716,13 +1716,13 @@ Transcript Snippet: I didn't read the paragraph where he announced that Justin S
 Anchored Artifacts: 
 Mentions: N-15, N-1, N-3
 Related Nodes: N-10132
-Supports: C-3632
+Supports: C-896
 Tags: relevance:core
 Investigative Direction: Compare the full memo against the portions the host aired.
 
 ---
 
-**C-6497** Bowyer Tweet Says TPUSA Operates Eight Times More Effectively Than Similar Operations
+**C-1386** Bowyer Tweet Says TPUSA Operates Eight Times More Effectively Than Similar Operations
 
 Claim Timestamp: 00:40:21
 
@@ -1738,7 +1738,7 @@ Investigative Direction: Ask Bowyer for the basis of the eight-times figure.
 
 ---
 
-**C-6498** Host Says Larger 501c3s Are Legally Required to Audit but Audit Is Not the DOGE Department
+**C-1387** Host Says Larger 501c3s Are Legally Required to Audit but Audit Is Not the DOGE Department
 
 Claim Timestamp: 00:41:21
 
@@ -1749,13 +1749,13 @@ Transcript Snippet: I actually think that for organizations of a certain size, y
 Anchored Artifacts: A-1220.2
 Mentions: N-3
 Related Nodes: N-10132
-Supports: C-1368
+Supports: C-1385
 Tags: relevance:context
 Investigative Direction: Check state audit thresholds and TPUSA's audited financial statements.
 
 ---
 
-**C-6499** Host Says a 501c3 Lawyer Advised an Independent Auditor in a Meeting With Charlie
+**C-1388** Host Says a 501c3 Lawyer Advised an Independent Auditor in a Meeting With Charlie
 
 Claim Timestamp: 00:41:21
 
@@ -1771,7 +1771,7 @@ Investigative Direction: Identify the lawyer and meeting date; the host may be a
 
 ---
 
-**C-6500** Host Says She Is Hearing About Possible TPUSA Contractor Kickbacks
+**C-1389** Host Says She Is Hearing About Possible TPUSA Contractor Kickbacks
 
 Claim Timestamp: 00:42:18
 
@@ -1787,7 +1787,7 @@ Investigative Direction: Ask the host for any documents; review TPUSA vendor pay
 
 ---
 
-**C-6501** Host Says Pro-Israel Christian Influencers Are Taking Money and Free Trips
+**C-1390** Host Says Pro-Israel Christian Influencers Are Taking Money and Free Trips
 
 Claim Timestamp: 00:43:46
 
@@ -1803,7 +1803,7 @@ Investigative Direction: Identify who the host means and any documented trips or
 
 ---
 
-**C-6502** Sermon Pastor Says Everyone Under 30 Is Against Israel as Quoted from Carlson and Kelly Interview
+**C-1392** Sermon Pastor Says Everyone Under 30 Is Against Israel as Quoted from Carlson and Kelly Interview
 
 Claim Timestamp: 00:45:52
 
@@ -1819,7 +1819,7 @@ Investigative Direction: Locate the Carlson and Kelly interview and the exact st
 
 ---
 
-**C-6503** Sermon Pastor Urges Congregants to Block Candace Owens and Nick Fuentes
+**C-1393** Sermon Pastor Urges Congregants to Block Candace Owens and Nick Fuentes
 
 Claim Timestamp: 00:48:48
 
@@ -1835,7 +1835,7 @@ Investigative Direction: Obtain the full sermon recording and identify the churc
 
 ---
 
-**C-6504** Host Says TikTok's Moderation Team Includes IDF Soldiers and Netanyahu Said They Are Taking Over TikTok
+**C-1394** Host Says TikTok's Moderation Team Includes IDF Soldiers and Netanyahu Said They Are Taking Over TikTok
 
 Claim Timestamp: 00:50:49
 
@@ -1846,13 +1846,13 @@ Transcript Snippet: their moderation team, like IDF soldiers uh and Benjamin Net
 Anchored Artifacts: 
 Mentions: N-36, N-3
 Related Nodes: N-11096
-Supports: C-1350
+Supports: C-1214
 Tags: relevance:tangential
 Investigative Direction: Locate the headline and any Netanyahu statement on TikTok; verify moderation team composition claims.
 
 ---
 
-**C-6505** Host Says TikTok Will Reportedly Ban the Juice Box Emoji
+**C-1395** Host Says TikTok Will Reportedly Ban the Juice Box Emoji
 
 Claim Timestamp: 00:50:49
 
@@ -1868,7 +1868,7 @@ Investigative Direction: Find TikTok's policy notice or the reporting about the 
 
 ---
 
-**C-6506** Host Says Book Club Starts David Bakan's Freud and the Jewish Mystical Tradition
+**C-1396** Host Says Book Club Starts David Bakan's Freud and the Jewish Mystical Tradition
 
 Claim Timestamp: 00:58:55
 
@@ -1883,7 +1883,7 @@ Investigative Direction: Check the book club schedule announcement.
 
 ---
 
-**C-6507** Host Agrees Many Officials in Kirk Case Are New to Their Roles
+**C-1397** Host Agrees Many Officials in Kirk Case Are New to Their Roles
 
 Claim Timestamp: 00:58:55
 
@@ -1898,7 +1898,7 @@ Investigative Direction: Compile start dates of the officials involved; verify t
 
 ---
 
-**C-6508** Moderator Comment Says Rob O'Neill Questioned the Kirk Story on Piers Morgan's Show
+**C-1398** Moderator Comment Says Rob O'Neill Questioned the Kirk Story on Piers Morgan's Show
 
 Claim Timestamp: 01:01:50
 
@@ -1913,7 +1913,7 @@ Investigative Direction: Retrieve the Piers Morgan episode with O'Neill and his 
 
 ---
 
-**C-6509** Moderator Comment Says South African Ambassador to France Was Found Dead in a Paris Hotel
+**C-1399** Moderator Comment Says South African Ambassador to France Was Found Dead in a Paris Hotel
 
 Claim Timestamp: 01:01:50
 
@@ -1928,7 +1928,7 @@ Investigative Direction: Verify against French and South African government stat
 
 ---
 
-**C-6510** Host Says Australian Court Heard Her Visa Arguments and Decision Is Pending
+**C-1400** Host Says Australian Court Heard Her Visa Arguments and Decision Is Pending
 
 Claim Timestamp: 01:01:50
 
@@ -1944,7 +1944,7 @@ Investigative Direction: Check Australian court and Department of Home Affairs r
 
 ---
 
-**C-6511** Host Says Israel Spends Money on Influencers and on Pressing People to Register Under FARA
+**C-1401** Host Says Israel Spends Money on Influencers and on Pressing People to Register Under FARA
 
 Claim Timestamp: 01:02:37
 

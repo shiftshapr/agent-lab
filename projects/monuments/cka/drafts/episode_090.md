@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10c): N-811, N-812
   - Hole-minted Nodes (reintro-ep090): N-10679, N-10703
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10c): C-8689–C-8754
+  - Claim Range: C-8020–C-8102
   - New Nodes Introduced: N-10593, N-10595, N-10596, N-10597
   - Hole-minted Nodes (wave3): N-420, N-421
   - Tip-minted Nodes (skeleton-caleb): N-604
@@ -45,7 +45,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Extraction Timestamp: 2026-04-13
 Confidence Level: High
 
-*Related: C-2682, C-2683, C-2684, N-40, N-10593*
+*Related: C-8059, C-8060, C-8084, N-40, N-10593*
 
 **A-1948.2** State Filing – Preliminary Hearing Evidence Notice (re: forensic extractions)
 
@@ -55,7 +55,7 @@ Video Timestamp: 00:47:08–00:48:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2684, N-40, N-10595*
+*Related: C-8084, N-40, N-10595*
 
 ---
 
@@ -69,7 +69,7 @@ Video Timestamp: 00:12:25–00:13:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (audio-only; video withheld)
 
-*Related: C-2685, C-2688, N-1, N-2, N-10594*
+*Related: C-8028, C-8050, N-1, N-2, N-10594*
 
 ---
 
@@ -83,7 +83,7 @@ Video Timestamp: 00:13:17–00:14:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2686, C-2687, N-10597*
+*Related: C-8031, C-8048, N-10597*
 
 ---
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:21:42–00:23:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2687, N-2, N-3, N-10596*
+*Related: C-8048, N-2, N-3, N-10596*
 
 **A-1951.2** ADF internal board presentation slide – Caleb Robinson board seat
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:23:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (referenced, partial)
 
-*Related: C-2688, N-10596*
+*Related: C-8050, N-10596*
 
 ---
 
@@ -121,7 +121,7 @@ Video Timestamp: 00:52:54–00:54:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2689*
+*Related: C-8090*
 
 ---
 
@@ -135,7 +135,7 @@ Video Timestamp: 00:57:23–00:58:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2690*
+*Related: C-8094*
 
 ---
 
@@ -149,7 +149,7 @@ Video Timestamp: 00:59:24–01:01:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2691*
+*Related: C-8098*
 
 ---
 
@@ -163,7 +163,7 @@ Video Timestamp: 00:42:44–00:43:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2692, N-40, N-10598*
+*Related: C-8076, N-40, N-10598*
 
 ---
 
@@ -177,7 +177,7 @@ Video Timestamp: 00:40:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (verbally referenced only)
 
-*Related: C-2693, N-40, N-10593*
+*Related: C-8073, N-40, N-10593*
 
 ---
 
@@ -191,7 +191,7 @@ Video Timestamp: 00:09:44–00:16:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (verbally referenced only – no recording displayed)
 
-*Related: C-2694, N-1, N-2, N-10594*
+*Related: C-8029, N-1, N-2, N-10594*
 
 ---
 
@@ -204,7 +204,7 @@ Video Timestamp: 00:20:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8713, C-8718, N-3, N-97, N-2, N-38, N-10954*
+*Related: C-8047, C-8054, N-3, N-97, N-2, N-38, N-10954*
 
 ---
 
@@ -217,7 +217,7 @@ Video Timestamp: 00:34:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-8723, C-8724, C-8725, C-8726, N-3, N-40, N-69, N-378*
+*Related: C-8061, C-8062, C-8063, C-8064, N-3, N-40, N-69, N-378*
 
 ---
 
@@ -232,7 +232,7 @@ Video Timestamp: 00:41:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8734, C-8735, C-8736, N-40, N-54, N-10013*
+*Related: C-8074, C-8075, C-8077, N-40, N-54, N-10013*
 
 ---
 
@@ -247,7 +247,7 @@ Video Timestamp: 00:47:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8742, C-8743, N-40*
+*Related: C-8085, C-8086, N-40*
 
 ---
 
@@ -262,7 +262,7 @@ Video Timestamp: 00:58:29
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8748, C-8749, N-5, N-420*
+*Related: C-8095, C-8096, N-5, N-420*
 
 ---
 
@@ -275,7 +275,7 @@ Video Timestamp: 01:00:23
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-8750, N-5*
+*Related: C-8097, N-5*
 
 ---
 
@@ -285,7 +285,7 @@ Confidence Level: Medium
 
 Daily Wire chief executive; first named by the host at 00:23:21 in episode 90 (ADF board seat).
 
-*Related: C-2688*
+*Related: C-8050*
 
 ---
 
@@ -293,13 +293,13 @@ Daily Wire chief executive; first named by the host at 00:23:21 in episode 90 (A
 
 First named by the host at 00:00:01 in episode 90. Aliases: Pope Leo, Pope Leo the 14th, His Holiness Pope Leo, Leo XIV.
 
-*Related: C-2689, C-2690, C-2691, C-2696*
+*Related: C-8090, C-8094, C-8098, C-8089*
 
 **N-421** Doug Terry
 
 First named by the host at 00:33:31 in episode 90.
 
-*Related: C-2682, C-2683*
+*Related: C-8059, C-8060*
 
 
 **N-10593** Tyler Robinson Filing Timeline Discrepancy
@@ -311,7 +311,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1948.1, A-1956.1, C-2682, C-2693, N-40*
+*Related: A-1948.1, A-1956.1, C-8059, C-8073, N-40*
 
 ---
 
@@ -324,7 +324,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1949.1, A-1957.1, C-2685, C-2694, N-1, N-2*
+*Related: A-1949.1, A-1957.1, C-8028, C-8029, N-1, N-2*
 
 ---
 
@@ -337,7 +337,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1948.2, C-2684, N-40*
+*Related: A-1948.2, C-8084, N-40*
 
 ---
 
@@ -350,7 +350,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1951.1, A-1951.2, C-2687, C-2688*
+*Related: A-1951.1, A-1951.2, C-8048, C-8050*
 
 ---
 
@@ -363,7 +363,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1950.1, C-2686, N-1*
+*Related: A-1950.1, C-8031, N-1*
 
 ---
 
@@ -376,7 +376,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1948.2, A-1955.1, C-2692, N-40*
+*Related: A-1948.2, A-1955.1, C-8076, N-40*
 
 ---
 
@@ -384,7 +384,7 @@ Investigative Pressure: Medium
 
 Host; speaks for herself throughout.
 
-*Related: C-8689, C-8690, C-8691, C-8692, C-8693, C-8694, C-8695, C-8696, C-8697, C-8698, C-8699, C-8700, C-8701, C-8702, C-8703, C-8704, C-8705, C-8706, C-8707, C-8708, C-8709, C-8710, C-8711, C-8712, C-8713, C-8714, C-8715, C-8716, C-8717, C-8718, C-8719, C-8720, C-8721, C-8722, C-8723, C-8724, C-8725, C-8726, C-8727, C-8728, C-8729, C-8730, C-8731, C-8732, C-8733, C-8734, C-8735, C-8736, C-8737, C-8738, C-8739, C-8740, C-8741, C-8742, C-8743, C-8744, C-8745, C-8746, C-8747, C-8748, C-8749, C-8750, C-8751, C-8752, C-8753, C-8754*
+*Related: C-8020, C-8021, C-8022, C-8023, C-8024, C-8025, C-8026, C-8027, C-8030, C-8032, C-8033, C-8034, C-8035, C-8036, C-8037, C-8038, C-8039, C-8040, C-8041, C-8042, C-8043, C-8044, C-8045, C-8046, C-8047, C-8049, C-8051, C-8052, C-8053, C-8054, C-8055, C-8056, C-8057, C-8058, C-8061, C-8062, C-8063, C-8064, C-8065, C-8067, C-8068, C-8069, C-8070, C-8071, C-8072, C-8074, C-8075, C-8077, C-8079, C-8080, C-8081, C-8082, C-8083, C-8085, C-8086, C-8088, C-8091, C-8092, C-8093, C-8095, C-8096, C-8097, C-8099, C-8100, C-8101, C-8102*
 
 ---
 
@@ -392,7 +392,7 @@ Host; speaks for herself throughout.
 
 Subject of the assassination; the host discusses the alleged Aspen remark and his views of Ben Shapiro.
 
-*Related: C-8693, C-8696, C-8697, C-8698, C-8700, C-8701, C-8704, C-8706, C-8707, C-8708, C-8709, C-8710, C-8752, C-8754*
+*Related: C-8024, C-8027, C-8030, C-8032, C-8034, C-8035, C-8038, C-8040, C-8041, C-8042, C-8043, C-8044, C-8100, C-8102*
 
 ---
 
@@ -400,7 +400,7 @@ Subject of the assassination; the host discusses the alleged Aspen remark and hi
 
 Widow and TPUSA CEO; subject of the Aspen remark, the single-mother description and the ADF claims.
 
-*Related: C-8689, C-8693, C-8697, C-8701, C-8704, C-8705, C-8706, C-8711, C-8713, C-8753*
+*Related: C-8020, C-8024, C-8030, C-8035, C-8038, C-8039, C-8040, C-8045, C-8047, C-8101*
 
 ---
 
@@ -408,7 +408,7 @@ Widow and TPUSA CEO; subject of the Aspen remark, the single-mother description 
 
 Named in the episode; cited by new claims.
 
-*Related: C-8744, C-8745, C-8746, C-8747, C-8748, C-8749, C-8750, C-8751*
+*Related: C-8088, C-8091, C-8092, C-8093, C-8095, C-8096, C-8097, C-8099*
 
 ---
 
@@ -416,7 +416,7 @@ Named in the episode; cited by new claims.
 
 TPUSA spokesperson; the host cites his Charlie GPT and Shapiro-interview remarks.
 
-*Related: C-8698, C-8706, C-8709, C-8710*
+*Related: C-8032, C-8040, C-8043, C-8044*
 
 ---
 
@@ -424,7 +424,7 @@ TPUSA spokesperson; the host cites his Charlie GPT and Shapiro-interview remarks
 
 Named in the episode; cited by new claims.
 
-*Related: C-8713, C-8718*
+*Related: C-8047, C-8054*
 
 ---
 
@@ -432,7 +432,7 @@ Named in the episode; cited by new claims.
 
 Defendant; subject of the September 11 timeline and filing claims.
 
-*Related: C-8719, C-8720, C-8721, C-8722, C-8723, C-8724, C-8725, C-8726, C-8727, C-8728, C-8730, C-8731, C-8733, C-8734, C-8735, C-8736, C-8737, C-8738, C-8740, C-8742, C-8743*
+*Related: C-8055, C-8056, C-8057, C-8058, C-8061, C-8062, C-8063, C-8064, C-8065, C-8067, C-8069, C-8070, C-8072, C-8074, C-8075, C-8077, C-8079, C-8080, C-8082, C-8085, C-8086*
 
 ---
 
@@ -440,7 +440,7 @@ Defendant; subject of the September 11 timeline and filing claims.
 
 Named in the episode; cited by new claims.
 
-*Related: C-8720*
+*Related: C-8056*
 
 ---
 
@@ -448,7 +448,7 @@ Named in the episode; cited by new claims.
 
 Named in the episode; cited by new claims.
 
-*Related: C-8717*
+*Related: C-8053*
 
 ---
 
@@ -456,7 +456,7 @@ Named in the episode; cited by new claims.
 
 Robinson's roommate; the host calls him a federal informant.
 
-*Related: C-8734, C-8735, C-8736, C-8737, C-8738, C-8739, C-8740, C-8741*
+*Related: C-8074, C-8075, C-8077, C-8079, C-8080, C-8081, C-8082, C-8083*
 
 ---
 
@@ -464,7 +464,7 @@ Robinson's roommate; the host calls him a federal informant.
 
 Named in the episode; cited by new claims.
 
-*Related: C-8744*
+*Related: C-8088*
 
 ---
 
@@ -472,7 +472,7 @@ Named in the episode; cited by new claims.
 
 Named in the episode; cited by new claims.
 
-*Related: C-8725, C-8730, C-8731*
+*Related: C-8063, C-8069, C-8070*
 
 ---
 
@@ -480,7 +480,7 @@ Named in the episode; cited by new claims.
 
 Daily Wire co-founder; the host alleges he worked against her through donors, arbitration and ADF.
 
-*Related: C-8706, C-8707, C-8708, C-8709, C-8710, C-8711, C-8712, C-8713, C-8715, C-8717, C-8718*
+*Related: C-8040, C-8041, C-8042, C-8043, C-8044, C-8045, C-8046, C-8047, C-8051, C-8053, C-8054*
 
 ---
 
@@ -488,7 +488,7 @@ Daily Wire co-founder; the host alleges he worked against her through donors, ar
 
 Named in the episode; cited by new claims.
 
-*Related: C-8728, C-8729*
+*Related: C-8067, C-8068*
 
 ---
 
@@ -496,7 +496,7 @@ Named in the episode; cited by new claims.
 
 TPUSA communications figure; the host recounts his refusal to show the video.
 
-*Related: C-8694, C-8695, C-8703, C-8732*
+*Related: C-8025, C-8026, C-8037, C-8071*
 
 ---
 
@@ -504,7 +504,7 @@ TPUSA communications figure; the host recounts his refusal to show the video.
 
 Named in the episode; cited by new claims.
 
-*Related: C-8710*
+*Related: C-8044*
 
 ---
 
@@ -512,7 +512,7 @@ Named in the episode; cited by new claims.
 
 Named in the episode; cited by new claims.
 
-*Related: C-8707*
+*Related: C-8041*
 
 ---
 
@@ -520,7 +520,7 @@ Named in the episode; cited by new claims.
 
 Named in the episode; cited by new claims.
 
-*Related: C-8717*
+*Related: C-8053*
 
 ---
 
@@ -528,7 +528,7 @@ Named in the episode; cited by new claims.
 
 Named in the episode; cited by new claims.
 
-*Related: C-8728, C-8729, C-8730*
+*Related: C-8067, C-8068, C-8069*
 
 ---
 
@@ -536,7 +536,7 @@ Named in the episode; cited by new claims.
 
 Named in the episode; cited by new claims.
 
-*Related: C-8689*
+*Related: C-8020*
 
 ---
 
@@ -544,7 +544,7 @@ Named in the episode; cited by new claims.
 
 Daily Wire employee the host describes as Erika's ex-boyfriend and the subject of the playground encounter.
 
-*Related: C-8689, C-8690, C-8691, C-8692*
+*Related: C-8020, C-8021, C-8022, C-8023*
 
 ---
 
@@ -552,7 +552,7 @@ Daily Wire employee the host describes as Erika's ex-boyfriend and the subject o
 
 Named in the episode; cited by new claims.
 
-*Related: C-8707*
+*Related: C-8041*
 
 ---
 
@@ -560,7 +560,7 @@ Named in the episode; cited by new claims.
 
 Named in the episode; cited by new claims.
 
-*Related: C-8725*
+*Related: C-8063*
 
 ---
 
@@ -568,7 +568,7 @@ Named in the episode; cited by new claims.
 
 Named in the episode; cited by new claims.
 
-*Related: C-8744, C-8747*
+*Related: C-8088, C-8093*
 
 ---
 
@@ -576,7 +576,7 @@ Named in the episode; cited by new claims.
 
 Existing organization reused for new claims in this episode.
 
-*Related: C-8693, C-8694, C-8695, C-8697, C-8700, C-8702, C-8703, C-8704, C-8705, C-8753, C-8754*
+*Related: C-8024, C-8025, C-8026, C-8030, C-8034, C-8036, C-8037, C-8038, C-8039, C-8101, C-8102*
 
 ---
 
@@ -584,7 +584,7 @@ Existing organization reused for new claims in this episode.
 
 Existing organization reused for new claims in this episode.
 
-*Related: C-8734, C-8735, C-8736*
+*Related: C-8074, C-8075, C-8077*
 
 ---
 
@@ -592,7 +592,7 @@ Existing organization reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8719, C-8723, C-8724, C-8725, C-8726*
+*Related: C-8055, C-8061, C-8062, C-8063, C-8064*
 
 ---
 
@@ -600,7 +600,7 @@ Existing topic reused for new claims in this episode.
 
 Existing place reused for new claims in this episode.
 
-*Related: C-8696*
+*Related: C-8027*
 
 ---
 
@@ -608,7 +608,7 @@ Existing place reused for new claims in this episode.
 
 Existing organization reused for new claims in this episode.
 
-*Related: C-8728, C-8729, C-8730, C-8733*
+*Related: C-8067, C-8068, C-8069, C-8072*
 
 ---
 
@@ -616,7 +616,7 @@ Existing organization reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8730, C-8731, C-8732*
+*Related: C-8069, C-8070, C-8071*
 
 ---
 
@@ -624,7 +624,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8733*
+*Related: C-8072*
 
 ---
 
@@ -632,7 +632,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8689, C-8690*
+*Related: C-8020, C-8021*
 
 ---
 
@@ -640,7 +640,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8716*
+*Related: C-8052*
 
 ---
 
@@ -648,7 +648,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8693, C-8696, C-8752*
+*Related: C-8024, C-8027, C-8100*
 
 ---
 
@@ -656,7 +656,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8732*
+*Related: C-8071*
 
 ---
 
@@ -664,7 +664,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8697, C-8701*
+*Related: C-8030, C-8035*
 
 ---
 
@@ -672,7 +672,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8744*
+*Related: C-8088*
 
 ---
 
@@ -680,7 +680,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8693, C-8700, C-8703, C-8704, C-8752*
+*Related: C-8024, C-8034, C-8037, C-8038, C-8100*
 
 ---
 
@@ -688,7 +688,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8737, C-8741*
+*Related: C-8079, C-8083*
 
 ---
 
@@ -696,7 +696,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8738*
+*Related: C-8080*
 
 ---
 
@@ -704,7 +704,7 @@ Existing topic reused for new claims in this episode.
 
 Existing organization reused for new claims in this episode.
 
-*Related: C-8689, C-8708, C-8710, C-8711, C-8712, C-8714, C-8716*
+*Related: C-8020, C-8042, C-8044, C-8045, C-8046, C-8049, C-8052*
 
 ---
 
@@ -712,7 +712,7 @@ Existing organization reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8694, C-8695, C-8702*
+*Related: C-8025, C-8026, C-8036*
 
 ---
 
@@ -720,7 +720,7 @@ Existing topic reused for new claims in this episode.
 
 Existing organization reused for new claims in this episode.
 
-*Related: C-8713, C-8714, C-8715, C-8718*
+*Related: C-8047, C-8049, C-8051, C-8054*
 
 ---
 
@@ -728,7 +728,7 @@ Existing organization reused for new claims in this episode.
 
 Existing place reused for new claims in this episode.
 
-*Related: C-8721, C-8722*
+*Related: C-8057, C-8058*
 
 ---
 
@@ -736,7 +736,7 @@ Existing place reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8731, C-8732*
+*Related: C-8070, C-8071*
 
 ---
 
@@ -744,7 +744,7 @@ Existing topic reused for new claims in this episode.
 
 Utah County Sheriff; first named by the host at 00:38:30 in episode 90 (Brooksby's call about Mike Mitchell).
 
-*Related: C-8729*
+*Related: C-8068*
 
 ---
 
@@ -752,13 +752,13 @@ Utah County Sheriff; first named by the host at 00:38:30 in episode 90 (Brooksby
 
 Bishop; first named by the host at 00:55:46 in episode 90 (stood beside Paula White during the prayer). Transcript spelling: Bishop Barron.
 
-*Related: C-8747*
+*Related: C-8093*
 
 ---
 
 ## 5. Claim Register
 
-**C-2682** Defense Motion Places Tyler Robinson Miranda Advisement at 6:25 p.m. on September 11
+**C-8059** Defense Motion Places Tyler Robinson Miranda Advisement at 6:25 p.m. on September 11
 
 Claim Timestamp: 00:32:25
 
@@ -773,7 +773,7 @@ Investigative Direction: Obtain certified copy of motion and underlying video ex
 
 ---
 
-**C-2683** Tyler Robinson requested attorney Doug Terry during Mirandization
+**C-8060** Tyler Robinson requested attorney Doug Terry during Mirandization
 
 Claim Timestamp: 00:33:31
 
@@ -788,7 +788,7 @@ Investigative Direction: Verify attorney representation records and the authenti
 
 ---
 
-**C-2684** State does not intend to offer forensic-extraction evidence at preliminary hearing
+**C-8084** State does not intend to offer forensic-extraction evidence at preliminary hearing
 
 Claim Timestamp: 00:47:08
 
@@ -803,7 +803,7 @@ Investigative Direction: Obtain the underlying filing directly and confirm langu
 
 ---
 
-**C-2685** Aspen audio contains the statement "I appoint my wife to run Turning Point USA if something happens to me"
+**C-8028** Aspen audio contains the statement "I appoint my wife to run Turning Point USA if something happens to me"
 
 Claim Timestamp: 00:12:25
 
@@ -818,7 +818,7 @@ Investigative Direction: Authenticate timestamp, venue, and speakers; obtain the
 
 ---
 
-**C-2686** Andrew Kolvet stated pitches were received for "Charlie GPT"
+**C-8031** Andrew Kolvet stated pitches were received for "Charlie GPT"
 
 Claim Timestamp: 00:13:17
 
@@ -833,7 +833,7 @@ Investigative Direction: Identify the date and outlet of the interview; obtain f
 
 ---
 
-**C-2687** Host Says ADF CEO Video Shows Discussion of Working With Erika Kirk Regarding Candace Owens
+**C-8048** Host Says ADF CEO Video Shows Discussion of Working With Erika Kirk Regarding Candace Owens
 
 Claim Timestamp: 00:21:42
 
@@ -848,7 +848,7 @@ Investigative Direction: Authenticate the internal video; obtain the underlying 
 
 ---
 
-**C-2688** Caleb Robinson holds a board seat at Alliance Defending Freedom
+**C-8050** Caleb Robinson holds a board seat at Alliance Defending Freedom
 
 Claim Timestamp: 00:23:21
 
@@ -863,7 +863,7 @@ Investigative Direction: Cross-check ADF public filings (Form 990, board roster)
 
 ---
 
-**C-2689** Trump posted on Truth Social attacking Pope Leo XIV as weak on crime
+**C-8090** Trump posted on Truth Social attacking Pope Leo XIV as weak on crime
 
 Claim Timestamp: 00:52:54
 
@@ -878,7 +878,7 @@ Investigative Direction: Retrieve the original Truth Social post and engagement 
 
 ---
 
-**C-2690** Pope Leo XIV publicly responded with the message "blessed are the peacemakers"
+**C-8094** Pope Leo XIV publicly responded with the message "blessed are the peacemakers"
 
 Claim Timestamp: 00:57:23
 
@@ -893,7 +893,7 @@ Investigative Direction: Obtain the original Vatican source video and transcript
 
 ---
 
-**C-2691** Trump defended the AI image of himself as Jesus by claiming he thought it depicted him as a doctor
+**C-8098** Trump defended the AI image of himself as Jesus by claiming he thought it depicted him as a doctor
 
 Claim Timestamp: 01:01:05
 
@@ -908,7 +908,7 @@ Investigative Direction: Verify clip against White House press transcript.
 
 ---
 
-**C-2692** Discord publicly stated no evidence Robinson planned the incident on Discord
+**C-8076** Discord publicly stated no evidence Robinson planned the incident on Discord
 
 Claim Timestamp: 00:42:44
 
@@ -923,7 +923,7 @@ Investigative Direction: Retrieve the original Discord statement and The Hill ar
 
 ---
 
-**C-2693** Search warrant records Tyler Robinson arriving at Washington County Sheriff's Office at 10:26 p.m. with parents
+**C-8073** Search warrant records Tyler Robinson arriving at Washington County Sheriff's Office at 10:26 p.m. with parents
 
 Claim Timestamp: 00:39:50
 
@@ -938,7 +938,7 @@ Investigative Direction: Obtain the search warrant docket entry and verify exact
 
 ---
 
-**C-2694** Two Aspen donors told host Charlie never made the appointment statement at the event
+**C-8029** Two Aspen donors told host Charlie never made the appointment statement at the event
 
 Claim Timestamp: 00:12:25–00:16:01
 
@@ -953,7 +953,7 @@ Investigative Direction: Identify and contact the donors for recorded testimony;
 
 ---
 
-**C-2695** State Says It Will Offer Camera Recordings of Text Messages Instead of Forensic Extractions
+**C-8087** State Says It Will Offer Camera Recordings of Text Messages Instead of Forensic Extractions
 
 Claim Timestamp: 00:47:50
 
@@ -968,7 +968,7 @@ Investigative Direction: Obtain filing directly; assess admissibility standards 
 
 ---
 
-**C-2696** Trump Attacks Pope Leo XIV Over Iran War Criticism
+**C-8089** Trump Attacks Pope Leo XIV Over Iran War Criticism
 
 Claim Timestamp: 00:51:46–00:58:29
 
@@ -983,7 +983,7 @@ Investigative Direction: Cross-reference dates with Vatican liturgical calendar 
 
 ---
 
-**C-2697** Host Contends Feds Revised Messaging Platform From Discord to iMessage
+**C-8078** Host Contends Feds Revised Messaging Platform From Discord to iMessage
 
 Claim Timestamp: 00:43:32
 
@@ -998,7 +998,7 @@ Investigative Direction: Obtain all federal court filings referencing the messag
 
 ---
 
-**C-3766** Host says her source reported local texts at about 7 p.m. that police had Tyler Robinson, an hour before the Cox press conference
+**C-8066** Host says her source reported local texts at about 7 p.m. that police had Tyler Robinson, an hour before the Cox press conference
 
 Claim Timestamp: 00:36:57
 
@@ -1013,7 +1013,7 @@ Investigative Direction: Obtain the time-stamped local texts and dispatch logs f
 
 ---
 
-**C-8689** Host Describes Cabot Phillips as Erika's Ex-Boyfriend and Daily Wire Employee Tied to the Fort Huachuca Description
+**C-8020** Host Describes Cabot Phillips as Erika's Ex-Boyfriend and Daily Wire Employee Tied to the Fort Huachuca Description
 
 Claim Timestamp: 00:04:38
 
@@ -1029,7 +1029,7 @@ Investigative Direction: Obtain Phillips's employment record and any statement f
 
 ---
 
-**C-8690** Host Says Cabot Phillips Did Not Answer Her Text Asking If He Was at Fort Huachuca
+**C-8021** Host Says Cabot Phillips Did Not Answer Her Text Asking If He Was at Fort Huachuca
 
 Claim Timestamp: 00:04:38
 
@@ -1045,7 +1045,7 @@ Investigative Direction: Obtain the host's text thread with Phillips and any lat
 
 ---
 
-**C-8691** Host Says Cabot Phillips Told Her at a Playground That People Doubt His Son Because of Her
+**C-8022** Host Says Cabot Phillips Told Her at a Playground That People Doubt His Son Because of Her
 
 Claim Timestamp: 00:05:41
 
@@ -1061,7 +1061,7 @@ Investigative Direction: Only the host and Phillips can confirm the encounter; P
 
 ---
 
-**C-8692** Host Says She Believes the Child Is Cabot Phillips's and Never Said Otherwise
+**C-8023** Host Says She Believes the Child Is Cabot Phillips's and Never Said Otherwise
 
 Claim Timestamp: 00:08:15
 
@@ -1077,7 +1077,7 @@ Investigative Direction: Review earlier episodes for any host statement about th
 
 ---
 
-**C-8693** Host Says Charlie's Alleged Appointment Statement Was Made at an Aspen Investor Retreat Weeks Before His Death
+**C-8024** Host Says Charlie's Alleged Appointment Statement Was Made at an Aspen Investor Retreat Weeks Before His Death
 
 Claim Timestamp: 00:09:44
 
@@ -1088,13 +1088,13 @@ Transcript Snippet: took the stage in Aspen um at this investor retreat where he
 Anchored Artifacts: A-1957.1
 Mentions: N-3, N-1, N-2
 Related Nodes: N-10000, N-10431, N-10664
-Supports: C-2685
+Supports: C-8028
 Tags: relevance:core
 Investigative Direction: Obtain the retreat date, attendee list and program to establish when and where the remark was said to be made.
 
 ---
 
-**C-8694** Host Says Turning Point Released Only the Audio and Declined to Show the Video
+**C-8025** Host Says Turning Point Released Only the Audio and Declined to Show the Video
 
 Claim Timestamp: 00:10:52
 
@@ -1105,13 +1105,13 @@ Transcript Snippet: When pushed, Turning Point declined to show the video. Inste
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10000, N-10936
-Supports: C-2685
+Supports: C-8028
 Tags: relevance:core
 Investigative Direction: Ask Turning Point whether video exists and obtain the original recording with metadata.
 
 ---
 
-**C-8695** Host Says Blake Neff Refused to Show the Video and Called Her a Psychopathic Subway Killer
+**C-8026** Host Says Blake Neff Refused to Show the Video and Called Her a Psychopathic Subway Killer
 
 Claim Timestamp: 00:11:37
 
@@ -1127,7 +1127,7 @@ Investigative Direction: Locate the Neff statements (posts or messages) the host
 
 ---
 
-**C-8696** Host Says the Aspen Claim Was Never Previously Located in Aspen on Her Show and Many Assumed the Hamptons
+**C-8027** Host Says the Aspen Claim Was Never Previously Located in Aspen on Her Show and Many Assumed the Hamptons
 
 Claim Timestamp: 00:11:37
 
@@ -1143,7 +1143,7 @@ Investigative Direction: Compare earlier TPUSA and Erika Kirk statements for the
 
 ---
 
-**C-8697** Host Says the Two Donors Knew of Erika's AmFest Account but Not That Turning Point Placed the Remark at the Aspen Event
+**C-8030** Host Says the Two Donors Knew of Erika's AmFest Account but Not That Turning Point Placed the Remark at the Aspen Event
 
 Claim Timestamp: 00:12:25
 
@@ -1154,13 +1154,13 @@ Transcript Snippet: they were not aware that Turning Point was making the claim 
 Anchored Artifacts: A-1957.1
 Mentions: N-3, N-2, N-1
 Related Nodes: N-10000, N-10594, N-10584
-Supports: C-2694
+Supports: C-8029
 Tags: relevance:core
 Investigative Direction: Identify the donors through the host and compare their account with the AmFest remarks and the claimed venue.
 
 ---
 
-**C-8698** Host Says the Term Charlie GPT Was First Used by Andrew Kolvet
+**C-8032** Host Says the Term Charlie GPT Was First Used by Andrew Kolvet
 
 Claim Timestamp: 00:13:17
 
@@ -1171,13 +1171,13 @@ Transcript Snippet: A term, by the way, that you should know was first uttered, 
 Anchored Artifacts: A-1950.1
 Mentions: N-3, N-14, N-1
 Related Nodes: N-10597
-Supports: C-2686
+Supports: C-8031
 Tags: relevance:core
 Investigative Direction: Retrieve the Kolvet interview and search earlier public uses of the term Charlie GPT.
 
 ---
 
-**C-8699** Host Says She Has Been Pitched on an AI or Hologram Version of Herself
+**C-8033** Host Says She Has Been Pitched on an AI or Hologram Version of Herself
 
 Claim Timestamp: 00:14:10
 
@@ -1193,7 +1193,7 @@ Investigative Direction: The host would need to identify who pitched her; no ext
 
 ---
 
-**C-8700** Host Asks Whether Turning Point Accepted a Charlie GPT Offer Given the Donors' Account
+**C-8034** Host Asks Whether Turning Point Accepted a Charlie GPT Offer Given the Donors' Account
 
 Claim Timestamp: 00:14:10
 
@@ -1204,13 +1204,13 @@ Transcript Snippet: My question is, did they take someone up on their offer to c
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10000, N-10597, N-10664
-Supports: C-2686
+Supports: C-8031
 Tags: relevance:core
 Investigative Direction: Ask Turning Point and its vendors whether any Charlie voice or AI product was commissioned, and request contracts or invoices.
 
 ---
 
-**C-8701** Host Says Donors Report Charlie Never Raised Erika at Aspen and That Erika Was Not at the Presentation
+**C-8035** Host Says Donors Report Charlie Never Raised Erika at Aspen and That Erika Was Not at the Presentation
 
 Claim Timestamp: 00:15:19
 
@@ -1221,13 +1221,13 @@ Transcript Snippet: Apparently Erika was up in Aspen, but was not at this exact 
 Anchored Artifacts: A-1957.1
 Mentions: N-3, N-1, N-2
 Related Nodes: N-10594, N-10584
-Supports: C-2694
+Supports: C-8029
 Tags: relevance:core
 Investigative Direction: Obtain the dinner guest list and the schedule of Erika Kirk's movements in Aspen from attendees.
 
 ---
 
-**C-8702** Host Says the Donors Want the Video Released and Say Turning Point Is Lying About Aspen
+**C-8036** Host Says the Donors Want the Video Released and Say Turning Point Is Lying About Aspen
 
 Claim Timestamp: 00:15:19
 
@@ -1243,7 +1243,7 @@ Investigative Direction: Request the Aspen video from Turning Point and corrobor
 
 ---
 
-**C-8703** Host Says Blake Neff's Reaction Suggests an AI Program Was Used
+**C-8037** Host Says Blake Neff's Reaction Suggests an AI Program Was Used
 
 Claim Timestamp: 00:16:01
 
@@ -1254,13 +1254,13 @@ Transcript Snippet: If true, that they used an AI program, which Blake Neff's re
 Anchored Artifacts: 
 Mentions: N-3, N-159
 Related Nodes: N-10000, N-10664, N-10597
-Supports: C-2685
+Supports: C-8028
 Tags: relevance:core
 Investigative Direction: Forensic audio analysis of the Aspen clip; request the original device recording and chain of custody.
 
 ---
 
-**C-8704** Host Says the Notion of a Fabricated Statement Implies a Plot to Remove Charlie and Install Erika
+**C-8038** Host Says the Notion of a Fabricated Statement Implies a Plot to Remove Charlie and Install Erika
 
 Claim Timestamp: 00:16:01
 
@@ -1276,7 +1276,7 @@ Investigative Direction: This is the host's inference; the test is authenticatio
 
 ---
 
-**C-8705** Host Says Turning Point Insisted Erika Was Raised by a Single Mother and That This Is Untrue
+**C-8039** Host Says Turning Point Insisted Erika Was Raised by a Single Mother and That This Is Untrue
 
 Claim Timestamp: 00:16:01
 
@@ -1292,7 +1292,7 @@ Investigative Direction: Collect the interviews where the single-mother descript
 
 ---
 
-**C-8706** Host Says Charlie Hated Ben Shapiro and That Erika and Kolvet Knew It
+**C-8040** Host Says Charlie Hated Ben Shapiro and That Erika and Kolvet Knew It
 
 Claim Timestamp: 00:18:07
 
@@ -1308,7 +1308,7 @@ Investigative Direction: Review Charlie-Ben communications and public statements
 
 ---
 
-**C-8707** Host Says Jeremy Boreing Softened the Charlie-Ben Rift on Piers Morgan
+**C-8041** Host Says Jeremy Boreing Softened the Charlie-Ben Rift on Piers Morgan
 
 Claim Timestamp: 00:18:07
 
@@ -1324,7 +1324,7 @@ Investigative Direction: Locate the Piers Morgan interview with Boreing and read
 
 ---
 
-**C-8708** Host Says Charlie Publicly Took Her Side After the 2024 Daily Wire Firing and Ben Lobbied Donors Against Her
+**C-8042** Host Says Charlie Publicly Took Her Side After the 2024 Daily Wire Firing and Ben Lobbied Donors Against Her
 
 Claim Timestamp: 00:18:07
 
@@ -1335,13 +1335,13 @@ Transcript Snippet: Ben then set to work behind the scenes getting like the Jewi
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-97
 Related Nodes: N-10900
-Supports: C-5352
+Supports: C-4366
 Tags: relevance:context
 Investigative Direction: Identify donors or writers who pressed Charlie in 2024 and obtain any contemporaneous messages.
 
 ---
 
-**C-8709** Host Says Kolvet Admitted in the New York Times Interview That He Effectively Forced Charlie to Interview Ben
+**C-8043** Host Says Kolvet Admitted in the New York Times Interview That He Effectively Forced Charlie to Interview Ben
 
 Claim Timestamp: 00:19:05
 
@@ -1357,7 +1357,7 @@ Investigative Direction: Retrieve the Times interview and check Kolvet's exact w
 
 ---
 
-**C-8710** Host Says Ben Shapiro Used Caleb Robinson to Get on Charlie's Show With Matt Walsh as a Two-for-One
+**C-8044** Host Says Ben Shapiro Used Caleb Robinson to Get on Charlie's Show With Matt Walsh as a Two-for-One
 
 Claim Timestamp: 00:19:05
 
@@ -1373,7 +1373,7 @@ Investigative Direction: Obtain the booking communications between Daily Wire an
 
 ---
 
-**C-8711** Host Says Ben Shapiro Demanded on His Show That Erika Sue Her Over the Trailer
+**C-8045** Host Says Ben Shapiro Demanded on His Show That Erika Sue Her Over the Trailer
 
 Claim Timestamp: 00:20:37
 
@@ -1389,7 +1389,7 @@ Investigative Direction: Locate the Shapiro show segment and quote his statement
 
 ---
 
-**C-8712** Host Says Ben Shapiro Has Been Suing Her in Arbitration for Two Years
+**C-8046** Host Says Ben Shapiro Has Been Suing Her in Arbitration for Two Years
 
 Claim Timestamp: 00:20:37
 
@@ -1405,7 +1405,7 @@ Investigative Direction: Arbitration is generally non-public; confirm existence 
 
 ---
 
-**C-8713** Host Says ADF Personnel Emailed Her That Ben Shapiro Is Working With Erika on Ways to Sue Her
+**C-8047** Host Says ADF Personnel Emailed Her That Ben Shapiro Is Working With Erika on Ways to Sue Her
 
 Claim Timestamp: 00:20:37
 
@@ -1416,13 +1416,13 @@ Transcript Snippet: you know, Ben is working with Erika on ways to sue you. He's
 Anchored Artifacts: A-2956.1
 Mentions: N-3, N-97, N-2, N-38
 Related Nodes: N-10954, N-10596
-Supports: C-2687
+Supports: C-8048
 Tags: relevance:core
 Investigative Direction: Obtain the emails and identify the senders; ask ADF to confirm or deny any coordination with Shapiro or Erika Kirk.
 
 ---
 
-**C-8714** Host Says ADF Sources Told Her Daily Wire Quietly Took a Board Seat That the Public Is Unaware Of
+**C-8049** Host Says ADF Sources Told Her Daily Wire Quietly Took a Board Seat That the Public Is Unaware Of
 
 Claim Timestamp: 00:22:31
 
@@ -1433,13 +1433,13 @@ Transcript Snippet: they informed me that the public is not aware, but that they
 Anchored Artifacts: A-1951.2
 Mentions: N-3
 Related Nodes: N-10954, N-10900, N-10596
-Supports: C-2688
+Supports: C-8050
 Tags: relevance:core
 Investigative Direction: Compare ADF's published board list and Form 990 with the internal slide.
 
 ---
 
-**C-8715** Host Says ADF Sources Told Her Ben Shapiro Was Driving the Bus Against Her Through ADF
+**C-8051** Host Says ADF Sources Told Her Ben Shapiro Was Driving the Bus Against Her Through ADF
 
 Claim Timestamp: 00:23:21
 
@@ -1450,13 +1450,13 @@ Transcript Snippet: And they said that Ben was driving the bus um gunning for me
 Anchored Artifacts: A-1951.2
 Mentions: N-3, N-97, N-604
 Related Nodes: N-10954, N-10596
-Supports: C-2688
+Supports: C-8050
 Tags: relevance:core
 Investigative Direction: Identify the ADF sources and obtain board minutes or communications on any litigation involving the host.
 
 ---
 
-**C-8716** Host Says Daily Wire Has Been Harassing Her Since Firing, Including Blocking Speeches and Targeting Advertisers
+**C-8052** Host Says Daily Wire Has Been Harassing Her Since Firing, Including Blocking Speeches and Targeting Advertisers
 
 Claim Timestamp: 00:23:21
 
@@ -1472,7 +1472,7 @@ Investigative Direction: Document specific cancelled speeches and advertiser con
 
 ---
 
-**C-8717** Host Compares Her View of Ben Shapiro to Megyn Kelly's Remark About Mark Levin
+**C-8053** Host Compares Her View of Ben Shapiro to Megyn Kelly's Remark About Mark Levin
 
 Claim Timestamp: 00:24:20
 
@@ -1488,7 +1488,7 @@ Investigative Direction: Locate the Megyn Kelly show segment about Mark Levin to
 
 ---
 
-**C-8718** Host Says Four ADF Sources Named Ben Shapiro and One Also Named Seth Dillon
+**C-8054** Host Says Four ADF Sources Named Ben Shapiro and One Also Named Seth Dillon
 
 Claim Timestamp: 00:25:40
 
@@ -1504,7 +1504,7 @@ Investigative Direction: Identify and independently interview the four ADF sourc
 
 ---
 
-**C-8719** Host Says Her September 29 Source Said Police Knew Tyler Robinson Was Their Man Before 7 PM on September 11
+**C-8055** Host Says Her September 29 Source Said Police Knew Tyler Robinson Was Their Man Before 7 PM on September 11
 
 Claim Timestamp: 00:30:32
 
@@ -1515,13 +1515,13 @@ Transcript Snippet: it was known to the police that Tyler Robinson was the their
 Anchored Artifacts: 
 Mentions: N-3, N-40
 Related Nodes: N-10593, N-10024
-Supports: C-3766
+Supports: C-8066
 Tags: relevance:core
 Investigative Direction: Obtain dispatch and text records from September 11 for Washington County law enforcement.
 
 ---
 
-**C-8720** Host Says Her Source Said Officials Lied About the Clothing Robinson Wore When Brought In
+**C-8056** Host Says Her Source Said Officials Lied About the Clothing Robinson Wore When Brought In
 
 Claim Timestamp: 00:30:32
 
@@ -1537,7 +1537,7 @@ Investigative Direction: Compare booking photographs and property inventory with
 
 ---
 
-**C-8721** Host Says Her Source Said Robinson Had Been Buying a Gun in Warner Valley
+**C-8057** Host Says Her Source Said Robinson Had Been Buying a Gun in Warner Valley
 
 Claim Timestamp: 00:30:32
 
@@ -1553,7 +1553,7 @@ Investigative Direction: Check firearms retailers or private sales in the Warner
 
 ---
 
-**C-8722** Host Says Her Source Said Police Learned Robinson Was Coming In Cooperatively After a Sea Change
+**C-8058** Host Says Her Source Said Police Learned Robinson Was Coming In Cooperatively After a Sea Change
 
 Claim Timestamp: 00:31:45
 
@@ -1569,7 +1569,7 @@ Investigative Direction: Reconstruct the sequence of calls between the Robinson 
 
 ---
 
-**C-8723** Host Says Robinson Was Captured on Camera Filling Up Gas in Cedar City at 7:15 AM
+**C-8061** Host Says Robinson Was Captured on Camera Filling Up Gas in Cedar City at 7:15 AM
 
 Claim Timestamp: 00:34:37
 
@@ -1585,7 +1585,7 @@ Investigative Direction: Obtain the Maverick surveillance footage and its time s
 
 ---
 
-**C-8724** Host Says the Gun Photo Released at 9:21 AM Was Not Robinson's Gun
+**C-8062** Host Says the Gun Photo Released at 9:21 AM Was Not Robinson's Gun
 
 Claim Timestamp: 00:34:37
 
@@ -1601,7 +1601,7 @@ Investigative Direction: Compare the Post's gun photo with the recovered rifle's
 
 ---
 
-**C-8725** Host Says Kash Patel and Dan Bongino Arrived at 5:30 PM and the FBI Posted New Photos at 6:17 PM
+**C-8063** Host Says Kash Patel and Dan Bongino Arrived at 5:30 PM and the FBI Posted New Photos at 6:17 PM
 
 Claim Timestamp: 00:35:24
 
@@ -1617,7 +1617,7 @@ Investigative Direction: Check Patel's and Bongino's travel logs and the time st
 
 ---
 
-**C-8726** Host Argues a 6:25 PM Interview on September 11 Means Robinson Was Already in Custody Before 6:17 PM
+**C-8064** Host Argues a 6:25 PM Interview on September 11 Means Robinson Was Already in Custody Before 6:17 PM
 
 Claim Timestamp: 00:36:13
 
@@ -1628,13 +1628,13 @@ Transcript Snippet: in order for that interview to start, we should assume he ar
 Anchored Artifacts: A-2957.1
 Mentions: N-3, N-40
 Related Nodes: N-10593, N-10024
-Supports: C-2682
+Supports: C-8059
 Tags: relevance:core
 Investigative Direction: Obtain the exhibit video and its metadata cited in the motion to establish the actual time of the interview.
 
 ---
 
-**C-8727** Host Says the 6:25 PM Reference Cannot Be September 12 Because Robinson Was Already Booked
+**C-8065** Host Says the 6:25 PM Reference Cannot Be September 12 Because Robinson Was Already Booked
 
 Claim Timestamp: 00:36:13
 
@@ -1645,13 +1645,13 @@ Transcript Snippet: I can't fathom that they would be referring to the next day 
 Anchored Artifacts: A-1948.1
 Mentions: N-3, N-40
 Related Nodes: N-10593
-Supports: C-2682
+Supports: C-8059
 Tags: relevance:core
 Investigative Direction: Ask the defense or the court to clarify the date of the video exhibit; check the booking record for the date and time.
 
 ---
 
-**C-8728** Host Says Sheriff Brooksby Later Said Mike Mitchell Phoned Him About Getting Robinson to Turn Himself In
+**C-8067** Host Says Sheriff Brooksby Later Said Mike Mitchell Phoned Him About Getting Robinson to Turn Himself In
 
 Claim Timestamp: 00:37:41
 
@@ -1667,7 +1667,7 @@ Investigative Direction: Obtain the press conference transcript and the sheriff'
 
 ---
 
-**C-8729** Host Says Brooksby Then Called Utah County Sheriff Mike Smith About the Call
+**C-8068** Host Says Brooksby Then Called Utah County Sheriff Mike Smith About the Call
 
 Claim Timestamp: 00:38:30
 
@@ -1683,7 +1683,7 @@ Investigative Direction: Obtain call logs and sheriff statements from both offic
 
 ---
 
-**C-8730** Host Says Brooksby's Press Conference Put Robinson's Arrival at the Police Station at 9:00 PM
+**C-8069** Host Says Brooksby's Press Conference Put Robinson's Arrival at the Police Station at 9:00 PM
 
 Claim Timestamp: 00:38:30
 
@@ -1699,7 +1699,7 @@ Investigative Direction: Compare the press conference transcript with the 10:26 
 
 ---
 
-**C-8731** Host Says Kash Patel Later Said Robinson Was Booked in the 33rd Hour
+**C-8070** Host Says Kash Patel Later Said Robinson Was Booked in the 33rd Hour
 
 Claim Timestamp: 00:38:30
 
@@ -1710,13 +1710,13 @@ Transcript Snippet: Kash Patel will later say that. They're all saying in the 33
 Anchored Artifacts: 
 Mentions: N-3, N-69, N-40
 Related Nodes: N-10031, N-11129
-Supports: C-1144
+Supports: C-162
 Tags: relevance:core
 Investigative Direction: Retrieve Patel's statement on the 33rd hour and compute the interval from the shooting to booking.
 
 ---
 
-**C-8732** Host Says Freemasonic Gangs Exist and Carry Out Hits and Blake Neff Objected to the 33 Symbolism
+**C-8071** Host Says Freemasonic Gangs Exist and Carry Out Hits and Blake Neff Objected to the 33 Symbolism
 
 Claim Timestamp: 00:39:16
 
@@ -1732,7 +1732,7 @@ Investigative Direction: Review the French Athanor Lodge trial reporting and Nef
 
 ---
 
-**C-8733** Host Says the Tape of Robinson's Arrival Is Apparently Lost
+**C-8072** Host Says the Tape of Robinson's Arrival Is Apparently Lost
 
 Claim Timestamp: 00:39:16
 
@@ -1743,13 +1743,13 @@ Transcript Snippet: by the way the tape is apparently lost of when he arrived.
 Anchored Artifacts: A-1956.1
 Mentions: N-3, N-40
 Related Nodes: N-10029, N-10271, N-10593
-Supports: C-2693
+Supports: C-8073
 Tags: relevance:core
 Investigative Direction: File a records request for the sheriff's office lobby and sally-port footage for September 11 and ask for the retention log.
 
 ---
 
-**C-8734** Cox Says Robinson's Roommate Showed Investigators Discord Messages
+**C-8074** Cox Says Robinson's Roommate Showed Investigators Discord Messages
 
 Claim Timestamp: 00:41:45
 
@@ -1765,7 +1765,7 @@ Investigative Direction: Obtain the full search warrant affidavit and the photog
 
 ---
 
-**C-8735** Cox Describes Messages About a Rifle Left in a Bush Wrapped in a Towel
+**C-8075** Cox Describes Messages About a Rifle Left in a Bush Wrapped in a Towel
 
 Claim Timestamp: 00:41:45
 
@@ -1781,7 +1781,7 @@ Investigative Direction: Compare the affidavit's paraphrase with the full messag
 
 ---
 
-**C-8736** Cox Says Messages Mentioned Engraving Bullets, a Scope and Changing Outfits
+**C-8077** Cox Says Messages Mentioned Engraving Bullets, a Scope and Changing Outfits
 
 Claim Timestamp: 00:42:44
 
@@ -1797,7 +1797,7 @@ Investigative Direction: Compare with the released text chain and with the bulle
 
 ---
 
-**C-8737** Host Says the Defense Is in Discovery and Not Getting What It Asked For
+**C-8079** Host Says the Defense Is in Discovery and Not Getting What It Asked For
 
 Claim Timestamp: 00:44:24
 
@@ -1808,13 +1808,13 @@ Transcript Snippet: They're in discovery. They're not getting what they're askin
 Anchored Artifacts: A-1948.2
 Mentions: N-3, N-40, N-54
 Related Nodes: N-10595, N-10679
-Supports: C-2684
+Supports: C-8084
 Tags: relevance:core
 Investigative Direction: Review defense discovery motions and rulings in the Robinson docket.
 
 ---
 
-**C-8738** Host Says Lance Twiggs Is in Her View Very Obviously a Federal Informant
+**C-8080** Host Says Lance Twiggs Is in Her View Very Obviously a Federal Informant
 
 Claim Timestamp: 00:45:16
 
@@ -1830,7 +1830,7 @@ Investigative Direction: This is the host's inference; a records request for any
 
 ---
 
-**C-8739** Host Says Lance's Family Told Her Lance Was Taken In for Only a Couple of Hours and Then Released
+**C-8081** Host Says Lance's Family Told Her Lance Was Taken In for Only a Couple of Hours and Then Released
 
 Claim Timestamp: 00:45:16
 
@@ -1841,13 +1841,13 @@ Transcript Snippet: They said to me it was completely insane that Lance was not 
 Anchored Artifacts: 
 Mentions: N-3, N-54
 Related Nodes: N-10598
-Supports: C-4880
+Supports: C-352
 Tags: relevance:core
 Investigative Direction: Obtain booking and release records, or sheriff's statements on Twiggs's detention.
 
 ---
 
-**C-8740** Host Says Lance's Family Described a Bent Toward Violence and Said They Eventually Kicked Him Out
+**C-8082** Host Says Lance's Family Described a Bent Toward Violence and Said They Eventually Kicked Him Out
 
 Claim Timestamp: 00:45:16
 
@@ -1858,13 +1858,13 @@ Transcript Snippet: They own the house that Tyler Robinson and Lance live in and
 Anchored Artifacts: 
 Mentions: N-3, N-54, N-40
 Related Nodes: N-10598
-Supports: C-1166
+Supports: C-217
 Tags: relevance:core
 Investigative Direction: Interview family members on the record and review property records for the townhome.
 
 ---
 
-**C-8741** Host Says Lance Twiggs Has Completely Disappeared and Seems to Be a Federal Asset
+**C-8083** Host Says Lance Twiggs Has Completely Disappeared and Seems to Be a Federal Asset
 
 Claim Timestamp: 00:46:23
 
@@ -1880,7 +1880,7 @@ Investigative Direction: Check the preliminary hearing witness lists and public 
 
 ---
 
-**C-8742** Host Reads State Filing Passage Listing the Evidence Not Known to the Defense Six Months Before the Hearing
+**C-8085** Host Reads State Filing Passage Listing the Evidence Not Known to the Defense Six Months Before the Hearing
 
 Claim Timestamp: 00:47:08
 
@@ -1896,7 +1896,7 @@ Investigative Direction: Obtain the filing and check each listed item's disclosu
 
 ---
 
-**C-8743** Host Reads State Filing Passage Saying the Rifle DNA Report and Most Evidence Went to the Defense in October 2025
+**C-8086** Host Reads State Filing Passage Saying the Rifle DNA Report and Most Evidence Went to the Defense in October 2025
 
 Claim Timestamp: 00:47:08
 
@@ -1912,7 +1912,7 @@ Investigative Direction: Obtain the filing and the discovery log to confirm the 
 
 ---
 
-**C-8744** Host Says Laura Loomer Was Forcibly Placed on a 5150 Hold and Is Advising Trump
+**C-8088** Host Says Laura Loomer Was Forcibly Placed on a 5150 Hold and Is Advising Trump
 
 Claim Timestamp: 00:51:06
 
@@ -1928,7 +1928,7 @@ Investigative Direction: Check public court and medical-hold records, if any, an
 
 ---
 
-**C-8745** Host Reads Trump Post Saying He Likes Pope Leo's Brother Louis Better
+**C-8091** Host Reads Trump Post Saying He Likes Pope Leo's Brother Louis Better
 
 Claim Timestamp: 00:52:54
 
@@ -1939,13 +1939,13 @@ Transcript Snippet: "I like his brother Louis much better than I like him." Oh, 
 Anchored Artifacts: A-1952.1
 Mentions: N-3, N-5, N-420
 Related Nodes: 
-Supports: C-2689
+Supports: C-8090
 Tags: relevance:tangential
 Investigative Direction: Retrieve the original Truth Social post.
 
 ---
 
-**C-8746** Host Reads Trump Post Saying the Church Chose Leo Because He Was Not American and Leo Would Not Be Pope Without Trump
+**C-8092** Host Reads Trump Post Saying the Church Chose Leo Because He Was Not American and Leo Would Not Be Pope Without Trump
 
 Claim Timestamp: 00:54:07
 
@@ -1956,13 +1956,13 @@ Transcript Snippet: If I wasn't in the White House, Leo wouldn't be in the Vatic
 Anchored Artifacts: A-1952.1
 Mentions: N-3, N-5, N-420
 Related Nodes: 
-Supports: C-2689
+Supports: C-8090
 Tags: relevance:tangential
 Investigative Direction: Retrieve the original post for exact text.
 
 ---
 
-**C-8747** Host Says Bishop Barron Stood Beside Paula White During the Prayer and Gave an Excuse for Being There
+**C-8093** Host Says Bishop Barron Stood Beside Paula White During the Prayer and Gave an Excuse for Being There
 
 Claim Timestamp: 00:55:46
 
@@ -1978,7 +1978,7 @@ Investigative Direction: Locate the event video and Bishop Barron's published ex
 
 ---
 
-**C-8748** Host Plays Trump Clip Saying He Does Not Think the Pope Is Doing a Good Job and Citing COVID Arrests
+**C-8095** Host Plays Trump Clip Saying He Does Not Think the Pope Is Doing a Good Job and Citing COVID Arrests
 
 Claim Timestamp: 00:58:29
 
@@ -1994,7 +1994,7 @@ Investigative Direction: Obtain the press conference transcript and date.
 
 ---
 
-**C-8749** Host Plays Trump Clip Calling Pope Leo a Very Liberal Person Who Does Not Believe in Stopping Crime
+**C-8096** Host Plays Trump Clip Calling Pope Leo a Very Liberal Person Who Does Not Believe in Stopping Crime
 
 Claim Timestamp: 00:59:24
 
@@ -2010,7 +2010,7 @@ Investigative Direction: Obtain the press conference transcript.
 
 ---
 
-**C-8750** Host Says Trump Posted an Image of Himself as Jesus and Drew Protestant Backlash
+**C-8097** Host Says Trump Posted an Image of Himself as Jesus and Drew Protestant Backlash
 
 Claim Timestamp: 00:59:24
 
@@ -2021,13 +2021,13 @@ Transcript Snippet: he then dropped a picture of himself as Jesus Christ on top 
 Anchored Artifacts: A-2961.1
 Mentions: N-3, N-5
 Related Nodes: 
-Supports: C-2691
+Supports: C-8098
 Tags: relevance:tangential
 Investigative Direction: Retrieve the original post and contemporaneous reactions from Protestant leaders.
 
 ---
 
-**C-8751** Host Says Her Team Could Not Find Any Record of Trump Ever Being a Doctor
+**C-8099** Host Says Her Team Could Not Find Any Record of Trump Ever Being a Doctor
 
 Claim Timestamp: 01:01:34
 
@@ -2038,13 +2038,13 @@ Transcript Snippet: it's not coming up for us that uh Trump was ever a doctor.
 Anchored Artifacts: A-1954.1
 Mentions: N-3, N-5
 Related Nodes: 
-Supports: C-2691
+Supports: C-8098
 Tags: relevance:tangential
 Investigative Direction: Trivially checkable against Trump's biography; no record of medical training is known.
 
 ---
 
-**C-8752** Host Says She Now Knows Who Was at the Event and Is Working on It
+**C-8100** Host Says She Now Knows Who Was at the Event and Is Working on It
 
 Claim Timestamp: 01:06:51
 
@@ -2060,7 +2060,7 @@ Investigative Direction: The host would need to publish the attendee list or ide
 
 ---
 
-**C-8753** Host Says Turning Point Events Fake Their Question and Answer Segments as Pre-Planned
+**C-8101** Host Says Turning Point Events Fake Their Question and Answer Segments as Pre-Planned
 
 Claim Timestamp: 01:07:36
 
@@ -2076,7 +2076,7 @@ Investigative Direction: Gather the videos and emails the host cites and compare
 
 ---
 
-**C-8754** Host Says Turning Point Has Reversed Course on All of Charlie's Perspectives
+**C-8102** Host Says Turning Point Has Reversed Course on All of Charlie's Perspectives
 
 Claim Timestamp: 01:07:36
 

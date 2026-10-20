@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10c): N-818, N-819, N-11198, N-11200, N-11201
   - Hole-minted Nodes (reintro-ep126): N-10755
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10c): C-8932–C-9006
+  - Claim Range: C-10772–C-10861
   - Reused Nodes Appearing: N-10724, N-10719, N-10723, N-10717, N-3, N-5, N-14, N-40, N-42, N-97, N-104, N-105, N-159, N-266, N-270, N-278, N-452, N-522, N-10000, N-10026, N-10032, N-10051, N-10053, N-10098, N-10099, N-10121, N-10314, N-10334, N-10343, N-10358, N-10381, N-10447, N-10588, N-10625, N-10657, N-10662, N-10712, N-10715, N-10716, N-10730, N-10850, N-10975, N-10987, N-11017, N-11065, N-10754, N-10722, N-11199
  - New Nodes Introduced: N-10718, N-10720, N-10721, N-10724
  - Reused Nodes Appearing: N-11, N-430
@@ -36,7 +36,6 @@
 - **Analysis Date:** 2026-07-15
 - **Ledger Continuation Summary:**
  - Artifact Families Introduced: A-2138, A-2139, A-2140, A-2141, A-2142, A-2143, A-2144, A-2145
- - Claim Range: C-3027–C-3041
  - New Nodes Introduced (People): none (Wave 2: local ids removed)
  - New Nodes Introduced (Investigation Targets): N-10717, N-10718, N-10719, N-10720, N-10721, N-10722, N-10723, N-10724
  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
@@ -63,7 +62,7 @@ Video Timestamp: 00:03:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3036, N-1*
+*Related: C-10775, N-1*
 
 ---
 
@@ -77,7 +76,7 @@ Video Timestamp: 00:08:30–00:12:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3027, N-10717, N-10718, N-505*
+*Related: C-10783, N-10717, N-10718, N-505*
 
 **A-2139.2** Faumuina Testimony on Communication to FBI/ATF Discontinuing Testing
 
@@ -87,7 +86,7 @@ Video Timestamp: 00:09:25–00:11:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3028, N-10718, N-505*
+*Related: C-10782, N-10718, N-505*
 
 ---
 
@@ -101,7 +100,7 @@ Video Timestamp: 00:15:25–00:18:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3029, N-10717*
+*Related: C-10800, N-10717*
 
 **A-2140.2** Witness Description of Shooter Attire and Firearm
 
@@ -111,7 +110,7 @@ Video Timestamp: 00:18:30–00:20:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3030, C-3031*
+*Related: C-10802, C-10807*
 
 **A-2140.3** Witness Report to UVU Command Center
 
@@ -121,7 +120,7 @@ Video Timestamp: 00:19:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3034, N-10719*
+*Related: C-10792, N-10719*
 
 ---
 
@@ -135,7 +134,7 @@ Video Timestamp: 00:22:01–00:23:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3032, N-10717*
+*Related: C-10811, N-10717*
 
 ---
 
@@ -149,7 +148,7 @@ Video Timestamp: 00:07:20–00:08:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3035, N-10720*
+*Related: C-10779, N-10720*
 
 ---
 
@@ -163,7 +162,7 @@ Video Timestamp: 00:29:15–00:31:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3036 [corrected: see C-3037], N-10724*
+*Related: C-10775 [corrected: see C-10819], N-10724*
 
 **A-2143.2** Comperatore Statement on Secret Service One-Year Delay
 
@@ -173,7 +172,7 @@ Video Timestamp: 00:31:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3038, N-10724*
+*Related: C-10824, N-10724*
 
 ---
 
@@ -187,7 +186,7 @@ Video Timestamp: 00:34:37–00:39:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3039, C-3040, N-10722*
+*Related: C-10827, C-10831, N-10722*
 
 ---
 
@@ -201,7 +200,7 @@ Video Timestamp: 00:02:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3041, N-1, N-10723*
+*Related: C-10773, N-1, N-10723*
 
 ---
 
@@ -214,7 +213,7 @@ Video Timestamp: 00:00:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-8932, N-3, N-159*
+*Related: C-10772, N-3, N-159*
 
 ---
 
@@ -229,7 +228,7 @@ Video Timestamp: 00:06:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8935, N-3*
+*Related: C-10777, N-3*
 
 ---
 
@@ -244,7 +243,7 @@ Video Timestamp: 00:14:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8946, C-8947, N-3*
+*Related: C-10791, C-10793, N-3*
 
 ---
 
@@ -259,7 +258,7 @@ Video Timestamp: 00:43:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8984, N-3*
+*Related: C-10839, N-3*
 
 **A-2976.2** Truth Prevail comment about the Carhartt store in Detroit
 
@@ -270,7 +269,7 @@ Video Timestamp: 00:47:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8995, N-10723*
+*Related: C-10850, N-10723*
 
 **A-2976.3** Rage Raper comment about Robinson's texts and the clothing description
 
@@ -281,7 +280,7 @@ Video Timestamp: 00:50:32
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8998, C-8999, N-40, N-42*
+*Related: C-10853, C-10854, N-40, N-42*
 
 **A-2976.4** Jennifer Hover comment about Harpole, Shapiro's security updates, meta glasses and Turek
 
@@ -292,7 +291,7 @@ Video Timestamp: 00:51:27
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9001, C-9002, C-9003, N-270, N-7, N-266, N-97*
+*Related: C-10856, C-10857, C-10858, N-270, N-7, N-266, N-97*
 
 **A-2976.5** FS Claire comment identifying the movement as IMT
 
@@ -303,7 +302,7 @@ Video Timestamp: 00:52:53
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9004*
+*Related: C-10859*
 
 **A-2976.6** Comment about lawtubers who championed Rittenhouse and Depp now ready to convict Robinson
 
@@ -314,7 +313,7 @@ Video Timestamp: 00:53:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9006, N-430*
+*Related: C-10861, N-430*
 
 ---
 
@@ -329,7 +328,7 @@ Video Timestamp: 00:47:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8994, N-159*
+*Related: C-10849, N-159*
 
 ---
 
@@ -341,19 +340,19 @@ Confidence Level: High
 
 First named by the host at 00:08:30 in episode 126. Aliases: Jennifer Faumuina, Jennifer Faumuina, Jennifer Faumuina.
 
-*Related: C-3027, C-3028, A-2139.1, A-2139.2*
+*Related: C-10783, C-10782, A-2139.1, A-2139.2*
 
 **N-504** Nate Walker
 
 First named by the host at 00:03:16 in episode 126.
 
-*Related: C-3036, A-2138.1*
+*Related: C-10775, A-2138.1*
 
 **N-430** Brad Parscale
 
 Named by the host at 00:34:37 in episode 126; first introduced in episode 99.
 
-*Related: C-3039, C-3040*
+*Related: C-10827, C-10831*
 
 
 **N-10717** Losee Center–Library Route Discrepancy
@@ -365,7 +364,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2139.1, A-2140.1, A-2141.1, C-3027, C-3029, C-3032*
+*Related: A-2139.1, A-2140.1, A-2141.1, C-10783, C-10800, C-10811*
 
 ---
 
@@ -378,7 +377,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2139.1, A-2139.2, C-3027, C-3028*
+*Related: A-2139.1, A-2139.2, C-10783, C-10782*
 
 ---
 
@@ -391,7 +390,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2140.3, C-3034*
+*Related: A-2140.3, C-10792*
 
 ---
 
@@ -404,7 +403,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2142.1, C-3035, N-11*
+*Related: A-2142.1, C-10779, N-11*
 
 ---
 
@@ -417,7 +416,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2143.1, C-3037, N-10724*
+*Related: A-2143.1, C-10819, N-10724*
 
 ---
 
@@ -430,7 +429,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2144.1, C-3039, C-3040*
+*Related: A-2144.1, C-10827, C-10831*
 
 ---
 
@@ -443,7 +442,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2145.1, C-3041*
+*Related: A-2145.1, C-10773*
 
 ---
 
@@ -456,7 +455,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2143.1, A-2143.2, C-3037, C-3038, N-10721*
+*Related: A-2143.1, A-2143.2, C-10819, C-10824, N-10721*
 
 ---
 
@@ -473,7 +472,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 Subject of the assassination; his shirt and the events around it are discussed.
 
-*Related: C-8933, C-8935, C-8987, C-8988, C-8990, C-8996*
+*Related: C-10774, C-10777, C-10842, C-10843, C-10845, C-10851*
 
 ---
 
@@ -481,7 +480,7 @@ Subject of the assassination; his shirt and the events around it are discussed.
 
 Organization whose vendors, finances and conduct are discussed.
 
-*Related: C-8934, C-8993*
+*Related: C-10776, C-10848*
 
 ---
 
@@ -489,7 +488,7 @@ Organization whose vendors, finances and conduct are discussed.
 
 State on whose behalf the influence campaign was reportedly run.
 
-*Related: C-8975*
+*Related: C-10829*
 
 ---
 
@@ -497,7 +496,7 @@ State on whose behalf the influence campaign was reportedly run.
 
 Existing topic reused for the host's decoy theory.
 
-*Related: C-8984, C-8988*
+*Related: C-10839, C-10843*
 
 ---
 
@@ -505,7 +504,7 @@ Existing topic reused for the host's decoy theory.
 
 Existing topic reused for the clothes-dumping claim.
 
-*Related: C-8989*
+*Related: C-10844*
 
 ---
 
@@ -513,7 +512,7 @@ Existing topic reused for the clothes-dumping claim.
 
 Existing topic reused for the decoy-on-roof theory.
 
-*Related: C-8984*
+*Related: C-10839*
 
 ---
 
@@ -521,7 +520,7 @@ Existing topic reused for the decoy-on-roof theory.
 
 Existing topic reused for the origin and spread of the rooftop clip.
 
-*Related: C-8945, C-8946*
+*Related: C-10790, C-10791*
 
 ---
 
@@ -529,7 +528,7 @@ Existing topic reused for the origin and spread of the rooftop clip.
 
 Existing topic reused for witness descriptions of attire, helmet and range.
 
-*Related: C-8952, C-8956, C-8958, C-8987, C-8998, C-8999*
+*Related: C-10798, C-10804, C-10808, C-10842, C-10853, C-10854*
 
 ---
 
@@ -537,7 +536,7 @@ Existing topic reused for witness descriptions of attire, helmet and range.
 
 Existing topic reused for eyewitness rooftop descriptions.
 
-*Related: C-8943, C-8958*
+*Related: C-10788, C-10808*
 
 ---
 
@@ -545,7 +544,7 @@ Existing topic reused for eyewitness rooftop descriptions.
 
 Existing topic reused for the host's contact with the rooftop filmer.
 
-*Related: C-8945, C-8947*
+*Related: C-10790, C-10793*
 
 ---
 
@@ -553,7 +552,7 @@ Existing topic reused for the host's contact with the rooftop filmer.
 
 Existing topic reused for the town hall contrast.
 
-*Related: C-8967*
+*Related: C-10818*
 
 ---
 
@@ -561,7 +560,7 @@ Existing topic reused for the town hall contrast.
 
 Existing topic reused for timing of the figure on the roof.
 
-*Related: C-8950, C-8953, C-8954, C-8955*
+*Related: C-10796, C-10799, C-10801, C-10803*
 
 ---
 
@@ -569,7 +568,7 @@ Existing topic reused for timing of the figure on the roof.
 
 Existing topic reused for the surgeon-call dispute.
 
-*Related: C-8991, C-8992*
+*Related: C-10846, C-10847*
 
 ---
 
@@ -577,7 +576,7 @@ Existing topic reused for the surgeon-call dispute.
 
 Existing topic reused for the Panguitch steakhouse claim.
 
-*Related: C-9000*
+*Related: C-10855*
 
 ---
 
@@ -585,7 +584,7 @@ Existing topic reused for the Panguitch steakhouse claim.
 
 Existing topic reused for the HIPAA dispute.
 
-*Related: C-8991, C-8992*
+*Related: C-10846, C-10847*
 
 ---
 
@@ -593,7 +592,7 @@ Existing topic reused for the HIPAA dispute.
 
 Butler shooter; Helen Comperatore believes he worked with someone inside.
 
-*Related: C-8968*
+*Related: C-10820*
 
 ---
 
@@ -601,7 +600,7 @@ Butler shooter; Helen Comperatore believes he worked with someone inside.
 
 Existing topic reused for Butler investigation satisfaction.
 
-*Related: C-8965, C-8966*
+*Related: C-10816, C-10817*
 
 ---
 
@@ -609,7 +608,7 @@ Existing topic reused for Butler investigation satisfaction.
 
 Existing topic reused for the exhibits and video shown at the hearing.
 
-*Related: C-8959, C-9005*
+*Related: C-10809, C-10860*
 
 ---
 
@@ -617,7 +616,7 @@ Existing topic reused for the exhibits and video shown at the hearing.
 
 Existing topic reused for the Salem integration clause.
 
-*Related: C-8982*
+*Related: C-10837*
 
 ---
 
@@ -625,7 +624,7 @@ Existing topic reused for the Salem integration clause.
 
 Existing topic reused for FARA filing timing.
 
-*Related: C-8974*
+*Related: C-10828*
 
 ---
 
@@ -633,7 +632,7 @@ Existing topic reused for FARA filing timing.
 
 Existing topic reused for the driver and security update theory.
 
-*Related: C-9003*
+*Related: C-10858*
 
 ---
 
@@ -641,7 +640,7 @@ Existing topic reused for the driver and security update theory.
 
 Existing topic reused for Neff's September 10 whereabouts.
 
-*Related: C-8932, C-8994*
+*Related: C-10772, C-10849*
 
 ---
 
@@ -649,7 +648,7 @@ Existing topic reused for Neff's September 10 whereabouts.
 
 Existing topic reused for the parents-at-Bank-of-America chart.
 
-*Related: C-8936*
+*Related: C-10778*
 
 ---
 
@@ -657,7 +656,7 @@ Existing topic reused for the parents-at-Bank-of-America chart.
 
 Existing topic reused for the FaceTime call question.
 
-*Related: C-9002*
+*Related: C-10857*
 
 ---
 
@@ -665,7 +664,7 @@ Existing topic reused for the FaceTime call question.
 
 Existing topic reused for IMT and tactical movement.
 
-*Related: C-9004*
+*Related: C-10859*
 
 ---
 
@@ -673,7 +672,7 @@ Existing topic reused for IMT and tactical movement.
 
 Existing topic reused for muzzle flash and recoil observations.
 
-*Related: C-8951, C-8963, C-8986*
+*Related: C-10797, C-10814, C-10841*
 
 ---
 
@@ -681,7 +680,7 @@ Existing topic reused for muzzle flash and recoil observations.
 
 Existing topic reused for the decoy Challenger rental inquiry.
 
-*Related: C-8983*
+*Related: C-10838*
 
 ---
 
@@ -689,7 +688,7 @@ Existing topic reused for the decoy Challenger rental inquiry.
 
 Federal agency whose notes are referenced in the questioning.
 
-*Related: C-8941*
+*Related: C-10786*
 
 ---
 
@@ -697,7 +696,7 @@ Federal agency whose notes are referenced in the questioning.
 
 Existing topic reused for the under-the-shirt theory.
 
-*Related: C-8990*
+*Related: C-10845*
 
 ---
 
@@ -705,7 +704,7 @@ Existing topic reused for the under-the-shirt theory.
 
 Existing topic reused for paid-influencer claims.
 
-*Related: C-8972, C-8976, C-8978, C-8980, C-9006*
+*Related: C-10825, C-10830, C-10833, C-10835, C-10861*
 
 ---
 
@@ -713,7 +712,7 @@ Existing topic reused for paid-influencer claims.
 
 Existing topic reused for influencers shown footage at the hearing.
 
-*Related: C-9005*
+*Related: C-10860*
 
 ---
 
@@ -721,7 +720,7 @@ Existing topic reused for influencers shown footage at the hearing.
 
 TPUSA spokesperson; the host says Erika Kirk's account hung him out to dry on the surgeon quote.
 
-*Related: C-8992*
+*Related: C-10847*
 
 ---
 
@@ -729,7 +728,7 @@ TPUSA spokesperson; the host says Erika Kirk's account hung him out to dry on th
 
 Subject of the host's silver alert and a played clip on his September 10 whereabouts.
 
-*Related: C-8932, C-8994*
+*Related: C-10772, C-10849*
 
 ---
 
@@ -737,7 +736,7 @@ Subject of the host's silver alert and a played clip on his September 10 whereab
 
 Widow and TPUSA CEO; the host contrasts her conduct with Helen Comperatore's and questions her surgeon-call account.
 
-*Related: C-8967, C-8972, C-8973, C-8991, C-8992, C-8993*
+*Related: C-10818, C-10825, C-10826, C-10846, C-10847, C-10848*
 
 ---
 
@@ -745,7 +744,7 @@ Widow and TPUSA CEO; the host contrasts her conduct with Helen Comperatore's and
 
 Named in a viewer comment about what happened in the car.
 
-*Related: C-9003*
+*Related: C-10858*
 
 ---
 
@@ -753,7 +752,7 @@ Named in a viewer comment about what happened in the car.
 
 Viewer theory about his glasses being Meta glasses.
 
-*Related: C-9001*
+*Related: C-10856*
 
 ---
 
@@ -761,7 +760,7 @@ Viewer theory about his glasses being Meta glasses.
 
 The host contrasts Helen Comperatore with a widow who went on Bari Weiss's town hall.
 
-*Related: C-8967*
+*Related: C-10818*
 
 ---
 
@@ -769,7 +768,7 @@ The host contrasts Helen Comperatore with a widow who went on Bari Weiss's town 
 
 Host; speaks for herself.
 
-*Related: C-8932, C-8933, C-8934, C-8935, C-8936, C-8943, C-8944, C-8945, C-8946, C-8947, C-8948, C-8949, C-8959, C-8963, C-8964, C-8965, C-8967, C-8972, C-8973, C-8974, C-8976, C-8983, C-8984, C-8985, C-8986, C-8987, C-8988, C-8989, C-8990, C-8991, C-8992, C-8993, C-8996, C-8997, C-8999, C-9000, C-9001, C-9002, C-9003, C-9005*
+*Related: C-10772, C-10774, C-10776, C-10777, C-10778, C-10788, C-10789, C-10790, C-10791, C-10793, C-10794, C-10795, C-10809, C-10814, C-10815, C-10816, C-10818, C-10825, C-10826, C-10828, C-10830, C-10838, C-10839, C-10840, C-10841, C-10842, C-10843, C-10844, C-10845, C-10846, C-10847, C-10848, C-10851, C-10852, C-10854, C-10855, C-10856, C-10857, C-10858, C-10860*
 
 ---
 
@@ -777,7 +776,7 @@ Host; speaks for herself.
 
 Accused; the host says she sees no evidence he fired and believes he was on campus for decoys.
 
-*Related: C-8978, C-8987, C-8988, C-8989, C-8998, C-9000, C-9005, C-9006*
+*Related: C-10833, C-10842, C-10843, C-10844, C-10853, C-10855, C-10860, C-10861*
 
 ---
 
@@ -785,7 +784,7 @@ Accused; the host says she sees no evidence he fired and believes he was on camp
 
 Man arrested early; the witness and host say he was too old and not similarly dressed.
 
-*Related: C-8948, C-8957, C-8999*
+*Related: C-10794, C-10806, C-10854*
 
 ---
 
@@ -793,7 +792,7 @@ Man arrested early; the witness and host say he was too old and not similarly dr
 
 Named in a rhetorical aside about succession.
 
-*Related: C-8997*
+*Related: C-10852*
 
 ---
 
@@ -801,7 +800,7 @@ Named in a rhetorical aside about succession.
 
 Addressed in Helen Comperatore's appeal for answers.
 
-*Related: C-8971*
+*Related: C-10823*
 
 ---
 
@@ -809,7 +808,7 @@ Addressed in Helen Comperatore's appeal for answers.
 
 Named in the host's contrast about celebrity interviews.
 
-*Related: C-8972*
+*Related: C-10825*
 
 ---
 
@@ -817,7 +816,7 @@ Named in the host's contrast about celebrity interviews.
 
 Apologist whose Bank of America consultancy and FaceTime account are discussed.
 
-*Related: C-8936, C-8937, C-8938, C-9002*
+*Related: C-10778, C-10780, C-10781, C-10857*
 
 ---
 
@@ -825,7 +824,7 @@ Apologist whose Bank of America consultancy and FaceTime account are discussed.
 
 Referenced in a viewer theory about security updates in a car.
 
-*Related: C-9003*
+*Related: C-10858*
 
 ---
 
@@ -833,7 +832,7 @@ Referenced in a viewer theory about security updates in a car.
 
 First named by the host at 00:27:44 in episode 126 (spelled Corey Comparetor and Corey Comstocker in the transcript). Firefighter, the only person killed at the 2024 Butler rally. Aliases: Corey Comparetor; Corey Comstocker.
 
-*Related: C-8966*
+*Related: C-10817*
 
 ---
 
@@ -841,7 +840,7 @@ First named by the host at 00:27:44 in episode 126 (spelled Corey Comparetor and
 
 First named by the host at 00:28:31 in episode 126 (spelled Helen Comperatore and Helen Comperatore in the transcript). Widow of Corey Comperatore, interviewed on NewsNation. Aliases: Helen Comperatore; Helen Comperatore.
 
-*Related: C-8966, C-8968, C-8969, C-8970, C-8971*
+*Related: C-10817, C-10820, C-10821, C-10822, C-10823*
 
 ---
 
@@ -849,7 +848,7 @@ First named by the host at 00:28:31 in episode 126 (spelled Helen Comperatore an
 
 First named by the host at 00:34:37 in episode 126. Account the host says the Time article names and that she regards as paid.
 
-*Related: C-8976, C-8977*
+*Related: C-10830, C-10832*
 
 ---
 
@@ -858,7 +857,7 @@ First named by the host at 00:34:37 in episode 126. Account the host says the Ti
 Node Type: Topic
 The host's statement that a minute was removed from the rooftop video shown in court, and the open question of what it showed.
 
-*Related: C-8959*
+*Related: C-10809*
 
 ---
 
@@ -867,7 +866,7 @@ The host's statement that a minute was removed from the rooftop video shown in c
 Node Type: Topic
 The string of 911 calls and dispatch reports about shots near the UVU library and the library lockdown, away from the Losee Center.
 
-*Related: C-8961, C-8962*
+*Related: C-10812, C-10813*
 
 ---
 
@@ -876,7 +875,7 @@ The string of 911 calls and dispatch reports about shots near the UVU library an
 Node Type: Topic
 Testimony the host cites about an unfired .223 round found atop the science building and the officers' answer about not acting on it.
 
-*Related: C-8963, C-8964*
+*Related: C-10814, C-10815*
 
 ---
 
@@ -885,13 +884,13 @@ Testimony the host cites about an unfired .223 round found atop the science buil
 Node Type: Organization
 Company the host says Time reports Brad Parscale owned or part owned, which she says pays people by engagement to post set messages.
 
-*Related: C-8979, C-8980*
+*Related: C-10834, C-10835*
 
 ---
 
 # V. Claim Register
 
-**C-3027** Unattended Items Seized Near Library Bus Stop
+**C-10783** Unattended Items Seized Near Library Bus Stop
 
 Claim Timestamp: 00:09:28
 
@@ -904,7 +903,7 @@ Investigative Direction: Obtain hearing transcript or video exhibits to verify i
 
 ---
 
-**C-3028** Clip Shows Sergeant Faumuina Not Remembering Telling the FBI Lab to Stop Testing
+**C-10782** Clip Shows Sergeant Faumuina Not Remembering Telling the FBI Lab to Stop Testing
 
 Claim Timestamp: 00:09:25
 
@@ -917,7 +916,7 @@ Investigative Direction: Obtain FBI/ATF lab correspondence and UVU communication
 
 ---
 
-**C-3029** Anonymous Eyewitness Says Rooftop Person Used Tactical Movement Pattern
+**C-10800** Anonymous Eyewitness Says Rooftop Person Used Tactical Movement Pattern
 
 Claim Timestamp: 00:17:10
 
@@ -929,7 +928,7 @@ Investigative Direction: Compare witness description to rooftop video exhibits a
 
 ---
 
-**C-3030** Eyewitness Described All-Black Tactical Attire and Face Mask
+**C-10802** Eyewitness Described All-Black Tactical Attire and Face Mask
 
 Claim Timestamp: 00:18:26
 
@@ -941,7 +940,7 @@ Investigative Direction: Cross-reference with police scanner descriptions and th
 
 ---
 
-**C-3031** Eyewitness Described Rifle as Smaller than Mauser, Resembling .223
+**C-10807** Eyewitness Described Rifle as Smaller than Mauser, Resembling .223
 
 Claim Timestamp: 00:19:53
 
@@ -953,7 +952,7 @@ Investigative Direction: Cross-reference with recovered weapon evidence and any 
 
 ---
 
-**C-3032** 911 Caller Reported Person on Building Near Library
+**C-10811** 911 Caller Reported Person on Building Near Library
 
 Claim Timestamp: 00:22:01
 
@@ -965,7 +964,7 @@ Investigative Direction: Obtain full 911 transcript and dispatch records for the
 
 ---
 
-**C-3033** Police Scanner Reported Face Mask and Tactical Gear
+**C-10805** Police Scanner Reported Face Mask and Tactical Gear
 
 Claim Timestamp: 00:19:08
 
@@ -979,7 +978,7 @@ Investigative Direction: Obtain police scanner audio archive and CAD logs from S
 
 ---
 
-**C-3034** Federal Authorities Contacted Eyewitness Only Once; Not Called by Prosecution
+**C-10792** Federal Authorities Contacted Eyewitness Only Once; Not Called by Prosecution
 
 Claim Timestamp: 00:14:25
 
@@ -991,7 +990,7 @@ Investigative Direction: Obtain prosecution witness list for Tyler Robinson tria
 
 ---
 
-**C-3035** Frank Turek Worked as Bank of America Consultant for ~15 Years
+**C-10779** Frank Turek Worked as Bank of America Consultant for ~15 Years
 
 Claim Timestamp: 00:07:20
 
@@ -1006,7 +1005,7 @@ Investigative Direction: Verify Bank of America consultancy records and corrobor
 
 ---
 
-**C-3036** Nate Walker: Charlie Chose "Freedom Shirt" Because "Not Controversial"
+**C-10775** Nate Walker: Charlie Chose "Freedom Shirt" Because "Not Controversial"
 
 Claim Timestamp: 00:03:16
 
@@ -1019,7 +1018,7 @@ Investigative Direction: Obtain full Megyn Kelly interview and any prior on-reco
 
 ---
 
-**C-3037** Comperatore Asserts Butler Shooting Was "Inside Job"
+**C-10819** Comperatore Asserts Butler Shooting Was "Inside Job"
 
 Claim Timestamp: 00:29:15
 
@@ -1032,7 +1031,7 @@ Investigative Direction: Obtain full NewsNation interview; identify any specific
 
 ---
 
-**C-3038** Comperatore: Secret Service Did Not Reach Out for a Year
+**C-10824** Comperatore: Secret Service Did Not Reach Out for a Year
 
 Claim Timestamp: 00:30:55
 
@@ -1045,7 +1044,7 @@ Investigative Direction: Obtain NewsNation transcript and verify Secret Service 
 
 ---
 
-**C-3039** Time Reported Israeli PR Campaign via Clock Tower X Backfired
+**C-10827** Time Reported Israeli PR Campaign via Clock Tower X Backfired
 
 Claim Timestamp: 00:34:37
 
@@ -1058,7 +1057,7 @@ Investigative Direction: Obtain Time article in full; verify spend figures and n
 
 ---
 
-**C-3040** Time Reported Campaign Spend of ~$1.5 Million/Day
+**C-10831** Time Reported Campaign Spend of ~$1.5 Million/Day
 
 Claim Timestamp: 00:35:39
 
@@ -1071,7 +1070,7 @@ Investigative Direction: Verify the $1.5M/day figure against the Time article te
 
 ---
 
-**C-3041** Charlie Wore Custom Carhartt Shirt on Sept 10, Not Sold "Freedom Shirt"
+**C-10773** Charlie Wore Custom Carhartt Shirt on Sept 10, Not Sold "Freedom Shirt"
 
 Claim Timestamp: 00:01:37
 
@@ -1084,7 +1083,7 @@ Investigative Direction: Identify the vendor/contractor who produced the custom 
 
 ---
 
-**C-8932** Host Says Silver Alert for Blake Neff's Sept 10 Whereabouts Drew No Tips
+**C-10772** Host Says Silver Alert for Blake Neff's Sept 10 Whereabouts Drew No Tips
 
 Claim Timestamp: 00:00:01
 
@@ -1100,7 +1099,7 @@ Investigative Direction: Obtain the prior episode's silver-alert segment and the
 
 ---
 
-**C-8933** Host Says Chapter Tour Shirts Were Always Provided and Carhartt Is New to TPUSA
+**C-10774** Host Says Chapter Tour Shirts Were Always Provided and Carhartt Is New to TPUSA
 
 Claim Timestamp: 00:02:20
 
@@ -1116,7 +1115,7 @@ Investigative Direction: Compare photographs of Kirk at earlier campus stops wit
 
 ---
 
-**C-8934** Host Says TPUSA Employees Told Her Carhartt Is Not a Vendor
+**C-10776** Host Says TPUSA Employees Told Her Carhartt Is Not a Vendor
 
 Claim Timestamp: 00:06:05
 
@@ -1132,7 +1131,7 @@ Investigative Direction: Obtain TPUSA vendor and purchasing records for apparel 
 
 ---
 
-**C-8935** Host Asks Viewers for Information on the Custom Shirt via Tip Email
+**C-10777** Host Asks Viewers for Information on the Custom Shirt via Tip Email
 
 Claim Timestamp: 00:06:05
 
@@ -1148,7 +1147,7 @@ Investigative Direction: Review the tips inbox for responses naming who ordered 
 
 ---
 
-**C-8936** Host Says Tyler Bowyer's Father Relocated the Family to New Jersey as a Bank of America Executive
+**C-10778** Host Says Tyler Bowyer's Father Relocated the Family to New Jersey as a Bank of America Executive
 
 Claim Timestamp: 00:06:05
 
@@ -1164,7 +1163,7 @@ Investigative Direction: Locate employment and residence records for Bowyer's fa
 
 ---
 
-**C-8937** Christian Post Says Turek Was Fired From Cisco Months Before Bank of America
+**C-10780** Christian Post Says Turek Was Fired From Cisco Months Before Bank of America
 
 Claim Timestamp: 00:07:20
 
@@ -1180,7 +1179,7 @@ Investigative Direction: Retrieve the 2011 Christian Post article and contempora
 
 ---
 
-**C-8938** Article Says Turek Was Hired in May for Bank of America Wealth Management Team and Had Other Clients
+**C-10781** Article Says Turek Was Hired in May for Bank of America Wealth Management Team and Had Other Clients
 
 Claim Timestamp: 00:07:20
 
@@ -1196,7 +1195,7 @@ Investigative Direction: Verify the article text for the hiring month, the divis
 
 ---
 
-**C-8939** Faumuina Does Not Recall Whether Nine Items Were Seized and Agrees Items Went to FBI Lab
+**C-10784** Faumuina Does Not Recall Whether Nine Items Were Seized and Agrees Items Went to FBI Lab
 
 Claim Timestamp: 00:10:12
 
@@ -1212,7 +1211,7 @@ Investigative Direction: Obtain the hearing transcript and the evidence item log
 
 ---
 
-**C-8940** Faumuina Agrees DNA and Other Analysis Was Requested on the Items
+**C-10785** Faumuina Agrees DNA and Other Analysis Was Requested on the Items
 
 Claim Timestamp: 00:10:12
 
@@ -1228,7 +1227,7 @@ Investigative Direction: Obtain the FBI lab request forms and chain-of-custody s
 
 ---
 
-**C-8941** Faumuina Says She Does Not Remember Telling the Lab to Stop but Finds It Consistent With FBI/ATF Notes
+**C-10786** Faumuina Says She Does Not Remember Telling the Lab to Stop but Finds It Consistent With FBI/ATF Notes
 
 Claim Timestamp: 00:10:59
 
@@ -1239,13 +1238,13 @@ Transcript Snippet: >> I don't remember communicating that. >> Okay. If that's i
 Anchored Artifacts: A-2139.2
 Mentions: N-505
 Related Nodes: N-10718, N-10975
-Qualifies: C-3028
+Qualifies: C-10782
 Tags: relevance:core
 Investigative Direction: Obtain the FBI and ATF lab notes and reports referenced by the questioner, and the UVU communication that closed the testing request.
 
 ---
 
-**C-8942** Host Says the Library Is Not Near the Losee Center Route Used in the Questioning
+**C-10787** Host Says the Library Is Not Near the Losee Center Route Used in the Questioning
 
 Claim Timestamp: 00:11:52
 
@@ -1261,7 +1260,7 @@ Investigative Direction: Measure the walking distance from the Losee Center to t
 
 ---
 
-**C-8943** Host Says a Source Told Her Early On He Was at the Bus Stop and Filed a Report on the Rooftop Figure
+**C-10788** Host Says a Source Told Her Early On He Was at the Bus Stop and Filed a Report on the Rooftop Figure
 
 Claim Timestamp: 00:12:29
 
@@ -1277,7 +1276,7 @@ Investigative Direction: Identify the report this source filed and obtain it fro
 
 ---
 
-**C-8944** Host Says Temperature Was About 85 Degrees, Making Gloves Notable
+**C-10789** Host Says Temperature Was About 85 Degrees, Making Gloves Notable
 
 Claim Timestamp: 00:13:30
 
@@ -1293,7 +1292,7 @@ Investigative Direction: Pull the National Weather Service hourly record for Ore
 
 ---
 
-**C-8945** Host Says the Witness Spoke to Students at the Library Bus Stop and Is the Only Person Who Filmed the Gunman Going Prone
+**C-10790** Host Says the Witness Spoke to Students at the Library Bus Stop and Is the Only Person Who Filmed the Gunman Going Prone
 
 Claim Timestamp: 00:13:30
 
@@ -1309,7 +1308,7 @@ Investigative Direction: Reconcile with the other rooftop video (the host earlie
 
 ---
 
-**C-8946** Host Says His Video Was the Most Widely Spread Rooftop Video and the First to Circulate
+**C-10791** Host Says His Video Was the Most Widely Spread Rooftop Video and the First to Circulate
 
 Claim Timestamp: 00:13:30
 
@@ -1325,7 +1324,7 @@ Investigative Direction: Trace the earliest posting of the clip and its spread a
 
 ---
 
-**C-8947** Host Says She Tracked Down the Filmer and He Has Never Changed His Description
+**C-10793** Host Says She Tracked Down the Filmer and He Has Never Changed His Description
 
 Claim Timestamp: 00:14:25
 
@@ -1336,13 +1335,13 @@ Transcript Snippet: The person who recorded this footage is the person that I tr
 Anchored Artifacts: A-2975.1
 Mentions: N-3
 Related Nodes: N-10314
-Supports: C-1930
+Supports: C-4095
 Tags: relevance:core
 Investigative Direction: Obtain the witness's dated communications with the host and any statements he gave to authorities to test consistency.
 
 ---
 
-**C-8948** Host Says the Witness Filed a Report at the UVU Command Center That the Arrested Man Was Too Old
+**C-10794** Host Says the Witness Filed a Report at the UVU Command Center That the Arrested Man Was Too Old
 
 Claim Timestamp: 00:14:25
 
@@ -1358,7 +1357,7 @@ Investigative Direction: Request the UVU command center log and any written repo
 
 ---
 
-**C-8949** Host Says the Witness Works With Guns and Is Willing to Testify
+**C-10795** Host Says the Witness Works With Guns and Is Willing to Testify
 
 Claim Timestamp: 00:15:25
 
@@ -1369,13 +1368,13 @@ Transcript Snippet: he's also willing to testify. He would be a very credible wi
 Anchored Artifacts: A-2140.1
 Mentions: N-3
 Related Nodes: N-10719
-Supports: C-1859
+Supports: C-3715
 Tags: relevance:core
 Investigative Direction: Confirm the witness's firearms-related occupation and whether either side has contacted him about testimony.
 
 ---
 
-**C-8950** Witness Says the Shot Came About 5 Seconds After He Stopped Recording
+**C-10796** Witness Says the Shot Came About 5 Seconds After He Stopped Recording
 
 Claim Timestamp: 00:16:09
 
@@ -1390,7 +1389,7 @@ Investigative Direction: Compare the clip's end time with the audio of the shot 
 
 ---
 
-**C-8951** Witness Says He Saw No Muzzle Flash and Could Not See the Gun
+**C-10797** Witness Says He Saw No Muzzle Flash and Could Not See the Gun
 
 Claim Timestamp: 00:16:09
 
@@ -1400,13 +1399,13 @@ Transcript Snippet: I saw heard everything but a muzzle flash. So, I didn't see 
 
 Anchored Artifacts: A-2140.1
 Related Nodes: N-10755
-Supports: C-1857
+Supports: C-3714
 Tags: relevance:core
 Investigative Direction: Review the roof clip frame by frame for any flash or smoke and compare with expert analysis of visual discharge indicators.
 
 ---
 
-**C-8952** Witness Says the Muzzle Report Sounded More Like an AR Than a Large-Bore Hunting Rifle
+**C-10798** Witness Says the Muzzle Report Sounded More Like an AR Than a Large-Bore Hunting Rifle
 
 Claim Timestamp: 00:16:09
 
@@ -1421,7 +1420,7 @@ Investigative Direction: Obtain acoustic analysis of audio from several recordin
 
 ---
 
-**C-8953** Witness Says It Was About 12:20, Not 12:15, and He Saw the Figure for About 30 Seconds
+**C-10799** Witness Says It Was About 12:20, Not 12:15, and He Saw the Figure for About 30 Seconds
 
 Claim Timestamp: 00:16:53
 
@@ -1436,7 +1435,7 @@ Investigative Direction: Compare the video metadata of the witness's clip with t
 
 ---
 
-**C-8954** Witness Says He Assumed the Figure Was an Event Security Guard and Began Recording
+**C-10801** Witness Says He Assumed the Figure Was an Event Security Guard and Began Recording
 
 Claim Timestamp: 00:17:47
 
@@ -1451,7 +1450,7 @@ Investigative Direction: Match the witness's account of a 10-second approach wit
 
 ---
 
-**C-8955** Witness Says the Figure Fired Then Lay About 5 Seconds Before Sprinting Off the Roof
+**C-10803** Witness Says the Figure Fired Then Lay About 5 Seconds Before Sprinting Off the Roof
 
 Claim Timestamp: 00:18:26
 
@@ -1466,7 +1465,7 @@ Investigative Direction: Compare against the court-shown rooftop video and the d
 
 ---
 
-**C-8956** Witness Says He Was About 175 Yards From the Figure
+**C-10804** Witness Says He Was About 175 Yards From the Figure
 
 Claim Timestamp: 00:18:26
 
@@ -1481,7 +1480,7 @@ Investigative Direction: Measure the distance from the witness's vantage locatio
 
 ---
 
-**C-8957** Witness Says He Went Back Inside the Perimeter About an Hour Later and Showed the Command Center His Video
+**C-10806** Witness Says He Went Back Inside the Perimeter About an Hour Later and Showed the Command Center His Video
 
 Claim Timestamp: 00:19:08
 
@@ -1497,7 +1496,7 @@ Investigative Direction: Obtain command-center personnel names and any intake lo
 
 ---
 
-**C-8958** Witness Says He Thought the Figure Wore a Black Tactical Helmet
+**C-10808** Witness Says He Thought the Figure Wore a Black Tactical Helmet
 
 Claim Timestamp: 00:19:53
 
@@ -1512,7 +1511,7 @@ Investigative Direction: Enhance the roof clip at the head region and compare wi
 
 ---
 
-**C-8959** Host Says a Minute Was Cut From the Rooftop Video Shown in Court
+**C-10809** Host Says a Minute Was Cut From the Rooftop Video Shown in Court
 
 Claim Timestamp: 00:20:43
 
@@ -1528,7 +1527,7 @@ Investigative Direction: Compare the video exhibit's running time shown in court
 
 ---
 
-**C-8960** Host Says Faumuina Identified the Losee-to-Library Route as the Shooter's Route
+**C-10810** Host Says Faumuina Identified the Losee-to-Library Route as the Shooter's Route
 
 Claim Timestamp: 00:20:43
 
@@ -1544,7 +1543,7 @@ Investigative Direction: Obtain the hearing transcript passage where the route w
 
 ---
 
-**C-8961** Host Says a String of 911 Calls About the Library Led to a Lockdown
+**C-10812** Host Says a String of 911 Calls About the Library Led to a Lockdown
 
 Claim Timestamp: 00:22:01
 
@@ -1559,7 +1558,7 @@ Investigative Direction: Request UVU and Utah County 911 and CAD records for the
 
 ---
 
-**C-8962** 911 Audio Has Dispatcher Reporting Gunshots Near the Library and Another Report of Shots Fired There
+**C-10813** 911 Audio Has Dispatcher Reporting Gunshots Near the Library and Another Report of Shots Fired There
 
 Claim Timestamp: 00:22:52
 
@@ -1574,7 +1573,7 @@ Investigative Direction: Obtain the full 911 and dispatch recordings with timest
 
 ---
 
-**C-8963** Host Cites Testimony of an Unfired .223 Round Found on the Science Building
+**C-10814** Host Cites Testimony of an Unfired .223 Round Found on the Science Building
 
 Claim Timestamp: 00:26:40
 
@@ -1590,7 +1589,7 @@ Investigative Direction: Locate the hearing testimony on the .223 round, its rec
 
 ---
 
-**C-8964** Host Says Officers Gave a Ridiculous Answer on Why They Did Not Act on the .223 Round
+**C-10815** Host Says Officers Gave a Ridiculous Answer on Why They Did Not Act on the .223 Round
 
 Claim Timestamp: 00:26:40
 
@@ -1606,7 +1605,7 @@ Investigative Direction: Read the hearing transcript for the officer's answer an
 
 ---
 
-**C-8965** Host Says She Earlier Speculated Corey Comperatore May Have Been Targeted
+**C-10816** Host Says She Earlier Speculated Corey Comperatore May Have Been Targeted
 
 Claim Timestamp: 00:27:44
 
@@ -1622,7 +1621,7 @@ Investigative Direction: Locate the earlier episode where the host raised this a
 
 ---
 
-**C-8966** Host Says Helen Comperatore Has Made Clear She Is Unsatisfied With the Investigation
+**C-10817** Host Says Helen Comperatore Has Made Clear She Is Unsatisfied With the Investigation
 
 Claim Timestamp: 00:28:31
 
@@ -1633,13 +1632,13 @@ Transcript Snippet: His widow Helen still has questions and she spoke out and ha
 Anchored Artifacts: A-2143.1
 Mentions: N-818, N-105
 Related Nodes: N-10588, N-10724
-Supports: C-4570
+Supports: C-9955
 Tags: relevance:context
 Investigative Direction: Obtain Helen Comperatore's own statements and the NewsNation interview.
 
 ---
 
-**C-8967** Host Contrasts Helen With Erika by Saying Erika Went on Bari Weiss and Trusted Everything 100% Despite Seeing Nothing
+**C-10818** Host Contrasts Helen With Erika by Saying Erika Went on Bari Weiss and Trusted Everything 100% Despite Seeing Nothing
 
 Claim Timestamp: 00:28:31
 
@@ -1655,7 +1654,7 @@ Investigative Direction: Retrieve the CBS town hall transcript and date and chec
 
 ---
 
-**C-8968** Comperatore Says She Does Not Believe There Was a Second Shooter but Thinks Crooks Had Help
+**C-10820** Comperatore Says She Does Not Believe There Was a Second Shooter but Thinks Crooks Had Help
 
 Claim Timestamp: 00:29:15
 
@@ -1666,13 +1665,13 @@ Transcript Snippet: I don't believe there was another shooter there, but I belie
 Anchored Artifacts: A-2143.1
 Mentions: N-818, N-104
 Related Nodes: N-10724, N-10721
-Supports: C-3037
+Supports: C-10819
 Tags: relevance:context
 Investigative Direction: Obtain the full NewsNation interview and compare with Butler investigation findings on any accomplice.
 
 ---
 
-**C-8969** Comperatore Agrees the Butler Event Was Political
+**C-10821** Comperatore Agrees the Butler Event Was Political
 
 Claim Timestamp: 00:30:02
 
@@ -1688,7 +1687,7 @@ Investigative Direction: Obtain the full interview to see whether she names any 
 
 ---
 
-**C-8970** Comperatore Says She Has Been Told Things and Something Happened to Her That Made the Pieces Fit
+**C-10822** Comperatore Says She Has Been Told Things and Something Happened to Her That Made the Pieces Fit
 
 Claim Timestamp: 00:30:02
 
@@ -1704,7 +1703,7 @@ Investigative Direction: Ask the Comperatore family and the interviewer what she
 
 ---
 
-**C-8971** Comperatore's Message to Trump Is Not to Forget Them and That They Need Answers
+**C-10823** Comperatore's Message to Trump Is Not to Forget Them and That They Need Answers
 
 Claim Timestamp: 00:30:34
 
@@ -1720,7 +1719,7 @@ Investigative Direction: Check whether the White House or Secret Service respond
 
 ---
 
-**C-8972** Host Implies DOJ, an 'Emotional Asset' and Famous Interviewers Boosted Another Widow
+**C-10825** Host Implies DOJ, an 'Emotional Asset' and Famous Interviewers Boosted Another Widow
 
 Claim Timestamp: 00:31:50
 
@@ -1736,7 +1735,7 @@ Investigative Direction: Identify any DOJ amplification of Erika Kirk and the Ni
 
 ---
 
-**C-8973** Host Says Erika Was in the Office Laughing at an Emoji Six Days Later
+**C-10826** Host Says Erika Was in the Office Laughing at an Emoji Six Days Later
 
 Claim Timestamp: 00:33:39
 
@@ -1746,13 +1745,13 @@ Transcript Snippet: Didn't expect her in the office laughing at emoji 6 days lat
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Supports: C-2207
+Supports: C-5734
 Tags: relevance:core
 Investigative Direction: Obtain the September 16 all-staff call recording referred to in the earlier claim and review the exchange.
 
 ---
 
-**C-8974** Host Says the FARA Filings Came Almost Immediately After the Assassination
+**C-10828** Host Says the FARA Filings Came Almost Immediately After the Assassination
 
 Claim Timestamp: 00:34:37
 
@@ -1763,13 +1762,13 @@ Transcript Snippet: the bot campaign, the Israeli influence operation, the Farad
 Anchored Artifacts: A-2144.1
 Mentions: N-3
 Related Nodes: N-10722, N-10662
-Supports: C-2863
+Supports: C-8838
 Tags: relevance:context
 Investigative Direction: Check the FARA database filing dates for Clock Tower X and related registrants.
 
 ---
 
-**C-8975** Host Says the Israeli Foreign Minister Hired Parscale's Clock Tower X for a Digital Campaign
+**C-10829** Host Says the Israeli Foreign Minister Hired Parscale's Clock Tower X for a Digital Campaign
 
 Claim Timestamp: 00:34:37
 
@@ -1780,13 +1779,13 @@ Transcript Snippet: the Israeli foreign minister quite literally hiring uh Brad 
 Anchored Artifacts: A-2144.1
 Mentions: N-430
 Related Nodes: N-10722, N-10026
-Supports: C-2864
+Supports: C-8841
 Tags: relevance:context
 Investigative Direction: Read the FARA registration statement and contract for Clock Tower X and its Israeli client.
 
 ---
 
-**C-8976** Host Says Time Names Eyal Yakoby and That He Posts About 300 Times a Day
+**C-10830** Host Says Time Names Eyal Yakoby and That He Posts About 300 Times a Day
 
 Claim Timestamp: 00:34:37
 
@@ -1802,7 +1801,7 @@ Investigative Direction: Read the Time article for how Yakoby is described and w
 
 ---
 
-**C-8977** Host Says the Named Accounts 'Had to Own' That They Are Being Paid
+**C-10832** Host Says the Named Accounts 'Had to Own' That They Are Being Paid
 
 Claim Timestamp: 00:35:39
 
@@ -1818,7 +1817,7 @@ Investigative Direction: Read the article for the on-record responses of named a
 
 ---
 
-**C-8978** Host Says Time Shows Accounts Used the Same Words at the Same Moment, Including 'Evidence Is Overwhelming'
+**C-10833** Host Says Time Shows Accounts Used the Same Words at the Same Moment, Including 'Evidence Is Overwhelming'
 
 Claim Timestamp: 00:35:39
 
@@ -1834,7 +1833,7 @@ Investigative Direction: Read the article's data on timing and wording and obtai
 
 ---
 
-**C-8979** Host Says Time Reports Parscale Owned or Part Owned Influencable
+**C-10834** Host Says Time Reports Parscale Owned or Part Owned Influencable
 
 Claim Timestamp: 00:35:39
 
@@ -1850,7 +1849,7 @@ Investigative Direction: Check corporate filings for Influencable and Time's sou
 
 ---
 
-**C-8980** Host Says Influencable Texts People Offering Pay Based on Retweets and Post Reach
+**C-10835** Host Says Influencable Texts People Offering Pay Based on Retweets and Post Reach
 
 Claim Timestamp: 00:36:22
 
@@ -1866,7 +1865,7 @@ Investigative Direction: Read the article's description of the payment model and
 
 ---
 
-**C-8981** Host Says the Services Agreement Called for 100 Original Pieces a Month, 80 Percent Aimed at Gen Z
+**C-10836** Host Says the Services Agreement Called for 100 Original Pieces a Month, 80 Percent Aimed at Gen Z
 
 Claim Timestamp: 00:36:22
 
@@ -1882,7 +1881,7 @@ Investigative Direction: Read the services agreement filed with FARA and compare
 
 ---
 
-**C-8982** Host Says the Agreement Pledged to Integrate With Salem Media Network Properties
+**C-10837** Host Says the Agreement Pledged to Integrate With Salem Media Network Properties
 
 Claim Timestamp: 00:36:22
 
@@ -1893,13 +1892,13 @@ Transcript Snippet: they pledged to amplify the campaign all across social media
 Anchored Artifacts: A-2144.1
 Mentions: N-430
 Related Nodes: N-10722, N-10657
-Supports: C-2865
+Supports: C-8842
 Tags: relevance:context
 Investigative Direction: Read the FARA exhibits for the Salem integration clause and Salem's own registration status.
 
 ---
 
-**C-8983** Host Says She Is Seeking Evidence That Decoy Dodge Challengers Were Rented on the 9th and 10th
+**C-10838** Host Says She Is Seeking Evidence That Decoy Dodge Challengers Were Rented on the 9th and 10th
 
 Claim Timestamp: 00:39:45
 
@@ -1915,7 +1914,7 @@ Investigative Direction: Obtain rental and dealership records for grey Dodge Cha
 
 ---
 
-**C-8984** Host Agrees the Rooftop Figure May Have Been a Timed Decoy and the Boom a Distraction
+**C-10839** Host Agrees the Rooftop Figure May Have Been a Timed Decoy and the Boom a Distraction
 
 Claim Timestamp: 00:43:22
 
@@ -1931,7 +1930,7 @@ Investigative Direction: Reconcile with the court-shown rooftop video and the ba
 
 ---
 
-**C-8985** Host Says the Witness Told Her He Did Not Witness the Actual Shot
+**C-10840** Host Says the Witness Told Her He Did Not Witness the Actual Shot
 
 Claim Timestamp: 00:43:22
 
@@ -1942,13 +1941,13 @@ Transcript Snippet: said that he did not witness the actual shot, but you know, 
 Anchored Artifacts: A-2140.1
 Mentions: N-3
 Related Nodes: N-10719
-Supports: C-1857
+Supports: C-3714
 Tags: relevance:core
 Investigative Direction: Compare against the audio of the recorded call and any statement the witness gave to authorities.
 
 ---
 
-**C-8986** Host Says No One Described a Person Recoiling
+**C-10841** Host Says No One Described a Person Recoiling
 
 Claim Timestamp: 00:43:22
 
@@ -1959,13 +1958,13 @@ Transcript Snippet: I do not believe that anybody described to me a person recoi
 Anchored Artifacts: A-2140.1
 Mentions: N-3
 Related Nodes: N-10755
-Supports: C-1931
+Supports: C-4093
 Tags: relevance:core
 Investigative Direction: Examine the roof clips for recoil and compare with the other witness accounts.
 
 ---
 
-**C-8987** Host Says the Witness Says the Gun Was Not the One Used per the Official Account
+**C-10842** Host Says the Witness Says the Gun Was Not the One Used per the Official Account
 
 Claim Timestamp: 00:43:22
 
@@ -1976,13 +1975,13 @@ Transcript Snippet: I think that is the reason they are avoiding him because he 
 Anchored Artifacts: A-2140.2
 Mentions: N-3, N-40, N-1
 Related Nodes: N-10719, N-10099
-Supports: C-5278
+Supports: C-4282
 Tags: relevance:core
 Investigative Direction: Obtain the recovered rifle's make and caliber from the evidence list and compare with the witness's description.
 
 ---
 
-**C-8988** Host Says Her Investigation Suggests Robinson Was on Campus for Decoys, Not Killing Charlie
+**C-10843** Host Says Her Investigation Suggests Robinson Was on Campus for Decoys, Not Killing Charlie
 
 Claim Timestamp: 00:44:34
 
@@ -1998,7 +1997,7 @@ Investigative Direction: Ask the prosecution what evidence places Robinson at th
 
 ---
 
-**C-8989** Host Says Robinson Was Tasked With Dumping Clothes at the Dairy Queen
+**C-10844** Host Says Robinson Was Tasked With Dumping Clothes at the Dairy Queen
 
 Claim Timestamp: 00:44:53
 
@@ -2014,7 +2013,7 @@ Investigative Direction: Seek surveillance and receipts from the Dairy Queen and
 
 ---
 
-**C-8990** Host Says She Believes It Was a Show and the Killing Likely Happened Under Charlie's Shirt
+**C-10845** Host Says She Believes It Was a Show and the Killing Likely Happened Under Charlie's Shirt
 
 Claim Timestamp: 00:44:53
 
@@ -2030,7 +2029,7 @@ Investigative Direction: Obtain the autopsy report, the shirt's chain of custody
 
 ---
 
-**C-8991** Host Says Erika Lied to Her Face About the Surgeon Call
+**C-10846** Host Says Erika Lied to Her Face About the Surgeon Call
 
 Claim Timestamp: 00:46:25
 
@@ -2041,13 +2040,13 @@ Transcript Snippet: no, guys, she lied to my face. No one can make me come back 
 Anchored Artifacts: 
 Mentions: N-3, N-2
 Related Nodes: N-10358, N-10447
-Supports: C-5562
+Supports: C-5419
 Tags: relevance:core
 Investigative Direction: Compare the host's account of Erika's statements about the surgeon call with the surgeon's account and Kolvet's post.
 
 ---
 
-**C-8992** Host Says Erika's Account Hung Kolvet Out to Dry, With the Surgeon Said to Have Violated HIPAA
+**C-10847** Host Says Erika's Account Hung Kolvet Out to Dry, With the Surgeon Said to Have Violated HIPAA
 
 Claim Timestamp: 00:46:25
 
@@ -2058,13 +2057,13 @@ Transcript Snippet: why you hung Andrew Kolvet out to dry and the surgeon saying
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-14
 Related Nodes: N-10358, N-10447
-Supports: C-6779
+Supports: C-4492
 Tags: relevance:core
 Investigative Direction: Find any on-record statement by Erika Kirk or TPUSA on who is responsible for the surgeon quote.
 
 ---
 
-**C-8993** Host Says TPUSA Took In More Than a Quarter Billion Dollars Last Year
+**C-10848** Host Says TPUSA Took In More Than a Quarter Billion Dollars Last Year
 
 Claim Timestamp: 00:46:25
 
@@ -2075,13 +2074,13 @@ Transcript Snippet: my understanding is that you took in more than a quarter bil
 Anchored Artifacts: 
 Mentions: N-3, N-2
 Related Nodes: N-10000
-Supports: C-6985
+Supports: C-5602
 Tags: relevance:context
 Investigative Direction: Review TPUSA's IRS Form 990 and audited financials for the most recent year.
 
 ---
 
-**C-8994** Top Comment Pairs September 10 Question With Neff's 'Why Would I Even Remember Such a Thing?'
+**C-10849** Top Comment Pairs September 10 Question With Neff's 'Why Would I Even Remember Such a Thing?'
 
 Claim Timestamp: 00:47:13
 
@@ -2097,7 +2096,7 @@ Investigative Direction: Identify the original program and date of the Neff clip
 
 ---
 
-**C-8995** Viewer Comment Says Freedom Shirt Was Not at Detroit Carhartt Store, Likely Custom
+**C-10850** Viewer Comment Says Freedom Shirt Was Not at Detroit Carhartt Store, Likely Custom
 
 Claim Timestamp: 00:47:13
 
@@ -2112,7 +2111,7 @@ Investigative Direction: Check Carhartt's catalogue and customization services f
 
 ---
 
-**C-8996** Host Says No One Did More Events With Charlie Kirk Than She Did
+**C-10851** Host Says No One Did More Events With Charlie Kirk Than She Did
 
 Claim Timestamp: 00:49:49
 
@@ -2127,7 +2126,7 @@ Investigative Direction: Compare event counts from TPUSA tour schedules and arch
 
 ---
 
-**C-8997** Host Says Charlie Did Not Believe in a Coronation, Citing a Hypothetical Graham Succession
+**C-10852** Host Says Charlie Did Not Believe in a Coronation, Citing a Hypothetical Graham Succession
 
 Claim Timestamp: 00:49:49
 
@@ -2142,7 +2141,7 @@ Investigative Direction: Verify against Senate records; the statement is made in
 
 ---
 
-**C-8998** Viewer Comment Says Robinson's Texts Mention Questioning Someone in Similar Clothing After the Old Man's Arrest
+**C-10853** Viewer Comment Says Robinson's Texts Mention Questioning Someone in Similar Clothing After the Old Man's Arrest
 
 Claim Timestamp: 00:50:32
 
@@ -2158,7 +2157,7 @@ Investigative Direction: Find the cited Robinson text messages in the charging d
 
 ---
 
-**C-8999** Host Says George Zinn Was Certainly Not in Similar Clothing
+**C-10854** Host Says George Zinn Was Certainly Not in Similar Clothing
 
 Claim Timestamp: 00:50:32
 
@@ -2174,7 +2173,7 @@ Investigative Direction: Compare Zinn's arrest photos with the described rooftop
 
 ---
 
-**C-9000** Host Says the Panguitch Steakhouse Issue Will Throw Things for a Loop and There Are Receipts
+**C-10855** Host Says the Panguitch Steakhouse Issue Will Throw Things for a Loop and There Are Receipts
 
 Claim Timestamp: 00:51:27
 
@@ -2190,7 +2189,7 @@ Investigative Direction: Obtain the steakhouse's receipts and surveillance for t
 
 ---
 
-**C-9001** Host Says Dan Flood's Glasses Appear to Be Meta Glasses
+**C-10856** Host Says Dan Flood's Glasses Appear to Be Meta Glasses
 
 Claim Timestamp: 00:51:27
 
@@ -2205,7 +2204,7 @@ Investigative Direction: Identify the glasses model from clear photographs and c
 
 ---
 
-**C-9002** Host Says None of the People on the Turek FaceTime Call Have Presented Their Phones
+**C-10857** Host Says None of the People on the Turek FaceTime Call Have Presented Their Phones
 
 Claim Timestamp: 00:52:12
 
@@ -2221,7 +2220,7 @@ Investigative Direction: Request call logs and device records for the FaceTime c
 
 ---
 
-**C-9003** Host Floats That the Driver Was Updating Ben's Security at 100 mph on a 7-Minute Journey
+**C-10858** Host Floats That the Driver Was Updating Ben's Security at 100 mph on a 7-Minute Journey
 
 Claim Timestamp: 00:52:53
 
@@ -2237,7 +2236,7 @@ Investigative Direction: Obtain vehicle telematics or driver identification for 
 
 ---
 
-**C-9004** Viewer Comment Says the Movement Described Is IMT and Normal People Do Not Move Like That
+**C-10859** Viewer Comment Says the Movement Described Is IMT and Normal People Do Not Move Like That
 
 Claim Timestamp: 00:52:53
 
@@ -2247,13 +2246,13 @@ Transcript Snippet: Former US Army here. The person you spoke to is describing w
 
 Anchored Artifacts: A-2976.5, A-2140.1
 Related Nodes: N-10754
-Supports: C-3029
+Supports: C-10800
 Tags: relevance:core
 Investigative Direction: Ask Army doctrine experts to review the witness's description of bounding movement and the roof video.
 
 ---
 
-**C-9005** Host Says the Influencers Were Shown the Footage in 4K at the End of the Fifth Day of the Hearing
+**C-10860** Host Says the Influencers Were Shown the Footage in 4K at the End of the Fifth Day of the Hearing
 
 Claim Timestamp: 00:53:50
 
@@ -2269,7 +2268,7 @@ Investigative Direction: Obtain the hearing schedule for day five and the list o
 
 ---
 
-**C-9006** Host Says It Is Obvious Many People Are Being Paid to Push the Robinson Narrative
+**C-10861** Host Says It Is Obvious Many People Are Being Paid to Push the Robinson Narrative
 
 Claim Timestamp: 00:53:50
 
@@ -2521,17 +2520,17 @@ Confidence: high
 - **Name uncertainty – Corey Comperatore:** Transcript renders "Corey Comparetor" and "Corey Comstocker." Both likely auto-caption errors for "Corey Comperatore."
 - **Building name variations – Losee Center / Lozi / Loews / Eloise Center:** Transcript contains multiple variants; the canonical UVU building name is "Losee Center." Preserve transcript spellings where artifact-bound.
 - **Building name variations – Folsom / Fulton / Foltin Library:** Transcript variants; canonical UVU name is "Fulton Library." Preserve transcript spellings.
-- **Artifact verbally referenced but not shown (C-3033):** Police scanner description of "face mask and tactical gear" is asserted by host; no scanner audio artifact was displayed. Flagged for verification.
+- **Artifact verbally referenced but not shown (C-10805):** Police scanner description of "face mask and tactical gear" is asserted by host; no scanner audio artifact was displayed. Flagged for verification.
 - **Possible transcription error:** See Frank Cherico/Turek note above.
-- **Requires human verification:** All four name-spelling flags above and the C-3033 police-scanner assertion.
-- **Timestamp uncertainty:** Artifact C-3033 has no video artifact timestamp; claim is host-paraphrased.
+- **Requires human verification:** All four name-spelling flags above and the C-10805 police-scanner assertion.
+- **Timestamp uncertainty:** Artifact C-10805 has no video artifact timestamp; claim is host-paraphrased.
 
 ---
 
 # Episode 126 Ledger Summary
 
 - **Artifact Families Introduced:** A-2138, A-2139, A-2140, A-2141, A-2142, A-2143, A-2144, A-2145
-- **Claim Range:** C-3027–C-3041
+- **Claim Range:** C-10783–C-10773
 - **New Nodes Introduced (People):** none (Wave 2: local ids removed)
 - **New Nodes Introduced (Investigation Targets):** N-10717, N-10718, N-10719, N-10720, N-10721, N-10722, N-10723, N-10724
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk)

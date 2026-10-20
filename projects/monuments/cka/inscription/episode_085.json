@@ -27,14 +27,14 @@
           "ref": "A-1903.1",
           "description": "Guardian article reporting on French trial of 22 defendants in Athanor Masonic lodge murder-for-hire case",
           "related_claims": [
-            "C-2581",
-            "C-2582",
-            "C-2583",
-            "C-2584",
-            "C-2585",
-            "C-2586",
-            "C-2587",
-            "C-2588"
+            "C-7565",
+            "C-7566",
+            "C-7567",
+            "C-7570",
+            "C-7572",
+            "C-7573",
+            "C-7576",
+            "C-7578"
           ],
           "related_nodes": [
             "N-10568"
@@ -60,8 +60,8 @@
           "ref": "A-1904.1",
           "description": "Audio clip from Erika Kirk's sit-down with Bari Weiss (described by host as 72 hours before the host's meeting with Erika)",
           "related_claims": [
-            "C-2589",
-            "C-2590"
+            "C-7592",
+            "C-7593"
           ],
           "related_nodes": [
             "N-1",
@@ -88,9 +88,9 @@
           "ref": "A-1905.1",
           "description": "Audio clip of Frank Turek speaking at UVU about the moment Erika Kirk was informed of Charlie Kirk's death",
           "related_claims": [
-            "C-2591",
-            "C-2592",
-            "C-2593"
+            "C-7598",
+            "C-7600",
+            "C-7601"
           ],
           "related_nodes": [
             "N-2"
@@ -116,7 +116,7 @@
           "ref": "A-1906.1",
           "description": "Candace Owens' November tweet asserting Charlie Kirk's assassin trained with the French Legion 13th Brigade with multi-state involvement",
           "related_claims": [
-            "C-2594"
+            "C-7587"
           ],
           "related_nodes": [
             "N-3",
@@ -143,9 +143,9 @@
           "ref": "A-1907.1",
           "description": "Audio clip of Governor Spencer Cox's press conference describing the apprehension of Tyler Robinson",
           "related_claims": [
-            "C-2595",
-            "C-2596",
-            "C-2597"
+            "C-7654",
+            "C-7655",
+            "C-7656"
           ],
           "related_nodes": [
             "N-1",
@@ -174,9 +174,9 @@
           "ref": "A-1908.1",
           "description": "Sheriff Brooksby's first press conference clip describing the phone call he received about Tyler Robinson on September 11th",
           "related_claims": [
-            "C-2598",
-            "C-2599",
-            "C-2600"
+            "C-7638",
+            "C-7639",
+            "C-7640"
           ],
           "related_nodes": [
             "N-10566"
@@ -194,8 +194,8 @@
           "ref": "A-1908.2",
           "description": "Sheriff Brooksby's second press conference clip describing how Tyler Robinson and his parents were driven to the Sheriff's office",
           "related_claims": [
-            "C-2601",
-            "C-2602"
+            "C-7661",
+            "C-7663"
           ],
           "related_nodes": [
             "N-10566"
@@ -221,8 +221,8 @@
           "ref": "A-1909.1",
           "description": "New York Times article quoting Erika Kirk about her experience on the plane when she learned of Charlie Kirk's death",
           "related_claims": [
-            "C-2603",
-            "C-2604"
+            "C-7669",
+            "C-7670"
           ],
           "related_nodes": [
             "N-2"
@@ -248,10 +248,10 @@
           "ref": "A-1910.1",
           "description": "Host narration of Washington County Sheriff Nate Brooksby's resignation, citing a Washington County Commission statement",
           "related_claims": [
-            "C-2605",
-            "C-2606",
-            "C-2607",
-            "C-2608"
+            "C-7618",
+            "C-7619",
+            "C-7623",
+            "C-7620"
           ],
           "related_nodes": [],
           "tags": [],
@@ -299,8 +299,8 @@
           "ref": "A-3324.1",
           "description": "Audio clip played by the host of speakers repeating '33' (minutes before the shooting, 33-hour manhunt, 33 hours of progress)",
           "related_claims": [
-            "C-14453",
-            "C-14454"
+            "C-7560",
+            "C-7561"
           ],
           "related_nodes": [
             "N-1"
@@ -329,11 +329,11 @@
         "A-1907.1"
       ],
       "related_claims": [
-        "C-2589",
-        "C-2590",
-        "C-2591",
-        "C-2594",
-        "C-2603"
+        "C-7592",
+        "C-7593",
+        "C-7598",
+        "C-7587",
+        "C-7669"
       ],
       "tags": [],
       "evidence_count": 4,
@@ -356,11 +356,11 @@
         "A-1911.1"
       ],
       "related_claims": [
-        "C-2589",
-        "C-2590",
-        "C-2591",
-        "C-2603",
-        "C-2604"
+        "C-7592",
+        "C-7593",
+        "C-7598",
+        "C-7669",
+        "C-7670"
       ],
       "tags": [],
       "evidence_count": 5,
@@ -374,15 +374,15 @@
       "ref": "N-10566",
       "name": "Tyler Robinson Confession Narrative Discrepancy",
       "type": "investigation_target",
-      "description": "Persistent inconsistency between Governor Cox's claim (A-1907.1, C-2597) that Robinson \"confessed or implied\" guilt and Sheriff Brooksby's account (A-1908.2) which contains no reference to any confession. The host further asserts no signed confession statement was produced.",
+      "description": "Persistent inconsistency between Governor Cox's claim (A-1907.1, C-7656) that Robinson \"confessed or implied\" guilt and Sheriff Brooksby's account (A-1908.2) which contains no reference to any confession. The host further asserts no signed confession statement was produced.",
       "related_artifacts": [
         "A-1907.1",
         "A-1908.1",
         "A-1908.2"
       ],
       "related_claims": [
-        "C-2597",
-        "C-2602"
+        "C-7656",
+        "C-7663"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -402,7 +402,7 @@
         "A-1906.1"
       ],
       "related_claims": [
-        "C-2594"
+        "C-7587"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -421,14 +421,14 @@
         "A-1903.1"
       ],
       "related_claims": [
-        "C-2581",
-        "C-2582",
-        "C-2583",
-        "C-2584",
-        "C-2585",
-        "C-2586",
-        "C-2587",
-        "C-2588"
+        "C-7565",
+        "C-7566",
+        "C-7567",
+        "C-7570",
+        "C-7572",
+        "C-7573",
+        "C-7576",
+        "C-7578"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -445,99 +445,99 @@
       "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14450",
-        "C-14451",
-        "C-14452",
-        "C-14455",
-        "C-14456",
-        "C-14457",
-        "C-14458",
-        "C-14459",
-        "C-14460",
-        "C-14461",
-        "C-14462",
-        "C-14463",
-        "C-14464",
-        "C-14465",
-        "C-14466",
-        "C-14467",
-        "C-14468",
-        "C-14469",
-        "C-14470",
-        "C-14471",
-        "C-14472",
-        "C-14473",
-        "C-14474",
-        "C-14475",
-        "C-14476",
-        "C-14477",
-        "C-14478",
-        "C-14479",
-        "C-14481",
-        "C-14482",
-        "C-14483",
-        "C-14484",
-        "C-14485",
-        "C-14486",
-        "C-14487",
-        "C-14488",
-        "C-14489",
-        "C-14490",
-        "C-14491",
-        "C-14492",
-        "C-14493",
-        "C-14494",
-        "C-14495",
-        "C-14496",
-        "C-14498",
-        "C-14499",
-        "C-14500",
-        "C-14501",
-        "C-14502",
-        "C-14503",
-        "C-14504",
-        "C-14505",
-        "C-14506",
-        "C-14507",
-        "C-14508",
-        "C-14509",
-        "C-14510",
-        "C-14511",
-        "C-14512",
-        "C-14514",
-        "C-14515",
-        "C-14516",
-        "C-14517",
-        "C-14518",
-        "C-14519",
-        "C-14520",
-        "C-14521",
-        "C-14522",
-        "C-14523",
-        "C-14524",
-        "C-14525",
-        "C-14527",
-        "C-14528",
-        "C-14529",
-        "C-14531",
-        "C-14532",
-        "C-14533",
-        "C-14534",
-        "C-14535",
-        "C-14536",
-        "C-14537",
-        "C-14538",
-        "C-14539",
-        "C-14540",
-        "C-14541",
-        "C-14542",
-        "C-14543",
-        "C-14544",
-        "C-14545",
-        "C-14546",
-        "C-14547",
-        "C-14548",
-        "C-14549"
+        "C-7557",
+        "C-7558",
+        "C-7559",
+        "C-7562",
+        "C-7563",
+        "C-7564",
+        "C-7568",
+        "C-7569",
+        "C-7571",
+        "C-7574",
+        "C-7575",
+        "C-7577",
+        "C-7579",
+        "C-7580",
+        "C-7581",
+        "C-7582",
+        "C-7583",
+        "C-7584",
+        "C-7585",
+        "C-7586",
+        "C-7588",
+        "C-7589",
+        "C-7590",
+        "C-7591",
+        "C-7594",
+        "C-7595",
+        "C-7596",
+        "C-7597",
+        "C-7602",
+        "C-7603",
+        "C-7604",
+        "C-7605",
+        "C-7606",
+        "C-7607",
+        "C-7608",
+        "C-7609",
+        "C-7610",
+        "C-7611",
+        "C-7612",
+        "C-7613",
+        "C-7614",
+        "C-7615",
+        "C-7616",
+        "C-7617",
+        "C-7622",
+        "C-7624",
+        "C-7625",
+        "C-7626",
+        "C-7627",
+        "C-7628",
+        "C-7629",
+        "C-7630",
+        "C-7631",
+        "C-7632",
+        "C-7633",
+        "C-7634",
+        "C-7635",
+        "C-7636",
+        "C-7637",
+        "C-7642",
+        "C-7643",
+        "C-7644",
+        "C-7645",
+        "C-7646",
+        "C-7647",
+        "C-7648",
+        "C-7649",
+        "C-7650",
+        "C-7651",
+        "C-7652",
+        "C-7653",
+        "C-7658",
+        "C-7659",
+        "C-7660",
+        "C-7664",
+        "C-7665",
+        "C-7666",
+        "C-7667",
+        "C-7668",
+        "C-7671",
+        "C-7672",
+        "C-7673",
+        "C-7674",
+        "C-7675",
+        "C-7676",
+        "C-7677",
+        "C-7678",
+        "C-7679",
+        "C-7680",
+        "C-7681",
+        "C-7682",
+        "C-7683",
+        "C-7684"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -555,9 +555,9 @@
       "description": "Comments revisit CPR narratives vs unnamed fire captain.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14467",
-        "C-14479",
-        "C-14480"
+        "C-7582",
+        "C-7597",
+        "C-7599"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -575,26 +575,26 @@
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14455",
-        "C-14497",
-        "C-14500",
-        "C-14501",
-        "C-14502",
-        "C-14503",
-        "C-14504",
-        "C-14505",
-        "C-14510",
-        "C-14512",
-        "C-14514",
-        "C-14516",
-        "C-14517",
-        "C-14518",
-        "C-14519",
-        "C-14520",
-        "C-14524",
-        "C-14525",
-        "C-14527",
-        "C-14530"
+        "C-7562",
+        "C-7621",
+        "C-7625",
+        "C-7626",
+        "C-7627",
+        "C-7628",
+        "C-7629",
+        "C-7630",
+        "C-7635",
+        "C-7637",
+        "C-7642",
+        "C-7644",
+        "C-7645",
+        "C-7646",
+        "C-7647",
+        "C-7648",
+        "C-7652",
+        "C-7653",
+        "C-7658",
+        "C-7662"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -612,7 +612,7 @@
       "description": "TPUSA figure identified by the host as the person who tapped the donor's shoulder in church and invited her to sit with Erica. Host states Sheridan's role is donor intelligence (\"smelling money\").",
       "related_artifacts": [],
       "related_claims": [
-        "C-14482"
+        "C-7603"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -630,15 +630,15 @@
       "description": "Washington County Sheriff who held the September 17, 2025 press conference at which he stated \"Our job was not to interview. Our job was just to get him here\" and that \"my friend drove Tyler and his parents to my office where he was greeted by plain clothes detectives.\"",
       "related_artifacts": [],
       "related_claims": [
-        "C-14497",
-        "C-14498",
-        "C-14499",
-        "C-14512",
-        "C-14513",
-        "C-14514",
-        "C-14527",
-        "C-14528",
-        "C-14530"
+        "C-7621",
+        "C-7622",
+        "C-7624",
+        "C-7637",
+        "C-7641",
+        "C-7642",
+        "C-7658",
+        "C-7659",
+        "C-7662"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -656,8 +656,8 @@
       "description": "Named among fall-2025 public appearances in the host’s wardrobe catalog rebutting “only thing that fit.”",
       "related_artifacts": [],
       "related_claims": [
-        "C-14475",
-        "C-14476"
+        "C-7591",
+        "C-7594"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -675,12 +675,12 @@
       "description": "Spencer Cox (wave3 orphan mint).",
       "related_artifacts": [],
       "related_claims": [
-        "C-14524",
-        "C-14525",
-        "C-14526",
-        "C-2595",
-        "C-2596",
-        "C-2597"
+        "C-7652",
+        "C-7653",
+        "C-7657",
+        "C-7654",
+        "C-7655",
+        "C-7656"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -697,8 +697,8 @@
       "description": "First named by the host at 00:10:32 in episode 85.",
       "related_artifacts": [],
       "related_claims": [
-        "C-2587",
-        "C-2588"
+        "C-7576",
+        "C-7578"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -715,8 +715,8 @@
       "description": "First named by the host at 00:10:32 in episode 85.",
       "related_artifacts": [],
       "related_claims": [
-        "C-2587",
-        "C-2588"
+        "C-7576",
+        "C-7578"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -733,8 +733,8 @@
       "description": "First named by the host at 00:10:32 in episode 85.",
       "related_artifacts": [],
       "related_claims": [
-        "C-2587",
-        "C-2588"
+        "C-7576",
+        "C-7578"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -751,8 +751,8 @@
       "description": "Donald Trump; named in the Gaza and Iran boots-on-the-ground claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14465",
-        "C-14496"
+        "C-7580",
+        "C-7617"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -769,7 +769,7 @@
       "description": "Jeffrey Epstein; named in the Hamptons summit claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14486"
+        "C-7607"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -786,9 +786,9 @@
       "description": "Andrew Kolvet; named in the host's lay-low account and the House Inhabit claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14470",
-        "C-14542",
-        "C-14544"
+        "C-7585",
+        "C-7677",
+        "C-7679"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -805,7 +805,7 @@
       "description": "Justin Streiff; the host says he told her he arranged all the planes.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14481"
+        "C-7602"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -822,7 +822,7 @@
       "description": "Rob McCoy; named among the 'McCoys' with military ties.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14467"
+        "C-7582"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -839,8 +839,8 @@
       "description": "Tucker Carlson; the Tuckergate remarks about Ackman and the host's call to him on September 10.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14484",
-        "C-14544"
+        "C-7605",
+        "C-7679"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -857,8 +857,8 @@
       "description": "The host's husband; named in the AI-image and Stand With Candace cup remarks.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14543",
-        "C-14545"
+        "C-7678",
+        "C-7680"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -875,8 +875,8 @@
       "description": "Benjamin Netanyahu; named in the Iran-war and boots-on-the-ground claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14466",
-        "C-14496"
+        "C-7581",
+        "C-7617"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -893,8 +893,8 @@
       "description": "Bill Ackman; subject of Tuckergate and the Hamptons summit.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14484",
-        "C-14486"
+        "C-7605",
+        "C-7607"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -911,7 +911,7 @@
       "description": "Dave Smith; named in the Hammer debate.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14485"
+        "C-7606"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -928,7 +928,7 @@
       "description": "Josh Hammer; the July 14 episode guest.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14485"
+        "C-7606"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -945,11 +945,11 @@
       "description": "Kash Patel; the host cites his use of 33 and alleged delaying of the investigation.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14468",
-        "C-14521",
-        "C-14522",
-        "C-14523",
-        "C-14525"
+        "C-7583",
+        "C-7649",
+        "C-7650",
+        "C-7651",
+        "C-7653"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -966,9 +966,9 @@
       "description": "Brigitte Macron; the rumor and open-case claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14461",
-        "C-14462",
-        "C-14473"
+        "C-7574",
+        "C-7575",
+        "C-7589"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -985,7 +985,7 @@
       "description": "Alex Clark; the host relays her plane remark.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14535"
+        "C-7668"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1002,15 +1002,15 @@
       "description": "Mike Mitchell; the family friend in the surrender account.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14502",
-        "C-14503",
-        "C-14504",
-        "C-14512",
-        "C-14514",
-        "C-14515",
-        "C-14516",
-        "C-14528",
-        "C-14529"
+        "C-7627",
+        "C-7628",
+        "C-7629",
+        "C-7637",
+        "C-7642",
+        "C-7643",
+        "C-7644",
+        "C-7659",
+        "C-7660"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1027,7 +1027,7 @@
       "description": "Jared Kushner; named in the Gaza real estate claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14465"
+        "C-7580"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1044,11 +1044,11 @@
       "description": "Mikey McCoy (transcribed 'Mikey' and 'Mikey McCoy'); the plane and assistant claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14467",
-        "C-14480",
-        "C-14481",
-        "C-14488",
-        "C-14493"
+        "C-7582",
+        "C-7599",
+        "C-7602",
+        "C-7609",
+        "C-7614"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1065,9 +1065,9 @@
       "description": "Joe Kent; named in the Patel investigation and resignation claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14522",
-        "C-14523",
-        "C-14537"
+        "C-7650",
+        "C-7651",
+        "C-7672"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1084,8 +1084,8 @@
       "description": "Alexis Wilkins; named in the Russian-agent and Freemason-family claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14540",
-        "C-14541"
+        "C-7675",
+        "C-7676"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1102,7 +1102,7 @@
       "description": "Milo Yiannopoulos; named in the AI-image claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14543"
+        "C-7678"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1119,8 +1119,8 @@
       "description": "Derek Niekerk; the host calls him Erika's personal security guard.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14493",
-        "C-14494"
+        "C-7614",
+        "C-7615"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1137,8 +1137,8 @@
       "description": "Lindsey Graham; the Disney World claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14532",
-        "C-14533"
+        "C-7665",
+        "C-7666"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1155,10 +1155,10 @@
       "description": "Katherine LoCastro (transcribed LaCastro); with Erika on July 14 and when she learned of the death.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14482",
-        "C-14487",
-        "C-14488",
-        "C-14493"
+        "C-7603",
+        "C-7608",
+        "C-7609",
+        "C-7614"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1175,7 +1175,7 @@
       "description": "Scott Bessent; named in the host's letters remark.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14511"
+        "C-7636"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1192,8 +1192,8 @@
       "description": "Jessica Reed Kraus (House Inhabit); named in the Kolvet and AI-image claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14542",
-        "C-14543"
+        "C-7677",
+        "C-7678"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1210,13 +1210,13 @@
       "description": "Jonathan Barcelo (node spelled Barcelo); the Long Beach trip and background claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14487",
-        "C-14489",
-        "C-14490",
-        "C-14491",
-        "C-14492",
-        "C-14493",
-        "C-14494"
+        "C-7608",
+        "C-7610",
+        "C-7611",
+        "C-7612",
+        "C-7613",
+        "C-7614",
+        "C-7615"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1233,11 +1233,11 @@
       "description": "Matt Robinson, Tyler Robinson's father.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14517",
-        "C-14518",
-        "C-14527",
-        "C-14528",
-        "C-14529"
+        "C-7645",
+        "C-7646",
+        "C-7658",
+        "C-7659",
+        "C-7660"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1254,9 +1254,9 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14492",
-        "C-14511",
-        "C-14523"
+        "C-7613",
+        "C-7636",
+        "C-7651"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1273,8 +1273,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14532",
-        "C-14533"
+        "C-7665",
+        "C-7666"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1291,8 +1291,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14479",
-        "C-14526"
+        "C-7597",
+        "C-7657"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1309,8 +1309,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14461",
-        "C-14462"
+        "C-7574",
+        "C-7575"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1327,13 +1327,13 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14500",
-        "C-14501",
-        "C-14502",
-        "C-14504",
-        "C-14512",
-        "C-14525",
-        "C-14527"
+        "C-7625",
+        "C-7626",
+        "C-7627",
+        "C-7629",
+        "C-7637",
+        "C-7653",
+        "C-7658"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1350,12 +1350,12 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14500",
-        "C-14517",
-        "C-14518",
-        "C-14520",
-        "C-14528",
-        "C-14529"
+        "C-7625",
+        "C-7645",
+        "C-7646",
+        "C-7648",
+        "C-7659",
+        "C-7660"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1372,9 +1372,9 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14453",
-        "C-14454",
-        "C-14544"
+        "C-7560",
+        "C-7561",
+        "C-7679"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1391,7 +1391,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14486"
+        "C-7607"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1408,9 +1408,9 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14497",
-        "C-14498",
-        "C-14513"
+        "C-7621",
+        "C-7622",
+        "C-7641"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1427,8 +1427,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14474",
-        "C-14509"
+        "C-7590",
+        "C-7634"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1445,7 +1445,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14465"
+        "C-7580"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1462,7 +1462,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14510"
+        "C-7635"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1479,8 +1479,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14548",
-        "C-14549"
+        "C-7683",
+        "C-7684"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1497,7 +1497,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14537"
+        "C-7672"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1514,10 +1514,10 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14502",
-        "C-14503",
-        "C-14516",
-        "C-14529"
+        "C-7627",
+        "C-7628",
+        "C-7644",
+        "C-7660"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1534,7 +1534,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14514"
+        "C-7642"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1551,7 +1551,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14515"
+        "C-7643"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1568,7 +1568,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14519"
+        "C-7647"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1585,8 +1585,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14468",
-        "C-14521"
+        "C-7583",
+        "C-7649"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1603,9 +1603,9 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14476",
-        "C-14477",
-        "C-14478"
+        "C-7594",
+        "C-7595",
+        "C-7596"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1622,7 +1622,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14505"
+        "C-7630"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1639,7 +1639,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14481"
+        "C-7602"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1656,7 +1656,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14459"
+        "C-7569"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1673,11 +1673,11 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14450",
-        "C-14451",
-        "C-14456",
-        "C-14460",
-        "C-14461"
+        "C-7557",
+        "C-7558",
+        "C-7563",
+        "C-7571",
+        "C-7574"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1694,7 +1694,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14480"
+        "C-7599"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1711,7 +1711,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14475"
+        "C-7591"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1728,8 +1728,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14522",
-        "C-14523"
+        "C-7650",
+        "C-7651"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1746,7 +1746,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14506"
+        "C-7631"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1763,8 +1763,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14467",
-        "C-14492"
+        "C-7582",
+        "C-7613"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1781,8 +1781,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14534",
-        "C-14535"
+        "C-7667",
+        "C-7668"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1799,8 +1799,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14484",
-        "C-14486"
+        "C-7605",
+        "C-7607"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1817,7 +1817,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14482"
+        "C-7603"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1834,8 +1834,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14466",
-        "C-14469"
+        "C-7581",
+        "C-7584"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1852,7 +1852,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14496"
+        "C-7617"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1869,7 +1869,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14537"
+        "C-7672"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1886,7 +1886,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14540"
+        "C-7675"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1903,14 +1903,14 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14483",
-        "C-14487",
-        "C-14488",
-        "C-14489",
-        "C-14490",
-        "C-14491",
-        "C-14493",
-        "C-14494"
+        "C-7604",
+        "C-7608",
+        "C-7609",
+        "C-7610",
+        "C-7611",
+        "C-7612",
+        "C-7614",
+        "C-7615"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1927,8 +1927,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14538",
-        "C-14539"
+        "C-7673",
+        "C-7674"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1945,7 +1945,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14539"
+        "C-7674"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1962,8 +1962,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14546",
-        "C-14547"
+        "C-7681",
+        "C-7682"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1980,8 +1980,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14542",
-        "C-14543"
+        "C-7677",
+        "C-7678"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1998,7 +1998,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14473"
+        "C-7589"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2015,11 +2015,11 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14506",
-        "C-14507",
-        "C-14508",
-        "C-14538",
-        "C-14539"
+        "C-7631",
+        "C-7632",
+        "C-7633",
+        "C-7673",
+        "C-7674"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2036,9 +2036,9 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14483",
-        "C-14485",
-        "C-14487"
+        "C-7604",
+        "C-7606",
+        "C-7608"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2055,9 +2055,9 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14466",
-        "C-14469",
-        "C-14495"
+        "C-7581",
+        "C-7584",
+        "C-7616"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2074,14 +2074,14 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14451",
-        "C-14452",
-        "C-14455",
-        "C-14456",
-        "C-14457",
-        "C-14531",
-        "C-14536",
-        "C-14541"
+        "C-7558",
+        "C-7559",
+        "C-7562",
+        "C-7563",
+        "C-7564",
+        "C-7664",
+        "C-7671",
+        "C-7676"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2098,8 +2098,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14548",
-        "C-14549"
+        "C-7683",
+        "C-7684"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2116,8 +2116,8 @@
       "description": "Sudden resignation of Washington County Sheriff Nate Brooksby on a Friday, with an interim sheriff appointed, his name removed from official pages, and the host speculating about a link to the Robinson case.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14498",
-        "C-14499"
+        "C-7622",
+        "C-7624"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2134,7 +2134,7 @@
       "description": "First named in this episode, where the host says Kash Patel's 'we got him' announcement was about 'the Qureshi person' (intro moved from ep87, 2026-10-17). Aliases: Zachariah Qureshi.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14521"
+        "C-7649"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2146,8 +2146,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-2581",
-      "ref": "C-2581",
+      "@id": "C-7565",
+      "ref": "C-7565",
       "label": "Trial of 22 defendants in France centered on Athanor Masonic lodge",
       "claim": "A Guardian article reports that 22 people are on trial in France on charges of murder and other serious crimes centered on a Masonic lodge (the Athanor lodge) in the Paris suburb of Puteaux.",
       "anchored_artifacts": [
@@ -2163,8 +2163,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2582",
-      "ref": "C-2582",
+      "@id": "C-7566",
+      "ref": "C-7566",
       "label": "Lodge accused of running hit squads",
       "claim": "Per a Guardian article the host reads aloud, prosecutors allege the Athanor lodge group carried out murder, attempted murder, aggravated assault, and criminal conspiracy on behalf of a mafia network inside the lodge.",
       "anchored_artifacts": [
@@ -2180,8 +2180,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2583",
-      "ref": "C-2583",
+      "@id": "C-7567",
+      "ref": "C-7567",
       "label": "Per Article Host Reads, Four DGSE Officers Among Defendants",
       "claim": "Per a Guardian article the host reads aloud, four officers from France's DGSE foreign intelligence service are among the 22 defendants.",
       "anchored_artifacts": [
@@ -2197,8 +2197,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2584",
-      "ref": "C-2584",
+      "@id": "C-7570",
+      "ref": "C-7570",
       "label": "Per Article Host Reads, Failed July 2020 Contract Killing Targeted Marie-Hélène Dini",
       "claim": "Per a Guardian article the host reads aloud, the case was triggered by a failed contract killing in July 2020, when two members of France's parachute regiment were arrested in possession of weapons near the home of business coach Marie-Hélène Dini.",
       "anchored_artifacts": [
@@ -2214,8 +2214,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2585",
-      "ref": "C-2585",
+      "@id": "C-7572",
+      "ref": "C-7572",
       "label": "Hitmen claimed to be acting on behalf of the French state",
       "claim": "Per a Guardian article the host reads aloud, the hitmen told investigators they believed they had been asked to murder Dini on behalf of the French state.",
       "anchored_artifacts": [
@@ -2231,8 +2231,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2586",
-      "ref": "C-2586",
+      "@id": "C-7573",
+      "ref": "C-7573",
       "label": "Hitmen stated Dini worked for Mossad",
       "claim": "Per a Guardian article the host reads aloud, the hitmen stated they were targeting Dini on the grounds that she worked for the Israeli spy agency, the Mossad.",
       "anchored_artifacts": [
@@ -2248,8 +2248,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2587",
-      "ref": "C-2587",
+      "@id": "C-7576",
+      "ref": "C-7576",
       "label": "Jean-Luc Bagur, Frédéric Vaglio, and Daniel Beaulieu Identified as Principal Conspirators",
       "claim": "The host says Jean-Luc Bagur was a ringleader of the alleged conspiracy, alongside fellow Freemasons Frédéric Vaglio and Daniel Beaulieu.",
       "anchored_artifacts": [
@@ -2269,8 +2269,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2588",
-      "ref": "C-2588",
+      "@id": "C-7578",
+      "ref": "C-7578",
       "label": "Daniel Beaulieu Attempted Suicide in Prison",
       "claim": "The host says Daniel Beaulieu, a retired intelligence officer, had an apparent suicide attempt while in prison, and that he is now impaired and will not be able to testify.",
       "anchored_artifacts": [
@@ -2288,8 +2288,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2589",
-      "ref": "C-2589",
+      "@id": "C-7592",
+      "ref": "C-7592",
       "label": "Erika Kirk affirmed belief that Tyler Robinson murdered Charlie Kirk",
       "claim": "In a clip the host plays of an interview with Bari Weiss, Erika Kirk says \"Yes, I do\" in response to the question of whether she believes Tyler Robinson murdered her husband.",
       "anchored_artifacts": [
@@ -2308,8 +2308,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2590",
-      "ref": "C-2590",
+      "@id": "C-7593",
+      "ref": "C-7593",
       "label": "Erika Kirk claimed to have seen the autopsy report",
       "claim": "Erika Kirk stated she had seen the autopsy report and had been in constant contact with her lawyers and the prosecuting team.",
       "anchored_artifacts": [
@@ -2325,8 +2325,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2591",
-      "ref": "C-2591",
+      "@id": "C-7598",
+      "ref": "C-7598",
       "label": "Frank Turek described Erika being told of Charlie's death",
       "claim": "In a clip the host plays, Frank Turek says they were all standing in the hall when a doctor came out and said Charlie Kirk was dead, and that he then said \"I need to talk to Erika.\"",
       "anchored_artifacts": [
@@ -2344,8 +2344,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2592",
-      "ref": "C-2592",
+      "@id": "C-7600",
+      "ref": "C-7600",
       "label": "Stacy Sheridan and Katherine Locastro identified as with Erika",
       "claim": "Frank Turek stated that Stacy Sheridan and Katherine Locastro were with Erika Kirk when she was informed of Charlie Kirk's death.",
       "anchored_artifacts": [
@@ -2365,8 +2365,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2593",
-      "ref": "C-2593",
+      "@id": "C-7601",
+      "ref": "C-7601",
       "label": "Frank Turek stated Mikey arranged to retrieve Erika",
       "claim": "Frank Turek stated Mikey was on the phone arranging a plane to retrieve Erika.",
       "anchored_artifacts": [
@@ -2384,8 +2384,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2594",
-      "ref": "C-2594",
+      "@id": "C-7587",
+      "ref": "C-7587",
       "label": "Candace Owens' November tweet asserted French Legion training and multi-state involvement",
       "claim": "In a November tweet the host shows, Candace Owens stated she had a source inside the French government who told her the French intervention group was involved in the assassination, and that Charlie Kirk's assassin trained with the French Legion 13th Brigade with multi-state involvement.",
       "anchored_artifacts": [
@@ -2404,8 +2404,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2595",
-      "ref": "C-2595",
+      "@id": "C-7654",
+      "ref": "C-7654",
       "label": "Governor Cox stated family member contacted family friend",
       "claim": "Governor Cox stated that on the evening of September 11th, a family member of Tyler Robinson reached out to a family friend.",
       "anchored_artifacts": [
@@ -2424,8 +2424,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2596",
-      "ref": "C-2596",
+      "@id": "C-7655",
+      "ref": "C-7655",
       "label": "Governor Cox stated family friend contacted Washington County Sheriff's Office",
       "claim": "Governor Cox stated the family friend contacted the Washington County Sheriff's Office with information about Robinson.",
       "anchored_artifacts": [
@@ -2444,8 +2444,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2597",
-      "ref": "C-2597",
+      "@id": "C-7656",
+      "ref": "C-7656",
       "label": "Governor Cox stated Robinson \"confessed or implied\"",
       "claim": "Governor Cox stated that Robinson had \"confessed to them or implied that he had committed the incident.\"",
       "anchored_artifacts": [
@@ -2464,8 +2464,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2598",
-      "ref": "C-2598",
+      "@id": "C-7638",
+      "ref": "C-7638",
       "label": "Brooksby received call from retired detective friend at 8:02 PM",
       "claim": "Sheriff Brooksby stated that at 8:02 PM on September 11th he received a call from a friend who was a retired detective; court documents refer to this individual as a \"retired Washington County deputy.\"",
       "anchored_artifacts": [
@@ -2483,8 +2483,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2599",
-      "ref": "C-2599",
+      "@id": "C-7639",
+      "ref": "C-7639",
       "label": "Brooksby told Robinson had suicidal ideations",
       "claim": "Sheriff Brooksby stated he was told that Tyler Robinson had potential suicidal ideations and was en route to a remote area in Washington County.",
       "anchored_artifacts": [
@@ -2503,8 +2503,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2600",
-      "ref": "C-2600",
+      "@id": "C-7640",
+      "ref": "C-7640",
       "label": "Robinson's parents convinced him not to go to remote area",
       "claim": "Sheriff Brooksby stated Robinson's parents convinced him not to go to the remote area and conveyed they would help him surrender peacefully.",
       "anchored_artifacts": [
@@ -2523,8 +2523,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2601",
-      "ref": "C-2601",
+      "@id": "C-7661",
+      "ref": "C-7661",
       "label": "Friend drove Robinson and parents to Sheriff's office",
       "claim": "Sheriff Brooksby stated that within the hour, his friend drove Tyler Robinson and his parents to Brooksby's office, where Robinson was greeted by plainclothes detectives.",
       "anchored_artifacts": [
@@ -2543,8 +2543,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2602",
-      "ref": "C-2602",
+      "@id": "C-7663",
+      "ref": "C-7663",
       "label": "Brooksby stated Robinson feared SWAT team or being shot",
       "claim": "Sheriff Brooksby stated Tyler Robinson was fearful of a SWAT team hit on his house and fearful of being shot by law enforcement, which was part of the negotiation to bring him in.",
       "anchored_artifacts": [
@@ -2555,7 +2555,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:42:54",
-      "investigative_direction": "Compare with Cox's framing of an outright confession (C-2597).",
+      "investigative_direction": "Compare with Cox's framing of an outright confession (C-7656).",
       "mentions_person_refs": [
         "N-40",
         "N-272"
@@ -2563,8 +2563,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2603",
-      "ref": "C-2603",
+      "@id": "C-7669",
+      "ref": "C-7669",
       "label": "Erika Kirk was on plane when Charlie was pronounced dead",
       "claim": "A New York Times article reports that Mr. Kirk's chartered plane traveled back to Scottsdale to ferry his wife to Provo, and that he was pronounced dead as she was airborne.",
       "anchored_artifacts": [
@@ -2581,8 +2581,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2604",
-      "ref": "C-2604",
+      "@id": "C-7670",
+      "ref": "C-7670",
       "label": "Erika Kirk described the day as \"gorgeous\"",
       "claim": "Erika Kirk told the New York Times that during the flight she was looking at \"the clouds and the mountains,\" called the day \"gorgeous,\" and stated she was thinking it was \"exactly what he last saw.\"",
       "anchored_artifacts": [
@@ -2598,8 +2598,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2605",
-      "ref": "C-2605",
+      "@id": "C-7618",
+      "ref": "C-7618",
       "label": "Host Says Sheriff Brooksby Resigned from Washington County Sheriff's Office",
       "claim": "The host says Sheriff Nate Brooksby resigned from the Washington County Sheriff's Office.",
       "anchored_artifacts": [
@@ -2615,8 +2615,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2606",
-      "ref": "C-2606",
+      "@id": "C-7619",
+      "ref": "C-7619",
       "label": "Brooksby resignation occurred on a Friday",
       "claim": "The host states Brooksby's resignation occurred on a Friday and that no public statement was given.",
       "anchored_artifacts": [
@@ -2632,8 +2632,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2607",
-      "ref": "C-2607",
+      "@id": "C-7623",
+      "ref": "C-7623",
       "label": "Host Says Commission Statement Noted Brooksby Served 30+ Years in Law Enforcement",
       "claim": "The host says a statement released by the Washington County Commission noted that Sheriff Brooksby had served in law enforcement for more than 30 years.",
       "anchored_artifacts": [
@@ -2649,8 +2649,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2608",
-      "ref": "C-2608",
+      "@id": "C-7620",
+      "ref": "C-7620",
       "label": "Host Says Brooksby's Name Was Removed from Sheriff's Office Website",
       "claim": "The host says that over the weekend following the resignation, Brooksby's name was quietly removed from the Sheriff's Office website and social media pages.",
       "anchored_artifacts": [
@@ -2666,8 +2666,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14450",
-      "ref": "C-14450",
+      "@id": "C-7557",
+      "ref": "C-7557",
       "label": "Host Says She Told Listeners in November That France and the DGSE Were Involved",
       "claim": "The host says that back in November she told listeners France was involved in Charlie Kirk's assassination, specifically its intelligence agency, the DGSE.",
       "anchored_artifacts": [],
@@ -2682,7 +2682,7 @@
       "investigative_direction": "Locate the November 2025 posts and episodes where the host first made the DGSE claim and compare the wording with this restatement; ask French authorities whether DGSE personnel were abroad on September 10, 2025.",
       "transcript_snippet": "back in November, I was telling you guys that France was in fact involved in Charlie Kirk's assassination, specifically that their intelligence agency, also known as DGSE, was involved.",
       "supports_claim_refs": [
-        "C-2594"
+        "C-7587"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2691,8 +2691,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14451",
-      "ref": "C-14451",
+      "@id": "C-7558",
+      "ref": "C-7558",
       "label": "Host Says the 33 References Were Freemasonry Signaling",
       "claim": "The host says the whole '33' theme around the assassination was not subtle and was Freemasonry, and that she had said so earlier.",
       "anchored_artifacts": [],
@@ -2712,8 +2712,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14452",
-      "ref": "C-14452",
+      "@id": "C-7559",
+      "ref": "C-7559",
       "label": "Host Says America Was Founded by Warring Factions of Freemasons Seeking a New Atlantis",
       "claim": "The host says America was founded by warring factions of Freemasons who pursued the country in the hope of establishing a new Atlantis removed from their battles with the Catholic Empire.",
       "anchored_artifacts": [],
@@ -2732,8 +2732,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14453",
-      "ref": "C-14453",
+      "@id": "C-7560",
+      "ref": "C-7560",
       "label": "Clip Played: Speaker Says a Message Came About 33 Minutes Before Kirk Was Killed",
       "claim": "In a clip montage the host plays, one speaker says something happened about 33 minutes before Charlie Kirk was killed, and a speaker says Kirk was assassinated at UVU and about a 33-hour manhunt followed.",
       "anchored_artifacts": [
@@ -2754,8 +2754,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14454",
-      "ref": "C-14454",
+      "@id": "C-7561",
+      "ref": "C-7561",
       "label": "Clip Played: Speaker Says 33 Hours of Progress for Charlie",
       "claim": "In the clip the host plays, a speaker says that in 33 hours they made historic progress for Charlie, and another says for 33 hours he was praying that if this had to happen here it would not be one of us.",
       "anchored_artifacts": [
@@ -2776,8 +2776,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14455",
-      "ref": "C-14455",
+      "@id": "C-7562",
+      "ref": "C-7562",
       "label": "Host Says the St. George Utah Masonic Lodge Is Number 33",
       "claim": "The host says that of all Freemason lodges, which each carry a number, the one in St. George, Utah, where Tyler Robinson was brought in, is lodge number 33.",
       "anchored_artifacts": [],
@@ -2797,8 +2797,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14456",
-      "ref": "C-14456",
+      "@id": "C-7563",
+      "ref": "C-7563",
       "label": "Host Says 33 Is the Country Code for Paris",
       "claim": "The host says 33 is also the country code for Paris.",
       "anchored_artifacts": [],
@@ -2818,8 +2818,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14457",
-      "ref": "C-14457",
+      "@id": "C-7564",
+      "ref": "C-7564",
       "label": "Host Says Scottish Rite Freemasonry Originated in France After the Templars",
       "claim": "The host says Scottish Rite Freemasonry originated in France, after Jacques de Molay was hanged or burned at the stake and the Pope dissolved the group over accusations of Baal worship and sexual rites, and that members then left for Scotland.",
       "anchored_artifacts": [],
@@ -2838,8 +2838,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14458",
-      "ref": "C-14458",
+      "@id": "C-7568",
+      "ref": "C-7568",
       "label": "Host Says the Article Reports French Foreign Legion Involvement",
       "claim": "The host says the article reports that the French Foreign Legion and the military were involved in murder for hire, although the passage she has just read mentions soldiers and DGSE officers but not the Foreign Legion, and the next passage names a parachute regiment.",
       "anchored_artifacts": [
@@ -2860,8 +2860,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14459",
-      "ref": "C-14459",
+      "@id": "C-7569",
+      "ref": "C-7569",
       "label": "Host Says Parachute Regiment Members Wear Maroon Shirts in Plain Clothes",
       "claim": "The host says French parachute regiment members wear maroon berets and, when in plain clothes, wear maroon shirts, and that people can verify this online.",
       "anchored_artifacts": [],
@@ -2881,8 +2881,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14460",
-      "ref": "C-14460",
+      "@id": "C-7571",
+      "ref": "C-7571",
       "label": "Host Says She Sent Material to the FBI and White House That the French Were on the Ground",
       "claim": "The host says she sent something to the FBI and to the White House and told listeners it was real and that French forces were on the ground that day.",
       "anchored_artifacts": [],
@@ -2897,7 +2897,7 @@
       "investigative_direction": "Ask the host for the date, recipients and content of the FBI and White House submissions; check FBI tip-line and FOIA records.",
       "transcript_snippet": "I I sent something to the FBI, I sent it to the White House. I told you this was real and that they were on the ground that day.",
       "supports_claim_refs": [
-        "C-9782"
+        "C-3275"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2905,8 +2905,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14461",
-      "ref": "C-14461",
+      "@id": "C-7574",
+      "ref": "C-7574",
       "label": "Host Says There Is a Persistent Rumor That Brigitte Macron Is Mossad",
       "claim": "The host says there is a persistent rumor that Brigitte Macron is actually Mossad, and that this came from a tip she cannot state as definitive.",
       "anchored_artifacts": [],
@@ -2921,7 +2921,7 @@
       "investigative_direction": "Ask the host to identify the tip source; no public record in this episode supports the rumor, and Macron's office has denied related claims.",
       "transcript_snippet": "there is this persistent rumor that Brigitte Macron is actually Mossad.",
       "supports_claim_refs": [
-        "C-10928"
+        "C-3381"
       ],
       "mentions_person_refs": [
         "N-82",
@@ -2930,8 +2930,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14462",
-      "ref": "C-14462",
+      "@id": "C-7575",
+      "ref": "C-7575",
       "label": "Host Relays Tip That Brigitte Macron's Family Worked for Israel Over an Old Favor",
       "claim": "The host relays a tip alleging that Brigitte Macron's family, allegedly from Germany, had worked on behalf of the Nazis, that it became a big story in the 1950s which the Israeli government cleaned up, and that the family has worked for Israel since.",
       "anchored_artifacts": [],
@@ -2951,8 +2951,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14463",
-      "ref": "C-14463",
+      "@id": "C-7577",
+      "ref": "C-7577",
       "label": "Host Says Hitmen Say Daniel Beaulieu Told Them It Was on Behalf of the Government",
       "claim": "The host says the hitmen say that Daniel Beaulieu, a retired intelligence officer, told them they were carrying out the killing on behalf of the government.",
       "anchored_artifacts": [
@@ -2974,8 +2974,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14464",
-      "ref": "C-14464",
+      "@id": "C-7579",
+      "ref": "C-7579",
       "label": "Host Says the Freemason Mafia Carried Out Other Killings, Robberies and Assaults",
       "claim": "The host says the story reports that the Freemason mafia carried out other killings, robberies and assaults to protect its members and business associates over the years.",
       "anchored_artifacts": [
@@ -2996,8 +2996,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14465",
-      "ref": "C-14465",
+      "@id": "C-7580",
+      "ref": "C-7580",
       "label": "Host Says Kushner and the Trumps Are Planning Gaza Real Estate",
       "claim": "The host says Jared Kushner and the Trumps are planning to turn Gaza into a real estate empire.",
       "anchored_artifacts": [],
@@ -3018,8 +3018,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14466",
-      "ref": "C-14466",
+      "@id": "C-7581",
+      "ref": "C-7581",
       "label": "Host Says Kirk Stepped on the Toes of Netanyahu and the War-for-Profit Machine in June",
       "claim": "The host says that in June of last year Charlie Kirk stepped on the toes of Benjamin Netanyahu and the CIA's war-for-profit machine.",
       "anchored_artifacts": [],
@@ -3041,8 +3041,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14467",
-      "ref": "C-14467",
+      "@id": "C-7582",
+      "ref": "C-7582",
       "label": "Host Says Everyone Involved on September 10 Has a Military Connection",
       "claim": "The host says everyone involved on September 10 has a military connection, naming Frank Turek, the McCoys and naval intelligence.",
       "anchored_artifacts": [],
@@ -3064,8 +3064,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14468",
-      "ref": "C-14468",
+      "@id": "C-7583",
+      "ref": "C-7583",
       "label": "Host Says Kash Patel Kept Stressing the Number 33",
       "claim": "The host says it is not a coincidence that Kash Patel kept stressing the number 33.",
       "anchored_artifacts": [],
@@ -3085,8 +3085,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14469",
-      "ref": "C-14469",
+      "@id": "C-7584",
+      "ref": "C-7584",
       "label": "Host Says Charlie Kirk Was the First Casualty of the Iran War",
       "claim": "The host says she will never stop saying Charlie Kirk was the first casualty of the Iran war, and that he was betrayed.",
       "anchored_artifacts": [],
@@ -3107,8 +3107,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14470",
-      "ref": "C-14470",
+      "@id": "C-7585",
+      "ref": "C-7585",
       "label": "Host Says She Was Told to Lay Low as Kolvet Did Because Her Name Is on a List",
       "claim": "The host says that as soon as Charlie was killed she was told she had better lay low, as Andrew Kolvet did, because her name is on some list and she would be next, which she calls psychological warfare.",
       "anchored_artifacts": [],
@@ -3120,7 +3120,7 @@
       "investigative_direction": "Ask Kolvet whether he warned the host of a list; look for texts or witnesses to the exchange.",
       "transcript_snippet": "tell me uh uh as soon as Charlie gets killed that I better lay low as Andrew Kolvet did because my name is on some list, and I'm going to be next.",
       "supports_claim_refs": [
-        "C-10795"
+        "C-1185"
       ],
       "mentions_person_refs": [
         "N-14",
@@ -3129,8 +3129,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14471",
-      "ref": "C-14471",
+      "@id": "C-7586",
+      "ref": "C-7586",
       "label": "Host Says the DGSE Also Put a Hit on Her",
       "claim": "The host says she told people the DGSE in Paris was involved and had also put a hit on her.",
       "anchored_artifacts": [],
@@ -3149,8 +3149,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14472",
-      "ref": "C-14472",
+      "@id": "C-7588",
+      "ref": "C-7588",
       "label": "Host Says Nobody Official Denied Her French Involvement Claim",
       "claim": "The host says nobody official came out and denied her November claim about French involvement.",
       "anchored_artifacts": [],
@@ -3161,10 +3161,10 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:15:25",
-      "investigative_direction": "Check whether the French Ministry or Elysee commented; an earlier supplement notes a French Ministry denial about Robinson's Foreign Legion service (C-1784).",
+      "investigative_direction": "Check whether the French Ministry or Elysee commented; an earlier supplement notes a French Ministry denial about Robinson's Foreign Legion service (C-3349).",
       "transcript_snippet": "Nobody official came out and denied it.",
       "supports_claim_refs": [
-        "C-2594"
+        "C-7587"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -3172,8 +3172,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14473",
-      "ref": "C-14473",
+      "@id": "C-7589",
+      "ref": "C-7589",
       "label": "Host Says She Has an Open Case With Brigitte Macron",
       "claim": "The host says she has an open case with Brigitte Macron and argues Macron would have added her French-involvement claim to the defamation suit if it were false.",
       "anchored_artifacts": [],
@@ -3193,8 +3193,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14474",
-      "ref": "C-14474",
+      "@id": "C-7590",
+      "ref": "C-7590",
       "label": "Host Says Many Countries' Forces Were Present That Day",
       "claim": "The host says that on the day of the shooting she saw many countries involved, naming Australia and Russia.",
       "anchored_artifacts": [],
@@ -3213,8 +3213,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14475",
-      "ref": "C-14475",
+      "@id": "C-7591",
+      "ref": "C-7591",
       "label": "Host Says the Weiss Interview Was 72 Hours Before Her Own Meeting With Erika",
       "claim": "The host says Erika Kirk's sit-down with Bari Weiss took place literally 72 hours before the host sat down with Erika.",
       "anchored_artifacts": [],
@@ -3235,8 +3235,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14476",
-      "ref": "C-14476",
+      "@id": "C-7594",
+      "ref": "C-7594",
       "label": "Host Says Erika's Lawyer Confirmed They Have Nothing More Than the Public Has Seen",
       "claim": "The host says that when she sat down with Erika Kirk 72 hours later, Erika's lawyer confirmed that they have nothing more than what the public has seen, contrary to the impression Erika gave Weiss.",
       "anchored_artifacts": [],
@@ -3250,10 +3250,10 @@
       "investigative_direction": "Identify the lawyer who attended the meeting and obtain his account or notes; compare to Erika's on-air statement that she had seen the autopsy report and the case.",
       "transcript_snippet": "And then I sit down with her 72 hours later, and she tells me, and her lawyer confirms to me that they have nothing more than what the public has seen.",
       "contradicts_claim_refs": [
-        "C-2590"
+        "C-7593"
       ],
       "supports_claim_refs": [
-        "C-8551"
+        "C-7406"
       ],
       "mentions_person_refs": [
         "N-2",
@@ -3263,8 +3263,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14477",
-      "ref": "C-14477",
+      "@id": "C-7595",
+      "ref": "C-7595",
       "label": "Host Says the Lawyer Said It Was Too Early for More Evidence, With a Review Due in May",
       "claim": "The host says the lawyer explained it was not yet the right time for more evidence, that investigators were just beginning to look, and that by May Erika would see what they found.",
       "anchored_artifacts": [],
@@ -3284,8 +3284,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14478",
-      "ref": "C-14478",
+      "@id": "C-7596",
+      "ref": "C-7596",
       "label": "Host Says Erika Was Coached to Make People Think She Had Access to Evidence",
       "claim": "The host says Erika Kirk was told to say she had seen the autopsy and case so that people would believe she had access to something the public did not, and that this influenced the host's own expectations before the meeting.",
       "anchored_artifacts": [],
@@ -3305,8 +3305,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14479",
-      "ref": "C-14479",
+      "@id": "C-7597",
+      "ref": "C-7597",
       "label": "Host Says Turek Shut Down an Audience Member Who Heard the Shot From a Different Direction",
       "claim": "The host says Frank Turek recently returned to UVU, was snippy with the audience, and shut down a person who said they heard the shot come from a different direction.",
       "anchored_artifacts": [],
@@ -3326,8 +3326,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14480",
-      "ref": "C-14480",
+      "@id": "C-7599",
+      "ref": "C-7599",
       "label": "Turek Clip: Mikey Called Who Needed Calling and Asked the Doctors the Hard Questions",
       "claim": "In the Turek clip, Turek says Mikey pulled himself together, called who needed to be called, asked the doctors all the hard questions and got a plane to get Erika.",
       "anchored_artifacts": [
@@ -3350,8 +3350,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14481",
-      "ref": "C-14481",
+      "@id": "C-7602",
+      "ref": "C-7602",
       "label": "Host Says Justin Told Her He Arranged All the Planes That Day",
       "claim": "The host says Justin Streiff told her he arranged all the planes that day, so she does not know how Mikey arranged what Justin arranged or who is telling the truth.",
       "anchored_artifacts": [],
@@ -3365,7 +3365,7 @@
       "investigative_direction": "Obtain charter requests and flight-booking records for the Scottsdale-to-Provo plane to show who arranged it.",
       "transcript_snippet": "because Justin told me he arranged all the planes that day.",
       "contradicts_claim_refs": [
-        "C-2593"
+        "C-7601"
       ],
       "mentions_person_refs": [
         "N-15",
@@ -3375,8 +3375,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14482",
-      "ref": "C-14482",
+      "@id": "C-7603",
+      "ref": "C-7603",
       "label": "Host Says Erika Had No Family Called to Her Side, Only TPUSA Staff",
       "claim": "The host says Erika Kirk's husband's death was met with no call to family to rush to her side, and that she was instead with a TPUSA circle (Stacy Sheridan and Katherine Locastro).",
       "anchored_artifacts": [],
@@ -3398,8 +3398,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14483",
-      "ref": "C-14483",
+      "@id": "C-7604",
+      "ref": "C-7604",
       "label": "Host Says Kirk Had Just Flown Back From SAS and Hosted His Show the Morning of July 14",
       "claim": "The host says that on July 13 Charlie Kirk had been at the Student Action Summit, flew back, and hosted his show on the morning of July 14.",
       "anchored_artifacts": [],
@@ -3420,8 +3420,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14484",
-      "ref": "C-14484",
+      "@id": "C-7605",
+      "ref": "C-7605",
       "label": "Host Says July 13 Was Tuckergate, With Tucker Questioning Ackman's Money",
       "claim": "The host says July 13 was 'Tuckergate', when Tucker Carlson asked where Bill Ackman's money comes from and said Ackman is not impressive.",
       "anchored_artifacts": [],
@@ -3435,7 +3435,7 @@
       "investigative_direction": "Find Tucker Carlson's SAS speech video to check the Ackman remarks and their date.",
       "transcript_snippet": "He asked about where the heck Bill Ackman's money comes from. He said that Bill Ackman is not impressive.",
       "supports_claim_refs": [
-        "C-10659"
+        "C-78"
       ],
       "mentions_person_refs": [
         "N-22",
@@ -3445,8 +3445,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14485",
-      "ref": "C-14485",
+      "@id": "C-7606",
+      "ref": "C-7606",
       "label": "Host Says Kirk Had Josh Hammer on the July 14 Episode",
       "claim": "The host says that on the July 14 episode of his show Charlie Kirk had Josh Hammer on, after Dave Smith had beaten Hammer in a debate.",
       "anchored_artifacts": [],
@@ -3468,8 +3468,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14486",
-      "ref": "C-14486",
+      "@id": "C-7607",
+      "ref": "C-7607",
       "label": "Host Says Ackman Later Hosted the Hamptons Summit and Tucker Started Asking About Epstein",
       "claim": "The host says that a couple of weeks later Bill Ackman would host the notorious summit in the Hamptons, and that Tucker Carlson started asking about Epstein.",
       "anchored_artifacts": [],
@@ -3492,8 +3492,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14487",
-      "ref": "C-14487",
+      "@id": "C-7608",
+      "ref": "C-7608",
       "label": "Host Says Erika Boarded a Private Plane With Katherine Locastro on the Evening of July 14",
       "claim": "The host says that on the evening of July 14 Erika Kirk, who did not attend SAS in Florida, boarded a private plane with Katherine Locastro and Jonathan Barcelo and headed to Long Beach.",
       "anchored_artifacts": [],
@@ -3516,8 +3516,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14488",
-      "ref": "C-14488",
+      "@id": "C-7609",
+      "ref": "C-7609",
       "label": "Host Says Katherine Locastro Is Mikey McCoy's Assistant",
       "claim": "The host says Katherine Locastro is Mikey McCoy's assistant (transcribed as 'Mikey McCoy's assistant').",
       "anchored_artifacts": [],
@@ -3538,8 +3538,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14489",
-      "ref": "C-14489",
+      "@id": "C-7610",
+      "ref": "C-7610",
       "label": "Host Says Jonathan Barcelo Was a Marine Corps Embassy Security Guard From 2013 to 2017",
       "claim": "The host says Jonathan Barcelo was in the Marine Corps from 2013 until at least 2017, providing security to Marine Corps embassies around the world.",
       "anchored_artifacts": [],
@@ -3559,8 +3559,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14490",
-      "ref": "C-14490",
+      "@id": "C-7611",
+      "ref": "C-7611",
       "label": "Host Says Barcelo Was Stationed in Chile and Worked as an Attack Squadron Helicopter Technician",
       "claim": "The host says the only posting she can find for Jonathan Barcelo is Chile, and that he also worked as a helicopter technician for an attack squadron.",
       "anchored_artifacts": [],
@@ -3580,8 +3580,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14491",
-      "ref": "C-14491",
+      "@id": "C-7612",
+      "ref": "C-7612",
       "label": "Host Says Barcelo Ran a Private Investigations Firm From 2017 to 2022 and Studied Forensic Psychology at ASU",
       "claim": "The host says Barcello worked as a private investigator and ran an investigative firm from 2017 to 2022, graduating from ASU with a major in forensic psychology.",
       "anchored_artifacts": [],
@@ -3601,8 +3601,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14492",
-      "ref": "C-14492",
+      "@id": "C-7613",
+      "ref": "C-7613",
       "label": "Host Says Barcelo Joined TPUSA in Donations Operations Then Became Donor Operations Manager",
       "claim": "The host says Barcello got a job at Turning Point USA as a development operations administrator in donations, then became donor operations manager, then moved into security.",
       "anchored_artifacts": [],
@@ -3623,8 +3623,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14493",
-      "ref": "C-14493",
+      "@id": "C-7614",
+      "ref": "C-7614",
       "label": "Host Says Erika Traveled With Barcelo, Locastro and Her Personal Security Guard Derek Niekerk",
       "claim": "The host says Erika's party on July 14 included Jonathan Barcelo, Mikey McCoy's assistant and Erika's personal security guard Derek Niekerk.",
       "anchored_artifacts": [],
@@ -3648,8 +3648,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14494",
-      "ref": "C-14494",
+      "@id": "C-7615",
+      "ref": "C-7615",
       "label": "Host Says the Long Beach Party Stayed a Couple of Hours Then Returned to Scottsdale",
       "claim": "The host says the four stayed in Long Beach only a couple of hours and returned to Scottsdale, which she calls clearly a meeting of some description.",
       "anchored_artifacts": [],
@@ -3671,8 +3671,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14495",
-      "ref": "C-14495",
+      "@id": "C-7616",
+      "ref": "C-7616",
       "label": "Host Says Charlie Was Taken Out for Stepping on Toes of Those Profiting From the Iran War",
       "claim": "The host says Charlie was taken out because he stepped on the toes of very powerful people who stood to make a lot of money from the Iran war.",
       "anchored_artifacts": [],
@@ -3692,8 +3692,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14496",
-      "ref": "C-14496",
+      "@id": "C-7617",
+      "ref": "C-7617",
       "label": "Host Says Trump Is Sending Marines but the IDF Will Not Put Boots on the Ground",
       "claim": "The host says Trump is sending Marines to put boots on the ground in Iran for Netanyahu, while the IDF has said it will not put boots on the ground.",
       "anchored_artifacts": [],
@@ -3714,8 +3714,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14497",
-      "ref": "C-14497",
+      "@id": "C-7621",
+      "ref": "C-7621",
       "label": "Host Says Brooksby Was the Sheriff Who First Came Out on Robinson's Surrender",
       "claim": "The host says Sheriff Nate Brooksby initially came out, and that it was to the Washington County Sheriff's Department that Tyler Robinson allegedly turned himself in.",
       "anchored_artifacts": [],
@@ -3735,8 +3735,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14498",
-      "ref": "C-14498",
+      "@id": "C-7622",
+      "ref": "C-7622",
       "label": "Host Says an Interim Sheriff Is in Place and the Election Is Down to One Candidate",
       "claim": "The host says that after Brooksby's resignation there is an interim sheriff in place and, with the election underway, only a single candidate remains.",
       "anchored_artifacts": [],
@@ -3757,8 +3757,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14499",
-      "ref": "C-14499",
+      "@id": "C-7624",
+      "ref": "C-7624",
       "label": "Host Says Others Are Saying More Information Will Come Out on the Resignation",
       "claim": "The host says there was a lot of speculation and that some people said more information would come out about Brooksby's resignation.",
       "anchored_artifacts": [],
@@ -3778,8 +3778,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14500",
-      "ref": "C-14500",
+      "@id": "C-7625",
+      "ref": "C-7625",
       "label": "Host Says There Is No Proof Robinson's Father Handed Him In or That He Confessed",
       "claim": "The host says that the claim that Tyler Robinson's dad handed him in and that Robinson confessed is one of the biggest lies, with not a shred of proof.",
       "anchored_artifacts": [],
@@ -3794,10 +3794,10 @@
       "investigative_direction": "Request the charging documents and any signed statements; compare with the Governor's 'confessed or implied' wording and the probable-cause affidavit.",
       "transcript_snippet": "Tyler Robinson's dad handed him in that Tyler Robinson confessed to the crime and there's not a shred of proof to this.",
       "contradicts_claim_refs": [
-        "C-2597"
+        "C-7656"
       ],
       "supports_claim_refs": [
-        "C-12123"
+        "C-1481"
       ],
       "mentions_person_refs": [
         "N-40",
@@ -3806,8 +3806,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14501",
-      "ref": "C-14501",
+      "@id": "C-7626",
+      "ref": "C-7626",
       "label": "Host Says No Signed Confession or Witness Statement Has Been Presented as Evidence",
       "claim": "The host says that at any police station the first thing done is to sign a statement and that, whether Robinson's own confession or his father's witness statement, none of it has been presented as evidence.",
       "anchored_artifacts": [],
@@ -3822,7 +3822,7 @@
       "investigative_direction": "Check the probable-cause statement and docket for any recorded or signed admission, and for a statement by Robinson's father.",
       "transcript_snippet": "None of this has been presented as evidence and said, I was going Where did this idea come from that he had signaled that he was guilty?",
       "contradicts_claim_refs": [
-        "C-2597"
+        "C-7656"
       ],
       "mentions_person_refs": [
         "N-40",
@@ -3831,8 +3831,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14502",
-      "ref": "C-14502",
+      "@id": "C-7627",
+      "ref": "C-7627",
       "label": "Host Says Her Source Close to the Robinson Family Says Tyler Repeatedly Denied Guilt",
       "claim": "The host says a source very close to Tyler Robinson's family told her that Robinson repeatedly said he was not guilty and was surprised when confronted by the family friend, Mike Mitchell.",
       "anchored_artifacts": [],
@@ -3847,7 +3847,7 @@
       "investigative_direction": "Seek the source and any corroborating witnesses; compare with Brooksby's statement that Robinson had suicidal ideation and was talked down by his parents.",
       "transcript_snippet": "Tyler Robinson repeatedly said that he was not guilty, that he was surprised when he was confronted by the family friend who we know as Mike Mitchell",
       "contradicts_claim_refs": [
-        "C-2597"
+        "C-7656"
       ],
       "mentions_person_refs": [
         "N-40",
@@ -3857,8 +3857,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14503",
-      "ref": "C-14503",
+      "@id": "C-7628",
+      "ref": "C-7628",
       "label": "Host Says Mike Mitchell Is a Former Sheriff's Department Employee and Robinson's Boy Scouts Leader",
       "claim": "The host says Mike Mitchell used to work for the Sheriff's Department and that Tyler Robinson knows him as his Boy Scouts leader.",
       "anchored_artifacts": [],
@@ -3872,7 +3872,7 @@
       "investigative_direction": "Check Scouting leadership rosters and Mitchell's retirement record against the host's earlier findings.",
       "transcript_snippet": "who used to work for the Sheriff's Department, but Tyler Robinson knows him because he is uh was his Boy Scouts coach or whatever.",
       "supports_claim_refs": [
-        "C-9283"
+        "C-1106"
       ],
       "mentions_person_refs": [
         "N-125",
@@ -3882,8 +3882,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14504",
-      "ref": "C-14504",
+      "@id": "C-7629",
+      "ref": "C-7629",
       "label": "Host Says Mitchell Told Robinson His Options Were a SWAT Raid or Surrendering Peacefully",
       "claim": "The host says her source told her that Mitchell went to Robinson's house and told him they have his prints on a gun and gave two options: a SWAT team through the door with guns in the faces of him and his parents, or going in peacefully.",
       "anchored_artifacts": [],
@@ -3897,7 +3897,7 @@
       "investigative_direction": "Seek the source and any second witness to the conversation at the house; compare with Brooksby's account of the negotiation.",
       "transcript_snippet": "They're going to burst through the door, you're going to get the SWAT team, you're going to have guns to the faces of you, your mother, your father",
       "supports_claim_refs": [
-        "C-1302"
+        "C-976"
       ],
       "mentions_person_refs": [
         "N-125",
@@ -3907,8 +3907,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14505",
-      "ref": "C-14505",
+      "@id": "C-7630",
+      "ref": "C-7630",
       "label": "Host Says There Is No Footage of the Surrender and Suspects the Reason",
       "claim": "The host says that miraculously there is no footage of that day and that she thinks the stated absence of footage serves the narrative that Robinson turned himself in and that his father thought he was guilty.",
       "anchored_artifacts": [],
@@ -3922,7 +3922,7 @@
       "investigative_direction": "Request the Washington County Sheriff's Office records on surveillance and body-camera footage for the surrender, and any retention policy explanation.",
       "transcript_snippet": "And miraculously we have no footage of that day and I think the reason why they're saying there was no footage is because there's this narrative that he turned himself in",
       "supports_claim_refs": [
-        "C-8547"
+        "C-7402"
       ],
       "mentions_person_refs": [
         "N-40",
@@ -3931,8 +3931,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14506",
-      "ref": "C-14506",
+      "@id": "C-7631",
+      "ref": "C-7631",
       "label": "Host Says Her Sources Told Her the Feds Planted the Gun and the Bomb Dogs Could Not Find It",
       "claim": "The host says people intimately involved in the case told her the feds planted the gun and that the bomb dogs could not find it.",
       "anchored_artifacts": [],
@@ -3947,7 +3947,7 @@
       "investigative_direction": "Request K-9 deployment logs and chain-of-custody for the rifle; identify firsthand witnesses.",
       "transcript_snippet": "this person told me that the feds planted the gun. This person told me that the bomb dogs couldn't find it.",
       "supports_claim_refs": [
-        "C-8548"
+        "C-7403"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -3955,8 +3955,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14507",
-      "ref": "C-14507",
+      "@id": "C-7632",
+      "ref": "C-7632",
       "label": "Host Says Local Departments and SWAT Believe the Feds Lied and Sent People on a Wild Goose Chase",
       "claim": "The host says everyone in the town, the local sheriff departments and the SWAT team believe that the feds came in, started lying, sent people on wild goose chases and shifted where they said the gun was.",
       "anchored_artifacts": [],
@@ -3975,8 +3975,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14508",
-      "ref": "C-14508",
+      "@id": "C-7633",
+      "ref": "C-7633",
       "label": "Host Says the Feds Did Not Want Bomb Dogs Going Into Certain Places",
       "claim": "The host says the feds said the gun was here, then over there, that there was no gun, and that the feds did not want the bomb dogs to go into certain places.",
       "anchored_artifacts": [],
@@ -3990,7 +3990,7 @@
       "investigative_direction": "Obtain K-9 unit logs and search maps showing which areas the dogs covered.",
       "transcript_snippet": "They didn't want the bomb dogs to go into certain places.",
       "supports_claim_refs": [
-        "C-8549"
+        "C-7404"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -3998,8 +3998,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14509",
-      "ref": "C-14509",
+      "@id": "C-7634",
+      "ref": "C-7634",
       "label": "Host Says Her Credible Sources Are How She Got the Pictures Inside the Car",
       "claim": "The host says her sources are credible and that this is how she got the pictures from inside the car.",
       "anchored_artifacts": [],
@@ -4018,8 +4018,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14510",
-      "ref": "C-14510",
+      "@id": "C-7635",
+      "ref": "C-7635",
       "label": "Host Says She Is 99.9 Percent Certain Robinson Did Not Shoot Kirk From a Rooftop Alone",
       "claim": "The host says she is 99.9 percent certain that Tyler Robinson did not shoot Charlie Kirk from a rooftop by himself and that he did not act alone.",
       "anchored_artifacts": [],
@@ -4040,8 +4040,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14511",
-      "ref": "C-14511",
+      "@id": "C-7636",
+      "ref": "C-7636",
       "label": "Host Says Scott Bessent Will Publish Letters Vouching for the Group Behind Erika",
       "claim": "The host says Erika Kirk has a police force, '33' and the White House behind her, with Scott Bessent publishing letters saying they are upstanding and moral.",
       "anchored_artifacts": [],
@@ -4062,8 +4062,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14512",
-      "ref": "C-14512",
+      "@id": "C-7637",
+      "ref": "C-7637",
       "label": "Host Says Brooksby Tells the Truth About How Robinson Was Turned In",
       "claim": "The host says Sheriff Brooksby's clip says what she has said: Mike Mitchell came in, there was pressure, and Tyler Robinson agreed to go to the police station because he did not want to be shot by SWAT teams.",
       "anchored_artifacts": [],
@@ -4078,7 +4078,7 @@
       "investigative_direction": "Compare the full Brooksby press-conference transcript with the host's reading; he refers to an unnamed friend, not Mitchell, in the clips played.",
       "transcript_snippet": "Basically, that this Mike Mitchell guy came in, there was pressure and Tyler Robinson then agreed to go into the police station because he didn't want to be shot and murdered by SWAT teams.",
       "supports_claim_refs": [
-        "C-1302"
+        "C-976"
       ],
       "mentions_person_refs": [
         "N-272",
@@ -4089,8 +4089,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14513",
-      "ref": "C-14513",
+      "@id": "C-7641",
+      "ref": "C-7641",
       "label": "Brooksby Clip: Friend Said He Knew the Family Through Religious Association",
       "claim": "In the Brooksby clip, Brooksby says his friend told him he knew who Charlie Kirk's shooter was, knew the family through religious association, and that they were working on getting him to come in voluntarily.",
       "anchored_artifacts": [
@@ -4112,8 +4112,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14514",
-      "ref": "C-14514",
+      "@id": "C-7642",
+      "ref": "C-7642",
       "label": "Host Says the Suicidal-Ideation Account Contradicts Robinson Going In Out of Fear of SWAT",
       "claim": "The host says Brooksby's account of suicidal ideation flies in the face of his later statement that Robinson went in because he did not want to get shot or have a SWAT team at his house.",
       "anchored_artifacts": [
@@ -4137,8 +4137,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14515",
-      "ref": "C-14515",
+      "@id": "C-7643",
+      "ref": "C-7643",
       "label": "Host Says Mike Mitchell Appears to Have Worked Undercover on Child-Exploitation Crimes",
       "claim": "The host says the best she can tell Mike Mitchell worked undercover on child-porn-type crimes on the internet, which she calls a theme in this story.",
       "anchored_artifacts": [],
@@ -4152,7 +4152,7 @@
       "investigative_direction": "Check the 1999 Salt Lake County article and Mitchell's career record against the host's earlier findings.",
       "transcript_snippet": "The best I could tell, it seems like he was working undercover like child porn type crimes on the internet, which is kind of a theme in this story.",
       "supports_claim_refs": [
-        "C-1330"
+        "C-1108"
       ],
       "mentions_person_refs": [
         "N-125",
@@ -4161,8 +4161,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14516",
-      "ref": "C-14516",
+      "@id": "C-7644",
+      "ref": "C-7644",
       "label": "Host Speculates Mitchell Was Working With the Feds to Put This on Tyler",
       "claim": "The host speculates, saying she has no proof, that Mike Mitchell was working with the feds to get Tyler and put the crime on him.",
       "anchored_artifacts": [],
@@ -4183,8 +4183,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14517",
-      "ref": "C-14517",
+      "@id": "C-7645",
+      "ref": "C-7645",
       "label": "Host Says Robinson's Father Never Said His Son Did This",
       "claim": "The host says Robinson's father never said his son did this and that she has communicated with people who tell her so.",
       "anchored_artifacts": [],
@@ -4198,7 +4198,7 @@
       "investigative_direction": "Check any on-record statements by Matt Robinson or his lawyers and the court documents on what he told investigators.",
       "transcript_snippet": "His father, by the way, never ever ever said his son did this.",
       "supports_claim_refs": [
-        "C-12123"
+        "C-1481"
       ],
       "mentions_person_refs": [
         "N-776",
@@ -4208,8 +4208,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14518",
-      "ref": "C-14518",
+      "@id": "C-7646",
+      "ref": "C-7646",
       "label": "Host Says Robinson's Father Does Not Believe the Person on the Staircase Looks Like His Son",
       "claim": "The host says her sources tell her Robinson's father does not believe the person coming up the staircase looks like his son, and that the public agrees.",
       "anchored_artifacts": [],
@@ -4230,8 +4230,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14519",
-      "ref": "C-14519",
+      "@id": "C-7647",
+      "ref": "C-7647",
       "label": "Host Says the Staircase Person Looks More Like Robby Hild",
       "claim": "The host says the photo of the person coming up the staircase looks nothing like Tyler Robinson and actually a lot more like Robby Hild.",
       "anchored_artifacts": [],
@@ -4251,8 +4251,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14520",
-      "ref": "C-14520",
+      "@id": "C-7648",
+      "ref": "C-7648",
       "label": "Host Says the Press Narratives About Recognition Came From the Feds",
       "claim": "The host asks who came up with the narratives in the press, such as that the father recognized him in the images, and answers that it was the feds.",
       "anchored_artifacts": [],
@@ -4272,8 +4272,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14521",
-      "ref": "C-14521",
+      "@id": "C-7649",
+      "ref": "C-7649",
       "label": "Host Says Patel Announced a Suspect (the 'Qureshi' Person) That Sent Searchers on a Wild Goose Chase",
       "claim": "The host says Kash Patel announced 'we got him' about 'the Qureshi person', which made people stop looking and sent everybody on wild goose hunts, making him central to delaying everything that day.",
       "anchored_artifacts": [],
@@ -4294,8 +4294,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14522",
-      "ref": "C-14522",
+      "@id": "C-7650",
+      "ref": "C-7650",
       "label": "Host Says Joe Kent Says Patel Stopped Him From Investigating Internationally",
       "claim": "The host says Joe Kent is now telling the public that Kash Patel stopped him from investigating things internationally.",
       "anchored_artifacts": [],
@@ -4306,10 +4306,10 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:38:44",
-      "investigative_direction": "Review Kent's statements and the New York Times reporting on the Patel-Kent exchange (C-1519, C-1520).",
+      "investigative_direction": "Review Kent's statements and the New York Times reporting on the Patel-Kent exchange (C-1966, C-1967).",
       "transcript_snippet": "You have now Joe Kent telling you that he stopped him from investigating things internationally.",
       "supports_claim_refs": [
-        "C-2525"
+        "C-7247"
       ],
       "mentions_person_refs": [
         "N-209",
@@ -4319,8 +4319,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14523",
-      "ref": "C-14523",
+      "@id": "C-7651",
+      "ref": "C-7651",
       "label": "Host Says TPUSA Hosts Patel and Is Angry at Joe Kent, Not at Patel",
       "claim": "The host says Turning Point USA is upset with Joe Kent, not Kash Patel, and hosts Patel on the Charlie Kirk Show.",
       "anchored_artifacts": [],
@@ -4342,8 +4342,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14524",
-      "ref": "C-14524",
+      "@id": "C-7652",
+      "ref": "C-7652",
       "label": "Host Says Cox Was Not There the Night Robinson Was Apprehended",
       "claim": "The host says Governor Cox had no access to Tyler Robinson and was not there the night he was apprehended.",
       "anchored_artifacts": [],
@@ -4364,8 +4364,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14525",
-      "ref": "C-14525",
+      "@id": "C-7653",
+      "ref": "C-7653",
       "label": "Host Says Cox Seeded the Public With the Lie That Robinson Confessed After 33 Hours",
       "claim": "The host says Governor Cox, performing with Kash Patel, said that Robinson turned himself in and confessed after 33 hours, and that this is where the story started.",
       "anchored_artifacts": [],
@@ -4380,7 +4380,7 @@
       "investigative_direction": "Review the video of the Cox and Patel press conference for the exact language used on confession.",
       "transcript_snippet": "He's the one that puts on the performance with Cash and says he turned himself in and he confessed to the crime after 33 hours.",
       "supports_claim_refs": [
-        "C-2597"
+        "C-7656"
       ],
       "mentions_person_refs": [
         "N-41",
@@ -4391,8 +4391,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14526",
-      "ref": "C-14526",
+      "@id": "C-7657",
+      "ref": "C-7657",
       "label": "Cox Clip: Information Was Relayed to Utah County and Utah Valley University Investigators and the FBI",
       "claim": "In the Cox clip, Cox says the information about Robinson was relayed to the Utah County Sheriff's Office and scene investigators at Utah Valley University and was also conveyed to the FBI.",
       "anchored_artifacts": [
@@ -4415,8 +4415,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14527",
-      "ref": "C-14527",
+      "@id": "C-7658",
+      "ref": "C-7658",
       "label": "Host Says Brooksby Never Said Robinson Signed a Statement, Said He Was Guilty, or That His Dad Said So",
       "claim": "The host says that in his later account of the surrender Brooksby never says Robinson signed a statement, said he was guilty, or that his dad said he was guilty.",
       "anchored_artifacts": [],
@@ -4428,10 +4428,10 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:41:19",
-      "investigative_direction": "Compare to full transcripts of Brooksby's press conferences (C-1766, C-5043).",
+      "investigative_direction": "Compare to full transcripts of Brooksby's press conferences (C-3227, C-3229).",
       "transcript_snippet": "never says that he signed a statement, never says that he said he was guilty, never said that his dad said he was guilty.",
       "contradicts_claim_refs": [
-        "C-2597"
+        "C-7656"
       ],
       "mentions_person_refs": [
         "N-272",
@@ -4442,8 +4442,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14528",
-      "ref": "C-14528",
+      "@id": "C-7659",
+      "ref": "C-7659",
       "label": "Host Says Brooksby Said Mitchell Told Him Robinson's Dad Recognized Him",
       "claim": "The host says Brooksby said that Mike Mitchell told him Robinson's dad recognized him.",
       "anchored_artifacts": [],
@@ -4465,8 +4465,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14529",
-      "ref": "C-14529",
+      "@id": "C-7660",
+      "ref": "C-7660",
       "label": "Host Says Mike Mitchell Is Now Speaking on Behalf of Matt Robinson",
       "claim": "The host says Mike Mitchell is now speaking on behalf of Matt Robinson and asks whether Mitchell signed a statement at the police station.",
       "anchored_artifacts": [],
@@ -4488,8 +4488,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14530",
-      "ref": "C-14530",
+      "@id": "C-7662",
+      "ref": "C-7662",
       "label": "Brooksby Clip: Tyler Knew Capture Was Inevitable With His Picture and the Gun on the News",
       "claim": "In the Brooksby clip, Brooksby says Tyler knew it was inevitable he would be caught given the law enforcement pressure, with his picture and the gun on the news.",
       "anchored_artifacts": [
@@ -4502,7 +4502,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:41:56",
-      "investigative_direction": "Review the full press conference for context and compare with C-2602.",
+      "investigative_direction": "Review the full press conference for context and compare with C-7663.",
       "transcript_snippet": "Tyler knew it was just inevitable with all the law enforcement pressure that he his you know, his picture on the news, the gun on the gun on the news.",
       "mentions_person_refs": [
         "N-272",
@@ -4511,8 +4511,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14531",
-      "ref": "C-14531",
+      "@id": "C-7664",
+      "ref": "C-7664",
       "label": "Host Says Walt Disney Was a Freemason",
       "claim": "The host says Walt Disney was definitively a Freemason and that she subscribes to stories about a '33 Club' and tunnels at Disney.",
       "anchored_artifacts": [],
@@ -4531,8 +4531,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14532",
-      "ref": "C-14532",
+      "@id": "C-7665",
+      "ref": "C-7665",
       "label": "Host Says Lindsey Graham Spent Three Days at Disney World and Had Breakfast at Chef Mickey's",
       "claim": "The host says Lindsey Graham had breakfast at Chef Mickey's and spent three days at Disney World.",
       "anchored_artifacts": [],
@@ -4552,8 +4552,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14533",
-      "ref": "C-14533",
+      "@id": "C-7666",
+      "ref": "C-7666",
       "label": "Host Says Graham Lied About Where He Was and TMZ Caught Him",
       "claim": "The host says Graham lied about where he was, saying he only stopped by, and TMZ caught him staying three days.",
       "anchored_artifacts": [],
@@ -4573,8 +4573,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14534",
-      "ref": "C-14534",
+      "@id": "C-7667",
+      "ref": "C-7667",
       "label": "Host Says Many Commenters Noticed the 'Beautiful Day' Remark in the Times Article She Missed",
       "claim": "The host says many commenters wrote about the New York Times article in which Erika described the weather, and that she herself had missed it.",
       "anchored_artifacts": [
@@ -4596,8 +4596,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14535",
-      "ref": "C-14535",
+      "@id": "C-7668",
+      "ref": "C-7668",
       "label": "Host Says Alex Clark Said She Was on a Plane and Thought 'Too Bad' Then 'MAGA'",
       "claim": "The host says Alex Clark said she was on a plane too, and that her first thought was 'Too bad' and her second thought was 'MAGA'.",
       "anchored_artifacts": [],
@@ -4617,8 +4617,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14536",
-      "ref": "C-14536",
+      "@id": "C-7671",
+      "ref": "C-7671",
       "label": "Host Says She Is Reading a Freemasonry Book With Her Book Club",
       "claim": "The host says the first book-club book she is reading with her book club is on Freemasonry and its history, and that she says it has always been a war on the Catholic Church.",
       "anchored_artifacts": [],
@@ -4637,8 +4637,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14537",
-      "ref": "C-14537",
+      "@id": "C-7672",
+      "ref": "C-7672",
       "label": "Commenter Says Joe Kent and the Orem Police Resigned (Read by Host)",
       "claim": "A viewer comment the host reads says people at the top are resigning, naming Joe Kent and the police at Orem, and says they know something.",
       "anchored_artifacts": [
@@ -4655,7 +4655,7 @@
       "investigative_direction": "Check Orem Police staffing changes since September 2025 and Joe Kent's resignation date.",
       "transcript_snippet": "Joe Kent, the police at Orem resigned.",
       "supports_claim_refs": [
-        "C-7860"
+        "C-1268"
       ],
       "mentions_person_refs": [
         "N-209",
@@ -4664,8 +4664,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14538",
-      "ref": "C-14538",
+      "@id": "C-7673",
+      "ref": "C-7673",
       "label": "Host Says the Gun Had About Seven Sets of Prints",
       "claim": "The host says the evidence cited is that the gun had multiple sets of prints on it, about seven she thinks, and that it would not be hard to take somebody's gun.",
       "anchored_artifacts": [],
@@ -4685,8 +4685,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14539",
-      "ref": "C-14539",
+      "@id": "C-7674",
+      "ref": "C-7674",
       "label": "Host Says Prosecutors Cannot Prove the Gun Was Fired or Connect It to Kirk",
       "claim": "The host says the feds cannot prove the gun was fired and killed Charlie Kirk and cannot connect it to Charlie Kirk, and adds that it was not fired because the bomb dogs went over there and did not find the gun.",
       "anchored_artifacts": [],
@@ -4702,7 +4702,7 @@
       "investigative_direction": "Review the ATF ballistics comparison finding and any later report; the ATF finding is described as inconclusive in an existing node.",
       "transcript_snippet": "They cannot prove that that gun was fired and killed Charlie Kirk. They cannot connect that gun to Charlie Kirk.",
       "supports_claim_refs": [
-        "C-8548"
+        "C-7403"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -4711,8 +4711,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14540",
-      "ref": "C-14540",
+      "@id": "C-7675",
+      "ref": "C-7675",
       "label": "Host Says Alexis Wilkins Called Her a Russian Agent",
       "claim": "The host says she was called a Russian agent by Alexis Wilkins.",
       "anchored_artifacts": [],
@@ -4732,8 +4732,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14541",
-      "ref": "C-14541",
+      "@id": "C-7676",
+      "ref": "C-7676",
       "label": "Host Says Wilkins's Grandfather Was a Freemason and Her Father and Aunt Were in DeMolay",
       "claim": "The host says Alexis Wilkins's granddad was a Freemason and her dad and aunt were in the DeMolay club, which the host says is a Masonic youth group, and that this is in the newspaper.",
       "anchored_artifacts": [],
@@ -4747,7 +4747,7 @@
       "investigative_direction": "Find the newspaper item the host cites on the Wilkins family's DeMolay membership.",
       "transcript_snippet": "That's her granddad was a Freemason. Her dad was in the DeMolay club. Her aunt was in the DeMolay DeMolay club.",
       "supports_claim_refs": [
-        "C-6661"
+        "C-2797"
       ],
       "mentions_person_refs": [
         "N-212",
@@ -4756,8 +4756,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14542",
-      "ref": "C-14542",
+      "@id": "C-7677",
+      "ref": "C-7677",
       "label": "Host Says House Inhabit Was Dealing With Andrew Kolvet",
       "claim": "The host says she found out that House Inhabit was dealing with Andrew Kolvet and concluded that Turning Point was upset again.",
       "anchored_artifacts": [],
@@ -4778,8 +4778,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14543",
-      "ref": "C-14543",
+      "@id": "C-7678",
+      "ref": "C-7678",
       "label": "Host Says AI Images of Her Husband With Milo Were Used Against Her",
       "claim": "The host says AI images of her husband with Milo were used against her in the attack on her.",
       "anchored_artifacts": [],
@@ -4801,8 +4801,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14544",
-      "ref": "C-14544",
+      "@id": "C-7679",
+      "ref": "C-7679",
       "label": "Host Recounts Learning of the Shooting From Savannah and Calling Tucker Carlson and Kolvet",
       "claim": "The host recounts that on September 10 she was at her table working on her show when someone came downstairs and said Charlie had been shot, and that she then called Tucker Carlson and Andrew Kolvet and texted with both.",
       "anchored_artifacts": [],
@@ -4824,8 +4824,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14545",
-      "ref": "C-14545",
+      "@id": "C-7680",
+      "ref": "C-7680",
       "label": "Host Says the Stand With Candace Cup Is Sold Out",
       "claim": "A viewer comment the host reads says the Stand With Candace cup is sold out; the host says she did not know and asks whether to do a soft drop of a hundred more, saying she will talk to her husband.",
       "anchored_artifacts": [
@@ -4845,8 +4845,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14546",
-      "ref": "C-14546",
+      "@id": "C-7681",
+      "ref": "C-7681",
       "label": "Host Says Israel Runs X",
       "claim": "The host says Israel runs X, that X is essentially a little Israel, and that a commenter's name being Googled in Israel after tweeting matches that.",
       "anchored_artifacts": [],
@@ -4865,8 +4865,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14547",
-      "ref": "C-14547",
+      "@id": "C-7682",
+      "ref": "C-7682",
       "label": "Host Says She Knows the Exact Way X Has a Deal With Israel",
       "claim": "The host says she knows the exact way that X has a deal with Israel and must go through her text messages because someone told her.",
       "anchored_artifacts": [],
@@ -4885,8 +4885,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14548",
-      "ref": "C-14548",
+      "@id": "C-7683",
+      "ref": "C-7683",
       "label": "Host Says the Spell Website Was Traced to the Philippines",
       "claim": "The host says she traced the 'witch article' to the Philippines, where somebody made the website on which the spell was cast on Charlie's life.",
       "anchored_artifacts": [],
@@ -4907,8 +4907,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14549",
-      "ref": "C-14549",
+      "@id": "C-7684",
+      "ref": "C-7684",
       "label": "Host Says Kirk Was Not Catholic Yet Called a Priest Over to Pray Because of a Spell",
       "claim": "The host recounts the claim that Charlie Kirk was so worried about the spell that he called a priest over to pray, even though he was not Catholic, and says she does not believe he lost sleep over it.",
       "anchored_artifacts": [],

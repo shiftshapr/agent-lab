@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep053): N-10422
   - Tip-minted Nodes (reintro-ep053): N-11034
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10b): C-6903–C-6982
+  - Claim Range: C-4632–C-4723
   - (see registers)
 
 # Episode Analysis – Monument Episode 53
@@ -33,7 +33,6 @@
 - Analysis Date: 2026-01-07
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1587, A-1588, A-1589, A-1590, A-1591, A-1592, A-1593, A-1594, A-1595
-  - Claim Range: C-2016–C-2025
   - New Nodes Introduced: N-388, N-390, N-391, N-392, N-394, N-395, N-396, N-10386, N-10388, N-10390, N-10391
   - Reused Nodes Appearing: N-10387, N-2, N-27, N-82, N-266, N-270, N-366, N-375, N-484, N-10000, N-10004, N-10113, N-10268, N-10270, N-10316, N-10406, N-10416, N-10900, N-10385, N-11121, N-738, N-11116, N-11117, N-389, N-485, N-10389, N-10661, N-10925, N-393
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-3 (Candace Owens), and other pre-existing nodes (referenced where contextually applicable – Ben Shapiro, Tyler Bowyer, Tucker Carlson, Megyn Kelly presumed to exist), N-11
@@ -62,7 +61,7 @@ Video Timestamp: 00:06:31–00:09:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2016, C-2017, C-2024, N-388, N-10385*
+*Related: C-4643, C-4645, C-4644, N-388, N-10385*
 
 ---
 
@@ -76,7 +75,7 @@ Video Timestamp: 00:11:04–00:12:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2018, N-388, N-10385*
+*Related: C-4653, N-388, N-10385*
 
 ---
 
@@ -90,7 +89,7 @@ Video Timestamp: 00:09:24–00:11:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2017, N-388, N-10385*
+*Related: C-4645, N-388, N-10385*
 
 ---
 
@@ -104,7 +103,7 @@ Video Timestamp: 00:24:45–00:27:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2019, C-2025, N-390, N-391, N-392, N-393, N-394, N-10386, N-10391*
+*Related: C-4674, C-4676, N-390, N-391, N-392, N-393, N-394, N-10386, N-10391*
 
 ---
 
@@ -118,7 +117,7 @@ Video Timestamp: 00:18:09–00:19:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2020, N-389, N-390, N-10386*
+*Related: C-4663, N-389, N-390, N-10386*
 
 ---
 
@@ -132,7 +131,7 @@ Video Timestamp: 00:47:47–00:49:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2021, C-2022, N-395, N-10387, N-10390*
+*Related: C-4708, C-4710, N-395, N-10387, N-10390*
 
 ---
 
@@ -146,7 +145,7 @@ Video Timestamp: 00:44:48–00:45:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (exact date and identity of "oracle" figure not independently verified)
 
-*Related: C-2023, N-1, N-396, N-10389*
+*Related: C-4702, N-1, N-396, N-10389*
 
 ---
 
@@ -187,7 +186,7 @@ Video Timestamp: 00:40:17
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6962, C-6963, C-6964, N-1, N-3*
+*Related: C-4698, C-4699, C-4700, N-1, N-3*
 
 ---
 
@@ -200,7 +199,7 @@ Video Timestamp: 00:41:23
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6965, N-1, N-266, N-270, N-3*
+*Related: C-4701, N-1, N-266, N-270, N-3*
 
 ---
 
@@ -215,7 +214,7 @@ Video Timestamp: 00:54:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-6976, N-3, N-388*
+*Related: C-4715, N-3, N-388*
 
 ---
 
@@ -228,7 +227,7 @@ Video Timestamp: 00:58:32
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6982, N-1, N-3*
+*Related: C-4723, N-1, N-3*
 
 ---
 
@@ -244,7 +243,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1587.1, A-1588.1, A-1589.1, C-2016, C-2017, C-2018, C-2024, N-10385*
+*Related: A-1587.1, A-1588.1, A-1589.1, C-4643, C-4645, C-4653, C-4644, N-10385*
 
 ---
 
@@ -257,7 +256,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1591.1, C-2020, N-390, N-10386*
+*Related: A-1591.1, C-4663, N-390, N-10386*
 
 ---
 
@@ -270,7 +269,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1590.1, A-1591.1, C-2020, C-2025, N-389, N-10386, N-10391*
+*Related: A-1590.1, A-1591.1, C-4663, C-4676, N-389, N-10386, N-10391*
 
 ---
 
@@ -296,7 +295,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1590.1, C-2019, N-391, N-393, N-10391*
+*Related: A-1590.1, C-4674, N-391, N-393, N-10391*
 
 ---
 
@@ -309,7 +308,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1590.1, C-2019, N-392, N-10391*
+*Related: A-1590.1, C-4674, N-392, N-10391*
 
 ---
 
@@ -322,7 +321,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1592.1, C-2021, C-2022, N-10387, N-10390*
+*Related: A-1592.1, C-4708, C-4710, N-10387, N-10390*
 
 ---
 
@@ -348,7 +347,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1593.1, C-2023, N-10389*
+*Related: A-1593.1, C-4702, N-10389*
 
 ---
 
@@ -387,7 +386,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1587.1, A-1588.1, A-1589.1, C-2016, C-2017, C-2018, C-2024, N-388*
+*Related: A-1587.1, A-1588.1, A-1589.1, C-4643, C-4645, C-4653, C-4644, N-388*
 
 ---
 
@@ -400,7 +399,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1590.1, A-1591.1, C-2019, C-2020, C-2025, N-389, N-390, N-391, N-392, N-393, N-46, N-10391*
+*Related: A-1590.1, A-1591.1, C-4674, C-4663, C-4676, N-389, N-390, N-391, N-392, N-393, N-46, N-10391*
 
 ---
 
@@ -439,7 +438,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1593.1, C-2023, N-1, N-396*
+*Related: A-1593.1, C-4702, N-1, N-396*
 
 ---
 
@@ -452,7 +451,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1592.1, C-2021, C-2022, N-394, N-10387*
+*Related: A-1592.1, C-4708, C-4710, N-394, N-10387*
 
 ---
 
@@ -482,7 +481,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 Subject of the assassination; the host relays his dreams, his messages and the pressure on her about him.
 
-*Related: C-6906, C-6908, C-6909, C-6927, C-6928, C-6929, C-6931, C-6938, C-6949, C-6950, C-6961, C-6962, C-6963, C-6964, C-6965, C-6966, C-6967, C-6968, C-6969, C-6974, C-6975, C-6981, C-6982*
+*Related: C-4635, C-4637, C-4638, C-4660, C-4661, C-4662, C-4665, C-4672, C-4685, C-4686, C-4697, C-4698, C-4699, C-4700, C-4701, C-4703, C-4704, C-4705, C-4706, C-4713, C-4714, C-4720, C-4723*
 
 ---
 
@@ -490,7 +489,7 @@ Subject of the assassination; the host relays his dreams, his messages and the p
 
 Named as opening Amfest just before Shapiro's speech.
 
-*Related: C-6913*
+*Related: C-4642*
 
 ---
 
@@ -498,7 +497,7 @@ Named as opening Amfest just before Shapiro's speech.
 
 Host; speaks for herself throughout.
 
-*Related: C-6903, C-6904, C-6905, C-6907, C-6909, C-6911, C-6913, C-6915, C-6917, C-6918, C-6919, C-6920, C-6921, C-6922, C-6923, C-6924, C-6925, C-6927, C-6928, C-6931, C-6932, C-6938, C-6950, C-6951, C-6952, C-6953, C-6954, C-6955, C-6956, C-6957, C-6959, C-6960, C-6961, C-6962, C-6963, C-6964, C-6965, C-6966, C-6967, C-6969, C-6970, C-6973, C-6975, C-6976, C-6978, C-6979, C-6980, C-6981, C-6982*
+*Related: C-4632, C-4633, C-4634, C-4636, C-4638, C-4640, C-4642, C-4647, C-4649, C-4650, C-4651, C-4652, C-4654, C-4655, C-4656, C-4657, C-4658, C-4660, C-4661, C-4665, C-4666, C-4672, C-4686, C-4687, C-4688, C-4689, C-4690, C-4691, C-4692, C-4693, C-4695, C-4696, C-4697, C-4698, C-4699, C-4700, C-4701, C-4703, C-4704, C-4706, C-4707, C-4712, C-4714, C-4715, C-4717, C-4718, C-4719, C-4720, C-4723*
 
 ---
 
@@ -506,7 +505,7 @@ Host; speaks for herself throughout.
 
 Co-target of the Daily Wire show the host describes.
 
-*Related: C-6907, C-6911*
+*Related: C-4636, C-4640*
 
 ---
 
@@ -514,7 +513,7 @@ Co-target of the Daily Wire show the host describes.
 
 The host recounts his 2022 tweet and the pressure on her to condemn him.
 
-*Related: C-6903, C-6909, C-6952, C-6955, C-6956, C-6957, C-6958, C-6959, C-6960*
+*Related: C-4632, C-4638, C-4688, C-4691, C-4692, C-4693, C-4694, C-4695, C-4696*
 
 ---
 
@@ -522,7 +521,7 @@ The host recounts his 2022 tweet and the pressure on her to condemn him.
 
 Host says she is suing people.
 
-*Related: C-6980*
+*Related: C-4719*
 
 ---
 
@@ -530,7 +529,7 @@ Host says she is suing people.
 
 Central target of the host's claims about takeovers, donor pressure and the Daily Wire show.
 
-*Related: C-6908, C-6909, C-6910, C-6911, C-6912, C-6913, C-6917, C-6928, C-6929, C-6930, C-6931, C-6932, C-6938, C-6939, C-6940, C-6941, C-6944, C-6945, C-6946, C-6950, C-6951*
+*Related: C-4637, C-4638, C-4639, C-4640, C-4641, C-4642, C-4649, C-4661, C-4662, C-4664, C-4665, C-4666, C-4672, C-4673, C-4675, C-4677, C-4680, C-4681, C-4682, C-4686, C-4687*
 
 ---
 
@@ -538,7 +537,7 @@ Central target of the host's claims about takeovers, donor pressure and the Dail
 
 Named by Bannon and the host as a target of Shapiro.
 
-*Related: C-6951*
+*Related: C-4687*
 
 ---
 
@@ -546,7 +545,7 @@ Named by Bannon and the host as a target of Shapiro.
 
 Named with Dan Flood in the host's account of Charlie's early security.
 
-*Related: C-6965*
+*Related: C-4701*
 
 ---
 
@@ -554,7 +553,7 @@ Named with Dan Flood in the host's account of Charlie's early security.
 
 Named with Brian Harpole in the host's account of Charlie's early security.
 
-*Related: C-6965*
+*Related: C-4701*
 
 ---
 
@@ -562,7 +561,7 @@ Named with Brian Harpole in the host's account of Charlie's early security.
 
 Former Daily Wire CEO, named for the town hall and the Kanye conference room.
 
-*Related: C-6922, C-6923, C-6959, C-6960*
+*Related: C-4655, C-4656, C-4695, C-4696*
 
 ---
 
@@ -570,7 +569,7 @@ Former Daily Wire CEO, named for the town hall and the Kanye conference room.
 
 Named in the host's reading of the Baldoni lawsuit.
 
-*Related: C-6926*
+*Related: C-4659*
 
 ---
 
@@ -578,7 +577,7 @@ Named in the host's reading of the Baldoni lawsuit.
 
 Named in the host's reading of the Baldoni lawsuit.
 
-*Related: C-6926*
+*Related: C-4659*
 
 ---
 
@@ -586,7 +585,7 @@ Named in the host's reading of the Baldoni lawsuit.
 
 Subject of the host's reading of his lawsuit.
 
-*Related: C-6926*
+*Related: C-4659*
 
 ---
 
@@ -594,7 +593,7 @@ Subject of the host's reading of his lawsuit.
 
 Subject of the Daily Wire episode the host cites as a firing reason.
 
-*Related: C-6924*
+*Related: C-4657*
 
 ---
 
@@ -602,7 +601,7 @@ Subject of the Daily Wire episode the host cites as a firing reason.
 
 Organization at the center of the Bowyer, DOGE and missing-money claims.
 
-*Related: C-6906, C-6931, C-6949, C-6964, C-6970, C-6972, C-6973, C-6974, C-6975*
+*Related: C-4635, C-4665, C-4685, C-4700, C-4707, C-4711, C-4712, C-4713, C-4714*
 
 ---
 
@@ -610,7 +609,7 @@ Organization at the center of the Bowyer, DOGE and missing-money claims.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6909*
+*Related: C-4638*
 
 ---
 
@@ -618,7 +617,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for the AI sample's bee lines.
 
-*Related: C-6919*
+*Related: C-4651*
 
 ---
 
@@ -626,7 +625,7 @@ Existing topic reused for the AI sample's bee lines.
 
 Existing topic reused for the Amfest slot claim.
 
-*Related: C-6913*
+*Related: C-4642*
 
 ---
 
@@ -634,7 +633,7 @@ Existing topic reused for the Amfest slot claim.
 
 Existing topic reused for the suing claim.
 
-*Related: C-6980*
+*Related: C-4719*
 
 ---
 
@@ -642,7 +641,7 @@ Existing topic reused for the suing claim.
 
 Existing topic reused for the suing claim.
 
-*Related: C-6980*
+*Related: C-4719*
 
 ---
 
@@ -650,7 +649,7 @@ Existing topic reused for the suing claim.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6911, C-6912*
+*Related: C-4640, C-4641*
 
 ---
 
@@ -658,7 +657,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6904, C-6915, C-6932, C-6953*
+*Related: C-4633, C-4647, C-4666, C-4689*
 
 ---
 
@@ -666,7 +665,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for the gifted school link.
 
-*Related: C-6966*
+*Related: C-4703*
 
 ---
 
@@ -674,7 +673,7 @@ Existing topic reused for the gifted school link.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6926*
+*Related: C-4659*
 
 ---
 
@@ -682,7 +681,7 @@ Existing topic reused for new claims in this episode.
 
 The host's former employer.
 
-*Related: C-6903, C-6904, C-6907, C-6913, C-6922, C-6923, C-6924, C-6932, C-6944, C-6945, C-6953, C-6957, C-6959, C-6960*
+*Related: C-4632, C-4633, C-4636, C-4642, C-4655, C-4656, C-4657, C-4666, C-4680, C-4681, C-4689, C-4693, C-4695, C-4696*
 
 ---
 
@@ -690,7 +689,7 @@ The host's former employer.
 
 Campaign arm of TPUSA; Austin Smith's employer and the missing-money tip.
 
-*Related: C-6905, C-6972, C-6973*
+*Related: C-4634, C-4711, C-4712*
 
 ---
 
@@ -699,7 +698,7 @@ Campaign arm of TPUSA; Austin Smith's employer and the missing-money tip.
 Node Type: Topic
 The reasons the host says Jeremy Boreing and the Daily Wire gave at the company town hall for firing her.
 
-*Related: C-6922, C-6923, C-6924*
+*Related: C-4655, C-4656, C-4657*
 
 ---
 
@@ -708,7 +707,7 @@ The reasons the host says Jeremy Boreing and the Daily Wire gave at the company 
 Node Type: Topic
 The host's account of being pressured to condemn Kanye West after his 2022 tweet, her refusal and the change to her Daily Wire contract.
 
-*Related: C-6952, C-6955, C-6956, C-6957, C-6958, C-6959, C-6960*
+*Related: C-4688, C-4691, C-4692, C-4693, C-4694, C-4695, C-4696*
 
 ---
 
@@ -717,7 +716,7 @@ The host's account of being pressured to condemn Kanye West after his 2022 tweet
 Node Type: Topic
 The host's stated belief that Ben Shapiro may know more than the public about Charlie Kirk's death and may expect to benefit from it.
 
-*Related: C-6928, C-6929*
+*Related: C-4661, C-4662*
 
 ---
 
@@ -726,7 +725,7 @@ The host's stated belief that Ben Shapiro may know more than the public about Ch
 Node Type: Topic
 The host's account of Andrew Breitbart's 2012 death, the autopsy and the death of a forensic technician, none of it shown.
 
-*Related: C-6933, C-6934, C-6935, C-6936*
+*Related: C-4667, C-4668, C-4669, C-4670*
 
 ---
 
@@ -735,7 +734,7 @@ The host's account of Andrew Breitbart's 2012 death, the autopsy and the death o
 Node Type: Topic
 The host's account that Charlie Kirk wrote he was not allowed to go anywhere without security in TPUSA's early years.
 
-*Related: C-6965*
+*Related: C-4701*
 
 ---
 
@@ -744,7 +743,7 @@ The host's account that Charlie Kirk wrote he was not allowed to go anywhere wit
 Node Type: Topic
 The French cattle depopulation comment and the host's farmland and chicken feed remarks.
 
-*Related: C-6977, C-6978, C-6979*
+*Related: C-4716, C-4717, C-4718*
 
 ---
 
@@ -753,13 +752,13 @@ The French cattle depopulation comment and the host's farmland and chicken feed 
 Node Type: Topic
 The host's claim that Hollywood was founded by gangs and may still be run by one, and her description of gang-like tactics against her.
 
-*Related: C-6925, C-6954*
+*Related: C-4658, C-4690*
 
 ---
 
 ## V. Claim Register
 
-**C-2016** Maggie Wegner Auditioned for Daily Wire Solo Show Two Days After Ben Shapiro's Amfest Speech
+**C-4643** Maggie Wegner Auditioned for Daily Wire Solo Show Two Days After Ben Shapiro's Amfest Speech
 
 Claim Timestamp: 00:06:31
 
@@ -774,7 +773,7 @@ Investigative Direction: Verify the timeline of the Amfest speech and confirm th
 
 ---
 
-**C-2017** Audition Script and AI Video Content Targeted Candace Owens
+**C-4645** Audition Script and AI Video Content Targeted Candace Owens
 
 Claim Timestamp: 00:07:36
 
@@ -789,7 +788,7 @@ Investigative Direction: Obtain and verify the full audition script and AI video
 
 ---
 
-**C-2018** Maggie Wegner Declined the Audition Role
+**C-4653** Maggie Wegner Declined the Audition Role
 
 Claim Timestamp: 00:11:04
 
@@ -804,7 +803,7 @@ Investigative Direction: Verify the text message thread against phone records an
 
 ---
 
-**C-2019** Per Statement the Host Reads, Ben Shapiro Resigned From Breitbart News on March 13, 2016
+**C-4674** Per Statement the Host Reads, Ben Shapiro Resigned From Breitbart News on March 13, 2016
 
 Claim Timestamp: 00:24:45
 
@@ -819,7 +818,7 @@ Investigative Direction: Cross-reference the resignation statement against conte
 
 ---
 
-**C-2020** Steve Bannon Publicly Described Ben Shapiro's Pattern of Attempted Hostile Takeovers
+**C-4663** Steve Bannon Publicly Described Ben Shapiro's Pattern of Attempted Hostile Takeovers
 
 Claim Timestamp: 00:18:09
 
@@ -834,7 +833,7 @@ Investigative Direction: Obtain the full Amfest Bannon speech and verify the com
 
 ---
 
-**C-2021** Article the Host Reads Says Austin Smith Was Scheduled to Be Sentenced Tuesday for Petition Signature Fraud
+**C-4708** Article the Host Reads Says Austin Smith Was Scheduled to Be Sentenced Tuesday for Petition Signature Fraud
 
 Claim Timestamp: 00:48:50
 
@@ -849,7 +848,7 @@ Investigative Direction: Obtain the court docket and judgment from the Arizona s
 
 ---
 
-**C-2022** Austin Smith Plead Guilty in Mid-November to Attempted Fraudulent Schemes and Practices
+**C-4710** Austin Smith Plead Guilty in Mid-November to Attempted Fraudulent Schemes and Practices
 
 Claim Timestamp: 00:49:14
 
@@ -864,7 +863,7 @@ Investigative Direction: Obtain the plea agreement and charging documents from t
 
 ---
 
-**C-2023** Host Says Charlie Kirk's 'Oracle' Figure All But Confirmed His Premonition of Dying Young
+**C-4702** Host Says Charlie Kirk's 'Oracle' Figure All But Confirmed His Premonition of Dying Young
 
 Claim Timestamp: 00:42:50
 
@@ -879,7 +878,7 @@ Investigative Direction: Obtain the original text message thread for verificatio
 
 ---
 
-**C-2024** Email the Host Reads Describes Daily Wire Producer as in "Panic Mode" During Casting
+**C-4644** Email the Host Reads Describes Daily Wire Producer as in "Panic Mode" During Casting
 
 Claim Timestamp: 00:06:31
 
@@ -894,7 +893,7 @@ Investigative Direction: Verify the timeline of the show's conception against in
 
 ---
 
-**C-2025** Per Shapiro's Own Statement the Host Reads, He Joined Breitbart News Two Weeks Before Andrew Breitbart's Death
+**C-4676** Per Shapiro's Own Statement the Host Reads, He Joined Breitbart News Two Weeks Before Andrew Breitbart's Death
 
 Claim Timestamp: 00:24:58
 
@@ -909,7 +908,7 @@ Investigative Direction: Verify the exact date of Shapiro's hiring through Breit
 
 ---
 
-**C-3655** Host invokes decentralized intelligence (near-DIA framing)
+**C-4721** Host invokes decentralized intelligence (near-DIA framing)
 
 Claim Timestamp: 00:58:32
 Claim: The host uses near-DIA wording ("decentralized intelligence") to describe crowd-sourced investigative capacity, without the full agency brand line in this beat.
@@ -922,7 +921,7 @@ Investigative Direction: Preserve as brand / network framing claim; cross-link M
 
 ---
 
-**C-3656** Host elevates mommy sleuth crowd investigators
+**C-4722** Host elevates mommy sleuth crowd investigators
 
 Claim Timestamp: 00:58:32
 Claim: The host praises "mommy sleuth(s)" as amateur / parent investigators sending tips, framed as part of the crowd intelligence effort.
@@ -935,7 +934,7 @@ Investigative Direction: Cross-link M-16 Mommy Sleuth meme when register present
 
 ---
 
-**C-6903** Host Says Kanye Was Right in 2022 About Blackballing of Opponents
+**C-4632** Host Says Kanye Was Right in 2022 About Blackballing of Opponents
 
 Claim Timestamp: 00:00:01
 
@@ -946,13 +945,13 @@ Transcript Snippet: And he told us that when he woke up, he was a little bit sle
 Anchored Artifacts: 
 Mentions: N-27, N-3
 Related Nodes: N-10900
-Supports: C-1681
+Supports: C-2715
 Tags: relevance:context
 Investigative Direction: Locate the original Kanye West tweet and its date to confirm the wording the host paraphrases.
 
 ---
 
-**C-6904** Host Says She Has Fought the Daily Wire for Two Years and Public Knows Little
+**C-4633** Host Says She Has Fought the Daily Wire for Two Years and Public Knows Little
 
 Claim Timestamp: 00:00:01
 
@@ -968,7 +967,7 @@ Investigative Direction: Compare the host's account with the court filings and p
 
 ---
 
-**C-6905** Host Says Tyler Bowyer Hired Austin Smith and Is the Lynchpin
+**C-4634** Host Says Tyler Bowyer Hired Austin Smith and Is the Lynchpin
 
 Claim Timestamp: 00:01:03
 
@@ -984,7 +983,7 @@ Investigative Direction: Obtain Turning Point Action employment records for Aust
 
 ---
 
-**C-6906** Host Says Bowyer Runs TPUSA and Staffed Nearly Everyone Around Charlie
+**C-4635** Host Says Bowyer Runs TPUSA and Staffed Nearly Everyone Around Charlie
 
 Claim Timestamp: 00:01:45
 
@@ -1000,7 +999,7 @@ Investigative Direction: Map the hiring chain of Charlie Kirk's staff and securi
 
 ---
 
-**C-6907** Host Says She Scooped the Daily Wire Show the Day Before
+**C-4636** Host Says She Scooped the Daily Wire Show the Day Before
 
 Claim Timestamp: 00:02:12
 
@@ -1011,13 +1010,13 @@ Transcript Snippet: It was yesterday, just yesterday, that we scooped the Daily 
 Anchored Artifacts: 
 Mentions: N-3, N-22
 Related Nodes: N-10385, N-10900
-Supports: C-2013
+Supports: C-4615
 Tags: relevance:context
 Investigative Direction: Compare the previous episode's report with any Daily Wire announcement of the show.
 
 ---
 
-**C-6908** Host Says Shapiro Was Not a Friend of Charlie Kirk
+**C-4637** Host Says Shapiro Was Not a Friend of Charlie Kirk
 
 Claim Timestamp: 00:02:57
 
@@ -1033,7 +1032,7 @@ Investigative Direction: Review public and private Shapiro-Kirk communications a
 
 ---
 
-**C-6909** Host Says Shapiro Worked Behind the Scenes to Stop Charlie's and Her Rise
+**C-4638** Host Says Shapiro Worked Behind the Scenes to Stop Charlie's and Her Rise
 
 Claim Timestamp: 00:02:57
 
@@ -1049,7 +1048,7 @@ Investigative Direction: Identify messages, donor contacts or witnesses showing 
 
 ---
 
-**C-6910** Host Says Shapiro Pressures Christians Financially to Go After Other Christians
+**C-4639** Host Says Shapiro Pressures Christians Financially to Go After Other Christians
 
 Claim Timestamp: 00:04:43
 
@@ -1065,7 +1064,7 @@ Investigative Direction: Obtain further casting emails or payment offers like Ma
 
 ---
 
-**C-6911** Host Says Shapiro Demanded Megyn Kelly's Allegiance Against Her and Tucker
+**C-4640** Host Says Shapiro Demanded Megyn Kelly's Allegiance Against Her and Tucker
 
 Claim Timestamp: 00:04:43
 
@@ -1081,7 +1080,7 @@ Investigative Direction: Review video of Shapiro's appearance on Kelly's tour an
 
 ---
 
-**C-6912** Host Says Shapiro Directs Attacks on Megyn Kelly Through Stooges
+**C-4641** Host Says Shapiro Directs Attacks on Megyn Kelly Through Stooges
 
 Claim Timestamp: 00:04:43
 
@@ -1097,7 +1096,7 @@ Investigative Direction: Identify the accounts or outlets attacking Kelly and an
 
 ---
 
-**C-6913** Host Says Shapiro Paid for a Prime Amfest Slot Right After Erika Kirk
+**C-4642** Host Says Shapiro Paid for a Prime Amfest Slot Right After Erika Kirk
 
 Claim Timestamp: 00:05:59
 
@@ -1113,7 +1112,7 @@ Investigative Direction: Obtain the Amfest speaker schedule and any sponsorship 
 
 ---
 
-**C-6914** Host Reads Maggie's Account That She Tried to Rewrite the Script and Could Not
+**C-4646** Host Reads Maggie's Account That She Tried to Rewrite the Script and Could Not
 
 Claim Timestamp: 00:08:14
 
@@ -1129,7 +1128,7 @@ Investigative Direction: Verify against the original, unredacted email and the p
 
 ---
 
-**C-6915** Maggie Says She Was Told Not to Share the AI Video After the Host Said She Knew
+**C-4647** Maggie Says She Was Told Not to Share the AI Video After the Host Said She Knew
 
 Claim Timestamp: 00:08:14
 
@@ -1145,7 +1144,7 @@ Investigative Direction: Establish who told Maggie not to share the video and wh
 
 ---
 
-**C-6916** Maggie Says She Attached Proof of the Call and the Producer's Text
+**C-4648** Maggie Says She Attached Proof of the Call and the Producer's Text
 
 Claim Timestamp: 00:08:14
 
@@ -1161,7 +1160,7 @@ Investigative Direction: Request the attachments and call logs and check dates a
 
 ---
 
-**C-6917** Host Says Ben Wanted the AI Video Sent Around Following Amfest
+**C-4649** Host Says Ben Wanted the AI Video Sent Around Following Amfest
 
 Claim Timestamp: 00:09:24
 
@@ -1177,7 +1176,7 @@ Investigative Direction: Identify who produced and distributed the AI sample and
 
 ---
 
-**C-6918** AI Sample Is Hosted by a Character Named Gossy Gossworthy
+**C-4650** AI Sample Is Hosted by a Character Named Gossy Gossworthy
 
 Claim Timestamp: 00:09:24
 
@@ -1193,7 +1192,7 @@ Investigative Direction: Obtain the original video file to confirm the show titl
 
 ---
 
-**C-6919** Host Plays AI Sample Parodying the Bee Code Theory and Kyle Robinson
+**C-4651** Host Plays AI Sample Parodying the Bee Code Theory and Kyle Robinson
 
 Claim Timestamp: 00:10:16
 
@@ -1209,7 +1208,7 @@ Investigative Direction: Compare the AI sample's lines with the bee-code texts t
 
 ---
 
-**C-6920** Host Says Maggie Did Not Get the Job After Refusing to Mock Her
+**C-4652** Host Says Maggie Did Not Get the Job After Refusing to Mock Her
 
 Claim Timestamp: 00:11:01
 
@@ -1220,13 +1219,13 @@ Transcript Snippet: she didn't get the job because she went back to them and she
 Anchored Artifacts: A-1588.1
 Mentions: N-388, N-3
 Related Nodes: N-10385
-Supports: C-2018
+Supports: C-4653
 Tags: relevance:context
 Investigative Direction: Confirm with Maggie Wegner that she was not offered the role and obtain the producer's reply.
 
 ---
 
-**C-6921** Host Says the Casting Required Willingness to Attack Her
+**C-4654** Host Says the Casting Required Willingness to Attack Her
 
 Claim Timestamp: 00:12:04
 
@@ -1242,7 +1241,7 @@ Investigative Direction: Seek additional casting emails or scripts from other ca
 
 ---
 
-**C-6922** Host Says Boreing Cited Her Stance That Genocide Is Always Wrong as a Reason She Was Fired
+**C-4655** Host Says Boreing Cited Her Stance That Genocide Is Always Wrong as a Reason She Was Fired
 
 Claim Timestamp: 00:13:59
 
@@ -1253,13 +1252,13 @@ Transcript Snippet: the clearly immoral and impractical stance that I publicly e
 Anchored Artifacts: 
 Mentions: N-366, N-3
 Related Nodes: N-10900, N-11116
-Supports: C-1982
+Supports: C-4381
 Tags: relevance:context
 Investigative Direction: Obtain the full town hall video and transcript and compare Boreing's stated reasons with the host's account.
 
 ---
 
-**C-6923** Host Says Boreing Also Cited Her View That Pornography Harms Men
+**C-4656** Host Says Boreing Also Cited Her View That Pornography Harms Men
 
 Claim Timestamp: 00:13:59
 
@@ -1270,13 +1269,13 @@ Transcript Snippet: pornography is harming men. That was another reason that was
 Anchored Artifacts: 
 Mentions: N-366, N-3
 Related Nodes: N-10900, N-11116
-Supports: C-1982
+Supports: C-4381
 Tags: relevance:context
 Investigative Direction: Obtain the town hall transcript and check what Boreing said about pornography.
 
 ---
 
-**C-6924** Host Says Her Michael Jackson Hollywood-Gang Remark Was Another Firing Reason
+**C-4657** Host Says Her Michael Jackson Hollywood-Gang Remark Was Another Firing Reason
 
 Claim Timestamp: 00:13:59
 
@@ -1292,7 +1291,7 @@ Investigative Direction: Identify the Daily Wire episode and obtain the town hal
 
 ---
 
-**C-6925** Host Says Hollywood Was Started by Gangs Including Jewish Mafiosos
+**C-4658** Host Says Hollywood Was Started by Gangs Including Jewish Mafiosos
 
 Claim Timestamp: 00:15:23
 
@@ -1308,7 +1307,7 @@ Investigative Direction: Check historians' accounts of organised crime involveme
 
 ---
 
-**C-6926** Host Says the Baldoni Lawsuit Showed a Hostile Takeover of His Movie Rights
+**C-4659** Host Says the Baldoni Lawsuit Showed a Hostile Takeover of His Movie Rights
 
 Claim Timestamp: 00:15:23
 
@@ -1324,7 +1323,7 @@ Investigative Direction: Read the Baldoni and Lively court filings and rulings t
 
 ---
 
-**C-6927** Host Says Charlie Wanted Out of the Gang and Was Killed
+**C-4660** Host Says Charlie Wanted Out of the Gang and Was Killed
 
 Claim Timestamp: 00:16:14
 
@@ -1340,7 +1339,7 @@ Investigative Direction: This is the host's inference; identify any statement by
 
 ---
 
-**C-6928** Host Says Shapiro May Know More Than the Public About Charlie's Death
+**C-4661** Host Says Shapiro May Know More Than the Public About Charlie's Death
 
 Claim Timestamp: 00:16:14
 
@@ -1356,7 +1355,7 @@ Investigative Direction: The host offers no specific evidence here; seek any com
 
 ---
 
-**C-6929** Host Says Shapiro Acts as if Charlie's Company Was Promised to Him
+**C-4662** Host Says Shapiro Acts as if Charlie's Company Was Promised to Him
 
 Claim Timestamp: 00:16:14
 
@@ -1372,7 +1371,7 @@ Investigative Direction: Look for concrete Shapiro actions toward TPUSA after Se
 
 ---
 
-**C-6930** Bannon Says in the Clip That He Ran Shapiro Out of Breitbart
+**C-4664** Bannon Says in the Clip That He Ran Shapiro Out of Breitbart
 
 Claim Timestamp: 00:18:19
 
@@ -1388,7 +1387,7 @@ Investigative Direction: Compare Bannon's statement with Shapiro's account that 
 
 ---
 
-**C-6931** Bannon Says Shapiro Has Always Been Envious of Charlie Kirk
+**C-4665** Bannon Says Shapiro Has Always Been Envious of Charlie Kirk
 
 Claim Timestamp: 00:18:19
 
@@ -1404,7 +1403,7 @@ Investigative Direction: Obtain the full Amfest Bannon speech and any corroborat
 
 ---
 
-**C-6932** Host Says Shapiro's Lawsuit Aimed to Bankrupt Her Company Before It Started
+**C-4666** Host Says Shapiro's Lawsuit Aimed to Bankrupt Her Company Before It Started
 
 Claim Timestamp: 00:18:19
 
@@ -1420,7 +1419,7 @@ Investigative Direction: Obtain the pleadings in the Daily Wire litigation again
 
 ---
 
-**C-6933** Host Says Andrew Breitbart Died March 1, 2012 Aged 43 of an Apparent Heart Attack
+**C-4667** Host Says Andrew Breitbart Died March 1, 2012 Aged 43 of an Apparent Heart Attack
 
 Claim Timestamp: 00:19:22
 
@@ -1436,7 +1435,7 @@ Investigative Direction: Obtain the Los Angeles County coroner's report for Brei
 
 ---
 
-**C-6934** Host Says Breitbart Was Stepping on Toes and Claimed Information Before He Died
+**C-4668** Host Says Breitbart Was Stepping on Toes and Claimed Information Before He Died
 
 Claim Timestamp: 00:19:22
 
@@ -1452,7 +1451,7 @@ Investigative Direction: Identify what information Breitbart said he had, using 
 
 ---
 
-**C-6935** Host Says a Forensic Technician on Breitbart's Autopsy Died of Arsenic Poisoning
+**C-4669** Host Says a Forensic Technician on Breitbart's Autopsy Died of Arsenic Poisoning
 
 Claim Timestamp: 00:19:22
 
@@ -1468,7 +1467,7 @@ Investigative Direction: Search for a death record, news report or coroner findi
 
 ---
 
-**C-6936** Host Says Cormier's Wife Disputes That He Poisoned Himself
+**C-4670** Host Says Cormier's Wife Disputes That He Poisoned Himself
 
 Claim Timestamp: 00:20:35
 
@@ -1484,7 +1483,7 @@ Investigative Direction: Find any published statement by Cormier's family.
 
 ---
 
-**C-6937** Host Says an Internal War Over Breitbart's Direction Followed His Death
+**C-4671** Host Says an Internal War Over Breitbart's Direction Followed His Death
 
 Claim Timestamp: 00:21:31
 
@@ -1500,7 +1499,7 @@ Investigative Direction: Review reporting on Breitbart News leadership disputes 
 
 ---
 
-**C-6938** Host Says Breitbart Chiefs Told Her and Charlie the Daily Wire Founding Story
+**C-4672** Host Says Breitbart Chiefs Told Her and Charlie the Daily Wire Founding Story
 
 Claim Timestamp: 00:22:15
 
@@ -1516,7 +1515,7 @@ Investigative Direction: Ask the host to name the Breitbart executives and the r
 
 ---
 
-**C-6939** Host Says Shapiro and Fields Both Left Breitbart on March 13, 2016
+**C-4673** Host Says Shapiro and Fields Both Left Breitbart on March 13, 2016
 
 Claim Timestamp: 00:23:37
 
@@ -1532,7 +1531,7 @@ Investigative Direction: Check Fields's own resignation date and statement again
 
 ---
 
-**C-6940** Shapiro Statement Says He Met Breitbart at 17 and Stayed His Friend
+**C-4675** Shapiro Statement Says He Met Breitbart at 17 and Stayed His Friend
 
 Claim Timestamp: 00:24:45
 
@@ -1548,7 +1547,7 @@ Investigative Direction: Verify against Shapiro's published March 2016 resignati
 
 ---
 
-**C-6941** Shapiro Statement Says Bannon's Breitbart Betrayed Andrew's Legacy
+**C-4677** Shapiro Statement Says Bannon's Breitbart Betrayed Andrew's Legacy
 
 Claim Timestamp: 00:25:28
 
@@ -1564,7 +1563,7 @@ Investigative Direction: Verify against Shapiro's published March 2016 resignati
 
 ---
 
-**C-6942** Shapiro Statement Says Fields's Account Was Backed by Tape, Witness and Video
+**C-4678** Shapiro Statement Says Fields's Account Was Backed by Tape, Witness and Video
 
 Claim Timestamp: 00:25:28
 
@@ -1580,7 +1579,7 @@ Investigative Direction: Verify against the published statement and the contempo
 
 ---
 
-**C-6943** Shapiro Statement Says Breitbart Ran a Conspiracy Theory That Fields Misidentified Lewandowski
+**C-4679** Shapiro Statement Says Breitbart Ran a Conspiracy Theory That Fields Misidentified Lewandowski
 
 Claim Timestamp: 00:26:32
 
@@ -1596,7 +1595,7 @@ Investigative Direction: Retrieve the Breitbart News article from March 2016 and
 
 ---
 
-**C-6944** Host Says Shapiro Promoted the Daily Wire the Very Next Day and It Worked
+**C-4680** Host Says Shapiro Promoted the Daily Wire the Very Next Day and It Worked
 
 Claim Timestamp: 00:26:32
 
@@ -1612,7 +1611,7 @@ Investigative Direction: Compare Daily Wire traffic and launch announcements for
 
 ---
 
-**C-6945** Host Says Shapiro Had Quietly Built the Daily Wire Since Late 2015 Without Traction
+**C-4681** Host Says Shapiro Had Quietly Built the Daily Wire Since Late 2015 Without Traction
 
 Claim Timestamp: 00:27:25
 
@@ -1628,7 +1627,7 @@ Investigative Direction: Check the Daily Wire's incorporation and launch dates a
 
 ---
 
-**C-6946** Host Says Shapiro and Jamie Weinstein Decided to Cook Up a Scandal
+**C-4682** Host Says Shapiro and Jamie Weinstein Decided to Cook Up a Scandal
 
 Claim Timestamp: 00:27:25
 
@@ -1644,7 +1643,7 @@ Investigative Direction: Seek firsthand evidence from the unnamed Breitbart exec
 
 ---
 
-**C-6947** Host Says Jamie Weinstein Is Michelle Fields's Husband
+**C-4683** Host Says Jamie Weinstein Is Michelle Fields's Husband
 
 Claim Timestamp: 00:27:25
 
@@ -1660,7 +1659,7 @@ Investigative Direction: Check public marriage and biographical records for Wein
 
 ---
 
-**C-6948** Host Says Fields's Bruises Were Later Shown Not to Match Where Lewandowski Touched Her
+**C-4684** Host Says Fields's Bruises Were Later Shown Not to Match Where Lewandowski Touched Her
 
 Claim Timestamp: 00:28:22
 
@@ -1676,7 +1675,7 @@ Investigative Direction: Review the released tape and the charges and outcome in
 
 ---
 
-**C-6949** Host Says Neocons Are Staging a Hostile Takeover of Charlie's Legacy
+**C-4685** Host Says Neocons Are Staging a Hostile Takeover of Charlie's Legacy
 
 Claim Timestamp: 00:28:22
 
@@ -1692,7 +1691,7 @@ Investigative Direction: Identify the specific appointments, donors or actions t
 
 ---
 
-**C-6950** Host Says Shapiro Used His Contact List to Have Donors Pressure Charlie
+**C-4686** Host Says Shapiro Used His Contact List to Have Donors Pressure Charlie
 
 Claim Timestamp: 00:29:19
 
@@ -1703,13 +1702,13 @@ Transcript Snippet: the very person who blackalled me through his contact list h
 Anchored Artifacts: 
 Mentions: N-97, N-1, N-3
 Related Nodes: N-10386
-Supports: C-5384
+Supports: C-4400
 Tags: relevance:context
 Investigative Direction: Identify donors who contacted Kirk or TPUSA about the host, and obtain any messages the host holds.
 
 ---
 
-**C-6951** Host Says Shapiro Also Went After Horowitz's Freedom Center, Her and the Babylon Bee
+**C-4687** Host Says Shapiro Also Went After Horowitz's Freedom Center, Her and the Babylon Bee
 
 Claim Timestamp: 00:29:19
 
@@ -1720,13 +1719,13 @@ Transcript Snippet: He is telling you the truth about what happened with David H
 Anchored Artifacts: 
 Mentions: N-97, N-193, N-3
 Related Nodes: N-10386
-Supports: C-2020
+Supports: C-4663
 Tags: relevance:context
 Investigative Direction: Ask Horowitz Freedom Center and Babylon Bee principals about any takeover attempts.
 
 ---
 
-**C-6952** Kanye Told the Host He Felt Finally Free After Burning Everything Down
+**C-4688** Kanye Told the Host He Felt Finally Free After Burning Everything Down
 
 Claim Timestamp: 00:30:37
 
@@ -1742,7 +1741,7 @@ Investigative Direction: Only the host can confirm the conversation; look for an
 
 ---
 
-**C-6953** Host Describes Her Former Employer Pursuing Her in Court and Contacting Donors
+**C-4689** Host Describes Her Former Employer Pursuing Her in Court and Contacting Donors
 
 Claim Timestamp: 00:31:46
 
@@ -1753,13 +1752,13 @@ Transcript Snippet: They shouldn't be following you, uh chasing you in the court
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10416, N-10900
-Supports: C-5374
+Supports: C-4389
 Tags: relevance:context
 Investigative Direction: Document specific contacts to sponsors and donors with names, dates and the docket of each proceeding.
 
 ---
 
-**C-6954** Host Says Mafia-Like Groups Try to Break People With Psychiatric Holds and Drugs
+**C-4690** Host Says Mafia-Like Groups Try to Break People With Psychiatric Holds and Drugs
 
 Claim Timestamp: 00:36:34
 
@@ -1775,7 +1774,7 @@ Investigative Direction: This is a sweeping characterisation; ask the host which
 
 ---
 
-**C-6955** Host Says Kanye's Deathcon 3 Tweet Cost Her Many Millions
+**C-4691** Host Says Kanye's Deathcon 3 Tweet Cost Her Many Millions
 
 Claim Timestamp: 00:37:16
 
@@ -1791,7 +1790,7 @@ Investigative Direction: Compare the host's Daily Wire contract terms before and
 
 ---
 
-**C-6956** Host Says She Did Not Retweet or Like Kanye's Tweet
+**C-4692** Host Says She Did Not Retweet or Like Kanye's Tweet
 
 Claim Timestamp: 00:37:16
 
@@ -1807,7 +1806,7 @@ Investigative Direction: Check the host's X activity from the time of the tweet.
 
 ---
 
-**C-6957** Host Says She Was Peer and Employer Pressured to Condemn Kanye
+**C-4693** Host Says She Was Peer and Employer Pressured to Condemn Kanye
 
 Claim Timestamp: 00:37:16
 
@@ -1823,7 +1822,7 @@ Investigative Direction: Seek the other attendees of the conference room meeting
 
 ---
 
-**C-6958** Host Says Kanye Lost Adidas and Gap Contracts
+**C-4694** Host Says Kanye Lost Adidas and Gap Contracts
 
 Claim Timestamp: 00:38:25
 
@@ -1839,7 +1838,7 @@ Investigative Direction: Check news reports on Adidas ending its partnership and
 
 ---
 
-**C-6959** Host Says She Refused to Condemn Kanye and Was Yelled At
+**C-4695** Host Says She Refused to Condemn Kanye and Was Yelled At
 
 Claim Timestamp: 00:38:25
 
@@ -1855,7 +1854,7 @@ Investigative Direction: Obtain contemporaneous accounts or notes from the meeti
 
 ---
 
-**C-6960** Host Says Her Contract Was Changed to Pay Less After She Refused
+**C-4696** Host Says Her Contract Was Changed to Pay Less After She Refused
 
 Claim Timestamp: 00:39:18
 
@@ -1871,7 +1870,7 @@ Investigative Direction: Obtain the original and amended contract terms; the hos
 
 ---
 
-**C-6961** Host Says the Strategy Mocks Her for Dreaming Charlie Was Betrayed
+**C-4697** Host Says the Strategy Mocks Her for Dreaming Charlie Was Betrayed
 
 Claim Timestamp: 00:40:17
 
@@ -1882,13 +1881,13 @@ Transcript Snippet: this whole strategy seems to be mocking me for having a drea
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10389, N-10385
-Supports: C-5087
+Supports: C-3534
 Tags: relevance:context
 Investigative Direction: Compare the show's content with the host's dream account to see what is being mocked.
 
 ---
 
-**C-6962** Host Says She Has Many Messages With Charlie About His Vivid Dreams
+**C-4698** Host Says She Has Many Messages With Charlie About His Vivid Dreams
 
 Claim Timestamp: 00:40:17
 
@@ -1904,7 +1903,7 @@ Investigative Direction: Obtain the full thread of messages with Charlie Kirk ab
 
 ---
 
-**C-6963** Host Says She Consulted a Priest After Rereading Charlie's Messages
+**C-4699** Host Says She Consulted a Priest After Rereading Charlie's Messages
 
 Claim Timestamp: 00:41:23
 
@@ -1920,7 +1919,7 @@ Investigative Direction: Identify the priest and what he advised; the host gives
 
 ---
 
-**C-6964** Host Says Charlie Repeatedly Said He Would Die Young and TPUSA Would Be Involved
+**C-4700** Host Says Charlie Repeatedly Said He Would Die Young and TPUSA Would Be Involved
 
 Claim Timestamp: 00:41:23
 
@@ -1931,13 +1930,13 @@ Transcript Snippet: just telling me that repeatedly he was going to die young an
 Anchored Artifacts: A-2842
 Mentions: N-3, N-1
 Related Nodes: N-10389, N-10000
-Supports: C-2023
+Supports: C-4702
 Tags: relevance:core
 Investigative Direction: Obtain the messages showing Kirk linking his expected death to Turning Point.
 
 ---
 
-**C-6965** Host Says Charlie Texted That He Was Not Allowed Anywhere Without Security
+**C-4701** Host Says Charlie Texted That He Was Not Allowed Anywhere Without Security
 
 Claim Timestamp: 00:41:23
 
@@ -1953,7 +1952,7 @@ Investigative Direction: Obtain the text and its date, and identify who arranged
 
 ---
 
-**C-6966** Host Dates the Oracle Conversation to Early 2018 Before the Kanye Tweet
+**C-4703** Host Dates the Oracle Conversation to Early 2018 Before the Kanye Tweet
 
 Claim Timestamp: 00:43:37
 
@@ -1964,13 +1963,13 @@ Transcript Snippet: This was in 2018, early 2018. Okay.
 Anchored Artifacts: A-1593.1
 Mentions: N-1, N-3, N-396
 Related Nodes: N-10389, N-10422
-Supports: C-2023
+Supports: C-4702
 Tags: relevance:core
 Investigative Direction: Obtain the texts from early 2018 and any identification of the older man.
 
 ---
 
-**C-6967** Host Says Charlie Felt Like a Time Traveler Who Had to Find Her
+**C-4704** Host Says Charlie Felt Like a Time Traveler Who Had to Find Her
 
 Claim Timestamp: 00:43:37
 
@@ -1986,7 +1985,7 @@ Investigative Direction: Locate the earlier message the host says she showed vie
 
 ---
 
-**C-6968** Text Message Reads: He Won't Tell You What He Saw, Just That I'm There and It's Bad
+**C-4705** Text Message Reads: He Won't Tell You What He Saw, Just That I'm There and It's Bad
 
 Claim Timestamp: 00:44:48
 
@@ -1997,13 +1996,13 @@ Transcript Snippet: He won't tell you what he saw. He hasn't told me intentional
 Anchored Artifacts: A-1593.1
 Mentions: N-1, N-396
 Related Nodes: N-10389
-Supports: C-2023
+Supports: C-4702
 Tags: relevance:core
 Investigative Direction: Obtain the original text thread and date.
 
 ---
 
-**C-6969** Host Says Charlie Was Betrayed by People Closest to Him
+**C-4706** Host Says Charlie Was Betrayed by People Closest to Him
 
 Claim Timestamp: 00:44:48
 
@@ -2014,13 +2013,13 @@ Transcript Snippet: I feel as strongly about the dream that I had that Charlie w
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10389
-Supports: C-5087
+Supports: C-3534
 Tags: relevance:core
 Investigative Direction: The host offers no specific betrayal here; identify any documentary evidence that the people closest to Kirk acted against him.
 
 ---
 
-**C-6970** Host Says One Person Told Her on Record That Bowyer Offered Jobs for Favors
+**C-4707** Host Says One Person Told Her on Record That Bowyer Offered Jobs for Favors
 
 Claim Timestamp: 00:47:47
 
@@ -2036,7 +2035,7 @@ Investigative Direction: Identify the source and obtain the written account and 
 
 ---
 
-**C-6971** Article Says Austin Smith Dropped His 2024 Re-election Bid and Resigned
+**C-4709** Article Says Austin Smith Dropped His 2024 Re-election Bid and Resigned
 
 Claim Timestamp: 00:48:51
 
@@ -2052,7 +2051,7 @@ Investigative Direction: Check Arizona legislature and secretary of state record
 
 ---
 
-**C-6972** Article Says Turning Point Action Is the Campaign Arm of TPUSA
+**C-4711** Article Says Turning Point Action Is the Campaign Arm of TPUSA
 
 Claim Timestamp: 00:49:14
 
@@ -2068,7 +2067,7 @@ Investigative Direction: Obtain the original article and confirm Smith's dates a
 
 ---
 
-**C-6973** Host Says an Early Tip Said Money Was Missing From Turning Point Action
+**C-4712** Host Says an Early Tip Said Money Was Missing From Turning Point Action
 
 Claim Timestamp: 00:49:55
 
@@ -2084,7 +2083,7 @@ Investigative Direction: Compare Turning Point Action's FEC and IRS filings with
 
 ---
 
-**C-6974** Host Says Charlie Was Establishing a DOGE at TPUSA
+**C-4713** Host Says Charlie Was Establishing a DOGE at TPUSA
 
 Claim Timestamp: 00:49:55
 
@@ -2095,13 +2094,13 @@ Transcript Snippet: And we know Charlie was establishing this Doge.
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10000, N-10388
-Supports: C-5092
+Supports: C-3541
 Tags: relevance:core
 Investigative Direction: Obtain the September 2025 internal memo and DOGE records.
 
 ---
 
-**C-6975** Host Says Charlie Found Something Out About His Organization Shortly Before Death
+**C-4714** Host Says Charlie Found Something Out About His Organization Shortly Before Death
 
 Claim Timestamp: 00:50:50
 
@@ -2112,13 +2111,13 @@ Transcript Snippet: I think Charlie found something out about his organization v
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10000
-Supports: C-5093
+Supports: C-3542
 Tags: relevance:core
 Investigative Direction: Identify what Kirk learned in the days before September 10, 2025, via staff accounts and his communications.
 
 ---
 
-**C-6976** Host Shows Maggie Wegner's Instagram Handle
+**C-4715** Host Shows Maggie Wegner's Instagram Handle
 
 Claim Timestamp: 00:54:47
 
@@ -2134,7 +2133,7 @@ Investigative Direction: Confirm the handle on Instagram.
 
 ---
 
-**C-6977** French Channel Comment Reports Cattle Culling for Lumpy Skin Disease
+**C-4716** French Channel Comment Reports Cattle Culling for Lumpy Skin Disease
 
 Claim Timestamp: 00:56:19
 
@@ -2149,7 +2148,7 @@ Investigative Direction: Check French agriculture ministry announcements on lump
 
 ---
 
-**C-6978** Host Says Similar Cattle Actions Are Aimed at Taking Farmland
+**C-4717** Host Says Similar Cattle Actions Are Aimed at Taking Farmland
 
 Claim Timestamp: 00:57:00
 
@@ -2165,7 +2164,7 @@ Investigative Direction: Identify the specific US actions and policies the host 
 
 ---
 
-**C-6979** Host Says Poisoned Chicken Feed Story Was Big Pharma, Maybe Purdue
+**C-4718** Host Says Poisoned Chicken Feed Story Was Big Pharma, Maybe Purdue
 
 Claim Timestamp: 00:57:00
 
@@ -2181,7 +2180,7 @@ Investigative Direction: The host is unsure of the company; find the Daily Wire 
 
 ---
 
-**C-6980** Host Says Macron Is Suing People Over Crimes She Alleges From Before Transition
+**C-4719** Host Says Macron Is Suing People Over Crimes She Alleges From Before Transition
 
 Claim Timestamp: 00:57:41
 
@@ -2197,7 +2196,7 @@ Investigative Direction: The statement is the host's allegation about Brigitte M
 
 ---
 
-**C-6981** Host Says Child Sex Trafficking Keeps Coming Up in the Kirk Story
+**C-4720** Host Says Child Sex Trafficking Keeps Coming Up in the Kirk Story
 
 Claim Timestamp: 00:57:41
 
@@ -2212,7 +2211,7 @@ Investigative Direction: Ask the host to identify the people and charity she mea
 
 ---
 
-**C-6982** Host Says Viewer Tips Are Solving the Mystery of September 10
+**C-4723** Host Says Viewer Tips Are Solving the Mystery of September 10
 
 Claim Timestamp: 00:58:32
 
@@ -2222,7 +2221,7 @@ Transcript Snippet: is what is solving the mystery of what happened to Charlie K
 
 Anchored Artifacts: A-2845
 Mentions: N-3, N-1
-Supports: C-3655
+Supports: C-4721
 Tags: relevance:core
 Investigative Direction: Catalogue which tips have been independently verified and which findings came from them.
 

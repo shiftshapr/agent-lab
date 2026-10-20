@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep093): N-348
   - Tip-minted Nodes (reintro-ep093): N-649
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10e): C-11436–C-11491
+  - Claim Range: C-8288–C-8363
   - New Nodes Introduced: N-10616, N-10617, N-10618, N-10619, N-10622
   - Reused Nodes Appearing: none (Wave 2: local ids removed), N-10620, N-10621, N-5, N-9, N-14, N-19, N-28, N-33, N-36, N-40, N-47, N-54, N-66, N-97, N-237, N-270, N-278, N-500, N-595, N-660, N-708, N-889, N-10000, N-10023, N-10070, N-10110, N-10237, N-10340, N-10443, N-10539, N-10574, N-10598, N-10600, N-10601, N-10602, N-10607, N-10608, N-10613, N-10646, N-10694, N-10956, N-11054, N-11128, N-11182, N-343
   - (see registers)
@@ -183,7 +183,7 @@ Video Timestamp: 00:02:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2744, C-2758, N-10616, N-10617*
+*Related: C-8289, C-8310, N-10616, N-10617*
 
 ---
 
@@ -197,7 +197,7 @@ Video Timestamp: 00:07:27–00:13:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low–Medium (no underlying source shown; requires verification)
 
-*Related: C-2745, C-2747, N-10616*
+*Related: C-8294, C-8301, N-10616*
 
 **A-1982.2** JD Vance plane timeline on UGA rally day (circling North Carolina 3:53 PM; landing Athens 4:34 PM)
 
@@ -207,7 +207,7 @@ Video Timestamp: 00:08:44–00:09:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low–Medium (no underlying source shown; requires verification)
 
-*Related: C-2746, N-10616*
+*Related: C-8297, N-10616*
 
 ---
 
@@ -221,7 +221,7 @@ Video Timestamp: 00:11:54–00:12:49
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2747, N-10616*
+*Related: C-8301, N-10616*
 
 ---
 
@@ -235,7 +235,7 @@ Video Timestamp: 00:24:00–00:25:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2748*
+*Related: C-8316*
 
 ---
 
@@ -249,7 +249,7 @@ Video Timestamp: 00:29:30–00:30:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (one host-cited website shown; other websites referenced)
 
-*Related: C-2749*
+*Related: C-8324*
 
 ---
 
@@ -263,7 +263,7 @@ Video Timestamp: 00:29:30–00:30:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2749*
+*Related: C-8324*
 
 ---
 
@@ -277,7 +277,7 @@ Video Timestamp: 00:31:20–00:32:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2750*
+*Related: C-8327*
 
 **A-1987.2** Victor Marx interview clip denying arms trafficking: "Of course not. It's illegal. How would I even be where I am today?"
 
@@ -287,7 +287,7 @@ Video Timestamp: 00:33:46–00:34:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2751*
+*Related: C-8329*
 
 ---
 
@@ -301,7 +301,7 @@ Video Timestamp: 00:35:00–00:36:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host invites Victor Marx to dispute authenticity)
 
-*Related: C-2752, C-2753, N-10618*
+*Related: C-8332, C-8334, N-10618*
 
 **A-1988.2** Corby Hall reply: "Why so much focus on the IDF and not as much on domestic schools?… I would hate to send 1,000 units to the IDF and have an unprotected school get shot up here."
 
@@ -311,7 +311,7 @@ Video Timestamp: 00:36:10–00:37:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2752, N-10618*
+*Related: C-8332, N-10618*
 
 **A-1988.3** Victor Marx reply: "You won't be sending 1,000 units to anyone in the IDF. You will get a paycheck for the patent and possibly your company and then on to your next adventure."
 
@@ -321,7 +321,7 @@ Video Timestamp: 00:37:17–00:38:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2752, N-10618*
+*Related: C-8332, N-10618*
 
 ---
 
@@ -335,7 +335,7 @@ Video Timestamp: 00:39:18–00:41:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (article referenced but not displayed in full)
 
-*Related: C-2754, N-10620*
+*Related: C-8342, N-10620*
 
 ---
 
@@ -349,7 +349,7 @@ Video Timestamp: 00:41:38–00:45:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2755, C-2756, C-2757, N-10619, N-10621*
+*Related: C-8348, C-8349, C-8351, N-10619, N-10621*
 
 ---
 
@@ -363,7 +363,7 @@ Video Timestamp: 00:18:55–00:22:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2758, C-2759, N-10616*
+*Related: C-8310, C-8311, N-10616*
 
 **A-1991.2** Same Daily Mail article, insider continuation on ticket sales and mental exhaustion: "It wasn't just the ticket sales, either. It was also mental exhaustion…"
 
@@ -373,7 +373,7 @@ Video Timestamp: 00:21:34–00:22:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2759, N-10616*
+*Related: C-8311, N-10616*
 
 ---
 
@@ -387,7 +387,7 @@ Video Timestamp: 00:28:57–00:29:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: C-2760, N-10622*
+*Related: C-8321, N-10622*
 
 ---
 
@@ -402,7 +402,7 @@ Video Timestamp: 00:28:57
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11460, N-3, N-348*
+*Related: C-8322, N-3, N-348*
 
 ---
 
@@ -415,7 +415,7 @@ Video Timestamp: 00:07:27
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11440, N-2, N-889*
+*Related: C-8295, N-2, N-889*
 
 ---
 
@@ -430,7 +430,7 @@ Video Timestamp: 00:10:46
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11443, N-19, N-2*
+*Related: C-8299, N-19, N-2*
 
 ---
 
@@ -445,7 +445,7 @@ Video Timestamp: 00:48:20
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11482, C-11483, C-11484, C-11485, C-11486, N-270, N-1*
+*Related: C-8354, C-8355, C-8356, C-8357, C-8358, N-270, N-1*
 
 **A-3137.2** Viewer comment by James the least about Ben Shapiro, read by the host
 
@@ -456,7 +456,7 @@ Video Timestamp: 00:52:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11488, N-97*
+*Related: C-8360, N-97*
 
 ---
 
@@ -471,7 +471,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1981.1, A-1982.1, A-1982.2, A-1983, A-1991.1, A-1991.2, C-2744, C-2745, C-2746, C-2747, C-2758, C-2759*
+*Related: A-1981.1, A-1982.1, A-1982.2, A-1983, A-1991.1, A-1991.2, C-8289, C-8294, C-8297, C-8301, C-8310, C-8311*
 
 **N-10617** Secret Service Statement Verification
 
@@ -482,7 +482,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1981.1, C-2744*
+*Related: A-1981.1, C-8289*
 
 **N-10618** Victor Marx IDF / Israeli Defense Group Connection
 
@@ -493,7 +493,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1988.1, A-1988.2, A-1988.3, C-2752, C-2753*
+*Related: A-1988.1, A-1988.2, A-1988.3, C-8332, C-8334*
 
 **N-10619** Bain Capital Foreign Investment Line
 
@@ -504,7 +504,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1989, C-2754*
+*Related: A-1989, C-8342*
 
 **N-10620** ATF Bullet Comparison Methodology
 
@@ -515,7 +515,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1990, C-2755, C-2756, C-2757*
+*Related: A-1990, C-8348, C-8349, C-8351*
 
 **N-10621** Gun Firing Evidence Verification
 
@@ -537,7 +537,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1984.1, A-1992, C-2748, C-2760*
+*Related: A-1984.1, A-1992, C-8316, C-8321*
 
 ---
 
@@ -545,7 +545,7 @@ Investigative Pressure: Medium
 
 Subject of the assassination; the host discusses the timing of reports of his death and security around his event.
 
-*Related: A-3134.1, A-3135.1, A-3136, A-3136.1, A-3137, A-3137.1, A-3137.2, C-11436, C-11437, C-11438, C-11439, C-11440, C-11441, C-11442, C-11443, C-11444, C-11445, C-11446, C-11447, C-11448, C-11449, C-11450, C-11451, C-11452, C-11453, C-11454, C-11455, C-11456, C-11457, C-11458, C-11459, C-11460, C-11461, C-11462, C-11463, C-11464, C-11465, C-11466, C-11467, C-11468, C-11469, C-11470, C-11471, C-11472, C-11473, C-11474, C-11475, C-11476, C-11477, C-11478, C-11479, C-11480, C-11481, C-11482, C-11483, C-11484, C-11485, C-11486, C-11487, C-11488, C-11489, C-11490, C-11491*
+*Related: A-3134.1, A-3135.1, A-3136, A-3136.1, A-3137, A-3137.1, A-3137.2, C-8288, C-8291, C-8292, C-8293, C-8295, C-8296, C-8298, C-8299, C-8300, C-8302, C-8303, C-8304, C-8306, C-8307, C-8308, C-8309, C-8312, C-8313, C-8314, C-8315, C-8317, C-8318, C-8319, C-8320, C-8322, C-8323, C-8325, C-8326, C-8328, C-8330, C-8331, C-8333, C-8335, C-8336, C-8337, C-8338, C-8339, C-8340, C-8341, C-8343, C-8345, C-8346, C-8347, C-8350, C-8352, C-8353, C-8354, C-8355, C-8356, C-8357, C-8358, C-8359, C-8360, C-8361, C-8362, C-8363*
 
 ---
 
@@ -553,7 +553,7 @@ Subject of the assassination; the host discusses the timing of reports of his de
 
 Widow and TPUSA CEO; the host disputes her UGA cancellation account and reads the Daily Mail insider on it.
 
-*Related: A-3135, A-3135.1, A-3136, A-3136.1, A-3137, A-3137.1, A-3137.2, C-11437, C-11438, C-11439, C-11440, C-11441, C-11442, C-11443, C-11444, C-11445, C-11446, C-11447, C-11448, C-11449, C-11451, C-11452, C-11453, C-11454, C-11459, C-11469, C-11473, C-11474, C-11482, C-11483, C-11484, C-11485, C-11486, C-11487, C-11488, C-11489, C-11490*
+*Related: A-3135, A-3135.1, A-3136, A-3136.1, A-3137, A-3137.1, A-3137.2, C-8291, C-8292, C-8293, C-8295, C-8296, C-8298, C-8299, C-8300, C-8302, C-8303, C-8304, C-8306, C-8307, C-8309, C-8312, C-8313, C-8314, C-8320, C-8336, C-8340, C-8341, C-8354, C-8355, C-8356, C-8357, C-8358, C-8359, C-8360, C-8361, C-8362*
 
 ---
 
@@ -561,7 +561,7 @@ Widow and TPUSA CEO; the host disputes her UGA cancellation account and reads th
 
 Host; speaks for herself throughout.
 
-*Related: A-3134, A-3134.1, A-3135.1, A-3136.1, A-3137.2, C-11436, C-11437, C-11438, C-11440, C-11442, C-11443, C-11444, C-11448, C-11449, C-11450, C-11451, C-11452, C-11454, C-11455, C-11456, C-11457, C-11458, C-11459, C-11460, C-11461, C-11462, C-11463, C-11464, C-11465, C-11466, C-11467, C-11468, C-11469, C-11470, C-11474, C-11475, C-11476, C-11479, C-11480, C-11481, C-11487, C-11488, C-11490, C-11491*
+*Related: A-3134, A-3134.1, A-3135.1, A-3136.1, A-3137.2, C-8288, C-8291, C-8292, C-8295, C-8298, C-8299, C-8300, C-8306, C-8307, C-8308, C-8309, C-8312, C-8314, C-8315, C-8317, C-8318, C-8319, C-8320, C-8322, C-8323, C-8325, C-8326, C-8328, C-8330, C-8331, C-8333, C-8335, C-8336, C-8337, C-8341, C-8343, C-8345, C-8350, C-8352, C-8353, C-8359, C-8360, C-8362, C-8363*
 
 ---
 
@@ -569,7 +569,7 @@ Host; speaks for herself throughout.
 
 Vice President; his on-stage remarks and plane timeline anchor the UGA cancellation discussion.
 
-*Related: C-11439, C-11441, C-11442, C-11444, C-11445, C-11446, C-11449, C-11471, C-11473, C-11474, C-11475, C-11476, C-11477, C-11478, C-11479, C-11489*
+*Related: C-8293, C-8296, C-8298, C-8300, C-8302, C-8303, C-8307, C-8338, C-8340, C-8341, C-8343, C-8345, C-8346, C-8347, C-8350, C-8361*
 
 ---
 
@@ -577,7 +577,7 @@ Vice President; his on-stage remarks and plane timeline anchor the UGA cancellat
 
 President; the host cites his 2:40 p.m. announcement of Charlie Kirk's death.
 
-*Related: C-11457, C-11471, C-11472, C-11476, C-11477*
+*Related: C-8318, C-8338, C-8339, C-8345, C-8346*
 
 ---
 
@@ -585,7 +585,7 @@ President; the host cites his 2:40 p.m. announcement of Charlie Kirk's death.
 
 Jeffrey Epstein; the host relays claims about how he was brought into arms trafficking.
 
-*Related: A-3137, A-3137.1, A-3137.2, C-11471, C-11472, C-11482, C-11483, C-11484, C-11485, C-11486, C-11488*
+*Related: A-3137, A-3137.1, A-3137.2, C-8338, C-8339, C-8354, C-8355, C-8356, C-8357, C-8358, C-8360*
 
 ---
 
@@ -593,7 +593,7 @@ Jeffrey Epstein; the host relays claims about how he was brought into arms traff
 
 TPUSA spokesperson who interviewed Vance and whom the host says was sidelined.
 
-*Related: C-11444, C-11445, C-11450*
+*Related: C-8300, C-8302, C-8308*
 
 ---
 
@@ -601,7 +601,7 @@ TPUSA spokesperson who interviewed Vance and whom the host says was sidelined.
 
 Wi-Fi company speaker whose thanks to Erika the host reads as a backstage cue.
 
-*Related: A-3136, A-3136.1, C-11443*
+*Related: A-3136, A-3136.1, C-8299*
 
 ---
 
@@ -609,7 +609,7 @@ Wi-Fi company speaker whose thanks to Erika the host reads as a backstage cue.
 
 Mitt Romney, founder of Bain Capital; the host links its early funding to Robert Maxwell.
 
-*Related: C-11437, C-11473, C-11474*
+*Related: C-8291, C-8340, C-8341*
 
 ---
 
@@ -617,7 +617,7 @@ Mitt Romney, founder of Bain Capital; the host links its early funding to Robert
 
 Donald Trump Jr.; the host says his fiancee's bridal shower is why Erika was in Palm Beach.
 
-*Related: A-3135.1, C-11438, C-11440, C-11444, C-11487*
+*Related: A-3135.1, C-8292, C-8295, C-8300, C-8359*
 
 ---
 
@@ -625,7 +625,7 @@ Donald Trump Jr.; the host says his fiancee's bridal shower is why Erika was in 
 
 Benjamin Netanyahu (called Bebe in the transcript); the host says he commented too soon on the shooting and ties him to Maxwell and Romney.
 
-*Related: C-11458, C-11474*
+*Related: C-8319, C-8341*
 
 ---
 
@@ -633,7 +633,7 @@ Benjamin Netanyahu (called Bebe in the transcript); the host says he commented t
 
 Defendant; the host discusses the ATF summary on his rifle.
 
-*Related: C-11475, C-11476, C-11477, C-11478, C-11479*
+*Related: C-8343, C-8345, C-8346, C-8347, C-8350*
 
 ---
 
@@ -641,7 +641,7 @@ Defendant; the host discusses the ATF summary on his rifle.
 
 Ghislaine Maxwell; daughter of Robert Maxwell in the Bain Capital and Epstein discussion.
 
-*Related: C-11471, C-11473*
+*Related: C-8338, C-8340*
 
 ---
 
@@ -649,7 +649,7 @@ Ghislaine Maxwell; daughter of Robert Maxwell in the Bain Capital and Epstein di
 
 Robert Maxwell; the host cites him as an early Bain Capital investor and as linked to Epstein.
 
-*Related: C-11471, C-11473, C-11474*
+*Related: C-8338, C-8340, C-8341*
 
 ---
 
@@ -657,7 +657,7 @@ Robert Maxwell; the host cites him as an early Bain Capital investor and as link
 
 Lance Twiggs; the host theorizes he is a federal asset who obtained the rifle and casings.
 
-*Related: C-11476, C-11477*
+*Related: C-8345, C-8346*
 
 ---
 
@@ -665,7 +665,7 @@ Lance Twiggs; the host theorizes he is a federal asset who obtained the rifle an
 
 Village Crazy Lady (Mel on X); the host cites her theory that the cancellation was meant to hurt Vance.
 
-*Related: C-11489*
+*Related: C-8361*
 
 ---
 
@@ -673,7 +673,7 @@ Village Crazy Lady (Mel on X); the host cites her theory that the cancellation w
 
 Ben Shapiro; a viewer says he blamed the host for threats against Erika.
 
-*Related: A-3137, A-3137.1, A-3137.2, C-11482, C-11483, C-11484, C-11485, C-11486, C-11488*
+*Related: A-3137, A-3137.1, A-3137.2, C-8354, C-8355, C-8356, C-8357, C-8358, C-8360*
 
 ---
 
@@ -681,7 +681,7 @@ Ben Shapiro; a viewer says he blamed the host for threats against Erika.
 
 Glenn Beck; commenters cited his post that Charlie was stable.
 
-*Related: C-11454*
+*Related: C-8314*
 
 ---
 
@@ -689,7 +689,7 @@ Glenn Beck; commenters cited his post that Charlie was stable.
 
 Dan Flood; the host and a viewer comment criticize his security conduct and reported raise.
 
-*Related: A-3137, A-3137.1, A-3137.2, C-11482, C-11483, C-11484, C-11485, C-11486, C-11488*
+*Related: A-3137, A-3137.1, A-3137.2, C-8354, C-8355, C-8356, C-8357, C-8358, C-8360*
 
 ---
 
@@ -697,7 +697,7 @@ Dan Flood; the host and a viewer comment criticize his security conduct and repo
 
 Bari Weiss; CBS News run under her carried the Secret Service report.
 
-*Related: C-11437*
+*Related: C-8291*
 
 ---
 
@@ -705,7 +705,7 @@ Bari Weiss; CBS News run under her carried the Secret Service report.
 
 Baron Coleman; his show supplied the Georgia timeline and the FFL finding.
 
-*Related: C-11438, C-11444, C-11487*
+*Related: C-8292, C-8300, C-8359*
 
 ---
 
@@ -713,7 +713,7 @@ Baron Coleman; his show supplied the Georgia timeline and the FFL finding.
 
 Victor Marx; the host discusses his early death post, interview, texts and interview conditions.
 
-*Related: C-11436, C-11454, C-11455, C-11456, C-11457, C-11459, C-11462, C-11463, C-11464, C-11465, C-11466, C-11467, C-11468, C-11469, C-11470*
+*Related: C-8288, C-8314, C-8315, C-8317, C-8318, C-8320, C-8325, C-8326, C-8328, C-8330, C-8331, C-8333, C-8335, C-8336, C-8337*
 
 ---
 
@@ -721,7 +721,7 @@ Victor Marx; the host discusses his early death post, interview, texts and inter
 
 Corby Hall; source of the messages and arms-sale allegations about Marx.
 
-*Related: C-11463, C-11464, C-11465, C-11466, C-11467, C-11468, C-11470*
+*Related: C-8326, C-8328, C-8330, C-8331, C-8333, C-8335, C-8337*
 
 ---
 
@@ -729,7 +729,7 @@ Corby Hall; source of the messages and arms-sale allegations about Marx.
 
 Eileen Marx; wife Marx wants to bring to an interview.
 
-*Related: C-11463*
+*Related: C-8326*
 
 ---
 
@@ -737,7 +737,7 @@ Eileen Marx; wife Marx wants to bring to an interview.
 
 Amir Tsarfati (also Sarfati); viewer tip that he heard of the shooting first.
 
-*Related: A-3134, A-3134.1, C-11460, C-11461*
+*Related: A-3134, A-3134.1, C-8322, C-8323*
 
 ---
 
@@ -745,7 +745,7 @@ Amir Tsarfati (also Sarfati); viewer tip that he heard of the shooting first.
 
 Victor Ostrovsky; former Mossad officer whose claims about Epstein the host relays.
 
-*Related: C-11471, C-11472*
+*Related: C-8338, C-8339*
 
 ---
 
@@ -753,7 +753,7 @@ Victor Ostrovsky; former Mossad officer whose claims about Epstein the host rela
 
 Druski; comedian whose video mocking Erika is cited as a factor in the cancellation.
 
-*Related: C-11451, C-11487*
+*Related: C-8309, C-8359*
 
 ---
 
@@ -761,7 +761,7 @@ Druski; comedian whose video mocking Erika is cited as a factor in the cancellat
 
 Marco Rubio; a commenter says donors have chosen him for 2028.
 
-*Related: C-11489*
+*Related: C-8361*
 
 ---
 
@@ -769,7 +769,7 @@ Marco Rubio; a commenter says donors have chosen him for 2028.
 
 Ivanka Trump; the host says she attended the bridal shower.
 
-*Related: A-3135.1, C-11440*
+*Related: A-3135.1, C-8295*
 
 ---
 
@@ -777,7 +777,7 @@ Ivanka Trump; the host says she attended the bridal shower.
 
 John F. Kennedy; the host compares prosecution tactics to those after his killing.
 
-*Related: C-11480*
+*Related: C-8352*
 
 ---
 
@@ -785,7 +785,7 @@ John F. Kennedy; the host compares prosecution tactics to those after his killin
 
 Existing topic reused for new claims in this episode.
 
-*Related: A-3137.1, C-11450, C-11484*
+*Related: A-3137.1, C-8308, C-8356*
 
 ---
 
@@ -793,7 +793,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11471, C-11472*
+*Related: C-8338, C-8339*
 
 ---
 
@@ -801,7 +801,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11451, C-11452, C-11453*
+*Related: C-8309, C-8312, C-8313*
 
 ---
 
@@ -809,7 +809,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11475, C-11479*
+*Related: C-8343, C-8350*
 
 ---
 
@@ -817,7 +817,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: A-3137.2, C-11488*
+*Related: A-3137.2, C-8360*
 
 ---
 
@@ -825,7 +825,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: A-3137.1, C-11485*
+*Related: A-3137.1, C-8357*
 
 ---
 
@@ -833,7 +833,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11453*
+*Related: C-8313*
 
 ---
 
@@ -841,7 +841,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11481*
+*Related: C-8353*
 
 ---
 
@@ -849,7 +849,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11474*
+*Related: C-8341*
 
 ---
 
@@ -857,7 +857,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11476, C-11477*
+*Related: C-8345, C-8346*
 
 ---
 
@@ -865,7 +865,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11468*
+*Related: C-8335*
 
 ---
 
@@ -873,7 +873,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11465*
+*Related: C-8330*
 
 ---
 
@@ -881,7 +881,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11466*
+*Related: C-8331*
 
 ---
 
@@ -889,7 +889,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11445*
+*Related: C-8302*
 
 ---
 
@@ -897,7 +897,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11452, C-11490, C-11491*
+*Related: C-8312, C-8362, C-8363*
 
 ---
 
@@ -905,7 +905,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11462, C-11463, C-11464, C-11470*
+*Related: C-8325, C-8326, C-8328, C-8337*
 
 ---
 
@@ -913,7 +913,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: A-3137.1, C-11484*
+*Related: A-3137.1, C-8356*
 
 ---
 
@@ -921,7 +921,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: A-3137.1, C-11482, C-11483, C-11486*
+*Related: A-3137.1, C-8354, C-8355, C-8358*
 
 ---
 
@@ -929,7 +929,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11448*
+*Related: C-8306*
 
 ---
 
@@ -937,7 +937,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11477*
+*Related: C-8346*
 
 ---
 
@@ -945,7 +945,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11481*
+*Related: C-8353*
 
 ---
 
@@ -953,7 +953,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-11450*
+*Related: C-8308*
 
 ---
 
@@ -962,7 +962,7 @@ Existing topic reused for new claims in this episode.
 First named by the host at 00:07:27 in episode 93 as Bettina, soon-to-be Trump, whose bridal shower Erika attended.
 Aliases: Bettina
 
-*Related: A-3135, A-3135.1, C-11440*
+*Related: A-3135, A-3135.1, C-8295*
 
 ---
 
@@ -970,13 +970,13 @@ Aliases: Bettina
 
 First named by the host at 00:39:19 in episode 93 as the arms dealer Epstein was initially brought in to deal with, per Ostrovsky.
 
-*Related: C-11472*
+*Related: C-8339*
 
 ---
 
 ## 5. Claim Register
 
-**C-2744** Secret Service determined no credible threats to UGA rally
+**C-8289** Secret Service determined no credible threats to UGA rally
 
 Claim Timestamp: 00:02:09
 
@@ -984,7 +984,7 @@ Claim: Per the CBS News article the host shows, a person familiar with the matte
 
 Anchored Artifacts: A-1981.1
 Mentions: N-4
-Contradicts: C-2724, C-2728
+Contradicts: C-8208, C-8225
 
 Related Nodes: N-10617, N-10616
 
@@ -992,7 +992,7 @@ Investigative Direction: Obtain the underlying Secret Service statement on the r
 
 ---
 
-**C-2745** Host Says Erika Kirk Was in Athens, GA From 2:40 PM to 6:39 PM on Rally Day
+**C-8294** Host Says Erika Kirk Was in Athens, GA From 2:40 PM to 6:39 PM on Rally Day
 
 Claim Timestamp: 00:07:27–00:13:38
 
@@ -1007,7 +1007,7 @@ Investigative Direction: Obtain FAA flight logs, airport records, and Secret Ser
 
 ---
 
-**C-2746** JD Vance plane circled above North Carolina 3:53 PM–4:34 PM
+**C-8297** JD Vance plane circled above North Carolina 3:53 PM–4:34 PM
 
 Claim Timestamp: 00:08:44–00:09:45
 
@@ -1022,7 +1022,7 @@ Investigative Direction: Cross-reference flight tracking data (ADS-B Exchange / 
 
 ---
 
-**C-2747** JD Vance stated on stage he was worried about cancellation "2 hours ago"
+**C-8301** JD Vance stated on stage he was worried about cancellation "2 hours ago"
 
 Claim Timestamp: 00:11:54–00:12:49
 
@@ -1037,7 +1037,7 @@ Investigative Direction: Obtain full unedited UGA rally footage and any subseque
 
 ---
 
-**C-2748** Victor Marx publicly announced Charlie Kirk's death at 1:13 PM Mountain Time on September 10, 2025
+**C-8316** Victor Marx publicly announced Charlie Kirk's death at 1:13 PM Mountain Time on September 10, 2025
 
 Claim Timestamp: 00:24:00–00:25:01
 
@@ -1052,7 +1052,7 @@ Investigative Direction: Archive the post screenshots (cited as having been rece
 
 ---
 
-**C-2749** Victor Marx holds a Class 1 Federal Firearms License
+**C-8324** Victor Marx holds a Class 1 Federal Firearms License
 
 Claim Timestamp: 00:29:30–00:30:28
 
@@ -1067,7 +1067,7 @@ Investigative Direction: Pull the ATF FFL eZ Check record directly and verify th
 
 ---
 
-**C-2750** Victor Marx admitted threatening to "whoop" Corby Hall's ass
+**C-8327** Victor Marx admitted threatening to "whoop" Corby Hall's ass
 
 Claim Timestamp: 00:31:20–00:32:44
 
@@ -1082,7 +1082,7 @@ Investigative Direction: Identify the full original interview source, date, and 
 
 ---
 
-**C-2751** Victor Marx denied seeking to traffic rifles to Haiti, Israel, or Iran
+**C-8329** Victor Marx denied seeking to traffic rifles to Haiti, Israel, or Iran
 
 Claim Timestamp: 00:33:46–00:34:57
 
@@ -1097,7 +1097,7 @@ Investigative Direction: Locate the full interview; corroborate with any on-reco
 
 ---
 
-**C-2752** Host Reads Texts Attributed to Victor Marx Referencing "Israeli Defense Group" and SOCOM Contract
+**C-8332** Host Reads Texts Attributed to Victor Marx Referencing "Israeli Defense Group" and SOCOM Contract
 
 Claim Timestamp: 00:35:00–00:38:02
 
@@ -1112,7 +1112,7 @@ Investigative Direction: Authenticate the text-message screenshots (metadata, de
 
 ---
 
-**C-2753** Text message conversation occurred in April 2025
+**C-8334** Text message conversation occurred in April 2025
 
 Claim Timestamp: 00:37:17–00:38:02
 
@@ -1127,7 +1127,7 @@ Investigative Direction: Obtain message timestamps to confirm date precisely.
 
 ---
 
-**C-2754** Robert Maxwell provided $2 million toward Bain Capital's initial $37 million fund
+**C-8342** Robert Maxwell provided $2 million toward Bain Capital's initial $37 million fund
 
 Claim Timestamp: 00:40:43
 
@@ -1142,7 +1142,7 @@ Investigative Direction: Retrieve the underlying LA Times article and any SEC fi
 
 ---
 
-**C-2755** Host Says ATF Summary Found Cartridge Cases Matched Exhibit 1 Rifle
+**C-8348** Host Says ATF Summary Found Cartridge Cases Matched Exhibit 1 Rifle
 
 Claim Timestamp: 00:43:33
 
@@ -1156,7 +1156,7 @@ Investigative Direction: Obtain the ATF summary in full (rather than partial rea
 
 ---
 
-**C-2756** Bullet jacket fragments could not be excluded based on discernable class characteristics
+**C-8349** Bullet jacket fragments could not be excluded based on discernable class characteristics
 
 Claim Timestamp: 00:43:51–00:44:37
 
@@ -1170,7 +1170,7 @@ Investigative Direction: Obtain forensic report details on which class character
 
 ---
 
-**C-2757** Host Says ATF Summary Indicates Microscopic Comparison of Bullet Evidence
+**C-8351** Host Says ATF Summary Indicates Microscopic Comparison of Bullet Evidence
 
 Claim Timestamp: 00:44:37–00:45:48
 
@@ -1184,7 +1184,7 @@ Investigative Direction: Track subsequent filings and any defense challenges to 
 
 ---
 
-**C-2758** Daily Mail Insider Says Cancellation Was Not Solely Security-Related
+**C-8310** Daily Mail Insider Says Cancellation Was Not Solely Security-Related
 
 Claim Timestamp: 00:21:10
 
@@ -1199,7 +1199,7 @@ Investigative Direction: Identify the insider source; obtain the full Daily Mail
 
 ---
 
-**C-2759** Insider attributed cancellation in part to ticket sales and mental exhaustion
+**C-8311** Insider attributed cancellation in part to ticket sales and mental exhaustion
 
 Claim Timestamp: 00:21:34–00:22:20
 
@@ -1214,7 +1214,7 @@ Investigative Direction: Cross-reference with venue ticketing data and corrobora
 
 ---
 
-**C-2760** Viewer Comment Says They First Heard the News From Amir Tsarfati
+**C-8321** Viewer Comment Says They First Heard the News From Amir Tsarfati
 
 Claim Timestamp: 00:28:57–00:29:30
 
@@ -1229,7 +1229,7 @@ Investigative Direction: Obtain request for verbatim or original-source document
 
 ---
 
-**C-2761** Host concurs with Elizabeth Lane's prior assessment of Erika Kirk
+**C-8305** Host concurs with Elizabeth Lane's prior assessment of Erika Kirk
 
 Claim Timestamp: 00:16:24
 
@@ -1244,7 +1244,7 @@ Investigative Direction: Cross-reference the prior episode's Elizabeth Lane arti
 
 ---
 
-**C-2762** Contradiction – Erika Kirk claimed credible threat vs Secret Service finding of none
+**C-8290** Contradiction – Erika Kirk claimed credible threat vs Secret Service finding of none
 
 Claim Timestamp: 00:02:09–00:13:38
 
@@ -1252,7 +1252,7 @@ Claim: The host says Erika Kirk's stated reason for canceling, a very credible t
 
 Anchored Artifacts: A-1981.1 (Secret Service side); A-1991.1 (insider side acknowledging non-security factors)
 Mentions: N-2
-Contradicts: C-2744
+Contradicts: C-8289
 
 Related Nodes: N-10616, N-10617
 
@@ -1260,7 +1260,7 @@ Investigative Direction: Resolve by obtaining either Erika Kirk's underlying thr
 
 ---
 
-**C-2763** Contradiction – Bomb dogs reportedly did not detect recent firing on recovered rifle
+**C-8344** Contradiction – Bomb dogs reportedly did not detect recent firing on recovered rifle
 
 Claim Timestamp: 00:42:19–00:43:08
 
@@ -1274,7 +1274,7 @@ Investigative Direction: Obtain canine unit deployment records, ATF chain-of-cus
 
 ---
 
-**C-11436** Host Says Marx Later Deleted His Death-Announcement Post
+**C-8288** Host Says Marx Later Deleted His Death-Announcement Post
 
 Claim Timestamp: 00:00:40
 
@@ -1290,7 +1290,7 @@ Investigative Direction: Archive captures (Wayback, screenshots with timestamps)
 
 ---
 
-**C-11437** CBS Article Says Hostile Messages Were Not an Actionable Threat Stream
+**C-8291** CBS Article Says Hostile Messages Were Not an Actionable Threat Stream
 
 Claim Timestamp: 00:02:09
 
@@ -1301,13 +1301,13 @@ Transcript Snippet: Now, while Kirk may have received hostile messages including
 Anchored Artifacts: A-1981.1
 Mentions: N-2, N-3
 Related Nodes: N-10617, N-10616
-Supports: C-2744
+Supports: C-8289
 Tags: relevance:core
 Investigative Direction: Obtain the full CBS article and Secret Service on-record statement; ask TPUSA to produce the threat messages it relied on.
 
 ---
 
-**C-11438** Host Says She Learned From a Tip and Coleman That Erika Was Already in Georgia
+**C-8292** Host Says She Learned From a Tip and Coleman That Erika Was Already in Georgia
 
 Claim Timestamp: 00:05:17
 
@@ -1318,13 +1318,13 @@ Transcript Snippet: we received a tip that Erika was indeed in Georgia already
 Anchored Artifacts: A-1982.1
 Mentions: N-330, N-2, N-3
 Related Nodes: N-10616
-Supports: C-2745
+Supports: C-8294
 Tags: relevance:core
 Investigative Direction: Identify the tipster and obtain flight-tracking and airport records placing Erika's aircraft in Athens.
 
 ---
 
-**C-11439** Host Says Federal Teams Sweep Venues and Airports 48 Hours Before a VP Visit
+**C-8293** Host Says Federal Teams Sweep Venues and Airports 48 Hours Before a VP Visit
 
 Claim Timestamp: 00:06:21
 
@@ -1340,7 +1340,7 @@ Investigative Direction: Obtain Secret Service advance-team protocol for the Ath
 
 ---
 
-**C-11440** Host Says Erika Flew to Palm Beach for Bettina's Bridal Shower and Stayed Through Monday
+**C-8295** Host Says Erika Flew to Palm Beach for Bettina's Bridal Shower and Stayed Through Monday
 
 Claim Timestamp: 00:07:27
 
@@ -1356,7 +1356,7 @@ Investigative Direction: Obtain the photos and event coverage of the shower and 
 
 ---
 
-**C-11441** Host Says Erika Flew Into the Same Secured Private Terminal as the Vice President
+**C-8296** Host Says Erika Flew Into the Same Secured Private Terminal as the Vice President
 
 Claim Timestamp: 00:07:27
 
@@ -1367,13 +1367,13 @@ Transcript Snippet: she therefore flew into the already secured by the Secret Se
 Anchored Artifacts: A-1982.1
 Mentions: N-2, N-4
 Related Nodes: N-10616
-Supports: C-2745
+Supports: C-8294
 Tags: relevance:core
 Investigative Direction: Obtain airport FBO and Secret Service records showing which terminal each aircraft used at Athens-Ben Epps.
 
 ---
 
-**C-11442** Host Says Vance Took the Call About Erika at 3:53 While His Plane Circled
+**C-8298** Host Says Vance Took the Call About Erika at 3:53 While His Plane Circled
 
 Claim Timestamp: 00:08:44
 
@@ -1384,13 +1384,13 @@ Transcript Snippet: At 3:53 p. m., J. D. Vance's plane begins circling in the ai
 Anchored Artifacts: A-1982.2
 Mentions: N-4, N-2
 Related Nodes: N-10616
-Supports: C-2746
+Supports: C-8297
 Tags: relevance:core
 Investigative Direction: Cross-check ADS-B tracks of the Vance aircraft with Vance's phone and schedule records; ask the Vice President's office when he learned Erika might not appear.
 
 ---
 
-**C-11443** Host Says Erika Was Off Stage Left as Schoneberger Thanked Her at 5:00
+**C-8299** Host Says Erika Was Off Stage Left as Schoneberger Thanked Her at 5:00
 
 Claim Timestamp: 00:09:45
 
@@ -1406,7 +1406,7 @@ Investigative Direction: Obtain full event video showing the opening remarks and
 
 ---
 
-**C-11444** Host Says Erika Was Backstage and Coleman Noted Kolvet's Casual Dress
+**C-8300** Host Says Erika Was Backstage and Coleman Noted Kolvet's Casual Dress
 
 Claim Timestamp: 00:10:46
 
@@ -1417,13 +1417,13 @@ Transcript Snippet: I am with Baron on this. She was in the building and she was
 Anchored Artifacts: 
 Mentions: N-330, N-14, N-2, N-4
 Related Nodes: N-10616
-Supports: C-2745
+Supports: C-8294
 Tags: relevance:core
 Investigative Direction: Obtain event photos and video of Kolvet's attire and any staffer accounts of where Erika was between 2:40 and 6:39.
 
 ---
 
-**C-11445** Vance Said on Stage That Erika Had Received Some Threats
+**C-8302** Vance Said on Stage That Erika Had Received Some Threats
 
 Claim Timestamp: 00:11:54
 
@@ -1439,7 +1439,7 @@ Investigative Direction: Ask the Vice President's office what threat information
 
 ---
 
-**C-11446** Vance Said He Spoke to the Secret Service and Let Erika Do What She Needed
+**C-8303** Vance Said He Spoke to the Secret Service and Let Erika Do What She Needed
 
 Claim Timestamp: 00:11:54
 
@@ -1450,13 +1450,13 @@ Transcript Snippet: I talked to the Secret Service and obviously these guys do a
 Anchored Artifacts: A-1983
 Mentions: N-4, N-2
 Related Nodes: N-10616, N-10617
-Supports: C-2747
+Supports: C-8301
 Tags: relevance:core
 Investigative Direction: Obtain the full Vance remarks and ask the Secret Service whether it advised on Erika's cancellation.
 
 ---
 
-**C-11447** Host Says Erika Left Athens for Scottsdale at 6:39 p.m.
+**C-8304** Host Says Erika Left Athens for Scottsdale at 6:39 p.m.
 
 Claim Timestamp: 00:12:49
 
@@ -1467,13 +1467,13 @@ Transcript Snippet: She departed Athens and she headed back for Scottsdale.
 Anchored Artifacts: A-1982.1
 Mentions: N-2
 Related Nodes: N-10616
-Supports: C-2745
+Supports: C-8294
 Tags: relevance:core
 Investigative Direction: Pull flight-tracking records of the Erika aircraft departing Athens and its destination.
 
 ---
 
-**C-11448** Host Says Erika Phoned and Cried to Discourage Attendance at the Catholics for Catholics Event
+**C-8306** Host Says Erika Phoned and Cried to Discourage Attendance at the Catholics for Catholics Event
 
 Claim Timestamp: 00:17:09
 
@@ -1489,7 +1489,7 @@ Investigative Direction: Identify the people who received the calls and obtain t
 
 ---
 
-**C-11449** Host Speculates Erika Called Vance Directly and Cried
+**C-8307** Host Speculates Erika Called Vance Directly and Cried
 
 Claim Timestamp: 00:17:09
 
@@ -1500,13 +1500,13 @@ Transcript Snippet: I think that when J. D. Vance's plane was circling, of cours
 Anchored Artifacts: A-1982.2
 Mentions: N-2, N-4, N-3
 Related Nodes: N-10616
-Supports: C-11442
+Supports: C-8298
 Tags: relevance:context
 Investigative Direction: Ask Vance's office whether he spoke with Erika before the event and obtain call records.
 
 ---
 
-**C-11450** Host Says TPUSA Likely Hired a Crisis PR Person and Sidelined Kolvet
+**C-8308** Host Says TPUSA Likely Hired a Crisis PR Person and Sidelined Kolvet
 
 Claim Timestamp: 00:18:55
 
@@ -1522,7 +1522,7 @@ Investigative Direction: Identify any new TPUSA communications hire or agency an
 
 ---
 
-**C-11451** Daily Mail Insider Says Druski Video Hurt Erika
+**C-8309** Daily Mail Insider Says Druski Video Hurt Erika
 
 Claim Timestamp: 00:21:02
 
@@ -1538,7 +1538,7 @@ Investigative Direction: Obtain the Daily Mail article and identify the confidan
 
 ---
 
-**C-11452** Daily Mail Article Describes Host as Suggesting Low Ticket Sales
+**C-8312** Daily Mail Article Describes Host as Suggesting Low Ticket Sales
 
 Claim Timestamp: 00:21:34
 
@@ -1549,13 +1549,13 @@ Transcript Snippet: Far-right commentator Candace Owens, who has peddled outland
 Anchored Artifacts: A-1991.2
 Mentions: N-3, N-2
 Related Nodes: N-10070, N-10608
-Supports: C-2759
+Supports: C-8311
 Tags: relevance:context
 Investigative Direction: Obtain the Daily Mail article text and the earlier episode in which the host raised low ticket sales.
 
 ---
 
-**C-11453** Daily Mail Insider Says Erika Was Putting on a Brave Face and Was Told It Looked Bad
+**C-8313** Daily Mail Insider Says Erika Was Putting on a Brave Face and Was Told It Looked Bad
 
 Claim Timestamp: 00:22:20
 
@@ -1571,7 +1571,7 @@ Investigative Direction: Identify the insider; collect the advice Erika reported
 
 ---
 
-**C-11454** Host Says Marx Also Posted a Video Announcing Death While Commenters Cited Glenn Beck's Stable Post
+**C-8314** Host Says Marx Also Posted a Video Announcing Death While Commenters Cited Glenn Beck's Stable Post
 
 Claim Timestamp: 00:23:43
 
@@ -1582,13 +1582,13 @@ Transcript Snippet: And he did a video, and he announced that Charlie had died, 
 Anchored Artifacts: A-1984.1
 Mentions: N-341, N-237, N-1
 Related Nodes: N-10622
-Supports: C-2748
+Supports: C-8316
 Tags: relevance:core
 Investigative Direction: Locate the Marx video and comment thread and the Glenn Beck post, and compare their timestamps.
 
 ---
 
-**C-11455** Host Says a Tipster's Buddy Supplied the Marx Screenshots in Eastern Time
+**C-8315** Host Says a Tipster's Buddy Supplied the Marx Screenshots in Eastern Time
 
 Claim Timestamp: 00:23:43
 
@@ -1604,7 +1604,7 @@ Investigative Direction: Obtain the original screenshots with metadata and confi
 
 ---
 
-**C-11456** Host Says Marx Posted About 50 Minutes After Charlie Was Shot
+**C-8317** Host Says Marx Posted About 50 Minutes After Charlie Was Shot
 
 Claim Timestamp: 00:25:01
 
@@ -1615,13 +1615,13 @@ Transcript Snippet: That's just 50 minutes after Charlie was shot. Who told him?
 Anchored Artifacts: A-1984.1
 Mentions: N-341, N-1
 Related Nodes: N-10622
-Supports: C-2748
+Supports: C-8316
 Tags: relevance:core
 Investigative Direction: Fix the shooting time (about 12:23 MT) against the Marx post metadata; ask Marx for his source.
 
 ---
 
-**C-11457** Host Says Marx Posted About 1 Hour 27 Minutes Before Trump Announced Death
+**C-8318** Host Says Marx Posted About 1 Hour 27 Minutes Before Trump Announced Death
 
 Claim Timestamp: 00:25:01
 
@@ -1632,13 +1632,13 @@ Transcript Snippet: So, the public didn't officially find out until President Tr
 Anchored Artifacts: A-1984.1
 Mentions: N-341, N-5, N-1
 Related Nodes: N-10622
-Supports: C-2748
+Supports: C-8316
 Tags: relevance:core
 Investigative Direction: Confirm the time of Trump's Truth Social or X announcement and the earliest confirmed public reports of death.
 
 ---
 
-**C-11458** Host Says Netanyahu Commented Too Soon That Charlie Had Been Shot
+**C-8319** Host Says Netanyahu Commented Too Soon That Charlie Had Been Shot
 
 Claim Timestamp: 00:25:01
 
@@ -1654,7 +1654,7 @@ Investigative Direction: Retrieve the time of Netanyahu's statement or post abou
 
 ---
 
-**C-11459** Host Says Marx's Post Time Should Be When Erika Learned Charlie Died
+**C-8320** Host Says Marx's Post Time Should Be When Erika Learned Charlie Died
 
 Claim Timestamp: 00:25:01
 
@@ -1670,7 +1670,7 @@ Investigative Direction: Obtain Erika's call logs and the hospital timeline for 
 
 ---
 
-**C-11460** Host Asks Viewers to Email Tips on Amir Tsarfati to More Tips Address
+**C-8322** Host Asks Viewers to Email Tips on Amir Tsarfati to More Tips Address
 
 Claim Timestamp: 00:28:57
 
@@ -1681,13 +1681,13 @@ Transcript Snippet: but if it is, please do send us an email to more tips@candac
 Anchored Artifacts: A-3134.1
 Mentions: N-348, N-3
 Related Nodes: N-10622
-Supports: C-2760
+Supports: C-8321
 Tags: relevance:core
 Investigative Direction: Receive and verify any tip about Safadi or Sarfati; plot it on the minute-by-minute timeline.
 
 ---
 
-**C-11461** Host Says Amir Tsarfati Is Involved With Churches and Pastors and She Thinks Is in the IDF
+**C-8323** Host Says Amir Tsarfati Is Involved With Churches and Pastors and She Thinks Is in the IDF
 
 Claim Timestamp: 00:28:57
 
@@ -1698,13 +1698,13 @@ Transcript Snippet: That would be interesting cuz I think he is in the IDF.
 Anchored Artifacts: A-1992
 Mentions: N-348, N-3
 Related Nodes: N-10622
-Supports: C-2760
+Supports: C-8321
 Tags: relevance:core
 Investigative Direction: Verify who Amir Tsarfati or Sarfati is, his church roles and any IDF service, from public records and the tipster.
 
 ---
 
-**C-11462** Host Says Marx Has Not Answered Her Messages Despite Media Appearances
+**C-8325** Host Says Marx Has Not Answered Her Messages Despite Media Appearances
 
 Claim Timestamp: 00:30:28
 
@@ -1715,13 +1715,13 @@ Transcript Snippet: Victor Marx still has not answered my messages, by the way, 
 Anchored Artifacts: 
 Mentions: N-341, N-3
 Related Nodes: N-10613
-Supports: C-2736
+Supports: C-8260
 Tags: relevance:core
 Investigative Direction: Preserve the host's message records to Marx and any reply; ask Marx's representatives to confirm.
 
 ---
 
-**C-11463** Host Says Marx Wants to Bring His Wife Eileen but Not Corby Hall
+**C-8326** Host Says Marx Wants to Bring His Wife Eileen but Not Corby Hall
 
 Claim Timestamp: 00:30:28
 
@@ -1732,13 +1732,13 @@ Transcript Snippet: one of the conditions is that he wants to be able to bring h
 Anchored Artifacts: 
 Mentions: N-341, N-343, N-342, N-3
 Related Nodes: N-10613
-Supports: C-2735
+Supports: C-8258
 Tags: relevance:core
 Investigative Direction: Obtain the message or public statement in which Marx set these conditions.
 
 ---
 
-**C-11464** Marx Says in Interview Corby Was Depressed and He Taught Him to Punch
+**C-8328** Marx Says in Interview Corby Was Depressed and He Taught Him to Punch
 
 Claim Timestamp: 00:31:20
 
@@ -1749,13 +1749,13 @@ Transcript Snippet: I ended up taking him into the training center and teaching 
 Anchored Artifacts: A-1987.1
 Mentions: N-341, N-342
 Related Nodes: N-10613
-Supports: C-2750
+Supports: C-8327
 Tags: relevance:core
 Investigative Direction: Locate the full interview and compare with Corby Hall's account of the visit.
 
 ---
 
-**C-11465** Host Says Corby Asserted Marx Wanted Guns Sold in Israel
+**C-8330** Host Says Corby Asserted Marx Wanted Guns Sold in Israel
 
 Claim Timestamp: 00:34:57
 
@@ -1771,7 +1771,7 @@ Investigative Direction: Obtain Corby Hall's full account and any documents show
 
 ---
 
-**C-11466** Host Says Corby Declined and Cautioned Marx Against a Haitian Arms Deal as Illegal
+**C-8331** Host Says Corby Declined and Cautioned Marx Against a Haitian Arms Deal as Illegal
 
 Claim Timestamp: 00:34:57
 
@@ -1787,7 +1787,7 @@ Investigative Direction: Obtain Corby Hall's account and any written exchange ab
 
 ---
 
-**C-11467** Host Says the State of Colorado Might Want to Know Who Marx Is
+**C-8333** Host Says the State of Colorado Might Want to Know Who Marx Is
 
 Claim Timestamp: 00:36:10
 
@@ -1798,13 +1798,13 @@ Transcript Snippet: I think the state of Colorado might want to know all of who 
 Anchored Artifacts: A-1988.1
 Mentions: N-341, N-342
 Related Nodes: N-10618
-Supports: C-2752
+Supports: C-8332
 Tags: relevance:core
 Investigative Direction: Authenticate the message with full thread metadata; ask Marx whether he sent it.
 
 ---
 
-**C-11468** Marx Text Reply Says Corby Will Get a Paycheck for the Patent, Not Sell Units to the IDF
+**C-8335** Marx Text Reply Says Corby Will Get a Paycheck for the Patent, Not Sell Units to the IDF
 
 Claim Timestamp: 00:37:17
 
@@ -1815,13 +1815,13 @@ Transcript Snippet: You won't be sending 1,000 units to anyone in the IDF. You w
 Anchored Artifacts: A-1988.3
 Mentions: N-341, N-342
 Related Nodes: N-10618, N-10600
-Supports: C-2752
+Supports: C-8332
 Tags: relevance:core
 Investigative Direction: Authenticate the thread; obtain any term sheet or patent-purchase offers connected to Fold AR.
 
 ---
 
-**C-11469** Host Says Marx Knew of Charlie's Death Before Anyone Else Alongside Erika
+**C-8336** Host Says Marx Knew of Charlie's Death Before Anyone Else Alongside Erika
 
 Claim Timestamp: 00:38:02
 
@@ -1832,13 +1832,13 @@ Transcript Snippet: How he knew, initially, before anybody else, virtually at th
 Anchored Artifacts: A-1984.1
 Mentions: N-341, N-2, N-1
 Related Nodes: N-10622
-Supports: C-2748
+Supports: C-8316
 Tags: relevance:core
 Investigative Direction: Establish Marx's source through his own statement, call logs or the people who contacted him on September 10.
 
 ---
 
-**C-11470** Host Offers to Host Marx Alone if He Refuses to Sit With Corby
+**C-8337** Host Offers to Host Marx Alone if He Refuses to Sit With Corby
 
 Claim Timestamp: 00:38:02
 
@@ -1849,13 +1849,13 @@ Transcript Snippet: Otherwise, I am happy to have just Victor on my show alone o
 Anchored Artifacts: 
 Mentions: N-341, N-342, N-343, N-3
 Related Nodes: N-10613
-Supports: C-2735
+Supports: C-8258
 Tags: relevance:core
 Investigative Direction: Track whether Marx accepts any of the offered formats.
 
 ---
 
-**C-11471** Host Says Former Mossad Agent Claims Robert Maxwell Brought Epstein and Ghislaine Together
+**C-8338** Host Says Former Mossad Agent Claims Robert Maxwell Brought Epstein and Ghislaine Together
 
 Claim Timestamp: 00:39:19
 
@@ -1871,7 +1871,7 @@ Investigative Direction: Identify which former Mossad officer made the claim and
 
 ---
 
-**C-11472** Host Says Ostrovsky Said Epstein Was Brought In Over Iran-Contra and Khashoggi
+**C-8339** Host Says Ostrovsky Said Epstein Was Brought In Over Iran-Contra and Khashoggi
 
 Claim Timestamp: 00:39:19
 
@@ -1882,13 +1882,13 @@ Transcript Snippet: He was initially brought in regarding the Iran-Contra deal i
 Anchored Artifacts: 
 Mentions: N-500, N-9, N-891
 Related Nodes: N-10023
-Supports: C-8207
+Supports: C-4815
 Tags: relevance:context
 Investigative Direction: Locate the Ostrovsky statement or interview and compare it with documented Epstein and Khashoggi dealings.
 
 ---
 
-**C-11473** Host Says Robert Maxwell Was an Early Investor in Bain Capital With Seed Money
+**C-8340** Host Says Robert Maxwell Was an Early Investor in Bain Capital With Seed Money
 
 Claim Timestamp: 00:40:19
 
@@ -1899,13 +1899,13 @@ Transcript Snippet: Robert Maxwell, Ghislaine's father, uh was one of the early 
 Anchored Artifacts: A-1989
 Mentions: N-48, N-47, N-28
 Related Nodes: N-10619
-Supports: C-2754
+Supports: C-8342
 Tags: relevance:context
 Investigative Direction: Retrieve the 2012 Los Angeles Times article and Bain Capital early-investor records.
 
 ---
 
-**C-11474** Host Says Romney Was Then Best Friends With Netanyahu at BCG
+**C-8341** Host Says Romney Was Then Best Friends With Netanyahu at BCG
 
 Claim Timestamp: 00:40:19
 
@@ -1921,7 +1921,7 @@ Investigative Direction: Check biographical records on whether Netanyahu and Rom
 
 ---
 
-**C-11475** Host Says No Proof the Robinson Rifle Was Fired on September 10
+**C-8343** Host Says No Proof the Robinson Rifle Was Fired on September 10
 
 Claim Timestamp: 00:41:38
 
@@ -1932,13 +1932,13 @@ Transcript Snippet: They have not yet proven that Tyler Robinson's weapon was ev
 Anchored Artifacts: A-1990
 Mentions: N-40, N-3
 Related Nodes: N-10621, N-10110
-Supports: C-2763
+Supports: C-8344
 Tags: relevance:core
 Investigative Direction: Review the ATF and state lab disclosures for residue, bore and swab testing of the rifle and of Robinson.
 
 ---
 
-**C-11476** Host Theorizes Lance Twiggs Is a Federal Asset Who Obtained Robinson's Gun and Casings
+**C-8345** Host Theorizes Lance Twiggs Is a Federal Asset Who Obtained Robinson's Gun and Casings
 
 Claim Timestamp: 00:42:19
 
@@ -1954,7 +1954,7 @@ Investigative Direction: Obtain Twiggs' statements, devices and any informant or
 
 ---
 
-**C-11477** Host Theorizes the Rifle Was Dropped Off the Day Before or on September 10
+**C-8346** Host Theorizes the Rifle Was Dropped Off the Day Before or on September 10
 
 Claim Timestamp: 00:42:19
 
@@ -1965,13 +1965,13 @@ Transcript Snippet: maybe the day before or on September 10th, that gun was drop
 Anchored Artifacts: 
 Mentions: N-40
 Related Nodes: N-11054, N-10621, N-10598
-Supports: C-2763
+Supports: C-8344
 Tags: relevance:core
 Investigative Direction: Establish the rifle's chain of custody and location in the days before September 10; obtain bomb dog deployment records.
 
 ---
 
-**C-11478** Host Says the ATF Summary Only Confirms What the Defense Filing Described
+**C-8347** Host Says the ATF Summary Only Confirms What the Defense Filing Described
 
 Claim Timestamp: 00:43:08
 
@@ -1987,7 +1987,7 @@ Investigative Direction: Compare the defense filing with the ATF summary text an
 
 ---
 
-**C-11479** Host Says Rifle Had Robinson's Prints and Six Other Sets
+**C-8350** Host Says Rifle Had Robinson's Prints and Six Other Sets
 
 Claim Timestamp: 00:43:51
 
@@ -1998,13 +1998,13 @@ Transcript Snippet: I knew that it had his prints on it and it also had six sets
 Anchored Artifacts: A-1990
 Mentions: N-40, N-3
 Related Nodes: N-10110
-Supports: C-1283
+Supports: C-756
 Tags: relevance:core
 Investigative Direction: Obtain the latent print examination report and the identification of each print set.
 
 ---
 
-**C-11480** Host Says Prosecutors Are Reviving Old FBI Tactics From After JFK
+**C-8352** Host Says Prosecutors Are Reviving Old FBI Tactics From After JFK
 
 Claim Timestamp: 00:44:37
 
@@ -2020,7 +2020,7 @@ Investigative Direction: Identify which comparison techniques the host means and
 
 ---
 
-**C-11481** Host Says Charlie Kirk Was Removed as a Barrier to the Iranian War
+**C-8353** Host Says Charlie Kirk Was Removed as a Barrier to the Iranian War
 
 Claim Timestamp: 00:44:37
 
@@ -2036,7 +2036,7 @@ Investigative Direction: Establish Kirk's documented position on Iran and who in
 
 ---
 
-**C-11482** Host Says Dan Flood Did Not Even Do a Walk-Through
+**C-8354** Host Says Dan Flood Did Not Even Do a Walk-Through
 
 Claim Timestamp: 00:48:20
 
@@ -2047,13 +2047,13 @@ Transcript Snippet: after he failed um to protect Charlie, didn't even as I am t
 Anchored Artifacts: A-3137.1
 Mentions: N-270, N-1
 Related Nodes: N-10694
-Supports: C-5034
+Supports: C-3217
 Tags: relevance:core
 Investigative Direction: Obtain Flood's advance-work records and the accounts of UVU and TPUSA staff about any site walk-through.
 
 ---
 
-**C-11483** Host Says Flood Only Cared About a Clean Exit Behind Charlie
+**C-8355** Host Says Flood Only Cared About a Clean Exit Behind Charlie
 
 Claim Timestamp: 00:48:20
 
@@ -2064,13 +2064,13 @@ Transcript Snippet: All he cared about in the lead-up to that was ensuring that 
 Anchored Artifacts: A-3137.1
 Mentions: N-270, N-1
 Related Nodes: N-10694
-Supports: C-5035
+Supports: C-3218
 Tags: relevance:core
 Investigative Direction: Obtain the event security plan and the vehicle staging and exit route documents.
 
 ---
 
-**C-11484** Host Says TPUSA Ignored the School's Concerns About an Uncontrolled Traffic Area
+**C-8356** Host Says TPUSA Ignored the School's Concerns About an Uncontrolled Traffic Area
 
 Claim Timestamp: 00:48:20
 
@@ -2086,7 +2086,7 @@ Investigative Direction: Obtain UVU and campus police correspondence on the site
 
 ---
 
-**C-11485** Host Says Charlie's Messages That They Were Going to Kill Him Went to Flood
+**C-8357** Host Says Charlie's Messages That They Were Going to Kill Him Went to Flood
 
 Claim Timestamp: 00:48:20
 
@@ -2097,13 +2097,13 @@ Transcript Snippet: They were receiving his messages. Dan Flood was receiving hi
 Anchored Artifacts: A-3137.1
 Mentions: N-270, N-1
 Related Nodes: N-10340
-Supports: C-5550
+Supports: C-5406
 Tags: relevance:core
 Investigative Direction: Obtain the night-before text thread from Kirk's or Flood's phone.
 
 ---
 
-**C-11486** Host Says Erika Offered Dan Flood a Bonus and a Raise
+**C-8358** Host Says Erika Offered Dan Flood a Bonus and a Raise
 
 Claim Timestamp: 00:48:20
 
@@ -2114,13 +2114,13 @@ Transcript Snippet: Dan Dan Flood gets offered a bonus and a raise from Erika.
 Anchored Artifacts: A-3137.1
 Mentions: N-270, N-2
 Related Nodes: N-10694
-Supports: C-5494
+Supports: C-5343
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA compensation and payroll records for Flood and the date the bonus or raise was offered.
 
 ---
 
-**C-11487** Host Says Coleman Said Erika Canceled Because of Druski
+**C-8359** Host Says Coleman Said Erika Canceled Because of Druski
 
 Claim Timestamp: 00:50:57
 
@@ -2136,7 +2136,7 @@ Investigative Direction: Review Coleman's broadcast and the Druski video timelin
 
 ---
 
-**C-11488** Commenter Says Ben Shapiro Blamed the Host and Her Viewers for Threats Against Erika
+**C-8360** Commenter Says Ben Shapiro Blamed the Host and Her Viewers for Threats Against Erika
 
 Claim Timestamp: 00:52:02
 
@@ -2152,7 +2152,7 @@ Investigative Direction: Find the Shapiro statement the commenter refers to and 
 
 ---
 
-**C-11489** Host Says Village Crazy Lady Thinks They Were Trying to Make Vance Look Bad
+**C-8361** Host Says Village Crazy Lady Thinks They Were Trying to Make Vance Look Bad
 
 Claim Timestamp: 00:54:42
 
@@ -2168,7 +2168,7 @@ Investigative Direction: Review the Village Crazy Lady posts and any donor repor
 
 ---
 
-**C-11490** Host Says She Believes Ticket Sales Caused the Cancellation
+**C-8362** Host Says She Believes Ticket Sales Caused the Cancellation
 
 Claim Timestamp: 00:55:26
 
@@ -2179,13 +2179,13 @@ Transcript Snippet: But, I do truly believe that it was the ticket sales last ni
 Anchored Artifacts: A-1991.2
 Mentions: N-2, N-3
 Related Nodes: N-10608, N-10616
-Supports: C-2759
+Supports: C-8311
 Tags: relevance:context
 Investigative Direction: Obtain ticketing and attendance data for the Akins Ford Arena event.
 
 ---
 
-**C-11491** Host Speculates Students Were Told It Would Pay to Attend
+**C-8363** Host Speculates Students Were Told It Would Pay to Attend
 
 Claim Timestamp: 00:55:26
 

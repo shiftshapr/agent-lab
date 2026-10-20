@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep078): N-591, N-10705, N-10812
   - Tip-minted Nodes (reintro-ep078): N-10986, N-11211
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10f): C-12671–C-12749
+  - Claim Range: C-6970–C-7071
   - New Nodes Introduced: N-581, N-582, N-583, N-584, N-585, N-586, N-587, N-589, N-10531, N-10533, N-10534, N-10535, N-10536, N-10538
   - Reused Nodes Appearing: N-580, N-10532, N-4, N-5, N-7, N-11, N-14, N-22, N-33, N-50, N-69, N-97, N-163, N-186, N-244, N-261, N-280, N-366, N-377, N-460, N-489, N-520, N-660, N-682, N-10270, N-10290, N-10316, N-10324, N-10346, N-10383, N-10385, N-10421, N-10519, N-10522, N-10523, N-10897, N-10916, N-10922, N-11165, N-11192, N-10537, N-10768, N-10987
   - (see registers)
@@ -39,7 +39,7 @@
 ### Episode 78 Ledger Summary
 
 - **Artifact Families Introduced:** A-1835, A-1836, A-1837, A-1838, A-1839, A-1840, A-1841, A-1842, A-1843, A-1844, A-1845, A-2523
-- **Claim Range:** C-2453–C-2471
+- **Claim Range:** C-6972–C-7002
 - **New People Nodes Introduced:** N-580, N-581, N-582, N-583, N-584, N-585, N-586, N-587, N-41, N-273, N-178, N-569, N-589
 - **New Investigation Target Nodes Introduced:** N-10531, N-10532, N-10533, N-10534, N-10535, N-10536, N-10537
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk)
@@ -68,7 +68,7 @@ Video Timestamp: 00:03:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2453, C-2454, C-2455, N-2, N-582, N-10531, N-10532*
+*Related: C-6972, C-6976, C-6977, N-2, N-582, N-10531, N-10532*
 
 ---
 
@@ -82,7 +82,7 @@ Video Timestamp: 00:08:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2456, N-585, N-586, N-587, N-178*
+*Related: C-6986, N-585, N-586, N-587, N-178*
 
 ---
 
@@ -96,7 +96,7 @@ Video Timestamp: 00:13:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2457, N-2, N-581, N-273, N-10533*
+*Related: C-6996, N-2, N-581, N-273, N-10533*
 
 ---
 
@@ -110,7 +110,7 @@ Video Timestamp: 00:17:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2458, C-2471, N-2, N-583, N-10534*
+*Related: C-7001, C-7002, N-2, N-583, N-10534*
 
 **A-1838.2** Erika Kirk interview clip in which she states Romanian orphans did not trust Renee Crossman
 
@@ -120,7 +120,7 @@ Video Timestamp: 00:16:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2459, N-2, N-583, N-10534*
+*Related: C-6997, N-2, N-583, N-10534*
 
 ---
 
@@ -134,7 +134,7 @@ Video Timestamp: 00:18:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2460, C-2470, C-2475, N-583, N-584, N-10534*
+*Related: C-7005, C-7003, C-7011, N-583, N-584, N-10534*
 
 ---
 
@@ -148,7 +148,7 @@ Video Timestamp: 00:21:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2461, N-589, N-584, N-10534*
+*Related: C-7007, N-589, N-584, N-10534*
 
 ---
 
@@ -162,7 +162,7 @@ Video Timestamp: 00:30:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2462, C-2473, N-10536*
+*Related: C-7017, C-7018, N-10536*
 
 **A-1841.2** Photo of van interior from another angle
 
@@ -172,7 +172,7 @@ Video Timestamp: 00:31:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2462, N-10536*
+*Related: C-7017, N-10536*
 
 **A-1841.3** Photo showing side angle of van interior with what appears to be an Instaclot package on the floor
 
@@ -196,7 +196,7 @@ Video Timestamp: 00:34:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2463, N-10535, N-10537*
+*Related: C-7024, N-10535, N-10537*
 
 **A-1842.2** Video segment showing Charlie falling/sliding toward the table
 
@@ -206,7 +206,7 @@ Video Timestamp: 00:38:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2464, C-2472, N-10535*
+*Related: C-7031, C-7035, N-10535*
 
 **A-1842.3** Video segment showing Charlie's hands making contact with table without grabbing any object
 
@@ -216,7 +216,7 @@ Video Timestamp: 00:39:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2465, N-10535*
+*Related: C-7037, N-10535*
 
 **A-1842.4** Video segment showing the necklace and magnet clasp still attached post-impact
 
@@ -226,7 +226,7 @@ Video Timestamp: 00:35:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2463, N-10535, N-10537*
+*Related: C-7024, N-10535, N-10537*
 
 ---
 
@@ -240,7 +240,7 @@ Video Timestamp: 00:42:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2466, C-2469, N-1, N-580*
+*Related: C-7040, C-7046, N-1, N-580*
 
 ---
 
@@ -254,7 +254,7 @@ Video Timestamp: 00:43:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2467, N-580, N-41, N-10538*
+*Related: C-7044, N-580, N-41, N-10538*
 
 **A-1844.2** X community note fact-checking TP Action's Massie tweet: "Rep. Thomas Massie was one of Charlie Kirk's favorite congressman"
 
@@ -264,7 +264,7 @@ Video Timestamp: 00:43:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2468, N-580, N-10538*
+*Related: C-7045, N-580, N-10538*
 
 ---
 
@@ -278,7 +278,7 @@ Video Timestamp: 00:44:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2469, C-2474, N-580, N-10538*
+*Related: C-7046, C-7047, N-580, N-10538*
 
 ---
 
@@ -305,7 +305,7 @@ Video Timestamp: 00:16:04
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-12693, C-12694*
+*Related: C-6998, C-6999*
 
 ---
 
@@ -320,7 +320,7 @@ Video Timestamp: 00:48:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-12727*
+*Related: C-7049*
 
 ---
 
@@ -333,7 +333,7 @@ Video Timestamp: 00:48:44
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-12728, C-12729*
+*Related: C-7050, C-7051*
 
 ---
 
@@ -346,7 +346,7 @@ Video Timestamp: 00:50:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-12730*
+*Related: C-7052*
 
 ---
 
@@ -359,7 +359,7 @@ Video Timestamp: 00:51:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-12731*
+*Related: C-7053*
 
 ---
 
@@ -372,7 +372,7 @@ Video Timestamp: 00:52:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-12732, C-12733*
+*Related: C-7054, C-7055*
 
 ---
 
@@ -385,7 +385,7 @@ Video Timestamp: 00:54:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-12736, C-12737*
+*Related: C-7058, C-7059*
 
 ---
 
@@ -400,7 +400,7 @@ Video Timestamp: 00:58:44
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-12744*
+*Related: C-7066*
 
 ---
 
@@ -413,7 +413,7 @@ Video Timestamp: 00:58:44
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-12745*
+*Related: C-7067*
 
 ---
 
@@ -429,7 +429,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1843.1, A-1844.1, A-1844.2, A-1845.1, C-2466, C-2467, C-2468, C-2469, N-10538*
+*Related: A-1843.1, A-1844.1, A-1844.2, A-1845.1, C-7040, C-7044, C-7045, C-7046, N-10538*
 
 ---
 
@@ -442,7 +442,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1837.1, C-2457, N-273, N-10533*
+*Related: A-1837.1, C-6996, N-273, N-10533*
 
 ---
 
@@ -468,7 +468,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1838.1, A-1838.2, A-1839.1, C-2458, C-2459, C-2470, N-10534*
+*Related: A-1838.1, A-1838.2, A-1839.1, C-7001, C-6997, C-7003, N-10534*
 
 ---
 
@@ -481,7 +481,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1839.1, A-1840.1, C-2460, N-10534*
+*Related: A-1839.1, A-1840.1, C-7005, N-10534*
 
 ---
 
@@ -494,7 +494,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1836.1, C-2456, N-178*
+*Related: A-1836.1, C-6986, N-178*
 
 ---
 
@@ -507,7 +507,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1836.1, C-2456, N-178*
+*Related: A-1836.1, C-6986, N-178*
 
 ---
 
@@ -520,7 +520,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1836.1, C-2456, N-178*
+*Related: A-1836.1, C-6986, N-178*
 
 ---
 
@@ -572,7 +572,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1840.1, C-2461, N-584*
+*Related: A-1840.1, C-7007, N-584*
 
 ---
 
@@ -585,7 +585,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1835.1, C-2453, C-2454, C-2455, N-2, N-582, N-10532*
+*Related: A-1835.1, C-6972, C-6976, C-6977, N-2, N-582, N-10532*
 
 ---
 
@@ -611,7 +611,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1837.1, C-2457, N-2, N-581, N-273*
+*Related: A-1837.1, C-6996, N-2, N-581, N-273*
 
 ---
 
@@ -624,7 +624,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1838.1, A-1838.2, A-1839.1, A-1840.1, C-2458, C-2459, C-2460, C-2470, N-583, N-584, N-589*
+*Related: A-1838.1, A-1838.2, A-1839.1, A-1840.1, C-7001, C-6997, C-7005, C-7003, N-583, N-584, N-589*
 
 ---
 
@@ -637,7 +637,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1842.1, A-1842.2, A-1842.3, A-1842.4, C-2463, C-2464, C-2465, C-2472, N-10537*
+*Related: A-1842.1, A-1842.2, A-1842.3, A-1842.4, C-7024, C-7031, C-7037, C-7035, N-10537*
 
 ---
 
@@ -650,7 +650,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1841.1, A-1841.2, A-1841.3, C-2462, C-2473, N-1*
+*Related: A-1841.1, A-1841.2, A-1841.3, C-7017, C-7018, N-1*
 
 ---
 
@@ -663,7 +663,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1842.1, A-1842.4, C-2463, N-10535*
+*Related: A-1842.1, A-1842.4, C-7024, N-10535*
 
 ---
 
@@ -676,7 +676,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1843.1, A-1844.1, A-1844.2, A-1845.1, C-2466, C-2467, C-2468, C-2469, C-2474, N-1, N-580, N-41*
+*Related: A-1843.1, A-1844.1, A-1844.2, A-1845.1, C-7040, C-7044, C-7045, C-7046, C-7047, N-1, N-580, N-41*
 
 ---
 
@@ -684,7 +684,7 @@ Investigative Pressure: High
 
 Subject of the assassination; the host reports his statements and the footage of him.
 
-*Related: C-12671, C-12690, C-12703, C-12704, C-12705, C-12712, C-12713, C-12714, C-12715, C-12716, C-12717, C-12720, C-12721, C-12726, C-12738, C-12748*
+*Related: C-6970, C-6993, C-7014, C-7015, C-7016, C-7026, C-7027, C-7028, C-7029, C-7030, C-7032, C-7036, C-7038, C-7048, C-7060, C-7070*
 
 ---
 
@@ -692,7 +692,7 @@ Subject of the assassination; the host reports his statements and the footage of
 
 Widow and TPUSA CEO; subject of the Next Model Management, Romanian Angels and necklace claims.
 
-*Related: C-12672, C-12692, C-12693, C-12694, C-12699, C-12702, C-12703, C-12716, C-12724, C-12727, C-12728, C-12731, C-12741, C-12745*
+*Related: C-6971, C-6995, C-6998, C-6999, C-7009, C-7013, C-7014, C-7030, C-7042, C-7049, C-7050, C-7053, C-7063, C-7067*
 
 ---
 
@@ -700,7 +700,7 @@ Widow and TPUSA CEO; subject of the Next Model Management, Romanian Angels and n
 
 Host; speaks for herself, including the tip solicitations.
 
-*Related: C-12671, C-12727, C-12735, C-12744, C-12745, C-12747, C-12748*
+*Related: C-6970, C-7049, C-7057, C-7066, C-7067, C-7069, C-7070*
 
 ---
 
@@ -708,7 +708,7 @@ Host; speaks for herself, including the tip solicitations.
 
 Named in a viewer comment as a speaker at upcoming TPUSA events.
 
-*Related: C-12731*
+*Related: C-7053*
 
 ---
 
@@ -716,7 +716,7 @@ Named in a viewer comment as a speaker at upcoming TPUSA events.
 
 President; the host discusses his stance on Massie, the Epstein files and Kushner.
 
-*Related: C-12682, C-12686, C-12687*
+*Related: C-6984, C-6989, C-6990*
 
 ---
 
@@ -724,7 +724,7 @@ President; the host discusses his stance on Massie, the Epstein files and Kushne
 
 Frank Turek; the host recounts his story of the necklace on the backpack.
 
-*Related: C-12714, C-12715*
+*Related: C-7028, C-7029*
 
 ---
 
@@ -732,7 +732,7 @@ Frank Turek; the host recounts his story of the necklace on the backpack.
 
 Jeffrey Epstein; subject of the NY Post article on his Manhattan condo building.
 
-*Related: C-12673, C-12674, C-12675, C-12676, C-12677*
+*Related: C-6973, C-6974, C-6975, C-6978, C-6979*
 
 ---
 
@@ -740,7 +740,7 @@ Jeffrey Epstein; subject of the NY Post article on his Manhattan condo building.
 
 TPUSA figure the host says runs Turning Point Action.
 
-*Related: C-12723*
+*Related: C-7041*
 
 ---
 
@@ -748,7 +748,7 @@ TPUSA figure the host says runs Turning Point Action.
 
 TPUSA spokesperson; the host ties him to the West Wing meeting and the fake-live episode.
 
-*Related: C-12689, C-12690, C-12691*
+*Related: C-6992, C-6993, C-6994*
 
 ---
 
@@ -756,7 +756,7 @@ TPUSA spokesperson; the host ties him to the West Wing meeting and the fake-live
 
 Tucker Carlson; the host and a commenter discuss his interview with Bret Weinstein.
 
-*Related: C-12736, C-12737*
+*Related: C-7058, C-7059*
 
 ---
 
@@ -764,7 +764,7 @@ Tucker Carlson; the host and a commenter discuss his interview with Bret Weinste
 
 Named in a viewer comment as a speaker at upcoming TPUSA events.
 
-*Related: C-12731*
+*Related: C-7053*
 
 ---
 
@@ -772,7 +772,7 @@ Named in a viewer comment as a speaker at upcoming TPUSA events.
 
 Interviewer in the Christina Babin clip.
 
-*Related: C-12698*
+*Related: C-7008*
 
 ---
 
@@ -780,7 +780,7 @@ Interviewer in the Christina Babin clip.
 
 Sigmund Freud; named in the host's remark about Vienna.
 
-*Related: C-12746*
+*Related: C-7068*
 
 ---
 
@@ -788,7 +788,7 @@ Sigmund Freud; named in the host's remark about Vienna.
 
 FBI director; the host cites his statement on trafficking evidence and alleged role in the fake-live show.
 
-*Related: C-12679, C-12689, C-12690*
+*Related: C-6981, C-6992, C-6993*
 
 ---
 
@@ -796,7 +796,7 @@ FBI director; the host cites his statement on trafficking evidence and alleged r
 
 Ben Shapiro; subject of the AmFest, Levin and Boreing remarks.
 
-*Related: C-12724, C-12726, C-12734*
+*Related: C-7042, C-7048, C-7056*
 
 ---
 
@@ -804,7 +804,7 @@ Ben Shapiro; subject of the AmFest, Levin and Boreing remarks.
 
 Named in a viewer comment as a speaker at upcoming TPUSA events.
 
-*Related: C-12731*
+*Related: C-7053*
 
 ---
 
@@ -812,7 +812,7 @@ Named in a viewer comment as a speaker at upcoming TPUSA events.
 
 Stacy Sheridan; the host refers to her as Stacy the chief fundraiser (match inferred).
 
-*Related: C-12702*
+*Related: C-7013*
 
 ---
 
@@ -820,7 +820,7 @@ Stacy Sheridan; the host refers to her as Stacy the chief fundraiser (match infe
 
 Jesse Watters; interviewer in the clip of Erika Kirk.
 
-*Related: C-12703*
+*Related: C-7014*
 
 ---
 
@@ -828,7 +828,7 @@ Jesse Watters; interviewer in the clip of Erika Kirk.
 
 Mark Levin; named by the host among people Charlie disliked.
 
-*Related: C-12726*
+*Related: C-7048*
 
 ---
 
@@ -836,7 +836,7 @@ Mark Levin; named by the host among people Charlie disliked.
 
 Terryl Farnsworth; AV company owner the host says showed her the footage and made excuses about sending a file.
 
-*Related: C-12709, C-12710, C-12711*
+*Related: C-7022, C-7023, C-7025*
 
 ---
 
@@ -844,7 +844,7 @@ Terryl Farnsworth; AV company owner the host says showed her the footage and mad
 
 Named in a viewer comment as a speaker at upcoming TPUSA events.
 
-*Related: C-12731*
+*Related: C-7053*
 
 ---
 
@@ -852,7 +852,7 @@ Named in a viewer comment as a speaker at upcoming TPUSA events.
 
 Baron Coleman; credited by the host among YouTubers working on the case.
 
-*Related: C-12740*
+*Related: C-7062*
 
 ---
 
@@ -860,7 +860,7 @@ Baron Coleman; credited by the host among YouTubers working on the case.
 
 Jeremy Boreing; the host discusses his interviews and his relationship with Shapiro.
 
-*Related: C-12734, C-12735*
+*Related: C-7056, C-7057*
 
 ---
 
@@ -868,7 +868,7 @@ Jeremy Boreing; the host discusses his interviews and his relationship with Shap
 
 Emmanuel Macron; the host says he is suing her.
 
-*Related: C-12747*
+*Related: C-7069*
 
 ---
 
@@ -876,7 +876,7 @@ Emmanuel Macron; the host says he is suing her.
 
 Nelda Buckman; donor the host discusses.
 
-*Related: C-12741, C-12742, C-12743*
+*Related: C-7063, C-7064, C-7065*
 
 ---
 
@@ -884,7 +884,7 @@ Nelda Buckman; donor the host discusses.
 
 Lori Frantzve; Erika's mother, linked to Superfeed and the Farnsworth family.
 
-*Related: C-12710, C-12723*
+*Related: C-7023, C-7041*
 
 ---
 
@@ -892,7 +892,7 @@ Lori Frantzve; Erika's mother, linked to Superfeed and the Farnsworth family.
 
 Rothschild family; named in the Corcoran presidency claim.
 
-*Related: C-12677*
+*Related: C-6979*
 
 ---
 
@@ -900,7 +900,7 @@ Rothschild family; named in the Corcoran presidency claim.
 
 Bret Weinstein; named in a viewer comment on his interview with Tucker Carlson.
 
-*Related: C-12736*
+*Related: C-7058*
 
 ---
 
@@ -908,7 +908,7 @@ Bret Weinstein; named in a viewer comment on his interview with Tucker Carlson.
 
 Ivanka Trump; named in the Miami mansion claim.
 
-*Related: C-12678*
+*Related: C-6980*
 
 ---
 
@@ -916,7 +916,7 @@ Ivanka Trump; named in the Miami mansion claim.
 
 Jon Bray; investigator on the microphone theory and the Tennessee explosion.
 
-*Related: C-12718, C-12719, C-12740, C-12741*
+*Related: C-7033, C-7034, C-7062, C-7063*
 
 ---
 
@@ -924,7 +924,7 @@ Jon Bray; investigator on the microphone theory and the Tennessee explosion.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12747*
+*Related: C-7069*
 
 ---
 
@@ -932,7 +932,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12748*
+*Related: C-7070*
 
 ---
 
@@ -940,7 +940,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12748*
+*Related: C-7070*
 
 ---
 
@@ -948,7 +948,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12679, C-12681, C-12689*
+*Related: C-6981, C-6983, C-6992*
 
 ---
 
@@ -956,7 +956,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12709*
+*Related: C-7022*
 
 ---
 
@@ -964,7 +964,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12710*
+*Related: C-7023*
 
 ---
 
@@ -972,7 +972,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12734, C-12735*
+*Related: C-7056, C-7057*
 
 ---
 
@@ -980,7 +980,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12741, C-12742*
+*Related: C-7063, C-7064*
 
 ---
 
@@ -988,7 +988,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12672, C-12745*
+*Related: C-6971, C-7067*
 
 ---
 
@@ -996,7 +996,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12689, C-12690, C-12691*
+*Related: C-6992, C-6993, C-6994*
 
 ---
 
@@ -1004,7 +1004,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12677*
+*Related: C-6979*
 
 ---
 
@@ -1012,7 +1012,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12719*
+*Related: C-7034*
 
 ---
 
@@ -1020,7 +1020,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12740*
+*Related: C-7062*
 
 ---
 
@@ -1028,7 +1028,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12709, C-12711*
+*Related: C-7022, C-7025*
 
 ---
 
@@ -1036,7 +1036,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12728*
+*Related: C-7050*
 
 ---
 
@@ -1044,7 +1044,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12682*
+*Related: C-6984*
 
 ---
 
@@ -1052,7 +1052,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12723*
+*Related: C-7041*
 
 ---
 
@@ -1060,7 +1060,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12740, C-12743*
+*Related: C-7062, C-7065*
 
 ---
 
@@ -1068,7 +1068,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12718, C-12719*
+*Related: C-7033, C-7034*
 
 ---
 
@@ -1076,7 +1076,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12693, C-12694, C-12699, C-12700*
+*Related: C-6998, C-6999, C-7009, C-7010*
 
 ---
 
@@ -1084,7 +1084,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12722*
+*Related: C-7039*
 
 ---
 
@@ -1092,7 +1092,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12711*
+*Related: C-7025*
 
 ---
 
@@ -1101,7 +1101,7 @@ Existing topic reused for new claims in this episode.
 Node Type: Topic
 A commenter's report that four drones were stolen from Fort Campbell and the host's guess that they went to Israel.
 
-*Related: C-12732, C-12733*
+*Related: C-7054, C-7055*
 
 ---
 
@@ -1110,13 +1110,13 @@ A commenter's report that four drones were stolen from Fort Campbell and the hos
 Node Type: Topic
 Whether the Alexander brothers' names were redacted from the Epstein files and why, set against their federal sex trafficking convictions and ties to Kushner.
 
-*Related: C-12678, C-12679, C-12680, C-12681, C-12683, C-12684, C-12685, C-12688*
+*Related: C-6980, C-6981, C-6982, C-6983, C-6985, C-6987, C-6988, C-6991*
 
 ---
 
 # Claim Register
 
-**C-2453** NY Post article identifies 301 East 66th Street as building Epstein used to house underage victims
+**C-6972** NY Post article identifies 301 East 66th Street as building Epstein used to house underage victims
 
 Claim Timestamp: 00:03:07
 
@@ -1129,7 +1129,7 @@ Investigative Direction: Obtain the full NY Post article and underlying unsealed
 
 ---
 
-**C-2454** Epstein's address book labeled certain apartments as "apartments for models"
+**C-6976** Epstein's address book labeled certain apartments as "apartments for models"
 
 Claim Timestamp: 00:04:48
 
@@ -1142,7 +1142,7 @@ Investigative Direction: Locate the cited civil complaint or sworn testimony ref
 
 ---
 
-**C-2455** NY Post article photo of the building was courtesy of Corcoran real estate
+**C-6977** NY Post article photo of the building was courtesy of Corcoran real estate
 
 Claim Timestamp: 00:04:48
 
@@ -1154,7 +1154,7 @@ Investigative Direction: Confirm Corcoran's listing history for 301 East 66th St
 
 ---
 
-**C-2456** Alexander brothers convicted on all 10 counts including sex trafficking of a minor
+**C-6986** Alexander brothers convicted on all 10 counts including sex trafficking of a minor
 
 Claim Timestamp: 00:08:25
 
@@ -1166,7 +1166,7 @@ Investigative Direction: Obtain federal court docket for the Southern District o
 
 ---
 
-**C-2457** Sarah Huckabee Sanders signed proclamation supporting Club America in Arkansas high schools alongside Erika Kirk
+**C-6996** Sarah Huckabee Sanders signed proclamation supporting Club America in Arkansas high schools alongside Erika Kirk
 
 Claim Timestamp: 00:13:44
 
@@ -1179,7 +1179,7 @@ Investigative Direction: Obtain the official proclamation text and any associate
 
 ---
 
-**C-2458** 2017 article records Erika Kirk stating she partnered with Renee Crossman of United Hands Romania
+**C-7001** 2017 article records Erika Kirk stating she partnered with Renee Crossman of United Hands Romania
 
 Claim Timestamp: 00:17:48
 
@@ -1192,7 +1192,7 @@ Investigative Direction: Locate original 2017 article source and verify the Anto
 
 ---
 
-**C-2459** Erika Says Base Staff Did Not Trust United Hands Head
+**C-6997** Erika Says Base Staff Did Not Trust United Hands Head
 
 Claim Timestamp: 00:16:04
 
@@ -1205,7 +1205,7 @@ Investigative Direction: Identify the interview source and date; obtain statemen
 
 ---
 
-**C-2460** Children of God founder David Berg advocated sexual relations with minors
+**C-7005** Children of God founder David Berg advocated sexual relations with minors
 
 Claim Timestamp: 00:19:25
 
@@ -1218,7 +1218,7 @@ Investigative Direction: Cross-reference with established historical documentati
 
 ---
 
-**C-2461** Christina Babin stated adult cult members showed her how to have sex as a child
+**C-7007** Christina Babin stated adult cult members showed her how to have sex as a child
 
 Claim Timestamp: 00:21:19
 
@@ -1231,7 +1231,7 @@ Investigative Direction: Locate the 2018 Megyn Kelly episode and Babin's full in
 
 ---
 
-**C-2462** Hospital transport van photos show scattered material across back seat
+**C-7017** Hospital transport van photos show scattered material across back seat
 
 Claim Timestamp: 00:30:45
 
@@ -1244,7 +1244,7 @@ Investigative Direction: Obtain high-resolution originals; have forensic imaging
 
 ---
 
-**C-2463** 9/10 video shows Charlie's necklace with magnet clasp still attached after impact
+**C-7024** 9/10 video shows Charlie's necklace with magnet clasp still attached after impact
 
 Claim Timestamp: 00:34:11
 
@@ -1257,7 +1257,7 @@ Investigative Direction: Compare video frame-by-frame to the multiple conflictin
 
 ---
 
-**C-2464** 9/10 video shows no blood traveling backward from Charlie's position
+**C-7031** 9/10 video shows no blood traveling backward from Charlie's position
 
 Claim Timestamp: 00:36:56
 
@@ -1270,7 +1270,7 @@ Investigative Direction: Engage forensic video analysts to assess the blood patt
 
 ---
 
-**C-2465** 9/10 video shows Charlie's hands did not grab anything from the table as he fell
+**C-7037** 9/10 video shows Charlie's hands did not grab anything from the table as he fell
 
 Claim Timestamp: 00:39:06
 
@@ -1283,7 +1283,7 @@ Investigative Direction: Compare video evidence to prior commentary alleging he 
 
 ---
 
-**C-2466** Charlie Kirk video clip names Thomas Massie as one of his favorite congressmen
+**C-7040** Charlie Kirk video clip names Thomas Massie as one of his favorite congressmen
 
 Claim Timestamp: 00:42:41
 
@@ -1296,7 +1296,7 @@ Investigative Direction: Identify date and program of the clip; corroborate via 
 
 ---
 
-**C-2467** Turning Point Action tweeted labeling Massie as needing to be replaced
+**C-7044** Turning Point Action tweeted labeling Massie as needing to be replaced
 
 Claim Timestamp: 00:43:29
 
@@ -1309,7 +1309,7 @@ Investigative Direction: Preserve original tweet (including any subsequent edits
 
 ---
 
-**C-2468** X community note fact-checked Turning Point Action's Massie tweet
+**C-7045** X community note fact-checked Turning Point Action's Massie tweet
 
 Claim Timestamp: 00:43:29
 
@@ -1322,7 +1322,7 @@ Investigative Direction: Preserve community note metadata; identify raters and a
 
 ---
 
-**C-2469** Charlie Kirk praised Massie as favorite congressman in multiple clips across years
+**C-7046** Charlie Kirk praised Massie as favorite congressman in multiple clips across years
 
 Claim Timestamp: 00:44:27
 
@@ -1335,7 +1335,7 @@ Investigative Direction: Compile and date-stamp all public Charlie Kirk video ap
 
 ---
 
-**C-2470** Romanian investigative article identifies Renee Crossman as having come from the Children of God / The Family religious sect
+**C-7003** Romanian investigative article identifies Renee Crossman as having come from the Children of God / The Family religious sect
 
 Claim Timestamp: 00:18:27
 
@@ -1348,7 +1348,7 @@ Investigative Direction: Locate the full investigative article; verify Crossman'
 
 ---
 
-**C-2471** 2017 article identifies Antonio Placement Center in Constanta as Erika Kirk's partnership site
+**C-7002** 2017 article identifies Antonio Placement Center in Constanta as Erika Kirk's partnership site
 
 Claim Timestamp: 00:17:48
 
@@ -1361,7 +1361,7 @@ Investigative Direction: Verify Antonio Placement Center in Constanta exists as 
 
 ---
 
-**C-2472** 9/10 video shows Dan pushing Charlie to the ground
+**C-7035** 9/10 video shows Dan pushing Charlie to the ground
 
 Claim Timestamp: 00:38:21
 
@@ -1374,7 +1374,7 @@ Investigative Direction: Identify the individual referred to as "Dan" via displa
 
 ---
 
-**C-2473** Host Says Harpole SUV Story Did Not Match Circumstances
+**C-7018** Host Says Harpole SUV Story Did Not Match Circumstances
 
 Claim Timestamp: 00:31:14
 
@@ -1387,7 +1387,7 @@ Investigative Direction: Obtain official TPUSA narrative statements regarding Ha
 
 ---
 
-**C-2474** Thomas Massie publicly questioned what had "gotten into" Turning Point USA
+**C-7047** Thomas Massie publicly questioned what had "gotten into" Turning Point USA
 
 Claim Timestamp: 00:44:27
 
@@ -1400,7 +1400,7 @@ Investigative Direction: Preserve full reply-tweet thread; identify any subseque
 
 ---
 
-**C-2475** Romanian investigative article states Children of God cult was instructed to disperse into nonprofit work
+**C-7011** Romanian investigative article states Children of God cult was instructed to disperse into nonprofit work
 
 Claim Timestamp: 00:22:59
 
@@ -1413,7 +1413,7 @@ Investigative Direction: Cross-reference with documented post-1970s directives f
 
 ---
 
-**C-12671** Host Says Charlie Said He Would Die to Awaken Humanity
+**C-6970** Host Says Charlie Said He Would Die to Awaken Humanity
 
 Claim Timestamp: 00:01:54
 
@@ -1428,7 +1428,7 @@ Investigative Direction: Locate the recorded or written statement in which Charl
 
 ---
 
-**C-12672** Host Says Source Says Erika Was Next Model Management Point Person for Housing Models
+**C-6971** Host Says Source Says Erika Was Next Model Management Point Person for Housing Models
 
 Claim Timestamp: 00:02:15
 
@@ -1439,13 +1439,13 @@ Transcript Snippet: Erika Frantzve was, as we were told, the point person to the
 Anchored Artifacts: 
 Mentions: N-2
 Related Nodes: N-10532, N-10519
-Supports: C-10268, C-10270
+Supports: C-6857, C-6860
 Tags: relevance:core
 Investigative Direction: Identify the sources and obtain their statements; match the white building to property-management records for Next Model Management apartments.
 
 ---
 
-**C-12673** Host Says Viewers Sent a Building Owned by Mark Epstein Matching the White Building
+**C-6973** Host Says Viewers Sent a Building Owned by Mark Epstein Matching the White Building
 
 Claim Timestamp: 00:03:07
 
@@ -1461,7 +1461,7 @@ Investigative Direction: Pull New York City property records (ACRIS) for the bui
 
 ---
 
-**C-12674** NY Post Article Says Trafficked Girls Cycled Between Wealthy Guests and Foreign Dignitaries
+**C-6974** NY Post Article Says Trafficked Girls Cycled Between Wealthy Guests and Foreign Dignitaries
 
 Claim Timestamp: 00:03:07
 
@@ -1477,7 +1477,7 @@ Investigative Direction: Obtain the cited civil complaints and sworn testimony a
 
 ---
 
-**C-12675** NY Post Article Quotes Victim on a Stocked Apartment Before Taken to the Townhouse
+**C-6975** NY Post Article Quotes Victim on a Stocked Apartment Before Taken to the Townhouse
 
 Claim Timestamp: 00:04:09
 
@@ -1493,7 +1493,7 @@ Investigative Direction: Locate the 2022 account quoted in the article and confi
 
 ---
 
-**C-12676** NY Post Article Says Civil Filings Allege Condos Housed Women Brought From Overseas
+**C-6978** NY Post Article Says Civil Filings Allege Condos Housed Women Brought From Overseas
 
 Claim Timestamp: 00:04:48
 
@@ -1509,7 +1509,7 @@ Investigative Direction: Identify the civil filings the article cites and read t
 
 ---
 
-**C-12677** Host Says Epstein Files Show the Corcoran President Was a Rothschild
+**C-6979** Host Says Epstein Files Show the Corcoran President Was a Rothschild
 
 Claim Timestamp: 00:04:48
 
@@ -1520,13 +1520,13 @@ Transcript Snippet: remember the Corcoran president, according to Jeffrey Epstei
 Anchored Artifacts: A-1835.1
 Mentions: N-9, N-520
 Related Nodes: N-10523
-Supports: C-2352
+Supports: C-6470
 Tags: relevance:context
 Investigative Direction: Check the Epstein document cited and compare with Corcoran Group's published leadership records.
 
 ---
 
-**C-12678** Host Says Alexander Brothers Are Kushner Friends Who Sold Ivanka and Jared a Miami Mansion
+**C-6980** Host Says Alexander Brothers Are Kushner Friends Who Sold Ivanka and Jared a Miami Mansion
 
 Claim Timestamp: 00:06:40
 
@@ -1542,7 +1542,7 @@ Investigative Direction: Check Miami-Dade property records for the Kushner purch
 
 ---
 
-**C-12679** Host Says Patel Said No Trafficking Evidence in the Files Yet the Alexanders Were in Them
+**C-6981** Host Says Patel Said No Trafficking Evidence in the Files Yet the Alexanders Were in Them
 
 Claim Timestamp: 00:06:40
 
@@ -1558,7 +1558,7 @@ Investigative Direction: Find Patel's statement on trafficking evidence and chec
 
 ---
 
-**C-12680** Host Says Alexander Brothers Visited the White House and Attended the Hanukkah Party
+**C-6982** Host Says Alexander Brothers Visited the White House and Attended the Hanukkah Party
 
 Claim Timestamp: 00:06:40
 
@@ -1574,7 +1574,7 @@ Investigative Direction: Request White House visitor logs and Hanukkah reception
 
 ---
 
-**C-12681** Host Says the Alexanders' Last Names Were Redacted From the Epstein Files
+**C-6983** Host Says the Alexanders' Last Names Were Redacted From the Epstein Files
 
 Claim Timestamp: 00:06:40
 
@@ -1590,7 +1590,7 @@ Investigative Direction: Compare the redacted and unredacted Epstein file releas
 
 ---
 
-**C-12682** Host Says Trump Wants Massie Primaried in Kentucky Because Israel Wants Him Out
+**C-6984** Host Says Trump Wants Massie Primaried in Kentucky Because Israel Wants Him Out
 
 Claim Timestamp: 00:07:37
 
@@ -1606,7 +1606,7 @@ Investigative Direction: Document Trump's public statements on a Massie primary 
 
 ---
 
-**C-12683** Host Says the Alexander Brothers Were Revealed Because of Massie
+**C-6985** Host Says the Alexander Brothers Were Revealed Because of Massie
 
 Claim Timestamp: 00:07:37
 
@@ -1622,7 +1622,7 @@ Investigative Direction: Trace how the Alexander names entered the public record
 
 ---
 
-**C-12684** Clip Says Alexander Brothers Were Arrested December 2024 and 11 Women Testified
+**C-6987** Clip Says Alexander Brothers Were Arrested December 2024 and 11 Women Testified
 
 Claim Timestamp: 00:09:11
 
@@ -1638,7 +1638,7 @@ Investigative Direction: Pull the Southern District of New York docket and trial
 
 ---
 
-**C-12685** Clip Says Alon and Oren Alexander Face Rape Charges in Florida and Pleaded Not Guilty
+**C-6988** Clip Says Alon and Oren Alexander Face Rape Charges in Florida and Pleaded Not Guilty
 
 Claim Timestamp: 00:10:01
 
@@ -1654,7 +1654,7 @@ Investigative Direction: Check the Florida state court docket for the pending ch
 
 ---
 
-**C-12686** Host Says Trump Admitted Jared Kushner Told Him They Might Preemptively Strike
+**C-6989** Host Says Trump Admitted Jared Kushner Told Him They Might Preemptively Strike
 
 Claim Timestamp: 00:10:01
 
@@ -1669,7 +1669,7 @@ Investigative Direction: Find the Trump remark the host paraphrases and identify
 
 ---
 
-**C-12687** Host Says Kushner Told Trump to Lock Everything Down During COVID
+**C-6990** Host Says Kushner Told Trump to Lock Everything Down During COVID
 
 Claim Timestamp: 00:11:00
 
@@ -1684,7 +1684,7 @@ Investigative Direction: Check contemporaneous reporting on White House COVID lo
 
 ---
 
-**C-12688** Host Alleges Redactions Protected Alexander Brothers Because They Donate to the IDF
+**C-6991** Host Alleges Redactions Protected Alexander Brothers Because They Donate to the IDF
 
 Claim Timestamp: 00:11:00
 
@@ -1700,7 +1700,7 @@ Investigative Direction: Request any donation records tying the Alexander brothe
 
 ---
 
-**C-12689** Host Says Kolvet and Other TPUSA Affiliates Met West Wing Brass the Day Before the Epstein Files Dropped
+**C-6992** Host Says Kolvet and Other TPUSA Affiliates Met West Wing Brass the Day Before the Epstein Files Dropped
 
 Claim Timestamp: 00:11:00
 
@@ -1711,13 +1711,13 @@ Transcript Snippet: that mysterious meeting that Andrew Kolvet and other Turning
 Anchored Artifacts: 
 Mentions: N-14
 Related Nodes: N-10522, N-10324
-Supports: C-2422, C-2420
+Supports: C-6833, C-6825
 Tags: relevance:core
 Investigative Direction: Obtain White House visitor logs for the day before the Epstein file release showing Kolvet and other TPUSA attendees.
 
 ---
 
-**C-12690** Host Says Patel Wanted to Help Kolvet Camouflage the Meeting by Faking a Live Kirk Episode
+**C-6993** Host Says Patel Wanted to Help Kolvet Camouflage the Meeting by Faking a Live Kirk Episode
 
 Claim Timestamp: 00:12:12
 
@@ -1728,13 +1728,13 @@ Transcript Snippet: Little hush-hush meeting that Mr. 33 Patel wanted to help An
 Anchored Artifacts: 
 Mentions: N-69, N-14, N-1
 Related Nodes: N-10522
-Supports: C-2420
+Supports: C-6825
 Tags: relevance:core
 Investigative Direction: Obtain the episode's air time and metadata and communications between Patel's office and TPUSA about the show.
 
 ---
 
-**C-12691** Host Says Patel Said He Was Calling In While Actually Together With Kolvet in DC
+**C-6994** Host Says Patel Said He Was Calling In While Actually Together With Kolvet in DC
 
 Claim Timestamp: 00:12:12
 
@@ -1745,13 +1745,13 @@ Transcript Snippet: I'm calling in. I never do this. Haha. Meanwhile, you're tog
 Anchored Artifacts: 
 Mentions: N-69, N-14
 Related Nodes: N-10522
-Supports: C-2420
+Supports: C-6825
 Tags: relevance:core
 Investigative Direction: Compare the live show audio and call-in metadata with the participants' physical locations that day.
 
 ---
 
-**C-12692** Host Says Turning Point Is Pushing Into High Schools Nationally and Trying to Establish Something in Ireland
+**C-6995** Host Says Turning Point Is Pushing Into High Schools Nationally and Trying to Establish Something in Ireland
 
 Claim Timestamp: 00:12:50
 
@@ -1767,7 +1767,7 @@ Investigative Direction: Look for TPUSA announcements, filings or press about an
 
 ---
 
-**C-12693** Clip Has Erika Saying the Black Sea Rotational Force Base Moved to Norway in 2018
+**C-6998** Clip Has Erika Saying the Black Sea Rotational Force Base Moved to Norway in 2018
 
 Claim Timestamp: 00:16:04
 
@@ -1778,13 +1778,13 @@ Transcript Snippet: The Black Sea rotational force base got moved to Norway in 2
 Anchored Artifacts: A-3220.1
 Mentions: N-2, N-583
 Related Nodes: N-11165
-Supports: C-10260
+Supports: C-6848
 Tags: relevance:context
 Investigative Direction: Identify the source and date of the interview and check the Black Sea Rotational Force relocation date.
 
 ---
 
-**C-12694** Clip Has Erika Saying the People at the Base Do Not Trust the United Hands Head
+**C-6999** Clip Has Erika Saying the People at the Base Do Not Trust the United Hands Head
 
 Claim Timestamp: 00:16:04
 
@@ -1795,13 +1795,13 @@ Transcript Snippet: our contact who was at the base in Constanța is no longer t
 Anchored Artifacts: A-3220.1
 Mentions: N-2, N-583
 Related Nodes: N-11165, N-10534
-Qualifies: C-2459
+Qualifies: C-6997
 Tags: relevance:context
 Investigative Direction: Obtain the full interview audio and transcript to settle who 'the people who are there' refers to and whether children are discussed.
 
 ---
 
-**C-12695** Host Says Crossman Has Been Involved With the Orphanage for Over a Decade
+**C-7000** Host Says Crossman Has Been Involved With the Orphanage for Over a Decade
 
 Claim Timestamp: 00:17:02
 
@@ -1817,7 +1817,7 @@ Investigative Direction: Check United Hands Romania registration, annual reports
 
 ---
 
-**C-12696** Article Says Berg Was Born in California in 1919 and Founded the Children of God
+**C-7004** Article Says Berg Was Born in California in 1919 and Founded the Children of God
 
 Claim Timestamp: 00:19:11
 
@@ -1833,7 +1833,7 @@ Investigative Direction: Compare against standard histories of Children of God a
 
 ---
 
-**C-12697** Article Says Berg Claimed Relationships With a Pantheon of Pagan Goddesses
+**C-7006** Article Says Berg Claimed Relationships With a Pantheon of Pagan Goddesses
 
 Claim Timestamp: 00:20:01
 
@@ -1849,7 +1849,7 @@ Investigative Direction: Locate the original Romanian article and Berg's own wri
 
 ---
 
-**C-12698** Clip Says Berg Introduced Flirty Fishing in 1976
+**C-7008** Clip Says Berg Introduced Flirty Fishing in 1976
 
 Claim Timestamp: 00:21:19
 
@@ -1865,7 +1865,7 @@ Investigative Direction: Locate the 2018 Megyn Kelly segment and check the flirt
 
 ---
 
-**C-12699** Host Says Crossman Is a Self-Admitted Cult Member and Has Not Been Accused of Wrongdoing
+**C-7009** Host Says Crossman Is a Self-Admitted Cult Member and Has Not Been Accused of Wrongdoing
 
 Claim Timestamp: 00:22:23
 
@@ -1881,7 +1881,7 @@ Investigative Direction: Find Crossman's own statements about cult membership an
 
 ---
 
-**C-12700** Host Says the Marines Crossman Partnered With Were Later Accused of Prostituting Children
+**C-7010** Host Says the Marines Crossman Partnered With Were Later Accused of Prostituting Children
 
 Claim Timestamp: 00:22:23
 
@@ -1892,13 +1892,13 @@ Transcript Snippet: No, the US Marines that she partnered with were going to be 
 Anchored Artifacts: 
 Mentions: N-583
 Related Nodes: N-11165
-Supports: C-10255
+Supports: C-6843
 Tags: relevance:context
 Investigative Direction: Identify the accusation, the unit and the base involved, and any charging or investigative record.
 
 ---
 
-**C-12701** Host Says Crossman Defends the Cult
+**C-7012** Host Says Crossman Defends the Cult
 
 Claim Timestamp: 00:23:04
 
@@ -1914,7 +1914,7 @@ Investigative Direction: Find public statements by Crossman defending the group 
 
 ---
 
-**C-12702** Host Says Erika Chose Stacy, the Chief Fundraiser, at Her Side Over Biological Family
+**C-7013** Host Says Erika Chose Stacy, the Chief Fundraiser, at Her Side Over Biological Family
 
 Claim Timestamp: 00:23:49
 
@@ -1929,7 +1929,7 @@ Investigative Direction: Review event photos and coverage of Erika's public appe
 
 ---
 
-**C-12703** Clip Has Erika Telling Watters Charlie Would Say No to Returning to Earth
+**C-7014** Clip Has Erika Telling Watters Charlie Would Say No to Returning to Earth
 
 Claim Timestamp: 00:24:35
 
@@ -1944,7 +1944,7 @@ Investigative Direction: Obtain the full Fox News interview and confirm the quot
 
 ---
 
-**C-12704** Host Says Zionists Are Inside Turning Point, Did Not Kill Charlie, and Will Install People He Disliked
+**C-7015** Host Says Zionists Are Inside Turning Point, Did Not Kill Charlie, and Will Install People He Disliked
 
 Claim Timestamp: 00:29:14
 
@@ -1959,7 +1959,7 @@ Investigative Direction: Ask the host to name the individuals she means and comp
 
 ---
 
-**C-12705** Host Says She Believes Charlie's Death Was Planned Down to the Last Detail and He Was Sacrificed
+**C-7016** Host Says She Believes Charlie's Death Was Planned Down to the Last Detail and He Was Sacrificed
 
 Claim Timestamp: 00:29:57
 
@@ -1974,7 +1974,7 @@ Investigative Direction: Ask the host for the evidence underlying the occult-cer
 
 ---
 
-**C-12706** Host Says They Told a Story About Having So Much Gauze
+**C-7019** Host Says They Told a Story About Having So Much Gauze
 
 Claim Timestamp: 00:31:14
 
@@ -1989,7 +1989,7 @@ Investigative Direction: Find the TPUSA or witness account of the gauze and supp
 
 ---
 
-**C-12707** Host Says the Object in a Van Photo Is an Instaclot Package
+**C-7020** Host Says the Object in a Van Photo Is an Instaclot Package
 
 Claim Timestamp: 00:31:36
 
@@ -2004,7 +2004,7 @@ Investigative Direction: Have the photo compared against Instaclot packaging and
 
 ---
 
-**C-12708** Host Says Only One Instaclot Package Is on the Van Floor
+**C-7021** Host Says Only One Instaclot Package Is on the Van Floor
 
 Claim Timestamp: 00:32:03
 
@@ -2019,7 +2019,7 @@ Investigative Direction: Obtain all vehicle interior photos and the inventory of
 
 ---
 
-**C-12709** Host Says Farnsworth Lied on the Phone About Not Knowing How to Send a File
+**C-7022** Host Says Farnsworth Lied on the Phone About Not Knowing How to Send a File
 
 Claim Timestamp: 00:33:10
 
@@ -2030,13 +2030,13 @@ Transcript Snippet: just excuse after excuse, and I didn't understand why there 
 Anchored Artifacts: 
 Mentions: N-261
 Related Nodes: N-10346, N-10812
-Supports: C-6845
+Supports: C-4567
 Tags: relevance:core
 Investigative Direction: Obtain the call record or the host's notes of the call and Farnsworth's own account of file handling.
 
 ---
 
-**C-12710** Host Says Farnsworth's Family Has Had a Relationship With Lori Frantzve Dating to 2013
+**C-7023** Host Says Farnsworth's Family Has Had a Relationship With Lori Frantzve Dating to 2013
 
 Claim Timestamp: 00:33:10
 
@@ -2052,7 +2052,7 @@ Investigative Direction: Identify the relationship and any business records link
 
 ---
 
-**C-12711** Host Says TPUSA Said It Did Not Have the Footage but Farnsworth Showed It to Her at His Office
+**C-7025** Host Says TPUSA Said It Did Not Have the Footage but Farnsworth Showed It to Her at His Office
 
 Claim Timestamp: 00:34:11
 
@@ -2068,7 +2068,7 @@ Investigative Direction: Find the TPUSA statement that it lacked the footage and
 
 ---
 
-**C-12712** Host Says Charlie's White T-Shirt Stayed White Until He Hit the Ground
+**C-7026** Host Says Charlie's White T-Shirt Stayed White Until He Hit the Ground
 
 Claim Timestamp: 00:35:07
 
@@ -2084,7 +2084,7 @@ Investigative Direction: Obtain the unedited footage and have a forensic video a
 
 ---
 
-**C-12713** Host Says the Bullet Did Not Go Through
+**C-7027** Host Says the Bullet Did Not Go Through
 
 Claim Timestamp: 00:35:07
 
@@ -2100,7 +2100,7 @@ Investigative Direction: Compare with the autopsy report and any official statem
 
 ---
 
-**C-12714** Host Says Frank Told of Seeing Charlie's Necklace on His Backpack as Feds Searched the Car
+**C-7028** Host Says Frank Told of Seeing Charlie's Necklace on His Backpack as Feds Searched the Car
 
 Claim Timestamp: 00:35:07
 
@@ -2111,13 +2111,13 @@ Transcript Snippet: Frank tells the story about how he came out to get his backp
 Anchored Artifacts: 
 Mentions: N-7, N-1
 Related Nodes: N-10537
-Supports: C-1962
+Supports: C-4213
 Tags: relevance:core
 Investigative Direction: Locate Frank Turek's original telling and compare it with the earlier necklace account.
 
 ---
 
-**C-12715** Host Says Feds Told Frank They Were Looking for the Necklace
+**C-7029** Host Says Feds Told Frank They Were Looking for the Necklace
 
 Claim Timestamp: 00:35:07
 
@@ -2133,7 +2133,7 @@ Investigative Direction: Request FBI evidence logs for the vehicle search and an
 
 ---
 
-**C-12716** Host Says Erika Told Several Stories About the Necklace and Her Gratitude at Getting It Back
+**C-7030** Host Says Erika Told Several Stories About the Necklace and Her Gratitude at Getting It Back
 
 Claim Timestamp: 00:36:14
 
@@ -2144,13 +2144,13 @@ Transcript Snippet: Erika, of course, has told several stories about the necklac
 Anchored Artifacts: 
 Mentions: N-2, N-1
 Related Nodes: N-10537
-Supports: C-5551
+Supports: C-5407
 Tags: relevance:core
 Investigative Direction: Collect each public Erika account of the necklace and its return and compare them.
 
 ---
 
-**C-12717** Host Says the Visible Blood Came From an Artery Hit and Went Forward
+**C-7032** Host Says the Visible Blood Came From an Artery Hit and Went Forward
 
 Claim Timestamp: 00:36:56
 
@@ -2161,13 +2161,13 @@ Transcript Snippet: everything you saw was blood that came because an artery got
 Anchored Artifacts: A-1842.2
 Mentions: N-1
 Related Nodes: N-10535
-Supports: C-2464
+Supports: C-7031
 Tags: relevance:core
 Investigative Direction: Ask a forensic pathologist to review the footage and the autopsy for the direction of blood travel.
 
 ---
 
-**C-12718** Host Says Jon Bray Explained the Magnet Clasp Would Have Stayed On While What Was Behind It Fell Off
+**C-7033** Host Says Jon Bray Explained the Magnet Clasp Would Have Stayed On While What Was Behind It Fell Off
 
 Claim Timestamp: 00:37:38
 
@@ -2183,7 +2183,7 @@ Investigative Direction: Obtain Bray's written analysis of the clasp and what wa
 
 ---
 
-**C-12719** Host Says the Rode Microphone Is What Shattered in the Back Seat
+**C-7034** Host Says the Rode Microphone Is What Shattered in the Back Seat
 
 Claim Timestamp: 00:37:38
 
@@ -2199,7 +2199,7 @@ Investigative Direction: Compare the van interior photos with the Rode microphon
 
 ---
 
-**C-12720** Host Says Blood Drops Are Visible Only on Charlie's Hand
+**C-7036** Host Says Blood Drops Are Visible Only on Charlie's Hand
 
 Claim Timestamp: 00:38:21
 
@@ -2215,7 +2215,7 @@ Investigative Direction: Have analysts enhance the footage for any blood on the 
 
 ---
 
-**C-12721** Host Says a Book or Notebook Is Visible on the Table
+**C-7038** Host Says a Book or Notebook Is Visible on the Table
 
 Claim Timestamp: 00:39:06
 
@@ -2231,7 +2231,7 @@ Investigative Direction: Examine the table contents in the footage against event
 
 ---
 
-**C-12722** Host Says Occult Worship Appears Under Different Names Including Frankism and Sabbatianism
+**C-7039** Host Says Occult Worship Appears Under Different Names Including Frankism and Sabbatianism
 
 Claim Timestamp: 00:40:22
 
@@ -2246,7 +2246,7 @@ Investigative Direction: Ask for scholarly sources equating these movements and 
 
 ---
 
-**C-12723** Host Says Turning Point Action Is Run by Bowyer and Kicks Money to Erika's Mother via Superfeed
+**C-7041** Host Says Turning Point Action Is Run by Bowyer and Kicks Money to Erika's Mother via Superfeed
 
 Claim Timestamp: 00:42:41
 
@@ -2262,7 +2262,7 @@ Investigative Direction: Pull Turning Point Action FEC disbursements to Superfee
 
 ---
 
-**C-12724** Host Says Turning Point Had Ben Shapiro Open AmFest Behind Erika
+**C-7042** Host Says Turning Point Had Ben Shapiro Open AmFest Behind Erika
 
 Claim Timestamp: 00:42:41
 
@@ -2277,7 +2277,7 @@ Investigative Direction: Check the AmFest program and video for the speaking ord
 
 ---
 
-**C-12725** Host Says Turning Point Calls Massie a Rhino Because He Will Not Fund Ukraine and Israel
+**C-7043** Host Says Turning Point Calls Massie a Rhino Because He Will Not Fund Ukraine and Israel
 
 Claim Timestamp: 00:42:41
 
@@ -2293,7 +2293,7 @@ Investigative Direction: Compare Massie's votes on Ukraine and Israel funding wi
 
 ---
 
-**C-12726** Host Says Turning Point Quickly Brought Out People Charlie Disliked and Gave New York Times Interviews
+**C-7048** Host Says Turning Point Quickly Brought Out People Charlie Disliked and Gave New York Times Interviews
 
 Claim Timestamp: 00:45:24
 
@@ -2308,7 +2308,7 @@ Investigative Direction: List post-September 10 TPUSA events and media appearanc
 
 ---
 
-**C-12727** Host Says She Has No Interest in Running for President but Would Debate or Converse With Erika
+**C-7049** Host Says She Has No Interest in Running for President but Would Debate or Converse With Erika
 
 Claim Timestamp: 00:48:00
 
@@ -2323,7 +2323,7 @@ Investigative Direction: Track any public invitation or response between the hos
 
 ---
 
-**C-12728** Project Constitution Comment Says Students Nationwide Are Protesting Turning Point
+**C-7050** Project Constitution Comment Says Students Nationwide Are Protesting Turning Point
 
 Claim Timestamp: 00:48:44
 
@@ -2339,7 +2339,7 @@ Investigative Direction: Collect news reports of student protests against Turnin
 
 ---
 
-**C-12729** Host Says She Saw Students Protesting the Turning Point Push in Arkansas
+**C-7051** Host Says She Saw Students Protesting the Turning Point Push in Arkansas
 
 Claim Timestamp: 00:48:44
 
@@ -2355,7 +2355,7 @@ Investigative Direction: Find local Arkansas coverage or social posts of the pro
 
 ---
 
-**C-12730** Donor Comment Says TPUSA Sent Fundraising Letters Every Couple of Weeks
+**C-7052** Donor Comment Says TPUSA Sent Fundraising Letters Every Couple of Weeks
 
 Claim Timestamp: 00:50:07
 
@@ -2369,7 +2369,7 @@ Investigative Direction: Collect examples of TPUSA donor mailings after Septembe
 
 ---
 
-**C-12731** Comment Lists Speakers at Upcoming TPUSA Events
+**C-7053** Comment Lists Speakers at Upcoming TPUSA Events
 
 Claim Timestamp: 00:51:02
 
@@ -2384,7 +2384,7 @@ Investigative Direction: Check the official TPUSA events calendar for the speake
 
 ---
 
-**C-12732** Comment Reports Four Drones Stolen From Fort Campbell
+**C-7054** Comment Reports Four Drones Stolen From Fort Campbell
 
 Claim Timestamp: 00:52:08
 
@@ -2399,7 +2399,7 @@ Investigative Direction: Search Army and local news for the Fort Campbell drone 
 
 ---
 
-**C-12733** Host Guesses the Fort Campbell Drones Were Given to Someone, Probably Israel
+**C-7055** Host Guesses the Fort Campbell Drones Were Given to Someone, Probably Israel
 
 Claim Timestamp: 00:52:08
 
@@ -2414,7 +2414,7 @@ Investigative Direction: Wait for any Army CID or base statement on the theft an
 
 ---
 
-**C-12734** Host Says Shapiro and Boreing Do Not Speak Because of Boreing's Behavior
+**C-7056** Host Says Shapiro and Boreing Do Not Speak Because of Boreing's Behavior
 
 Claim Timestamp: 00:53:07
 
@@ -2430,7 +2430,7 @@ Investigative Direction: Look for reporting or statements on a rift between Shap
 
 ---
 
-**C-12735** Host Says Boreing Gave Five Interviews About Her and Called Her Reply a Meltdown
+**C-7057** Host Says Boreing Gave Five Interviews About Her and Called Her Reply a Meltdown
 
 Claim Timestamp: 00:53:07
 
@@ -2446,7 +2446,7 @@ Investigative Direction: Collect Boreing's recent interviews and his X reply for
 
 ---
 
-**C-12736** Comment Says Bret Weinstein Told Tucker the Charlie Story Does Not Add Up
+**C-7058** Comment Says Bret Weinstein Told Tucker the Charlie Story Does Not Add Up
 
 Claim Timestamp: 00:54:30
 
@@ -2461,7 +2461,7 @@ Investigative Direction: Watch the Carlson and Weinstein interview and quote Wei
 
 ---
 
-**C-12737** Host Says Tucker Has Spoken Up That Some Things in the Kirk Case Make No Sense
+**C-7059** Host Says Tucker Has Spoken Up That Some Things in the Kirk Case Make No Sense
 
 Claim Timestamp: 00:54:30
 
@@ -2476,7 +2476,7 @@ Investigative Direction: Find Carlson's on-air or posted statements about proble
 
 ---
 
-**C-12738** Host Says the Reasonable Position Is That Officials Lie About Everything, Implying a Deep State Assassination
+**C-7060** Host Says the Reasonable Position Is That Officials Lie About Everything, Implying a Deep State Assassination
 
 Claim Timestamp: 00:55:43
 
@@ -2491,7 +2491,7 @@ Investigative Direction: Ask the host to specify which official statements she h
 
 ---
 
-**C-12739** Host Says the JFK Assassination Also Involved Israel
+**C-7061** Host Says the JFK Assassination Also Involved Israel
 
 Claim Timestamp: 00:55:43
 
@@ -2506,7 +2506,7 @@ Investigative Direction: No source is cited; compare with published JFK assassin
 
 ---
 
-**C-12740** Host Says Jon Bray Is Looking Into the Microphone Theory and the Tennessee Explosion
+**C-7062** Host Says Jon Bray Is Looking Into the Microphone Theory and the Tennessee Explosion
 
 Claim Timestamp: 00:56:21
 
@@ -2522,7 +2522,7 @@ Investigative Direction: Obtain Bray's published work on the explosion and the m
 
 ---
 
-**C-12741** Host Says Nelda Buckman Gave a Ton of Money to Erika Kirk and Is Involved in Trafficking Charities
+**C-7063** Host Says Nelda Buckman Gave a Ton of Money to Erika Kirk and Is Involved in Trafficking Charities
 
 Claim Timestamp: 00:56:21
 
@@ -2533,13 +2533,13 @@ Transcript Snippet: you should probably look into uh, Nelda Buckman's family. I'
 Anchored Artifacts: 
 Mentions: N-460, N-682, N-2
 Related Nodes: N-10421
-Supports: C-2114, C-2115
+Supports: C-5184, C-5186
 Tags: relevance:context
 Investigative Direction: Check the Buckman family's donations to TPUSA and to Erika Kirk and the charities Buckman chairs or funds.
 
 ---
 
-**C-12742** Host Recounts Buckman Interview Tying Her Charity Work to Her First Husband's Infidelity
+**C-7064** Host Recounts Buckman Interview Tying Her Charity Work to Her First Husband's Infidelity
 
 Claim Timestamp: 00:56:21
 
@@ -2555,7 +2555,7 @@ Investigative Direction: Locate the interview in which Buckman describes her mot
 
 ---
 
-**C-12743** Host Says the Buckman Family Has Factories in Tennessee
+**C-7065** Host Says the Buckman Family Has Factories in Tennessee
 
 Claim Timestamp: 00:57:42
 
@@ -2571,7 +2571,7 @@ Investigative Direction: Check Tennessee business records for Buckman family ind
 
 ---
 
-**C-12744** Host Asks Viewers to Email More Tips at candaceowens.com
+**C-7066** Host Asks Viewers to Email More Tips at candaceowens.com
 
 Claim Timestamp: 00:58:44
 
@@ -2586,7 +2586,7 @@ Investigative Direction: Check the tips inbox intake and any tips published or a
 
 ---
 
-**C-12745** Host Asks Next Model Management Models and Employees to Send Tips Directly
+**C-7067** Host Asks Next Model Management Models and Employees to Send Tips Directly
 
 Claim Timestamp: 00:58:44
 
@@ -2602,7 +2602,7 @@ Investigative Direction: Check whether any model or employee responses are aired
 
 ---
 
-**C-12746** Host Says Freud's Vienna Circle Preceded World War as Cover for Harm to Children
+**C-7068** Host Says Freud's Vienna Circle Preceded World War as Cover for Harm to Children
 
 Claim Timestamp: 00:58:44
 
@@ -2617,7 +2617,7 @@ Investigative Direction: No source is cited; the claim is historical and sweepin
 
 ---
 
-**C-12747** Host Says a Sitting President Is Suing Her for Speaking About What Happened
+**C-7069** Host Says a Sitting President Is Suing Her for Speaking About What Happened
 
 Claim Timestamp: 00:59:45
 
@@ -2628,13 +2628,13 @@ Transcript Snippet: Another sitting president is suing a podcaster for speaking 
 Anchored Artifacts: 
 Mentions: N-377, N-3
 Related Nodes: N-10270
-Supports: C-9814
+Supports: C-3311
 Tags: relevance:context
 Investigative Direction: Check the Delaware Macron v. Owens docket for the plaintiffs and the claims pleaded.
 
 ---
 
-**C-12748** Host Says France Was There on the Day of the Assassination and the White House Has Not Disputed It
+**C-7070** Host Says France Was There on the Day of the Assassination and the White House Has Not Disputed It
 
 Claim Timestamp: 01:00:29
 
@@ -2645,13 +2645,13 @@ Transcript Snippet: France, by the way, I have told you guys this repeatedly, wa
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10316, N-10290
-Supports: C-5263
+Supports: C-4266
 Tags: relevance:core
 Investigative Direction: Request any White House or State Department statement on French personnel in the United States on September 10, 2025.
 
 ---
 
-**C-12749** Host Says Trump Pardoned Jared Kushner's Father and Then Made Him Ambassador to France
+**C-7071** Host Says Trump Pardoned Jared Kushner's Father and Then Made Him Ambassador to France
 
 Claim Timestamp: 01:01:32
 

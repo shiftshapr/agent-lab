@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep055): N-10883
   - Tip-minted Nodes (reintro-ep055): N-612
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10g): C-14089–C-14172
+  - Claim Range: C-4871–C-4981
   - New Nodes Introduced: N-438, N-440, N-441, N-442, N-443, N-444, N-10402, N-10403, N-10404, N-10405, N-10407, N-10408
   - Reused Nodes Appearing: N-10406, N-437, N-439, N-9, N-36, N-38, N-201, N-361, N-398, N-594, N-10000, N-10015, N-10025, N-10026, N-10063, N-10082, N-10209, N-10324, N-10376, N-10378, N-10398, N-10399, N-11104, N-11153, N-11163, N-11164, N-11169, N-11323
   - (see registers)
@@ -39,7 +39,7 @@
 ### Episode 55 Ledger Summary
 
 - **Artifact Families Introduced:** A-1607, A-1608, A-1609, A-1610, A-1611, A-1612, A-1613, A-1614, A-1615, A-1616
-- **Claim Range:** C-2047–C-2072
+- **Claim Range:** C-4881–C-4913
 - **New Nodes Introduced (people):**, N-437, N-438, N-439, N-440, N-441, N-442, N-443, N-444
 - **New Nodes Introduced (investigation targets):** N-10402, N-10403, N-10404, N-10405, N-10406, N-10407, N-10408
 - **Existing Nodes Reused:** Charlie Kirk, Candace Owens, Erika Kirk, Tucker Carlson, Megyn Kelly, Ben Shapiro, Dennis Prager, Netanyahu, Mark Burnett, Jordan Peterson, Nick Fuentes, Seth Dillon, Jerry Falwell Jr. (referenced by name without new ID)
@@ -66,7 +66,7 @@ Video Timestamp: 00:07:11–00:08:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (transcript-only verification)
 
-*Related: C-2047, C-2048, N-14, N-10404*
+*Related: C-4881, C-4883, N-14, N-10404*
 
 ---
 
@@ -80,7 +80,7 @@ Video Timestamp: 00:23:45–00:24:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2049, C-2050, N-437, N-439, N-10402*
+*Related: C-4925, C-4926, N-437, N-439, N-10402*
 
 ---
 
@@ -94,7 +94,7 @@ Video Timestamp: 00:12:48–00:13:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2051, N-444*
+*Related: C-4896, N-444*
 
 ---
 
@@ -108,7 +108,7 @@ Video Timestamp: 00:21:30–00:22:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2052, C-2053, N-437, N-10402*
+*Related: C-4920, C-4921, N-437, N-10402*
 
 **A-1610.2** Johnnie Moore audio clip: "I know the state of Israel is strong… we are committed to building a great wall of Christian Zionism all over the world to push back the forces of anti-semitism"
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:22:43–00:23:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2054, N-437, N-10402*
+*Related: C-4923, N-437, N-10402*
 
 ---
 
@@ -132,7 +132,7 @@ Video Timestamp: 00:34:41–00:35:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (named speakers, identifiable speech content)
 
-*Related: C-2057, N-441, N-10407*
+*Related: C-4946, N-441, N-10407*
 
 ---
 
@@ -146,7 +146,7 @@ Video Timestamp: 00:38:50–00:41:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2058, C-2059, C-2060, Megyn Kelly, Ben Shapiro, N-10406*
+*Related: C-4952, C-4953, C-4954, Megyn Kelly, Ben Shapiro, N-10406*
 
 ---
 
@@ -160,7 +160,7 @@ Video Timestamp: 00:46:41–00:47:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (anonymous social commentary)
 
-*Related: C-2061, Erika Kirk, N-10403*
+*Related: C-4959, Erika Kirk, N-10403*
 
 **A-1613.2** Comment from user "Natty Nicole": expressing being heartbroken and asking how Andrew Kolvet sleeps at night
 
@@ -170,7 +170,7 @@ Video Timestamp: 00:47:35–00:48:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: C-2062, N-14*
+*Related: C-4964, N-14*
 
 **A-1613.3** Comment from user "67" (Argentina donation)
 
@@ -180,7 +180,7 @@ Video Timestamp: 00:49:54–00:50:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: C-2063*
+*Related: C-4967*
 
 **A-1613.4** Comment from user "Victoria Betts": "Go Max and always all glory to God."
 
@@ -190,7 +190,7 @@ Video Timestamp: 00:50:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: C-2064*
+*Related: C-4970*
 
 **A-1613.5** Comment from user "the one you feed": "What the hell is America's law enforcement? Is everybody bought?"
 
@@ -200,7 +200,7 @@ Video Timestamp: 00:50:57–00:51:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: C-2065*
+*Related: C-4971*
 
 **A-1613.6** Comment from user "Cammy Resits": expressing admiration and concern about children
 
@@ -210,7 +210,7 @@ Video Timestamp: 00:51:36–00:52:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: C-2066*
+*Related: C-4975*
 
 **A-1613.7** Comment from user "world": advising not to vote for congressional Zionism supporters
 
@@ -220,7 +220,7 @@ Video Timestamp: 00:52:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: C-2067*
+*Related: C-4978*
 
 **A-1613.8** Comment from user "Blakeley Webb": describing a Facebook exchange where someone mocked host for sharing dreams
 
@@ -230,7 +230,7 @@ Video Timestamp: 00:52:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: C-2068*
+*Related: C-4979*
 
 ---
 
@@ -244,7 +244,7 @@ Video Timestamp: 00:25:34–00:26:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2055, C-2056, N-438, N-399, N-10402*
+*Related: C-4932, C-4933, N-438, N-399, N-10402*
 
 ---
 
@@ -258,7 +258,7 @@ Video Timestamp: 00:29:23–00:30:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (host-read advertisement)
 
-*Related: C-2069*
+*Related: C-4941*
 
 ---
 
@@ -285,7 +285,7 @@ Video Timestamp: 00:15:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14114, C-14115, C-14116, C-14118, C-14119, C-14120, C-14143, N-11384, N-1, N-11104, N-11163, N-3, N-398, N-437, N-439, N-442*
+*Related: C-4900, C-4901, C-4902, C-4904, C-4905, C-4906, C-4938, N-11384, N-1, N-11104, N-11163, N-3, N-398, N-437, N-439, N-442*
 
 ---
 
@@ -298,7 +298,7 @@ Video Timestamp: 00:23:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14134, C-14135, N-11104, N-437*
+*Related: C-4927, C-4928, N-11104, N-437*
 
 ---
 
@@ -311,7 +311,7 @@ Video Timestamp: 00:25:34
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14139, N-10402, N-11164, N-14, N-399, N-437, N-438*
+*Related: C-4934, N-10402, N-11164, N-14, N-399, N-437, N-438*
 
 ---
 
@@ -324,7 +324,7 @@ Video Timestamp: 00:08:04
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14101, N-14, N-3*
+*Related: C-4885, N-14, N-3*
 
 ---
 
@@ -340,7 +340,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1607.1, A-1613.2, C-2047, C-2048, N-10402, N-10403*
+*Related: A-1607.1, A-1613.2, C-4881, C-4883, N-10402, N-10403*
 
 ---
 
@@ -353,7 +353,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1608.1, A-1610.1, A-1610.2, C-2049, C-2050, C-2052, C-2053, C-2054, N-438, N-399, N-10402*
+*Related: A-1608.1, A-1610.1, A-1610.2, C-4925, C-4926, C-4920, C-4921, C-4923, N-438, N-399, N-10402*
 
 ---
 
@@ -366,7 +366,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1614.1, C-2055, N-437, N-399, N-10402*
+*Related: A-1614.1, C-4932, N-437, N-399, N-10402*
 
 ---
 
@@ -379,7 +379,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1614.1, C-2055, C-2056, N-438, N-10402*
+*Related: A-1614.1, C-4932, C-4933, N-438, N-10402*
 
 ---
 
@@ -405,7 +405,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-2071, C-2072, N-437, Erika Kirk*
+*Related: C-4911, C-4913, N-437, Erika Kirk*
 
 ---
 
@@ -418,7 +418,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1611.1, C-2057, N-10407*
+*Related: A-1611.1, C-4946, N-10407*
 
 ---
 
@@ -470,7 +470,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1608.1, A-1610.1, A-1610.2, A-1614.1, C-2049, C-2050, C-2055, C-2056, N-14, N-437, N-438, N-399*
+*Related: A-1608.1, A-1610.1, A-1610.2, A-1614.1, C-4925, C-4926, C-4932, C-4933, N-14, N-437, N-438, N-399*
 
 ---
 
@@ -483,7 +483,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1613.1, C-2061, Erika Kirk*
+*Related: A-1613.1, C-4959, Erika Kirk*
 
 ---
 
@@ -496,7 +496,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1607.1, C-2047, C-2048, N-14*
+*Related: A-1607.1, C-4881, C-4883, N-14*
 
 ---
 
@@ -509,7 +509,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-2073*
+*Related: C-4947*
 
 ---
 
@@ -522,7 +522,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1612.1, C-2058, C-2059, C-2060, Megyn Kelly, Ben Shapiro*
+*Related: A-1612.1, C-4952, C-4953, C-4954, Megyn Kelly, Ben Shapiro*
 
 ---
 
@@ -535,7 +535,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1611.1, C-2057, N-441, N-10408*
+*Related: A-1611.1, C-4946, N-441, N-10408*
 
 ---
 
@@ -548,7 +548,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-2074*
+*Related: C-4893*
 
 ---
 
@@ -556,7 +556,7 @@ Investigative Pressure: Medium
 
 Subject of the assassination; the host recounts his dream appearance, his Falkirk and Liberty ties and her belief that he was killed because he could not be controlled.
 
-*Related: C-14089, C-14090, C-14094, C-14095, C-14096, C-14097, C-14098, C-14099, C-14100, C-14108, C-14113, C-14117, C-14120, C-14121, C-14124, C-14131, C-14142, C-14144, C-14156, C-14169, C-14170*
+*Related: C-4871, C-4872, C-4876, C-4877, C-4878, C-4879, C-4880, C-4882, C-4884, C-4892, C-4899, C-4903, C-4906, C-4907, C-4910, C-4919, C-4937, C-4939, C-4957, C-4976, C-4977*
 
 ---
 
@@ -564,7 +564,7 @@ Subject of the assassination; the host recounts his dream appearance, his Falkir
 
 Widow and TPUSA CEO; the host asks about her Falkirk fellowship, her Summer House appearance and her overseas background.
 
-*Related: C-14125, C-14158, C-14159, C-14160, C-14161*
+*Related: C-4912, C-4960, C-4961, C-4962, C-4963*
 
 ---
 
@@ -572,7 +572,7 @@ Widow and TPUSA CEO; the host asks about her Falkirk fellowship, her Summer Hous
 
 Host; speaks for herself throughout.
 
-*Related: C-14089, C-14090, C-14091, C-14092, C-14093, C-14094, C-14095, C-14096, C-14097, C-14099, C-14100, C-14101, C-14102, C-14103, C-14104, C-14114, C-14127, C-14128, C-14131, C-14150, C-14151, C-14155, C-14157, C-14159, C-14160, C-14161, C-14167, C-14171*
+*Related: C-4871, C-4872, C-4873, C-4874, C-4875, C-4876, C-4877, C-4878, C-4879, C-4882, C-4884, C-4885, C-4886, C-4887, C-4888, C-4900, C-4915, C-4916, C-4919, C-4948, C-4949, C-4956, C-4958, C-4961, C-4962, C-4963, C-4973, C-4980*
 
 ---
 
@@ -580,7 +580,7 @@ Host; speaks for herself throughout.
 
 Jeffrey Epstein; the host contrasts officials' flak toward Tucker Carlson with their stance on Epstein.
 
-*Related: C-14152*
+*Related: C-4950*
 
 ---
 
@@ -588,7 +588,7 @@ Jeffrey Epstein; the host contrasts officials' flak toward Tucker Carlson with t
 
 Tucker Carlson; target of the Knesset speech and of the host's remark about Israel's involvement if anything happens to him.
 
-*Related: C-14151, C-14152*
+*Related: C-4949, C-4950*
 
 ---
 
@@ -596,7 +596,7 @@ Tucker Carlson; target of the Knesset speech and of the host's remark about Isra
 
 Benjamin Netanyahu; appears in the host's dream, in her CIA remark and in a likeness remark.
 
-*Related: C-14095, C-14147, C-14165*
+*Related: C-4877, C-4943, C-4969*
 
 ---
 
@@ -604,7 +604,7 @@ Benjamin Netanyahu; appears in the host's dream, in her CIA remark and in a like
 
 Seth Dillon; the host recalls his texts pressuring her over Nick Fuentes.
 
-*Related: C-14155*
+*Related: C-4956*
 
 ---
 
@@ -612,7 +612,7 @@ Seth Dillon; the host recalls his texts pressuring her over Nick Fuentes.
 
 Megyn Kelly; the host says she is a Zionist who refuses to denounce the host.
 
-*Related: C-14153, C-14154*
+*Related: C-4951, C-4955*
 
 ---
 
@@ -620,7 +620,7 @@ Megyn Kelly; the host says she is a Zionist who refuses to denounce the host.
 
 Ben Shapiro; named in Kelly's clip about their last exchange.
 
-*Related: C-14154*
+*Related: C-4955*
 
 ---
 
@@ -628,7 +628,7 @@ Ben Shapiro; named in Kelly's clip about their last exchange.
 
 Nick Fuentes; subject of the pressure campaign the host recalls.
 
-*Related: C-14155*
+*Related: C-4956*
 
 ---
 
@@ -636,7 +636,7 @@ Nick Fuentes; subject of the pressure campaign the host recalls.
 
 Mitch Snow; the host's list includes an operation to debunk 'Mitch' at Fort Huachuca (match inferred, see doubts).
 
-*Related: C-14090*
+*Related: C-4872*
 
 ---
 
@@ -644,7 +644,7 @@ Mitch Snow; the host's list includes an operation to debunk 'Mitch' at Fort Huac
 
 Jerry Falwell Sr.; Liberty's founder, linked by the host to Moon and to Ron Godwin.
 
-*Related: C-14107, C-14118, C-14119, C-14137*
+*Related: C-4891, C-4904, C-4905, C-4930*
 
 ---
 
@@ -652,7 +652,7 @@ Jerry Falwell Sr.; Liberty's founder, linked by the host to Moon and to Ron Godw
 
 Jordan Peterson; the host says he co-created the report on Christ Is King with Johnnie Moore and was cited by Kolvet.
 
-*Related: C-14104, C-14128*
+*Related: C-4888, C-4916*
 
 ---
 
@@ -660,7 +660,7 @@ Jordan Peterson; the host says he co-created the report on Christ Is King with J
 
 Dennis Prager; the host says Kolvet told her he fell and was seriously injured after writing about her.
 
-*Related: C-14103*
+*Related: C-4887*
 
 ---
 
@@ -668,7 +668,7 @@ Dennis Prager; the host says Kolvet told her he fell and was seriously injured a
 
 Existing organization reused for new claims in this episode.
 
-*Related: C-14124*
+*Related: C-4910*
 
 ---
 
@@ -676,7 +676,7 @@ Existing organization reused for new claims in this episode.
 
 Existing organization reused for new claims in this episode.
 
-*Related: C-14147*
+*Related: C-4943*
 
 ---
 
@@ -684,7 +684,7 @@ Existing organization reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14151, C-14155, C-14156*
+*Related: C-4949, C-4956, C-4957*
 
 ---
 
@@ -692,7 +692,7 @@ Existing topic reused for new claims in this episode.
 
 Existing place reused for new claims in this episode.
 
-*Related: C-14094, C-14095, C-14148, C-14149, C-14151*
+*Related: C-4876, C-4877, C-4944, C-4945, C-4949*
 
 ---
 
@@ -700,7 +700,7 @@ Existing place reused for new claims in this episode.
 
 Existing place reused for new claims in this episode.
 
-*Related: C-14148*
+*Related: C-4944*
 
 ---
 
@@ -708,7 +708,7 @@ Existing place reused for new claims in this episode.
 
 Existing organization reused for new claims in this episode.
 
-*Related: C-14105, C-14147, C-14163*
+*Related: C-4889, C-4943, C-4966*
 
 ---
 
@@ -716,7 +716,7 @@ Existing organization reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14133*
+*Related: C-4924*
 
 ---
 
@@ -724,7 +724,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14152*
+*Related: C-4950*
 
 ---
 
@@ -732,7 +732,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14113*
+*Related: C-4899*
 
 ---
 
@@ -740,7 +740,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14100*
+*Related: C-4884*
 
 ---
 
@@ -748,7 +748,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14108, C-14113, C-14117, C-14144, C-14162*
+*Related: C-4892, C-4899, C-4903, C-4939, C-4965*
 
 ---
 
@@ -756,7 +756,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14106, C-14109, C-14110, C-14111, C-14112, C-14145*
+*Related: C-4890, C-4894, C-4895, C-4897, C-4898, C-4940*
 
 ---
 
@@ -764,7 +764,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14091*
+*Related: C-4873*
 
 ---
 
@@ -772,7 +772,7 @@ Existing topic reused for new claims in this episode.
 
 Existing organization reused for new claims in this episode.
 
-*Related: C-14107, C-14114, C-14115, C-14117, C-14118, C-14119, C-14120, C-14122, C-14126, C-14134, C-14137, C-14140, C-14141, C-14142, C-14143*
+*Related: C-4891, C-4900, C-4901, C-4903, C-4904, C-4905, C-4906, C-4908, C-4914, C-4927, C-4930, C-4935, C-4936, C-4937, C-4938*
 
 ---
 
@@ -780,7 +780,7 @@ Existing organization reused for new claims in this episode.
 
 Existing organization reused for new claims in this episode.
 
-*Related: C-14127, C-14128, C-14129, C-14130, C-14131, C-14132*
+*Related: C-4915, C-4916, C-4917, C-4918, C-4919, C-4922*
 
 ---
 
@@ -788,7 +788,7 @@ Existing organization reused for new claims in this episode.
 
 Existing organization reused for new claims in this episode.
 
-*Related: C-14089, C-14116, C-14117, C-14121, C-14142, C-14158, C-14159*
+*Related: C-4871, C-4902, C-4903, C-4907, C-4937, C-4960, C-4961*
 
 ---
 
@@ -796,7 +796,7 @@ Existing organization reused for new claims in this episode.
 
 Existing organization reused for new claims in this episode.
 
-*Related: C-14123, C-14124, C-14126, C-14139*
+*Related: C-4909, C-4910, C-4914, C-4934*
 
 ---
 
@@ -804,7 +804,7 @@ Existing organization reused for new claims in this episode.
 
 Existing organization reused for new claims in this episode.
 
-*Related: C-14138*
+*Related: C-4931*
 
 ---
 
@@ -812,7 +812,7 @@ Existing organization reused for new claims in this episode.
 
 Existing organization reused for new claims in this episode.
 
-*Related: C-14129, C-14130, C-14131*
+*Related: C-4917, C-4918, C-4919*
 
 ---
 
@@ -820,7 +820,7 @@ Existing organization reused for new claims in this episode.
 
 First named by the host at 00:49:54 in episode 55 (transcribed as 'Mle'). Argentine president whom the host says she distrusted and about whom she repeats a surname rumor.
 
-*Related: C-14165*
+*Related: C-4969*
 
 ---
 
@@ -829,7 +829,7 @@ First named by the host at 00:49:54 in episode 55 (transcribed as 'Mle'). Argent
 Node Type: Topic
 The host's catalog of named narrative campaigns she says were run against her after the assassination (Catholicism, her contact with Kirk, the Egyptian planes, Mitch and Fort Huachuca, her dreams), and her belief that they are coordinated, panicked and well funded.
 
-*Related: C-14090, C-14091, C-14092, C-14100*
+*Related: C-4872, C-4873, C-4874, C-4884*
 
 ---
 
@@ -838,7 +838,7 @@ The host's catalog of named narrative campaigns she says were run against her af
 Node Type: Topic
 The host's account, from sources she says work at Liberty University, of how Jerry Falwell Jr. was removed, how Jerry Prevo's succession followed, and how that affected Charlie Kirk, the Falkirk Center and Johnnie Moore.
 
-*Related: C-14115, C-14116, C-14142, C-14143*
+*Related: C-4901, C-4902, C-4937, C-4938*
 
 ---
 
@@ -847,7 +847,7 @@ The host's account, from sources she says work at Liberty University, of how Jer
 Node Type: Topic
 The host's question whether Erika Kirk's 2019 appearance on Summer House connects to Mark Burnett and MGM, and who arranged it.
 
-*Related: C-14125*
+*Related: C-4912*
 
 ---
 
@@ -856,13 +856,13 @@ The host's question whether Erika Kirk's 2019 appearance on Summer House connect
 Node Type: Topic
 The host's stated plan to examine Erika Kirk's charities and her claims of living in China and Costa Rica, and to offer her a chance to respond.
 
-*Related: C-14160, C-14161*
+*Related: C-4962, C-4963*
 
 ---
 
 ## V. Claim Register
 
-**C-2047** Text Message From Candace Owens to Andrew Kolvet Described Charlie Kirk Dream Stating He Was Betrayed and Said She Believed Andrew Knew More Than Publicly Stated
+**C-4881** Text Message From Candace Owens to Andrew Kolvet Described Charlie Kirk Dream Stating He Was Betrayed and Said She Believed Andrew Knew More Than Publicly Stated
 
 Claim Timestamp: 00:07:11–00:08:04
 
@@ -877,7 +877,7 @@ Investigative Direction: Obtain verification of the text exchange; identify the 
 
 ---
 
-**C-2048** Andrew Kolvet Never Replied to the Dream Text From Candace Owens
+**C-4883** Andrew Kolvet Never Replied to the Dream Text From Candace Owens
 
 Claim Timestamp: 00:08:04
 
@@ -892,7 +892,7 @@ Investigative Direction: Verify non-reply independently; cross-check any subsequ
 
 ---
 
-**C-2049** Christianity Today reported Johnnie Moore arrived at Liberty University dorms at age 14
+**C-4925** Christianity Today reported Johnnie Moore arrived at Liberty University dorms at age 14
 
 Claim Timestamp: 00:23:45–00:24:10
 
@@ -907,7 +907,7 @@ Investigative Direction: Retrieve the original Christianity Today article; ident
 
 ---
 
-**C-2050** Johnnie Moore and his single mother family briefly lived in Liberty University dorms following parental divorce and temporary homelessness
+**C-4926** Johnnie Moore and his single mother family briefly lived in Liberty University dorms following parental divorce and temporary homelessness
 
 Claim Timestamp: 00:23:45–00:24:10
 
@@ -922,7 +922,7 @@ Investigative Direction: Retrieve original Christianity Today article and corrob
 
 ---
 
-**C-2051** New York Times reported 180 LDP lawmakers had ties to the Unification Church
+**C-4896** New York Times reported 180 LDP lawmakers had ties to the Unification Church
 
 Claim Timestamp: 00:12:48–00:13:40
 
@@ -936,7 +936,7 @@ Investigative Direction: Locate the cited New York Times article; verify exact f
 
 ---
 
-**C-2052** Johnnie Moore stated he is involved with ADL and Aspen Institute civil society fellowship
+**C-4920** Johnnie Moore stated he is involved with ADL and Aspen Institute civil society fellowship
 
 Claim Timestamp: 00:21:30–00:22:43
 
@@ -951,7 +951,7 @@ Investigative Direction: Verify Moore's listed fellowships directly through ADL 
 
 ---
 
-**C-2053** Johnnie Moore stated he serves on the ADL and Aspen Institute advisory board
+**C-4921** Johnnie Moore stated he serves on the ADL and Aspen Institute advisory board
 
 Claim Timestamp: 00:21:30–00:22:43
 
@@ -966,7 +966,7 @@ Investigative Direction: Verify advisory board membership through both organizat
 
 ---
 
-**C-2054** Johnnie Moore stated commitment to building a "great wall of Christian Zionism"
+**C-4923** Johnnie Moore stated commitment to building a "great wall of Christian Zionism"
 
 Claim Timestamp: 00:22:43–00:23:15
 
@@ -981,7 +981,7 @@ Investigative Direction: Identify the original venue and date of this speech; ve
 
 ---
 
-**C-2055** Sun Myung Moon declared Ron Godwin as one of three disciples
+**C-4932** Sun Myung Moon declared Ron Godwin as one of three disciples
 
 Claim Timestamp: 00:25:34–00:26:20
 
@@ -996,7 +996,7 @@ Investigative Direction: Retrieve the primary source (Unification Church publica
 
 ---
 
-**C-2056** Sun Myung Moon's quoted instruction: each disciple must multiply three disciples of their own
+**C-4933** Sun Myung Moon's quoted instruction: each disciple must multiply three disciples of their own
 
 Claim Timestamp: 00:25:34–00:26:20
 
@@ -1011,7 +1011,7 @@ Investigative Direction: Retrieve primary source; verify whether this directive 
 
 ---
 
-**C-2057** A Likud party representative declared Tucker Carlson and Candace Owens enemies of Israel in a Knesset speech
+**C-4946** A Likud party representative declared Tucker Carlson and Candace Owens enemies of Israel in a Knesset speech
 
 Claim Timestamp: 00:34:41–00:35:36
 
@@ -1026,7 +1026,7 @@ Investigative Direction: Identify the Knesset speaker; obtain Knesset record of 
 
 ---
 
-**C-2058** Megyn Kelly stated she received messages from pro-Israel Jewish friends who then turned against her
+**C-4952** Megyn Kelly stated she received messages from pro-Israel Jewish friends who then turned against her
 
 Claim Timestamp: 00:38:50–00:41:18
 
@@ -1041,7 +1041,7 @@ Investigative Direction: Obtain full interview transcript from Tucker Carlson sh
 
 ---
 
-**C-2059** Megyn Kelly stated she was called anti-Semite for refusing to condemn Candace Owens
+**C-4953** Megyn Kelly stated she was called anti-Semite for refusing to condemn Candace Owens
 
 Claim Timestamp: 00:38:50–00:41:18
 
@@ -1056,7 +1056,7 @@ Investigative Direction: Identify accusers; obtain interview transcript.
 
 ---
 
-**C-2060** Megyn Kelly stated she was called a coward by Ben Shapiro at Turning Point Amfest event
+**C-4954** Megyn Kelly stated she was called a coward by Ben Shapiro at Turning Point Amfest event
 
 Claim Timestamp: 00:40:07
 
@@ -1071,7 +1071,7 @@ Investigative Direction: Obtain video of Amfest remarks; verify date, exact word
 
 ---
 
-**C-2061** Top Comment Claims Erika Kirk Was Brought in as Charlie Kirk's Handler at the Falkirk Center
+**C-4959** Top Comment Claims Erika Kirk Was Brought in as Charlie Kirk's Handler at the Falkirk Center
 
 Claim Timestamp: 00:46:41–00:47:35
 
@@ -1086,7 +1086,7 @@ Investigative Direction: Requires corroboration through independent sources docu
 
 ---
 
-**C-2062** Top Comment From Natty Nicole Expresses Being Heartbroken and Questions Andrew Kolvet's Conscience
+**C-4964** Top Comment From Natty Nicole Expresses Being Heartbroken and Questions Andrew Kolvet's Conscience
 
 Claim Timestamp: 00:48:51
 
@@ -1100,7 +1100,7 @@ Investigative Direction: No investigative direction; comment is rhetorical and e
 
 ---
 
-**C-2063** Top comment from "67" came with Argentina donation
+**C-4967** Top comment from "67" came with Argentina donation
 
 Claim Timestamp: 00:49:54–00:50:57
 
@@ -1114,7 +1114,7 @@ Investigative Direction: No investigative direction.
 
 ---
 
-**C-2064** Top comment from "Victoria Betts" expressed "Go Max and always all glory to God"
+**C-4970** Top comment from "Victoria Betts" expressed "Go Max and always all glory to God"
 
 Claim Timestamp: 00:50:57
 
@@ -1128,7 +1128,7 @@ Investigative Direction: No investigative direction.
 
 ---
 
-**C-2065** Top comment from "the one you feed" questioned whether America's law enforcement is universally bought
+**C-4971** Top comment from "the one you feed" questioned whether America's law enforcement is universally bought
 
 Claim Timestamp: 00:50:57–00:51:36
 
@@ -1142,7 +1142,7 @@ Investigative Direction: No investigative direction.
 
 ---
 
-**C-2066** Top comment from "Cammy Resits" expressed admiration and parental concern
+**C-4975** Top comment from "Cammy Resits" expressed admiration and parental concern
 
 Claim Timestamp: 00:51:36–00:52:14
 
@@ -1156,7 +1156,7 @@ Investigative Direction: No investigative direction.
 
 ---
 
-**C-2067** Top comment from "world" advised voters to reject congressional Zionism supporters
+**C-4978** Top comment from "world" advised voters to reject congressional Zionism supporters
 
 Claim Timestamp: 00:51:58
 
@@ -1170,7 +1170,7 @@ Investigative Direction: No investigative direction.
 
 ---
 
-**C-2068** Top comment from "Blakeley Webb" reported defending the host against dream-shaming on Facebook
+**C-4979** Top comment from "Blakeley Webb" reported defending the host against dream-shaming on Facebook
 
 Claim Timestamp: 00:52:14
 
@@ -1184,7 +1184,7 @@ Investigative Direction: No investigative direction.
 
 ---
 
-**C-2069** Pre-born sponsorship claims 7 million American women suffer severe long-lasting emotional distress after abortion
+**C-4941** Pre-born sponsorship claims 7 million American women suffer severe long-lasting emotional distress after abortion
 
 Claim Timestamp: 00:28:35
 
@@ -1199,7 +1199,7 @@ Investigative Direction: Verify the cited statistic against peer-reviewed studie
 ---
 
 
-**C-2071** Mark Burnett named as Johnnie Moore's Hollywood employer
+**C-4911** Mark Burnett named as Johnnie Moore's Hollywood employer
 
 Claim Timestamp: 00:19:23–00:20:09
 
@@ -1213,7 +1213,7 @@ Investigative Direction: Verify employment relationship through public records o
 
 ---
 
-**C-2072** Mark Burnett became chairperson of MGM and acquired Summerhouse
+**C-4913** Mark Burnett became chairperson of MGM and acquired Summerhouse
 
 Claim Timestamp: 00:20:09
 
@@ -1227,7 +1227,7 @@ Investigative Direction: Verify MGM chairmanship and Summerhouse acquisition thr
 
 ---
 
-**C-2073** Murder plot against Candace Owens discovered on September 10, still in courts
+**C-4947** Murder plot against Candace Owens discovered on September 10, still in courts
 
 Claim Timestamp: 00:35:36
 
@@ -1242,7 +1242,7 @@ Investigative Direction: Identify the court proceeding, jurisdiction, and any pu
 
 ---
 
-**C-2074** Turning Point USA soliciting 401ks, property, and estate/will inclusions
+**C-4893** Turning Point USA soliciting 401ks, property, and estate/will inclusions
 
 Claim Timestamp: 00:11:59–00:12:48
 
@@ -1256,7 +1256,7 @@ Investigative Direction: Review Turning Point USA's publicly available donation 
 
 ---
 
-**C-14089** Host Says the Falkirk Center Scandal Could Have Felled Both Falwell Jr. and Kirk
+**C-4871** Host Says the Falkirk Center Scandal Could Have Felled Both Falwell Jr. and Kirk
 
 Claim Timestamp: 00:00:45
 
@@ -1272,7 +1272,7 @@ Investigative Direction: Obtain Falkirk Center founding and wind-down records, L
 
 ---
 
-**C-14090** Host Lists the Post-Assassination PR Operations She Says Were Run Against Her
+**C-4872** Host Lists the Post-Assassination PR Operations She Says Were Run Against Her
 
 Claim Timestamp: 00:01:26
 
@@ -1288,7 +1288,7 @@ Investigative Direction: Compare the dated public statements and posts behind ea
 
 ---
 
-**C-14091** Host Imagines a Wealthy Backer Phoning People With Bitcoin Offers to Call Her Crazy
+**C-4873** Host Imagines a Wealthy Backer Phoning People With Bitcoin Offers to Call Her Crazy
 
 Claim Timestamp: 00:01:26
 
@@ -1304,7 +1304,7 @@ Investigative Direction: Ask the host whether any named person was actually offe
 
 ---
 
-**C-14092** Host Says She Believes the Operation Mocking Her Dreams Is Run by a Person Personally Victimized by Them
+**C-4874** Host Says She Believes the Operation Mocking Her Dreams Is Run by a Person Personally Victimized by Them
 
 Claim Timestamp: 00:02:45
 
@@ -1320,7 +1320,7 @@ Investigative Direction: Identify the accounts that first pushed the dream-mocki
 
 ---
 
-**C-14093** Host Says Her Husband Told Her to See a Priest and They Spoke About Souls in Purgatory
+**C-4875** Host Says Her Husband Told Her to See a Priest and They Spoke About Souls in Purgatory
 
 Claim Timestamp: 00:04:17
 
@@ -1336,7 +1336,7 @@ Investigative Direction: Only the host can supply the priest's identity and date
 
 ---
 
-**C-14094** Host Says the Repeat Dream Replayed a Real 2018 Lunch With Charlie in Israel
+**C-4876** Host Says the Repeat Dream Replayed a Real 2018 Lunch With Charlie in Israel
 
 Claim Timestamp: 00:04:17
 
@@ -1347,13 +1347,13 @@ Transcript Snippet: It was actually a replay of an actual lunch that Charlie and
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10404, N-10026
-Supports: C-9642
+Supports: C-2485
 Tags: relevance:tangential
 Investigative Direction: Check the host's and Kirk's 2018 Israel trip dates, itinerary and photos against her account of the restaurant lunch.
 
 ---
 
-**C-14095** Host Says the Real 2018 Trip Was for the Embassy Opening but the Dream Placed Them at Netanyahu's Wife's Funeral
+**C-4877** Host Says the Real 2018 Trip Was for the Embassy Opening but the Dream Placed Them at Netanyahu's Wife's Funeral
 
 Claim Timestamp: 00:05:30
 
@@ -1364,13 +1364,13 @@ Transcript Snippet: Instead, we were there in this dream setting for BB Netanyah
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-36
 Related Nodes: N-10404, N-10026
-Supports: C-9642
+Supports: C-2485
 Tags: relevance:context
 Investigative Direction: Verify the host and Kirk attended the 2018 US embassy opening in Jerusalem (travel records, photos) to anchor the real-trip half of the claim; the dream half is not testable.
 
 ---
 
-**C-14096** Host Says Charlie in the Dream Told Her He Had Little Time and She Must See What Happened on His Left
+**C-4878** Host Says Charlie in the Dream Told Her He Had Little Time and She Must See What Happened on His Left
 
 Claim Timestamp: 00:05:30
 
@@ -1386,7 +1386,7 @@ Investigative Direction: Not independently testable; compare with the host's oth
 
 ---
 
-**C-14097** Host Says Charlie in the Dream Said Multiple People Betrayed Him
+**C-4879** Host Says Charlie in the Dream Said Multiple People Betrayed Him
 
 Claim Timestamp: 00:06:27
 
@@ -1397,13 +1397,13 @@ Transcript Snippet: And he told me explicitly, they betrayed me, multiple people
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10404
-Supports: C-12416, C-12064
+Supports: C-2980, C-1405
 Tags: relevance:core
 Investigative Direction: Compare this version of the dream with the host's earlier accounts for any change in who or how many are said to have betrayed him.
 
 ---
 
-**C-14098** Host Says Kolvet's Face Appeared in the Dream in the Third Week After Charlie's Death
+**C-4880** Host Says Kolvet's Face Appeared in the Dream in the Third Week After Charlie's Death
 
 Claim Timestamp: 00:06:27
 
@@ -1419,7 +1419,7 @@ Investigative Direction: Date the dream against the date of the text to Kolvet (
 
 ---
 
-**C-14099** Host Says She Was Friendly With Kolvet and Had Spoken With Him Extensively After the Assassination
+**C-4882** Host Says She Was Friendly With Kolvet and Had Spoken With Him Extensively After the Assassination
 
 Claim Timestamp: 00:07:11
 
@@ -1434,7 +1434,7 @@ Investigative Direction: Phone and message logs between the host and Kolvet from
 
 ---
 
-**C-14100** Host Says It Was Kolvet Orchestrating the Attacks and He Was Caught Red-Handed
+**C-4884** Host Says It Was Kolvet Orchestrating the Attacks and He Was Caught Red-Handed
 
 Claim Timestamp: 00:08:04
 
@@ -1450,7 +1450,7 @@ Investigative Direction: Identify what 'caught red-handed' refers to (likely ear
 
 ---
 
-**C-14101** Host Says Two People in Kolvet's Inner Circle Told Her to Look More Into Him
+**C-4885** Host Says Two People in Kolvet's Inner Circle Told Her to Look More Into Him
 
 Claim Timestamp: 00:08:04
 
@@ -1465,7 +1465,7 @@ Investigative Direction: Only the host's sources can confirm; ask whether either
 
 ---
 
-**C-14102** Host Says Kolvet Once Asked Her in Earnest Whether She Is a Witch
+**C-4886** Host Says Kolvet Once Asked Her in Earnest Whether She Is a Witch
 
 Claim Timestamp: 00:08:04
 
@@ -1480,7 +1480,7 @@ Investigative Direction: Phone records for the call before AmFest and any witnes
 
 ---
 
-**C-14103** Host Says Kolvet Told Her Dennis Prager Fell and Was Seriously Injured After Writing About Her
+**C-4887** Host Says Kolvet Told Her Dennis Prager Fell and Was Seriously Injured After Writing About Her
 
 Claim Timestamp: 00:09:26
 
@@ -1495,7 +1495,7 @@ Investigative Direction: Verify the date and nature of Prager's injury and the d
 
 ---
 
-**C-14104** Host Says Kolvet Also Cited the Daily Wire and Jordan Peterson as Cases of Misfortune After Attacking Her
+**C-4888** Host Says Kolvet Also Cited the Daily Wire and Jordan Peterson as Cases of Misfortune After Attacking Her
 
 Claim Timestamp: 00:09:45
 
@@ -1510,7 +1510,7 @@ Investigative Direction: Ask Kolvet to confirm the conversation; check which Dai
 
 ---
 
-**C-14105** Host Says Sun Myung Moon Was Working for the CIA While Leading a Religious Cult
+**C-4889** Host Says Sun Myung Moon Was Working for the CIA While Leading a Religious Cult
 
 Claim Timestamp: 00:10:23
 
@@ -1526,7 +1526,7 @@ Investigative Direction: Check declassified CIA and Korean intelligence records,
 
 ---
 
-**C-14106** Host Says Moon's Church Bought Up Land, Buildings, Entire Blocks and Companies
+**C-4890** Host Says Moon's Church Bought Up Land, Buildings, Entire Blocks and Companies
 
 Claim Timestamp: 00:10:23
 
@@ -1537,13 +1537,13 @@ Transcript Snippet: they were buying up land, buildings, entire blocks, all thes
 Anchored Artifacts: 
 Mentions: N-399
 Related Nodes: N-10399, N-10402
-Supports: C-8212
+Supports: C-4821
 Tags: relevance:context
 Investigative Direction: Use the Washington Post and congressional investigations on Moon-linked holdings already cited in episode 54 for a property and company list.
 
 ---
 
-**C-14107** Host Says Moon Got Involved With Liberty University Through Jerry Falwell Sr.
+**C-4891** Host Says Moon Got Involved With Liberty University Through Jerry Falwell Sr.
 
 Claim Timestamp: 00:10:23
 
@@ -1554,13 +1554,13 @@ Transcript Snippet: And then he got involved with Liberty University via Jerry F
 Anchored Artifacts: 
 Mentions: N-399, N-398
 Related Nodes: N-11104, N-10402
-Supports: C-2030
+Supports: C-4825
 Tags: relevance:context
 Investigative Direction: Review the 1990s Liberty financial rescue records (Women's Federation and New World Communications loans) and Falwell Sr.'s dealings with Moon-linked entities.
 
 ---
 
-**C-14108** Host Concludes the True Aim of Turning Point Faith Was to Make Kirk a Controllable Messiah in Death
+**C-4892** Host Concludes the True Aim of Turning Point Faith Was to Make Kirk a Controllable Messiah in Death
 
 Claim Timestamp: 00:10:23
 
@@ -1571,13 +1571,13 @@ Transcript Snippet: the true aim of Turning Point USA faith was to transform Cha
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10398, N-10402
-Supports: C-8210
+Supports: C-4818
 Tags: relevance:core
 Investigative Direction: This is an interpretation; test against TPUSA Faith's founding documents, memorial programming and statements describing Kirk's legacy.
 
 ---
 
-**C-14109** Host Says the Moon Movement Was Riddled With Claims of Sexual Rituals and Abuse
+**C-4894** Host Says the Moon Movement Was Riddled With Claims of Sexual Rituals and Abuse
 
 Claim Timestamp: 00:11:59
 
@@ -1593,7 +1593,7 @@ Investigative Direction: Compare with documented allegations against the Unifica
 
 ---
 
-**C-14110** Host Says Unification Church Financial Corruption Led to a Political Assassination in Japan in 2022
+**C-4895** Host Says Unification Church Financial Corruption Led to a Political Assassination in Japan in 2022
 
 Claim Timestamp: 00:11:59
 
@@ -1609,7 +1609,7 @@ Investigative Direction: Check the 2022 Shinzo Abe assassination reporting and t
 
 ---
 
-**C-14111** Host Says Abe's Family Had Long-Running Unification Church Ties and Was Blamed by His Killer
+**C-4897** Host Says Abe's Family Had Long-Running Unification Church Ties and Was Blamed by His Killer
 
 Claim Timestamp: 00:12:48
 
@@ -1625,7 +1625,7 @@ Investigative Direction: Verify against Japanese court records and major outlets
 
 ---
 
-**C-14112** Host Says the Killer's Mother Was Brainwashed Into Giving the Church the Family's Money
+**C-4898** Host Says the Killer's Mother Was Brainwashed Into Giving the Church the Family's Money
 
 Claim Timestamp: 00:14:10
 
@@ -1641,7 +1641,7 @@ Investigative Direction: Check trial reporting on the shooter's family finances 
 
 ---
 
-**C-14113** Host Says AmFest Felt Like a Charismatic Cult Using Manipulation Tactics
+**C-4899** Host Says AmFest Felt Like a Charismatic Cult Using Manipulation Tactics
 
 Claim Timestamp: 00:15:02
 
@@ -1652,13 +1652,13 @@ Transcript Snippet: It was instead watching a charismatic cult, people who were 
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10376, N-10398
-Supports: C-8210
+Supports: C-4818
 Tags: relevance:context
 Investigative Direction: This is a characterization; test claims of staging or training against AmFest production records and speaker preparation materials.
 
 ---
 
-**C-14114** Host Says People Still Working at Liberty University Contacted Her to Correct Her
+**C-4900** Host Says People Still Working at Liberty University Contacted Her to Correct Her
 
 Claim Timestamp: 00:15:02
 
@@ -1674,7 +1674,7 @@ Investigative Direction: Only the host can identify the sources; ask whether any
 
 ---
 
-**C-14115** Host Says Her Liberty Source Says Falwell Jr. Was Unfairly Taken Down Through the Pool Boy Affair
+**C-4901** Host Says Her Liberty Source Says Falwell Jr. Was Unfairly Taken Down Through the Pool Boy Affair
 
 Claim Timestamp: 00:15:02
 
@@ -1685,13 +1685,13 @@ Transcript Snippet: his wife was indeed having an affair with the pool boy and u
 Anchored Artifacts: A-3299.1
 Mentions: N-439
 Related Nodes: N-11104, N-11384
-Supports: C-8140
+Supports: C-4739
 Tags: relevance:context
 Investigative Direction: Review Falwell Jr.'s own public statements on the affair and the 2020 board and Liberty documents on his departure.
 
 ---
 
-**C-14116** Host Says Her Source Claims Corrupt Evangelical Pastors Wanted Falwell Jr. Out to End the Falkirk Center
+**C-4902** Host Says Her Source Claims Corrupt Evangelical Pastors Wanted Falwell Jr. Out to End the Falkirk Center
 
 Claim Timestamp: 00:16:14
 
@@ -1707,7 +1707,7 @@ Investigative Direction: Ask the source to name the pastors and show communicati
 
 ---
 
-**C-14117** Host Says Kirk and Falwell Jr. Established the Precursor to Turning Point Faith
+**C-4903** Host Says Kirk and Falwell Jr. Established the Precursor to Turning Point Faith
 
 Claim Timestamp: 00:16:23
 
@@ -1718,13 +1718,13 @@ Transcript Snippet: Charlie Kirk and Jerry Falwell came together and established
 Anchored Artifacts: 
 Mentions: N-1, N-439
 Related Nodes: N-11163, N-10398, N-11104
-Supports: C-8139
+Supports: C-4738
 Tags: relevance:context
 Investigative Direction: Compare the Falkirk Center's stated mission and launch announcements with the later Turning Point Faith materials.
 
 ---
 
-**C-14118** Host Says Falwell Jr. Made Liberty a Profitable School Separate From the Church Finances
+**C-4904** Host Says Falwell Jr. Made Liberty a Profitable School Separate From the Church Finances
 
 Claim Timestamp: 00:16:51
 
@@ -1740,7 +1740,7 @@ Investigative Direction: Check Liberty's Form 990s and the historical relationsh
 
 ---
 
-**C-14119** Host Says Pastors Who Profited Under Falwell Sr. Resented the Separation and Wanted the School's Earnings
+**C-4905** Host Says Pastors Who Profited Under Falwell Sr. Resented the Separation and Wanted the School's Earnings
 
 Claim Timestamp: 00:16:51
 
@@ -1756,7 +1756,7 @@ Investigative Direction: Identify the pastors and examine historical payments fr
 
 ---
 
-**C-14120** Host Quotes Her Liberty Source Saying What Was Done to Charlie Is Wrong and the Pastors Are Lying
+**C-4906** Host Quotes Her Liberty Source Saying What Was Done to Charlie Is Wrong and the Pastors Are Lying
 
 Claim Timestamp: 00:16:51
 
@@ -1772,7 +1772,7 @@ Investigative Direction: Ask the source what 'what they did to Charlie' refers t
 
 ---
 
-**C-14121** Host Says Johnnie Moore Pulled Up a Chair at the Kirk and Falwell Planning Meeting in 2021
+**C-4907** Host Says Johnnie Moore Pulled Up a Chair at the Kirk and Falwell Planning Meeting in 2021
 
 Claim Timestamp: 00:18:08
 
@@ -1788,7 +1788,7 @@ Investigative Direction: Find attendee lists, calendars or minutes for the Falki
 
 ---
 
-**C-14122** Host Says Moore Quit as Liberty's Lead Pastor in 2014 and Had No Reason to Be at the Meeting
+**C-4908** Host Says Moore Quit as Liberty's Lead Pastor in 2014 and Had No Reason to Be at the Meeting
 
 Claim Timestamp: 00:18:34
 
@@ -1804,7 +1804,7 @@ Investigative Direction: Check Moore's biography and Liberty staff records for h
 
 ---
 
-**C-14123** Host Says Moore Left Liberty in 2014 for Hollywood to Start the Kairos Company
+**C-4909** Host Says Moore Left Liberty in 2014 for Hollywood to Start the Kairos Company
 
 Claim Timestamp: 00:18:46
 
@@ -1815,13 +1815,13 @@ Transcript Snippet: when Johnny left Liberty University in 2014, he went to Holl
 Anchored Artifacts: 
 Mentions: N-437
 Related Nodes: N-11164, N-10402
-Supports: C-8136
+Supports: C-4735
 Tags: relevance:context
 Investigative Direction: Obtain Kairos Company incorporation and founding records and Moore's own account of his move.
 
 ---
 
-**C-14124** Host Says Kolvet Was Executive Vice President of Kairos Before Becoming Kirk's PR Man
+**C-4910** Host Says Kolvet Was Executive Vice President of Kairos Before Becoming Kirk's PR Man
 
 Claim Timestamp: 00:19:06
 
@@ -1832,13 +1832,13 @@ Transcript Snippet: Andrew Kolvet was the executive vice president and he effect
 Anchored Artifacts: 
 Mentions: N-14, N-437, N-1
 Related Nodes: N-11164, N-10000
-Supports: C-8136
+Supports: C-4735
 Tags: relevance:core
 Investigative Direction: Check Kolvet's LinkedIn history, Kairos Company staff listings and TPUSA hiring announcements for titles and dates.
 
 ---
 
-**C-14125** Host Wonders Whether Erika Kirk's 2019 Summer House Appearance Connects to Mark Burnett
+**C-4912** Host Wonders Whether Erika Kirk's 2019 Summer House Appearance Connects to Mark Burnett
 
 Claim Timestamp: 00:19:23
 
@@ -1849,13 +1849,13 @@ Transcript Snippet: wasn't Erika on a show randomly?" Uh what's what's the show 
 Anchored Artifacts: 
 Mentions: N-2, N-440
 Related Nodes: N-11385
-Supports: C-2072
+Supports: C-4913
 Tags: relevance:context
 Investigative Direction: Verify Erika Kirk's reality-TV appearance and its production company, then Burnett's MGM role and Summer House ownership; the host leaves the link open.
 
 ---
 
-**C-14126** Host Says Moore Consistently Tried to Get His Job Back at Liberty Despite Founding Kairos
+**C-4914** Host Says Moore Consistently Tried to Get His Job Back at Liberty Despite Founding Kairos
 
 Claim Timestamp: 00:20:09
 
@@ -1871,7 +1871,7 @@ Investigative Direction: Seek Liberty hiring correspondence or Moore's own state
 
 ---
 
-**C-14127** Host Says the ADL Put Her on Its List Over the Christ Is King Controversy
+**C-4915** Host Says the ADL Put Her on Its List Over the Christ Is King Controversy
 
 Claim Timestamp: 00:20:09
 
@@ -1882,13 +1882,13 @@ Transcript Snippet: Do you remember back when the ADL put me on their list uh be
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11153
-Supports: C-7853
+Supports: C-1256
 Tags: relevance:context
 Investigative Direction: Retrieve the ADL listing and its date and the stated reason for the host's inclusion.
 
 ---
 
-**C-14128** Host Says Peterson and Moore Produced a Report Calling Christ Is King Anti-Semitic
+**C-4916** Host Says Peterson and Moore Produced a Report Calling Christ Is King Anti-Semitic
 
 Claim Timestamp: 00:20:09
 
@@ -1904,7 +1904,7 @@ Investigative Direction: Locate the report and video graphic, their authors, dat
 
 ---
 
-**C-14129** Host Says Moore Serves on the ADL Task Force and Received a Wiesenthal Center Medal of Valor
+**C-4917** Host Says Moore Serves on the ADL Task Force and Received a Wiesenthal Center Medal of Valor
 
 Claim Timestamp: 00:21:04
 
@@ -1915,13 +1915,13 @@ Transcript Snippet: He serves on the ADL task force. He received the Medal of Va
 Anchored Artifacts: 
 Mentions: N-437
 Related Nodes: N-11153, N-11323
-Supports: C-2053
+Supports: C-4921
 Tags: relevance:context
 Investigative Direction: Check the ADL task force roster and the Wiesenthal Center's award announcements for Moore.
 
 ---
 
-**C-14130** Host Says the ADL and Wiesenthal Center Were Born Out of Zionist Gangs
+**C-4918** Host Says the ADL and Wiesenthal Center Were Born Out of Zionist Gangs
 
 Claim Timestamp: 00:21:04
 
@@ -1937,7 +1937,7 @@ Investigative Direction: Compare with the organizations' documented founding his
 
 ---
 
-**C-14131** Host Says the ADL and Wiesenthal Center Are Behind the Initial Attacks Meant to Split Her From Kirk
+**C-4919** Host Says the ADL and Wiesenthal Center Are Behind the Initial Attacks Meant to Split Her From Kirk
 
 Claim Timestamp: 00:21:04
 
@@ -1948,13 +1948,13 @@ Transcript Snippet: the very organizations behind the initial attacks on me that
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-11153, N-11323
-Supports: C-12156
+Supports: C-1823
 Tags: relevance:core
 Investigative Direction: Obtain donor communications and the dated sequence of the 2018 and later antisemitism controversies to test the alleged pattern.
 
 ---
 
-**C-14132** Moore Clip: Says He Is Not Jewish but Always Felt at Home in the ADL Community
+**C-4922** Moore Clip: Says He Is Not Jewish but Always Felt at Home in the ADL Community
 
 Claim Timestamp: 00:21:30
 
@@ -1970,7 +1970,7 @@ Investigative Direction: Identify the source and date of the clip and the event 
 
 ---
 
-**C-14133** Moore Clip: Says He Will Educate Christians on Christian Anti-Semitism
+**C-4924** Moore Clip: Says He Will Educate Christians on Christian Anti-Semitism
 
 Claim Timestamp: 00:22:43
 
@@ -1981,13 +1981,13 @@ Transcript Snippet: But that also includes educating well-meaning Christians on 
 Anchored Artifacts: A-1610.2
 Mentions: N-437
 Related Nodes: N-10209
-Supports: C-2054
+Supports: C-4923
 Tags: relevance:context
 Investigative Direction: Locate the original venue and date of the speech and compare with the full transcript.
 
 ---
 
-**C-14134** Host Says a Former Classmate Verified Moore's Poor Upbringing Outside Lynchburg
+**C-4927** Host Says a Former Classmate Verified Moore's Poor Upbringing Outside Lynchburg
 
 Claim Timestamp: 00:23:45
 
@@ -1998,13 +1998,13 @@ Transcript Snippet: Now, somebody that went to school with him verified exactly 
 Anchored Artifacts: A-3300.1
 Mentions: N-437
 Related Nodes: N-11104
-Supports: C-2050
+Supports: C-4926
 Tags: relevance:tangential
 Investigative Direction: Only the host's source can be identified; independent confirmation would come from yearbooks or other classmates.
 
 ---
 
-**C-14135** Host Relays a Classmate's Claim That Moore Was Caught With Porn Magazines and Mocked
+**C-4928** Host Relays a Classmate's Claim That Moore Was Caught With Porn Magazines and Mocked
 
 Claim Timestamp: 00:23:45
 
@@ -2019,7 +2019,7 @@ Investigative Direction: School-age personal anecdote from an unnamed classmate;
 
 ---
 
-**C-14136** Host Says Moore Had a Male Mentor Who Bought Him and His Family Brand-New Cars
+**C-4929** Host Says Moore Had a Male Mentor Who Bought Him and His Family Brand-New Cars
 
 Claim Timestamp: 00:24:29
 
@@ -2034,7 +2034,7 @@ Investigative Direction: Vehicle purchase records are unlikely to be public; the
 
 ---
 
-**C-14137** Host Says Ron Godwin Pushed Falwell Sr. to Give Moore a Position at Liberty
+**C-4930** Host Says Ron Godwin Pushed Falwell Sr. to Give Moore a Position at Liberty
 
 Claim Timestamp: 00:24:29
 
@@ -2050,7 +2050,7 @@ Investigative Direction: Check Liberty staff history and Godwin's own accounts f
 
 ---
 
-**C-14138** Host Says Moon Picked Godwin to Run The Washington Times
+**C-4931** Host Says Moon Picked Godwin to Run The Washington Times
 
 Claim Timestamp: 00:24:29
 
@@ -2061,13 +2061,13 @@ Transcript Snippet: Sun Myung Moon who led this Mooney's cult picked Ron Godwin 
 Anchored Artifacts: 
 Mentions: N-399, N-438
 Related Nodes: N-11169, N-10402
-Supports: C-8211
+Supports: C-4820
 Tags: relevance:context
 Investigative Direction: Check Godwin's tenure as Washington Times president in public biographies and newspaper archives.
 
 ---
 
-**C-14139** Host Says Her Organization Chart Shows Moore as One of Godwin's Three Disciples
+**C-4934** Host Says Her Organization Chart Shows Moore as One of Godwin's Three Disciples
 
 Claim Timestamp: 00:25:34
 
@@ -2078,13 +2078,13 @@ Transcript Snippet: we can confirm that looks like one of Godwin's three discipl
 Anchored Artifacts: A-3301.1
 Mentions: N-437, N-438, N-14
 Related Nodes: N-11164, N-10402
-Supports: C-2055
+Supports: C-4932
 Tags: relevance:context
 Investigative Direction: Obtain the host's chart and its sources; the 'three disciples' quote must be tied to Godwin by a primary Unification Church source, and Moore's status as one of them is the host's inference.
 
 ---
 
-**C-14140** Host Says Godwin Retired From Liberty in October 2014 and Moore Left With Him
+**C-4935** Host Says Godwin Retired From Liberty in October 2014 and Moore Left With Him
 
 Claim Timestamp: 00:25:34
 
@@ -2100,7 +2100,7 @@ Investigative Direction: Check Godwin's retirement date in Liberty announcements
 
 ---
 
-**C-14141** Host Says Moore Wanted Back Into Liberty but Was Repeatedly Told No Until 2021
+**C-4936** Host Says Moore Wanted Back Into Liberty but Was Repeatedly Told No Until 2021
 
 Claim Timestamp: 00:25:34
 
@@ -2116,7 +2116,7 @@ Investigative Direction: Needs internal Liberty hiring correspondence; the host'
 
 ---
 
-**C-14142** Host Says Falwell Jr. Was Ousted and Successor Prevo Immediately Fired Charlie Kirk
+**C-4937** Host Says Falwell Jr. Was Ousted and Successor Prevo Immediately Fired Charlie Kirk
 
 Claim Timestamp: 00:26:54
 
@@ -2132,7 +2132,7 @@ Investigative Direction: Check the dates: public reporting should be compared wi
 
 ---
 
-**C-14143** Host Says Prevo Reinstated Moore on an Absurd Monthly Retainer, per Her Liberty Source
+**C-4938** Host Says Prevo Reinstated Moore on an Absurd Monthly Retainer, per Her Liberty Source
 
 Claim Timestamp: 00:26:54
 
@@ -2148,7 +2148,7 @@ Investigative Direction: Request Liberty contracts or disclosures showing a cons
 
 ---
 
-**C-14144** Host Says Turning Point Faith Is Intended to Be Mooney 2.0
+**C-4939** Host Says Turning Point Faith Is Intended to Be Mooney 2.0
 
 Claim Timestamp: 00:26:54
 
@@ -2164,7 +2164,7 @@ Investigative Direction: Interpretive; test through TPUSA Faith's leadership, fu
 
 ---
 
-**C-14145** Host Says the Moonies Aimed at One World Government Through a Unification Church
+**C-4940** Host Says the Moonies Aimed at One World Government Through a Unification Church
 
 Claim Timestamp: 00:26:54
 
@@ -2180,7 +2180,7 @@ Investigative Direction: Compare with Unification Church doctrine and Moon's pub
 
 ---
 
-**C-14146** Host Says Land Purchases and Fires Look Like Land Grabs Rather Than Natural Disasters
+**C-4942** Host Says Land Purchases and Fires Look Like Land Grabs Rather Than Natural Disasters
 
 Claim Timestamp: 00:31:43
 
@@ -2195,7 +2195,7 @@ Investigative Direction: Unspecified buyers and events; ask the host which fires
 
 ---
 
-**C-14147** Host Says Mossad and the CIA Are Not Separate and Netanyahu Used to Work for the CIA
+**C-4943** Host Says Mossad and the CIA Are Not Separate and Netanyahu Used to Work for the CIA
 
 Claim Timestamp: 00:32:10
 
@@ -2211,7 +2211,7 @@ Investigative Direction: Check Netanyahu's documented employment history and the
 
 ---
 
-**C-14148** Host Says Palestinians Have Been Intentionally Targeted in a Genocide With Tens of Thousands Killed
+**C-4944** Host Says Palestinians Have Been Intentionally Targeted in a Genocide With Tens of Thousands Killed
 
 Claim Timestamp: 00:33:36
 
@@ -2227,7 +2227,7 @@ Investigative Direction: Compare with casualty figures from the Gaza Health Mini
 
 ---
 
-**C-14149** Host Says Israelis Are Accused by Their Own People of Sex Rituals Against Children in Forests
+**C-4945** Host Says Israelis Are Accused by Their Own People of Sex Rituals Against Children in Forests
 
 Claim Timestamp: 00:33:36
 
@@ -2243,7 +2243,7 @@ Investigative Direction: No source cited; ask the host for the accusers and repo
 
 ---
 
-**C-14150** Knesset Clip: Speaker Says Candace Owens Says the Roots of Our Faith Are Demonic
+**C-4948** Knesset Clip: Speaker Says Candace Owens Says the Roots of Our Faith Are Demonic
 
 Claim Timestamp: 00:35:36
 
@@ -2254,13 +2254,13 @@ Transcript Snippet: Candace Owens says the roots of our faith are demonic.
 Anchored Artifacts: A-1611.1
 Mentions: N-441, N-3
 Related Nodes: N-10407
-Supports: C-2057
+Supports: C-4946
 Tags: relevance:context
 Investigative Direction: Identify the speaker and the Knesset record; ask what statement of the host's the speaker is characterizing.
 
 ---
 
-**C-14151** Host Says If Anything Happens to Tucker Carlson or Her, Israel Was Involved
+**C-4949** Host Says If Anything Happens to Tucker Carlson or Her, Israel Was Involved
 
 Claim Timestamp: 00:36:54
 
@@ -2276,7 +2276,7 @@ Investigative Direction: A conditional pre-attribution with no evidence offered;
 
 ---
 
-**C-14152** Host Says Officials Give Tucker Carlson More Flak Than Epstein and Cover Up Epstein's Crimes
+**C-4950** Host Says Officials Give Tucker Carlson More Flak Than Epstein and Cover Up Epstein's Crimes
 
 Claim Timestamp: 00:36:54
 
@@ -2292,7 +2292,7 @@ Investigative Direction: Compare congressional statements about Carlson versus E
 
 ---
 
-**C-14153** Host Says Megyn Kelly Is a Zionist Who Supports Israel but Is Being Attacked Anyway
+**C-4951** Host Says Megyn Kelly Is a Zionist Who Supports Israel but Is Being Attacked Anyway
 
 Claim Timestamp: 00:38:07
 
@@ -2308,7 +2308,7 @@ Investigative Direction: Check Kelly's own statements on Israel.
 
 ---
 
-**C-14154** Kelly Clip: Says Shapiro's Last Exchange Called Their Friendship Too Important to Depend on Others
+**C-4955** Kelly Clip: Says Shapiro's Last Exchange Called Their Friendship Too Important to Depend on Others
 
 Claim Timestamp: 00:40:18
 
@@ -2319,13 +2319,13 @@ Transcript Snippet: our friendship his and mine is too important to both of us t
 Anchored Artifacts: A-1612.1
 Mentions: N-46, N-97
 Related Nodes: N-10406
-Supports: C-2060
+Supports: C-4954
 Tags: relevance:context
 Investigative Direction: Obtain the text exchange or Kelly's confirmation, and the date of Shapiro's AmFest remarks.
 
 ---
 
-**C-14155** Host Says Seth Dillon Texted Her Trying to Compel Her to Speak About Nick Fuentes
+**C-4956** Host Says Seth Dillon Texted Her Trying to Compel Her to Speak About Nick Fuentes
 
 Claim Timestamp: 00:40:32
 
@@ -2341,7 +2341,7 @@ Investigative Direction: The host holds the texts; obtain them to confirm the se
 
 ---
 
-**C-14156** Host Says Some People Are Murdered Because They Cannot Be Controlled, as She Believes Happened to Kirk
+**C-4957** Host Says Some People Are Murdered Because They Cannot Be Controlled, as She Believes Happened to Kirk
 
 Claim Timestamp: 00:42:07
 
@@ -2357,7 +2357,7 @@ Investigative Direction: A statement of belief about motive; tie to documented p
 
 ---
 
-**C-14157** Host Says She Compiled a Column Tracking Sex Trafficking in Military History and Has More Information
+**C-4958** Host Says She Compiled a Column Tracking Sex Trafficking in Military History and Has More Information
 
 Claim Timestamp: 00:43:00
 
@@ -2372,7 +2372,7 @@ Investigative Direction: Ask for the sheet and its sources; check the follow-up 
 
 ---
 
-**C-14158** Host Says Erika Kirk Was a Falkirk Fellow
+**C-4960** Host Says Erika Kirk Was a Falkirk Fellow
 
 Claim Timestamp: 00:47:35
 
@@ -2388,7 +2388,7 @@ Investigative Direction: Check Falkirk Center fellow rosters and Erika Kirk's ow
 
 ---
 
-**C-14159** Host Says She Has Not Heard That Erika Explicitly Told Charlie to Establish the Falkirk Center
+**C-4961** Host Says She Has Not Heard That Erika Explicitly Told Charlie to Establish the Falkirk Center
 
 Claim Timestamp: 00:47:35
 
@@ -2399,13 +2399,13 @@ Transcript Snippet: I have not yet heard that she explicitly said you need to es
 Anchored Artifacts: 
 Mentions: N-2, N-3
 Related Nodes: N-11163, N-10403
-Qualifies: C-2061
+Qualifies: C-4959
 Tags: relevance:core
 Investigative Direction: Seek Falkirk founding accounts and Kirk-era interviews on who proposed the center.
 
 ---
 
-**C-14160** Host Says Erika Says She Lived in China and Costa Rica and Those Claims Need Checking
+**C-4962** Host Says Erika Says She Lived in China and Costa Rica and Those Claims Need Checking
 
 Claim Timestamp: 00:47:35
 
@@ -2421,7 +2421,7 @@ Investigative Direction: Gather Erika Kirk's own bios and interviews on China an
 
 ---
 
-**C-14161** Host Says She Intends a Dedicated Episode on Erika's Background and to Give Her a Chance to Respond
+**C-4963** Host Says She Intends a Dedicated Episode on Erika's Background and to Give Her a Chance to Respond
 
 Claim Timestamp: 00:48:42
 
@@ -2437,7 +2437,7 @@ Investigative Direction: Track later episodes for the promised episode and for a
 
 ---
 
-**C-14162** Host Says Moore, Kolvet and the Moonies Link Means the Moonies Are Back Under a New Name
+**C-4965** Host Says Moore, Kolvet and the Moonies Link Means the Moonies Are Back Under a New Name
 
 Claim Timestamp: 00:48:56
 
@@ -2448,13 +2448,13 @@ Transcript Snippet: Here's Johnny. The Moonies are back and it's by it's a diffe
 Anchored Artifacts: 
 Mentions: N-437, N-14
 Related Nodes: N-10402, N-10398
-Supports: C-14144
+Supports: C-4939
 Tags: relevance:context
 Investigative Direction: This is the host's conclusion; test with documentary links between Moon-linked entities and Moore, Kairos and TPUSA Faith.
 
 ---
 
-**C-14163** Host Says the Moonies Trace Back to the Korean War as American CIA Infiltration
+**C-4966** Host Says the Moonies Trace Back to the Korean War as American CIA Infiltration
 
 Claim Timestamp: 00:48:56
 
@@ -2465,13 +2465,13 @@ Transcript Snippet: And it goes back to the Korean War. That's the American CIA 
 Anchored Artifacts: 
 Mentions: 
 Related Nodes: N-10082, N-10402
-Supports: C-14105
+Supports: C-4889
 Tags: relevance:tangential
 Investigative Direction: Review declassified material on Moon's Korean and CIA connections.
 
 ---
 
-**C-14164** Host Teases Pearl Harbor and Lyndon Johnson Topics, Says Vibes Are Off
+**C-4968** Host Teases Pearl Harbor and Lyndon Johnson Topics, Says Vibes Are Off
 
 Claim Timestamp: 00:49:54
 
@@ -2486,7 +2486,7 @@ Investigative Direction: Off-topic historical assertion; no source given.
 
 ---
 
-**C-14165** Host Says Argentina's President Looks a Little Like Netanyahu and Cites a Rumor About His Full Last Name
+**C-4969** Host Says Argentina's President Looks a Little Like Netanyahu and Cites a Rumor About His Full Last Name
 
 Claim Timestamp: 00:49:54
 
@@ -2501,7 +2501,7 @@ Investigative Direction: Check the rumor that Javier Milei's surname is Mileikow
 
 ---
 
-**C-14166** Host Says the Military at the Top Are Mercenary Squads Protecting the Gangs
+**C-4972** Host Says the Military at the Top Are Mercenary Squads Protecting the Gangs
 
 Claim Timestamp: 00:50:57
 
@@ -2516,7 +2516,7 @@ Investigative Direction: A sweeping opinion with no evidence; not testable as st
 
 ---
 
-**C-14167** Host Wonders Whether Some School Shootings Followed Administrators Discovering Child Trafficking
+**C-4973** Host Wonders Whether Some School Shootings Followed Administrators Discovering Child Trafficking
 
 Claim Timestamp: 00:50:57
 
@@ -2531,7 +2531,7 @@ Investigative Direction: A speculation about unspecified shootings; ask the host
 
 ---
 
-**C-14168** Host Says Some Mass Shootings Show a Government Initiative or Benefit From a Particular Person Dying
+**C-4974** Host Says Some Mass Shootings Show a Government Initiative or Benefit From a Particular Person Dying
 
 Claim Timestamp: 00:50:57
 
@@ -2546,7 +2546,7 @@ Investigative Direction: Unspecified cases; ask the host to name the shootings a
 
 ---
 
-**C-14169** Host Says One World Government Is the Explicit Aim
+**C-4976** Host Says One World Government Is the Explicit Aim
 
 Claim Timestamp: 00:51:36
 
@@ -2561,7 +2561,7 @@ Investigative Direction: A sweeping belief with no source cited.
 
 ---
 
-**C-14170** Host Says She Is Not Voting Until They Figure Out Who Killed Charlie Kirk and How
+**C-4977** Host Says She Is Not Voting Until They Figure Out Who Killed Charlie Kirk and How
 
 Claim Timestamp: 00:51:36
 
@@ -2576,7 +2576,7 @@ Investigative Direction: Track whether the host repeats or revises this stance i
 
 ---
 
-**C-14171** Host Says She Is Still Having Vivid Dreams, Less Often Than at First
+**C-4980** Host Says She Is Still Having Vivid Dreams, Less Often Than at First
 
 Claim Timestamp: 00:52:14
 
@@ -2592,7 +2592,7 @@ Investigative Direction: Not testable beyond the host's own account.
 
 ---
 
-**C-14172** Host Says God Speaks in Dreams and That This Is Biblical
+**C-4981** Host Says God Speaks in Dreams and That This Is Biblical
 
 Claim Timestamp: 00:52:14
 
@@ -2773,8 +2773,8 @@ Confidence: high
 - **Name uncertainty – "Falwell Center":** Transcript renders the name as "Falkirk Center," "Falkirk Center," and "Falkirk Center." Preserved as "Falwell Center" as most plausible reading; flag.
 - **Name uncertainty – "Jerry Falwell Jr.":** Transcript renders as "Jerry Falwell Jr." Preserved as Jerry Falwell Jr.; flag.
 - **Artifact verbally referenced but not shown:** Pre-born PSA statistics (A-1615.1), Nimi Skincare product claims (A-1616.1) – both shown via host read-aloud only; primary documents not presented.
-- **Requires human verification:** C-2073 (September 10 plot against Candace Owens) – serious allegation with no presented artifact; no corroborating court record cited.
-- **Requires human verification:** C-2071, C-2072 (Mark Burnett Hollywood employment and MGM chairmanship) – host assertions without supporting artifact.
-- **Requires human verification:** C-2074 (Turning Point USA estate solicitation) – host assertion without supporting artifact; comparison to Japan Unification Church pattern is interpretive.
-- **Claim failed admission test – interpretive commentary:** Multiple host framing claims about Moonies lineage (C-2055/C-2056) are anchored to a single read-aloud quote; full lineage interpretation remains interpretive, even with the artifact.
-- **Claim failed admission test – unsupported allegation:** C-2061 (Erika Kirk handler thesis) is anchored only to a fan comment (A-1613.1); no documentary artifact supports the handler claim.
+- **Requires human verification:** C-4947 (September 10 plot against Candace Owens) – serious allegation with no presented artifact; no corroborating court record cited.
+- **Requires human verification:** C-4911, C-4913 (Mark Burnett Hollywood employment and MGM chairmanship) – host assertions without supporting artifact.
+- **Requires human verification:** C-4893 (Turning Point USA estate solicitation) – host assertion without supporting artifact; comparison to Japan Unification Church pattern is interpretive.
+- **Claim failed admission test – interpretive commentary:** Multiple host framing claims about Moonies lineage (C-4932/C-4933) are anchored to a single read-aloud quote; full lineage interpretation remains interpretive, even with the artifact.
+- **Claim failed admission test – unsupported allegation:** C-4959 (Erika Kirk handler thesis) is anchored only to a fan comment (A-1613.1); no documentary artifact supports the handler claim.

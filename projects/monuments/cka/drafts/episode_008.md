@@ -19,9 +19,8 @@
   - Hole-minted Nodes (reintro-ep008): N-237, N-10109, N-10148, N-10184, N-10202, N-10343
   - Tip-minted Nodes (reintro-ep008): N-11183
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10f): C-12001–C-12060
+  - Claim Range: C-658–C-741
   - Artifact Families Introduced: A-1146, A-1147, A-1148, A-1149, A-1150, A-1151, A-1152, A-1153, A-1154, A-2518
-  - Claim Range: C-1245-C-1266, C-3727
   - New Nodes Introduced: N-100, N-101, N-102, N-103, N-10092, N-10093, N-10095, N-10096, N-10098, N-10099, N-10100, N-10101, N-10102, N-10103, N-10105, N-10107, N-10108
   - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-37, N-40, N-42, N-5, N-61, N-69, N-75, N-76, N-77, N-98, N-10000, N-10012, N-10060, N-10014, N-10097, N-99, N-10094, N-10104, N-10106, N-36, N-10026, N-10027, N-10065, N-10139, N-10268, N-10341, N-10342, N-11004, N-68
 
@@ -36,7 +35,7 @@ CKA seq 8 re-examines the 9/10 eyewitness pattern. Host surfaces GMA interview w
 **A-1146.1** GMA segment featuring Tiffany Barker, L Steel and Mia Grant recounting the 9/10 shooting.
 Event Timestamp: 2025-09-11
 Video Timestamp: 00:03:38–00:06:49
-*Related: C-1245, C-1246, N-3, N-75, N-76, N-77, N-1*
+*Related: C-669, C-663, N-3, N-75, N-76, N-77, N-1*
 Transcript Snippet: We're joined now by Tiffany Barker and her nieces L Steel and Mia Grant who were all in the audience
 Confidence: high
 
@@ -47,7 +46,7 @@ Confidence: high
 **A-1147.1** Tiffany Barker's follow-up social video explaining how the 'artery' comment arose in the car.
 Event Timestamp: 2025-09-11
 Video Timestamp: 00:08:07–00:11:04
-*Related: C-1247, N-75, N-76, N-77*
+*Related: C-667, N-75, N-76, N-77*
 Transcript Snippet: There's an artery here. Maybe they hit an artery. I didn't know. We didn't know anything.
 Confidence: high
 
@@ -57,25 +56,25 @@ Confidence: high
 
 **A-1148.1** Diagram of the amphitheater/tent showing the SUV departure point, the underpass, and Charlie's seat.
 Video Timestamp: 00:10:26–00:11:40
-*Related: C-1248, N-1, N-42*
+*Related: C-674, N-1, N-42*
 Transcript Snippet: where that dot is is where Charlie is sitting... the SUVs were waiting
 Confidence: high
 
 **A-1148.2** On-screen footage showing George Zinn walking calmly down the amphitheater steps with his pants falling.
 Video Timestamp: 00:12:38–00:13:41
-*Related: C-1249, N-42*
+*Related: C-672, N-42*
 Transcript Snippet: his pants fall down by themselves... a young man comes by to try to assist him
 Confidence: high
 
 **A-1148.3** Host's hand-built second timeline graphic correlating shot, SUV, pants-fall, hat wave and handcuff moments.
 Video Timestamp: 00:14:20–00:15:16
-*Related: C-1248, N-42, N-1*
+*Related: C-674, N-42, N-1*
 Transcript Snippet: 40 seconds later Charlie's brought to the SUV... George Zinn is in handcuffs
 Confidence: medium
 
 **A-1148.4** Viral photo of George Zinn bent down in handcuffs near the SUV zone.
 Video Timestamp: 00:15:08–00:15:23
-*Related: C-1250, N-42, N-10000*
+*Related: C-676, N-42, N-10000*
 Transcript Snippet: It's George Zinn and he's bent down and he is in handcuffs and that goes viral
 Confidence: high
 
@@ -85,7 +84,7 @@ Confidence: high
 
 **A-1149.1** Post-shot footage showing a blue-shirted Wirefy-branded individual taking out his phone/texting near Charlie.
 Video Timestamp: 00:17:02–00:17:30
-*Related: C-1251, N-10093*
+*Related: C-679, N-10093*
 Transcript Snippet: he's wearing a shirt that says Wirefi... sends a text, takes a photo
 Confidence: high
 
@@ -95,7 +94,7 @@ Confidence: high
 
 **A-1150.1** Viral bystander footage of the shooter running across the rooftop, posted by a third party.
 Video Timestamp: 00:18:36–00:18:50
-*Related: C-1252, N-100*
+*Related: C-681, N-100*
 Transcript Snippet: there's somebody on the roof right there. Just saying.
 Confidence: high
 
@@ -105,25 +104,25 @@ Confidence: high
 
 **A-1151.1** Clip of Kolvet answering whether Charlie was becoming Catholic.
 Video Timestamp: 00:32:47–00:36:42
-*Related: C-1254, N-14, N-1, N-2*
+*Related: C-689, N-14, N-1, N-2*
 Transcript Snippet: Was he becoming Catholic? No. But he really loved Catholic mass.
 Confidence: high
 
 **A-1151.2** Clip of Kolvet denying a $150M Israel offer and asserting TPUSA takes no foreign money.
 Video Timestamp: 00:36:08–00:39:48
-*Related: C-1255, C-1256, N-14, N-1*
+*Related: C-695, C-704, N-14, N-1*
 Transcript Snippet: Was Charlie offered $150 million from Israel? As far as I know, no.
 Confidence: high
 
 **A-1151.3** Clip of Kolvet explaining the SD card removal as evidence-preservation after the shooting.
 Video Timestamp: 00:41:15–00:43:05
-*Related: C-1257, N-14, N-10000*
+*Related: C-711, N-14, N-10000*
 Transcript Snippet: they wanted to make sure they didn't get stolen out of the cameras
 Confidence: high
 
 **A-1151.4** Clip of Kolvet recounting Charlie's Myrtle Beach answer to a question about Candace/Tucker.
 Video Timestamp: 00:43:37–00:44:44
-*Related: C-1258, N-14, N-1, N-22*
+*Related: C-715, N-14, N-1, N-22*
 Transcript Snippet: he basically said, 'I don't appreciate being morally blackmailed.'
 Confidence: high
 
@@ -133,7 +132,7 @@ Confidence: high
 
 **A-1152.1** August Myrtle Beach clip of Charlie Kirk saying he won't end friendships over moral blackmail.
 Video Timestamp: 00:44:22–00:46:23
-*Related: C-1258, C-1259, N-1, N-3*
+*Related: C-715, C-719, N-1, N-3*
 Transcript Snippet: I don't stop being friends with people just because people morally blackmail me
 Confidence: high
 
@@ -143,7 +142,7 @@ Confidence: high
 
 **A-1153.1** Audio of Trump calling for separation of MMR vaccines and delay of Hepatitis B for newborns.
 Video Timestamp: 00:47:40–00:49:08
-*Related: C-1260, N-5*
+*Related: C-725, N-5*
 Transcript Snippet: We want no mercury in the vaccine. We want no aluminum in the vaccine. The MMR I think should be taken separately
 Confidence: high
 
@@ -153,7 +152,7 @@ Confidence: high
 
 **A-1154.1** Text from the rooftop-videographer eyewitness describing a smaller rifle and tactical-gear shooter.
 Video Timestamp: 00:25:26–00:26:11
-*Related: C-1261, C-1262, N-10099, N-40*
+*Related: C-670, C-737, N-10099, N-40*
 Transcript Snippet: the assassin may have used a 10 or 20 round magazine... I would expect was used
 Confidence: medium
 
@@ -165,7 +164,7 @@ Confidence: medium
 Video Timestamp: 00:47:35
 Transcript Snippet: ...] com? Is he watching? Is he wearing um a CIA hat and watching? I think so. And here's a statement that Trump made. We want no mercury in the...
 Confidence: medium
-*Related: C-3641, N-3, N-5*
+*Related: C-724, N-3, N-5*
 
 ---
 
@@ -174,7 +173,7 @@ Confidence: medium
 
 **A-2518.1** Andrew Kolvet clip: verbal reference to videos of Charlie Kirk debating Michael Knowles (verbal reference; no displayed artifact)
 Video Timestamp: 00:34:07–00:34:23
-*Related: C-3727, N-1, N-14, N-101*
+*Related: C-700, N-1, N-14, N-101*
 Transcript Snippet: You can go check the videos out him debating with uh Michael Knowles, you know,
 Confidence: medium
 
@@ -189,7 +188,7 @@ Video Timestamp: 00:23:11
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12016, N-3, N-10343*
+*Related: C-684, N-3, N-10343*
 
 ---
 
@@ -202,7 +201,7 @@ Video Timestamp: 00:30:59
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12022, N-99, N-3*
+*Related: C-692, N-99, N-3*
 
 ---
 
@@ -215,7 +214,7 @@ Video Timestamp: 00:33:34
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12026, N-14, N-2*
+*Related: C-697, N-14, N-2*
 
 ---
 
@@ -230,7 +229,7 @@ Video Timestamp: 00:53:53
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-12051, N-1, N-36*
+*Related: C-729, N-1, N-36*
 
 ---
 
@@ -241,7 +240,7 @@ Confidence Level: Medium
 Node Type: Person
 Host of the show and primary investigator in the Candace Kirk Archive series.
 
-*Related: A-1146.1, A-1147.1, A-1148.1, A-1148.3, A-1149.1, A-1152.1, C-1258, C-1259*
+*Related: A-1146.1, A-1147.1, A-1148.1, A-1148.3, A-1149.1, A-1152.1, C-715, C-719*
 
 ---
 
@@ -250,7 +249,7 @@ Host of the show and primary investigator in the Candace Kirk Archive series.
 Node Type: Person
 Primary deceased subject; central node across the series.
 
-*Related: A-1146.1, A-1148.1, A-1151.1, A-1151.2, A-1151.4, A-1152.1, C-1258, C-1259, C-1246, C-1248, C-1255, C-1256, C-1265, C-1266*
+*Related: A-1146.1, A-1148.1, A-1151.1, A-1151.2, A-1151.4, A-1152.1, C-715, C-719, C-663, C-674, C-695, C-704, C-659, C-660*
 
 ---
 
@@ -259,7 +258,7 @@ Primary deceased subject; central node across the series.
 Node Type: Person
 Family member who appeared on GMA and posted a follow-up video explaining the artery remark.
 
-*Related: A-1146.1, A-1147.1, C-1245, C-1246, C-1247, C-1261*
+*Related: A-1146.1, A-1147.1, C-669, C-663, C-667, C-670*
 
 ---
 
@@ -268,7 +267,7 @@ Family member who appeared on GMA and posted a follow-up video explaining the ar
 Node Type: Person
 Tiffany Barker's niece; spoke on the GMA segment about the shooting.
 
-*Related: A-1146.1, A-1147.1, C-1246, C-1247*
+*Related: A-1146.1, A-1147.1, C-663, C-667*
 
 ---
 
@@ -277,7 +276,7 @@ Tiffany Barker's niece; spoke on the GMA segment about the shooting.
 Node Type: Person
 Tiffany Barker's niece; spoke on the GMA segment about the shooting.
 
-*Related: A-1146.1, A-1147.1, C-1246, C-1247*
+*Related: A-1146.1, A-1147.1, C-663, C-667*
 
 ---
 
@@ -286,7 +285,7 @@ Tiffany Barker's niece; spoke on the GMA segment about the shooting.
 Node Type: Person
 Arrested shortly after the shooting; timeline and location analyzed by host.
 
-*Related: A-1148.1, A-1148.2, A-1148.3, A-1148.4, C-1248, C-1249, C-1250*
+*Related: A-1148.1, A-1148.2, A-1148.3, A-1148.4, C-674, C-672, C-676*
 
 ---
 
@@ -295,7 +294,7 @@ Arrested shortly after the shooting; timeline and location analyzed by host.
 Node Type: Person
 PR agent for Turning Point USA; sat down with Alex Clark to address rumors.
 
-*Related: A-1151.1, A-1151.2, A-1151.3, A-1151.4, A-2518.1, C-1255, C-1256, C-1257, C-1258, C-3727*
+*Related: A-1151.1, A-1151.2, A-1151.3, A-1151.4, A-2518.1, C-695, C-704, C-711, C-715, C-700*
 
 ---
 
@@ -313,7 +312,7 @@ Podcast host who interviewed Andrew Kolvet; clip excerpts played.
 Node Type: Person
 Charlie's widow; new TPUSA chairman/CEO; subject of host's prayers and operational concerns.
 
-*Related: A-1151.1, C-1255*
+*Related: A-1151.1, C-695*
 
 ---
 
@@ -322,7 +321,7 @@ Charlie's widow; new TPUSA chairman/CEO; subject of host's prayers and operation
 Node Type: Person
 Utah Lt. Gov. candidate; per host, the GMA connection was routed through his campaign to Tiffany Barker.
 
-*Related: A-1146.1, C-1245, C-1261*
+*Related: A-1146.1, C-669, C-670*
 
 ---
 
@@ -331,7 +330,7 @@ Utah Lt. Gov. candidate; per host, the GMA connection was routed through his cam
 Node Type: Person
 Person who handed the host's ground contact a Chicago phone number tied to the roof video chain.
 
-*Related: A-1150.1, C-1252*
+*Related: A-1150.1, C-681*
 
 ---
 
@@ -340,7 +339,7 @@ Person who handed the host's ground contact a Chicago phone number tied to the r
 Node Type: Person
 FBI-named suspect whose description (jeans, flag shirt) is contested by the rooftop eyewitness.
 
-*Related: A-1154.1, C-1262, C-1253, C-1254*
+*Related: A-1154.1, C-737, C-685, C-689*
 
 ---
 
@@ -349,7 +348,7 @@ FBI-named suspect whose description (jeans, flag shirt) is contested by the roof
 Node Type: Person
 Production team member referenced while pulling the timeline graphic on screen.
 
-*Related: A-1146.1, A-1148.3, C-1245*
+*Related: A-1146.1, A-1148.3, C-669*
 
 
 
@@ -360,7 +359,7 @@ Production team member referenced while pulling the timeline graphic on screen.
 Node Type: Person
 Referenced via prior tweet suggesting more parties involved than Robinson alone.
 
-*Related: C-1262*
+*Related: C-737*
 
 ---
 
@@ -369,7 +368,7 @@ Referenced via prior tweet suggesting more parties involved than Robinson alone.
 Node Type: Person
 Catholic debate partner of Charlie Kirk referenced by Kolvet.
 
-*Related: A-2518.1, C-3727*
+*Related: A-2518.1, C-700*
 
 
 
@@ -380,7 +379,7 @@ Catholic debate partner of Charlie Kirk referenced by Kolvet.
 Node Type: Person
 President; audio statement on MMR separation and Hepatitis B delay played in the episode.
 
-*Related: A-1153.1, C-1260*
+*Related: A-1153.1, C-725*
 
 ---
 
@@ -389,7 +388,7 @@ President; audio statement on MMR separation and Hepatitis B delay played in the
 Node Type: Person
 Commenter asking who paid for the rapid crime-scene paver installation.
 
-*Related: C-1263*
+*Related: C-732*
 
 ---
 
@@ -398,7 +397,7 @@ Commenter asking who paid for the rapid crime-scene paver installation.
 Node Type: Person
 Commenter quoting police scanner description (jeans, black shirt, mask, vest, rifle).
 
-*Related: C-1264*
+*Related: C-734*
 
 ---
 
@@ -407,7 +406,7 @@ Commenter quoting police scanner description (jeans, black shirt, mask, vest, ri
 Node Type: Person
 TPUSA donor referenced as possibly funneling foreign-agent money.
 
-*Related: A-1151.2, C-1256*
+*Related: A-1151.2, C-704*
 
 ---
 
@@ -415,7 +414,7 @@ TPUSA donor referenced as possibly funneling foreign-agent money.
 Node Type: Person
 TPUSA donor referenced in same FARA-suspicion chain.
 
-*Related: A-1151.2, C-1256*
+*Related: A-1151.2, C-704*
 
 ---
 
@@ -424,7 +423,7 @@ TPUSA donor referenced in same FARA-suspicion chain.
 Node Type: Person
 Referenced as another figure Charlie was pressured to disavow via donor moral blackmail.
 
-*Related: A-1151.4, C-1258*
+*Related: A-1151.4, C-715*
 
 ---
 
@@ -434,7 +433,7 @@ Node Type: Organization
 Organization Kind: political_organization
 Charlie's organization; central to the eyewitness pattern and SD card question.
 
-*Related: A-1148.4, A-1151.1, A-1151.2, A-1151.3, A-1151.4, A-1152.1, C-1250, C-1257*
+*Related: A-1148.4, A-1151.1, A-1151.2, A-1151.3, A-1151.4, A-1152.1, C-676, C-711*
 
 ---
 
@@ -444,7 +443,7 @@ Node Type: Organization
 Organization Kind: educational_institution
 Venue-host university; host notes most eyewitnesses were not UVU students.
 
-*Related: A-1146.1, A-1150.1, C-1252, C-1263*
+*Related: A-1146.1, A-1150.1, C-681, C-732*
 
 ---
 
@@ -454,7 +453,7 @@ Node Type: Organization
 Organization Kind: educational_institution
 Identified as the school attended by one of the two roof-videographer companions.
 
-*Related: A-1150.1, C-1252*
+*Related: A-1150.1, C-681*
 
 ---
 
@@ -466,7 +465,7 @@ Node Type: Organization
 Organization Kind: company
 Tour sponsor whose branding was the backdrop and whose employee appeared post-shot.
 
-*Related: A-1149.1, C-1251*
+*Related: A-1149.1, C-679*
 
 ---
 
@@ -476,7 +475,7 @@ Node Type: Organization
 Organization Kind: media_outlet
 Outlet that aired the Tiffany Barker family interview on 9/11.
 
-*Related: A-1146.1, C-1245*
+*Related: A-1146.1, C-669*
 
 ---
 
@@ -488,7 +487,7 @@ Node Type: Organization
 Organization Kind: religious_institution
 Family faith tradition tied to the Barkers per Reddit-sleuth research.
 
-*Related: A-1146.1, C-1245*
+*Related: A-1146.1, C-669*
 
 ---
 
@@ -498,7 +497,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Ongoing thread: most viral-witness accounts trace back to TPUSA or government-tied people, not random UVU students.
 
-*Related: A-1146.1, A-1148.4, A-1150.1, C-1245, C-1250*
+*Related: A-1146.1, A-1148.4, A-1150.1, C-669, C-676*
 
 ---
 
@@ -508,7 +507,7 @@ Node Type: Topic
 Topic Kind: discrepancy
 Whether the children's 'hit his artery' description came from observation or parental coaching in the car.
 
-*Related: A-1146.1, A-1147.1, C-1246, C-1247*
+*Related: A-1146.1, A-1147.1, C-663, C-667*
 
 ---
 
@@ -518,7 +517,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Whether arrest in the same area as Charlie's SUV departs within ~1:48 is procedurally normal.
 
-*Related: A-1148.1, A-1148.2, A-1148.3, A-1148.4, C-1248, C-1249*
+*Related: A-1148.1, A-1148.2, A-1148.3, A-1148.4, C-674, C-672*
 
 ---
 
@@ -528,7 +527,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Tracing the viral roof video through a third-party poster, an unknown Aaron, and Chicago numbers.
 
-*Related: A-1150.1, C-1252*
+*Related: A-1150.1, C-681*
 
 ---
 
@@ -538,7 +537,7 @@ Node Type: Topic
 Topic Kind: discrepancy
 Eyewitness says tactical gear + face mask + smaller rifle; public FBI narrative says jeans + flag shirt.
 
-*Related: A-1154.1, C-1262, C-1253, C-1254*
+*Related: A-1154.1, C-737, C-685, C-689*
 
 ---
 
@@ -548,7 +547,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Whether SD cards were pulled to preserve evidence or to control the record.
 
-*Related: A-1151.3, C-1257*
+*Related: A-1151.3, C-711*
 
 ---
 
@@ -558,7 +557,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Open target: who is the blue-shirt Wirefy representative who texted/photographed in the immediate aftermath.
 
-*Related: A-1149.1, C-1251*
+*Related: A-1149.1, C-679*
 
 ---
 
@@ -568,7 +567,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Host's assertion that what looked like an earpiece was actually Charlie's necklace.
 
-*Related: C-1265*
+*Related: C-659*
 
 ---
 
@@ -578,7 +577,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Host's claim that Charlie was not wearing a vest and that a prior provider had stopped supplying them.
 
-*Related: C-1266*
+*Related: C-660*
 
 ---
 
@@ -588,7 +587,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Was Charlie formally converting vs. attending mass and praying the rosary.
 
-*Related: A-1151.1, A-1152.1, C-1255*
+*Related: A-1151.1, A-1152.1, C-695*
 
 ---
 
@@ -598,7 +597,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Whether a $150M foreign-money offer was made to Charlie and refused.
 
-*Related: A-1151.2, C-1256*
+*Related: A-1151.2, C-704*
 
 ---
 
@@ -608,7 +607,7 @@ Node Type: Topic
 Topic Kind: narrative_pattern
 Charlie's repeated claim that donors pressured him on who to associate with.
 
-*Related: A-1151.4, A-1152.1, C-1258, C-1259*
+*Related: A-1151.4, A-1152.1, C-715, C-719*
 
 ---
 
@@ -618,7 +617,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Open lead: who paid for the unusually quick paver replacement at the venue.
 
-*Related: C-1263*
+*Related: C-732*
 
 ---
 
@@ -628,7 +627,7 @@ Node Type: Topic
 Topic Kind: discrepancy
 Scanner reportedly described jeans/black shirt/mask/vest/rifle – never made public.
 
-*Related: C-1264*
+*Related: C-734*
 
 ---
 
@@ -637,7 +636,7 @@ Scanner reportedly described jeans/black shirt/mask/vest/rifle – never made pu
 Node Type: Topic
 The host's assertion that the Foreign Agents Registration Act has an exemption for Israel, so agents acting for Israel are not registered and visible the way agents of other countries are.
 
-*Related: C-12034, C-12035*
+*Related: C-707, C-708*
 
 ---
 
@@ -646,7 +645,7 @@ The host's assertion that the Foreign Agents Registration Act has an exemption f
 Node Type: Topic
 The host's claim that the public scanner feed carrying the shooter description was taken private after about 3,000 listeners tuned in.
 
-*Related: C-12055*
+*Related: C-735*
 
 ---
 
@@ -654,7 +653,7 @@ The host's claim that the public scanner feed carrying the shooter description w
 
 Person: relayed by Barker's text as saying Charlie was stable.
 
-*Related: C-12007*
+*Related: C-668*
 
 ---
 
@@ -662,7 +661,7 @@ Person: relayed by Barker's text as saying Charlie was stable.
 
 Referred to as BB; the host says 150 million was spent by him on Operation Mocking Pastor.
 
-*Related: C-12031, C-12051*
+*Related: C-703, C-729*
 
 ---
 
@@ -670,7 +669,7 @@ Referred to as BB; the host says 150 million was spent by him on Operation Mocki
 
 Organization whose employees the host says live on the block near the event.
 
-*Related: C-12002*
+*Related: C-661*
 
 ---
 
@@ -678,7 +677,7 @@ Organization whose employees the host says live on the block near the event.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12002*
+*Related: C-661*
 
 ---
 
@@ -686,7 +685,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12031*
+*Related: C-703*
 
 ---
 
@@ -694,7 +693,7 @@ Existing topic reused for new claims in this episode.
 
 Existing place reused for new claims in this episode.
 
-*Related: C-12042*
+*Related: C-717*
 
 ---
 
@@ -702,7 +701,7 @@ Existing place reused for new claims in this episode.
 
 Existing place reused for new claims in this episode.
 
-*Related: C-12034, C-12044, C-12045*
+*Related: C-707, C-720, C-721*
 
 ---
 
@@ -710,7 +709,7 @@ Existing place reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12022*
+*Related: C-692*
 
 ---
 
@@ -718,7 +717,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12051*
+*Related: C-729*
 
 ---
 
@@ -726,7 +725,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12041*
+*Related: C-716*
 
 ---
 
@@ -734,7 +733,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12015, C-12016*
+*Related: C-683, C-684*
 
 ---
 
@@ -742,7 +741,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12036*
+*Related: C-709*
 
 ---
 
@@ -750,7 +749,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12031*
+*Related: C-703*
 
 ---
 
@@ -758,7 +757,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12052*
+*Related: C-730*
 
 ---
 
@@ -766,7 +765,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12057*
+*Related: C-738*
 
 ---
 
@@ -774,7 +773,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12021*
+*Related: C-691*
 
 ---
 
@@ -782,13 +781,13 @@ Existing topic reused for new claims in this episode.
 
 Existing organization; the witness says its published shooter timing and description conflict with what he saw.
 
-*Related: C-12015, C-12019, C-12020, C-12056*
+*Related: C-683, C-688, C-690, C-736*
 
 ---
 
 ## 5. Claim Register
 
-**C-1245** GMA reached Tiffany Barker via Phil Lyman political channel
+**C-669** GMA reached Tiffany Barker via Phil Lyman political channel
 
 Claim Timestamp: 00:08:33
 Claim: The host says Tiffany Barker intimated that Good Morning America's outreach was a political connection: her sister ran as lieutenant governor alongside Phil Lyman, and GMA reached out to Phil Lyman and somehow ended up with her sister's children and her.
@@ -801,7 +800,7 @@ Investigative Direction: Verify Tiffany Barker's LDS/political family ties and t
 
 ---
 
-**C-1246** Children described Charlie's artery wound on GMA
+**C-663** Children described Charlie's artery wound on GMA
 
 Claim Timestamp: 00:04:35
 Claim: In the Good Morning America clip the host plays, L Steel says she saw blood everywhere and that it hit his artery, and Mia Grant says they were about 15 feet away and she thought the shot was a firecracker.
@@ -815,7 +814,7 @@ Investigative Direction: Compare the children's GMA statements against the video
 Tags: open_source_investigation
 ---
 
-**C-1247** Tiffany Barker Says Artery Detail Came from Car Conversation, Not Observation
+**C-667** Tiffany Barker Says Artery Detail Came from Car Conversation, Not Observation
 
 Claim Timestamp: 00:07:43
 Claim: In a follow-up video the host plays, Tiffany Barker says the children saw how much Charlie bled and asked why, and she told them during a roughly hour-and-a-half car wait after the shooting, "There's an artery here. Maybe they hit an artery," adding "I didn't know."
@@ -828,7 +827,7 @@ Investigative Direction: Obtain the original follow-up video and any car-cam foo
 
 ---
 
-**C-1248** George Zinn Arrested ~1:48 After Shot Near Where Charlie's SUV Departed
+**C-674** George Zinn Arrested ~1:48 After Shot Near Where Charlie's SUV Departed
 
 Claim Timestamp: 00:14:20
 Claim: Per the host's timeline, ~40 seconds from the shot until Charlie is brought to the SUV and ~1:08 later George Zinn is in handcuffs in the same SUV zone.
@@ -841,7 +840,7 @@ Investigative Direction: Independently verify the timeline from official police 
 
 ---
 
-**C-1249** George Zinn's pants fell independently of arrest
+**C-672** George Zinn's pants fell independently of arrest
 
 Claim Timestamp: 00:12:38
 Claim: Host shows on-screen footage of Zinn's pants falling while he was walking in a dispersing crowd, prior to any arrest contact.
@@ -855,7 +854,7 @@ Investigative Direction: Cross-check the walking-clip frame-by-frame against law
 Tags: open_source_investigation
 ---
 
-**C-1250** Handcuffs photo shared by Utah TPUSA advertiser
+**C-676** Handcuffs photo shared by Utah TPUSA advertiser
 
 Claim Timestamp: 00:15:17
 Claim: Host says the viral handcuffs photo was shared by a Utah-based individual who advertises with Turning Point USA.
@@ -868,7 +867,7 @@ Investigative Direction: Identify the original posting account via reverse-image
 
 ---
 
-**C-1251** Host Says Wirefy Sponsored Event and Wirefy-Branded Individual Was On-Site Post-Shot
+**C-679** Host Says Wirefy Sponsored Event and Wirefy-Branded Individual Was On-Site Post-Shot
 
 Claim Timestamp: 00:17:18
 Claim: The host says Wirefy branding was the backdrop advertiser behind Charlie Kirk at the event in the clips of it, and that a Wirefy-branded individual was on-site sending texts and photos in the immediate aftermath.
@@ -881,7 +880,7 @@ Investigative Direction: Identify the blue-shirted Wirefy individual; request th
 Tags: open_source_investigation
 ---
 
-**C-1252** Roof video chain routed through Chicago-based intermediaries
+**C-681** Roof video chain routed through Chicago-based intermediaries
 
 Claim Timestamp: 00:20:07
 Claim: Host traces the viral roof footage through the account that posted it, a pair of Chicago numbers sent via the poster's friend that go nowhere, and an Aaron with a Chicago number.
@@ -894,7 +893,7 @@ Investigative Direction: Subpoena the originating accounts; obtain phone records
 
 ---
 
-**C-1253** Eyewitness Says Shooter Wore Tactical Gear, Not Jeans
+**C-685** Eyewitness Says Shooter Wore Tactical Gear, Not Jeans
 
 Claim Timestamp: 00:23:36
 Claim: Per the rooftop videographer as relayed by the host, he told authorities the shooter was in tactical gear and a face mask, not the jeans in the description the public received less than 24 hours later.
@@ -902,14 +901,14 @@ Transcript Snippet: this person was dressed in tactical gear and he was wearing 
 Anchored Artifacts: A-1154.1
 Mentions: N-40
 Related Nodes: N-10014, N-10099
-Supports: C-1254
+Supports: C-689
 Confidence: medium
 Investigative Direction: Obtain the original FBI 302 or tip-line intake record; corroborate via metadata and witness interview.
 
 Tags: calls_for_tips, open_source_investigation
 ---
 
-**C-1254** Eyewitness says rifle was smaller than reported
+**C-689** Eyewitness says rifle was smaller than reported
 
 Claim Timestamp: 00:25:26
 Claim: The eyewitness texted the host that the sharp crack and shorter rifle platform suggested a smaller rifle, not a big hunting rifle, and that the assassin may have used a 10 or 20-round magazine.
@@ -922,7 +921,7 @@ Investigative Direction: Compare eyewitness account with ballistic/forensic find
 
 ---
 
-**C-1255** Kolvet denies Charlie was converting to Catholicism
+**C-695** Kolvet denies Charlie was converting to Catholicism
 
 Claim Timestamp: 00:32:47
 Claim: In a clip the host plays, Andrew Kolvet tells Alex Clark that Charlie was not becoming Catholic but really loved Catholic mass.
@@ -935,7 +934,7 @@ Investigative Direction: Cross-check with Charlie's own prior public statements 
 
 ---
 
-**C-1256** Kolvet denies $150M Israel offer
+**C-704** Kolvet denies $150M Israel offer
 
 Claim Timestamp: 00:36:08
 Claim: Kolvet says he never heard of a $150M Israel offer and that TPUSA has consistently refused foreign money, including cancelling wires.
@@ -948,7 +947,7 @@ Investigative Direction: Audit TPUSA donor records against FARA filings; review 
 
 ---
 
-**C-1257** SD cards removed by TPUSA affiliate to prevent theft/loss
+**C-711** SD cards removed by TPUSA affiliate to prevent theft/loss
 
 Claim Timestamp: 00:41:15
 Claim: In a clip the host plays, Kolvet says he thinks the team took the SD cards because, even in the shock, they understood the cameras would be evidence and wanted to keep them from being stolen, so law enforcement could get them.
@@ -961,7 +960,7 @@ Investigative Direction: Confirm chain-of-custody; check whether originals were 
 
 ---
 
-**C-1258** Kolvet Says Charlie Said He Didn't Appreciate Being Morally Blackmailed
+**C-715** Kolvet Says Charlie Said He Didn't Appreciate Being Morally Blackmailed
 
 Claim Timestamp: 00:43:37
 Claim: Kolvet recounts Charlie telling him after a Myrtle Beach show, 'I don't appreciate being morally blackmailed,' after an audience member asked whether he would debate Candace or disavow Tucker.
@@ -974,7 +973,7 @@ Investigative Direction: Identify the donor(s) involved; review any internal TPU
 
 ---
 
-**C-1259** Charlie Kirk publicly rejected demands to stop being friends with host
+**C-719** Charlie Kirk publicly rejected demands to stop being friends with host
 
 Claim Timestamp: 00:44:22
 Claim: In an August Myrtle Beach clip, Charlie Kirk said he does not stop being friends with people because of moral blackmail and named Candace specifically.
@@ -987,7 +986,7 @@ Investigative Direction: Verify the clip's date and audience Q&A context.
 
 ---
 
-**C-1260** Trump called for separating MMR and delaying Hepatitis B
+**C-725** Trump called for separating MMR and delaying Hepatitis B
 
 Claim Timestamp: 00:47:44
 Claim: In a clip the host plays, Trump says he wants no mercury or aluminum in vaccines, that he thinks the MMR should be taken separately, and that he would say to wait until the baby is 12 years old for hepatitis B.
@@ -999,7 +998,7 @@ Investigative Direction: Verify official White House transcript of the statement
 
 ---
 
-**C-1261** Tiffany Barker's Sister Ran for Lt. Gov. With Phil Lyman
+**C-670** Tiffany Barker's Sister Ran for Lt. Gov. With Phil Lyman
 
 Claim Timestamp: 00:08:33
 Claim: Host says Tiffany Barker told her that her sister ran as lieutenant governor alongside Phil Lyman.
@@ -1012,7 +1011,7 @@ Investigative Direction: Verify Leman's 2024 lt. gov. running mate name and fami
 
 ---
 
-**C-1262** Kash Patel indicated more parties involved than Robinson alone
+**C-737** Kash Patel indicated more parties involved than Robinson alone
 
 Claim Timestamp: 00:59:20
 Claim: Host cites Kash Patel's recent tweet/thread as conceding that the public FBI narrative does not add up and that more parties are likely involved.
@@ -1025,7 +1024,7 @@ Investigative Direction: Pull the actual Patel thread and timestamp the posts; v
 
 ---
 
-**C-1263** Commenter Asks Who Paid for Crime Scene Pavers
+**C-732** Commenter Asks Who Paid for Crime Scene Pavers
 
 Claim Timestamp: 00:58:05
 Claim: Commenter Chris asks who paid for the rapid paver installation at the crime scene; host flags it as an open path to pursue.
@@ -1038,7 +1037,7 @@ Investigative Direction: Request UVU facilities work orders, vendor invoices, an
 
 ---
 
-**C-1264** Police scanner described shooter in jeans, black shirt, mask, vest, rifle
+**C-734** Police scanner described shooter in jeans, black shirt, mask, vest, rifle
 
 Claim Timestamp: 00:58:33
 Claim: Commenter MC states a police scanner call right after the shooting described a shooter wearing jeans, a black shirt, black mask, and black vest carrying a long rifle.
@@ -1051,7 +1050,7 @@ Investigative Direction: Obtain archived Broadcastify/ScannerRadio audio for the
 
 ---
 
-**C-1265** Charlie was not wearing an earpiece
+**C-659** Charlie was not wearing an earpiece
 
 Claim Timestamp: 00:01:43
 Claim: Host states she verified Charlie was not wearing an earpiece; what appears to be one is his necklace.
@@ -1064,7 +1063,7 @@ Investigative Direction: Locate the high-resolution footage and clothing item Ch
 
 ---
 
-**C-1266** Charlie was not wearing a bulletproof vest
+**C-660** Charlie was not wearing a bulletproof vest
 
 Claim Timestamp: 00:02:06
 Claim: Host states she verified Charlie was not wearing a vest, and a prior vest supplier had stopped providing them.
@@ -1077,7 +1076,7 @@ Investigative Direction: Identify and interview the prior vest provider; review 
 
 ---
 
-**C-3641** Host jokes that Trump may be watching the show in a CIA hat
+**C-724** Host jokes that Trump may be watching the show in a CIA hat
 
 Claim Timestamp: 00:47:35
 Claim: Reacting to Trump calling vaccine ingredients poison, the host jokes that Trump may have signed up to candace.com and is "wearing um a CIA hat and watching."
@@ -1091,7 +1090,7 @@ Investigative Direction: Preserve as joke reference to CIA hat brand; no factual
 ---
 
 
-**C-3727** Kolvet: Charlie Kirk debated Michael Knowles on Protestant versus Catholic theology
+**C-700** Kolvet: Charlie Kirk debated Michael Knowles on Protestant versus Catholic theology
 
 Claim Timestamp: 00:34:12
 Claim: Andrew Kolvet, in the Alex Clark interview clip played on air (cued at 32:43 as "Andrew's response to the Catholic question"), says Charlie Kirk debated Michael Knowles (transcript: "Michael Knowles") in good fun on Protestant versus Catholic theology and that they were dear friends.
@@ -1103,7 +1102,7 @@ Investigative Direction: Locate the Charlie Kirk and Michael Knowles debate vide
 
 ---
 
-**C-12001** Host Says Eyewitnesses and Video Sharers Had Government or TPUSA Ties
+**C-658** Host Says Eyewitnesses and Video Sharers Had Government or TPUSA Ties
 
 Claim Timestamp: 00:00:52
 
@@ -1119,7 +1118,7 @@ Investigative Direction: Build a list of every early eyewitness and video sharer
 
 ---
 
-**C-12002** Host Says Caldera Engineering Employees Live on the Block
+**C-661** Host Says Caldera Engineering Employees Live on the Block
 
 Claim Timestamp: 00:02:43
 
@@ -1135,7 +1134,7 @@ Investigative Direction: Check property records for the block and the Caldera En
 
 ---
 
-**C-12003** Host Says None of the Witnesses Were UVU Students
+**C-662** Host Says None of the Witnesses Were UVU Students
 
 Claim Timestamp: 00:02:54
 
@@ -1151,7 +1150,7 @@ Investigative Direction: Pull the press interviews from September 10 to 11 and v
 
 ---
 
-**C-12004** Host Relays Reddit Finding That Barker Is From an LDS-Linked Political Family
+**C-664** Host Relays Reddit Finding That Barker Is From an LDS-Linked Political Family
 
 Claim Timestamp: 00:06:06
 
@@ -1167,7 +1166,7 @@ Investigative Direction: Locate the Reddit thread and verify the family's LDS le
 
 ---
 
-**C-12005** Host Says Barker Did Not Mention Her Family Knew Charlie
+**C-665** Host Says Barker Did Not Mention Her Family Knew Charlie
 
 Claim Timestamp: 00:06:20
 
@@ -1183,7 +1182,7 @@ Investigative Direction: Obtain the full GMA interview and any event program or 
 
 ---
 
-**C-12006** Barker Says a Child in Her Car Filmed Charlie Being Shot
+**C-666** Barker Says a Child in Her Car Filmed Charlie Being Shot
 
 Claim Timestamp: 00:07:06
 
@@ -1199,7 +1198,7 @@ Investigative Direction: Ask Barker for the video or its metadata; compare again
 
 ---
 
-**C-12007** Barker Says a Text Relayed That Glenn Beck Said Charlie Was Stable
+**C-668** Barker Says a Text Relayed That Glenn Beck Said Charlie Was Stable
 
 Claim Timestamp: 00:07:55
 
@@ -1215,7 +1214,7 @@ Investigative Direction: Identify the sender of the text and when Glenn Beck mad
 
 ---
 
-**C-12008** Host Says Barker Has Provided No Footage Showing the Children Saw the Wound
+**C-671** Host Says Barker Has Provided No Footage Showing the Children Saw the Wound
 
 Claim Timestamp: 00:09:05
 
@@ -1226,13 +1225,13 @@ Transcript Snippet: She has not yet provided any footage that would suggest that
 Anchored Artifacts: A-1146.1, A-1147.1
 Mentions: N-3, N-75
 Related Nodes: N-10096
-Supports: C-1247
+Supports: C-667
 Tags: relevance:core
 Investigative Direction: Request the footage Barker shared and the family's phone metadata; compare with the children's GMA statements about the artery.
 
 ---
 
-**C-12009** Host Times Zinn at Earliest 30 Seconds After Shot Heading Down the Stairs
+**C-673** Host Times Zinn at Earliest 30 Seconds After Shot Heading Down the Stairs
 
 Claim Timestamp: 00:12:51
 
@@ -1243,13 +1242,13 @@ Transcript Snippet: when we see him sort of making his way down those stairs, we
 Anchored Artifacts: A-1148.2
 Mentions: N-3, N-42
 Related Nodes: N-10097
-Supports: C-1248
+Supports: C-674
 Tags: relevance:core
 Investigative Direction: Frame-count the available videos against a synchronised audio of the shot to fix Zinn's position at each second.
 
 ---
 
-**C-12010** Host Says Zinn Was Waving His Hat Near the Left Side of the Tent at 1:15
+**C-675** Host Says Zinn Was Waving His Hat Near the Left Side of the Tent at 1:15
 
 Claim Timestamp: 00:14:28
 
@@ -1260,13 +1259,13 @@ Transcript Snippet: And then a minute and 15 seconds after that shot rings out, 
 Anchored Artifacts: A-1148.2, A-1148.3
 Mentions: N-3, N-42
 Related Nodes: N-10097
-Supports: C-1248
+Supports: C-674
 Tags: relevance:core
 Investigative Direction: Verify against the original footage and body-cam of Zinn's arrest.
 
 ---
 
-**C-12011** Host Describes a Possible Donor or Employee Shooed Away by Security Then Using His Phone
+**C-677** Host Describes a Possible Donor or Employee Shooed Away by Security Then Using His Phone
 
 Claim Timestamp: 00:16:20
 
@@ -1277,13 +1276,13 @@ Transcript Snippet: The security guard just kind of shoes him away immediately. 
 Anchored Artifacts: A-1149.1
 Mentions: N-3
 Related Nodes: N-10093, N-10101
-Supports: C-1251
+Supports: C-679
 Tags: relevance:core
 Investigative Direction: Identify the man in the blue shirt from event photos and the Wirefy roster; obtain the security team's account.
 
 ---
 
-**C-12012** Host Says Current TPUSA Employees Messaged Her About Wirefy
+**C-678** Host Says Current TPUSA Employees Messaged Her About Wirefy
 
 Claim Timestamp: 00:16:53
 
@@ -1294,13 +1293,13 @@ Transcript Snippet: And I would really like to know who that is because we had r
 Anchored Artifacts: A-1149.1
 Mentions: N-3
 Related Nodes: N-10093, N-10000, N-10101
-Supports: C-1251
+Supports: C-679
 Tags: relevance:context
 Investigative Direction: Ask TPUSA for the sponsorship ledger for the fall tour and check Wirefy's incorporation date and sponsorship amounts.
 
 ---
 
-**C-12013** Host Says the Roof Video Poster Said a Friend of a Friend's Relative Sent It
+**C-680** Host Says the Roof Video Poster Said a Friend of a Friend's Relative Sent It
 
 Claim Timestamp: 00:19:12
 
@@ -1311,13 +1310,13 @@ Transcript Snippet: a friend of a friend's like family member sent it.
 Anchored Artifacts: A-1150.1
 Mentions: N-3
 Related Nodes: N-10098
-Supports: C-1252
+Supports: C-681
 Tags: relevance:core
 Investigative Direction: Obtain the screenshot of the conversation the poster showed the host and identify the app and the sender.
 
 ---
 
-**C-12014** Host Says Neither Roof-Video Witness Was a UVU Student and One Was at BYU
+**C-682** Host Says Neither Roof-Video Witness Was a UVU Student and One Was at BYU
 
 Claim Timestamp: 00:21:40
 
@@ -1328,13 +1327,13 @@ Transcript Snippet: Neither of them are students of UVU. Uh one of them uh said 
 Anchored Artifacts: A-1150.1
 Mentions: N-3
 Related Nodes: N-10092, N-10098, N-10095
-Supports: C-1252
+Supports: C-681
 Tags: relevance:core
 Investigative Direction: Verify enrollment and identity of both men with the witness, if he consents.
 
 ---
 
-**C-12015** Host Says the Witness Rejects the FBI's 12:15 Roof Drop Time
+**C-683** Host Says the Witness Rejects the FBI's 12:15 Roof Drop Time
 
 Claim Timestamp: 00:22:54
 
@@ -1345,13 +1344,13 @@ Transcript Snippet: Didn't make sense to him. He said earliest it was 12:22 that
 Anchored Artifacts: A-1154.1
 Mentions: N-3
 Related Nodes: N-10343, N-10014, N-10099
-Contradicts: C-1147
+Contradicts: C-166
 Tags: relevance:core
 Investigative Direction: Compare the FBI's published roof timeline with the witness's file metadata and any rooftop video with a timestamp.
 
 ---
 
-**C-12016** Host Says File Metadata Begins at 12:22 and Runs to the Minute of the Shot
+**C-684** Host Says File Metadata Begins at 12:22 and Runs to the Minute of the Shot
 
 Claim Timestamp: 00:23:11
 
@@ -1362,13 +1361,13 @@ Transcript Snippet: And it the metadata begins at 12:22 and goes into 12:23, the
 Anchored Artifacts: A-3177.1
 Mentions: N-3, N-1
 Related Nodes: N-10343, N-10099
-Supports: C-1253
+Supports: C-685
 Tags: relevance:core
 Investigative Direction: Have a forensic examiner confirm the file's creation and modification times and device clock settings.
 
 ---
 
-**C-12017** Witness Says the Roof Figure Looked Like a Highly Trained Foreign Agent
+**C-686** Witness Says the Roof Figure Looked Like a Highly Trained Foreign Agent
 
 Claim Timestamp: 00:23:52
 
@@ -1379,13 +1378,13 @@ Transcript Snippet: that this person looked to him like a foreign agent.
 Anchored Artifacts: A-1154.1
 Mentions: N-3
 Related Nodes: N-10099
-Supports: C-1253
+Supports: C-685
 Tags: relevance:core
 Investigative Direction: Put the question to the witness through the host and compare his training claim and description with the other roof witnesses.
 
 ---
 
-**C-12018** Witness Says He Told Someone on Campus That Zinn Was the Wrong Person
+**C-687** Witness Says He Told Someone on Campus That Zinn Was the Wrong Person
 
 Claim Timestamp: 00:24:16
 
@@ -1396,13 +1395,13 @@ Transcript Snippet: he ran to someone on campus and said, "This is the wrong per
 Anchored Artifacts: A-1154.1
 Mentions: N-3, N-42
 Related Nodes: N-10097, N-10099
-Supports: C-1253
+Supports: C-685
 Tags: relevance:core
 Investigative Direction: Identify the person on campus and any record of the witness's contact with campus police or the FBI that day.
 
 ---
 
-**C-12019** Witness Says the Gun the FBI Found Was Not the Gun He Saw
+**C-688** Witness Says the Gun the FBI Found Was Not the Gun He Saw
 
 Claim Timestamp: 00:24:54
 
@@ -1413,13 +1412,13 @@ Transcript Snippet: So, he also said something that we had not heard, which is t
 Anchored Artifacts: A-1154.1
 Mentions: N-3
 Related Nodes: N-10014, N-10099
-Supports: C-1254
+Supports: C-689
 Tags: relevance:core
 Investigative Direction: Compare the recovered rifle's make and length with the witness's description of a shorter platform.
 
 ---
 
-**C-12020** Host Says Authorities Released Other Names but Not the Eyewitness Description
+**C-690** Host Says Authorities Released Other Names but Not the Eyewitness Description
 
 Claim Timestamp: 00:26:17
 
@@ -1430,13 +1429,13 @@ Transcript Snippet: We got every other name and basically every other descriptio
 Anchored Artifacts: A-1154.1
 Mentions: N-3
 Related Nodes: N-10014, N-10099
-Supports: C-1253
+Supports: C-685
 Tags: relevance:core
 Investigative Direction: Request the FBI's and Orem police intake records of witness statements on September 10 and 11.
 
 ---
 
-**C-12021** Host Says Kolvet Issued the Statement About the Other Magic Bullet
+**C-691** Host Says Kolvet Issued the Statement About the Other Magic Bullet
 
 Claim Timestamp: 00:30:08
 
@@ -1447,13 +1446,13 @@ Transcript Snippet: he's also the one that issued the statement therefore about 
 Anchored Artifacts: 
 Mentions: N-3, N-14
 Related Nodes: N-10341, N-10000
-Supports: C-10725
+Supports: C-595
 Tags: relevance:core
 Investigative Direction: Locate Kolvet's original statement and compare it with the coroner's and prosecutors' later descriptions of the bullet.
 
 ---
 
-**C-12022** Host Says Alex Clark Teased Answers on Catholicism, the $150 Million and SD Cards
+**C-692** Host Says Alex Clark Teased Answers on Catholicism, the $150 Million and SD Cards
 
 Claim Timestamp: 00:30:59
 
@@ -1469,7 +1468,7 @@ Investigative Direction: Retrieve Alex Clark's teaser post and the interview pub
 
 ---
 
-**C-12023** Host Says Erika Is a Cradle Catholic and Charlie Attended Mass
+**C-693** Host Says Erika Is a Cradle Catholic and Charlie Attended Mass
 
 Claim Timestamp: 00:31:35
 
@@ -1480,13 +1479,13 @@ Transcript Snippet: A because uh Erika's a cradle Catholic. I said Charlie was a
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-1
 Related Nodes: N-10104
-Supports: C-10671, C-10670, C-10769
+Supports: C-94, C-93, C-656
 Tags: relevance:context
 Investigative Direction: Collect Erika's and Charlie's posts or photos from Mass and statements from their priest.
 
 ---
 
-**C-12024** Host Says She Joked That Charlie Was Too Smart to Be a Protestant
+**C-694** Host Says She Joked That Charlie Was Too Smart to Be a Protestant
 
 Claim Timestamp: 00:32:06
 
@@ -1497,13 +1496,13 @@ Transcript Snippet: take the next step. You're too smart to be a Protestant. Tha
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10104
-Supports: C-10671
+Supports: C-94
 Tags: relevance:context
 Investigative Direction: Compare with the host's text exchanges with Charlie about Catholicism.
 
 ---
 
-**C-12025** Kolvet Says Erika Is a Cradle Catholic Who Ended Up Like Him
+**C-696** Kolvet Says Erika Is a Cradle Catholic Who Ended Up Like Him
 
 Claim Timestamp: 00:32:59
 
@@ -1514,13 +1513,13 @@ Transcript Snippet: Well, Erika's a cradle Catholic. Uh but she ended up kind of
 Anchored Artifacts: A-1151.1
 Mentions: N-14, N-2
 Related Nodes: N-10104
-Supports: C-10769
+Supports: C-656
 Tags: relevance:context
 Investigative Direction: Compare with Erika's own accounts of her church history.
 
 ---
 
-**C-12026** Kolvet Says Erika Told a Commenter They Were Not Converting
+**C-697** Kolvet Says Erika Told a Commenter They Were Not Converting
 
 Claim Timestamp: 00:33:34
 
@@ -1536,7 +1535,7 @@ Investigative Direction: Find Erika's original post and the comment thread and c
 
 ---
 
-**C-12027** Kolvet Says Charlie Hated Worshiping in a Gym
+**C-698** Kolvet Says Charlie Hated Worshiping in a Gym
 
 Claim Timestamp: 00:33:39
 
@@ -1552,7 +1551,7 @@ Investigative Direction: Compare with other statements by Charlie on church form
 
 ---
 
-**C-12028** Kolvet Says Charlie Had Big Theological Hang-Ups About Catholicism
+**C-699** Kolvet Says Charlie Had Big Theological Hang-Ups About Catholicism
 
 Claim Timestamp: 00:34:07
 
@@ -1563,13 +1562,13 @@ Transcript Snippet: He loved he loved that. So he had some really big theologica
 Anchored Artifacts: A-1151.1
 Mentions: N-14, N-1
 Related Nodes: N-10104
-Supports: C-1255
+Supports: C-695
 Tags: relevance:context
 Investigative Direction: Cross-check against Charlie's public debates on Protestant and Catholic theology.
 
 ---
 
-**C-12029** Host Says She Never Said Charlie Started Converting
+**C-701** Host Says She Never Said Charlie Started Converting
 
 Claim Timestamp: 00:34:57
 
@@ -1580,13 +1579,13 @@ Transcript Snippet: I never said he started converting to Catholicism. I said th
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10104
-Supports: C-10768
+Supports: C-655
 Tags: relevance:context
 Investigative Direction: Compare with the host's earlier statements in episodes 2 and 7 about Charlie and Catholicism.
 
 ---
 
-**C-12030** Host Says Nobody Said the Number 150 Million, Not Her and Not Tucker
+**C-702** Host Says Nobody Said the Number 150 Million, Not Her and Not Tucker
 
 Claim Timestamp: 00:35:52
 
@@ -1602,7 +1601,7 @@ Investigative Direction: Trace where the $150 million figure first appeared in c
 
 ---
 
-**C-12031** Host Says the 150 Million Was What BB Spent on Operation Mocking Pastor
+**C-703** Host Says the 150 Million Was What BB Spent on Operation Mocking Pastor
 
 Claim Timestamp: 00:36:00
 
@@ -1613,13 +1612,13 @@ Transcript Snippet: I said 150 million was what BB spent on Operation Mocking Pa
 Anchored Artifacts: 
 Mentions: N-3, N-36
 Related Nodes: N-10139, N-11004, N-10105
-Supports: C-10766, C-4906
+Supports: C-653, C-380
 Tags: relevance:context
 Investigative Direction: Obtain the host's source documentation for the 150 million expenditure and its recipients.
 
 ---
 
-**C-12032** Clip Says TPUSA Took No Government Handouts and No Layoffs in the Pandemic
+**C-705** Clip Says TPUSA Took No Government Handouts and No Layoffs in the Pandemic
 
 Claim Timestamp: 00:36:47
 
@@ -1635,7 +1634,7 @@ Investigative Direction: Check TPUSA's PPP loan and payroll records and the inte
 
 ---
 
-**C-12033** Kolvet Says Charlie Told Him to Deal With Foreign People Demanding Meetings
+**C-706** Kolvet Says Charlie Told Him to Deal With Foreign People Demanding Meetings
 
 Claim Timestamp: 00:37:24
 
@@ -1646,13 +1645,13 @@ Transcript Snippet: you know, and some foreign people would come up and like dem
 Anchored Artifacts: A-1151.2
 Mentions: N-14, N-1
 Related Nodes: N-10105
-Supports: C-1256
+Supports: C-704
 Tags: relevance:context
 Investigative Direction: Ask staff for a log of foreign meeting requests to Charlie in 2025.
 
 ---
 
-**C-12034** Host Says FARA Has a Carve-Out for Israel
+**C-707** Host Says FARA Has a Carve-Out for Israel
 
 Claim Timestamp: 00:37:38
 
@@ -1668,7 +1667,7 @@ Investigative Direction: Review the Foreign Agents Registration Act exemptions a
 
 ---
 
-**C-12035** Host Says Foreign Agents for Israel Gave Money to TPUSA and Names Ackman and Shillman as Possible Donors
+**C-708** Host Says Foreign Agents for Israel Gave Money to TPUSA and Names Ackman and Shillman as Possible Donors
 
 Claim Timestamp: 00:38:26
 
@@ -1684,7 +1683,7 @@ Investigative Direction: Review TPUSA donor filings and the donors' registered f
 
 ---
 
-**C-12036** Host Maintains a Large Sum Was Offered to Charlie and He Turned It Down
+**C-709** Host Maintains a Large Sum Was Offered to Charlie and He Turned It Down
 
 Claim Timestamp: 00:38:51
 
@@ -1695,14 +1694,14 @@ Transcript Snippet: And did Charlie Kirk refuse that? I maintain what I said tha
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10342, N-10105
-Supports: C-10767
-Contradicts: C-1256
+Supports: C-654
+Contradicts: C-704
 Tags: relevance:context
 Investigative Direction: Obtain the host's text messages or sources that describe the offer, its date and its source.
 
 ---
 
-**C-12037** Host Says Erika Needs Someone Who Understands LLCs and Hidden Money
+**C-710** Host Says Erika Needs Someone Who Understands LLCs and Hidden Money
 
 Claim Timestamp: 00:39:22
 
@@ -1718,7 +1717,7 @@ Investigative Direction: Review TPUSA's affiliated entities, 990 filings and any
 
 ---
 
-**C-12038** Kolvet Says He Spoke to the Team About the SD Cards
+**C-712** Kolvet Says He Spoke to the Team About the SD Cards
 
 Claim Timestamp: 00:41:43
 
@@ -1729,13 +1728,13 @@ Transcript Snippet: I mean I talked to the team on that and they said because we
 Anchored Artifacts: A-1151.3
 Mentions: N-14
 Related Nodes: N-10100, N-10000
-Supports: C-1257
+Supports: C-711
 Tags: relevance:core
 Investigative Direction: Identify the team member who removed the SD card, when it was handed to law enforcement, and by whom.
 
 ---
 
-**C-12039** Host Says TPUSA Still Has the Donors Who Made Financial Threats Against Charlie
+**C-713** Host Says TPUSA Still Has the Donors Who Made Financial Threats Against Charlie
 
 Claim Timestamp: 00:42:41
 
@@ -1746,13 +1745,13 @@ Transcript Snippet: And they still have donors. They still have the same donors 
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10000, N-10106
-Supports: C-4912, C-1185
+Supports: C-386, C-361
 Tags: relevance:core
 Investigative Direction: Compare TPUSA's major donor list before and after September 2025 and review the threats in the host's evidence.
 
 ---
 
-**C-12040** Host Says Charlie Felt Donors Tried to Control Who He Spoke To and Befriended
+**C-714** Host Says Charlie Felt Donors Tried to Control Who He Spoke To and Befriended
 
 Claim Timestamp: 00:42:47
 
@@ -1763,13 +1762,13 @@ Transcript Snippet: In his own words, by the way, he said that he felt morally b
 Anchored Artifacts: A-1152.1
 Mentions: N-3, N-1
 Related Nodes: N-10106
-Supports: C-1258
+Supports: C-715
 Tags: relevance:core
 Investigative Direction: Collect Charlie's recorded statements and donor messages about speaker approvals.
 
 ---
 
-**C-12041** Clip Says Charlie Suggested Tucker Might Give Two Speeches at AmFest
+**C-716** Clip Says Charlie Suggested Tucker Might Give Two Speeches at AmFest
 
 Claim Timestamp: 00:43:46
 
@@ -1785,7 +1784,7 @@ Investigative Direction: Check AmFest 2025 speaker lineup history and any announ
 
 ---
 
-**C-12042** Host Says Charlie Said the Same About the Hamptons
+**C-717** Host Says Charlie Said the Same About the Hamptons
 
 Claim Timestamp: 00:43:51
 
@@ -1796,13 +1795,13 @@ Transcript Snippet: We told you he said the same thing about when he was in the 
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10027, N-10106
-Supports: C-10677
+Supports: C-100
 Tags: relevance:core
 Investigative Direction: Obtain the host's message evidence that Charlie described the Hamptons meeting as moral blackmail.
 
 ---
 
-**C-12043** Host Says Charlie Planned to Bring Candace Back After Donors Bullied the Ending
+**C-718** Host Says Charlie Planned to Bring Candace Back After Donors Bullied the Ending
 
 Claim Timestamp: 00:44:02
 
@@ -1818,7 +1817,7 @@ Investigative Direction: Identify who Charlie said this to and any record of the
 
 ---
 
-**C-12044** Charlie Says in the Clip He Has Different Views on Israel Than Candace
+**C-720** Charlie Says in the Clip He Has Different Views on Israel Than Candace
 
 Claim Timestamp: 00:44:32
 
@@ -1834,7 +1833,7 @@ Investigative Direction: Obtain the full clip with its date and venue.
 
 ---
 
-**C-12045** Charlie Says in the Clip He Went to Candace's Wedding and to Israel With Her
+**C-721** Charlie Says in the Clip He Went to Candace's Wedding and to Israel With Her
 
 Claim Timestamp: 00:44:37
 
@@ -1850,7 +1849,7 @@ Investigative Direction: Establish the dates of the Israel trip from travel or e
 
 ---
 
-**C-12046** Charlie Calls Demands to Stop Being Friends a Left-Wing Tactic
+**C-722** Charlie Calls Demands to Stop Being Friends a Left-Wing Tactic
 
 Claim Timestamp: 00:44:51
 
@@ -1861,13 +1860,13 @@ Transcript Snippet: Whoa, whoa, whoa. That's a left-wing tactic. Don't do that.
 Anchored Artifacts: A-1152.1
 Mentions: N-1
 Related Nodes: N-10106
-Supports: C-1259
+Supports: C-719
 Tags: relevance:context
 Investigative Direction: Obtain the full clip and the audience question that prompted it.
 
 ---
 
-**C-12047** Host Says Her Shot in the Dark Series Is Available on Her Website
+**C-723** Host Says Her Shot in the Dark Series Is Available on Her Website
 
 Claim Timestamp: 00:46:51
 
@@ -1882,7 +1881,7 @@ Investigative Direction: Review the Shot in the Dark series description and rele
 
 ---
 
-**C-12048** Trump Says the Chickenpox Shot Is Already Separate Because Mixing It Went Badly
+**C-726** Trump Says the Chickenpox Shot Is Already Separate Because Mixing It Went Badly
 
 Claim Timestamp: 00:47:44
 
@@ -1892,13 +1891,13 @@ Transcript Snippet: the chickenpox is already separate because when that got mix
 
 Anchored Artifacts: A-1153.1
 Mentions: N-5
-Supports: C-1260
+Supports: C-725
 Tags: relevance:tangential
 Investigative Direction: Check the vaccine schedule history for combined MMR and varicella products.
 
 ---
 
-**C-12049** Host Says Her Enemies Wish to Poison Children's Bodies and Minds
+**C-727** Host Says Her Enemies Wish to Poison Children's Bodies and Minds
 
 Claim Timestamp: 00:49:29
 
@@ -1913,7 +1912,7 @@ Investigative Direction: Recorded as said; no verifiable subject is identified.
 
 ---
 
-**C-12050** Host Says Trump's Vaccine Statement Is a Reaction to Moms Pulling Kids from School
+**C-728** Host Says Trump's Vaccine Statement Is a Reaction to Moms Pulling Kids from School
 
 Claim Timestamp: 00:50:06
 
@@ -1928,7 +1927,7 @@ Investigative Direction: Compare with homeschooling enrollment data for 2025.
 
 ---
 
-**C-12051** Commenter Says Charlie's Public Views on Gaza and Netanyahu Changed Before His Death
+**C-729** Commenter Says Charlie's Public Views on Gaza and Netanyahu Changed Before His Death
 
 Claim Timestamp: 00:53:53
 
@@ -1944,7 +1943,7 @@ Investigative Direction: Compare Charlie's public statements on Gaza and Netanya
 
 ---
 
-**C-12052** Host Says the Official Narrative Is Designed to Make Left and Right Blame MAGA and a Trans Person
+**C-730** Host Says the Official Narrative Is Designed to Make Left and Right Blame MAGA and a Trans Person
 
 Claim Timestamp: 00:54:07
 
@@ -1960,7 +1959,7 @@ Investigative Direction: Compare the charging documents and FBI messaging about 
 
 ---
 
-**C-12053** Host Says Erika Said Charlie's Death Was Quick
+**C-731** Host Says Erika Said Charlie's Death Was Quick
 
 Claim Timestamp: 00:56:38
 
@@ -1970,13 +1969,13 @@ Transcript Snippet: when something that I really needed to hear when Erika said 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-1
-Supports: C-10719
+Supports: C-587
 Tags: relevance:core
 Investigative Direction: Compare Erika's statement with the autopsy and medical timeline.
 
 ---
 
-**C-12054** Host Says She Thought the Feds Paid for the Pavers
+**C-733** Host Says She Thought the Feds Paid for the Pavers
 
 Claim Timestamp: 00:58:23
 
@@ -1987,13 +1986,13 @@ Transcript Snippet: That's another path that we could pursue. I feel like I thou
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10107
-Supports: C-1263
+Supports: C-732
 Tags: relevance:core
 Investigative Direction: Request UVU facilities and contractor records on the paver work and its funding source.
 
 ---
 
-**C-12055** Host Says the Police Scanner Feed Was Made Private After 3,000 People Tuned In
+**C-735** Host Says the Police Scanner Feed Was Made Private After 3,000 People Tuned In
 
 Claim Timestamp: 00:58:49
 
@@ -2004,13 +2003,13 @@ Transcript Snippet: When they realized that 3,000 people had suddenly tuned in, 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11320, N-10108
-Supports: C-1264
+Supports: C-734
 Tags: relevance:core
 Investigative Direction: Ask the dispatch center and the scanner-feed platform when the Orem and Utah County feed was restricted and why.
 
 ---
 
-**C-12056** Host Says Authorities Have Clear Footage of the Person They Did Not Release
+**C-736** Host Says Authorities Have Clear Footage of the Person They Did Not Release
 
 Claim Timestamp: 00:59:04
 
@@ -2026,7 +2025,7 @@ Investigative Direction: File records requests for rooftop surveillance and vide
 
 ---
 
-**C-12057** Host Maintains Robinson Is One Piece and Many More Were Involved
+**C-738** Host Maintains Robinson Is One Piece and Many More Were Involved
 
 Claim Timestamp: 00:59:20
 
@@ -2037,13 +2036,13 @@ Transcript Snippet: I maintain that Tyler Robinson is one piece of this and a lo
 Anchored Artifacts: 
 Mentions: N-3, N-40, N-69
 Related Nodes: N-10202
-Supports: C-3765, C-1262
+Supports: C-388, C-737
 Tags: relevance:core
 Investigative Direction: Pull Patel's message and see whether it says more people are involved.
 
 ---
 
-**C-12058** Host Says She Starts a Trial Homeschool Curriculum Next Week
+**C-739** Host Says She Starts a Trial Homeschool Curriculum Next Week
 
 Claim Timestamp: 00:59:49
 
@@ -2058,7 +2057,7 @@ Investigative Direction: Personal item recorded as said.
 
 ---
 
-**C-12059** Host Says a Communist Underground Operates in Schools
+**C-740** Host Says a Communist Underground Operates in Schools
 
 Claim Timestamp: 01:00:47
 
@@ -2068,13 +2067,13 @@ Transcript Snippet: There is a communist underground in the school.
 
 Anchored Artifacts: 
 Mentions: N-3
-Supports: C-10709
+Supports: C-144
 Tags: relevance:tangential
 Investigative Direction: Recorded as said; no verifiable subject is identified.
 
 ---
 
-**C-12060** Host Says the Government Does Not Want Us to Have Children
+**C-741** Host Says the Government Does Not Want Us to Have Children
 
 Claim Timestamp: 01:01:48
 
@@ -2290,16 +2289,16 @@ RoleLink: N-2 holds_role N-10000 title:Chairman and CEO
 
 ## 12. Topic Threading
 
-TopicMention: C-1253 N-10099
-TopicMention: C-1254 N-10099
-TopicMention: C-1255 N-10104
-TopicMention: C-1256 N-10105
-TopicMention: C-1257 N-10100
-TopicMention: C-1258 N-10106
-TopicMention: C-1259 N-10106
-TopicMention: C-1262 N-10099
-TopicMention: C-1263 N-10107
-TopicMention: C-1264 N-10108
+TopicMention: C-685 N-10099
+TopicMention: C-689 N-10099
+TopicMention: C-695 N-10104
+TopicMention: C-704 N-10105
+TopicMention: C-711 N-10100
+TopicMention: C-715 N-10106
+TopicMention: C-719 N-10106
+TopicMention: C-737 N-10099
+TopicMention: C-732 N-10107
+TopicMention: C-734 N-10108
 
 ## 13. Meme Graph Links
 

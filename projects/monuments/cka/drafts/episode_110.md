@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10g): N-11400, N-11401
   - Tip-minted Nodes (reintro-ep110): N-666, N-754
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10g): C-14630–C-14711
+  - Claim Range: C-9598–C-9705
   - New Nodes Introduced: N-10668, N-10669
   - Hole-minted Nodes (wave3): N-433, N-434, N-448
   - Reused Nodes Appearing: N-28, N-10671, N-10675, N-10670, N-10672, N-10673, N-10674, N-9, N-17, N-22, N-37, N-46, N-55, N-57, N-58, N-59, N-190, N-266, N-278, N-279, N-305, N-361, N-591, N-10012, N-10027, N-10117, N-10122, N-10123, N-10220, N-10264, N-10276, N-10310, N-10334, N-10347, N-10367, N-10370, N-10373, N-10378, N-10456, N-10571, N-10575, N-10652, N-10653, N-10664, N-10722, N-10870, N-10901, N-10910, N-11079, N-11123, N-11324
@@ -33,7 +33,6 @@
 - Analysis date: 2026-05-27
 - Ledger continuation summary:
   - Artifact Families Introduced: A-2076, A-2077, A-2078, A-2079, A-2080, A-2081, A-2082, A-2083, A-2084
-  - Claim Range: C-2909–C-2933
   - New Nodes Introduced (people): N-14
   - New Nodes Introduced (investigation targets): N-10668, N-10669, N-10670, N-10671, N-10672, N-10673, N-10674, N-10675
 
@@ -63,7 +62,7 @@ Video Timestamp: 00:21:00–00:22:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2911, C-2913, C-2923, C-2930, C-2931, C-2932, C-2933, C-2934, N-10668, N-10669, N-10670, N-28*
+*Related: C-9622, C-9623, C-9635, C-9612, C-9613, C-9641, C-9642, C-9643, N-10668, N-10669, N-10670, N-28*
 
 **A-2076.2** Host's internal working timeline graphic (displayed on-screen, June–September 2025)
 
@@ -75,7 +74,7 @@ Video Timestamp: 00:25:40–00:36:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (host-curated; no underlying documents shown for most entries)
 
-*Related: C-2910, C-2921, C-2924, C-2928, C-2929, C-2930, N-2, N-14, N-10671, N-10672, N-10673, N-10674, N-10675*
+*Related: C-9621, C-9638, C-9670, C-9651, C-9663, C-9612, N-2, N-14, N-10671, N-10672, N-10673, N-10674, N-10675*
 
 ---
 
@@ -91,7 +90,7 @@ Video Timestamp: 00:15:30–00:19:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (summarized on a third-party site by host; FT primary not directly shown)
 
-*Related: C-2914, C-2915, C-2916, C-2917, C-2918, C-2919, C-2920, N-10669, N-10670*
+*Related: C-9626, C-9627, C-9628, C-9629, C-9630, C-9633, C-9634, N-10669, N-10670*
 
 ---
 
@@ -107,7 +106,7 @@ Video Timestamp: 00:19:30–00:20:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2921, C-2922, N-10670*
+*Related: C-9638, C-9639, N-10670*
 
 ---
 
@@ -123,7 +122,7 @@ Video Timestamp: 00:13:30–00:14:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (government source)
 
-*Related: C-2909, C-2910, C-2911, C-2912, C-2913, N-10668*
+*Related: C-9620, C-9621, C-9622, C-9624, C-9623, N-10668*
 
 ---
 
@@ -139,7 +138,7 @@ Video Timestamp: 00:34:00–00:34:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (specific outlet not named on-air)
 
-*Related: C-2923, N-10671*
+*Related: C-9635, N-10671*
 
 ---
 
@@ -155,7 +154,7 @@ Video Timestamp: 00:37:15–00:39:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (NYT)
 
-*Related: C-2925, C-2926*
+*Related: C-9678, C-9683*
 
 ---
 
@@ -171,7 +170,7 @@ Video Timestamp: 00:46:40–00:47:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (comment-sourced reference; primary X account not displayed)
 
-*Related: C-2927, N-28*
+*Related: C-9693, N-28*
 
 ---
 
@@ -203,7 +202,7 @@ Video Timestamp: 00:31:40–00:32:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (host acknowledges no independent confirmation)
 
-*Related: C-2929, N-1, N-10675*
+*Related: C-9663, N-1, N-10675*
 
 ---
 
@@ -218,7 +217,7 @@ Video Timestamp: 00:43:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14698, N-3*
+*Related: C-9691, N-3*
 
 ---
 
@@ -233,7 +232,7 @@ Video Timestamp: 00:48:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14701, C-14702*
+*Related: C-9695, C-9696*
 
 ---
 
@@ -246,7 +245,7 @@ Video Timestamp: 00:49:56
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14704, C-14705*
+*Related: C-9698, C-9699*
 
 ---
 
@@ -259,7 +258,7 @@ Video Timestamp: 00:51:48
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14706, C-14707*
+*Related: C-9700, C-9701*
 
 ---
 
@@ -272,7 +271,7 @@ Video Timestamp: 00:52:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14708, C-14709, C-14710*
+*Related: C-9702, C-9703, C-9704*
 
 ---
 
@@ -285,7 +284,7 @@ Video Timestamp: 00:42:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14692, C-14694, C-14695, N-3*
+*Related: C-9685, C-9687, C-9688, N-3*
 
 ---
 
@@ -298,7 +297,7 @@ Video Timestamp: 00:03:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14633, N-3*
+*Related: C-9601, N-3*
 
 ---
 
@@ -308,19 +307,19 @@ Confidence Level: Low
 
 First named by the host at 00:12:14 in episode 110. Aliases: Bradley Hansell, Brad Hansell, Brad Hansell.
 
-*Related: C-2909, C-2910, C-2911, C-2912, C-2913, A-2076.1, A-2079.1*
+*Related: C-9620, C-9621, C-9622, C-9624, C-9623, A-2076.1, A-2079.1*
 
 **N-434** Christoph Schweizer
 
 First named by the host at 00:18:28 in episode 110. Aliases: Christoph Schweizer, Christoph Schweizer.
 
-*Related: C-2919, C-2920, C-2921, C-2922, C-2923, C-2932, C-2934*
+*Related: C-9633, C-9634, C-9638, C-9639, C-9635, C-9641, C-9643*
 
 **N-448** Leola Anderson
 
 First named by the host at 00:37:13 in episode 110.
 
-*Related: C-2925, C-2926*
+*Related: C-9678, C-9683*
 
 
 
@@ -334,7 +333,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2076.1, A-2077.1, A-2079.1, C-2913, C-2930, C-2931*
+*Related: A-2076.1, A-2077.1, A-2079.1, C-9623, C-9612, C-9613*
 
 ---
 
@@ -347,7 +346,7 @@ Claim Count: 7
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2077.1, C-2914, C-2915, C-2916, C-2917, C-2918, C-2919, C-2920*
+*Related: A-2077.1, C-9626, C-9627, C-9628, C-9629, C-9630, C-9633, C-9634*
 
 ---
 
@@ -360,7 +359,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2076.1, A-2076.2, A-2077.1, A-2078.1, C-2921, C-2922, C-2923, C-2932, C-2933, C-2934*
+*Related: A-2076.1, A-2076.2, A-2077.1, A-2078.1, C-9638, C-9639, C-9635, C-9641, C-9642, C-9643*
 
 ---
 
@@ -373,7 +372,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2076.2, A-2080.1, C-2923*
+*Related: A-2076.2, A-2080.1, C-9635*
 
 ---
 
@@ -425,7 +424,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2084.1, C-2929*
+*Related: A-2084.1, C-9663*
 
 ---
 
@@ -434,7 +433,7 @@ Investigative Pressure: High
 Node Type: Person
 Former US senator and presidential candidate. Host recalls his BCG advisory tie to Benjamin Netanyahu.
 
-*Related: C-2925, C-2927, C-2930, C-2931*
+*Related: C-9678, C-9693, C-9612, C-9613*
 
 ---
 
@@ -442,7 +441,7 @@ Former US senator and presidential candidate. Host recalls his BCG advisory tie 
 
 Subject of the assassination; the host reports his stance on Israel, the White House debate, the Maine vacation and deleted content.
 
-*Related: C-14631, C-14632, C-14634, C-14637, C-14658, C-14662, C-14663, C-14666, C-14673, C-14674, C-14676, C-14677, C-14680, C-14681, C-14683, C-14684, C-14685, C-14686, C-14692, C-14693, C-14697, C-14699, C-14700*
+*Related: C-9599, C-9600, C-9602, C-9605, C-9646, C-9650, C-9652, C-9655, C-9662, C-9664, C-9666, C-9667, C-9671, C-9672, C-9674, C-9675, C-9676, C-9677, C-9685, C-9686, C-9690, C-9692, C-9694*
 
 ---
 
@@ -450,7 +449,7 @@ Subject of the assassination; the host reports his stance on Israel, the White H
 
 Widow and TPUSA CEO; the host questions her Long Beach speech, the appointment story and her media tour.
 
-*Related: C-14671, C-14673, C-14691, C-14693, C-14699, C-14708, C-14709, C-14710*
+*Related: C-9660, C-9662, C-9684, C-9686, C-9692, C-9702, C-9703, C-9704*
 
 ---
 
@@ -458,7 +457,7 @@ Widow and TPUSA CEO; the host questions her Long Beach speech, the appointment s
 
 Host; speaks for herself throughout.
 
-*Related: C-14630, C-14631, C-14638, C-14639, C-14640, C-14641, C-14642, C-14645, C-14647, C-14648, C-14692, C-14695, C-14697, C-14698, C-14699, C-14703, C-14705, C-14708, C-14710, C-14711*
+*Related: C-9598, C-9599, C-9606, C-9607, C-9608, C-9609, C-9610, C-9615, C-9617, C-9618, C-9685, C-9688, C-9690, C-9691, C-9692, C-9697, C-9699, C-9702, C-9704, C-9705*
 
 ---
 
@@ -466,7 +465,7 @@ Host; speaks for herself throughout.
 
 Named in the host's account of Tucker Carlson's July 11 speech.
 
-*Related: C-14669*
+*Related: C-9658*
 
 ---
 
@@ -474,7 +473,7 @@ Named in the host's account of Tucker Carlson's July 11 speech.
 
 TPUSA spokesperson; the host links him to Johnnie Moore and to her own communications.
 
-*Related: C-14654, C-14710*
+*Related: C-9637, C-9704*
 
 ---
 
@@ -482,7 +481,7 @@ TPUSA spokesperson; the host links him to Johnnie Moore and to her own communica
 
 Pastor whose resignation from Calvary Church the host places on July 2.
 
-*Related: C-14667*
+*Related: C-9656*
 
 ---
 
@@ -490,7 +489,7 @@ Pastor whose resignation from Calvary Church the host places on July 2.
 
 Spoke at the TPUSA conference on July 11 per the host.
 
-*Related: C-14669, C-14670*
+*Related: C-9658, C-9659*
 
 ---
 
@@ -498,7 +497,7 @@ Spoke at the TPUSA conference on July 11 per the host.
 
 Prime minister of Israel; subject of the host's podcast-tour and Romney friendship claims.
 
-*Related: C-14632, C-14633, C-14634, C-14635, C-14636, C-14637, C-14643, C-14662, C-14686, C-14700*
+*Related: C-9600, C-9601, C-9602, C-9603, C-9604, C-9605, C-9611, C-9650, C-9677, C-9694*
 
 ---
 
@@ -506,7 +505,7 @@ Prime minister of Israel; subject of the host's podcast-tour and Romney friendsh
 
 Named in the host's account of Tucker Carlson's July 11 speech.
 
-*Related: C-14670*
+*Related: C-9659*
 
 ---
 
@@ -514,7 +513,7 @@ Named in the host's account of Tucker Carlson's July 11 speech.
 
 Hosted Kirk after the Hamptons weekend and, per the host, met Erika Kirk on November 22.
 
-*Related: C-14681, C-14691, C-14693*
+*Related: C-9672, C-9684, C-9686*
 
 ---
 
@@ -522,7 +521,7 @@ Hosted Kirk after the Hamptons weekend and, per the host, met Erika Kirk on Nove
 
 Per the host, on a Zoom call with Charlie Kirk and a rabbi on September 9.
 
-*Related: C-14684*
+*Related: C-9675*
 
 ---
 
@@ -530,7 +529,7 @@ Per the host, on a Zoom call with Charlie Kirk and a rabbi on September 9.
 
 Hosted Netanyahu, interview recorded and released August 26 per the host.
 
-*Related: C-14633*
+*Related: C-9601*
 
 ---
 
@@ -538,7 +537,7 @@ Hosted Netanyahu, interview recorded and released August 26 per the host.
 
 Hosted Netanyahu, interview released September 4 per the host.
 
-*Related: C-14633*
+*Related: C-9601*
 
 ---
 
@@ -546,7 +545,7 @@ Hosted Netanyahu, interview released September 4 per the host.
 
 Hosted Netanyahu, interview released July 21 per the host.
 
-*Related: C-14633*
+*Related: C-9601*
 
 ---
 
@@ -554,7 +553,7 @@ Hosted Netanyahu, interview released July 21 per the host.
 
 Joined the Kirks in Maine for the first time per the host.
 
-*Related: C-14677*
+*Related: C-9667*
 
 ---
 
@@ -562,7 +561,7 @@ Joined the Kirks in Maine for the first time per the host.
 
 Man the host says a witness thinks he saw leaving a Fort Huachuca meeting.
 
-*Related: C-14646*
+*Related: C-9616*
 
 ---
 
@@ -570,7 +569,7 @@ Man the host says a witness thinks he saw leaving a Fort Huachuca meeting.
 
 Named in a viewer comment about Erika Kirk's CBS interview.
 
-*Related: C-14709*
+*Related: C-9703*
 
 ---
 
@@ -578,7 +577,7 @@ Named in a viewer comment about Erika Kirk's CBS interview.
 
 Nebraska Secretary of State named in the host's Nebraska-Egypt trade trip claim.
 
-*Related: C-14678*
+*Related: C-9668*
 
 ---
 
@@ -586,7 +585,7 @@ Nebraska Secretary of State named in the host's Nebraska-Egypt trade trip claim.
 
 Egyptian-plane passenger the host calls Wed Mahmoud.
 
-*Related: C-14657, C-14658*
+*Related: C-9645, C-9646*
 
 ---
 
@@ -594,7 +593,7 @@ Egyptian-plane passenger the host calls Wed Mahmoud.
 
 Eyewitness at the center of the Fort Huachuca sighting.
 
-*Related: C-14646, C-14647*
+*Related: C-9616, C-9617*
 
 ---
 
@@ -602,7 +601,7 @@ Eyewitness at the center of the Fort Huachuca sighting.
 
 Evangelical leader named GHF chairman, per the host.
 
-*Related: C-14654, C-14655, C-14659*
+*Related: C-9637, C-9640, C-9647*
 
 ---
 
@@ -610,7 +609,7 @@ Evangelical leader named GHF chairman, per the host.
 
 Credited by the host for confirming the June 18 White House dates.
 
-*Related: C-14662*
+*Related: C-9650*
 
 ---
 
@@ -618,7 +617,7 @@ Credited by the host for confirming the June 18 White House dates.
 
 Calvary Chapel pastor and head of the TPUSA faith department per the host.
 
-*Related: C-14671, C-14672*
+*Related: C-9660, C-9661*
 
 ---
 
@@ -626,7 +625,7 @@ Calvary Chapel pastor and head of the TPUSA faith department per the host.
 
 Jezebel writer the host links to the Etsy curse.
 
-*Related: C-14665, C-14666*
+*Related: C-9654, C-9655*
 
 ---
 
@@ -634,7 +633,7 @@ Jezebel writer the host links to the Etsy curse.
 
 Existing node reused in this episode.
 
-*Related: C-14674*
+*Related: C-9664*
 
 ---
 
@@ -642,7 +641,7 @@ Existing node reused in this episode.
 
 Existing node reused in this episode.
 
-*Related: C-14637, C-14680*
+*Related: C-9605, C-9671*
 
 ---
 
@@ -650,7 +649,7 @@ Existing node reused in this episode.
 
 Existing node reused in this episode.
 
-*Related: C-14665, C-14666*
+*Related: C-9654, C-9655*
 
 ---
 
@@ -658,7 +657,7 @@ Existing node reused in this episode.
 
 Existing node reused in this episode.
 
-*Related: C-14665, C-14666*
+*Related: C-9654, C-9655*
 
 ---
 
@@ -666,7 +665,7 @@ Existing node reused in this episode.
 
 Existing node reused in this episode.
 
-*Related: C-14666*
+*Related: C-9655*
 
 ---
 
@@ -674,7 +673,7 @@ Existing node reused in this episode.
 
 Existing node reused in this episode.
 
-*Related: C-14667*
+*Related: C-9656*
 
 ---
 
@@ -682,7 +681,7 @@ Existing node reused in this episode.
 
 Existing node reused in this episode.
 
-*Related: C-14673*
+*Related: C-9662*
 
 ---
 
@@ -690,7 +689,7 @@ Existing node reused in this episode.
 
 Existing node reused in this episode.
 
-*Related: C-14675, C-14678*
+*Related: C-9665, C-9668*
 
 ---
 
@@ -698,7 +697,7 @@ Existing node reused in this episode.
 
 Existing node reused in this episode.
 
-*Related: C-14657, C-14658*
+*Related: C-9645, C-9646*
 
 ---
 
@@ -706,7 +705,7 @@ Existing node reused in this episode.
 
 Existing node reused in this episode.
 
-*Related: C-14709*
+*Related: C-9703*
 
 ---
 
@@ -714,7 +713,7 @@ Existing node reused in this episode.
 
 Existing node reused in this episode.
 
-*Related: C-14638, C-14639*
+*Related: C-9606, C-9607*
 
 ---
 
@@ -722,7 +721,7 @@ Existing node reused in this episode.
 
 Existing node reused in this episode.
 
-*Related: C-14646*
+*Related: C-9616*
 
 ---
 
@@ -730,7 +729,7 @@ Existing node reused in this episode.
 
 Existing node reused in this episode.
 
-*Related: C-14648*
+*Related: C-9618*
 
 ---
 
@@ -738,7 +737,7 @@ Existing node reused in this episode.
 
 Existing node reused in this episode.
 
-*Related: C-14646*
+*Related: C-9616*
 
 ---
 
@@ -746,7 +745,7 @@ Existing node reused in this episode.
 
 Existing node reused in this episode.
 
-*Related: C-14647*
+*Related: C-9617*
 
 ---
 
@@ -754,7 +753,7 @@ Existing node reused in this episode.
 
 Existing node reused in this episode.
 
-*Related: C-14632, C-14637*
+*Related: C-9600, C-9605*
 
 ---
 
@@ -762,7 +761,7 @@ Existing node reused in this episode.
 
 Existing node reused in this episode.
 
-*Related: C-14671*
+*Related: C-9660*
 
 ---
 
@@ -770,7 +769,7 @@ Existing node reused in this episode.
 
 Existing node reused in this episode.
 
-*Related: C-14644*
+*Related: C-9614*
 
 ---
 
@@ -778,7 +777,7 @@ Existing node reused in this episode.
 
 Existing node reused in this episode.
 
-*Related: C-14682*
+*Related: C-9673*
 
 ---
 
@@ -786,7 +785,7 @@ Existing node reused in this episode.
 
 Existing node reused in this episode.
 
-*Related: C-14682, C-14704, C-14705*
+*Related: C-9673, C-9698, C-9699*
 
 ---
 
@@ -794,7 +793,7 @@ Existing node reused in this episode.
 
 Existing node reused in this episode.
 
-*Related: C-14693, C-14699*
+*Related: C-9686, C-9692*
 
 ---
 
@@ -802,7 +801,7 @@ Existing node reused in this episode.
 
 Existing node reused in this episode.
 
-*Related: C-14682*
+*Related: C-9673*
 
 ---
 
@@ -810,7 +809,7 @@ Existing node reused in this episode.
 
 Existing node reused in this episode.
 
-*Related: C-14679*
+*Related: C-9669*
 
 ---
 
@@ -818,7 +817,7 @@ Existing node reused in this episode.
 
 Existing node reused in this episode.
 
-*Related: C-14682*
+*Related: C-9673*
 
 ---
 
@@ -826,7 +825,7 @@ Existing node reused in this episode.
 
 Existing node reused in this episode.
 
-*Related: C-14682, C-14705*
+*Related: C-9673, C-9699*
 
 ---
 
@@ -834,7 +833,7 @@ Existing node reused in this episode.
 
 Existing node reused in this episode.
 
-*Related: C-14664*
+*Related: C-9653*
 
 ---
 
@@ -842,7 +841,7 @@ Existing node reused in this episode.
 
 Existing node reused in this episode.
 
-*Related: C-14660*
+*Related: C-9648*
 
 ---
 
@@ -850,7 +849,7 @@ Existing node reused in this episode.
 
 Existing node reused in this episode.
 
-*Related: C-14660*
+*Related: C-9648*
 
 ---
 
@@ -859,7 +858,7 @@ Existing node reused in this episode.
 Node Type: Topic
 The host's allegation that Turning Point removed episodes, tweets and Q&As from the Charlie Kirk Show beginning November 3, 2025, and that TPUSA denied it.
 
-*Related: C-14692, C-14693, C-14694, C-14695, C-14696, C-14697*
+*Related: C-9685, C-9686, C-9687, C-9688, C-9689, C-9690*
 
 ---
 
@@ -868,13 +867,13 @@ The host's allegation that Turning Point removed episodes, tweets and Q&As from 
 Node Type: Topic
 The host's account of Netanyahu's summer 2025 run of American podcast interviews in the run-up to the assassination, after Kirk refused to host him.
 
-*Related: C-14633, C-14634, C-14635, C-14636*
+*Related: C-9601, C-9602, C-9603, C-9604*
 
 ---
 
 ## V. Claim Register
 
-**C-2909** Bradley Hansell Serves as Under Secretary of War for Intelligence and Security
+**C-9620** Bradley Hansell Serves as Under Secretary of War for Intelligence and Security
 
 Claim Timestamp: 00:13:30
 
@@ -889,7 +888,7 @@ Investigative Direction: Verify the Department of War website listing for Bradle
 
 ---
 
-**C-2910** Bradley Hansell Was Sworn In on July 25, 2025
+**C-9621** Bradley Hansell Was Sworn In on July 25, 2025
 
 Claim Timestamp: 00:13:30
 
@@ -904,7 +903,7 @@ Investigative Direction: Verify Senate roll-call vote and swearing-in date via o
 
 ---
 
-**C-2911** Bradley Hansell Served in Navy and Army Special Forces Airborne Division
+**C-9622** Bradley Hansell Served in Navy and Army Special Forces Airborne Division
 
 Claim Timestamp: 00:14:05
 
@@ -919,7 +918,7 @@ Investigative Direction: Verify service record via official DoD / Army Special F
 
 ---
 
-**C-2912** Bradley Hansell Served as Special Assistant to President Trump for National Security Affairs
+**C-9624** Bradley Hansell Served as Special Assistant to President Trump for National Security Affairs
 
 Claim Timestamp: 00:14:20
 
@@ -934,7 +933,7 @@ Investigative Direction: Verify NSC roster for Trump's first term.
 
 ---
 
-**C-2913** Bradley Hansell Worked at the Boston Consulting Group
+**C-9623** Bradley Hansell Worked at the Boston Consulting Group
 
 Claim Timestamp: 00:14:10
 
@@ -949,7 +948,7 @@ Investigative Direction: Verify BCG alumni records and LinkedIn-style biographie
 
 ---
 
-**C-2914** Project Aurora launched in late 2024 as a pro bono feasibility study for the Gaza Humanitarian Foundation
+**C-9626** Project Aurora launched in late 2024 as a pro bono feasibility study for the Gaza Humanitarian Foundation
 
 Claim Timestamp: 00:16:03
 
@@ -963,7 +962,7 @@ Investigative Direction: Retrieve original Financial Times article and Project A
 
 ---
 
-**C-2915** Project Aurora evolved into a $4M consulting contract
+**C-9627** Project Aurora evolved into a $4M consulting contract
 
 Claim Timestamp: 00:16:20
 
@@ -978,7 +977,7 @@ Investigative Direction: Confirm $4M figure against leaked internal documents re
 
 ---
 
-**C-2916** Project Aurora proposed a $9,000-per-person voluntary departure for ~500,000 Palestinians
+**C-9628** Project Aurora proposed a $9,000-per-person voluntary departure for ~500,000 Palestinians
 
 Claim Timestamp: 00:16:50
 
@@ -992,7 +991,7 @@ Investigative Direction: Verify model parameters against FT-published leaked doc
 
 ---
 
-**C-2917** Project Aurora alternative model proposed $5,000 plus four years subsidized housing and one year food assistance
+**C-9629** Project Aurora alternative model proposed $5,000 plus four years subsidized housing and one year food assistance
 
 Claim Timestamp: 00:17:00
 
@@ -1006,7 +1005,7 @@ Investigative Direction: Verify model parameters against FT-published leaked doc
 
 ---
 
-**C-2918** Project Aurora total cost estimates ranged from $2.5 billion to $5 billion
+**C-9630** Project Aurora total cost estimates ranged from $2.5 billion to $5 billion
 
 Claim Timestamp: 00:17:10
 
@@ -1020,7 +1019,7 @@ Investigative Direction: Verify cost ranges against FT-published leaked document
 
 ---
 
-**C-2919** BCG dismissed two senior partners in July 2025 after the Financial Times story
+**C-9633** BCG dismissed two senior partners in July 2025 after the Financial Times story
 
 Claim Timestamp: 00:18:30
 
@@ -1035,7 +1034,7 @@ Investigative Direction: Confirm dismissals and audit via BCG press releases or 
 
 ---
 
-**C-2920** Christoph Schweizer (BCG CEO) described Project Aurora as "reputationally very damaging"
+**C-9634** Christoph Schweizer (BCG CEO) described Project Aurora as "reputationally very damaging"
 
 Claim Timestamp: 00:18:30
 
@@ -1050,7 +1049,7 @@ Investigative Direction: Locate Schweizer's original statement in Financial Time
 
 ---
 
-**C-2921** Johnnie Moore was appointed executive chairman of the Gaza Humanitarian Foundation
+**C-9638** Johnnie Moore was appointed executive chairman of the Gaza Humanitarian Foundation
 
 Claim Timestamp: 00:20:30
 
@@ -1065,7 +1064,7 @@ Investigative Direction: Verify appointment date and tenure length (host states 
 
 ---
 
-**C-2922** Jake Wood resigned as CEO of the Gaza Humanitarian Foundation prior to BCG's withdrawal
+**C-9639** Jake Wood resigned as CEO of the Gaza Humanitarian Foundation prior to BCG's withdrawal
 
 Claim Timestamp: 00:20:40
 
@@ -1080,7 +1079,7 @@ Investigative Direction: Verify Jake Wood's resignation date and public statemen
 
 ---
 
-**C-2923** BCG developed logistics, organizational structure, and security contractor pricing for the Gaza Humanitarian Foundation
+**C-9635** BCG developed logistics, organizational structure, and security contractor pricing for the Gaza Humanitarian Foundation
 
 Claim Timestamp: 00:19:05
 
@@ -1095,7 +1094,7 @@ Investigative Direction: Verify BCG-GHF operational scope via FT reporting or le
 
 ---
 
-**C-2924** Palantir announced a $10 billion military software deal including stationing at Fort Huachuca
+**C-9670** Palantir announced a $10 billion military software deal including stationing at Fort Huachuca
 
 Claim Timestamp: 00:34:20
 
@@ -1109,7 +1108,7 @@ Investigative Direction: Identify primary outlet (host references "elsewhere"); 
 
 ---
 
-**C-2925** Mitt Romney was the driver in a June 16, 1968 France car crash that killed Leola Anderson
+**C-9678** Mitt Romney was the driver in a June 16, 1968 France car crash that killed Leola Anderson
 
 Claim Timestamp: 00:37:50
 
@@ -1124,7 +1123,7 @@ Investigative Direction: Cross-check NYT article with contemporaneous French pre
 
 ---
 
-**C-2926** Albert Marie, a 46-year-old Catholic priest, was the driver of the other vehicle in the 1968 crash
+**C-9683** Albert Marie, a 46-year-old Catholic priest, was the driver of the other vehicle in the 1968 crash
 
 Claim Timestamp: 00:39:00
 
@@ -1139,7 +1138,7 @@ Investigative Direction: Cross-check name and role against French archival recor
 
 ---
 
-**C-2927** Mitt Romney Operated a "Pierre Delecto" Burner X/Twitter Account
+**C-9693** Mitt Romney Operated a "Pierre Delecto" Burner X/Twitter Account
 
 Claim Timestamp: 00:46:50
 
@@ -1154,7 +1153,7 @@ Investigative Direction: Locate the @PierreDeleto account or its archived screen
 
 ---
 
-**C-2928** Erika Kirk deleted 126 Instagram posts on June 19, 2025
+**C-9651** Erika Kirk deleted 126 Instagram posts on June 19, 2025
 
 Claim Timestamp: 00:28:30
 
@@ -1169,7 +1168,7 @@ Investigative Direction: Obtain archived screenshots of Erika Kirk's Instagram a
 
 ---
 
-**C-2929** Turning Point USA submitted a request for Charlie Kirk to speak at UVU on July 18, 2025
+**C-9663** Turning Point USA submitted a request for Charlie Kirk to speak at UVU on July 18, 2025
 
 Claim Timestamp: 00:31:50
 
@@ -1184,7 +1183,7 @@ Investigative Direction: Obtain the actual UVU event submission paperwork; ident
 
 ---
 
-**C-2930** Mitt Romney and Benjamin Netanyahu both worked at the Boston Consulting Group
+**C-9612** Mitt Romney and Benjamin Netanyahu both worked at the Boston Consulting Group
 
 Claim Timestamp: 00:10:30
 
@@ -1199,7 +1198,7 @@ Investigative Direction: Verify BCG employment for both Romney and Netanyahu via
 
 ---
 
-**C-2931** Bain Capital was founded by Mitt Romney with Robert Maxwell as a seed investor
+**C-9613** Bain Capital was founded by Mitt Romney with Robert Maxwell as a seed investor
 
 Claim Timestamp: 00:10:30
 
@@ -1214,7 +1213,7 @@ Investigative Direction: Verify Bain Capital founding investors list; cross-chec
 
 ---
 
-**C-2932** Orbis (Washington-area security contractor) initially engaged BCG on Project Aurora
+**C-9641** Orbis (Washington-area security contractor) initially engaged BCG on Project Aurora
 
 Claim Timestamp: 00:22:00
 
@@ -1229,7 +1228,7 @@ Investigative Direction: Verify Orbis involvement via FT reporting or leaked BCG
 
 ---
 
-**C-2933** Orbis Prepared the Project Aurora Study on Behalf of the Tachlith Institute (Israeli Think Tank)
+**C-9642** Orbis Prepared the Project Aurora Study on Behalf of the Tachlith Institute (Israeli Think Tank)
 
 Claim Timestamp: 00:22:00
 
@@ -1243,7 +1242,7 @@ Investigative Direction: Verify the existence and nature of the Tacit/Tachlith I
 
 ---
 
-**C-2934** BCG was selected for Project Aurora due to its long-standing relationship with Phil Reilly, ex-CIA operative at Orbis
+**C-9643** BCG was selected for Project Aurora due to its long-standing relationship with Phil Reilly, ex-CIA operative at Orbis
 
 Claim Timestamp: 00:22:00
 
@@ -1258,7 +1257,7 @@ Investigative Direction: Verify Phil Reilly's CIA and Orbis employment; cross-ch
 
 ---
 
-**C-14630** Host Says Channel Reached Six Million Subscribers With No Ad Spend or Outside Funding
+**C-9598** Host Says Channel Reached Six Million Subscribers With No Ad Spend or Outside Funding
 
 Claim Timestamp: 00:00:01
 
@@ -1273,7 +1272,7 @@ Investigative Direction: Check the channel's public subscriber count and any dis
 
 ---
 
-**C-14631** Host Says She Has Identified the Official Aboard the Plane That Left Fort Huachuca September 9
+**C-9599** Host Says She Has Identified the Official Aboard the Plane That Left Fort Huachuca September 9
 
 Claim Timestamp: 00:01:40
 
@@ -1289,7 +1288,7 @@ Investigative Direction: Obtain the SAM702 flight manifest and passenger list fo
 
 ---
 
-**C-14632** Host Says Netanyahu Asked to Appear on Charlie Kirk's Show in July 2025 and Charlie Refused
+**C-9600** Host Says Netanyahu Asked to Appear on Charlie Kirk's Show in July 2025 and Charlie Refused
 
 Claim Timestamp: 00:02:30
 
@@ -1300,13 +1299,13 @@ Transcript Snippet: He wanted to come on Charlie Kirk's show and Charlie refused
 Anchored Artifacts: 
 Mentions: N-36, N-1
 Related Nodes: N-10456
-Supports: C-3722
+Supports: C-271
 Tags: relevance:core
 Investigative Direction: Ask Charlie Kirk Show staff or TPUSA for the booking request; look for contemporaneous reporting of Netanyahu's team approaching the Kirk show.
 
 ---
 
-**C-14633** Host Lists Netanyahu's Summer 2025 American Podcast Appearances With Release Dates
+**C-9601** Host Lists Netanyahu's Summer 2025 American Podcast Appearances With Release Dates
 
 Claim Timestamp: 00:03:10
 
@@ -1317,13 +1316,13 @@ Transcript Snippet: He did the Nelk Boys that was released on July 21st. He did 
 Anchored Artifacts: A-3337.1
 Mentions: N-36, N-59, N-57, N-58
 Related Nodes: N-11401
-Supports: C-3722
+Supports: C-271
 Tags: relevance:context
 Investigative Direction: Check publication dates of each episode on YouTube and podcast platforms against the dates the host gives.
 
 ---
 
-**C-14634** Host Says Netanyahu Is on an American Public Relations Tour in the Run-Up to the Assassination
+**C-9602** Host Says Netanyahu Is on an American Public Relations Tour in the Run-Up to the Assassination
 
 Claim Timestamp: 00:04:11
 
@@ -1339,7 +1338,7 @@ Investigative Direction: Compile all Netanyahu US media appearances in 2025 and 
 
 ---
 
-**C-14635** Host Says Netanyahu Had Not Done an American Podcast Since Lex Fridman in 2023
+**C-9603** Host Says Netanyahu Had Not Done an American Podcast Since Lex Fridman in 2023
 
 Claim Timestamp: 00:05:06
 
@@ -1355,7 +1354,7 @@ Investigative Direction: Check the date and location of the Lex Fridman intervie
 
 ---
 
-**C-14636** Host Says Netanyahu's Last American Media Tour Was 2022 to Promote His Book
+**C-9604** Host Says Netanyahu's Last American Media Tour Was 2022 to Promote His Book
 
 Claim Timestamp: 00:05:50
 
@@ -1371,7 +1370,7 @@ Investigative Direction: Check Netanyahu's 2022 book-tour appearances (his memoi
 
 ---
 
-**C-14637** Host Says Charlie Declined Netanyahu Because of a Change of Heart on Israel and the Hamptons Intervention
+**C-9605** Host Says Charlie Declined Netanyahu Because of a Change of Heart on Israel and the Hamptons Intervention
 
 Claim Timestamp: 00:06:30
 
@@ -1387,7 +1386,7 @@ Investigative Direction: Obtain statements from Kirk's circle, Hamptons attendee
 
 ---
 
-**C-14638** Host Says Egyptian Planes Turn Off Transponders on Roughly Ninety-Minute Trips Around Cairo
+**C-9606** Host Says Egyptian Planes Turn Off Transponders on Roughly Ninety-Minute Trips Around Cairo
 
 Claim Timestamp: 00:07:15
 
@@ -1403,7 +1402,7 @@ Investigative Direction: Pull ADS-B archive data for the Egyptian-registered Fal
 
 ---
 
-**C-14639** Host Says Distance and Time of Those Egyptian Flights Point to Israel or Jordan
+**C-9607** Host Says Distance and Time of Those Egyptian Flights Point to Israel or Jordan
 
 Claim Timestamp: 00:07:35
 
@@ -1419,7 +1418,7 @@ Investigative Direction: Reproduce the range calculation using the recorded depa
 
 ---
 
-**C-14640** Host Says Egyptian Plane SUBTU Left Cairo at 8:50 a.m. on October 7, 2023
+**C-9608** Host Says Egyptian Plane SUBTU Left Cairo at 8:50 a.m. on October 7, 2023
 
 Claim Timestamp: 00:08:10
 
@@ -1435,7 +1434,7 @@ Investigative Direction: Check flight-tracking history for the SU-BT* aircraft o
 
 ---
 
-**C-14641** Host Says That Plane Flew Cairo to Paris to St. Louis and Stayed Five Days
+**C-9609** Host Says That Plane Flew Cairo to Paris to St. Louis and Stayed Five Days
 
 Claim Timestamp: 00:08:25
 
@@ -1451,7 +1450,7 @@ Investigative Direction: Check flight history and airport records for the aircra
 
 ---
 
-**C-14642** Host Says the Same Egyptian Plane Flew Cairo to Paris for Six Days During Operation True Promise
+**C-9610** Host Says the Same Egyptian Plane Flew Cairo to Paris for Six Days During Operation True Promise
 
 Claim Timestamp: 00:09:05
 
@@ -1467,7 +1466,7 @@ Investigative Direction: Check flight history for the aircraft around April 14, 
 
 ---
 
-**C-14643** Host Says Mitt Romney and Netanyahu Have Been Best Friends for Over Fifty Years
+**C-9611** Host Says Mitt Romney and Netanyahu Have Been Best Friends for Over Fifty Years
 
 Claim Timestamp: 00:10:10
 
@@ -1482,7 +1481,7 @@ Investigative Direction: Check press coverage of the Romney-Netanyahu friendship
 
 ---
 
-**C-14644** Host Says Romney's Campaign Team Went to BYU Jerusalem, Where CIA Agents Are Recruited
+**C-9614** Host Says Romney's Campaign Team Went to BYU Jerusalem, Where CIA Agents Are Recruited
 
 Claim Timestamp: 00:10:45
 
@@ -1498,7 +1497,7 @@ Investigative Direction: Locate reporting on the Romney campaign's BYU Jerusalem
 
 ---
 
-**C-14645** Host Says Air Force Planes Get the SAM Designation When Carrying a VIP
+**C-9615** Host Says Air Force Planes Get the SAM Designation When Carrying a VIP
 
 Claim Timestamp: 00:11:20
 
@@ -1514,7 +1513,7 @@ Investigative Direction: Check Air Mobility Command and FAA documentation for SA
 
 ---
 
-**C-14646** Host Says a Man Thinks He Saw Brian Harpole Leave a Meeting and Harpole Will Not Answer Yes or No
+**C-9616** Host Says a Man Thinks He Saw Brian Harpole Leave a Meeting and Harpole Will Not Answer Yes or No
 
 Claim Timestamp: 00:11:50
 
@@ -1530,7 +1529,7 @@ Investigative Direction: Obtain Harpole's direct answer or contracting records f
 
 ---
 
-**C-14647** Host Says an Influencer Campaign With Special Forces Figures Made Screaming Threats
+**C-9617** Host Says an Influencer Campaign With Special Forces Figures Made Screaming Threats
 
 Claim Timestamp: 00:12:30
 
@@ -1546,7 +1545,7 @@ Investigative Direction: Identify the accounts and dates of the posts the host r
 
 ---
 
-**C-14648** Host Says Her Team Searched for Flights From Fort Huachuca to El Paso in the Window of the Alleged Meeting
+**C-9618** Host Says Her Team Searched for Flights From Fort Huachuca to El Paso in the Window of the Alleged Meeting
 
 Claim Timestamp: 00:12:50
 
@@ -1562,7 +1561,7 @@ Investigative Direction: Review flight-tracking and FOIA records of departures f
 
 ---
 
-**C-14649** Host Says Bradley Hansell Was Aboard the Plane With Four Other People
+**C-9619** Host Says Bradley Hansell Was Aboard the Plane With Four Other People
 
 Claim Timestamp: 00:13:10
 
@@ -1578,7 +1577,7 @@ Investigative Direction: Obtain the SAM702 manifest and Hansell's travel calenda
 
 ---
 
-**C-14650** Host Says Boston Consulting Group Had a Massive Scandal the Month Hansell Was Sworn In
+**C-9625** Host Says Boston Consulting Group Had a Massive Scandal the Month Hansell Was Sworn In
 
 Claim Timestamp: 00:15:35
 
@@ -1594,7 +1593,7 @@ Investigative Direction: Compare Hansell's swearing-in date (July 25, 2025) with
 
 ---
 
-**C-14651** Host Says BCG Leadership Claimed It Halted Project Aurora but Two Partners Continued Billing
+**C-9631** Host Says BCG Leadership Claimed It Halted Project Aurora but Two Partners Continued Billing
 
 Claim Timestamp: 00:18:10
 
@@ -1609,7 +1608,7 @@ Investigative Direction: Check the Financial Times and BCG statements of July 20
 
 ---
 
-**C-14652** Host Says Project Aurora Continued Through May 2025 When the Financial Times Story Broke
+**C-9632** Host Says Project Aurora Continued Through May 2025 When the Financial Times Story Broke
 
 Claim Timestamp: 00:18:28
 
@@ -1624,7 +1623,7 @@ Investigative Direction: Find the first Financial Times publication date on Proj
 
 ---
 
-**C-14653** Host Says the Gaza Humanitarian Foundation Sites Were Killing Fields
+**C-9636** Host Says the Gaza Humanitarian Foundation Sites Were Killing Fields
 
 Claim Timestamp: 00:19:50
 
@@ -1639,7 +1638,7 @@ Investigative Direction: Review UN, medical and press records on shootings at GH
 
 ---
 
-**C-14654** Host Says Johnnie Moore Is Andrew Kolvet's Partner in the Kairos Company
+**C-9637** Host Says Johnnie Moore Is Andrew Kolvet's Partner in the Kairos Company
 
 Claim Timestamp: 00:20:10
 
@@ -1655,7 +1654,7 @@ Investigative Direction: Check corporate records and bios for the Kairos Company
 
 ---
 
-**C-14655** Host Says Johnnie Moore Abandoned the Gaza Humanitarian Foundation in November
+**C-9640** Host Says Johnnie Moore Abandoned the Gaza Humanitarian Foundation in November
 
 Claim Timestamp: 00:21:00
 
@@ -1671,7 +1670,7 @@ Investigative Direction: Check news reports on Moore's departure from the GHF an
 
 ---
 
-**C-14656** Host Says Her Timeline Shows BCG Abandoning the Gaza Humanitarian Foundation in June
+**C-9644** Host Says Her Timeline Shows BCG Abandoning the Gaza Humanitarian Foundation in June
 
 Claim Timestamp: 00:25:55
 
@@ -1686,7 +1685,7 @@ Investigative Direction: Check news coverage of BCG's exit from the GHF (the Tim
 
 ---
 
-**C-14657** Host Says Wed Mahmoud Was Aboard the Egyptian Plane in Provo on June 2, 2025
+**C-9645** Host Says Wed Mahmoud Was Aboard the Egyptian Plane in Provo on June 2, 2025
 
 Claim Timestamp: 00:26:15
 
@@ -1702,7 +1701,7 @@ Investigative Direction: Check flight tracking and any manifest for SU-BTU on Ma
 
 ---
 
-**C-14658** Host Says Wed Mahmoud Will Return and Be Aboard the Plane Leaving Wilmington on Assassination Day
+**C-9646** Host Says Wed Mahmoud Will Return and Be Aboard the Plane Leaving Wilmington on Assassination Day
 
 Claim Timestamp: 00:26:44
 
@@ -1718,7 +1717,7 @@ Investigative Direction: Obtain passenger and handling records for the Egyptian 
 
 ---
 
-**C-14659** Host Says Johnnie Moore Was Announced as GHF Chairman on June 3
+**C-9647** Host Says Johnnie Moore Was Announced as GHF Chairman on June 3
 
 Claim Timestamp: 00:26:50
 
@@ -1734,7 +1733,7 @@ Investigative Direction: Check the announcement date in the Times of Israel and 
 
 ---
 
-**C-14660** Host Says a Tucson to Fort Huachuca Flight on September 8 Was Linked to a Flight School With a New CEO
+**C-9648** Host Says a Tucson to Fort Huachuca Flight on September 8 Was Linked to a Flight School With a New CEO
 
 Claim Timestamp: 00:27:32
 
@@ -1749,7 +1748,7 @@ Investigative Direction: Identify the flight school, its operator on the Tucson-
 
 ---
 
-**C-14661** Host Says Iran and Israel's Twelve-Day War Began June 13, 2025
+**C-9649** Host Says Iran and Israel's Twelve-Day War Began June 13, 2025
 
 Claim Timestamp: 00:27:50
 
@@ -1763,7 +1762,7 @@ Investigative Direction: Check the public record for the start of the June 2025 
 
 ---
 
-**C-14662** Host Says Charlie Went to the White House on June 18 to Argue Against US Involvement in Israel's War With Iran
+**C-9650** Host Says Charlie Went to the White House on June 18 to Argue Against US Involvement in Israel's War With Iran
 
 Claim Timestamp: 00:28:10
 
@@ -1779,7 +1778,7 @@ Investigative Direction: Obtain White House visitor logs or participants' accoun
 
 ---
 
-**C-14663** Host Says Charlie Emerged the Temporary Winner and Trump Moved to Limit Involvement
+**C-9652** Host Says Charlie Emerged the Temporary Winner and Trump Moved to Limit Involvement
 
 Claim Timestamp: 00:28:30
 
@@ -1795,7 +1794,7 @@ Investigative Direction: Compare Trump's statements and actions between June 18 
 
 ---
 
-**C-14664** Host Says Operation Midnight Hammer Struck Iran's Nuclear Sites on June 22
+**C-9653** Host Says Operation Midnight Hammer Struck Iran's Nuclear Sites on June 22
 
 Claim Timestamp: 00:28:50
 
@@ -1810,7 +1809,7 @@ Investigative Direction: Public record: US strikes on Iranian nuclear sites, Jun
 
 ---
 
-**C-14665** Host Says Claire Guinan Wrote Her First Ever Article for Jezebel in June After Charlie's Debate
+**C-9654** Host Says Claire Guinan Wrote Her First Ever Article for Jezebel in June After Charlie's Debate
 
 Claim Timestamp: 00:29:30
 
@@ -1821,13 +1820,13 @@ Transcript Snippet: This writer, Claire Guinan, who had never published before, 
 Anchored Artifacts: A-2076.2
 Mentions: N-754
 Related Nodes: N-10122, N-10117
-Supports: C-1274
+Supports: C-810
 Tags: relevance:context
 Investigative Direction: Check Ginan's byline history at Jezebel and elsewhere; ask Jezebel for her hire date.
 
 ---
 
-**C-14666** Host Says Guinan Bought an Etsy Curse on Charlie Kirk, Less Than Ten Days After the White House Debate
+**C-9655** Host Says Guinan Bought an Etsy Curse on Charlie Kirk, Less Than Ten Days After the White House Debate
 
 Claim Timestamp: 00:29:50
 
@@ -1838,13 +1837,13 @@ Transcript Snippet: buy a spell about harming Charlie Kirk, putting a curse onto
 Anchored Artifacts: A-2076.2
 Mentions: N-754, N-1
 Related Nodes: N-10117, N-10123, N-10122
-Supports: C-1274
+Supports: C-810
 Tags: relevance:core
 Investigative Direction: Obtain Jezebel's published piece and Etsy order dates for the curse purchase to compare with June 18-19.
 
 ---
 
-**C-14667** Host Says Rob McCoy Formally Resigned as Lead Pastor of Calvary Church on July 2
+**C-9656** Host Says Rob McCoy Formally Resigned as Lead Pastor of Calvary Church on July 2
 
 Claim Timestamp: 00:30:15
 
@@ -1860,7 +1859,7 @@ Investigative Direction: Check Calvary Chapel Thousand Oaks announcements and ch
 
 ---
 
-**C-14668** Host Says the Financial Times Published the Boston Consulting Group Project Aurora Story on July 4
+**C-9657** Host Says the Financial Times Published the Boston Consulting Group Project Aurora Story on July 4
 
 Claim Timestamp: 00:30:25
 
@@ -1870,13 +1869,13 @@ Transcript Snippet: Uh July 4th, the Financial Times article comes out about the
 
 Anchored Artifacts: A-2076.2, A-2077.1
 Related Nodes: N-10669
-Contradicts: C-14652
+Contradicts: C-9632
 Tags: relevance:context
 Investigative Direction: Check the first Financial Times publication date for the Project Aurora story; the host states May earlier in the episode.
 
 ---
 
-**C-14669** Host Says Tucker Carlson Spoke at the TPUSA Conference on July 11 and Called Out Epstein on Stage
+**C-9658** Host Says Tucker Carlson Spoke at the TPUSA Conference on July 11 and Called Out Epstein on Stage
 
 Claim Timestamp: 00:30:40
 
@@ -1886,13 +1885,13 @@ Transcript Snippet: On July 11th is Tucker Gates. Tucker Carlson speaks at the T
 
 Anchored Artifacts: A-2076.2
 Mentions: N-22, N-9
-Supports: C-1559
+Supports: C-2121
 Tags: relevance:core
 Investigative Direction: Watch the full speech video and check donor reaction reporting.
 
 ---
 
-**C-14670** Host Says Tucker Said Foreign-Army Service Should Cost Citizenship and Mused About Bill Ackman's Wealth
+**C-9659** Host Says Tucker Said Foreign-Army Service Should Cost Citizenship and Mused About Bill Ackman's Wealth
 
 Claim Timestamp: 00:30:50
 
@@ -1902,13 +1901,13 @@ Transcript Snippet: If you are serving in a foreign army, you should be stripped
 
 Anchored Artifacts: A-2076.2
 Mentions: N-22, N-37
-Supports: C-6566
+Supports: C-2279
 Tags: relevance:context
 Investigative Direction: Check the speech transcript for the foreign-army and Ackman remarks.
 
 ---
 
-**C-14671** Host Says Erika Spoke at James Kaddis' Calvary Chapel in Long Beach on July 14
+**C-9660** Host Says Erika Spoke at James Kaddis' Calvary Chapel in Long Beach on July 14
 
 Claim Timestamp: 00:30:55
 
@@ -1924,7 +1923,7 @@ Investigative Direction: Find the retreat program or video and flight records fo
 
 ---
 
-**C-14672** Host Says James Kaddis Heads the Turning Point USA Faith Department
+**C-9661** Host Says James Kaddis Heads the Turning Point USA Faith Department
 
 Claim Timestamp: 00:31:00
 
@@ -1939,7 +1938,7 @@ Investigative Direction: Check TPUSA staff pages for the faith department head a
 
 ---
 
-**C-14673** Host Says Erika's Long Beach Speech Called Her That Church Her Sunday Church and Was Strongly Pro-Israel
+**C-9662** Host Says Erika's Long Beach Speech Called Her That Church Her Sunday Church and Was Strongly Pro-Israel
 
 Claim Timestamp: 00:31:10
 
@@ -1955,7 +1954,7 @@ Investigative Direction: Obtain the recording or transcript of Erika's July 14 r
 
 ---
 
-**C-14674** Host Says a Campus Tour Stop Is Normally Booked at Least a Semester Ahead
+**C-9664** Host Says a Campus Tour Stop Is Normally Booked at Least a Semester Ahead
 
 Claim Timestamp: 00:32:05
 
@@ -1971,7 +1970,7 @@ Investigative Direction: Compare the UVU event request timeline with TPUSA's oth
 
 ---
 
-**C-14675** Host Says the Yellow Egyptian Plane Flew Cairo to Paris to Omaha and Lincoln in July
+**C-9665** Host Says the Yellow Egyptian Plane Flew Cairo to Paris to Omaha and Lincoln in July
 
 Claim Timestamp: 00:32:20
 
@@ -1981,13 +1980,13 @@ Transcript Snippet: We have our yellow plane then comes in from Cairo to through
 
 Anchored Artifacts: A-2076.2
 Related Nodes: N-10276, N-10672
-Supports: C-9776
+Supports: C-3268
 Tags: relevance:core
 Investigative Direction: Check SU-BTT flight history for the July 2025 Omaha and Lincoln legs.
 
 ---
 
-**C-14676** Host Says Charlie Vacationed in Maine for a Couple of Weeks From July 20 and Went Off Radar
+**C-9666** Host Says Charlie Vacationed in Maine for a Couple of Weeks From July 20 and Went Off Radar
 
 Claim Timestamp: 00:32:30
 
@@ -1997,13 +1996,13 @@ Transcript Snippet: On July 20th, Charlie then vacations in Maine for a couple o
 
 Anchored Artifacts: A-2076.2
 Mentions: N-1
-Supports: C-10980
+Supports: C-3447
 Tags: relevance:context
 Investigative Direction: Check Kirk's public posts and travel for July 20 to early August 2025.
 
 ---
 
-**C-14677** Host Says Mikey McCoy and His Wife Joined the Kirks in Maine for the First Time
+**C-9667** Host Says Mikey McCoy and His Wife Joined the Kirks in Maine for the First Time
 
 Claim Timestamp: 00:32:45
 
@@ -2013,13 +2012,13 @@ Transcript Snippet: Mikey McCoy and his wife Eliza uh Elizabeth join them for th
 
 Anchored Artifacts: A-2076.2
 Mentions: N-190, N-1
-Supports: C-10980
+Supports: C-3447
 Tags: relevance:context
 Investigative Direction: Check McCoy's and the Kirks' posts from the Maine trip.
 
 ---
 
-**C-14678** Host Says Nebraska Announced a Trade Trip With Egypt and a Private Off-Record Meeting on July 22
+**C-9668** Host Says Nebraska Announced a Trade Trip With Egypt and a Private Off-Record Meeting on July 22
 
 Claim Timestamp: 00:33:00
 
@@ -2035,7 +2034,7 @@ Investigative Direction: Obtain the Nebraska Secretary of State's calendar and t
 
 ---
 
-**C-14679** Host Says Refi Became the Number One Sponsor of Charlie's Fall Tour on July 25 Despite an Existing Yearlong Contract
+**C-9669** Host Says Refi Became the Number One Sponsor of Charlie's Fall Tour on July 25 Despite an Existing Yearlong Contract
 
 Claim Timestamp: 00:33:28
 
@@ -2050,7 +2049,7 @@ Investigative Direction: Obtain the sponsorship contract and addendum and compar
 
 ---
 
-**C-14680** Host Says the Hamptons Retreat and Intervention Ran August 5 to 7 and Charlie Held the Line
+**C-9671** Host Says the Hamptons Retreat and Intervention Ran August 5 to 7 and Charlie Held the Line
 
 Claim Timestamp: 00:34:40
 
@@ -2066,7 +2065,7 @@ Investigative Direction: Compare with other accounts of the retreat dates (earli
 
 ---
 
-**C-14681** Host Says Charlie Told Megyn Kelly in the Following Days That People Called Him Anti-Semitic
+**C-9672** Host Says Charlie Told Megyn Kelly in the Following Days That People Called Him Anti-Semitic
 
 Claim Timestamp: 00:35:00
 
@@ -2082,7 +2081,7 @@ Investigative Direction: Review the Megyn Kelly Show episode with Kirk after the
 
 ---
 
-**C-14682** Host Says Dhillon Law Group Drafted Paperwork for Havas Media on Behalf of Clock Tower LLC on August 27
+**C-9673** Host Says Dhillon Law Group Drafted Paperwork for Havas Media on Behalf of Clock Tower LLC on August 27
 
 Claim Timestamp: 00:35:20
 
@@ -2097,7 +2096,7 @@ Investigative Direction: Retrieve the FARA registration or filing for Havas Medi
 
 ---
 
-**C-14683** Host Says Charlie Sent a Message on September 9 Declaring He Had Left the Pro-Israel Cause
+**C-9674** Host Says Charlie Sent a Message on September 9 Declaring He Had Left the Pro-Israel Cause
 
 Claim Timestamp: 00:35:30
 
@@ -2107,13 +2106,13 @@ Transcript Snippet: September 9th is when Charlie sends a message declaring he h
 
 Anchored Artifacts: A-2076.2
 Mentions: N-1
-Supports: C-1376
+Supports: C-1350
 Tags: relevance:core
 Investigative Direction: Obtain the group-chat message and its timestamp.
 
 ---
 
-**C-14684** Host Says Charlie Had a Zoom With Josh Hammer and a Rabbi, Then Texted That They Were Going to Kill Him
+**C-9675** Host Says Charlie Had a Zoom With Josh Hammer and a Rabbi, Then Texted That They Were Going to Kill Him
 
 Claim Timestamp: 00:35:40
 
@@ -2123,13 +2122,13 @@ Transcript Snippet: Afterward, he has a Zoom call with Josh Hammer and a rabbi f
 
 Anchored Artifacts: A-2076.2
 Mentions: N-1, N-55
-Supports: C-9340
+Supports: C-1537
 Tags: relevance:core
 Investigative Direction: Obtain the Zoom invite and the text messages with timestamps from recipients.
 
 ---
 
-**C-14685** Host Says Turning Point Claims the Kill Message Meant a Rooftop and She Rejects It
+**C-9676** Host Says Turning Point Claims the Kill Message Meant a Rooftop and She Rejects It
 
 Claim Timestamp: 00:35:50
 
@@ -2144,7 +2143,7 @@ Investigative Direction: Obtain the actual messages; ask TPUSA to state where th
 
 ---
 
-**C-14686** Host Says Netanyahu Declared in a Post-Assassination PR Blitz That Israel Did Not Kill Charlie
+**C-9677** Host Says Netanyahu Declared in a Post-Assassination PR Blitz That Israel Did Not Kill Charlie
 
 Claim Timestamp: 00:36:10
 
@@ -2159,7 +2158,7 @@ Investigative Direction: Locate Netanyahu's statements denying Israeli involveme
 
 ---
 
-**C-14687** NYT Says Six People Rode in a Five-Seat Car Driven by 21-Year-Old Romney
+**C-9679** NYT Says Six People Rode in a Five-Seat Car Driven by 21-Year-Old Romney
 
 Claim Timestamp: 00:37:50
 
@@ -2174,7 +2173,7 @@ Investigative Direction: Read the New York Times article on the 1968 France cras
 
 ---
 
-**C-14688** NYT Says Romney Was Seriously Injured and Briefly Thought Dead in the 1968 Crash
+**C-9680** NYT Says Romney Was Seriously Injured and Briefly Thought Dead in the 1968 Crash
 
 Claim Timestamp: 00:38:33
 
@@ -2189,7 +2188,7 @@ Investigative Direction: Read the New York Times article on the 1968 France cras
 
 ---
 
-**C-14689** NYT Says Survivors Largely Confirm Romney's Account That He Could Not Have Avoided the Crash
+**C-9681** NYT Says Survivors Largely Confirm Romney's Account That He Could Not Have Avoided the Crash
 
 Claim Timestamp: 00:38:40
 
@@ -2204,7 +2203,7 @@ Investigative Direction: Read the New York Times article on the 1968 France cras
 
 ---
 
-**C-14690** NYT Says Some Mormons Believe the Priest May Have Been Inebriated but It Is Unconfirmed
+**C-9682** NYT Says Some Mormons Believe the Priest May Have Been Inebriated but It Is Unconfirmed
 
 Claim Timestamp: 00:38:55
 
@@ -2219,7 +2218,7 @@ Investigative Direction: Read the New York Times article on the 1968 France cras
 
 ---
 
-**C-14691** Host Says Erika Kirk Met With Megyn Kelly on November 22
+**C-9684** Host Says Erika Kirk Met With Megyn Kelly on November 22
 
 Claim Timestamp: 00:42:05
 
@@ -2234,7 +2233,7 @@ Investigative Direction: Check the date of the Megyn Kelly-Erika Kirk interview.
 
 ---
 
-**C-14692** Host Says Her Inbox Shows the First Alert of Charlie Kirk Show Episodes Being Removed Was November 3
+**C-9685** Host Says Her Inbox Shows the First Alert of Charlie Kirk Show Episodes Being Removed Was November 3
 
 Claim Timestamp: 00:42:15
 
@@ -2250,7 +2249,7 @@ Investigative Direction: Obtain the host's earliest emails and Wayback/Apple Pod
 
 ---
 
-**C-14693** Host Says Erika's Appointment Story Reversed Charlie's Public Views on Women Staying Home
+**C-9686** Host Says Erika's Appointment Story Reversed Charlie's Public Views on Women Staying Home
 
 Claim Timestamp: 00:42:27
 
@@ -2266,7 +2265,7 @@ Investigative Direction: Compare Charlie's public statements on women and work w
 
 ---
 
-**C-14694** Host Says Turning Point Deleted Episodes, Tweets and Q&A Sessions
+**C-9687** Host Says Turning Point Deleted Episodes, Tweets and Q&A Sessions
 
 Claim Timestamp: 00:42:50
 
@@ -2281,7 +2280,7 @@ Investigative Direction: Compare archived feeds and platform listings before and
 
 ---
 
-**C-14695** Host Says TPUSA Insiders and Viewers Alerted Her When Episodes Disappeared
+**C-9688** Host Says TPUSA Insiders and Viewers Alerted Her When Episodes Disappeared
 
 Claim Timestamp: 00:43:05
 
@@ -2297,7 +2296,7 @@ Investigative Direction: Collect the emailed dead links and match them against p
 
 ---
 
-**C-14696** Host Says TPUSA Denied Deleting Anything and Blamed Apple's 100-Episode Limit
+**C-9689** Host Says TPUSA Denied Deleting Anything and Blamed Apple's 100-Episode Limit
 
 Claim Timestamp: 00:43:25
 
@@ -2312,7 +2311,7 @@ Investigative Direction: Check Apple Podcasts' actual per-feed episode limits, a
 
 ---
 
-**C-14697** Host Says Someone Sent Her an Archive of Charlie's Q&As That She Lost
+**C-9690** Host Says Someone Sent Her an Archive of Charlie's Q&As That She Lost
 
 Claim Timestamp: 00:43:40
 
@@ -2328,7 +2327,7 @@ Investigative Direction: Search for public archives of Charlie Kirk campus Q&A r
 
 ---
 
-**C-14698** Host Asks Viewers to Email Tips About the Charlie Q&A Archive
+**C-9691** Host Asks Viewers to Email Tips About the Charlie Q&A Archive
 
 Claim Timestamp: 00:43:50
 
@@ -2343,7 +2342,7 @@ Investigative Direction: Track responses to the tip request; verify any archive 
 
 ---
 
-**C-14699** Host Says Some Believe Charlie Said Erika Would Do a Great Job in a 2022 Q&A About Politics
+**C-9692** Host Says Some Believe Charlie Said Erika Would Do a Great Job in a 2022 Q&A About Politics
 
 Claim Timestamp: 00:44:09
 
@@ -2359,7 +2358,7 @@ Investigative Direction: Locate the 2022 Charlie Kirk Q&A video and transcript c
 
 ---
 
-**C-14700** Host Says the Charlie Kirk Show Now Presents Views Opposite to What Charlie Held at the End
+**C-9694** Host Says the Charlie Kirk Show Now Presents Views Opposite to What Charlie Held at the End
 
 Claim Timestamp: 00:47:50
 
@@ -2374,7 +2373,7 @@ Investigative Direction: Compare Charlie Kirk Show episodes since September 2025
 
 ---
 
-**C-14701** Viewer Comment Says Tom Artiom Alexandrovich Left the US After a Nevada Child-Luring Arrest
+**C-9695** Viewer Comment Says Tom Artiom Alexandrovich Left the US After a Nevada Child-Luring Arrest
 
 Claim Timestamp: 00:48:22
 
@@ -2388,7 +2387,7 @@ Investigative Direction: Check Nevada court and DOJ records for the arrest, rele
 
 ---
 
-**C-14702** Host Says the Israeli Citizen Caught Operating Illegal Biolabs Was Released With Charges Dropped
+**C-9696** Host Says the Israeli Citizen Caught Operating Illegal Biolabs Was Released With Charges Dropped
 
 Claim Timestamp: 00:48:50
 
@@ -2402,7 +2401,7 @@ Investigative Direction: Identify the defendant and check federal court dockets 
 
 ---
 
-**C-14703** Host Says Accusations of Foreign Funding Have Cycled Through Qatar, Russia, Iran and Pakistan Without Proof
+**C-9697** Host Says Accusations of Foreign Funding Have Cycled Through Qatar, Russia, Iran and Pakistan Without Proof
 
 Claim Timestamp: 00:49:40
 
@@ -2417,7 +2416,7 @@ Investigative Direction: Collect the original accusations and any documentation 
 
 ---
 
-**C-14704** Viewer Says She Received a Text From a Virginia Area Code Asking How Utah Folks Feel About Israel
+**C-9698** Viewer Says She Received a Text From a Virginia Area Code Asking How Utah Folks Feel About Israel
 
 Claim Timestamp: 00:50:15
 
@@ -2432,7 +2431,7 @@ Investigative Direction: Collect the screenshot of the text and sender number; c
 
 ---
 
-**C-14705** Host Links the Unsolicited Israel Texts to FARA Filings and Geofencing
+**C-9699** Host Links the Unsolicited Israel Texts to FARA Filings and Geofencing
 
 Claim Timestamp: 00:50:25
 
@@ -2448,7 +2447,7 @@ Investigative Direction: Read the FARA filings she refers to for geofencing and 
 
 ---
 
-**C-14706** Host Says "We Definitely Know Who" Is Taking Out Catholics
+**C-9700** Host Says "We Definitely Know Who" Is Taking Out Catholics
 
 Claim Timestamp: 00:52:00
 
@@ -2462,7 +2461,7 @@ Investigative Direction: Ask the host to name the actors; no document is cited.
 
 ---
 
-**C-14707** Host Says the Plan Needed America to Be Protestant and Zionist and That Project Is Failing
+**C-9701** Host Says the Plan Needed America to Be Protestant and Zionist and That Project Is Failing
 
 Claim Timestamp: 00:52:45
 
@@ -2476,7 +2475,7 @@ Investigative Direction: Ask the host to specify who 'they' are; no document is 
 
 ---
 
-**C-14708** Viewer Comment Says Erika Went on a Scripted Media Tour Attacking the Host Instead of Texting Her
+**C-9702** Viewer Comment Says Erika Went on a Scripted Media Tour Attacking the Host Instead of Texting Her
 
 Claim Timestamp: 00:52:55
 
@@ -2491,7 +2490,7 @@ Investigative Direction: List Erika Kirk's media appearances since the Blake Nef
 
 ---
 
-**C-14709** Viewer Comment Says Erika Chose Bari Weiss's CBS to Declare Charlie's Support for Israel
+**C-9703** Viewer Comment Says Erika Chose Bari Weiss's CBS to Declare Charlie's Support for Israel
 
 Claim Timestamp: 00:53:00
 
@@ -2507,7 +2506,7 @@ Investigative Direction: Review the CBS interview with Erika Kirk and what she s
 
 ---
 
-**C-14710** Host Says Erika and Turning Point Have Her Number and She Was in Communication With Kolvet
+**C-9704** Host Says Erika and Turning Point Have Her Number and She Was in Communication With Kolvet
 
 Claim Timestamp: 00:53:10
 
@@ -2522,7 +2521,7 @@ Investigative Direction: Ask Kolvet whether he communicated with the host; the h
 
 ---
 
-**C-14711** Host Says She Will Be Off Air Next Week Because She Will Be in St. Petersburg
+**C-9705** Host Says She Will Be Off Air Next Week Because She Will Be in St. Petersburg
 
 Claim Timestamp: 00:55:10
 

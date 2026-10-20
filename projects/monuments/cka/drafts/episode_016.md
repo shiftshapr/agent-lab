@@ -16,7 +16,7 @@
   - Hole-minted Nodes (reintro-ep016): N-10176, N-10187, N-10206, N-10389, N-10424, N-10554, N-10598, N-10628, N-10641, N-10702, N-10735, N-10769
   - Tip-minted Nodes (reintro-ep016): N-864, N-11013, N-11158
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10f): C-12061–C-12145
+  - Claim Range: C-1402–C-1510
   - New Nodes Introduced: N-154, N-155, N-156, N-157, N-159, N-10168, N-10169, N-10170, N-10171, N-10172, N-10173
   - Reused Nodes Appearing: N-153, N-4, N-5, N-11, N-27, N-30, N-38, N-46, N-49, N-50, N-82, N-99, N-118, N-125, N-201, N-204, N-10013, N-10018, N-10019, N-10032, N-10034, N-10041, N-10043, N-10044, N-10051, N-10056, N-10077, N-10085, N-10107, N-10118, N-10126, N-10133, N-10139, N-10143, N-10148, N-10151, N-10167, N-10270, N-10406, N-170
 - **Episode Number:** Monument Episode 16 (Batch 6, Candace Ep 249)
@@ -30,7 +30,6 @@
 **Episode 16 Ledger Summary**
 
 - Artifact Families Introduced: A-1227, A-1228, A-1229, A-1230, A-1231, A-1232, A-1233, A-1234, A-1235
-- Claim Range: C-1380–C-1403
 - New Person Nodes Introduced: N-14, N-153, N-154, N-155, N-7, N-156, N-157, N-60, N-41, N-159
 - New Investigation Target Nodes Introduced: N-10168, N-10169, N-10170, N-10171, N-10172, N-10173
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens); presumed-existing nodes for Tyler Robinson, Lance Twiggs, George Zinn (referred to by descriptive name; IDs not confirmed in ledger header)
@@ -61,7 +60,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:07:23
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1387*
+*Related: C-1411*
 
 **A-1227.2** Britta tweet accusing Candace of posting fake group-chat screenshots to back her narrative
 
@@ -69,7 +68,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:08:09
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1387*
+*Related: C-1411*
 
 **A-1227.3** Morgan Ariel tweet observing that Laura Loomer had not posted about Candace's text reporting
 
@@ -85,7 +84,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:09:26
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1388, N-60*
+*Related: C-1415, N-60*
 
 **A-1227.5** Britta tweet criticizing Candace's use of "Blitzkrieg" terminology and accusing her of inciting TPUSA employee harassment
 
@@ -101,7 +100,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:11:11
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1389, N-159 (existing or new)*
+*Related: C-1421, N-159 (existing or new)*
 
 **A-1227.7** The Quartering tweet asking what the texts actually prove, if real
 
@@ -109,7 +108,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:12:01
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1390, N-157*
+*Related: C-1425, N-157*
 
 **A-1227.8** Misfit Patriot tweet offering "every shekele" if texts are fake, with Community Notes update citing Andrew Kolvet's confirmation of the screen grab
 
@@ -117,7 +116,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:12:48
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1391, N-14*
+*Related: C-1428, N-14*
 
 ---
 
@@ -129,7 +128,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:14:00
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1380, N-14*
+*Related: C-1431, N-14*
 
 **A-1228.2** Kolvet states he shared the screen grab with "some people in government" within the first 33 hours and "didn't know where it went from there"
 
@@ -137,7 +136,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:15:24
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1381, N-14*
+*Related: C-1433, N-14*
 
 **A-1228.3** Blake (Charlie Kirk Show co-host) states he is an eyewitness to events and has been advised not to comment publicly
 
@@ -145,7 +144,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:16:13
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1383, N-159*
+*Related: C-1435, N-159*
 
 **A-1228.4** Kolvet describes Charlie's feelings about Israel as "complicated," "nuanced," and a "wrestle that was going on for months," located between the BB Netanyahu letter and the text chain
 
@@ -153,7 +152,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:17:46
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1382, N-14, N-1*
+*Related: C-1440, N-14, N-1*
 
 ---
 
@@ -165,7 +164,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:28:21
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1384, N-153*
+*Related: C-1459, N-153*
 
 **A-1229.2** O'Neill questions the right-to-left shirt movement as inconsistent with his experience shooting people
 
@@ -173,7 +172,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:29:02
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1385, N-153*
+*Related: C-1461, N-153*
 
 **A-1229.3** O'Neill states the crime scene was torn down and "paved over"
 
@@ -181,7 +180,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:29:51
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1386, N-153*
+*Related: C-1465, N-153*
 
 ---
 
@@ -193,7 +192,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:04:56
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1396, N-156, N-60*
+*Related: C-1407, N-156, N-60*
 
 ---
 
@@ -205,7 +204,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:43:14
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1392, C-1394, C-1395, N-154, N-155*
+*Related: C-1493, C-1500, C-1492, N-154, N-155*
 
 **A-1231.2** Mappin letter section stating "we have been receiving calls from senior Republicans and from Turning Point donors who agree with her…they are terrified to voice their views publicly"
 
@@ -213,7 +212,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:49:54
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1393, N-154, N-155*
+*Related: C-1501, N-154, N-155*
 
 ---
 
@@ -226,7 +225,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:13:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (Kolvet-confirmed)
-*Related: C-1380, C-1382, N-14, N-1*
+*Related: C-1431, C-1440, N-14, N-1*
 
 ---
 
@@ -238,7 +237,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:02:44
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1399, N-7*
+*Related: C-1507, N-7*
 
 ---
 
@@ -251,7 +250,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:23:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (read-aloud, not verified audio playback)
-*Related: C-1397, N-14*
+*Related: C-1449, N-14*
 
 ---
 
@@ -264,7 +263,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:21:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (testimonial; names withheld)
-*Related: C-1398, N-3, N-1*
+*Related: C-1445, N-3, N-1*
 
 **A-1235.2** Candace states Lance Twiggs's family told her Lance was "raided" and "angry about that raid" and was "instantly released back into their care within 6 hours"
 
@@ -273,7 +272,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:38:49
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (testimonial via family)
-*Related: C-1400, N-3, Lance Twiggs (existing node)*
+*Related: C-1480, N-3, Lance Twiggs (existing node)*
 
 **A-1235.3** Candace states Lance's family reported the apartment locks were illegally changed after the raid without their knowledge
 
@@ -282,7 +281,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:40:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (testimonial via family)
-*Related: C-1401, N-3, Tyler Robinson (existing node), Lance Twiggs (existing node)*
+*Related: C-1483, N-3, Tyler Robinson (existing node), Lance Twiggs (existing node)*
 
 **A-1235.4** Candace states a vetted tip reports George Zinn told multiple nurses/doctors he did the Kirk event because he was being paid to, had not yet been paid, and did not know who would pay him
 
@@ -291,7 +290,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:41:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (vetted-tip; not independently corroborated in episode)
-*Related: C-1402, N-3, George Zinn (existing node)*
+*Related: C-1486, N-3, George Zinn (existing node)*
 
 **A-1235.5** Candace states a tip indicates George Zinn has potential familial connections to a federal department
 
@@ -300,7 +299,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:36:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (tip-stage)
-*Related: C-1403, N-3, George Zinn (existing node), N-10170*
+*Related: C-1471, N-3, George Zinn (existing node), N-10170*
 
 ---
 
@@ -315,7 +314,7 @@ Video Timestamp: 00:02:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-12063, N-3*
+*Related: C-1404, N-3*
 
 ---
 
@@ -328,7 +327,7 @@ Video Timestamp: 00:07:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-12068, C-12069, C-12070, N-1, N-3, N-40, N-902, N-118, N-10206, N-11158*
+*Related: C-1410, C-1412, C-1413, N-1, N-3, N-40, N-902, N-118, N-10206, N-11158*
 
 ---
 
@@ -341,7 +340,7 @@ Video Timestamp: 00:12:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-12080, N-1, N-201, N-10206*
+*Related: C-1426, N-1, N-201, N-10206*
 
 ---
 
@@ -354,7 +353,7 @@ Video Timestamp: 00:24:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-12098, C-12099, N-1, N-36, N-55, N-10018*
+*Related: C-1451, C-1452, N-1, N-36, N-55, N-10018*
 
 ---
 
@@ -367,7 +366,7 @@ Video Timestamp: 00:26:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12100, C-12101, C-12103, C-12104, C-12105, N-3, N-49, N-170, N-10176*
+*Related: C-1453, C-1454, C-1456, C-1457, C-1458, N-3, N-49, N-170, N-10176*
 
 ---
 
@@ -380,7 +379,7 @@ Video Timestamp: 00:57:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-12140, N-1, N-3, N-11321*
+*Related: C-1504, N-1, N-3, N-11321*
 
 ---
 
@@ -391,7 +390,7 @@ Video Timestamp: 01:00:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-12142, N-3*
+*Related: C-1506, N-3*
 
 ---
 
@@ -406,7 +405,7 @@ Video Timestamp: 01:03:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-12144, N-3*
+*Related: C-1509, N-3*
 
 ---
 
@@ -421,7 +420,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1228.1, A-1228.2, A-1228.4, A-1227.8, C-1380, C-1381, C-1382, C-1391*
+*Related: A-1228.1, A-1228.2, A-1228.4, A-1227.8, C-1431, C-1433, C-1440, C-1428*
 
 ---
 
@@ -434,7 +433,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1229.1, A-1229.2, A-1229.3, C-1384, C-1385, C-1386*
+*Related: A-1229.1, A-1229.2, A-1229.3, C-1459, C-1461, C-1465*
 
 ---
 
@@ -447,7 +446,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1231.1, A-1231.2, C-1392, C-1393, C-1395*
+*Related: A-1231.1, A-1231.2, C-1493, C-1501, C-1492*
 
 ---
 
@@ -460,7 +459,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1231.1, A-1231.2, C-1392, C-1393, C-1395*
+*Related: A-1231.1, A-1231.2, C-1493, C-1501, C-1492*
 
 ---
 
@@ -473,7 +472,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1233.1, C-1399*
+*Related: A-1233.1, C-1507*
 
 ---
 
@@ -486,7 +485,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1230.1, C-1396*
+*Related: A-1230.1, C-1407*
 
 ---
 
@@ -499,7 +498,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1227.7, C-1390*
+*Related: A-1227.7, C-1425*
 
 ---
 
@@ -512,7 +511,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1227.4, C-1388*
+*Related: A-1227.4, C-1415*
 
 ---
 
@@ -525,7 +524,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1228.3, C-1383*
+*Related: A-1228.3, C-1435*
 
 ---
 
@@ -551,7 +550,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1234.1, C-1397, N-14*
+*Related: A-1234.1, C-1449, N-14*
 
 ---
 
@@ -564,7 +563,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1235.5, C-1403, George Zinn (existing node)*
+*Related: A-1235.5, C-1471, George Zinn (existing node)*
 
 ---
 
@@ -577,7 +576,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1235.3, C-1401, Tyler Robinson (existing node), Lance Twiggs (existing node)*
+*Related: A-1235.3, C-1483, Tyler Robinson (existing node), Lance Twiggs (existing node)*
 
 ---
 
@@ -603,7 +602,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1235.4, C-1402, George Zinn (existing node), N-10170*
+*Related: A-1235.4, C-1486, George Zinn (existing node), N-10170*
 
 ---
 
@@ -611,7 +610,7 @@ Investigative Pressure: High
 
 Charlie Kirk; subject of the texts, the dream and the premonition accounts.
 
-*Related: C-12062, C-12064, C-12066, C-12069, C-12080, C-12081, C-12084, C-12085, C-12087, C-12088, C-12089, C-12090, C-12092, C-12093, C-12094, C-12096, C-12097, C-12098, C-12099, C-12106, C-12107, C-12108, C-12111, C-12112, C-12113, C-12114, C-12130, C-12131, C-12134, C-12137, C-12138, C-12139, C-12140, C-12143*
+*Related: C-1403, C-1405, C-1408, C-1412, C-1426, C-1427, C-1432, C-1434, C-1437, C-1439, C-1438, C-1441, C-1443, C-1444, C-1446, C-1448, C-1450, C-1451, C-1452, C-1460, C-1462, C-1463, C-1467, C-1468, C-1469, C-1470, C-1490, C-1491, C-1496, C-1499, C-1502, C-1503, C-1504, C-1508*
 
 ---
 
@@ -619,7 +618,7 @@ Charlie Kirk; subject of the texts, the dream and the premonition accounts.
 
 Host; speaks for herself throughout.
 
-*Related: C-12061, C-12062, C-12063, C-12064, C-12065, C-12066, C-12067, C-12068, C-12070, C-12073, C-12074, C-12075, C-12076, C-12077, C-12079, C-12081, C-12082, C-12083, C-12090, C-12091, C-12092, C-12094, C-12095, C-12096, C-12097, C-12100, C-12101, C-12102, C-12103, C-12104, C-12105, C-12110, C-12111, C-12112, C-12113, C-12114, C-12115, C-12117, C-12118, C-12119, C-12120, C-12122, C-12124, C-12126, C-12127, C-12128, C-12129, C-12130, C-12132, C-12133, C-12136, C-12137, C-12138, C-12139, C-12140, C-12141, C-12142, C-12144, C-12145*
+*Related: C-1402, C-1403, C-1404, C-1405, C-1406, C-1408, C-1409, C-1410, C-1413, C-1417, C-1418, C-1419, C-1420, C-1422, C-1424, C-1427, C-1429, C-1430, C-1441, C-1442, C-1443, C-1446, C-1447, C-1448, C-1450, C-1453, C-1454, C-1455, C-1456, C-1457, C-1458, C-1466, C-1467, C-1468, C-1469, C-1470, C-1472, C-1474, C-1475, C-1476, C-1477, C-1479, C-1482, C-1485, C-1487, C-1488, C-1489, C-1490, C-1494, C-1495, C-1498, C-1499, C-1502, C-1503, C-1504, C-1505, C-1506, C-1509, C-1510*
 
 ---
 
@@ -627,7 +626,7 @@ Host; speaks for herself throughout.
 
 JD Vance; named in the Mappin letter as the vice presidential nominee Kirk worked for.
 
-*Related: C-12134*
+*Related: C-1496*
 
 ---
 
@@ -635,7 +634,7 @@ JD Vance; named in the Mappin letter as the vice presidential nominee Kirk worke
 
 Donald Trump; the host says his non-reaction upsets her.
 
-*Related: C-12130*
+*Related: C-1490*
 
 ---
 
@@ -643,7 +642,7 @@ Donald Trump; the host says his non-reaction upsets her.
 
 Tyler Bowyer; the host says he impugns people asking questions.
 
-*Related: C-12093*
+*Related: C-1444*
 
 ---
 
@@ -651,7 +650,7 @@ Tyler Bowyer; the host says he impugns people asking questions.
 
 Kanye West; the host says he was right about what it takes to leave.
 
-*Related: C-12102*
+*Related: C-1455*
 
 ---
 
@@ -659,7 +658,7 @@ Kanye West; the host says he was right about what it takes to leave.
 
 The host's husband George, named in her account of when she first learned Kirk was betrayed and where she first saw him.
 
-*Related: C-12066, C-12132*
+*Related: C-1408, C-1494*
 
 ---
 
@@ -667,7 +666,7 @@ The host's husband George, named in her account of when she first learned Kirk w
 
 Benjamin Netanyahu; recipient of the letter Hammer describes.
 
-*Related: C-12098, C-12099*
+*Related: C-1451, C-1452*
 
 ---
 
@@ -675,7 +674,7 @@ Benjamin Netanyahu; recipient of the letter Hammer describes.
 
 Seth Dillon; the host says Britta used to work for him.
 
-*Related: C-12071*
+*Related: C-1414*
 
 ---
 
@@ -683,7 +682,7 @@ Seth Dillon; the host says Britta used to work for him.
 
 Tyler Robinson; subject of the host's decoy and clothing-change theory.
 
-*Related: C-12069, C-12109, C-12116, C-12117, C-12118, C-12119, C-12121, C-12122, C-12123, C-12124, C-12129*
+*Related: C-1412, C-1464, C-1473, C-1474, C-1475, C-1476, C-1478, C-1479, C-1481, C-1482, C-1489*
 
 ---
 
@@ -691,7 +690,7 @@ Tyler Robinson; subject of the host's decoy and clothing-change theory.
 
 Governor Spencer Cox; the host says his press conference misdescribed Lance's cooperation.
 
-*Related: C-12122*
+*Related: C-1479*
 
 ---
 
@@ -699,7 +698,7 @@ Governor Spencer Cox; the host says his press conference misdescribed Lance's co
 
 George Zinn; one of the four decoys in the host's theory.
 
-*Related: C-12091, C-12115, C-12127*
+*Related: C-1442, C-1472, C-1487*
 
 ---
 
@@ -707,7 +706,7 @@ George Zinn; one of the four decoys in the host's theory.
 
 Megyn Kelly; the host says she is being abused over the host's content.
 
-*Related: C-12076*
+*Related: C-1420*
 
 ---
 
@@ -715,7 +714,7 @@ Megyn Kelly; the host says she is being abused over the host's content.
 
 Max Blumenthal; named as a recipient of the host's package.
 
-*Related: C-12105*
+*Related: C-1458*
 
 ---
 
@@ -723,7 +722,7 @@ Max Blumenthal; named as a recipient of the host's package.
 
 Sigmund Freud; subject of the host's book club book.
 
-*Related: C-12145*
+*Related: C-1510*
 
 ---
 
@@ -731,7 +730,7 @@ Sigmund Freud; subject of the host's book club book.
 
 Lance Twiggs; the host's maroon shirt and federal asset hypotheses.
 
-*Related: C-12116, C-12121, C-12122, C-12125*
+*Related: C-1473, C-1478, C-1479, C-1484*
 
 ---
 
@@ -739,7 +738,7 @@ Lance Twiggs; the host's maroon shirt and federal asset hypotheses.
 
 Josh Hammer; the host says he spread lies about Kirk and Israel, and is heard describing Kirk's letter.
 
-*Related: C-12083, C-12096, C-12097, C-12098, C-12099*
+*Related: C-1430, C-1448, C-1450, C-1451, C-1452*
 
 ---
 
@@ -747,7 +746,7 @@ Josh Hammer; the host says he spread lies about Kirk and Israel, and is heard de
 
 Brigitte Macron; named in Loomer's post about lawsuits.
 
-*Related: C-12073*
+*Related: C-1417*
 
 ---
 
@@ -755,7 +754,7 @@ Brigitte Macron; named in Loomer's post about lawsuits.
 
 Alex Clark; named with Bowyer in the host's call for the free-speech memo.
 
-*Related: C-12093*
+*Related: C-1444*
 
 ---
 
@@ -763,7 +762,7 @@ Alex Clark; named with Bowyer in the host's call for the free-speech memo.
 
 Elon Musk; named by the host and by Forbes.
 
-*Related: C-12061, C-12068*
+*Related: C-1402, C-1410*
 
 ---
 
@@ -771,7 +770,7 @@ Elon Musk; named by the host and by Forbes.
 
 Mike Mitchell; the detective whose tip the host says drove the raid.
 
-*Related: C-12123*
+*Related: C-1481*
 
 ---
 
@@ -779,7 +778,7 @@ Mike Mitchell; the detective whose tip the host says drove the raid.
 
 Tate Brothers; Andrew Tate named as a recipient of the host's package.
 
-*Related: C-12105*
+*Related: C-1458*
 
 ---
 
@@ -787,7 +786,7 @@ Tate Brothers; Andrew Tate named as a recipient of the host's package.
 
 Nick Fuentes; author of posts the host reads.
 
-*Related: C-12078, C-12079, C-12080, C-12081, C-12095*
+*Related: C-1423, C-1424, C-1426, C-1427, C-1447*
 
 ---
 
@@ -795,7 +794,7 @@ Nick Fuentes; author of posts the host reads.
 
 Piers Morgan; host of the show on which O'Neill appeared.
 
-*Related: C-12106*
+*Related: C-1460*
 
 ---
 
@@ -803,7 +802,7 @@ Piers Morgan; host of the show on which O'Neill appeared.
 
 Britta Weidner; author of posts the host reads.
 
-*Related: C-12071, C-12075*
+*Related: C-1414, C-1419*
 
 ---
 
@@ -811,7 +810,7 @@ Britta Weidner; author of posts the host reads.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12121*
+*Related: C-1478*
 
 ---
 
@@ -819,7 +818,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12099*
+*Related: C-1452*
 
 ---
 
@@ -827,7 +826,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12117*
+*Related: C-1474*
 
 ---
 
@@ -835,7 +834,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12091, C-12115*
+*Related: C-1442, C-1472*
 
 ---
 
@@ -843,7 +842,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12122*
+*Related: C-1479*
 
 ---
 
@@ -851,7 +850,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12124*
+*Related: C-1482*
 
 ---
 
@@ -859,7 +858,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12113, C-12126*
+*Related: C-1469, C-1485*
 
 ---
 
@@ -867,7 +866,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12121, C-12125*
+*Related: C-1478, C-1484*
 
 ---
 
@@ -875,7 +874,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12118, C-12119, C-12120*
+*Related: C-1475, C-1476, C-1477*
 
 ---
 
@@ -883,7 +882,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12090*
+*Related: C-1441*
 
 ---
 
@@ -891,7 +890,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12109*
+*Related: C-1464*
 
 ---
 
@@ -899,7 +898,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12107, C-12108*
+*Related: C-1462, C-1463*
 
 ---
 
@@ -907,7 +906,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12135*
+*Related: C-1497*
 
 ---
 
@@ -915,7 +914,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12132*
+*Related: C-1494*
 
 ---
 
@@ -923,7 +922,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12132*
+*Related: C-1494*
 
 ---
 
@@ -931,7 +930,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12085, C-12110, C-12128, C-12129*
+*Related: C-1434, C-1466, C-1488, C-1489*
 
 ---
 
@@ -939,7 +938,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12141*
+*Related: C-1505*
 
 ---
 
@@ -947,7 +946,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12124*
+*Related: C-1482*
 
 ---
 
@@ -955,7 +954,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12088, C-12089*
+*Related: C-1439, C-1438*
 
 ---
 
@@ -963,7 +962,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12123*
+*Related: C-1481*
 
 ---
 
@@ -971,7 +970,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12093*
+*Related: C-1444*
 
 ---
 
@@ -979,7 +978,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12100, C-12103, C-12104, C-12105*
+*Related: C-1453, C-1456, C-1457, C-1458*
 
 ---
 
@@ -987,7 +986,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12096, C-12097*
+*Related: C-1448, C-1450*
 
 ---
 
@@ -995,7 +994,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12067, C-12068, C-12069, C-12079, C-12080, C-12083, C-12084, C-12095*
+*Related: C-1409, C-1410, C-1412, C-1424, C-1426, C-1430, C-1432, C-1447*
 
 ---
 
@@ -1003,7 +1002,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12073*
+*Related: C-1417*
 
 ---
 
@@ -1011,7 +1010,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12064*
+*Related: C-1405*
 
 ---
 
@@ -1019,7 +1018,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12076*
+*Related: C-1420*
 
 ---
 
@@ -1027,7 +1026,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12078*
+*Related: C-1423*
 
 ---
 
@@ -1035,7 +1034,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12086*
+*Related: C-1436*
 
 ---
 
@@ -1043,7 +1042,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12121*
+*Related: C-1478*
 
 ---
 
@@ -1051,7 +1050,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12072*
+*Related: C-1416*
 
 ---
 
@@ -1059,7 +1058,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12084*
+*Related: C-1432*
 
 ---
 
@@ -1067,7 +1066,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12116*
+*Related: C-1473*
 
 ---
 
@@ -1075,7 +1074,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12117*
+*Related: C-1474*
 
 ---
 
@@ -1083,7 +1082,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12114*
+*Related: C-1470*
 
 ---
 
@@ -1091,7 +1090,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12094, C-12143*
+*Related: C-1446, C-1508*
 
 ---
 
@@ -1099,7 +1098,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12070*
+*Related: C-1413*
 
 ---
 
@@ -1107,7 +1106,7 @@ Existing topic reused for new claims in this episode.
 
 First named by the host at 00:07:45 in episode 16. Online commentator whose X post the host reads, saying she has no credibility, that Telegram group chat scams exist, and that she is building a cult.
 
-*Related: C-12068, C-12069, C-12070*
+*Related: C-1410, C-1412, C-1413*
 
 ---
 
@@ -1116,13 +1115,13 @@ First named by the host at 00:07:45 in episode 16. Online commentator whose X po
 Node Type: Topic
 Investigation target: the host's statement that she holds the names of everyone on Charlie Kirk's security team, including people the earlier investigation could not identify.
 
-*Related: C-12140*
+*Related: C-1504*
 
 ---
 
 ## V. Claim Register
 
-**C-1380** Kolvet confirmed text chain authentic
+**C-1431** Kolvet confirmed text chain authentic
 
 Claim Timestamp: 00:14:00
 
@@ -1134,7 +1133,7 @@ Investigative Direction: Obtain the full Charlie Kirk Show segment audio/video; 
 
 ---
 
-**C-1381** Kolvet shared screen grab with government figures within 33 hours
+**C-1433** Kolvet shared screen grab with government figures within 33 hours
 
 Claim Timestamp: 00:15:24
 
@@ -1146,7 +1145,7 @@ Investigative Direction: Identify which government figures received the screen g
 
 ---
 
-**C-1382** Kolvet describes Kirk's Israel position as complicated / ongoing wrestle
+**C-1440** Kolvet describes Kirk's Israel position as complicated / ongoing wrestle
 
 Claim Timestamp: 00:17:46
 
@@ -1158,7 +1157,7 @@ Investigative Direction: Compare Kolvet's "wrestle" framing against contemporane
 
 ---
 
-**C-1383** Blake (Charlie Kirk Show co-host) identifies as eyewitness
+**C-1435** Blake (Charlie Kirk Show co-host) identifies as eyewitness
 
 Claim Timestamp: 00:16:13
 
@@ -1170,7 +1169,7 @@ Investigative Direction: Identify the events Blake claims to have witnessed; det
 
 ---
 
-**C-1384** O'Neill identifies visible wound as exit wound
+**C-1459** O'Neill identifies visible wound as exit wound
 
 Claim Timestamp: 00:28:21
 
@@ -1182,7 +1181,7 @@ Investigative Direction: Obtain the full unedited Kirk video and a forensic path
 
 ---
 
-**C-1385** O'Neill questions right-to-left shirt movement
+**C-1461** O'Neill questions right-to-left shirt movement
 
 Claim Timestamp: 00:29:02
 
@@ -1194,7 +1193,7 @@ Investigative Direction: Obtain the full unedited video and forensic-physics rec
 
 ---
 
-**C-1386** O'Neill states crime scene was torn down and paved over
+**C-1465** O'Neill states crime scene was torn down and paved over
 
 Claim Timestamp: 00:29:51
 
@@ -1206,7 +1205,7 @@ Investigative Direction: Confirm with Utah court / Utah State Records the timeli
 
 ---
 
-**C-1387** Britta Asked Whether Candace Was Posting Fake Group-Chat Screenshots
+**C-1411** Britta Asked Whether Candace Was Posting Fake Group-Chat Screenshots
 
 Claim Timestamp: 00:08:09
 
@@ -1214,11 +1213,11 @@ Claim: A user identified as Britta publicly asked whether Candace Owens is posti
 
 Anchored Artifacts: A-1227.1, A-1227.2
 Mentions: N-3, N-864
-Investigative Direction: Cross-reference the Britta accusation against the Kolvet confirmation (C-1380) to determine whether Britta publicly retracted or updated her position.
+Investigative Direction: Cross-reference the Britta accusation against the Kolvet confirmation (C-1431) to determine whether Britta publicly retracted or updated her position.
 
 ---
 
-**C-1388** Laura Loomer dismissed Candace's reporting as postpartum psychotic rants
+**C-1415** Laura Loomer dismissed Candace's reporting as postpartum psychotic rants
 
 Claim Timestamp: 00:09:26
 
@@ -1230,7 +1229,7 @@ Investigative Direction: Track whether Loomer issued any post-Kolvet-confirmatio
 
 ---
 
-**C-1389** Nick Fuentes questioned four-week delay in text release
+**C-1421** Nick Fuentes questioned four-week delay in text release
 
 Claim Timestamp: 00:11:11
 
@@ -1242,7 +1241,7 @@ Investigative Direction: Determine the actual interval between Candace's receipt
 
 ---
 
-**C-1390** The Quartering questioned what the texts prove
+**C-1425** The Quartering questioned what the texts prove
 
 Claim Timestamp: 00:12:01
 
@@ -1250,11 +1249,11 @@ Claim: Per a post by The Quartering that the host reads, he publicly asked, assu
 
 Anchored Artifacts: A-1227.7
 Mentions: N-1, N-157
-Investigative Direction: Evaluate the substance of the "what does it prove" critique against the substantive content of the text chain (C-1382, N-14).
+Investigative Direction: Evaluate the substance of the "what does it prove" critique against the substantive content of the text chain (C-1440, N-14).
 
 ---
 
-**C-1391** Community Notes confirmed Kolvet's screen-grab confirmation
+**C-1428** Community Notes confirmed Kolvet's screen-grab confirmation
 
 Claim Timestamp: 00:12:48
 
@@ -1266,7 +1265,7 @@ Investigative Direction: Pull the Community Notes entry directly for the source 
 
 ---
 
-**C-1392** Mappins published public letter supporting Candace's investigation
+**C-1493** Mappins published public letter supporting Candace's investigation
 
 Claim Timestamp: 00:44:40
 
@@ -1278,7 +1277,7 @@ Investigative Direction: Obtain the original Mappin letter publication (URL / da
 
 ---
 
-**C-1393** Mappin letter: senior Republicans and TPUSA donors privately agree but fear speaking
+**C-1501** Mappin letter: senior Republicans and TPUSA donors privately agree but fear speaking
 
 Claim Timestamp: 00:49:54
 
@@ -1290,7 +1289,7 @@ Investigative Direction: Identify (with Mappin cooperation) any of the named sen
 
 ---
 
-**C-1394** Mappin letter: few believe official version
+**C-1500** Mappin letter: few believe official version
 
 Claim Timestamp: 00:49:50
 
@@ -1302,7 +1301,7 @@ Investigative Direction: Cross-reference polling or independent survey data on p
 
 ---
 
-**C-1395** Host Says Mappin Was the Donor Behind the First Turning Point UK Event
+**C-1492** Host Says Mappin Was the Donor Behind the First Turning Point UK Event
 
 Claim Timestamp: 00:44:38
 
@@ -1314,7 +1313,7 @@ Investigative Direction: Verify through TPUSA / Turning Point UK records John Ma
 
 ---
 
-**C-1396** Flynn / Carlson discussed Pontius Pilate's wife as prophetic dreamer
+**C-1407** Flynn / Carlson discussed Pontius Pilate's wife as prophetic dreamer
 
 Claim Timestamp: 00:04:56
 
@@ -1326,7 +1325,7 @@ Investigative Direction: Obtain the full Tucker / Flynn segment to determine the
 
 ---
 
-**C-1397** Josh Hammer claimed Zoom call with Kirk night before death
+**C-1449** Josh Hammer claimed Zoom call with Kirk night before death
 
 Claim Timestamp: 00:23:52
 
@@ -1338,7 +1337,7 @@ Investigative Direction: Identify the other Zoom call attendees; obtain any cont
 
 ---
 
-**C-1398** Three unnamed people told Candace Charlie predicted his own death
+**C-1445** Three unnamed people told Candace Charlie predicted his own death
 
 Claim Timestamp: 00:21:25
 
@@ -1350,7 +1349,7 @@ Investigative Direction: Encourage the named tipsters to come forward publicly; 
 
 ---
 
-**C-1399** Frank Turek reported Kirk said "they want him dead"
+**C-1507** Frank Turek reported Kirk said "they want him dead"
 
 Claim Timestamp: 01:02:44
 
@@ -1362,7 +1361,7 @@ Investigative Direction: Identify and timestamp the Frank Turek podcast episode 
 
 ---
 
-**C-1400** Lance Twiggs was raided but released within 6 hours
+**C-1480** Lance Twiggs was raided but released within 6 hours
 
 Claim Timestamp: 00:38:49
 
@@ -1374,7 +1373,7 @@ Investigative Direction: Obtain official arrest / detention logs from Utah autho
 
 ---
 
-**C-1401** Apartment locks illegally changed after raid
+**C-1483** Apartment locks illegally changed after raid
 
 Claim Timestamp: 00:40:07
 
@@ -1387,7 +1386,7 @@ Investigative Direction: Identify the party that authorized the lock change (Lan
 
 ---
 
-**C-1402** George Zinn told medical staff he was being paid to claim responsibility
+**C-1486** George Zinn told medical staff he was being paid to claim responsibility
 
 Claim Timestamp: 00:41:24
 
@@ -1400,7 +1399,7 @@ Investigative Direction: Identify and interview the medical staff who reportedly
 
 ---
 
-**C-1403** George Zinn has potential familial connections to a federal department
+**C-1471** George Zinn has potential familial connections to a federal department
 
 Claim Timestamp: 00:36:11
 
@@ -1413,7 +1412,7 @@ Investigative Direction: Identify which federal department is implicated; obtain
 
 ---
 
-**C-12061** Host Says Musk Gave X to the Military and Military Bot Farms Push War With Iran
+**C-1402** Host Says Musk Gave X to the Military and Military Bot Farms Push War With Iran
 
 Claim Timestamp: 00:00:10
 
@@ -1428,7 +1427,7 @@ Investigative Direction: Look for X ownership or moderation disclosures and bot-
 
 ---
 
-**C-12062** Host Says She Has No Interest in Inheriting Kirk's Turning Point Empire
+**C-1403** Host Says She Has No Interest in Inheriting Kirk's Turning Point Empire
 
 Claim Timestamp: 00:01:43
 
@@ -1443,7 +1442,7 @@ Investigative Direction: Compare with any TPUSA leadership offer or succession d
 
 ---
 
-**C-12063** Host Shows 2023 Text Chain With Her Then-Producer as Proof of a Prior Vivid Dream
+**C-1404** Host Shows 2023 Text Chain With Her Then-Producer as Proof of a Prior Vivid Dream
 
 Claim Timestamp: 00:02:30
 
@@ -1458,7 +1457,7 @@ Investigative Direction: Personal matter involving a private individual; nothing
 
 ---
 
-**C-12064** Host Says a Weekend Dream Told Her Charlie Was Betrayed
+**C-1405** Host Says a Weekend Dream Told Her Charlie Was Betrayed
 
 Claim Timestamp: 00:03:54
 
@@ -1474,7 +1473,7 @@ Investigative Direction: A dream cannot be checked; compare with the host's late
 
 ---
 
-**C-12065** Host Predicts the Truth Will Soon Come Out With International Consequences
+**C-1406** Host Predicts the Truth Will Soon Come Out With International Consequences
 
 Claim Timestamp: 00:04:10
 
@@ -1489,7 +1488,7 @@ Investigative Direction: Track whether any named disclosure or document later re
 
 ---
 
-**C-12066** Host Says She Told Her Husband Through Tears That Charlie Was Betrayed
+**C-1408** Host Says She Told Her Husband Through Tears That Charlie Was Betrayed
 
 Claim Timestamp: 00:06:30
 
@@ -1504,7 +1503,7 @@ Investigative Direction: Ask the host when and where she said this; no outside r
 
 ---
 
-**C-12067** Host Says X Users Made Fake Messages to Argue Her Texts Could Be Faked
+**C-1409** Host Says X Users Made Fake Messages to Argue Her Texts Could Be Faked
 
 Claim Timestamp: 00:07:10
 
@@ -1520,7 +1519,7 @@ Investigative Direction: Collect the fake-message posts and compare with Andrew 
 
 ---
 
-**C-12068** Ashton Forbes Posted That Candace Has No Credibility and Telegram Chats Are Scams
+**C-1410** Ashton Forbes Posted That Candace Has No Credibility and Telegram Chats Are Scams
 
 Claim Timestamp: 00:07:45
 
@@ -1536,7 +1535,7 @@ Investigative Direction: Pull the original Forbes post and its timestamp; check 
 
 ---
 
-**C-12069** Ashton Forbes Posted That Even Real Texts Mean Nothing About Charlie's Death
+**C-1412** Ashton Forbes Posted That Even Real Texts Mean Nothing About Charlie's Death
 
 Claim Timestamp: 00:08:15
 
@@ -1548,11 +1547,11 @@ Anchored Artifacts: A-3182.1
 Mentions: N-902, N-1, N-40
 Related Nodes: N-10206
 Tags: relevance:context
-Investigative Direction: Pull the original post; compare with Andrew Kolvet's statement (C-1380 and C-1382) that the chain fits Kirk's known frustrations about Israel.
+Investigative Direction: Pull the original post; compare with Andrew Kolvet's statement (C-1431 and C-1440) that the chain fits Kirk's known frustrations about Israel.
 
 ---
 
-**C-12070** Ashton Forbes Posted That Candace Is Building a Literal Cult
+**C-1413** Ashton Forbes Posted That Candace Is Building a Literal Cult
 
 Claim Timestamp: 00:08:30
 
@@ -1568,7 +1567,7 @@ Investigative Direction: Pull the original post and any replies; this is an opin
 
 ---
 
-**C-12071** Host Says Britta Used to Work for Seth Dillon
+**C-1414** Host Says Britta Used to Work for Seth Dillon
 
 Claim Timestamp: 00:08:55
 
@@ -1583,7 +1582,7 @@ Investigative Direction: Check Britta's public employment history with Seth Dill
 
 ---
 
-**C-12072** Host Says Laura Loomer Is Legally Not Allowed to Own a Gun
+**C-1416** Host Says Laura Loomer Is Legally Not Allowed to Own a Gun
 
 Claim Timestamp: 00:09:30
 
@@ -1599,7 +1598,7 @@ Investigative Direction: Look for court records of any firearm prohibition or in
 
 ---
 
-**C-12073** Loomer Posted That Candace Will Be Sued by TPUSA and Macron's Wife
+**C-1417** Loomer Posted That Candace Will Be Sued by TPUSA and Macron's Wife
 
 Claim Timestamp: 00:09:50
 
@@ -1615,7 +1614,7 @@ Investigative Direction: Pull the original Loomer post and check for any TPUSA l
 
 ---
 
-**C-12074** Host Says She Called Her Release Week Blitzkrieg Week
+**C-1418** Host Says She Called Her Release Week Blitzkrieg Week
 
 Claim Timestamp: 00:10:25
 
@@ -1630,7 +1629,7 @@ Investigative Direction: Find the host's earlier episodes using the phrase; this
 
 ---
 
-**C-12075** Britta Posted That Candace Uses Nazi Terminology While Inciting Harassment of TPUSA Staff
+**C-1419** Britta Posted That Candace Uses Nazi Terminology While Inciting Harassment of TPUSA Staff
 
 Claim Timestamp: 00:10:40
 
@@ -1645,7 +1644,7 @@ Investigative Direction: Pull the original post; the host denies the characteriz
 
 ---
 
-**C-12076** Host Says Megyn Kelly Is Being Abused Over the Host's Content
+**C-1420** Host Says Megyn Kelly Is Being Abused Over the Host's Content
 
 Claim Timestamp: 00:10:55
 
@@ -1657,11 +1656,11 @@ Anchored Artifacts:
 Mentions: N-46, N-3
 Related Nodes: N-10406
 Tags: relevance:context
-Investigative Direction: Compare with the host's earlier claim (C-10771) that agents press Kelly to denounce her; find the original post.
+Investigative Direction: Compare with the host's earlier claim (C-1153) that agents press Kelly to denounce her; find the original post.
 
 ---
 
-**C-12077** Host Says the Washington Post Uses the Word Blitzkrieg for White House Events
+**C-1422** Host Says the Washington Post Uses the Word Blitzkrieg for White House Events
 
 Claim Timestamp: 00:11:40
 
@@ -1676,7 +1675,7 @@ Investigative Direction: Search Washington Post coverage of the White House for 
 
 ---
 
-**C-12078** Host Calls Nick Fuentes a Routine Federal Informant
+**C-1423** Host Calls Nick Fuentes a Routine Federal Informant
 
 Claim Timestamp: 00:11:45
 
@@ -1692,7 +1691,7 @@ Investigative Direction: The host gives no evidence; look for any court or FOIA 
 
 ---
 
-**C-12079** Fuentes Asked Why She Censored the Other Names in the Chat
+**C-1424** Fuentes Asked Why She Censored the Other Names in the Chat
 
 Claim Timestamp: 00:11:55
 
@@ -1704,11 +1703,11 @@ Anchored Artifacts: A-1227.6
 Mentions: N-201, N-3
 Related Nodes: N-10206
 Tags: relevance:context
-Investigative Direction: Obtain the uncensored chain from the host or from Kolvet's shared screen grab to see who was in it; compare with C-1377 (Josh Hammer named).
+Investigative Direction: Obtain the uncensored chain from the host or from Kolvet's shared screen grab to see who was in it; compare with C-1352 (Josh Hammer named).
 
 ---
 
-**C-12080** Fuentes Posted That Kirk Led the Pro-Israel Cause After a Donor Stopped Giving Millions
+**C-1426** Fuentes Posted That Kirk Led the Pro-Israel Cause After a Donor Stopped Giving Millions
 
 Claim Timestamp: 00:12:15
 
@@ -1719,13 +1718,13 @@ Transcript Snippet: Charlie Kirk said he had no choice to lead the pro-Israel ca
 Anchored Artifacts: A-3183.1
 Mentions: N-201, N-1
 Related Nodes: N-10206
-Supports: C-1375
+Supports: C-1349
 Tags: relevance:context
 Investigative Direction: Pull the original Fuentes post and compare with the text chain wording on the lost donor money; identify the donor.
 
 ---
 
-**C-12081** Host Says She Did Not Take Fuentes's Eulogy of Kirk Seriously
+**C-1427** Host Says She Did Not Take Fuentes's Eulogy of Kirk Seriously
 
 Claim Timestamp: 00:12:30
 
@@ -1740,7 +1739,7 @@ Investigative Direction: The host offers no evidence of payment; find any named 
 
 ---
 
-**C-12082** Misfit Patriot Offered Every Shekel if the Texts Were Proven Real
+**C-1429** Misfit Patriot Offered Every Shekel if the Texts Were Proven Real
 
 Claim Timestamp: 00:12:55
 
@@ -1755,7 +1754,7 @@ Investigative Direction: Pull the original post and the Community Note; the acco
 
 ---
 
-**C-12083** Host Says She Did Not Manufacture the Text Messages
+**C-1430** Host Says She Did Not Manufacture the Text Messages
 
 Claim Timestamp: 00:13:10
 
@@ -1766,13 +1765,13 @@ Transcript Snippet: First off, I'm not even inclined towards tech, but also woul
 Anchored Artifacts: A-1232.1
 Mentions: N-3
 Related Nodes: N-10206
-Supports: C-1380
+Supports: C-1431
 Tags: relevance:core
-Investigative Direction: Kolvet's confirmation (C-1380) already authenticates the screen grab; ask him or TPUSA whether the full chain matches the one the host released.
+Investigative Direction: Kolvet's confirmation (C-1431) already authenticates the screen grab; ask him or TPUSA whether the full chain matches the one the host released.
 
 ---
 
-**C-12084** Kolvet Says He Did Not Share the Screen Grab Publicly Because It Was a Private Exchange
+**C-1432** Kolvet Says He Did Not Share the Screen Grab Publicly Because It Was a Private Exchange
 
 Claim Timestamp: 00:14:30
 
@@ -1788,7 +1787,7 @@ Investigative Direction: Obtain the Charlie Kirk Show audio and date; ask Kolvet
 
 ---
 
-**C-12085** Kolvet Acknowledges Criticism That TPUSA Is Not Investigating Every Lead
+**C-1434** Kolvet Acknowledges Criticism That TPUSA Is Not Investigating Every Lead
 
 Claim Timestamp: 00:15:40
 
@@ -1804,7 +1803,7 @@ Investigative Direction: Ask TPUSA to list the leads it has pursued and any inve
 
 ---
 
-**C-12086** Kolvet Says He Was Not an Eyewitness and Flew to Utah Immediately
+**C-1436** Kolvet Says He Was Not an Eyewitness and Flew to Utah Immediately
 
 Claim Timestamp: 00:16:30
 
@@ -1820,7 +1819,7 @@ Investigative Direction: Compare with flight and itinerary records for Kolvet on
 
 ---
 
-**C-12087** Kolvet Says He Will Not Impugn Anyone Asking Questions and Free Speech Is the North Star
+**C-1437** Kolvet Says He Will Not Impugn Anyone Asking Questions and Free Speech Is the North Star
 
 Claim Timestamp: 00:16:55
 
@@ -1835,7 +1834,7 @@ Investigative Direction: Compare with later statements from Kolvet and other TPU
 
 ---
 
-**C-12088** Kolvet Says the Text Chain Is Consistent With Frustrations Kirk Voiced Publicly
+**C-1439** Kolvet Says the Text Chain Is Consistent With Frustrations Kirk Voiced Publicly
 
 Claim Timestamp: 00:17:20
 
@@ -1851,7 +1850,7 @@ Investigative Direction: List the public occasions where Kirk voiced these frust
 
 ---
 
-**C-12089** Kolvet Says He and Blake Workshopped Kirk's Israel Answers for the Tour
+**C-1438** Kolvet Says He and Blake Workshopped Kirk's Israel Answers for the Tour
 
 Claim Timestamp: 00:17:03
 
@@ -1867,7 +1866,7 @@ Investigative Direction: Ask Kolvet and Neff for the tour prep notes or messages
 
 ---
 
-**C-12090** Host Says She Never Stated That Israel Killed Charlie
+**C-1441** Host Says She Never Stated That Israel Killed Charlie
 
 Claim Timestamp: 00:19:20
 
@@ -1883,7 +1882,7 @@ Investigative Direction: Search the host's prior episodes for any statement attr
 
 ---
 
-**C-12091** Host Says No Israeli Name Has Surfaced and Only One Jewish Person, George Zinn
+**C-1442** Host Says No Israeli Name Has Surfaced and Only One Jewish Person, George Zinn
 
 Claim Timestamp: 00:19:40
 
@@ -1899,7 +1898,7 @@ Investigative Direction: Check whether the host's later episodes name any Israel
 
 ---
 
-**C-12092** Host Says an Underground Movement of Truth Tellers Includes Donors and Government Employees
+**C-1443** Host Says an Underground Movement of Truth Tellers Includes Donors and Government Employees
 
 Claim Timestamp: 00:20:00
 
@@ -1910,11 +1909,11 @@ Transcript Snippet: There is an underground movement of knights all around the w
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Tags: relevance:core
-Investigative Direction: Ask the host for named, on-the-record members of each group; compare with the Mappin letter (C-1393).
+Investigative Direction: Ask the host for named, on-the-record members of each group; compare with the Mappin letter (C-1501).
 
 ---
 
-**C-12093** Host Says Bowyer Impugns Critics and Asks Kolvet to Send Bowyer and Alex Clark the Free-Speech Memo
+**C-1444** Host Says Bowyer Impugns Critics and Asks Kolvet to Send Bowyer and Alex Clark the Free-Speech Memo
 
 Claim Timestamp: 00:20:50
 
@@ -1930,7 +1929,7 @@ Investigative Direction: Collect Bowyer and Clark posts from the days before to 
 
 ---
 
-**C-12094** Host Says Kirk Had Not Told Her Himself and Her Sources Spoke Off the Record
+**C-1446** Host Says Kirk Had Not Told Her Himself and Her Sources Spoke Off the Record
 
 Claim Timestamp: 00:21:40
 
@@ -1941,13 +1940,13 @@ Transcript Snippet: He had not expressed that to me. So I am telling you this ba
 Anchored Artifacts: A-1235.1
 Mentions: N-1, N-3
 Related Nodes: N-11013
-Supports: C-1398
+Supports: C-1445
 Tags: relevance:core
 Investigative Direction: Ask the three sources, through the host, to go on the record or produce the written communication two of them reportedly hold.
 
 ---
 
-**C-12095** Host Says She Waited to Release the Texts Deliberately and Has More
+**C-1447** Host Says She Waited to Release the Texts Deliberately and Has More
 
 Claim Timestamp: 00:22:15
 
@@ -1959,11 +1958,11 @@ Anchored Artifacts: A-1227.6
 Mentions: N-3
 Related Nodes: N-10206
 Tags: relevance:core
-Investigative Direction: Establish the date the host received the chain; the host has not published it on air. Compare with Fuentes's four-week question (C-1389).
+Investigative Direction: Establish the date the host received the chain; the host has not published it on air. Compare with Fuentes's four-week question (C-1421).
 
 ---
 
-**C-12096** Host Says Josh Hammer Spread Lies That Charlie Never Flinched on Israel
+**C-1448** Host Says Josh Hammer Spread Lies That Charlie Never Flinched on Israel
 
 Claim Timestamp: 00:23:25
 
@@ -1975,11 +1974,11 @@ Anchored Artifacts: A-1234.1
 Mentions: N-55, N-1, N-3
 Related Nodes: N-10187
 Tags: relevance:context
-Investigative Direction: Collect Hammer's public statements since September 10 and compare with the chain in which he is a participant (C-1377).
+Investigative Direction: Collect Hammer's public statements since September 10 and compare with the chain in which he is a participant (C-1352).
 
 ---
 
-**C-12097** Host Says the Group Chat With Josh Hammer Dates to About 48 Hours Before Kirk's Death
+**C-1450** Host Says the Group Chat With Josh Hammer Dates to About 48 Hours Before Kirk's Death
 
 Claim Timestamp: 00:24:10
 
@@ -1990,13 +1989,13 @@ Transcript Snippet: 48 hours before Josh Hammer was on that text thread.
 Anchored Artifacts: A-1232.1
 Mentions: N-55, N-1, N-3
 Related Nodes: N-10187
-Supports: C-1377
+Supports: C-1352
 Tags: relevance:core
 Investigative Direction: Establish the dates of the messages in the chain; the host's phrasing is ambiguous, so confirm what the 48 hours measures.
 
 ---
 
-**C-12098** Hammer Said He Read Kirk's Letter to Netanyahu in June or July
+**C-1451** Hammer Said He Read Kirk's Letter to Netanyahu in June or July
 
 Claim Timestamp: 00:24:50
 
@@ -2007,11 +2006,11 @@ Transcript Snippet: This letter that he wrote to the prime minister, Chris, I re
 Anchored Artifacts: A-3184.1
 Mentions: N-55, N-1, N-36
 Tags: relevance:core
-Investigative Direction: Compare with the claim that Netanyahu's office released the letter weeks after Kirk's death (C-1331); ask Hammer how he read it in June or July.
+Investigative Direction: Compare with the claim that Netanyahu's office released the letter weeks after Kirk's death (C-1133); ask Hammer how he read it in June or July.
 
 ---
 
-**C-12099** Hammer Said the Letter Opens With Kirk Defending the State of Israel
+**C-1452** Hammer Said the Letter Opens With Kirk Defending the State of Israel
 
 Claim Timestamp: 00:25:05
 
@@ -2023,11 +2022,11 @@ Anchored Artifacts: A-3184.1
 Mentions: N-55, N-1, N-36
 Related Nodes: N-10018
 Tags: relevance:core
-Investigative Direction: Obtain the authenticated letter and check its opening line; compare with C-1331 and C-9305, which question its provenance.
+Investigative Direction: Obtain the authenticated letter and check its opening line; compare with C-1133 and C-1134, which question its provenance.
 
 ---
 
-**C-12100** Host Says She Sent a Life-Insurance Package to Trusted People
+**C-1453** Host Says She Sent a Life-Insurance Package to Trusted People
 
 Claim Timestamp: 00:26:25
 
@@ -2043,7 +2042,7 @@ Investigative Direction: Ask the host for the date and the number of recipients;
 
 ---
 
-**C-12101** Host Says People Are Trying to Bankrupt Her and Threatening Suits
+**C-1454** Host Says People Are Trying to Bankrupt Her and Threatening Suits
 
 Claim Timestamp: 00:26:50
 
@@ -2058,7 +2057,7 @@ Investigative Direction: Identify the filed suits and threat letters against the
 
 ---
 
-**C-12102** Host Says Kanye West Was Right About What It Takes to Leave
+**C-1455** Host Says Kanye West Was Right About What It Takes to Leave
 
 Claim Timestamp: 00:27:05
 
@@ -2073,7 +2072,7 @@ Investigative Direction: Opinion about Kanye West's past statements; nothing to 
 
 ---
 
-**C-12103** Host Says She Gave Recipients Explicit Permission to Release Everything
+**C-1456** Host Says She Gave Recipients Explicit Permission to Release Everything
 
 Claim Timestamp: 00:27:15
 
@@ -2089,7 +2088,7 @@ Investigative Direction: Nothing to verify until a release occurs; ask the host 
 
 ---
 
-**C-12104** Host Urges Everyone With a Platform to Do the Same
+**C-1457** Host Urges Everyone With a Platform to Do the Same
 
 Claim Timestamp: 00:27:35
 
@@ -2105,7 +2104,7 @@ Investigative Direction: A recommendation that cannot be verified; recorded to t
 
 ---
 
-**C-12105** Host Says She Sent Material to Journalists From Max Blumenthal to Andrew Tate
+**C-1458** Host Says She Sent Material to Journalists From Max Blumenthal to Andrew Tate
 
 Claim Timestamp: 00:27:50
 
@@ -2121,7 +2120,7 @@ Investigative Direction: Ask Blumenthal and Tate or their staff whether they rec
 
 ---
 
-**C-12106** O'Neill Said Kirk Was Obviously Dead Before He Hit the Ground
+**C-1460** O'Neill Said Kirk Was Obviously Dead Before He Hit the Ground
 
 Claim Timestamp: 00:28:35
 
@@ -2136,7 +2135,7 @@ Investigative Direction: Obtain the autopsy or surgeon account of the time of de
 
 ---
 
-**C-12107** O'Neill Said Kirk Was Not Wearing Body Armor and the Shot Would Not Deflect That Way
+**C-1462** O'Neill Said Kirk Was Not Wearing Body Armor and the Shot Would Not Deflect That Way
 
 Claim Timestamp: 00:29:20
 
@@ -2148,11 +2147,11 @@ Anchored Artifacts: A-1229.2
 Mentions: N-153, N-1
 Related Nodes: N-10085
 Tags: relevance:core
-Investigative Direction: Compare with TPUSA and Kolvet accounts of whether Kirk wore a vest; compare with the host's claim that he did not (C-9291).
+Investigative Direction: Compare with TPUSA and Kolvet accounts of whether Kirk wore a vest; compare with the host's claim that he did not (C-1116).
 
 ---
 
-**C-12108** O'Neill Said Interviewed Witnesses Described Right-to-Left Shots and Were Shut Down
+**C-1463** O'Neill Said Interviewed Witnesses Described Right-to-Left Shots and Were Shut Down
 
 Claim Timestamp: 00:29:30
 
@@ -2164,11 +2163,11 @@ Anchored Artifacts: A-1229.2
 Mentions: N-153, N-1
 Related Nodes: N-10085
 Tags: relevance:core
-Investigative Direction: Identify the interviewed witnesses and the outlets that dropped their accounts; compare with the shirt-movement claim (C-1385).
+Investigative Direction: Identify the interviewed witnesses and the outlets that dropped their accounts; compare with the shirt-movement claim (C-1461).
 
 ---
 
-**C-12109** O'Neill Said 22-Year-Olds Do Not Send Their Lovers Soliloquies of Texts
+**C-1464** O'Neill Said 22-Year-Olds Do Not Send Their Lovers Soliloquies of Texts
 
 Claim Timestamp: 00:29:40
 
@@ -2179,13 +2178,13 @@ Transcript Snippet: saliloquy of text messages that 22-year-olds don't send thei
 Anchored Artifacts: A-1229.2
 Mentions: N-153, N-40
 Related Nodes: N-10077
-Supports: C-1175
+Supports: C-300
 Tags: relevance:core
 Investigative Direction: Compare the indictment text with Robinson's other messages and with linguistic analysis of the chain.
 
 ---
 
-**C-12110** Host Says the Feds Only Lie to Cover Their Own Tracks and Protect Their Bosses
+**C-1466** Host Says the Feds Only Lie to Cover Their Own Tracks and Protect Their Bosses
 
 Claim Timestamp: 00:30:20
 
@@ -2196,13 +2195,13 @@ Transcript Snippet: The feds only lie to cover their own tracks. They are protec
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10133
-Supports: C-6449
+Supports: C-1325
 Tags: relevance:core
 Investigative Direction: The host names no specific lie in this passage; map it to the specific statements she disputes later in the episode.
 
 ---
 
-**C-12111** Host Says She Believes It Was a Military Hit With Foreign Actors and Literal Actors
+**C-1467** Host Says She Believes It Was a Military Hit With Foreign Actors and Literal Actors
 
 Claim Timestamp: 00:35:05
 
@@ -2214,11 +2213,11 @@ Anchored Artifacts:
 Mentions: N-1, N-3
 Related Nodes: N-10172
 Tags: relevance:core
-Investigative Direction: The host presents it as a belief; look for any evidence she cites later and compare with her C-10791 hunch about a military operation by people from overseas.
+Investigative Direction: The host presents it as a belief; look for any evidence she cites later and compare with her C-1181 hunch about a military operation by people from overseas.
 
 ---
 
-**C-12112** Host Says the Day Ran Like the JFK Assassination With Multiple Decoys
+**C-1468** Host Says the Day Ran Like the JFK Assassination With Multiple Decoys
 
 Claim Timestamp: 00:35:25
 
@@ -2234,7 +2233,7 @@ Investigative Direction: Identify the decoy persons and the footage she relies o
 
 ---
 
-**C-12113** Host Says the Stairs Man Did Not Kill Charlie and the Stairs Photo May Be From Another Day
+**C-1469** Host Says the Stairs Man Did Not Kill Charlie and the Stairs Photo May Be From Another Day
 
 Claim Timestamp: 00:35:40
 
@@ -2250,7 +2249,7 @@ Investigative Direction: Obtain the FBI release metadata for the stairs photo an
 
 ---
 
-**C-12114** Host Says the Rooftop Runner Was Another Decoy and the Shot Did Not Come From the Losee Center
+**C-1470** Host Says the Rooftop Runner Was Another Decoy and the Shot Did Not Come From the Losee Center
 
 Claim Timestamp: 00:35:55
 
@@ -2266,7 +2265,7 @@ Investigative Direction: Obtain the rooftop footage, the ballistics trajectory r
 
 ---
 
-**C-12115** Host Says There Were Four Decoys: Zinn, Staircase Guy, Maroon Shirt Guy and Losee Center Guy
+**C-1472** Host Says There Were Four Decoys: Zinn, Staircase Guy, Maroon Shirt Guy and Losee Center Guy
 
 Claim Timestamp: 00:36:20
 
@@ -2282,7 +2281,7 @@ Investigative Direction: Ask the host to identify each decoy by footage time and
 
 ---
 
-**C-12116** Host Says Lance Twiggs Is Likely the Maroon Shirt Walker, Thinner Than Robinson
+**C-1473** Host Says Lance Twiggs Is Likely the Maroon Shirt Walker, Thinner Than Robinson
 
 Claim Timestamp: 00:36:40
 
@@ -2298,7 +2297,7 @@ Investigative Direction: Compare heights and builds from known photographs of Tw
 
 ---
 
-**C-12117** Host Speculates Robinson Was Driving Around Campus Assisting Costume Changes
+**C-1474** Host Speculates Robinson Was Driving Around Campus Assisting Costume Changes
 
 Claim Timestamp: 00:36:55
 
@@ -2314,7 +2313,7 @@ Investigative Direction: Obtain vehicle, license plate reader and campus camera 
 
 ---
 
-**C-12118** Host Says Robinson Was Seen at Dairy Queen Dumping Clothing in the Cemetery
+**C-1475** Host Says Robinson Was Seen at Dairy Queen Dumping Clothing in the Cemetery
 
 Claim Timestamp: 00:37:05
 
@@ -2330,7 +2329,7 @@ Investigative Direction: Identify the source of the dumping sighting and any Dai
 
 ---
 
-**C-12119** Host Says a First-Time Killer Would Not Sit Down for Dairy Queen After an Adrenaline Surge
+**C-1476** Host Says a First-Time Killer Would Not Sit Down for Dairy Queen After an Adrenaline Surge
 
 Claim Timestamp: 00:37:30
 
@@ -2342,11 +2341,11 @@ Anchored Artifacts:
 Mentions: N-40, N-3
 Related Nodes: N-10051
 Tags: relevance:context
-Investigative Direction: This is the host's inference; compare with the Dairy Queen photo time (C-1186) and any physiology expert comment.
+Investigative Direction: This is the host's inference; compare with the Dairy Queen photo time (C-403) and any physiology expert comment.
 
 ---
 
-**C-12120** Host Says Officials Are Freaking Out About the Dairy Queen Leak Because It Disrupts Their Narrative
+**C-1477** Host Says Officials Are Freaking Out About the Dairy Queen Leak Because It Disrupts Their Narrative
 
 Claim Timestamp: 00:37:55
 
@@ -2362,7 +2361,7 @@ Investigative Direction: Identify who the host means by officials and whether an
 
 ---
 
-**C-12121** Host Guesses Lance Twiggs Is a Federal Asset, Perhaps Through Discord Work
+**C-1478** Host Guesses Lance Twiggs Is a Federal Asset, Perhaps Through Discord Work
 
 Claim Timestamp: 00:38:10
 
@@ -2378,7 +2377,7 @@ Investigative Direction: Look for records of any federal contact with Twiggs; th
 
 ---
 
-**C-12122** Host Says the Government Lied That Lance Came In Peacefully and Handed Over Everything
+**C-1479** Host Says the Government Lied That Lance Came In Peacefully and Handed Over Everything
 
 Claim Timestamp: 00:38:30
 
@@ -2389,13 +2388,13 @@ Transcript Snippet: the government lied when they said, uh, Lance, you know, I'm
 Anchored Artifacts: A-1235.2
 Mentions: N-41, N-54, N-40, N-3
 Related Nodes: N-10034
-Contradicts: C-10702
+Contradicts: C-136
 Tags: relevance:core
 Investigative Direction: Obtain the press conference transcript, the search warrant return and bodycam or interview logs showing what Lance handed over and when he was released.
 
 ---
 
-**C-12123** Host Says Investigators Were Going Off Mike Mitchell's Tip and Had No Confession
+**C-1481** Host Says Investigators Were Going Off Mike Mitchell's Tip and Had No Confession
 
 Claim Timestamp: 00:39:15
 
@@ -2411,7 +2410,7 @@ Investigative Direction: Compare with episode 11 accounts of a retired detective
 
 ---
 
-**C-12124** Host Says the Feds Are Staging the Whole Operation, Including the Note Under the Keyboard
+**C-1482** Host Says the Feds Are Staging the Whole Operation, Including the Note Under the Keyboard
 
 Claim Timestamp: 00:39:45
 
@@ -2427,7 +2426,7 @@ Investigative Direction: Obtain the search warrant inventory and any chain of cu
 
 ---
 
-**C-12125** Host Says Lance Has Been in an Unknown Location Since the Raid
+**C-1484** Host Says Lance Has Been in an Unknown Location Since the Raid
 
 Claim Timestamp: 00:40:45
 
@@ -2439,11 +2438,11 @@ Anchored Artifacts: A-1235.3
 Mentions: N-54
 Related Nodes: N-10044
 Tags: relevance:core
-Investigative Direction: Check public sightings of Twiggs and any family statements about contact since the raid; compare with the family's account (C-1400).
+Investigative Direction: Check public sightings of Twiggs and any family statements about contact since the raid; compare with the family's account (C-1480).
 
 ---
 
-**C-12126** Host Says She Never Thought the Maroon Shirt Person Was the Person With the Limp
+**C-1485** Host Says She Never Thought the Maroon Shirt Person Was the Person With the Limp
 
 Claim Timestamp: 00:41:05
 
@@ -2454,13 +2453,13 @@ Transcript Snippet: I never for a second thought the person that was in the maro
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10043, N-10168
-Supports: C-1183
+Supports: C-348
 Tags: relevance:core
 Investigative Direction: Compare gait, build and clothing in the maroon-shirt footage and the limping-person footage.
 
 ---
 
-**C-12127** Host Says It Would Be Interesting If the Feds Were Paying George Zinn
+**C-1487** Host Says It Would Be Interesting If the Feds Were Paying George Zinn
 
 Claim Timestamp: 00:42:30
 
@@ -2471,13 +2470,13 @@ Transcript Snippet: it would be very interesting if the feds were going to pay G
 Anchored Artifacts: 
 Mentions: N-42, N-3
 Related Nodes: N-10173, N-10170
-Supports: C-1402
+Supports: C-1486
 Tags: relevance:core
 Investigative Direction: Obtain any records of payment to Zinn and the tip source for his federal connections; the host says she has not yet confirmed the tip.
 
 ---
 
-**C-12128** Host Says the Feds Questioned Other People They Have Not Disclosed
+**C-1488** Host Says the Feds Questioned Other People They Have Not Disclosed
 
 Claim Timestamp: 00:42:55
 
@@ -2493,7 +2492,7 @@ Investigative Direction: Ask the host for the number of such people and her sour
 
 ---
 
-**C-12129** Host Says the Silence Orders Are Because the Feds Do Not Want to Get Caught
+**C-1489** Host Says the Silence Orders Are Because the Feds Do Not Want to Get Caught
 
 Claim Timestamp: 00:43:00
 
@@ -2504,13 +2503,13 @@ Transcript Snippet: they are not asking everyone to be silent because they are s
 Anchored Artifacts: 
 Mentions: N-40, N-3
 Related Nodes: N-10133
-Supports: C-6449
+Supports: C-1325
 Tags: relevance:core
 Investigative Direction: Identify any gag order, non-disclosure request or agency instruction to witnesses and compare with court dockets.
 
 ---
 
-**C-12130** Host Says Trump's Non-Reaction and Lack of Demands for Truth Upsets Her
+**C-1490** Host Says Trump's Non-Reaction and Lack of Demands for Truth Upsets Her
 
 Claim Timestamp: 00:43:35
 
@@ -2525,7 +2524,7 @@ Investigative Direction: Review Trump's public statements since September 10 for
 
 ---
 
-**C-12131** Host Says the Mappin Donor Unlocked Another Level of Donations for Kirk
+**C-1491** Host Says the Mappin Donor Unlocked Another Level of Donations for Kirk
 
 Claim Timestamp: 00:44:15
 
@@ -2540,7 +2539,7 @@ Investigative Direction: Identify the donors introduced by Mappin and any TPUSA 
 
 ---
 
-**C-12132** Host Says the Turning Point UK Event Was Where She First Saw Her Husband George
+**C-1494** Host Says the Turning Point UK Event Was Where She First Saw Her Husband George
 
 Claim Timestamp: 00:44:50
 
@@ -2552,11 +2551,11 @@ Anchored Artifacts:
 Mentions: N-30, N-154, N-3
 Related Nodes: N-10118, N-10126
 Tags: relevance:tangential
-Investigative Direction: Compare with episode 9 claims on the UK trip and husband meeting (C-1267, C-1268). Note that draft claim C-1395 reads George here as Zinn, which the context does not support.
+Investigative Direction: Compare with episode 9 claims on the UK trip and husband meeting (C-762, C-760). Note that draft claim C-1492 reads George here as Zinn, which the context does not support.
 
 ---
 
-**C-12133** Host Says Mappin Will Be the First of Many Donors to Make a Public Statement
+**C-1495** Host Says Mappin Will Be the First of Many Donors to Make a Public Statement
 
 Claim Timestamp: 00:45:05
 
@@ -2571,7 +2570,7 @@ Investigative Direction: Track later statements by named TPUSA donors; the host 
 
 ---
 
-**C-12134** Mappin Letter Says Kirk Went Days Without Sleep to Make Vance the Vice Presidential Nominee
+**C-1496** Mappin Letter Says Kirk Went Days Without Sleep to Make Vance the Vice Presidential Nominee
 
 Claim Timestamp: 00:46:00
 
@@ -2586,7 +2585,7 @@ Investigative Direction: Compare with reporting on Kirk's role in the 2024 Vance
 
 ---
 
-**C-12135** Mappin Letter Says the Crime Scene Was Apparently Destroyed in Days
+**C-1497** Mappin Letter Says the Crime Scene Was Apparently Destroyed in Days
 
 Claim Timestamp: 00:46:20
 
@@ -2597,13 +2596,13 @@ Transcript Snippet: a crime scene apparently completely destroyed in days and pl
 Anchored Artifacts: A-1231.1
 Mentions: N-154, N-155
 Related Nodes: N-10107
-Supports: C-1386
+Supports: C-1465
 Tags: relevance:core
 Investigative Direction: Obtain UVU work orders and photographs of the site showing when cleanup and paving occurred.
 
 ---
 
-**C-12136** Mappin Letter Calls for Authorities to Share Everything With Candace and Her Team
+**C-1498** Mappin Letter Calls for Authorities to Share Everything With Candace and Her Team
 
 Claim Timestamp: 00:48:20
 
@@ -2618,7 +2617,7 @@ Investigative Direction: Check whether any authority responded to or acknowledge
 
 ---
 
-**C-12137** Mappin Letter Says Candace Is One of the Only Public Voices From Kirk's Closest Friends
+**C-1499** Mappin Letter Says Candace Is One of the Only Public Voices From Kirk's Closest Friends
 
 Claim Timestamp: 00:49:15
 
@@ -2633,7 +2632,7 @@ Investigative Direction: Compare with statements by other Kirk friends, such as 
 
 ---
 
-**C-12138** Host Says She Told Viewers Charlie's Life Was Like the Truman Show
+**C-1502** Host Says She Told Viewers Charlie's Life Was Like the Truman Show
 
 Claim Timestamp: 00:53:40
 
@@ -2648,7 +2647,7 @@ Investigative Direction: Locate the earlier episode where the host said this; it
 
 ---
 
-**C-12139** Host Says Critics Tried to Wipe Away Her Friendship With Kirk by Claiming They Had Not Spoken Since 2015
+**C-1503** Host Says Critics Tried to Wipe Away Her Friendship With Kirk by Claiming They Had Not Spoken Since 2015
 
 Claim Timestamp: 00:54:25
 
@@ -2659,11 +2658,11 @@ Transcript Snippet: when they even tried to wipe away my friendship, like she ha
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Tags: relevance:context
-Investigative Direction: Identify who made the 2015 claim; compare with the host's dated texts with Kirk (C-1222) and the Mappin letter's description of their friendship.
+Investigative Direction: Identify who made the 2015 claim; compare with the host's dated texts with Kirk (C-555) and the Mappin letter's description of their friendship.
 
 ---
 
-**C-12140** Host Says She Has the Names of the Security Team, Including People Not Yet Identified
+**C-1504** Host Says She Has the Names of the Security Team, Including People Not Yet Identified
 
 Claim Timestamp: 00:58:00
 
@@ -2679,7 +2678,7 @@ Investigative Direction: Ask the host to publish the roster or give it to a name
 
 ---
 
-**C-12141** Host Says Pastors Have Been Part of Spreading the Lies, as She Showed the Day Before
+**C-1505** Host Says Pastors Have Been Part of Spreading the Lies, as She Showed the Day Before
 
 Claim Timestamp: 01:00:40
 
@@ -2690,13 +2689,13 @@ Transcript Snippet: as I showed you yesterday, you know, pastors that have been 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10139
-Supports: C-1378
+Supports: C-1391
 Tags: relevance:context
 Investigative Direction: Review the pastor sermon clips from the prior episode and identify the pastors.
 
 ---
 
-**C-12142** Host Agrees Judeo-Christian Is a Convenient Word for Israel and Values Are Not Shared
+**C-1506** Host Agrees Judeo-Christian Is a Convenient Word for Israel and Values Are Not Shared
 
 Claim Timestamp: 01:01:00
 
@@ -2707,11 +2706,11 @@ Transcript Snippet: It seems to be a very convenient word for Israel. I don't th
 Anchored Artifacts: A-3186.2
 Mentions: N-3
 Tags: relevance:tangential
-Investigative Direction: Opinion on religious terminology; compare with C-6466 on the Judeo-Christian chart the host says she sent Kirk.
+Investigative Direction: Opinion on religious terminology; compare with C-1342 on the Judeo-Christian chart the host says she sent Kirk.
 
 ---
 
-**C-12143** Host Agrees Kirk Knew He Was Going to Be Killed
+**C-1508** Host Agrees Kirk Knew He Was Going to Be Killed
 
 Claim Timestamp: 01:03:00
 
@@ -2722,13 +2721,13 @@ Transcript Snippet: He knew. He would know. He knew he was going to be killed.
 Anchored Artifacts: A-1233.1
 Mentions: N-1, N-7
 Related Nodes: N-11013
-Supports: C-1398
+Supports: C-1445
 Tags: relevance:core
 Investigative Direction: Obtain the Turek podcast clip and the three sources' written communication; compare dates against the claim that Kirk feared being killed the day before.
 
 ---
 
-**C-12144** Host Thanks Viewers Who Joined 'Our CIA, the Decentralized,' Which She Calls More of a Threat
+**C-1509** Host Thanks Viewers Who Joined 'Our CIA, the Decentralized,' Which She Calls More of a Threat
 
 Claim Timestamp: 01:03:45
 
@@ -2743,7 +2742,7 @@ Investigative Direction: Not a factual claim about the case; recorded as a DIA b
 
 ---
 
-**C-12145** Host Says the Freud Book Club Book Is One They Will Not Reprint
+**C-1510** Host Says the Freud Book Club Book Is One They Will Not Reprint
 
 Claim Timestamp: 01:04:28
 
@@ -2753,7 +2752,7 @@ Transcript Snippet: this book which they will not reprint but is a must readad S
 
 Anchored Artifacts: 
 Mentions: N-50, N-3
-Supports: C-6506
+Supports: C-1396
 Tags: relevance:tangential
 Investigative Direction: Check the book's print status with the publisher; the host asserts it will not be reprinted.
 
@@ -2907,7 +2906,7 @@ Confidence: medium
 - **Artifact verbally referenced but not shown – A-1233.1 / N-7 (Frank Turek podcast):** The Frank Turek podcast containing Charlie Kirk's "they want him dead" statement is referenced via a YouTube comment (Luna) and not directly played or displayed. Verification requires locating the original podcast episode.
 - **Artifact read-aloud but audio playback unverified – A-1234.1 (Josh Hammer show appearance):** The Josh Hammer Zoom-call statement is rendered by Candace in quotes but no audio playback markers (>>) appear; cannot confirm whether the original show audio was played.
 - **Claim failed admission test – none formally:** All inscribed claims passed the artifact-anchor, falsifiability, and rhetoric-removal tests. Several host framing statements (e.g., "this is a military hit that involved foreign actors," "they are protecting themselves and their bosses") were excluded as failing the rhetoric-removal test.
-- **Contradiction noted but not dual-inscribed:** Charlie Kirk's Israel-position framing now has artifact-anchored opposing sides – (a) Hammer/Loomer/Fuentes public posture of unwavering pro-Israel commitment to death (A-1227.4, A-1227.6, A-1234.1) versus (b) Kolvet "complicated/wrestle" + text chain (A-1228.4, A-1232.1). Both sides artifact-anchored; not split into a separate "Contradiction" register per protocol but cross-referenced through C-1382 / C-1397.
+- **Contradiction noted but not dual-inscribed:** Charlie Kirk's Israel-position framing now has artifact-anchored opposing sides – (a) Hammer/Loomer/Fuentes public posture of unwavering pro-Israel commitment to death (A-1227.4, A-1227.6, A-1234.1) versus (b) Kolvet "complicated/wrestle" + text chain (A-1228.4, A-1232.1). Both sides artifact-anchored; not split into a separate "Contradiction" register per protocol but cross-referenced through C-1440 / C-1449.
 - **Transcript ambiguity – "Jed Irina":** Candace later jokes "you can be angry at Jed Irina for writing that"; appears to be wordplay on "Irina." Flagged for potential transcription or rhetorical confusion.
 
 ---

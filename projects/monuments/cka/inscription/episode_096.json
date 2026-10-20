@@ -27,7 +27,7 @@
           "ref": "A-2007.1",
           "description": "Trump Truth Social post criticizing Candace Owens",
           "related_claims": [
-            "C-2790"
+            "C-8547"
           ],
           "related_nodes": [
             "N-3",
@@ -55,7 +55,7 @@
           "ref": "A-2008.1",
           "description": "Washington Post headline and surveillance footage report on Secret Service firing at WHCD suspect",
           "related_claims": [
-            "C-2791"
+            "C-8573"
           ],
           "related_nodes": [
             "N-2",
@@ -75,7 +75,7 @@
           "ref": "A-2008.2",
           "description": "Evan Hill X post reporting surveillance footage showed no indication Allen fired his weapon",
           "related_claims": [
-            "C-2792"
+            "C-8574"
           ],
           "related_nodes": [
             "N-10637",
@@ -95,7 +95,7 @@
           "ref": "A-2008.3",
           "description": "Sara Sidner (CNN) clip of Erika Kirk saying \"I just want to go home\"",
           "related_claims": [
-            "C-2793"
+            "C-8577"
           ],
           "related_nodes": [
             "N-2",
@@ -115,7 +115,7 @@
           "ref": "A-2008.4",
           "description": "Baron Coleman commentary clip on WHCD media frenzy",
           "related_claims": [
-            "C-2794"
+            "C-8579"
           ],
           "related_nodes": [
             "N-2",
@@ -135,7 +135,7 @@
           "ref": "A-2008.5",
           "description": "Host on-air $10,000 bounty for opposite-side corridor footage of the Erika Kirk \"I just want to go home\" clip (verbal reference; no displayed artifact)",
           "related_claims": [
-            "C-3745"
+            "C-8578"
           ],
           "related_nodes": [
             "N-2",
@@ -163,7 +163,7 @@
           "ref": "A-2009.1",
           "description": "Erika Kirk pre-recorded statement – WHCD attendance justification",
           "related_claims": [
-            "C-2796"
+            "C-8588"
           ],
           "related_nodes": [
             "N-2",
@@ -182,7 +182,7 @@
           "ref": "A-2009.2",
           "description": "Erika Kirk pre-recorded statement – criticism of journalists filming during active shooter",
           "related_claims": [
-            "C-2798"
+            "C-8591"
           ],
           "related_nodes": [
             "N-2",
@@ -201,7 +201,7 @@
           "ref": "A-2009.3",
           "description": "Erika Kirk pre-recorded statement – criticism of Jimmy Kimmel's Melania joke",
           "related_claims": [
-            "C-2799"
+            "C-8593"
           ],
           "related_nodes": [
             "N-2",
@@ -222,7 +222,7 @@
           "ref": "A-2009.4",
           "description": "Erika Kirk pre-recorded statement – claim that Candace Owens accused her of murdering her husband",
           "related_claims": [
-            "C-2797"
+            "C-8596"
           ],
           "related_nodes": [
             "N-2",
@@ -251,7 +251,7 @@
           "ref": "A-2010.1",
           "description": "Terryl Farnsworth video recorded at Charlie Kirk shooting scene within seconds",
           "related_claims": [
-            "C-2800"
+            "C-8592"
           ],
           "related_nodes": [
             "N-1",
@@ -278,9 +278,9 @@
           "ref": "A-2011.1",
           "description": "Text message screenshot shared by Andrew Kolvet showing \"why did you murder your husband?\" with cry emojis",
           "related_claims": [
-            "C-2801",
-            "C-2802",
-            "C-2803"
+            "C-8601",
+            "C-8603",
+            "C-8604"
           ],
           "related_nodes": [
             "N-2",
@@ -309,7 +309,7 @@
           "ref": "A-2012.1",
           "description": "Laura Loomer recorded audio rant containing racial commentary about Candace Owens",
           "related_claims": [
-            "C-2804"
+            "C-8565"
           ],
           "related_nodes": [
             "N-3",
@@ -328,7 +328,7 @@
           "ref": "A-2012.2",
           "description": "Laura Loomer tweet claiming SPLC paid Candace Owens $500K to communicate David Duke talking points",
           "related_claims": [
-            "C-2805"
+            "C-8621"
           ],
           "related_nodes": [
             "N-3",
@@ -347,7 +347,7 @@
           "ref": "A-2012.3",
           "description": "Laura Loomer tweet claiming Candace Owens was at anti-Trump summit in Rome with Nick Fuentes, David Axelrod, and Aubrey Laitsch",
           "related_claims": [
-            "C-2806"
+            "C-8624"
           ],
           "related_nodes": [
             "N-3",
@@ -369,7 +369,7 @@
           "ref": "A-2012.4",
           "description": "AI-generated photo joke of Candace, Aubrey, and another figure on a scooter in Rome",
           "related_claims": [
-            "C-2806"
+            "C-8624"
           ],
           "related_nodes": [
             "N-3",
@@ -397,8 +397,8 @@
           "ref": "A-2013.1",
           "description": "Candace Owens August 2019 tweet/X post sharing toxic mold illness photo",
           "related_claims": [
-            "C-2808",
-            "C-2809"
+            "C-8552",
+            "C-8554"
           ],
           "related_nodes": [
             "N-3"
@@ -416,7 +416,7 @@
           "ref": "A-2013.2",
           "description": "Candace Owens March 2026 speech at Catholics for Catholics event mentioning upcoming confirmation",
           "related_claims": [
-            "C-2807"
+            "C-8627"
           ],
           "related_nodes": [
             "N-3"
@@ -434,7 +434,7 @@
           "ref": "A-2013.3",
           "description": "Photos of Candace Owens from August 2016, before the mold illness, shown on air",
           "related_claims": [
-            "C-3752"
+            "C-8556"
           ],
           "related_nodes": [
             "N-3",
@@ -461,7 +461,7 @@
           "ref": "A-2014.1",
           "description": "Various viewer/chat comments displayed in the episode (reactions to Erika's statement, birthday wishes, congratulations)",
           "related_claims": [
-            "C-2807"
+            "C-8627"
           ],
           "related_nodes": [
             "N-2",
@@ -488,7 +488,7 @@
           "ref": "A-2962.1",
           "description": "Baron Coleman show clip on widows and lying, played by the host",
           "related_claims": [
-            "C-8804"
+            "C-8615"
           ],
           "related_nodes": [
             "N-2",
@@ -517,8 +517,8 @@
           "ref": "A-2963.1",
           "description": "Host reads Laura Loomer tweet about lawyer departure, secret trust and fleeing the country",
           "related_claims": [
-            "C-8810",
-            "C-8811"
+            "C-8622",
+            "C-8623"
           ],
           "related_nodes": [
             "N-3",
@@ -547,7 +547,7 @@
           "ref": "A-2964.1",
           "description": "Viewer posts read aloud reacting to Erika Kirk's statement, including that the host never claimed murder",
           "related_claims": [
-            "C-8790"
+            "C-8598"
           ],
           "related_nodes": [
             "N-2",
@@ -574,7 +574,7 @@
           "ref": "A-2965.1",
           "description": "Host verbal reference to a Turning Point stage conversation between Erika Kirk and Karoline Leavitt (not shown)",
           "related_claims": [
-            "C-8785"
+            "C-8589"
           ],
           "related_nodes": [
             "N-2",
@@ -601,9 +601,9 @@
           "ref": "A-2966.1",
           "description": "Host verbal reference to Blake Neff's post saying the host implied Erika murdered her husband (not shown)",
           "related_claims": [
-            "C-8791",
-            "C-8792",
-            "C-8805"
+            "C-8599",
+            "C-8600",
+            "C-8616"
           ],
           "related_nodes": [
             "N-1",
@@ -636,9 +636,9 @@
         "A-2008.4"
       ],
       "related_claims": [
-        "C-2791",
-        "C-2792",
-        "C-2794"
+        "C-8573",
+        "C-8574",
+        "C-8579"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -658,7 +658,7 @@
         "A-2008.3"
       ],
       "related_claims": [
-        "C-2793"
+        "C-8577"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -684,11 +684,11 @@
         "A-2009.4"
       ],
       "related_claims": [
-        "C-2795",
-        "C-2796",
-        "C-2797",
-        "C-2798",
-        "C-2799"
+        "C-8583",
+        "C-8588",
+        "C-8596",
+        "C-8591",
+        "C-8593"
       ],
       "tags": [],
       "evidence_count": 4,
@@ -710,7 +710,7 @@
         "A-2007.1"
       ],
       "related_claims": [
-        "C-2790"
+        "C-8547"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -732,9 +732,9 @@
         "A-2011.1"
       ],
       "related_claims": [
-        "C-2801",
-        "C-2802",
-        "C-2803"
+        "C-8601",
+        "C-8603",
+        "C-8604"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -759,7 +759,7 @@
         "A-2011.1"
       ],
       "related_claims": [
-        "C-2797"
+        "C-8596"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -782,12 +782,12 @@
         "A-2966.1"
       ],
       "related_claims": [
-        "C-8779",
-        "C-8781",
-        "C-8784",
-        "C-8792",
-        "C-8798",
-        "C-8803"
+        "C-8581",
+        "C-8584",
+        "C-8587",
+        "C-8600",
+        "C-8609",
+        "C-8614"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -810,32 +810,32 @@
         "A-2966.1"
       ],
       "related_claims": [
-        "C-8778",
-        "C-8779",
-        "C-8780",
-        "C-8781",
-        "C-8782",
-        "C-8783",
-        "C-8784",
-        "C-8785",
-        "C-8786",
-        "C-8787",
-        "C-8788",
-        "C-8789",
-        "C-8790",
-        "C-8791",
-        "C-8792",
-        "C-8794",
-        "C-8795",
-        "C-8797",
-        "C-8798",
-        "C-8799",
-        "C-8800",
-        "C-8801",
-        "C-8802",
-        "C-8803",
-        "C-8804",
-        "C-8806"
+        "C-8580",
+        "C-8581",
+        "C-8582",
+        "C-8584",
+        "C-8585",
+        "C-8586",
+        "C-8587",
+        "C-8589",
+        "C-8590",
+        "C-8594",
+        "C-8595",
+        "C-8597",
+        "C-8598",
+        "C-8599",
+        "C-8600",
+        "C-8605",
+        "C-8606",
+        "C-8608",
+        "C-8609",
+        "C-8610",
+        "C-8611",
+        "C-8612",
+        "C-8613",
+        "C-8614",
+        "C-8615",
+        "C-8617"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -857,61 +857,61 @@
         "A-2966.1"
       ],
       "related_claims": [
-        "C-8755",
-        "C-8756",
-        "C-8757",
-        "C-8758",
-        "C-8759",
-        "C-8760",
-        "C-8761",
-        "C-8762",
-        "C-8763",
-        "C-8764",
-        "C-8765",
-        "C-8766",
-        "C-8767",
-        "C-8768",
-        "C-8769",
-        "C-8770",
-        "C-8771",
-        "C-8772",
-        "C-8777",
-        "C-8780",
-        "C-8782",
-        "C-8783",
-        "C-8786",
-        "C-8787",
-        "C-8788",
-        "C-8789",
-        "C-8790",
-        "C-8791",
-        "C-8792",
-        "C-8793",
-        "C-8794",
-        "C-8795",
-        "C-8796",
-        "C-8797",
-        "C-8798",
-        "C-8799",
-        "C-8800",
-        "C-8801",
-        "C-8802",
-        "C-8803",
-        "C-8805",
-        "C-8806",
-        "C-8807",
-        "C-8808",
-        "C-8809",
-        "C-8810",
-        "C-8811",
-        "C-8812",
-        "C-8813",
-        "C-8814",
-        "C-8815",
-        "C-8816",
-        "C-8818",
-        "C-8819",
-        "C-8820"
+        "C-8548",
+        "C-8549",
+        "C-8550",
+        "C-8551",
+        "C-8553",
+        "C-8555",
+        "C-8557",
+        "C-8558",
+        "C-8559",
+        "C-8560",
+        "C-8561",
+        "C-8562",
+        "C-8563",
+        "C-8564",
+        "C-8566",
+        "C-8567",
+        "C-8568",
+        "C-8569",
+        "C-8576",
+        "C-8582",
+        "C-8585",
+        "C-8586",
+        "C-8590",
+        "C-8594",
+        "C-8595",
+        "C-8597",
+        "C-8598",
+        "C-8599",
+        "C-8600",
+        "C-8602",
+        "C-8605",
+        "C-8606",
+        "C-8607",
+        "C-8608",
+        "C-8609",
+        "C-8610",
+        "C-8611",
+        "C-8612",
+        "C-8613",
+        "C-8614",
+        "C-8616",
+        "C-8617",
+        "C-8618",
+        "C-8619",
+        "C-8620",
+        "C-8622",
+        "C-8623",
+        "C-8625",
+        "C-8626",
+        "C-8628",
+        "C-8629",
+        "C-8630",
+        "C-8632",
+        "C-8633",
+        "C-8634"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -932,12 +932,12 @@
         "A-2966.1"
       ],
       "related_claims": [
-        "C-8777",
-        "C-8793",
-        "C-8796",
-        "C-8802",
-        "C-8804",
-        "C-8805"
+        "C-8576",
+        "C-8602",
+        "C-8607",
+        "C-8613",
+        "C-8615",
+        "C-8616"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -957,18 +957,18 @@
         "A-2963.1"
       ],
       "related_claims": [
-        "C-8759",
-        "C-8767",
-        "C-8768",
-        "C-8769",
-        "C-8770",
-        "C-8771",
-        "C-8772",
-        "C-8773",
-        "C-8807",
-        "C-8808",
-        "C-8810",
-        "C-8811"
+        "C-8553",
+        "C-8563",
+        "C-8564",
+        "C-8566",
+        "C-8567",
+        "C-8568",
+        "C-8569",
+        "C-8570",
+        "C-8618",
+        "C-8619",
+        "C-8622",
+        "C-8623"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -986,7 +986,7 @@
       "description": "Publication of Erika Kirk op-ed (A-2348); subject of Charlie Kirk commentary clip (A-2345).",
       "related_artifacts": [],
       "related_claims": [
-        "C-8794"
+        "C-8605"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1022,8 +1022,8 @@
         "A-2962.1"
       ],
       "related_claims": [
-        "C-8778",
-        "C-8804"
+        "C-8580",
+        "C-8615"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1073,7 +1073,7 @@
       "description": "Person Susie Wiles (N-131).",
       "related_artifacts": [],
       "related_claims": [
-        "C-2809"
+        "C-8554"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1092,7 +1092,7 @@
         "A-2008.2"
       ],
       "related_claims": [
-        "C-2792"
+        "C-8574"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1112,8 +1112,8 @@
         "A-2008.2"
       ],
       "related_claims": [
-        "C-2791",
-        "C-2792"
+        "C-8573",
+        "C-8574"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1132,7 +1132,7 @@
         "A-2008.3"
       ],
       "related_claims": [
-        "C-2793"
+        "C-8577"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1154,7 +1154,7 @@
         "A-2012.3"
       ],
       "related_claims": [
-        "C-2806"
+        "C-8624"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1171,7 +1171,7 @@
       "description": "Banned on Instagram/YouTube yet clipped widely; Atlantic also lists him among Elephant Clipping banned subjects.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8814"
+        "C-8628"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1189,9 +1189,9 @@
       "description": "Former Turning Point USA employee; subject of recorded private investigator visit to her home.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8796",
-        "C-8812",
-        "C-8814"
+        "C-8607",
+        "C-8625",
+        "C-8628"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1212,9 +1212,9 @@
         "A-2965.1"
       ],
       "related_claims": [
-        "C-8785",
-        "C-8793",
-        "C-8804"
+        "C-8589",
+        "C-8602",
+        "C-8615"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1231,7 +1231,7 @@
       "description": "Existing node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8803"
+        "C-8614"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1248,7 +1248,7 @@
       "description": "Existing node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8801"
+        "C-8612"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1267,9 +1267,9 @@
         "A-2963.1"
       ],
       "related_claims": [
-        "C-8759",
-        "C-8810",
-        "C-8811"
+        "C-8553",
+        "C-8622",
+        "C-8623"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1286,7 +1286,7 @@
       "description": "Existing node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8794"
+        "C-8605"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1303,8 +1303,8 @@
       "description": "Existing node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8802",
-        "C-8806"
+        "C-8613",
+        "C-8617"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1321,7 +1321,7 @@
       "description": "Existing node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8773"
+        "C-8570"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1338,8 +1338,8 @@
       "description": "Existing node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8802",
-        "C-8806"
+        "C-8613",
+        "C-8617"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1356,7 +1356,7 @@
       "description": "Existing node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8796"
+        "C-8607"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1373,8 +1373,8 @@
       "description": "Existing node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8755",
-        "C-8756"
+        "C-8548",
+        "C-8549"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1391,11 +1391,11 @@
       "description": "Existing node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8767",
-        "C-8768",
-        "C-8771",
-        "C-8772",
-        "C-8773"
+        "C-8563",
+        "C-8564",
+        "C-8568",
+        "C-8569",
+        "C-8570"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1412,7 +1412,7 @@
       "description": "Existing node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8817"
+        "C-8631"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1429,8 +1429,8 @@
       "description": "Existing node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8780",
-        "C-8783"
+        "C-8582",
+        "C-8586"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1447,8 +1447,8 @@
       "description": "Existing node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8816",
-        "C-8818"
+        "C-8630",
+        "C-8632"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1465,7 +1465,7 @@
       "description": "Existing node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8783"
+        "C-8586"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1485,12 +1485,12 @@
         "A-2966.1"
       ],
       "related_claims": [
-        "C-8790",
-        "C-8791",
-        "C-8792",
-        "C-8797",
-        "C-8800",
-        "C-8805"
+        "C-8598",
+        "C-8599",
+        "C-8600",
+        "C-8608",
+        "C-8611",
+        "C-8616"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1507,9 +1507,9 @@
       "description": "Existing node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8798",
-        "C-8799",
-        "C-8803"
+        "C-8609",
+        "C-8610",
+        "C-8614"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1529,10 +1529,10 @@
         "A-2966.1"
       ],
       "related_claims": [
-        "C-8788",
-        "C-8791",
-        "C-8804",
-        "C-8805"
+        "C-8595",
+        "C-8599",
+        "C-8615",
+        "C-8616"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1549,7 +1549,7 @@
       "description": "Dr. Lee Trotter; the host says Erika put blame on him over the surgeon call.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8806"
+        "C-8617"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1566,7 +1566,7 @@
       "description": "Tucker Carlson; target of a Trump post the host links to Loomer's focus.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8773"
+        "C-8570"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1583,8 +1583,8 @@
       "description": "Milo Yiannopoulos; named in Loomer's claim about the host's husband.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8808",
-        "C-8809"
+        "C-8619",
+        "C-8620"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1603,7 +1603,7 @@
         "A-2965.1"
       ],
       "related_claims": [
-        "C-8785"
+        "C-8589"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1620,13 +1620,13 @@
       "description": "The host's husband; subject of Loomer's separation and Milo claims and of the Rome trip.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8764",
-        "C-8765",
-        "C-8766",
-        "C-8807",
-        "C-8808",
-        "C-8809",
-        "C-8813"
+        "C-8560",
+        "C-8561",
+        "C-8562",
+        "C-8618",
+        "C-8619",
+        "C-8620",
+        "C-8626"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1643,8 +1643,8 @@
       "description": "Victor Marx; the host says he has not replied to her message.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8817",
-        "C-8818"
+        "C-8631",
+        "C-8632"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1661,8 +1661,8 @@
       "description": "Corby Hall; subject of a recently pre-recorded episode and a viewer comment.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8816",
-        "C-8817"
+        "C-8630",
+        "C-8631"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1681,7 +1681,7 @@
         "A-2963.1"
       ],
       "related_claims": [
-        "C-8810"
+        "C-8622"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1698,7 +1698,7 @@
       "description": "Pope Leo XIV; the host says she did not meet him.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8820"
+        "C-8634"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1715,7 +1715,7 @@
       "description": "Megyn Kelly; target of a Trump post the host links to Loomer's focus.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8773"
+        "C-8570"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1732,17 +1732,17 @@
       "description": "Donald Trump; his Truth Social post about the host and the WHCD are discussed.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8755",
-        "C-8756",
-        "C-8758",
-        "C-8763",
-        "C-8768",
-        "C-8771",
-        "C-8773",
-        "C-8774",
-        "C-8776",
-        "C-8779",
-        "C-8815"
+        "C-8548",
+        "C-8549",
+        "C-8551",
+        "C-8559",
+        "C-8564",
+        "C-8568",
+        "C-8570",
+        "C-8571",
+        "C-8575",
+        "C-8581",
+        "C-8629"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1759,7 +1759,7 @@
       "description": "Druski; named by Erika Kirk in her statement.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8787"
+        "C-8594"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1776,7 +1776,7 @@
       "description": "FBI director; the host says Erika Kirk stood next to him at the WHCD.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8801"
+        "C-8612"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1795,8 +1795,8 @@
         "A-2963.1"
       ],
       "related_claims": [
-        "C-8756",
-        "C-8810"
+        "C-8549",
+        "C-8622"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1813,7 +1813,7 @@
       "description": "First named by the host at 00:23:21 in episode 096, as the person who sent Trump's tweets during his first term.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8774"
+        "C-8571"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1830,7 +1830,7 @@
       "description": "First named by the host at 00:23:21 in episode 096, as the person widely reported to send Trump's Truth Social posts.",
       "related_artifacts": [],
       "related_claims": [
-        "C-8774"
+        "C-8571"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1842,8 +1842,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-2790",
-      "ref": "C-2790",
+      "@id": "C-8547",
+      "ref": "C-8547",
       "label": "Trump publicly criticized Candace Owens calling her \"low IQ\"",
       "claim": "Trump's Truth Social post called Candace Owens \"an extremely low IQ individual\" and described her attack on the First Lady of France as \"despicable.\"",
       "anchored_artifacts": [
@@ -1862,8 +1862,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2791",
-      "ref": "C-2791",
+      "@id": "C-8573",
+      "ref": "C-8573",
       "label": "Washington Post reported Secret Service officers fired at WHCD suspect",
       "claim": "The Washington Post reported surveillance footage shows the moment Secret Service officers fired at the WHCD suspect, Cole Allen.",
       "anchored_artifacts": [
@@ -1881,8 +1881,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2792",
-      "ref": "C-2792",
+      "@id": "C-8574",
+      "ref": "C-8574",
       "label": "Evan Hill reported no footage of Allen firing weapon",
       "claim": "Investigative reporter Evan Hill reported on X that a review of surveillance footage found no indication that Cole Allen fired his weapon at the WHCD incident.",
       "anchored_artifacts": [
@@ -1901,8 +1901,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2793",
-      "ref": "C-2793",
+      "@id": "C-8577",
+      "ref": "C-8577",
       "label": "Sara Sidner first shared clip of Erika Kirk \"I just want to go home\"",
       "claim": "The host says the original public clip of Erika Kirk's \"I just want to go home\" remark was first shared by CNN's Sara Sidner.",
       "anchored_artifacts": [
@@ -1921,8 +1921,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3745",
-      "ref": "C-3745",
+      "@id": "C-8578",
+      "ref": "C-8578",
       "label": "Host offers a $10,000 bounty for opposite-side footage of the Erika Kirk corridor clip",
       "claim": "After saying she could not confirm that Sara Sidner shot the Erika Kirk \"I just want to go home\" clip, the host offers $10,000, with source protection, to anyone who has footage from the opposite side of the corridor showing the person who recorded it, and directs tips to candaceowens.com.",
       "anchored_artifacts": [
@@ -1943,8 +1943,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2794",
-      "ref": "C-2794",
+      "@id": "C-8579",
+      "ref": "C-8579",
       "label": "Baron Coleman commented on WHCD media frenzy",
       "claim": "In a clip the host plays, Baron Coleman comments on the WHCD media coverage, saying Erika Kirk and the ballroom announcement became the focal points of the event; the host agrees.",
       "anchored_artifacts": [
@@ -1963,8 +1963,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2795",
-      "ref": "C-2795",
+      "@id": "C-8583",
+      "ref": "C-8583",
       "label": "Host Says Erika Kirk Released a Pre-Recorded 9-Minute Video Statement",
       "claim": "The host says Erika Kirk published a 9-minute pre-recorded video statement, with the remaining almost two hours of her show consisting of Charlie Kirk clips.",
       "anchored_artifacts": [
@@ -1986,8 +1986,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2796",
-      "ref": "C-2796",
+      "@id": "C-8588",
+      "ref": "C-8588",
       "label": "Erika Kirk claimed she attended WHCD to confront journalists",
       "claim": "In her pre-recorded statement, Erika Kirk said she attended the White House Correspondents Dinner because many of the journalists in the room had attempted to dehumanize her and she wanted to meet some of them face-to-face.",
       "anchored_artifacts": [
@@ -2005,8 +2005,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2797",
-      "ref": "C-2797",
+      "@id": "C-8596",
+      "ref": "C-8596",
       "label": "Erika Kirk claimed Candace Owens accused her of murdering her husband",
       "claim": "In her pre-recorded statement, Erika Kirk claimed Candace Owens has publicly accused her of murdering her husband.",
       "anchored_artifacts": [
@@ -2026,8 +2026,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2798",
-      "ref": "C-2798",
+      "@id": "C-8591",
+      "ref": "C-8591",
       "label": "Erika Kirk criticized journalists for filming during active shooter",
       "claim": "In a pre-recorded statement the host plays, Erika Kirk criticizes journalists present at the dinner for using their phones to capture video during what she describes as an active shooting situation.",
       "anchored_artifacts": [
@@ -2045,8 +2045,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2799",
-      "ref": "C-2799",
+      "@id": "C-8593",
+      "ref": "C-8593",
       "label": "Erika Kirk criticized Jimmy Kimmel's Melania joke",
       "claim": "In a pre-recorded statement the host plays, Erika Kirk criticizes Jimmy Kimmel's joke about Melania Trump having \"the glow of an expected widow.\"",
       "anchored_artifacts": [
@@ -2066,8 +2066,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2800",
-      "ref": "C-2800",
+      "@id": "C-8592",
+      "ref": "C-8592",
       "label": "Host Says Terryl Farnsworth Recorded Video at Charlie Kirk Shooting Scene",
       "claim": "The host says Terryl Farnsworth recorded himself on video at the Charlie Kirk shooting scene within seconds (she also says not even a minute) of the incident; in a clip she plays, he says \"They just shot Charlie.\"",
       "anchored_artifacts": [
@@ -2084,8 +2084,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2801",
-      "ref": "C-2801",
+      "@id": "C-8601",
+      "ref": "C-8601",
       "label": "Andrew Kolvet presented a text message screenshot",
       "claim": "The host says Andrew Kolvet publicly presented a screenshot of a text message exchange involving Candace Owens as supporting evidence for Erika Kirk's murder claim.",
       "anchored_artifacts": [
@@ -2105,8 +2105,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2802",
-      "ref": "C-2802",
+      "@id": "C-8603",
+      "ref": "C-8603",
       "label": "Text message contained \"why did you murder your husband?\" with cry emojis",
       "claim": "The text message presented by Andrew Kolvet contained the phrase \"why did you murder your husband?\" with cry emojis, framed as Candace's planned first question for Erika.",
       "anchored_artifacts": [
@@ -2126,8 +2126,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2803",
-      "ref": "C-2803",
+      "@id": "C-8604",
+      "ref": "C-8604",
       "label": "Candace stated the text was sent in December before meeting Erika",
       "claim": "Candace stated the text was sent in December 2025 in response to questions about planned questions for an upcoming meeting with Erika Kirk, framed as a joke referencing the Bari Weiss/Ben Shapiro framing that any question to Erika equaled accusing her of murder.",
       "anchored_artifacts": [
@@ -2148,8 +2148,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2804",
-      "ref": "C-2804",
+      "@id": "C-8565",
+      "ref": "C-8565",
       "label": "Laura Loomer made a recorded rant containing racial commentary about Candace",
       "claim": "Laura Loomer appeared in an audio recording making comments about Candace Owens including racial characterizations and descriptions of personal history.",
       "anchored_artifacts": [
@@ -2166,8 +2166,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2805",
-      "ref": "C-2805",
+      "@id": "C-8621",
+      "ref": "C-8621",
       "label": "Laura Loomer tweeted SPLC paid Candace $500K to communicate David Duke talking points",
       "claim": "The host says Laura Loomer reported that Candace Owens was potentially paid half a million dollars by the Southern Poverty Law Center to communicate David Duke talking points, framed as \"Was the SPLC paying Candace Owens 500K a year to plagiarize David Duke?\"",
       "anchored_artifacts": [
@@ -2184,8 +2184,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2806",
-      "ref": "C-2806",
+      "@id": "C-8624",
+      "ref": "C-8624",
       "label": "Laura Loomer claimed Candace was at anti-Trump summit in Rome",
       "claim": "Laura Loomer tweeted a question whether Candace Owens, Nick Fuentes, and Aubrey Laitsch, who all \"suddenly appeared in Rome\", were converging for a \"secret anti-Trump summit\", adding that she suspects it is funded by foreign dark money and citing a source that Aubrey approached conservatives about a paid propaganda trip to Qatar.",
       "anchored_artifacts": [
@@ -2205,8 +2205,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2807",
-      "ref": "C-2807",
+      "@id": "C-8627",
+      "ref": "C-8627",
       "label": "Candace traveled to Rome with her family for confirmation",
       "claim": "Candace stated she traveled to Rome with her husband and children for her Catholic confirmation by a cardinal in the old Latin rite, and that her priest flew in from London.",
       "anchored_artifacts": [
@@ -2223,8 +2223,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2808",
-      "ref": "C-2808",
+      "@id": "C-8552",
+      "ref": "C-8552",
       "label": "Photo Trump shared was originally posted by Candace in 2019",
       "claim": "Candace stated the photo of her that Trump used in his Truth Social post was originally shared by Candace herself on her Twitter account in August 2019.",
       "anchored_artifacts": [
@@ -2241,8 +2241,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2809",
-      "ref": "C-2809",
+      "@id": "C-8554",
+      "ref": "C-8554",
       "label": "Candace was sick in 2016 from toxic mold exposure in her apartment",
       "claim": "Candace stated that in 2016 she became ill with severe symptoms including eczema, hair loss, and cognitive impairment after a toxic mold exposure in her apartment from an HVAC leak.",
       "anchored_artifacts": [
@@ -2258,8 +2258,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3752",
-      "ref": "C-3752",
+      "@id": "C-8556",
+      "ref": "C-8556",
       "label": "Candace shows August 2016 photos taken three months before the photo Trump shared",
       "claim": "Candace shows photos of herself from August 2016, including hiking with her cousins without makeup, and says the photo Trump shared was taken just three months later, when she was very sick.",
       "anchored_artifacts": [
@@ -2277,8 +2277,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8755",
-      "ref": "C-8755",
+      "@id": "C-8548",
+      "ref": "C-8548",
       "label": "Host says Trump's post was the fourth tweet about her in two weeks",
       "claim": "The host says Trump's Truth Social post about her was the fourth tweet about her in a span of two weeks.",
       "anchored_artifacts": [],
@@ -2298,8 +2298,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8756",
-      "ref": "C-8756",
+      "@id": "C-8549",
+      "ref": "C-8549",
       "label": "Host says Trump had already called her low IQ and uglier than Brigitte Macron",
       "claim": "The host says Trump had already called her low IQ and had asserted that she was uglier than Brigitte Macron, so the post repeated earlier points.",
       "anchored_artifacts": [],
@@ -2320,8 +2320,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8757",
-      "ref": "C-8757",
+      "@id": "C-8550",
+      "ref": "C-8550",
       "label": "Host says Washington runs on blackmail and secrets",
       "claim": "The host says Washington, D.C. runs on blackmail and secrets, with operators sent to find embarrassing secrets and offer targets a choice between complying and exposure.",
       "anchored_artifacts": [],
@@ -2338,8 +2338,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8758",
-      "ref": "C-8758",
+      "@id": "C-8551",
+      "ref": "C-8551",
       "label": "Host says the photo Trump shared is real and not AI",
       "claim": "The host says the photo of her that Trump shared is authentic and not AI-generated.",
       "anchored_artifacts": [],
@@ -2359,8 +2359,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8759",
-      "ref": "C-8759",
+      "@id": "C-8553",
+      "ref": "C-8553",
       "label": "Host says Loomer spent four days sharing AI photos, hit-and-run stories and secret-trust claims",
       "claim": "The host says that in the four days before the Trump post, Laura Loomer shared AI photos, stories about drunken hit-and-runs and claims about secret trusts to hide money from the Macrons.",
       "anchored_artifacts": [],
@@ -2380,8 +2380,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8760",
-      "ref": "C-8760",
+      "@id": "C-8555",
+      "ref": "C-8555",
       "label": "Host says she had two asthma attacks that put her in hospital during the 2016 illness",
       "claim": "The host says that during her 2016 illness she had two asthma attacks that landed her in the hospital.",
       "anchored_artifacts": [],
@@ -2398,8 +2398,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8761",
-      "ref": "C-8761",
+      "@id": "C-8557",
+      "ref": "C-8557",
       "label": "Host says a doctor put her on a strict candidiasis diet",
       "claim": "The host says a doctor told her the only way to beat the infection was a very strict candidiasis diet with no sugar, including fruit sugar.",
       "anchored_artifacts": [],
@@ -2416,8 +2416,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8762",
-      "ref": "C-8762",
+      "@id": "C-8558",
+      "ref": "C-8558",
       "label": "Host says she started her political YouTube channel in August 2019",
       "claim": "The host says that in August 2019 she started her political YouTube channel for the first time, and that her cousin Mia filmed her and helped upload the first video.",
       "anchored_artifacts": [],
@@ -2434,8 +2434,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8763",
-      "ref": "C-8763",
+      "@id": "C-8559",
+      "ref": "C-8559",
       "label": "Host says the magazine cover text read that she lies and uses rich white men",
       "claim": "The host says the words on the Trump-linked magazine-style cover read that Candace Owens lies, lies, lies and uses rich white men, and earlier said she shared the photo publicly, which is why someone could put it on an AI cover.",
       "anchored_artifacts": [],
@@ -2455,8 +2455,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8764",
-      "ref": "C-8764",
+      "@id": "C-8560",
+      "ref": "C-8560",
       "label": "Host says her husband could not work until he had a green card",
       "claim": "The host says that because of immigration law her husband was not allowed to work until he got a green card, so her income alone supported the household for almost two years of engagement and marriage.",
       "anchored_artifacts": [],
@@ -2474,8 +2474,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8765",
-      "ref": "C-8765",
+      "@id": "C-8561",
+      "ref": "C-8561",
       "label": "Host says she had a million-dollar book deal and sold about 800,000 copies",
       "claim": "The host says she had no debts and a million-dollar book deal when she met her husband, and that she thinks about 800,000 copies of her first book were moved.",
       "anchored_artifacts": [],
@@ -2493,8 +2493,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8766",
-      "ref": "C-8766",
+      "@id": "C-8562",
+      "ref": "C-8562",
       "label": "Host says her parents were not wealthy and her husband's family has generational wealth",
       "claim": "The host says her mother did not graduate high school, her father was a plumber for most of his life, and that her husband's family has generational wealth.",
       "anchored_artifacts": [],
@@ -2512,8 +2512,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8767",
-      "ref": "C-8767",
+      "@id": "C-8563",
+      "ref": "C-8563",
       "label": "Host says her source says Loomer ranted about not being invited to the WHCD",
       "claim": "The host says she is told that Laura Loomer was ranting to people about not being invited to the White House Correspondents Dinner in the period before the Trump post.",
       "anchored_artifacts": [],
@@ -2533,8 +2533,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8768",
-      "ref": "C-8768",
+      "@id": "C-8564",
+      "ref": "C-8564",
       "label": "Host says Loomer demanded a tweet of support from Trump",
       "claim": "The host says Laura Loomer demanded a tweet of support from Trump, and that this explains the race-tinged language of the Trump post.",
       "anchored_artifacts": [],
@@ -2549,7 +2549,7 @@
       "investigative_direction": "Corroborate through White House staff, Loomer's own statements, or Truth Social posting logs.",
       "transcript_snippet": "she demanded a tweet of support from Trump. In fact, that is what does explain the hint of racism behind the tweet.",
       "supports_claim_refs": [
-        "C-2790"
+        "C-8547"
       ],
       "mentions_person_refs": [
         "N-60",
@@ -2559,8 +2559,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8769",
-      "ref": "C-8769",
+      "@id": "C-8566",
+      "ref": "C-8566",
       "label": "Host says she has never been to Greenwich, Connecticut",
       "claim": "The host rejects Laura Loomer's audio account of her, saying she did not go to clubs in high school and has never in her life been to Greenwich, Connecticut.",
       "anchored_artifacts": [
@@ -2574,7 +2574,7 @@
       "investigative_direction": "Compare Loomer's audio source (the voice on the recording) against the host's school and residence history.",
       "transcript_snippet": "who's going to the club in high school I've never in my life actually been out in Greenwich Connecticut.",
       "contradicts_claim_refs": [
-        "C-2804"
+        "C-8565"
       ],
       "mentions_person_refs": [
         "N-60",
@@ -2583,8 +2583,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8770",
-      "ref": "C-8770",
+      "@id": "C-8567",
+      "ref": "C-8567",
       "label": "Host says Susie Wiles was staunchly opposed to the Trump post",
       "claim": "The host says she is told that White House chief of staff Susie Wiles was staunchly opposed to the Trump tweet.",
       "anchored_artifacts": [],
@@ -2605,8 +2605,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8771",
-      "ref": "C-8771",
+      "@id": "C-8568",
+      "ref": "C-8568",
       "label": "Host relays a long-standing rumor that Loomer has blackmail on Trump",
       "claim": "The host relays a long-standing rumor that Loomer has blackmail on Trump, tied to Loomer claiming relations with him after going on Air Force One, while saying she is reticent to believe it because it is Loomer.",
       "anchored_artifacts": [],
@@ -2627,8 +2627,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8772",
-      "ref": "C-8772",
+      "@id": "C-8569",
+      "ref": "C-8569",
       "label": "Host quotes Loomer as threatening to post officials' family members",
       "claim": "The host quotes Laura Loomer as saying she will not stop and will post their grandkids, mother and father until she gets what she wants, and calls it emotional blackmail.",
       "anchored_artifacts": [],
@@ -2648,8 +2648,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8773",
-      "ref": "C-8773",
+      "@id": "C-8570",
+      "ref": "C-8570",
       "label": "Host says Trump's attacks on Tucker Carlson and Megyn Kelly track Loomer's focus of the week",
       "claim": "The host says Trump's posts attacking Tucker Carlson and Megyn Kelly followed whoever Laura Loomer was attacking that week.",
       "anchored_artifacts": [],
@@ -2672,8 +2672,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8774",
-      "ref": "C-8774",
+      "@id": "C-8571",
+      "ref": "C-8571",
       "label": "Host says Trump does not send his own tweets; Scavino did, and Natalie Harp reportedly does",
       "claim": "The host says Trump has never pushed send on his own tweets, that this was Dan Scavino's job in the first term, and that it is widely reported to be Natalie Harp's job on Truth Social.",
       "anchored_artifacts": [],
@@ -2694,8 +2694,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8775",
-      "ref": "C-8775",
+      "@id": "C-8572",
+      "ref": "C-8572",
       "label": "Host says only Secret Service agents fired at the WHCD checkpoint",
       "claim": "The host says a man stormed a security checkpoint at the White House Correspondents Dinner and only Secret Service agents began firing their weapons, which she reads as likely friendly fire.",
       "anchored_artifacts": [
@@ -2712,7 +2712,7 @@
       "investigative_direction": "Official incident report, ballistic findings and the Washington Post surveillance footage.",
       "transcript_snippet": "a man stormed a security check at the White House Correspondents Dinner, and then Secret Service agents, and only Secret Service agents began firing their weapons.",
       "supports_claim_refs": [
-        "C-2792"
+        "C-8574"
       ],
       "mentions_person_refs": [
         "N-369"
@@ -2720,8 +2720,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8776",
-      "ref": "C-8776",
+      "@id": "C-8575",
+      "ref": "C-8575",
       "label": "Host says most people inside could not hear or distinguish the sounds at the WHCD",
       "claim": "The host says most people inside the ballroom could not hear or distinguish the sound of what was going on and inferred a shooting from the Secret Service rushing the president out.",
       "anchored_artifacts": [],
@@ -2740,8 +2740,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8777",
-      "ref": "C-8777",
+      "@id": "C-8576",
+      "ref": "C-8576",
       "label": "Host says Kolvet honestly said he did not know what the sound was at the WHCD",
       "claim": "The host credits Andrew Kolvet with honestly recounting that he heard a sound he did not recognize, and says it could have been plates crashing.",
       "anchored_artifacts": [],
@@ -2761,8 +2761,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8778",
-      "ref": "C-8778",
+      "@id": "C-8580",
+      "ref": "C-8580",
       "label": "Baron Coleman says Erika said the line as she crossed the only camera",
       "claim": "Baron Coleman, in a clip played by the host, says Erika Kirk happened to say \"I just want to go home\" right as she crossed the only camera that captured her leaving, and calls the aftermath \"operation Erika Kirk\" following \"operation ballroom\".",
       "anchored_artifacts": [
@@ -2779,7 +2779,7 @@
       "investigative_direction": "Obtain the full Coleman show segment and the hotel and press camera positions in the corridor.",
       "transcript_snippet": "I just want to go home, and she just happened to say that right as she crossed the only camera that captured her leaving.",
       "supports_claim_refs": [
-        "C-2794"
+        "C-8579"
       ],
       "mentions_person_refs": [
         "N-330",
@@ -2788,8 +2788,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8779",
-      "ref": "C-8779",
+      "@id": "C-8581",
+      "ref": "C-8581",
       "label": "Host says neither Charlie Kirk nor Trump as president attended the WHCD",
       "claim": "The host says the White House Correspondents Dinner was an event that Charlie Kirk never attended and that Trump never attended as president.",
       "anchored_artifacts": [],
@@ -2809,8 +2809,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8780",
-      "ref": "C-8780",
+      "@id": "C-8582",
+      "ref": "C-8582",
       "label": "Host says the Vice President lectured her camp about not keeping Erika safe",
       "claim": "The host says that after the UGA no-show, the Vice President lectured the host's side about not keeping Erika Kirk safe, though the host says her side had not told Erika not to go.",
       "anchored_artifacts": [],
@@ -2830,8 +2830,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8781",
-      "ref": "C-8781",
+      "@id": "C-8584",
+      "ref": "C-8584",
       "label": "Host Says Erika Said She Needed Family Time And Would Return On Wednesday Show",
       "claim": "The host says Erika Kirk said after the shooting she needed to spend time with her family and would then be on the Charlie Kirk show on Wednesday.",
       "anchored_artifacts": [
@@ -2853,8 +2853,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8782",
-      "ref": "C-8782",
+      "@id": "C-8585",
+      "ref": "C-8585",
       "label": "Host says Erika's statement was pre-recorded, teleprompter-read and not written by her",
       "claim": "The host says Erika Kirk's statement was pre-recorded, read from a teleprompter, and very clearly not written by her.",
       "anchored_artifacts": [
@@ -2870,7 +2870,7 @@
       "investigative_direction": "Production metadata from the video and identification of the writer.",
       "transcript_snippet": "Second thing is that it was pre-recorded, okay? It was straight from the teleprompter and it was very clearly not written by her.",
       "supports_claim_refs": [
-        "C-2795"
+        "C-8583"
       ],
       "mentions_person_refs": [
         "N-2",
@@ -2879,8 +2879,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8783",
-      "ref": "C-8783",
+      "@id": "C-8586",
+      "ref": "C-8586",
       "label": "Host says Erika cited credible threats and distrust of the Secret Service to skip UGA",
       "claim": "The host says Erika Kirk had said she could not do her UGA commitment because of credible threats and because she could not trust the Secret Service, then attended an event reliant on the Secret Service.",
       "anchored_artifacts": [],
@@ -2901,8 +2901,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8784",
-      "ref": "C-8784",
+      "@id": "C-8587",
+      "ref": "C-8587",
       "label": "Host says Charlie hated and made fun of the WHCD",
       "claim": "The host says Charlie Kirk hated the White House Correspondents Dinner and always made fun of it.",
       "anchored_artifacts": [],
@@ -2916,7 +2916,7 @@
       "investigative_direction": "Find Charlie Kirk show segments or posts mocking the WHCD.",
       "transcript_snippet": "That actually Charlie hated. He always made fun of the White House Correspondents Dinner.",
       "supports_claim_refs": [
-        "C-8779"
+        "C-8581"
       ],
       "mentions_person_refs": [
         "N-1"
@@ -2924,8 +2924,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8785",
-      "ref": "C-8785",
+      "@id": "C-8589",
+      "ref": "C-8589",
       "label": "Host says Erika told Karoline Leavitt on stage she did not read headlines or care",
       "claim": "The host says she is pretty sure Erika Kirk sat down with Karoline Leavitt on stage at a Turning Point event and said she did not read the headlines and did not care, in tension with her WHCD explanation.",
       "anchored_artifacts": [
@@ -2947,8 +2947,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8786",
-      "ref": "C-8786",
+      "@id": "C-8590",
+      "ref": "C-8590",
       "label": "Host says Erika also attended a pre-party that was posted",
       "claim": "The host says Erika Kirk, she believes, also went to a pre-party for the dinner, which was posted publicly.",
       "anchored_artifacts": [],
@@ -2968,8 +2968,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8787",
-      "ref": "C-8787",
+      "@id": "C-8594",
+      "ref": "C-8594",
       "label": "Host says Erika name-dropped Druski and the host in her statement",
       "claim": "The host says Erika Kirk name-dropped Druski and the host near the end of her pre-written statement.",
       "anchored_artifacts": [
@@ -2992,8 +2992,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8788",
-      "ref": "C-8788",
+      "@id": "C-8595",
+      "ref": "C-8595",
       "label": "Host says she thinks Blake Neff wrote Erika's statement",
       "claim": "The host says it is giving Blake Neff wrote Erika Kirk's statement and that he is her writer for things.",
       "anchored_artifacts": [
@@ -3016,8 +3016,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8789",
-      "ref": "C-8789",
+      "@id": "C-8597",
+      "ref": "C-8597",
       "label": "Erika says in her statement that comedians wear whiteface and people say she is unfit to be CEO",
       "claim": "In the statement the host plays, Erika Kirk says she has comedians dressing up in whiteface and people saying she is not fit to be CEO, alongside the claim that Candace Owens says she murdered her husband.",
       "anchored_artifacts": [
@@ -3033,7 +3033,7 @@
       "investigative_direction": "Review the statement video and identify the whiteface comedy referenced.",
       "transcript_snippet": "I have comedians dressing up in whiteface. I have people saying I'm not fit to be CEO and I have Candace Owens claiming I murdered my husband",
       "supports_claim_refs": [
-        "C-2797"
+        "C-8596"
       ],
       "mentions_person_refs": [
         "N-2",
@@ -3043,8 +3043,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8790",
-      "ref": "C-8790",
+      "@id": "C-8598",
+      "ref": "C-8598",
       "label": "Viewer Comment Says Host Never Explicitly Claimed Erika Murdered Charlie",
       "claim": "A viewer comment the host reads says Candace Owens never once made the explicit claim that Erika murdered her husband and only accused her of being a liar and a fraud; the host adds that her repeated accusation is that Erika lies.",
       "anchored_artifacts": [
@@ -3060,7 +3060,7 @@
       "investigative_direction": "Search the host's full archive for any explicit statement that Erika Kirk killed or arranged Charlie Kirk's death.",
       "transcript_snippet": "Candace Owens never once made the explicit claim that you murdered your husband. All she has accused you of is being a liar and a fraud.",
       "contradicts_claim_refs": [
-        "C-2797"
+        "C-8596"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3070,8 +3070,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8791",
-      "ref": "C-8791",
+      "@id": "C-8599",
+      "ref": "C-8599",
       "label": "Host says Blake Neff's excuse was that she implied Erika murdered Charlie",
       "claim": "The host says Blake Neff argued that Candace did not say Erika murdered her husband but implied it.",
       "anchored_artifacts": [
@@ -3095,8 +3095,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8792",
-      "ref": "C-8792",
+      "@id": "C-8600",
+      "ref": "C-8600",
       "label": "Host says she had said police should drag Erika in for questioning",
       "claim": "The host says the episode Neff pointed to is one where she said police should drag Erika in for questioning, take her phone and ask about her lies, as would happen to Charlie if holes had been found in his story.",
       "anchored_artifacts": [
@@ -3119,8 +3119,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8793",
-      "ref": "C-8793",
+      "@id": "C-8602",
+      "ref": "C-8602",
       "label": "Host says the Kolvet text was never public and she assumes TPUSA staff passed it around",
       "claim": "The host says the text message Andrew Kolvet presented had never been revealed to the public, and she assumes TPUSA employees passed it around, which she says might explain why so many were fired.",
       "anchored_artifacts": [
@@ -3137,7 +3137,7 @@
       "investigative_direction": "Trace how the screenshot reached Kolvet and who at TPUSA had access to the thread.",
       "transcript_snippet": "I'm assuming employees passed this around and now kind of explains why so many people got fired.",
       "supports_claim_refs": [
-        "C-2801"
+        "C-8601"
       ],
       "mentions_person_refs": [
         "N-14",
@@ -3146,8 +3146,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8794",
-      "ref": "C-8794",
+      "@id": "C-8605",
+      "ref": "C-8605",
       "label": "Host says the text was sent in the week Erika's Bari Weiss interview went viral",
       "claim": "The host says the text was sent during the week Erika Kirk was going viral for her interview with Bari Weiss.",
       "anchored_artifacts": [
@@ -3164,7 +3164,7 @@
       "investigative_direction": "Compare the date on the text message with the Erika Kirk and Bari Weiss CBS interview date.",
       "transcript_snippet": "this was during the week where Erika was going viral for her interview with Bari Weiss for a number of very funny reasons",
       "supports_claim_refs": [
-        "C-2803"
+        "C-8604"
       ],
       "mentions_person_refs": [
         "N-2",
@@ -3174,8 +3174,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8795",
-      "ref": "C-8795",
+      "@id": "C-8606",
+      "ref": "C-8606",
       "label": "Host says she never asked Erika the murder question when they met",
       "claim": "The host says that when she met Erika at the end of December she never asked the question \"why did you murder your husband?\", which shows the text was a joke.",
       "anchored_artifacts": [
@@ -3191,7 +3191,7 @@
       "investigative_direction": "Compare with Erika Kirk's or Justin Streiff's account of the meeting and the host's recordings or notes.",
       "transcript_snippet": "because when I met up with Erika I never asked this question",
       "supports_claim_refs": [
-        "C-2803"
+        "C-8604"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3200,8 +3200,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8796",
-      "ref": "C-8796",
+      "@id": "C-8607",
+      "ref": "C-8607",
       "label": "Host says Aubrey Laitsch spoke with her after being fired but leaked nothing she presented",
       "claim": "The host says she has had many conversations with Aubrey Laitsch after Laitsch's firing, and that nothing she presented on the show about TPUSA's inner workings was leaked by her.",
       "anchored_artifacts": [],
@@ -3221,8 +3221,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8797",
-      "ref": "C-8797",
+      "@id": "C-8608",
+      "ref": "C-8608",
       "label": "Host says Erika lied to her face in the meeting",
       "claim": "The host says she went into the meeting expecting straight answers from Erika Kirk and that Erika then lied to her face, which made her increasingly suspicious.",
       "anchored_artifacts": [],
@@ -3242,8 +3242,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8798",
-      "ref": "C-8798",
+      "@id": "C-8609",
+      "ref": "C-8609",
       "label": "Host says donors tell her the Charlie audio shown was AI",
       "claim": "The host says donors are telling her that the audio or video of Charlie Kirk presented by Erika's side was AI.",
       "anchored_artifacts": [],
@@ -3264,8 +3264,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8799",
-      "ref": "C-8799",
+      "@id": "C-8610",
+      "ref": "C-8610",
       "label": "Host says she spoke to multiple donors at the Aspen event and the video is unreleased",
       "claim": "The host says she spoke to multiple donors who were at the event and that it is strange Erika will not release the video.",
       "anchored_artifacts": [],
@@ -3285,8 +3285,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8800",
-      "ref": "C-8800",
+      "@id": "C-8611",
+      "ref": "C-8611",
       "label": "Host says she is not accusing Erika of shooting Charlie, only of dishonesty",
       "claim": "The host says she is not accusing Erika of shooting her husband and that her accusation is that Erika's conduct reeks of dishonesty.",
       "anchored_artifacts": [
@@ -3302,10 +3302,10 @@
       "investigative_direction": "Cross-check the host's past episodes for any claim that Erika Kirk shot or arranged the killing.",
       "transcript_snippet": "No, I'm not accusing you of shooting your husband. What I am accusing that I have been open about on this show is that it reeks of dishonesty",
       "contradicts_claim_refs": [
-        "C-2797"
+        "C-8596"
       ],
       "supports_claim_refs": [
-        "C-8790"
+        "C-8598"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3315,8 +3315,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8801",
-      "ref": "C-8801",
+      "@id": "C-8612",
+      "ref": "C-8612",
       "label": "Host says Erika stood next to Kash Patel at the WHCD while the FBI holds up the case",
       "claim": "The host says Erika Kirk was standing next to FBI Director Kash Patel at the dinner while, in the host's view, the FBI is holding up the case, and that she wouldn't be able to stomach standing next to him.",
       "anchored_artifacts": [],
@@ -3337,8 +3337,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8802",
-      "ref": "C-8802",
+      "@id": "C-8613",
+      "ref": "C-8613",
       "label": "Host says Erika told her Kolvet and the surgeon went rogue and she was not part of the conversation",
       "claim": "The host says Erika Kirk claimed the surgeon went rogue and Andrew Kolvet went rogue and that she was not part of the conversation, and calls that a big lie.",
       "anchored_artifacts": [],
@@ -3353,8 +3353,8 @@
       "investigative_direction": "The surgeon's account of the call, phone records, and Erika Kirk's and Kolvet's statements.",
       "transcript_snippet": "The surgeon went rogue. Andrew Kolvet went rogue. I wasn't a part of the conversation. You lied about that, Erika.",
       "supports_claim_refs": [
-        "C-5562",
-        "C-6779"
+        "C-5419",
+        "C-4492"
       ],
       "mentions_person_refs": [
         "N-2",
@@ -3364,8 +3364,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8803",
-      "ref": "C-8803",
+      "@id": "C-8614",
+      "ref": "C-8614",
       "label": "Host says donors present allege Erika lied about Charlie's take-over statement",
       "claim": "The host says, according to donors who were present, Erika lied about Charlie saying he wanted her to take over if he were killed.",
       "anchored_artifacts": [],
@@ -3380,7 +3380,7 @@
       "investigative_direction": "Identify the donors and the event; compare their accounts with the Aspen audio.",
       "transcript_snippet": "you lying allegedly, according to donors that were present, about Charlie saying",
       "supports_claim_refs": [
-        "C-5543"
+        "C-5399"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3390,8 +3390,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8804",
-      "ref": "C-8804",
+      "@id": "C-8615",
+      "ref": "C-8615",
       "label": "Baron Coleman says the widow role gives no license to lie and he can criticize documented falsehoods",
       "claim": "In a clip of his show played by the host, Baron Coleman says no religious tradition gives a widow a free pass to lie and that nothing prevents him from criticizing Erika Kirk for documented falsehoods.",
       "anchored_artifacts": [
@@ -3413,8 +3413,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8805",
-      "ref": "C-8805",
+      "@id": "C-8616",
+      "ref": "C-8616",
       "label": "Host Says Neff and Kolvet Gave Different Excuses",
       "claim": "The host says TPUSA figures cannot get on board with the same messaging, noting Blake Neff already gave a different excuse from Andrew Kolvet's.",
       "anchored_artifacts": [
@@ -3430,7 +3430,7 @@
       "investigative_direction": "Compare Neff's and Kolvet's posts side by side.",
       "transcript_snippet": "you can't get on board with the same messaging. Blake Neff already gave a different excuse.",
       "supports_claim_refs": [
-        "C-8791"
+        "C-8599"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3440,8 +3440,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8806",
-      "ref": "C-8806",
+      "@id": "C-8617",
+      "ref": "C-8617",
       "label": "Host says Erika was on the phone during the surgeon call and facilitated it",
       "claim": "The host says Erika Kirk claimed she was not on the phone when she was, and that she facilitated the whole conversation involving the surgeon, and that blame was placed on Dr. Lee Trotter.",
       "anchored_artifacts": [],
@@ -3456,7 +3456,7 @@
       "investigative_direction": "Phone records of the call and testimony from participants.",
       "transcript_snippet": "to claim that you weren't on the phone when you were, and you facilitated that entire conversation.",
       "supports_claim_refs": [
-        "C-5562"
+        "C-5419"
       ],
       "mentions_person_refs": [
         "N-2",
@@ -3466,8 +3466,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8807",
-      "ref": "C-8807",
+      "@id": "C-8618",
+      "ref": "C-8618",
       "label": "Host says Loomer alleged she and her husband live separately with dual citizenship",
       "claim": "The host says she thinks it was Laura Loomer who claimed the host and her husband live separately in two houses and that she has dual citizenship, and says none of it is true.",
       "anchored_artifacts": [],
@@ -3486,8 +3486,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8808",
-      "ref": "C-8808",
+      "@id": "C-8619",
+      "ref": "C-8619",
       "label": "Host says Loomer claimed her husband was in a secret gay relationship with Milo",
       "claim": "The host says Laura Loomer claimed George Farmer was in a secret gay relationship with Milo Yiannopoulos, offering an AI photo of him in a silk shirt as proof.",
       "anchored_artifacts": [],
@@ -3507,8 +3507,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8809",
-      "ref": "C-8809",
+      "@id": "C-8620",
+      "ref": "C-8620",
       "label": "Host says her husband first met Milo when she interviewed him",
       "claim": "The host says George Farmer had never met Milo at all, not once in London, until the day she interviewed Milo at the house.",
       "anchored_artifacts": [],
@@ -3527,8 +3527,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8810",
-      "ref": "C-8810",
+      "@id": "C-8622",
+      "ref": "C-8622",
       "label": "Host reads Loomer saying the host's lawyer dropped her ahead of the Macron deadline",
       "claim": "The host reads a Loomer tweet saying Loomer reported the host's lawyer dropping her ahead of an important deadline in the lawsuit with the Macrons, and that Candace was fleeing the country.",
       "anchored_artifacts": [
@@ -3552,8 +3552,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8811",
-      "ref": "C-8811",
+      "@id": "C-8623",
+      "ref": "C-8623",
       "label": "Host reads Loomer saying the host hid nearly 12 million dollars in a secret trust",
       "claim": "The host reads a Loomer tweet alleging the host hides nearly 12 million dollars in real estate and other assets in a secret trust, and saying her other lawyer's firm specializes in bankruptcies.",
       "anchored_artifacts": [
@@ -3575,8 +3575,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8812",
-      "ref": "C-8812",
+      "@id": "C-8625",
+      "ref": "C-8625",
       "label": "Host says Aubrey posted an AI photo joke wishing her happy birthday",
       "claim": "The host says Aubrey Laitsch posted an obvious AI photo joke saying \"Happy birthday, Candace\".",
       "anchored_artifacts": [
@@ -3596,8 +3596,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8813",
-      "ref": "C-8813",
+      "@id": "C-8626",
+      "ref": "C-8626",
       "label": "Host says the Rome trip was planned and not abrupt",
       "claim": "The host says the Rome trip with her husband and children was a completely planned trip and not an abrupt flight from the country.",
       "anchored_artifacts": [
@@ -3611,7 +3611,7 @@
       "investigative_direction": "Travel bookings and the March announcement of the confirmation date.",
       "transcript_snippet": "no, this was not an abrupt trip, but a completely planned, as it is when you have children.",
       "supports_claim_refs": [
-        "C-2807"
+        "C-8627"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3620,8 +3620,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8814",
-      "ref": "C-8814",
+      "@id": "C-8628",
+      "ref": "C-8628",
       "label": "Host says she saw none of Aubrey Laitsch, Nick Fuentes or David Axelrod in Rome",
       "claim": "The host says she did not see Aubrey Laitsch, Nick Fuentes or David Axelrod in Rome.",
       "anchored_artifacts": [
@@ -3635,7 +3635,7 @@
       "investigative_direction": "Travel records or statements from the three named people.",
       "transcript_snippet": "No, I did not see Aubrey. I did not see Nick Fuentes. I did not see David Axelrod.",
       "contradicts_claim_refs": [
-        "C-2806"
+        "C-8624"
       ],
       "mentions_person_refs": [
         "N-551",
@@ -3646,8 +3646,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8815",
-      "ref": "C-8815",
+      "@id": "C-8629",
+      "ref": "C-8629",
       "label": "Host says she did not respond to Trump because she had promised her priest she would chill",
       "claim": "The host says part of the reason she had no response to Trump was that she told her priest she would stay calm, and that he was there when the Trump post happened.",
       "anchored_artifacts": [],
@@ -3665,8 +3665,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8816",
-      "ref": "C-8816",
+      "@id": "C-8630",
+      "ref": "C-8630",
       "label": "Host says the Corby Hall episode was pre-recorded",
       "claim": "The host says the Corby Hall episode was pre-recorded to cover Thursday while she was away, which is why she didn't mention it.",
       "anchored_artifacts": [],
@@ -3686,8 +3686,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8817",
-      "ref": "C-8817",
+      "@id": "C-8631",
+      "ref": "C-8631",
       "label": "Viewer comment says Corby Hall turned down an offer to sell 50,000 guns",
       "claim": "The host reads a viewer comment saying Corby Hall, though broke, turned down an offer to sell 50,000 guns on principle.",
       "anchored_artifacts": [
@@ -3708,8 +3708,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8818",
-      "ref": "C-8818",
+      "@id": "C-8632",
+      "ref": "C-8632",
       "label": "Host says Victor Marx never replied to her Instagram message",
       "claim": "The host says Victor Marx has been posting videos but never replied to her Instagram message or her follow-up, and she invites him to appear by Zoom on her terms.",
       "anchored_artifacts": [],
@@ -3729,8 +3729,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8819",
-      "ref": "C-8819",
+      "@id": "C-8633",
+      "ref": "C-8633",
       "label": "Host says her confirmation name is Saint Joan, after Joan of Arc",
       "claim": "The host says she chose Saint Joan, Joan of Arc, as her confirmation name.",
       "anchored_artifacts": [
@@ -3744,7 +3744,7 @@
       "investigative_direction": "Host's confirmation records.",
       "transcript_snippet": "for my confirmation name I picked a Saint Joan.",
       "supports_claim_refs": [
-        "C-2807"
+        "C-8627"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -3752,8 +3752,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-8820",
-      "ref": "C-8820",
+      "@id": "C-8634",
+      "ref": "C-8634",
       "label": "Host says she did not meet the Pope in Rome",
       "claim": "The host says she did not meet the Pope; she did some tours around the Vatican with her children on what she calls a normal family vacation.",
       "anchored_artifacts": [],
@@ -3783,7 +3783,7 @@
           "video_timestamp": "00:32:25",
           "speaker_node_ref": "N-3",
           "quote": "If you have that opposite side footage of the person who caught that footage, 10k is yours, no questions asked, okay? More tips at candaceowens. com.",
-          "context": "DIA tip-line call: $10,000 bounty for opposite-side footage of the Erika Kirk corridor clip (C-3745, A-2008.5).",
+          "context": "DIA tip-line call: $10,000 bounty for opposite-side footage of the Erika Kirk corridor clip (C-8578, A-2008.5).",
           "confidence": "high",
           "tags": [
             "tips_network",

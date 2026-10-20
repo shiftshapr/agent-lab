@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep086): N-10581, N-10624, N-10711
   - Tip-minted Nodes (reintro-ep086): N-10975, N-11055, N-11068
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10d): C-10299–C-10353
+  - Claim Range: C-7685–C-7757
   - New Nodes Introduced: N-10569, N-10570
   - Reused Nodes Appearing: N-10085, N-1, N-10573, N-6, N-15, N-22, N-30, N-36, N-195, N-261, N-266, N-330, N-598, N-10000, N-10006, N-10012, N-10014, N-10039, N-10100, N-10110, N-10162, N-10201, N-10300, N-10346, N-10360, N-10389, N-10447, N-10539, N-10621, N-10770, N-10797, N-11054, N-11149, N-418, N-675, N-776, N-10571, N-10572, N-11256
   - (see registers)
@@ -35,7 +35,6 @@
 
 ### Episode 86 Ledger Summary
 - Artifact Families Introduced: A-1912, A-1913, A-1914, A-1915, A-1916
-- Claim Range: C-2609–C-2625, C-3750
 - New People Nodes Introduced: none (Wave 2: local ids removed)
 - New Investigation Target Nodes Introduced: N-10569, N-10570, N-10571, N-10572
 - Existing Nodes Reused: Charlie Kirk, Erika Kirk, Candace Owens, Tyler Robinson, Terryl Farnsworth, Andrew Kolvet, Dr. Lee Trotter, Justin Streiff, Frank Carni, Matt Robinson, Robinson roommate, FBI, ATF, Turning Point USA, Utah County Attorney's Office (UCAO), Kash Patel, Governor Cox
@@ -64,7 +63,7 @@ Video Timestamp: 00:17:27–00:49:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (filing is shown on screen and read aloud at length)
 
-*Related: C-2609, C-2610, C-2611, C-2613, C-2614, C-2615, C-2616, C-2617, N-10569, N-10570, N-10572, CASE_1*
+*Related: C-7717, C-7731, C-7734, C-7726, C-7728, C-7721, C-7720, C-7718, N-10569, N-10570, N-10572, CASE_1*
 
 ---
 
@@ -78,7 +77,7 @@ Video Timestamp: 00:11:24–00:12:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (full text read aloud)
 
-*Related: C-2618, C-2619, C-2625, N-10085*
+*Related: C-7705, C-7706, C-7702, N-10085*
 
 ---
 
@@ -92,7 +91,7 @@ Video Timestamp: 00:41:49–00:43:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (transcript captured; network/station not specified)
 
-*Related: C-2612, N-10569*
+*Related: C-7738, N-10569*
 
 ---
 
@@ -106,7 +105,7 @@ Video Timestamp: 00:50:51–00:53:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (read aloud; sender identity not disclosed)
 
-*Related: C-2620, N-10571*
+*Related: C-7749, N-10571*
 
 ---
 
@@ -120,7 +119,7 @@ Video Timestamp: 00:58:46–00:59:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text read aloud)
 
-*Related: C-2621, C-2622, C-2623*
+*Related: C-7752, C-7754, C-7755*
 
 **A-1916.2** Han Solo Comment – asks investigative questions about pressure points, Andrew Kolvet's role, and end-state of the case
 
@@ -151,7 +150,7 @@ Video Timestamp: 00:06:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10307, C-10308, C-10309, N-3*
+*Related: C-7694, C-7695, C-7696, N-3*
 
 ---
 
@@ -164,7 +163,7 @@ Video Timestamp: 00:12:48
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10317, N-3*
+*Related: C-7707, N-3*
 
 ---
 
@@ -177,7 +176,7 @@ Video Timestamp: 00:31:09
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10333, N-3*
+*Related: C-7729, N-3*
 
 ---
 
@@ -190,7 +189,7 @@ Video Timestamp: 00:50:51
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10345, N-3*
+*Related: C-7745, N-3*
 
 ---
 
@@ -205,7 +204,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1912.1, A-1914.1, C-2611, C-2612, C-2624*
+*Related: A-1912.1, A-1914.1, C-7734, C-7738, C-7736*
 
 ---
 
@@ -218,7 +217,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1913.1, C-2618, C-2619, C-2625*
+*Related: A-1913.1, C-7705, C-7706, C-7702*
 
 ---
 
@@ -231,7 +230,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1912.1, C-2613, C-2614, C-2615, C-2616, C-2617*
+*Related: A-1912.1, C-7726, C-7728, C-7721, C-7720, C-7718*
 
 ---
 
@@ -244,7 +243,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1915.1, C-2620*
+*Related: A-1915.1, C-7749*
 
 ---
 
@@ -257,7 +256,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1912.1, C-2610*
+*Related: A-1912.1, C-7731*
 
 ---
 
@@ -278,7 +277,7 @@ Investigative Pressure: Medium
 
 Host; speaks for herself throughout.
 
-*Related: C-10303, C-10307, C-10308, C-10310, C-10317, C-10322, C-10325, C-10344, C-10345, C-10347, C-10349, C-10350, C-10352*
+*Related: C-7689, C-7694, C-7695, C-7697, C-7707, C-7712, C-7715, C-7744, C-7745, C-7747, C-7750, C-7751, C-7756*
 
 ---
 
@@ -286,7 +285,7 @@ Host; speaks for herself throughout.
 
 Charlie Kirk; subject of the shooting, surgeon quote and the footage dispute.
 
-*Related: C-10299, C-10300, C-10304, C-10305, C-10306, C-10312, C-10316, C-10317, C-10319, C-10347, C-10349, C-10350, C-10351*
+*Related: C-7685, C-7686, C-7690, C-7691, C-7692, C-7699, C-7704, C-7707, C-7709, C-7747, C-7750, C-7751, C-7753*
 
 ---
 
@@ -294,7 +293,7 @@ Charlie Kirk; subject of the shooting, surgeon quote and the footage dispute.
 
 Turning Point USA; subject of the host's allegations about the footage and employee statements.
 
-*Related: C-10301, C-10344, C-10353*
+*Related: C-7687, C-7744, C-7757*
 
 ---
 
@@ -302,7 +301,7 @@ Turning Point USA; subject of the host's allegations about the footage and emplo
 
 Erika Kirk; the host alleges she directed the response to the bullet question, and discusses her July 14 flight and Fox News remark.
 
-*Related: C-10304, C-10312, C-10313, C-10314, C-10315, C-10316, C-10333, C-10345, C-10346, C-10351, C-10352*
+*Related: C-7690, C-7699, C-7700, C-7701, C-7703, C-7704, C-7729, C-7745, C-7746, C-7753, C-7756*
 
 ---
 
@@ -310,7 +309,7 @@ Erika Kirk; the host alleges she directed the response to the bullet question, a
 
 George (the host's husband); asked by Justin Streiff whether the host recorded the FaceTime.
 
-*Related: C-10309, C-10310*
+*Related: C-7696, C-7697*
 
 ---
 
@@ -318,7 +317,7 @@ George (the host's husband); asked by Justin Streiff whether the host recorded t
 
 Tyler Robinson; defendant in the continuance filing.
 
-*Related: C-10320, C-10321, C-10323, C-10324, C-10326, C-10327, C-10328, C-10329, C-10330, C-10331, C-10332, C-10334, C-10335, C-10336, C-10340, C-10341, C-10342, C-10343*
+*Related: C-7710, C-7711, C-7713, C-7714, C-7716, C-7719, C-7722, C-7723, C-7724, C-7725, C-7727, C-7730, C-7732, C-7733, C-7740, C-7741, C-7742, C-7743*
 
 ---
 
@@ -326,7 +325,7 @@ Tyler Robinson; defendant in the continuance filing.
 
 Elizabeth Lane; cited by the host as discussing the other hospital and a strange lockdown.
 
-*Related: C-10350*
+*Related: C-7751*
 
 ---
 
@@ -334,7 +333,7 @@ Elizabeth Lane; cited by the host as discussing the other hospital and a strange
 
 Frank Turek; his hospital account is questioned in the comments segment.
 
-*Related: C-10351*
+*Related: C-7753*
 
 ---
 
@@ -342,7 +341,7 @@ Frank Turek; his hospital account is questioned in the comments segment.
 
 Tucker Carlson; his on-stage remarks are tied by the host to the July 13 timeline.
 
-*Related: C-10347*
+*Related: C-7747*
 
 ---
 
@@ -350,14 +349,14 @@ Tucker Carlson; his on-stage remarks are tied by the host to the July 13 timelin
 
 Andrew Kolvet (transcribed Kolvats, Kolb); TPUSA spokesperson whose surgeon account and SD card explanation are discussed.
 
-*Related: C-10302, C-10313, C-10314, C-10316, C-10317, C-10318, C-10353*
+*Related: C-7688, C-7700, C-7701, C-7704, C-7707, C-7708, C-7757*
 
 ---
 
 **N-15** Justin Streiff
 Justin Streiff; TPUSA COO, said by the host to have asked her husband about the FaceTime recording.
 
-*Related: C-10309, C-10310, C-10311*
+*Related: C-7696, C-7697, C-7698*
 
 ---
 
@@ -365,7 +364,7 @@ Justin Streiff; TPUSA COO, said by the host to have asked her husband about the 
 
 Fox News; venue of Erika Kirk's remark about wanting the case to be fast.
 
-*Related: C-10333*
+*Related: C-7729*
 
 ---
 
@@ -373,7 +372,7 @@ Fox News; venue of Erika Kirk's remark about wanting the case to be fast.
 
 Benjamin Netanyahu; named in the host's account of Tucker Carlson's remarks.
 
-*Related: C-10347*
+*Related: C-7747*
 
 ---
 
@@ -381,7 +380,7 @@ Benjamin Netanyahu; named in the host's account of Tucker Carlson's remarks.
 
 Katherine Locastro (transcribed Katherine Locastro); named as a passenger on Erika's July 14 flight.
 
-*Related: C-10346*
+*Related: C-7746*
 
 ---
 
@@ -389,7 +388,7 @@ Katherine Locastro (transcribed Katherine Locastro); named as a passenger on Eri
 
 Utah Valley University; source of students and staff the host says she spoke to.
 
-*Related: C-10325*
+*Related: C-7715*
 
 ---
 
@@ -397,7 +396,7 @@ Utah Valley University; source of students and staff the host says she spoke to.
 
 Federal Bureau of Investigation; alleged to have been calling TPUSA about the footage and to be running a second bullet analysis.
 
-*Related: C-10311, C-10319, C-10323, C-10325*
+*Related: C-7698, C-7709, C-7713, C-7715*
 
 ---
 
@@ -405,7 +404,7 @@ Federal Bureau of Investigation; alleged to have been calling TPUSA about the fo
 
 Derek Niekerk; named as a passenger on Erika's July 14 flight.
 
-*Related: C-10346*
+*Related: C-7746*
 
 ---
 
@@ -413,7 +412,7 @@ Derek Niekerk; named as a passenger on Erika's July 14 flight.
 
 Baron Coleman; cited for his explanation that the people involved are tied to each other.
 
-*Related: C-10353*
+*Related: C-7757*
 
 ---
 
@@ -421,7 +420,7 @@ Baron Coleman; cited for his explanation that the people involved are tied to ea
 
 Missing Text Message Timestamps; reused for the PDF text messages the defense says lack time data.
 
-*Related: C-10343*
+*Related: C-7743*
 
 ---
 
@@ -429,7 +428,7 @@ Missing Text Message Timestamps; reused for the PDF text messages the defense sa
 
 Terryl Farnsworth (transcribed Tarro); AV contractor who removed the SD card and later showed the host the back footage.
 
-*Related: C-10300, C-10301, C-10302, C-10303, C-10304, C-10305, C-10306, C-10307, C-10308, C-10309*
+*Related: C-7686, C-7687, C-7688, C-7689, C-7690, C-7691, C-7692, C-7694, C-7695, C-7696*
 
 ---
 
@@ -437,7 +436,7 @@ Terryl Farnsworth (transcribed Tarro); AV contractor who removed the SD card and
 
 Brian Harpole; cited for his later account of where the bullet fragmented.
 
-*Related: C-10318*
+*Related: C-7708*
 
 ---
 
@@ -445,7 +444,7 @@ Brian Harpole; cited for his later account of where the bullet fragmented.
 
 Jonathan Barcelo (transcribed Barcello); named as a passenger on Erika's July 14 flight.
 
-*Related: C-10346*
+*Related: C-7746*
 
 ---
 
@@ -453,7 +452,7 @@ Jonathan Barcelo (transcribed Barcello); named as a passenger on Erika's July 14
 
 Matt Robinson; Tyler Robinson's father, expected to testify about the gun.
 
-*Related: C-10327*
+*Related: C-7719*
 
 ---
 
@@ -461,7 +460,7 @@ Matt Robinson; Tyler Robinson's father, expected to testify about the gun.
 
 Dr. Lee Trotter; the surgeon whose call with Erika and Kolvet is disputed.
 
-*Related: C-10313, C-10314, C-10315, C-10316, C-10352*
+*Related: C-7700, C-7701, C-7703, C-7704, C-7756*
 
 ---
 
@@ -469,7 +468,7 @@ Dr. Lee Trotter; the surgeon whose call with Erika and Kolvet is disputed.
 
 TPUSA SD Card Removal; reused for the Farnsworth card removal claims.
 
-*Related: C-10300, C-10302, C-10305, C-10306*
+*Related: C-7686, C-7688, C-7691, C-7692*
 
 ---
 
@@ -477,7 +476,7 @@ TPUSA SD Card Removal; reused for the Farnsworth card removal claims.
 
 Tyler Robinson Evidence Gaps; reused for the prints and DNA claims.
 
-*Related: C-10324, C-10334*
+*Related: C-7714, C-7730*
 
 ---
 
@@ -485,7 +484,7 @@ Tyler Robinson Evidence Gaps; reused for the prints and DNA claims.
 
 SD Card Removal Narrative Discrepancy; reused.
 
-*Related: C-10300*
+*Related: C-7686*
 
 ---
 
@@ -493,7 +492,7 @@ SD Card Removal Narrative Discrepancy; reused.
 
 Charlie Kirk Burial / Funeral Narrative Discrepancy; reused for the September 20 burial date.
 
-*Related: C-10312*
+*Related: C-7699*
 
 ---
 
@@ -501,7 +500,7 @@ Charlie Kirk Burial / Funeral Narrative Discrepancy; reused for the September 20
 
 Justin Streiff Post-Assassination Phone Call; reused for the host's account of his contact with her husband.
 
-*Related: C-10309*
+*Related: C-7696*
 
 ---
 
@@ -509,7 +508,7 @@ Justin Streiff Post-Assassination Phone Call; reused for the host's account of h
 
 Terryl Farnsworth Camera Removal Justification; reused for his and Kolvet's explanations.
 
-*Related: C-10302, C-10304*
+*Related: C-7688, C-7690*
 
 ---
 
@@ -517,7 +516,7 @@ Terryl Farnsworth Camera Removal Justification; reused for his and Kolvet's expl
 
 Gun Discovery Procedure Question; reused for the planted-gun allegation.
 
-*Related: C-10323*
+*Related: C-7713*
 
 ---
 
@@ -525,7 +524,7 @@ Gun Discovery Procedure Question; reused for the planted-gun allegation.
 
 Charlie Kirk Premonition Dreams; reused for the host's account that he told her he would die.
 
-*Related: C-10349*
+*Related: C-7750*
 
 ---
 
@@ -533,7 +532,7 @@ Charlie Kirk Premonition Dreams; reused for the host's account that he told her 
 
 Three-Way Surgeon Call / Superman Neck HIPAA Discrepancy; reused for the Erika, Kolvet and Trotter call.
 
-*Related: C-10313, C-10314, C-10315, C-10316, C-10352*
+*Related: C-7700, C-7701, C-7703, C-7704, C-7756*
 
 ---
 
@@ -541,7 +540,7 @@ Three-Way Surgeon Call / Superman Neck HIPAA Discrepancy; reused for the Erika, 
 
 Charlie Kirk Iran War Opposition (June 2025); reused for the host's timeline theory.
 
-*Related: C-10347*
+*Related: C-7747*
 
 ---
 
@@ -549,7 +548,7 @@ Charlie Kirk Iran War Opposition (June 2025); reused for the host's timeline the
 
 Tyler Robinson Defense Chain of Custody / Documents; reused.
 
-*Related: C-10328, C-10343*
+*Related: C-7722, C-7743*
 
 ---
 
@@ -557,7 +556,7 @@ Tyler Robinson Defense Chain of Custody / Documents; reused.
 
 Gun Firing Evidence Verification; reused for the GSR, prints and heirloom ammunition claims.
 
-*Related: C-10320, C-10321, C-10323, C-10324*
+*Related: C-7710, C-7711, C-7713, C-7714*
 
 ---
 
@@ -565,7 +564,7 @@ Gun Firing Evidence Verification; reused for the GSR, prints and heirloom ammuni
 
 Defense Access to Firearm Evidence (Quantico); reused for the outstanding ATF and FBI materials.
 
-*Related: C-10331*
+*Related: C-7725*
 
 ---
 
@@ -573,7 +572,7 @@ Defense Access to Firearm Evidence (Quantico); reused for the outstanding ATF an
 
 Tyler Robinson DNA Most Degraded Anomaly; reused for the DNA mixture claim.
 
-*Related: C-10334*
+*Related: C-7730*
 
 ---
 
@@ -581,7 +580,7 @@ Tyler Robinson DNA Most Degraded Anomaly; reused for the DNA mixture claim.
 
 Utah Valley Hospital File Anomaly; reused for the hospital routing question.
 
-*Related: C-10350*
+*Related: C-7751*
 
 ---
 
@@ -589,7 +588,7 @@ Utah Valley Hospital File Anomaly; reused for the hospital routing question.
 
 Terryl Farnsworth Google-Hack Contradiction; reused for his excuses for not sending the footage.
 
-*Related: C-10307*
+*Related: C-7694*
 
 ---
 
@@ -597,7 +596,7 @@ Terryl Farnsworth Google-Hack Contradiction; reused for his excuses for not send
 
 Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF); source of the inconclusive bullet finding.
 
-*Related: C-10331, C-10335, C-10336*
+*Related: C-7725, C-7732, C-7733*
 
 ---
 
@@ -605,7 +604,7 @@ Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF); source of the inconcl
 
 Bomb Dog Deployment at the Crime Scene; reused.
 
-*Related: C-10322*
+*Related: C-7712*
 
 ---
 
@@ -613,7 +612,7 @@ Bomb Dog Deployment at the Crime Scene; reused.
 
 Tyler Robinson Gunshot Residue Test Question; reused.
 
-*Related: C-10321*
+*Related: C-7711*
 
 ---
 
@@ -621,7 +620,7 @@ Tyler Robinson Gunshot Residue Test Question; reused.
 
 Utah Rule 1102 Hearsay Standard; reused for the hearsay argument.
 
-*Related: C-10332, C-10340, C-10342*
+*Related: C-7727, C-7740, C-7742*
 
 ---
 
@@ -629,7 +628,7 @@ Utah Rule 1102 Hearsay Standard; reused for the hearsay argument.
 
 Tyler Robinson Preliminary Hearing and Motion to Dismiss; reused for the continuance request.
 
-*Related: C-10326, C-10327, C-10330, C-10340, C-10342*
+*Related: C-7716, C-7719, C-7724, C-7740, C-7742*
 
 ---
 
@@ -637,7 +636,7 @@ Tyler Robinson Preliminary Hearing and Motion to Dismiss; reused for the continu
 
 First named by the host at 00:08:17 in episode 86. Named as a TPUSA figure who, with Justin Streiff, was on the phone with the FBI about the back footage, per the host.
 
-*Related: C-10311*
+*Related: C-7698*
 
 ---
 
@@ -646,7 +645,7 @@ First named by the host at 00:08:17 in episode 86. Named as a TPUSA figure who, 
 Node Type: Topic
 Topic. The host's account that on September 20, 2025 TPUSA leadership and the FBI were asking whether she had recorded Terryl Farnsworth's September 19 FaceTime showing the back-camera footage.
 
-*Related: C-10308, C-10309, C-10310, C-10311*
+*Related: C-7695, C-7696, C-7697, C-7698*
 
 ---
 
@@ -655,13 +654,13 @@ Topic. The host's account that on September 20, 2025 TPUSA leadership and the FB
 Node Type: Organization
 Organization. Prosecuting office in State of Utah v. Tyler Robinson; the filing says it was also awaiting the lab files.
 
-*Related: C-10329*
+*Related: C-7723*
 
 ---
 
 ## V. Claim Register
 
-**C-2609** Per Filing Host Reads, Defense Moves to Continue Preliminary Hearing
+**C-7717** Per Filing Host Reads, Defense Moves to Continue Preliminary Hearing
 
 Claim Timestamp: 00:19:54
 
@@ -675,7 +674,7 @@ Investigative Direction: Obtain certified copy of the filed motion and confirm f
 
 ---
 
-**C-2610** ATF Unable to Identify Bullet to Rifle
+**C-7731** ATF Unable to Identify Bullet to Rifle
 
 Claim Timestamp: 00:37:11
 
@@ -690,7 +689,7 @@ Investigative Direction: Obtain full ATF case file and protocols referenced as o
 
 ---
 
-**C-2611** Per Filing Host Reads, FBI Conducting Second Comparative Bullet and Bullet Lead Analyses
+**C-7734** Per Filing Host Reads, FBI Conducting Second Comparative Bullet and Bullet Lead Analyses
 
 Claim Timestamp: 00:38:49
 
@@ -704,7 +703,7 @@ Investigative Direction: Obtain status filing or prosecutorial disclosure regard
 
 ---
 
-**C-2612** News Clip Host Plays Says FBI Discontinued Comparative Bullet Lead Analysis in 2005
+**C-7738** News Clip Host Plays Says FBI Discontinued Comparative Bullet Lead Analysis in 2005
 
 Claim Timestamp: 00:41:49
 
@@ -718,7 +717,7 @@ Investigative Direction: Cross-reference the FBI's 2005 NAS report and PCast/NIS
 
 ---
 
-**C-2613** Autopsy Report Delayed to Defense
+**C-7726** Autopsy Report Delayed to Defense
 
 Claim Timestamp: 00:30:26
 
@@ -732,7 +731,7 @@ Investigative Direction: Obtain defense correspondence log and prosecution's tra
 
 ---
 
-**C-2614** Per Filing Host Reads, Autopsy Photographs Delayed to Defense
+**C-7728** Per Filing Host Reads, Autopsy Photographs Delayed to Defense
 
 Claim Timestamp: 00:31:09
 
@@ -746,7 +745,7 @@ Investigative Direction: Obtain defense correspondence log and prosecution's tra
 
 ---
 
-**C-2615** Per Filing Host Reads, ~600,000 Files / ~12 TB Dumped at March 12, 2026 Conference
+**C-7721** Per Filing Host Reads, ~600,000 Files / ~12 TB Dumped at March 12, 2026 Conference
 
 Claim Timestamp: 00:23:58
 
@@ -760,7 +759,7 @@ Investigative Direction: Cross-reference the filing's exhibit list and any hard-
 
 ---
 
-**C-2616** Per Filing Host Reads, Prior Discovery Volume Before March 12, 2026 Conference
+**C-7720** Per Filing Host Reads, Prior Discovery Volume Before March 12, 2026 Conference
 
 Claim Timestamp: 00:23:17
 
@@ -774,7 +773,7 @@ Investigative Direction: Cross-reference with case docket and prosecution's disc
 
 ---
 
-**C-2617** State's Preliminary Hearing Evidence Through Three Law Enforcement Witnesses
+**C-7718** State's Preliminary Hearing Evidence Through Three Law Enforcement Witnesses
 
 Claim Timestamp: 00:20:35
 
@@ -789,7 +788,7 @@ Investigative Direction: Verify witness list filing and prosecution's stated int
 
 ---
 
-**C-2618** Andrew Kolvet Tweet: Coroner Found Bullet Beneath Skin
+**C-7705** Andrew Kolvet Tweet: Coroner Found Bullet Beneath Skin
 
 Claim Timestamp: 00:11:24
 
@@ -804,7 +803,7 @@ Investigative Direction: Obtain and verify the original X post timestamp, accoun
 
 ---
 
-**C-2619** Andrew Kolvet Tweet: "Man of Steel" Surgeon Quote
+**C-7706** Andrew Kolvet Tweet: "Man of Steel" Surgeon Quote
 
 Claim Timestamp: 00:12:07
 
@@ -819,7 +818,7 @@ Investigative Direction: Identify and depose the surgeon; compare quote against 
 
 ---
 
-**C-2620** Viewer Email Host Reads Says Long Beach Airport Is Near Joint Forces Air Base
+**C-7749** Viewer Email Host Reads Says Long Beach Airport Is Near Joint Forces Air Base
 
 Claim Timestamp: 00:52:00
 
@@ -833,7 +832,7 @@ Investigative Direction: Confirm base location via public military base director
 
 ---
 
-**C-2621** Kim Haven Asserts Doctors Do Not Publicly Announce Deaths
+**C-7752** Kim Haven Asserts Doctors Do Not Publicly Announce Deaths
 
 Claim Timestamp: 00:58:46
 
@@ -847,7 +846,7 @@ Investigative Direction: Review standard hospital death-disclosure protocols; ob
 
 ---
 
-**C-2622** Kim Haven Asserts Frank Turek Is "Absolutely a Liar"
+**C-7754** Kim Haven Asserts Frank Turek Is "Absolutely a Liar"
 
 Claim Timestamp: 00:58:50
 
@@ -862,7 +861,7 @@ Investigative Direction: Identify and locate Frank Turek's original statement; r
 
 ---
 
-**C-2623** Host Concurs With Kim Haven's Assessment
+**C-7755** Host Concurs With Kim Haven's Assessment
 
 Claim Timestamp: 00:59:52
 
@@ -877,7 +876,7 @@ Investigative Direction: Compare timing against typical trauma-team workflow; ob
 
 ---
 
-**C-2624** Host Says FBI CBLA Revival Is Corrupt
+**C-7736** Host Says FBI CBLA Revival Is Corrupt
 
 Claim Timestamp: 00:40:25
 
@@ -892,7 +891,7 @@ Investigative Direction: Review any FBI lab protocol authorizing CBLA reintroduc
 
 ---
 
-**C-2625** Host Disagrees With "Man of Steel" Medical Framing
+**C-7702** Host Disagrees With "Man of Steel" Medical Framing
 
 Claim Timestamp: 00:09:57
 
@@ -907,7 +906,7 @@ Investigative Direction: Obtain forensic pathology review of any surgeon communi
 
 ---
 
-**C-3750** Host says the scene was paved over quickly to protect the pass-through narrative
+**C-7693** Host says the scene was paved over quickly to protect the pass-through narrative
 
 Claim Timestamp: 00:06:19
 
@@ -922,7 +921,7 @@ Investigative Direction: Obtain the timeline and work orders for the repaving of
 
 ---
 
-**C-10299** Kirk shot at 12:23 p.m. Mountain Time on September 10
+**C-7685** Kirk shot at 12:23 p.m. Mountain Time on September 10
 
 Claim Timestamp: 00:02:18
 
@@ -938,7 +937,7 @@ Investigative Direction: Compare against the 911 log, CAD records and event vide
 
 ---
 
-**C-10300** Farnsworth grabbed Kirk's chair and removed the SD card minutes after the shot
+**C-7686** Farnsworth grabbed Kirk's chair and removed the SD card minutes after the shot
 
 Claim Timestamp: 00:02:18
 
@@ -949,13 +948,13 @@ Transcript Snippet: He returns to the crime scene and violates it. More specific
 Anchored Artifacts: 
 Mentions: N-261, N-1
 Related Nodes: N-10100, N-10162
-Supports: C-6475
+Supports: C-1355
 Tags: relevance:core
 Investigative Direction: Obtain scene video showing Farnsworth's movements and the chain of custody of the SD card from that camera.
 
 ---
 
-**C-10301** Farnsworth's AV company has worked TPUSA events for over a decade
+**C-7687** Farnsworth's AV company has worked TPUSA events for over a decade
 
 Claim Timestamp: 00:02:18
 
@@ -971,7 +970,7 @@ Investigative Direction: Obtain TPUSA vendor contracts and prior event staffing 
 
 ---
 
-**C-10302** Host says Kolvet's theft explanation for the SD card fails because the camera was left
+**C-7688** Host says Kolvet's theft explanation for the SD card fails because the camera was left
 
 Claim Timestamp: 00:03:32
 
@@ -982,13 +981,13 @@ Transcript Snippet: Yeah, we we know Andrew Kolvet lying because Tarro did not t
 Anchored Artifacts: 
 Mentions: N-14, N-261
 Related Nodes: N-10346, N-10100
-Supports: C-6480
+Supports: C-1361
 Tags: relevance:core
 Investigative Direction: Compare Kolvet's public explanation with the scene video showing which items were on the table and what was taken.
 
 ---
 
-**C-10303** Host called Farnsworth on September 17, one week after the shooting
+**C-7689** Host called Farnsworth on September 17, one week after the shooting
 
 Claim Timestamp: 00:03:32
 
@@ -1004,7 +1003,7 @@ Investigative Direction: Obtain the host's call log and any recording or notes o
 
 ---
 
-**C-10304** Host says Farnsworth stammered and said he took the footage to protect Erika
+**C-7690** Host says Farnsworth stammered and said he took the footage to protect Erika
 
 Claim Timestamp: 00:04:18
 
@@ -1020,7 +1019,7 @@ Investigative Direction: Ask Farnsworth to state under oath why he chose that ca
 
 ---
 
-**C-10305** Host says the back-camera footage showed almost no blood
+**C-7691** Host says the back-camera footage showed almost no blood
 
 Claim Timestamp: 00:05:21
 
@@ -1036,7 +1035,7 @@ Investigative Direction: Obtain the original back-camera file and compare it wit
 
 ---
 
-**C-10306** Host speculates the footage was hidden because it showed the bullet did not exit
+**C-7692** Host speculates the footage was hidden because it showed the bullet did not exit
 
 Claim Timestamp: 00:05:21
 
@@ -1052,7 +1051,7 @@ Investigative Direction: Obtain the autopsy report and the back-camera footage t
 
 ---
 
-**C-10307** Farnsworth showed the host the back footage by FaceTime on September 19
+**C-7694** Farnsworth showed the host the back footage by FaceTime on September 19
 
 Claim Timestamp: 00:06:19
 
@@ -1068,7 +1067,7 @@ Investigative Direction: Obtain the host's screen recording of the September 19 
 
 ---
 
-**C-10308** Host recorded the FaceTime and told viewers the bullet did not go through
+**C-7695** Host recorded the FaceTime and told viewers the bullet did not go through
 
 Claim Timestamp: 00:06:53
 
@@ -1084,7 +1083,7 @@ Investigative Direction: Compare the host's September 19 episode with the record
 
 ---
 
-**C-10309** Justin Streiff repeatedly asked the host's husband whether she recorded the FaceTime
+**C-7696** Justin Streiff repeatedly asked the host's husband whether she recorded the FaceTime
 
 Claim Timestamp: 00:06:53
 
@@ -1100,7 +1099,7 @@ Investigative Direction: Obtain George Farmer's message log with Justin Streiff 
 
 ---
 
-**C-10310** Host says she told her husband not to answer the question
+**C-7697** Host says she told her husband not to answer the question
 
 Claim Timestamp: 00:07:37
 
@@ -1116,7 +1115,7 @@ Investigative Direction: Obtain the husband's account and the message thread wit
 
 ---
 
-**C-10311** Host Says the FBI Was on the Phone With Streiff and Frank Carni About the Back Footage
+**C-7698** Host Says the FBI Was on the Phone With Streiff and Frank Carni About the Back Footage
 
 Claim Timestamp: 00:08:17
 
@@ -1132,7 +1131,7 @@ Investigative Direction: Identify the host's source for this account and request
 
 ---
 
-**C-10312** Host says September 20 was the day of Charlie's private burial
+**C-7699** Host says September 20 was the day of Charlie's private burial
 
 Claim Timestamp: 00:08:17
 
@@ -1148,7 +1147,7 @@ Investigative Direction: Confirm the date and nature of the private burial with 
 
 ---
 
-**C-10313** Host says Erika and Andrew called Dr. Lee Trotter on the day of the funeral
+**C-7700** Host says Erika and Andrew called Dr. Lee Trotter on the day of the funeral
 
 Claim Timestamp: 00:09:09
 
@@ -1164,7 +1163,7 @@ Investigative Direction: Obtain phone records for the Erika Kirk, Andrew Kolvet 
 
 ---
 
-**C-10314** Host says Erika told her Andrew and the surgeon went rogue
+**C-7701** Host says Erika told her Andrew and the surgeon went rogue
 
 Claim Timestamp: 00:09:09
 
@@ -1180,7 +1179,7 @@ Investigative Direction: Obtain any recording or notes of the host's conversatio
 
 ---
 
-**C-10315** Host says Dr. Trotter did not violate HIPAA and could sue for defamation
+**C-7703** Host says Dr. Trotter did not violate HIPAA and could sue for defamation
 
 Claim Timestamp: 00:09:57
 
@@ -1196,7 +1195,7 @@ Investigative Direction: Ask Dr. Trotter or his counsel whether he authorized th
 
 ---
 
-**C-10316** Host says Erika was on the call and said Charlie ate healthy and had a neck like Superman
+**C-7704** Host says Erika was on the call and said Charlie ate healthy and had a neck like Superman
 
 Claim Timestamp: 00:09:57
 
@@ -1212,7 +1211,7 @@ Investigative Direction: Identify the host's source for who said what on the cal
 
 ---
 
-**C-10317** Host says Kolvet told her on September 23 the bullet ran from C2 to C6 and shattered in the thorax
+**C-7707** Host says Kolvet told her on September 23 the bullet ran from C2 to C6 and shattered in the thorax
 
 Claim Timestamp: 00:12:48
 
@@ -1228,7 +1227,7 @@ Investigative Direction: Obtain the host's September 23 notes and ask Kolvet to 
 
 ---
 
-**C-10318** Host Says the Official Bullet Account Kept Changing
+**C-7708** Host Says the Official Bullet Account Kept Changing
 
 Claim Timestamp: 00:14:04
 
@@ -1244,7 +1243,7 @@ Investigative Direction: Compare Kolvet's September 20 post, his September 23 ac
 
 ---
 
-**C-10319** Host theorizes the feds pivoted after the back footage ruined their plan
+**C-7709** Host theorizes the feds pivoted after the back footage ruined their plan
 
 Claim Timestamp: 00:14:04
 
@@ -1260,7 +1259,7 @@ Investigative Direction: Seek federal communications between September 19 and 20
 
 ---
 
-**C-10320** Host's source says the family heirloom gun takes special bullets
+**C-7710** Host's source says the family heirloom gun takes special bullets
 
 Claim Timestamp: 00:14:04
 
@@ -1276,7 +1275,7 @@ Investigative Direction: Identify the ammunition type recovered and required by 
 
 ---
 
-**C-10321** Host says there was no reported GSR test 33 hours later
+**C-7711** Host says there was no reported GSR test 33 hours later
 
 Claim Timestamp: 00:15:08
 
@@ -1292,7 +1291,7 @@ Investigative Direction: Check discovery and lab reports for any GSR swabs of Ro
 
 ---
 
-**C-10322** Host says the bomb dogs went into the field and did not find the weapon
+**C-7712** Host says the bomb dogs went into the field and did not find the weapon
 
 Claim Timestamp: 00:15:57
 
@@ -1308,7 +1307,7 @@ Investigative Direction: Obtain K-9 deployment logs and handler reports for Sept
 
 ---
 
-**C-10323** Host says her sources believe the feds planted an unfired gun
+**C-7713** Host says her sources believe the feds planted an unfired gun
 
 Claim Timestamp: 00:15:57
 
@@ -1324,7 +1323,7 @@ Investigative Direction: Obtain the recovery chain of custody, the bore and cham
 
 ---
 
-**C-10324** Host says six sets of prints were found on the gun
+**C-7714** Host says six sets of prints were found on the gun
 
 Claim Timestamp: 00:16:40
 
@@ -1335,13 +1334,13 @@ Transcript Snippet: is that they found a total of six sets of prints on the gun.
 Anchored Artifacts: 
 Mentions: N-40
 Related Nodes: N-10110, N-10621
-Supports: C-1283
+Supports: C-756
 Tags: relevance:core
 Investigative Direction: Obtain the latent print report identifying the six sets and their donors.
 
 ---
 
-**C-10325** Host says SWAT, police and UVU sources say the feds are part of a conspiracy
+**C-7715** Host says SWAT, police and UVU sources say the feds are part of a conspiracy
 
 Claim Timestamp: 00:17:27
 
@@ -1357,7 +1356,7 @@ Investigative Direction: Ask the host to identify, even anonymously and with cor
 
 ---
 
-**C-10326** Host rejects the claim that Robinson confessed, citing the continuance request
+**C-7716** Host rejects the claim that Robinson confessed, citing the continuance request
 
 Claim Timestamp: 00:18:18
 
@@ -1373,7 +1372,7 @@ Investigative Direction: Check the record for any confession, including statemen
 
 ---
 
-**C-10327** Host expects Matt Robinson to be asked to identify the gun
+**C-7719** Host expects Matt Robinson to be asked to identify the gun
 
 Claim Timestamp: 00:21:30
 
@@ -1389,7 +1388,7 @@ Investigative Direction: Check the witness list and any proffer on what Matt Rob
 
 ---
 
-**C-10328** Defense says it has requested forensic case files since September 30
+**C-7722** Defense says it has requested forensic case files since September 30
 
 Claim Timestamp: 00:25:51
 
@@ -1405,7 +1404,7 @@ Investigative Direction: Obtain the exhibits to the motion listing each discover
 
 ---
 
-**C-10329** Filing says the county attorney's office was also awaiting the lab files
+**C-7723** Filing says the county attorney's office was also awaiting the lab files
 
 Claim Timestamp: 00:26:31
 
@@ -1421,7 +1420,7 @@ Investigative Direction: Obtain the January hearing transcript and the February 
 
 ---
 
-**C-10330** Judge said on December 11 the May hearing date was not set in stone
+**C-7724** Judge said on December 11 the May hearing date was not set in stone
 
 Claim Timestamp: 00:27:35
 
@@ -1437,7 +1436,7 @@ Investigative Direction: Obtain the December 11, 2025 hearing transcript or minu
 
 ---
 
-**C-10331** Filing lists outstanding FBI and ATF case files and protocols
+**C-7725** Filing lists outstanding FBI and ATF case files and protocols
 
 Claim Timestamp: 00:29:33
 
@@ -1453,7 +1452,7 @@ Investigative Direction: Obtain the filed motion and exhibits at page 11 and com
 
 ---
 
-**C-10332** Filing says the state will offer the autopsy report without expert testimony
+**C-7727** Filing says the state will offer the autopsy report without expert testimony
 
 Claim Timestamp: 00:30:26
 
@@ -1469,7 +1468,7 @@ Investigative Direction: Obtain the filed motion at page 18 and the state's witn
 
 ---
 
-**C-10333** Host says Erika said on Fox News she wanted the case to move fast
+**C-7729** Host says Erika said on Fox News she wanted the case to move fast
 
 Claim Timestamp: 00:31:09
 
@@ -1485,7 +1484,7 @@ Investigative Direction: Locate the Fox News interview and quote in context.
 
 ---
 
-**C-10334** Filing says DNA reports show mixtures of up to five or more individuals
+**C-7730** Filing says DNA reports show mixtures of up to five or more individuals
 
 Claim Timestamp: 00:31:59
 
@@ -1501,7 +1500,7 @@ Investigative Direction: Obtain the FBI and ATF DNA reports and the underlying e
 
 ---
 
-**C-10335** Filing says the state will not offer the ATF report but the defense may call the analyst
+**C-7732** Filing says the state will not offer the ATF report but the defense may call the analyst
 
 Claim Timestamp: 00:37:11
 
@@ -1512,13 +1511,13 @@ Transcript Snippet: Although the state has not indicated an intent to produce th
 Anchored Artifacts: A-1912.1
 Mentions: N-40
 Related Nodes: N-10572, N-10975
-Supports: C-2610
+Supports: C-7731
 Tags: relevance:core
 Investigative Direction: Obtain the ATF summary report and the filed motion at the firearm evidence paragraph.
 
 ---
 
-**C-10336** Host says the state told the defense it would not raise the ATF finding
+**C-7733** Host says the state told the defense it would not raise the ATF finding
 
 Claim Timestamp: 00:38:13
 
@@ -1534,7 +1533,7 @@ Investigative Direction: Obtain the March 12 conference notes between the partie
 
 ---
 
-**C-10337** Host describes bullet lead analysis as FBI technique used from the 1980s to 2004
+**C-7735** Host describes bullet lead analysis as FBI technique used from the 1980s to 2004
 
 Claim Timestamp: 00:39:30
 
@@ -1545,13 +1544,13 @@ Transcript Snippet: analyzed trace elements, uh copper, arsenic in lead to link 
 Anchored Artifacts: 
 Mentions: 
 Related Nodes: N-10569
-Supports: C-2612
+Supports: C-7738
 Tags: relevance:context
 Investigative Direction: Cross-check with the 2004 National Academy of Sciences report on bullet lead analysis and the FBI's 2005 announcement.
 
 ---
 
-**C-10338** Host says bullet lead analysis put wrong people in prison
+**C-7737** Host says bullet lead analysis put wrong people in prison
 
 Claim Timestamp: 00:40:25
 
@@ -1567,7 +1566,7 @@ Investigative Direction: Cite the specific exoneration cases involving bullet le
 
 ---
 
-**C-10339** Clip says Norma Jean Ates was shot seven times in 1991 and her husband later convicted
+**C-7739** Clip says Norma Jean Ates was shot seven times in 1991 and her husband later convicted
 
 Claim Timestamp: 00:41:49
 
@@ -1583,7 +1582,7 @@ Investigative Direction: Identify the station, reporter and the case's court rec
 
 ---
 
-**C-10340** Filing argues hearsay summaries violate due process and other amendments
+**C-7740** Filing argues hearsay summaries violate due process and other amendments
 
 Claim Timestamp: 00:45:52
 
@@ -1599,7 +1598,7 @@ Investigative Direction: Obtain the filed motion at page 22.
 
 ---
 
-**C-10341** Filing says the delay does not fall on the defense
+**C-7741** Filing says the delay does not fall on the defense
 
 Claim Timestamp: 00:46:42
 
@@ -1615,7 +1614,7 @@ Investigative Direction: Obtain the defense correspondence exhibits attached to 
 
 ---
 
-**C-10342** Filing asks for production by April 17, 2026 or vacatur of the hearing date
+**C-7742** Filing asks for production by April 17, 2026 or vacatur of the hearing date
 
 Claim Timestamp: 00:47:50
 
@@ -1631,7 +1630,7 @@ Investigative Direction: Obtain the filed motion's concluding request and the co
 
 ---
 
-**C-10343** Host says the state's text messages came as PDFs without timestamps or extraction data
+**C-7743** Host says the state's text messages came as PDFs without timestamps or extraction data
 
 Claim Timestamp: 00:48:58
 
@@ -1647,7 +1646,7 @@ Investigative Direction: Obtain the extraction reports and carrier records for t
 
 ---
 
-**C-10344** Host says she has spoken with former TPUSA employees about the lies they were told
+**C-7744** Host says she has spoken with former TPUSA employees about the lies they were told
 
 Claim Timestamp: 00:49:51
 
@@ -1663,7 +1662,7 @@ Investigative Direction: Obtain corroboration from at least two former employees
 
 ---
 
-**C-10345** Host says a viewer emailed in response to her APB on Erika's July 14 flight
+**C-7745** Host says a viewer emailed in response to her APB on Erika's July 14 flight
 
 Claim Timestamp: 00:50:51
 
@@ -1679,7 +1678,7 @@ Investigative Direction: Review the original APB post and the full emailed tip.
 
 ---
 
-**C-10346** Host Says Erika Flew to Long Beach on July 14 with Locastro, Niekerk and Barcelo
+**C-7746** Host Says Erika Flew to Long Beach on July 14 with Locastro, Niekerk and Barcelo
 
 Claim Timestamp: 00:50:51
 
@@ -1695,7 +1694,7 @@ Investigative Direction: Obtain the flight manifest or FAA flight tracking recor
 
 ---
 
-**C-10347** Host dates the decision to kill Charlie to between June and July 13
+**C-7747** Host dates the decision to kill Charlie to between June and July 13
 
 Claim Timestamp: 00:50:51
 
@@ -1711,7 +1710,7 @@ Investigative Direction: Obtain the date and transcript of the Tucker Carlson re
 
 ---
 
-**C-10348** Emailer says the Los Alamitos base is discreet and used by officials
+**C-7748** Emailer says the Los Alamitos base is discreet and used by officials
 
 Claim Timestamp: 00:51:58
 
@@ -1727,7 +1726,7 @@ Investigative Direction: Check public records of flights using Los Alamitos on J
 
 ---
 
-**C-10349** Host says Charlie carefully explained to her that he was going to die
+**C-7750** Host says Charlie carefully explained to her that he was going to die
 
 Claim Timestamp: 00:54:43
 
@@ -1743,7 +1742,7 @@ Investigative Direction: Ask the host for dated messages or notes of the convers
 
 ---
 
-**C-10350** Host says she maintains Charlie went to Utah Valley first, then Timpanogos
+**C-7751** Host says she maintains Charlie went to Utah Valley first, then Timpanogos
 
 Claim Timestamp: 00:55:57
 
@@ -1759,7 +1758,7 @@ Investigative Direction: Obtain hospital admission, ambulance and security recor
 
 ---
 
-**C-10351** Host Relays Producer's Question of How the Surgeon Knew Erika's Name
+**C-7753** Host Relays Producer's Question of How the Surgeon Knew Erika's Name
 
 Claim Timestamp: 00:58:46
 
@@ -1775,7 +1774,7 @@ Investigative Direction: Obtain Turek's full account and the hospital's time of 
 
 ---
 
-**C-10352** Host says Erika told her she had no part in the doctor discussion
+**C-7756** Host says Erika told her she had no part in the doctor discussion
 
 Claim Timestamp: 01:02:28
 
@@ -1786,13 +1785,13 @@ Transcript Snippet: I guess they didn't technically tweet that. She told me that
 Anchored Artifacts: 
 Mentions: N-2, N-195, N-3
 Related Nodes: N-10447
-Supports: C-10314
+Supports: C-7701
 Tags: relevance:core
 Investigative Direction: Obtain the host's notes of the conversation with Erika Kirk.
 
 ---
 
-**C-10353** Host says that under a cover-up the TPUSA figures are tied together and one takes the blame
+**C-7757** Host says that under a cover-up the TPUSA figures are tied together and one takes the blame
 
 Claim Timestamp: 01:02:28
 

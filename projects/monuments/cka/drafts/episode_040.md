@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10): N-712, N-713, N-11015
   - Hole-minted Nodes (reintro-ep040): N-375, N-498, N-10387, N-10683
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10): C-5062–C-5146
+  - Claim Range: C-3509–C-3604
   - New Nodes Introduced: N-302, N-303, N-304, N-10307, N-10308
   - Reused Nodes Appearing: N-7, N-14, N-17, N-27, N-39, N-55, N-60, N-68, N-71, N-82, N-167, N-190, N-224, N-266, N-377, N-10000, N-10012, N-10064, N-10078, N-10087, N-10100, N-10132, N-10162, N-10198, N-10213, N-10232, N-10248, N-10253, N-10270, N-10290, N-10294, N-10316, N-10482, N-10862, N-714, N-10434, N-10465, N-10311, N-10451, N-10628, N-11014, N-484, N-11013
   - (see registers), N-11
@@ -22,7 +22,7 @@
 # Episode 40 – Ledger Summary
 
 Artifact Families Introduced: A-1489, A-1490, A-1491, A-1492, A-1493
-Claim Range: C-1820–C-1830
+Claim Range: C-3561–C-3588
 New Nodes Introduced:  N-302, N-303, N-304, N-10307, N-10308
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
@@ -68,7 +68,7 @@ Confidence Level: High
 
 Statement enumerates allegations (Mikey McCoy, foreign aircraft, security first aid, SD card removal, Tyler Bowyer, financial impropriety, "stranger allegations"); asserts Charlie personally reviewed and signed off on every bill; asserts TPUSA has never missed a 990 deadline; frames host's questions as "beneath contempt"; concludes with announcement of an upcoming Phoenix livestream and public invitation to the host.
 
-*Related: C-1820, C-1821, C-1822, C-1823, N-159, N-10307, N-11*
+*Related: C-3561, C-3538, C-3539, C-3550, N-159, N-10307, N-11*
 
 ---
 
@@ -84,7 +84,7 @@ Confidence Level: High
 
 Clip shows Cam Higby asking Pentagon press secretary Kingsley Wilson whether the Department of Defense has any evidence of a French military plot to assassinate Candace Owens; Wilson responds "not that I'm aware of" and suggests it may be more of a law enforcement matter. Self-introduction by Wilson confirms setting as Pentagon briefing room.
 
-*Related: C-1824, C-1825, N-302, N-303*
+*Related: C-3577, C-3578, N-302, N-303*
 
 ---
 
@@ -100,7 +100,7 @@ Confidence Level: High
 
 Interviewer questions The Game about a track titled "The Assassination of Candace Owens"; The Game states the song is not about Candace personally, that she "self-admitted" feeling people were conspiring against her, and that the title uses her as a metaphor about "assassination of the character."
 
-*Related: C-1826, C-1827, N-304*
+*Related: C-3590, C-3592, N-304*
 
 ---
 
@@ -116,7 +116,7 @@ Confidence Level: High
 
 Headline: "Inside the economics of Candace Owens's media empire and the Macron lawsuit threatening to unravel it." Quoted passage frames the lawsuit as testing whether "controversy as currency" can survive legal battle.
 
-*Related: C-1828, C-1829, N-1 (Macron lawsuit context), N-2*
+*Related: C-3583, C-3584, N-1 (Macron lawsuit context), N-2*
 
 ---
 
@@ -132,7 +132,7 @@ Confidence Level: Medium
 
 Host verbally references the call (timed to 6:45 PM French time / 10:45 AM Utah time) and credits "the internet sleuths and the YouTubers" for assembling the information. Calendar entry not directly displayed on air.
 
-*Related: C-1830, N-10308*
+*Related: C-3588, N-10308*
 
 ---
 
@@ -145,7 +145,7 @@ Video Timestamp: 00:06:32
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5073*
+*Related: C-3520*
 
 ---
 
@@ -158,7 +158,7 @@ Video Timestamp: 00:12:06
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5086, C-5114*
+*Related: C-3533, C-3565*
 
 ---
 
@@ -171,7 +171,7 @@ Video Timestamp: 00:10:06
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5082, C-5083*
+*Related: C-3529, C-3530*
 
 ---
 
@@ -184,7 +184,7 @@ Video Timestamp: 00:40:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5122, C-5123*
+*Related: C-3573, C-3574*
 
 ---
 
@@ -199,7 +199,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1489.1, C-1820, C-1821, C-1822, C-1823, N-10307*
+*Related: A-1489.1, C-3561, C-3538, C-3539, C-3550, N-10307*
 
 ---
 
@@ -212,7 +212,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1490.1, C-1824*
+*Related: A-1490.1, C-3577*
 
 ---
 
@@ -225,7 +225,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1490.1, C-1825*
+*Related: A-1490.1, C-3578*
 
 ---
 
@@ -238,7 +238,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1491.1, C-1826, C-1827*
+*Related: A-1491.1, C-3590, C-3592*
 
 ---
 
@@ -264,7 +264,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1489.1, C-1820, N-159*
+*Related: A-1489.1, C-3561, N-159*
 
 ---
 
@@ -277,7 +277,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1493.1, C-1830*
+*Related: A-1493.1, C-3588*
 
 ---
 
@@ -294,7 +294,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 Subject of most claims; his reported last-day texts and DOGE request are discussed.
 
-*Related: C-5070, C-5075, C-5076, C-5077, C-5086, C-5087, C-5088, C-5089, C-5090, C-5092, C-5093, C-5103, C-5105, C-5106, C-5107, C-5112, C-5114, C-5122, C-5123, C-5125, C-5127, C-5132, C-5140, C-5142*
+*Related: C-3517, C-3522, C-3523, C-3524, C-3533, C-3534, C-3535, C-3536, C-3537, C-3541, C-3542, C-3553, C-3555, C-3556, C-3557, C-3563, C-3565, C-3573, C-3574, C-3576, C-3580, C-3587, C-3598, C-3600*
 
 ---
 
@@ -302,7 +302,7 @@ Subject of most claims; his reported last-day texts and DOGE request are discuss
 
 Turning Point USA, the organization whose statement the host answers.
 
-*Related: C-5062, C-5063, C-5064, C-5072, C-5083, C-5086, C-5088, C-5100, C-5101, C-5105, C-5106, C-5110, C-5112, C-5113, C-5114, C-5115, C-5116, C-5117, C-5141, C-5143, C-5146*
+*Related: C-3509, C-3510, C-3511, C-3519, C-3530, C-3533, C-3535, C-3549, C-3551, C-3555, C-3556, C-3560, C-3563, C-3564, C-3565, C-3566, C-3567, C-3568, C-3599, C-3601, C-3604*
 
 ---
 
@@ -310,7 +310,7 @@ Turning Point USA, the organization whose statement the host answers.
 
 Utah Valley University, venue of the September 10 event.
 
-*Related: C-5067, C-5068, C-5072, C-5073*
+*Related: C-3514, C-3515, C-3519, C-3520*
 
 ---
 
@@ -318,7 +318,7 @@ Utah Valley University, venue of the September 10 event.
 
 The Pentagon, setting of the press corps discussion.
 
-*Related: C-5118, C-5119, C-5122, C-5124, C-5129*
+*Related: C-3569, C-3572, C-3573, C-3575, C-3582*
 
 ---
 
@@ -326,7 +326,7 @@ The Pentagon, setting of the press corps discussion.
 
 TPUSA finances, topic of the host's response to Neff.
 
-*Related: C-5090, C-5091*
+*Related: C-3537, C-3540*
 
 ---
 
@@ -334,7 +334,7 @@ TPUSA finances, topic of the host's response to Neff.
 
 UVU tunnel topic, one of the allegations Neff lists.
 
-*Related: C-5094, C-5102*
+*Related: C-3543, C-3552*
 
 ---
 
@@ -342,7 +342,7 @@ UVU tunnel topic, one of the allegations Neff lists.
 
 SD card removal topic.
 
-*Related: C-5079, C-5080*
+*Related: C-3526, C-3527*
 
 ---
 
@@ -350,7 +350,7 @@ SD card removal topic.
 
 TPUSA DOGE department topic.
 
-*Related: C-5092, C-5093*
+*Related: C-3541, C-3542*
 
 ---
 
@@ -358,7 +358,7 @@ TPUSA DOGE department topic.
 
 SD card removal narrative discrepancy topic.
 
-*Related: C-5080*
+*Related: C-3527*
 
 ---
 
@@ -366,7 +366,7 @@ SD card removal narrative discrepancy topic.
 
 Mikey McCoy's behavior on September 10.
 
-*Related: C-5065*
+*Related: C-3512*
 
 ---
 
@@ -374,7 +374,7 @@ Mikey McCoy's behavior on September 10.
 
 Rob McCoy / Tyler Bowyer background verification topic.
 
-*Related: C-5071*
+*Related: C-3518*
 
 ---
 
@@ -382,7 +382,7 @@ Rob McCoy / Tyler Bowyer background verification topic.
 
 Green hoodie person identification topic.
 
-*Related: C-5096, C-5097*
+*Related: C-3545, C-3546*
 
 ---
 
@@ -390,7 +390,7 @@ Green hoodie person identification topic.
 
 Calvary Chapel network infiltration question.
 
-*Related: C-5084, C-5085*
+*Related: C-3531, C-3532*
 
 ---
 
@@ -398,7 +398,7 @@ Calvary Chapel network infiltration question.
 
 Egyptian aircraft tracking investigation.
 
-*Related: C-5074, C-5075, C-5094, C-5095, C-5102, C-5131*
+*Related: C-3521, C-3522, C-3543, C-3544, C-3552, C-3586*
 
 ---
 
@@ -406,7 +406,7 @@ Egyptian aircraft tracking investigation.
 
 Macron lawsuit topic.
 
-*Related: C-5109, C-5130*
+*Related: C-3559, C-3585*
 
 ---
 
@@ -414,7 +414,7 @@ Macron lawsuit topic.
 
 French Foreign Legion US training topic.
 
-*Related: C-5125, C-5127*
+*Related: C-3576, C-3580*
 
 ---
 
@@ -422,7 +422,7 @@ French Foreign Legion US training topic.
 
 Brigitte Macron schedule gap topic.
 
-*Related: C-5131*
+*Related: C-3586*
 
 ---
 
@@ -430,7 +430,7 @@ Brigitte Macron schedule gap topic.
 
 Maroon shirt pattern topic.
 
-*Related: C-5094, C-5098, C-5099*
+*Related: C-3543, C-3547, C-3548*
 
 ---
 
@@ -438,7 +438,7 @@ Maroon shirt pattern topic.
 
 France / Macron couple involvement topic.
 
-*Related: C-5128*
+*Related: C-3581*
 
 ---
 
@@ -446,7 +446,7 @@ France / Macron couple involvement topic.
 
 Tyler Bowyer investigation question.
 
-*Related: C-5081, C-5082, C-5083*
+*Related: C-3528, C-3529, C-3530*
 
 ---
 
@@ -454,7 +454,7 @@ Tyler Bowyer investigation question.
 
 Charlie Kirk DOGE pre-death establishment topic.
 
-*Related: C-5092*
+*Related: C-3541*
 
 ---
 
@@ -462,7 +462,7 @@ Charlie Kirk DOGE pre-death establishment topic.
 
 USS Liberty incident cover-up investigation.
 
-*Related: C-5144*
+*Related: C-3602*
 
 ---
 
@@ -470,7 +470,7 @@ USS Liberty incident cover-up investigation.
 
 Calvary Chapel CIA connection question.
 
-*Related: C-5085*
+*Related: C-3532*
 
 ---
 
@@ -478,7 +478,7 @@ Calvary Chapel CIA connection question.
 
 Mikey McCoy phone call sequence topic.
 
-*Related: C-5069*
+*Related: C-3516*
 
 ---
 
@@ -486,7 +486,7 @@ Mikey McCoy phone call sequence topic.
 
 Laura Loomer involuntary psychiatric holds and firearm prohibition topic.
 
-*Related: C-5121*
+*Related: C-3571*
 
 ---
 
@@ -494,7 +494,7 @@ Laura Loomer involuntary psychiatric holds and firearm prohibition topic.
 
 Brian Harpole ER story plausibility topic.
 
-*Related: C-5077*
+*Related: C-3524*
 
 ---
 
@@ -502,7 +502,7 @@ Brian Harpole ER story plausibility topic.
 
 Harpole Shawn Ryan statements topic.
 
-*Related: C-5078*
+*Related: C-3525*
 
 ---
 
@@ -510,7 +510,7 @@ Harpole Shawn Ryan statements topic.
 
 TPUSA spokesperson; the host cites his SD card explanation.
 
-*Related: C-5064, C-5079*
+*Related: C-3511, C-3526*
 
 ---
 
@@ -518,7 +518,7 @@ TPUSA spokesperson; the host cites his SD card explanation.
 
 Rob McCoy, pastor whose remarks and background the host discusses.
 
-*Related: C-5070, C-5071, C-5084*
+*Related: C-3517, C-3518, C-3531*
 
 ---
 
@@ -526,7 +526,7 @@ Rob McCoy, pastor whose remarks and background the host discusses.
 
 James O'Keefe, named by the host among trusted Pentagon press corps additions.
 
-*Related: C-5118*
+*Related: C-3569*
 
 ---
 
@@ -534,7 +534,7 @@ James O'Keefe, named by the host among trusted Pentagon press corps additions.
 
 Mikey McCoy, subject of Neff's and the host's exchange about birth certificate, wife, and phone call.
 
-*Related: C-5065, C-5066, C-5067, C-5068, C-5069, C-5070*
+*Related: C-3512, C-3513, C-3514, C-3515, C-3516, C-3517*
 
 ---
 
@@ -542,7 +542,7 @@ Mikey McCoy, subject of Neff's and the host's exchange about birth certificate, 
 
 Erika Kirk, discussed as a subject of aircraft movements and Charlie's alleged wish for her to take over.
 
-*Related: C-5074, C-5075, C-5076*
+*Related: C-3521, C-3522, C-3523*
 
 ---
 
@@ -550,7 +550,7 @@ Erika Kirk, discussed as a subject of aircraft movements and Charlie's alleged w
 
 Shawn Ryan, host of the interview in which Harpole discussed first aid.
 
-*Related: C-5078*
+*Related: C-3525*
 
 ---
 
@@ -558,7 +558,7 @@ Shawn Ryan, host of the interview in which Harpole discussed first aid.
 
 Kanye West (Ye), described by the host as a friend.
 
-*Related: C-5136*
+*Related: C-3594*
 
 ---
 
@@ -566,7 +566,7 @@ Kanye West (Ye), described by the host as a friend.
 
 Brian Harpole, security figure whose Shawn Ryan statement is cited.
 
-*Related: C-5078*
+*Related: C-3525*
 
 ---
 
@@ -574,7 +574,7 @@ Brian Harpole, security figure whose Shawn Ryan statement is cited.
 
 Host; speaks for herself throughout.
 
-*Related: C-5062, C-5063, C-5064, C-5065, C-5066, C-5068, C-5069, C-5071, C-5072, C-5073, C-5074, C-5075, C-5076, C-5077, C-5080, C-5081, C-5082, C-5083, C-5084, C-5085, C-5086, C-5087, C-5088, C-5089, C-5091, C-5092, C-5093, C-5094, C-5095, C-5096, C-5097, C-5098, C-5099, C-5100, C-5102, C-5103, C-5104, C-5105, C-5106, C-5107, C-5108, C-5109, C-5111, C-5112, C-5113, C-5114, C-5115, C-5116, C-5117, C-5118, C-5119, C-5120, C-5121, C-5122, C-5123, C-5124, C-5125, C-5127, C-5128, C-5129, C-5130, C-5131, C-5132, C-5133, C-5134, C-5135, C-5136, C-5137, C-5138, C-5139, C-5140, C-5141, C-5142, C-5143, C-5144, C-5145, C-5146*
+*Related: C-3509, C-3510, C-3511, C-3512, C-3513, C-3515, C-3516, C-3518, C-3519, C-3520, C-3521, C-3522, C-3523, C-3524, C-3527, C-3528, C-3529, C-3530, C-3531, C-3532, C-3533, C-3534, C-3535, C-3536, C-3540, C-3541, C-3542, C-3543, C-3544, C-3545, C-3546, C-3547, C-3548, C-3549, C-3552, C-3553, C-3554, C-3555, C-3556, C-3557, C-3558, C-3559, C-3562, C-3563, C-3564, C-3565, C-3566, C-3567, C-3568, C-3569, C-3572, C-3570, C-3571, C-3573, C-3574, C-3575, C-3576, C-3580, C-3581, C-3582, C-3585, C-3586, C-3587, C-3589, C-3591, C-3593, C-3594, C-3595, C-3596, C-3597, C-3598, C-3599, C-3600, C-3601, C-3602, C-3603, C-3604*
 
 ---
 
@@ -582,7 +582,7 @@ Host; speaks for herself throughout.
 
 Ryan Reynolds, named by the host with Blake Lively.
 
-*Related: C-5108*
+*Related: C-3558*
 
 ---
 
@@ -590,7 +590,7 @@ Ryan Reynolds, named by the host with Blake Lively.
 
 Emmanuel Macron, party to the September 10 call with Trump.
 
-*Related: C-5128, C-5130, C-5132, C-5133*
+*Related: C-3581, C-3585, C-3587, C-3589*
 
 ---
 
@@ -598,7 +598,7 @@ Emmanuel Macron, party to the September 10 call with Trump.
 
 Dave Smith, whose debate invitation by Charlie the host says Loomer attacked.
 
-*Related: C-5122*
+*Related: C-3573*
 
 ---
 
@@ -606,7 +606,7 @@ Dave Smith, whose debate invitation by Charlie the host says Loomer attacked.
 
 Blake Lively, named by the host among her prior investigations.
 
-*Related: C-5108*
+*Related: C-3558*
 
 ---
 
@@ -614,7 +614,7 @@ Blake Lively, named by the host among her prior investigations.
 
 Donald Trump, party to the September 10 phone call with Macron per the host.
 
-*Related: C-5132, C-5133*
+*Related: C-3587, C-3589*
 
 ---
 
@@ -622,7 +622,7 @@ Donald Trump, party to the September 10 phone call with Macron per the host.
 
 Phil Tourney, USS Liberty interview guest the host praises.
 
-*Related: C-5144*
+*Related: C-3602*
 
 ---
 
@@ -630,7 +630,7 @@ Phil Tourney, USS Liberty interview guest the host praises.
 
 Josh Hammer, cited for his claim that Charlie never blinked on Israel.
 
-*Related: C-5088, C-5123*
+*Related: C-3535, C-3574*
 
 ---
 
@@ -638,7 +638,7 @@ Josh Hammer, cited for his claim that Charlie never blinked on Israel.
 
 Laura Loomer, discussed over her Pentagon credential and tweets about Charlie.
 
-*Related: C-5119, C-5120, C-5121, C-5122, C-5123, C-5124*
+*Related: C-3572, C-3570, C-3571, C-3573, C-3574, C-3575*
 
 ---
 
@@ -646,7 +646,7 @@ Laura Loomer, discussed over her Pentagon credential and tweets about Charlie.
 
 Schuyler, named by the host as a staffer who pushes back on sources.
 
-*Related: C-5139*
+*Related: C-3597*
 
 ---
 
@@ -654,7 +654,7 @@ Schuyler, named by the host as a staffer who pushes back on sources.
 
 Frank Turek, named in Neff's statement as an alleged part of a military infiltration.
 
-*Related: C-5084*
+*Related: C-3531*
 
 ---
 
@@ -662,7 +662,7 @@ Frank Turek, named in Neff's statement as an alleged part of a military infiltra
 
 Matt Gaetz, named by the host (as Matt Gaetz) among trusted Pentagon press corps additions.
 
-*Related: C-5118*
+*Related: C-3569*
 
 ---
 
@@ -670,7 +670,7 @@ Matt Gaetz, named by the host (as Matt Gaetz) among trusted Pentagon press corps
 
 Brigitte Macron, subject of the host's lawsuit and schedule-gap questions.
 
-*Related: C-5108, C-5109, C-5130, C-5131*
+*Related: C-3558, C-3559, C-3585, C-3586*
 
 ---
 
@@ -679,7 +679,7 @@ Brigitte Macron, subject of the host's lawsuit and schedule-gap questions.
 First named by the host (as 'Kamala') at 00:26:31 in episode 40.
 Aliases: Kamala
 
-*Related: C-5108*
+*Related: C-3558*
 
 ---
 
@@ -688,7 +688,7 @@ Aliases: Kamala
 First named by the host (as 'Russell Brand') at 00:57:05 in episode 40.
 Aliases: Russell Brand
 
-*Related: C-5138*
+*Related: C-3596*
 
 ---
 
@@ -696,7 +696,7 @@ Aliases: Russell Brand
 
 First named by the host at 00:11:15 in episode 40, as the Calvary Chapel founder whose history she cites.
 
-*Related: C-5085*
+*Related: C-3532*
 
 ---
 
@@ -705,7 +705,7 @@ First named by the host at 00:11:15 in episode 40, as the Calvary Chapel founder
 Node Type: Topic
 Persistent investigable target: whether text messages exist in which Charlie Kirk told TPUSA staff and security guards the day before his death that he thought they would kill him the next day, as the host alleges.
 
-*Related: C-5086, C-5114*
+*Related: C-3533, C-3565*
 
 ---
 
@@ -714,7 +714,7 @@ Persistent investigable target: whether text messages exist in which Charlie Kir
 Node Type: Topic
 Persistent investigable target: the host's claim that TPUSA made $80 million plus in merchandise sales in the first three weeks after September 10 and its whole annual budget in the first couple of weeks.
 
-*Related: C-5105, C-5106*
+*Related: C-3555, C-3556*
 
 ---
 
@@ -723,13 +723,13 @@ Persistent investigable target: the host's claim that TPUSA made $80 million plu
 Node Type: Topic
 Persistent investigable target: the Pentagon's late-2025 press corps change, who was credentialed (including Laura Loomer and Cam Higby), and the criteria used.
 
-*Related: C-5118, C-5119*
+*Related: C-3569, C-3572*
 
 ---
 
 ## V. Claim Register
 
-**C-1820** TPUSA publicly invited Candace to participate in a Phoenix livestream to address allegations
+**C-3561** TPUSA publicly invited Candace to participate in a Phoenix livestream to address allegations
 
 Claim Timestamp: 00:28:38–00:29:32
 
@@ -742,7 +742,7 @@ Investigative Direction: Confirm whether the livestream occurred, who attended, 
 
 ---
 
-**C-1821** TPUSA asserted Charlie personally reviewed and signed off on every bill paid by the organization
+**C-3538** TPUSA asserted Charlie personally reviewed and signed off on every bill paid by the organization
 
 Claim Timestamp: 00:14:49
 
@@ -754,7 +754,7 @@ Investigative Direction: Cross-check against internal expense approval records a
 
 ---
 
-**C-1822** TPUSA asserted the organization has never missed a 990 deadline
+**C-3539** TPUSA asserted the organization has never missed a 990 deadline
 
 Claim Timestamp: 00:14:49
 
@@ -766,7 +766,7 @@ Investigative Direction: Verify filing history against IRS Form 990 public recor
 
 ---
 
-**C-1823** TPUSA framed host's questions as "beneath contempt," citing Charlie's "do not feed the trolls" rule
+**C-3550** TPUSA framed host's questions as "beneath contempt," citing Charlie's "do not feed the trolls" rule
 
 Claim Timestamp: 00:21:20–00:22:24
 
@@ -778,7 +778,7 @@ Investigative Direction: Obtain Charlie's documented communications on troll-han
 
 ---
 
-**C-1824** Cam Higby asked Pentagon press secretary about French military plot to assassinate Candace Owens
+**C-3577** Cam Higby asked Pentagon press secretary about French military plot to assassinate Candace Owens
 
 Claim Timestamp: 00:41:49
 
@@ -790,7 +790,7 @@ Investigative Direction: Confirm the briefing date and credentialing record; obt
 
 ---
 
-**C-1825** Kingsley Wilson responded she was not aware of evidence of a French military plot
+**C-3578** Kingsley Wilson responded she was not aware of evidence of a French military plot
 
 Claim Timestamp: 00:43:00
 
@@ -802,7 +802,7 @@ Investigative Direction: Track any follow-up statement from DoD or law enforceme
 
 ---
 
-**C-1826** The Game's upcoming mixtape contains a track titled "The Assassination of Candace Owens"
+**C-3590** The Game's upcoming mixtape contains a track titled "The Assassination of Candace Owens"
 
 Claim Timestamp: 00:50:53–00:51:42
 
@@ -814,7 +814,7 @@ Investigative Direction: Verify the track listing against the released mixtape; 
 
 ---
 
-**C-1827** The Game stated the track is not about Candace personally and uses her name metaphorically
+**C-3592** The Game stated the track is not about Candace personally and uses her name metaphorically
 
 Claim Timestamp: 00:51:42–00:52:23
 
@@ -826,7 +826,7 @@ Investigative Direction: Confirm the artist's stated intent against the released
 
 ---
 
-**C-1828** Fortune article headline referenced the Macron lawsuit and Candace's media empire
+**C-3583** Fortune article headline referenced the Macron lawsuit and Candace's media empire
 
 Claim Timestamp: 00:46:20
 
@@ -838,7 +838,7 @@ Investigative Direction: Locate the Fortune article, capture full byline, and ve
 
 ---
 
-**C-1829** Fortune article framed lawsuit as testing whether "controversy as currency" model could survive legal battle
+**C-3584** Fortune article framed lawsuit as testing whether "controversy as currency" model could survive legal battle
 
 Claim Timestamp: 00:47:25
 
@@ -850,7 +850,7 @@ Investigative Direction: Verify the quoted phrasing against the original article
 
 ---
 
-**C-1830** Macron had a recorded phone call with Trump at 6:45 PM French time on September 10, 2025
+**C-3588** Macron had a recorded phone call with Trump at 6:45 PM French time on September 10, 2025
 
 Claim Timestamp: 00:49:59
 
@@ -863,7 +863,7 @@ Investigative Direction: Locate Macron's released public calendar; confirm the t
 
 ---
 
-**C-5062** Host Accepts TPUSA's Public Invitation or Challenge
+**C-3509** Host Accepts TPUSA's Public Invitation or Challenge
 
 Claim Timestamp: 00:00:00
 
@@ -874,12 +874,12 @@ Transcript Snippet: they at long last issued a public invitation or a challenge.
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10000, N-10307
-Supports: C-1820
+Supports: C-3561
 Investigative Direction: Archive the host's on-air acceptance and any written reply to TPUSA; compare with TPUSA's own account of what was offered.
 
 ---
 
-**C-5063** Host Credits Tipsters, TPUSA Leakers and Donors
+**C-3510** Host Credits Tipsters, TPUSA Leakers and Donors
 
 Claim Timestamp: 00:01:31
 
@@ -894,7 +894,7 @@ Investigative Direction: Identify the public donor letters; the claim about leak
 
 ---
 
-**C-5064** Neff Is Producer of the Charlie Kirk Show, Kolvet Is Spokesperson
+**C-3511** Neff Is Producer of the Charlie Kirk Show, Kolvet Is Spokesperson
 
 Claim Timestamp: 00:02:31
 
@@ -909,7 +909,7 @@ Investigative Direction: Check Blake Neff's and Andrew Kolvet's published TPUSA 
 
 ---
 
-**C-5065** Host Says Neff Has Defended Mikey McCoy's Actions
+**C-3512** Host Says Neff Has Defended Mikey McCoy's Actions
 
 Claim Timestamp: 00:03:12
 
@@ -924,7 +924,7 @@ Investigative Direction: Collect Neff's prior public statements about McCoy's co
 
 ---
 
-**C-5066** Neff Says He Has Seen Mikey McCoy's Birth Certificate
+**C-3513** Neff Says He Has Seen Mikey McCoy's Birth Certificate
 
 Claim Timestamp: 00:04:35
 
@@ -938,7 +938,7 @@ Investigative Direction: Ask TPUSA whether the birth certificate can be shown; t
 
 ---
 
-**C-5067** Neff Says McCoy's Wife Does Not Work on Campus Events
+**C-3514** Neff Says McCoy's Wife Does Not Work on Campus Events
 
 Claim Timestamp: 00:04:35
 
@@ -953,7 +953,7 @@ Investigative Direction: Obtain TPUSA's staff role description for McCoy's wife 
 
 ---
 
-**C-5068** Host Says She Did Not Claim McCoy's Wife Planned the Event
+**C-3515** Host Says She Did Not Claim McCoy's Wife Planned the Event
 
 Claim Timestamp: 00:04:35
 
@@ -968,7 +968,7 @@ Investigative Direction: Compare with the original episode where the host raised
 
 ---
 
-**C-5069** Host Says McCoy Must Answer for Who He Was on the Phone With at the Shot
+**C-3516** Host Says McCoy Must Answer for Who He Was on the Phone With at the Shot
 
 Claim Timestamp: 00:05:20
 
@@ -983,7 +983,7 @@ Investigative Direction: Obtain McCoy's call log or his account of the call he w
 
 ---
 
-**C-5070** Host Says Rob McCoy Spoke of Charlie's Notebooks and Mikey Then Took the Liberty Stage
+**C-3517** Host Says Rob McCoy Spoke of Charlie's Notebooks and Mikey Then Took the Liberty Stage
 
 Claim Timestamp: 00:05:20
 
@@ -997,7 +997,7 @@ Investigative Direction: Find the recording of Rob McCoy's remarks about the not
 
 ---
 
-**C-5071** Host Alleges Rob McCoy Sanitized a Man Who Went to Prison Over Photographing Young Girls
+**C-3518** Host Alleges Rob McCoy Sanitized a Man Who Went to Prison Over Photographing Young Girls
 
 Claim Timestamp: 00:05:20
 
@@ -1012,7 +1012,7 @@ Investigative Direction: Identify the person in the played clip, check court rec
 
 ---
 
-**C-5072** Host Says Tours Since 2019 Were Decided the Semester Before
+**C-3519** Host Says Tours Since 2019 Were Decided the Semester Before
 
 Claim Timestamp: 00:06:32
 
@@ -1027,7 +1027,7 @@ Investigative Direction: Compare scheduling dates of prior TPUSA campus tour sto
 
 ---
 
-**C-5073** Host Says UVU Event Came Together Quickly and She Has Emails
+**C-3520** Host Says UVU Event Came Together Quickly and She Has Emails
 
 Claim Timestamp: 00:06:32
 
@@ -1042,7 +1042,7 @@ Investigative Direction: Obtain the emails the host says she holds and the UVU e
 
 ---
 
-**C-5074** Host Says She Never Said TPUSA Lied About Foreign Aircraft
+**C-3521** Host Says She Never Said TPUSA Lied About Foreign Aircraft
 
 Claim Timestamp: 00:07:25
 
@@ -1057,7 +1057,7 @@ Investigative Direction: Review earlier episodes for any host statement that TPU
 
 ---
 
-**C-5075** Host Says Egyptian Jets First Seemed to Follow Charlie, Then TPUSA Faith Events and Erika
+**C-3522** Host Says Egyptian Jets First Seemed to Follow Charlie, Then TPUSA Faith Events and Erika
 
 Claim Timestamp: 00:07:25
 
@@ -1068,12 +1068,12 @@ Transcript Snippet: We then obviously realized that they were tracking TPUSA fai
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-1
 Related Nodes: N-10253
-Supports: C-1720, C-1545
+Supports: C-2917, C-2074
 Investigative Direction: Re-plot the Egyptian-registered aircraft movements against Erika Kirk's public schedule.
 
 ---
 
-**C-5076** Host Says Denial of Charlie Wanting Erika to Take Over Is Not a Quotation
+**C-3523** Host Says Denial of Charlie Wanting Erika to Take Over Is Not a Quotation
 
 Claim Timestamp: 00:08:20
 
@@ -1087,7 +1087,7 @@ Investigative Direction: Locate the audio the host references and TPUSA's origin
 
 ---
 
-**C-5077** Host Says Security Gave Charlie No First Aid
+**C-3524** Host Says Security Gave Charlie No First Aid
 
 Claim Timestamp: 00:08:20
 
@@ -1098,12 +1098,12 @@ Transcript Snippet: They did not issue him first aid when he fell down. There wa
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10683
-Supports: C-1616
+Supports: C-2363
 Investigative Direction: Review the available footage and Harpole's own interview for any first-aid attempt.
 
 ---
 
-**C-5078** Host Says Harpole Told Shawn Ryan the Injury Severity Explained No First Aid
+**C-3525** Host Says Harpole Told Shawn Ryan the Injury Severity Explained No First Aid
 
 Claim Timestamp: 00:08:20
 
@@ -1118,7 +1118,7 @@ Investigative Direction: Check the Shawn Ryan interview for the exact Harpole st
 
 ---
 
-**C-5079** Host Says Kolvet Said the SD Card Was Taken Because People Were Stealing
+**C-3526** Host Says Kolvet Said the SD Card Was Taken Because People Were Stealing
 
 Claim Timestamp: 00:09:19
 
@@ -1129,12 +1129,12 @@ Transcript Snippet: Andrew Kolvet sat next to you and said it was because people
 Anchored Artifacts: 
 Mentions: N-14, N-159
 Related Nodes: N-10100
-Supports: C-1369
+Supports: C-1358
 Investigative Direction: Find the Kolvet statement on SD card removal and compare it with the other accounts of who took the card and why.
 
 ---
 
-**C-5080** Host Says Cameras Rather Than the SD Card Would Be Taken to Stop Theft
+**C-3527** Host Says Cameras Rather Than the SD Card Would Be Taken to Stop Theft
 
 Claim Timestamp: 00:10:06
 
@@ -1149,7 +1149,7 @@ Investigative Direction: Establish what was livestreamed, what equipment was pre
 
 ---
 
-**C-5081** Host Says She Did Not Allege Bowyer Abused an Intern
+**C-3528** Host Says She Did Not Allege Bowyer Abused an Intern
 
 Claim Timestamp: 00:10:06
 
@@ -1164,7 +1164,7 @@ Investigative Direction: Compare with the earlier episode where the host first r
 
 ---
 
-**C-5082** Host Says She Can Give the Name of an Intern Bowyer Hooked Up With
+**C-3529** Host Says She Can Give the Name of an Intern Bowyer Hooked Up With
 
 Claim Timestamp: 00:10:06
 
@@ -1179,7 +1179,7 @@ Investigative Direction: The host would need to supply the intern's name and cor
 
 ---
 
-**C-5083** Host Says Current TPUSA Workers Say Bowyer Tried to Hook Up With Them
+**C-3530** Host Says Current TPUSA Workers Say Bowyer Tried to Hook Up With Them
 
 Claim Timestamp: 00:10:06
 
@@ -1194,7 +1194,7 @@ Investigative Direction: Unverified allegation from unnamed sources; seek indepe
 
 ---
 
-**C-5084** Neff Statement Says Host Called Turek and McCoy Part of a Military Infiltration
+**C-3531** Neff Statement Says Host Called Turek and McCoy Part of a Military Infiltration
 
 Claim Timestamp: 00:10:06
 
@@ -1209,7 +1209,7 @@ Investigative Direction: Compare against the host's earlier statements about mil
 
 ---
 
-**C-5085** Host Cites Calvary Chapel's Chuck Smith Era as a CIA Infiltration Effort
+**C-3532** Host Cites Calvary Chapel's Chuck Smith Era as a CIA Infiltration Effort
 
 Claim Timestamp: 00:11:15
 
@@ -1224,7 +1224,7 @@ Investigative Direction: Identify the documents or historical sources for a CIA 
 
 ---
 
-**C-5086** Host Says TPUSA Holds Texts in Which Charlie Said They Would Kill Him Tomorrow
+**C-3533** Host Says TPUSA Holds Texts in Which Charlie Said They Would Kill Him Tomorrow
 
 Claim Timestamp: 00:12:06
 
@@ -1239,7 +1239,7 @@ Investigative Direction: Obtain the text messages or the host's source; ask TPUS
 
 ---
 
-**C-5087** Host Says Her 'Betrayed by Everyone' Line Came From a Dream
+**C-3534** Host Says Her 'Betrayed by Everyone' Line Came From a Dream
 
 Claim Timestamp: 00:12:06
 
@@ -1253,7 +1253,7 @@ Investigative Direction: Find the original episode in which the host said Charli
 
 ---
 
-**C-5088** Host Says Josh Hammer Lied That Charlie Never Blinked on Israel
+**C-3535** Host Says Josh Hammer Lied That Charlie Never Blinked on Israel
 
 Claim Timestamp: 00:12:06
 
@@ -1268,7 +1268,7 @@ Investigative Direction: Locate the Josh Hammer statement and compare with Charl
 
 ---
 
-**C-5089** Host Says Neff's Quote Is Partial and Reframes Her Words
+**C-3536** Host Says Neff's Quote Is Partial and Reframes Her Words
 
 Claim Timestamp: 00:13:27
 
@@ -1282,7 +1282,7 @@ Investigative Direction: Retrieve the full original sentence and compare with TP
 
 ---
 
-**C-5090** Neff Says Charlie Had TPUSA Audited by a Third Party Every Year
+**C-3537** Neff Says Charlie Had TPUSA Audited by a Third Party Every Year
 
 Claim Timestamp: 00:13:27
 
@@ -1297,7 +1297,7 @@ Investigative Direction: Obtain TPUSA's annual audited financial statements and 
 
 ---
 
-**C-5091** Host Says Most People Cannot Read the Forms Showing What Happened to the $80 Million
+**C-3540** Host Says Most People Cannot Read the Forms Showing What Happened to the $80 Million
 
 Claim Timestamp: 00:14:49
 
@@ -1312,7 +1312,7 @@ Investigative Direction: Review TPUSA and Turning Point Action Form 990 and LLC 
 
 ---
 
-**C-5092** Host Says Charlie Requested a DOGE Department 7 Days Before He Died
+**C-3541** Host Says Charlie Requested a DOGE Department 7 Days Before He Died
 
 Claim Timestamp: 00:14:49
 
@@ -1323,12 +1323,12 @@ Transcript Snippet: I am struck by the fact that you're still trying to conflate
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10132, N-10434
-Supports: C-1563
+Supports: C-2136
 Investigative Direction: Obtain the internal TPUSA memo or message that established the DOGE department and its date.
 
 ---
 
-**C-5093** Host Says Inside Sources Say Charlie Wanted DOGE Because He Did Not Know Where the Money Went
+**C-3542** Host Says Inside Sources Say Charlie Wanted DOGE Because He Did Not Know Where the Money Went
 
 Claim Timestamp: 00:15:54
 
@@ -1339,12 +1339,12 @@ Transcript Snippet: inside sources at your own company say it was because he did
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10132
-Supports: C-1563
+Supports: C-2136
 Investigative Direction: Test through the host's sources and the DOGE memo; seek TPUSA's explanation of the department's purpose.
 
 ---
 
-**C-5094** Neff Says Host Alleged French Paratroopers, Egyptian Planes, Tunnels and Soccer-Team Hoodies
+**C-3543** Neff Says Host Alleged French Paratroopers, Egyptian Planes, Tunnels and Soccer-Team Hoodies
 
 Claim Timestamp: 00:16:50
 
@@ -1359,7 +1359,7 @@ Investigative Direction: Compare each listed item with the host's original state
 
 ---
 
-**C-5095** Host Says It Broke That Day That the Saudi King Was on the Plane in 2023
+**C-3544** Host Says It Broke That Day That the Saudi King Was on the Plane in 2023
 
 Claim Timestamp: 00:17:31
 
@@ -1374,7 +1374,7 @@ Investigative Direction: Find the report about the Saudi king and the aircraft a
 
 ---
 
-**C-5096** Host Says She Never Covered the Green Hoodie People
+**C-3545** Host Says She Never Covered the Green Hoodie People
 
 Claim Timestamp: 00:17:31
 
@@ -1389,7 +1389,7 @@ Investigative Direction: Review the host's shows and posts for any discussion of
 
 ---
 
-**C-5097** Host Says the Green-Hoodie Person Was Not Upset and Responded
+**C-3546** Host Says the Green-Hoodie Person Was Not Upset and Responded
 
 Claim Timestamp: 00:17:31
 
@@ -1404,7 +1404,7 @@ Investigative Direction: Locate the green-hoodie person's response and the post 
 
 ---
 
-**C-5098** Host Guarantees Maroon-Shirt People Represent a Military Unit
+**C-3547** Host Guarantees Maroon-Shirt People Represent a Military Unit
 
 Claim Timestamp: 00:17:31
 
@@ -1419,7 +1419,7 @@ Investigative Direction: Identify the maroon-shirt individuals and any unit affi
 
 ---
 
-**C-5099** Host Says She Is Very Close to Identifying the Military Unit
+**C-3548** Host Says She Is Very Close to Identifying the Military Unit
 
 Claim Timestamp: 00:17:31
 
@@ -1434,7 +1434,7 @@ Investigative Direction: Follow later episodes for the unit identification and i
 
 ---
 
-**C-5100** Neff Says TPUSA Friends Suffered More Harassment From the Host's Audience Than From Antifa
+**C-3549** Neff Says TPUSA Friends Suffered More Harassment From the Host's Audience Than From Antifa
 
 Claim Timestamp: 00:18:52
 
@@ -1449,7 +1449,7 @@ Investigative Direction: Request examples and counts of the harassment TPUSA sta
 
 ---
 
-**C-5101** Neff Says TPUSA Received Hundreds or Thousands of Emails and Calls
+**C-3551** Neff Says TPUSA Received Hundreds or Thousands of Emails and Calls
 
 Claim Timestamp: 00:21:20
 
@@ -1464,7 +1464,7 @@ Investigative Direction: Not independently verifiable; ask TPUSA for volume or e
 
 ---
 
-**C-5102** Neff Says TPUSA Should Not Answer Questions About Tunnels or Egyptian Planes
+**C-3552** Neff Says TPUSA Should Not Answer Questions About Tunnels or Egyptian Planes
 
 Claim Timestamp: 00:21:20
 
@@ -1479,7 +1479,7 @@ Investigative Direction: Check whether TPUSA ever answered the Egyptian-plane qu
 
 ---
 
-**C-5103** Neff Says Charlie Viewed Candace as a Friend and TPUSA Hoped She Would Stop
+**C-3553** Neff Says Charlie Viewed Candace as a Friend and TPUSA Hoped She Would Stop
 
 Claim Timestamp: 00:21:20
 
@@ -1493,7 +1493,7 @@ Investigative Direction: Compare with Charlie's own public remarks about Candace
 
 ---
 
-**C-5104** Neff Says Host Uses Falsehoods to Enrich Herself
+**C-3554** Neff Says Host Uses Falsehoods to Enrich Herself
 
 Claim Timestamp: 00:25:23
 
@@ -1507,7 +1507,7 @@ Investigative Direction: Review the host's revenue sources and any figures tied 
 
 ---
 
-**C-5105** Host Says TPUSA Sold Merchandise Worth $80 Million in Three Weeks
+**C-3555** Host Says TPUSA Sold Merchandise Worth $80 Million in Three Weeks
 
 Claim Timestamp: 00:25:23
 
@@ -1522,7 +1522,7 @@ Investigative Direction: Obtain TPUSA merchandise sales figures and Form 990 rev
 
 ---
 
-**C-5106** Host Says TPUSA Made Its Whole Annual Budget in the First Weeks
+**C-3556** Host Says TPUSA Made Its Whole Annual Budget in the First Weeks
 
 Claim Timestamp: 00:26:31
 
@@ -1537,7 +1537,7 @@ Investigative Direction: Compare TPUSA's budgeted annual revenue with post-Septe
 
 ---
 
-**C-5107** Host Says She Sold Nothing and Made No Money From the Assassination
+**C-3557** Host Says She Sold Nothing and Made No Money From the Assassination
 
 Claim Timestamp: 00:26:31
 
@@ -1551,7 +1551,7 @@ Investigative Direction: Review the host's merchandise catalogue and any revenue
 
 ---
 
-**C-5108** Host Says She Investigated Kamala's Genealogy, Lively and Reynolds, and Brigitte Macron
+**C-3558** Host Says She Investigated Kamala's Genealogy, Lively and Reynolds, and Brigitte Macron
 
 Claim Timestamp: 00:26:31
 
@@ -1565,7 +1565,7 @@ Investigative Direction: Cross-check the host's earlier episodes on Harris, Live
 
 ---
 
-**C-5109** Host Asserts Brigitte Macron Was Born a Male and Nations Are Colluding
+**C-3559** Host Asserts Brigitte Macron Was Born a Male and Nations Are Colluding
 
 Claim Timestamp: 00:26:31
 
@@ -1580,7 +1580,7 @@ Investigative Direction: Review the public records and the Macron defamation fil
 
 ---
 
-**C-5110** Neff Says TPUSA's Silence Was Never Complacency or Approval
+**C-3560** Neff Says TPUSA's Silence Was Never Complacency or Approval
 
 Claim Timestamp: 00:27:33
 
@@ -1595,7 +1595,7 @@ Investigative Direction: Compare TPUSA's actual public statements on the allegat
 
 ---
 
-**C-5111** Host Says a 306 Round Would Not Be Stopped by a Neck
+**C-3562** Host Says a 306 Round Would Not Be Stopped by a Neck
 
 Claim Timestamp: 00:30:47
 
@@ -1605,12 +1605,12 @@ Transcript Snippet: 306 bullets do not get stopped by human necks because they e
 
 Anchored Artifacts: 
 Mentions: N-3
-Supports: C-1230
+Supports: C-594
 Investigative Direction: Consult forensic or ballistic experts on the round and the autopsy findings.
 
 ---
 
-**C-5112** Host Says TPUSA Let People Who Pressured Charlie Claim His Legacy
+**C-3563** Host Says TPUSA Let People Who Pressured Charlie Claim His Legacy
 
 Claim Timestamp: 00:30:47
 
@@ -1625,7 +1625,7 @@ Investigative Direction: Identify who the host means and the pressure she allege
 
 ---
 
-**C-5113** Host Says She Is Holding Information Hoping for a Public Conversation
+**C-3564** Host Says She Is Holding Information Hoping for a Public Conversation
 
 Claim Timestamp: 00:32:04
 
@@ -1640,7 +1640,7 @@ Investigative Direction: Track what the host publishes if the livestream does no
 
 ---
 
-**C-5114** Host Says TPUSA Is Sitting on Charlie's Texts That He Expected to Be Killed
+**C-3565** Host Says TPUSA Is Sitting on Charlie's Texts That He Expected to Be Killed
 
 Claim Timestamp: 00:32:04
 
@@ -1655,7 +1655,7 @@ Investigative Direction: Obtain the texts or the host's source; ask TPUSA whethe
 
 ---
 
-**C-5115** Host Says What TPUSA Told Her on September 10 Does Not Add Up
+**C-3566** Host Says What TPUSA Told Her on September 10 Does Not Add Up
 
 Claim Timestamp: 00:32:04
 
@@ -1670,7 +1670,7 @@ Investigative Direction: Compare TPUSA's September 10 statements to the host wit
 
 ---
 
-**C-5116** Host Proposes a Livestream With Money Raised for TPUSA
+**C-3567** Host Proposes a Livestream With Money Raised for TPUSA
 
 Claim Timestamp: 00:33:05
 
@@ -1685,7 +1685,7 @@ Investigative Direction: Keep the host's offer text and TPUSA's reply to confirm
 
 ---
 
-**C-5117** Host Accepts Livestream for Tomorrow With the Only Rule No Assassinations
+**C-3568** Host Accepts Livestream for Tomorrow With the Only Rule No Assassinations
 
 Claim Timestamp: 00:33:58
 
@@ -1696,12 +1696,12 @@ Transcript Snippet: So I accept it with whistles and bells. Everything I fully a
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10307, N-10000
-Supports: C-5062
+Supports: C-3509
 Investigative Direction: Verify whether TPUSA responded to the proposed date and whether a livestream followed.
 
 ---
 
-**C-5118** Host Says the Pentagon Press Corps Was Remade to Admit New Journalists
+**C-3569** Host Says the Pentagon Press Corps Was Remade to Admit New Journalists
 
 Claim Timestamp: 00:37:13
 
@@ -1716,7 +1716,7 @@ Investigative Direction: Obtain the Pentagon's press credential policy and list 
 
 ---
 
-**C-5119** Host Says the Pentagon Credentialed Laura Loomer
+**C-3572** Host Says the Pentagon Credentialed Laura Loomer
 
 Claim Timestamp: 00:39:37
 
@@ -1727,12 +1727,12 @@ Transcript Snippet: our government, the Pentagon, decide to credential her at th
 Anchored Artifacts: 
 Mentions: N-3, N-60
 Related Nodes: N-10064, N-11015
-Supports: C-1611
+Supports: C-2389
 Investigative Direction: Confirm Loomer's credential date from the Pentagon press office.
 
 ---
 
-**C-5120** Host Says Loomer Handcuffed Herself to Twitter Headquarters
+**C-3570** Host Says Loomer Handcuffed Herself to Twitter Headquarters
 
 Claim Timestamp: 00:39:00
 
@@ -1746,7 +1746,7 @@ Investigative Direction: Check 2018 news coverage of the Twitter headquarters pr
 
 ---
 
-**C-5121** Host Says Loomer Is Not Allowed to Own a Gun After Hospitalization
+**C-3571** Host Says Loomer Is Not Allowed to Own a Gun After Hospitalization
 
 Claim Timestamp: 00:39:18
 
@@ -1761,7 +1761,7 @@ Investigative Direction: Seek court or licensing records; the host herself hedge
 
 ---
 
-**C-5122** Host Says Loomer Called Charlie a Charlatan Weeks Before His Death
+**C-3573** Host Says Loomer Called Charlie a Charlatan Weeks Before His Death
 
 Claim Timestamp: 00:39:58
 
@@ -1776,7 +1776,7 @@ Investigative Direction: Retrieve the Loomer post and date, and the Smith and Ha
 
 ---
 
-**C-5123** Host Shows the Loomer Tweet and Says She Reversed After Charlie Died
+**C-3574** Host Shows the Loomer Tweet and Says She Reversed After Charlie Died
 
 Claim Timestamp: 00:40:14
 
@@ -1790,7 +1790,7 @@ Investigative Direction: Capture the tweet in full and compare with Loomer's lat
 
 ---
 
-**C-5124** Host Says Loomer Cheered Cam Higby's Pentagon Question
+**C-3575** Host Says Loomer Cheered Cam Higby's Pentagon Question
 
 Claim Timestamp: 00:40:14
 
@@ -1805,7 +1805,7 @@ Investigative Direction: Locate Loomer's post sharing the Higby clip and its tim
 
 ---
 
-**C-5125** Host Says She Reported the French Foreign Legion Was on the Ground
+**C-3576** Host Says She Reported the French Foreign Legion Was on the Ground
 
 Claim Timestamp: 00:40:14
 
@@ -1820,7 +1820,7 @@ Investigative Direction: Compare with the earlier episodes reporting Foreign Leg
 
 ---
 
-**C-5126** Wilson Offers to Try to Find Out and Get Back
+**C-3579** Wilson Offers to Try to Find Out and Get Back
 
 Claim Timestamp: 00:43:00
 
@@ -1834,7 +1834,7 @@ Investigative Direction: Track whether the Pentagon later sent a follow-up answe
 
 ---
 
-**C-5127** Host Says She Has Evidence of the Foreign Legion on the Ground That Day
+**C-3580** Host Says She Has Evidence of the Foreign Legion on the Ground That Day
 
 Claim Timestamp: 00:43:48
 
@@ -1849,7 +1849,7 @@ Investigative Direction: Obtain the evidence the host cites (the Foreign Legion 
 
 ---
 
-**C-5128** Host Alleges the French President Paid $1.5 Million for Her Assassination
+**C-3581** Host Alleges the French President Paid $1.5 Million for Her Assassination
 
 Claim Timestamp: 00:43:48
 
@@ -1864,7 +1864,7 @@ Investigative Direction: The host must identify the source and the accounts; no 
 
 ---
 
-**C-5129** Host Says the Pentagon Is a 6.5 Million Square Foot Building
+**C-3582** Host Says the Pentagon Is a 6.5 Million Square Foot Building
 
 Claim Timestamp: 00:43:48
 
@@ -1879,7 +1879,7 @@ Investigative Direction: Verify the Pentagon's floor area and its ranking among 
 
 ---
 
-**C-5130** Host Says She Has Paid Over a Quarter Million Dollars in the Macron Lawsuit
+**C-3585** Host Says She Has Paid Over a Quarter Million Dollars in the Macron Lawsuit
 
 Claim Timestamp: 00:47:25
 
@@ -1894,7 +1894,7 @@ Investigative Direction: Review the Delaware docket and the host's disclosures o
 
 ---
 
-**C-5131** Host Says Brigitte Macron's Location on the Egyptian Plane Dates Cannot Be Found
+**C-3586** Host Says Brigitte Macron's Location on the Egyptian Plane Dates Cannot Be Found
 
 Claim Timestamp: 00:49:08
 
@@ -1909,7 +1909,7 @@ Investigative Direction: Reconstruct Brigitte Macron's public schedule for Septe
 
 ---
 
-**C-5132** Host Says the Trump-Macron Call Came an Hour and a Half Before the Shooting
+**C-3587** Host Says the Trump-Macron Call Came an Hour and a Half Before the Shooting
 
 Claim Timestamp: 00:49:42
 
@@ -1920,12 +1920,12 @@ Transcript Snippet: an hour and a half before Charlie Kirk was assassinated in U
 Anchored Artifacts: A-1493.1
 Mentions: N-3, N-5, N-377, N-1
 Related Nodes: N-10308
-Supports: C-1830
+Supports: C-3588
 Investigative Direction: Locate Macron's released calendar entry for September 10 and compare against the time of the shooting.
 
 ---
 
-**C-5133** Host Allows the Call Could Be About Ukraine and Be Innocent
+**C-3589** Host Allows the Call Could Be About Ukraine and Be Innocent
 
 Claim Timestamp: 00:49:59
 
@@ -1936,12 +1936,12 @@ Transcript Snippet: we also know that there's been a lot of discussion about Ukr
 Anchored Artifacts: A-1493.1
 Mentions: N-3, N-5, N-377
 Related Nodes: N-10308
-Qualifies: C-1830
+Qualifies: C-3588
 Investigative Direction: Ask the Elysee and the White House for the call readout.
 
 ---
 
-**C-5134** Host Says the Track Is Number 13 on The Game's Album
+**C-3591** Host Says the Track Is Number 13 on The Game's Album
 
 Claim Timestamp: 00:50:53
 
@@ -1951,12 +1951,12 @@ Transcript Snippet: Why is it got to be song number 13?
 
 Anchored Artifacts: 
 Mentions: N-3, N-304
-Supports: C-1826
+Supports: C-3590
 Investigative Direction: Check the album's published track listing.
 
 ---
 
-**C-5135** The Game Says He Only Repeated Candace's Claim That People Tried to Assassinate Her
+**C-3593** The Game Says He Only Repeated Candace's Claim That People Tried to Assassinate Her
 
 Claim Timestamp: 00:52:23
 
@@ -1966,12 +1966,12 @@ Transcript Snippet: she said that people were trying to assassinate her. So, all
 
 Anchored Artifacts: A-1491.1
 Mentions: N-304, N-3
-Supports: C-1827
+Supports: C-3592
 Investigative Direction: Verify the quote against the full interview.
 
 ---
 
-**C-5136** Host Says She Is Friends With Ye
+**C-3594** Host Says She Is Friends With Ye
 
 Claim Timestamp: 00:52:23
 
@@ -1985,7 +1985,7 @@ Investigative Direction: Compare with other episodes that discuss the host's rel
 
 ---
 
-**C-5137** Host Says Her Book Ships to Canada and Is 20 Percent Off Direct
+**C-3595** Host Says Her Book Ships to Canada and Is 20 Percent Off Direct
 
 Claim Timestamp: 00:55:47
 
@@ -1999,7 +1999,7 @@ Investigative Direction: Check the book site for shipping and pricing terms.
 
 ---
 
-**C-5138** Host Says She Spoke With Russell Brand on His Show
+**C-3596** Host Says She Spoke With Russell Brand on His Show
 
 Claim Timestamp: 00:57:05
 
@@ -2013,7 +2013,7 @@ Investigative Direction: Find the Russell Brand episode featuring the host and i
 
 ---
 
-**C-5139** Host Says Her Team Vets Sources by Debating Them
+**C-3597** Host Says Her Team Vets Sources by Debating Them
 
 Claim Timestamp: 00:59:08
 
@@ -2027,7 +2027,7 @@ Investigative Direction: Not independently checkable; note for editorial-process
 
 ---
 
-**C-5140** Host Says Something Military Happened When Charlie Was Assassinated
+**C-3598** Host Says Something Military Happened When Charlie Was Assassinated
 
 Claim Timestamp: 00:59:51
 
@@ -2041,7 +2041,7 @@ Investigative Direction: Same as other military-involvement claims in the series
 
 ---
 
-**C-5141** Host Says TPUSA Would Not Coordinate an Assassination on Its Own Campus
+**C-3599** Host Says TPUSA Would Not Coordinate an Assassination on Its Own Campus
 
 Claim Timestamp: 00:59:51
 
@@ -2056,7 +2056,7 @@ Investigative Direction: Compare with other statements in the series on who coor
 
 ---
 
-**C-5142** Host Says the Genuine Moment Was When Neff Went Off Script
+**C-3600** Host Says the Genuine Moment Was When Neff Went Off Script
 
 Claim Timestamp: 00:59:51
 
@@ -2070,7 +2070,7 @@ Investigative Direction: Compare with the statement's closing lines.
 
 ---
 
-**C-5143** Host Says She Came From TPUSA and Contributed Greatly to Its Success
+**C-3601** Host Says She Came From TPUSA and Contributed Greatly to Its Success
 
 Claim Timestamp: 01:01:19
 
@@ -2085,7 +2085,7 @@ Investigative Direction: Review TPUSA's own acknowledgements of the host's work.
 
 ---
 
-**C-5144** Host Says the USS Liberty Interview With Phil Tourney Was the Best She Has Given
+**C-3602** Host Says the USS Liberty Interview With Phil Tourney Was the Best She Has Given
 
 Claim Timestamp: 01:03:36
 
@@ -2100,7 +2100,7 @@ Investigative Direction: Find the Phil Tourney interview episode and its view co
 
 ---
 
-**C-5145** Host Says She Will Do the Livestream Tomorrow and Need Not Be in Person
+**C-3603** Host Says She Will Do the Livestream Tomorrow and Need Not Be in Person
 
 Claim Timestamp: 01:04:42
 
@@ -2111,12 +2111,12 @@ Transcript Snippet: I'll do this tomorrow. I don't have to be in person. We can 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10307
-Supports: C-5117
+Supports: C-3568
 Investigative Direction: Check whether the livestream was scheduled and how TPUSA answered.
 
 ---
 
-**C-5146** Host Says Money Raised Would Go to TPUSA
+**C-3604** Host Says Money Raised Would Go to TPUSA
 
 Claim Timestamp: 01:04:42
 

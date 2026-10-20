@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10): N-715, N-11016, N-11017
   - Hole-minted Nodes (reintro-ep041): N-10340, N-10567, N-10804
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10): C-5147–C-5184
+  - Claim Range: C-3605–C-3651
   - New Nodes Introduced: N-305, N-306, N-10309, N-10310
   - Reused Nodes Appearing: N-159, N-5, N-11, N-14, N-55, N-68, N-260, N-10064, N-10074, N-10208, N-10253, N-10316, N-10324
   - Tip-minted Nodes (wave2): N-10897
@@ -26,7 +26,7 @@
 
 Artifact Families Introduced: A-1494, A-1495, A-1496, A-1497, A-1498, A-1499, A-1500
 
-Claim Range: C-1831–C-1838, C-3747
+Claim Range: C-3606–C-3641, C-3617
 
 New Nodes Introduced:  N-305, N-306, N-10309, N-10310
 
@@ -69,7 +69,7 @@ Video Timestamp: 00:02:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played on air; date of briefing not specified in transcript)
 
-*Related: C-1831, N-302*
+*Related: C-3606, N-302*
 
 ---
 
@@ -83,7 +83,7 @@ Video Timestamp: 00:03:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (tweet read in full on air)
 
-*Related: C-1832, N-7 (if existing)*
+*Related: C-3610, N-7 (if existing)*
 
 **A-1495.2** Blake Neff follow-up tweet stating TPUSA will "proceed without" Candace
 
@@ -93,7 +93,7 @@ Video Timestamp: 00:07:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (tweet read in full on air)
 
-*Related: C-1833, N-1*
+*Related: C-3614, N-1*
 
 ---
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:15:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (tweet read in its entirety on air)
 
-*Related: C-1834, N-10897, N-10310*
+*Related: C-3626, N-10897, N-10310*
 
 ---
 
@@ -121,7 +121,7 @@ Video Timestamp: 00:25:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip played on air)
 
-*Related: C-1836*
+*Related: C-3634*
 
 ---
 
@@ -135,7 +135,7 @@ Video Timestamp: 00:28:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip played on air)
 
-*Related: C-1837, N-7 (Frank Turek, if not already existing)*
+*Related: C-3636, N-7 (Frank Turek, if not already existing)*
 
 ---
 
@@ -149,7 +149,7 @@ Video Timestamp: 00:31:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip played on air)
 
-*Related: C-1838*
+*Related: C-3641*
 
 ---
 
@@ -163,7 +163,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (verbally referenced; not shown in episode)
 
-*Related: C-1835, N-306, N-10897*
+*Related: C-3628, N-306, N-10897*
 
 **A-1500.2** Egyptian Presidency website record confirming El-Sisi aboard SU-BTU on April 3, 2023 (Riadh → Saudi Crown Prince MBS meeting)
 
@@ -173,7 +173,7 @@ Video Timestamp: 00:17:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (referenced via Project Constitution tweet A-1496.1; underlying website not directly accessed)
 
-*Related: C-1834, N-10897*
+*Related: C-3626, N-10897*
 
 ---
 
@@ -188,7 +188,7 @@ Video Timestamp: 00:03:51
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-5151, N-10000, N-10804, N-3, N-68*
+*Related: C-3611, N-10000, N-10804, N-3, N-68*
 
 ---
 
@@ -201,7 +201,7 @@ Video Timestamp: 00:06:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-5153, N-10804, N-159, N-3*
+*Related: C-3613, N-10804, N-159, N-3*
 
 ---
 
@@ -214,7 +214,7 @@ Video Timestamp: 00:25:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5170, N-3*
+*Related: C-3635, N-3*
 
 ---
 
@@ -229,7 +229,7 @@ Video Timestamp: 00:42:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-5181, C-5182, N-10897, N-267, N-3*
+*Related: C-3648, C-3649, N-10897, N-267, N-3*
 
 ---
 
@@ -242,7 +242,7 @@ Video Timestamp: 00:40:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5180, N-10000, N-11, N-3*
+*Related: C-3647, N-10000, N-11, N-3*
 
 ---
 
@@ -257,7 +257,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1494.1, C-1831*
+*Related: A-1494.1, C-3606*
 
 ---
 
@@ -283,7 +283,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1500.1, C-1835, N-10897*
+*Related: A-1500.1, C-3628, N-10897*
 
 ---
 
@@ -299,7 +299,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1496.1, C-1834, A-1500.2*
+*Related: A-1496.1, C-3626, A-1500.2*
 
 ---
 
@@ -312,7 +312,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1498.1, C-1837, N-1*
+*Related: A-1498.1, C-3636, N-1*
 
 ---
 
@@ -352,7 +352,7 @@ Investigative Pressure: Medium
 
 Subject of the assassination; the host and clips describe his words and wishes.
 
-*Related: C-5149, C-5152, C-5158, C-5171, C-5172, C-5173, C-5175, C-5178, C-5179, C-5184*
+*Related: C-3608, C-3612, C-3620, C-3637, C-3638, C-3639, C-3642, C-3645, C-3646, C-3651*
 
 ---
 
@@ -360,7 +360,7 @@ Subject of the assassination; the host and clips describe his words and wishes.
 
 Host; speaks for herself throughout.
 
-*Related: C-5147, C-5149, C-5150, C-5151, C-5152, C-5153, C-5154, C-5155, C-5156, C-5157, C-5158, C-5159, C-5160, C-5161, C-5162, C-5163, C-5164, C-5165, C-5166, C-5167, C-5168, C-5169, C-5170, C-5172, C-5173, C-5174, C-5175, C-5176, C-5177, C-5178, C-5179, C-5180, C-5182, C-5183, C-5184*
+*Related: C-3605, C-3608, C-3609, C-3611, C-3612, C-3613, C-3615, C-3616, C-3618, C-3619, C-3620, C-3621, C-3622, C-3623, C-3624, C-3625, C-3627, C-3629, C-3630, C-3631, C-3632, C-3633, C-3635, C-3638, C-3639, C-3640, C-3642, C-3643, C-3644, C-3645, C-3646, C-3647, C-3649, C-3650, C-3651*
 
 ---
 
@@ -368,7 +368,7 @@ Host; speaks for herself throughout.
 
 Quoted by the host asking whether people are still talking about the Epstein files.
 
-*Related: C-5176*
+*Related: C-3643*
 
 ---
 
@@ -376,7 +376,7 @@ Quoted by the host asking whether people are still talking about the Epstein fil
 
 Subject of the host's account of an email asking for her lawyer's address.
 
-*Related: C-5180*
+*Related: C-3647*
 
 ---
 
@@ -384,7 +384,7 @@ Subject of the host's account of an email asking for her lawyer's address.
 
 Joined the TPUSA show virtually on the day of the episode.
 
-*Related: C-5154*
+*Related: C-3615*
 
 ---
 
@@ -392,7 +392,7 @@ Joined the TPUSA show virtually on the day of the episode.
 
 Host paraphrases his account of Charlie's praise for his book.
 
-*Related: C-5173*
+*Related: C-3639*
 
 ---
 
@@ -400,7 +400,7 @@ Host paraphrases his account of Charlie's praise for his book.
 
 Host's executive producer who texted her about the TPUSA post.
 
-*Related: C-5151*
+*Related: C-3611*
 
 ---
 
@@ -408,7 +408,7 @@ Host's executive producer who texted her about the TPUSA post.
 
 TPUSA figure whose posts set the debate terms; quoted in Turek clip.
 
-*Related: C-5152, C-5153, C-5156, C-5171*
+*Related: C-3612, C-3613, C-3618, C-3637*
 
 ---
 
@@ -416,7 +416,7 @@ TPUSA figure whose posts set the debate terms; quoted in Turek clip.
 
 FBO where the host says SU-BND was transponding on September 10.
 
-*Related: C-5158*
+*Related: C-3620*
 
 ---
 
@@ -424,7 +424,7 @@ FBO where the host says SU-BND was transponding on September 10.
 
 Commentator whose clip and alleged bot use are discussed.
 
-*Related: C-5175, C-5181*
+*Related: C-3642, C-3648*
 
 ---
 
@@ -432,7 +432,7 @@ Commentator whose clip and alleged bot use are discussed.
 
 Organization whose debate terms, purge of questions and alleged influence campaign are discussed.
 
-*Related: C-5147, C-5150, C-5151, C-5154, C-5155, C-5156, C-5157, C-5168, C-5175, C-5177, C-5178, C-5179, C-5180, C-5183*
+*Related: C-3605, C-3609, C-3611, C-3615, C-3616, C-3618, C-3619, C-3632, C-3642, C-3644, C-3645, C-3646, C-3647, C-3650*
 
 ---
 
@@ -440,7 +440,7 @@ Organization whose debate terms, purge of questions and alleged influence campai
 
 Setting of the Higby question and the host's no-denial point.
 
-*Related: C-5148, C-5169*
+*Related: C-3607, C-3633*
 
 ---
 
@@ -448,7 +448,7 @@ Setting of the Higby question and the host's no-denial point.
 
 Airport where the Egyptian planes and the named passenger appeared.
 
-*Related: C-5158, C-5159, C-5161, C-5162, C-5163*
+*Related: C-3620, C-3621, C-3623, C-3624, C-3625*
 
 ---
 
@@ -456,7 +456,7 @@ Airport where the Egyptian planes and the named passenger appeared.
 
 Existing topic reused for the SU-BND ground transponder claim.
 
-*Related: C-5158*
+*Related: C-3620*
 
 ---
 
@@ -464,7 +464,7 @@ Existing topic reused for the SU-BND ground transponder claim.
 
 Existing topic reused for the plane identification claims.
 
-*Related: C-5157, C-5159, C-5160, C-5165*
+*Related: C-3619, C-3621, C-3622, C-3629*
 
 ---
 
@@ -472,7 +472,7 @@ Existing topic reused for the plane identification claims.
 
 Existing topic reused for the French-plot claims.
 
-*Related: C-5149, C-5169*
+*Related: C-3608, C-3633*
 
 ---
 
@@ -480,7 +480,7 @@ Existing topic reused for the French-plot claims.
 
 Existing topic reused for the Trump remark.
 
-*Related: C-5176*
+*Related: C-3643*
 
 ---
 
@@ -488,7 +488,7 @@ Existing topic reused for the Trump remark.
 
 Existing topic reused for the host's night-before text claim.
 
-*Related: C-5172*
+*Related: C-3638*
 
 ---
 
@@ -496,7 +496,7 @@ Existing topic reused for the host's night-before text claim.
 
 Existing topic reused.
 
-*Related: C-5149, C-5169*
+*Related: C-3608, C-3633*
 
 ---
 
@@ -504,7 +504,7 @@ Existing topic reused.
 
 Existing topic reused for the debate-terms claims.
 
-*Related: C-5147, C-5151, C-5152, C-5153, C-5154, C-5155, C-5168, C-5177*
+*Related: C-3605, C-3611, C-3612, C-3613, C-3615, C-3616, C-3632, C-3644*
 
 ---
 
@@ -513,7 +513,7 @@ Existing topic reused for the debate-terms claims.
 First named by the host as the Egyptian president (transcript spelling el-Sisi, Elsisi) at 00:17:13 in episode 41.
 Aliases: Elsisi; el-Sisi; LCC (transcript read of a post)
 
-*Related: C-5166, C-5167*
+*Related: C-3630, C-3631*
 
 ---
 
@@ -522,7 +522,7 @@ Aliases: Elsisi; el-Sisi; LCC (transcript read of a post)
 Node Type: Topic
 Host's claim that Cam Higby joined the TPUSA payroll in August 2025 and the question of who directed his Pentagon briefing question.
 
-*Related: C-5150*
+*Related: C-3609*
 
 ---
 
@@ -531,13 +531,13 @@ Host's claim that Cam Higby joined the TPUSA payroll in August 2025 and the ques
 Node Type: Topic
 Host's allegation that Turning Point USA pays influencers to run an influence campaign and mock her claims.
 
-*Related: C-5183*
+*Related: C-3650*
 
 ---
 
 ## V. Claim Register
 
-**C-1831** Higby Pentagon Question on French Assassination Plot
+**C-3606** Higby Pentagon Question on French Assassination Plot
 
 Claim Timestamp: 00:02:11
 
@@ -551,7 +551,7 @@ Investigative Direction: Verify the original Pentagon press briefing transcript 
 
 ---
 
-**C-1832** Neff Tweet Announcing the December 15 Livestream
+**C-3610** Neff Tweet Announcing the December 15 Livestream
 
 Claim Timestamp: 00:03:51
 
@@ -565,7 +565,7 @@ Investigative Direction: Confirm original tweet via X/Twitter archive; verify ti
 
 ---
 
-**C-1833** TPUSA "Proceeding Without You" Follow-Up Tweet
+**C-3614** TPUSA "Proceeding Without You" Follow-Up Tweet
 
 Claim Timestamp: 00:07:19
 
@@ -579,7 +579,7 @@ Investigative Direction: Confirm original follow-up tweet via X/Twitter archive;
 
 ---
 
-**C-1834** Project Constitution Report on El-Sisi Aboard SU-BTU
+**C-3626** Project Constitution Report on El-Sisi Aboard SU-BTU
 
 Claim Timestamp: 00:16:50
 
@@ -594,7 +594,7 @@ Investigative Direction: Verify directly against the Egyptian presidency website
 
 ---
 
-**C-1835** El-Sisi Photographed in Egypt on September 10, 2025
+**C-3628** El-Sisi Photographed in Egypt on September 10, 2025
 
 Claim Timestamp: 00:17:13
 
@@ -609,7 +609,7 @@ Investigative Direction: Locate the original photograph; verify date, location, 
 
 ---
 
-**C-1836** Host Plays Clip of Shapiro Joking on Gutfeld Show About Calling French Intelligence
+**C-3634** Host Plays Clip of Shapiro Joking on Gutfeld Show About Calling French Intelligence
 
 Claim Timestamp: 00:25:13
 
@@ -623,7 +623,7 @@ Investigative Direction: Verify clip against original Gutfeld show broadcast; co
 
 ---
 
-**C-1837** Frank Turek Testimonial on Blake Neff
+**C-3636** Frank Turek Testimonial on Blake Neff
 
 Claim Timestamp: 00:28:02
 
@@ -637,7 +637,7 @@ Investigative Direction: Verify clip against original broadcast; cross-check aga
 
 ---
 
-**C-1838** Tim Pool Attack on Candace Owens
+**C-3641** Tim Pool Attack on Candace Owens
 
 Claim Timestamp: 00:31:39
 
@@ -652,7 +652,7 @@ Investigative Direction: Verify clip against original Tim Pool broadcast; captur
 
 ---
 
-**C-3747** Host maintains that Turning Point USA is engaged in a cover-up
+**C-3617** Host maintains that Turning Point USA is engaged in a cover-up
 
 Claim Timestamp: 00:10:28
 
@@ -667,7 +667,7 @@ Investigative Direction: Track TPUSA responses to the on-record questions; compa
 
 ---
 
-**C-5147** Host Says TPUSA Gave No Email or Text Before the Midnight Debate Announcement
+**C-3605** Host Says TPUSA Gave No Email or Text Before the Midnight Debate Announcement
 
 Claim Timestamp: 00:00:00
 
@@ -678,12 +678,12 @@ Transcript Snippet: did not send me an email. They did not send me a text messag
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10000, N-10804
-Supports: C-1832
+Supports: C-3610
 Investigative Direction: Compare the host's inbox and phone records for December 3–4, 2025 with the timing of the Blake Neff announcement post.
 
 ---
 
-**C-5148** Pentagon Press Secretary Answers Higby: Not Aware, Possibly a Law Enforcement Matter
+**C-3607** Pentagon Press Secretary Answers Higby: Not Aware, Possibly a Law Enforcement Matter
 
 Claim Timestamp: 00:02:11
 
@@ -694,12 +694,12 @@ Transcript Snippet: That is an interesting question. Um, not that I'm aware of. 
 Anchored Artifacts: A-1494.1
 Mentions: N-302, N-3
 Related Nodes: N-10064
-Supports: C-1825
+Supports: C-3578
 Investigative Direction: Obtain the Pentagon press briefing transcript to confirm the exchange and its date.
 
 ---
 
-**C-5149** Host Says France Was on the Ground on the Day Charlie Was Assassinated
+**C-3608** Host Says France Was on the Ground on the Day Charlie Was Assassinated
 
 Claim Timestamp: 00:02:11
 
@@ -714,7 +714,7 @@ Investigative Direction: Identify what evidence the host offers elsewhere for Fr
 
 ---
 
-**C-5150** Host Says Cam Higby Joined the TPUSA Payroll in August 2025
+**C-3609** Host Says Cam Higby Joined the TPUSA Payroll in August 2025
 
 Claim Timestamp: 00:03:07
 
@@ -729,7 +729,7 @@ Investigative Direction: Obtain employment, contractor or payment records, or a 
 
 ---
 
-**C-5151** Host Says She Learned of the Announcement From Schuyler Nine Hours Into the Countdown
+**C-3611** Host Says She Learned of the Announcement From Schuyler Nine Hours Into the Countdown
 
 Claim Timestamp: 00:03:51
 
@@ -744,7 +744,7 @@ Investigative Direction: Capture the Schuyler text exchange with its timestamps 
 
 ---
 
-**C-5152** Neff Post Says Charlie's Friends Will Respond Once and for All From Charlie's Phoenix Studio
+**C-3612** Neff Post Says Charlie's Friends Will Respond Once and for All From Charlie's Phoenix Studio
 
 Claim Timestamp: 00:03:51
 
@@ -755,12 +755,12 @@ Transcript Snippet: a collection of Charlie's friends will respond to statements
 Anchored Artifacts: A-1495.1
 Mentions: N-159, N-1, N-3
 Related Nodes: N-10804
-Qualifies: C-1832
+Qualifies: C-3610
 Investigative Direction: Retrieve the original post and confirm the stated Eastern and local times (the host reads 4:00 p.m. Eastern, 2:00 p.m. local), the studio location and the end-of-day deadline.
 
 ---
 
-**C-5153** Host Replies She Will Cancel Her 2 p.m. Podcast to Join the Livestream Virtually
+**C-3613** Host Replies She Will Cancel Her 2 p.m. Podcast to Join the Livestream Virtually
 
 Claim Timestamp: 00:06:26
 
@@ -775,7 +775,7 @@ Investigative Direction: Capture the host's reply message to Neff and its timest
 
 ---
 
-**C-5154** Host Says Kolvet Joined the TPUSA Show Virtually That Day
+**C-3615** Host Says Kolvet Joined the TPUSA Show Virtually That Day
 
 Claim Timestamp: 00:07:19
 
@@ -790,7 +790,7 @@ Investigative Direction: Check the December 4, 2025 episode of the TPUSA show fo
 
 ---
 
-**C-5155** Host Says She Offered Any Day Up to the 15th by Virtual Link
+**C-3616** Host Says She Offered Any Day Up to the 15th by Virtual Link
 
 Claim Timestamp: 00:09:47
 
@@ -805,7 +805,7 @@ Investigative Direction: Retrieve the host's reply post and confirm the any-day 
 
 ---
 
-**C-5156** Host Says Neff Name-Called and the Pastors Call It Demonic
+**C-3618** Host Says Neff Name-Called and the Pastors Call It Demonic
 
 Claim Timestamp: 00:10:28
 
@@ -820,7 +820,7 @@ Investigative Direction: Identify the pastors and the broadcasts or posts in whi
 
 ---
 
-**C-5157** Host Says TPUSA Mentioned the Egyptian Planes Many Times Without a Valid Answer
+**C-3619** Host Says TPUSA Mentioned the Egyptian Planes Many Times Without a Valid Answer
 
 Claim Timestamp: 00:12:22
 
@@ -835,7 +835,7 @@ Investigative Direction: Review the December 3, 2025 TPUSA statement for each me
 
 ---
 
-**C-5158** Host Says SU-BND (Blue Plane) Was Transponding at Duncan Aviation on September 10 and Did Not Go Anywhere
+**C-3620** Host Says SU-BND (Blue Plane) Was Transponding at Duncan Aviation on September 10 and Did Not Go Anywhere
 
 Claim Timestamp: 00:13:35
 
@@ -846,12 +846,12 @@ Transcript Snippet: That's SUB BND, which was the one that was transponding on t
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-260
 Related Nodes: N-260, N-10208, N-10074
-Supports: C-1719
+Supports: C-2924
 Investigative Direction: Pull the September 10, 2025 ADS-B and FBO records for SU-BND to confirm the ground transponder pings and the lack of departure.
 
 ---
 
-**C-5159** Host Says the Yellow Plane Flew Provo to Delaware With Only Four People Aboard, One a Foreign Dignitary
+**C-3621** Host Says the Yellow Plane Flew Provo to Delaware With Only Four People Aboard, One a Foreign Dignitary
 
 Claim Timestamp: 00:13:35
 
@@ -862,12 +862,12 @@ Transcript Snippet: that flight from Provo to Delaware on the yellow plane had o
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10074, N-10253
-Supports: C-1745
+Supports: C-3052
 Investigative Direction: Obtain the passenger manifest and Customs and Border Protection or FBO records for the September 10 Provo to Wilmington flight.
 
 ---
 
-**C-5160** Host Says One of the Four Used the Name Wedi Machmood
+**C-3622** Host Says One of the Four Used the Name Wedi Machmood
 
 Claim Timestamp: 00:13:35
 
@@ -882,7 +882,7 @@ Investigative Direction: Obtain the manifest or customs entry showing the name u
 
 ---
 
-**C-5161** Host Says Wedi Machmood Came to Provo May 27 on an Egyptian Plane With No Transponder Record
+**C-3623** Host Says Wedi Machmood Came to Provo May 27 on an Egyptian Plane With No Transponder Record
 
 Claim Timestamp: 00:15:15
 
@@ -897,7 +897,7 @@ Investigative Direction: Request Provo airport arrival logs and FBO fuel or hand
 
 ---
 
-**C-5162** Host Says the Purple Plane SU-BTU Was Not in Provo on Charlie's Assassination Day
+**C-3624** Host Says the Purple Plane SU-BTU Was Not in Provo on Charlie's Assassination Day
 
 Claim Timestamp: 00:15:32
 
@@ -912,7 +912,7 @@ Investigative Direction: Check SU-BTU movement history for September 2025 agains
 
 ---
 
-**C-5163** Host Says SU-BTU Departed Provo on June 2 Without Transponding
+**C-3625** Host Says SU-BTU Departed Provo on June 2 Without Transponding
 
 Claim Timestamp: 00:15:32
 
@@ -927,7 +927,7 @@ Investigative Direction: Seek non-ADS-B sources such as FAA flight plans, Provo 
 
 ---
 
-**C-5164** Host Says Project Constitution Is Confusing BTT With BTU
+**C-3627** Host Says Project Constitution Is Confusing BTT With BTU
 
 Claim Timestamp: 00:17:01
 
@@ -938,12 +938,12 @@ Transcript Snippet: And just so you know, he's confusing BTT. He's talking about
 Anchored Artifacts: A-1496.1
 Mentions: N-3
 Related Nodes: N-10897, N-10310
-Qualifies: C-1834
+Qualifies: C-3626
 Investigative Direction: Reconcile tail numbers SU-BTT and SU-BTU against the aircraft registry and the Egyptian presidency page cited by Project Constitution.
 
 ---
 
-**C-5165** Host Says the Two Egyptian Planes Can Now Be Connected Through Presidential Use
+**C-3629** Host Says the Two Egyptian Planes Can Now Be Connected Through Presidential Use
 
 Claim Timestamp: 00:17:13
 
@@ -954,12 +954,12 @@ Transcript Snippet: so BTU and again he's mixing it up with BTT. But we can now 
 Anchored Artifacts: A-1500.2
 Mentions: N-3
 Related Nodes: N-10897, N-10253
-Supports: C-1834
+Supports: C-3626
 Investigative Direction: Document what link between SU-BTU and SU-BTT the host relies on, such as shared operator, fleet or ownership records.
 
 ---
 
-**C-5166** Host Says El-Sisi Was Photographed in Egypt Multiple Times the Week of the May Provo Trip
+**C-3630** Host Says El-Sisi Was Photographed in Egypt Multiple Times the Week of the May Provo Trip
 
 Claim Timestamp: 00:17:13
 
@@ -970,12 +970,12 @@ Transcript Snippet: We can also rule him out as having been the individual that 
 Anchored Artifacts: 
 Mentions: N-3, N-715
 Related Nodes: N-10310
-Supports: C-1835
+Supports: C-3628
 Investigative Direction: Collect dated Egyptian presidency photographs and press reports for the week of May 27, 2025.
 
 ---
 
-**C-5167** Host Infers Wedi Machmood Is Almost Certainly Well Acquainted With the Egyptian President
+**C-3631** Host Infers Wedi Machmood Is Almost Certainly Well Acquainted With the Egyptian President
 
 Claim Timestamp: 00:18:13
 
@@ -990,7 +990,7 @@ Investigative Direction: Identify who held the name Wedi Machmood and any link t
 
 ---
 
-**C-5168** Host Repeats She Will Appear Virtually Any Time Through the End of the Year
+**C-3632** Host Repeats She Will Appear Virtually Any Time Through the End of the Year
 
 Claim Timestamp: 00:22:37
 
@@ -1005,7 +1005,7 @@ Investigative Direction: Check whether TPUSA responded to the host's public offe
 
 ---
 
-**C-5169** Host Says No Government Has Formally Denied Her Claim That France Tried to Assassinate Her
+**C-3633** Host Says No Government Has Formally Denied Her Claim That France Tried to Assassinate Her
 
 Claim Timestamp: 00:23:56
 
@@ -1020,7 +1020,7 @@ Investigative Direction: Search White House, Elysee and Department of Defense st
 
 ---
 
-**C-5170** Host Plays a Comedian Clip Joking About Slapping Someone and Calls It a Violent Joke Double Standard
+**C-3635** Host Plays a Comedian Clip Joking About Slapping Someone and Calls It a Violent Joke Double Standard
 
 Claim Timestamp: 00:26:35
 
@@ -1034,7 +1034,7 @@ Investigative Direction: Identify the comedian, the original video and who the j
 
 ---
 
-**C-5171** Turek Says Charlie Was Going to Dinner With Blake and Danny the Night Before
+**C-3637** Turek Says Charlie Was Going to Dinner With Blake and Danny the Night Before
 
 Claim Timestamp: 00:28:02
 
@@ -1048,7 +1048,7 @@ Investigative Direction: Identify Danny and obtain the dinner reservation, recei
 
 ---
 
-**C-5172** Host Says TPUSA Recounts the Night-Before Praise but Omits Charlie's Text That He Thought They Would Kill Him
+**C-3638** Host Says TPUSA Recounts the Night-Before Praise but Omits Charlie's Text That He Thought They Would Kill Him
 
 Claim Timestamp: 00:29:09
 
@@ -1063,7 +1063,7 @@ Investigative Direction: Obtain the full text thread of the night-before message
 
 ---
 
-**C-5173** Host Says Charlie Told Josh Hammer His Book Was the Greatest Thing
+**C-3639** Host Says Charlie Told Josh Hammer His Book Was the Greatest Thing
 
 Claim Timestamp: 00:29:09
 
@@ -1073,12 +1073,12 @@ Transcript Snippet: He told J uh Josh Hammer that his book was the greatest thin
 
 Anchored Artifacts: 
 Mentions: N-3, N-55, N-1
-Supports: C-1412
+Supports: C-1540
 Investigative Direction: Compare Hammer's JTV interview and released texts with the host's paraphrase.
 
 ---
 
-**C-5174** Host Says North of 95 Percent of Murders Are Committed by Someone the Victim Knows
+**C-3640** Host Says North of 95 Percent of Murders Are Committed by Someone the Victim Knows
 
 Claim Timestamp: 00:29:45
 
@@ -1092,7 +1092,7 @@ Investigative Direction: Compare the figure with FBI Uniform Crime Reporting and
 
 ---
 
-**C-5175** Tim Pool Says the Host Insinuates TPUSA Literally Killed Charlie
+**C-3642** Tim Pool Says the Host Insinuates TPUSA Literally Killed Charlie
 
 Claim Timestamp: 00:31:39
 
@@ -1107,7 +1107,7 @@ Investigative Direction: Review the full Tim Pool broadcast for exact wording an
 
 ---
 
-**C-5176** Host Says Trump Asked If People Are Still Talking About the Epstein Files
+**C-3643** Host Says Trump Asked If People Are Still Talking About the Epstein Files
 
 Claim Timestamp: 00:33:33
 
@@ -1122,7 +1122,7 @@ Investigative Direction: Locate the Trump remark and its date in press-conferenc
 
 ---
 
-**C-5177** Host Says She Was Willing to Attend Within Reason If the Event Was Planned Together
+**C-3644** Host Says She Was Willing to Attend Within Reason If the Event Was Planned Together
 
 Claim Timestamp: 00:38:22
 
@@ -1137,7 +1137,7 @@ Investigative Direction: Compare with the host's contemporaneous public statemen
 
 ---
 
-**C-5178** Host Alleges TPUSA Is Working With the Feds to Bury the Charlie Kirk Story
+**C-3645** Host Alleges TPUSA Is Working With the Feds to Bury the Charlie Kirk Story
 
 Claim Timestamp: 00:39:08
 
@@ -1152,7 +1152,7 @@ Investigative Direction: Identify any documented TPUSA contact or coordination w
 
 ---
 
-**C-5179** Host Says Charlie Wanted TPUSA to Stay a Youth Organization and Take Over for the RNC With Youth
+**C-3646** Host Says Charlie Wanted TPUSA to Stay a Youth Organization and Take Over for the RNC With Youth
 
 Claim Timestamp: 00:39:08
 
@@ -1167,7 +1167,7 @@ Investigative Direction: Find Charlie Kirk's own recorded statements on TPUSA's 
 
 ---
 
-**C-5180** Host Says Tyler Bowyer Emailed Asking for Her Lawyer's Address After Days of Contact
+**C-3647** Host Says Tyler Bowyer Emailed Asking for Her Lawyer's Address After Days of Contact
 
 Claim Timestamp: 00:40:03
 
@@ -1182,7 +1182,7 @@ Investigative Direction: Obtain the Bowyer email and the prior exchange from two
 
 ---
 
-**C-5181** Host Reads Project Constitution Saying He Has Proof Tim Pool Uses Bots
+**C-3648** Host Reads Project Constitution Saying He Has Proof Tim Pool Uses Bots
 
 Claim Timestamp: 00:42:35
 
@@ -1197,7 +1197,7 @@ Investigative Direction: Watch for Project Constitution's promised release and v
 
 ---
 
-**C-5182** Host Tells Project Constitution the BTU and BTT Mix-Up Still Connects the Two Planes
+**C-3649** Host Tells Project Constitution the BTU and BTT Mix-Up Still Connects the Two Planes
 
 Claim Timestamp: 00:42:35
 
@@ -1208,12 +1208,12 @@ Transcript Snippet: I think you thought BTU uh was BTT, but that's actually okay
 Anchored Artifacts: A-2736.1
 Mentions: N-3
 Related Nodes: N-10897
-Qualifies: C-1834
+Qualifies: C-3626
 Investigative Direction: Ask Project Constitution which registrations and sources he used to link the two aircraft.
 
 ---
 
-**C-5183** Host Alleges TPUSA Is Paying Influencers for an Influence Campaign
+**C-3650** Host Alleges TPUSA Is Paying Influencers for an Influence Campaign
 
 Claim Timestamp: 00:46:33
 
@@ -1228,7 +1228,7 @@ Investigative Direction: Request disclosure of TPUSA payments or contracts to in
 
 ---
 
-**C-5184** Host Says Charlie Authentically Loved Israel and Then Had Questions After October 7
+**C-3651** Host Says Charlie Authentically Loved Israel and Then Had Questions After October 7
 
 Claim Timestamp: 00:47:35
 

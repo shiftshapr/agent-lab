@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10): N-730, N-731, N-11056
   - Hole-minted Nodes (reintro-ep120): N-10684, N-10690, N-10692, N-10723
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10): C-5779–C-5852
+  - Claim Range: C-10224–C-10307
   - Reused Nodes Appearing: N-10678, N-10679, N-10680, N-10681, N-4, N-7, N-9, N-14, N-22, N-69, N-97, N-135, N-190, N-224, N-261, N-330, N-529, N-569, N-582, N-644, N-682, N-10000, N-10104, N-10107, N-10110, N-10239, N-10253, N-10319, N-10337, N-10341, N-10346, N-10350, N-10401, N-10447, N-10501, N-10532, N-10537, N-10581, N-10598, N-10651, N-10685, N-10687, N-10688, N-10705, N-10707, N-10729, N-10840, N-10897, N-10983, N-11054, N-10699, N-10703, N-11055, N-11053
   - (see registers)
 
@@ -38,7 +38,6 @@
 ### Episode X Ledger Summary
 
 - Artifact Families Introduced: A-2085, A-2086, A-2087, A-2088, A-2089, A-2090, A-2091, A-2092
-- Claim Range: C-2935–C-2944
   - New Nodes Introduced: N-10676, N-10677, N-10678, N-10679, N-10680, N-10681
   - Reused Nodes Appearing: N-2, N-40
 - Existing Nodes Reused: N-2, N-40
@@ -65,7 +64,7 @@ Video Timestamp: 00:05:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip clearly played)
 
-*Related: C-2935, N-10676*
+*Related: C-10230, N-10676*
 
 ---
 
@@ -79,7 +78,7 @@ Video Timestamp: 00:18:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2936, N-10677*
+*Related: C-10246, N-10677*
 
 **A-2086.2** Sara Tewell second interview – local media, ~51 minutes later – claims Charlie was shot "in the neck," blood spurted across body
 
@@ -89,7 +88,7 @@ Video Timestamp: 00:20:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2937, N-10677*
+*Related: C-10249, N-10677*
 
 **A-2086.3** Sara Tewell ABC News interview – claims shooter was ~200 yards away, shot to left side of neck
 
@@ -99,7 +98,7 @@ Video Timestamp: 00:21:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2938, N-10677*
+*Related: C-10251, N-10677*
 
 ---
 
@@ -113,7 +112,7 @@ Video Timestamp: 00:13:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (email read aloud verbatim)
 
-*Related: C-2941, N-1, N-10678*
+*Related: C-10240, N-1, N-10678*
 
 ---
 
@@ -127,7 +126,7 @@ Video Timestamp: 00:14:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2942, C-2943, N-1, N-10678*
+*Related: C-10242, C-10243, N-1, N-10678*
 
 ---
 
@@ -141,7 +140,7 @@ Video Timestamp: 00:14:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2942, N-1, N-10678*
+*Related: C-10242, N-1, N-10678*
 
 **A-2089.2** YouTube clip of third-party user destroying a Rode Wireless Pro microphone; resulting shard pattern shown
 
@@ -151,7 +150,7 @@ Video Timestamp: 00:15:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2943, N-1, N-10678*
+*Related: C-10243, N-1, N-10678*
 
 ---
 
@@ -179,7 +178,7 @@ Video Timestamp: 00:39:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2944, N-2, N-10680*
+*Related: C-10284, N-2, N-10680*
 
 **A-2091.2** Erika Miss Arizona era signature – displayed on show as visibly distinct from A-2091.1
 
@@ -189,7 +188,7 @@ Video Timestamp: 00:39:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2944, N-2, N-10680*
+*Related: C-10284, N-2, N-10680*
 
 ---
 
@@ -203,7 +202,7 @@ Video Timestamp: 00:25:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (asserted by host; underlying ruling not displayed)
 
-*Related: C-2939, C-2940, N-40, N-10679*
+*Related: C-10260, C-10262, N-40, N-10679*
 
 ---
 
@@ -218,7 +217,7 @@ Video Timestamp: 00:38:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-5829, N-3, N-2, N-10532*
+*Related: C-10283, N-3, N-2, N-10532*
 
 ---
 
@@ -231,7 +230,7 @@ Video Timestamp: 00:34:44
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5822, N-2, N-10532*
+*Related: C-10276, N-2, N-10532*
 
 ---
 
@@ -242,7 +241,7 @@ Video Timestamp: 00:37:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5827, C-5828, N-2, N-10532*
+*Related: C-10281, C-10282, N-2, N-10532*
 
 ---
 
@@ -257,7 +256,7 @@ Video Timestamp: 00:43:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5838, N-10690*
+*Related: C-10293, N-10690*
 
 ---
 
@@ -270,7 +269,7 @@ Video Timestamp: 00:44:17
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5839, N-10690*
+*Related: C-10294, N-10690*
 
 ---
 
@@ -285,7 +284,7 @@ Video Timestamp: 00:52:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-5846, N-10685*
+*Related: C-10301, N-10685*
 
 ---
 
@@ -298,7 +297,7 @@ Video Timestamp: 00:53:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-5847*
+*Related: C-10302*
 
 ---
 
@@ -311,7 +310,7 @@ Video Timestamp: 00:57:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-5851, N-731, N-644*
+*Related: C-10306, N-731, N-644*
 
 ---
 
@@ -333,7 +332,7 @@ Claim Count: 9 (cumulative across series)
 Episode Count: 120 (cumulative)
 Investigative Pressure: High
 
-*Related: A-2085.1, A-2086.1, A-2086.2, A-2086.3, A-2087.1, A-2088.1, A-2089.1, A-2089.2, C-2935, C-2936, C-2937, C-2938, C-2941, C-2942, C-2943, N-10676, N-10677, N-10678*
+*Related: A-2085.1, A-2086.1, A-2086.2, A-2086.3, A-2087.1, A-2088.1, A-2089.1, A-2089.2, C-10230, C-10246, C-10249, C-10251, C-10240, C-10242, C-10243, N-10676, N-10677, N-10678*
 
 ---
 
@@ -347,7 +346,7 @@ Claim Count: 2 (this episode)
 Episode Count: 120 (cumulative)
 Investigative Pressure: High
 
-*Related: A-2092.1, C-2939, C-2940, N-10679*
+*Related: A-2092.1, C-10260, C-10262, N-10679*
 
 ---
 
@@ -360,7 +359,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2085.1, C-2935*
+*Related: A-2085.1, C-10230*
 
 ---
 
@@ -373,7 +372,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2086.1, A-2086.2, A-2086.3, C-2936, C-2937, C-2938*
+*Related: A-2086.1, A-2086.2, A-2086.3, C-10246, C-10249, C-10251*
 
 ---
 
@@ -386,7 +385,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2087.1, A-2088.1, A-2089.1, A-2089.2, C-2941, C-2942, C-2943*
+*Related: A-2087.1, A-2088.1, A-2089.1, A-2089.2, C-10240, C-10242, C-10243*
 
 ---
 
@@ -399,7 +398,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2092.1, C-2939, C-2940, N-40*
+*Related: A-2092.1, C-10260, C-10262, N-40*
 
 ---
 
@@ -412,7 +411,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2091.1, A-2091.2, C-2944, N-2*
+*Related: A-2091.1, A-2091.2, C-10284, N-2*
 
 ---
 
@@ -420,7 +419,7 @@ Investigative Pressure: Medium
 
 Widow and TPUSA CEO; subject of the Next Model Management, signature, persona-change and custody-of-evidence claims in this episode (the host also spells her Erika Frantzve).
 
-*Related: C-5822, C-5829, C-5830, C-5832, C-5833, C-5834, C-5835, C-5836, C-5837, C-5840, C-5848*
+*Related: C-10276, C-10283, C-10285, C-10287, C-10288, C-10289, C-10290, C-10291, C-10292, C-10295, C-10303*
 
 ---
 
@@ -428,7 +427,7 @@ Widow and TPUSA CEO; subject of the Next Model Management, signature, persona-ch
 
 Host; speaks for herself throughout.
 
-*Related: C-5784, C-5829, C-5845*
+*Related: C-10229, C-10283, C-10300*
 
 ---
 
@@ -436,7 +435,7 @@ Host; speaks for herself throughout.
 
 Subject of the Tim Dillon parody reading and of the host's remark about his book on Catholicism.
 
-*Related: C-5842, C-5843, C-5844*
+*Related: C-10297, C-10298, C-10299*
 
 ---
 
@@ -444,7 +443,7 @@ Subject of the Tim Dillon parody reading and of the host's remark about his book
 
 Rendered "Frank Turek" and "Frank Turek" in the transcript; the host describes his hospital clothing change and his role in the necklace chain.
 
-*Related: C-5782, C-5790*
+*Related: C-10227, C-10236*
 
 ---
 
@@ -452,7 +451,7 @@ Rendered "Frank Turek" and "Frank Turek" in the transcript; the host describes h
 
 Subject of the host's claims about Next Model Management and trafficking via modeling agencies.
 
-*Related: C-5816, C-5817, C-5823, C-5824*
+*Related: C-10270, C-10271, C-10277, C-10278*
 
 ---
 
@@ -460,7 +459,7 @@ Subject of the host's claims about Next Model Management and trafficking via mod
 
 TPUSA spokesperson (rendered "Andrew Kolvet" in the transcript); the host links him to the Project Constitution reply and the "Superman neck" tweet.
 
-*Related: C-5821, C-5850*
+*Related: C-10275, C-10305*
 
 ---
 
@@ -468,7 +467,7 @@ TPUSA spokesperson (rendered "Andrew Kolvet" in the transcript); the host links 
 
 The host cites a conversation with him in Maine about Erika Kirk's views on Israel.
 
-*Related: C-5834*
+*Related: C-10289*
 
 ---
 
@@ -476,7 +475,7 @@ The host cites a conversation with him in Maine about Erika Kirk's views on Isra
 
 Tyler Robinson's roommate; the host discusses the recorded-statement ruling and his role in the evidence.
 
-*Related: C-5806, C-5807, C-5808, C-5809, C-5811, C-5814*
+*Related: C-10258, C-10259, C-10261, C-10263, C-10265, C-10268*
 
 ---
 
@@ -484,7 +483,7 @@ Tyler Robinson's roommate; the host discusses the recorded-statement ruling and 
 
 FBI director; the host says he took hospital cameras and that the handheld mic was not kept in evidence.
 
-*Related: C-5783, C-5789*
+*Related: C-10228, C-10235*
 
 ---
 
@@ -492,7 +491,7 @@ FBI director; the host says he took hospital cameras and that the handheld mic w
 
 The host says Erika welcomed him to open AmFest right after Charlie's death.
 
-*Related: C-5835*
+*Related: C-10290*
 
 ---
 
@@ -500,7 +499,7 @@ The host says Erika welcomed him to open AmFest right after Charlie's death.
 
 Judge in the Tyler Robinson case (rendered "Graff" and "Graf" in the transcript).
 
-*Related: C-5812, C-5814*
+*Related: C-10266, C-10268*
 
 ---
 
@@ -508,7 +507,7 @@ Judge in the Tyler Robinson case (rendered "Graff" and "Graf" in the transcript)
 
 The host says he found surgical scrubs for Frank Turek at the hospital.
 
-*Related: C-5790*
+*Related: C-10236*
 
 ---
 
@@ -516,7 +515,7 @@ The host says he found surgical scrubs for Frank Turek at the hospital.
 
 Podcast host (rendered "Shawn Ryan" and "Shawn Ryan"); interviewed Brian Harpole.
 
-*Related: C-5784*
+*Related: C-10229*
 
 ---
 
@@ -524,7 +523,7 @@ Podcast host (rendered "Shawn Ryan" and "Shawn Ryan"); interviewed Brian Harpole
 
 TPUSA-linked camera operator (rendered "Teryl Farnsworth" in the transcript); the host says he removed the back footage.
 
-*Related: C-5803*
+*Related: C-10255*
 
 ---
 
@@ -532,7 +531,7 @@ TPUSA-linked camera operator (rendered "Teryl Farnsworth" in the transcript); th
 
 Security figure whose Shawn Ryan interview account of the hospital the host disputes.
 
-*Related: C-5784, C-5785, C-5786, C-5788, C-5790, C-5791*
+*Related: C-10229, C-10231, C-10232, C-10234, C-10236, C-10237*
 
 ---
 
@@ -540,7 +539,7 @@ Security figure whose Shawn Ryan interview account of the hospital the host disp
 
 Comedian whose parody reading of a purported JD Vance book the host plays.
 
-*Related: C-5842, C-5843*
+*Related: C-10297, C-10298*
 
 ---
 
@@ -548,7 +547,7 @@ Comedian whose parody reading of a purported JD Vance book the host plays.
 
 Researcher whom the host credits with having reported on the shirt's fate early on.
 
-*Related: C-5780*
+*Related: C-10225*
 
 ---
 
@@ -556,7 +555,7 @@ Researcher whom the host credits with having reported on the shirt's fate early 
 
 Modeling agent named by the host as an Epstein-linked trafficking route in France.
 
-*Related: C-5823*
+*Related: C-10277*
 
 ---
 
@@ -564,7 +563,7 @@ Modeling agent named by the host as an Epstein-linked trafficking route in Franc
 
 Next Model Management owner, described by the host as very close to Jeffrey Epstein.
 
-*Related: C-5815, C-5816, C-5824*
+*Related: C-10269, C-10270, C-10278*
 
 ---
 
@@ -572,7 +571,7 @@ Next Model Management owner, described by the host as very close to Jeffrey Epst
 
 Jeffrey Epstein's brother; the host says she could not confirm that he owned the Upper East Side building.
 
-*Related: C-5819*
+*Related: C-10273*
 
 ---
 
@@ -580,7 +579,7 @@ Jeffrey Epstein's brother; the host says she could not confirm that he owned the
 
 Host of programming on which, per a viewer comment, Larry Johnson appears.
 
-*Related: C-5851*
+*Related: C-10306*
 
 ---
 
@@ -588,7 +587,7 @@ Host of programming on which, per a viewer comment, Larry Johnson appears.
 
 Analyst the host credits with identifying the mic as a possible shaped-charge source (rendered "Jon Bray" in the transcript).
 
-*Related: C-5793*
+*Related: C-10239*
 
 ---
 
@@ -596,7 +595,7 @@ Analyst the host credits with identifying the mic as a possible shaped-charge so
 
 Organization the host says never answered a request for comment on the Next Model Management tip.
 
-*Related: C-5820, C-5779*
+*Related: C-10274, C-10224*
 
 ---
 
@@ -604,7 +603,7 @@ Organization the host says never answered a request for comment on the Next Mode
 
 Existing topic reused for the host's account of Erika presenting as Catholic after Charlie's death.
 
-*Related: C-5840, C-5841*
+*Related: C-10295, C-10296*
 
 ---
 
@@ -612,7 +611,7 @@ Existing topic reused for the host's account of Erika presenting as Catholic aft
 
 Existing topic reused for the soil removal and paving claim.
 
-*Related: C-5781*
+*Related: C-10226*
 
 ---
 
@@ -620,7 +619,7 @@ Existing topic reused for the soil removal and paving claim.
 
 Existing topic reused for the host's list of missing evidence in the Robinson case.
 
-*Related: C-5802, C-5806*
+*Related: C-10254, C-10258*
 
 ---
 
@@ -628,7 +627,7 @@ Existing topic reused for the host's list of missing evidence in the Robinson ca
 
 Existing topic reused for the claim that Kash Patel took hospital camera footage.
 
-*Related: C-5789*
+*Related: C-10235*
 
 ---
 
@@ -636,7 +635,7 @@ Existing topic reused for the claim that Kash Patel took hospital camera footage
 
 Existing topic reused for the host's Egyptian planes remarks.
 
-*Related: C-5851, C-5852*
+*Related: C-10306, C-10307*
 
 ---
 
@@ -644,7 +643,7 @@ Existing topic reused for the host's Egyptian planes remarks.
 
 Existing topic reused for the viewer comment questioning the .30-06 narrative.
 
-*Related: C-5851*
+*Related: C-10306*
 
 ---
 
@@ -652,7 +651,7 @@ Existing topic reused for the viewer comment questioning the .30-06 narrative.
 
 Existing topic reused for the sources of evidence against Robinson.
 
-*Related: C-5806, C-5807, C-5813*
+*Related: C-10258, C-10259, C-10267*
 
 ---
 
@@ -660,7 +659,7 @@ Existing topic reused for the sources of evidence against Robinson.
 
 Existing topic reused for the "Superman neck" statement.
 
-*Related: C-5850*
+*Related: C-10305*
 
 ---
 
@@ -668,7 +667,7 @@ Existing topic reused for the "Superman neck" statement.
 
 Existing topic reused for the camera removal claim.
 
-*Related: C-5803*
+*Related: C-10255*
 
 ---
 
@@ -676,7 +675,7 @@ Existing topic reused for the camera removal claim.
 
 Existing topic reused for the claim that Charlie loved the Catholic Church.
 
-*Related: C-5840*
+*Related: C-10295*
 
 ---
 
@@ -684,7 +683,7 @@ Existing topic reused for the claim that Charlie loved the Catholic Church.
 
 Existing topic reused for the host's claim about trafficking from Eastern Europe through modeling agencies.
 
-*Related: C-5823*
+*Related: C-10277*
 
 ---
 
@@ -692,7 +691,7 @@ Existing topic reused for the host's claim about trafficking from Eastern Europe
 
 Existing topic reused for the Superman neck tweet.
 
-*Related: C-5850*
+*Related: C-10305*
 
 ---
 
@@ -700,7 +699,7 @@ Existing topic reused for the Superman neck tweet.
 
 Existing topic reused for the New York real estate license discussion.
 
-*Related: C-5825*
+*Related: C-10279*
 
 ---
 
@@ -708,7 +707,7 @@ Existing topic reused for the New York real estate license discussion.
 
 Existing topic reused for the new tips and witness reports on Erika's alleged role.
 
-*Related: C-5815, C-5816, C-5817, C-5818, C-5819, C-5820, C-5822, C-5827, C-5828, C-5829*
+*Related: C-10269, C-10270, C-10271, C-10272, C-10273, C-10274, C-10276, C-10281, C-10282, C-10283*
 
 ---
 
@@ -716,7 +715,7 @@ Existing topic reused for the new tips and witness reports on Erika's alleged ro
 
 Existing topic reused for the necklace custody claim.
 
-*Related: C-5782, C-5848*
+*Related: C-10227, C-10303*
 
 ---
 
@@ -724,7 +723,7 @@ Existing topic reused for the necklace custody claim.
 
 Existing topic reused for the defense's lack of access to the text messages.
 
-*Related: C-5813*
+*Related: C-10267*
 
 ---
 
@@ -732,7 +731,7 @@ Existing topic reused for the defense's lack of access to the text messages.
 
 Existing topic reused for the host's questions about why Twiggs was not held.
 
-*Related: C-5808*
+*Related: C-10261*
 
 ---
 
@@ -740,7 +739,7 @@ Existing topic reused for the host's questions about why Twiggs was not held.
 
 Existing topic reused for the host's remark that she is being sued over the Harpole interview.
 
-*Related: C-5784*
+*Related: C-10229*
 
 ---
 
@@ -748,7 +747,7 @@ Existing topic reused for the host's remark that she is being sued over the Harp
 
 Existing topic reused for the SUV disposal and shard claims.
 
-*Related: C-5792, C-5846*
+*Related: C-10238, C-10301*
 
 ---
 
@@ -756,7 +755,7 @@ Existing topic reused for the SUV disposal and shard claims.
 
 Existing topic reused for Harpole's account of cutting the shirt and guarding the door.
 
-*Related: C-5785, C-5786*
+*Related: C-10231, C-10232*
 
 ---
 
@@ -764,7 +763,7 @@ Existing topic reused for Harpole's account of cutting the shirt and guarding th
 
 Existing topic reused for the CPR contradiction.
 
-*Related: C-5788*
+*Related: C-10234*
 
 ---
 
@@ -772,7 +771,7 @@ Existing topic reused for the CPR contradiction.
 
 Existing topic reused for the clothing change at the hospital.
 
-*Related: C-5790*
+*Related: C-10236*
 
 ---
 
@@ -780,7 +779,7 @@ Existing topic reused for the clothing change at the hospital.
 
 Existing topic reused for the host's persona-change discussion and the web page shown.
 
-*Related: C-5836, C-5838, C-5839*
+*Related: C-10291, C-10293, C-10294*
 
 ---
 
@@ -788,7 +787,7 @@ Existing topic reused for the host's persona-change discussion and the web page 
 
 Existing topic reused for the 911 call question.
 
-*Related: C-5787*
+*Related: C-10233*
 
 ---
 
@@ -796,7 +795,7 @@ Existing topic reused for the 911 call question.
 
 Existing topic reused for the hospital-account contradictions.
 
-*Related: C-5788, C-5790*
+*Related: C-10234, C-10236*
 
 ---
 
@@ -804,7 +803,7 @@ Existing topic reused for the hospital-account contradictions.
 
 Existing topic reused for the patsy / source-of-evidence discussion.
 
-*Related: C-5806, C-5807*
+*Related: C-10258, C-10259*
 
 ---
 
@@ -812,7 +811,7 @@ Existing topic reused for the patsy / source-of-evidence discussion.
 
 Existing topic reused for the shard and mic claims.
 
-*Related: C-5793, C-5794, C-5795, C-5796, C-5849*
+*Related: C-10239, C-10241, C-10244, C-10245, C-10304*
 
 ---
 
@@ -820,7 +819,7 @@ Existing topic reused for the shard and mic claims.
 
 Existing topic reused for the shirt evidence claims.
 
-*Related: C-5779, C-5780, C-5791*
+*Related: C-10224, C-10225, C-10237*
 
 ---
 
@@ -828,7 +827,7 @@ Existing topic reused for the shirt evidence claims.
 
 Existing topic reused for the freedom shirt sale claim.
 
-*Related: C-5779*
+*Related: C-10224*
 
 ---
 
@@ -836,7 +835,7 @@ Existing topic reused for the freedom shirt sale claim.
 
 Existing topic reused for the missing 911 call.
 
-*Related: C-5787*
+*Related: C-10233*
 
 ---
 
@@ -844,7 +843,7 @@ Existing topic reused for the missing 911 call.
 
 Existing topic reused for the no-ambulance-on-standby claim.
 
-*Related: C-5804*
+*Related: C-10256*
 
 ---
 
@@ -852,7 +851,7 @@ Existing topic reused for the no-ambulance-on-standby claim.
 
 Organization (X account) whose claims the host says draw quick replies from TPUSA.
 
-*Related: C-5821*
+*Related: C-10275*
 
 ---
 
@@ -860,7 +859,7 @@ Organization (X account) whose claims the host says draw quick replies from TPUS
 
 Existing topic reused for the Maine conversation claim.
 
-*Related: C-5834*
+*Related: C-10289*
 
 ---
 
@@ -868,7 +867,7 @@ Existing topic reused for the Maine conversation claim.
 
 First named by the host at 00:17:36 in episode 120 (rendered "Sarah uh Tool" in the transcript). Front-row student witness who gave three successive media interviews about the shot.
 
-*Related: C-5797, C-5798, C-5799*
+*Related: C-10247, C-10248, C-10250*
 
 ---
 
@@ -876,7 +875,7 @@ First named by the host at 00:17:36 in episode 120 (rendered "Sarah uh Tool" in 
 
 First named by the host at 00:57:35 in episode 120, while reading a viewer comment. Described in that comment as ex-CIA and a frequent guest on Mario Nawfal's programming.
 
-*Related: C-5851, A-2782.3*
+*Related: C-10306, A-2782.3*
 
 ---
 
@@ -885,7 +884,7 @@ First named by the host at 00:57:35 in episode 120, while reading a viewer comme
 Node Type: Topic
 Persistent target: where Charlie Kirk's handheld microphone went after the shooting, including the host's claim that it was not kept in evidence and was displayed in glass at a Mar-a-Lago fundraiser.
 
-*Related: C-5783, C-5848*
+*Related: C-10228, C-10303*
 
 ---
 
@@ -894,7 +893,7 @@ Persistent target: where Charlie Kirk's handheld microphone went after the shoot
 Node Type: Topic
 Persistent target: whether bomb-detection dogs were kept away from the UVU crime scene, as the host lists in her exploding-mic evidence chart.
 
-*Related: C-5800*
+*Related: C-10252*
 
 ---
 
@@ -903,7 +902,7 @@ Persistent target: whether bomb-detection dogs were kept away from the UVU crime
 Node Type: Topic
 Persistent target: whether a standard gunshot residue test was performed on Tyler Robinson when he was brought in, which the host says was not done.
 
-*Related: C-5801*
+*Related: C-10253*
 
 ---
 
@@ -912,13 +911,13 @@ Persistent target: whether a standard gunshot residue test was performed on Tyle
 Node Type: Topic
 Persistent target: the host's comparison of Erika Kirk's January conference-call remarks to employees with her June remarks to donors about whether she already knew the staff and departments.
 
-*Related: C-5832, C-5833*
+*Related: C-10287, C-10288*
 
 ---
 
 ## V. Claim Register
 
-**C-2935** Harpole Claims He Cut Charlie Kirk's Shirt Off at Hospital
+**C-10230** Harpole Claims He Cut Charlie Kirk's Shirt Off at Hospital
 
 Claim Timestamp: 00:05:20
 
@@ -933,7 +932,7 @@ Investigative Direction: Obtain Shawn Ryan show audio/video; cross-reference aga
 
 ---
 
-**C-2936** Sara Tewell's First Interview Asserted Shot to Heart
+**C-10246** Sara Tewell's First Interview Asserted Shot to Heart
 
 Claim Timestamp: 00:18:25
 
@@ -948,7 +947,7 @@ Investigative Direction: Obtain original Fox 13 footage; verify timestamp and qu
 
 ---
 
-**C-2937** Sara Tewell's Second Interview Asserted Shot to Neck
+**C-10249** Sara Tewell's Second Interview Asserted Shot to Neck
 
 Claim Timestamp: 00:20:28
 
@@ -963,7 +962,7 @@ Investigative Direction: Obtain original local-media footage and timestamp; docu
 
 ---
 
-**C-2938** Sara Tewell's ABC Interview Asserted Shooter at ~200 Yards
+**C-10251** Sara Tewell's ABC Interview Asserted Shooter at ~200 Yards
 
 Claim Timestamp: 00:21:43
 
@@ -978,7 +977,7 @@ Investigative Direction: Verify the 200-yard figure against the documented dista
 
 ---
 
-**C-2939** Host Says Judge Graf Denied Motion to Compel Lance Twiggs In-Person Testimony
+**C-10260** Host Says Judge Graf Denied Motion to Compel Lance Twiggs In-Person Testimony
 
 Claim Timestamp: 00:25:38
 
@@ -993,7 +992,7 @@ Investigative Direction: Obtain the underlying court order from Utah state court
 
 ---
 
-**C-2940** Host Says Lance Twiggs Testimony Will Be Admitted as Recorded Statement
+**C-10262** Host Says Lance Twiggs Testimony Will Be Admitted as Recorded Statement
 
 Claim Timestamp: 00:26:28
 
@@ -1008,7 +1007,7 @@ Investigative Direction: Obtain the preliminary-hearing scheduling order and any
 
 ---
 
-**C-2941** Viewer Email Suggests Enhancing SUV Shard Images for White Rode Mic Details
+**C-10240** Viewer Email Suggests Enhancing SUV Shard Images for White Rode Mic Details
 
 Claim Timestamp: 00:13:23
 
@@ -1023,7 +1022,7 @@ Investigative Direction: Preserve viewer email as a tip lead; pursue forensic co
 
 ---
 
-**C-2942** Host Says Enhanced SUV Shard Images Show White Markings Matching Rode Mic Design
+**C-10242** Host Says Enhanced SUV Shard Images Show White Markings Matching Rode Mic Design
 
 Claim Timestamp: 00:14:51
 
@@ -1038,7 +1037,7 @@ Investigative Direction: Source original high-resolution images from Jon Bray or
 
 ---
 
-**C-2943** Host Says Rode Wireless Pro Destruction Video Produces Comparable Shard Pattern
+**C-10243** Host Says Rode Wireless Pro Destruction Video Produces Comparable Shard Pattern
 
 Claim Timestamp: 00:15:51
 
@@ -1053,7 +1052,7 @@ Investigative Direction: Preserve the YouTube source video as comparison referen
 
 ---
 
-**C-2944** Host Says Erika Kirk's Signature Changed Dramatically Between Miss Arizona Era and Current
+**C-10284** Host Says Erika Kirk's Signature Changed Dramatically Between Miss Arizona Era and Current
 
 Claim Timestamp: 00:39:46
 
@@ -1068,7 +1067,7 @@ Investigative Direction: Obtain original Miss Arizona-era signed documents from 
 
 ---
 
-**C-5779** TPUSA moved to sell the "freedom shirt" for $59.99 after Charlie's death
+**C-10224** TPUSA moved to sell the "freedom shirt" for $59.99 after Charlie's death
 
 Claim Timestamp: 00:01:11
 
@@ -1083,7 +1082,7 @@ Investigative Direction: Archive TPUSA's online store listing for the shirt to e
 
 ---
 
-**C-5780** Baron Coleman had already reported the answer on the shirt
+**C-10225** Baron Coleman had already reported the answer on the shirt
 
 Claim Timestamp: 00:02:12
 
@@ -1098,7 +1097,7 @@ Investigative Direction: Locate Coleman's early posts or videos on the shirt and
 
 ---
 
-**C-5781** Soil was dug out and the site repaved within days
+**C-10226** Soil was dug out and the site repaved within days
 
 Claim Timestamp: 00:03:41
 
@@ -1109,12 +1108,12 @@ Transcript Snippet: they took care of that soil 10 inches of soil dug out immedi
 Anchored Artifacts:
 Mentions: N-1
 Related Nodes: N-10107
-Supports: C-1235
+Supports: C-609
 Investigative Direction: Obtain UVU facilities work orders and the paving contractor's invoices showing the dates of excavation and paver installation.
 
 ---
 
-**C-5782** Necklace was sought by the feds and Frank Turek and then given to the widow
+**C-10227** Necklace was sought by the feds and Frank Turek and then given to the widow
 
 Claim Timestamp: 00:03:41
 
@@ -1129,7 +1128,7 @@ Investigative Direction: Identify who recovered the necklace, any evidence log e
 
 ---
 
-**C-5783** Handheld microphone was not kept in evidence and went on display
+**C-10228** Handheld microphone was not kept in evidence and went on display
 
 Claim Timestamp: 00:04:26
 
@@ -1140,12 +1139,12 @@ Transcript Snippet: the widow needed that for the Mar-a-Lago fundraiser. It's en
 Anchored Artifacts:
 Mentions: N-2
 Related Nodes: N-11053
-Supports: C-4366
+Supports: C-9750
 Investigative Direction: Obtain the FBI/Utah evidence inventory for the handheld microphone and photographs of the Mar-a-Lago display with the date of release.
 
 ---
 
-**C-5784** Host says she is being sued over the Harpole car-crash interview
+**C-10229** Host says she is being sued over the Harpole car-crash interview
 
 Claim Timestamp: 00:04:26
 
@@ -1160,7 +1159,7 @@ Investigative Direction: Obtain the complaint and identify which statements abou
 
 ---
 
-**C-5785** Harpole says he put Charlie on a gurney, gave patient information and cut the shirt for the defibrillator
+**C-10231** Harpole says he put Charlie on a gurney, gave patient information and cut the shirt for the defibrillator
 
 Claim Timestamp: 00:05:20
 
@@ -1171,12 +1170,12 @@ Transcript Snippet: We put him on a gurney, and then I wheel him into a room. I 
 Anchored Artifacts: A-2085.1
 Mentions: N-266, N-1
 Related Nodes: N-10684
-Supports: C-2935
+Supports: C-10230
 Investigative Direction: Obtain Timpanogos Hospital triage and ER records for the arrival, including who took patient information and when the shirt was removed.
 
 ---
 
-**C-5786** Harpole says he discussed drugs and defibrillation with staff and then guarded the door
+**C-10232** Harpole says he discussed drugs and defibrillation with staff and then guarded the door
 
 Claim Timestamp: 00:06:18
 
@@ -1191,7 +1190,7 @@ Investigative Direction: Interview ER staff on duty about whether an unauthorize
 
 ---
 
-**C-5787** The 911 call cannot be located and the caller is unidentified
+**C-10233** The 911 call cannot be located and the caller is unidentified
 
 Claim Timestamp: 00:06:55
 
@@ -1206,7 +1205,7 @@ Investigative Direction: Request the dispatch record and audio for the Sept 10, 
 
 ---
 
-**C-5788** Harpole earlier said no CPR was done during the 8-minute ride
+**C-10234** Harpole earlier said no CPR was done during the 8-minute ride
 
 Claim Timestamp: 00:09:30
 
@@ -1221,7 +1220,7 @@ Investigative Direction: Compare Harpole's earlier statements on CPR with the Sh
 
 ---
 
-**C-5789** Kash Patel took the cameras from inside the hospital
+**C-10235** Kash Patel took the cameras from inside the hospital
 
 Claim Timestamp: 00:09:30
 
@@ -1232,12 +1231,12 @@ Transcript Snippet: it's no wonder Kash Patel had to swoop in there and take the
 Anchored Artifacts:
 Mentions: N-69
 Related Nodes: N-10239
-Supports: C-4630
+Supports: C-10015
 Investigative Direction: Obtain the FBI evidence receipt or hospital correspondence showing what camera footage was collected, when, and on whose order.
 
 ---
 
-**C-5790** Per Harpole, Turek did not touch Charlie, yet Turek changed clothes at the hospital
+**C-10236** Per Harpole, Turek did not touch Charlie, yet Turek changed clothes at the hospital
 
 Claim Timestamp: 00:09:30
 
@@ -1252,7 +1251,7 @@ Investigative Direction: Find Turek's own statement about changing clothes and t
 
 ---
 
-**C-5791** Host says she cannot find the shirt in evidence or court filings
+**C-10237** Host says she cannot find the shirt in evidence or court filings
 
 Claim Timestamp: 00:11:28
 
@@ -1267,7 +1266,7 @@ Investigative Direction: Check the State's exhibit and evidence lists in the Rob
 
 ---
 
-**C-5792** The SUV was towed, cleaned and auctioned expeditiously
+**C-10238** The SUV was towed, cleaned and auctioned expeditiously
 
 Claim Timestamp: 00:12:20
 
@@ -1278,12 +1277,12 @@ Transcript Snippet: The car was sent for a tow, a cleanup, and auction all very 
 Anchored Artifacts:
 Mentions:
 Related Nodes: N-10685
-Supports: C-4614
+Supports: C-9999
 Investigative Direction: Obtain tow, cleaning and auction records for the SUV with dates and the authority releasing it.
 
 ---
 
-**C-5793** Jon Bray identified the mic as a possible shaped-charge source and looked for ABS shards
+**C-10239** Jon Bray identified the mic as a possible shaped-charge source and looked for ABS shards
 
 Claim Timestamp: 00:12:20
 
@@ -1294,12 +1293,12 @@ Transcript Snippet: Jon Bray, who immediately identified the mic as the potentia
 Anchored Artifacts:
 Mentions: N-682
 Related Nodes: N-10705
-Supports: C-4613
+Supports: C-9998
 Investigative Direction: Obtain Bray's original posts and the source images he used, with dates.
 
 ---
 
-**C-5794** Host says she now believes the floorboard shards are Charlie's shattered Rode mic
+**C-10241** Host says she now believes the floorboard shards are Charlie's shattered Rode mic
 
 Claim Timestamp: 00:13:23
 
@@ -1310,12 +1309,12 @@ Transcript Snippet: I can now state confidently that I believe the bits that wer
 Anchored Artifacts: A-2087.1
 Mentions: N-1
 Related Nodes: N-10705
-Supports: C-4661
+Supports: C-10046
 Investigative Direction: Commission independent forensic analysis of the shard images and, if accessible, the SUV interior.
 
 ---
 
-**C-5795** Host says the Rode wireless pair costs about $1,500
+**C-10244** Host says the Rode wireless pair costs about $1,500
 
 Claim Timestamp: 00:15:51
 
@@ -1330,7 +1329,7 @@ Investigative Direction: Check Rode's list price for the Wireless Pro system and
 
 ---
 
-**C-5796** Reviewer in the clip says the Rode Wireless Pro rear is glass
+**C-10245** Reviewer in the clip says the Rode Wireless Pro rear is glass
 
 Claim Timestamp: 00:16:41
 
@@ -1345,7 +1344,7 @@ Investigative Direction: Verify against Rode's teardown or specifications what m
 
 ---
 
-**C-5797** Sara Tewell said the shot came during the question on transgenderism and gun violence
+**C-10247** Sara Tewell said the shot came during the question on transgenderism and gun violence
 
 Claim Timestamp: 00:19:10
 
@@ -1360,7 +1359,7 @@ Investigative Direction: Compare with the event video to establish the topic bei
 
 ---
 
-**C-5798** Sara Tewell's two interviews were at about 1:17 p.m. and 2:08 p.m.
+**C-10248** Sara Tewell's two interviews were at about 1:17 p.m. and 2:08 p.m.
 
 Claim Timestamp: 00:19:54
 
@@ -1375,7 +1374,7 @@ Investigative Direction: Obtain broadcast metadata for both interviews to verify
 
 ---
 
-**C-5799** Host Says Tewell's 200-Yard Estimate Matches the Distance to Losee Center
+**C-10250** Host Says Tewell's 200-Yard Estimate Matches the Distance to Losee Center
 
 Claim Timestamp: 00:20:48
 
@@ -1390,7 +1389,7 @@ Investigative Direction: Measure the distance from the courtyard seat to the Los
 
 ---
 
-**C-5800** Bomb dogs were kept away from the scene
+**C-10252** Bomb dogs were kept away from the scene
 
 Claim Timestamp: 00:22:45
 
@@ -1405,7 +1404,7 @@ Investigative Direction: Obtain UVU/Utah DPS incident logs showing whether and w
 
 ---
 
-**C-5801** No standard gunshot residue test was done on Tyler Robinson
+**C-10253** No standard gunshot residue test was done on Tyler Robinson
 
 Claim Timestamp: 00:22:45
 
@@ -1420,7 +1419,7 @@ Investigative Direction: Check discovery and the arrest booking record for any G
 
 ---
 
-**C-5802** No footage or eyewitness report shows someone firing from the Losee building
+**C-10254** No footage or eyewitness report shows someone firing from the Losee building
 
 Claim Timestamp: 00:22:45
 
@@ -1435,7 +1434,7 @@ Investigative Direction: Review the State's disclosed footage and witness list f
 
 ---
 
-**C-5803** Farnsworth violated the crime scene to remove the back footage
+**C-10255** Farnsworth violated the crime scene to remove the back footage
 
 Claim Timestamp: 00:22:45
 
@@ -1450,7 +1449,7 @@ Investigative Direction: Obtain the original camera files, chain-of-custody reco
 
 ---
 
-**C-5804** No ambulance was on standby
+**C-10256** No ambulance was on standby
 
 Claim Timestamp: 00:23:38
 
@@ -1465,7 +1464,7 @@ Investigative Direction: Obtain UVU's event safety plan and any medical-standby 
 
 ---
 
-**C-5805** Erika was quick to forgive Tyler Robinson
+**C-10257** Erika was quick to forgive Tyler Robinson
 
 Claim Timestamp: 00:23:38
 
@@ -1480,7 +1479,7 @@ Investigative Direction: Locate the original memorial-service remarks and compar
 
 ---
 
-**C-5806** Evidence against Robinson comes through a roommate's text confession
+**C-10258** Evidence against Robinson comes through a roommate's text confession
 
 Claim Timestamp: 00:24:46
 
@@ -1495,7 +1494,7 @@ Investigative Direction: Obtain the charging documents and discovery showing the
 
 ---
 
-**C-5807** A handwritten note was subsequently destroyed
+**C-10259** A handwritten note was subsequently destroyed
 
 Claim Timestamp: 00:24:46
 
@@ -1510,7 +1509,7 @@ Investigative Direction: Check the charging documents and affidavit for the note
 
 ---
 
-**C-5808** Twiggs was not held for questioning by the FBI
+**C-10261** Twiggs was not held for questioning by the FBI
 
 Claim Timestamp: 00:25:38
 
@@ -1525,7 +1524,7 @@ Investigative Direction: Obtain FBI and county records of any interview or deten
 
 ---
 
-**C-5809** Prosecutors will represent Erika as the listed victim
+**C-10263** Prosecutors will represent Erika as the listed victim
 
 Claim Timestamp: 00:26:28
 
@@ -1540,7 +1539,7 @@ Investigative Direction: Check the court docket and charging information for the
 
 ---
 
-**C-5810** Defense argued without cross-examination the statement is hearsay
+**C-10264** Defense argued without cross-examination the statement is hearsay
 
 Claim Timestamp: 00:26:28
 
@@ -1555,7 +1554,7 @@ Investigative Direction: Obtain the defense motion and the State's response from
 
 ---
 
-**C-5811** Twiggs now lives out of state
+**C-10265** Twiggs now lives out of state
 
 Claim Timestamp: 00:27:11
 
@@ -1570,7 +1569,7 @@ Investigative Direction: Check the filings for any representation about Twiggs' 
 
 ---
 
-**C-5812** Judge says the hearing decides whether there is enough evidence, not guilt
+**C-10266** Judge says the hearing decides whether there is enough evidence, not guilt
 
 Claim Timestamp: 00:27:11
 
@@ -1585,7 +1584,7 @@ Investigative Direction: Read the written ruling for the court's reasoning on ad
 
 ---
 
-**C-5813** Defense has not been given access to the text messages to verify them
+**C-10267** Defense has not been given access to the text messages to verify them
 
 Claim Timestamp: 00:27:11
 
@@ -1600,7 +1599,7 @@ Investigative Direction: Check discovery filings and motions for the status of t
 
 ---
 
-**C-5814** Defense cannot question the person who says he found the notes
+**C-10268** Defense cannot question the person who says he found the notes
 
 Claim Timestamp: 00:28:09
 
@@ -1615,7 +1614,7 @@ Investigative Direction: Obtain the recorded statement and the ruling to confirm
 
 ---
 
-**C-5815** Host recounts a tip that Erika ran modeling apartments for Next Model Management girls
+**C-10269** Host recounts a tip that Erika ran modeling apartments for Next Model Management girls
 
 Claim Timestamp: 00:32:11
 
@@ -1626,12 +1625,12 @@ Transcript Snippet: we had received a a well-vetted tip that Erika was in charge
 Anchored Artifacts:
 Mentions: N-2, N-569
 Related Nodes: N-10532
-Supports: C-4393
+Supports: C-9777
 Investigative Direction: Identify the building and obtain leasing, agency and licensing records tying Erika Frantzve to the apartments.
 
 ---
 
-**C-5816** Faith Kates appears throughout Epstein's emails
+**C-10270** Faith Kates appears throughout Epstein's emails
 
 Claim Timestamp: 00:33:03
 
@@ -1642,12 +1641,12 @@ Transcript Snippet: You can read Faith Kates' emails all throughout Jeffrey Epst
 Anchored Artifacts:
 Mentions: N-569, N-9
 Related Nodes: N-10532
-Supports: C-2423
+Supports: C-6854
 Investigative Direction: Search the released Epstein email set for Kates and quantify the messages by date and subject.
 
 ---
 
-**C-5817** Epstein hung out at the agency's office regularly
+**C-10271** Epstein hung out at the agency's office regularly
 
 Claim Timestamp: 00:33:03
 
@@ -1662,7 +1661,7 @@ Investigative Direction: Identify the source of this account and corroborate wit
 
 ---
 
-**C-5818** Tip said Erika was in charge of a white Upper East Side building
+**C-10272** Tip said Erika was in charge of a white Upper East Side building
 
 Claim Timestamp: 00:33:03
 
@@ -1677,7 +1676,7 @@ Investigative Direction: Identify candidate white-brick buildings in the 60s of 
 
 ---
 
-**C-5819** Host could not confirm that Mark Epstein owned the building
+**C-10273** Host could not confirm that Mark Epstein owned the building
 
 Claim Timestamp: 00:33:03
 
@@ -1692,7 +1691,7 @@ Investigative Direction: Check New York property records for buildings owned by 
 
 ---
 
-**C-5820** TPUSA did not respond to a request for comment
+**C-10274** TPUSA did not respond to a request for comment
 
 Claim Timestamp: 00:33:58
 
@@ -1703,12 +1702,12 @@ Transcript Snippet: We went out to Turning Point USA to seek comment regarding t
 Anchored Artifacts:
 Mentions:
 Related Nodes: N-10000, N-10532
-Supports: C-2427
+Supports: C-6863
 Investigative Direction: Obtain the outreach email and any bounce or delivery record.
 
 ---
 
-**C-5821** Erika/TPUSA replied quickly to Project Constitution on a dating claim, host says
+**C-10275** Erika/TPUSA replied quickly to Project Constitution on a dating claim, host says
 
 Claim Timestamp: 00:33:58
 
@@ -1723,7 +1722,7 @@ Investigative Direction: Locate the reply post and identify who published it fro
 
 ---
 
-**C-5822** Another person says she met Erika as contact for the model apartments
+**C-10276** Another person says she met Erika as contact for the model apartments
 
 Claim Timestamp: 00:34:44
 
@@ -1734,12 +1733,12 @@ Transcript Snippet: Another person has come forward and confirmed this informati
 Anchored Artifacts: A-2780.1
 Mentions: N-2
 Related Nodes: N-10532
-Supports: C-5815
+Supports: C-10269
 Investigative Direction: Obtain an on-record account or documents from this witness and corroborate with building or agency records.
 
 ---
 
-**C-5823** Host says Epstein trafficked women via modeling agencies
+**C-10277** Host says Epstein trafficked women via modeling agencies
 
 Claim Timestamp: 00:35:30
 
@@ -1754,7 +1753,7 @@ Investigative Direction: Cite court findings and released documents regarding Br
 
 ---
 
-**C-5824** Faith Kates stood by Epstein after his conviction
+**C-10278** Faith Kates stood by Epstein after his conviction
 
 Claim Timestamp: 00:35:30
 
@@ -1769,7 +1768,7 @@ Investigative Direction: Gather press coverage and released emails showing Kates
 
 ---
 
-**C-5825** Erika got a New York real estate license but host finds no history as an agent
+**C-10279** Erika got a New York real estate license but host finds no history as an agent
 
 Claim Timestamp: 00:36:22
 
@@ -1784,7 +1783,7 @@ Investigative Direction: Query New York Department of State license records and 
 
 ---
 
-**C-5826** Erika claims many careers while in New York
+**C-10280** Erika claims many careers while in New York
 
 Claim Timestamp: 00:36:22
 
@@ -1799,7 +1798,7 @@ Investigative Direction: Compile each career claim from Erika's own bios and int
 
 ---
 
-**C-5827** Host did not find one model's identification of Erika convincing
+**C-10281** Host did not find one model's identification of Erika convincing
 
 Claim Timestamp: 00:37:13
 
@@ -1814,7 +1813,7 @@ Investigative Direction: Ask the model for dates, building address and any photo
 
 ---
 
-**C-5828** Model described getting underage girls into clubs with fake IDs and giving them drugs
+**C-10282** Model described getting underage girls into clubs with fake IDs and giving them drugs
 
 Claim Timestamp: 00:38:03
 
@@ -1829,7 +1828,7 @@ Investigative Direction: Obtain a recorded or written account from the model and
 
 ---
 
-**C-5829** Host Solicits Tips on Erika and Next Model Management
+**C-10283** Host Solicits Tips on Erika and Next Model Management
 
 Claim Timestamp: 00:38:03
 
@@ -1844,7 +1843,7 @@ Investigative Direction: Triage incoming tips for first-hand witnesses who can n
 
 ---
 
-**C-5830** Erika's signature changed completely, per emails the host received
+**C-10285** Erika's signature changed completely, per emails the host received
 
 Claim Timestamp: 00:39:46
 
@@ -1855,12 +1854,12 @@ Transcript Snippet: then we got a string of emails from people who knew Erika, a
 Anchored Artifacts: A-2091.1, A-2091.2
 Mentions: N-2
 Related Nodes: N-10680
-Supports: C-2944
+Supports: C-10284
 Investigative Direction: Obtain the emails with the senders' relation to Erika and dated signature samples.
 
 ---
 
-**C-5831** Erika was 24 when she was Miss Arizona
+**C-10286** Erika was 24 when she was Miss Arizona
 
 Claim Timestamp: 00:39:46
 
@@ -1875,7 +1874,7 @@ Investigative Direction: Verify Erika's date of birth and the year she held the 
 
 ---
 
-**C-5832** In January Erika told employees on a conference call she could not wait to meet them
+**C-10287** In January Erika told employees on a conference call she could not wait to meet them
 
 Claim Timestamp: 00:41:19
 
@@ -1890,7 +1889,7 @@ Investigative Direction: Obtain a recording or transcript of the January all-sta
 
 ---
 
-**C-5833** In June Erika told donors she already knew everyone and was at the office daily
+**C-10288** In June Erika told donors she already knew everyone and was at the office daily
 
 Claim Timestamp: 00:41:19
 
@@ -1901,12 +1900,12 @@ Transcript Snippet: Fast forward to June, she's now angry on stage telling donor
 Anchored Artifacts:
 Mentions: N-2
 Related Nodes: N-11056
-Contradicts: C-5832
+Contradicts: C-10287
 Investigative Direction: Obtain video of the June donor event and compare the statements with the January call.
 
 ---
 
-**C-5834** Tucker told the host Erika was radically anti-Israel and hated the pastors around Charlie
+**C-10289** Tucker told the host Erika was radically anti-Israel and hated the pastors around Charlie
 
 Claim Timestamp: 00:42:01
 
@@ -1917,12 +1916,12 @@ Transcript Snippet: that conversation that I had with Tucker in Maine, that Erik
 Anchored Artifacts:
 Mentions: N-22, N-2
 Related Nodes: N-10983
-Supports: C-4516, C-4587
+Supports: C-9901, C-9972
 Investigative Direction: Obtain Tucker Carlson's own account of the Maine dinner and any attendees.
 
 ---
 
-**C-5835** Erika is now radically pro-Israel and welcomed Shapiro to open AmFest
+**C-10290** Erika is now radically pro-Israel and welcomed Shapiro to open AmFest
 
 Claim Timestamp: 00:42:01
 
@@ -1933,12 +1932,12 @@ Transcript Snippet: She's now radically pro-Israel. Says it's like brain rot not
 Anchored Artifacts:
 Mentions: N-2, N-97
 Related Nodes:
-Supports: C-4517, C-4524
+Supports: C-9902, C-9909
 Investigative Direction: Cite the AmFest schedule/video showing Shapiro's opening slot and Erika's remarks.
 
 ---
 
-**C-5836** Erika's ex-boyfriends did not recognize her
+**C-10291** Erika's ex-boyfriends did not recognize her
 
 Claim Timestamp: 00:42:45
 
@@ -1953,7 +1952,7 @@ Investigative Direction: Obtain on-record statements from the ex-boyfriends.
 
 ---
 
-**C-5837** Erika said she never dated anyone before Charlie
+**C-10292** Erika said she never dated anyone before Charlie
 
 Claim Timestamp: 00:43:25
 
@@ -1964,12 +1963,12 @@ Transcript Snippet: When she gets up there and she says I never dated anyone bef
 Anchored Artifacts:
 Mentions: N-2, N-1
 Related Nodes: N-10690
-Supports: C-1988
+Supports: C-4423
 Investigative Direction: Locate the speech or interview where Erika made the statement.
 
 ---
 
-**C-5838** Web page defines dissociative identity disorder
+**C-10293** Web page defines dissociative identity disorder
 
 Claim Timestamp: 00:43:25
 
@@ -1984,7 +1983,7 @@ Investigative Direction: Identify the page and publisher (clinical or other) and
 
 ---
 
-**C-5839** Web Page Host Shows Lists a Possession Type of the Disorder
+**C-10294** Web Page Host Shows Lists a Possession Type of the Disorder
 
 Claim Timestamp: 00:44:17
 
@@ -1999,7 +1998,7 @@ Investigative Direction: Identify the page's source and confirm whether the quot
 
 ---
 
-**C-5840** Host says Erika presented as Catholic to a woman at church after Charlie died
+**C-10295** Host says Erika presented as Catholic to a woman at church after Charlie died
 
 Claim Timestamp: 00:45:58
 
@@ -2014,7 +2013,7 @@ Investigative Direction: Interview the woman and obtain her contemporaneous acco
 
 ---
 
-**C-5841** The woman brought a relic from Chicago and later found Erika presenting as Judeo-Christian
+**C-10296** The woman brought a relic from Chicago and later found Erika presenting as Judeo-Christian
 
 Claim Timestamp: 00:45:58
 
@@ -2029,7 +2028,7 @@ Investigative Direction: Confirm the relic gift and its date, and compare with E
 
 ---
 
-**C-5842** Host says JD Vance released a book about his Catholicism
+**C-10297** Host says JD Vance released a book about his Catholicism
 
 Claim Timestamp: 00:47:07
 
@@ -2044,7 +2043,7 @@ Investigative Direction: Confirm the title, publisher and release date of the bo
 
 ---
 
-**C-5843** Tim Dillon's clip is a comic reading attributed to a book "God chose me by J. D. Vance"
+**C-10298** Tim Dillon's clip is a comic reading attributed to a book "God chose me by J. D. Vance"
 
 Claim Timestamp: 00:47:51
 
@@ -2060,7 +2059,7 @@ Investigative Direction: Locate the original Tim Dillon episode and confirm the 
 
 ---
 
-**C-5844** Tim Dillon Says the Excerpt Is the Essence of the Book
+**C-10299** Tim Dillon Says the Excerpt Is the Essence of the Book
 
 Claim Timestamp: 00:49:17
 
@@ -2075,7 +2074,7 @@ Investigative Direction: Confirm with the original Dillon source that the excerp
 
 ---
 
-**C-5845** Host says she is expecting another baby
+**C-10300** Host says she is expecting another baby
 
 Claim Timestamp: 00:50:05
 
@@ -2090,7 +2089,7 @@ Investigative Direction: Locate the host's announcement post or episode.
 
 ---
 
-**C-5846** Viewer who held a towing evidence contract says such vehicles are never released and sold
+**C-10301** Viewer who held a towing evidence contract says such vehicles are never released and sold
 
 Claim Timestamp: 00:52:13
 
@@ -2101,12 +2100,12 @@ Transcript Snippet: whenever a vehicle was involved in a crime or used to transp
 Anchored Artifacts: A-2782.1
 Mentions:
 Related Nodes: N-10685
-Supports: C-5792
+Supports: C-10238
 Investigative Direction: Check Utah law and Utah County/DPS evidence-impound policy for vehicles in homicide investigations.
 
 ---
 
-**C-5847** Viewer says investigators kept her murdered father's belongings for years
+**C-10302** Viewer says investigators kept her murdered father's belongings for years
 
 Claim Timestamp: 00:53:47
 
@@ -2121,7 +2120,7 @@ Investigative Direction: This is an anecdote; compare with standard Utah evidenc
 
 ---
 
-**C-5848** Host alleges items that should be in evidence were given to Erika for fundraising
+**C-10303** Host alleges items that should be in evidence were given to Erika for fundraising
 
 Claim Timestamp: 00:54:24
 
@@ -2132,12 +2131,12 @@ Transcript Snippet: why was everything that should be in evidence given to Erika
 Anchored Artifacts:
 Mentions: N-2
 Related Nodes: N-11053, N-10537
-Supports: C-5783, C-5782
+Supports: C-10228, C-10227
 Investigative Direction: List all items released to Erika Kirk with dates and the releasing authority.
 
 ---
 
-**C-5849** Host theorizes the shaped charge was meant to hit the chest but hit the neck
+**C-10304** Host theorizes the shaped charge was meant to hit the chest but hit the neck
 
 Claim Timestamp: 00:56:42
 
@@ -2152,7 +2151,7 @@ Investigative Direction: Compare video of Charlie's posture at the moment of the
 
 ---
 
-**C-5850** Host says Kolvet pressed send on the "Superman neck" tweet
+**C-10305** Host says Kolvet pressed send on the "Superman neck" tweet
 
 Claim Timestamp: 00:56:42
 
@@ -2167,7 +2166,7 @@ Investigative Direction: Locate the original tweet, its author and posting accou
 
 ---
 
-**C-5851** Viewer comment cites Larry Johnson doubting the .30-06 narrative
+**C-10306** Viewer comment cites Larry Johnson doubting the .30-06 narrative
 
 Claim Timestamp: 00:57:35
 
@@ -2182,7 +2181,7 @@ Investigative Direction: Locate the Nawfal appearance and Johnson's actual state
 
 ---
 
-**C-5852** Host says the Egyptian planes are intelligence-related and were present that day
+**C-10307** Host says the Egyptian planes are intelligence-related and were present that day
 
 Claim Timestamp: 00:57:35
 
@@ -2193,7 +2192,7 @@ Transcript Snippet: Obviously, the Egyptian planes are intelligence related. I m
 Anchored Artifacts:
 Mentions:
 Related Nodes: N-10253
-Supports: C-2537
+Supports: C-7315
 Investigative Direction: Cross-reference flight-tracking logs with Sept 10 dates and the aircraft's operator.
 
 ---

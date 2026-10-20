@@ -16,7 +16,7 @@
   - Tip-minted Nodes (reintro-ep091): N-641, N-725, N-726, N-727
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Reused Nodes Appearing: N-9, N-15, N-36, N-40, N-159, N-190, N-209, N-221, N-450, N-10000, N-10026, N-10246, N-10253, N-10276, N-10299, N-10325, N-10398, N-10401, N-10411, N-10572, N-10975, N-11186, N-11244, N-10606
-  - Claim Range (supplement_2026-10f): C-12818–C-12895
+  - Claim Range: C-8103–C-8204
  - New Nodes Introduced: N-10599, N-10600, N-10601, N-10602, N-10603, N-10604, N-10605
  - Hole-minted Nodes (wave3): N-422, N-423
  - Reused Nodes Appearing: none (Wave 2: local ids removed)
@@ -37,7 +37,6 @@
 Episode X Ledger Summary
 
 - Artifact Families Introduced: A-1958, A-1959, A-1960, A-1961, A-1962, A-1963, A-1964
-- Claim Range: C-2698–C-2721
 - New People Nodes Introduced: none (Wave 2: local ids removed)
 - New Investigation Target Nodes Introduced: N-10599, N-10600, N-10601, N-10602, N-10603, N-10604, N-10605, N-10606
 - Existing Nodes Reused: Erika Kirk, Charlie Kirk, Donald Trump, Sebastian Gorka
@@ -65,7 +64,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:21:21
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2698, C-2699, C-2700, C-2701, C-2702, C-2703, C-2704, C-2705, C-2706, C-2707, C-2708, C-2709, C-2710, C-2711, C-2712, C-2721, N-10600, N-10601, N-10602, N-10603*
+*Related: C-8167, C-8143, C-8150, C-8151, C-8154, C-8155, C-8156, C-8158, C-8166, C-8168, C-8169, C-8171, C-8175, C-8176, C-8177, C-8182, N-10600, N-10601, N-10602, N-10603*
 
 ---
 
@@ -78,7 +77,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:09:06
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2714, Erika Kirk (existing), N-10605*
+*Related: C-8122, Erika Kirk (existing), N-10605*
 
 **A-1959.2** Instagram Photo: Erika Kirk Being Comforted by Victor Marx at Her Residence
 
@@ -87,7 +86,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:10:03
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2715, Erika Kirk (existing), N-10605*
+*Related: C-8124, Erika Kirk (existing), N-10605*
 
 ---
 
@@ -100,7 +99,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:28:28
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2716, N-10602*
+*Related: C-8159, N-10602*
 
 ---
 
@@ -113,7 +112,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:43:08
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2717, Donald Trump (existing), N-10606*
+*Related: C-8189, Donald Trump (existing), N-10606*
 
 ---
 
@@ -126,7 +125,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:13:04
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2718, N-10604*
+*Related: C-8132, N-10604*
 
 ---
 
@@ -139,7 +138,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:37:42
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2713, C-2721, N-10599, N-10603*
+*Related: C-8178, C-8182, N-10599, N-10603*
 
 ---
 
@@ -152,7 +151,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:56:23
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2719, C-2720, N-10604, Wonder Woman (viewer, no node)*
+*Related: C-8199, C-8200, N-10604, Wonder Woman (viewer, no node)*
 
 **A-1964.2** Other Audience Comments Read Aloud
 
@@ -176,7 +175,7 @@ Video Timestamp: 00:01:16
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-12820, N-1, N-2, N-11346*
+*Related: C-8105, N-1, N-2, N-11346*
 
 **A-3227.2** Host reads aloud a line she attributes to Erika Kirk's remarks at the memorial
 
@@ -187,7 +186,7 @@ Video Timestamp: 00:01:16
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-12821, N-1, N-2, N-11346*
+*Related: C-8106, N-1, N-2, N-11346*
 
 ---
 
@@ -200,7 +199,7 @@ Video Timestamp: 00:39:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12877, C-12878, N-10599, N-10603, N-342*
+*Related: C-8183, C-8184, N-10599, N-10603, N-342*
 
 ---
 
@@ -213,7 +212,7 @@ Video Timestamp: 00:39:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12879, N-10599, N-3, N-342*
+*Related: C-8185, N-10599, N-3, N-342*
 
 ---
 
@@ -226,7 +225,7 @@ Video Timestamp: 00:05:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12831, N-1, N-10613, N-342*
+*Related: C-8116, N-1, N-10613, N-342*
 
 ---
 
@@ -239,7 +238,7 @@ Video Timestamp: 00:56:23
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12892, C-12893, N-10604, N-341, N-914*
+*Related: C-8201, C-8202, N-10604, N-341, N-914*
 
 ---
 
@@ -249,13 +248,13 @@ Confidence Level: Low
 
 First named by the host at 00:27:14 in episode 91.
 
-*Related: C-2705, C-2716*
+*Related: C-8158, C-8159*
 
 **N-423** Daniel Horner
 
 First named by the host at 00:32:24 in episode 91.
 
-*Related: C-2706*
+*Related: C-8166*
 
 
 
@@ -269,7 +268,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1963.1, C-2713, C-2721, N-10603*
+*Related: A-1963.1, C-8178, C-8182, N-10603*
 
 ---
 
@@ -282,7 +281,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1958.1, C-2706, C-2707, C-2709*
+*Related: A-1958.1, C-8166, C-8168, C-8171*
 
 ---
 
@@ -295,7 +294,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1958.1, C-2708*
+*Related: A-1958.1, C-8169*
 
 ---
 
@@ -308,7 +307,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1958.1, A-1960.1, C-2703, C-2704, C-2705, C-2716*
+*Related: A-1958.1, A-1960.1, C-8155, C-8156, C-8158, C-8159*
 
 ---
 
@@ -321,7 +320,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1958.1, A-1963.1, C-2711, C-2712, C-2713, N-10599*
+*Related: A-1958.1, A-1963.1, C-8176, C-8177, C-8178, N-10599*
 
 ---
 
@@ -334,7 +333,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1958.1, A-1962.1, A-1964.1, C-2718, C-2719, C-2720*
+*Related: A-1958.1, A-1962.1, A-1964.1, C-8132, C-8199, C-8200*
 
 ---
 
@@ -347,7 +346,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1958.1, A-1959.2, C-2715, Erika Kirk (existing)*
+*Related: A-1958.1, A-1959.2, C-8124, Erika Kirk (existing)*
 
 ---
 
@@ -360,7 +359,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1961.1, C-2717, Donald Trump (existing)*
+*Related: A-1961.1, C-8189, Donald Trump (existing)*
 
 ---
 
@@ -368,7 +367,7 @@ Investigative Pressure: Medium
 
 Subject of the assassination; the host discusses the speeches, the Marx candidacy announcement and Marx's claimed link to him.
 
-*Related: C-12818, C-12820, C-12821, C-12827, C-12828, C-12831, C-12832, C-12834, C-12835, C-12836, C-12837, C-12884*
+*Related: C-8103, C-8105, C-8106, C-8112, C-8113, C-8116, C-8117, C-8119, C-8120, C-8121, C-8123, C-8191*
 
 ---
 
@@ -376,7 +375,7 @@ Subject of the assassination; the host discusses the speeches, the Marx candidac
 
 Widow and TPUSA CEO; the host discusses speeches written for her, her reaction to the planes and her friendship with the Marxes.
 
-*Related: C-12818, C-12819, C-12820, C-12821, C-12822, C-12829, C-12830, C-12834, C-12836, C-12837*
+*Related: C-8103, C-8104, C-8105, C-8106, C-8107, C-8114, C-8115, C-8119, C-8121, C-8123*
 
 ---
 
@@ -384,7 +383,7 @@ Widow and TPUSA CEO; the host discusses speeches written for her, her reaction t
 
 Host; speaks for herself throughout.
 
-*Related: C-12818, C-12824, C-12825, C-12826, C-12879, C-12880, C-12881, C-12884, C-12885, C-12886, C-12889, C-12890, C-12894, C-12895*
+*Related: C-8103, C-8109, C-8110, C-8111, C-8185, C-8186, C-8187, C-8191, C-8192, C-8193, C-8196, C-8197, C-8203, C-8204*
 
 ---
 
@@ -392,7 +391,7 @@ Host; speaks for herself throughout.
 
 Subject of the Iran arms remark the host plays; cited in a context claim.
 
-*Related: C-12882*
+*Related: C-8188*
 
 ---
 
@@ -400,7 +399,7 @@ Subject of the Iran arms remark the host plays; cited in a context claim.
 
 Jeffrey Epstein; the host ties the 2018 timeline to his arrest and speculates about his network re-emerging.
 
-*Related: C-12885, C-12886*
+*Related: C-8192, C-8193*
 
 ---
 
@@ -408,7 +407,7 @@ Jeffrey Epstein; the host ties the 2018 timeline to his arrest and speculates ab
 
 TPUSA COO; the host says he did not write his own memorial speech.
 
-*Related: C-12823*
+*Related: C-8108*
 
 ---
 
@@ -416,7 +415,7 @@ TPUSA COO; the host says he did not write his own memorial speech.
 
 Benjamin Netanyahu; named in the host's remark about pastors serving Israel's leader.
 
-*Related: C-12891*
+*Related: C-8198*
 
 ---
 
@@ -424,7 +423,7 @@ Benjamin Netanyahu; named in the host's remark about pastors serving Israel's le
 
 Defendant in the Kirk case; the host says the ATF trace on his gun came back inconclusive.
 
-*Related: C-12874*
+*Related: C-8179*
 
 ---
 
@@ -432,7 +431,7 @@ Defendant in the Kirk case; the host says the ATF trace on his gun came back inc
 
 TPUSA staffer; the host says he wrote Erika's September 12 address and heavily assisted her memorial speech.
 
-*Related: C-12819, C-12822*
+*Related: C-8104, C-8107*
 
 ---
 
@@ -440,7 +439,7 @@ TPUSA staffer; the host says he wrote Erika's September 12 address and heavily a
 
 TPUSA chief of staff from January 2024 per the host; the transcript spells him Mikey McCoy.
 
-*Related: C-12827, C-12828*
+*Related: C-8112, C-8113*
 
 ---
 
@@ -448,7 +447,7 @@ TPUSA chief of staff from January 2024 per the host; the transcript spells him M
 
 Named in a hypothetical about whom Erika should have called about the planes.
 
-*Related: C-12830*
+*Related: C-8115*
 
 ---
 
@@ -456,7 +455,7 @@ Named in a hypothetical about whom Erika should have called about the planes.
 
 Former Daily Wire host; the host cites what Daily Wire tried to do to her.
 
-*Related: C-12889*
+*Related: C-8196*
 
 ---
 
@@ -464,7 +463,7 @@ Former Daily Wire host; the host cites what Daily Wire tried to do to her.
 
 Pastor and Colorado gubernatorial candidate; the host and Corby Hall's statement describe his background, Fold AR dealings and Haiti activity.
 
-*Related: C-12832, C-12833, C-12834, C-12835, C-12836, C-12838, C-12839, C-12840, C-12841, C-12844, C-12845, C-12846, C-12847, C-12848, C-12849, C-12850, C-12851, C-12853, C-12854, C-12856, C-12857, C-12858, C-12859, C-12860, C-12861, C-12862, C-12863, C-12864, C-12867, C-12868, C-12869, C-12870, C-12871, C-12872, C-12873, C-12883, C-12887, C-12892, C-12893*
+*Related: C-8117, C-8118, C-8119, C-8120, C-8121, C-8140, C-8125, C-8126, C-8127, C-8130, C-8131, C-8133, C-8134, C-8135, C-8136, C-8137, C-8138, C-8141, C-8142, C-8145, C-8146, C-8147, C-8148, C-8149, C-8152, C-8153, C-8157, C-8160, C-8163, C-8164, C-8165, C-8170, C-8172, C-8173, C-8174, C-8190, C-8194, C-8201, C-8202*
 
 ---
 
@@ -472,7 +471,7 @@ Pastor and Colorado gubernatorial candidate; the host and Corby Hall's statement
 
 Fold AR maker whose written statement the host reads and whom she says she believes.
 
-*Related: C-12831, C-12838, C-12855, C-12856, C-12857, C-12858, C-12859, C-12861, C-12862, C-12863, C-12864, C-12865, C-12866, C-12867, C-12868, C-12869, C-12870, C-12871, C-12872, C-12873, C-12875, C-12876, C-12877, C-12878, C-12879, C-12894*
+*Related: C-8116, C-8140, C-8144, C-8145, C-8146, C-8147, C-8148, C-8152, C-8153, C-8157, C-8160, C-8161, C-8162, C-8163, C-8164, C-8165, C-8170, C-8172, C-8173, C-8174, C-8180, C-8181, C-8183, C-8184, C-8185, C-8203*
 
 ---
 
@@ -480,7 +479,7 @@ Fold AR maker whose written statement the host reads and whom she says she belie
 
 Victor Marx's wife; appears in the hug video and in Hall's account of the dream and vision.
 
-*Related: C-12836, C-12848, C-12851, C-12852, C-12857, C-12858, C-12861*
+*Related: C-8121, C-8135, C-8138, C-8139, C-8146, C-8147, C-8152*
 
 ---
 
@@ -488,7 +487,7 @@ Victor Marx's wife; appears in the hug video and in Hall's account of the dream 
 
 Hall's then girlfriend and later wife, described in his statement as COO of Fold AR.
 
-*Related: C-12855, C-12862*
+*Related: C-8144, C-8153*
 
 ---
 
@@ -496,7 +495,7 @@ Hall's then girlfriend and later wife, described in his statement as COO of Fold
 
 Victor Marx's stepfather per the host; subject of the army, smuggling and conviction claims.
 
-*Related: C-12841, C-12842, C-12843*
+*Related: C-8127, C-8128, C-8129*
 
 ---
 
@@ -504,7 +503,7 @@ Victor Marx's stepfather per the host; subject of the army, smuggling and convic
 
 Pastor the host names as accused of trafficking.
 
-*Related: C-12888*
+*Related: C-8195*
 
 ---
 
@@ -512,7 +511,7 @@ Pastor the host names as accused of trafficking.
 
 Host of the America First show on which Marx and Melody appeared per Hall's statement.
 
-*Related: C-12862*
+*Related: C-8153*
 
 ---
 
@@ -520,7 +519,7 @@ Host of the America First show on which Marx and Melody appeared per Hall's stat
 
 Victor Marx's brother per the host; attorney who took a plea deal in the same smuggling case and co-founded the ministry.
 
-*Related: C-12843, C-12849*
+*Related: C-8129, C-8136*
 
 ---
 
@@ -528,7 +527,7 @@ Victor Marx's brother per the host; attorney who took a plea deal in the same sm
 
 Marx's biological father per the host; the transcript spells the first name Carl.
 
-*Related: C-12844*
+*Related: C-8130*
 
 ---
 
@@ -536,7 +535,7 @@ Marx's biological father per the host; the transcript spells the first name Carl
 
 Eileen Marx's brother per the host; subject of the shooting attempt and trial claims.
 
-*Related: C-12851, C-12852*
+*Related: C-8138, C-8139*
 
 ---
 
@@ -544,7 +543,7 @@ Eileen Marx's brother per the host; subject of the shooting attempt and trial cl
 
 First named by the host at 00:31:39 in episode 91 as Victor Marx's COO who met Hall at the hotel and goes with Marx to Haiti. Spelling as transcribed.
 
-*Related: C-12867*
+*Related: C-8163*
 
 ---
 
@@ -552,7 +551,7 @@ First named by the host at 00:31:39 in episode 91 as Victor Marx's COO who met H
 
 First named by the host at 00:56:23 in episode 91 as a researcher who has done a deep dive on Victor Marx on X and Facebook. The host is unsure of the surname and spells the first name C O R I.
 
-*Related: C-12892, C-12893*
+*Related: C-8201, C-8202*
 
 ---
 
@@ -560,7 +559,7 @@ First named by the host at 00:56:23 in episode 91 as a researcher who has done a
 
 Organization; the host's pastors, speeches and planes claims concern it.
 
-*Related: C-12818, C-12827, C-12884*
+*Related: C-8103, C-8112, C-8191*
 
 ---
 
@@ -568,7 +567,7 @@ Organization; the host's pastors, speeches and planes claims concern it.
 
 Place; existing node reused for the host's Iran, IDF and Zionism remarks.
 
-*Related: C-12882, C-12890, C-12891*
+*Related: C-8188, C-8197, C-8198*
 
 ---
 
@@ -576,7 +575,7 @@ Place; existing node reused for the host's Iran, IDF and Zionism remarks.
 
 Existing topic reused for the host's remarks on Calvary Chapel as a source of troubled pastors.
 
-*Related: C-12847, C-12850*
+*Related: C-8134, C-8137*
 
 ---
 
@@ -584,7 +583,7 @@ Existing topic reused for the host's remarks on Calvary Chapel as a source of tr
 
 Existing topic reused for the host's Egyptian plane timeline and Erika's reaction to it.
 
-*Related: C-12824, C-12825, C-12826, C-12827, C-12828, C-12829, C-12830*
+*Related: C-8109, C-8110, C-8111, C-8112, C-8113, C-8114, C-8115*
 
 ---
 
@@ -592,7 +591,7 @@ Existing topic reused for the host's Egyptian plane timeline and Erika's reactio
 
 Existing topic reused for the Nebraska overlap with Charlie's schedule.
 
-*Related: C-12828*
+*Related: C-8113*
 
 ---
 
@@ -600,7 +599,7 @@ Existing topic reused for the Nebraska overlap with Charlie's schedule.
 
 Existing topic reused for the host's claim that Erika does not want the public looking at the planes.
 
-*Related: C-12829, C-12830*
+*Related: C-8114, C-8115*
 
 ---
 
@@ -608,7 +607,7 @@ Existing topic reused for the host's claim that Erika does not want the public l
 
 Existing topic reused for the host's trafficking hypothesis and arms trafficking claims.
 
-*Related: C-12825, C-12838, C-12881, C-12883*
+*Related: C-8110, C-8140, C-8187, C-8190*
 
 ---
 
@@ -616,7 +615,7 @@ Existing topic reused for the host's trafficking hypothesis and arms trafficking
 
 Existing topic reused for Turning Point Faith as the host's alleged infiltration vector.
 
-*Related: C-12818, C-12827, C-12833*
+*Related: C-8103, C-8112, C-8118*
 
 ---
 
@@ -624,7 +623,7 @@ Existing topic reused for Turning Point Faith as the host's alleged infiltration
 
 Existing topic reused for the Harvest church Romania accusation.
 
-*Related: C-12888*
+*Related: C-8195*
 
 ---
 
@@ -632,7 +631,7 @@ Existing topic reused for the Harvest church Romania accusation.
 
 Existing topic reused for the Harvest church accusation.
 
-*Related: C-12888*
+*Related: C-8195*
 
 ---
 
@@ -640,7 +639,7 @@ Existing topic reused for the Harvest church accusation.
 
 Existing topic reused for the host's reference to the inconclusive Tyler Robinson trace.
 
-*Related: C-12874*
+*Related: C-8179*
 
 ---
 
@@ -648,7 +647,7 @@ Existing topic reused for the host's reference to the inconclusive Tyler Robinso
 
 Existing topic reused for the host's plan to have Hall on the show.
 
-*Related: C-12831, C-12894*
+*Related: C-8116, C-8203*
 
 ---
 
@@ -656,7 +655,7 @@ Existing topic reused for the host's plan to have Hall on the show.
 
 Federal agency; the host describes its trace practice and plans to contact it.
 
-*Related: C-12874, C-12875, C-12876, C-12894*
+*Related: C-8179, C-8180, C-8181, C-8203*
 
 ---
 
@@ -664,7 +663,7 @@ Federal agency; the host describes its trace practice and plans to contact it.
 
 Existing topic reused for the host's arms trafficking context claim.
 
-*Related: C-12881*
+*Related: C-8187*
 
 ---
 
@@ -672,7 +671,7 @@ Existing topic reused for the host's arms trafficking context claim.
 
 Existing topic reused for the host's remark on how Daily Wire treated those who leave.
 
-*Related: C-12889*
+*Related: C-8196*
 
 ---
 
@@ -681,7 +680,7 @@ Existing topic reused for the host's remark on how Daily Wire treated those who 
 Node Type: Topic
 The host's claim, relayed from sources, that Erika Kirk's September 12 address and memorial remarks, and Justin Streiff's memorial speech, were written or heavily assisted by others, chiefly Blake Neff.
 
-*Related: C-12819, C-12820, C-12821, C-12822, C-12823*
+*Related: C-8104, C-8105, C-8106, C-8107, C-8108*
 
 ---
 
@@ -690,7 +689,7 @@ The host's claim, relayed from sources, that Erika Kirk's September 12 address a
 Node Type: Topic
 Victor Marx's announced run for governor of Colorado, which the host says he announced at a Charlie Kirk memorial event in Denver on September 14.
 
-*Related: C-12832*
+*Related: C-8117*
 
 ---
 
@@ -699,13 +698,13 @@ Victor Marx's announced run for governor of Colorado, which the host says he ann
 Node Type: Topic
 The host's stated suspicion that the 2018 timeline matches Jeffrey Epstein's arrest and that his network re-emerged in churches and non-profits with a new head.
 
-*Related: C-12885, C-12886*
+*Related: C-8192, C-8193*
 
 ---
 
 ## V. Claim Register
 
-**C-2698** Per Corby Hall Statement Host Reads, Victor Marx Expressed Interest in Owning Fold AR
+**C-8167** Per Corby Hall Statement Host Reads, Victor Marx Expressed Interest in Owning Fold AR
 
 Claim Timestamp: 00:33:10
 
@@ -720,7 +719,7 @@ Investigative Direction: Verify Hall's account against Fold AR business records,
 
 ---
 
-**C-2699** Per Corby Hall Statement Host Reads, Fold AR Demo Provided to Marx in December 2023
+**C-8143** Per Corby Hall Statement Host Reads, Fold AR Demo Provided to Marx in December 2023
 
 Claim Timestamp: 00:21:21
 
@@ -735,7 +734,7 @@ Investigative Direction: Verify travel records, communications, and Fold AR demo
 
 ---
 
-**C-2700** Per Corby Hall Statement Host Reads, Victor Marx Performed "Retooling Prayer" on Hall and Melody
+**C-8150** Per Corby Hall Statement Host Reads, Victor Marx Performed "Retooling Prayer" on Hall and Melody
 
 Claim Timestamp: 00:23:40
 
@@ -750,7 +749,7 @@ Investigative Direction: Identify any witnesses or documentation of the prayer c
 
 ---
 
-**C-2701** Per Corby Hall Statement Host Reads, Victor Marx Married Hall and Melody on January 24, 2024
+**C-8151** Per Corby Hall Statement Host Reads, Victor Marx Married Hall and Melody on January 24, 2024
 
 Claim Timestamp: 00:24:43
 
@@ -765,7 +764,7 @@ Investigative Direction: Verify the marriage through official marriage records.
 
 ---
 
-**C-2702** Per Corby Hall Statement Host Reads, All Things Possible Ministries Purchased 5 Fold AR Rifles for Lindale High School
+**C-8154** Per Corby Hall Statement Host Reads, All Things Possible Ministries Purchased 5 Fold AR Rifles for Lindale High School
 
 Claim Timestamp: 00:25:28
 
@@ -780,7 +779,7 @@ Investigative Direction: Verify purchase records with Fold AR and Lindale High S
 
 ---
 
-**C-2703** Victor Marx Requested 50 Rifles for Haiti Mission (Late Fall 2024)
+**C-8155** Victor Marx Requested 50 Rifles for Haiti Mission (Late Fall 2024)
 
 Claim Timestamp: 00:25:43
 
@@ -795,7 +794,7 @@ Investigative Direction: Verify any related communications, travel records, or f
 
 ---
 
-**C-2704** Per Corby Hall Statement Host Reads, Marx Requested Long-Range Rifle to Execute Person Scaling Orphanage Fence
+**C-8156** Per Corby Hall Statement Host Reads, Marx Requested Long-Range Rifle to Execute Person Scaling Orphanage Fence
 
 Claim Timestamp: 00:26:32
 
@@ -810,7 +809,7 @@ Investigative Direction: Verify the build of the rifle, related communications, 
 
 ---
 
-**C-2705** Marx Stated Intent to Capture or Execute Jimmy Barbecue
+**C-8158** Marx Stated Intent to Capture or Execute Jimmy Barbecue
 
 Claim Timestamp: 00:27:50
 
@@ -825,7 +824,7 @@ Investigative Direction: Cross-reference with subsequent Haiti mission records a
 
 ---
 
-**C-2706** Marx Discussed Fold AR Acquisition with Sig Sauer / Daniel Horner
+**C-8166** Marx Discussed Fold AR Acquisition with Sig Sauer / Daniel Horner
 
 Claim Timestamp: 00:32:50
 
@@ -840,7 +839,7 @@ Investigative Direction: Verify with Sig Sauer corporate communications and Dani
 
 ---
 
-**C-2707** Per Corby Hall Statement Host Reads, Marx Valued Fold AR at $2 Million and Sought 51% Controlling Interest
+**C-8168** Per Corby Hall Statement Host Reads, Marx Valued Fold AR at $2 Million and Sought 51% Controlling Interest
 
 Claim Timestamp: 00:33:10
 
@@ -855,7 +854,7 @@ Investigative Direction: Verify with any valuation documents, accountants, or fo
 
 ---
 
-**C-2708** Marx Stated IDF Needed 50,000 Guns for Gaza, Lebanon, Syria
+**C-8169** Marx Stated IDF Needed 50,000 Guns for Gaza, Lebanon, Syria
 
 Claim Timestamp: 00:33:10
 
@@ -870,7 +869,7 @@ Investigative Direction: Verify any related communications, broker contacts, or 
 
 ---
 
-**C-2709** Per Corby Hall Statement Host Reads, Marx Showed Hall Underground Bunker Under Construction at His Residence
+**C-8171** Per Corby Hall Statement Host Reads, Marx Showed Hall Underground Bunker Under Construction at His Residence
 
 Claim Timestamp: 00:34:23
 
@@ -885,7 +884,7 @@ Investigative Direction: Verify the existence and current status of the structur
 
 ---
 
-**C-2710** Marx Sent Group Message Calling Hall "Demonically Influenced"
+**C-8175** Marx Sent Group Message Calling Hall "Demonically Influenced"
 
 Claim Timestamp: 00:35:55
 
@@ -900,7 +899,7 @@ Investigative Direction: Obtain the original message text if retained.
 
 ---
 
-**C-2711** Host Says Fold AR SN 02735 Was Sold to Texas Deputy on June 6, 2024
+**C-8176** Host Says Fold AR SN 02735 Was Sold to Texas Deputy on June 6, 2024
 
 Claim Timestamp: 00:36:44
 
@@ -915,7 +914,7 @@ Investigative Direction: Verify the sale via Fold AR's bound book / ATF Form 447
 
 ---
 
-**C-2712** Fold AR SN 02735 Reported Stolen from Texas Deputy's Vehicle July 4, 2024
+**C-8177** Fold AR SN 02735 Reported Stolen from Texas Deputy's Vehicle July 4, 2024
 
 Claim Timestamp: 00:36:44
 
@@ -930,7 +929,7 @@ Investigative Direction: Verify with Midland Police Department records and the d
 
 ---
 
-**C-2713** ATF Trace Initiated on Fold AR SN 02735 on September 10, 2025
+**C-8178** ATF Trace Initiated on Fold AR SN 02735 on September 10, 2025
 
 Claim Timestamp: 00:37:42
 
@@ -945,7 +944,7 @@ Investigative Direction: Independently verify the email via ATF; identify the or
 
 ---
 
-**C-2714** Erika Kirk and Eileen Marx Filmed Hugging After Assassination
+**C-8122** Erika Kirk and Eileen Marx Filmed Hugging After Assassination
 
 Claim Timestamp: 00:09:06
 
@@ -960,7 +959,7 @@ Investigative Direction: Obtain original Instagram post metadata; verify posting
 
 ---
 
-**C-2715** Host Shows Photo of Erika Kirk Being Comforted by Victor Marx at Residence
+**C-8124** Host Shows Photo of Erika Kirk Being Comforted by Victor Marx at Residence
 
 Claim Timestamp: 00:09:40
 
@@ -975,7 +974,7 @@ Investigative Direction: Obtain original image metadata; verify posting context.
 
 ---
 
-**C-2716** CBN News Reported Marx Visited Haiti and Met with Jimmy Barbecue
+**C-8159** CBN News Reported Marx Visited Haiti and Met with Jimmy Barbecue
 
 Claim Timestamp: 00:28:28
 
@@ -990,7 +989,7 @@ Investigative Direction: Cross-reference with other reporting on Marx's Haiti ac
 
 ---
 
-**C-2717** Trump Publicly Stated the US Sent Guns to Iranian Protesters
+**C-8189** Trump Publicly Stated the US Sent Guns to Iranian Protesters
 
 Claim Timestamp: 00:43:08
 
@@ -1005,7 +1004,7 @@ Investigative Direction: Obtain full transcript of the remarks; verify the opera
 
 ---
 
-**C-2718** Marx Publicly Claimed He Killed a Man at Age 7 Under Coercion
+**C-8132** Marx Publicly Claimed He Killed a Man at Age 7 Under Coercion
 
 Claim Timestamp: 00:13:04
 
@@ -1020,7 +1019,7 @@ Investigative Direction: Identify the source recording; verify any underlying ev
 
 ---
 
-**C-2719** Viewer Asserts Marines Require Minimum 4-Year Enlistment
+**C-8199** Viewer Asserts Marines Require Minimum 4-Year Enlistment
 
 Claim Timestamp: 00:56:23
 
@@ -1034,7 +1033,7 @@ Investigative Direction: Verify Marine Corps enlistment contract minimums throug
 
 ---
 
-**C-2720** Host Says Viewer Could Be Onto Something and Marx's Service Was 2 Years
+**C-8200** Host Says Viewer Could Be Onto Something and Marx's Service Was 2 Years
 
 Claim Timestamp: 00:56:23
 
@@ -1049,7 +1048,7 @@ Investigative Direction: Verify the host's assertion against Marine Corps enlist
 
 ---
 
-**C-2721** Host Concurs with Corby Hall's Testimony
+**C-8182** Host Concurs with Corby Hall's Testimony
 
 Claim Timestamp: 00:39:25
 
@@ -1064,7 +1063,7 @@ Investigative Direction: Independently verify the host's confirmation of the ema
 
 ---
 
-**C-12818** Host Says Turning Point Faith Was the Infiltration
+**C-8103** Host Says Turning Point Faith Was the Infiltration
 
 Claim Timestamp: 00:01:16
 
@@ -1080,7 +1079,7 @@ Investigative Direction: Trace when Turning Point Faith was launched, who funded
 
 ---
 
-**C-12819** Host Says Erika's September 12 Address Was Written by Blake Neff
+**C-8104** Host Says Erika's September 12 Address Was Written by Blake Neff
 
 Claim Timestamp: 00:01:16
 
@@ -1096,7 +1095,7 @@ Investigative Direction: Obtain drafts, document metadata or staff testimony on 
 
 ---
 
-**C-12820** Host Quotes Erika Saying Charlie Witnessed for His Lord and Savior Jesus Christ
+**C-8105** Host Quotes Erika Saying Charlie Witnessed for His Lord and Savior Jesus Christ
 
 Claim Timestamp: 00:01:16
 
@@ -1112,7 +1111,7 @@ Investigative Direction: Compare against the video and official transcript of th
 
 ---
 
-**C-12821** Host Quotes Erika at the Memorial Saying Charlie Saw His Savior in Heaven
+**C-8106** Host Quotes Erika at the Memorial Saying Charlie Saw His Savior in Heaven
 
 Claim Timestamp: 00:01:16
 
@@ -1128,7 +1127,7 @@ Investigative Direction: Check the quoted words against the official memorial vi
 
 ---
 
-**C-12822** Host Says Erika Did Not Eulogize Her Own Husband and Blake Neff Gave a Heavy Assist
+**C-8107** Host Says Erika Did Not Eulogize Her Own Husband and Blake Neff Gave a Heavy Assist
 
 Claim Timestamp: 00:02:37
 
@@ -1144,7 +1143,7 @@ Investigative Direction: Identify the host's sources and obtain drafts or staff 
 
 ---
 
-**C-12823** Host Says Justin Streiff Did Not Write His Own Memorial Speech
+**C-8108** Host Says Justin Streiff Did Not Write His Own Memorial Speech
 
 Claim Timestamp: 00:02:37
 
@@ -1160,7 +1159,7 @@ Investigative Direction: Obtain the speech drafts or ask the speechwriting staff
 
 ---
 
-**C-12824** Host Says She Spent Months on an Egyptian Plane Timeline
+**C-8109** Host Says She Spent Months on an Egyptian Plane Timeline
 
 Claim Timestamp: 00:03:23
 
@@ -1176,7 +1175,7 @@ Investigative Direction: Compare the host's published spreadsheet of tail number
 
 ---
 
-**C-12825** Host Says the Plane Pattern Looked Like Drug or Weapons Trafficking
+**C-8110** Host Says the Plane Pattern Looked Like Drug or Weapons Trafficking
 
 Claim Timestamp: 00:03:23
 
@@ -1192,7 +1191,7 @@ Investigative Direction: Check customs and cargo records for the flights in ques
 
 ---
 
-**C-12826** Host Says the Planes Stopped Over States and Cities With Military Bases
+**C-8111** Host Says the Planes Stopped Over States and Cities With Military Bases
 
 Claim Timestamp: 00:04:10
 
@@ -1208,7 +1207,7 @@ Investigative Direction: Map each landing airport against nearby military instal
 
 ---
 
-**C-12827** Host Says Planes Tracked Turning Point Faith Events From 2023 and Charlie's Schedule Mirrored Them From January 2024
+**C-8112** Host Says Planes Tracked Turning Point Faith Events From 2023 and Charlie's Schedule Mirrored Them From January 2024
 
 Claim Timestamp: 00:04:10
 
@@ -1219,13 +1218,13 @@ Transcript Snippet: after Mikey McCoy becomes the chief of staff in January of 2
 Anchored Artifacts: 
 Mentions: N-190, N-1
 Related Nodes: N-10253, N-10000, N-10398
-Supports: C-1545
+Supports: C-2074
 Tags: relevance:core
 Investigative Direction: Overlay Charlie Kirk's 2023 and 2024 event calendar on the Egyptian plane landing dates and cities.
 
 ---
 
-**C-12828** Host Says Charlie Was Often in Kansas, Nebraska and Missouri Crossing With the Planes
+**C-8113** Host Says Charlie Was Often in Kansas, Nebraska and Missouri Crossing With the Planes
 
 Claim Timestamp: 00:04:10
 
@@ -1241,7 +1240,7 @@ Investigative Direction: List Charlie's Kansas, Nebraska and Missouri appearance
 
 ---
 
-**C-12829** Host Says Erika Showed No Concern About Two Foreign Planes Around the Assassination
+**C-8114** Host Says Erika Showed No Concern About Two Foreign Planes Around the Assassination
 
 Claim Timestamp: 00:04:10
 
@@ -1257,7 +1256,7 @@ Investigative Direction: Collect Erika's public statements and any on-air remark
 
 ---
 
-**C-12830** Host Says Erika Joked About the Egyptian Planes and Does Not Want Them Examined
+**C-8115** Host Says Erika Joked About the Egyptian Planes and Does Not Want Them Examined
 
 Claim Timestamp: 00:05:35
 
@@ -1273,7 +1272,7 @@ Investigative Direction: Locate the specific Erika remarks the host calls jokes 
 
 ---
 
-**C-12831** Host Says Corby Hall Contacted Her Team Afraid for His Life
+**C-8116** Host Says Corby Hall Contacted Her Team Afraid for His Life
 
 Claim Timestamp: 00:05:35
 
@@ -1289,7 +1288,7 @@ Investigative Direction: Obtain the original email and call record from the host
 
 ---
 
-**C-12832** Host Says Victor Marx Announced His Run for Colorado Governor at a Charlie Kirk Memorial Event
+**C-8117** Host Says Victor Marx Announced His Run for Colorado Governor at a Charlie Kirk Memorial Event
 
 Claim Timestamp: 00:06:29
 
@@ -1305,7 +1304,7 @@ Investigative Direction: Check Colorado candidate filings and the event's video 
 
 ---
 
-**C-12833** Host Says Marx Teaches a Turning Point Faith Course Called Freedom from Pornography
+**C-8118** Host Says Marx Teaches a Turning Point Faith Course Called Freedom from Pornography
 
 Claim Timestamp: 00:07:27
 
@@ -1321,7 +1320,7 @@ Investigative Direction: Check the Turning Point Faith course catalog and instru
 
 ---
 
-**C-12834** Host Says Marx Claims His 20-Year-Old Son Was Charlie's Assistant
+**C-8119** Host Says Marx Claims His 20-Year-Old Son Was Charlie's Assistant
 
 Claim Timestamp: 00:07:27
 
@@ -1337,7 +1336,7 @@ Investigative Direction: Locate Marx's original statement and ask TPUSA whether 
 
 ---
 
-**C-12835** Host Says She Could Not Confirm Marx's Son Was Charlie's Assistant
+**C-8120** Host Says She Could Not Confirm Marx's Son Was Charlie's Assistant
 
 Claim Timestamp: 00:07:27
 
@@ -1348,13 +1347,13 @@ Transcript Snippet: we've been able unable to confirm that he was Charlie's assi
 Anchored Artifacts: 
 Mentions: N-341, N-1
 Related Nodes: N-10604
-Supports: C-12834
+Supports: C-8119
 Tags: relevance:context
 Investigative Direction: Check TPUSA staff rosters and Charlie's travel party lists for the person in question.
 
 ---
 
-**C-12836** Host Says Victor and Eileen Marx Were Among the First to Greet Erika With Cameras Rolling
+**C-8121** Host Says Victor and Eileen Marx Were Among the First to Greet Erika With Cameras Rolling
 
 Claim Timestamp: 00:07:27
 
@@ -1370,7 +1369,7 @@ Investigative Direction: Establish the date and location of the first Marx visit
 
 ---
 
-**C-12837** Host Notes Erika Holds a Phone in the Hug Video Though She Said Her Phone Stayed Off for Weeks
+**C-8123** Host Notes Erika Holds a Phone in the Hug Video Though She Said Her Phone Stayed Off for Weeks
 
 Claim Timestamp: 00:09:06
 
@@ -1381,13 +1380,13 @@ Transcript Snippet: you may have also noted that Erika has her phone in her hand
 Anchored Artifacts: A-1959.1
 Mentions: N-2, N-1
 Related Nodes: N-10605
-Supports: C-9600
+Supports: C-2430
 Tags: relevance:core
 Investigative Direction: Compare the video date with Erika's statement about her phone and check whether the object in her hand is a phone.
 
 ---
 
-**C-12838** Host Says Marx Was Allegedly Interested in Trafficking Arms to Haiti and Contacted Corby Hall
+**C-8140** Host Says Marx Was Allegedly Interested in Trafficking Arms to Haiti and Contacted Corby Hall
 
 Claim Timestamp: 00:16:55
 
@@ -1398,13 +1397,13 @@ Transcript Snippet: Victor, like his stepdaddy, was allegedly interested in traf
 Anchored Artifacts: A-1958.1
 Mentions: N-341, N-342
 Related Nodes: N-10602, N-10325
-Supports: C-2703
+Supports: C-8155
 Tags: relevance:core
 Investigative Direction: Seek export-control filings or communications; Marx has denied this in a later episode, which this note does not rely on.
 
 ---
 
-**C-12839** Host Says Marx's Real Name Is Vaughn Victor Kennedy
+**C-8125** Host Says Marx's Real Name Is Vaughn Victor Kennedy
 
 Claim Timestamp: 00:10:03
 
@@ -1420,7 +1419,7 @@ Investigative Direction: Obtain Marx's military service record (DD-214) and any 
 
 ---
 
-**C-12840** Host Says Marx Had Lived in 17 Homes and Attended 14 Schools by Age 17
+**C-8126** Host Says Marx Had Lived in 17 Homes and Attended 14 Schools by Age 17
 
 Claim Timestamp: 00:10:48
 
@@ -1436,7 +1435,7 @@ Investigative Direction: Check Marx's own published memoir or interviews for the
 
 ---
 
-**C-12841** Host Says Marx's Stepfather Gloyce Kennedy Was Army Counterintelligence Then Ran a Jamaica Drug Ring
+**C-8127** Host Says Marx's Stepfather Gloyce Kennedy Was Army Counterintelligence Then Ran a Jamaica Drug Ring
 
 Claim Timestamp: 00:10:48
 
@@ -1452,7 +1451,7 @@ Investigative Direction: Obtain the army service record and the federal case fil
 
 ---
 
-**C-12842** Host Says Gloyce Kennedy Was Convicted in 1987 and Sentenced to 14 Years
+**C-8128** Host Says Gloyce Kennedy Was Convicted in 1987 and Sentenced to 14 Years
 
 Claim Timestamp: 00:10:48
 
@@ -1468,7 +1467,7 @@ Investigative Direction: Pull the 1987 federal docket and sentencing record by n
 
 ---
 
-**C-12843** Host Says Marx's Brother Mike Kennedy Took a Plea Deal and Testified Against Their Stepfather
+**C-8129** Host Says Marx's Brother Mike Kennedy Took a Plea Deal and Testified Against Their Stepfather
 
 Claim Timestamp: 00:10:48
 
@@ -1484,7 +1483,7 @@ Investigative Direction: Check the same federal docket for Mike Kennedy's plea a
 
 ---
 
-**C-12844** Host Says Marx's Biological Father Karl Marx Was a Pimp, Drug Dealer and Martial Arts Expert
+**C-8130** Host Says Marx's Biological Father Karl Marx Was a Pimp, Drug Dealer and Martial Arts Expert
 
 Claim Timestamp: 00:11:59
 
@@ -1500,7 +1499,7 @@ Investigative Direction: Ask for the host's sources; check Marx's own books and 
 
 ---
 
-**C-12845** Host Says Marx's Paternal Grandfather Killed His Grandmother and Then Himself
+**C-8131** Host Says Marx's Paternal Grandfather Killed His Grandmother and Then Himself
 
 Claim Timestamp: 00:11:59
 
@@ -1516,7 +1515,7 @@ Investigative Direction: Look for contemporaneous newspaper reports or death rec
 
 ---
 
-**C-12846** Host Says Marx Served Only Two Peacetime Years in the Marines Without Deployment
+**C-8133** Host Says Marx Served Only Two Peacetime Years in the Marines Without Deployment
 
 Claim Timestamp: 00:15:12
 
@@ -1527,13 +1526,13 @@ Transcript Snippet: he only served for 2 years during peacetime, stateside, no d
 Anchored Artifacts: 
 Mentions: N-341
 Related Nodes: N-10604
-Supports: C-2720
+Supports: C-8200
 Tags: relevance:context
 Investigative Direction: Obtain Marx's service record (DD-214) for enlistment term, deployments and discharge character.
 
 ---
 
-**C-12847** Host Says Marx Was Stationed at Camp Pendleton and Began Attending Calvary Chapel in 1986
+**C-8134** Host Says Marx Was Stationed at Camp Pendleton and Began Attending Calvary Chapel in 1986
 
 Claim Timestamp: 00:15:12
 
@@ -1549,7 +1548,7 @@ Investigative Direction: Check Marx's testimony and the Calvary Chapel congregat
 
 ---
 
-**C-12848** Host Says Marx Married Eileen Breining in 1988 and They Have Five Kids
+**C-8135** Host Says Marx Married Eileen Breining in 1988 and They Have Five Kids
 
 Claim Timestamp: 00:15:12
 
@@ -1565,7 +1564,7 @@ Investigative Direction: Check marriage records for the 1988 date.
 
 ---
 
-**C-12849** Host Says Marx and His Brother Began All Things Possible Ministries in 2003
+**C-8136** Host Says Marx and His Brother Began All Things Possible Ministries in 2003
 
 Claim Timestamp: 00:16:01
 
@@ -1581,7 +1580,7 @@ Investigative Direction: Check nonprofit registration and IRS filings for All Th
 
 ---
 
-**C-12850** Host Says Calvary Chapel Has a Long History of Such Characters Becoming Pastors
+**C-8137** Host Says Calvary Chapel Has a Long History of Such Characters Becoming Pastors
 
 Claim Timestamp: 00:16:01
 
@@ -1592,13 +1591,13 @@ Transcript Snippet: Calvary Chapel, as we have shown you in the past, has a long
 Anchored Artifacts: 
 Mentions: N-341
 Related Nodes: N-10246
-Supports: C-6619
+Supports: C-2754
 Tags: relevance:context
 Investigative Direction: Collect cited cases from the earlier Calvary Chapel episodes and test them against court records.
 
 ---
 
-**C-12851** Host Says Eileen Marx's Brother Kenneth Tried to Shoot Marx on His Property
+**C-8138** Host Says Eileen Marx's Brother Kenneth Tried to Shoot Marx on His Property
 
 Claim Timestamp: 00:16:01
 
@@ -1614,7 +1613,7 @@ Investigative Direction: Search local police and court records for the incident 
 
 ---
 
-**C-12852** Host Says Kenneth Later Killed His Girlfriend and Is Awaiting Trial
+**C-8139** Host Says Kenneth Later Killed His Girlfriend and Is Awaiting Trial
 
 Claim Timestamp: 00:16:01
 
@@ -1630,7 +1629,7 @@ Investigative Direction: Check court dockets for any pending case against the na
 
 ---
 
-**C-12853** Host Says Marx Punches Holes in His Walls About Once a Year and Tells His Family Not to Cover Them
+**C-8141** Host Says Marx Punches Holes in His Walls About Once a Year and Tells His Family Not to Cover Them
 
 Claim Timestamp: 00:16:55
 
@@ -1646,7 +1645,7 @@ Investigative Direction: Find the interview or talk in which Marx says this.
 
 ---
 
-**C-12854** Host Says Marx Openly States He Struggles With Suicidal and Homicidal Tendencies
+**C-8142** Host Says Marx Openly States He Struggles With Suicidal and Homicidal Tendencies
 
 Claim Timestamp: 00:16:55
 
@@ -1662,7 +1661,7 @@ Investigative Direction: Find the primary Marx interview or book passage and che
 
 ---
 
-**C-12855** Hall Statement: Melody, His Then Girlfriend, Was COO of Fold AR
+**C-8144** Hall Statement: Melody, His Then Girlfriend, Was COO of Fold AR
 
 Claim Timestamp: 00:21:21
 
@@ -1678,7 +1677,7 @@ Investigative Direction: Check Fold AR corporate filings for Melody's title.
 
 ---
 
-**C-12856** Hall Statement: Marx Said Larger Manufacturers Were Also Being Considered
+**C-8145** Hall Statement: Marx Said Larger Manufacturers Were Also Being Considered
 
 Claim Timestamp: 00:21:21
 
@@ -1694,7 +1693,7 @@ Investigative Direction: Ask other manufacturers whether Marx approached them ab
 
 ---
 
-**C-12857** Hall Statement: He Was Falsely Identified as a Columbine Person of Interest at 16
+**C-8146** Hall Statement: He Was Falsely Identified as a Columbine Person of Interest at 16
 
 Claim Timestamp: 00:22:29
 
@@ -1710,7 +1709,7 @@ Investigative Direction: Ask Hall for documentation of any 1999 contact; no reco
 
 ---
 
-**C-12858** Hall Statement: Marx Said His Wife Had a Dream About a Mission to Protect Children
+**C-8147** Hall Statement: Marx Said His Wife Had a Dream About a Mission to Protect Children
 
 Claim Timestamp: 00:23:12
 
@@ -1726,7 +1725,7 @@ Investigative Direction: Ask Hall for dated messages that describe the vision.
 
 ---
 
-**C-12859** Hall Statement: The Mission Became Putting Fold AR on School Resource Officers
+**C-8148** Hall Statement: The Mission Became Putting Fold AR on School Resource Officers
 
 Claim Timestamp: 00:23:12
 
@@ -1742,7 +1741,7 @@ Investigative Direction: Check Fold AR and ministry marketing materials for the 
 
 ---
 
-**C-12860** Host Says Marx Pretends to Summon Demons and Extract Information in Retooling Prayer
+**C-8149** Host Says Marx Pretends to Summon Demons and Extract Information in Retooling Prayer
 
 Claim Timestamp: 00:23:12
 
@@ -1758,7 +1757,7 @@ Investigative Direction: Review Marx's published teaching materials and videos o
 
 ---
 
-**C-12861** Hall Statement: Marxes Attended the 2024 SHOT Show Release of the Signature Rifle
+**C-8152** Hall Statement: Marxes Attended the 2024 SHOT Show Release of the Signature Rifle
 
 Claim Timestamp: 00:24:43
 
@@ -1774,7 +1773,7 @@ Investigative Direction: Find SHOT Show 2024 exhibitor materials, photos or pres
 
 ---
 
-**C-12862** Hall Statement: Marx and Melody Appeared on Sebastian Gorka's Show
+**C-8153** Hall Statement: Marx and Melody Appeared on Sebastian Gorka's Show
 
 Claim Timestamp: 00:24:43
 
@@ -1790,7 +1789,7 @@ Investigative Direction: Find the America First episode and check its date and w
 
 ---
 
-**C-12863** Hall Statement: He Left the Long-Range Rifle With Marx After Objecting to Its Use
+**C-8157** Hall Statement: He Left the Long-Range Rifle With Marx After Objecting to Its Use
 
 Claim Timestamp: 00:27:14
 
@@ -1801,13 +1800,13 @@ Transcript Snippet: I then departed and left the long-range configured Fold AR r
 Anchored Artifacts: A-1958.1
 Mentions: N-342, N-341
 Related Nodes: N-10602
-Supports: C-2704
+Supports: C-8156
 Tags: relevance:context
 Investigative Direction: Seek the sales or transfer paperwork for that rifle, including its serial number and recipient.
 
 ---
 
-**C-12864** Hall Statement: Marx Offered in Early 2025 to Help Find an Investor
+**C-8160** Hall Statement: Marx Offered in Early 2025 to Help Find an Investor
 
 Claim Timestamp: 00:30:14
 
@@ -1823,7 +1822,7 @@ Investigative Direction: Ask Hall for dated messages and for names of any invest
 
 ---
 
-**C-12865** Hall Statement: He and His Wife Wanted School Security to Be the Permanent Mission
+**C-8161** Hall Statement: He and His Wife Wanted School Security to Be the Permanent Mission
 
 Claim Timestamp: 00:30:14
 
@@ -1839,7 +1838,7 @@ Investigative Direction: Check any term sheet or messages that record the condit
 
 ---
 
-**C-12866** Hall Statement: The Second Condition Was Enough Money That They Would Not Need to Work
+**C-8162** Hall Statement: The Second Condition Was Enough Money That They Would Not Need to Work
 
 Claim Timestamp: 00:30:14
 
@@ -1851,11 +1850,11 @@ Anchored Artifacts: A-1958.1
 Mentions: N-342, N-344
 Related Nodes: N-10600
 Tags: relevance:context
-Investigative Direction: Compare with the $2 million valuation Marx reportedly offered (C-2707).
+Investigative Direction: Compare with the $2 million valuation Marx reportedly offered (C-8168).
 
 ---
 
-**C-12867** Hall Statement: Marx and Bulletproof-Vested Associates Met Him at the Hotel
+**C-8163** Hall Statement: Marx and Bulletproof-Vested Associates Met Him at the Hotel
 
 Claim Timestamp: 00:31:39
 
@@ -1871,7 +1870,7 @@ Investigative Direction: Identify Marx's COO and ask him about the hotel meeting
 
 ---
 
-**C-12868** Hall Statement: Marx Had a Bodyguard and All Wore Vests, Which Marx Said Were Being Broken In
+**C-8164** Hall Statement: Marx Had a Bodyguard and All Wore Vests, Which Marx Said Were Being Broken In
 
 Claim Timestamp: 00:32:24
 
@@ -1887,7 +1886,7 @@ Investigative Direction: Ask Hall for photos or messages from the three-day visi
 
 ---
 
-**C-12869** Hall Statement: He Trained Marx's Bodyguard to Deploy the Fold AR
+**C-8165** Hall Statement: He Trained Marx's Bodyguard to Deploy the Fold AR
 
 Claim Timestamp: 00:32:24
 
@@ -1903,7 +1902,7 @@ Investigative Direction: Ask Hall to identify the bodyguard and any training rec
 
 ---
 
-**C-12870** Hall Statement: Marx Told Him He Could Whoop His Ass and Nothing Could Be Done
+**C-8170** Hall Statement: Marx Told Him He Could Whoop His Ass and Nothing Could Be Done
 
 Claim Timestamp: 00:33:10
 
@@ -1914,13 +1913,13 @@ Transcript Snippet: Do you know that I could whoop your ass right here, and ther
 Anchored Artifacts: A-1958.1
 Mentions: N-342, N-341
 Related Nodes: N-10601
-Supports: C-2708
+Supports: C-8169
 Tags: relevance:context
 Investigative Direction: Ask Hall for any witness, including the bodyguard, and for any contemporaneous note of the exchange.
 
 ---
 
-**C-12871** Hall Statement: Marx Said He Would Never Engage in Scripture With Hall
+**C-8172** Hall Statement: Marx Said He Would Never Engage in Scripture With Hall
 
 Claim Timestamp: 00:34:23
 
@@ -1936,7 +1935,7 @@ Investigative Direction: Ask Hall for a contemporaneous note of the walk and exc
 
 ---
 
-**C-12872** Hall Statement: The Bunker Complex Would Be Funded Exclusively by Donors
+**C-8173** Hall Statement: The Bunker Complex Would Be Funded Exclusively by Donors
 
 Claim Timestamp: 00:35:15
 
@@ -1947,13 +1946,13 @@ Transcript Snippet: And it was going to be exclusively funded by donors.
 Anchored Artifacts: A-1958.1
 Mentions: N-342, N-341
 Related Nodes: N-10604
-Supports: C-2709
+Supports: C-8171
 Tags: relevance:context
 Investigative Direction: Check permits, donor appeals and nonprofit filings for the complex.
 
 ---
 
-**C-12873** Hall Statement: Marx Later Said There Was No Longer a Need for Fold AR in Schools
+**C-8174** Hall Statement: Marx Later Said There Was No Longer a Need for Fold AR in Schools
 
 Claim Timestamp: 00:35:15
 
@@ -1969,7 +1968,7 @@ Investigative Direction: Ask Hall for the messages in which Marx made this argum
 
 ---
 
-**C-12874** Host Says the ATF Previously Reported an Inconclusive Trace on the Tyler Robinson Gun
+**C-8179** Host Says the ATF Previously Reported an Inconclusive Trace on the Tyler Robinson Gun
 
 Claim Timestamp: 00:37:42
 
@@ -1985,7 +1984,7 @@ Investigative Direction: Compare with ATF's public statements on the bullet and 
 
 ---
 
-**C-12875** Host Explains That an ATF Trace Seeks the First Retail Purchaser of a Firearm Determined to Be Involved in a Crime
+**C-8180** Host Explains That an ATF Trace Seeks the First Retail Purchaser of a Firearm Determined to Be Involved in a Crime
 
 Claim Timestamp: 00:38:36
 
@@ -2001,7 +2000,7 @@ Investigative Direction: Obtain ATF's published description of the trace process
 
 ---
 
-**C-12876** Host Says Hall Answered the ATF Within 24 Hours and Heard Nothing Back
+**C-8181** Host Says Hall Answered the ATF Within 24 Hours and Heard Nothing Back
 
 Claim Timestamp: 00:38:36
 
@@ -2017,7 +2016,7 @@ Investigative Direction: Obtain Hall's reply email and the ATF trace case number
 
 ---
 
-**C-12877** Host Says Hall's Buyer, the Deputy, Told Him ATF Never Contacted Him
+**C-8183** Host Says Hall's Buyer, the Deputy, Told Him ATF Never Contacted Him
 
 Claim Timestamp: 00:39:25
 
@@ -2033,7 +2032,7 @@ Investigative Direction: Identify the deputy and agency; ask the ATF whether it 
 
 ---
 
-**C-12878** Host Says the Deputy Found the Gun Is Not Even Reported Missing in a System He Can Access
+**C-8184** Host Says the Deputy Found the Gun Is Not Even Reported Missing in a System He Can Access
 
 Claim Timestamp: 00:39:25
 
@@ -2049,7 +2048,7 @@ Investigative Direction: Check NCIC and Midland police records for a stolen-fire
 
 ---
 
-**C-12879** Host Says Hall Forwarded Her All the Evidence for His Account
+**C-8185** Host Says Hall Forwarded Her All the Evidence for His Account
 
 Claim Timestamp: 00:39:25
 
@@ -2060,13 +2059,13 @@ Transcript Snippet: He forwarded me all of the evidence for everything that he i
 Anchored Artifacts: A-3229.1
 Mentions: N-342, N-3
 Related Nodes: N-10599
-Supports: C-2721
+Supports: C-8182
 Tags: relevance:core
 Investigative Direction: Ask the host to publish redacted copies of the forwarded email and conversations so a third party can verify them.
 
 ---
 
-**C-12880** Host Says She Is Looking Into Where Hall Sold the Gun and It Is Already Interesting
+**C-8186** Host Says She Is Looking Into Where Hall Sold the Gun and It Is Already Interesting
 
 Claim Timestamp: 00:40:23
 
@@ -2082,7 +2081,7 @@ Investigative Direction: Ask the host what she has found about the buyer and age
 
 ---
 
-**C-12881** Host Says Governments Have Been Implicated in Arms Trafficking and Angolagate Was Real
+**C-8187** Host Says Governments Have Been Implicated in Arms Trafficking and Angolagate Was Real
 
 Claim Timestamp: 00:41:15
 
@@ -2098,7 +2097,7 @@ Investigative Direction: Test each example against official inquiries, such as I
 
 ---
 
-**C-12882** Host Says the Iranian Government Called the Protesters Israeli-Directed
+**C-8188** Host Says the Iranian Government Called the Protesters Israeli-Directed
 
 Claim Timestamp: 00:42:09
 
@@ -2109,13 +2108,13 @@ Transcript Snippet: The Iranian government was saying, "These protesters are not
 Anchored Artifacts: A-1961.1
 Mentions: N-5
 Related Nodes: N-10606, N-10026
-Supports: C-2717
+Supports: C-8189
 Tags: relevance:context
 Investigative Direction: Find the Iranian government statements and compare them with the full Trump remarks.
 
 ---
 
-**C-12883** Host Says Marx Says He Dealt With the Taliban and ISIS
+**C-8190** Host Says Marx Says He Dealt With the Taliban and ISIS
 
 Claim Timestamp: 00:45:36
 
@@ -2131,7 +2130,7 @@ Investigative Direction: Find Marx's own statements about these contacts and the
 
 ---
 
-**C-12884** Host Reiterates That Charlie Was Betrayed and She Has Looked at It for Seven Months
+**C-8191** Host Reiterates That Charlie Was Betrayed and She Has Looked at It for Seven Months
 
 Claim Timestamp: 00:45:36
 
@@ -2142,13 +2141,13 @@ Transcript Snippet: I have said from the beginning, my sense is that Charlie was
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10000
-Supports: C-10722
+Supports: C-590
 Tags: relevance:core
 Investigative Direction: This is the host's stated theory; assess it against the evidence assembled in the series.
 
 ---
 
-**C-12885** Host Suspects the 2018 Timeline Lines Up With When Epstein Went Down and a Non-Profit Implosion
+**C-8192** Host Suspects the 2018 Timeline Lines Up With When Epstein Went Down and a Non-Profit Implosion
 
 Claim Timestamp: 00:46:23
 
@@ -2164,7 +2163,7 @@ Investigative Direction: Establish what happened in 2018 (the host says Epstein 
 
 ---
 
-**C-12886** Host Suspects the Epstein World Re-Emerged Somewhere Else With a New Head
+**C-8193** Host Suspects the Epstein World Re-Emerged Somewhere Else With a New Head
 
 Claim Timestamp: 00:46:23
 
@@ -2180,7 +2179,7 @@ Investigative Direction: Treat as the host's stated speculation; seek evidence o
 
 ---
 
-**C-12887** Host Says Marx Admits Being Brain-Damaged and Has Been Caught Lying Extensively
+**C-8194** Host Says Marx Admits Being Brain-Damaged and Has Been Caught Lying Extensively
 
 Claim Timestamp: 00:50:00
 
@@ -2196,7 +2195,7 @@ Investigative Direction: Find Marx's brain-damage statement and the instances of
 
 ---
 
-**C-12888** Host Says Greg Laurie Is Accused of Trafficking and Harvest Church of Trafficking People From Romania
+**C-8195** Host Says Greg Laurie Is Accused of Trafficking and Harvest Church of Trafficking People From Romania
 
 Claim Timestamp: 00:50:00
 
@@ -2212,7 +2211,7 @@ Investigative Direction: Check the lawsuits and filings against Harvest Christia
 
 ---
 
-**C-12889** Host Says Daily Wire Will Destroy Anyone Who Tries to Leave, Citing Brett Cooper
+**C-8196** Host Says Daily Wire Will Destroy Anyone Who Tries to Leave, Citing Brett Cooper
 
 Claim Timestamp: 00:50:49
 
@@ -2228,7 +2227,7 @@ Investigative Direction: Review Cooper's public account of her departure and any
 
 ---
 
-**C-12890** Host Says Israelis Compelled to Serve in the IDF Are Reporting Suicides After Being Sent to Kill Children
+**C-8197** Host Says Israelis Compelled to Serve in the IDF Are Reporting Suicides After Being Sent to Kill Children
 
 Claim Timestamp: 00:53:50
 
@@ -2244,7 +2243,7 @@ Investigative Direction: Check published veteran-suicide data and soldier testim
 
 ---
 
-**C-12891** Host Says Pastors Hate Catholics Because the Church Stands in the Way of Serving Israel's Leader
+**C-8198** Host Says Pastors Hate Catholics Because the Church Stands in the Way of Serving Israel's Leader
 
 Claim Timestamp: 00:54:34
 
@@ -2260,7 +2259,7 @@ Investigative Direction: This is a sweeping characterization; ask for named past
 
 ---
 
-**C-12892** Host Says Cori Kennedy Has Studied Marx for Months and Posted a Deep Dive on X and Facebook
+**C-8201** Host Says Cori Kennedy Has Studied Marx for Months and Posted a Deep Dive on X and Facebook
 
 Claim Timestamp: 00:56:23
 
@@ -2276,7 +2275,7 @@ Investigative Direction: Identify the account and read the posts; confirm the re
 
 ---
 
-**C-12893** Host Says Interviews Suggest Marx Is a Compulsive Liar
+**C-8202** Host Says Interviews Suggest Marx Is a Compulsive Liar
 
 Claim Timestamp: 00:56:23
 
@@ -2292,7 +2291,7 @@ Investigative Direction: Identify the interviews and test the specific factual c
 
 ---
 
-**C-12894** Host Plans to Interview Corby Hall and Contact the ATF
+**C-8203** Host Plans to Interview Corby Hall and Contact the ATF
 
 Claim Timestamp: 00:57:26
 
@@ -2308,7 +2307,7 @@ Investigative Direction: Watch for a later Hall interview and any ATF reply to t
 
 ---
 
-**C-12895** Host Says It Is Not Known Whether the Missing Gun Is Connected to the Assassination
+**C-8204** Host Says It Is Not Known Whether the Missing Gun Is Connected to the Assassination
 
 Claim Timestamp: 00:57:26
 
@@ -2319,7 +2318,7 @@ Transcript Snippet: Again, we don't know if that gun has anything to do with it,
 Anchored Artifacts: A-1963.1
 Mentions: N-3
 Related Nodes: N-10599, N-10603
-Qualifies: C-2721
+Qualifies: C-8182
 Tags: relevance:core
 Investigative Direction: Establish which crime, if any, the trace was tied to by FOIA to the ATF for the trace request.
 

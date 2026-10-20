@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep024): N-220, N-222, N-10236, N-10336, N-10337
   - Tip-minted Nodes (reintro-ep024): N-705, N-10917, N-11092, N-11107
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10d): C-9447–C-9512
+  - Claim Range: C-2178–C-2259
   - New Nodes Introduced: N-210, N-211, N-212, N-214, N-215, N-216, N-10216, N-10217
   - Reused Nodes Appearing: N-15, N-17, N-46, N-50, N-82, N-99, N-154, N-155, N-190, N-10006, N-10025, N-10033, N-10047, N-10077, N-10083, N-10104, N-10139, N-10148, N-10164, N-10167, N-10202, N-10206, N-10406, N-11099, N-377, N-710, N-10543, N-268
   - Tip-minted Nodes (wave2): N-10894, N-10895
@@ -34,7 +34,6 @@
 - Analysis date: 2026
 - Ledger continuation summary:
   - Artifact Families Introduced: A-1313, A-1314, A-1315, A-1316, A-1317, A-1318, A-1319, A-1320
-  - Claim Range: C-1568 – C-1583
   - New Nodes Introduced (people): N-210, N-211, N-212, N-214, N-215, N-216
   - New Nodes Introduced (entities): N-10216, N-10217
   - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-3 Candace Owens, Ben Shapiro, Tucker Carlson, Lindsey Graham, Randy Fine, Nick Fuentes, Rob McCoy, Mikey McCoy/McColgan, Justin Streiff, Adam Lanza, Thomas Matthew Crooks, AIPAC
@@ -59,7 +58,7 @@ Video Timestamp: 00:01:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1568, C-1570, N-Lindsey Graham*
+*Related: C-2178, C-2179, N-Lindsey Graham*
 
 **A-1313.2** Randy Fine RJC Speech Clip (audio)
 
@@ -69,7 +68,7 @@ Video Timestamp: 00:04:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1569, N-Randy Fine, N-Tucker Carlson*
+*Related: C-2182, N-Randy Fine, N-Tucker Carlson*
 
 **A-1313.3** RJC Intern-Printed "Tucker Carlson is not Maga" Sign (stage prop, verbally described)
 
@@ -91,7 +90,7 @@ Video Timestamp: 00:10:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1571, C-1583, N-Ben Shapiro, N-Tucker Carlson, N-3 Candace Owens*
+*Related: C-2205, C-2191, N-Ben Shapiro, N-Tucker Carlson, N-3 Candace Owens*
 
 **A-1314.2** Ben Shapiro "Nick Fuentes Vermin / Tucker Knifed Charlie" Segment (video)
 
@@ -101,7 +100,7 @@ Video Timestamp: 00:14:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1571, C-1572, N-Ben Shapiro, N-Nick Fuentes, N-1 Charlie Kirk*
+*Related: C-2205, C-2206, N-Ben Shapiro, N-Nick Fuentes, N-1 Charlie Kirk*
 
 **A-1315** Candace Owens Joe Rogan 2018 Bundle
 
@@ -113,7 +112,7 @@ Video Timestamp: 00:16:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1573, N-3 Candace Owens, N-Ben Shapiro*
+*Related: C-2210, N-3 Candace Owens, N-Ben Shapiro*
 
 **A-1316** Candace & Charlie Kirk Photo Bundle
 
@@ -125,7 +124,7 @@ Video Timestamp: 00:18:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1574, N-1 Charlie Kirk, N-3 Candace Owens, N-Ben Shapiro*
+*Related: C-2212, N-1 Charlie Kirk, N-3 Candace Owens, N-Ben Shapiro*
 
 **A-1317** TPUSA Posthumous Israel Award Reporting Bundle
 
@@ -137,7 +136,7 @@ Video Timestamp: 00:21:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1575, N-10895, N-10894, N-210, N-2, N-10216*
+*Related: C-2217, N-10895, N-10894, N-210, N-2, N-10216*
 
 **A-1317.2** Andrew Kolvet X Reply Denying Knowledge of Award
 
@@ -147,7 +146,7 @@ Video Timestamp: 00:22:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1576, N-14 Andrew Kolvet, N-2 Erika Kirk, N-10216*
+*Related: C-2218, N-14 Andrew Kolvet, N-2 Erika Kirk, N-10216*
 
 **A-1317.3** Michael Starr X Follow-Up on Israeli Government Press Office "Wavering"
 
@@ -157,7 +156,7 @@ Video Timestamp: 00:23:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1577, N-210, N-10895, N-10216*
+*Related: C-2219, N-210, N-10895, N-10216*
 
 **A-1318** Erika Kirk Jesse Watters Interview Preview Bundle
 
@@ -169,7 +168,7 @@ Video Timestamp: 00:30:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1578, N-2 Erika Kirk, N-211 Jesse Watters, N-10217*
+*Related: C-2230, N-2 Erika Kirk, N-211 Jesse Watters, N-10217*
 
 **A-1319** Kash Patel X Defense Tweet Bundle
 
@@ -181,7 +180,7 @@ Video Timestamp: 00:37:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1579, N-69 Kash Patel, N-212 Alexis Wilkins*
+*Related: C-2246, N-69 Kash Patel, N-212 Alexis Wilkins*
 
 **A-1320** YouTube Comments Bundle
 
@@ -233,7 +232,7 @@ Video Timestamp: 00:45:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (viewer comment; not independently verified)
 
-*Related: C-1580, N-Tyler Robinson, N-Thomas Matthew Crooks, N-Adam Lanza*
+*Related: C-2251, N-Tyler Robinson, N-Thomas Matthew Crooks, N-Adam Lanza*
 
 **A-1320.6** "Petal" Comment Asking Host to Clarify Educational Credentials (read aloud)
 
@@ -243,7 +242,7 @@ Video Timestamp: 00:46:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1581, N-3 Candace Owens*
+*Related: C-2254, N-3 Candace Owens*
 
 **A-1320.7** "TB" Comment About Charlie Kirk and Free Speech (read aloud)
 
@@ -253,7 +252,7 @@ Video Timestamp: 00:47:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1582, N-1 Charlie Kirk, N-Nick Fuentes*
+*Related: C-2256, N-1 Charlie Kirk, N-Nick Fuentes*
 
 **A-3012** Shapiro Segment Excerpts of Host Bundle
 
@@ -264,7 +263,7 @@ Video Timestamp: 00:10:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9459, C-9460, C-9461, C-9462, N-3*
+*Related: C-2194, C-2195, C-2196, C-2197, N-3*
 
 ---
 
@@ -277,7 +276,7 @@ Video Timestamp: 00:15:17
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9472, C-9473, C-9474, C-9506, N-3*
+*Related: C-2209, C-2211, C-2213, C-2250, N-3*
 
 ---
 
@@ -290,7 +289,7 @@ Video Timestamp: 00:33:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9493, N-3*
+*Related: C-2236, N-3*
 
 ---
 
@@ -303,7 +302,7 @@ Video Timestamp: 00:39:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9503, N-3*
+*Related: C-2247, N-3*
 
 ---
 
@@ -316,7 +315,7 @@ Video Timestamp: 00:36:16
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9502, N-3*
+*Related: C-2245, N-3*
 
 ---
 
@@ -332,7 +331,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1317.1, A-1317.3, C-1575, C-1577, N-10894, N-10895, N-2, N-10216*
+*Related: A-1317.1, A-1317.3, C-2217, C-2219, N-10894, N-10895, N-2, N-10216*
 
 **N-14** Andrew Kolvet
 
@@ -343,7 +342,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1317.2, C-1576, N-2, N-10216*
+*Related: A-1317.2, C-2218, N-2, N-10216*
 
 **N-211** Jesse Watters
 
@@ -354,7 +353,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1318.1, C-1578, N-2*
+*Related: A-1318.1, C-2230, N-2*
 
 **N-212** Alexis Wilkins
 
@@ -365,7 +364,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1319.1, C-1579, N-69*
+*Related: A-1319.1, C-2246, N-69*
 
 **N-69** Kash Patel
 
@@ -376,7 +375,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1319.1, C-1579, N-212*
+*Related: A-1319.1, C-2246, N-212*
 
 **N-163** Matt Walsh
 
@@ -398,7 +397,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1317.1, C-1575, N-10216*
+*Related: A-1317.1, C-2217, N-10216*
 
 **N-215** Yael Eckstein
 
@@ -409,7 +408,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1317.1, C-1575, N-10216*
+*Related: A-1317.1, C-2217, N-10216*
 
 **N-216** Jürgen Bühler
 
@@ -420,7 +419,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1317.1, C-1575, N-10216*
+*Related: A-1317.1, C-2217, N-10216*
 
 **N-10894** Jerusalem Post
 
@@ -434,7 +433,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1317.1, C-1575, N-210, N-10216*
+*Related: A-1317.1, C-2217, N-210, N-10216*
 
 **N-10895** Israeli War Room
 
@@ -448,7 +447,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1317.1, C-1575, N-10894, N-10216*
+*Related: A-1317.1, C-2217, N-10894, N-10216*
 
 **N-10216** TPUSA Posthumous Israel Award Reporting Discrepancy
 
@@ -459,7 +458,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1317.1, A-1317.2, A-1317.3, C-1575, C-1576, C-1577, N-210, N-14, N-10894, N-10895, N-2*
+*Related: A-1317.1, A-1317.2, A-1317.3, C-2217, C-2218, C-2219, N-210, N-14, N-10894, N-10895, N-2*
 
 **N-10217** TPUSA Leadership Transparency Pressure (Post-Charlie)
 
@@ -470,7 +469,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1578, N-2, N-41, N-Rob McCoy, N-Mikey McCoy, N-11*
+*Related: C-2230, N-2, N-41, N-Rob McCoy, N-Mikey McCoy, N-11*
 
 **N-11** Tyler Bowyer
 
@@ -485,7 +484,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 Charlie Kirk; subject of the host's claims about his friendships, views and messages.
 
-*Related: C-9453, C-9454, C-9455, C-9456, C-9470, C-9471, C-9472, C-9473, C-9474, C-9475, C-9476, C-9477, C-9478, C-9479, C-9480, C-9482, C-9483, C-9485, C-9487, C-9498, C-9506, C-9511*
+*Related: C-2187, C-2188, C-2189, C-2190, C-2207, C-2208, C-2209, C-2211, C-2213, C-2214, C-2215, C-2216, C-2220, C-2221, C-2222, C-2224, C-2225, C-2227, C-2229, C-2241, C-2250, C-2258*
 
 ---
 
@@ -493,7 +492,7 @@ Charlie Kirk; subject of the host's claims about his friendships, views and mess
 
 Erika Kirk; the host discusses her interview preview and TPUSA leadership role.
 
-*Related: C-9480, C-9482, C-9483, C-9484, C-9486, C-9487, C-9488, C-9490, C-9496, C-9497*
+*Related: C-2222, C-2224, C-2225, C-2226, C-2228, C-2229, C-2231, C-2233, C-2239, C-2240*
 
 ---
 
@@ -501,14 +500,14 @@ Erika Kirk; the host discusses her interview preview and TPUSA leadership role.
 
 Host; speaks for herself throughout.
 
-*Related: C-9447, C-9448, C-9449, C-9450, C-9451, C-9452, C-9453, C-9454, C-9455, C-9456, C-9458, C-9459, C-9460, C-9461, C-9462, C-9463, C-9464, C-9465, C-9466, C-9467, C-9468, C-9471, C-9472, C-9473, C-9474, C-9475, C-9476, C-9477, C-9478, C-9479, C-9480, C-9481, C-9482, C-9483, C-9484, C-9485, C-9486, C-9489, C-9490, C-9491, C-9492, C-9493, C-9494, C-9495, C-9496, C-9497, C-9498, C-9499, C-9500, C-9501, C-9502, C-9503, C-9504, C-9505, C-9506, C-9507, C-9508, C-9509, C-9510, C-9511, C-9512*
+*Related: C-2180, C-2181, C-2183, C-2184, C-2185, C-2186, C-2187, C-2188, C-2189, C-2190, C-2193, C-2194, C-2195, C-2196, C-2197, C-2198, C-2199, C-2200, C-2201, C-2202, C-2203, C-2208, C-2209, C-2211, C-2213, C-2214, C-2215, C-2216, C-2220, C-2221, C-2222, C-2223, C-2224, C-2225, C-2226, C-2227, C-2228, C-2232, C-2233, C-2234, C-2235, C-2236, C-2237, C-2238, C-2239, C-2240, C-2241, C-2242, C-2243, C-2244, C-2245, C-2247, C-2248, C-2249, C-2250, C-2252, C-2253, C-2255, C-2257, C-2258, C-2259*
 
 ---
 
 **N-15** Justin Streiff
 Justin Streiff; transcribed as Stripe. The host thinks he was the CEO before Erika Kirk.
 
-*Related: C-9490*
+*Related: C-2233*
 
 ---
 
@@ -516,7 +515,7 @@ Justin Streiff; transcribed as Stripe. The host thinks he was the CEO before Eri
 
 Rob McCoy; the host says he is lying.
 
-*Related: C-9481, C-9491, C-9492*
+*Related: C-2223, C-2234, C-2235*
 
 ---
 
@@ -524,7 +523,7 @@ Rob McCoy; the host says he is lying.
 
 Tucker Carlson; target of the RJC attacks and Shapiro's segment.
 
-*Related: C-9448, C-9449, C-9450, C-9452, C-9453, C-9454, C-9457, C-9458, C-9469, C-9474, C-9479, C-9512*
+*Related: C-2181, C-2183, C-2184, C-2186, C-2187, C-2188, C-2192, C-2193, C-2204, C-2213, C-2221, C-2259*
 
 ---
 
@@ -532,7 +531,7 @@ Tucker Carlson; target of the RJC attacks and Shapiro's segment.
 
 Megyn Kelly; the host says Charlie opened up to her.
 
-*Related: C-9484, C-9485*
+*Related: C-2226, C-2227*
 
 ---
 
@@ -540,7 +539,7 @@ Megyn Kelly; the host says Charlie opened up to her.
 
 Sigmund Freud; credited by the host with founding modern psychology.
 
-*Related: C-9463*
+*Related: C-2198*
 
 ---
 
@@ -548,7 +547,7 @@ Sigmund Freud; credited by the host with founding modern psychology.
 
 Brigitte Macron; the aired clip refers to Macron's spouse.
 
-*Related: C-9461*
+*Related: C-2196*
 
 ---
 
@@ -556,7 +555,7 @@ Brigitte Macron; the aired clip refers to Macron's spouse.
 
 Ben Shapiro; subject of the segment the host plays and rebuts.
 
-*Related: C-9457, C-9458, C-9459, C-9460, C-9462, C-9469, C-9470, C-9471, C-9473, C-9477*
+*Related: C-2192, C-2193, C-2194, C-2195, C-2197, C-2204, C-2207, C-2208, C-2211, C-2216*
 
 ---
 
@@ -564,7 +563,7 @@ Ben Shapiro; subject of the segment the host plays and rebuts.
 
 Alex Clark; the host says she lied about the Catholic matter.
 
-*Related: C-9481*
+*Related: C-2223*
 
 ---
 
@@ -572,7 +571,7 @@ Alex Clark; the host says she lied about the Catholic matter.
 
 John Mappin; donor the host says Bowyer targeted.
 
-*Related: C-9493*
+*Related: C-2236*
 
 ---
 
@@ -580,7 +579,7 @@ John Mappin; donor the host says Bowyer targeted.
 
 Irina Mappin; donor the host says Bowyer targeted.
 
-*Related: C-9493*
+*Related: C-2236*
 
 ---
 
@@ -588,7 +587,7 @@ Irina Mappin; donor the host says Bowyer targeted.
 
 Mikey McCoy; transcribed as McColgan and McCoy.
 
-*Related: C-9481, C-9491*
+*Related: C-2223, C-2234*
 
 ---
 
@@ -596,7 +595,7 @@ Mikey McCoy; transcribed as McColgan and McCoy.
 
 Nick Fuentes; subject of the interview dispute.
 
-*Related: C-9454, C-9455, C-9456, C-9457, C-9470, C-9511*
+*Related: C-2188, C-2189, C-2190, C-2192, C-2207, C-2258*
 
 ---
 
@@ -604,7 +603,7 @@ Nick Fuentes; subject of the interview dispute.
 
 Milo Yiannopoulos; his name is used as a verb for ending a career.
 
-*Related: C-9473*
+*Related: C-2211*
 
 ---
 
@@ -612,7 +611,7 @@ Milo Yiannopoulos; his name is used as a verb for ending a career.
 
 Randy Fine; congressman the host criticizes for RJC remarks.
 
-*Related: C-9447, C-9449, C-9451, C-9512*
+*Related: C-2180, C-2183, C-2185, C-2259*
 
 ---
 
@@ -620,7 +619,7 @@ Randy Fine; congressman the host criticizes for RJC remarks.
 
 Joe Rogan; host of the 2018 appearance Shapiro objected to.
 
-*Related: C-9473*
+*Related: C-2211*
 
 ---
 
@@ -628,7 +627,7 @@ Joe Rogan; host of the 2018 appearance Shapiro objected to.
 
 Emmanuel Macron; subject of a claim in the aired clip.
 
-*Related: C-9461*
+*Related: C-2196*
 
 ---
 
@@ -636,7 +635,7 @@ Emmanuel Macron; subject of a claim in the aired clip.
 
 Sheldon Adelson; founder of the gambling empire the host cites.
 
-*Related: C-9464*
+*Related: C-2199*
 
 ---
 
@@ -644,7 +643,7 @@ Sheldon Adelson; founder of the gambling empire the host cites.
 
 Volodymyr Zelensky; listed in the aired clip.
 
-*Related: C-9461*
+*Related: C-2196*
 
 ---
 
@@ -652,7 +651,7 @@ Volodymyr Zelensky; listed in the aired clip.
 
 Fox News; the host discusses Tucker's exit and the Watters interview.
 
-*Related: C-9452, C-9483, C-9497*
+*Related: C-2186, C-2225, C-2240*
 
 ---
 
@@ -660,7 +659,7 @@ Fox News; the host discusses Tucker's exit and the Watters interview.
 
 Israel Lobby Pressure on Conservative Figures; topic reused.
 
-*Related: C-9453, C-9478, C-9479*
+*Related: C-2187, C-2220, C-2221*
 
 ---
 
@@ -668,7 +667,7 @@ Israel Lobby Pressure on Conservative Figures; topic reused.
 
 Hamptons Donor Pressure Investigation; topic reused.
 
-*Related: C-9475*
+*Related: C-2214*
 
 ---
 
@@ -676,7 +675,7 @@ Hamptons Donor Pressure Investigation; topic reused.
 
 Donor Intimidation of Charlie Kirk; topic reused.
 
-*Related: C-9495*
+*Related: C-2238*
 
 ---
 
@@ -684,7 +683,7 @@ Donor Intimidation of Charlie Kirk; topic reused.
 
 Robinson-Lance Text Chain Authenticity; topic reused.
 
-*Related: C-9499*
+*Related: C-2242*
 
 ---
 
@@ -692,7 +691,7 @@ Robinson-Lance Text Chain Authenticity; topic reused.
 
 AIPAC; the host says it dropped Fine.
 
-*Related: C-9447*
+*Related: C-2180*
 
 ---
 
@@ -700,7 +699,7 @@ AIPAC; the host says it dropped Fine.
 
 Catholic Conversion Rumor; topic reused.
 
-*Related: C-9481, C-9496*
+*Related: C-2223, C-2239*
 
 ---
 
@@ -708,7 +707,7 @@ Catholic Conversion Rumor; topic reused.
 
 Operation Mocking Pastor; topic reused.
 
-*Related: C-9450*
+*Related: C-2184*
 
 ---
 
@@ -716,7 +715,7 @@ Operation Mocking Pastor; topic reused.
 
 Charlie Kirk Pre-Mortem Israel Position Claim; topic reused.
 
-*Related: C-9478, C-9479, C-9482*
+*Related: C-2220, C-2221, C-2224*
 
 ---
 
@@ -724,7 +723,7 @@ Charlie Kirk Pre-Mortem Israel Position Claim; topic reused.
 
 Charlie Kirk Catholic Trajectory Verification; topic reused.
 
-*Related: C-9481, C-9496*
+*Related: C-2223, C-2239*
 
 ---
 
@@ -732,7 +731,7 @@ Charlie Kirk Catholic Trajectory Verification; topic reused.
 
 Tyler Bowyer X Defense Pattern; topic reused.
 
-*Related: C-9493*
+*Related: C-2236*
 
 ---
 
@@ -740,7 +739,7 @@ Tyler Bowyer X Defense Pattern; topic reused.
 
 FBI Charlie Kirk Investigation Handling (Kash Patel); topic reused.
 
-*Related: C-9498, C-9500, C-9503*
+*Related: C-2241, C-2243, C-2247*
 
 ---
 
@@ -748,7 +747,7 @@ FBI Charlie Kirk Investigation Handling (Kash Patel); topic reused.
 
 TPUSA Text Chain Authenticity Verification; topic reused.
 
-*Related: C-9492, C-9506*
+*Related: C-2235, C-2250*
 
 ---
 
@@ -756,7 +755,7 @@ TPUSA Text Chain Authenticity Verification; topic reused.
 
 Megyn Kelly Tour Attendee Authenticity Question; topic reused.
 
-*Related: C-9484*
+*Related: C-2226*
 
 ---
 
@@ -764,7 +763,7 @@ Megyn Kelly Tour Attendee Authenticity Question; topic reused.
 
 Tyler Robinson First In-Person Court Appearance Details; topic reused.
 
-*Related: C-9489*
+*Related: C-2232*
 
 ---
 
@@ -772,7 +771,7 @@ Tyler Robinson First In-Person Court Appearance Details; topic reused.
 
 Tyler Robinson Prosecution Evidence Base; topic reused.
 
-*Related: C-9488*
+*Related: C-2231*
 
 ---
 
@@ -780,7 +779,7 @@ Tyler Robinson Prosecution Evidence Base; topic reused.
 
 Megyn Kelly Attacks for Refusing to Denounce Candace Owens; topic reused.
 
-*Related: C-9485*
+*Related: C-2227*
 
 ---
 
@@ -788,7 +787,7 @@ Megyn Kelly Attacks for Refusing to Denounce Candace Owens; topic reused.
 
 Charlie Kirk Legacy Control Dispute; topic reused.
 
-*Related: C-9453, C-9454, C-9474*
+*Related: C-2187, C-2188, C-2213*
 
 ---
 
@@ -796,7 +795,7 @@ Charlie Kirk Legacy Control Dispute; topic reused.
 
 Republican Jewish Coalition; event where the signs appeared.
 
-*Related: C-9448, C-9449, C-9512*
+*Related: C-2181, C-2183, C-2259*
 
 ---
 
@@ -804,7 +803,7 @@ Republican Jewish Coalition; event where the signs appeared.
 
 Erika CEO Appointment Timing Explanation; topic reused.
 
-*Related: C-9490*
+*Related: C-2233*
 
 ---
 
@@ -812,7 +811,7 @@ Erika CEO Appointment Timing Explanation; topic reused.
 
 Candace Owens Australia Visa Review; topic reused.
 
-*Related: C-9505*
+*Related: C-2249*
 
 ---
 
@@ -820,7 +819,7 @@ Candace Owens Australia Visa Review; topic reused.
 
 Erika Kirk Interview Campaign Talking Points; topic reused.
 
-*Related: C-9483, C-9497*
+*Related: C-2225, C-2240*
 
 ---
 
@@ -828,7 +827,7 @@ Erika Kirk Interview Campaign Talking Points; topic reused.
 
 First named by the host at 00:11:28 in episode 24. Historical anarchist the host credits with bringing feminism to America.
 
-*Related: C-9463*
+*Related: C-2198*
 
 ---
 
@@ -836,7 +835,7 @@ First named by the host at 00:11:28 in episode 24. Historical anarchist the host
 
 First named by the host at 00:12:45 in episode 24. Pornography publisher the host quotes on why Jews are in pornography.
 
-*Related: C-9466*
+*Related: C-2201*
 
 ---
 
@@ -844,7 +843,7 @@ First named by the host at 00:12:45 in episode 24. Pornography publisher the hos
 
 First named by the host at 00:12:45 in episode 24. Publisher the host says fought in court for the decision making pornography free speech.
 
-*Related: C-9467*
+*Related: C-2202*
 
 ---
 
@@ -852,7 +851,7 @@ First named by the host at 00:12:45 in episode 24. Publisher the host says fough
 
 First named by the host at 00:13:28 in episode 24. Sexologist the host credits as the origin of transgenderism.
 
-*Related: C-9468*
+*Related: C-2203*
 
 ---
 
@@ -860,7 +859,7 @@ First named by the host at 00:13:28 in episode 24. Sexologist the host credits a
 
 First named by the host at 00:45:55 in episode 24. Sandy Hook shooter the host cites in a pattern theory about standardized testing and government contact.
 
-*Related: C-9508*
+*Related: C-2253*
 
 ---
 
@@ -869,7 +868,7 @@ First named by the host at 00:45:55 in episode 24. Sandy Hook shooter the host c
 Node Type: Organization
 Family and company the host names as owners of Purdue Pharma and architects of the opioid epidemic, with names on buildings in Tel Aviv.
 
-*Related: C-9464, C-9465*
+*Related: C-2199, C-2200*
 
 ---
 
@@ -878,7 +877,7 @@ Family and company the host names as owners of Purdue Pharma and architects of t
 Node Type: Organization
 Restaurant chain the host cites as an example of customers forcing a reversal of a marketing change.
 
-*Related: C-9494*
+*Related: C-2237*
 
 ---
 
@@ -887,13 +886,13 @@ Restaurant chain the host cites as an example of customers forcing a reversal of
 Node Type: Organization
 Student lender the host says stopped funding her senior year around 2010.
 
-*Related: C-9509, C-9510*
+*Related: C-2255, C-2257*
 
 ---
 
 # Claim Register
 
-**C-1568** Lindsey Graham RJC Statement on Anti-Israel Disqualification
+**C-2178** Lindsey Graham RJC Statement on Anti-Israel Disqualification
 
 Claim Timestamp: 00:01:57
 
@@ -907,7 +906,7 @@ Investigative Direction: Obtain the full RJC transcript or video to confirm exac
 
 ---
 
-**C-1569** Randy Fine Calls Tucker Carlson "Most Dangerous Anti-Semite"
+**C-2182** Randy Fine Calls Tucker Carlson "Most Dangerous Anti-Semite"
 
 Claim Timestamp: 00:04:07
 
@@ -922,7 +921,7 @@ Investigative Direction: Verify the full RJC recording for the complete quote an
 
 ---
 
-**C-1570** Host Characterizes Graham's RJC Statement as Hostile Messaging
+**C-2179** Host Characterizes Graham's RJC Statement as Hostile Messaging
 
 Claim Timestamp: 00:01:57
 
@@ -936,7 +935,7 @@ Investigative Direction: This is host concurrence / interpretive stance; verific
 
 ---
 
-**C-1571** Ben Shapiro Accuses Tucker Carlson of Knifing Charlie Kirk
+**C-2205** Ben Shapiro Accuses Tucker Carlson of Knifing Charlie Kirk
 
 Claim Timestamp: 00:14:12
 
@@ -950,7 +949,7 @@ Investigative Direction: Verify by reviewing Ben Shapiro's full segment; assess 
 
 ---
 
-**C-1572** Ben Shapiro Quotes Charlie Kirk Calling Nick Fuentes "Vermin"
+**C-2206** Ben Shapiro Quotes Charlie Kirk Calling Nick Fuentes "Vermin"
 
 Claim Timestamp: 00:14:12
 
@@ -964,7 +963,7 @@ Investigative Direction: Locate the underlying Charlie Kirk statement Ben Shapir
 
 ---
 
-**C-1573** Candace Owens "Hall Monitor" Joke on Joe Rogan (2018)
+**C-2210** Candace Owens "Hall Monitor" Joke on Joe Rogan (2018)
 
 Claim Timestamp: 00:16:02
 
@@ -978,7 +977,7 @@ Investigative Direction: Verify by locating the full original Joe Rogan episode 
 
 ---
 
-**C-1574** Host Shows Photo of Charlie Kirk Puffing His Chest Beside Ben Shapiro
+**C-2212** Host Shows Photo of Charlie Kirk Puffing His Chest Beside Ben Shapiro
 
 Claim Timestamp: 00:18:19
 
@@ -992,7 +991,7 @@ Investigative Direction: Verify by locating the source image metadata (date, loc
 
 ---
 
-**C-1575** Israeli War Room Reports Erika Kirk Will Accept Pillars of Jerusalem Award
+**C-2217** Israeli War Room Reports Erika Kirk Will Accept Pillars of Jerusalem Award
 
 Claim Timestamp: 00:21:26
 
@@ -1007,7 +1006,7 @@ Investigative Direction: Verify by independently locating the original Jerusalem
 
 ---
 
-**C-1576** Andrew Kolvet Denies Knowledge of Award
+**C-2218** Andrew Kolvet Denies Knowledge of Award
 
 Claim Timestamp: 00:22:13
 
@@ -1022,7 +1021,7 @@ Investigative Direction: Verify by locating Kolbenschlag's original X post and a
 
 ---
 
-**C-1577** Michael Starr Acknowledges Israeli Government Press Office "Wavered"
+**C-2219** Michael Starr Acknowledges Israeli Government Press Office "Wavered"
 
 Claim Timestamp: 00:23:04
 
@@ -1037,7 +1036,7 @@ Investigative Direction: Verify the original Michael Starr X post and corroborat
 
 ---
 
-**C-1578** Erika Kirk Opposes Courtroom Camera Ban
+**C-2230** Erika Kirk Opposes Courtroom Camera Ban
 
 Claim Timestamp: 00:30:31
 
@@ -1052,7 +1051,7 @@ Investigative Direction: Verify by reviewing the full Jesse Watters interview on
 
 ---
 
-**C-1579** Kash Patel Posts X Defense of Girlfriend Alexis Wilkins
+**C-2246** Kash Patel Posts X Defense of Girlfriend Alexis Wilkins
 
 Claim Timestamp: 00:37:40
 
@@ -1066,7 +1065,7 @@ Investigative Direction: Verify by locating Patel's original X post, and corrobo
 
 ---
 
-**C-1580** Tom Paul Alleges Tyler Robinson and Crooks Test Score Pattern
+**C-2251** Tom Paul Alleges Tyler Robinson and Crooks Test Score Pattern
 
 Claim Timestamp: 00:45:55
 
@@ -1080,7 +1079,7 @@ Investigative Direction: Independently confirm the test scores from public recor
 
 ---
 
-**C-1581** Petal Requests Clarification on Candace's Degree
+**C-2254** Petal Requests Clarification on Candace's Degree
 
 Claim Timestamp: 00:46:55
 
@@ -1094,7 +1093,7 @@ Investigative Direction: No investigative direction required – viewer question
 
 ---
 
-**C-1582** TB Comments on Charlie Kirk's Open-Exchange Values
+**C-2256** TB Comments on Charlie Kirk's Open-Exchange Values
 
 Claim Timestamp: 00:47:40
 
@@ -1108,7 +1107,7 @@ Investigative Direction: No investigative direction required – viewer comment 
 
 ---
 
-**C-1583** Host Characterizes Ben Shapiro Segment as Scripted Stab
+**C-2191** Host Characterizes Ben Shapiro Segment as Scripted Stab
 
 Claim Timestamp: 00:09:25
 
@@ -1123,7 +1122,7 @@ Investigative Direction: This is a host interpretive stance; verification is anc
 
 ---
 
-**C-9447** Host Says Randy Fine Called Palestinians Not Truly Human and AIPAC Dropped Him
+**C-2180** Host Says Randy Fine Called Palestinians Not Truly Human and AIPAC Dropped Him
 
 Claim Timestamp: 00:01:57
 
@@ -1139,7 +1138,7 @@ Investigative Direction: Locate Fine's original statements and any AIPAC stateme
 
 ---
 
-**C-9448** Host Says Interns Printed Red Tucker Is Not Maga Signs
+**C-2181** Host Says Interns Printed Red Tucker Is Not Maga Signs
 
 Claim Timestamp: 00:03:00
 
@@ -1155,7 +1154,7 @@ Investigative Direction: Obtain event photos or video of the signs and identify 
 
 ---
 
-**C-9449** Host Says Signs Were Handed to Young Men to Wave While Fine Spoke
+**C-2183** Host Says Signs Were Handed to Young Men to Wave While Fine Spoke
 
 Claim Timestamp: 00:04:07
 
@@ -1166,13 +1165,13 @@ Transcript Snippet: And they instructed them to wave the posters on stage while 
 Anchored Artifacts: A-1313.3
 Mentions: N-222, N-22, N-3
 Related Nodes: N-10917
-Supports: C-9448
+Supports: C-2181
 Tags: relevance:context
 Investigative Direction: Review RJC event footage for the sign holders and ask organizers who instructed them.
 
 ---
 
-**C-9450** Host Says Attacks on Tucker Were Instructed and Inorganic, Like Operation Mocking Pastor
+**C-2184** Host Says Attacks on Tucker Were Instructed and Inorganic, Like Operation Mocking Pastor
 
 Claim Timestamp: 00:05:30
 
@@ -1188,7 +1187,7 @@ Investigative Direction: Compare the wording of the anti-Tucker statements acros
 
 ---
 
-**C-9451** Host Says Randy Fine Called Palestinians Subhuman and Laughed at a Dead Body
+**C-2185** Host Says Randy Fine Called Palestinians Subhuman and Laughed at a Dead Body
 
 Claim Timestamp: 00:05:30
 
@@ -1203,7 +1202,7 @@ Investigative Direction: Locate Fine's posts or remarks calling Palestinians sub
 
 ---
 
-**C-9452** Host Says Tucker Was Fired From Fox for Opposing the Ukraine War
+**C-2186** Host Says Tucker Was Fired From Fox for Opposing the Ukraine War
 
 Claim Timestamp: 00:06:29
 
@@ -1219,7 +1218,7 @@ Investigative Direction: Fox News termination statements, court filings from the
 
 ---
 
-**C-9453** Host Says Same Individuals Were Squeezing Charlie Over Tucker Before His Death
+**C-2187** Host Says Same Individuals Were Squeezing Charlie Over Tucker Before His Death
 
 Claim Timestamp: 00:06:29
 
@@ -1235,7 +1234,7 @@ Investigative Direction: Locate the donor and activist messages to Kirk about Tu
 
 ---
 
-**C-9454** Host Says Critics Call Tucker Interviewing Fuentes a Betrayal of Charlie
+**C-2188** Host Says Critics Call Tucker Interviewing Fuentes a Betrayal of Charlie
 
 Claim Timestamp: 00:07:25
 
@@ -1251,7 +1250,7 @@ Investigative Direction: Identify the specific statements asserting the Fuentes 
 
 ---
 
-**C-9455** Host Says She Interviewed Fuentes in July and Charlie Never Objected
+**C-2189** Host Says She Interviewed Fuentes in July and Charlie Never Objected
 
 Claim Timestamp: 00:08:13
 
@@ -1266,7 +1265,7 @@ Investigative Direction: Obtain the Owens–Kirk messages about the Fuentes inte
 
 ---
 
-**C-9456** Host Says She Urged Charlie and Kolvet That Charlie Host and Debate Fuentes
+**C-2190** Host Says She Urged Charlie and Kolvet That Charlie Host and Debate Fuentes
 
 Claim Timestamp: 00:08:13
 
@@ -1276,13 +1275,13 @@ Transcript Snippet: I also had a long discussion with Andrew Kolvet that separat
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-1, N-201
-Supports: C-9455
+Supports: C-2189
 Tags: relevance:context
 Investigative Direction: Ask Kolvet to confirm the conversation and look for related messages or scheduling attempts.
 
 ---
 
-**C-9457** Shapiro Says Tucker Is a Coward and Fuentes Correctly Said So
+**C-2192** Shapiro Says Tucker Is a Coward and Fuentes Correctly Said So
 
 Claim Timestamp: 00:10:00
 
@@ -1297,7 +1296,7 @@ Investigative Direction: Review Shapiro's full segment for the exact wording and
 
 ---
 
-**C-9458** Shapiro Says Tucker Gave Owens Ideological Laundering Services
+**C-2193** Shapiro Says Tucker Gave Owens Ideological Laundering Services
 
 Claim Timestamp: 00:10:00
 
@@ -1312,7 +1311,7 @@ Investigative Direction: Review Shapiro's full segment to confirm the quote and 
 
 ---
 
-**C-9459** Shapiro Segment Clip Has Owens Saying JFK and 9/11 Were Convenient for Israel
+**C-2194** Shapiro Segment Clip Has Owens Saying JFK and 9/11 Were Convenient for Israel
 
 Claim Timestamp: 00:10:00
 
@@ -1327,7 +1326,7 @@ Investigative Direction: Identify the original episode from which Shapiro excerp
 
 ---
 
-**C-9460** Shapiro Segment Clip Has Owens Saying Pedophiles Are Intentionally in Power
+**C-2195** Shapiro Segment Clip Has Owens Saying Pedophiles Are Intentionally in Power
 
 Claim Timestamp: 00:10:44
 
@@ -1342,7 +1341,7 @@ Investigative Direction: Identify the original source episode of the excerpt and
 
 ---
 
-**C-9461** Shapiro Segment Clip Has Owens Saying Macron Is Married to a Trans Man Who Molested Him
+**C-2196** Shapiro Segment Clip Has Owens Saying Macron Is Married to a Trans Man Who Molested Him
 
 Claim Timestamp: 00:10:44
 
@@ -1357,7 +1356,7 @@ Investigative Direction: Identify the original source episode; Macron legal fili
 
 ---
 
-**C-9462** Host Stands by Clips and Says to Blame Zionists if She Dies Mysteriously
+**C-2197** Host Stands by Clips and Says to Blame Zionists if She Dies Mysteriously
 
 Claim Timestamp: 00:11:28
 
@@ -1372,7 +1371,7 @@ Investigative Direction: Compare the full original clips with Shapiro's excerpts
 
 ---
 
-**C-9463** Host Says Emma Goldman and Freud Brought Feminism and Modern Psychology to America
+**C-2198** Host Says Emma Goldman and Freud Brought Feminism and Modern Psychology to America
 
 Claim Timestamp: 00:11:28
 
@@ -1387,7 +1386,7 @@ Investigative Direction: Historical record on Goldman's and Freud's activities; 
 
 ---
 
-**C-9464** Host Says Adelson Gambling Empire and Sackler Pharmaceuticals Came From the Same Group
+**C-2199** Host Says Adelson Gambling Empire and Sackler Pharmaceuticals Came From the Same Group
 
 Claim Timestamp: 00:11:28
 
@@ -1403,7 +1402,7 @@ Investigative Direction: Corporate and philanthropic records on the Adelson and 
 
 ---
 
-**C-9465** Host Says Sackler Names Are on Buildings in Tel Aviv
+**C-2200** Host Says Sackler Names Are on Buildings in Tel Aviv
 
 Claim Timestamp: 00:12:45
 
@@ -1419,7 +1418,7 @@ Investigative Direction: Public records of Sackler-named buildings in Tel Aviv a
 
 ---
 
-**C-9466** Host Quotes Al Goldstein on Why Jews Are in Pornography
+**C-2201** Host Quotes Al Goldstein on Why Jews Are in Pornography
 
 Claim Timestamp: 00:12:45
 
@@ -1434,7 +1433,7 @@ Investigative Direction: Locate the original Al Goldstein interview or publicati
 
 ---
 
-**C-9467** Host Says Samuel Roth Fought for Pornography Free-Speech Ruling
+**C-2202** Host Says Samuel Roth Fought for Pornography Free-Speech Ruling
 
 Claim Timestamp: 00:12:45
 
@@ -1449,7 +1448,7 @@ Investigative Direction: Court record of Roth v. United States and Roth's role i
 
 ---
 
-**C-9468** Host Says Magnus Hirschfeld Is the Origin of Transgenderism
+**C-2203** Host Says Magnus Hirschfeld Is the Origin of Transgenderism
 
 Claim Timestamp: 00:13:28
 
@@ -1464,7 +1463,7 @@ Investigative Direction: Historical record of Hirschfeld's work; this is the hos
 
 ---
 
-**C-9469** Shapiro Says Tucker Is the Most Virulent Super Spreader of Vile Ideas
+**C-2204** Shapiro Says Tucker Is the Most Virulent Super Spreader of Vile Ideas
 
 Claim Timestamp: 00:13:28
 
@@ -1479,7 +1478,7 @@ Investigative Direction: Review Shapiro's full segment for context.
 
 ---
 
-**C-9470** Shapiro Says Fuentes Dedicated His Life to Destroying Charlie and TPUSA From Inside
+**C-2207** Shapiro Says Fuentes Dedicated His Life to Destroying Charlie and TPUSA From Inside
 
 Claim Timestamp: 00:14:12
 
@@ -1494,7 +1493,7 @@ Investigative Direction: Find the underlying Kirk statements about Fuentes that 
 
 ---
 
-**C-9471** Host Says Charlie and Shapiro Did Not Get Along Because Shapiro Hindered TPUSA Early
+**C-2208** Host Says Charlie and Shapiro Did Not Get Along Because Shapiro Hindered TPUSA Early
 
 Claim Timestamp: 00:14:12
 
@@ -1509,7 +1508,7 @@ Investigative Direction: Obtain the Kirk–Owens messages the host cites and ask
 
 ---
 
-**C-9472** Host Says She Has 80 to 150 Texts From Charlie About Shapiro
+**C-2209** Host Says She Has 80 to 150 Texts From Charlie About Shapiro
 
 Claim Timestamp: 00:15:17
 
@@ -1524,7 +1523,7 @@ Investigative Direction: Obtain and authenticate the messages; the host has not 
 
 ---
 
-**C-9473** Host Says Shapiro Told Charlie She Would Milo Her Career
+**C-2211** Host Says Shapiro Told Charlie She Would Milo Her Career
 
 Claim Timestamp: 00:16:50
 
@@ -1539,7 +1538,7 @@ Investigative Direction: Obtain the Kirk–Owens messages that record Shapiro's 
 
 ---
 
-**C-9474** Host Says Charlie Loved Tucker and Fought for Him on the TPUSA Stage
+**C-2213** Host Says Charlie Loved Tucker and Fought for Him on the TPUSA Stage
 
 Claim Timestamp: 00:19:01
 
@@ -1555,7 +1554,7 @@ Investigative Direction: Obtain the Kirk messages and internal TPUSA scheduling 
 
 ---
 
-**C-9475** Host Says Charlie's Vice Was Tying Success to Money and Snakes Entered Through It
+**C-2214** Host Says Charlie's Vice Was Tying Success to Money and Snakes Entered Through It
 
 Claim Timestamp: 00:19:42
 
@@ -1571,7 +1570,7 @@ Investigative Direction: Identify who entered the company and donor base through
 
 ---
 
-**C-9476** Host Says Team Asked Matt Walsh to Host Charlie's Show
+**C-2215** Host Says Team Asked Matt Walsh to Host Charlie's Show
 
 Claim Timestamp: 00:20:27
 
@@ -1586,7 +1585,7 @@ Investigative Direction: Identify who reached out to Walsh and when; ask Walsh o
 
 ---
 
-**C-9477** Host Says Walsh Hosting Required Shapiro Also Being Invited and TPUSA Accepted
+**C-2216** Host Says Walsh Hosting Required Shapiro Also Being Invited and TPUSA Accepted
 
 Claim Timestamp: 00:20:27
 
@@ -1601,7 +1600,7 @@ Investigative Direction: Identify who set the condition and whether Shapiro appe
 
 ---
 
-**C-9478** Host Says Charlie Did Waver in His Support for Israel
+**C-2220** Host Says Charlie Did Waver in His Support for Israel
 
 Claim Timestamp: 00:23:04
 
@@ -1617,7 +1616,7 @@ Investigative Direction: Compile the Kirk messages and statements on Israel read
 
 ---
 
-**C-9479** Host Says Charlie Supported Israel Until Agent Smiths Pushed Him Over Tucker
+**C-2221** Host Says Charlie Supported Israel Until Agent Smiths Pushed Him Over Tucker
 
 Claim Timestamp: 00:23:49
 
@@ -1633,7 +1632,7 @@ Investigative Direction: Identify the people the host calls the agent Smiths and
 
 ---
 
-**C-9480** Host Says Erika Has Not Sat for a Long Interview, Only the Memorial Speech
+**C-2222** Host Says Erika Has Not Sat for a Long Interview, Only the Memorial Speech
 
 Claim Timestamp: 00:27:07
 
@@ -1648,7 +1647,7 @@ Investigative Direction: Check Erika Kirk's public interview record before 2025-
 
 ---
 
-**C-9481** Host Lists Those She Targeted for Lying: Clark, Kolvet, Mikey McCoy, Rob McCoy
+**C-2223** Host Lists Those She Targeted for Lying: Clark, Kolvet, Mikey McCoy, Rob McCoy
 
 Claim Timestamp: 00:27:07
 
@@ -1664,7 +1663,7 @@ Investigative Direction: Collect the host's prior episodes on each named person 
 
 ---
 
-**C-9482** Host Says Erika Has Not Claimed Charlie Loved Israel to His Dying Breath
+**C-2224** Host Says Erika Has Not Claimed Charlie Loved Israel to His Dying Breath
 
 Claim Timestamp: 00:28:02
 
@@ -1680,7 +1679,7 @@ Investigative Direction: Review Erika Kirk's public statements on Kirk's views o
 
 ---
 
-**C-9483** Host Says Charlie Loved Watters and Fox Gave Them the Most Play Time
+**C-2225** Host Says Charlie Loved Watters and Fox Gave Them the Most Play Time
 
 Claim Timestamp: 00:28:02
 
@@ -1696,7 +1695,7 @@ Investigative Direction: Fox News appearance history of Charlie Kirk and Turning
 
 ---
 
-**C-9484** Host Says Erika Is Slated to Join Megyn Kelly on Tour
+**C-2226** Host Says Erika Is Slated to Join Megyn Kelly on Tour
 
 Claim Timestamp: 00:28:02
 
@@ -1712,7 +1711,7 @@ Investigative Direction: Check Megyn Kelly's tour announcements for an Erika Kir
 
 ---
 
-**C-9485** Host Says Charlie Opened Up to Megyn Kelly About the Pressure He Was Under
+**C-2227** Host Says Charlie Opened Up to Megyn Kelly About the Pressure He Was Under
 
 Claim Timestamp: 00:28:55
 
@@ -1728,7 +1727,7 @@ Investigative Direction: Review Megyn Kelly's accounts of her conversations with
 
 ---
 
-**C-9486** Host Says She Would Be Quiet if Erika Asked and Was Not Asked
+**C-2228** Host Says She Would Be Quiet if Erika Asked and Was Not Asked
 
 Claim Timestamp: 00:28:55
 
@@ -1743,7 +1742,7 @@ Investigative Direction: Locate the earlier episode where the host made the offe
 
 ---
 
-**C-9487** Erika Says There Were Cameras All Over Her Husband When He Was Murdered
+**C-2229** Erika Says There Were Cameras All Over Her Husband When He Was Murdered
 
 Claim Timestamp: 00:29:46
 
@@ -1758,7 +1757,7 @@ Investigative Direction: Obtain the full Watters interview to confirm wording.
 
 ---
 
-**C-9488** Erika Says She Has Seen What the Case Is Built On and There Is Nothing to Hide
+**C-2231** Erika Says She Has Seen What the Case Is Built On and There Is Nothing to Hide
 
 Claim Timestamp: 00:30:31
 
@@ -1774,7 +1773,7 @@ Investigative Direction: Ask Erika Kirk or prosecutors what material she was sho
 
 ---
 
-**C-9489** Host Says Robinson Was Allowed to Appear Virtually Without Camera for Pre-Hearing Matters
+**C-2232** Host Says Robinson Was Allowed to Appear Virtually Without Camera for Pre-Hearing Matters
 
 Claim Timestamp: 00:30:31
 
@@ -1790,7 +1789,7 @@ Investigative Direction: Utah court docket entries on the defendant's remote app
 
 ---
 
-**C-9490** Host Says She Would Have Installed an Interim CEO Below Justin Streiff
+**C-2233** Host Says She Would Have Installed an Interim CEO Below Justin Streiff
 
 Claim Timestamp: 00:30:31
 
@@ -1806,7 +1805,7 @@ Investigative Direction: TPUSA announcements of leadership changes after Septemb
 
 ---
 
-**C-9491** Host Says Public Distrusts What Has Been Seen About the McCoys and the Taryl Video
+**C-2234** Host Says Public Distrusts What Has Been Seen About the McCoys and the Taryl Video
 
 Claim Timestamp: 00:32:38
 
@@ -1822,7 +1821,7 @@ Investigative Direction: Identify the video of Taryl the host refers to and the 
 
 ---
 
-**C-9492** Host Says People Doubt Message and Call Times and Says Rob McCoy Is Lying
+**C-2235** Host Says People Doubt Message and Call Times and Says Rob McCoy Is Lying
 
 Claim Timestamp: 00:32:38
 
@@ -1838,7 +1837,7 @@ Investigative Direction: Obtain carrier call and text logs for the relevant time
 
 ---
 
-**C-9493** Host Says Bowyer Late-Night Tweeted at Donors Including the Mappins
+**C-2236** Host Says Bowyer Late-Night Tweeted at Donors Including the Mappins
 
 Claim Timestamp: 00:33:19
 
@@ -1854,7 +1853,7 @@ Investigative Direction: Locate Bowyer's posts from the weekend of 2025-11-01 an
 
 ---
 
-**C-9494** Host Says Cracker Barrel Reversed a Marketing Change After Customer Revolt
+**C-2237** Host Says Cracker Barrel Reversed a Marketing Change After Customer Revolt
 
 Claim Timestamp: 00:33:19
 
@@ -1870,7 +1869,7 @@ Investigative Direction: Cracker Barrel's 2025 logo and rebranding reversal anno
 
 ---
 
-**C-9495** Host Says TPUSA Has Issued No Messaging on Whether Donors Were Removed
+**C-2238** Host Says TPUSA Has Issued No Messaging on Whether Donors Were Removed
 
 Claim Timestamp: 00:34:40
 
@@ -1886,7 +1885,7 @@ Investigative Direction: Ask TPUSA whether any donors were removed and review it
 
 ---
 
-**C-9496** Host Says the Catholic Topic Dance Did Not Come From Erika
+**C-2239** Host Says the Catholic Topic Dance Did Not Come From Erika
 
 Claim Timestamp: 00:34:40
 
@@ -1902,7 +1901,7 @@ Investigative Direction: Trace who first pushed the Catholic denial narrative am
 
 ---
 
-**C-9497** Host Says Erika's Watters Interview Premieres in Two Days on Fox News
+**C-2240** Host Says Erika's Watters Interview Premieres in Two Days on Fox News
 
 Claim Timestamp: 00:35:20
 
@@ -1918,7 +1917,7 @@ Investigative Direction: Fox News airing schedule for the interview.
 
 ---
 
-**C-9498** Host Says Charlie Was a Big Supporter of Kash Patel and Pushed for His FBI Role
+**C-2241** Host Says Charlie Was a Big Supporter of Kash Patel and Pushed for His FBI Role
 
 Claim Timestamp: 00:35:29
 
@@ -1934,7 +1933,7 @@ Investigative Direction: Charlie Kirk Show episodes with Patel and public Kirk s
 
 ---
 
-**C-9499** Host Says Case Messages Attributed to 20-Year-Old Gay Men Do Not Sound Gen Z
+**C-2242** Host Says Case Messages Attributed to 20-Year-Old Gay Men Do Not Sound Gen Z
 
 Claim Timestamp: 00:35:29
 
@@ -1950,7 +1949,7 @@ Investigative Direction: Obtain the court exhibits of the text chain and have a 
 
 ---
 
-**C-9500** Host Says Patel Flew His FBI Plane to Nashville to See Alexis Wilkins
+**C-2243** Host Says Patel Flew His FBI Plane to Nashville to See Alexis Wilkins
 
 Claim Timestamp: 00:36:16
 
@@ -1966,7 +1965,7 @@ Investigative Direction: Flight records and any FBI or inspector-general stateme
 
 ---
 
-**C-9501** Host Says Patel Is Required to Fly the FBI Plane Wherever He Goes
+**C-2244** Host Says Patel Is Required to Fly the FBI Plane Wherever He Goes
 
 Claim Timestamp: 00:36:16
 
@@ -1981,7 +1980,7 @@ Investigative Direction: FBI security policy for the director's air travel.
 
 ---
 
-**C-9502** Host Says Clips Show Patel Calling FBI Corrupt and Opposing Taxpayer-Funded Personal Trips
+**C-2245** Host Says Clips Show Patel Calling FBI Corrupt and Opposing Taxpayer-Funded Personal Trips
 
 Claim Timestamp: 00:36:16
 
@@ -1996,7 +1995,7 @@ Investigative Direction: Locate the original Patel clips and their dates.
 
 ---
 
-**C-9503** Twitter Fact Check Says Critics React to Patel Firing People Over Travel Funds
+**C-2247** Twitter Fact Check Says Critics React to Patel Firing People Over Travel Funds
 
 Claim Timestamp: 00:39:12
 
@@ -2012,7 +2011,7 @@ Investigative Direction: Locate the fact-check note and reporting on any firings
 
 ---
 
-**C-9504** Host Says Patel Has Dated Alexis Wilkins for About a Year and a Half
+**C-2248** Host Says Patel Has Dated Alexis Wilkins for About a Year and a Half
 
 Claim Timestamp: 00:39:54
 
@@ -2027,7 +2026,7 @@ Investigative Direction: Public reporting on when the relationship began and on 
 
 ---
 
-**C-9505** Host Says She Is Banned From Australia
+**C-2249** Host Says She Is Banned From Australia
 
 Claim Timestamp: 00:44:21
 
@@ -2043,7 +2042,7 @@ Investigative Direction: Australian Department of Home Affairs visa decision doc
 
 ---
 
-**C-9506** Host Says TPUSA Has Access to All of Charlie's Messages and Can Verify Hers
+**C-2250** Host Says TPUSA Has Access to All of Charlie's Messages and Can Verify Hers
 
 Claim Timestamp: 00:45:18
 
@@ -2054,13 +2053,13 @@ Transcript Snippet: Is it Turning Point USA has access to all of his messages? T
 Anchored Artifacts: A-3013.1
 Mentions: N-3, N-1
 Related Nodes: N-10206
-Supports: C-9472
+Supports: C-2209
 Tags: relevance:core
 Investigative Direction: Ask TPUSA to confirm or deny the authenticity of the messages the host has published.
 
 ---
 
-**C-9507** Host Says Standardized Testing Flags Potential Problem People for the Government
+**C-2252** Host Says Standardized Testing Flags Potential Problem People for the Government
 
 Claim Timestamp: 00:45:55
 
@@ -2070,13 +2069,13 @@ Transcript Snippet: I believe that is the reason for standardized test testing i
 
 Anchored Artifacts: A-1320.5
 Mentions: N-3
-Supports: C-1580
+Supports: C-2251
 Tags: relevance:tangential
 Investigative Direction: No documentary support is offered; the host frames it as her belief.
 
 ---
 
-**C-9508** Host Recounts Adam Lanza as Hacker Visited by FBI and Tied to Yale Program
+**C-2253** Host Recounts Adam Lanza as Hacker Visited by FBI and Tied to Yale Program
 
 Claim Timestamp: 00:45:55
 
@@ -2086,13 +2085,13 @@ Transcript Snippet: He somehow hacked the government system, and then the FBI sh
 
 Anchored Artifacts: A-1320.5
 Mentions: N-3, N-840
-Supports: C-1580
+Supports: C-2251
 Tags: relevance:tangential
 Investigative Direction: Sandy Hook investigative records (Connecticut State Attorney report) on Lanza's education and any government contact; the host herself is unsure of the name.
 
 ---
 
-**C-9509** Host Says Sallie Mae Stopped Funding Her Senior Year Around 2010
+**C-2255** Host Says Sallie Mae Stopped Funding Her Senior Year Around 2010
 
 Claim Timestamp: 00:46:55
 
@@ -2108,7 +2107,7 @@ Investigative Direction: University of Rhode Island and loan records for the hos
 
 ---
 
-**C-9510** Host Says She Re-Enrolled After Paying Loans and Holds Two Degrees
+**C-2257** Host Says She Re-Enrolled After Paying Loans and Holds Two Degrees
 
 Claim Timestamp: 00:47:40
 
@@ -2124,7 +2123,7 @@ Investigative Direction: Degree conferral records from the host's university.
 
 ---
 
-**C-9511** Host Says Charlie Believed in Free Speech and Did Not Blink at Her Hosting Fuentes
+**C-2258** Host Says Charlie Believed in Free Speech and Did Not Blink at Her Hosting Fuentes
 
 Claim Timestamp: 00:47:40
 
@@ -2134,13 +2133,13 @@ Transcript Snippet: Charlie believed in free speech. He didn't even blink when I
 
 Anchored Artifacts: A-1320.7
 Mentions: N-3, N-1, N-201
-Supports: C-9455
+Supports: C-2189
 Tags: relevance:core
 Investigative Direction: Obtain the Kirk–Owens messages from the period of the Fuentes interview.
 
 ---
 
-**C-9512** Host Says the Tucker Is Not MAGA Signs Were Donor-Printed
+**C-2259** Host Says the Tucker Is Not MAGA Signs Were Donor-Printed
 
 Claim Timestamp: 00:48:20
 
@@ -2151,7 +2150,7 @@ Transcript Snippet: It's not cool to hold up like some donor-printed signs and d
 Anchored Artifacts: A-1313.3
 Mentions: N-3, N-222, N-22
 Related Nodes: N-10917
-Supports: C-9448
+Supports: C-2181
 Tags: relevance:context
 Investigative Direction: Identify the donor or organization that printed the signs; the host presents no evidence beyond assertion here.
 
@@ -2164,7 +2163,7 @@ Investigative Direction: Identify the donor or organization that printed the sig
 - Name uncertainty: "Jürgen Bühler" – preserved verbatim from the Israeli War Room / Jerusalem Post citation; commonly appears as "Juergen Bühler."
 - Artifact verbally referenced but not confirmed visually shown: A-1313.3 (RJC stage poster); host describes the sign but the transcript does not show it as a displayed image. Confidence Level: Medium.
 - Transcript ambiguity: Candace's recount of Charlie Kirk's "Milo" remark, the photo at Ben Shapiro's set, and the alleged behind-the-scenes text messages from Charlie are NOT presented as artifacts in this episode; the host refers to messages she has but does not display them. Related claims (about Charlie-Ben relations, Ben's alleged "Milo" remark, Candace's 80–150 text messages) are therefore NOT inscribed as claims.
-- Requires human verification: The Tyler Robinson ACT 34 figure (C-1580 / A-1320.5) originates from a viewer comment; no court filing, news report, or record is presented in this episode.
+- Requires human verification: The Tyler Robinson ACT 34 figure (C-2251 / A-1320.5) originates from a viewer comment; no court filing, news report, or record is presented in this episode.
 
 ## 6. Meme Register
 

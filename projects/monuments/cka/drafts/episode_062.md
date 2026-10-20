@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep062): N-10869
   - Tip-minted Nodes (reintro-ep062): N-768, N-10984
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10c): C-8252–C-8316
+  - Claim Range: C-5523–C-5599
   - New Nodes Introduced: N-488, N-490, N-491, N-493, N-494, N-10438, N-10439, N-10440, N-10441, N-10442
   - Reused Nodes Appearing: N-2, N-11, N-489, N-9, N-82, N-10000, N-10007, N-10015, N-10023, N-10026, N-10047, N-10063, N-10197, N-10209, N-10268, N-10320, N-10344, N-10398, N-10436, N-11035, N-11097, N-11080, N-11084, N-11180
   - (see registers)
@@ -43,7 +43,7 @@ Video Timestamp: 00:07:27–00:09:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host states Jaco Booyens and Erika Kirk confirmed authenticity)
 
-*Related: C-2182, C-2183, N-2, N-488, N-10438*
+*Related: C-5534, C-5535, N-2, N-488, N-10438*
 
 ---
 
@@ -57,7 +57,7 @@ Video Timestamp: 00:12:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host displays case on screen)
 
-*Related: C-2184, N-490, N-10438*
+*Related: C-5547, N-490, N-10438*
 
 **A-1670.2** 1999 Dismissal Without Prejudice – victim had given victim impact statement
 
@@ -67,7 +67,7 @@ Video Timestamp: 00:12:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2185, N-490*
+*Related: C-5548, N-490*
 
 ---
 
@@ -81,7 +81,7 @@ Video Timestamp: 00:13:25–00:14:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (filing document displayed)
 
-*Related: C-2186, N-489, N-387, N-490, N-491, N-10440, N-10442*
+*Related: C-5550, N-489, N-387, N-490, N-491, N-10440, N-10442*
 
 **A-1671.2** Arizona Chinese News public notice for Desert Spirit Tek LLC (signed Dec 1, 2017; state-received Dec 6, 2017)
 
@@ -91,7 +91,7 @@ Video Timestamp: 00:16:12–00:17:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (notarized filing displayed)
 
-*Related: C-2187, N-489, N-387, N-10440*
+*Related: C-5557, N-489, N-387, N-10440*
 
 ---
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:15:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2186, N-490, N-491, N-10442*
+*Related: C-5550, N-490, N-491, N-10442*
 
 ---
 
@@ -119,7 +119,7 @@ Video Timestamp: 00:21:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host displays tweet)
 
-*Related: C-2188, N-41, N-11*
+*Related: C-5563, N-41, N-11*
 
 ---
 
@@ -133,7 +133,7 @@ Video Timestamp: 00:26:45–00:30:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played on air; recording captured by employee)
 
-*Related: C-2189, C-2190, C-2191, N-14, N-494, N-10439*
+*Related: C-5578, C-5579, C-5582, N-14, N-494, N-10439*
 
 ---
 
@@ -147,7 +147,7 @@ Video Timestamp: 00:22:28–00:24:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-relayed first-person account)
 
-*Related: C-2192, N-14, N-493, N-10439*
+*Related: C-5568, N-14, N-493, N-10439*
 
 **A-1675.2** First-person account: Marina Minas Zoom-call incident and general counsel home visit for computer retrieval
 
@@ -157,7 +157,7 @@ Video Timestamp: 00:32:06–00:34:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-relayed first-person account)
 
-*Related: C-2193, N-493, N-494, N-10439*
+*Related: C-5586, N-493, N-494, N-10439*
 
 ---
 
@@ -172,7 +172,7 @@ Video Timestamp: 00:02:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8256, N-22, N-9*
+*Related: C-5527, N-22, N-9*
 
 **A-2925.2** Continuation of the Carlson clip (Mossad and blackmail questions)
 
@@ -183,7 +183,7 @@ Video Timestamp: 00:04:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8257, N-22, N-9*
+*Related: C-5528, N-22, N-9*
 
 ---
 
@@ -196,7 +196,7 @@ Video Timestamp: 00:05:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8258, N-1, N-3*
+*Related: C-5529, N-1, N-3*
 
 ---
 
@@ -211,7 +211,7 @@ Video Timestamp: 00:16:59
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8283, N-3*
+*Related: C-5560, N-3*
 
 ---
 
@@ -226,7 +226,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1669.1, C-2182, N-2, N-10438*
+*Related: A-1669.1, C-5534, N-2, N-10438*
 
 ---
 
@@ -239,7 +239,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1669.1, C-2183*
+*Related: A-1669.1, C-5535*
 
 ---
 
@@ -252,7 +252,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1671.1, A-1671.2, C-2186, N-387, N-2, N-10440, N-10441*
+*Related: A-1671.1, A-1671.2, C-5550, N-387, N-2, N-10440, N-10441*
 
 ---
 
@@ -265,7 +265,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1671.1, A-1671.2, C-2186, N-489, N-10440*
+*Related: A-1671.1, A-1671.2, C-5550, N-489, N-10440*
 
 ---
 
@@ -278,7 +278,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1670.1, A-1670.2, A-1671.1, A-1672.1, C-2184, C-2185, C-2186, N-491, N-10440*
+*Related: A-1670.1, A-1670.2, A-1671.1, A-1672.1, C-5547, C-5548, C-5550, N-491, N-10440*
 
 ---
 
@@ -291,7 +291,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1671.1, A-1672.1, C-2186, N-490*
+*Related: A-1671.1, A-1672.1, C-5550, N-490*
 
 ---
 
@@ -304,7 +304,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1674.1, A-1675.1, C-2189, C-2192, N-10439*
+*Related: A-1674.1, A-1675.1, C-5578, C-5568, N-10439*
 
 ---
 
@@ -317,7 +317,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1675.1, A-1675.2, C-2192, C-2193, N-10439*
+*Related: A-1675.1, A-1675.2, C-5568, C-5586, N-10439*
 
 ---
 
@@ -330,7 +330,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1674.1, A-1675.2, C-2189, C-2193, N-10439*
+*Related: A-1674.1, A-1675.2, C-5578, C-5586, N-10439*
 
 ---
 
@@ -343,7 +343,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1669.1, C-2182, N-1*
+*Related: A-1669.1, C-5534, N-1*
 
 ---
 
@@ -356,7 +356,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1674.1, A-1675.1, A-1675.2, C-2189, C-2190, C-2191, C-2192, C-2193, N-2, N-14, N-493, N-494*
+*Related: A-1674.1, A-1675.1, A-1675.2, C-5578, C-5579, C-5582, C-5568, C-5586, N-2, N-14, N-493, N-494*
 
 ---
 
@@ -369,7 +369,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1671.1, A-1671.2, C-2186, C-2187, N-489, N-387, N-490*
+*Related: A-1671.1, A-1671.2, C-5550, C-5557, N-489, N-387, N-490*
 
 ---
 
@@ -395,7 +395,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1671.1, A-1672.1, C-2186, N-489, N-490, N-491*
+*Related: A-1671.1, A-1672.1, C-5550, N-489, N-490, N-491*
 
 ---
 
@@ -404,7 +404,7 @@ Investigative Pressure: Medium
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
 
-*Related: C-2188*
+*Related: C-5563*
 
 ---
 
@@ -412,7 +412,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 Widow and TPUSA CEO; subject of the employees' accounts, the Frantzve family business thread and the host's planned episodes.
 
-*Related: C-8272, C-8295, C-8296, C-8310, C-8311, C-8316*
+*Related: C-5545, C-5574, C-5575, C-5593, C-5594, C-5599*
 
 ---
 
@@ -420,7 +420,7 @@ Widow and TPUSA CEO; subject of the employees' accounts, the Frantzve family bus
 
 Host; speaks for herself throughout.
 
-*Related: C-8252, C-8253, C-8254, C-8258, C-8259, C-8260, C-8261, C-8262, C-8263, C-8266, C-8267, C-8268, C-8269, C-8270, C-8271, C-8275, C-8276, C-8278, C-8280, C-8281, C-8282, C-8283, C-8284, C-8285, C-8286, C-8289, C-8290, C-8291, C-8293, C-8298, C-8303, C-8305, C-8307, C-8308, C-8309, C-8310, C-8312, C-8313, C-8314, C-8315, C-8316*
+*Related: C-5523, C-5524, C-5525, C-5529, C-5530, C-5531, C-5532, C-5533, C-5536, C-5539, C-5540, C-5541, C-5542, C-5543, C-5544, C-5551, C-5552, C-5554, C-5556, C-5558, C-5559, C-5560, C-5561, C-5562, C-5564, C-5567, C-5569, C-5570, C-5572, C-5577, C-5585, C-5588, C-5590, C-5591, C-5592, C-5593, C-5595, C-5596, C-5597, C-5598, C-5599*
 
 ---
 
@@ -428,7 +428,7 @@ Host; speaks for herself throughout.
 
 Subject of Carlson's remarks in the played clip and of the host's assertions about protection.
 
-*Related: C-8256, C-8257, C-8268*
+*Related: C-5527, C-5528, C-5541*
 
 ---
 
@@ -436,7 +436,7 @@ Subject of Carlson's remarks in the played clip and of the host's assertions abo
 
 Speaker in the played July clip; the donor's text names him with the host as platformed anti-Semites.
 
-*Related: C-8255, C-8256, C-8257, C-8259, C-8263*
+*Related: C-5526, C-5527, C-5528, C-5530, C-5536*
 
 ---
 
@@ -444,7 +444,7 @@ Speaker in the played July clip; the donor's text names him with the host as pla
 
 Referenced via a viewer's comparison to the host's Brigitte Macron series.
 
-*Related: C-8310*
+*Related: C-5593*
 
 ---
 
@@ -452,7 +452,7 @@ Referenced via a viewer's comparison to the host's Brigitte Macron series.
 
 Michele Bachmann; named in the donor text as booed at the Tampa event (the transcript spells it Michele).
 
-*Related: C-8264*
+*Related: C-5537*
 
 ---
 
@@ -460,7 +460,7 @@ Michele Bachmann; named in the donor text as booed at the Tampa event (the trans
 
 Organization whose firings, finances and legal letters the host discusses.
 
-*Related: C-8253, C-8260, C-8261, C-8269, C-8270, C-8286, C-8287, C-8293, C-8294, C-8295, C-8313, C-8314, C-8315, C-8316*
+*Related: C-5524, C-5531, C-5532, C-5542, C-5543, C-5564, C-5565, C-5572, C-5573, C-5574, C-5596, C-5597, C-5598, C-5599*
 
 ---
 
@@ -468,7 +468,7 @@ Organization whose firings, finances and legal letters the host discusses.
 
 Organization the host compares TPUSA to.
 
-*Related: C-8313*
+*Related: C-5596*
 
 ---
 
@@ -476,7 +476,7 @@ Organization the host compares TPUSA to.
 
 Named in Carlson's played question about Epstein.
 
-*Related: C-8257*
+*Related: C-5528*
 
 ---
 
@@ -484,7 +484,7 @@ Named in Carlson's played question about Epstein.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8256, C-8257, C-8268*
+*Related: C-5527, C-5528, C-5541*
 
 ---
 
@@ -492,7 +492,7 @@ Existing topic reused for new claims in this episode.
 
 Place; recurring subject of the donor text and the host's remarks.
 
-*Related: C-8259, C-8267, C-8268*
+*Related: C-5530, C-5540, C-5541*
 
 ---
 
@@ -500,7 +500,7 @@ Place; recurring subject of the donor text and the host's remarks.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8254, C-8260, C-8266*
+*Related: C-5525, C-5531, C-5539*
 
 ---
 
@@ -508,7 +508,7 @@ Existing topic reused for new claims in this episode.
 
 Place named in the host's remark.
 
-*Related: C-8267*
+*Related: C-5540*
 
 ---
 
@@ -516,7 +516,7 @@ Place named in the host's remark.
 
 Existing topic reused for the Bowyer tweet claims.
 
-*Related: C-8288, C-8289*
+*Related: C-5566, C-5567*
 
 ---
 
@@ -524,7 +524,7 @@ Existing topic reused for the Bowyer tweet claims.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8254, C-8312*
+*Related: C-5525, C-5595*
 
 ---
 
@@ -532,7 +532,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for the AmFest invitation claims.
 
-*Related: C-8258, C-8259*
+*Related: C-5529, C-5530*
 
 ---
 
@@ -540,7 +540,7 @@ Existing topic reused for the AmFest invitation claims.
 
 Existing topic reused for the September 9 AmFest text claim.
 
-*Related: C-8258*
+*Related: C-5529*
 
 ---
 
@@ -548,7 +548,7 @@ Existing topic reused for the September 9 AmFest text claim.
 
 Existing topic reused for the host's security remark.
 
-*Related: C-8309*
+*Related: C-5592*
 
 ---
 
@@ -556,7 +556,7 @@ Existing topic reused for the host's security remark.
 
 Existing topic reused for the faith-pivot claim.
 
-*Related: C-8312*
+*Related: C-5595*
 
 ---
 
@@ -564,7 +564,7 @@ Existing topic reused for the faith-pivot claim.
 
 Existing topic reused for the legal-letter and Bowyer tweet claims.
 
-*Related: C-8286, C-8289*
+*Related: C-5564, C-5567*
 
 ---
 
@@ -572,7 +572,7 @@ Existing topic reused for the legal-letter and Bowyer tweet claims.
 
 Existing topic reused for the Mar-a-Lago donor event reference.
 
-*Related: C-8293*
+*Related: C-5572*
 
 ---
 
@@ -580,7 +580,7 @@ Existing topic reused for the Mar-a-Lago donor event reference.
 
 Organization the host links to Lori Frantzve's 2017 defense work.
 
-*Related: C-8276*
+*Related: C-5552*
 
 ---
 
@@ -588,7 +588,7 @@ Organization the host links to Lori Frantzve's 2017 defense work.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8307*
+*Related: C-5590*
 
 ---
 
@@ -596,7 +596,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for the SAS and Tampa event claims.
 
-*Related: C-8255, C-8264*
+*Related: C-5526, C-5537*
 
 ---
 
@@ -604,7 +604,7 @@ Existing topic reused for the SAS and Tampa event claims.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8252, C-8270, C-8290, C-8296, C-8303, C-8316*
+*Related: C-5523, C-5543, C-5569, C-5575, C-5585, C-5599*
 
 ---
 
@@ -612,7 +612,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for the 250 million dollar claims.
 
-*Related: C-8253, C-8294, C-8315*
+*Related: C-5524, C-5573, C-5598*
 
 ---
 
@@ -621,7 +621,7 @@ Existing topic reused for the 250 million dollar claims.
 Node Type: Organization
 Obscure Phoenix Chinese-language publication used for the 2017 Desert Spirit Tek LLC public notice; the host says it was founded in April 1990.
 
-*Related: C-8281, C-8282, C-8283*
+*Related: C-5558, C-5559, C-5560*
 
 ---
 
@@ -630,7 +630,7 @@ Obscure Phoenix Chinese-language publication used for the 2017 Desert Spirit Tek
 Node Type: Place
 Town on a Native American reservation where Desert Spirit Tek LLC was filed in 2017 and where the Reems business is listed.
 
-*Related: C-8275, C-8276, C-8278*
+*Related: C-5551, C-5552, C-5554*
 
 ---
 
@@ -639,7 +639,7 @@ Town on a Native American reservation where Desert Spirit Tek LLC was filed in 2
 Node Type: Organization
 Native American nation the host says Lyle Reams is ostensibly part of.
 
-*Related: C-8273*
+*Related: C-5546*
 
 ---
 
@@ -648,7 +648,7 @@ Native American nation the host says Lyle Reams is ostensibly part of.
 Node Type: Organization
 Business owned by Lyle and Shelly Reams, listed at 21 Rose and Thobi, Sacaton, Arizona, per the host.
 
-*Related: C-8279*
+*Related: C-5555*
 
 ---
 
@@ -657,7 +657,7 @@ Business owned by Lyle and Shelly Reams, listed at 21 Rose and Thobi, Sacaton, A
 Node Type: Topic
 The legal letter(s) TPUSA sent the host in January 2026, which she says partly cited her statement that military men infiltrated TPUSA.
 
-*Related: C-8261, C-8286, C-8314*
+*Related: C-5532, C-5564, C-5597*
 
 ---
 
@@ -666,13 +666,13 @@ The legal letter(s) TPUSA sent the host in January 2026, which she says partly c
 Node Type: Organization
 Catholic AI answer engine advertised in a sponsor read.
 
-*Related: C-8285*
+*Related: C-5562*
 
 ---
 
 ## 5. Claim Register
 
-**C-2182** Charlie Kirk received a text-message pressure campaign from a self-identified Christian Zionist donor
+**C-5534** Charlie Kirk received a text-message pressure campaign from a self-identified Christian Zionist donor
 
 Claim Timestamp: 00:07:27
 
@@ -687,7 +687,7 @@ Investigative Direction: Obtain the original device or screenshot of the message
 
 ---
 
-**C-2183** Host Says Jaco Booyens and Erika Kirk Can Confirm the Text Message Is Real
+**C-5535** Host Says Jaco Booyens and Erika Kirk Can Confirm the Text Message Is Real
 
 Claim Timestamp: 00:07:27
 
@@ -701,7 +701,7 @@ Investigative Direction: Obtain on-record confirmation from Jaco Booyens and/or 
 
 ---
 
-**C-2184** Host Says Lyle Reams Was Indicted in 1998 for Sexual Conduct with a Minor Under 15
+**C-5547** Host Says Lyle Reams Was Indicted in 1998 for Sexual Conduct with a Minor Under 15
 
 Claim Timestamp: 00:12:31
 
@@ -715,7 +715,7 @@ Investigative Direction: Pull certified court records from the relevant Arizona 
 
 ---
 
-**C-2185** Host Says the Lyle Reams Case Was Dismissed Without Prejudice in 1999 After the Victim Gave a Victim Impact Statement
+**C-5548** Host Says the Lyle Reams Case Was Dismissed Without Prejudice in 1999 After the Victim Gave a Victim Impact Statement
 
 Claim Timestamp: 00:12:31
 
@@ -729,7 +729,7 @@ Investigative Direction: Verify dismissal-without-prejudice status in court reco
 
 ---
 
-**C-2186** Per Host's Documents, Frantzve, Guinta, and the Reamses Co-Filed Desert Spirit Tek LLC in Sacaton, Arizona in 2017
+**C-5550** Per Host's Documents, Frantzve, Guinta, and the Reamses Co-Filed Desert Spirit Tek LLC in Sacaton, Arizona in 2017
 
 Claim Timestamp: 00:13:25
 
@@ -744,7 +744,7 @@ Investigative Direction: Pull the certified Arizona Corporation Commission filin
 
 ---
 
-**C-2187** Per Host's Filing, Desert Spirit Tek LLC's Statutory Public Notice Was Published in the Arizona Chinese News
+**C-5557** Per Host's Filing, Desert Spirit Tek LLC's Statutory Public Notice Was Published in the Arizona Chinese News
 
 Claim Timestamp: 00:16:12
 
@@ -759,7 +759,7 @@ Investigative Direction: Obtain the original publication or archival copy of the
 
 ---
 
-**C-2188** Per a 2018 Tweet the Host Reads, Tyler Bowyer Said TPUSA Runs Everything "Like a Military Op"
+**C-5563** Per a 2018 Tweet the Host Reads, Tyler Bowyer Said TPUSA Runs Everything "Like a Military Op"
 
 Claim Timestamp: 00:21:30
 
@@ -773,7 +773,7 @@ Investigative Direction: Retrieve the original post from X/Twitter (including an
 
 ---
 
-**C-2189** In a Recording the Host Plays, a Fired TPUSA Employee Is Told Only That TPUSA Is "Going in a Different Direction"
+**C-5578** In a Recording the Host Plays, a Fired TPUSA Employee Is Told Only That TPUSA Is "Going in a Different Direction"
 
 Claim Timestamp: 00:26:45
 
@@ -788,7 +788,7 @@ Investigative Direction: Obtain the termination documentation referenced in the 
 
 ---
 
-**C-2190** The terminated employee had worked 80–90 hour weeks immediately prior to termination
+**C-5579** The terminated employee had worked 80–90 hour weeks immediately prior to termination
 
 Claim Timestamp: 00:27:24
 
@@ -803,7 +803,7 @@ Investigative Direction: Cross-check time-tracking or HR records to verify hours
 
 ---
 
-**C-2191** The terminated employee reported never having received any prior negative performance review
+**C-5582** The terminated employee reported never having received any prior negative performance review
 
 Claim Timestamp: 00:28:48
 
@@ -818,7 +818,7 @@ Investigative Direction: Obtain HR personnel file to confirm or refute the absen
 
 ---
 
-**C-2192** An Andrew Kolvet-led office confrontation was triggered by an Uber-driver's reported conversation
+**C-5568** An Andrew Kolvet-led office confrontation was triggered by an Uber-driver's reported conversation
 
 Claim Timestamp: 00:22:28
 
@@ -833,7 +833,7 @@ Investigative Direction: Identify the CMO named and obtain any internal investig
 
 ---
 
-**C-2193** A part-time TPUSA employee was terminated at her home by the general counsel during a fake Zoom meeting, with her work computer retrieved
+**C-5586** A part-time TPUSA employee was terminated at her home by the general counsel during a fake Zoom meeting, with her work computer retrieved
 
 Claim Timestamp: 00:32:06
 
@@ -844,11 +844,11 @@ Mentions: N-493, N-494
 
 Related Nodes: N-10439
 
-Investigative Direction: Identify the part-time employee and obtain on-record confirmation and contemporaneous communications (texts, voicemails) of the home-visit termination; Marina Minas (N-493) is discussed in C-8304.
+Investigative Direction: Identify the part-time employee and obtain on-record confirmation and contemporaneous communications (texts, voicemails) of the home-visit termination; Marina Minas (N-493) is discussed in C-5587.
 
 ---
 
-**C-8252** Host says Arizona is an at-will employment state
+**C-5523** Host says Arizona is an at-will employment state
 
 Claim Timestamp: 00:00:01
 
@@ -864,7 +864,7 @@ Investigative Direction: Check Arizona employment law and the terms of each term
 
 ---
 
-**C-8253** Host says TPUSA took in 250 million dollars off the assassination
+**C-5524** Host says TPUSA took in 250 million dollars off the assassination
 
 Claim Timestamp: 00:00:01
 
@@ -880,7 +880,7 @@ Investigative Direction: Obtain TPUSA and Turning Point Action financial filings
 
 ---
 
-**C-8254** Host says Charlie was threatened financially by Jewish and Christian Zionist donors
+**C-5525** Host says Charlie was threatened financially by Jewish and Christian Zionist donors
 
 Claim Timestamp: 00:01:18
 
@@ -891,13 +891,13 @@ Transcript Snippet: Charlie was threatened. He was threatened a lot, I would say
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10047, N-10209
-Supports: C-1560
+Supports: C-2122
 Tags: relevance:core
 Investigative Direction: Identify the donors and the communications (texts, emails, call logs) in which funding was threatened to Charlie Kirk in 2025.
 
 ---
 
-**C-8255** Host says Charlie stepped out of line by hosting Tucker Carlson at the July SAS event
+**C-5526** Host says Charlie stepped out of line by hosting Tucker Carlson at the July SAS event
 
 Claim Timestamp: 00:01:18
 
@@ -908,13 +908,13 @@ Transcript Snippet: In July, we know that's when things went sideways for Charli
 Anchored Artifacts: 
 Mentions: N-1, N-22
 Related Nodes: N-11080
-Supports: C-1559
+Supports: C-2121
 Tags: relevance:core
 Investigative Direction: Compare the July 2025 Student Action Summit schedule and later donor communications with the timing of the reported donor backlash.
 
 ---
 
-**C-8256** Clip: Tucker Carlson says Epstein's wealth is unexplained and he had direct connections to a foreign government
+**C-5527** Clip: Tucker Carlson says Epstein's wealth is unexplained and he had direct connections to a foreign government
 
 Claim Timestamp: 00:02:13
 
@@ -925,13 +925,13 @@ Transcript Snippet: How does a guy go from being a math teacher at the Dalton Sc
 Anchored Artifacts: A-2925.1
 Mentions: N-22, N-9
 Related Nodes: N-10023
-Supports: C-1559
+Supports: C-2121
 Tags: relevance:core
 Investigative Direction: Find the full video of Carlson's July 2025 speech and verify the quoted passage and the biographical facts about Epstein.
 
 ---
 
-**C-8257** Clip: Tucker Carlson asks whether Epstein worked for Mossad and ran a blackmail operation
+**C-5528** Clip: Tucker Carlson asks whether Epstein worked for Mossad and ran a blackmail operation
 
 Claim Timestamp: 00:04:45
 
@@ -942,13 +942,13 @@ Transcript Snippet: Were you working on behalf of Mossad? Were you running a bla
 Anchored Artifacts: A-2925.2
 Mentions: N-22, N-9
 Related Nodes: N-10015, N-10023
-Supports: C-1559
+Supports: C-2121
 Tags: relevance:core
 Investigative Direction: Find the full video of the speech; check which former Israeli prime minister Carlson referred to and the documentation of that residence.
 
 ---
 
-**C-8258** Host says Charlie texted on Sept 9 to a small group that he wanted to invite her to AmFest
+**C-5529** Host says Charlie texted on Sept 9 to a small group that he wanted to invite her to AmFest
 
 Claim Timestamp: 00:05:37
 
@@ -959,13 +959,13 @@ Transcript Snippet: on September 9th, amongst a smaller pool of TPUSA employees,
 Anchored Artifacts: A-2926.1
 Mentions: N-1, N-3
 Related Nodes: N-10320, N-10268
-Supports: C-1542
+Supports: C-2046
 Tags: relevance:core
 Investigative Direction: Obtain the September 9, 2025 text thread and its recipient list from one of the employees on it; compare with the earlier-shown text about inviting her.
 
 ---
 
-**C-8259** Host says the AmFest invitation was blocked because of Tucker's speech
+**C-5530** Host says the AmFest invitation was blocked because of Tucker's speech
 
 Claim Timestamp: 00:05:37
 
@@ -976,13 +976,13 @@ Transcript Snippet: Yeah, no. That wasn't allowed to happen because this Tucker 
 Anchored Artifacts: 
 Mentions: N-3, N-22, N-1
 Related Nodes: N-10268, N-10026
-Supports: C-4986, C-6656
+Supports: C-3163, C-2791
 Tags: relevance:core
 Investigative Direction: Identify who decided against the invitation and when, through AmFest speaker-planning records and the staff on the September 9 text.
 
 ---
 
-**C-8260** Host says Charlie's closest TPUSA friends are silent on the donor pressure
+**C-5531** Host says Charlie's closest TPUSA friends are silent on the donor pressure
 
 Claim Timestamp: 00:06:34
 
@@ -998,7 +998,7 @@ Investigative Direction: Compare TPUSA leadership's public statements on donor p
 
 ---
 
-**C-8261** Host says TPUSA does not send legal letters to people who are pro-Israel
+**C-5532** Host says TPUSA does not send legal letters to people who are pro-Israel
 
 Claim Timestamp: 00:06:34
 
@@ -1014,7 +1014,7 @@ Investigative Direction: Survey TPUSA's publicly known legal demands and cease-a
 
 ---
 
-**C-8262** Host says she re-sent the donor text through her team to hide its source
+**C-5533** Host says she re-sent the donor text through her team to hide its source
 
 Claim Timestamp: 00:06:34
 
@@ -1025,13 +1025,13 @@ Transcript Snippet: I have copy and pasted this message and sent it to my team a
 Anchored Artifacts: A-1669.1
 Mentions: N-3
 Related Nodes: N-10438
-Supports: C-2183
+Supports: C-5535
 Tags: relevance:core
 Investigative Direction: Independent confirmation of the message's authenticity from a recipient or from Charlie Kirk's phone records.
 
 ---
 
-**C-8263** Donor text calls Candace and Tucker anti-Semites and accuses Charlie of threatening Jews and Christians
+**C-5536** Donor text calls Candace and Tucker anti-Semites and accuses Charlie of threatening Jews and Christians
 
 Claim Timestamp: 00:07:27
 
@@ -1042,13 +1042,13 @@ Transcript Snippet: All of the people that trusted you, Jews and Christians, inc
 Anchored Artifacts: A-1669.1
 Mentions: N-1, N-3, N-22
 Related Nodes: N-10438
-Supports: C-2182
+Supports: C-5534
 Tags: relevance:core
 Investigative Direction: Obtain the original message and metadata to identify the sender and confirm the wording.
 
 ---
 
-**C-8264** Donor text says the TPUSA Tampa event was a disaster and Bachmann was booed with about 10 percent walking out
+**C-5537** Donor text says the TPUSA Tampa event was a disaster and Bachmann was booed with about 10 percent walking out
 
 Claim Timestamp: 00:08:14
 
@@ -1064,7 +1064,7 @@ Investigative Direction: Check video and attendee accounts of Michele Bachmann's
 
 ---
 
-**C-8265** Donor text warns that God will lift his hand from Charlie and wipe out the descendants of Edom
+**C-5538** Donor text warns that God will lift his hand from Charlie and wipe out the descendants of Edom
 
 Claim Timestamp: 00:08:14
 
@@ -1080,7 +1080,7 @@ Investigative Direction: Obtain the original message to confirm the wording of t
 
 ---
 
-**C-8266** Host says Charlie felt threatened by the donor message
+**C-5539** Host says Charlie felt threatened by the donor message
 
 Claim Timestamp: 00:09:18
 
@@ -1096,7 +1096,7 @@ Investigative Direction: Find Charlie's replies to the donor, or accounts from p
 
 ---
 
-**C-8267** Host says Israel has effectively turned Gaza into a parking lot
+**C-5540** Host says Israel has effectively turned Gaza into a parking lot
 
 Claim Timestamp: 00:09:18
 
@@ -1112,7 +1112,7 @@ Investigative Direction: Compare with satellite damage assessments and UN report
 
 ---
 
-**C-8268** Host says Epstein was protected because he worked on behalf of Israel in a blackmail operation
+**C-5541** Host says Epstein was protected because he worked on behalf of Israel in a blackmail operation
 
 Claim Timestamp: 00:10:13
 
@@ -1128,7 +1128,7 @@ Investigative Direction: Assess the documentary record on any Epstein intelligen
 
 ---
 
-**C-8269** Host says Turning Point has not named the sender of the donor message
+**C-5542** Host says Turning Point has not named the sender of the donor message
 
 Claim Timestamp: 00:10:13
 
@@ -1144,7 +1144,7 @@ Investigative Direction: Ask TPUSA directly whether it has identified the sender
 
 ---
 
-**C-8270** Host says TPUSA is lining up employees and firing them for no reason
+**C-5543** Host says TPUSA is lining up employees and firing them for no reason
 
 Claim Timestamp: 00:11:13
 
@@ -1155,13 +1155,13 @@ Transcript Snippet: You're lining up employees and firing them for literally no 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10000, N-11084
-Supports: C-2180
+Supports: C-5511
 Tags: relevance:core
 Investigative Direction: Obtain termination records, headcount data and employee accounts to establish who was let go, when, and on what stated grounds.
 
 ---
 
-**C-8271** Host says a tip adds Frantzve and Guinta to her list of people tied to adults accused of sexual contact with minors
+**C-5544** Host says a tip adds Frantzve and Guinta to her list of people tied to adults accused of sexual contact with minors
 
 Claim Timestamp: 00:11:22
 
@@ -1177,7 +1177,7 @@ Investigative Direction: Ask the host to publish the list and the tip; verify ea
 
 ---
 
-**C-8272** Host Says Guinta Is Erika's Stepfather and That He and Frantzve Repeatedly Formed Businesses with Lyle and Shelly Reams
+**C-5545** Host Says Guinta Is Erika's Stepfather and That He and Frantzve Repeatedly Formed Businesses with Lyle and Shelly Reams
 
 Claim Timestamp: 00:11:22
 
@@ -1193,7 +1193,7 @@ Investigative Direction: Search state corporation records for every entity listi
 
 ---
 
-**C-8273** Host Says Lyle Reams Is Ostensibly a Member of the Tohono O'odham Nation
+**C-5546** Host Says Lyle Reams Is Ostensibly a Member of the Tohono O'odham Nation
 
 Claim Timestamp: 00:11:22
 
@@ -1209,7 +1209,7 @@ Investigative Direction: Verify tribal enrollment through the Nation or through 
 
 ---
 
-**C-8274** Host Says Reams's Case Was Apparently No Bar to Frantzve and Guinta Doing Business with Him
+**C-5549** Host Says Reams's Case Was Apparently No Bar to Frantzve and Guinta Doing Business with Him
 
 Claim Timestamp: 00:12:31
 
@@ -1225,7 +1225,7 @@ Investigative Direction: Ask Frantzve and Guinta whether they knew of the 1998 c
 
 ---
 
-**C-8275** Host says Sacaton has 3,254 residents, 40 percent children and 95 percent Native American
+**C-5551** Host says Sacaton has 3,254 residents, 40 percent children and 95 percent Native American
 
 Claim Timestamp: 00:13:25
 
@@ -1241,7 +1241,7 @@ Investigative Direction: Compare with US Census figures for Sacaton, Arizona.
 
 ---
 
-**C-8276** Host says Lori Frantzve was doing defense work for the Department of Justice in 2017 and moved to Arizona for it
+**C-5552** Host says Lori Frantzve was doing defense work for the Department of Justice in 2017 and moved to Arizona for it
 
 Claim Timestamp: 00:13:25
 
@@ -1257,7 +1257,7 @@ Investigative Direction: Verify Frantzve's employer or contractor status in 2017
 
 ---
 
-**C-8277** Host says the filing spells Frantzve's first name Lorin, unlike her other business documents
+**C-5553** Host says the filing spells Frantzve's first name Lorin, unlike her other business documents
 
 Claim Timestamp: 00:14:19
 
@@ -1273,7 +1273,7 @@ Investigative Direction: Pull the filing from the Arizona Corporation Commission
 
 ---
 
-**C-8278** Host Says the Listed Place of Business, 26 Rose and Thobi, Does Not Appear to Exist
+**C-5554** Host Says the Listed Place of Business, 26 Rose and Thobi, Does Not Appear to Exist
 
 Claim Timestamp: 00:14:19
 
@@ -1289,7 +1289,7 @@ Investigative Direction: Check Pinal County and Gila River Indian Community addr
 
 ---
 
-**C-8279** Host Says Generation Seven Farms Is Owned by Lyle and Shelly Reams at 21 Rose and Thobi, Which She Cannot Find on a Map
+**C-5555** Host Says Generation Seven Farms Is Owned by Lyle and Shelly Reams at 21 Rose and Thobi, Which She Cannot Find on a Map
 
 Claim Timestamp: 00:15:08
 
@@ -1300,13 +1300,13 @@ Transcript Snippet: which is called Generation Seven Farms. In theory it should 
 Anchored Artifacts: A-1672.1
 Mentions: N-490, N-491, N-489, N-387
 Related Nodes: N-11179, N-10442
-Supports: C-2186
+Supports: C-5550
 Tags: relevance:core
 Investigative Direction: Obtain Generation Seven Farms' registration and any tribal business licence, and map its address.
 
 ---
 
-**C-8280** Host Says LLCs Must Publish a Notice Describing Their Intended Business
+**C-5556** Host Says LLCs Must Publish a Notice Describing Their Intended Business
 
 Claim Timestamp: 00:15:08
 
@@ -1322,7 +1322,7 @@ Investigative Direction: Confirm the Arizona LLC publication requirement (A.R.S.
 
 ---
 
-**C-8281** Host says the Arizona Chinese News is a state-recognized but obscure publication not accessible to non-Mandarin speakers
+**C-5558** Host says the Arizona Chinese News is a state-recognized but obscure publication not accessible to non-Mandarin speakers
 
 Claim Timestamp: 00:16:59
 
@@ -1338,7 +1338,7 @@ Investigative Direction: Check the Arizona Corporation Commission's list of appr
 
 ---
 
-**C-8282** Host says the Chinese News Agency was founded in Phoenix in April 1990
+**C-5559** Host says the Chinese News Agency was founded in Phoenix in April 1990
 
 Claim Timestamp: 00:16:59
 
@@ -1354,7 +1354,7 @@ Investigative Direction: Check the publisher's website and Arizona incorporation
 
 ---
 
-**C-8283** Host asks viewers to email tips with the 2017 notice or what the tech companies do
+**C-5560** Host asks viewers to email tips with the 2017 notice or what the tech companies do
 
 Claim Timestamp: 00:16:59
 
@@ -1370,7 +1370,7 @@ Investigative Direction: Review the tips received at the address and verify each
 
 ---
 
-**C-8284** Host says another shady character was involved when Frantzve formed Euro Tech in Cincinnati
+**C-5561** Host says another shady character was involved when Frantzve formed Euro Tech in Cincinnati
 
 Claim Timestamp: 00:17:52
 
@@ -1386,7 +1386,7 @@ Investigative Direction: Pull Ohio Secretary of State records for Euro Tech and 
 
 ---
 
-**C-8285** Sponsor read: Magisterium AI says its answers cite original sources from Pontifical University material
+**C-5562** Sponsor read: Magisterium AI says its answers cite original sources from Pontifical University material
 
 Claim Timestamp: 00:18:41
 
@@ -1402,7 +1402,7 @@ Investigative Direction: Sponsor claim; check Magisterium AI's published documen
 
 ---
 
-**C-8286** Host says she received a legal letter in part for saying military men infiltrated TPUSA
+**C-5564** Host says she received a legal letter in part for saying military men infiltrated TPUSA
 
 Claim Timestamp: 00:21:30
 
@@ -1413,13 +1413,13 @@ Transcript Snippet: I received a legal letter in part for noting that a bunch of
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11180, N-10436, N-10000
-Supports: C-2161, C-2158
+Supports: C-5453, C-5431
 Tags: relevance:core
 Investigative Direction: Obtain the text of the letter and compare its listed statements with the host's earlier episodes.
 
 ---
 
-**C-8287** Host describes Tyler Bowyer as the former CEO
+**C-5565** Host describes Tyler Bowyer as the former CEO
 
 Claim Timestamp: 00:21:30
 
@@ -1435,7 +1435,7 @@ Investigative Direction: Establish Bowyer's titles and dates at Turning Point US
 
 ---
 
-**C-8288** Bowyer tweet says the team can only do as much as campus police allow and works with police or private security
+**C-5566** Bowyer tweet says the team can only do as much as campus police allow and works with police or private security
 
 Claim Timestamp: 00:21:30
 
@@ -1446,13 +1446,13 @@ Transcript Snippet: We can only do as much as police on campus will allow and al
 Anchored Artifacts: A-1673.1
 Mentions: N-11
 Related Nodes: N-10197
-Supports: C-2188
+Supports: C-5563
 Tags: relevance:context
 Investigative Direction: Retrieve the tweet and its thread to see the question it answered.
 
 ---
 
-**C-8289** Host says the Bowyer tweet shows she told the truth about military men in TPUSA
+**C-5567** Host says the Bowyer tweet shows she told the truth about military men in TPUSA
 
 Claim Timestamp: 00:21:30
 
@@ -1463,13 +1463,13 @@ Transcript Snippet: Oh. So, I told the truth. Okay, great. Just wanted to make s
 Anchored Artifacts: A-1673.1
 Mentions: N-3, N-11
 Related Nodes: N-10436, N-10197
-Supports: C-2188
+Supports: C-5563
 Tags: relevance:core
 Investigative Direction: Determine whether 'that background' in the tweet means military service, and how many TPUSA staff have it.
 
 ---
 
-**C-8290** Host says she still cannot find what caused the firings
+**C-5569** Host says she still cannot find what caused the firings
 
 Claim Timestamp: 00:22:28
 
@@ -1485,7 +1485,7 @@ Investigative Direction: Obtain direct statements from TPUSA or from the fired s
 
 ---
 
-**C-8291** Host says the employee questioned about the Uber story denied knowing anything
+**C-5570** Host says the employee questioned about the Uber story denied knowing anything
 
 Claim Timestamp: 00:23:22
 
@@ -1496,13 +1496,13 @@ Transcript Snippet: the employee was like, "I have literally have no idea what y
 Anchored Artifacts: A-1675.1
 Mentions: N-14, N-3
 Related Nodes: N-10439
-Supports: C-2192
+Supports: C-5568
 Tags: relevance:core
 Investigative Direction: Identify the employee and the CMO and confirm with them whether the Uber conversation took place.
 
 ---
 
-**C-8292** Host says another employee was called in by the general counsel expecting a raise or bonus
+**C-5571** Host says another employee was called in by the general counsel expecting a raise or bonus
 
 Claim Timestamp: 00:23:22
 
@@ -1518,7 +1518,7 @@ Investigative Direction: Identify the employee and confirm with them the sequenc
 
 ---
 
-**C-8293** Host says staff worked nonstop on the memorial, AmFest and a Mar-a-Lago donor event but got no raises or bonuses
+**C-5572** Host says staff worked nonstop on the memorial, AmFest and a Mar-a-Lago donor event but got no raises or bonuses
 
 Claim Timestamp: 00:23:22
 
@@ -1534,7 +1534,7 @@ Investigative Direction: Confirm the Mar-a-Lago donor event and staff compensati
 
 ---
 
-**C-8294** Host says an employee source says TPUSA has brought in 250 million dollars since the assassination
+**C-5573** Host says an employee source says TPUSA has brought in 250 million dollars since the assassination
 
 Claim Timestamp: 00:23:22
 
@@ -1545,13 +1545,13 @@ Transcript Snippet: yet, according to this person, Turning Point USA has brought
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-11097, N-10000
-Supports: C-8253
+Supports: C-5524
 Tags: relevance:core
 Investigative Direction: Obtain the source's basis for the figure and match it against TPUSA financial filings.
 
 ---
 
-**C-8295** Host relays that employees feel the one-big-family image is public presentation and Erika does not know their names
+**C-5574** Host relays that employees feel the one-big-family image is public presentation and Erika does not know their names
 
 Claim Timestamp: 00:24:21
 
@@ -1567,7 +1567,7 @@ Investigative Direction: Interview current and former TPUSA staff about access t
 
 ---
 
-**C-8296** Host says the Uber-story employee invited Kolvet to ask for her opinion about Erika and was then fired
+**C-5575** Host says the Uber-story employee invited Kolvet to ask for her opinion about Erika and was then fired
 
 Claim Timestamp: 00:24:21
 
@@ -1578,13 +1578,13 @@ Transcript Snippet: if you want to know my actual opinion about Erika, you can j
 Anchored Artifacts: A-1675.1
 Mentions: N-14, N-2
 Related Nodes: N-10439, N-11084
-Supports: C-2192
+Supports: C-5568
 Tags: relevance:core
 Investigative Direction: Confirm with the employee the dates and what Kolvet said in the meeting.
 
 ---
 
-**C-8297** Host says security was outside during the firing and the employee started recording on her phone
+**C-5576** Host says security was outside during the firing and the employee started recording on her phone
 
 Claim Timestamp: 00:25:36
 
@@ -1595,13 +1595,13 @@ Transcript Snippet: You don't get to have an explanation. Security's outside. Le
 Anchored Artifacts: A-1674.1
 Mentions: N-494
 Related Nodes: N-10439
-Supports: C-2189
+Supports: C-5578
 Tags: relevance:core
 Investigative Direction: Obtain the full recording and identify the employee and the date.
 
 ---
 
-**C-8298** Host says she never spoke to the recorded employee
+**C-5577** Host says she never spoke to the recorded employee
 
 Claim Timestamp: 00:25:36
 
@@ -1617,7 +1617,7 @@ Investigative Direction: The transcript is ambiguous about the following words '
 
 ---
 
-**C-8299** Recording: Frank says a year-end bonus and pay details will follow by email and in the final paycheck
+**C-5580** Recording: Frank says a year-end bonus and pay details will follow by email and in the final paycheck
 
 Claim Timestamp: 00:27:24
 
@@ -1633,7 +1633,7 @@ Investigative Direction: Obtain the employee's separation paperwork and final pa
 
 ---
 
-**C-8300** Recording: employee asks to speak with Dylan or Justin and is refused
+**C-5581** Recording: employee asks to speak with Dylan or Justin and is refused
 
 Claim Timestamp: 00:27:24
 
@@ -1649,7 +1649,7 @@ Investigative Direction: Identify Dylan and Justin; the recording gives no surna
 
 ---
 
-**C-8301** Recording: employee recalls Frank earlier saying she would be first to be screwed over if she did not get a job
+**C-5583** Recording: employee recalls Frank earlier saying she would be first to be screwed over if she did not get a job
 
 Claim Timestamp: 00:30:03
 
@@ -1665,7 +1665,7 @@ Investigative Direction: Ask the employee what 'that whole GC situation' and the
 
 ---
 
-**C-8302** Recording: Frank says he speaks only for the organization
+**C-5584** Recording: Frank says he speaks only for the organization
 
 Claim Timestamp: 00:30:41
 
@@ -1681,7 +1681,7 @@ Investigative Direction: Identify who decided on the termination and how it was 
 
 ---
 
-**C-8303** Host says the firings are legal but immoral
+**C-5585** Host says the firings are legal but immoral
 
 Claim Timestamp: 00:31:18
 
@@ -1697,7 +1697,7 @@ Investigative Direction: Review the separation terms and any non-disparagement c
 
 ---
 
-**C-8304** Host names Marina Minas as the Uber chick whose name keeps coming up in the firings
+**C-5587** Host names Marina Minas as the Uber chick whose name keeps coming up in the firings
 
 Claim Timestamp: 00:32:06
 
@@ -1708,13 +1708,13 @@ Transcript Snippet: Marina Minas, this is the the Uber chick.
 Anchored Artifacts: A-1675.1
 Mentions: N-493
 Related Nodes: N-10439
-Supports: C-2192
+Supports: C-5568
 Tags: relevance:core
 Investigative Direction: Confirm Marina Minas's role at TPUSA and her connection to the Uber conversation.
 
 ---
 
-**C-8305** Host says another part-time employee was fired through a fake Zoom meeting
+**C-5588** Host says another part-time employee was fired through a fake Zoom meeting
 
 Claim Timestamp: 00:32:06
 
@@ -1730,7 +1730,7 @@ Investigative Direction: Identify the employee and who arranged the Zoom meeting
 
 ---
 
-**C-8306** Host says the part-time employee was alone at home with her kids when the general counsel arrived
+**C-5589** Host says the part-time employee was alone at home with her kids when the general counsel arrived
 
 Claim Timestamp: 00:33:10
 
@@ -1741,13 +1741,13 @@ Transcript Snippet: She's home with her kids alone with her kids. There's no she
 Anchored Artifacts: A-1675.2
 Mentions: N-494
 Related Nodes: N-10439
-Supports: C-2193
+Supports: C-5586
 Tags: relevance:core
 Investigative Direction: Confirm directly with the employee.
 
 ---
 
-**C-8307** Host infers TPUSA thought it would find something on the employees' computers
+**C-5590** Host infers TPUSA thought it would find something on the employees' computers
 
 Claim Timestamp: 00:33:10
 
@@ -1758,13 +1758,13 @@ Transcript Snippet: My sense when I hear that story is they thought they were go
 Anchored Artifacts: A-1675.2
 Mentions: N-3
 Related Nodes: N-11035, N-10439
-Supports: C-2180
+Supports: C-5511
 Tags: relevance:core
 Investigative Direction: Ask TPUSA what monitoring software it installed and whether any investigation of leaks was carried out.
 
 ---
 
-**C-8308** Host says she never spoke to the employee fired at her home
+**C-5591** Host says she never spoke to the employee fired at her home
 
 Claim Timestamp: 00:33:54
 
@@ -1780,7 +1780,7 @@ Investigative Direction: Confirm with the employee.
 
 ---
 
-**C-8309** Host says she changed her own security after the assassination and told them it was about her
+**C-5592** Host says she changed her own security after the assassination and told them it was about her
 
 Claim Timestamp: 00:38:01
 
@@ -1796,7 +1796,7 @@ Investigative Direction: Context only; no verification beyond the host's account
 
 ---
 
-**C-8310** Host says she is working on a couple of documented episodes about Erika Kirk
+**C-5593** Host says she is working on a couple of documented episodes about Erika Kirk
 
 Claim Timestamp: 00:40:12
 
@@ -1812,7 +1812,7 @@ Investigative Direction: Check subsequent episodes for the promised Erika Kirk d
 
 ---
 
-**C-8311** Viewer comment read on air says Erika never says Jesus Christ
+**C-5594** Viewer comment read on air says Erika never says Jesus Christ
 
 Claim Timestamp: 00:41:39
 
@@ -1827,7 +1827,7 @@ Investigative Direction: Search Erika Kirk's public speeches for her use of the 
 
 ---
 
-**C-8312** Host says TPUSA has dramatically changed and is now pretending to be a faith organization
+**C-5595** Host says TPUSA has dramatically changed and is now pretending to be a faith organization
 
 Claim Timestamp: 00:42:31
 
@@ -1838,13 +1838,13 @@ Transcript Snippet: it then dramatically changed, and it seems like they are now
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10398, N-10209
-Supports: C-6636
+Supports: C-2771
 Tags: relevance:context
 Investigative Direction: Compare TPUSA's mission statements and event programming before and after September 2025.
 
 ---
 
-**C-8313** Host says TPUSA is becoming the new RNC with a faith bent after Charlie's death
+**C-5596** Host says TPUSA is becoming the new RNC with a faith bent after Charlie's death
 
 Claim Timestamp: 00:43:45
 
@@ -1860,7 +1860,7 @@ Investigative Direction: Opinion; compare TPUSA's post-September 2025 political 
 
 ---
 
-**C-8314** Host says the legal letters are about the fear of being replaced
+**C-5597** Host says the legal letters are about the fear of being replaced
 
 Claim Timestamp: 00:44:30
 
@@ -1876,7 +1876,7 @@ Investigative Direction: Opinion; compare with the letter's stated purposes.
 
 ---
 
-**C-8315** Host says TPUSA raked in 250 million dollars in a couple of weeks
+**C-5598** Host says TPUSA raked in 250 million dollars in a couple of weeks
 
 Claim Timestamp: 00:44:30
 
@@ -1887,13 +1887,13 @@ Transcript Snippet: you raked in 250 million dollars in a couple of weeks.
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11097, N-10000
-Supports: C-8253, C-8294
+Supports: C-5524, C-5573
 Tags: relevance:core
 Investigative Direction: Obtain the underlying financial statements for the period.
 
 ---
 
-**C-8316** Host says TPUSA is getting rid of a bunch of people on its payroll and may question new hires' allegiance to Erika
+**C-5599** Host says TPUSA is getting rid of a bunch of people on its payroll and may question new hires' allegiance to Erika
 
 Claim Timestamp: 00:44:30
 
@@ -1904,7 +1904,7 @@ Transcript Snippet: especially as you're now getting rid of a bunch of people on
 Anchored Artifacts: 
 Mentions: N-2, N-3
 Related Nodes: N-11084, N-10000
-Supports: C-2180
+Supports: C-5511
 Tags: relevance:context
 Investigative Direction: Obtain TPUSA headcount and hiring data for late 2025 to early 2026.
 

@@ -16,7 +16,7 @@
   - Hole-minted Nodes (reintro-ep018): N-10454, N-10799
   - Tip-minted Nodes (reintro-ep018): N-870, N-11337
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10g): C-13871–C-13935
+  - Claim Range: C-1608–C-1709
   - New Nodes Introduced: N-174, N-175, N-176, N-178, N-10181, N-10182, N-10183, N-10185, N-10186, N-10188, N-10189, N-10190
   - Reused Nodes Appearing: N-10180, N-10184, N-10187, N-22, N-36, N-38, N-46, N-73, N-126, N-10000, N-10006, N-10012, N-10014, N-10027, N-10055, N-10063, N-10065, N-10095, N-10134, N-10139, N-10164, N-10169, N-10172, N-10175, N-10192, N-10315, N-10350
 
@@ -164,7 +164,7 @@ Video Timestamp: 00:02:50–00:03:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (paraphrase read aloud; tweet itself not displayed)
 
-*Related: C-1428, C-1429, N-14, N-10180*
+*Related: C-1610, C-1611, N-14, N-10180*
 
 ---
 
@@ -178,7 +178,7 @@ Video Timestamp: 00:08:44–00:09:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1430, C-1431, N-174, N-10182*
+*Related: C-1620, C-1626, N-174, N-10182*
 
 ---
 
@@ -200,7 +200,7 @@ Video Timestamp: 00:14:50–00:15:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1432, C-1433, C-1434, C-1435, C-1436, C-1437, N-174, N-175, N-10182*
+*Related: C-1628, C-1629, C-1630, C-1631, C-1633, C-1634, N-174, N-175, N-10182*
 
 ---
 
@@ -214,7 +214,7 @@ Video Timestamp: 00:23:00–00:24:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1438, N-175, N-10180, N-10181*
+*Related: C-1649, N-175, N-10180, N-10181*
 
 ---
 
@@ -228,7 +228,7 @@ Video Timestamp: 00:27:27–00:28:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1439, N-10181*
+*Related: C-1658, N-10181*
 
 ---
 
@@ -242,7 +242,7 @@ Video Timestamp: 00:45:21–00:46:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1455, C-1456, N-14*
+*Related: C-1687, C-1688, N-14*
 
 ---
 
@@ -256,7 +256,7 @@ Video Timestamp: 00:48:09–00:48:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1457*
+*Related: C-1693*
 
 ---
 
@@ -270,7 +270,7 @@ Video Timestamp: 00:49:13–00:50:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1458, N-178*
+*Related: C-1696, N-178*
 
 ---
 
@@ -284,7 +284,7 @@ Video Timestamp: 00:53:09–00:53:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1459*
+*Related: C-1699*
 
 ---
 
@@ -299,7 +299,7 @@ Video Timestamp: 00:19:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-13888, N-3, N-176*
+*Related: C-1640, N-3, N-176*
 
 ---
 
@@ -312,7 +312,7 @@ Video Timestamp: 00:33:34
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-13911, N-3*
+*Related: C-1670, N-3*
 
 ---
 
@@ -325,7 +325,7 @@ Video Timestamp: 01:05:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-13933, C-13935, N-3*
+*Related: C-1707, C-1709, N-3*
 
 ---
 
@@ -338,7 +338,7 @@ Video Timestamp: 00:25:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13899, C-13900, N-3, N-1, N-10799*
+*Related: C-1652, C-1653, N-3, N-1, N-10799*
 
 ---
 
@@ -351,7 +351,7 @@ Video Timestamp: 00:44:20
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13915, C-13916, N-55, N-38*
+*Related: C-1684, C-1685, N-55, N-38*
 
 ---
 
@@ -366,7 +366,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1251.1, C-1428, C-1429, C-1460, N-10180*
+*Related: A-1251.1, C-1610, C-1611, C-1622, N-10180*
 
 ---
 
@@ -379,7 +379,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1252.1, A-1253.1, A-1253.2, C-1430, C-1431, C-1432, C-1433, C-1434, C-1435, C-1436, C-1437, N-175, N-10182*
+*Related: A-1252.1, A-1253.1, A-1253.2, C-1620, C-1626, C-1628, C-1629, C-1630, C-1631, C-1633, C-1634, N-175, N-10182*
 
 ---
 
@@ -392,7 +392,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1254.1, C-1438, N-10180, N-10181*
+*Related: A-1254.1, C-1649, N-10180, N-10181*
 
 ---
 
@@ -405,7 +405,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1440, N-10183*
+*Related: C-1638, N-10183*
 
 ---
 
@@ -418,7 +418,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1452, C-1453, N-10186*
+*Related: C-1679, C-1681, N-10186*
 
 ---
 
@@ -431,7 +431,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1259.1, C-1459*
+*Related: A-1259.1, C-1699*
 
 ---
 
@@ -444,7 +444,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1258.1, C-1458*
+*Related: A-1258.1, C-1696*
 
 ---
 
@@ -457,7 +457,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1251.1, A-1254.1, C-1425, C-1426, C-1427, N-14, N-175*
+*Related: A-1251.1, A-1254.1, C-1612, C-1615, C-1617, N-14, N-175*
 
 ---
 
@@ -470,7 +470,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1254.1, A-1255.1, C-1438, C-1439, C-1460, N-175*
+*Related: A-1254.1, A-1255.1, C-1649, C-1658, C-1622, N-175*
 
 ---
 
@@ -483,7 +483,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1252.1, A-1253.1, A-1253.2, C-1430, C-1431, C-1432, C-1436, C-1437, N-174, N-175*
+*Related: A-1252.1, A-1253.1, A-1253.2, C-1620, C-1626, C-1628, C-1633, C-1634, N-174, N-175*
 
 ---
 
@@ -496,7 +496,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1440, N-176*
+*Related: C-1638, N-176*
 
 ---
 
@@ -509,7 +509,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1441, C-1442, C-1443, C-1444*
+*Related: C-1664, C-1667, C-1665, C-1669*
 
 ---
 
@@ -522,7 +522,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1445, C-1446, C-1447, N-10189*
+*Related: C-1671, C-1672, C-1673, N-10189*
 
 ---
 
@@ -535,7 +535,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1448, C-1449, C-1450, C-1451, C-1452, C-1453, C-1454, N-94*
+*Related: C-1675, C-1676, C-1677, C-1678, C-1679, C-1681, C-1683, N-94*
 
 ---
 
@@ -548,7 +548,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1256.1, C-1455, C-1456, N-14, N-163*
+*Related: A-1256.1, C-1687, C-1688, N-14, N-163*
 
 ---
 
@@ -561,7 +561,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1253.1, C-1432, N-174*
+*Related: A-1253.1, C-1628, N-174*
 
 ---
 
@@ -574,7 +574,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1446, N-10185*
+*Related: C-1672, N-10185*
 
 ---
 
@@ -587,7 +587,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1453, C-1454, N-10186*
+*Related: C-1681, C-1683, N-10186*
 
 ---
 
@@ -596,7 +596,7 @@ Investigative Pressure: Medium
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
 
-*Related: C-1444*
+*Related: C-1669*
 
 ---
 
@@ -604,7 +604,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 Subject of the assassination; the host discusses his wound, his texts and his Catholicism.
 
-*Related: C-13872, C-13873, C-13876, C-13886, C-13890, C-13891, C-13893, C-13895, C-13899, C-13900, C-13905, C-13906, C-13912, C-13915, C-13916, C-13918, C-13925, C-13928, C-13930*
+*Related: C-1609, C-1613, C-1618, C-1637, C-1642, C-1643, C-1645, C-1647, C-1652, C-1653, C-1660, C-1661, C-1674, C-1684, C-1685, C-1689, C-1698, C-1702, C-1704*
 
 ---
 
@@ -612,7 +612,7 @@ Subject of the assassination; the host discusses his wound, his texts and his Ca
 
 Host; speaks for herself throughout.
 
-*Related: C-13871, C-13872, C-13874, C-13875, C-13876, C-13877, C-13878, C-13879, C-13880, C-13881, C-13882, C-13883, C-13884, C-13885, C-13886, C-13887, C-13888, C-13889, C-13890, C-13891, C-13892, C-13893, C-13894, C-13895, C-13899, C-13900, C-13901, C-13902, C-13903, C-13904, C-13905, C-13906, C-13907, C-13908, C-13909, C-13910, C-13911, C-13912, C-13913, C-13914, C-13918, C-13919, C-13920, C-13921, C-13922, C-13923, C-13924, C-13925, C-13927, C-13928, C-13929, C-13930, C-13931, C-13932, C-13933, C-13934, C-13935*
+*Related: C-1608, C-1609, C-1614, C-1616, C-1618, C-1619, C-1621, C-1623, C-1624, C-1625, C-1627, C-1632, C-1635, C-1636, C-1637, C-1639, C-1640, C-1641, C-1642, C-1643, C-1644, C-1645, C-1646, C-1647, C-1652, C-1653, C-1654, C-1655, C-1656, C-1657, C-1660, C-1661, C-1662, C-1663, C-1666, C-1668, C-1670, C-1674, C-1680, C-1682, C-1689, C-1690, C-1691, C-1692, C-1694, C-1695, C-1697, C-1698, C-1701, C-1702, C-1703, C-1704, C-1705, C-1706, C-1707, C-1708, C-1709*
 
 ---
 
@@ -620,7 +620,7 @@ Host; speaks for herself throughout.
 
 US president; the host criticizes his Truth Social post on the Israel and Hamas deal.
 
-*Related: C-13924*
+*Related: C-1697*
 
 ---
 
@@ -628,7 +628,7 @@ US president; the host criticizes his Truth Social post on the Israel and Hamas 
 
 Named by the host in her remark about pastors preaching about him.
 
-*Related: C-13929*
+*Related: C-1703*
 
 ---
 
@@ -636,7 +636,7 @@ Named by the host in her remark about pastors preaching about him.
 
 Israeli prime minister; the host says he said before October 7 that they must hit Hamas hard.
 
-*Related: C-13922*
+*Related: C-1694*
 
 ---
 
@@ -644,7 +644,7 @@ Israeli prime minister; the host says he said before October 7 that they must hi
 
 Named in Hammer's statement about the Hamptons retreat.
 
-*Related: C-13915*
+*Related: C-1684*
 
 ---
 
@@ -652,7 +652,7 @@ Named in Hammer's statement about the Hamptons retreat.
 
 Named in the host's remark about pastors preaching about her.
 
-*Related: C-13929*
+*Related: C-1703*
 
 ---
 
@@ -660,7 +660,7 @@ Named in the host's remark about pastors preaching about her.
 
 Commentator; the host discusses his Hamptons statement, his texts with Charlie and his account of their call.
 
-*Related: C-13915, C-13916, C-13917, C-13918*
+*Related: C-1684, C-1685, C-1686, C-1689*
 
 ---
 
@@ -668,7 +668,7 @@ Commentator; the host discusses his Hamptons statement, his texts with Charlie a
 
 Steele family member the host says is big with Caldera Engineering; transcribed Steel.
 
-*Related: C-13907*
+*Related: C-1662*
 
 ---
 
@@ -676,7 +676,7 @@ Steele family member the host says is big with Caldera Engineering; transcribed 
 
 On-the-ground source whose account of feds implanting memories the host relays.
 
-*Related: C-13903, C-13904*
+*Related: C-1656, C-1657*
 
 ---
 
@@ -684,7 +684,7 @@ On-the-ground source whose account of feds implanting memories the host relays.
 
 US negotiator the host names with Kushner at the Israel and Hamas talks.
 
-*Related: C-13921*
+*Related: C-1692*
 
 ---
 
@@ -692,7 +692,7 @@ US negotiator the host names with Kushner at the Israel and Hamas talks.
 
 Organization whose media instruction and volunteer roles the host questions.
 
-*Related: C-13879, C-13880, C-13881, C-13885*
+*Related: C-1623, C-1624, C-1625, C-1636*
 
 ---
 
@@ -700,7 +700,7 @@ Organization whose media instruction and volunteer roles the host questions.
 
 Network on which Cooper Brown and Jason Chaffetz appeared.
 
-*Related: C-13882, C-13895, C-13896, C-13897*
+*Related: C-1627, C-1647, C-1648, C-1650*
 
 ---
 
@@ -708,7 +708,7 @@ Network on which Cooper Brown and Jason Chaffetz appeared.
 
 Host campus of the 9/10 event.
 
-*Related: C-13881, C-13902*
+*Related: C-1625, C-1655*
 
 ---
 
@@ -716,7 +716,7 @@ Host campus of the 9/10 event.
 
 Agency the host says is guarding information or whose staff are related to Chaffetz.
 
-*Related: C-13898, C-13903, C-13914, C-13932*
+*Related: C-1651, C-1656, C-1682, C-1706*
 
 ---
 
@@ -724,7 +724,7 @@ Agency the host says is guarding information or whose staff are related to Chaff
 
 Location of the August retreat Hammer's statement addresses.
 
-*Related: C-13915, C-13916*
+*Related: C-1684, C-1685*
 
 ---
 
@@ -732,7 +732,7 @@ Location of the August retreat Hammer's statement addresses.
 
 Existing topic reused for camera-removal claims.
 
-*Related: C-13891*
+*Related: C-1643*
 
 ---
 
@@ -740,7 +740,7 @@ Existing topic reused for camera-removal claims.
 
 Place at the center of the host's discussion of the peace deal.
 
-*Related: C-13919, C-13920, C-13921, C-13922, C-13923, C-13924*
+*Related: C-1690, C-1691, C-1692, C-1694, C-1695, C-1697*
 
 ---
 
@@ -748,7 +748,7 @@ Place at the center of the host's discussion of the peace deal.
 
 Valve maker the host investigates.
 
-*Related: C-13894, C-13907, C-13908, C-13909, C-13910, C-13911*
+*Related: C-1646, C-1662, C-1663, C-1666, C-1668, C-1670*
 
 ---
 
@@ -756,7 +756,7 @@ Valve maker the host investigates.
 
 Existing topic reused for the multiple-shot witnesses.
 
-*Related: C-13877*
+*Related: C-1619*
 
 ---
 
@@ -764,7 +764,7 @@ Existing topic reused for the multiple-shot witnesses.
 
 Existing topic reused for Hammer's statement.
 
-*Related: C-13915, C-13916*
+*Related: C-1684, C-1685*
 
 ---
 
@@ -772,7 +772,7 @@ Existing topic reused for Hammer's statement.
 
 Existing topic reused for the pastors remark.
 
-*Related: C-13929*
+*Related: C-1703*
 
 ---
 
@@ -780,7 +780,7 @@ Existing topic reused for the pastors remark.
 
 Existing topic reused for the Catholicism remark.
 
-*Related: C-13928*
+*Related: C-1702*
 
 ---
 
@@ -788,7 +788,7 @@ Existing topic reused for the Catholicism remark.
 
 Existing topic reused for the call-timing and purpose claims.
 
-*Related: C-13917, C-13918*
+*Related: C-1686, C-1689*
 
 ---
 
@@ -796,7 +796,7 @@ Existing topic reused for the call-timing and purpose claims.
 
 Existing topic reused for the decoy-rifle claim.
 
-*Related: C-13889*
+*Related: C-1641*
 
 ---
 
@@ -804,7 +804,7 @@ Existing topic reused for the decoy-rifle claim.
 
 Existing topic reused for the left-side blind spot.
 
-*Related: C-13893, C-13905*
+*Related: C-1645, C-1660*
 
 ---
 
@@ -812,7 +812,7 @@ Existing topic reused for the left-side blind spot.
 
 Existing topic reused for the camera-removal claims.
 
-*Related: C-13892*
+*Related: C-1644*
 
 ---
 
@@ -820,7 +820,7 @@ Existing topic reused for the camera-removal claims.
 
 Existing topic reused for the witness-selection claims.
 
-*Related: C-13877, C-13894, C-13902, C-13903, C-13904*
+*Related: C-1619, C-1646, C-1655, C-1656, C-1657*
 
 ---
 
@@ -828,7 +828,7 @@ Existing topic reused for the witness-selection claims.
 
 Existing topic reused for the Catholicism remark.
 
-*Related: C-13928*
+*Related: C-1702*
 
 ---
 
@@ -836,7 +836,7 @@ Existing topic reused for the Catholicism remark.
 
 Existing topic reused for the Gaza destruction claim.
 
-*Related: C-13920*
+*Related: C-1691*
 
 ---
 
@@ -844,7 +844,7 @@ Existing topic reused for the Gaza destruction claim.
 
 Existing topic reused for the rear footage claims.
 
-*Related: C-13891, C-13892, C-13899, C-13900*
+*Related: C-1643, C-1644, C-1652, C-1653*
 
 ---
 
@@ -852,7 +852,7 @@ Existing topic reused for the rear footage claims.
 
 Organization named in the peace deal discussion.
 
-*Related: C-13919*
+*Related: C-1690*
 
 ---
 
@@ -861,7 +861,7 @@ Organization named in the peace deal discussion.
 Node Type: Topic
 The reported first phase of an Israel and Hamas agreement with troop withdrawal and hostage release, and the Trump announcement and negotiators the host criticizes.
 
-*Related: C-13919, C-13921*
+*Related: C-1690, C-1692*
 
 ---
 
@@ -870,7 +870,7 @@ The reported first phase of an Israel and Hamas agreement with troop withdrawal 
 Node Type: Topic
 The host's allegation that military-run bot farms operate on X and other platforms.
 
-*Related: C-13927*
+*Related: C-1701*
 
 ---
 
@@ -879,13 +879,13 @@ The host's allegation that military-run bot farms operate on X and other platfor
 Node Type: Topic
 The host's report that a person was said to have been told not to speak to the media and that a TPUSA text told people not to speak to the media.
 
-*Related: C-13879, C-13880*
+*Related: C-1623, C-1624*
 
 ---
 
 ## 5. Claim Register
 
-**C-1425** Front Shot, No Exit
+**C-1612** Front Shot, No Exit
 
 Claim Timestamp: 00:03:37
 
@@ -898,7 +898,7 @@ Investigative Direction: Obtain autopsy / medical examiner records and forensic 
 
 ---
 
-**C-1426** Host Says Bullet Fragment Was Recovered From Charlie's Neck Near Shoulder Blade
+**C-1615** Host Says Bullet Fragment Was Recovered From Charlie's Neck Near Shoulder Blade
 
 Claim Timestamp: 00:05:03
 
@@ -911,7 +911,7 @@ Investigative Direction: Compare against autopsy report and forensic pathology i
 
 ---
 
-**C-1427** Host Says No .30-06 Projectile Appears on Charlie Kirk's Death Certificate
+**C-1617** Host Says No .30-06 Projectile Appears on Charlie Kirk's Death Certificate
 
 Claim Timestamp: 00:06:02
 
@@ -924,7 +924,7 @@ Investigative Direction: Obtain a certified copy of the death certificate and th
 
 ---
 
-**C-1428** Kolvet Tweet Substance
+**C-1610** Kolvet Tweet Substance
 
 Claim Timestamp: 00:02:50
 
@@ -937,7 +937,7 @@ Investigative Direction: Locate original Kolbatz tweet and verify direct quotes 
 
 ---
 
-**C-1429** Surgeon Quoted on Bullet Stopped
+**C-1611** Surgeon Quoted on Bullet Stopped
 
 Claim Timestamp: 00:03:01
 
@@ -950,7 +950,7 @@ Investigative Direction: Identify the named surgeon (if given) and confirm state
 
 ---
 
-**C-1430** Viral Clip Witness Account
+**C-1620** Viral Clip Witness Account
 
 Claim Timestamp: 00:08:44
 
@@ -963,7 +963,7 @@ Investigative Direction: Identify the witness and obtain a signed statement cons
 
 ---
 
-**C-1431** Pusher Not TPUSA or UVU Affiliated
+**C-1626** Pusher Not TPUSA or UVU Affiliated
 
 Claim Timestamp: 00:11:30
 
@@ -976,7 +976,7 @@ Investigative Direction: Identify the pusher and verify his institutional affili
 
 ---
 
-**C-1432** Cooper Brown Leadership Institute Affiliation
+**C-1628** Cooper Brown Leadership Institute Affiliation
 
 Claim Timestamp: 00:13:06
 
@@ -989,7 +989,7 @@ Investigative Direction: Confirm Leadership Institute employment records and ver
 
 ---
 
-**C-1433** Cooper Brown Fox News Night-Of Interview
+**C-1629** Cooper Brown Fox News Night-Of Interview
 
 Claim Timestamp: 00:13:06
 
@@ -1002,7 +1002,7 @@ Investigative Direction: Verify timestamp and full segment via Fox News archives
 
 ---
 
-**C-1434** Cooper Brown Fox News Next-Day Interview
+**C-1630** Cooper Brown Fox News Next-Day Interview
 
 Claim Timestamp: 00:13:58
 
@@ -1015,7 +1015,7 @@ Investigative Direction: Verify timestamp and full segment via Fox News archives
 
 ---
 
-**C-1435** Cooper Brown Microphone Role
+**C-1631** Cooper Brown Microphone Role
 
 Claim Timestamp: 00:14:50
 
@@ -1028,7 +1028,7 @@ Investigative Direction: Cross-reference event staff logs or volunteer rosters p
 
 ---
 
-**C-1436** Cooper Brown Resume – Southern New Hampshire University
+**C-1633** Cooper Brown Resume – Southern New Hampshire University
 
 Claim Timestamp: 00:16:16
 
@@ -1041,7 +1041,7 @@ Investigative Direction: Pull registrar verification or alumni records (subject 
 
 ---
 
-**C-1437** Same-Name SNHU Graduate Discrepancy
+**C-1634** Same-Name SNHU Graduate Discrepancy
 
 Claim Timestamp: 00:16:16
 
@@ -1054,7 +1054,7 @@ Investigative Direction: Confirm whether the female same-name individual is or i
 
 ---
 
-**C-1438** Jason Chaffetz Eyewitness – Close, Ahead
+**C-1649** Jason Chaffetz Eyewitness – Close, Ahead
 
 Claim Timestamp: 00:23:00
 
@@ -1067,7 +1067,7 @@ Investigative Direction: Confirm full segment and any subsequent Chaffetz statem
 
 ---
 
-**C-1439** Two-Shot Witness Account – Lyman Footage
+**C-1658** Two-Shot Witness Account – Lyman Footage
 
 Claim Timestamp: 00:27:27
 
@@ -1080,7 +1080,7 @@ Investigative Direction: Identify and re-interview the two women, and compare ag
 
 ---
 
-**C-1440** Host Says Dr. Deirdre Amaro Was Announced as New Utah State Medical Examiner in May 2024
+**C-1638** Host Says Dr. Deirdre Amaro Was Announced as New Utah State Medical Examiner in May 2024
 
 Claim Timestamp: 00:18:33
 
@@ -1093,7 +1093,7 @@ Investigative Direction: Locate Utah state announcement and prior employment rec
 
 ---
 
-**C-1441** Israeli Individual Listed as Caldera Founder
+**C-1664** Israeli Individual Listed as Caldera Founder
 
 Claim Timestamp: 00:30:39
 
@@ -1105,7 +1105,7 @@ Investigative Direction: Obtain Utah LLC formation records (pre-digitization, re
 
 ---
 
-**C-1442** Host Says Caldera Engineering Was Established in 1997
+**C-1667** Host Says Caldera Engineering Was Established in 1997
 
 Claim Timestamp: 00:31:26
 
@@ -1117,7 +1117,7 @@ Investigative Direction: Verify via Utah Division of Corporations records and tr
 
 ---
 
-**C-1443** Host Says Caldera Engineering Employee Has Professional Acting Background
+**C-1665** Host Says Caldera Engineering Employee Has Professional Acting Background
 
 Claim Timestamp: 00:30:39
 
@@ -1129,7 +1129,7 @@ Investigative Direction: Verify via LinkedIn / professional profile cross-checks
 
 ---
 
-**C-1444** Caldera Early Trademark Lawyer – Tyler Bowyer Connection
+**C-1669** Caldera Early Trademark Lawyer – Tyler Bowyer Connection
 
 Claim Timestamp: 00:32:52
 
@@ -1142,7 +1142,7 @@ Investigative Direction: Pull Arizona trademark filings and confirm attorney of 
 
 ---
 
-**C-1445** Host Says Plane N1098L Was a Military Aircraft
+**C-1671** Host Says Plane N1098L Was a Military Aircraft
 
 Claim Timestamp: 00:37:31
 
@@ -1154,7 +1154,7 @@ Investigative Direction: Pull FAA registry for N1098L and prior military tail as
 
 ---
 
-**C-1446** Host Says Plane N1098L Was Owned/Contracted by Las Vegas Aviation LLC
+**C-1672** Host Says Plane N1098L Was Owned/Contracted by Las Vegas Aviation LLC
 
 Claim Timestamp: 00:37:31
 
@@ -1166,7 +1166,7 @@ Investigative Direction: Confirm ownership via FAA registry and Nevada Secretary
 
 ---
 
-**C-1447** Host Says Plane N1098L Flew From Texas to Utah Around the Time of the Shooting
+**C-1673** Host Says Plane N1098L Flew From Texas to Utah Around the Time of the Shooting
 
 Claim Timestamp: 00:37:31
 
@@ -1178,7 +1178,7 @@ Investigative Direction: Pull ADS-B Exchange / FlightAware historical track for 
 
 ---
 
-**C-1448** Plane 888 – Maxfield Affiliation
+**C-1675** Plane 888 – Maxfield Affiliation
 
 Claim Timestamp: 00:39:09
 
@@ -1191,7 +1191,7 @@ Investigative Direction: Verify aircraft registration, ownership, and any link t
 
 ---
 
-**C-1449** Host Says Plane 888's Intended Destination Was Page, Arizona
+**C-1676** Host Says Plane 888's Intended Destination Was Page, Arizona
 
 Claim Timestamp: 00:39:09
 
@@ -1203,7 +1203,7 @@ Investigative Direction: Verify via filed flight plan and FBO records.
 
 ---
 
-**C-1450** Host Says Plane 888's ADSB Transponder Appeared to Turn Off
+**C-1677** Host Says Plane 888's ADSB Transponder Appeared to Turn Off
 
 Claim Timestamp: 00:39:09
 
@@ -1215,7 +1215,7 @@ Investigative Direction: Pull historical ADSB / radar track for the aircraft on 
 
 ---
 
-**C-1451** Kash Patel – Plane Never Stopped Transponding
+**C-1678** Kash Patel – Plane Never Stopped Transponding
 
 Claim Timestamp: 00:40:07
 
@@ -1228,7 +1228,7 @@ Investigative Direction: Locate Kash Patel's original statement (interview, pres
 
 ---
 
-**C-1452** Derek Maxfield – ATC Approval to Stop Transponding
+**C-1679** Derek Maxfield – ATC Approval to Stop Transponding
 
 Claim Timestamp: 00:40:07
 
@@ -1241,7 +1241,7 @@ Investigative Direction: Locate Maxfield's original Instagram post and any corro
 
 ---
 
-**C-1453** Host Says Plane 888 Changed Its FBO Destination at the Last Minute
+**C-1681** Host Says Plane 888 Changed Its FBO Destination at the Last Minute
 
 Claim Timestamp: 00:40:53
 
@@ -1253,7 +1253,7 @@ Investigative Direction: Verify via FBO records at Page, Arizona (Millionaire an
 
 ---
 
-**C-1454** Host Says Signature FBO Person Gave Contradicting Statements
+**C-1683** Host Says Signature FBO Person Gave Contradicting Statements
 
 Claim Timestamp: 00:41:07
 
@@ -1265,7 +1265,7 @@ Investigative Direction: Identify the employee and obtain signed statement; cros
 
 ---
 
-**C-1455** Host Says Josh Hammer Released Text Messages
+**C-1687** Host Says Josh Hammer Released Text Messages
 
 Claim Timestamp: 00:45:21
 
@@ -1278,7 +1278,7 @@ Investigative Direction: Verify release date and source channel.
 
 ---
 
-**C-1456** Text Message Content – Standard Exchange
+**C-1688** Text Message Content – Standard Exchange
 
 Claim Timestamp: 00:45:21
 
@@ -1291,7 +1291,7 @@ Investigative Direction: Obtain the full thread (including timestamps and any pr
 
 ---
 
-**C-1457** Trump Truth Social – Israel/Hamas Phase One Announcement
+**C-1693** Trump Truth Social – Israel/Hamas Phase One Announcement
 
 Claim Timestamp: 00:48:09
 
@@ -1304,7 +1304,7 @@ Investigative Direction: Verify exact post text and time stamp via Trump's Truth
 
 ---
 
-**C-1458** Jared Kushner Harvard Speech – Gaza "Waterfront Property"
+**C-1696** Jared Kushner Harvard Speech – Gaza "Waterfront Property"
 
 Claim Timestamp: 00:49:13
 
@@ -1316,7 +1316,7 @@ Investigative Direction: Verify full Harvard event recording and transcript.
 
 ---
 
-**C-1459** Host Says Matt Walsh Found Kirk's Text "Too on the Nose"
+**C-1699** Host Says Matt Walsh Found Kirk's Text "Too on the Nose"
 
 Claim Timestamp: 00:52:15
 
@@ -1329,7 +1329,7 @@ Investigative Direction: Verify clip source and full Matt Walsh segment.
 
 ---
 
-**C-1460** Host Says Kolvet Was Not in Viral Push Video
+**C-1622** Host Says Kolvet Was Not in Viral Push Video
 
 Claim Timestamp: 00:10:16
 
@@ -1342,7 +1342,7 @@ Investigative Direction: Verify Kolbatz's travel timeline via receipts or commun
 ---
 
 
-**C-3645** Host identifies show community as Decentralized Intelligence Agency
+**C-1659** Host identifies show community as Decentralized Intelligence Agency
 
 Claim Timestamp: 00:28:07
 Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
@@ -1355,7 +1355,7 @@ Investigative Direction: Preserve as brand / network framing claim; cross-link M
 
 ---
 
-**C-13871** Host Says This Is Her Last Show Before a Break
+**C-1608** Host Says This Is Her Last Show Before a Break
 
 Claim Timestamp: 00:00:00
 
@@ -1370,7 +1370,7 @@ Investigative Direction: Compare the episode release schedule on the channel wit
 
 ---
 
-**C-13872** Host Says She Verified the Neck Injury Information but Will Not Name Her Sources
+**C-1609** Host Says She Verified the Neck Injury Information but Will Not Name Her Sources
 
 Claim Timestamp: 00:01:22
 
@@ -1386,7 +1386,7 @@ Investigative Direction: Ask the host to document, privately or via an intermedi
 
 ---
 
-**C-13873** Kolvet Tweet Says Coroner Found the Bullet Just Beneath the Skin
+**C-1613** Kolvet Tweet Says Coroner Found the Bullet Just Beneath the Skin
 
 Claim Timestamp: 00:03:37
 
@@ -1397,13 +1397,13 @@ Transcript Snippet: It likely would have killed those standing behind him, too. 
 Anchored Artifacts: A-1251.1
 Mentions: N-14, N-1
 Related Nodes: N-10180
-Supports: C-10725
+Supports: C-595
 Tags: relevance:core
 Investigative Direction: Locate the original Kolvet tweet and compare it with the autopsy findings; ask the Utah medical examiner's office where the projectile was recovered.
 
 ---
 
-**C-13874** Host Says She Has Sat on the Bullet Finding for a Little Over a Week
+**C-1614** Host Says She Has Sat on the Bullet Finding for a Little Over a Week
 
 Claim Timestamp: 00:04:50
 
@@ -1419,7 +1419,7 @@ Investigative Direction: Establish when the host first received the finding, for
 
 ---
 
-**C-13875** Host Says Medical Examiners Tell Her Known Guns and Bullets Appear on the Death Certificate
+**C-1616** Host Says Medical Examiners Tell Her Known Guns and Bullets Appear on the Death Certificate
 
 Claim Timestamp: 00:05:03
 
@@ -1435,7 +1435,7 @@ Investigative Direction: Ask Utah and other state medical examiners whether weap
 
 ---
 
-**C-13876** Host Says Charlie Was Shot With a Completely Different, Smaller Gun
+**C-1618** Host Says Charlie Was Shot With a Completely Different, Smaller Gun
 
 Claim Timestamp: 00:07:15
 
@@ -1451,7 +1451,7 @@ Investigative Direction: Obtain the autopsy, wound-ballistics and projectile rep
 
 ---
 
-**C-13877** Host Says On-the-Ground Witnesses Reported Multiple Shots but Got No Mainstream Interviews
+**C-1619** Host Says On-the-Ground Witnesses Reported Multiple Shots but Got No Mainstream Interviews
 
 Claim Timestamp: 00:07:55
 
@@ -1467,7 +1467,7 @@ Investigative Direction: Collect named witness statements and any police intervi
 
 ---
 
-**C-13878** Host Argues the Viral Witness Looked Left and Right After the Shot, Not Back
+**C-1621** Host Argues the Viral Witness Looked Left and Right After the Shot, Not Back
 
 Claim Timestamp: 00:09:30
 
@@ -1483,7 +1483,7 @@ Investigative Direction: Identify the witness and interview him about where he w
 
 ---
 
-**C-13879** Host Says a Friend of the Man She Tried to Identify Said He Was Told Not to Speak to Media
+**C-1623** Host Says a Friend of the Man She Tried to Identify Said He Was Told Not to Speak to Media
 
 Claim Timestamp: 00:10:16
 
@@ -1499,7 +1499,7 @@ Investigative Direction: Obtain the private message exchange and identify who in
 
 ---
 
-**C-13880** Host Says the Excuse Given Was a TPUSA Text Telling People Not to Speak to Media
+**C-1624** Host Says the Excuse Given Was a TPUSA Text Telling People Not to Speak to Media
 
 Claim Timestamp: 00:10:58
 
@@ -1515,7 +1515,7 @@ Investigative Direction: Ask TPUSA for any message sent to chapters or volunteer
 
 ---
 
-**C-13881** Host Says Campus Stops Are Normally Run by the Host School's Chapter
+**C-1625** Host Says Campus Stops Are Normally Run by the Host School's Chapter
 
 Claim Timestamp: 00:10:58
 
@@ -1531,7 +1531,7 @@ Investigative Direction: Obtain the UVU event planning documents showing which o
 
 ---
 
-**C-13882** Host Says the Man Who Shoved the Witness Is Cooper, Who Held the Microphone
+**C-1627** Host Says the Man Who Shoved the Witness Is Cooper, Who Held the Microphone
 
 Claim Timestamp: 00:12:02
 
@@ -1547,7 +1547,7 @@ Investigative Direction: Compare the viral shoving footage with Cooper Brown's F
 
 ---
 
-**C-13883** Host Says an Emailer Claiming to Be Cooper's Cousin Lives in Phoenix
+**C-1632** Host Says an Emailer Claiming to Be Cooper's Cousin Lives in Phoenix
 
 Claim Timestamp: 00:15:30
 
@@ -1563,7 +1563,7 @@ Investigative Direction: Review the original email and verify the sender's relat
 
 ---
 
-**C-13884** Host Says the Number She Was Given Was Phoenix-Based and Tied to a 32-Year-Old With the Same Last Name
+**C-1635** Host Says the Number She Was Given Was Phoenix-Based and Tied to a 32-Year-Old With the Same Last Name
 
 Claim Timestamp: 00:16:16
 
@@ -1575,11 +1575,11 @@ Anchored Artifacts:
 Mentions: N-174, N-3
 Related Nodes: N-10182
 Tags: relevance:context
-Investigative Direction: Reconcile the number's carrier and listing records with Cooper Brown's stated Utah and New Hampshire history; the existing C-1437 may blend this with the same-name graduate.
+Investigative Direction: Reconcile the number's carrier and listing records with Cooper Brown's stated Utah and New Hampshire history; the existing C-1634 may blend this with the same-name graduate.
 
 ---
 
-**C-13885** Host Says Holding the Microphone Is Normally an Honor Given to Hard-Working TPUSA Students
+**C-1636** Host Says Holding the Microphone Is Normally an Honor Given to Hard-Working TPUSA Students
 
 Claim Timestamp: 00:16:16
 
@@ -1595,7 +1595,7 @@ Investigative Direction: Obtain the UVU event volunteer roster and microphone as
 
 ---
 
-**C-13886** Host Says the Rifle Shot Was Real but Did Not Hit Charlie
+**C-1637** Host Says the Rifle Shot Was Real but Did Not Hit Charlie
 
 Claim Timestamp: 00:18:05
 
@@ -1611,7 +1611,7 @@ Investigative Direction: Obtain the autopsy and ballistics findings and the audi
 
 ---
 
-**C-13887** Host Says a Tip Email Urged Her to Look Further Into the Medical Examiner
+**C-1639** Host Says a Tip Email Urged Her to Look Further Into the Medical Examiner
 
 Claim Timestamp: 00:18:33
 
@@ -1627,7 +1627,7 @@ Investigative Direction: Review the tip email for its basis and verify the exami
 
 ---
 
-**C-13888** Host Asks Viewers With Knowledge of the Medical Examiner to Email Tips
+**C-1640** Host Asks Viewers With Knowledge of the Medical Examiner to Email Tips
 
 Claim Timestamp: 00:19:26
 
@@ -1643,7 +1643,7 @@ Investigative Direction: Record tip volume and follow-up in later episodes where
 
 ---
 
-**C-13889** Host Says It Is Likely a Rifle Was Fired to Muffle the Sound of a Smaller Gun
+**C-1641** Host Says It Is Likely a Rifle Was Fired to Muffle the Sound of a Smaller Gun
 
 Claim Timestamp: 00:19:26
 
@@ -1659,7 +1659,7 @@ Investigative Direction: Obtain acoustic analyses of the shot audio from multipl
 
 ---
 
-**C-13890** Host Says Her Well-Informed Opinion Is the Shooter Was Much Closer, Likely in the Audience
+**C-1642** Host Says Her Well-Informed Opinion Is the Shooter Was Much Closer, Likely in the Audience
 
 Claim Timestamp: 00:19:26
 
@@ -1675,7 +1675,7 @@ Investigative Direction: Map audience positions at the moment of the shot agains
 
 ---
 
-**C-13891** Host Says of Many Cameras the One Behind Charlie Was Grabbed First
+**C-1643** Host Says of Many Cameras the One Behind Charlie Was Grabbed First
 
 Claim Timestamp: 00:20:46
 
@@ -1691,7 +1691,7 @@ Investigative Direction: Establish the sequence in which each camera was removed
 
 ---
 
-**C-13892** Host Says Tyler Bowyer Lied About Law Enforcement Instructing the Camera Removal
+**C-1644** Host Says Tyler Bowyer Lied About Law Enforcement Instructing the Camera Removal
 
 Claim Timestamp: 00:20:56
 
@@ -1702,13 +1702,13 @@ Transcript Snippet: I told you, Tyler Bowyer lied. He just lied. The person who 
 Anchored Artifacts: 
 Mentions: N-11, N-3
 Related Nodes: N-10192, N-10799
-Contradicts: C-1366
+Contradicts: C-1363
 Tags: relevance:core
 Investigative Direction: Obtain statements from the investigating agency about whether anyone instructed removal of the camera or SD card, and compare with Bowyer's account.
 
 ---
 
-**C-13893** Host Says There Is a Blind Spot in Footage to Charlie's Left
+**C-1645** Host Says There Is a Blind Spot in Footage to Charlie's Left
 
 Claim Timestamp: 00:21:12
 
@@ -1719,13 +1719,13 @@ Transcript Snippet: I actually feel that there is this remarkable blind spot on 
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10175
-Supports: C-1422
+Supports: C-1566
 Tags: relevance:core
 Investigative Direction: Collect all video from the audience's left side and map camera fields of view across the tent area to confirm the gap.
 
 ---
 
-**C-13894** Host Says Many Interviewed Witnesses Were Caldera Engineering-Connected People
+**C-1646** Host Says Many Interviewed Witnesses Were Caldera Engineering-Connected People
 
 Claim Timestamp: 00:21:12
 
@@ -1741,7 +1741,7 @@ Investigative Direction: Compile the list of media-interviewed witnesses and tes
 
 ---
 
-**C-13895** Host Says Jason Chaffetz Was in Communication With Charlie Before the Event
+**C-1647** Host Says Jason Chaffetz Was in Communication With Charlie Before the Event
 
 Claim Timestamp: 00:21:12
 
@@ -1757,7 +1757,7 @@ Investigative Direction: Ask Chaffetz or his office what contact he had with Cha
 
 ---
 
-**C-13896** Host Says Chaffetz Rebutted the Idea the Shot Came From Far Away
+**C-1648** Host Says Chaffetz Rebutted the Idea the Shot Came From Far Away
 
 Claim Timestamp: 00:22:36
 
@@ -1768,13 +1768,13 @@ Transcript Snippet: he was rebutting, cuz he was on a couple of shows, rebutting
 Anchored Artifacts: A-1254.1
 Mentions: N-175
 Related Nodes: N-10180, N-10181, N-10006
-Supports: C-1438
+Supports: C-1649
 Tags: relevance:core
 Investigative Direction: Pull the Fox News segments in which Chaffetz addresses shot distance and compare wording.
 
 ---
 
-**C-13897** Host Says Chaffetz Does Not Believe the Shot Came From the Losee Building
+**C-1650** Host Says Chaffetz Does Not Believe the Shot Came From the Losee Building
 
 Claim Timestamp: 00:23:49
 
@@ -1790,7 +1790,7 @@ Investigative Direction: Confirm in the Fox transcripts that Chaffetz rejects th
 
 ---
 
-**C-13898** Host Says Chaffetz's Parents Are in Government and in the FBI
+**C-1651** Host Says Chaffetz's Parents Are in Government and in the FBI
 
 Claim Timestamp: 00:23:49
 
@@ -1806,7 +1806,7 @@ Investigative Direction: Verify the claim against Chaffetz's public biography; t
 
 ---
 
-**C-13899** Host Theorizes the Plan Was to Withhold the Back Footage and Then Claim a .30-06 Was Recovered
+**C-1652** Host Theorizes the Plan Was to Withhold the Back Footage and Then Claim a .30-06 Was Recovered
 
 Claim Timestamp: 00:24:35
 
@@ -1822,7 +1822,7 @@ Investigative Direction: Establish who controlled the back-camera footage and wh
 
 ---
 
-**C-13900** Host Says the Back Footage Shows No Blood on Charlie's White Shirt Until He Falls Out of Frame
+**C-1653** Host Says the Back Footage Shows No Blood on Charlie's White Shirt Until He Falls Out of Frame
 
 Claim Timestamp: 00:25:40
 
@@ -1833,13 +1833,13 @@ Transcript Snippet: not only did the bullet not pierce through, but there wasn't
 Anchored Artifacts: A-3285.1
 Mentions: N-3, N-1
 Related Nodes: N-10799, N-10180
-Supports: C-1209
+Supports: C-516
 Tags: relevance:core
 Investigative Direction: Obtain the unedited rear-camera footage and have it reviewed frame by frame by a forensic video analyst.
 
 ---
 
-**C-13901** Host Says She Thinks Two Armed People Should Be Sought, One in the Audience and One With a Rifle
+**C-1654** Host Says She Thinks Two Armed People Should Be Sought, One in the Audience and One With a Rifle
 
 Claim Timestamp: 00:25:40
 
@@ -1855,7 +1855,7 @@ Investigative Direction: Identify the positions of all people identified as arme
 
 ---
 
-**C-13902** Host Says No UVU Students Were Put on Mainstream Media
+**C-1655** Host Says No UVU Students Were Put on Mainstream Media
 
 Claim Timestamp: 00:26:33
 
@@ -1871,7 +1871,7 @@ Investigative Direction: Survey network coverage of 9/10 and count interviewees 
 
 ---
 
-**C-13903** Host Relays Nick's Account That Feds Were Trying to Implant Memories
+**C-1656** Host Relays Nick's Account That Feds Were Trying to Implant Memories
 
 Claim Timestamp: 00:26:33
 
@@ -1887,7 +1887,7 @@ Investigative Direction: Interview Nick and other students about who approached 
 
 ---
 
-**C-13904** Host Relays Nick's Account of Unfamiliar People Saying They Heard One Shot
+**C-1657** Host Relays Nick's Account of Unfamiliar People Saying They Heard One Shot
 
 Claim Timestamp: 00:26:33
 
@@ -1903,7 +1903,7 @@ Investigative Direction: Collect other students' accounts of being approached an
 
 ---
 
-**C-13905** Host Says the Shooter Was in the Audience and to the Left
+**C-1660** Host Says the Shooter Was in the Audience and to the Left
 
 Claim Timestamp: 00:28:07
 
@@ -1919,7 +1919,7 @@ Investigative Direction: Determine who sat or stood to Charlie's left in the aud
 
 ---
 
-**C-13906** Host Says the Bullet Entered the Front Left Lower Neck, Exploded the Artery and Did Not Exit
+**C-1661** Host Says the Bullet Entered the Front Left Lower Neck, Exploded the Artery and Did Not Exit
 
 Claim Timestamp: 00:28:51
 
@@ -1935,7 +1935,7 @@ Investigative Direction: Obtain the autopsy wound description and imaging to tes
 
 ---
 
-**C-13907** Host Says the Steele Family Is Big With Caldera Engineering
+**C-1662** Host Says the Steele Family Is Big With Caldera Engineering
 
 Claim Timestamp: 00:28:51
 
@@ -1946,13 +1946,13 @@ Transcript Snippet: Erwin Steele. This Steel. So many Steels were involved. It t
 Anchored Artifacts: 
 Mentions: N-73, N-3
 Related Nodes: N-10065, N-10184
-Supports: C-11934
+Supports: C-415
 Tags: relevance:context
 Investigative Direction: Pull Utah business filings for Caldera Engineering and check officers, owners and employees against the Steele family.
 
 ---
 
-**C-13908** Host Says Longtime Valve Industry People Nearby Had Never Heard of Caldera Engineering
+**C-1663** Host Says Longtime Valve Industry People Nearby Had Never Heard of Caldera Engineering
 
 Claim Timestamp: 00:29:43
 
@@ -1968,7 +1968,7 @@ Investigative Direction: Identify and contact valve distributors in the region t
 
 ---
 
-**C-13909** Host Says Caldera Engineering's Website Cited Projects in Israel
+**C-1666** Host Says Caldera Engineering's Website Cited Projects in Israel
 
 Claim Timestamp: 00:30:39
 
@@ -1984,7 +1984,7 @@ Investigative Direction: Retrieve archived versions of the Caldera Engineering w
 
 ---
 
-**C-13910** Host Says Utah LLC Formation Documents From 1997 Cannot Be Obtained Online
+**C-1668** Host Says Utah LLC Formation Documents From 1997 Cannot Be Obtained Online
 
 Claim Timestamp: 00:32:11
 
@@ -2000,7 +2000,7 @@ Investigative Direction: File an in-person or mail records request with the Utah
 
 ---
 
-**C-13911** Host Asks for Tips on Caldera Engineering at candaceowens.com
+**C-1670** Host Asks for Tips on Caldera Engineering at candaceowens.com
 
 Claim Timestamp: 00:33:34
 
@@ -2016,7 +2016,7 @@ Investigative Direction: Record tip volume and follow-up in later episodes where
 
 ---
 
-**C-13912** Host Says Plane N1098L Dipped Real Low Near Utah
+**C-1674** Host Says Plane N1098L Dipped Real Low Near Utah
 
 Claim Timestamp: 00:37:31
 
@@ -2032,7 +2032,7 @@ Investigative Direction: Pull ADS-B altitude and track data for N1098L on 9/10 t
 
 ---
 
-**C-13913** Host Says Multiple Pilots and Airport Workers Confirmed the Second Plane Was Weird That Day
+**C-1680** Host Says Multiple Pilots and Airport Workers Confirmed the Second Plane Was Weird That Day
 
 Claim Timestamp: 00:40:07
 
@@ -2048,7 +2048,7 @@ Investigative Direction: Obtain direct statements from the pilots and airport st
 
 ---
 
-**C-13914** Host Says Information About the Flight Is Being Guarded, Including by Feds at the FBO
+**C-1682** Host Says Information About the Flight Is Being Guarded, Including by Feds at the FBO
 
 Claim Timestamp: 00:40:53
 
@@ -2064,7 +2064,7 @@ Investigative Direction: Identify any federal agency presence at the FBO and ask
 
 ---
 
-**C-13915** Host Says Josh Hammer's Statement Claimed He and Seth Dillon Did Not Press Charlie in the Hamptons
+**C-1684** Host Says Josh Hammer's Statement Claimed He and Seth Dillon Did Not Press Charlie in the Hamptons
 
 Claim Timestamp: 00:44:20
 
@@ -2080,7 +2080,7 @@ Investigative Direction: Obtain Hammer's original public statement and compare w
 
 ---
 
-**C-13916** Host Says Hammer Said He Came to the Hamptons to Bring Signed Copies of His Book
+**C-1685** Host Says Hammer Said He Came to the Hamptons to Bring Signed Copies of His Book
 
 Claim Timestamp: 00:44:20
 
@@ -2096,7 +2096,7 @@ Investigative Direction: Verify Hammer's statement and ask other attendees wheth
 
 ---
 
-**C-13917** Host Says Hammer's Texts Show the Call Fit Her Timeline
+**C-1686** Host Says Hammer's Texts Show the Call Fit Her Timeline
 
 Claim Timestamp: 00:44:20
 
@@ -2112,7 +2112,7 @@ Investigative Direction: Obtain call logs and message timestamps for Hammer and 
 
 ---
 
-**C-13918** Host Recounts Hammer's Story That Charlie Wanted Debate Help
+**C-1689** Host Recounts Hammer's Story That Charlie Wanted Debate Help
 
 Claim Timestamp: 00:45:21
 
@@ -2128,7 +2128,7 @@ Investigative Direction: Compile Hammer's various accounts of the call's purpose
 
 ---
 
-**C-13919** Host Describes the Phased Israel and Hamas Deal as Partial Troop Withdrawal and Hostage Release
+**C-1690** Host Describes the Phased Israel and Hamas Deal as Partial Troop Withdrawal and Hostage Release
 
 Claim Timestamp: 00:46:41
 
@@ -2144,7 +2144,7 @@ Investigative Direction: Check the published first-phase terms against the host'
 
 ---
 
-**C-13920** Host Says Hundreds of Thousands of Palestinians Are Missing and 85 Percent of Gaza Is Destroyed
+**C-1691** Host Says Hundreds of Thousands of Palestinians Are Missing and 85 Percent of Gaza Is Destroyed
 
 Claim Timestamp: 00:46:41
 
@@ -2160,7 +2160,7 @@ Investigative Direction: Compare with UN and OCHA damage assessments and missing
 
 ---
 
-**C-13921** Host Says Witkoff and Kushner Led the US Side With Qatar, Egypt and Turkey Mediating
+**C-1692** Host Says Witkoff and Kushner Led the US Side With Qatar, Egypt and Turkey Mediating
 
 Claim Timestamp: 00:47:29
 
@@ -2176,7 +2176,7 @@ Investigative Direction: Check the participants and arrival timing against press
 
 ---
 
-**C-13922** Host Says Netanyahu Was on Camera Before October 7 Saying They Need to Hit Hamas So Hard
+**C-1694** Host Says Netanyahu Was on Camera Before October 7 Saying They Need to Hit Hamas So Hard
 
 Claim Timestamp: 00:48:09
 
@@ -2192,7 +2192,7 @@ Investigative Direction: Locate the pre-October 7 Netanyahu video the host refer
 
 ---
 
-**C-13923** Host Says Kushner Will Financially Benefit From Whatever Is Built in Gaza
+**C-1695** Host Says Kushner Will Financially Benefit From Whatever Is Built in Gaza
 
 Claim Timestamp: 00:48:09
 
@@ -2208,7 +2208,7 @@ Investigative Direction: Look for any Kushner-linked investment or development v
 
 ---
 
-**C-13924** Host Says Trump Wants a Nobel for a Planned Ethnic Cleansing to Profit on the Land
+**C-1697** Host Says Trump Wants a Nobel for a Planned Ethnic Cleansing to Profit on the Land
 
 Claim Timestamp: 00:50:41
 
@@ -2224,7 +2224,7 @@ Investigative Direction: Assess against official US plans for Gaza reconstructio
 
 ---
 
-**C-13925** Host Says Charlie's Released Message Said He Had No Choice but to Leave the Pro-Israel Cause
+**C-1698** Host Says Charlie's Released Message Said He Had No Choice but to Leave the Pro-Israel Cause
 
 Claim Timestamp: 00:51:48
 
@@ -2240,7 +2240,7 @@ Investigative Direction: Locate the full Charlie Kirk text thread containing tha
 
 ---
 
-**C-13926** Matt Walsh Says He Has Never Seen a Side Lose Support This Quickly
+**C-1700** Matt Walsh Says He Has Never Seen a Side Lose Support This Quickly
 
 Claim Timestamp: 00:53:09
 
@@ -2256,7 +2256,7 @@ Investigative Direction: Locate the original Walsh segment and compare with poll
 
 ---
 
-**C-13927** Host Says Military Bot Farms Operate on X and Other Platforms
+**C-1701** Host Says Military Bot Farms Operate on X and Other Platforms
 
 Claim Timestamp: 00:58:39
 
@@ -2272,7 +2272,7 @@ Investigative Direction: Look for platform transparency reports or researcher st
 
 ---
 
-**C-13928** Host Says Charlie Was Very Interested in Catholicism and She Discussed It With Him
+**C-1702** Host Says Charlie Was Very Interested in Catholicism and She Discussed It With Him
 
 Claim Timestamp: 00:59:18
 
@@ -2288,7 +2288,7 @@ Investigative Direction: Compare with Charlie's public statements about Catholic
 
 ---
 
-**C-13929** Host Says Too Many Pastors Preach About Megyn Kelly and Tucker Carlson
+**C-1703** Host Says Too Many Pastors Preach About Megyn Kelly and Tucker Carlson
 
 Claim Timestamp: 00:59:18
 
@@ -2304,7 +2304,7 @@ Investigative Direction: Collect sermon clips naming Kelly or Carlson and check 
 
 ---
 
-**C-13930** Host Says She Can Tell Definitively That Charlie's Shot Did Not Come From Behind
+**C-1704** Host Says She Can Tell Definitively That Charlie's Shot Did Not Come From Behind
 
 Claim Timestamp: 01:01:09
 
@@ -2320,7 +2320,7 @@ Investigative Direction: Compare the autopsy entry-wound description with the tr
 
 ---
 
-**C-13931** Host Says She Is Not Saying No Shot Was Fired From Behind and Thinks There Were Two Shooters
+**C-1705** Host Says She Is Not Saying No Shot Was Fired From Behind and Thinks There Were Two Shooters
 
 Claim Timestamp: 01:01:09
 
@@ -2336,7 +2336,7 @@ Investigative Direction: Review acoustic and physical evidence for a second disc
 
 ---
 
-**C-13932** Host Says She Confirmed the Finding Through Multiple People and Did Not Trust the Feds
+**C-1706** Host Says She Confirmed the Finding Through Multiple People and Did Not Trust the Feds
 
 Claim Timestamp: 01:01:09
 
@@ -2352,7 +2352,7 @@ Investigative Direction: Ask the host to state the number and kind of sources be
 
 ---
 
-**C-13933** Host Asks for Tips at tips and moretips Email Addresses
+**C-1707** Host Asks for Tips at tips and moretips Email Addresses
 
 Claim Timestamp: 01:05:14
 
@@ -2367,7 +2367,7 @@ Investigative Direction: Record tip volume and follow-up in later episodes.
 
 ---
 
-**C-13934** Host Says She Expects More Explosive Revelations When She Returns
+**C-1708** Host Says She Expects More Explosive Revelations When She Returns
 
 Claim Timestamp: 01:05:14
 
@@ -2382,7 +2382,7 @@ Investigative Direction: Compare the first episodes after the break with this fo
 
 ---
 
-**C-13935** Host Says People Around the World Are Joining the Decentralized Intelligence Agency and Giving Information
+**C-1709** Host Says People Around the World Are Joining the Decentralized Intelligence Agency and Giving Information
 
 Claim Timestamp: 01:05:14
 

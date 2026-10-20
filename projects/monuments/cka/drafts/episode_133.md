@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-780, N-781, N-782, N-783, N-11140, N-11141
-  - Claim Range (supplement_2026-10b): C-7352–C-7399
+  - Claim Range: C-11446–C-11505
   - Reused Nodes Appearing: N-10756, N-3, N-5, N-15, N-33, N-36, N-42, N-69, N-82, N-353, N-130, N-410, N-430, N-493, N-494, N-569, N-10000, N-10061, N-10074, N-10075, N-10082, N-10132, N-10229, N-10314, N-10316, N-10318, N-10324, N-10337, N-10343, N-10434, N-10524, N-10719, N-10752, N-10975, N-11018, N-11019, N-11054, N-10754, N-10755, N-11142, N-11139
  - New Nodes Introduced: N-10756, N-10757, N-10758
  - Reused Nodes Appearing: none (Wave 2: local ids removed)
@@ -33,7 +33,6 @@
 - **Analysis Date:** 2026-07-30
 - **Ledger Continuation Summary:**
  - Artifact Families Introduced: A-2198, A-2199, A-2200, A-2201, A-2202, A-2204
- - Claim Range: C-3150–C-3161
  - New People Nodes Introduced: none (Wave 2: local ids removed)
  - New Investigation Target Nodes Introduced: N-10754, N-10755, N-10756, N-10757, N-10758
  - Existing Nodes Reused (assumed): Charlie Kirk, Erica/Erika Kirk, Tyler Robinson, Jeffrey Epstein, Donald Trump Jr.
@@ -57,7 +56,7 @@ Video Timestamp: 00:00:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7352, C-7353, N-3*
+*Related: C-11446, C-11447, N-3*
 
 ---
 
@@ -70,7 +69,7 @@ Video Timestamp: 00:21:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7374, C-7375, N-3*
+*Related: C-11473, C-11474, N-3*
 
 ---
 
@@ -83,7 +82,7 @@ Video Timestamp: 00:22:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7377, C-7378, N-3*
+*Related: C-11476, C-11477, N-3*
 
 ---
 
@@ -98,7 +97,7 @@ Video Timestamp: 00:54:39
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-7399, N-3*
+*Related: C-11505, N-3*
 
 ---
 
@@ -111,7 +110,7 @@ Video Timestamp: 00:17:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7368, C-7369, N-3*
+*Related: C-11466, C-11467, N-3*
 
 ---
 
@@ -125,28 +124,28 @@ Footage displayed in episode depicting an individual on the Losee Center rooftop
 - Video Timestamp: 09:55–16:22
 - Discovery Timestamp: 2025-10 (per host statement "I've been holding on to since October")
 - Confidence Level: Medium (provenance asserted, not externally verified)
-- *Related: C-3150, C-3151, C-3152, C-3153, N-10754, N-10755*
+- *Related: C-11460, C-11464, C-11465, C-11461, N-10754, N-10755*
 
 **A-2198.2** Slowed/zoomed segment showing back-and-forth flash during crawl
 - Event Timestamp: 2025-09-10
 - Source Timestamp: 2025-09-10
 - Video Timestamp: 11:12–11:55
 - Discovery Timestamp: 2025-10
-- *Related: C-3153, N-10754*
+- *Related: C-11461, N-10754*
 
 **A-2198.3** Segment showing "throw forward" / unfolding motion as shooter reaches final position
 - Event Timestamp: 2025-09-10
 - Source Timestamp: 2025-09-10
 - Video Timestamp: 12:10–13:59
 - Discovery Timestamp: 2025-10
-- *Related: C-3150, N-10754*
+- *Related: C-11460, N-10754*
 
 **A-2198.4** Pre-recoil segment – extended 50-second hold immediately preceding shooter's rise and sprint
 - Event Timestamp: 2025-09-10
 - Source Timestamp: 2025-09-10
 - Video Timestamp: 13:37–15:53
 - Discovery Timestamp: 2025-10
-- *Related: C-3152, N-10755*
+- *Related: C-11465, N-10755*
 
 ---
 
@@ -160,7 +159,7 @@ Side-by-side reference clip displayed in episode to compare the rooftop crawl mo
 - Video Timestamp: 10:23–11:12
 - Discovery Timestamp: Unknown
 - Confidence Level: Low (provenance unstated)
-- *Related: C-3150, N-10754*
+- *Related: C-11460, N-10754*
 
 ---
 
@@ -174,21 +173,21 @@ Wikipedia article displayed and read aloud in episode, including the "Relationsh
 - Video Timestamp: 29:26–31:35
 - Discovery Timestamp: 2026-07-29
 - Confidence Level: Medium (live Wikipedia content subject to revision)
-- *Related: C-3154, N-10758*
+- *Related: C-11481, N-10758*
 
 **A-2200.2** Wikipedia reference to February 27, 2006 flight (JFK International → London Luton) on Epstein's plane
 - Event Timestamp: 2006-02-27
 - Source Timestamp: Manifest released October 2025 by U.S. House Committee (per host reading)
 - Video Timestamp: ~30:00–30:41
 - Discovery Timestamp: 2026-07-29
-- *Related: C-3155, N-10758*
+- *Related: C-11482, N-10758*
 
 **A-2200.3** Wikipedia reference to March 3, 2006 flight (London → New York) on Epstein's plane, naming Jean-Luc Brunel as one of 12 other passengers
 - Event Timestamp: 2006-03-03
 - Source Timestamp: Manifest released October 2025 by U.S. House Committee
 - Video Timestamp: ~30:41–31:35
 - Discovery Timestamp: 2026-07-29
-- *Related: C-3156, N-10758*
+- *Related: C-11483, N-10758*
 
 ---
 
@@ -202,7 +201,7 @@ Text message read aloud in episode from court-record source.
 - Video Timestamp: 19:07–20:08
 - Discovery Timestamp: Unknown
 - Confidence Level: High (verbatim read; appears to be entered court record)
-- *Related: C-3157, N-10756*
+- *Related: C-11470, N-10756*
 
 ---
 
@@ -216,7 +215,7 @@ State-affiliated Iranian Lego propaganda video played in full in episode.
 - Video Timestamp: 35:52–38:42
 - Discovery Timestamp: 2026-07-29
 - Confidence Level: High (video shown)
-- *Related: C-3158*
+- *Related: C-11490*
 
 ---
 
@@ -230,7 +229,7 @@ Clip of Erika Kirk shown in episode.
 - Video Timestamp: 40:55–41:40
 - Discovery Timestamp: Unknown
 - Confidence Level: Medium
-- *Related: C-3159*
+- *Related: C-11492*
 
 ---
 
@@ -252,7 +251,7 @@ Comments read aloud from previous episode's comment section.
 
 **A-2204.4** Comment from Becca: "It's possible that along with the eene amount of gauze that was shoved into Charlie to stop the bleeding, that bullet fragments were also shoved in, hence why they don't match a 306 or Tyler's bullets. Could that be the purpose of the gloves in the door?"
 - Video Timestamp: ~47:04
-- *Related: C-3160*
+- *Related: C-11496*
 
 **A-2204.5** Comment from Britney Bicks: "The fact that the same people who asked Charlie to ask you to stop talking about Brigitte are calling you nuts for talking about his murder is nothing short of hysterical. Frenchie T ain't got nothing on the passion that you have for this."
 - Video Timestamp: ~47:38
@@ -264,7 +263,7 @@ Comments read aloud from previous episode's comment section.
 
 **A-2204.7** Comment from Jacob Morrison: "I think when we saw um that flash, that was a signal that he was in position and there is no way he has enough time to adjust his sights. Also, people have anxiety shooting deer. There is none of this. It's too quick."
 - Video Timestamp: ~51:51
-- *Related: C-3161*
+- *Related: C-11502*
 
 **A-2204.8** Comment from Ali: "JFK was murdered over 60 years ago and there are still so many unanswered questions. So why are they so mad at people for asking questions and speculating about the possibilities?"
 - Video Timestamp: ~52:43–53:34
@@ -286,7 +285,7 @@ Comments read aloud from previous episode's comment section.
 
 Subject of the assassination; the host reports his DOGE audit and his relationship with her.
 
-*Related: C-7361, C-7362, C-7388, C-7389, C-7390, C-7392, C-7394*
+*Related: C-11455, C-11456, C-11491, C-11493, C-11494, C-11497, C-11499*
 
 ---
 
@@ -294,7 +293,7 @@ Subject of the assassination; the host reports his DOGE audit and his relationsh
 
 Existing organization reused.
 
-*Related: C-7354, C-7388, C-7396*
+*Related: C-11448, C-11491, C-11501*
 
 ---
 
@@ -302,7 +301,7 @@ Existing organization reused.
 
 Existing organization reused.
 
-*Related: C-7397*
+*Related: C-11503*
 
 ---
 
@@ -310,7 +309,7 @@ Existing organization reused.
 
 Existing place reused.
 
-*Related: C-7356*
+*Related: C-11450*
 
 ---
 
@@ -318,7 +317,7 @@ Existing place reused.
 
 Existing place reused.
 
-*Related: C-7352, C-7353*
+*Related: C-11446, C-11447*
 
 ---
 
@@ -326,7 +325,7 @@ Existing place reused.
 
 Existing organization reused.
 
-*Related: C-7398*
+*Related: C-11504*
 
 ---
 
@@ -334,7 +333,7 @@ Existing organization reused.
 
 Existing topic reused.
 
-*Related: C-7388*
+*Related: C-11491*
 
 ---
 
@@ -342,7 +341,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7392*
+*Related: C-11497*
 
 ---
 
@@ -350,7 +349,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7359, C-7360, C-7366*
+*Related: C-11453, C-11454, C-11462*
 
 ---
 
@@ -358,7 +357,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7390*
+*Related: C-11494*
 
 ---
 
@@ -366,7 +365,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7397*
+*Related: C-11503*
 
 ---
 
@@ -374,7 +373,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7382*
+*Related: C-11484*
 
 ---
 
@@ -382,7 +381,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7361, C-7368, C-7369*
+*Related: C-11455, C-11466, C-11467*
 
 ---
 
@@ -390,7 +389,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7364, C-7365*
+*Related: C-11458, C-11459*
 
 ---
 
@@ -398,7 +397,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7388*
+*Related: C-11491*
 
 ---
 
@@ -406,7 +405,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7385, C-7386*
+*Related: C-11487, C-11488*
 
 ---
 
@@ -414,7 +413,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7360*
+*Related: C-11454*
 
 ---
 
@@ -422,7 +421,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7352, C-7353*
+*Related: C-11446, C-11447*
 
 ---
 
@@ -430,7 +429,7 @@ Existing topic reused.
 
 Existing organization reused.
 
-*Related: C-7368, C-7369*
+*Related: C-11466, C-11467*
 
 ---
 
@@ -438,7 +437,7 @@ Existing organization reused.
 
 Existing organization reused.
 
-*Related: C-7374*
+*Related: C-11473*
 
 ---
 
@@ -446,7 +445,7 @@ Existing organization reused.
 
 Existing topic reused.
 
-*Related: C-7372*
+*Related: C-11471*
 
 ---
 
@@ -454,7 +453,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7370, C-7371, C-7372, C-7393*
+*Related: C-11468, C-11469, C-11471, C-11498*
 
 ---
 
@@ -462,14 +461,14 @@ Existing topic reused.
 
 TPUSA spokesperson; subject of the host's claims about a cancelled White House meeting and his statements about Charlie's July mood.
 
-*Related: C-7352, C-7353, C-7354, C-7389*
+*Related: C-11446, C-11447, C-11448, C-11493*
 
 ---
 
 **N-15** Justin Streiff
 TPUSA chief operating officer named by the host as scheduled for the White House meeting.
 
-*Related: C-7352*
+*Related: C-11446*
 
 ---
 
@@ -477,7 +476,7 @@ TPUSA chief operating officer named by the host as scheduled for the White House
 
 Widow and TPUSA CEO; subject of the host's claims on the hearing promise, comment request and courthouse attendance.
 
-*Related: C-7363, C-7386, C-7387, C-7388*
+*Related: C-11457, C-11488, C-11489, C-11491*
 
 ---
 
@@ -485,7 +484,7 @@ Widow and TPUSA CEO; subject of the host's claims on the hearing promise, commen
 
 Host; speaks for herself.
 
-*Related: C-7352, C-7353, C-7354, C-7355, C-7356, C-7357, C-7358, C-7359, C-7360, C-7361, C-7362, C-7363, C-7364, C-7365, C-7366, C-7367, C-7368, C-7369, C-7370, C-7371, C-7372, C-7373, C-7374, C-7375, C-7376, C-7377, C-7378, C-7379, C-7380, C-7381, C-7382, C-7383, C-7384, C-7385, C-7386, C-7387, C-7388, C-7389, C-7390, C-7391, C-7392, C-7393, C-7394, C-7395, C-7396, C-7397, C-7398, C-7399*
+*Related: C-11446, C-11447, C-11448, C-11449, C-11450, C-11451, C-11452, C-11453, C-11454, C-11455, C-11456, C-11457, C-11458, C-11459, C-11462, C-11463, C-11466, C-11467, C-11468, C-11469, C-11471, C-11472, C-11473, C-11474, C-11475, C-11476, C-11477, C-11478, C-11479, C-11480, C-11484, C-11485, C-11486, C-11487, C-11488, C-11489, C-11491, C-11493, C-11494, C-11495, C-11497, C-11498, C-11499, C-11500, C-11501, C-11503, C-11504, C-11505*
 
 ---
 
@@ -493,7 +492,7 @@ Host; speaks for herself.
 
 Host says he has attended the courthouse with Erika Kirk.
 
-*Related: C-7387*
+*Related: C-11489*
 
 ---
 
@@ -501,7 +500,7 @@ Host says he has attended the courthouse with Erika Kirk.
 
 Host notes he was in town the same day or week as the alleged White House meeting.
 
-*Related: C-7352*
+*Related: C-11446*
 
 ---
 
@@ -509,7 +508,7 @@ Host notes he was in town the same day or week as the alleged White House meetin
 
 Named by the host as a billionaire guest at the Aspen fundraiser.
 
-*Related: C-7381*
+*Related: C-11480*
 
 ---
 
@@ -517,7 +516,7 @@ Named by the host as a billionaire guest at the Aspen fundraiser.
 
 Host says he built a website on the case.
 
-*Related: C-7391*
+*Related: C-11495*
 
 ---
 
@@ -525,7 +524,7 @@ Host says he built a website on the case.
 
 Accused; subject of the host's claims on the rooftop footage, rifle, prints and dogs.
 
-*Related: C-7361, C-7364, C-7365, C-7368, C-7369, C-7396*
+*Related: C-11455, C-11458, C-11459, C-11466, C-11467, C-11501*
 
 ---
 
@@ -533,7 +532,7 @@ Accused; subject of the host's claims on the rooftop footage, rifle, prints and 
 
 One of two people the host says were detained.
 
-*Related: C-7357*
+*Related: C-11451*
 
 ---
 
@@ -541,7 +540,7 @@ One of two people the host says were detained.
 
 Man the host says was detained and released after the shooting; she raises his father's military app.
 
-*Related: C-7356, C-7357, C-7358*
+*Related: C-11450, C-11451, C-11452*
 
 ---
 
@@ -549,7 +548,7 @@ Man the host says was detained and released after the shooting; she raises his f
 
 Host recalls meeting him years ago.
 
-*Related: C-7395*
+*Related: C-11500*
 
 ---
 
@@ -557,7 +556,7 @@ Host recalls meeting him years ago.
 
 Named by the host re Phelan appointment, fundraiser, manifest release and the Brigitte request.
 
-*Related: C-7380, C-7381, C-7382, C-7390*
+*Related: C-11479, C-11480, C-11484, C-11494*
 
 ---
 
@@ -565,7 +564,7 @@ Named by the host re Phelan appointment, fundraiser, manifest release and the Br
 
 TPUSA chief marketing officer named by the host as scheduled for the White House meeting.
 
-*Related: C-7352*
+*Related: C-11446*
 
 ---
 
@@ -573,7 +572,7 @@ TPUSA chief marketing officer named by the host as scheduled for the White House
 
 In-house legal counsel named by the host as scheduled for the White House meeting.
 
-*Related: C-7352*
+*Related: C-11446*
 
 ---
 
@@ -581,7 +580,7 @@ In-house legal counsel named by the host as scheduled for the White House meetin
 
 Epstein associate whom the host describes in her Phelan manifest discussion.
 
-*Related: C-7383, C-7384, C-7385*
+*Related: C-11485, C-11486, C-11487*
 
 ---
 
@@ -589,7 +588,7 @@ Epstein associate whom the host describes in her Phelan manifest discussion.
 
 Head of the modeling firm the host ties to Brunel and Erika Kirk.
 
-*Related: C-7385, C-7386*
+*Related: C-11487, C-11488*
 
 ---
 
@@ -597,7 +596,7 @@ Head of the modeling firm the host ties to Brunel and Erika Kirk.
 
 Host blames the feds' conduct on his DOJ.
 
-*Related: C-7393*
+*Related: C-11498*
 
 ---
 
@@ -605,7 +604,7 @@ Host blames the feds' conduct on his DOJ.
 
 Subject of the request the host says Trump made through Charlie.
 
-*Related: C-7390*
+*Related: C-11494*
 
 ---
 
@@ -613,7 +612,7 @@ Subject of the request the host says Trump made through Charlie.
 
 Subject of the manifest and Brunel claims.
 
-*Related: C-7382, C-7383, C-7384*
+*Related: C-11484, C-11485, C-11486*
 
 ---
 
@@ -621,7 +620,7 @@ Subject of the manifest and Brunel claims.
 
 First named by the host at 00:21:00 in episode 133; she says he is a Pleasant Grove officer and 2025 UVU graduate who found the gun.
 
-*Related: C-7374, C-7375, C-7379*
+*Related: C-11473, C-11474, C-11478*
 
 ---
 
@@ -629,7 +628,7 @@ First named by the host at 00:21:00 in episode 133; she says he is a Pleasant Gr
 
 First named by the host at 00:21:00 in episode 133; she says he is Mitchell Curtis's father, a 21-year NCIS veteran.
 
-*Related: C-7375, C-7377, C-7378, C-7379*
+*Related: C-11474, C-11476, C-11477, C-11478*
 
 ---
 
@@ -637,7 +636,7 @@ First named by the host at 00:21:00 in episode 133; she says he is Mitchell Curt
 
 First named by the host at 00:22:40 in episode 133; she says he was Richmond's inspector general for six years before being fired.
 
-*Related: C-7378*
+*Related: C-11477*
 
 ---
 
@@ -645,7 +644,7 @@ First named by the host at 00:22:40 in episode 133; she says he was Richmond's i
 
 First named by the host at 00:27:47 in episode 133 (transcript spelling 'felon failen'); Secretary of the Navy.
 
-*Related: C-7380, C-7381, C-7382*
+*Related: C-11479, C-11480, C-11484*
 
 ---
 
@@ -654,7 +653,7 @@ First named by the host at 00:27:47 in episode 133 (transcript spelling 'felon f
 Node Type: Topic
 The host's question why the feds released a blurry stairwell still during the 33-hour manhunt when clearer footage existed.
 
-*Related: C-7355*
+*Related: C-11449*
 
 ---
 
@@ -663,7 +662,7 @@ The host's question why the feds released a blurry stairwell still during the 33
 Node Type: Organization
 Federal agency the host describes as employing Foster Curtiss for 21 years and reporting to the Secretary of the Navy.
 
-*Related: C-7375, C-7376, C-7377, C-7380*
+*Related: C-11474, C-11475, C-11476, C-11479*
 
 ---
 
@@ -672,7 +671,7 @@ Federal agency the host describes as employing Foster Curtiss for 21 years and r
 Node Type: Topic
 The host's account of Foster Curtiss leaving NCIS in June 2025 to be Richmond's interim inspector general after the firing of James Osuna.
 
-*Related: C-7377, C-7378, C-7379*
+*Related: C-11476, C-11477, C-11478*
 
 ---
 
@@ -681,7 +680,7 @@ The host's account of Foster Curtiss leaving NCIS in June 2025 to be Richmond's 
 Node Type: Topic
 The host's questions about why Zachariah Qureshi was arrested and interrogated and then released, and about his father's military app.
 
-*Related: C-7356, C-7357, C-7358*
+*Related: C-11450, C-11451, C-11452*
 
 ---
 
@@ -694,11 +693,11 @@ The host's questions about why Zachariah Qureshi was arrested and interrogated a
 Persistent question across episodes regarding the technique, training level, and identity markers of the rooftop individual. In this episode, host asserts footage shows a "lateral crawl" consistent with military tactical training.
 
 Evidence Count: 2 (A-2198 family + A-2199 reference)
-Claim Count: 2 (C-3150, C-3153)
+Claim Count: 2 (C-11460, C-11461)
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2198.1, A-2198.2, A-2198.3, A-2199.1, C-3150, C-3153*
+*Related: A-2198.1, A-2198.2, A-2198.3, A-2199.1, C-11460, C-11461*
 
 ---
 
@@ -707,11 +706,11 @@ Investigative Pressure: Medium
 Question of whether the rooftop footage shows muzzle flash and/or recoil consistent with the alleged weapon (German 98 Mauser family heirloom).
 
 Evidence Count: 1 (A-2198 family)
-Claim Count: 2 (C-3151, C-3152)
+Claim Count: 2 (C-11464, C-11465)
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2198.1, A-2198.4, C-3151, C-3152*
+*Related: A-2198.1, A-2198.4, C-11464, C-11465*
 
 ---
 
@@ -720,11 +719,11 @@ Investigative Pressure: Medium
 Host reports two dogs – Loki (scent-tracking, near amphitheater) and Freya (bomb-sniffing, near field where weapon was found). Host states Freya was reported to have a broken nose that day and failed to detect the weapon; rookie officers subsequently found the weapon. These claims are not artifact-displayed.
 
 Evidence Count: 1 (Tyler Robinson text artifact)
-Claim Count: 1 (C-3157)
+Claim Count: 1 (C-11470)
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2201.1, C-3157*
+*Related: A-2201.1, C-11470*
 
 ---
 
@@ -746,17 +745,17 @@ Investigative Pressure: Medium
 Wikipedia reading indicates Phelan flew twice on Epstein's plane in early 2006, once alongside Jean-Luc Brunel. Host draws broader Epstein-network inferences.
 
 Evidence Count: 1 (A-2200 family)
-Claim Count: 3 (C-3154, C-3155, C-3156)
+Claim Count: 3 (C-11481, C-11482, C-11483)
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2200.1, A-2200.2, A-2200.3, C-3154, C-3155, C-3156*
+*Related: A-2200.1, A-2200.2, A-2200.3, C-11481, C-11482, C-11483*
 
 ---
 
 ## V. Claim Register
 
-**C-3150** Rooftop footage depicts a movement identified by host as lateral/military crawl
+**C-11460** Rooftop footage depicts a movement identified by host as lateral/military crawl
 
 Claim Timestamp: 00:09:55–00:11:12
 Claim: The footage shown depicts an individual performing what the host identifies, with reference to a side-by-side military reference clip, as a "lateral crawl."
@@ -766,7 +765,7 @@ Investigative Direction: Obtain the original unaltered footage, authenticate sou
 
 ---
 
-**C-3151** Host Says She Sees No Recoil in Rooftop Footage and Notes an Unexplained Flash
+**C-11464** Host Says She Sees No Recoil in Rooftop Footage and Notes an Unexplained Flash
 
 Claim Timestamp: 00:13:37–00:15:53
 Claim: The host plays about 50 seconds of rooftop footage, asks viewers whether they see a recoil before the shooter gets up and sprints, says she did not see one, and notes a quick flash during the crawl that she is not sure about.
@@ -776,7 +775,7 @@ Investigative Direction: Submit original footage for frame-by-frame forensic ana
 
 ---
 
-**C-3152** Host Says She Saw No Recoil in Rooftop Footage
+**C-11465** Host Says She Saw No Recoil in Rooftop Footage
 
 Claim Timestamp: 00:13:37–00:15:53
 Claim: The host says she saw no visible recoil or kickback in the displayed footage, though the alleged weapon (a German 98 Mauser family heirloom) would be expected to produce a strong one.
@@ -786,7 +785,7 @@ Investigative Direction: Frame-by-frame forensic review of original footage; cro
 
 ---
 
-**C-3153** Host Says a Back-and-Forth Flash Is Visible During the Rooftop Crawl
+**C-11461** Host Says a Back-and-Forth Flash Is Visible During the Rooftop Crawl
 
 Claim Timestamp: 00:11:12–00:11:55
 Claim: The host says a flash is visible in the rooftop footage during the individual's crawl, which she runs back and forth, and asks whether it is something being pulled out, a signal mirror, a flag, something in the background or a car.
@@ -796,7 +795,7 @@ Investigative Direction: Slow-motion forensic review of original footage to dete
 
 ---
 
-**C-3154** Wikipedia article on John C. Phelan contains a "Relationship with Jeffrey Epstein" subsection
+**C-11481** Wikipedia article on John C. Phelan contains a "Relationship with Jeffrey Epstein" subsection
 
 Claim Timestamp: 00:29:26
 Claim: The displayed Wikipedia article on John C. Phelan (Secretary of the Navy) contains a tab/subsection titled "Relationship with Jeffrey Epstein."
@@ -807,7 +806,7 @@ Investigative Direction: Verify current Wikipedia article state at archive.org s
 
 ---
 
-**C-3155** Wikipedia states Phelan flew on Epstein's plane on February 27, 2006 (JFK to Luton)
+**C-11482** Wikipedia states Phelan flew on Epstein's plane on February 27, 2006 (JFK to Luton)
 
 Claim Timestamp: 00:30:00–00:30:41
 Claim: The Wikipedia article the host reads states that, per passenger manifests released as part of the Epstein files, Phelan flew on Jeffrey Epstein's plane on February 27, 2006, from JFK International Airport to London Luton Airport.
@@ -818,7 +817,7 @@ Investigative Direction: Verify against the released October 2025 House Committe
 
 ---
 
-**C-3156** Wikipedia states Phelan flew with Jean-Luc Brunel on Epstein's plane on March 3, 2006
+**C-11483** Wikipedia states Phelan flew with Jean-Luc Brunel on Epstein's plane on March 3, 2006
 
 Claim Timestamp: 00:30:41–00:31:35
 Claim: The Wikipedia article states that Phelan flew on Epstein's plane on March 3, 2006, from London to New York, with twelve other passengers including modeling agent Jean-Luc Brunel, per the released manifest.
@@ -829,7 +828,7 @@ Investigative Direction: Verify against released October 2025 House Committee ma
 
 ---
 
-**C-3157** Tyler Robinson texted that he was "hoping that pooch has a bad sniffer"
+**C-11470** Tyler Robinson texted that he was "hoping that pooch has a bad sniffer"
 
 Claim Timestamp: 00:19:07–00:20:08
 Claim: Tyler Robinson sent a text message stating, "When I checked the area about 3 hours ago, there was an officer with a canine walking nearby the area. I'm hoping that pooch has a bad sniffer."
@@ -840,7 +839,7 @@ Investigative Direction: Obtain the underlying court exhibit / text record image
 
 ---
 
-**C-3158** Iranian Lego propaganda video contains lyrics referencing Epstein
+**C-11490** Iranian Lego propaganda video contains lyrics referencing Epstein
 
 Claim Timestamp: 00:35:52–00:38:42
 Claim: In an Iranian Lego video the host plays, the lyrics reference Epstein ("Stop talking about Epstein. Now listen to the crowd"), followed by a crowd chant of "Epstein"; the host afterwards repeats "Epstein, Epstein, Epstein."
@@ -851,7 +850,7 @@ Investigative Direction: Confirm by independent review of the video file; verify
 
 ---
 
-**C-3159** Erika Kirk is shown using the phrase "be a table" in TPUSA chapter-leader context
+**C-11492** Erika Kirk is shown using the phrase "be a table" in TPUSA chapter-leader context
 
 Claim Timestamp: 00:40:55–00:41:40
 Claim: A viewer comment the host reads says Erika Kirk once told people to "be a table"; in the clip the host then plays, Erika Kirk tells TPUSA chapter leaders that if their table keeps getting destroyed, they should "become a roving table yourself."
@@ -862,7 +861,7 @@ Investigative Direction: Obtain original clip and full context (event, date, aud
 
 ---
 
-**C-3160** Becca proposes bullet fragments could have been lodged in gauze placed in Charlie Kirk's wound
+**C-11496** Becca proposes bullet fragments could have been lodged in gauze placed in Charlie Kirk's wound
 
 Claim Timestamp: 00:47:04
 Claim: Viewer Becca proposes that bullet fragments potentially lodged in gauze placed in Charlie Kirk's wound could account for bullet-mismatch findings, asking whether the gloves seen at the door were related. Host acknowledges possibility but suggests a medical-examiner-route alternative.
@@ -873,7 +872,7 @@ Investigative Direction: Review medical examiner reports and chain-of-custody re
 
 ---
 
-**C-3161** Jacob Morrison asserts rooftop flash is a position signal; host concurs action appears professional
+**C-11502** Jacob Morrison asserts rooftop flash is a position signal; host concurs action appears professional
 
 Claim Timestamp: 00:51:51
 Claim: Viewer Jacob Morrison writes that he thinks the rooftop flash was a signal that the shooter was in position. Host concurs: "Sure did look like a professional."
@@ -883,7 +882,7 @@ Investigative Direction: Forensic review of the flash frame-by-frame; compare wi
 
 ---
 
-**C-7352** Host Says White House Employee Confirmed a Kolvet White House Meeting
+**C-11446** Host Says White House Employee Confirmed a Kolvet White House Meeting
 
 Claim Timestamp: 00:00:01
 
@@ -899,7 +898,7 @@ Investigative Direction: Obtain the White House visitor or scheduling records fo
 
 ---
 
-**C-7353** Host Says Meeting Was Cancelled Before Kolvet Denied It
+**C-11447** Host Says Meeting Was Cancelled Before Kolvet Denied It
 
 Claim Timestamp: 00:01:01
 
@@ -915,7 +914,7 @@ Investigative Direction: Compare Kolvet's public denial with White House schedul
 
 ---
 
-**C-7354** Host Says She Has a Source in Kolvet's Inner Circle
+**C-11448** Host Says She Has a Source in Kolvet's Inner Circle
 
 Claim Timestamp: 00:01:01
 
@@ -931,7 +930,7 @@ Investigative Direction: Only testable through the host's source; ask TPUSA staf
 
 ---
 
-**C-7355** Host Says Feds Released a Blurry Stairwell Still Though Clearer Footage Existed
+**C-11449** Host Says Feds Released a Blurry Stairwell Still Though Clearer Footage Existed
 
 Claim Timestamp: 00:02:41
 
@@ -947,7 +946,7 @@ Investigative Direction: Compare the still released during the manhunt with the 
 
 ---
 
-**C-7356** Host Says Zachariah Qureshi Was Arrested, Interrogated and Released
+**C-11450** Host Says Zachariah Qureshi Was Arrested, Interrogated and Released
 
 Claim Timestamp: 00:03:53
 
@@ -958,13 +957,13 @@ Transcript Snippet: the local police decided to go to Zachariah Kareshi's apartm
 Anchored Artifacts: 
 Mentions: N-3, N-410
 Related Nodes: N-11142, N-10074
-Supports: C-2629
+Supports: C-7772
 Tags: relevance:core
 Investigative Direction: Obtain Provo and Utah County police records, any search or arrest warrant, and FBI interview records for the Karashy detention.
 
 ---
 
-**C-7357** Host Says Only Two People Were Detained, Zinn and Karashy
+**C-11451** Host Says Only Two People Were Detained, Zinn and Karashy
 
 Claim Timestamp: 00:04:08
 
@@ -980,7 +979,7 @@ Investigative Direction: Request the full list of detentions and arrests from Ut
 
 ---
 
-**C-7358** Host Says Karashy's Father Owns a Military App Tied to Fort Huachuca
+**C-11452** Host Says Karashy's Father Owns a Military App Tied to Fort Huachuca
 
 Claim Timestamp: 00:04:08
 
@@ -991,13 +990,13 @@ Transcript Snippet: this kid who has got a father who is a career military man w
 Anchored Artifacts: 
 Mentions: N-3, N-410
 Related Nodes: N-11142
-Supports: C-2655
+Supports: C-7866
 Tags: relevance:core
 Investigative Direction: Check DoD contract awards, SAM.gov and company filings for the Karashy family's app company and any Fort Huachuca work.
 
 ---
 
-**C-7359** Host Recaps Witness Saying the Rooftop Figure Looked Like a Professional
+**C-11453** Host Recaps Witness Saying the Rooftop Figure Looked Like a Professional
 
 Claim Timestamp: 00:04:48
 
@@ -1013,7 +1012,7 @@ Investigative Direction: Obtain the witness's police report and original iPhone 
 
 ---
 
-**C-7360** Host Says the Rooftop Witness Was Not Called by Prosecution or Defense
+**C-11454** Host Says the Rooftop Witness Was Not Called by Prosecution or Defense
 
 Claim Timestamp: 00:04:48
 
@@ -1029,7 +1028,7 @@ Investigative Direction: Check the preliminary hearing witness lists and exhibit
 
 ---
 
-**C-7361** Host Says Tyler and His Partner Never Discussed Politics, Charlie or LGBTQ Issues
+**C-11455** Host Says Tyler and His Partner Never Discussed Politics, Charlie or LGBTQ Issues
 
 Claim Timestamp: 00:05:43
 
@@ -1045,7 +1044,7 @@ Investigative Direction: Review the released Robinson text exchanges and the cha
 
 ---
 
-**C-7362** Host Says an Underground Movement of Insiders Is Supplying Information
+**C-11456** Host Says an Underground Movement of Insiders Is Supplying Information
 
 Claim Timestamp: 00:06:57
 
@@ -1061,7 +1060,7 @@ Investigative Direction: Only testable through the host's sources; ask her to id
 
 ---
 
-**C-7363** Host Says Erika Told Her the Preliminary Hearing Would Be Forthcoming
+**C-11457** Host Says Erika Told Her the Preliminary Hearing Would Be Forthcoming
 
 Claim Timestamp: 00:06:57
 
@@ -1077,7 +1076,7 @@ Investigative Direction: Ask Erika Kirk or her representatives what she told the
 
 ---
 
-**C-7364** Host Says Skinny Jeans, a 3'6" Gun and a Right-Pocket Phone Do Not Fit the Official Account
+**C-11458** Host Says Skinny Jeans, a 3'6" Gun and a Right-Pocket Phone Do Not Fit the Official Account
 
 Claim Timestamp: 00:08:13
 
@@ -1093,7 +1092,7 @@ Investigative Direction: Obtain the rifle's specifications and exhibit photos, a
 
 ---
 
-**C-7365** Host Says Robinson's Limp Disappears Once He Reaches the Rooftop
+**C-11459** Host Says Robinson's Limp Disappears Once He Reaches the Rooftop
 
 Claim Timestamp: 00:09:08
 
@@ -1109,7 +1108,7 @@ Investigative Direction: Compare gait before and after the rooftop frame by fram
 
 ---
 
-**C-7366** Host Says the Witness Reported No Recoil
+**C-11462** Host Says the Witness Reported No Recoil
 
 Claim Timestamp: 00:12:10
 
@@ -1120,13 +1119,13 @@ Transcript Snippet: will recall that the guy who recorded the footage specifical
 Anchored Artifacts: A-2198.4
 Mentions: N-3
 Related Nodes: N-10755, N-10314
-Supports: C-3152
+Supports: C-11465
 Tags: relevance:core
 Investigative Direction: Obtain the witness's police statement and audio the host previously aired, and a firearms expert opinion on recoil visible at that distance.
 
 ---
 
-**C-7367** Host Says the Rifle Is a German 98 Mauser Family Heirloom
+**C-11463** Host Says the Rifle Is a German 98 Mauser Family Heirloom
 
 Claim Timestamp: 00:12:10
 
@@ -1142,7 +1141,7 @@ Investigative Direction: Check the charging documents and ATF records for the ma
 
 ---
 
-**C-7368** Host Says the Rifle Had Dust in the Barrel at the Preliminary Hearing
+**C-11466** Host Says the Rifle Had Dust in the Barrel at the Preliminary Hearing
 
 Claim Timestamp: 00:17:12
 
@@ -1158,7 +1157,7 @@ Investigative Direction: Read the preliminary hearing transcript for the firearm
 
 ---
 
-**C-7369** Host Says ATF Described Robinson's Prints as the Most Degraded on the Gun
+**C-11467** Host Says ATF Described Robinson's Prints as the Most Degraded on the Gun
 
 Claim Timestamp: 00:17:12
 
@@ -1174,7 +1173,7 @@ Investigative Direction: Read the ATF latent print testimony and report from the
 
 ---
 
-**C-7370** Host Says Dogs Were Given a Scent and Sent Toward the Amphitheater
+**C-11468** Host Says Dogs Were Given a Scent and Sent Toward the Amphitheater
 
 Claim Timestamp: 00:18:07
 
@@ -1190,7 +1189,7 @@ Investigative Direction: Obtain K9 deployment logs and handler reports from the 
 
 ---
 
-**C-7371** Host Says Two Explosives Dogs Searched the Gun Field and Found Nothing
+**C-11469** Host Says Two Explosives Dogs Searched the Gun Field and Found Nothing
 
 Claim Timestamp: 00:18:07
 
@@ -1201,13 +1200,13 @@ Transcript Snippet: two dogs were actually looking for explosives. They are the 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11054, N-10756
-Supports: C-5280
+Supports: C-4284
 Tags: relevance:core
 Investigative Direction: Obtain K9 search logs, times and areas searched on September 10, 2025.
 
 ---
 
-**C-7372** Host Names the Dogs Loki and Freya and Says Freya Had a Broken Nose
+**C-11471** Host Names the Dogs Loki and Freya and Says Freya Had a Broken Nose
 
 Claim Timestamp: 00:19:07
 
@@ -1223,7 +1222,7 @@ Investigative Direction: Request the dogs' names, health and handler logs and co
 
 ---
 
-**C-7373** Host Says Feds Had Two Brand-New Rookie Cops Search Again Where Freya Failed
+**C-11472** Host Says Feds Had Two Brand-New Rookie Cops Search Again Where Freya Failed
 
 Claim Timestamp: 00:20:08
 
@@ -1239,7 +1238,7 @@ Investigative Direction: Obtain the incident reports and body-camera footage of 
 
 ---
 
-**C-7374** Host Names Rookie Officer Mitchell Curtis as a 2025 UVU Graduate Who Found the Gun
+**C-11473** Host Names Rookie Officer Mitchell Curtis as a 2025 UVU Graduate Who Found the Gun
 
 Claim Timestamp: 00:21:00
 
@@ -1255,7 +1254,7 @@ Investigative Direction: Obtain the police report identifying the discovering of
 
 ---
 
-**C-7375** Host Says Mitchell Curtis's Father Foster Curtiss Spent 21 Years at NCIS
+**C-11474** Host Says Mitchell Curtis's Father Foster Curtiss Spent 21 Years at NCIS
 
 Claim Timestamp: 00:21:00
 
@@ -1271,7 +1270,7 @@ Investigative Direction: Verify Foster Curtiss's NCIS and Inspector General care
 
 ---
 
-**C-7376** Host Describes NCIS Reach and Jurisdiction
+**C-11475** Host Describes NCIS Reach and Jurisdiction
 
 Claim Timestamp: 00:22:28
 
@@ -1287,7 +1286,7 @@ Investigative Direction: Check NCIS published figures on countries, staffing and
 
 ---
 
-**C-7377** Host Says Foster Curtiss Left NCIS on June 2, 2025 to Be Richmond's Interim Inspector General
+**C-11476** Host Says Foster Curtiss Left NCIS on June 2, 2025 to Be Richmond's Interim Inspector General
 
 Claim Timestamp: 00:22:40
 
@@ -1303,7 +1302,7 @@ Investigative Direction: Check City of Richmond announcements and local news fro
 
 ---
 
-**C-7378** Host Says Richmond Fired Inspector General James Osuna Amid NDAs
+**C-11477** Host Says Richmond Fired Inspector General James Osuna Amid NDAs
 
 Claim Timestamp: 00:22:40
 
@@ -1319,7 +1318,7 @@ Investigative Direction: Find the June 2025 Richmond local news reports and city
 
 ---
 
-**C-7379** Host Adds Mitch and Foster Curtiss to Her Tree of Brand-New Utah Personnel
+**C-11478** Host Adds Mitch and Foster Curtiss to Her Tree of Brand-New Utah Personnel
 
 Claim Timestamp: 00:23:56
 
@@ -1335,7 +1334,7 @@ Investigative Direction: Compare dates of the Curtis job changes with the gun di
 
 ---
 
-**C-7380** Host Says NCIS Reports to the Secretary of the Navy, Whom Trump Appointed With No Military Experience
+**C-11479** Host Says NCIS Reports to the Secretary of the Navy, Whom Trump Appointed With No Military Experience
 
 Claim Timestamp: 00:27:47
 
@@ -1351,7 +1350,7 @@ Investigative Direction: Check Phelan's official biography and the NCIS organiza
 
 ---
 
-**C-7381** Host Says Phelan Hosted a Private Trump Fundraiser in Aspen
+**C-11480** Host Says Phelan Hosted a Private Trump Fundraiser in Aspen
 
 Claim Timestamp: 00:28:58
 
@@ -1367,7 +1366,7 @@ Investigative Direction: Check press coverage and FEC filings for the Aspen fund
 
 ---
 
-**C-7382** Host Says Six Names Are Redacted on the Released Phelan Flight Manifest
+**C-11484** Host Says Six Names Are Redacted on the Released Phelan Flight Manifest
 
 Claim Timestamp: 00:30:41
 
@@ -1383,7 +1382,7 @@ Investigative Direction: Obtain the October 2025 House Committee manifest releas
 
 ---
 
-**C-7383** Host Says Brunel Died Hanged in Prison
+**C-11485** Host Says Brunel Died Hanged in Prison
 
 Claim Timestamp: 00:30:41
 
@@ -1399,7 +1398,7 @@ Investigative Direction: Check French judicial records on Brunel's death in cust
 
 ---
 
-**C-7384** Host Says Epstein Invested in Brunel's Modeling Business and Brunel Sent Him Triplets
+**C-11486** Host Says Epstein Invested in Brunel's Modeling Business and Brunel Sent Him Triplets
 
 Claim Timestamp: 00:30:41
 
@@ -1415,7 +1414,7 @@ Investigative Direction: Check court filings and published reporting on Epstein'
 
 ---
 
-**C-7385** Host Says Brunel Co-Founded the Firm Run by Faith Kates
+**C-11487** Host Says Brunel Co-Founded the Firm Run by Faith Kates
 
 Claim Timestamp: 00:30:41
 
@@ -1431,7 +1430,7 @@ Investigative Direction: Check corporate and press histories of Next Model Manag
 
 ---
 
-**C-7386** Host Says Her Team Sought Comment from Erika Kirk Over a Modeling Apartments Allegation and Got Nothing
+**C-11488** Host Says Her Team Sought Comment from Erika Kirk Over a Modeling Apartments Allegation and Got Nothing
 
 Claim Timestamp: 00:31:35
 
@@ -1442,13 +1441,13 @@ Transcript Snippet: We went out to Erika for comment. something that I would ins
 Anchored Artifacts: 
 Mentions: N-3, N-2
 Related Nodes: N-10524
-Supports: C-4729
+Supports: C-10114
 Tags: relevance:core
 Investigative Direction: Obtain the comment request and any reply, and the former Next staff accounts of Erika Kirk's role.
 
 ---
 
-**C-7387** Host Says Don Trump Jr. Has Been Entering the Courthouse With Erika
+**C-11489** Host Says Don Trump Jr. Has Been Entering the Courthouse With Erika
 
 Claim Timestamp: 00:33:55
 
@@ -1464,7 +1463,7 @@ Investigative Direction: Check court attendance reports and photographs of the h
 
 ---
 
-**C-7388** Host Says Charlie Wanted to Trace the Money and Set Up a DOGE Audit His Successor Cancelled
+**C-11491** Host Says Charlie Wanted to Trace the Money and Set Up a DOGE Audit His Successor Cancelled
 
 Claim Timestamp: 00:39:18
 
@@ -1475,13 +1474,13 @@ Transcript Snippet: wanted to know where the money was coming from and where it 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-2
 Related Nodes: N-10434, N-10132, N-10000
-Supports: C-5092, C-5093, C-4236
+Supports: C-3541, C-3542, C-9512
 Tags: relevance:core
 Investigative Direction: Obtain the September 2, 2025 internal memo on the audit, any engagement records, and TPUSA's statement on its status.
 
 ---
 
-**C-7389** Host Says Kolvet Claims Charlie Was Unhappy With Her in July
+**C-11493** Host Says Kolvet Claims Charlie Was Unhappy With Her in July
 
 Claim Timestamp: 00:45:12
 
@@ -1497,7 +1496,7 @@ Investigative Direction: Locate Kolvet's public statement and any dated messages
 
 ---
 
-**C-7390** Host Says Charlie Would Not Have Revealed Trump's Private Request About Brigitte
+**C-11494** Host Says Charlie Would Not Have Revealed Trump's Private Request About Brigitte
 
 Claim Timestamp: 00:45:12
 
@@ -1513,7 +1512,7 @@ Investigative Direction: Ask the host for the dated message or call record in wh
 
 ---
 
-**C-7391** Host Says Ian Carroll Built a Website on the Case
+**C-11495** Host Says Ian Carroll Built a Website on the Case
 
 Claim Timestamp: 00:45:58
 
@@ -1529,7 +1528,7 @@ Investigative Direction: Identify the website and its authorship.
 
 ---
 
-**C-7392** Host Says a Fed Was Overseeing the Autopsy
+**C-11497** Host Says a Fed Was Overseeing the Autopsy
 
 Claim Timestamp: 00:47:04
 
@@ -1545,7 +1544,7 @@ Investigative Direction: Obtain the autopsy chain of custody and attendee list f
 
 ---
 
-**C-7393** Host Says Police Divisions Told Her Feds Sent Them on Wild Goose Hunts
+**C-11498** Host Says Police Divisions Told Her Feds Sent Them on Wild Goose Hunts
 
 Claim Timestamp: 00:47:04
 
@@ -1556,13 +1555,13 @@ Transcript Snippet: Every police division that I've spoken to said that the feds
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11054
-Supports: C-5223
+Supports: C-4221
 Tags: relevance:core
 Investigative Direction: Obtain dispatch and tasking logs for SWAT, marshals and K9 units on September 10, 2025.
 
 ---
 
-**C-7394** Host Says She Toured and Had a Contract With Charlie
+**C-11499** Host Says She Toured and Had a Contract With Charlie
 
 Claim Timestamp: 00:48:42
 
@@ -1578,7 +1577,7 @@ Investigative Direction: Obtain the contract and tour records referenced by the 
 
 ---
 
-**C-7395** Host Says She Met Brad Parscale Years Ago and Had a Friendly Relationship
+**C-11500** Host Says She Met Brad Parscale Years Ago and Had a Friendly Relationship
 
 Claim Timestamp: 00:50:04
 
@@ -1594,7 +1593,7 @@ Investigative Direction: Only the host can confirm the history of the relationsh
 
 ---
 
-**C-7396** Host Says a Turning Point Employee Will Testify Tyler Robinson Approached Them
+**C-11501** Host Says a Turning Point Employee Will Testify Tyler Robinson Approached Them
 
 Claim Timestamp: 00:50:50
 
@@ -1610,7 +1609,7 @@ Investigative Direction: Check prosecution witness lists for any Turning Point e
 
 ---
 
-**C-7397** Host Says Influencers Repeating Overwhelmed by Evidence Are Operation Mockingbird
+**C-11503** Host Says Influencers Repeating Overwhelmed by Evidence Are Operation Mockingbird
 
 Claim Timestamp: 00:52:43
 
@@ -1626,7 +1625,7 @@ Investigative Direction: Compare the language across the influencers' posts and 
 
 ---
 
-**C-7398** Host Describes a CIA Experiment With 26 Agents and a Banana
+**C-11504** Host Describes a CIA Experiment With 26 Agents and a Banana
 
 Claim Timestamp: 00:53:34
 
@@ -1642,7 +1641,7 @@ Investigative Direction: The host admits mixing up the details; identify any CIA
 
 ---
 
-**C-7399** Host Promotes the CIA Crew Neck Merchandise
+**C-11505** Host Promotes the CIA Crew Neck Merchandise
 
 Claim Timestamp: 00:54:39
 
@@ -1784,7 +1783,7 @@ Confidence: high
 - **Artifact provenance unverified:** A-2198 family – host asserts she has held the footage since October 2025; chain of custody not displayed.
 - **Artifact provenance unverified:** A-2199 family – side-by-side lateral-crawl reference clip source unstated.
 - **Transcript ambiguity:** "the eene amount of gauze" in A-2204.4 appears to be a transcription error for "the immense amount of gauze."
-- **Requires human verification:** All Wikipedia-derived claims (C-3154, C-3155, C-3156) require verification against live article at episode air date, as Wikipedia content is mutable.
+- **Requires human verification:** All Wikipedia-derived claims (C-11481, C-11482, C-11483) require verification against live article at episode air date, as Wikipedia content is mutable.
 
 ---
 
@@ -1799,7 +1798,7 @@ Confidence: high
 - A-2203 (Erika Kirk Speech Clip Bundle)
 - A-2204 (Viewer Comments Bundle)
 
-**Claim Range:** C-3150–C-3161
+**Claim Range:** C-11460–C-11502
 
 **New People Nodes Introduced:** none. Wave 1 reconciliation: N-10141..N-10145 are topic ids, not these people. Andrew Kolvet is N-14 and Jean-Luc Brunel is N-529; Mitchell Curtis, Foster Curtiss and John C. Phelan have no CKA person node.
 

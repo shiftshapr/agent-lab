@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep043): N-389
   - Tip-minted Nodes (reintro-ep043): N-11186, N-11287
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10f): C-12477–C-12523
+  - Claim Range: C-3735–C-3799
   - New Nodes Introduced: N-312, N-313, N-314, N-315, N-316, N-317, N-10317, N-10318, N-10320, N-10321, N-10322, N-10325
   - Reused Nodes Appearing: none (Wave 2: local ids removed), N-10316, N-10324, N-10319, N-10323, N-7, N-9, N-22, N-40, N-159, N-190, N-220, N-267, N-10000, N-10015, N-10193, N-10202, N-10340, N-11337
   - (see registers)
@@ -37,7 +37,6 @@
 - **Analysis date:** 2026-03-11
 - **Ledger continuation summary:**
   - Artifact Families Introduced: A-1513, A-1514, A-1515, A-1516, A-1517, A-1518
-  - Claim Range: C-1862–C-1879
   - New Nodes Introduced (people):  through
   - New Nodes Introduced (investigation targets): N-10316 through N-10325
   - Existing Nodes Reused: N-3
@@ -66,7 +65,7 @@ Video Timestamp: 00:01:07–00:02:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1862, C-1863, N-1*
+*Related: C-3736, C-3737, N-1*
 
 ---
 
@@ -80,7 +79,7 @@ Video Timestamp: 00:07:33–00:08:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1864, N-69, N-46, N-10316*
+*Related: C-3742, N-69, N-46, N-10316*
 
 ---
 
@@ -94,7 +93,7 @@ Video Timestamp: 00:14:36–00:15:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1865, C-1866, N-312, N-10317*
+*Related: C-3755, C-3756, N-312, N-10317*
 
 **A-1515.2** Read-aloud quote from a website identified as "CorpWatch" describing the Angolagate scandal, citing a March 25 Global Witness report ("All the President's Men")
 
@@ -104,7 +103,7 @@ Video Timestamp: 00:15:38–00:17:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1867, C-1868, C-1869, C-1870, C-1871, N-312, N-313, N-314, N-315*
+*Related: C-3764, C-3757, C-3751, C-3759, C-3760, N-312, N-313, N-314, N-315*
 
 ---
 
@@ -118,7 +117,7 @@ Video Timestamp: 00:30:18–00:33:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (video exists; result of test as shown)
 
-*Related: C-1872, C-1873, N-316, N-10319, N-66, N-188*
+*Related: C-3782, C-3783, N-316, N-10319, N-66, N-188*
 
 ---
 
@@ -132,7 +131,7 @@ Video Timestamp: 00:29:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1874, N-317*
+*Related: C-3777, N-317*
 
 ---
 
@@ -146,7 +145,7 @@ Video Timestamp: 00:37:36–00:38:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1879*
+*Related: C-3789*
 
 **A-1518.2** Viewer comment from "Assad O Bros": testimony that watching the "Brigitte series" led to purchasing a first Bible
 
@@ -166,7 +165,7 @@ Video Timestamp: 00:39:37–00:40:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1879*
+*Related: C-3789*
 
 **A-1518.4** Viewer comment from "AZ Master Baker": dates given for Erika with Bari Weiss (13th), TPUSA podcast (15th), TPUSA AmFest (18th)
 
@@ -176,7 +175,7 @@ Video Timestamp: 00:40:18–00:41:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (dates as stated by commenter)
 
-*Related: C-1877, N-278*
+*Related: C-3796, N-278*
 
 **A-1518.5** Viewer comment from "CCXX": references life insurance taken out on Charlie Kirk and $1.5 million routing; mentions Daily Mail story on life insurance
 
@@ -186,7 +185,7 @@ Video Timestamp: 00:41:02–00:41:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (existence of Daily Mail story as cited)
 
-*Related: C-1878, C-1879, N-10322*
+*Related: C-3797, C-3789, N-10322*
 
 **A-1518.6** Viewer comment from "Laughing Cats Music World" – referenced but contents not read in full (request for post to TPUSA asking specific questions)
 
@@ -196,7 +195,7 @@ Video Timestamp: 00:37:36–00:38:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as referenced comment)
 
-*Related: C-1875, C-1876, N-10321*
+*Related: C-3787, C-3788, N-10321*
 
 ---
 
@@ -209,7 +208,7 @@ Video Timestamp: 00:10:04
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12486, C-12487, C-12488, N-3, N-312, N-10317*
+*Related: C-3747, C-3746, C-3749, N-3, N-312, N-10317*
 
 ---
 
@@ -224,7 +223,7 @@ Video Timestamp: 00:10:04
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-12485, N-3*
+*Related: C-3748, N-3*
 
 ---
 
@@ -237,7 +236,7 @@ Video Timestamp: 00:25:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-12505, C-12506, C-12507, C-12508, N-220, N-267, N-910, N-389*
+*Related: C-3773, C-3774, C-3775, C-3776, N-220, N-267, N-910, N-389*
 
 **A-3210.2** Host verbal description of what Tim Pool said on the same show about her viewers and his lost subscribers (not shown)
 
@@ -246,7 +245,7 @@ Video Timestamp: 00:24:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12503, C-12504, N-267, N-220*
+*Related: C-3771, C-3772, N-267, N-220*
 
 ---
 
@@ -259,7 +258,7 @@ Video Timestamp: 00:19:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12499, C-12500, C-12501, N-1, N-270, N-10320*
+*Related: C-3767, C-3768, C-3769, N-1, N-270, N-10320*
 
 ---
 
@@ -272,7 +271,7 @@ Video Timestamp: 00:39:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12520, N-11336, N-11337*
+*Related: C-3794, N-11336, N-11337*
 
 ---
 
@@ -288,7 +287,7 @@ Claim Count: (existing)
 Episode Count: (existing)
 Investigative Pressure: (existing)
 
-*Related: A-1513.1, A-1518.1, A-1518.3, A-1518.5, C-1862, C-1863*
+*Related: A-1513.1, A-1518.1, A-1518.3, A-1518.5, C-3736, C-3737*
 
 ---
 
@@ -301,7 +300,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1514.1, C-1864, N-46, N-10316*
+*Related: A-1514.1, C-3742, N-46, N-10316*
 
 ---
 
@@ -314,7 +313,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1514.1, C-1864, N-69*
+*Related: A-1514.1, C-3742, N-69*
 
 ---
 
@@ -327,7 +326,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1515.1, A-1515.2, C-1865, C-1866, C-1867, C-1870, N-313, N-314, N-315, N-10317*
+*Related: A-1515.1, A-1515.2, C-3755, C-3756, C-3764, C-3759, N-313, N-314, N-315, N-10317*
 
 ---
 
@@ -340,7 +339,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1515.2, C-1868, C-1870, N-312*
+*Related: A-1515.2, C-3757, C-3759, N-312*
 
 ---
 
@@ -353,7 +352,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1515.2, C-1871, N-312, N-315*
+*Related: A-1515.2, C-3760, N-312, N-315*
 
 ---
 
@@ -366,7 +365,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1515.2, C-1871, N-314*
+*Related: A-1515.2, C-3760, N-314*
 
 ---
 
@@ -379,7 +378,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1516.1, C-1872, C-1873, N-10319*
+*Related: A-1516.1, C-3782, C-3783, N-10319*
 
 ---
 
@@ -392,7 +391,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-1864 (Patel) – adjacent, N-10320*
+*Related: C-3742 (Patel) – adjacent, N-10320*
 
 ---
 
@@ -418,7 +417,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1518.4, C-1877*
+*Related: A-1518.4, C-3796*
 
 ---
 
@@ -431,7 +430,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1517.1, C-1874*
+*Related: A-1517.1, C-3777*
 
 ---
 
@@ -472,7 +471,7 @@ Claim Count: 1
 Episode Count: (existing)
 Investigative Pressure: High
 
-*Related: A-1514.1, C-1864, N-69, N-46*
+*Related: A-1514.1, C-3742, N-69, N-46*
 
 ---
 
@@ -485,7 +484,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1515.1, A-1515.2, C-1865, C-1866, C-1867, N-312*
+*Related: A-1515.1, A-1515.2, C-3755, C-3756, C-3764, N-312*
 
 ---
 
@@ -511,7 +510,7 @@ Claim Count: 2
 Episode Count: (existing)
 Investigative Pressure: High
 
-*Related: A-1516.1, C-1872, C-1873, N-316*
+*Related: A-1516.1, C-3782, C-3783, N-316*
 
 ---
 
@@ -537,7 +536,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1518.6, C-1875, C-1876*
+*Related: A-1518.6, C-3787, C-3788*
 
 ---
 
@@ -550,7 +549,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1518.5, C-1878*
+*Related: A-1518.5, C-3797*
 
 ---
 
@@ -597,7 +596,7 @@ Investigative Pressure: Medium
 
 Host; speaks for herself throughout.
 
-*Related: C-12480, C-12481, C-12482, C-12483, C-12485, C-12486, C-12487, C-12503, C-12504*
+*Related: C-3740, C-3741, C-3743, C-3744, C-3748, C-3747, C-3746, C-3771, C-3772*
 
 ---
 
@@ -605,7 +604,7 @@ Host; speaks for herself throughout.
 
 Pastor the host says called cover-up questions crazy because Charlie would not have hired people who betrayed him.
 
-*Related: C-12479*
+*Related: C-3739*
 
 ---
 
@@ -613,7 +612,7 @@ Pastor the host says called cover-up questions crazy because Charlie would not h
 
 Israeli intelligence service; Kirk's May 2025 JFK remarks discuss its mention in the JFK files.
 
-*Related: C-12477*
+*Related: C-3735*
 
 ---
 
@@ -621,7 +620,7 @@ Israeli intelligence service; Kirk's May 2025 JFK remarks discuss its mention in
 
 Organization at the center of the tips, the Falcone lead and the promised response.
 
-*Related: C-12479, C-12486, C-12488, C-12497, C-12499, C-12500, C-12508, C-12516, C-12518, C-12521*
+*Related: C-3739, C-3747, C-3749, C-3765, C-3767, C-3768, C-3776, C-3790, C-3792, C-3795*
 
 ---
 
@@ -629,7 +628,7 @@ Organization at the center of the tips, the Falcone lead and the promised respon
 
 Accused in the Kirk shooting; the host says Patel called him the only person involved.
 
-*Related: C-12484*
+*Related: C-3745*
 
 ---
 
@@ -637,7 +636,7 @@ Accused in the Kirk shooting; the host says Patel called him the only person inv
 
 The host recalls his on-stage question about how people become billionaires.
 
-*Related: C-12498*
+*Related: C-3766*
 
 ---
 
@@ -645,7 +644,7 @@ The host recalls his on-stage question about how people become billionaires.
 
 Commentator in the Tim Pool clip, speaking on Epstein files and TPUSA's account.
 
-*Related: C-12503, C-12505, C-12506, C-12507, C-12508*
+*Related: C-3771, C-3773, C-3774, C-3775, C-3776*
 
 ---
 
@@ -653,7 +652,7 @@ Commentator in the Tim Pool clip, speaking on Epstein files and TPUSA's account.
 
 Host of the show where Milo and George Santos appear; the host says he called her viewers stupid.
 
-*Related: C-12503, C-12504, C-12505, C-12508*
+*Related: C-3771, C-3772, C-3773, C-3776*
 
 ---
 
@@ -661,7 +660,7 @@ Host of the show where Milo and George Santos appear; the host says he called he
 
 Cited by Milo as saying Epstein was the key that picks the lock.
 
-*Related: C-12505*
+*Related: C-3773*
 
 ---
 
@@ -669,7 +668,7 @@ Cited by Milo as saying Epstein was the key that picks the lock.
 
 Subject of the Epstein files discussion in the Tim Pool clip.
 
-*Related: C-12505, C-12506, C-12507*
+*Related: C-3773, C-3774, C-3775*
 
 ---
 
@@ -677,7 +676,7 @@ Subject of the Epstein files discussion in the Tim Pool clip.
 
 TPUSA figure whose prior-episode diatribe the host references.
 
-*Related: C-12516*
+*Related: C-3790*
 
 ---
 
@@ -685,7 +684,7 @@ TPUSA figure whose prior-episode diatribe the host references.
 
 Person whose call logs a viewer comment asks to see.
 
-*Related: C-12517*
+*Related: C-3791*
 
 ---
 
@@ -693,7 +692,7 @@ Person whose call logs a viewer comment asks to see.
 
 Existing topic reused for the viewer request about call logs and metadata around 12:23 p.m.
 
-*Related: C-12517*
+*Related: C-3791*
 
 ---
 
@@ -701,7 +700,7 @@ Existing topic reused for the viewer request about call logs and metadata around
 
 Existing topic reused for Patel's interview statements and the host's FBI-contact claim.
 
-*Related: C-12482, C-12484*
+*Related: C-3743, C-3745*
 
 ---
 
@@ -709,7 +708,7 @@ Existing topic reused for Patel's interview statements and the host's FBI-contac
 
 Existing topic reused for the insider tip about Charlie's messages the night before.
 
-*Related: C-12499, C-12500*
+*Related: C-3767, C-3768*
 
 ---
 
@@ -717,7 +716,7 @@ Existing topic reused for the insider tip about Charlie's messages the night bef
 
 Existing topic for the Angolan arms-for-oil scandal described by the host and the CorpWatch text.
 
-*Related: C-12489, C-12490, C-12491, C-12493, C-12494, C-12495, C-12496*
+*Related: C-3750, C-3752, C-3753, C-3758, C-3761, C-3762, C-3763*
 
 ---
 
@@ -725,7 +724,7 @@ Existing topic for the Angolan arms-for-oil scandal described by the host and th
 
 Existing topic reused for the host's account of Tim Pool's remarks.
 
-*Related: C-12503, C-12504*
+*Related: C-3771, C-3772*
 
 ---
 
@@ -733,7 +732,7 @@ Existing topic reused for the host's account of Tim Pool's remarks.
 
 First named by the host at 00:25:22 in episode 43. Former congressman who appears in the Tim Pool clip.
 
-*Related: C-12505, C-12506, C-12507, A-3210.1*
+*Related: C-3773, C-3774, C-3775, A-3210.1*
 
 ---
 
@@ -742,7 +741,7 @@ First named by the host at 00:25:22 in episode 43. Former congressman who appear
 Node Type: Place
 Country the host says gave an interview about its relationship with Hamas.
 
-*Related: C-12520, A-3212.1*
+*Related: C-3794, A-3212.1*
 
 ---
 
@@ -751,13 +750,13 @@ Country the host says gave an interview about its relationship with Hamas.
 Node Type: Organization
 Organization the host says Qatar was asked by the US government to establish a relationship with.
 
-*Related: C-12520, A-3212.1*
+*Related: C-3794, A-3212.1*
 
 ---
 
 ## V. Claim Register
 
-**C-1862** Charlie Kirk asserted that more than one person was involved in the JFK assassination
+**C-3736** Charlie Kirk asserted that more than one person was involved in the JFK assassination
 
 Claim Timestamp: 00:02:03–00:02:43
 
@@ -770,7 +769,7 @@ Investigative Direction: Obtain the full unedited clip and confirm Kirk's exact 
 
 ---
 
-**C-1863** Charlie Kirk asserted that parts of the US government, Lyndon Baines Johnson, and Cubans wanted JFK dead
+**C-3737** Charlie Kirk asserted that parts of the US government, Lyndon Baines Johnson, and Cubans wanted JFK dead
 
 Claim Timestamp: 00:02:03
 
@@ -783,7 +782,7 @@ Investigative Direction: Obtain the full source clip to verify Kirk's exact phra
 
 ---
 
-**C-1864** Kash Patel did not deny French involvement in Charlie Kirk's assassination when directly asked by Megyn Kelly
+**C-3742** Kash Patel did not deny French involvement in Charlie Kirk's assassination when directly asked by Megyn Kelly
 
 Claim Timestamp: 00:07:33–00:08:21
 
@@ -797,7 +796,7 @@ Investigative Direction: Obtain the full unedited Megyn Kelly / Kash Patel inter
 
 ---
 
-**C-1865** Pierre Falcone was convicted in France of arms trafficking, breach of trust, misuse of corporate assets, and bribery
+**C-3755** Pierre Falcone was convicted in France of arms trafficking, breach of trust, misuse of corporate assets, and bribery
 
 Claim Timestamp: 00:14:36–00:15:38
 
@@ -811,7 +810,7 @@ Investigative Direction: Obtain primary French court records or a contemporaneou
 
 ---
 
-**C-1866** Pierre Falcone's conviction was overturned on appeal and replaced with a reduced 2.5-year sentence
+**C-3756** Pierre Falcone's conviction was overturned on appeal and replaced with a reduced 2.5-year sentence
 
 Claim Timestamp: 00:14:36–00:15:38
 
@@ -825,7 +824,7 @@ Investigative Direction: Locate the appellate decision and confirm the precise r
 
 ---
 
-**C-1867** Pierre Falcone is described as currently residing in Scottsdale, Arizona
+**C-3764** Pierre Falcone is described as currently residing in Scottsdale, Arizona
 
 Claim Timestamp: 00:17:26
 
@@ -841,7 +840,7 @@ Investigative Direction: Verify Pierre Falcone's current residence via property 
 
 ---
 
-**C-1868** Arcadi Gaydamak was convicted in absentia in France of arms trafficking, tax fraud, bribery, and money laundering
+**C-3757** Arcadi Gaydamak was convicted in absentia in France of arms trafficking, tax fraud, bribery, and money laundering
 
 Claim Timestamp: 00:14:36–00:15:38
 
@@ -854,7 +853,7 @@ Investigative Direction: Locate the French court judgment against Gaydamak and c
 
 ---
 
-**C-1869** The Angolagate scandal involved France, Israel, Angola, Russia, Slovakia, and the United States
+**C-3751** The Angolagate scandal involved France, Israel, Angola, Russia, Slovakia, and the United States
 
 Claim Timestamp: 00:12:29
 
@@ -867,7 +866,7 @@ Investigative Direction: Cross-reference the March 25 Global Witness report "All
 
 ---
 
-**C-1870** Approximately $463 million in arms were transferred to Angola via Brenco International and the Mitterrand access channel
+**C-3759** Approximately $463 million in arms were transferred to Angola via Brenco International and the Mitterrand access channel
 
 Claim Timestamp: 00:15:38–00:17:26
 
@@ -880,7 +879,7 @@ Investigative Direction: Locate the original Global Witness report figures and t
 
 ---
 
-**C-1871** Jean-Christophe Mitterrand, son of former French president François Mitterrand, was implicated in Angolagate
+**C-3760** Jean-Christophe Mitterrand, son of former French president François Mitterrand, was implicated in Angolagate
 
 Claim Timestamp: 00:15:38–00:17:26
 
@@ -893,7 +892,7 @@ Investigative Direction: Verify Jean-Christophe Mitterrand's role via French cou
 
 ---
 
-**C-1872** Clip the Host Plays Shows Jesse Kege / One Shot TV 180gr FMJ .30-06 Round Fully Penetrating Ballistic Dummy and Three 5-Gallon Water Jugs
+**C-3782** Clip the Host Plays Shows Jesse Kege / One Shot TV 180gr FMJ .30-06 Round Fully Penetrating Ballistic Dummy and Three 5-Gallon Water Jugs
 
 Claim Timestamp: 00:32:46–00:33:21
 
@@ -907,7 +906,7 @@ Investigative Direction: Obtain the full One Shot TV video, including any second
 
 ---
 
-**C-1873** The One Shot TV .30-06 demonstration is presented as evidence challenging the official ballistics narrative
+**C-3783** The One Shot TV .30-06 demonstration is presented as evidence challenging the official ballistics narrative
 
 Claim Timestamp: 00:33:21
 
@@ -921,7 +920,7 @@ Investigative Direction: Cross-reference the One Shot TV demonstration with offi
 
 ---
 
-**C-1874** The Hodge Twins publicly stated that Republicans will lose midterms because no deep state criminals have been held accountable
+**C-3777** The Hodge Twins publicly stated that Republicans will lose midterms because no deep state criminals have been held accountable
 
 Claim Timestamp: 00:29:16
 
@@ -934,7 +933,7 @@ Investigative Direction: Obtain the original tweet and confirm the exact text.
 
 ---
 
-**C-1875** A viewer comment asserts that TPUSA sent $1.5 million to a 110 LLC routing to a Safeway strip mall
+**C-3787** A viewer comment asserts that TPUSA sent $1.5 million to a 110 LLC routing to a Safeway strip mall
 
 Claim Timestamp: 00:37:36–00:38:23
 
@@ -947,7 +946,7 @@ Investigative Direction: Trace the named LLC through state business filings, ban
 
 ---
 
-**C-1876** A viewer comment asserts that a DOJ audit of TPUSA was cancelled
+**C-3788** A viewer comment asserts that a DOJ audit of TPUSA was cancelled
 
 Claim Timestamp: 00:37:36–00:38:23
 
@@ -960,7 +959,7 @@ Investigative Direction: Verify through DOJ press releases, congressional corres
 
 ---
 
-**C-1877** A viewer comment asserts that Erika Kirk is scheduled to appear with Bari Weiss on the 13th, a TPUSA podcast on the 15th, and TPUSA AmFest on the 18th
+**C-3796** A viewer comment asserts that Erika Kirk is scheduled to appear with Bari Weiss on the 13th, a TPUSA podcast on the 15th, and TPUSA AmFest on the 18th
 
 Claim Timestamp: 00:40:18–00:41:02
 
@@ -974,7 +973,7 @@ Investigative Direction: Verify against publicly available event listings and ep
 
 ---
 
-**C-1878** The Daily Mail has reported on the life insurance policy taken out on Charlie Kirk
+**C-3797** The Daily Mail has reported on the life insurance policy taken out on Charlie Kirk
 
 Claim Timestamp: 00:41:02–00:41:57
 
@@ -988,7 +987,7 @@ Investigative Direction: Locate the Daily Mail article and confirm policy detail
 
 ---
 
-**C-1879** Viewer Comments the Host Reads Question TPUSA's Silence and Response
+**C-3789** Viewer Comments the Host Reads Question TPUSA's Silence and Response
 
 Claim Timestamp: 00:37:36–00:41:02
 
@@ -1002,7 +1001,7 @@ Investigative Direction: Cross-reference against depositions, congressional test
 
 ---
 
-**C-12477** Kirk said Mossad's mention in the JFK files does not show involvement
+**C-3735** Kirk said Mossad's mention in the JFK files does not show involvement
 
 Claim Timestamp: 00:01:07
 
@@ -1018,7 +1017,7 @@ Investigative Direction: Obtain the full unedited clip of the May 2025 event to 
 
 ---
 
-**C-12478** Kirk listed 15 or 20 inexcusable events on the day of the JFK assassination
+**C-3738** Kirk listed 15 or 20 inexcusable events on the day of the JFK assassination
 
 Claim Timestamp: 00:02:03
 
@@ -1028,13 +1027,13 @@ Transcript Snippet: There were like 15 or 20 things that happened that day that 
 
 Anchored Artifacts: A-1513.1
 Mentions: N-1
-Supports: C-1862
+Supports: C-3736
 Tags: relevance:tangential
 Investigative Direction: Compare Kirk's list with the Warren Commission record and the Dallas motorcade route documents; obtain the full clip.
 
 ---
 
-**C-12479** Host says Frank Turek called cover-up questions crazy because Charlie would not have hired traitors
+**C-3739** Host says Frank Turek called cover-up questions crazy because Charlie would not have hired traitors
 
 Claim Timestamp: 00:03:44
 
@@ -1050,7 +1049,7 @@ Investigative Direction: Locate Turek's original statement (show, interview or p
 
 ---
 
-**C-12480** Host says a viable threat came from the Macron couple who apparently paid for her assassination
+**C-3740** Host says a viable threat came from the Macron couple who apparently paid for her assassination
 
 Claim Timestamp: 00:06:28
 
@@ -1066,7 +1065,7 @@ Investigative Direction: Ask the host for the source and date of the alleged thr
 
 ---
 
-**C-12481** Host says no government body or the Elysee disputes the Macron threat narrative
+**C-3741** Host says no government body or the Elysee disputes the Macron threat narrative
 
 Claim Timestamp: 00:06:28
 
@@ -1082,7 +1081,7 @@ Investigative Direction: Check for any public denial by the Elysee, the White Ho
 
 ---
 
-**C-12482** Host says the FBI has not communicated with her about the alleged French threat
+**C-3743** Host says the FBI has not communicated with her about the alleged French threat
 
 Claim Timestamp: 00:08:21
 
@@ -1098,7 +1097,7 @@ Investigative Direction: Ask the host whether she sent the FBI any submission an
 
 ---
 
-**C-12483** Host Says She Said She Had Proof the French Government Was on the Ground That Day
+**C-3744** Host Says She Said She Had Proof the French Government Was on the Ground That Day
 
 Claim Timestamp: 00:08:21
 
@@ -1114,7 +1113,7 @@ Investigative Direction: Identify the proof the host refers to; compare with her
 
 ---
 
-**C-12484** Host says Patel asserted in the interview that Tyler Robinson is the only person involved
+**C-3745** Host says Patel asserted in the interview that Tyler Robinson is the only person involved
 
 Claim Timestamp: 00:09:26
 
@@ -1130,7 +1129,7 @@ Investigative Direction: Check the full interview transcript for Patel's exact w
 
 ---
 
-**C-12485** Host asks viewers to email more tips to candaceowens.com
+**C-3748** Host asks viewers to email more tips to candaceowens.com
 
 Claim Timestamp: 00:11:50
 
@@ -1145,7 +1144,7 @@ Investigative Direction: Review the tips mailbox for Falcone-related submissions
 
 ---
 
-**C-12486** Host says an overseas tip says TPUSA-linked people met Pierre Falcone
+**C-3747** Host says an overseas tip says TPUSA-linked people met Pierre Falcone
 
 Claim Timestamp: 00:11:32
 
@@ -1161,7 +1160,7 @@ Investigative Direction: Identify the tipster and any meeting record (calendar, 
 
 ---
 
-**C-12487** Host floats that Charlie was being asked to join a global trafficking network
+**C-3746** Host floats that Charlie was being asked to join a global trafficking network
 
 Claim Timestamp: 00:10:04
 
@@ -1177,7 +1176,7 @@ Investigative Direction: Ask the host for any documentary basis; none is offered
 
 ---
 
-**C-12488** Host says Falcone lives in Scottsdale, Arizona and is a billionaire
+**C-3749** Host says Falcone lives in Scottsdale, Arizona and is a billionaire
 
 Claim Timestamp: 00:11:59
 
@@ -1188,13 +1187,13 @@ Transcript Snippet: this person who lives in Scottsdale, Arizona and is a billio
 Anchored Artifacts: A-3208.1
 Mentions: N-312
 Related Nodes: N-10317, N-10000
-Supports: C-1867
+Supports: C-3764
 Tags: relevance:core
 Investigative Direction: Check Arizona property records, corporate filings and Forbes-type wealth listings for Falcone.
 
 ---
 
-**C-12489** Host says Falcone's scandal almost brought down the French government
+**C-3750** Host says Falcone's scandal almost brought down the French government
 
 Claim Timestamp: 00:12:28
 
@@ -1205,13 +1204,13 @@ Transcript Snippet: He was involved in a scandal that almost brought down the Fr
 Anchored Artifacts: 
 Mentions: N-312
 Related Nodes: N-11186
-Supports: C-1869
+Supports: C-3751
 Tags: relevance:context
 Investigative Direction: Review contemporaneous French political reporting on Angolagate (1999-2000) for any threat to the government.
 
 ---
 
-**C-12490** Host says the arms trafficking to Angola was discovered in 1999 during French elections
+**C-3752** Host says the arms trafficking to Angola was discovered in 1999 during French elections
 
 Claim Timestamp: 00:13:31
 
@@ -1227,7 +1226,7 @@ Investigative Direction: Compare with French judicial chronology of the Angolaga
 
 ---
 
-**C-12491** Host says Brenco International was run by Arcadi Gaydamak with Pierre Falcone as partner
+**C-3753** Host says Brenco International was run by Arcadi Gaydamak with Pierre Falcone as partner
 
 Claim Timestamp: 00:13:31
 
@@ -1243,7 +1242,7 @@ Investigative Direction: Check French court findings on who headed Brenco Intern
 
 ---
 
-**C-12492** Host says Pierre Falcone was born in Algeria and moved to France
+**C-3754** Host says Pierre Falcone was born in Algeria and moved to France
 
 Claim Timestamp: 00:13:31
 
@@ -1258,7 +1257,7 @@ Investigative Direction: Check biographical sources and court records for Falcon
 
 ---
 
-**C-12493** Host says the French interior minister was implicated in Angolagate
+**C-3758** Host says the French interior minister was implicated in Angolagate
 
 Claim Timestamp: 00:14:36
 
@@ -1273,7 +1272,7 @@ Investigative Direction: Identify which interior minister is meant and confirm t
 
 ---
 
-**C-12494** Host says 41 politicians were involved in Angolagate
+**C-3761** Host says 41 politicians were involved in Angolagate
 
 Claim Timestamp: 00:15:38
 
@@ -1288,7 +1287,7 @@ Investigative Direction: Verify the number against French trial records or the s
 
 ---
 
-**C-12495** Host says human rights groups demanded Congress probe the Bush administration over Angolagate
+**C-3762** Host says human rights groups demanded Congress probe the Bush administration over Angolagate
 
 Claim Timestamp: 00:15:38
 
@@ -1303,7 +1302,7 @@ Investigative Direction: Locate the human-rights-group statements and any congre
 
 ---
 
-**C-12496** CorpWatch text says Gaydamak funneled billions in arms and oil-backed loans to Angola
+**C-3763** CorpWatch text says Gaydamak funneled billions in arms and oil-backed loans to Angola
 
 Claim Timestamp: 00:16:58
 
@@ -1319,7 +1318,7 @@ Investigative Direction: Pull the Global Witness 'All the President's Men' repor
 
 ---
 
-**C-12497** Host says sources in France report outrage and that Falcone vanished from France after his appeal
+**C-3765** Host says sources in France report outrage and that Falcone vanished from France after his appeal
 
 Claim Timestamp: 00:17:26
 
@@ -1330,13 +1329,13 @@ Transcript Snippet: Uh they found this to be naked corruption when he won his ap
 Anchored Artifacts: A-1515.2
 Mentions: N-312
 Related Nodes: N-10317
-Supports: C-1867
+Supports: C-3764
 Tags: relevance:context
 Investigative Direction: Identify the French sources; check French press on Falcone's departure and any Interpol or residency records.
 
 ---
 
-**C-12498** Host says Tucker Carlson asked on stage how people become billionaires
+**C-3766** Host says Tucker Carlson asked on stage how people become billionaires
 
 Claim Timestamp: 00:19:07
 
@@ -1351,7 +1350,7 @@ Investigative Direction: Locate the Tucker Carlson stage remarks the host refers
 
 ---
 
-**C-12499** Host says a TPUSA insider tip says Charlie messaged a donor and a TPUSA staffer the night before
+**C-3767** Host says a TPUSA insider tip says Charlie messaged a donor and a TPUSA staffer the night before
 
 Claim Timestamp: 00:19:58
 
@@ -1367,7 +1366,7 @@ Investigative Direction: Obtain the messages or phone records for the night of S
 
 ---
 
-**C-12500** Host says she was told Charlie also messaged Dan Flood that they were going to kill him tomorrow
+**C-3768** Host says she was told Charlie also messaged Dan Flood that they were going to kill him tomorrow
 
 Claim Timestamp: 00:19:58
 
@@ -1383,7 +1382,7 @@ Investigative Direction: Obtain the message thread between Kirk and Flood and th
 
 ---
 
-**C-12501** Host says it is an absolute fact that many people know Charlie sensed he would die the next day
+**C-3769** Host says it is an absolute fact that many people know Charlie sensed he would die the next day
 
 Claim Timestamp: 00:19:58
 
@@ -1394,13 +1393,13 @@ Transcript Snippet: So, again, that many people know that Charlie sensed that he
 Anchored Artifacts: A-3211.1
 Mentions: N-1
 Related Nodes: N-10320
-Supports: C-12500
+Supports: C-3768
 Tags: relevance:core
 Investigative Direction: Identify who knew; seek on-record statements from the people the host says are silent.
 
 ---
 
-**C-12502** Host says the CIA has been engaged in trafficking weapons and drugs
+**C-3770** Host says the CIA has been engaged in trafficking weapons and drugs
 
 Claim Timestamp: 00:23:20
 
@@ -1414,7 +1413,7 @@ Investigative Direction: Review public records (Church Committee, congressional 
 
 ---
 
-**C-12503** Host says Tim Pool hosted Milo and called her viewers stupid for refusing fed slop
+**C-3771** Host says Tim Pool hosted Milo and called her viewers stupid for refusing fed slop
 
 Claim Timestamp: 00:24:03
 
@@ -1430,7 +1429,7 @@ Investigative Direction: Watch the Tim Pool episode in question and confirm the 
 
 ---
 
-**C-12504** Host says Tim Pool lamented losing subscribers after attacking her
+**C-3772** Host says Tim Pool lamented losing subscribers after attacking her
 
 Claim Timestamp: 00:24:03
 
@@ -1446,7 +1445,7 @@ Investigative Direction: Check the Tim Pool episode and public subscriber statis
 
 ---
 
-**C-12505** Milo says Bannon called Epstein the key that picks the lock
+**C-3773** Milo says Bannon called Epstein the key that picks the lock
 
 Claim Timestamp: 00:26:05
 
@@ -1462,7 +1461,7 @@ Investigative Direction: Locate the Bannon remark Milo cites and the Tim Pool ep
 
 ---
 
-**C-12506** Milo says every Trump voter expected the Epstein files to be released immediately
+**C-3774** Milo says every Trump voter expected the Epstein files to be released immediately
 
 Claim Timestamp: 00:26:44
 
@@ -1478,7 +1477,7 @@ Investigative Direction: Compare with polling on Trump voters' expectations abou
 
 ---
 
-**C-12507** Panelist says Trump's 'no Epstein files' line was the moment Trumpism died
+**C-3775** Panelist says Trump's 'no Epstein files' line was the moment Trumpism died
 
 Claim Timestamp: 00:27:41
 
@@ -1494,7 +1493,7 @@ Investigative Direction: Identify which panelist says this on the Tim Pool episo
 
 ---
 
-**C-12508** Milo calls the Feds' and TPUSA's account obviously inadequate and says TPUSA is losing to the host
+**C-3776** Milo calls the Feds' and TPUSA's account obviously inadequate and says TPUSA is losing to the host
 
 Claim Timestamp: 00:27:41
 
@@ -1510,7 +1509,7 @@ Investigative Direction: Confirm Milo's statement in the full Tim Pool episode; 
 
 ---
 
-**C-12509** Jesse Kege says the ammunition used in the shooting is unknown
+**C-3778** Jesse Kege says the ammunition used in the shooting is unknown
 
 Claim Timestamp: 00:30:18
 
@@ -1526,7 +1525,7 @@ Investigative Direction: Compare with any official statement or charging documen
 
 ---
 
-**C-12510** Jesse Kege bought a 150gr Hornady ballistic tip round to maximize the chance of stopping in the target
+**C-3779** Jesse Kege bought a 150gr Hornady ballistic tip round to maximize the chance of stopping in the target
 
 Claim Timestamp: 00:31:34
 
@@ -1542,7 +1541,7 @@ Investigative Direction: Obtain the full video and the result for the second rou
 
 ---
 
-**C-12511** Kege set up a dummy bust with three water jugs and a downward angle from a truck roof
+**C-3780** Kege set up a dummy bust with three water jugs and a downward angle from a truck roof
 
 Claim Timestamp: 00:31:47
 
@@ -1558,7 +1557,7 @@ Investigative Direction: Compare the setup geometry with the official shot angle
 
 ---
 
-**C-12512** Kege says shooting from 30 or 40 versus 140 makes almost no difference
+**C-3781** Kege says shooting from 30 or 40 versus 140 makes almost no difference
 
 Claim Timestamp: 00:32:23
 
@@ -1574,7 +1573,7 @@ Investigative Direction: Have a ballistics expert assess terminal energy at the 
 
 ---
 
-**C-12513** Kege says the result shows why people are skeptical of the official story
+**C-3784** Kege says the result shows why people are skeptical of the official story
 
 Claim Timestamp: 00:33:21
 
@@ -1590,7 +1589,7 @@ Investigative Direction: Have independent firearms experts review the video; com
 
 ---
 
-**C-12514** Host says the .30-06 bullet would have decapitated Charlie
+**C-3785** Host says the .30-06 bullet would have decapitated Charlie
 
 Claim Timestamp: 00:33:21
 
@@ -1601,13 +1600,13 @@ Transcript Snippet: That's what we mean when we say that particular bullet would
 Anchored Artifacts: A-1516.1
 Mentions: N-1
 Related Nodes: N-10319
-Supports: C-1873
+Supports: C-3783
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy findings and official wound description to compare against the host's assertion.
 
 ---
 
-**C-12515** Host says people close to Charlie are not honest about his anxiety the night before he died
+**C-3786** Host says people close to Charlie are not honest about his anxiety the night before he died
 
 Claim Timestamp: 00:34:33
 
@@ -1618,13 +1617,13 @@ Transcript Snippet: they're not honest about the anxiety that Charlie had the ni
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10320
-Supports: C-12501
+Supports: C-3769
 Tags: relevance:core
 Investigative Direction: Identify who spoke with Kirk the night of September 9, 2025 and seek their accounts.
 
 ---
 
-**C-12516** Host says Blake Neff gave a diatribe in the prior episode about why TPUSA took a while to respond
+**C-3790** Host says Blake Neff gave a diatribe in the prior episode about why TPUSA took a while to respond
 
 Claim Timestamp: 00:37:36
 
@@ -1640,7 +1639,7 @@ Investigative Direction: Review the prior episode and Neff's original statement 
 
 ---
 
-**C-12517** Viewer comment asks to see Mikey's call logs and metadata around 12:23 p.m.
+**C-3791** Viewer comment asks to see Mikey's call logs and metadata around 12:23 p.m.
 
 Claim Timestamp: 00:37:36
 
@@ -1656,7 +1655,7 @@ Investigative Direction: Cross-reference with host-shown Mikey McCoy call logs i
 
 ---
 
-**C-12518** Host says TPUSA has said it will soon do something to answer questions
+**C-3792** Host says TPUSA has said it will soon do something to answer questions
 
 Claim Timestamp: 00:38:23
 
@@ -1671,7 +1670,7 @@ Investigative Direction: Track the TPUSA announcement and the planned response e
 
 ---
 
-**C-12519** Host recommends John Mappin's essay The Perfumed Pervert
+**C-3793** Host recommends John Mappin's essay The Perfumed Pervert
 
 Claim Timestamp: 00:38:23
 
@@ -1686,7 +1685,7 @@ Investigative Direction: Locate the essay and review its content before any clai
 
 ---
 
-**C-12520** Host says Qatar said it has a relationship with Hamas because the US government asked it to
+**C-3794** Host says Qatar said it has a relationship with Hamas because the US government asked it to
 
 Claim Timestamp: 00:39:37
 
@@ -1701,7 +1700,7 @@ Investigative Direction: Locate the Qatari interview and confirm who said it and
 
 ---
 
-**C-12521** Host says many leaks she has received came from TPUSA employees
+**C-3795** Host says many leaks she has received came from TPUSA employees
 
 Claim Timestamp: 00:39:37
 
@@ -1711,13 +1710,13 @@ Transcript Snippet: obviously a lot of leaks that we've received have come from 
 
 Anchored Artifacts: 
 Related Nodes: N-10000
-Supports: C-4915
+Supports: C-390
 Tags: relevance:core
 Investigative Direction: Corroborate through on-record statements or documents from current or former TPUSA staff.
 
 ---
 
-**C-12522** Host says holding a life insurance policy on a spouse is normal, whether corporate implications exist is separate
+**C-3798** Host says holding a life insurance policy on a spouse is normal, whether corporate implications exist is separate
 
 Claim Timestamp: 00:41:02
 
@@ -1733,7 +1732,7 @@ Investigative Direction: Obtain the policy details reported by the Daily Mail an
 
 ---
 
-**C-12523** Host says viral posts claim Charlie is not yet buried and she told that he had a Catholic funeral mass
+**C-3799** Host says viral posts claim Charlie is not yet buried and she told that he had a Catholic funeral mass
 
 Claim Timestamp: 00:41:57
 
@@ -1744,7 +1743,7 @@ Transcript Snippet: people that are saying that Charlie Kirk has not yet been bu
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10323
-Supports: C-6532
+Supports: C-1974
 Tags: relevance:context
 Investigative Direction: Check cemetery or funeral-home records and the host's follow-up the next episode.
 
@@ -1917,7 +1916,7 @@ Confidence: high
 **Artifact Families Introduced:**
 A-1513, A-1514, A-1515, A-1516, A-1517, A-1518
 
-**Claim Range:** C-1862–C-1879
+**Claim Range:** C-3736–C-3789
 
 **New Nodes Introduced (people):**
 N-69 (Kash Patel), N-46 (Megyn Kelly), N-312 (Pierre Falcone), N-313 (Arcadi Gaydamak), N-314 (Jean-Christophe Mitterrand), N-315 (François Mitterrand), N-316 (Jesse Kege),  (Milo Yiannopoulos),  (Tim Pool),  (George Santos), N-270 (Dan Flood),  (Frank Turek),  (Nick Fuentes), N-154 (John Mappin), N-278 (Bari Weiss), N-317 (Hodge Twins),  (Tucker Carlson), N-66 (Mel / Village Crazy Lady), N-188 (Ryan Matta)

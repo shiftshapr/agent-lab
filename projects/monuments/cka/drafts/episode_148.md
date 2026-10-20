@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-790
-  - Claim Range (supplement_2026-10b): C-7693–C-7775
+  - Claim Range: C-12735–C-12830
   - (see registers)
 
 # Episode Analysis: Chicago's Homecoming: Ye Returns To The Stage. Charlie Kirk's One Year Approaches… | Ep 384
@@ -47,7 +47,6 @@ Confidence: high
 ### Episode 148 Ledger Summary
 
 - Artifact Families Introduced: A-2341, A-2342, A-2343, A-2344, A-2345, A-2346, A-2347, A-2348, A-2349, A-2350
-- Claim Range: C-3393–C-3405
   - New Nodes Introduced: none
   - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-7, N-14, N-27, N-159, N-329, N-10000, N-359, N-36, N-55, N-97, N-164, N-211, N-237, N-243, N-367, N-430, N-486, N-708, N-10011, N-10012, N-10024, N-10058, N-10061, N-10062, N-10169, N-10201, N-10342, N-10657, N-10662, N-10715, N-10805, N-10888, N-10900, N-10905, N-10914, N-10968, N-11061
   - Hole-minted Nodes (wave1): N-350
@@ -238,7 +237,7 @@ Video Timestamp: 00:03:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3393 (host narrative framing only – no inscribed investigative claim), N-27*
+*Related: C-12773 (host narrative framing only – no inscribed investigative claim), N-27*
 
 **A-2341.2** "Famous" Crowd Performance Clip
 
@@ -322,7 +321,7 @@ Video Timestamp: 00:42:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3404, C-3405, N-1*
+*Related: C-12789, C-12823, N-1*
 
 ---
 
@@ -338,7 +337,7 @@ Video Timestamp: 00:33:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3397, N-159, N-3*
+*Related: C-12768, N-159, N-3*
 
 ---
 
@@ -354,7 +353,7 @@ Video Timestamp: 00:36:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3393, C-3394, C-3395, C-3396, N-159, N-3, N-10000*
+*Related: C-12773, C-12774, C-12775, C-12776, N-159, N-3, N-10000*
 
 ---
 
@@ -370,7 +369,7 @@ Video Timestamp: 00:40:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3398, C-3399, C-3400, C-3401, C-3402, N-2, N-350, N-10000*
+*Related: C-12785, C-12792, C-12793, C-12800, C-12804, N-2, N-350, N-10000*
 
 ---
 
@@ -386,7 +385,7 @@ Video Timestamp: 00:08:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3403, N-3, N-27*
+*Related: C-12741, N-3, N-27*
 
 ---
 
@@ -444,7 +443,7 @@ Video Timestamp: 00:56:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3405*
+*Related: C-12823*
 
 **A-2350.6** Lynn Marie Comment: "Charlie Kirk is finally free."
 
@@ -487,7 +486,7 @@ Video Timestamp: 00:27:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7718, N-1, N-3*
+*Related: C-12761, N-1, N-3*
 
 ---
 
@@ -500,7 +499,7 @@ Video Timestamp: 00:52:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7754, N-1, N-7*
+*Related: C-12808, N-1, N-7*
 
 ---
 
@@ -513,7 +512,7 @@ Video Timestamp: 00:56:42
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7771, C-7772, C-7773, N-430, N-10657*
+*Related: C-12826, C-12827, C-12828, N-430, N-10657*
 
 ---
 
@@ -528,7 +527,7 @@ Claim Count: 4
 Episode Count: many
 Investigative Pressure: High
 
-*Related: A-2345.1, A-2347.1, A-2348.1, A-2350.5, C-3393, C-3394, C-3399, C-3401, C-3404, C-3405*
+*Related: A-2345.1, A-2347.1, A-2348.1, A-2350.5, C-12773, C-12774, C-12792, C-12800, C-12789, C-12823*
 
 **N-2** Erika Kirk
 
@@ -539,7 +538,7 @@ Claim Count: 5
 Episode Count: many
 Investigative Pressure: High
 
-*Related: A-2348.1, A-2350.1, A-2350.3, C-3398, C-3399, C-3400, C-3401, C-3402*
+*Related: A-2348.1, A-2350.1, A-2350.3, C-12785, C-12792, C-12793, C-12800, C-12804*
 
 **N-159** Blake Neff
 
@@ -550,7 +549,7 @@ Claim Count: 5
 Episode Count: many
 Investigative Pressure: High
 
-*Related: A-2346.1, A-2347.1, A-2350.7, C-3393, C-3394, C-3395, C-3396, C-3397*
+*Related: A-2346.1, A-2347.1, A-2350.7, C-12773, C-12774, C-12775, C-12776, C-12768*
 
 **N-27** Kanye West
 
@@ -572,7 +571,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2349.1, C-3403*
+*Related: A-2349.1, C-12741*
 
 ---
 
@@ -585,13 +584,13 @@ Claim Count: 2
 Episode Count: many
 Investigative Pressure: Medium
 
-*Related: A-2348.1, C-3399, C-3400*
+*Related: A-2348.1, C-12792, C-12793*
 
 **N-3** Candace Owens
 
 Host; speaks for herself throughout and is named in the Neff, Daily Wire and travel claims.
 
-*Related: C-7693, C-7694, C-7695, C-7696, C-7697, C-7698, C-7699, C-7700, C-7701, C-7703, C-7706, C-7707, C-7708, C-7709, C-7712, C-7713, C-7714, C-7716, C-7717, C-7718, C-7719, C-7720, C-7721, C-7725, C-7726, C-7727, C-7729, C-7730, C-7732, C-7735, C-7736, C-7758, C-7762, C-7768*
+*Related: C-12735, C-12736, C-12737, C-12738, C-12739, C-12740, C-12742, C-12743, C-12744, C-12746, C-12749, C-12750, C-12751, C-12752, C-12755, C-12756, C-12757, C-12759, C-12760, C-12761, C-12762, C-12763, C-12764, C-12769, C-12770, C-12771, C-12777, C-12778, C-12780, C-12783, C-12784, C-12812, C-12816, C-12822*
 
 ---
 
@@ -599,7 +598,7 @@ Host; speaks for herself throughout and is named in the Neff, Daily Wire and tra
 
 JD Vance; named in the host's AmFest remark about Erika.
 
-*Related: C-7745*
+*Related: C-12797*
 
 ---
 
@@ -607,7 +606,7 @@ JD Vance; named in the host's AmFest remark about Erika.
 
 Frank Turek; named by the host as the source of the description of the Israeli officials on the Zoom call (transcribed Turak).
 
-*Related: C-7754, C-7755, C-7765*
+*Related: C-12808, C-12809, C-12819*
 
 ---
 
@@ -615,7 +614,7 @@ Frank Turek; named by the host as the source of the description of the Israeli o
 
 Andrew Kolvet (aired as Andrew Kolvet); TPUSA spokesperson the host says relayed the Netanyahu offer and who is quoted on the memorial fireworks.
 
-*Related: C-7710, C-7734, C-7766*
+*Related: C-12753, C-12782, C-12820*
 
 ---
 
@@ -623,7 +622,7 @@ Andrew Kolvet (aired as Andrew Kolvet); TPUSA spokesperson the host says relayed
 
 Benjamin Netanyahu (aired as BB); the host says he offered to take Turning Point to the next level.
 
-*Related: C-7710*
+*Related: C-12753*
 
 ---
 
@@ -631,7 +630,7 @@ Benjamin Netanyahu (aired as BB); the host says he offered to take Turning Point
 
 Josh Hammer; the host places him on the Zoom call and cites his remark about his book.
 
-*Related: C-7756, C-7764, C-7765*
+*Related: C-12810, C-12818, C-12819*
 
 ---
 
@@ -639,7 +638,7 @@ Josh Hammer; the host places him on the Zoom call and cites his remark about his
 
 Ben Shapiro; named in the host's account of the Daily Wire statement pressure.
 
-*Related: C-7706, C-7707*
+*Related: C-12749, C-12750*
 
 ---
 
@@ -647,7 +646,7 @@ Ben Shapiro; named in the host's account of the Daily Wire statement pressure.
 
 Rabbi Pesach Wolicki; the host places him on the Zoom call.
 
-*Related: C-7756*
+*Related: C-12810*
 
 ---
 
@@ -655,7 +654,7 @@ Rabbi Pesach Wolicki; the host places him on the Zoom call.
 
 Jesse Watters (aired as Jesse Watters); the host says Erika's op-ed repeats her interview remarks to him.
 
-*Related: C-7747, C-7749, C-7750*
+*Related: C-12799, C-12802, C-12803*
 
 ---
 
@@ -663,7 +662,7 @@ Jesse Watters (aired as Jesse Watters); the host says Erika's op-ed repeats her 
 
 Glenn Beck; the host guesses he may speak at the UVU anniversary event.
 
-*Related: C-7753*
+*Related: C-12807*
 
 ---
 
@@ -671,7 +670,7 @@ Glenn Beck; the host guesses he may speak at the UVU anniversary event.
 
 Grok; the host cites a critic's Grok exchange about the concert.
 
-*Related: C-7694*
+*Related: C-12736*
 
 ---
 
@@ -679,7 +678,7 @@ Grok; the host cites a critic's Grok exchange about the concert.
 
 Tulsi Gabbard; the host says her office was given the Zoom call conversation.
 
-*Related: C-7760*
+*Related: C-12814*
 
 ---
 
@@ -687,7 +686,7 @@ Tulsi Gabbard; the host says her office was given the Zoom call conversation.
 
 Danny Philip; the host says he drove the second Denali with Neff and that Neff will not name him.
 
-*Related: C-7722, C-7723, C-7724, C-7733*
+*Related: C-12765, C-12766, C-12767, C-12781*
 
 ---
 
@@ -695,7 +694,7 @@ Danny Philip; the host says he drove the second Denali with Neff and that Neff w
 
 Brad Parscale; the host says he was a Salem Media executive who brought the filings forward.
 
-*Related: C-7773*
+*Related: C-12828*
 
 ---
 
@@ -703,7 +702,7 @@ Brad Parscale; the host says he was a Salem Media executive who brought the fili
 
 Taylor Swift; the host compares Ye's tour to her Eras Tour.
 
-*Related: C-7693*
+*Related: C-12735*
 
 ---
 
@@ -711,7 +710,7 @@ Taylor Swift; the host compares Ye's tour to her Eras Tour.
 
 John F. Kennedy; named in the host's Operation Mockingbird aside.
 
-*Related: C-7751*
+*Related: C-12805*
 
 ---
 
@@ -719,7 +718,7 @@ John F. Kennedy; named in the host's Operation Mockingbird aside.
 
 Turning Point USA; subject of the host's claims about honesty, the Department of War and the anniversary events.
 
-*Related: C-7710, C-7727, C-7728, C-7741, C-7744, C-7753*
+*Related: C-12753, C-12771, C-12772, C-12791, C-12796, C-12807*
 
 ---
 
@@ -727,7 +726,7 @@ Turning Point USA; subject of the host's claims about honesty, the Department of
 
 TMZ; source of the interview in which Ye introduced the host.
 
-*Related: C-7719, C-7720*
+*Related: C-12762, C-12763*
 
 ---
 
@@ -735,7 +734,7 @@ TMZ; source of the interview in which Ye introduced the host.
 
 Utah Valley University; site of the September 10 event and the planned Thursday anniversary event.
 
-*Related: C-7753, C-7762*
+*Related: C-12807, C-12816*
 
 ---
 
@@ -743,7 +742,7 @@ Utah Valley University; site of the September 10 event and the planned Thursday 
 
 Kirk Assassination Investigation Timeline; existing topic reused for the host's summary of the official account.
 
-*Related: C-7735*
+*Related: C-12783*
 
 ---
 
@@ -751,7 +750,7 @@ Kirk Assassination Investigation Timeline; existing topic reused for the host's 
 
 BBC; broadcaster of the 2013 Kanye interview clip.
 
-*Related: C-7702*
+*Related: C-12745*
 
 ---
 
@@ -759,7 +758,7 @@ BBC; broadcaster of the 2013 Kanye interview clip.
 
 CIA Operation Mockingbird; the host says the New York Times was involved.
 
-*Related: C-7751*
+*Related: C-12805*
 
 ---
 
@@ -767,7 +766,7 @@ CIA Operation Mockingbird; the host says the New York Times was involved.
 
 Orem, Utah; location of the hospital waiting room in the Deseret News account.
 
-*Related: C-7729, C-7732*
+*Related: C-12777, C-12780*
 
 ---
 
@@ -775,7 +774,7 @@ Orem, Utah; location of the hospital waiting room in the Deseret News account.
 
 Existing topic reused for the Zoom call claims.
 
-*Related: C-7754, C-7755, C-7756, C-7757, C-7759, C-7763, C-7764, C-7765*
+*Related: C-12808, C-12809, C-12810, C-12811, C-12813, C-12817, C-12818, C-12819*
 
 ---
 
@@ -783,7 +782,7 @@ Existing topic reused for the Zoom call claims.
 
 Existing topic reused for the funeral fireworks claims.
 
-*Related: C-7695, C-7696, C-7766, C-7767*
+*Related: C-12737, C-12738, C-12820, C-12821*
 
 ---
 
@@ -791,7 +790,7 @@ Existing topic reused for the funeral fireworks claims.
 
 Existing topic reused for the Netanyahu offer claims.
 
-*Related: C-7710, C-7711*
+*Related: C-12753, C-12754*
 
 ---
 
@@ -799,7 +798,7 @@ Existing topic reused for the Netanyahu offer claims.
 
 Existing topic reused for the Salem Media claims.
 
-*Related: C-7769, C-7770, C-7771, C-7772, C-7773, C-7774*
+*Related: C-12824, C-12825, C-12826, C-12827, C-12828, C-12829*
 
 ---
 
@@ -807,7 +806,7 @@ Existing topic reused for the Salem Media claims.
 
 Existing topic reused for the foreign agent filing claims.
 
-*Related: C-7771, C-7772*
+*Related: C-12826, C-12827*
 
 ---
 
@@ -815,7 +814,7 @@ Existing topic reused for the foreign agent filing claims.
 
 Existing topic reused for the Denali and whereabouts claims.
 
-*Related: C-7722, C-7723, C-7724, C-7733*
+*Related: C-12765, C-12766, C-12767, C-12781*
 
 ---
 
@@ -823,7 +822,7 @@ Existing topic reused for the Denali and whereabouts claims.
 
 Existing topic reused for the debate-help explanation.
 
-*Related: C-7763*
+*Related: C-12817*
 
 ---
 
@@ -831,7 +830,7 @@ Existing topic reused for the debate-help explanation.
 
 Department of War; named in the host's claims about TPUSA and revenge.
 
-*Related: C-7704, C-7717, C-7741*
+*Related: C-12747, C-12760, C-12791*
 
 ---
 
@@ -839,7 +838,7 @@ Department of War; named in the host's claims about TPUSA and revenge.
 
 Daily Wire; the host's former employer in the Kanye statement and contract claims.
 
-*Related: C-7706, C-7707, C-7708, C-7713*
+*Related: C-12749, C-12750, C-12751, C-12756*
 
 ---
 
@@ -847,7 +846,7 @@ Daily Wire; the host's former employer in the Kanye statement and contract claim
 
 Existing topic reused for the New York Times apartment interview claim.
 
-*Related: C-7738*
+*Related: C-12787*
 
 ---
 
@@ -855,7 +854,7 @@ Existing topic reused for the New York Times apartment interview claim.
 
 Show Faith by Works LLC; named by the host as a FARA registrant.
 
-*Related: C-7771, C-7774*
+*Related: C-12826, C-12829*
 
 ---
 
@@ -863,7 +862,7 @@ Show Faith by Works LLC; named by the host as a FARA registrant.
 
 The New York Times; publisher of Erika Kirk's op-ed.
 
-*Related: C-7737, C-7738, C-7739, C-7740, C-7751*
+*Related: C-12786, C-12787, C-12788, C-12790, C-12805*
 
 ---
 
@@ -871,7 +870,7 @@ The New York Times; publisher of Erika Kirk's op-ed.
 
 Existing topic reused for the Restaurantology attendance claim.
 
-*Related: C-7723*
+*Related: C-12766*
 
 ---
 
@@ -879,13 +878,13 @@ Existing topic reused for the Restaurantology attendance claim.
 
 First named by the host (as Ebro) at 00:28:04 in episode 148. Radio host named in Ye's TMZ clip, who Ye says declined to have the host on his show. Aliases: Ebro.
 
-*Related: C-7720*
+*Related: C-12763*
 
 ---
 
 ## V. Claim Register
 
-**C-3393** Blake Neff Reported Discussing Candace Owens's Anticipated Reaction in Hospital Waiting Room on September 10
+**C-12773** Blake Neff Reported Discussing Candace Owens's Anticipated Reaction in Hospital Waiting Room on September 10
 
 Claim Timestamp: 00:36:34
 
@@ -899,7 +898,7 @@ Investigative Direction: Obtain the original Deseret News article text directly 
 
 ---
 
-**C-3394** Blake Neff Stated Charlie Kirk Was Aware of Owens's Theories About France's First Lady Being Transgender
+**C-12774** Blake Neff Stated Charlie Kirk Was Aware of Owens's Theories About France's First Lady Being Transgender
 
 Claim Timestamp: 00:36:34
 
@@ -913,7 +912,7 @@ Investigative Direction: Verify the exact Neff wording in the original Deseret N
 
 ---
 
-**C-3395** Blake Neff Described Some of Candace Owens's Views as "Weird Stuff About Jewish Cults"
+**C-12775** Blake Neff Described Some of Candace Owens's Views as "Weird Stuff About Jewish Cults"
 
 Claim Timestamp: 00:36:34
 
@@ -927,7 +926,7 @@ Investigative Direction: Verify the exact phrasing in the original Deseret News 
 
 ---
 
-**C-3396** Blake Neff Stated TPUSA Reduced Involvement With Owens Around 2024 Due to Her Views
+**C-12776** Blake Neff Stated TPUSA Reduced Involvement With Owens Around 2024 Due to Her Views
 
 Claim Timestamp: 00:36:34
 
@@ -942,7 +941,7 @@ Investigative Direction: Verify the exact Neff statement in the Deseret News art
 
 ---
 
-**C-3397** Blake Neff Characterized Candace Owens as "Seven Vacations a Year Owens"
+**C-12768** Blake Neff Characterized Candace Owens as "Seven Vacations a Year Owens"
 
 Claim Timestamp: 00:33:48
 
@@ -956,7 +955,7 @@ Investigative Direction: Obtain the original X post URL and confirm text; cross-
 
 ---
 
-**C-3398** Erika Kirk Published a One-Year Grief Op-Ed in The New York Times
+**C-12785** Erika Kirk Published a One-Year Grief Op-Ed in The New York Times
 
 Claim Timestamp: 00:40:40
 
@@ -970,7 +969,7 @@ Investigative Direction: Locate the op-ed in NYT archives; verify publication da
 
 ---
 
-**C-3399** Per Op-Ed Host Reads, Erika Kirk Recounts Telling Second Lady Usha Vance "I Don't Know How I'm Going to Do This"
+**C-12792** Per Op-Ed Host Reads, Erika Kirk Recounts Telling Second Lady Usha Vance "I Don't Know How I'm Going to Do This"
 
 Claim Timestamp: 00:43:25
 
@@ -984,7 +983,7 @@ Investigative Direction: Confirm the quoted sentence in the op-ed directly; cros
 
 ---
 
-**C-3400** Per Op-Ed Host Reads, Erika Kirk Cites Usha Vance's "15 Minutes" Airplane Analogy About Grief
+**C-12793** Per Op-Ed Host Reads, Erika Kirk Cites Usha Vance's "15 Minutes" Airplane Analogy About Grief
 
 Claim Timestamp: 00:43:25
 
@@ -998,7 +997,7 @@ Investigative Direction: Confirm the quoted analogy in the op-ed directly.
 
 ---
 
-**C-3401** Erika Kirk's Op-Ed States She Is Not Angry at God and Characterizes Her Husband as "One of One"
+**C-12800** Erika Kirk's Op-Ed States She Is Not Angry at God and Characterizes Her Husband as "One of One"
 
 Claim Timestamp: 00:46:35
 
@@ -1012,7 +1011,7 @@ Investigative Direction: Confirm the quoted language in the op-ed directly.
 
 ---
 
-**C-3402** Per Op-Ed Host Reads, Erika Kirk Closes With Reference to "A Dear Friend" Telling Her to "Just Get Through the Next 15 Minutes"
+**C-12804** Per Op-Ed Host Reads, Erika Kirk Closes With Reference to "A Dear Friend" Telling Her to "Just Get Through the Next 15 Minutes"
 
 Claim Timestamp: 00:47:27
 
@@ -1026,7 +1025,7 @@ Investigative Direction: Confirm the closing lines directly in the op-ed; identi
 
 ---
 
-**C-3403** Candace Owens Encountered Kim Kardashian in Hotel Lobby at Ye's Chicago Concert
+**C-12741** Candace Owens Encountered Kim Kardashian in Hotel Lobby at Ye's Chicago Concert
 
 Claim Timestamp: 00:07:21
 
@@ -1040,7 +1039,7 @@ Investigative Direction: Verify the footage timestamp and attendees independentl
 
 ---
 
-**C-3404** Charlie Kirk Publicly Stated He Reads The New York Times "So You Don't Have To"
+**C-12789** Charlie Kirk Publicly Stated He Reads The New York Times "So You Don't Have To"
 
 Claim Timestamp: 00:42:13
 
@@ -1054,7 +1053,7 @@ Investigative Direction: Identify the original episode and date of the clip; ver
 
 ---
 
-**C-3405** Salem Media and "Waterstone" Are Releasing a Charlie Kirk Documentary Titled "Can You Hear Me Now?"
+**C-12823** Salem Media and "Waterstone" Are Releasing a Charlie Kirk Documentary Titled "Can You Hear Me Now?"
 
 Claim Timestamp: 00:56:42
 
@@ -1068,7 +1067,7 @@ Investigative Direction: Verify the documentary's existence via official Salem M
 
 ---
 
-**C-7693** Host Says Ye Is Selling Out 70,000 to 100,000 Seat Stadiums Worldwide
+**C-12735** Host Says Ye Is Selling Out 70,000 to 100,000 Seat Stadiums Worldwide
 
 Claim Timestamp: 00:01:32
 
@@ -1083,7 +1082,7 @@ Investigative Direction: Check announced attendance and ticketing figures for Ye
 
 ---
 
-**C-7694** Host Says Critics Posted Grok Answer on Concert Safety at 8 Months Pregnant
+**C-12736** Host Says Critics Posted Grok Answer on Concert Safety at 8 Months Pregnant
 
 Claim Timestamp: 00:01:32
 
@@ -1098,7 +1097,7 @@ Investigative Direction: Locate the posted Grok exchange to confirm the wording 
 
 ---
 
-**C-7695** Host Says Critics Who Excused Funeral Fireworks Condemned Ye Concert Happiness
+**C-12737** Host Says Critics Who Excused Funeral Fireworks Condemned Ye Concert Happiness
 
 Claim Timestamp: 00:01:32
 
@@ -1114,7 +1113,7 @@ Investigative Direction: Collect the posts defending funeral fireworks and the p
 
 ---
 
-**C-7696** Host Says Defenders Excused Funeral Fireworks by Saying Charlie Loved Pyrotechnics
+**C-12738** Host Says Defenders Excused Funeral Fireworks by Saying Charlie Loved Pyrotechnics
 
 Claim Timestamp: 00:03:07
 
@@ -1130,7 +1129,7 @@ Investigative Direction: Find the TPUSA statements explaining the memorial firew
 
 ---
 
-**C-7697** Host Says Charlie Was From Chicago, Loved Kanye and the Song Homecoming
+**C-12739** Host Says Charlie Was From Chicago, Loved Kanye and the Song Homecoming
 
 Claim Timestamp: 00:05:39
 
@@ -1145,7 +1144,7 @@ Investigative Direction: Confirm from Kirk's own posts or interviews that he nam
 
 ---
 
-**C-7698** Host Says Ye's Team Refused Payment and Hosted Her at the Chicago Show
+**C-12740** Host Says Ye's Team Refused Payment and Hosted Her at the Chicago Show
 
 Claim Timestamp: 00:05:39
 
@@ -1160,7 +1159,7 @@ Investigative Direction: Not independently checkable beyond the host's account; 
 
 ---
 
-**C-7699** Host Says Kim Kardashian Was in Chicago for North West's Show the Next Night
+**C-12742** Host Says Kim Kardashian Was in Chicago for North West's Show the Next Night
 
 Claim Timestamp: 00:08:41
 
@@ -1175,7 +1174,7 @@ Investigative Direction: Check coverage of North West's Chicago show date to con
 
 ---
 
-**C-7700** Host Says She Was Down to Crowd Surf at 8 Months Pregnant
+**C-12743** Host Says She Was Down to Crowd Surf at 8 Months Pregnant
 
 Claim Timestamp: 00:08:41
 
@@ -1190,7 +1189,7 @@ Investigative Direction: None beyond the host's own account; recorded for the pr
 
 ---
 
-**C-7701** Host Says She Introduced Charlie to Ye's Music on a Denver Rental-Car Drive
+**C-12744** Host Says She Introduced Charlie to Ye's Music on a Denver Rental-Car Drive
 
 Claim Timestamp: 00:10:28
 
@@ -1205,7 +1204,7 @@ Investigative Direction: Look for texts between the host and Kirk about Ye's mus
 
 ---
 
-**C-7702** Kanye in 2013 BBC Clip Says His Fans Are Fans of Themselves
+**C-12745** Kanye in 2013 BBC Clip Says His Fans Are Fans of Themselves
 
 Claim Timestamp: 00:11:16
 
@@ -1221,7 +1220,7 @@ Investigative Direction: Identify the original 2013 BBC interview and confirm th
 
 ---
 
-**C-7703** Host Says Her College Debt Cost About $150,000 in Student Loans
+**C-12746** Host Says Her College Debt Cost About $150,000 in Student Loans
 
 Claim Timestamp: 00:13:24
 
@@ -1236,7 +1235,7 @@ Investigative Direction: Personal biographical statement; no external record nee
 
 ---
 
-**C-7704** Host Says the Media Could Create and Delete People With a Department of Defense Level Budget
+**C-12747** Host Says the Media Could Create and Delete People With a Department of Defense Level Budget
 
 Claim Timestamp: 00:16:43
 
@@ -1252,7 +1251,7 @@ Investigative Direction: Opinion about media power; no specific budget or progra
 
 ---
 
-**C-7705** Host Says Ye's Adidas and Gap Deals Were Worth Billions and Required Silence on Politics
+**C-12748** Host Says Ye's Adidas and Gap Deals Were Worth Billions and Required Silence on Politics
 
 Claim Timestamp: 00:18:35
 
@@ -1267,7 +1266,7 @@ Investigative Direction: Check Adidas and Gap termination announcements and repo
 
 ---
 
-**C-7706** Host Says She Was Pressed at the Daily Wire to Condemn Kanye's Defcon 3 Tweet
+**C-12749** Host Says She Was Pressed at the Daily Wire to Condemn Kanye's Defcon 3 Tweet
 
 Claim Timestamp: 00:19:21
 
@@ -1278,13 +1277,13 @@ Transcript Snippet: they needed me to make that statement because they knew I wa
 Anchored Artifacts: 
 Mentions: N-3, N-27
 Related Nodes: N-10900
-Supports: C-1681
+Supports: C-2715
 Tags: relevance:context
 Investigative Direction: Seek corroboration of the conference-room meeting and the proposed statement text from Daily Wire staff or contemporaneous messages.
 
 ---
 
-**C-7707** Host Says the Daily Wire Co-CEO Banged His Fists Demanding a Statement for Ben
+**C-12750** Host Says the Daily Wire Co-CEO Banged His Fists Demanding a Statement for Ben
 
 Claim Timestamp: 00:19:21
 
@@ -1300,7 +1299,7 @@ Investigative Direction: Identify attendees of the meeting and whether any recor
 
 ---
 
-**C-7708** Host Says Daily Wire Changed Her Contract and She Lost Millions Over Kanye
+**C-12751** Host Says Daily Wire Changed Her Contract and She Lost Millions Over Kanye
 
 Claim Timestamp: 00:20:38
 
@@ -1316,7 +1315,7 @@ Investigative Direction: Obtain the pre- and post-incident contract language and
 
 ---
 
-**C-7709** Host Says the Ask of Her Is to Stay Silent or Pretend the Lone-Gunman Evidence Is Overwhelming
+**C-12752** Host Says the Ask of Her Is to Stay Silent or Pretend the Lone-Gunman Evidence Is Overwhelming
 
 Claim Timestamp: 00:20:38
 
@@ -1331,7 +1330,7 @@ Investigative Direction: The host names no payer or recipient; ask her to identi
 
 ---
 
-**C-7710** Host Says Kolvet Told Her Bibi Offered to Take Turning Point to the Next Level
+**C-12753** Host Says Kolvet Told Her Bibi Offered to Take Turning Point to the Next Level
 
 Claim Timestamp: 00:21:30
 
@@ -1342,13 +1341,13 @@ Transcript Snippet: I know what Andrew told me. BB offered to take Turning Point
 Anchored Artifacts: 
 Mentions: N-14, N-36
 Related Nodes: N-10342, N-10000
-Supports: C-1938, C-5012
+Supports: C-4114, C-3193
 Tags: relevance:core
 Investigative Direction: Confirm with Kolvet or the other sources the host has cited in earlier episodes what exactly was offered and when.
 
 ---
 
-**C-7711** Host Says Charlie Faced Offers at a Table in His Final Weeks and Said No
+**C-12754** Host Says Charlie Faced Offers at a Table in His Final Weeks and Said No
 
 Claim Timestamp: 00:21:30
 
@@ -1359,13 +1358,13 @@ Transcript Snippet: when he was at a table and offers were made to him and I thi
 Anchored Artifacts: 
 Mentions: N-1, N-27
 Related Nodes: N-10342
-Supports: C-5012
+Supports: C-3193
 Tags: relevance:core
 Investigative Direction: Identify the table, attendees and date of the meeting where offers were allegedly made (the host elsewhere points to the Hamptons retreat).
 
 ---
 
-**C-7712** Host Says Ye Told Her He Was Finally Free Within Hours of Adidas Ending the Deal
+**C-12755** Host Says Ye Told Her He Was Finally Free Within Hours of Adidas Ending the Deal
 
 Claim Timestamp: 00:22:33
 
@@ -1380,7 +1379,7 @@ Investigative Direction: Date the Adidas announcement and match it to the host's
 
 ---
 
-**C-7713** Host Says She Tweeted the Rumors Are True I Am Finally Free on Leaving the Daily Wire
+**C-12756** Host Says She Tweeted the Rumors Are True I Am Finally Free on Leaving the Daily Wire
 
 Claim Timestamp: 00:22:33
 
@@ -1396,7 +1395,7 @@ Investigative Direction: Retrieve the original tweet and its date to confirm the
 
 ---
 
-**C-7714** Host Says a Zionist Lobby Got Her Banned From Australia
+**C-12757** Host Says a Zionist Lobby Got Her Banned From Australia
 
 Claim Timestamp: 00:22:33
 
@@ -1411,7 +1410,7 @@ Investigative Direction: Australian government visa decision records and the adv
 
 ---
 
-**C-7715** Host Says Ye Shared a Fan-Made Avengers Meme of His Chicago Return
+**C-12758** Host Says Ye Shared a Fan-Made Avengers Meme of His Chicago Return
 
 Claim Timestamp: 00:23:48
 
@@ -1426,7 +1425,7 @@ Investigative Direction: Find Ye's original post of the meme.
 
 ---
 
-**C-7716** Host Says She Would Still Sit Down With the Characters in Charlie's Life She Finds Suspicious
+**C-12759** Host Says She Would Still Sit Down With the Characters in Charlie's Life She Finds Suspicious
 
 Claim Timestamp: 00:25:45
 
@@ -1441,7 +1440,7 @@ Investigative Direction: Ask which individuals she means and whether she has mad
 
 ---
 
-**C-7717** Host Says the Department of War Is Seeking Revenge on Her Side
+**C-12760** Host Says the Department of War Is Seeking Revenge on Her Side
 
 Claim Timestamp: 00:25:45
 
@@ -1457,7 +1456,7 @@ Investigative Direction: The host cites no specific action by the department; id
 
 ---
 
-**C-7718** Host Says She Will Share Charlie and Candace Archive Material on September 10
+**C-12761** Host Says She Will Share Charlie and Candace Archive Material on September 10
 
 Claim Timestamp: 00:27:12
 
@@ -1472,7 +1471,7 @@ Investigative Direction: Check what is published on September 10 against this st
 
 ---
 
-**C-7719** Host Says Charlie Was Present When She Met Ye and Appears in the Ye Documentary and TMZ Interview
+**C-12762** Host Says Charlie Was Present When She Met Ye and Appears in the Ye Documentary and TMZ Interview
 
 Claim Timestamp: 00:27:12
 
@@ -1488,7 +1487,7 @@ Investigative Direction: Review the full TMZ interview and the documentary for K
 
 ---
 
-**C-7720** Ye in TMZ Clip Says Ebro Declined to Have Candace on Because She Is Mean
+**C-12763** Ye in TMZ Clip Says Ebro Declined to Have Candace on Because She Is Mean
 
 Claim Timestamp: 00:28:04
 
@@ -1504,7 +1503,7 @@ Investigative Direction: Identify the date of the TMZ interview and Ebro Darden'
 
 ---
 
-**C-7721** Host Says No Former Employer Created Her and Rejects Credit Claims
+**C-12764** Host Says No Former Employer Created Her and Rejects Credit Claims
 
 Claim Timestamp: 00:28:48
 
@@ -1519,7 +1518,7 @@ Investigative Direction: Identify the specific people who have made the claim; n
 
 ---
 
-**C-7722** Host Says Neff Got Into a Second Rental Denali With Danny Philip After Landing in Salt Lake City
+**C-12765** Host Says Neff Got Into a Second Rental Denali With Danny Philip After Landing in Salt Lake City
 
 Claim Timestamp: 00:32:58
 
@@ -1530,13 +1529,13 @@ Transcript Snippet: we know that Blake got into the second rental, a Denali, wit
 Anchored Artifacts: 
 Mentions: N-159, N-367, N-1
 Related Nodes: N-10715
-Supports: C-3095, C-3020
+Supports: C-11071, C-10711
 Tags: relevance:core
 Investigative Direction: Rental agreement, vehicle GPS or security footage showing who rode in the second vehicle.
 
 ---
 
-**C-7723** Host Says Neither Danny Philip Nor Neff Attended the Restaurantology Event
+**C-12766** Host Says Neither Danny Philip Nor Neff Attended the Restaurantology Event
 
 Claim Timestamp: 00:32:58
 
@@ -1552,7 +1551,7 @@ Investigative Direction: Event attendee list, green-room footage and the restaur
 
 ---
 
-**C-7724** Host Says Neff Could Not Account for His Whereabouts and Had to Be Reminded Danny Was Driving
+**C-12767** Host Says Neff Could Not Account for His Whereabouts and Had to Be Reminded Danny Was Driving
 
 Claim Timestamp: 00:32:58
 
@@ -1563,13 +1562,13 @@ Transcript Snippet: He didn't even remember who he was with. He had to be remind
 Anchored Artifacts: 
 Mentions: N-159, N-367
 Related Nodes: N-10715
-Supports: C-3019, C-3020, C-5865
+Supports: C-10708, C-10711, C-10710
 Tags: relevance:core
 Investigative Direction: Compare Neff's own audio account with phone location records and Philip's statements.
 
 ---
 
-**C-7725** Host Says Neff Posted That She Cannot Imagine Someone Liking Work
+**C-12769** Host Says Neff Posted That She Cannot Imagine Someone Liking Work
 
 Claim Timestamp: 00:33:48
 
@@ -1584,7 +1583,7 @@ Investigative Direction: Locate the original Neff post and its timestamp.
 
 ---
 
-**C-7726** Host Says She Has Taken Three Vacations This Year: Spain, Russia and Iceland
+**C-12770** Host Says She Has Taken Three Vacations This Year: Spain, Russia and Iceland
 
 Claim Timestamp: 00:34:42
 
@@ -1594,13 +1593,13 @@ Transcript Snippet: Thus far this year, we've taken a total of three vacations, 
 
 Anchored Artifacts: A-2346.1
 Mentions: N-3, N-159
-Contradicts: C-3397
+Contradicts: C-12768
 Tags: relevance:context
 Investigative Direction: Travel records for the host's 2026 trips would confirm or refute the count.
 
 ---
 
-**C-7727** Host Says Charlie Rarely Took Time Off and Was Hardly Home
+**C-12771** Host Says Charlie Rarely Took Time Off and Was Hardly Home
 
 Claim Timestamp: 00:34:42
 
@@ -1616,7 +1615,7 @@ Investigative Direction: Compare against Kirk's public 2025 schedule and tour da
 
 ---
 
-**C-7728** Host Says TPUSA Has Not Been Honest About What Charlie Was Up Against in His Final Days
+**C-12772** Host Says TPUSA Has Not Been Honest About What Charlie Was Up Against in His Final Days
 
 Claim Timestamp: 00:34:42
 
@@ -1632,7 +1631,7 @@ Investigative Direction: Compare TPUSA's public accounts of Kirk's final weeks w
 
 ---
 
-**C-7729** Neff Quoted Saying Someone in the Waiting Room Predicted Candace's Extreme Reaction
+**C-12777** Neff Quoted Saying Someone in the Waiting Room Predicted Candace's Extreme Reaction
 
 Claim Timestamp: 00:37:23
 
@@ -1643,13 +1642,13 @@ Transcript Snippet: Someone said, "Candace is going to have an extreme reaction 
 Anchored Artifacts: A-2347.1
 Mentions: N-159, N-3
 Related Nodes: N-10062
-Supports: C-3393
+Supports: C-12773
 Tags: relevance:core
 Investigative Direction: Obtain the Deseret News article and identify who the unnamed speaker was.
 
 ---
 
-**C-7730** Host Says She Has Never Met Blake Neff
+**C-12778** Host Says She Has Never Met Blake Neff
 
 Claim Timestamp: 00:37:36
 
@@ -1659,13 +1658,13 @@ Transcript Snippet: I don't know this creature. I've never met Blake Neff.
 
 Anchored Artifacts: 
 Mentions: N-3, N-159
-Supports: C-6128
+Supports: C-12401
 Tags: relevance:context
 Investigative Direction: Neff has said the same; confirm no meeting at TPUSA or Daily Wire events.
 
 ---
 
-**C-7731** Host Says Neff Himself Says He Joined Charlie's Team in Mid-2023
+**C-12779** Host Says Neff Himself Says He Joined Charlie's Team in Mid-2023
 
 Claim Timestamp: 00:37:36
 
@@ -1675,13 +1674,13 @@ Transcript Snippet: He himself says that he didn't join Charlie's team until wha
 
 Anchored Artifacts: 
 Mentions: N-159, N-1
-Contradicts: C-5857
+Contradicts: C-10700
 Tags: relevance:context
 Investigative Direction: Neff's own statement of his hire date versus the 2022 hire date reported earlier; check Fox News departure and TPUSA records.
 
 ---
 
-**C-7732** Host Says the Waiting-Room Talk Happened Mid-Manhunt When Nobody Knew Anything
+**C-12780** Host Says the Waiting-Room Talk Happened Mid-Manhunt When Nobody Knew Anything
 
 Claim Timestamp: 00:37:36
 
@@ -1697,7 +1696,7 @@ Investigative Direction: Establish the timing of the waiting-room conversation a
 
 ---
 
-**C-7733** Host Speculates Neff Will Not Name the Waiting-Room Speaker Because It Is Usually Danny Philip
+**C-12781** Host Speculates Neff Will Not Name the Waiting-Room Speaker Because It Is Usually Danny Philip
 
 Claim Timestamp: 00:38:16
 
@@ -1713,7 +1712,7 @@ Investigative Direction: Ask Neff or the Deseret News who was in the waiting roo
 
 ---
 
-**C-7734** Host Says Neff Could Have Said Andrew Told Him Charlie Feared Being Killed
+**C-12782** Host Says Neff Could Have Said Andrew Told Him Charlie Feared Being Killed
 
 Claim Timestamp: 00:39:05
 
@@ -1723,13 +1722,13 @@ Transcript Snippet: Blake, why didn't you say, oh, well, Andrew says that Charli
 
 Anchored Artifacts: 
 Mentions: N-159, N-14, N-1
-Supports: C-5912
+Supports: C-10764
 Tags: relevance:core
 Investigative Direction: Establish what Kolvet told colleagues on September 9 and 10 about Kirk's fears; the host's 'Andrew' is read here as Kolvet.
 
 ---
 
-**C-7735** Host Summarizes the Official Account as One Shot by a Shooter With No Criminal Record
+**C-12783** Host Summarizes the Official Account as One Shot by a Shooter With No Criminal Record
 
 Claim Timestamp: 00:39:05
 
@@ -1745,7 +1744,7 @@ Investigative Direction: Compare with charging documents on Robinson's record an
 
 ---
 
-**C-7736** Host Infers Neff Was Confident She Would Not Trust the Science on the Assassination
+**C-12784** Host Infers Neff Was Confident She Would Not Trust the Science on the Assassination
 
 Claim Timestamp: 00:39:05
 
@@ -1760,7 +1759,7 @@ Investigative Direction: Inference only; the unnamed waiting-room speaker would 
 
 ---
 
-**C-7737** Host Says Erika's Op-Ed Is Behind the New York Times Paywall
+**C-12786** Host Says Erika's Op-Ed Is Behind the New York Times Paywall
 
 Claim Timestamp: 00:40:40
 
@@ -1771,13 +1770,13 @@ Transcript Snippet: Let's start with the fact that she's even doing this in the 
 Anchored Artifacts: A-2348.1
 Mentions: N-2
 Related Nodes: N-10968
-Supports: C-3398
+Supports: C-12785
 Tags: relevance:core
 Investigative Direction: Confirm the paywall status and publication date of the op-ed.
 
 ---
 
-**C-7738** Host Says the New York Times Was the First Publication Erika Partnered With, Days After the Assassination
+**C-12787** Host Says the New York Times Was the First Publication Erika Partnered With, Days After the Assassination
 
 Claim Timestamp: 00:40:40
 
@@ -1793,7 +1792,7 @@ Investigative Direction: Date the New York Times interview and confirm the locat
 
 ---
 
-**C-7739** Host Says Charlie Never Wrote an Op-Ed for the New York Times
+**C-12788** Host Says Charlie Never Wrote an Op-Ed for the New York Times
 
 Claim Timestamp: 00:41:30
 
@@ -1809,7 +1808,7 @@ Investigative Direction: Search New York Times opinion archives for any byline b
 
 ---
 
-**C-7740** Charlie in Clip Says He Reads the New York Times to Know What the Intelligentsia Is Saying
+**C-12790** Charlie in Clip Says He Reads the New York Times to Know What the Intelligentsia Is Saying
 
 Claim Timestamp: 00:42:13
 
@@ -1820,13 +1819,13 @@ Transcript Snippet: Cuz I I want to know what the intelligentsia is saying. It's
 Anchored Artifacts: A-2345.1
 Mentions: N-1
 Related Nodes: N-10968
-Supports: C-3404
+Supports: C-12789
 Tags: relevance:core
 Investigative Direction: Identify the original show episode and date of the clip.
 
 ---
 
-**C-7741** Host Tells Erika She Works With the Department of War and Is Its Emotional Asset
+**C-12791** Host Tells Erika She Works With the Department of War and Is Its Emotional Asset
 
 Claim Timestamp: 00:42:52
 
@@ -1842,7 +1841,7 @@ Investigative Direction: Identify any formal agreements or events between TPUSA 
 
 ---
 
-**C-7742** Op-Ed Says Erika Landed in Phoenix From Utah the Day After the Shooting
+**C-12794** Op-Ed Says Erika Landed in Phoenix From Utah the Day After the Shooting
 
 Claim Timestamp: 00:43:25
 
@@ -1852,13 +1851,13 @@ Transcript Snippet: The past 24 hours feel like a fever dream as I land in Phoen
 
 Anchored Artifacts: A-2348.1
 Mentions: N-2, N-1
-Supports: C-3398
+Supports: C-12785
 Tags: relevance:core
 Investigative Direction: Compare with flight records and other accounts of when Erika left Utah and arrived in Phoenix.
 
 ---
 
-**C-7743** Op-Ed Says Charlie Watched the Cubs on the Couch With the Kids Two Nights Earlier
+**C-12795** Op-Ed Says Charlie Watched the Cubs on the Couch With the Kids Two Nights Earlier
 
 Claim Timestamp: 00:43:25
 
@@ -1873,7 +1872,7 @@ Investigative Direction: Check the Cubs schedule for the evening of September 9,
 
 ---
 
-**C-7744** Host Says the 15 Minutes Line Was Already in Erika's First Speech and a TPUSA Conference Call
+**C-12796** Host Says the 15 Minutes Line Was Already in Erika's First Speech and a TPUSA Conference Call
 
 Claim Timestamp: 00:44:17
 
@@ -1884,13 +1883,13 @@ Transcript Snippet: They're seared into the first speech that you gave. They're 
 Anchored Artifacts: A-2348.1
 Mentions: N-2, N-350
 Related Nodes: N-10000
-Supports: C-3400
+Supports: C-12793
 Tags: relevance:core
 Investigative Direction: Compare the transcripts of Erika's first speech and the TPUSA conference call with the op-ed passage.
 
 ---
 
-**C-7745** Host Says Erika Opened AmFest Saying We Have to Get Vance Elected
+**C-12797** Host Says Erika Opened AmFest Saying We Have to Get Vance Elected
 
 Claim Timestamp: 00:45:18
 
@@ -1905,7 +1904,7 @@ Investigative Direction: Check the AmFest opening remarks transcript for the Van
 
 ---
 
-**C-7746** Host Says Charlie Traveled Private to All of His Events
+**C-12798** Host Says Charlie Traveled Private to All of His Events
 
 Claim Timestamp: 00:45:56
 
@@ -1920,7 +1919,7 @@ Investigative Direction: Flight records and TPUSA travel disclosures for Kirk's 
 
 ---
 
-**C-7747** Host Says the Op-Ed Repeats Her Not-Angry-at-God Statements From the Jesse Watters Interview
+**C-12799** Host Says the Op-Ed Repeats Her Not-Angry-at-God Statements From the Jesse Watters Interview
 
 Claim Timestamp: 00:45:56
 
@@ -1930,13 +1929,13 @@ Transcript Snippet: She wants you to know she's not angry at God. Yes, we got al
 
 Anchored Artifacts: A-2348.1
 Mentions: N-2, N-211
-Supports: C-3401
+Supports: C-12800
 Tags: relevance:core
 Investigative Direction: Compare the op-ed text with the Watters interview transcript.
 
 ---
 
-**C-7748** Host Says the Op-Ed Language Regurgitates Erika's Stage Speech
+**C-12801** Host Says the Op-Ed Language Regurgitates Erika's Stage Speech
 
 Claim Timestamp: 00:46:35
 
@@ -1946,13 +1945,13 @@ Transcript Snippet: Again, this is a regurgitation of the speech that she gave o
 
 Anchored Artifacts: A-2348.1
 Mentions: N-2, N-1
-Supports: C-3401
+Supports: C-12800
 Tags: relevance:core
 Investigative Direction: Compare the op-ed with the memorial speech transcript.
 
 ---
 
-**C-7749** Host Says Erika Was Laughing at Emojis on a Zoom Call Within Six Days
+**C-12802** Host Says Erika Was Laughing at Emojis on a Zoom Call Within Six Days
 
 Claim Timestamp: 00:46:35
 
@@ -1967,7 +1966,7 @@ Investigative Direction: Identify the Zoom call and obtain the recording or atte
 
 ---
 
-**C-7750** Host Says Erika Told Jesse Watters She Did Not Need a Sleeping Pill
+**C-12803** Host Says Erika Told Jesse Watters She Did Not Need a Sleeping Pill
 
 Claim Timestamp: 00:46:35
 
@@ -1977,13 +1976,13 @@ Transcript Snippet: you didn't even need a sleeping pill. You didn't even need t
 
 Anchored Artifacts: 
 Mentions: N-2, N-211
-Supports: C-5608
+Supports: C-5841
 Tags: relevance:core
 Investigative Direction: Check the Watters interview transcript for the sleep remarks.
 
 ---
 
-**C-7751** Host Says the New York Times Was Involved in Operation Mockingbird and JFK-Era Events
+**C-12805** Host Says the New York Times Was Involved in Operation Mockingbird and JFK-Era Events
 
 Claim Timestamp: 00:47:27
 
@@ -1999,7 +1998,7 @@ Investigative Direction: Cite the Church Committee findings on press relationshi
 
 ---
 
-**C-7752** Op-Ed Closes Saying the Grief Is Always There but So Is the Beautiful Gift of Life
+**C-12806** Op-Ed Closes Saying the Grief Is Always There but So Is the Beautiful Gift of Life
 
 Claim Timestamp: 00:48:10
 
@@ -2009,13 +2008,13 @@ Transcript Snippet: The grief is there always, but so is the beautiful gift of l
 
 Anchored Artifacts: A-2348.1
 Mentions: N-2
-Supports: C-3402
+Supports: C-12804
 Tags: relevance:core
 Investigative Direction: Confirm the final paragraph in the published op-ed.
 
 ---
 
-**C-7753** Host Says TPUSA Has a UVU Event Planned for Thursday and Is Unsure Who Speaks
+**C-12807** Host Says TPUSA Has a UVU Event Planned for Thursday and Is Unsure Who Speaks
 
 Claim Timestamp: 00:48:52
 
@@ -2031,7 +2030,7 @@ Investigative Direction: Check the official anniversary event program for speake
 
 ---
 
-**C-7754** Host Says Released Texts Show Charlie Messaged They Were Going to Kill Him During a Zoom With Israeli Officials
+**C-12808** Host Says Released Texts Show Charlie Messaged They Were Going to Kill Him During a Zoom With Israeli Officials
 
 Claim Timestamp: 00:52:40
 
@@ -2042,13 +2041,13 @@ Transcript Snippet: Charlie was sending messages that they're going to kill him 
 Anchored Artifacts: A-2899.1
 Mentions: N-1, N-7
 Related Nodes: N-10169
-Supports: C-1397
+Supports: C-1449
 Tags: relevance:core
 Investigative Direction: Obtain the released text messages and Zoom call logs to confirm message times against the call.
 
 ---
 
-**C-7755** Host Says Turek Was the Source for There Being Two Israeli Officials on the Call
+**C-12809** Host Says Turek Was the Source for There Being Two Israeli Officials on the Call
 
 Claim Timestamp: 00:52:40
 
@@ -2064,7 +2063,7 @@ Investigative Direction: Find Turek's public description of the call and identif
 
 ---
 
-**C-7756** Host Says Rabbi Wolicki and Josh Hammer Were Also on the Zoom Call
+**C-12810** Host Says Rabbi Wolicki and Josh Hammer Were Also on the Zoom Call
 
 Claim Timestamp: 00:52:40
 
@@ -2075,13 +2074,13 @@ Transcript Snippet: Rabbi Wolicki was on FaceTime call. Uh sorry, I'm saying Fac
 Anchored Artifacts: 
 Mentions: N-164, N-55
 Related Nodes: N-10169
-Supports: C-1397
+Supports: C-1449
 Tags: relevance:core
 Investigative Direction: Obtain attendee lists or invitations for the call from the participants.
 
 ---
 
-**C-7757** Host Says the Call Came Two Hours After Charlie Said He Was Abandoning the Pro-Israel Cause
+**C-12811** Host Says the Call Came Two Hours After Charlie Said He Was Abandoning the Pro-Israel Cause
 
 Claim Timestamp: 00:52:40
 
@@ -2092,13 +2091,13 @@ Transcript Snippet: which came on the heels to just 2 hours after Charlie said h
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10169
-Supports: C-5908, C-5964
+Supports: C-10759, C-11205
 Tags: relevance:core
 Investigative Direction: Compare timestamps of Kirk's pro-Israel message with the Zoom start time.
 
 ---
 
-**C-7758** Host Says Erika Never Said Charlie Was Kidding When She Spoke to Her About the Remark
+**C-12812** Host Says Erika Never Said Charlie Was Kidding When She Spoke to Her About the Remark
 
 Claim Timestamp: 00:52:40
 
@@ -2113,7 +2112,7 @@ Investigative Direction: Date the host's conversation with Erika and compare it 
 
 ---
 
-**C-7759** Host Says Erika Was Getting Her Nails Done During the Call and the Story Is Now Changing
+**C-12813** Host Says Erika Was Getting Her Nails Done During the Call and the Story Is Now Changing
 
 Claim Timestamp: 00:53:42
 
@@ -2129,7 +2128,7 @@ Investigative Direction: Compare Erika's earlier and later accounts of where she
 
 ---
 
-**C-7760** Host Says Andrew Kolvet Gave the Conversation to Tulsi Gabbard's Office
+**C-12814** Host Says Andrew Kolvet Gave the Conversation to Tulsi Gabbard's Office
 
 Claim Timestamp: 00:53:42
 
@@ -2144,7 +2143,7 @@ Investigative Direction: Identify Andrew Cooper, whom the host names only by thi
 
 ---
 
-**C-7761** Host Says Erika Told Interviewers Charlie Was Excited the Night Before
+**C-12815** Host Says Erika Told Interviewers Charlie Was Excited the Night Before
 
 Claim Timestamp: 00:53:42
 
@@ -2159,7 +2158,7 @@ Investigative Direction: Collect Erika's interview statements about Kirk's mood 
 
 ---
 
-**C-7762** Host Says Charlie Had Done UVU Stops Many Times and Was Not That Excited About This One
+**C-12816** Host Says Charlie Had Done UVU Stops Many Times and Was Not That Excited About This One
 
 Claim Timestamp: 00:54:36
 
@@ -2175,7 +2174,7 @@ Investigative Direction: List Kirk's prior UVU appearances and dates.
 
 ---
 
-**C-7763** Host Doubts Charlie Had to Speak to Israeli Officials at 4 a.m. Their Time for Debate Help
+**C-12817** Host Doubts Charlie Had to Speak to Israeli Officials at 4 a.m. Their Time for Debate Help
 
 Claim Timestamp: 00:54:36
 
@@ -2191,7 +2190,7 @@ Investigative Direction: Establish the call time in Israel and who said it was d
 
 ---
 
-**C-7764** Host Says Hammer Said Charlie Was Interested in His Book
+**C-12818** Host Says Hammer Said Charlie Was Interested in His Book
 
 Claim Timestamp: 00:55:33
 
@@ -2207,7 +2206,7 @@ Investigative Direction: Find Hammer's public statement describing the call and 
 
 ---
 
-**C-7765** Host Notes Frank Turek Was on the Call and Doubts That Many People Were Giving Debate Tips
+**C-12819** Host Notes Frank Turek Was on the Call and Doubts That Many People Were Giving Debate Tips
 
 Claim Timestamp: 00:55:33
 
@@ -2223,7 +2222,7 @@ Investigative Direction: Ask Turek and Hammer what advice was given on the call.
 
 ---
 
-**C-7766** Comment Says Kolvet Excused the Memorial Fireworks as a Team Decision Erika Did Not Know About
+**C-12820** Comment Says Kolvet Excused the Memorial Fireworks as a Team Decision Erika Did Not Know About
 
 Claim Timestamp: 00:55:33
 
@@ -2239,7 +2238,7 @@ Investigative Direction: Find Kolvet's original statement about who arranged the
 
 ---
 
-**C-7767** Host Says Erika Chose Her Sparkling Pantsuit in Line With the Event Theme
+**C-12821** Host Says Erika Chose Her Sparkling Pantsuit in Line With the Event Theme
 
 Claim Timestamp: 00:55:33
 
@@ -2250,13 +2249,13 @@ Transcript Snippet: Yeah, I think she got the message and the theme and she chos
 Anchored Artifacts: A-2350.3
 Mentions: N-2
 Related Nodes: N-10201
-Supports: C-1990
+Supports: C-4446
 Tags: relevance:core
 Investigative Direction: Identify who selected the outfit and the program planned for the memorial.
 
 ---
 
-**C-7768** Host Says She Will Name Her Maternity Leave Replacement Next Week
+**C-12822** Host Says She Will Name Her Maternity Leave Replacement Next Week
 
 Claim Timestamp: 00:55:33
 
@@ -2271,7 +2270,7 @@ Investigative Direction: Check the announcement made the following week.
 
 ---
 
-**C-7769** Viewer Comment Says the Can You Hear Me Now Documentary Is Slated for September 10
+**C-12824** Viewer Comment Says the Can You Hear Me Now Documentary Is Slated for September 10
 
 Claim Timestamp: 00:56:42
 
@@ -2282,13 +2281,13 @@ Transcript Snippet: On September 10th of this year. Yes, Salem Media and Waterst
 Anchored Artifacts: A-2350.5
 Mentions: N-1
 Related Nodes: N-10657
-Supports: C-3405
+Supports: C-12823
 Tags: relevance:core
 Investigative Direction: Confirm the release date from the producers.
 
 ---
 
-**C-7770** Host Says Waterstone Is Acquiring Salem Media
+**C-12825** Host Says Waterstone Is Acquiring Salem Media
 
 Claim Timestamp: 00:56:42
 
@@ -2303,7 +2302,7 @@ Investigative Direction: Check SEC filings and press releases on any acquisition
 
 ---
 
-**C-7771** Host Says Salem Media Is Behind the Foreign-Agent Filings Made Right After Charlie Died
+**C-12826** Host Says Salem Media Is Behind the Foreign-Agent Filings Made Right After Charlie Died
 
 Claim Timestamp: 00:56:42
 
@@ -2313,13 +2312,13 @@ Transcript Snippet: we know that Salem Media is behind or the the paradox, the f
 
 Anchored Artifacts: A-2900.1
 Related Nodes: N-10657, N-10662, N-10914
-Supports: C-2865
+Supports: C-8842
 Tags: relevance:core
 Investigative Direction: FARA database entries for Clock Tower X and Show Faith by Works naming Salem outlets as targets.
 
 ---
 
-**C-7772** Host Says the Israeli Foreign Minister Is Spending Money in America to Tether Christians
+**C-12827** Host Says the Israeli Foreign Minister Is Spending Money in America to Tether Christians
 
 Claim Timestamp: 00:56:42
 
@@ -2334,7 +2333,7 @@ Investigative Direction: FARA filings naming the Israeli Ministry of Foreign Aff
 
 ---
 
-**C-7773** Host Says Brad Parscale Was an Executive at Salem Media Who Brought This Forward
+**C-12828** Host Says Brad Parscale Was an Executive at Salem Media Who Brought This Forward
 
 Claim Timestamp: 00:56:42
 
@@ -2345,13 +2344,13 @@ Transcript Snippet: Brad Parscale, I believe, was on the of Salem Media, or he w
 Anchored Artifacts: A-2900.1
 Mentions: N-430
 Related Nodes: N-10657
-Supports: C-2866
+Supports: C-8843
 Tags: relevance:core
 Investigative Direction: Salem Media officer listings and Parscale's role in the Clock Tower X filings.
 
 ---
 
-**C-7774** Host Assumes the Documentary Will Be Israeli Propaganda Based on the FARA Filings
+**C-12829** Host Assumes the Documentary Will Be Israeli Propaganda Based on the FARA Filings
 
 Claim Timestamp: 00:56:42
 
@@ -2366,7 +2365,7 @@ Investigative Direction: Review the documentary's funding disclosures once relea
 
 ---
 
-**C-7775** Host Says Charlie Said No to Whatever He Was Offered
+**C-12830** Host Says Charlie Said No to Whatever He Was Offered
 
 Claim Timestamp: 00:57:49
 
@@ -2376,7 +2375,7 @@ Transcript Snippet: he died with his soul intact, cuz I know whatever he was off
 
 Anchored Artifacts: A-2350.6
 Mentions: N-1
-Supports: C-5012
+Supports: C-3193
 Tags: relevance:core
 Investigative Direction: Identify what offers are meant and any evidence of their refusal.
 

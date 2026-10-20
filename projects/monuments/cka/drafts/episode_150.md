@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 1cf9a9ae701ecafbe7c0d5f1b9d90036afd545839e429a950e86a6121537973e
 
 - **Episode Ledger Summary**:
-  - Claim Range (supplement_2026-10g): C-14946–C-14978
+  - Claim Range: C-12950–C-13002
   - New Nodes Introduced: 
   
 (none – Wave 2 removed local spray rows; persons cited via Mentions)
@@ -35,7 +35,7 @@
 ### Ledger Continuation
 
 - **Artifact Families Introduced:** A-2351, A-2352, A-2353, A-2354, A-2355, A-2356, A-2357, A-2358, A-2359, A-2360, A-2361
-- **Claim Range:** C-3406–C-3425
+- **Claim Range:** C-12951–C-12989
 - **New Nodes Introduced:**
 N-1 (Charlie Kirk) reused; no new topic spray nodes
 
@@ -65,7 +65,7 @@ Video Timestamp: 00:00:42–00:05:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads entry in full)
 
-*Related: C-3406, C-3416, C-3420, N-1, N-3*
+*Related: C-12951, C-12958, C-12961, N-1, N-3*
 
 **A-2351.2** Journal Entry: Subsequent entry covering foot injury, pregnancy, and Erica ("Erika") investigation
 
@@ -75,7 +75,7 @@ Video Timestamp: 00:09:50–00:11:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3406, C-3414, C-3415, C-3417, N-2, N-3*
+*Related: C-12951, C-12974, C-12975, C-12970, N-2, N-3*
 
 **A-2351.3** Journal Entry: Power song analysis / 2018 Israel-London retrospective
 
@@ -85,7 +85,7 @@ Video Timestamp: 00:11:50–00:17:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3406, C-3421, C-3425, N-1, N-3*
+*Related: C-12951, C-12979, C-12989, N-1, N-3*
 
 **A-2351.4** Journal Entry: Pre-anniversary / Spain laughter / Ghost Town concert reflection
 
@@ -95,7 +95,7 @@ Video Timestamp: 00:21:38–00:27:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3406, C-3419, C-3422, C-3423, N-3*
+*Related: C-12951, C-12991, C-12997, C-12999, N-3*
 
 ---
 
@@ -109,7 +109,7 @@ Video Timestamp: 00:06:08–00:08:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (full text read aloud)
 
-*Related: C-3407, C-3408, C-3424, N-1, N-3*
+*Related: C-12963, C-12966, C-12968, N-1, N-3*
 
 ---
 
@@ -123,7 +123,7 @@ Video Timestamp: 00:10:30–00:10:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (quoted in full by host)
 
-*Related: C-3409, N-2*
+*Related: C-12973, N-2*
 
 ---
 
@@ -137,7 +137,7 @@ Video Timestamp: 00:12:55–00:13:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (quoted directly)
 
-*Related: C-3410, N-3*
+*Related: C-12985, N-3*
 
 **A-2354.2** Kanye West public tweet: "I love the way Candace Owens thinks" (April–May 2018)
 
@@ -147,7 +147,7 @@ Video Timestamp: 00:12:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium – *verbally referenced but not shown*
 
-*Related: C-3411, N-3*
+*Related: C-12981, N-3*
 
 ---
 
@@ -161,7 +161,7 @@ Video Timestamp: 00:15:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium – *verbally referenced but not shown*
 
-*Related: C-3412, N-3*
+*Related: C-12986, N-3*
 
 ---
 
@@ -175,7 +175,7 @@ Video Timestamp: 00:09:00–00:09:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-3406, N-1*
+*Related: C-12951, N-1*
 
 ---
 
@@ -189,7 +189,7 @@ Video Timestamp: 00:17:47–00:18:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3425*
+*Related: C-12989*
 
 ---
 
@@ -203,7 +203,7 @@ Video Timestamp: 00:19:39–00:20:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3425*
+*Related: C-12989*
 
 ---
 
@@ -241,7 +241,7 @@ Video Timestamp: 00:25:15–00:26:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (concert footage referenced)
 
-*Related: C-3413, C-3422, C-3423*
+*Related: C-12996, C-12997, C-12999*
 
 ---
 
@@ -268,7 +268,7 @@ Video Timestamp: 00:09:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14958, N-1*
+*Related: C-12969, N-1*
 
 ---
 
@@ -281,7 +281,7 @@ Video Timestamp: 00:27:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14978, N-1, N-3*
+*Related: C-13002, N-1, N-3*
 
 ---
 
@@ -296,7 +296,7 @@ Claim Count: 7
 Episode Count: 1 (this episode)
 Investigative Pressure: High
 
-*Related: A-2351.1, A-2351.2, A-2351.3, A-2353.1, A-2356.1, A-2359.1, A-2359.2, A-2361.1, C-3406, C-3409, C-3416, C-3420, C-3421*
+*Related: A-2351.1, A-2351.2, A-2351.3, A-2353.1, A-2356.1, A-2359.1, A-2359.2, A-2361.1, C-12951, C-12973, C-12958, C-12961, C-12979*
 
 ---
 
@@ -304,7 +304,7 @@ Investigative Pressure: High
 
 Widow and TPUSA CEO; the host says in her journal that the world was right about her.
 
-*Related: C-14959, C-14960, C-14961, C-14962, C-14963, C-14965*
+*Related: C-12971, C-12972, C-12976, C-12977, C-12978, C-12982*
 
 ---
 
@@ -312,7 +312,7 @@ Widow and TPUSA CEO; the host says in her journal that the world was right about
 
 Host; speaks for herself throughout.
 
-*Related: C-14946, C-14947, C-14948, C-14949, C-14951, C-14952, C-14957, C-14959, C-14960, C-14962, C-14963, C-14964, C-14965, C-14966, C-14967, C-14970, C-14971, C-14972, C-14973, C-14975, C-14976, C-14977, C-14978*
+*Related: C-12952, C-12953, C-12954, C-12955, C-12957, C-12959, C-12967, C-12971, C-12972, C-12977, C-12978, C-12980, C-12982, C-12983, C-12984, C-12990, C-12992, C-12993, C-12994, C-12998, C-13000, C-13001, C-13002*
 
 ---
 
@@ -320,7 +320,7 @@ Host; speaks for herself throughout.
 
 Host's husband, named as present when she said Charlie was betrayed and as the person she met on the 2018 London trip.
 
-*Related: C-14948, C-14952, C-14967*
+*Related: C-12954, C-12959, C-12984*
 
 ---
 
@@ -328,7 +328,7 @@ Host's husband, named as present when she said Charlie was betrayed and as the p
 
 Co-author with Irina of the open letter the host reads.
 
-*Related: C-14954, C-14955, C-14956, C-14957*
+*Related: C-12962, C-12964, C-12965, C-12967*
 
 ---
 
@@ -336,7 +336,7 @@ Co-author with Irina of the open letter the host reads.
 
 Co-author of the open letter; named with John Mappin as attending the memorial (the host also says Irina).
 
-*Related: C-14954, C-14955, C-14956, C-14957*
+*Related: C-12962, C-12964, C-12965, C-12967*
 
 ---
 
@@ -344,7 +344,7 @@ Co-author of the open letter; named with John Mappin as attending the memorial (
 
 Subject of the Power song analysis and the Ghost Town concert; Ye.
 
-*Related: C-14966, C-14968, C-14969, C-14975*
+*Related: C-12983, C-12987, C-12988, C-12998*
 
 ---
 
@@ -352,7 +352,7 @@ Subject of the Power song analysis and the Ghost Town concert; Ye.
 
 Named in the host's sarcastic list of new friendships attributed to Charlie.
 
-*Related: C-14973*
+*Related: C-12994*
 
 ---
 
@@ -360,7 +360,7 @@ Named in the host's sarcastic list of new friendships attributed to Charlie.
 
 Named in the host's remark that Charlie did not favor him, so she is told.
 
-*Related: C-14973*
+*Related: C-12994*
 
 ---
 
@@ -369,7 +369,7 @@ Named in the host's remark that Charlie did not favor him, so she is told.
 Node Type: Organization
 Organization whose founding the Charlie Kirk montage describes.
 
-*Related: C-14958, C-14961*
+*Related: C-12969, C-12976*
 
 ---
 
@@ -378,7 +378,7 @@ Organization whose founding the Charlie Kirk montage describes.
 Node Type: Topic
 Existing topic reused for the broadcast, memorial and betrayal claims in this episode.
 
-*Related: C-14949, C-14950, C-14954, C-14972, C-14976, C-14978*
+*Related: C-12955, C-12956, C-12962, C-12993, C-13000, C-13002*
 
 ---
 
@@ -387,7 +387,7 @@ Existing topic reused for the broadcast, memorial and betrayal claims in this ep
 Node Type: Topic
 Existing topic reused for the 2018 tweet timeline.
 
-*Related: C-14966*
+*Related: C-12983*
 
 ---
 
@@ -396,7 +396,7 @@ Existing topic reused for the 2018 tweet timeline.
 Node Type: Place
 Place reused for the 2018 trip and the pressure claim.
 
-*Related: C-14965, C-14966, C-14970*
+*Related: C-12982, C-12983, C-12990*
 
 ---
 
@@ -405,7 +405,7 @@ Place reused for the 2018 trip and the pressure claim.
 Node Type: Topic
 Existing topic reused for the political pressure claim.
 
-*Related: C-14970*
+*Related: C-12990*
 
 ---
 
@@ -414,7 +414,7 @@ Existing topic reused for the political pressure claim.
 Node Type: Topic
 Existing topic reused for the unplanned London trip.
 
-*Related: C-14967*
+*Related: C-12984*
 
 ---
 
@@ -423,7 +423,7 @@ Existing topic reused for the unplanned London trip.
 Node Type: Topic
 Existing topic reused for Kirk's alleged dreams of his death.
 
-*Related: C-14948, C-14964*
+*Related: C-12954, C-12980*
 
 ---
 
@@ -432,7 +432,7 @@ Existing topic reused for Kirk's alleged dreams of his death.
 Node Type: Topic
 Existing topic reused for the 2018 statements and the written choice.
 
-*Related: C-14964, C-14977*
+*Related: C-12980, C-13001*
 
 ---
 
@@ -441,7 +441,7 @@ Existing topic reused for the 2018 statements and the written choice.
 Node Type: Topic
 Existing topic reused for the Truman Show remark.
 
-*Related: C-14970*
+*Related: C-12990*
 
 ---
 
@@ -450,7 +450,7 @@ Existing topic reused for the Truman Show remark.
 Node Type: Topic
 Existing topic reused for the sale of items in Kirk's name.
 
-*Related: C-14953, C-14974*
+*Related: C-12960, C-12995*
 
 ---
 
@@ -459,13 +459,13 @@ Existing topic reused for the sale of items in Kirk's name.
 Node Type: Topic
 Existing topic reused for the Russian speakers at the memorial.
 
-*Related: C-14954*
+*Related: C-12962*
 
 ---
 
 ## V. Claim Register
 
-**C-3406** Candace Owens journaled to Charlie Kirk throughout the year following his death
+**C-12951** Candace Owens journaled to Charlie Kirk throughout the year following his death
 
 Claim Timestamp: 00:00:42–00:27:35
 Claim: The host reads aloud journal entries she wrote to Charlie Kirk across the year after his death, saying she is sharing only some of her journaling.
@@ -475,7 +475,7 @@ Investigative Direction: Verify continuity of journal entries against timestamps
 
 ---
 
-**C-3407** Mappin family open letter calls Charlie's death an "execution" with "far-reaching international consequences"
+**C-12963** Mappin family open letter calls Charlie's death an "execution" with "far-reaching international consequences"
 
 Claim Timestamp: 00:06:08
 Claim: Irina and John Mappin co-authored an open letter, which the host reads, stating that Charlie's death was "an assassination with potentially far-reaching political consequences" and asserting that "the truth, when known… will have far-reaching international consequences."
@@ -485,7 +485,7 @@ Investigative Direction: Locate original publication of the open letter and veri
 
 ---
 
-**C-3408** Mappin letter asserts official investigation should be ordered to share information with Candace's team
+**C-12966** Mappin letter asserts official investigation should be ordered to share information with Candace's team
 
 Claim Timestamp: 00:07:20
 Claim: The open letter states that "the official investigation should be immediately ordered by the appropriate legal authority to proactively share everything they know with Candace and her selected team."
@@ -495,7 +495,7 @@ Investigative Direction: Verify letter text and any official response from inves
 
 ---
 
-**C-3409** Charlie Kirk wrote a text message describing his future wife as "paralyzing" and "the ideal"
+**C-12973** Charlie Kirk wrote a text message describing his future wife as "paralyzing" and "the ideal"
 
 Claim Timestamp: 00:10:30
 Claim: A quoted text message from Charlie Kirk reads (in part): "She has no freaking clue how paralyzing she is to me. And she is the ideal."
@@ -505,7 +505,7 @@ Investigative Direction: Verify original text-message record and date against Ch
 
 ---
 
-**C-3410** Kanye West texted Candace Owens "it's a battle cry to be yourself" in response to a question about "Power"
+**C-12985** Kanye West texted Candace Owens "it's a battle cry to be yourself" in response to a question about "Power"
 
 Claim Timestamp: 00:12:55
 Claim: Host quotes a direct text reply from Kanye West following Charlie's death: when asked why he wrote the song "Power," he wrote back "it's a battle cry to be yourself."
@@ -517,7 +517,7 @@ Investigative Direction: Verify text record; cross-reference against any public 
 
 ---
 
-**C-3411** Kanye West publicly tweeted "I love the way Candace Owens thinks" in approximately April–May 2018
+**C-12981** Kanye West publicly tweeted "I love the way Candace Owens thinks" in approximately April–May 2018
 
 Claim Timestamp: 00:12:38
 Claim: Host references a Kanye West tweet from April–May 2018 reading "I love the way Candace Owens thinks."
@@ -529,7 +529,7 @@ Investigative Direction: Locate the original tweet via archive; verify date and 
 
 ---
 
-**C-3412** Donald Trump posted a tweet featuring a mock Time magazine cover calling Candace Owens "most vile person of the year"
+**C-12986** Donald Trump posted a tweet featuring a mock Time magazine cover calling Candace Owens "most vile person of the year"
 
 Claim Timestamp: 00:15:44
 Claim: Host reports that Donald Trump tweeted a mock-up of a Time magazine cover depicting her as "the most vile person of the year."
@@ -541,7 +541,7 @@ Investigative Direction: Locate the original tweet via archive. *Artifact verbal
 
 ---
 
-**C-3413** Candace Owens attended Ye's Chicago concert during the week of Charlie's one-year anniversary, where Kid Cudi appeared on stage
+**C-12996** Candace Owens attended Ye's Chicago concert during the week of Charlie's one-year anniversary, where Kid Cudi appeared on stage
 
 Claim Timestamp: 00:25:15–00:26:04
 Claim: Host reports that she attended Ye's Chicago concert during the week of the anniversary, at which Kid Cudi was brought on stage.
@@ -553,7 +553,7 @@ Investigative Direction: Confirm concert date and Kid Cudi's set via tour docume
 
 ---
 
-**C-3414** Host reports a "scheduled will change" regarding Charlie Kirk's estate
+**C-12974** Host reports a "scheduled will change" regarding Charlie Kirk's estate
 
 Claim Timestamp: 00:10:38
 Claim: Host asserts in her written journal: "I know about the scheduled will change."
@@ -563,7 +563,7 @@ Investigative Direction: Obtain probate records and any will amendments filed in
 
 ---
 
-**C-3415** Host Reports Charlie Kirk Purchased a House in the Suburbs that Erika Kirk Avoided Moving Into
+**C-12975** Host Reports Charlie Kirk Purchased a House in the Suburbs that Erika Kirk Avoided Moving Into
 
 Claim Timestamp: 00:10:38
 Claim: Host asserts in journal that Charlie "purchased and dreamed about moving into" a suburban house and that Erica "came up with a million excuses not to."
@@ -573,7 +573,7 @@ Investigative Direction: Verify property records and timeline of acquisition vs.
 
 ---
 
-**C-3416** Host reports Ben Shapiro arrived at Charlie Kirk's studio within days of his death with $1 million claiming to "pick up the bloody mic"
+**C-12958** Host reports Ben Shapiro arrived at Charlie Kirk's studio within days of his death with $1 million claiming to "pick up the bloody mic"
 
 Claim Timestamp: 00:03:59–00:05:08
 Claim: Host asserts in journal that Ben Shapiro "slid into your studio within days, $1 million in hand," publicly stating he would "pick up your bloody mic."
@@ -585,7 +585,7 @@ Investigative Direction: Locate contemporaneous reporting on Shapiro's actions a
 
 ---
 
-**C-3417** Host reports breaking her foot during the year since Charlie Kirk's death
+**C-12970** Host reports breaking her foot during the year since Charlie Kirk's death
 
 Claim Timestamp: 00:09:50
 Claim: Host states in journal that "I broke my foot" between the Wyoming entry and the present.
@@ -595,7 +595,7 @@ Investigative Direction: Verify medical or insurance records if relevant to inve
 
 ---
 
-**C-3418** Host reports being approximately eight months pregnant at time of recording
+**C-12950** Host reports being approximately eight months pregnant at time of recording
 
 Claim Timestamp: 00:00:02
 Claim: Host states she is "8 months pregnant" at the time of recording.
@@ -606,7 +606,7 @@ Investigative Direction: Not investigationally material; recorded for biographic
 
 ---
 
-**C-3419** Host reports she first belly laughed since Charlie Kirk's death while in Spain
+**C-12991** Host reports she first belly laughed since Charlie Kirk's death while in Spain
 
 Claim Timestamp: 00:21:38
 Claim: Host states she first experienced a deep belly laugh since Charlie's death while in Spain.
@@ -616,7 +616,7 @@ Investigative Direction: Not investigationally material; recorded for biographic
 
 ---
 
-**C-3420** Host reports Charlie Kirk's memorial featured Susie Wiles speaking and was characterized as "like an RNC rally"
+**C-12961** Host reports Charlie Kirk's memorial featured Susie Wiles speaking and was characterized as "like an RNC rally"
 
 Claim Timestamp: 00:05:08
 Claim: Host states in journal that Charlie's memorial was "weird," "like an RNC rally," with Susie Wiles among speakers.
@@ -628,7 +628,7 @@ Investigative Direction: Verify speaker list and video documentation of memorial
 
 ---
 
-**C-3421** Host reports Charlie Kirk told her in April–May 2018 he had dreamed his own death and its connection to Turning Point USA
+**C-12979** Host reports Charlie Kirk told her in April–May 2018 he had dreamed his own death and its connection to Turning Point USA
 
 Claim Timestamp: 00:11:50
 Claim: Host states in journal that in April–May 2018 Charlie told her "with absolute certainty" he had dreamed his death, that it would be associated with Turning Point USA, and that he would not live to see "this thing through."
@@ -638,7 +638,7 @@ Investigative Direction: Verify against any contemporaneous recording, communica
 
 ---
 
-**C-3422** Ye performed in Chicago for the first time in six years during the week of Charlie Kirk's anniversary
+**C-12997** Ye performed in Chicago for the first time in six years during the week of Charlie Kirk's anniversary
 
 Claim Timestamp: 00:25:15
 Claim: Host states Ye "returned to Chicago… during the week of your anniversary" after six years.
@@ -650,7 +650,7 @@ Investigative Direction: Confirm via Ye tour itinerary and prior concert dates.
 
 ---
 
-**C-3423** Kid Cudi and Kanye West had a public falling out in 2022
+**C-12999** Kid Cudi and Kanye West had a public falling out in 2022
 
 Claim Timestamp: 00:26:04
 Claim: Host states that Ye and Kid Cudi "had a massive public falling out in 2022."
@@ -663,7 +663,7 @@ Investigative Direction: Confirm via public reporting.
 
 ---
 
-**C-3424** Mappin letter characterizes Candace's investigative actions as "providential, divinely inspired, and metaphysical"
+**C-12968** Mappin letter characterizes Candace's investigative actions as "providential, divinely inspired, and metaphysical"
 
 Claim Timestamp: 00:08:18
 Claim: The open letter states Candace's actions are "actions of the highest order of patriotism," "service to the whole country and to the world," and "truly providential, divinely inspired, and metaphysical."
@@ -673,7 +673,7 @@ Investigative Direction: Verify letter text and signatories.
 
 ---
 
-**C-3425** Host reports the "Ace team" told her the movie 300 "beautiful death" scene inspired a portion of Kanye West's "Power"
+**C-12989** Host reports the "Ace team" told her the movie 300 "beautiful death" scene inspired a portion of Kanye West's "Power"
 
 Claim Timestamp: 00:18:46
 Claim: Host states that when meeting with the "Ace team," they explained that the inspiration behind the "beautiful death" portion of the song came from a specific scene in the movie 300.
@@ -685,7 +685,7 @@ Investigative Direction: Verify with the named team or any documentation of the 
 
 ---
 
-**C-14946** Host Says Charlie Ignored Her Warning That Running 10 Miles Daily Would Injure His Back
+**C-12952** Host Says Charlie Ignored Her Warning That Running 10 Miles Daily Would Injure His Back
 
 Claim Timestamp: 00:00:42
 
@@ -700,7 +700,7 @@ Investigative Direction: Look for contemporaneous accounts or Kirk's own public 
 
 ---
 
-**C-14947** Host Says Her Priest Told Her Charlie Is Likely in Purgatory
+**C-12953** Host Says Her Priest Told Her Charlie Is Likely in Purgatory
 
 Claim Timestamp: 00:02:11
 
@@ -715,7 +715,7 @@ Investigative Direction: Personal religious statement; only the host can confirm
 
 ---
 
-**C-14948** Host Says She Told George Charlie Was Betrayed Before His Death Was Confirmed
+**C-12954** Host Says She Told George Charlie Was Betrayed Before His Death Was Confirmed
 
 Claim Timestamp: 00:02:11
 
@@ -731,7 +731,7 @@ Investigative Direction: Ask the host and George for the date and circumstances 
 
 ---
 
-**C-14949** Host Says She Senses They Wanted Her to See Charlie Die
+**C-12955** Host Says She Senses They Wanted Her to See Charlie Die
 
 Claim Timestamp: 00:03:08
 
@@ -747,7 +747,7 @@ Investigative Direction: Ask the host what evidence supports the sense that the 
 
 ---
 
-**C-14950** Host Says Platform Violence Filters Malfunctioned on September 10
+**C-12956** Host Says Platform Violence Filters Malfunctioned on September 10
 
 Claim Timestamp: 00:03:08
 
@@ -763,7 +763,7 @@ Investigative Direction: Request moderation logs, takedown timelines and policy 
 
 ---
 
-**C-14951** Host Says She Stopped Eating After Charlie's Death
+**C-12957** Host Says She Stopped Eating After Charlie's Death
 
 Claim Timestamp: 00:03:08
 
@@ -778,7 +778,7 @@ Investigative Direction: Personal health disclosure by the host about herself; n
 
 ---
 
-**C-14952** Host Says She Floated Witness Protection to George Before Accepting Charlie Was Dead
+**C-12959** Host Says She Floated Witness Protection to George Before Accepting Charlie Was Dead
 
 Claim Timestamp: 00:03:59
 
@@ -793,7 +793,7 @@ Investigative Direction: Personal recollection by the host; only the host and Ge
 
 ---
 
-**C-14953** Host Says People Who Hated Charlie Sold T-Shirts and Mugs in His Name
+**C-12960** Host Says People Who Hated Charlie Sold T-Shirts and Mugs in His Name
 
 Claim Timestamp: 00:03:59
 
@@ -809,7 +809,7 @@ Investigative Direction: Identify the vendors and products the host means; compa
 
 ---
 
-**C-14954** Host Says Irina and John Mappin Attended the Memorial and Irina Heard Many Russian Speakers
+**C-12962** Host Says Irina and John Mappin Attended the Memorial and Irina Heard Many Russian Speakers
 
 Claim Timestamp: 00:05:08
 
@@ -825,7 +825,7 @@ Investigative Direction: Ask the Mappins for a first-hand account; compare with 
 
 ---
 
-**C-14955** Mappin Letter Says Crime Scene Was Destroyed in Days
+**C-12964** Mappin Letter Says Crime Scene Was Destroyed in Days
 
 Claim Timestamp: 00:06:08
 
@@ -835,13 +835,13 @@ Transcript Snippet: A crime scene apparently completely destroyed in days, and p
 
 Anchored Artifacts: A-2352.1
 Mentions: N-154, N-155
-Supports: C-12135
+Supports: C-1497
 Tags: relevance:core
 Investigative Direction: Obtain the published letter and compare the wording; check Utah Valley University scene-release and cleanup records.
 
 ---
 
-**C-14956** Mappin Letter Says Convicting Anyone With Any Doubt Is Anathema to Christ
+**C-12965** Mappin Letter Says Convicting Anyone With Any Doubt Is Anathema to Christ
 
 Claim Timestamp: 00:06:08
 
@@ -856,7 +856,7 @@ Investigative Direction: Obtain the published letter; record whether the signers
 
 ---
 
-**C-14957** Mappin Letter Says Candace Has an Army of Truth Seekers Worldwide
+**C-12967** Mappin Letter Says Candace Has an Army of Truth Seekers Worldwide
 
 Claim Timestamp: 00:07:20
 
@@ -871,7 +871,7 @@ Investigative Direction: Obtain the published letter; the claim about volunteer 
 
 ---
 
-**C-14958** Charlie Kirk Clip Says He Started the Organization at 18 and Was Raised in Chicago
+**C-12969** Charlie Kirk Clip Says He Started the Organization at 18 and Was Raised in Chicago
 
 Claim Timestamp: 00:09:00
 
@@ -887,7 +887,7 @@ Investigative Direction: Identify the source interview of the clip and its date;
 
 ---
 
-**C-14959** Host Says Investigating Erika Kirk Made Her Public Enemy Number One
+**C-12971** Host Says Investigating Erika Kirk Made Her Public Enemy Number One
 
 Claim Timestamp: 00:09:50
 
@@ -902,7 +902,7 @@ Investigative Direction: Compile the public attacks on the host by TPUSA figures
 
 ---
 
-**C-14960** Host Says the World Was Right About Erika Kirk
+**C-12972** Host Says the World Was Right About Erika Kirk
 
 Claim Timestamp: 00:09:50
 
@@ -917,7 +917,7 @@ Investigative Direction: Ask the host what specific findings she means; map to t
 
 ---
 
-**C-14961** Charlie Text Says Erika Putting Him in a Weird Cage Gave TPUSA Its Most Successful Months
+**C-12976** Charlie Text Says Erika Putting Him in a Weird Cage Gave TPUSA Its Most Successful Months
 
 Claim Timestamp: 00:10:38
 
@@ -928,13 +928,13 @@ Transcript Snippet: In a funny way, her putting me in this weird cage and box ac
 Anchored Artifacts: A-2353.1
 Mentions: N-1, N-2
 Related Nodes: N-10000
-Supports: C-3409
+Supports: C-12973
 Tags: relevance:core
 Investigative Direction: Obtain the full text thread and its date from the host; compare with TPUSA fundraising and growth reporting for the period.
 
 ---
 
-**C-14962** Host Says a Wife Would Not Partner With Your Enemies
+**C-12977** Host Says a Wife Would Not Partner With Your Enemies
 
 Claim Timestamp: 00:10:38
 
@@ -949,7 +949,7 @@ Investigative Direction: Ask the host which partnerships she means; compare with
 
 ---
 
-**C-14963** Host Says Erika Kirk Has Chased Power Her Whole Life
+**C-12978** Host Says Erika Kirk Has Chased Power Her Whole Life
 
 Claim Timestamp: 00:10:38
 
@@ -964,7 +964,7 @@ Investigative Direction: Opinion about Erika Kirk's character; check biographica
 
 ---
 
-**C-14964** Host Says Charlie Told Her They Would Not Kill Her but Would Make Stuff Up and Attack Family
+**C-12980** Host Says Charlie Told Her They Would Not Kill Her but Would Make Stuff Up and Attack Family
 
 Claim Timestamp: 00:11:50
 
@@ -975,13 +975,13 @@ Transcript Snippet: Don't fear death. Embrace it or else you'll lose your mind. 
 Anchored Artifacts: A-2351.3
 Mentions: N-1, N-3
 Related Nodes: N-10389, N-10415
-Supports: C-3421
+Supports: C-12979
 Tags: relevance:core
 Investigative Direction: Look for a contemporaneous message, recording or third party who heard Kirk say this in April or May 2018.
 
 ---
 
-**C-14965** Host Says Erika Kirk Claims She First Saw Charlie at an Airport
+**C-12982** Host Says Erika Kirk Claims She First Saw Charlie at an Airport
 
 Claim Timestamp: 00:12:38
 
@@ -997,7 +997,7 @@ Investigative Direction: Find Erika Kirk's own telling of how she first saw Char
 
 ---
 
-**C-14966** Host Says She and Charlie Were in Israel About Two Weeks After Visiting Kanye
+**C-12983** Host Says She and Charlie Were in Israel About Two Weeks After Visiting Kanye
 
 Claim Timestamp: 00:12:38
 
@@ -1013,7 +1013,7 @@ Investigative Direction: Check dates of the Kanye tweet and the 2018 Israel trip
 
 ---
 
-**C-14967** Host Says Meeting George on an Unplanned London Trip Saved Her Life
+**C-12984** Host Says Meeting George on an Unplanned London Trip Saved Her Life
 
 Claim Timestamp: 00:12:38
 
@@ -1029,7 +1029,7 @@ Investigative Direction: Compare with the host's earlier accounts of how she met
 
 ---
 
-**C-14968** Host Says Kanye Won the Grammy for Best Rap Album for My Beautiful Dark Twisted Fantasy
+**C-12987** Host Says Kanye Won the Grammy for Best Rap Album for My Beautiful Dark Twisted Fantasy
 
 Claim Timestamp: 00:15:44
 
@@ -1044,7 +1044,7 @@ Investigative Direction: Verify against Grammy Awards records for the 2012 cerem
 
 ---
 
-**C-14969** Host Says the Word Exciting in Power Turns Into Suicide
+**C-12988** Host Says the Word Exciting in Power Turns Into Suicide
 
 Claim Timestamp: 00:16:44
 
@@ -1059,7 +1059,7 @@ Investigative Direction: Interpretive reading of a song lyric; compare with the 
 
 ---
 
-**C-14970** Host Says the Whole World Knows Charlie Was Under Immense Political Pressure With Israel
+**C-12990** Host Says the Whole World Knows Charlie Was Under Immense Political Pressure With Israel
 
 Claim Timestamp: 00:20:25
 
@@ -1075,7 +1075,7 @@ Investigative Direction: Compile documents or witnesses on pressure applied to K
 
 ---
 
-**C-14971** Host Says Charlie Never Let Her Drive and Set the Restroom Stops
+**C-12992** Host Says Charlie Never Let Her Drive and Set the Restroom Stops
 
 Claim Timestamp: 00:22:59
 
@@ -1090,7 +1090,7 @@ Investigative Direction: Personal anecdote; the played clip is the only corrobor
 
 ---
 
-**C-14972** Host Relays a Person's Remark That Charlie Knew He Had Helped Create a Monster
+**C-12993** Host Relays a Person's Remark That Charlie Knew He Had Helped Create a Monster
 
 Claim Timestamp: 00:22:59
 
@@ -1106,7 +1106,7 @@ Investigative Direction: Identify who made the remark and what monster and decis
 
 ---
 
-**C-14973** Host Says the New Narrative Portrays Charlie as Loomer's Friend and a Neocon Fan
+**C-12994** Host Says the New Narrative Portrays Charlie as Loomer's Friend and a Neocon Fan
 
 Claim Timestamp: 00:24:27
 
@@ -1121,7 +1121,7 @@ Investigative Direction: Compare with Kirk's recorded statements about Loomer, C
 
 ---
 
-**C-14974** Host Says Personal Letters, the Tent and the Microphone Were Put Up for Sale
+**C-12995** Host Says Personal Letters, the Tent and the Microphone Were Put Up for Sale
 
 Claim Timestamp: 00:24:27
 
@@ -1137,7 +1137,7 @@ Investigative Direction: Find listings, auctions or announcements of the letters
 
 ---
 
-**C-14975** Host Says Charlie Flew Her to Wyoming Where Ye Recorded His Album
+**C-12998** Host Says Charlie Flew Her to Wyoming Where Ye Recorded His Album
 
 Claim Timestamp: 00:25:15
 
@@ -1152,7 +1152,7 @@ Investigative Direction: Check 2018 listening-event coverage and travel records 
 
 ---
 
-**C-14976** Host Says the Whole World Knows Charlie's Assassination Was Ordered by the Most Powerful People
+**C-13000** Host Says the Whole World Knows Charlie's Assassination Was Ordered by the Most Powerful People
 
 Claim Timestamp: 00:26:04
 
@@ -1168,7 +1168,7 @@ Investigative Direction: Ask the host to name the people and show the evidence; 
 
 ---
 
-**C-14977** Host Says Charlie Wrote That He Would Have to Choose Between Loved Ones and His Mission
+**C-13001** Host Says Charlie Wrote That He Would Have to Choose Between Loved Ones and His Mission
 
 Claim Timestamp: 00:26:51
 
@@ -1184,7 +1184,7 @@ Investigative Direction: Ask the host for the writing, its date and medium; comp
 
 ---
 
-**C-14978** Host Clip Says She Will Never Unsee the Footage of Charlie's Shooting
+**C-13002** Host Clip Says She Will Never Unsee the Footage of Charlie's Shooting
 
 Claim Timestamp: 00:27:35
 

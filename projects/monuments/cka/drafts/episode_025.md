@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10b): N-756, N-11102, N-11104, N-11105
   - Hole-minted Nodes (reintro-ep025): N-10243, N-10495, N-10675, N-10717
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10b): C-6552–C-6596
+  - Claim Range: C-2260–C-2316
   - New Nodes Introduced: N-217, N-218, N-219, N-10219, N-10220, N-10221, N-10222, N-10223
   - Reused Nodes Appearing: N-36, N-37, N-40, N-66, N-10000, N-10012, N-10048, N-10083, N-10131, N-10324, N-220, N-10840, N-10900, N-11103, N-10218, N-10253, N-11009
   - (see registers)
@@ -34,7 +34,6 @@
 - **Analysis Date:** 2026-03-11
 - **Ledger Continuation Summary:**
   - Artifact Families Introduced: A-1321, A-1322, A-1323, A-1324, A-1325, A-1326, A-1327, A-1328, A-1329, A-1330, A-1331, A-1332
-  - Claim Range: C-1584–C-1597
   - New People Nodes Introduced: N-190, N-17, N-217, N-22, N-39, N-201, N-218, N-219, N-181, N-42, N-220
   - New Investigation Target Nodes Introduced: N-10218, N-10219, N-10220, N-10221, N-10222, N-10223
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
@@ -59,7 +58,7 @@ Video Timestamp: 00:02:42–00:05:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1584, C-1585, N-190, N-17, N-10218*
+*Related: C-2260, C-2263, N-190, N-17, N-10218*
 
 ---
 
@@ -73,7 +72,7 @@ Video Timestamp: 00:05:23–00:07:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1585, N-17, N-190, N-2, N-10218*
+*Related: C-2263, N-17, N-190, N-2, N-10218*
 
 ---
 
@@ -87,7 +86,7 @@ Video Timestamp: 00:10:01–00:10:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1586, N-190, N-10219*
+*Related: C-2268, N-190, N-10219*
 
 ---
 
@@ -101,7 +100,7 @@ Video Timestamp: 00:11:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1587, N-217, N-190, N-1, N-2, N-10219*
+*Related: C-2270, N-217, N-190, N-1, N-2, N-10219*
 
 ---
 
@@ -115,7 +114,7 @@ Video Timestamp: 00:14:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1588, N-17, N-218, N-10220*
+*Related: C-2277, N-17, N-218, N-10220*
 
 ---
 
@@ -129,7 +128,7 @@ Video Timestamp: 00:17:57–00:19:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1589, N-219, N-10221*
+*Related: C-2282, N-219, N-10221*
 
 ---
 
@@ -143,7 +142,7 @@ Video Timestamp: 00:15:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (underlying listing not displayed)
 
-*Related: C-1590, N-17, N-10220*
+*Related: C-2280, N-17, N-10220*
 
 ---
 
@@ -157,7 +156,7 @@ Video Timestamp: 00:33:25–00:35:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1591, N-22, N-39, N-201*
+*Related: C-2298, N-22, N-39, N-201*
 
 ---
 
@@ -171,7 +170,7 @@ Video Timestamp: 00:35:17–00:37:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1592, N-22, N-201, N-39*
+*Related: C-2300, N-22, N-201, N-39*
 
 ---
 
@@ -185,7 +184,7 @@ Video Timestamp: 00:20:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (tweet content captured via host read-aloud)
 
-*Related: C-1594, N-220, N-10222*
+*Related: C-2295, N-220, N-10222*
 
 ---
 
@@ -199,7 +198,7 @@ Video Timestamp: 00:41:52–00:43:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single-source assertion; primary documentation not shown)
 
-*Related: C-1593, N-42, N-10223*
+*Related: C-2303, N-42, N-10223*
 
 ---
 
@@ -213,7 +212,7 @@ Video Timestamp: 00:46:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (AI-generated; secondary)
 
-*Related: C-1595, N-10222*
+*Related: C-2310, N-10222*
 
 ---
 
@@ -228,7 +227,7 @@ Video Timestamp: 00:41:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6585, N-42*
+*Related: C-2304, N-42*
 
 ---
 
@@ -241,7 +240,7 @@ Video Timestamp: 00:45:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6590*
+*Related: C-2309*
 
 ---
 
@@ -254,7 +253,7 @@ Video Timestamp: 00:48:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6592, C-6593, C-6594, N-11009*
+*Related: C-2312, C-2313, C-2314, N-11009*
 
 ---
 
@@ -267,7 +266,7 @@ Video Timestamp: 00:15:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-6566, C-6567, N-22, N-181*
+*Related: C-2279, C-2281, N-22, N-181*
 
 ---
 
@@ -282,7 +281,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1321.1, A-1322.1, A-1323.1, A-1324.1, C-1584, C-1585, C-1586, C-1587, N-17, N-217, N-1, N-2, N-10218, N-10219*
+*Related: A-1321.1, A-1322.1, A-1323.1, A-1324.1, C-2260, C-2263, C-2268, C-2270, N-17, N-217, N-1, N-2, N-10218, N-10219*
 
 ---
 
@@ -295,7 +294,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1321.1, A-1322.1, A-1325.1, A-1327.1, C-1584, C-1585, C-1588, C-1590, N-190, N-218, N-10220*
+*Related: A-1321.1, A-1322.1, A-1325.1, A-1327.1, C-2260, C-2263, C-2277, C-2280, N-190, N-218, N-10220*
 
 ---
 
@@ -308,7 +307,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1324.1, C-1587, N-190, N-10219*
+*Related: A-1324.1, C-2270, N-190, N-10219*
 
 ---
 
@@ -321,7 +320,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low (not central to Kirk investigation)
 
-*Related: A-1328.1, A-1329.1, C-1591, C-1592, N-39, N-201*
+*Related: A-1328.1, A-1329.1, C-2298, C-2300, N-39, N-201*
 
 ---
 
@@ -334,7 +333,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1328.1, A-1329.1, C-1591, C-1592, N-22, N-201*
+*Related: A-1328.1, A-1329.1, C-2298, C-2300, N-22, N-201*
 
 ---
 
@@ -347,7 +346,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1328.1, A-1329.1, C-1591, C-1592, N-22, N-39*
+*Related: A-1328.1, A-1329.1, C-2298, C-2300, N-22, N-39*
 
 ---
 
@@ -360,7 +359,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1325.1, C-1588, N-17, N-10220*
+*Related: A-1325.1, C-2277, N-17, N-10220*
 
 ---
 
@@ -373,7 +372,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1326.1, C-1589, N-10221*
+*Related: A-1326.1, C-2282, N-10221*
 
 ---
 
@@ -399,7 +398,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1331.1, C-1593, N-10223*
+*Related: A-1331.1, C-2303, N-10223*
 
 ---
 
@@ -421,11 +420,11 @@ Investigative Pressure: Low
 Persistent target: whether, by whom, and through what mechanism Mikey McCoy was being positioned as Charlie Kirk's institutional successor; encompasses journal-based framing, adjectival praise pattern, and post-9/10 speaking-platform assignments.
 
 Evidence Count: 2 (A-1321.1, A-1322.1)
-Claim Count: 2 (C-1584, C-1585)
+Claim Count: 2 (C-2260, C-2263)
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1321.1, A-1322.1, C-1584, C-1585, N-190, N-17, N-1, N-2*
+*Related: A-1321.1, A-1322.1, C-2260, C-2263, N-190, N-17, N-1, N-2*
 
 ---
 
@@ -434,11 +433,11 @@ Investigative Pressure: High
 Persistent target: the anomalous onset of Mikey McCoy's personal behind-the-scenes documentation of Charlie Kirk in the weeks preceding 9/10, including first-time micing on the Korea trip and first-time family-trip footage captured on the joint McCoy-Kirk vacation.
 
 Evidence Count: 2 (A-1323.1, A-1324.1)
-Claim Count: 2 (C-1586, C-1587)
+Claim Count: 2 (C-2268, C-2270)
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1323.1, A-1324.1, C-1586, C-1587, N-190, N-217, N-1, N-2*
+*Related: A-1323.1, A-1324.1, C-2268, C-2270, N-190, N-217, N-1, N-2*
 
 ---
 
@@ -447,11 +446,11 @@ Investigative Pressure: High
 Persistent target: the convergence of Rob McCoy's pastoral transition (mid-July 2025), Phoenix relocation, and Coronado property listing (August 24, 2025) in the period preceding 9/10.
 
 Evidence Count: 2 (A-1325.1, A-1327.1)
-Claim Count: 2 (C-1588, C-1590)
+Claim Count: 2 (C-2277, C-2280)
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1325.1, A-1327.1, C-1588, C-1590, N-17, N-218*
+*Related: A-1325.1, A-1327.1, C-2277, C-2280, N-17, N-218*
 
 ---
 
@@ -460,11 +459,11 @@ Investigative Pressure: Medium
 Persistent target: the late (mid-July) submission of the 9/10 event application by UVU's TPUSA chapter, its rapid acceptance as "stop number one," the absence of a standard police-protection question on the form, and UVU's subsequent denial of the security plan.
 
 Evidence Count: 1 (A-1326.1)
-Claim Count: 1 (C-1589)
+Claim Count: 1 (C-2282)
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1326.1, C-1589, N-219, N-181*
+*Related: A-1326.1, C-2282, N-219, N-181*
 
 ---
 
@@ -473,11 +472,11 @@ Investigative Pressure: High
 Persistent target: host's claim that 12 Israeli cell-phone accounts (opened in Israel, not VPNs) were present at UVU on September 10, and that the NSA and Trump-administration officials are aware and suppressing this information.
 
 Evidence Count: 1 (A-1330.1 – peripheral; A-1332.1 – tangential)
-Claim Count: 2 (C-1594, C-1595)
+Claim Count: 2 (C-2295, C-2310)
 Episode Count: 1
 Investigative Pressure: High (claim prominence) / Low (artifact strength)
 
-*Related: A-1330.1, A-1332.1, C-1594, C-1595, N-220*
+*Related: A-1330.1, A-1332.1, C-2295, C-2310, N-220*
 
 ---
 
@@ -486,11 +485,11 @@ Investigative Pressure: High (claim prominence) / Low (artifact strength)
 Persistent target: verification of George Zinn's alleged hospital statement (paid to disrupt, unknown payment source) and its provenance.
 
 Evidence Count: 1 (A-1331.1)
-Claim Count: 1 (C-1593)
+Claim Count: 1 (C-2303)
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1331.1, C-1593, N-42*
+*Related: A-1331.1, C-2303, N-42*
 
 ---
 
@@ -498,7 +497,7 @@ Investigative Pressure: Medium
 
 Subject of the assassination; the host discusses Mikey McCoy as his would-be successor and the bullet that struck him.
 
-*Related: C-6552, C-6553, C-6554, C-6555, C-6557, C-6558, C-6559, C-6567, C-6570, C-6576, C-6580, C-6593*
+*Related: C-2261, C-2262, C-2264, C-2266, C-2265, C-2269, C-2271, C-2281, C-2285, C-2291, C-2296, C-2313*
 
 ---
 
@@ -506,7 +505,7 @@ Subject of the assassination; the host discusses Mikey McCoy as his would-be suc
 
 Widow and TPUSA CEO; the host cites Milo on a fictionalized award report and the family footage.
 
-*Related: C-6559, C-6575*
+*Related: C-2271, C-2290*
 
 ---
 
@@ -514,7 +513,7 @@ Widow and TPUSA CEO; the host cites Milo on a fictionalized award report and the
 
 Host; speaks for herself throughout.
 
-*Related: C-6552, C-6553, C-6554, C-6555, C-6556, C-6557, C-6558, C-6559, C-6560, C-6561, C-6562, C-6563, C-6564, C-6565, C-6566, C-6567, C-6568, C-6569, C-6570, C-6571, C-6572, C-6573, C-6574, C-6575, C-6576, C-6577, C-6578, C-6579, C-6580, C-6581, C-6582, C-6583, C-6584, C-6585, C-6586, C-6587, C-6588, C-6589, C-6590, C-6591, C-6592, C-6593, C-6594, C-6595, C-6596*
+*Related: C-2261, C-2262, C-2264, C-2266, C-2267, C-2265, C-2269, C-2271, C-2272, C-2273, C-2274, C-2275, C-2276, C-2278, C-2279, C-2281, C-2283, C-2284, C-2285, C-2286, C-2287, C-2288, C-2289, C-2290, C-2291, C-2292, C-2294, C-2293, C-2296, C-2297, C-2299, C-2301, C-2302, C-2304, C-2305, C-2306, C-2307, C-2308, C-2309, C-2311, C-2312, C-2313, C-2314, C-2315, C-2316*
 
 ---
 
@@ -522,7 +521,7 @@ Host; speaks for herself throughout.
 
 Netanyahu; the host says he did denial rounds and wants TikTok secured.
 
-*Related: C-6576, C-6583, C-6596*
+*Related: C-2291, C-2301, C-2316*
 
 ---
 
@@ -530,7 +529,7 @@ Netanyahu; the host says he did denial rounds and wants TikTok secured.
 
 Bill Ackman (spelled Aman in the transcript); target of Tucker Carlson's remarks about wealth in the July 11 speech.
 
-*Related: C-6566*
+*Related: C-2279*
 
 ---
 
@@ -538,7 +537,7 @@ Bill Ackman (spelled Aman in the transcript); target of Tucker Carlson's remarks
 
 Charged with Kirk's murder; named in the Fox 13 report.
 
-*Related: C-6568*
+*Related: C-2283*
 
 ---
 
@@ -546,7 +545,7 @@ Charged with Kirk's murder; named in the Fox 13 report.
 
 X account the host says reported the Israeli phones early.
 
-*Related: C-6578*
+*Related: C-2294*
 
 ---
 
@@ -554,7 +553,7 @@ X account the host says reported the Israeli phones early.
 
 FBI director; the host challenges him and the administration to deny the Israeli phone report.
 
-*Related: C-6577, C-6579*
+*Related: C-2292, C-2293*
 
 ---
 
@@ -562,7 +561,7 @@ FBI director; the host challenges him and the administration to deny the Israeli
 
 Organization; source of the insider sentiment and the UVU acceptance.
 
-*Related: C-6555, C-6566*
+*Related: C-2266, C-2279*
 
 ---
 
@@ -570,7 +569,7 @@ Organization; source of the insider sentiment and the UVU acceptance.
 
 Venue of the assassination and of the mid-July event request.
 
-*Related: C-6567, C-6568, C-6569*
+*Related: C-2281, C-2283, C-2284*
 
 ---
 
@@ -578,7 +577,7 @@ Venue of the assassination and of the mid-July event request.
 
 Existing topic reused for the host's bullet claim.
 
-*Related: C-6580*
+*Related: C-2296*
 
 ---
 
@@ -586,7 +585,7 @@ Existing topic reused for the host's bullet claim.
 
 Organization named in a viewer comment the host endorses.
 
-*Related: C-6590*
+*Related: C-2309*
 
 ---
 
@@ -594,7 +593,7 @@ Organization named in a viewer comment the host endorses.
 
 Organization the host says the Wilks brothers majorly fund.
 
-*Related: C-6562*
+*Related: C-2274*
 
 ---
 
@@ -602,7 +601,7 @@ Organization the host says the Wilks brothers majorly fund.
 
 Existing topic reused for the host's tip about an indoor plan.
 
-*Related: C-6573*
+*Related: C-2288*
 
 ---
 
@@ -610,7 +609,7 @@ Existing topic reused for the host's tip about an indoor plan.
 
 Existing topic reused for the host's Egyptian plane claims.
 
-*Related: C-6591, C-6595, C-6596*
+*Related: C-2311, C-2315, C-2316*
 
 ---
 
@@ -618,7 +617,7 @@ Existing topic reused for the host's Egyptian plane claims.
 
 Existing topic reused for the transparency remark.
 
-*Related: C-6581*
+*Related: C-2297*
 
 ---
 
@@ -626,7 +625,7 @@ Existing topic reused for the transparency remark.
 
 Existing topic loosely reused for Netanyahu's post-assassination statements.
 
-*Related: C-6576*
+*Related: C-2291*
 
 ---
 
@@ -634,7 +633,7 @@ Existing topic loosely reused for Netanyahu's post-assassination statements.
 
 Existing topic reused for the July 18 request and acceptance.
 
-*Related: C-6567, C-6570*
+*Related: C-2281, C-2285*
 
 ---
 
@@ -642,7 +641,7 @@ Existing topic reused for the July 18 request and acceptance.
 
 Existing topic reused for the running-figure footage vantage point.
 
-*Related: C-6594*
+*Related: C-2314*
 
 ---
 
@@ -650,7 +649,7 @@ Existing topic reused for the running-figure footage vantage point.
 
 Existing topic reused for the no-ambulance claim.
 
-*Related: C-6571*
+*Related: C-2286*
 
 ---
 
@@ -658,7 +657,7 @@ Existing topic reused for the no-ambulance claim.
 
 Organization the host says the Wilks brothers fund.
 
-*Related: C-6562*
+*Related: C-2274*
 
 ---
 
@@ -666,7 +665,7 @@ Organization the host says the Wilks brothers fund.
 
 Existing topic reused for the viewer comment and the host's identification.
 
-*Related: C-6592, C-6593, C-6594*
+*Related: C-2312, C-2313, C-2314*
 
 ---
 
@@ -674,7 +673,7 @@ Existing topic reused for the viewer comment and the host's identification.
 
 First named in the Tucker Carlson clip at 00:35:17 in episode 25. Journalist Tucker Carlson says he once hated and now counts a favorite.
 
-*Related: C-6584*
+*Related: C-2302*
 
 ---
 
@@ -683,7 +682,7 @@ First named in the Tucker Carlson clip at 00:35:17 in episode 25. Journalist Tuc
 Node Type: Topic
 The Texas donors the host says funded Rob McCoy's church and fund the Daily Wire and PragerU.
 
-*Related: C-6561, C-6562, C-6563*
+*Related: C-2273, C-2274, C-2275*
 
 ---
 
@@ -692,7 +691,7 @@ The Texas donors the host says funded Rob McCoy's church and fund the Daily Wire
 Node Type: Organization
 Social platform the host says penalizes her Egyptian plane videos and whose moderator she says served in the IDF.
 
-*Related: C-6595, C-6596*
+*Related: C-2315, C-2316*
 
 ---
 
@@ -701,7 +700,7 @@ Social platform the host says penalizes her Egyptian plane videos and whose mode
 Node Type: Organization
 University where the host says Mikey McCoy is already speaking.
 
-*Related: C-6556*
+*Related: C-2267*
 
 ---
 
@@ -710,13 +709,13 @@ University where the host says Mikey McCoy is already speaking.
 Node Type: Organization
 Thousand Oaks church Rob McCoy led for 17 years and which the host says the Wilks brothers funded.
 
-*Related: C-6561, C-6563, C-6564*
+*Related: C-2273, C-2275, C-2276*
 
 ---
 
 ## V. Claim Register
 
-**C-1584** Host Says Memorial Service Speakers Framed Mikey McCoy as Charlie's Heir Apparent
+**C-2260** Host Says Memorial Service Speakers Framed Mikey McCoy as Charlie's Heir Apparent
 
 Claim Timestamp: 00:02:42–00:05:23
 
@@ -731,7 +730,7 @@ Investigative Direction: Obtain full memorial service audio/video; verify whethe
 
 ---
 
-**C-1585** Host Says Rob McCoy Connected Mikey's Role to Charlie's Journaled Succession Plan
+**C-2263** Host Says Rob McCoy Connected Mikey's Role to Charlie's Journaled Succession Plan
 
 Claim Timestamp: 00:06:38
 
@@ -746,7 +745,7 @@ Investigative Direction: Obtain the original Faith Forward Show episode; obtain 
 
 ---
 
-**C-1586** Mikey McCoy Says the Final Asia Trip Was His First Time Traveling With a Camera
+**C-2268** Mikey McCoy Says the Final Asia Trip Was His First Time Traveling With a Camera
 
 Claim Timestamp: 00:10:01–00:10:58
 
@@ -761,7 +760,7 @@ Investigative Direction: Verify whether AV staff were present on the Korea trip 
 
 ---
 
-**C-1587** Eliza McCoy Identified the McCoy-Kirk Trip as Their First Joint Family Vacation
+**C-2270** Eliza McCoy Identified the McCoy-Kirk Trip as Their First Joint Family Vacation
 
 Claim Timestamp: 00:11:45
 
@@ -776,7 +775,7 @@ Investigative Direction: Verify Eliza McCoy's Instagram post metadata for date a
 
 ---
 
-**C-1588** Ventura County Star Reported Rob McCoy's July Pastoral Transition and Phoenix Relocation
+**C-2277** Ventura County Star Reported Rob McCoy's July Pastoral Transition and Phoenix Relocation
 
 Claim Timestamp: 00:14:47
 
@@ -791,7 +790,7 @@ Investigative Direction: Obtain the original Ventura County Star article; verify
 
 ---
 
-**C-1589** Fox 13 Report Says UVU's TPUSA Chapter Submitted the 9/10 Event Application in Mid-July Without a Standard Police-Protection Question
+**C-2282** Fox 13 Report Says UVU's TPUSA Chapter Submitted the 9/10 Event Application in Mid-July Without a Standard Police-Protection Question
 
 Claim Timestamp: 00:17:57–00:19:30
 
@@ -806,7 +805,7 @@ Investigative Direction: File records requests for the full UVU event applicatio
 
 ---
 
-**C-1590** Rob McCoy Listed His Coronado Home for Sale on August 24, 2025
+**C-2280** Rob McCoy Listed His Coronado Home for Sale on August 24, 2025
 
 Claim Timestamp: 00:15:50
 
@@ -821,7 +820,7 @@ Investigative Direction: Verify via Zillow/Redfin/realtor.com listing records fo
 
 ---
 
-**C-1591** Tucker Carlson Stated Collective Punishment Is Antithetical to Christianity and Western Civilization
+**C-2298** Tucker Carlson Stated Collective Punishment Is Antithetical to Christianity and Western Civilization
 
 Claim Timestamp: 00:33:25–00:35:17
 
@@ -835,7 +834,7 @@ Investigative Direction: Obtain the full Dave Smith episode audio; verify the pr
 
 ---
 
-**C-1592** Tucker Carlson Cited Forgiveness as His Reason for Interviewing Nick Fuentes
+**C-2300** Tucker Carlson Cited Forgiveness as His Reason for Interviewing Nick Fuentes
 
 Claim Timestamp: 00:35:17–00:37:12
 
@@ -849,7 +848,7 @@ Investigative Direction: Obtain the full Dave Smith episode audio; verify the pr
 
 ---
 
-**C-1593** George Zinn Allegedly Stated at Utah Valley Hospital He Was Paid to Disrupt Without Knowing the Payment Source
+**C-2303** George Zinn Allegedly Stated at Utah Valley Hospital He Was Paid to Disrupt Without Knowing the Payment Source
 
 Claim Timestamp: 00:41:52–00:43:00
 
@@ -864,7 +863,7 @@ Investigative Direction: Obtain hospital records, witness statements, and any so
 
 ---
 
-**C-1594** Host Asserts 12 Israeli Cell-Phone Accounts Were Present at UVU on 9/10, with NSA and Administration Awareness
+**C-2295** Host Asserts 12 Israeli Cell-Phone Accounts Were Present at UVU on 9/10, with NSA and Administration Awareness
 
 Claim Timestamp: 00:21:59
 
@@ -879,7 +878,7 @@ Investigative Direction: Identify and obtain the underlying verification source 
 
 ---
 
-**C-1595** Viewer Comment Says Grok Calls Israel-Egypt Intelligence Cooperation Unprecedented
+**C-2310** Viewer Comment Says Grok Calls Israel-Egypt Intelligence Cooperation Unprecedented
 
 Claim Timestamp: 00:46:51
 
@@ -893,7 +892,7 @@ Investigative Direction: Independently verify against academic and government so
 
 ---
 
-**C-6552** Host Says She Knows Mikey McCoy Did Not Kill Charlie
+**C-2261** Host Says She Knows Mikey McCoy Did Not Kill Charlie
 
 Claim Timestamp: 00:04:18
 
@@ -909,7 +908,7 @@ Investigative Direction: Compare the shooting-day footage of Mikey McCoy's locat
 
 ---
 
-**C-6553** Host Says the Stage Was Being Set for Mikey to Become the New Charlie
+**C-2262** Host Says the Stage Was Being Set for Mikey to Become the New Charlie
 
 Claim Timestamp: 00:04:25
 
@@ -920,13 +919,13 @@ Transcript Snippet: But it's also becoming pretty apparent to me that the stage 
 Anchored Artifacts: 
 Mentions: N-190, N-17, N-1, N-3
 Related Nodes: N-10218
-Supports: C-1584
+Supports: C-2260
 Tags: relevance:core
 Investigative Direction: Collect the memorial speeches and TPUSA announcements naming Mikey McCoy's future role and test whether the language was coordinated.
 
 ---
 
-**C-6554** Host Reads Rob McCoy's Answer as Implying Charlie's Journals Wrote Mikey's Future
+**C-2264** Host Reads Rob McCoy's Answer as Implying Charlie's Journals Wrote Mikey's Future
 
 Claim Timestamp: 00:07:16
 
@@ -937,13 +936,13 @@ Transcript Snippet: Is he trying to make us believe but not explicitly state but
 Anchored Artifacts: A-1322.1
 Mentions: N-17, N-190, N-1, N-3
 Related Nodes: N-10218
-Supports: C-1585
+Supports: C-2263
 Tags: relevance:core
 Investigative Direction: Obtain the full Faith Forward Show recording and check the question asked and the answer given in sequence.
 
 ---
 
-**C-6555** Host Says Insiders Saw Extra Spring in Mikey McCoy's Step
+**C-2266** Host Says Insiders Saw Extra Spring in Mikey McCoy's Step
 
 Claim Timestamp: 00:08:42
 
@@ -959,7 +958,7 @@ Investigative Direction: Identify the insiders through the host's sources and as
 
 ---
 
-**C-6556** Host Says Mikey McCoy Is Already Speaking at Liberty University
+**C-2267** Host Says Mikey McCoy Is Already Speaking at Liberty University
 
 Claim Timestamp: 00:08:55
 
@@ -975,7 +974,7 @@ Investigative Direction: Check Liberty University convocation and event listings
 
 ---
 
-**C-6557** Host Infers Mikey Was Promised He Would Become the New Charlie
+**C-2265** Host Infers Mikey Was Promised He Would Become the New Charlie
 
 Claim Timestamp: 00:08:08
 
@@ -986,13 +985,13 @@ Transcript Snippet: I think Mikey was promised or told or encouraged that he wou
 Anchored Artifacts: 
 Mentions: N-190, N-1, N-3
 Related Nodes: N-10218
-Supports: C-1584
+Supports: C-2260
 Tags: relevance:core
 Investigative Direction: This is the host's inference; test it against Turning Point USA succession communications and statements by those who spoke to Mikey McCoy.
 
 ---
 
-**C-6558** Host Says the Person Who Mics Is Always the AV Person
+**C-2269** Host Says the Person Who Mics Is Always the AV Person
 
 Claim Timestamp: 00:10:01
 
@@ -1003,13 +1002,13 @@ Transcript Snippet: I've traveled with Charlie everywhere. Very strange. The per
 Anchored Artifacts: A-1323.1
 Mentions: N-3, N-1, N-190
 Related Nodes: N-10219
-Supports: C-1586
+Supports: C-2268
 Tags: relevance:core
 Investigative Direction: Ask AV staff and prior trip organizers who miced Charlie on earlier trips and who was on the Korea trip.
 
 ---
 
-**C-6559** Host Says the McCoys Captured the Viral Footage of Charlie With His Family
+**C-2271** Host Says the McCoys Captured the Viral Footage of Charlie With His Family
 
 Claim Timestamp: 00:11:45
 
@@ -1020,13 +1019,13 @@ Transcript Snippet: Fortunately, the McCoys were the ones that captured that foo
 Anchored Artifacts: 
 Mentions: N-3, N-190, N-217, N-1, N-2
 Related Nodes: N-10219
-Supports: C-1587
+Supports: C-2270
 Tags: relevance:core
 Investigative Direction: Identify who filmed the viral clip through its first posting and metadata, and confirm that the McCoys shot it.
 
 ---
 
-**C-6560** Host Places the McCoy Family Footage in Mid-July to Early August
+**C-2272** Host Places the McCoy Family Footage in Mid-July to Early August
 
 Claim Timestamp: 00:12:58
 
@@ -1042,7 +1041,7 @@ Investigative Direction: Obtain the original upload date and file metadata of th
 
 ---
 
-**C-6561** Host Says Rob McCoy's Church Was Funded by the Wilks Brothers
+**C-2273** Host Says Rob McCoy's Church Was Funded by the Wilks Brothers
 
 Claim Timestamp: 00:13:48
 
@@ -1058,7 +1057,7 @@ Investigative Direction: Check church filings and public giving records for Wilk
 
 ---
 
-**C-6562** Host Says the Wilks Brothers Fund Daily Wire and PragerU
+**C-2274** Host Says the Wilks Brothers Fund Daily Wire and PragerU
 
 Claim Timestamp: 00:13:52
 
@@ -1074,7 +1073,7 @@ Investigative Direction: Check Daily Wire and PragerU donor disclosures and pres
 
 ---
 
-**C-6563** Host Says the Wilks-Funded Church Is Described Online as a Cult
+**C-2275** Host Says the Wilks-Funded Church Is Described Online as a Cult
 
 Claim Timestamp: 00:14:13
 
@@ -1090,7 +1089,7 @@ Investigative Direction: Identify who describes the church as a cult online and 
 
 ---
 
-**C-6564** Rob McCoy's Step Down Was Announced Publicly in January After 17 Years
+**C-2276** Rob McCoy's Step Down Was Announced Publicly in January After 17 Years
 
 Claim Timestamp: 00:14:28
 
@@ -1101,13 +1100,13 @@ Transcript Snippet: after 17 years as the head pastor of that church, Rob McCoy,
 Anchored Artifacts: A-1325.1
 Mentions: N-17, N-3
 Related Nodes: N-10220, N-11105
-Supports: C-1588
+Supports: C-2277
 Tags: relevance:core
 Investigative Direction: Check the January 2025 church announcement and the Ventura County Star article for the exact dates.
 
 ---
 
-**C-6565** Host Says Rob McCoy Bought a Different Place in Thousand Oaks and Owns a Coronado Home
+**C-2278** Host Says Rob McCoy Bought a Different Place in Thousand Oaks and Owns a Coronado Home
 
 Claim Timestamp: 00:15:47
 
@@ -1123,7 +1122,7 @@ Investigative Direction: Check county property records for Rob McCoy's holdings 
 
 ---
 
-**C-6566** Host Says Tucker's July 11 Speech Targeted Foreign-Army Service and Ackman's Wealth
+**C-2279** Host Says Tucker's July 11 Speech Targeted Foreign-Army Service and Ackman's Wealth
 
 Claim Timestamp: 00:15:47
 
@@ -1134,13 +1133,13 @@ Transcript Snippet: he says that people who serve in foreign armies should be st
 Anchored Artifacts: A-2824.1
 Mentions: N-22, N-37, N-3
 Related Nodes: N-10000
-Supports: C-1559
+Supports: C-2121
 Tags: relevance:core
 Investigative Direction: Review the video of Tucker Carlson's July 11, 2025 TPUSA speech for the remarks about foreign armies and Ackman.
 
 ---
 
-**C-6567** Host Says TPUSA Received UVU's Request on July 18 and Instantly Accepted It as Stop One
+**C-2281** Host Says TPUSA Received UVU's Request on July 18 and Instantly Accepted It as Stop One
 
 Claim Timestamp: 00:17:11
 
@@ -1151,13 +1150,13 @@ Transcript Snippet: receives a request from UVU for Charlie to hold an event at 
 Anchored Artifacts: A-2824.1
 Mentions: N-181, N-1, N-3
 Related Nodes: N-10221, N-10675, N-10012
-Supports: C-1589
+Supports: C-2282
 Tags: relevance:core
 Investigative Direction: Request UVU and TPUSA correspondence dated mid-July 2025 and the tour scheduling documents showing when UVU became stop one.
 
 ---
 
-**C-6568** Fox 13 Reports UVU Cited Investigation and Fair-Trial Concerns and Fox 13 Plans an Appeal
+**C-2283** Fox 13 Reports UVU Cited Investigation and Fair-Trial Concerns and Fox 13 Plans an Appeal
 
 Claim Timestamp: 00:17:57
 
@@ -1173,7 +1172,7 @@ Investigative Direction: Follow the Fox 13 records appeal and the state records 
 
 ---
 
-**C-6569** Fox 13 Says the Police-Protection Question Is Standard at University of Utah Events
+**C-2284** Fox 13 Says the Police-Protection Question Is Standard at University of Utah Events
 
 Claim Timestamp: 00:17:57
 
@@ -1184,13 +1183,13 @@ Transcript Snippet: That's a standard inquiry at, for example, University of Uta
 Anchored Artifacts: A-1326.1
 Mentions: N-219
 Related Nodes: N-10221, N-10012
-Supports: C-1589
+Supports: C-2282
 Tags: relevance:core
 Investigative Direction: Compare the UVU form with University of Utah event application forms and the UVU records request log.
 
 ---
 
-**C-6570** Host Says a Request This Late Becoming Stop Number One Has Never Happened
+**C-2285** Host Says a Request This Late Becoming Stop Number One Has Never Happened
 
 Claim Timestamp: 00:19:12
 
@@ -1206,7 +1205,7 @@ Investigative Direction: Compare typical lead times between request and event ac
 
 ---
 
-**C-6571** Host Says There Was No Ambulance on Standby, Against Utah Law
+**C-2286** Host Says There Was No Ambulance on Standby, Against Utah Law
 
 Claim Timestamp: 00:19:29
 
@@ -1222,7 +1221,7 @@ Investigative Direction: Check the Utah statute or UVU policy on standby medical
 
 ---
 
-**C-6572** Host Suspects There Was No Security Plan at All
+**C-2287** Host Suspects There Was No Security Plan at All
 
 Claim Timestamp: 00:19:40
 
@@ -1238,7 +1237,7 @@ Investigative Direction: Pursue the Fox 13 appeal and any court-ordered release 
 
 ---
 
-**C-6573** Host Says a Tip Claims the Event Was Initially Slated to Be Inside
+**C-2288** Host Says a Tip Claims the Event Was Initially Slated to Be Inside
 
 Claim Timestamp: 00:19:46
 
@@ -1254,7 +1253,7 @@ Investigative Direction: Check UVU room reservations and event booking records f
 
 ---
 
-**C-6574** Host Says Milo Yiannopoulos Tweeted He Now Thinks Israel Did It
+**C-2289** Host Says Milo Yiannopoulos Tweeted He Now Thinks Israel Did It
 
 Claim Timestamp: 00:20:12
 
@@ -1270,7 +1269,7 @@ Investigative Direction: Locate Yiannopoulos's original tweet and confirm its ex
 
 ---
 
-**C-6575** Host Says Milo Was Tweeting About a Fictionalized Erika Award Report
+**C-2290** Host Says Milo Was Tweeting About a Fictionalized Erika Award Report
 
 Claim Timestamp: 00:20:12
 
@@ -1286,7 +1285,7 @@ Investigative Direction: Compare the Israeli War Room report of the award with s
 
 ---
 
-**C-6576** Host Says Netanyahu Did Propaganda Rounds Denying Any Role in the Assassination
+**C-2291** Host Says Netanyahu Did Propaganda Rounds Denying Any Role in the Assassination
 
 Claim Timestamp: 00:20:12
 
@@ -1297,13 +1296,13 @@ Transcript Snippet: BBNet and Yahoo doing propaganda rounds uh denying that he h
 Anchored Artifacts: 
 Mentions: N-36, N-1, N-3
 Related Nodes: N-10495
-Supports: C-1192
+Supports: C-439
 Tags: relevance:context
 Investigative Direction: Compile Netanyahu's interviews and posts from September 10-12 and record exactly what he denied and in response to what question.
 
 ---
 
-**C-6577** Host Says Kash Patel Complained About Mean Tweets About His Girlfriend
+**C-2292** Host Says Kash Patel Complained About Mean Tweets About His Girlfriend
 
 Claim Timestamp: 00:20:12
 
@@ -1313,13 +1312,13 @@ Transcript Snippet: if Kash Patel is done crying about the mean tweets on the in
 
 Anchored Artifacts: 
 Mentions: N-69, N-3
-Supports: C-1579
+Supports: C-2246
 Tags: relevance:tangential
 Investigative Direction: Review Patel's posts defending his girlfriend and the criticism that prompted them.
 
 ---
 
-**C-6578** Host Says Village Crazy Lady Reported the Israeli Phones Early
+**C-2294** Host Says Village Crazy Lady Reported the Israeli Phones Early
 
 Claim Timestamp: 00:21:34
 
@@ -1330,13 +1329,13 @@ Transcript Snippet: I've been telling you to follow her village crazy lady over 
 Anchored Artifacts: 
 Mentions: N-66, N-3
 Related Nodes: N-10222
-Supports: C-1594
+Supports: C-2295
 Tags: relevance:core
 Investigative Direction: Find the Village Crazy Lady post and its date and compare its details with the host's.
 
 ---
 
-**C-6579** Host Publicly Challenges the Administration to Deny the Israeli Phone Report
+**C-2293** Host Publicly Challenges the Administration to Deny the Israeli Phone Report
 
 Claim Timestamp: 00:20:12
 
@@ -1347,13 +1346,13 @@ Transcript Snippet: I can publicly challenge the very Zionist occupied Trump adm
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10222
-Supports: C-1594
+Supports: C-2295
 Tags: relevance:core
 Investigative Direction: Ask the FBI, NSA and White House press office whether they will confirm or deny the existence of 12 Israel-opened phone accounts at UVU on September 10.
 
 ---
 
-**C-6580** Host Says a .30-06 Did Not Get Stopped by Charlie's Neck
+**C-2296** Host Says a .30-06 Did Not Get Stopped by Charlie's Neck
 
 Claim Timestamp: 00:29:49
 
@@ -1364,13 +1363,13 @@ Transcript Snippet: Until you acknowledge that a 30 six did not go through his n
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10048
-Supports: C-1230
+Supports: C-594
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy findings and ballistic evidence on wound track, exit wound and bullet recovery.
 
 ---
 
-**C-6581** Host Says Republicans Promised Transparency Except on the Epstein Files
+**C-2297** Host Says Republicans Promised Transparency Except on the Epstein Files
 
 Claim Timestamp: 00:30:10
 
@@ -1386,7 +1385,7 @@ Investigative Direction: Compare administration transparency pledges with the ac
 
 ---
 
-**C-6582** Tucker Says Israeli Ministers Say Openly That Relatives of a Terrorist Share His Guilt
+**C-2299** Tucker Says Israeli Ministers Say Openly That Relatives of a Terrorist Share His Guilt
 
 Claim Timestamp: 00:33:25
 
@@ -1396,13 +1395,13 @@ Transcript Snippet: of the Israeli government and of a couple of its ministers, 
 
 Anchored Artifacts: A-1328.1
 Mentions: N-22
-Supports: C-1591
+Supports: C-2298
 Tags: relevance:context
 Investigative Direction: Compile statements by Israeli ministers about collective punishment and check Tucker Carlson's wording on the Dave Smith show.
 
 ---
 
-**C-6583** Host Says Netanyahu Kills Tens of Thousands of Kids
+**C-2301** Host Says Netanyahu Kills Tens of Thousands of Kids
 
 Claim Timestamp: 00:35:17
 
@@ -1417,7 +1416,7 @@ Investigative Direction: Check UN and health-ministry casualty counts for childr
 
 ---
 
-**C-6584** Tucker Says He Once Hated Glenn Greenwald and Now Counts Him a Favorite
+**C-2302** Tucker Says He Once Hated Glenn Greenwald and Now Counts Him a Favorite
 
 Claim Timestamp: 00:36:49
 
@@ -1432,7 +1431,7 @@ Investigative Direction: Check Tucker Carlson's earlier public statements about 
 
 ---
 
-**C-6585** Commenter Calls Zinn a Habitual Salt Lake City Event Disruptor
+**C-2304** Commenter Calls Zinn a Habitual Salt Lake City Event Disruptor
 
 Claim Timestamp: 00:41:52
 
@@ -1443,13 +1442,13 @@ Transcript Snippet: I know he was a habitual Salt Lake City event disruptor, but
 Anchored Artifacts: A-2823.1
 Mentions: N-42, N-3
 Related Nodes: N-10223
-Supports: C-1338
+Supports: C-1156
 Tags: relevance:context
 Investigative Direction: Collect Zinn's prior Salt Lake City event disruption incidents and arrests.
 
 ---
 
-**C-6586** Host Says Zinn Went to Utah Valley Hospital for Mild Injuries From Being Dragged
+**C-2305** Host Says Zinn Went to Utah Valley Hospital for Mild Injuries From Being Dragged
 
 Claim Timestamp: 00:41:52
 
@@ -1460,13 +1459,13 @@ Transcript Snippet: He went to Utah Valley Hospital uh after this event to treat
 Anchored Artifacts: A-1331.1
 Mentions: N-42, N-3
 Related Nodes: N-10223
-Supports: C-1402
+Supports: C-1486
 Tags: relevance:core
 Investigative Direction: Obtain hospital intake records and arrest and booking photographs showing injuries.
 
 ---
 
-**C-6587** Host Says There Is No Documented Proof Jews Are the Original People of the Holy Land
+**C-2306** Host Says There Is No Documented Proof Jews Are the Original People of the Holy Land
 
 Claim Timestamp: 00:44:02
 
@@ -1481,7 +1480,7 @@ Investigative Direction: Unsupported historical assertion recorded as said; no c
 
 ---
 
-**C-6588** Host Says Scientism Was a Conscious Movement at the Turn of the Century
+**C-2307** Host Says Scientism Was a Conscious Movement at the Turn of the Century
 
 Claim Timestamp: 00:44:53
 
@@ -1496,7 +1495,7 @@ Investigative Direction: Off-topic historical assertion recorded as said; no cas
 
 ---
 
-**C-6589** Host Says the Moon Landings Did Not Happen
+**C-2308** Host Says the Moon Landings Did Not Happen
 
 Claim Timestamp: 00:45:47
 
@@ -1511,7 +1510,7 @@ Investigative Direction: Off-topic assertion recorded as said; no case link.
 
 ---
 
-**C-6590** Commenter Says Israel Supporters Fund AIPAC to Steer Congress and the Host Agrees
+**C-2309** Commenter Says Israel Supporters Fund AIPAC to Steer Congress and the Host Agrees
 
 Claim Timestamp: 00:45:47
 
@@ -1527,7 +1526,7 @@ Investigative Direction: Review AIPAC and affiliated PAC contribution records fo
 
 ---
 
-**C-6591** Host Says the Second Largest Recipient Is Egypt So Aid Does Not Look Like It All Goes to Israel
+**C-2311** Host Says the Second Largest Recipient Is Egypt So Aid Does Not Look Like It All Goes to Israel
 
 Claim Timestamp: 00:46:51
 
@@ -1538,13 +1537,13 @@ Transcript Snippet: country A that gets most of our money is Israel, B is Egypt,
 Anchored Artifacts: A-1332.1
 Mentions: N-3
 Related Nodes: N-10253
-Supports: C-1595
+Supports: C-2310
 Tags: relevance:context
 Investigative Direction: Check US foreign aid totals by country and the history of the Egypt and Israel aid agreement.
 
 ---
 
-**C-6592** Viewer Comment Says a Student Posted a Reel of a Room of Uniformed People and Many Flags
+**C-2312** Viewer Comment Says a Student Posted a Reel of a Room of Uniformed People and Many Flags
 
 Claim Timestamp: 00:48:35
 
@@ -1560,7 +1559,7 @@ Investigative Direction: Find the student's Facebook reel and verify its date, l
 
 ---
 
-**C-6593** Host Identifies the Room as the Hall of Flags Behind Charlie's Head
+**C-2313** Host Identifies the Room as the Hall of Flags Behind Charlie's Head
 
 Claim Timestamp: 00:48:35
 
@@ -1576,7 +1575,7 @@ Investigative Direction: Obtain UVU building schedules and access logs for the H
 
 ---
 
-**C-6594** Host Says the Only Footage of the Running Figure Was Filmed From the Hall of Flags
+**C-2314** Host Says the Only Footage of the Running Figure Was Filmed From the Hall of Flags
 
 Claim Timestamp: 00:48:35
 
@@ -1592,7 +1591,7 @@ Investigative Direction: Identify the videographer and the vantage point of the 
 
 ---
 
-**C-6595** Host Says TikTok Is Hitting Her Videos About the Egyptian Planes
+**C-2315** Host Says TikTok Is Hitting Her Videos About the Egyptian Planes
 
 Claim Timestamp: 00:49:56
 
@@ -1608,7 +1607,7 @@ Investigative Direction: Request the TikTok enforcement notices and moderation r
 
 ---
 
-**C-6596** Host Says TikTok's Moderator Served in the IDF and Netanyahu Wants TikTok Secured
+**C-2316** Host Says TikTok's Moderator Served in the IDF and Netanyahu Wants TikTok Secured
 
 Claim Timestamp: 00:50:01
 
@@ -1619,7 +1618,7 @@ Transcript Snippet: Israel's moderator served in the IDF, we know, and they BB w
 Anchored Artifacts: 
 Mentions: N-3, N-36
 Related Nodes: N-11103, N-10253
-Supports: C-1350
+Supports: C-1214
 Tags: relevance:context
 Investigative Direction: Verify the TikTok policy manager's service record and Netanyahu's statements on TikTok.
 
@@ -1743,13 +1742,13 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Artifact verbally referenced but not shown:** The "verifiable proof" for the 12 Israeli cell-phone claim (C-1594) is asserted on-air but the underlying documentation is not displayed in the episode. Prior reporting by "Mel" / "village crazy lady" on X is referenced but not quoted. This claim is inscribed with the caveat that its primary artifact is the host's on-air assertion rather than a displayed source.
+- **Artifact verbally referenced but not shown:** The "verifiable proof" for the 12 Israeli cell-phone claim (C-2295) is asserted on-air but the underlying documentation is not displayed in the episode. Prior reporting by "Mel" / "village crazy lady" on X is referenced but not quoted. This claim is inscribed with the caveat that its primary artifact is the host's on-air assertion rather than a displayed source.
 - **Artifact verbally referenced but not shown:** The Rob McCoy Coronado home listing (A-1327.1) is asserted as confirmed by the host but the actual real-estate listing page is not displayed.
 - **Artifact verbally referenced but not shown:** The tip about the 9/10 event being "initially slated to be inside" and then moved is referenced by the host but not displayed; host explicitly states she is "not confirming" this tip.
 - **Artifact verbally referenced but not shown:** The "viral footage" of Charlie walking with his children and Erika grabbing his hand (cited as captured by the McCoys) is not displayed as a new artifact; host references the footage without showing it in this segment.
 - **Requires human verification:** The Ventura County Star article on Rob McCoy's transition is read aloud from host's prepared material; original article text and publication date should be independently confirmed.
 - **Requires human verification:** The Eliza McCoy Instagram post (A-1324.1) is read aloud from host's prepared material; original post should be independently confirmed against the live Instagram account.
-- **Requires human verification:** The George Zinn hospital statement (A-1331.1, C-1593) rests on a single anonymous source per host; corroborating documentation is not displayed.
+- **Requires human verification:** The George Zinn hospital statement (A-1331.1, C-2303) rests on a single anonymous source per host; corroborating documentation is not displayed.
 - **Possible transcription error:** "Mira Epstein" – name does not appear in this transcript and may be a confusion with another reference; not inscribed as a node.
 - **Possible transcription error:** "Bill Ackman" (likely Bill Ackman) referenced at 15:47; preserved as it appears in transcript.
 - **Name uncertainty:** "Sam Parker" (N-181) is identified by host as source of the July 18 finding; full identity not corroborated in this episode.
@@ -1763,7 +1762,7 @@ Confidence: high
 ## Episode Ledger Summary
 
 - **Artifact Families Introduced:** A-1321, A-1322, A-1323, A-1324, A-1325, A-1326, A-1327, A-1328, A-1329, A-1330, A-1331, A-1332
-- **Claim Range:** C-1584–C-1595
+- **Claim Range:** C-2260–C-2310
 - **New People Nodes Introduced:** N-190, N-17, N-217, N-22, N-39, N-201, N-218, N-219, N-181, N-42, N-220
 - **New Investigation Target Nodes Introduced:** N-10218, N-10219, N-10220, N-10221, N-10222, N-10223
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk)

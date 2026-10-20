@@ -27,8 +27,8 @@
           "ref": "A-1251.1",
           "description": "Andrew Kolvet tweet (read aloud) describing a surgeon who worked on Charlie stating the bullet should have exited and characterizing Charlie's bone density as \"man of steel\"",
           "related_claims": [
-            "C-1428",
-            "C-1429"
+            "C-1610",
+            "C-1611"
           ],
           "related_nodes": [
             "N-14",
@@ -55,8 +55,8 @@
           "ref": "A-1252.1",
           "description": "Viral video clip showing a witness being physically pushed/shoved and prevented from speaking immediately after the shooting",
           "related_claims": [
-            "C-1430",
-            "C-1431"
+            "C-1620",
+            "C-1626"
           ],
           "related_nodes": [
             "N-174",
@@ -97,12 +97,12 @@
           "ref": "A-1253.2",
           "description": "Cooper Brown follow-up interview on Fox News the next day, describing 30 student volunteers and his microphone duties",
           "related_claims": [
-            "C-1432",
-            "C-1433",
-            "C-1434",
-            "C-1435",
-            "C-1436",
-            "C-1437"
+            "C-1628",
+            "C-1629",
+            "C-1630",
+            "C-1631",
+            "C-1633",
+            "C-1634"
           ],
           "related_nodes": [
             "N-174",
@@ -130,7 +130,7 @@
           "ref": "A-1254.1",
           "description": "Jason Chaffetz on Fox News describing the shot as appearing \"in close proximity straight ahead\" and rebutting the far-building theory",
           "related_claims": [
-            "C-1438"
+            "C-1649"
           ],
           "related_nodes": [
             "N-175",
@@ -158,7 +158,7 @@
           "ref": "A-1255.1",
           "description": "Phil Lyman footage showing two women outside the building stating they heard two shots",
           "related_claims": [
-            "C-1439"
+            "C-1658"
           ],
           "related_nodes": [
             "N-10181"
@@ -184,8 +184,8 @@
           "ref": "A-1256.1",
           "description": "Josh Hammer publicly released text exchange between himself and Charlie Kirk: \"Charlie Kirk, thank you for your help guys. A totally standard response…\" plus Hammer's reply asking about his \"first stop tomorrow\"",
           "related_claims": [
-            "C-1455",
-            "C-1456"
+            "C-1687",
+            "C-1688"
           ],
           "related_nodes": [
             "N-14"
@@ -211,7 +211,7 @@
           "ref": "A-1257.1",
           "description": "Trump Truth Social post announcing \"Israel and Hamas have both signed off on the first phase of our peace plan,\" with hostage release and troop withdrawal language",
           "related_claims": [
-            "C-1457"
+            "C-1693"
           ],
           "related_nodes": [],
           "tags": [],
@@ -235,7 +235,7 @@
           "ref": "A-1258.1",
           "description": "Jared Kushner speaking at Harvard (Feb 15, 2024) describing Gaza as \"waterfront property\" and stating he would \"move the people out and then clean it up\"",
           "related_claims": [
-            "C-1458"
+            "C-1696"
           ],
           "related_nodes": [
             "N-178"
@@ -261,7 +261,7 @@
           "ref": "A-1259.1",
           "description": "Matt Walsh commenting on Charlie Kirk's \"I have no choice but to leave the pro-Israel cause\" text message, calling it \"too on the nose\" and urging self-reflection by pro-Israel advocates",
           "related_claims": [
-            "C-1459"
+            "C-1699"
           ],
           "related_nodes": [],
           "tags": [],
@@ -285,7 +285,7 @@
           "ref": "A-3284.1",
           "description": "Host verbal call for tips about the medical examiner at the tip email address (mis-transcribed address)",
           "related_claims": [
-            "C-13888"
+            "C-1640"
           ],
           "related_nodes": [
             "N-3",
@@ -303,7 +303,7 @@
           "ref": "A-3284.2",
           "description": "Host verbal call for tips about Caldera Engineering at candaceowens.com",
           "related_claims": [
-            "C-13911"
+            "C-1670"
           ],
           "related_nodes": [
             "N-3"
@@ -320,8 +320,8 @@
           "ref": "A-3284.3",
           "description": "Host verbal call for tips and invitation to join the decentralized intelligence agency at the closing (addresses mis-transcribed)",
           "related_claims": [
-            "C-13933",
-            "C-13935"
+            "C-1707",
+            "C-1709"
           ],
           "related_nodes": [
             "N-3"
@@ -346,8 +346,8 @@
           "ref": "A-3285.1",
           "description": "Host verbal reference to the footage from behind Charlie that she says she watched (not shown in this episode)",
           "related_claims": [
-            "C-13899",
-            "C-13900"
+            "C-1652",
+            "C-1653"
           ],
           "related_nodes": [
             "N-3",
@@ -374,8 +374,8 @@
           "ref": "A-3286.1",
           "description": "Host verbal reference to Josh Hammer's public statement about the Hamptons retreat (not pulled up on air)",
           "related_claims": [
-            "C-13915",
-            "C-13916"
+            "C-1684",
+            "C-1685"
           ],
           "related_nodes": [
             "N-55",
@@ -402,9 +402,9 @@
         "A-1251.1"
       ],
       "related_claims": [
-        "C-1428",
-        "C-1429",
-        "C-1460"
+        "C-1610",
+        "C-1611",
+        "C-1622"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -428,14 +428,14 @@
         "A-1253.2"
       ],
       "related_claims": [
-        "C-1430",
-        "C-1431",
-        "C-1432",
-        "C-1433",
-        "C-1434",
-        "C-1435",
-        "C-1436",
-        "C-1437"
+        "C-1620",
+        "C-1626",
+        "C-1628",
+        "C-1629",
+        "C-1630",
+        "C-1631",
+        "C-1633",
+        "C-1634"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -458,7 +458,7 @@
         "A-1254.1"
       ],
       "related_claims": [
-        "C-1438"
+        "C-1649"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -479,7 +479,7 @@
       "description": "Utah State Medical Examiner as of May 2024, per host's research; reportedly from Missouri with prior California work.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1440"
+        "C-1638"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -499,8 +499,8 @@
       "description": "Public figure (per host) who publicly addressed the second plane's ADSB transponder status, disputing Kash Patel's account.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1452",
-        "C-1453"
+        "C-1679",
+        "C-1681"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -522,7 +522,7 @@
         "A-1259.1"
       ],
       "related_claims": [
-        "C-1459"
+        "C-1699"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -541,7 +541,7 @@
         "A-1258.1"
       ],
       "related_claims": [
-        "C-1458"
+        "C-1696"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -561,9 +561,9 @@
         "A-1254.1"
       ],
       "related_claims": [
-        "C-1425",
-        "C-1426",
-        "C-1427"
+        "C-1612",
+        "C-1615",
+        "C-1617"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -587,9 +587,9 @@
         "A-1255.1"
       ],
       "related_claims": [
-        "C-1438",
-        "C-1439",
-        "C-1460"
+        "C-1649",
+        "C-1658",
+        "C-1622"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -613,11 +613,11 @@
         "A-1253.2"
       ],
       "related_claims": [
-        "C-1430",
-        "C-1431",
-        "C-1432",
-        "C-1436",
-        "C-1437"
+        "C-1620",
+        "C-1626",
+        "C-1628",
+        "C-1633",
+        "C-1634"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -638,7 +638,7 @@
       "description": "Persistent target: full background, prior work history, and case-handling record of the Utah state medical examiner.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1440"
+        "C-1638"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -658,10 +658,10 @@
       "description": "Persistent target: founders, employees, Israel project history, and connections to other named figures in the series.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1441",
-        "C-1442",
-        "C-1443",
-        "C-1444"
+        "C-1664",
+        "C-1667",
+        "C-1665",
+        "C-1669"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -678,9 +678,9 @@
       "description": "Persistent target: chain of custody, contracting entity, and purpose of military tail-numbered aircraft seen near Utah on 9/10.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1445",
-        "C-1446",
-        "C-1447"
+        "C-1671",
+        "C-1672",
+        "C-1673"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -700,13 +700,13 @@
       "description": "Persistent target: ADSB transponder status, FBO destination change, and conflicting accounts from Kash Patel and Derek Maxfield.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1448",
-        "C-1449",
-        "C-1450",
-        "C-1451",
-        "C-1452",
-        "C-1453",
-        "C-1454"
+        "C-1675",
+        "C-1676",
+        "C-1677",
+        "C-1678",
+        "C-1679",
+        "C-1681",
+        "C-1683"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -728,8 +728,8 @@
         "A-1256.1"
       ],
       "related_claims": [
-        "C-1455",
-        "C-1456"
+        "C-1687",
+        "C-1688"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -752,7 +752,7 @@
         "A-1253.1"
       ],
       "related_claims": [
-        "C-1432"
+        "C-1628"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -772,7 +772,7 @@
       "description": "Company identified by host as the owner/contractor of plane N1098L.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1446"
+        "C-1672"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -792,8 +792,8 @@
       "description": "Two fixed-base operators referenced in connection with plane 888's last-minute destination change and contradicting employee statements.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1453",
-        "C-1454"
+        "C-1681",
+        "C-1683"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -813,7 +813,7 @@
       "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1444"
+        "C-1669"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -830,25 +830,25 @@
       "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13872",
-        "C-13873",
-        "C-13876",
-        "C-13886",
-        "C-13890",
-        "C-13891",
-        "C-13893",
-        "C-13895",
-        "C-13899",
-        "C-13900",
-        "C-13905",
-        "C-13906",
-        "C-13912",
-        "C-13915",
-        "C-13916",
-        "C-13918",
-        "C-13925",
-        "C-13928",
-        "C-13930"
+        "C-1609",
+        "C-1613",
+        "C-1618",
+        "C-1637",
+        "C-1642",
+        "C-1643",
+        "C-1645",
+        "C-1647",
+        "C-1652",
+        "C-1653",
+        "C-1660",
+        "C-1661",
+        "C-1674",
+        "C-1684",
+        "C-1685",
+        "C-1689",
+        "C-1698",
+        "C-1702",
+        "C-1704"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -866,7 +866,7 @@
       "description": "Named in Blake Wynn Mar-a-Lago election-night recount and in campaign orbit; prior low-IQ attack recalled in March/April harassment montage.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13924"
+        "C-1697"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -916,63 +916,63 @@
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13871",
-        "C-13872",
-        "C-13874",
-        "C-13875",
-        "C-13876",
-        "C-13877",
-        "C-13878",
-        "C-13879",
-        "C-13880",
-        "C-13881",
-        "C-13882",
-        "C-13883",
-        "C-13884",
-        "C-13885",
-        "C-13886",
-        "C-13887",
-        "C-13888",
-        "C-13889",
-        "C-13890",
-        "C-13891",
-        "C-13892",
-        "C-13893",
-        "C-13894",
-        "C-13895",
-        "C-13899",
-        "C-13900",
-        "C-13901",
-        "C-13902",
-        "C-13903",
-        "C-13904",
-        "C-13905",
-        "C-13906",
-        "C-13907",
-        "C-13908",
-        "C-13909",
-        "C-13910",
-        "C-13911",
-        "C-13912",
-        "C-13913",
-        "C-13914",
-        "C-13918",
-        "C-13919",
-        "C-13920",
-        "C-13921",
-        "C-13922",
-        "C-13923",
-        "C-13924",
-        "C-13925",
-        "C-13927",
-        "C-13928",
-        "C-13929",
-        "C-13930",
-        "C-13931",
-        "C-13932",
-        "C-13933",
-        "C-13934",
-        "C-13935"
+        "C-1608",
+        "C-1609",
+        "C-1614",
+        "C-1616",
+        "C-1618",
+        "C-1619",
+        "C-1621",
+        "C-1623",
+        "C-1624",
+        "C-1625",
+        "C-1627",
+        "C-1632",
+        "C-1635",
+        "C-1636",
+        "C-1637",
+        "C-1639",
+        "C-1640",
+        "C-1641",
+        "C-1642",
+        "C-1643",
+        "C-1644",
+        "C-1645",
+        "C-1646",
+        "C-1647",
+        "C-1652",
+        "C-1653",
+        "C-1654",
+        "C-1655",
+        "C-1656",
+        "C-1657",
+        "C-1660",
+        "C-1661",
+        "C-1662",
+        "C-1663",
+        "C-1666",
+        "C-1668",
+        "C-1670",
+        "C-1674",
+        "C-1680",
+        "C-1682",
+        "C-1689",
+        "C-1690",
+        "C-1691",
+        "C-1692",
+        "C-1694",
+        "C-1695",
+        "C-1697",
+        "C-1698",
+        "C-1701",
+        "C-1702",
+        "C-1703",
+        "C-1704",
+        "C-1705",
+        "C-1706",
+        "C-1707",
+        "C-1708",
+        "C-1709"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -990,7 +990,7 @@
       "description": "Named by the host in her remark about pastors preaching about him.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13929"
+        "C-1703"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1007,7 +1007,7 @@
       "description": "Israeli prime minister; the host says he said before October 7 that they must hit Hamas hard.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13922"
+        "C-1694"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1024,7 +1024,7 @@
       "description": "Named in Hammer's statement about the Hamptons retreat.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13915"
+        "C-1684"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1041,7 +1041,7 @@
       "description": "Named in the host's remark about pastors preaching about her.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13929"
+        "C-1703"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1058,10 +1058,10 @@
       "description": "Commentator; the host discusses his Hamptons statement, his texts with Charlie and his account of their call.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13915",
-        "C-13916",
-        "C-13917",
-        "C-13918"
+        "C-1684",
+        "C-1685",
+        "C-1686",
+        "C-1689"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1078,7 +1078,7 @@
       "description": "Steele family member the host says is big with Caldera Engineering; transcribed Steel.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13907"
+        "C-1662"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1095,8 +1095,8 @@
       "description": "On-the-ground source whose account of feds implanting memories the host relays.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13903",
-        "C-13904"
+        "C-1656",
+        "C-1657"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1113,7 +1113,7 @@
       "description": "US negotiator the host names with Kushner at the Israel and Hamas talks.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13921"
+        "C-1692"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1130,10 +1130,10 @@
       "description": "Organization whose media instruction and volunteer roles the host questions.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13879",
-        "C-13880",
-        "C-13881",
-        "C-13885"
+        "C-1623",
+        "C-1624",
+        "C-1625",
+        "C-1636"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1150,10 +1150,10 @@
       "description": "Network on which Cooper Brown and Jason Chaffetz appeared.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13882",
-        "C-13895",
-        "C-13896",
-        "C-13897"
+        "C-1627",
+        "C-1647",
+        "C-1648",
+        "C-1650"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1170,8 +1170,8 @@
       "description": "Host campus of the 9/10 event.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13881",
-        "C-13902"
+        "C-1625",
+        "C-1655"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1188,10 +1188,10 @@
       "description": "Agency the host says is guarding information or whose staff are related to Chaffetz.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13898",
-        "C-13903",
-        "C-13914",
-        "C-13932"
+        "C-1651",
+        "C-1656",
+        "C-1682",
+        "C-1706"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1208,8 +1208,8 @@
       "description": "Location of the August retreat Hammer's statement addresses.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13915",
-        "C-13916"
+        "C-1684",
+        "C-1685"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1226,7 +1226,7 @@
       "description": "Existing topic reused for camera-removal claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13891"
+        "C-1643"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1243,12 +1243,12 @@
       "description": "Place at the center of the host's discussion of the peace deal.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13919",
-        "C-13920",
-        "C-13921",
-        "C-13922",
-        "C-13923",
-        "C-13924"
+        "C-1690",
+        "C-1691",
+        "C-1692",
+        "C-1694",
+        "C-1695",
+        "C-1697"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1265,12 +1265,12 @@
       "description": "Valve maker the host investigates.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13894",
-        "C-13907",
-        "C-13908",
-        "C-13909",
-        "C-13910",
-        "C-13911"
+        "C-1646",
+        "C-1662",
+        "C-1663",
+        "C-1666",
+        "C-1668",
+        "C-1670"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1287,7 +1287,7 @@
       "description": "Existing topic reused for the multiple-shot witnesses.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13877"
+        "C-1619"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1304,8 +1304,8 @@
       "description": "Existing topic reused for Hammer's statement.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13915",
-        "C-13916"
+        "C-1684",
+        "C-1685"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1322,7 +1322,7 @@
       "description": "Existing topic reused for the pastors remark.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13929"
+        "C-1703"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1339,7 +1339,7 @@
       "description": "Existing topic reused for the Catholicism remark.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13928"
+        "C-1702"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1356,8 +1356,8 @@
       "description": "Existing topic reused for the call-timing and purpose claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13917",
-        "C-13918"
+        "C-1686",
+        "C-1689"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1374,7 +1374,7 @@
       "description": "Existing topic reused for the decoy-rifle claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13889"
+        "C-1641"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1391,8 +1391,8 @@
       "description": "Existing topic reused for the left-side blind spot.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13893",
-        "C-13905"
+        "C-1645",
+        "C-1660"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1409,7 +1409,7 @@
       "description": "Existing topic reused for the camera-removal claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13892"
+        "C-1644"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1426,11 +1426,11 @@
       "description": "Existing topic reused for the witness-selection claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13877",
-        "C-13894",
-        "C-13902",
-        "C-13903",
-        "C-13904"
+        "C-1619",
+        "C-1646",
+        "C-1655",
+        "C-1656",
+        "C-1657"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1447,7 +1447,7 @@
       "description": "Existing topic reused for the Catholicism remark.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13928"
+        "C-1702"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1464,7 +1464,7 @@
       "description": "Existing topic reused for the Gaza destruction claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13920"
+        "C-1691"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1481,10 +1481,10 @@
       "description": "Existing topic reused for the rear footage claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13891",
-        "C-13892",
-        "C-13899",
-        "C-13900"
+        "C-1643",
+        "C-1644",
+        "C-1652",
+        "C-1653"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1501,7 +1501,7 @@
       "description": "Organization named in the peace deal discussion.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13919"
+        "C-1690"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1518,8 +1518,8 @@
       "description": "The reported first phase of an Israel and Hamas agreement with troop withdrawal and hostage release, and the Trump announcement and negotiators the host criticizes.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13919",
-        "C-13921"
+        "C-1690",
+        "C-1692"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1536,7 +1536,7 @@
       "description": "The host's allegation that military-run bot farms operate on X and other platforms.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13927"
+        "C-1701"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1553,8 +1553,8 @@
       "description": "The host's report that a person was said to have been told not to speak to the media and that a TPUSA text told people not to speak to the media.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13879",
-        "C-13880"
+        "C-1623",
+        "C-1624"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1566,8 +1566,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-1425",
-      "ref": "C-1425",
+      "@id": "C-1612",
+      "ref": "C-1612",
       "label": "Front Shot, No Exit",
       "claim": "The host says she is telling viewers 100% that Charlie Kirk was shot from the front and the bullet did not exit, and that she has fact-checked this from multiple sources.",
       "anchored_artifacts": [
@@ -1586,8 +1586,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1426",
-      "ref": "C-1426",
+      "@id": "C-1615",
+      "ref": "C-1615",
       "label": "Host Says Bullet Fragment Was Recovered From Charlie's Neck Near Shoulder Blade",
       "claim": "The host says that, as she has fact-checked with multiple sources, a bullet fragment was recovered from Charlie's neck, in line with the shoulder blade near the spine.",
       "anchored_artifacts": [
@@ -1606,8 +1606,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1427",
-      "ref": "C-1427",
+      "@id": "C-1617",
+      "ref": "C-1617",
       "label": "Host Says No .30-06 Projectile Appears on Charlie Kirk's Death Certificate",
       "claim": "The host says Charlie Kirk's death certificate does not reflect a recovered .30-06 bullet, indicating that caliber was not recovered from his body.",
       "anchored_artifacts": [
@@ -1626,8 +1626,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1428",
-      "ref": "C-1428",
+      "@id": "C-1610",
+      "ref": "C-1610",
       "label": "Kolvet Tweet Substance",
       "claim": "The host reads a long tweet by Andrew Kolvet in which he says he spoke with the surgeon who worked on Charlie, and describes the bullet as having been stopped by Charlie's bone density.",
       "anchored_artifacts": [
@@ -1646,8 +1646,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1429",
-      "ref": "C-1429",
+      "@id": "C-1611",
+      "ref": "C-1611",
       "label": "Surgeon Quoted on Bullet Stopped",
       "claim": "Per Andrew Kolvet's tweet the host reads, the surgeon stated the bullet should have exited, that people behind Charlie could have been killed, and characterized the outcome as \"an absolute miracle.\"",
       "anchored_artifacts": [
@@ -1665,8 +1665,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1430",
-      "ref": "C-1430",
+      "@id": "C-1620",
+      "ref": "C-1620",
       "label": "Viral Clip Witness Account",
       "claim": "A witness in the viral clip stated he was in the third row, heard a shot ring out, looked left and right, and saw Charlie slump with blood coming from the left side of his neck.",
       "anchored_artifacts": [
@@ -1681,8 +1681,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1431",
-      "ref": "C-1431",
+      "@id": "C-1626",
+      "ref": "C-1626",
       "label": "Pusher Not TPUSA or UVU Affiliated",
       "claim": "The host says she determined the man who physically pushed/shoved the witness in the viral clip was not a Turning Point USA employee, UVU student, or TPUSA student, but was brought in as a volunteer.",
       "anchored_artifacts": [
@@ -1701,8 +1701,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1432",
-      "ref": "C-1432",
+      "@id": "C-1628",
+      "ref": "C-1628",
       "label": "Cooper Brown Leadership Institute Affiliation",
       "claim": "Cooper Brown stated on Fox News that he works for the Leadership Institute, which partners with TPUSA, Young Americans for Liberty, and Students for Life on college campuses.",
       "anchored_artifacts": [
@@ -1721,8 +1721,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1433",
-      "ref": "C-1433",
+      "@id": "C-1629",
+      "ref": "C-1629",
       "label": "Cooper Brown Fox News Night-Of Interview",
       "claim": "The host says Cooper Brown appeared on Jesse Watters' Fox News program the night of the shooting, and plays a clip of that appearance.",
       "anchored_artifacts": [
@@ -1740,8 +1740,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1434",
-      "ref": "C-1434",
+      "@id": "C-1630",
+      "ref": "C-1630",
       "label": "Cooper Brown Fox News Next-Day Interview",
       "claim": "The host says Cooper Brown appeared on Fox News again the day after the shooting, and plays a clip of that appearance.",
       "anchored_artifacts": [
@@ -1759,8 +1759,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1435",
-      "ref": "C-1435",
+      "@id": "C-1631",
+      "ref": "C-1631",
       "label": "Cooper Brown Microphone Role",
       "claim": "Cooper Brown stated his event responsibility was managing the microphone – raising and lowering it for student questioners.",
       "anchored_artifacts": [
@@ -1778,8 +1778,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1436",
-      "ref": "C-1436",
+      "@id": "C-1633",
+      "ref": "C-1633",
       "label": "Cooper Brown Resume – Southern New Hampshire University",
       "claim": "The host says Cooper Brown's resume, on the website where he says he works with the institute, lists a very small college in New Hampshire, and she later asks anyone who attended Southern New Hampshire University with him and majored with him in politics to contact her.",
       "anchored_artifacts": [
@@ -1797,8 +1797,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1437",
-      "ref": "C-1437",
+      "@id": "C-1634",
+      "ref": "C-1634",
       "label": "Same-Name SNHU Graduate Discrepancy",
       "claim": "The host says that at the small New Hampshire college she found someone with Cooper Brown's name, but it was a girl who graduated in the year his resume gives; separately, the Phoenix-based number she was given links to somebody else, aged 32, with the same last name, and she says she does not know who he is.",
       "anchored_artifacts": [
@@ -1816,8 +1816,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1438",
-      "ref": "C-1438",
+      "@id": "C-1649",
+      "ref": "C-1649",
       "label": "Jason Chaffetz Eyewitness – Close, Ahead",
       "claim": "Jason Chaffetz stated on Fox News that, \"if I had to guess,\" the shot looked to him like it was \"in close proximity straight ahead.\"",
       "anchored_artifacts": [
@@ -1836,8 +1836,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1439",
-      "ref": "C-1439",
+      "@id": "C-1658",
+      "ref": "C-1658",
       "label": "Two-Shot Witness Account – Lyman Footage",
       "claim": "The host says two women seen in Phil Lyman's footage outside the building said they heard two shots, and plays a clip from that footage.",
       "anchored_artifacts": [
@@ -1855,8 +1855,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1440",
-      "ref": "C-1440",
+      "@id": "C-1638",
+      "ref": "C-1638",
       "label": "Host Says Dr. Deirdre Amaro Was Announced as New Utah State Medical Examiner in May 2024",
       "claim": "The host says she received an emailed tip urging her to look into Dr. Deirdre Amaro, who she says was announced as the new Utah State Medical Examiner in May 2024 and came from Missouri (and, she thinks, also worked in California).",
       "anchored_artifacts": [],
@@ -1872,8 +1872,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1441",
-      "ref": "C-1441",
+      "@id": "C-1664",
+      "ref": "C-1664",
       "label": "Israeli Individual Listed as Caldera Founder",
       "claim": "The host says someone emailed them a link, which she says was real, listing an Israeli individual as the founder of Caldera Engineering, though she says they have not been able to corroborate it and the listing may be an internet scraping error.",
       "anchored_artifacts": [],
@@ -1886,8 +1886,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1442",
-      "ref": "C-1442",
+      "@id": "C-1667",
+      "ref": "C-1667",
       "label": "Host Says Caldera Engineering Was Established in 1997",
       "claim": "The host says Caldera Engineering was established in 1997.",
       "anchored_artifacts": [],
@@ -1900,8 +1900,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1443",
-      "ref": "C-1443",
+      "@id": "C-1665",
+      "ref": "C-1665",
       "label": "Host Says Caldera Engineering Employee Has Professional Acting Background",
       "claim": "The host says that, per a tip she received, a person employed at Caldera Engineering has a professional acting background (theater school, plays), with no engineering background before the resume listing.",
       "anchored_artifacts": [],
@@ -1914,8 +1914,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1444",
-      "ref": "C-1444",
+      "@id": "C-1669",
+      "ref": "C-1669",
       "label": "Caldera Early Trademark Lawyer – Tyler Bowyer Connection",
       "claim": "The host says the lawyer Caldera Engineering used for trademark purposes in Arizona in its early years, per early documents she reviewed, is a lawyer Tyler Bowyer of Turning Point USA introduced her to and whom she has worked with.",
       "anchored_artifacts": [],
@@ -1931,8 +1931,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1445",
-      "ref": "C-1445",
+      "@id": "C-1671",
+      "ref": "C-1671",
       "label": "Host Says Plane N1098L Was a Military Aircraft",
       "claim": "The host says a plane with tail number N1098L, which she says people have recognized as military and which had been used in the military, flew over Utah around the time of the shooting.",
       "anchored_artifacts": [],
@@ -1945,8 +1945,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1446",
-      "ref": "C-1446",
+      "@id": "C-1672",
+      "ref": "C-1672",
       "label": "Host Says Plane N1098L Was Owned/Contracted by Las Vegas Aviation LLC",
       "claim": "The host says Plane N1098L was owned by, or contracted through, Las Vegas Aviation LLC.",
       "anchored_artifacts": [],
@@ -1960,8 +1960,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1447",
-      "ref": "C-1447",
+      "@id": "C-1673",
+      "ref": "C-1673",
       "label": "Host Says Plane N1098L Flew From Texas to Utah Around the Time of the Shooting",
       "claim": "The host says Plane N1098L departed Texas and routed to Utah around the time of the shooting.",
       "anchored_artifacts": [],
@@ -1974,8 +1974,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1448",
-      "ref": "C-1448",
+      "@id": "C-1675",
+      "ref": "C-1675",
       "label": "Plane 888 – Maxfield Affiliation",
       "claim": "The host says a second plane, which she remembers as having '888' in its identification, is the plane of Derek Maxfield and his wife Shelaine Maxfield, who she says sold a beauty company.",
       "anchored_artifacts": [],
@@ -1991,8 +1991,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1449",
-      "ref": "C-1449",
+      "@id": "C-1676",
+      "ref": "C-1676",
       "label": "Host Says Plane 888's Intended Destination Was Page, Arizona",
       "claim": "The host says Plane 888's intended destination was Page, Arizona.",
       "anchored_artifacts": [],
@@ -2005,8 +2005,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1450",
-      "ref": "C-1450",
+      "@id": "C-1677",
+      "ref": "C-1677",
       "label": "Host Says Plane 888's ADSB Transponder Appeared to Turn Off",
       "claim": "The host says the ADSB transponder on plane 888 appeared to turn off during the flight.",
       "anchored_artifacts": [],
@@ -2019,8 +2019,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1451",
-      "ref": "C-1451",
+      "@id": "C-1678",
+      "ref": "C-1678",
       "label": "Kash Patel – Plane Never Stopped Transponding",
       "claim": "The host says Kash Patel told them plane 888 never stopped transponding.",
       "anchored_artifacts": [],
@@ -2036,8 +2036,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1452",
-      "ref": "C-1452",
+      "@id": "C-1679",
+      "ref": "C-1679",
       "label": "Derek Maxfield – ATC Approval to Stop Transponding",
       "claim": "The host says Derek Maxfield stated on Instagram that the air traffic control center had agreed they could stop transponding.",
       "anchored_artifacts": [],
@@ -2053,8 +2053,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1453",
-      "ref": "C-1453",
+      "@id": "C-1681",
+      "ref": "C-1681",
       "label": "Host Says Plane 888 Changed Its FBO Destination at the Last Minute",
       "claim": "The host says Plane 888 changed its FBO destination at the last minute, from Millionaire to Signature.",
       "anchored_artifacts": [],
@@ -2068,8 +2068,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1454",
-      "ref": "C-1454",
+      "@id": "C-1683",
+      "ref": "C-1683",
       "label": "Host Says Signature FBO Person Gave Contradicting Statements",
       "claim": "The host says that a person at the Signature FBO initially confirmed that the plane had made multiple trips in recent days, then reversed to state no plane had ever landed there.",
       "anchored_artifacts": [],
@@ -2083,8 +2083,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1455",
-      "ref": "C-1455",
+      "@id": "C-1687",
+      "ref": "C-1687",
       "label": "Host Says Josh Hammer Released Text Messages",
       "claim": "The host says Josh Hammer publicly released text messages between himself and Charlie Kirk in response to the prior episode, and reads them.",
       "anchored_artifacts": [
@@ -2103,8 +2103,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1456",
-      "ref": "C-1456",
+      "@id": "C-1688",
+      "ref": "C-1688",
       "label": "Text Message Content – Standard Exchange",
       "claim": "The released texts include a \"thank you for your help guys\" message (attributed to Charlie Kirk) and a reply the host assumes is Josh Hammer's asking what Charlie's \"first stop tomorrow\" was.",
       "anchored_artifacts": [
@@ -2123,8 +2123,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1457",
-      "ref": "C-1457",
+      "@id": "C-1693",
+      "ref": "C-1693",
       "label": "Trump Truth Social – Israel/Hamas Phase One Announcement",
       "claim": "Donald Trump posted on Truth Social announcing that Israel and Hamas had signed off on the first phase of a peace plan, including hostage release and partial troop withdrawal.",
       "anchored_artifacts": [
@@ -2140,8 +2140,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1458",
-      "ref": "C-1458",
+      "@id": "C-1696",
+      "ref": "C-1696",
       "label": "Jared Kushner Harvard Speech – Gaza \"Waterfront Property\"",
       "claim": "At a Harvard appearance on February 15, 2024 (per the host), Jared Kushner said Gaza's \"waterfront property\" could be very valuable and that \"from Israel's perspective, I would do my best to move the people out and then clean it up.\"",
       "anchored_artifacts": [
@@ -2157,8 +2157,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1459",
-      "ref": "C-1459",
+      "@id": "C-1699",
+      "ref": "C-1699",
       "label": "Host Says Matt Walsh Found Kirk's Text \"Too on the Nose\"",
       "claim": "The host says Matt Walsh thought Charlie Kirk's text messages were fake because the sentence about leaving the pro-Israel cause felt \"too on the nose\"; paraphrasing him, she says you must have done a lot to make Charlie write that statement.",
       "anchored_artifacts": [
@@ -2177,8 +2177,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1460",
-      "ref": "C-1460",
+      "@id": "C-1622",
+      "ref": "C-1622",
       "label": "Host Says Kolvet Was Not in Viral Push Video",
       "claim": "The host says Andrew Kolvet was not the man in the viral push video, and that she spoke to him and he flew into Utah after the shooting and was not on the ground.",
       "anchored_artifacts": [
@@ -2194,8 +2194,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3645",
-      "ref": "C-3645",
+      "@id": "C-1659",
+      "ref": "C-1659",
       "label": "Host identifies show community as Decentralized Intelligence Agency",
       "claim": "The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.",
       "anchored_artifacts": [],
@@ -2211,8 +2211,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13871",
-      "ref": "C-13871",
+      "@id": "C-1608",
+      "ref": "C-1608",
       "label": "Host Says This Is Her Last Show Before a Break",
       "claim": "The host says this episode is her last show before she takes a break from the program.",
       "anchored_artifacts": [],
@@ -2229,8 +2229,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13872",
-      "ref": "C-13872",
+      "@id": "C-1609",
+      "ref": "C-1609",
       "label": "Host Says She Verified the Neck Injury Information but Will Not Name Her Sources",
       "claim": "The host says she has positively verified something about Charlie Kirk's neck injury, but that she cannot say who gave her the information or which parties were involved, so as not to get anyone in trouble.",
       "anchored_artifacts": [],
@@ -2250,8 +2250,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13873",
-      "ref": "C-13873",
+      "@id": "C-1613",
+      "ref": "C-1613",
       "label": "Kolvet Tweet Says Coroner Found the Bullet Just Beneath the Skin",
       "claim": "As read aloud by the host, the Andrew Kolvet tweet says the bullet likely would have killed people standing behind Charlie and that the coroner found it just beneath the skin.",
       "anchored_artifacts": [
@@ -2267,7 +2267,7 @@
       "investigative_direction": "Locate the original Kolvet tweet and compare it with the autopsy findings; ask the Utah medical examiner's office where the projectile was recovered.",
       "transcript_snippet": "It likely would have killed those standing behind him, too. In the end the coroner did find the bullet just beneath the skin.",
       "supports_claim_refs": [
-        "C-10725"
+        "C-595"
       ],
       "mentions_person_refs": [
         "N-14",
@@ -2276,8 +2276,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13874",
-      "ref": "C-13874",
+      "@id": "C-1614",
+      "ref": "C-1614",
       "label": "Host Says She Has Sat on the Bullet Finding for a Little Over a Week",
       "claim": "The host says she fact-checked the front-shot and no-exit finding with multiple sources and had been sitting on it for a little over a week before airing it.",
       "anchored_artifacts": [],
@@ -2296,8 +2296,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13875",
-      "ref": "C-13875",
+      "@id": "C-1616",
+      "ref": "C-1616",
       "label": "Host Says Medical Examiners Tell Her Known Guns and Bullets Appear on the Death Certificate",
       "claim": "The host says that from conversations with quite a few medical examiners she understands that when the gun and the bullet are known, they are reflected on the death certificate.",
       "anchored_artifacts": [],
@@ -2316,8 +2316,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13876",
-      "ref": "C-13876",
+      "@id": "C-1618",
+      "ref": "C-1618",
       "label": "Host Says Charlie Was Shot With a Completely Different, Smaller Gun",
       "claim": "The host says that because the neck did not blow apart and the bullet did not exit, Charlie was shot with a completely different kind of gun from the rifle the authorities named, which would have gone through about seven necks.",
       "anchored_artifacts": [],
@@ -2338,8 +2338,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13877",
-      "ref": "C-13877",
+      "@id": "C-1619",
+      "ref": "C-1619",
       "label": "Host Says On-the-Ground Witnesses Reported Multiple Shots but Got No Mainstream Interviews",
       "claim": "The host says witnesses on the ground insisted they heard multiple shots, but those people were not the ones given mainstream media interviews.",
       "anchored_artifacts": [],
@@ -2360,8 +2360,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13878",
-      "ref": "C-13878",
+      "@id": "C-1621",
+      "ref": "C-1621",
       "label": "Host Argues the Viral Witness Looked Left and Right After the Shot, Not Back",
       "claim": "The host says the witness in the viral clip described looking left and then right after the shot, and argues that if a high-powered rifle had fired from 250 yards behind he would probably have looked back first.",
       "anchored_artifacts": [
@@ -2382,8 +2382,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13879",
-      "ref": "C-13879",
+      "@id": "C-1623",
+      "ref": "C-1623",
       "label": "Host Says a Friend of the Man She Tried to Identify Said He Was Told Not to Speak to Media",
       "claim": "The host says that after she posted a picture asking to identify a person from the viral clip, his friend left a nasty comment and then messaged her privately that, paraphrasing, he does not want to speak to media because he has been instructed not to, having got the Turning Point chapter into trouble before.",
       "anchored_artifacts": [
@@ -2405,8 +2405,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13880",
-      "ref": "C-13880",
+      "@id": "C-1624",
+      "ref": "C-1624",
       "label": "Host Says the Excuse Given Was a TPUSA Text Telling People Not to Speak to Media",
       "claim": "The host says the excuse offered for why the man was shut down was that Turning Point USA had sent a text saying nobody should speak to the media.",
       "anchored_artifacts": [
@@ -2428,8 +2428,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13881",
-      "ref": "C-13881",
+      "@id": "C-1625",
+      "ref": "C-1625",
       "label": "Host Says Campus Stops Are Normally Run by the Host School's Chapter",
       "claim": "The host says that in her experience of many campus stops, it is typically the chapter of the host school that does everything, which is why she found the volunteer's role odd.",
       "anchored_artifacts": [],
@@ -2449,8 +2449,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13882",
-      "ref": "C-13882",
+      "@id": "C-1627",
+      "ref": "C-1627",
       "label": "Host Says the Man Who Shoved the Witness Is Cooper, Who Held the Microphone",
       "claim": "The host says the man who did the shoving is a young man named Cooper, who went on Fox News that night to give eyewitness testimony, and who she says was holding the microphone when the shot rang out.",
       "anchored_artifacts": [
@@ -2473,8 +2473,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13883",
-      "ref": "C-13883",
+      "@id": "C-1632",
+      "ref": "C-1632",
       "label": "Host Says an Emailer Claiming to Be Cooper's Cousin Lives in Phoenix",
       "claim": "The host says one emailer claimed to be Cooper Brown's cousin and supplied his number, and that this cousin lives in Phoenix, Arizona.",
       "anchored_artifacts": [],
@@ -2494,8 +2494,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13884",
-      "ref": "C-13884",
+      "@id": "C-1635",
+      "ref": "C-1635",
       "label": "Host Says the Number She Was Given Was Phoenix-Based and Tied to a 32-Year-Old With the Same Last Name",
       "claim": "The host says the number given to her was Phoenix-based and was linked to another person, aged 32, with the same last name, which she says she cannot explain.",
       "anchored_artifacts": [],
@@ -2506,7 +2506,7 @@
         "relevance:context"
       ],
       "claim_timestamp": "00:16:16",
-      "investigative_direction": "Reconcile the number's carrier and listing records with Cooper Brown's stated Utah and New Hampshire history; the existing C-1437 may blend this with the same-name graduate.",
+      "investigative_direction": "Reconcile the number's carrier and listing records with Cooper Brown's stated Utah and New Hampshire history; the existing C-1634 may blend this with the same-name graduate.",
       "transcript_snippet": "a Phoenix-based number. So, I'm going, \"Who is this person? And why is it linking that number to somebody else who's 32 years old and has that same last name?\"",
       "mentions_person_refs": [
         "N-174",
@@ -2515,8 +2515,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13885",
-      "ref": "C-13885",
+      "@id": "C-1636",
+      "ref": "C-1636",
       "label": "Host Says Holding the Microphone Is Normally an Honor Given to Hard-Working TPUSA Students",
       "claim": "The host says holding the microphone at Utah events is supposed to be an honor, that TPUSA students work hard on the events, and that it is odd they gave the microphone to a volunteer.",
       "anchored_artifacts": [
@@ -2539,8 +2539,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13886",
-      "ref": "C-13886",
+      "@id": "C-1637",
+      "ref": "C-1637",
       "label": "Host Says the Rifle Shot Was Real but Did Not Hit Charlie",
       "claim": "The host says the sound people heard was a recognizable rifle shot, but that Charlie was not hit with that rifle, and that no medical examiner's report or death certificate says otherwise.",
       "anchored_artifacts": [],
@@ -2561,8 +2561,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13887",
-      "ref": "C-13887",
+      "@id": "C-1639",
+      "ref": "C-1639",
       "label": "Host Says a Tip Email Urged Her to Look Further Into the Medical Examiner",
       "claim": "The host says she received an emailed tip insisting that the medical examiner is a person to look into further, and that the examiner is Dr. Deirdre Amaro.",
       "anchored_artifacts": [],
@@ -2582,8 +2582,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13888",
-      "ref": "C-13888",
+      "@id": "C-1640",
+      "ref": "C-1640",
       "label": "Host Asks Viewers With Knowledge of the Medical Examiner to Email Tips",
       "claim": "The host asks viewers who know the Utah medical examiner personally or have a story about her to send it to the tip email address.",
       "anchored_artifacts": [
@@ -2605,8 +2605,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13889",
-      "ref": "C-13889",
+      "@id": "C-1641",
+      "ref": "C-1641",
       "label": "Host Says It Is Likely a Rifle Was Fired to Muffle the Sound of a Smaller Gun",
       "claim": "The host says it is likely that a rifle was fired to muffle the sound of a smaller gun, drawing on what she says are fed-style decoy operations, including decoy sounds.",
       "anchored_artifacts": [],
@@ -2626,8 +2626,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13890",
-      "ref": "C-13890",
+      "@id": "C-1642",
+      "ref": "C-1642",
       "label": "Host Says Her Well-Informed Opinion Is the Shooter Was Much Closer, Likely in the Audience",
       "claim": "The host says it is now her well-informed opinion that we are looking for a person who was a lot closer to Charlie and likely in the audience.",
       "anchored_artifacts": [],
@@ -2647,8 +2647,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13891",
-      "ref": "C-13891",
+      "@id": "C-1643",
+      "ref": "C-1643",
       "label": "Host Says of Many Cameras the One Behind Charlie Was Grabbed First",
       "claim": "The host says that of the many cameras at the event, the one behind Charlie was the one grabbed first.",
       "anchored_artifacts": [],
@@ -2669,8 +2669,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13892",
-      "ref": "C-13892",
+      "@id": "C-1644",
+      "ref": "C-1644",
       "label": "Host Says Tyler Bowyer Lied About Law Enforcement Instructing the Camera Removal",
       "claim": "The host says Tyler Bowyer lied, and that the person who took the cameras down was not instructed to do so by law enforcement.",
       "anchored_artifacts": [],
@@ -2685,7 +2685,7 @@
       "investigative_direction": "Obtain statements from the investigating agency about whether anyone instructed removal of the camera or SD card, and compare with Bowyer's account.",
       "transcript_snippet": "I told you, Tyler Bowyer lied. He just lied. The person who took the cameras down was absolutely not instructed to do so by law enforcement.",
       "contradicts_claim_refs": [
-        "C-1366"
+        "C-1363"
       ],
       "mentions_person_refs": [
         "N-11",
@@ -2694,8 +2694,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13893",
-      "ref": "C-13893",
+      "@id": "C-1645",
+      "ref": "C-1645",
       "label": "Host Says There Is a Blind Spot in Footage to Charlie's Left",
       "claim": "The host says she feels there is a remarkable blind spot on the left of Charlie in the footage available, and that she wants footage showing what Charlie would have seen looking slightly to his left.",
       "anchored_artifacts": [],
@@ -2709,7 +2709,7 @@
       "investigative_direction": "Collect all video from the audience's left side and map camera fields of view across the tent area to confirm the gap.",
       "transcript_snippet": "I actually feel that there is this remarkable blind spot on the left of Charlie.",
       "supports_claim_refs": [
-        "C-1422"
+        "C-1566"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2718,8 +2718,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13894",
-      "ref": "C-13894",
+      "@id": "C-1646",
+      "ref": "C-1646",
       "label": "Host Says Many Interviewed Witnesses Were Caldera Engineering-Connected People",
       "claim": "The host says that the cast of people who made it to mainstream media to talk about what they heard were connected to Caldera Engineering.",
       "anchored_artifacts": [],
@@ -2740,8 +2740,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13895",
-      "ref": "C-13895",
+      "@id": "C-1647",
+      "ref": "C-1647",
       "label": "Host Says Jason Chaffetz Was in Communication With Charlie Before the Event",
       "claim": "The host says Jason Chaffetz, a former politician and Fox News contributor from Utah, attended the event and was apparently in communication with Charlie ahead of it.",
       "anchored_artifacts": [],
@@ -2762,8 +2762,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13896",
-      "ref": "C-13896",
+      "@id": "C-1648",
+      "ref": "C-1648",
       "label": "Host Says Chaffetz Rebutted the Idea the Shot Came From Far Away",
       "claim": "The host says Chaffetz, appearing on a couple of Fox shows, rebutted the idea that the shot was fired from far away.",
       "anchored_artifacts": [
@@ -2781,7 +2781,7 @@
       "investigative_direction": "Pull the Fox News segments in which Chaffetz addresses shot distance and compare wording.",
       "transcript_snippet": "he was rebutting, cuz he was on a couple of shows, rebutting the idea that the shot was from far away.",
       "supports_claim_refs": [
-        "C-1438"
+        "C-1649"
       ],
       "mentions_person_refs": [
         "N-175"
@@ -2789,8 +2789,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13897",
-      "ref": "C-13897",
+      "@id": "C-1650",
+      "ref": "C-1650",
       "label": "Host Says Chaffetz Does Not Believe the Shot Came From the Losee Building",
       "claim": "The host says that on Fox News, when others say the shot came from the Losee building, Chaffetz does not believe that.",
       "anchored_artifacts": [
@@ -2812,8 +2812,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13898",
-      "ref": "C-13898",
+      "@id": "C-1651",
+      "ref": "C-1651",
       "label": "Host Says Chaffetz's Parents Are in Government and in the FBI",
       "claim": "The host says Chaffetz has been honest about his background and that his parents are in government and, in her words, literally in the FBI.",
       "anchored_artifacts": [],
@@ -2832,8 +2832,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13899",
-      "ref": "C-13899",
+      "@id": "C-1652",
+      "ref": "C-1652",
       "label": "Host Theorizes the Plan Was to Withhold the Back Footage and Then Claim a .30-06 Was Recovered",
       "claim": "The host says she thinks the plan was never to let footage from behind Charlie see daylight, so that they could say they instantly recovered a .30-06 bullet.",
       "anchored_artifacts": [
@@ -2856,8 +2856,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13900",
-      "ref": "C-13900",
+      "@id": "C-1653",
+      "ref": "C-1653",
       "label": "Host Says the Back Footage Shows No Blood on Charlie's White Shirt Until He Falls Out of Frame",
       "claim": "The host says that when she watched the footage from behind, there was not a single dot of blood on Charlie's white shirt until he falls out of frame and onto the ground, and the bullet did not pierce through.",
       "anchored_artifacts": [
@@ -2874,7 +2874,7 @@
       "investigative_direction": "Obtain the unedited rear-camera footage and have it reviewed frame by frame by a forensic video analyst.",
       "transcript_snippet": "not only did the bullet not pierce through, but there wasn't a single dot of blood on Charlie's bleach white shirt until he falls out of frame and onto the ground.",
       "supports_claim_refs": [
-        "C-1209"
+        "C-516"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2883,8 +2883,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13901",
-      "ref": "C-13901",
+      "@id": "C-1654",
+      "ref": "C-1654",
       "label": "Host Says She Thinks Two Armed People Should Be Sought, One in the Audience and One With a Rifle",
       "claim": "The host says she thinks it is likely that what we should be looking for are two people who had weapons that day, one in the audience and one elsewhere with a rifle.",
       "anchored_artifacts": [],
@@ -2903,8 +2903,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13902",
-      "ref": "C-13902",
+      "@id": "C-1655",
+      "ref": "C-1655",
       "label": "Host Says No UVU Students Were Put on Mainstream Media",
       "claim": "The host says that among the many adults interviewed, no UVU students appeared in the mainstream media to say what they heard, and that Cooper is not a UVU or TPUSA student.",
       "anchored_artifacts": [],
@@ -2925,8 +2925,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13903",
-      "ref": "C-13903",
+      "@id": "C-1656",
+      "ref": "C-1656",
       "label": "Host Relays Nick's Account That Feds Were Trying to Implant Memories",
       "claim": "The host says that Nick, a source on the ground, told her one of the first things he felt was that feds were coming around and trying to implant memories in the students.",
       "anchored_artifacts": [],
@@ -2947,8 +2947,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13904",
-      "ref": "C-13904",
+      "@id": "C-1657",
+      "ref": "C-1657",
       "label": "Host Relays Nick's Account of Unfamiliar People Saying They Heard One Shot",
       "claim": "The host says Nick told her unfamiliar people were walking around saying they had heard one shot, which he felt was meant to make students believe that.",
       "anchored_artifacts": [],
@@ -2968,8 +2968,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13905",
-      "ref": "C-13905",
+      "@id": "C-1660",
+      "ref": "C-1660",
       "label": "Host Says the Shooter Was in the Audience and to the Left",
       "claim": "The host says we probably now need to be looking for a shooter who was in the audience and to the left of Charlie.",
       "anchored_artifacts": [],
@@ -2990,8 +2990,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13906",
-      "ref": "C-13906",
+      "@id": "C-1661",
+      "ref": "C-1661",
       "label": "Host Says the Bullet Entered the Front Left Lower Neck, Exploded the Artery and Did Not Exit",
       "claim": "The host says the bullet went straight into the front left lower side of Charlie's neck, essentially exploded his artery and did not exit the back, but that a bullet fragment was found there.",
       "anchored_artifacts": [],
@@ -3011,8 +3011,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13907",
-      "ref": "C-13907",
+      "@id": "C-1662",
+      "ref": "C-1662",
       "label": "Host Says the Steele Family Is Big With Caldera Engineering",
       "claim": "The host says Erwin Steele and others of the Steele family were involved in the story and that it turns out the Steeles are big with Caldera Engineering.",
       "anchored_artifacts": [],
@@ -3027,7 +3027,7 @@
       "investigative_direction": "Pull Utah business filings for Caldera Engineering and check officers, owners and employees against the Steele family.",
       "transcript_snippet": "Erwin Steele. This Steel. So many Steels were involved. It turns out the Steels are big with Caldera Engineering.",
       "supports_claim_refs": [
-        "C-11934"
+        "C-415"
       ],
       "mentions_person_refs": [
         "N-73",
@@ -3036,8 +3036,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13908",
-      "ref": "C-13908",
+      "@id": "C-1663",
+      "ref": "C-1663",
       "label": "Host Says Longtime Valve Industry People Nearby Had Never Heard of Caldera Engineering",
       "claim": "The host says people who work with valves, with 30 years in the industry and who live nearby, told her they had never heard of or dealt with Caldera Engineering or received its valves.",
       "anchored_artifacts": [],
@@ -3057,8 +3057,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13909",
-      "ref": "C-13909",
+      "@id": "C-1666",
+      "ref": "C-1666",
       "label": "Host Says Caldera Engineering's Website Cited Projects in Israel",
       "claim": "The host says Caldera Engineering had said, according to its website, that it did projects in Israel, though she does not know which projects.",
       "anchored_artifacts": [],
@@ -3078,8 +3078,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13910",
-      "ref": "C-13910",
+      "@id": "C-1668",
+      "ref": "C-1668",
       "label": "Host Says Utah LLC Formation Documents From 1997 Cannot Be Obtained Online",
       "claim": "The host says that because Utah did not start digitizing LLC documents until the early 2000s, the base formation documents for Caldera Engineering, established in 1997, are not available online, though later changes and officers can be found.",
       "anchored_artifacts": [],
@@ -3099,8 +3099,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13911",
-      "ref": "C-13911",
+      "@id": "C-1670",
+      "ref": "C-1670",
       "label": "Host Asks for Tips on Caldera Engineering at candaceowens.com",
       "claim": "The host asks listeners who know about Caldera Engineering, including engineers who buy its valves, to send tips to the candaceowens.com tip address.",
       "anchored_artifacts": [
@@ -3122,8 +3122,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13912",
-      "ref": "C-13912",
+      "@id": "C-1674",
+      "ref": "C-1674",
       "label": "Host Says Plane N1098L Dipped Real Low Near Utah",
       "claim": "The host says the plane that left Texas went over to Utah right about the time Charlie was assassinated and that it dipped real low.",
       "anchored_artifacts": [],
@@ -3143,8 +3143,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13913",
-      "ref": "C-13913",
+      "@id": "C-1680",
+      "ref": "C-1680",
       "label": "Host Says Multiple Pilots and Airport Workers Confirmed the Second Plane Was Weird That Day",
       "claim": "The host says multiple pilots, airport workers and others invested in the story have reached out, and multiple people confirmed that the second plane was a little bit weird that day.",
       "anchored_artifacts": [],
@@ -3164,8 +3164,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13914",
-      "ref": "C-13914",
+      "@id": "C-1682",
+      "ref": "C-1682",
       "label": "Host Says Information About the Flight Is Being Guarded, Including by Feds at the FBO",
       "claim": "The host says that multiple people confirmed something unusual about the flight, that they are guarding information about it, and that she dislikes that feds are guarding FBO information.",
       "anchored_artifacts": [],
@@ -3186,8 +3186,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13915",
-      "ref": "C-13915",
+      "@id": "C-1684",
+      "ref": "C-1684",
       "label": "Host Says Josh Hammer's Statement Claimed He and Seth Dillon Did Not Press Charlie in the Hamptons",
       "claim": "The host says Josh Hammer issued a statement about the Hamptons retreat saying it was wonderful and that he and Seth Dillon did not press Charlie on anything.",
       "anchored_artifacts": [
@@ -3211,8 +3211,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13916",
-      "ref": "C-13916",
+      "@id": "C-1685",
+      "ref": "C-1685",
       "label": "Host Says Hammer Said He Came to the Hamptons to Bring Signed Copies of His Book",
       "claim": "The host says Hammer's statement said he came to the Hamptons because Charlie wanted him to bring signed copies of his book.",
       "anchored_artifacts": [
@@ -3235,8 +3235,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13917",
-      "ref": "C-13917",
+      "@id": "C-1686",
+      "ref": "C-1686",
       "label": "Host Says Hammer's Texts Show the Call Fit Her Timeline",
       "claim": "The host says Hammer's released text messages indicate that the call took place at the same time her timeline predicted, an evening call before Hammer tweeted the public-execution post, within a three-hour window.",
       "anchored_artifacts": [
@@ -3258,8 +3258,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13918",
-      "ref": "C-13918",
+      "@id": "C-1689",
+      "ref": "C-1689",
       "label": "Host Recounts Hammer's Story That Charlie Wanted Debate Help",
       "claim": "The host says Hammer's whole story was that Charlie reached out to him because Charlie wanted help strengthening his debate, and she notes that the reply text, which she assumes is Hammer's, asks about Charlie's first stop the next day.",
       "anchored_artifacts": [
@@ -3283,8 +3283,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13919",
-      "ref": "C-13919",
+      "@id": "C-1690",
+      "ref": "C-1690",
       "label": "Host Describes the Phased Israel and Hamas Deal as Partial Troop Withdrawal and Hostage Release",
       "claim": "The host describes the reported peace agreement as phased, with Israel partially withdrawing its troops from Gaza and Hamas releasing the remaining hostages.",
       "anchored_artifacts": [
@@ -3307,8 +3307,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13920",
-      "ref": "C-13920",
+      "@id": "C-1691",
+      "ref": "C-1691",
       "label": "Host Says Hundreds of Thousands of Palestinians Are Missing and 85 Percent of Gaza Is Destroyed",
       "claim": "The host says hundreds of thousands of Palestinians are missing and that 85 percent of Gaza has been destroyed.",
       "anchored_artifacts": [],
@@ -3328,8 +3328,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13921",
-      "ref": "C-13921",
+      "@id": "C-1692",
+      "ref": "C-1692",
       "label": "Host Says Witkoff and Kushner Led the US Side With Qatar, Egypt and Turkey Mediating",
       "claim": "The host says Steve Witkoff and Jared Kushner arrived Wednesday morning to represent the US in the Israel and Hamas talks, with mediators from Qatar, Egypt and Turkey also participating.",
       "anchored_artifacts": [],
@@ -3351,8 +3351,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13922",
-      "ref": "C-13922",
+      "@id": "C-1694",
+      "ref": "C-1694",
       "label": "Host Says Netanyahu Was on Camera Before October 7 Saying They Need to Hit Hamas So Hard",
       "claim": "The host says Benjamin Netanyahu is on camera explicitly before October 7 saying they need to hit them so hard that they cannot come back.",
       "anchored_artifacts": [],
@@ -3372,8 +3372,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13923",
-      "ref": "C-13923",
+      "@id": "C-1695",
+      "ref": "C-1695",
       "label": "Host Says Kushner Will Financially Benefit From Whatever Is Built in Gaza",
       "claim": "The host says Jared Kushner will financially benefit from whatever is built in Gaza's place.",
       "anchored_artifacts": [
@@ -3395,8 +3395,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13924",
-      "ref": "C-13924",
+      "@id": "C-1697",
+      "ref": "C-1697",
       "label": "Host Says Trump Wants a Nobel for a Planned Ethnic Cleansing to Profit on the Land",
       "claim": "The host says Trump wants a Nobel Peace Prize for what she calls a planned ethnic cleansing so that they could profit on the land and turn it into a beach town.",
       "anchored_artifacts": [
@@ -3418,8 +3418,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13925",
-      "ref": "C-13925",
+      "@id": "C-1698",
+      "ref": "C-1698",
       "label": "Host Says Charlie's Released Message Said He Had No Choice but to Leave the Pro-Israel Cause",
       "claim": "The host says that in the Charlie Kirk text message that struck Matt Walsh as too on the nose, Charlie wrote that he has no choice but to leave the pro-Israel cause.",
       "anchored_artifacts": [],
@@ -3440,8 +3440,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13926",
-      "ref": "C-13926",
+      "@id": "C-1700",
+      "ref": "C-1700",
       "label": "Matt Walsh Says He Has Never Seen a Side Lose Support This Quickly",
       "claim": "In the clip the host plays, Matt Walsh says the pro-Israel side is losing the argument and that he has never seen any side of any argument lose this much support this quickly.",
       "anchored_artifacts": [
@@ -3462,8 +3462,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13927",
-      "ref": "C-13927",
+      "@id": "C-1701",
+      "ref": "C-1701",
       "label": "Host Says Military Bot Farms Operate on X and Other Platforms",
       "claim": "The host says there are military bot farms on X, so those arguing there are often not real people, and that there are fewer on Facebook and Instagram but bot farms there too.",
       "anchored_artifacts": [],
@@ -3482,8 +3482,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13928",
-      "ref": "C-13928",
+      "@id": "C-1702",
+      "ref": "C-1702",
       "label": "Host Says Charlie Was Very Interested in Catholicism and She Discussed It With Him",
       "claim": "The host says money has been put behind Judeo-Christian programs, which she would talk about with Charlie because he was very interested in Catholicism.",
       "anchored_artifacts": [],
@@ -3504,8 +3504,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13929",
-      "ref": "C-13929",
+      "@id": "C-1703",
+      "ref": "C-1703",
       "label": "Host Says Too Many Pastors Preach About Megyn Kelly and Tucker Carlson",
       "claim": "The host says too many pastors get up on a stage and preach about Megyn Kelly and Tucker Carlson, which she says leads to broader questions among evangelicals.",
       "anchored_artifacts": [],
@@ -3526,8 +3526,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13930",
-      "ref": "C-13930",
+      "@id": "C-1704",
+      "ref": "C-1704",
       "label": "Host Says She Can Tell Definitively That Charlie's Shot Did Not Come From Behind",
       "claim": "The host says that she can tell definitively that the shot that hit Charlie did not come from behind.",
       "anchored_artifacts": [],
@@ -3548,8 +3548,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13931",
-      "ref": "C-13931",
+      "@id": "C-1705",
+      "ref": "C-1705",
       "label": "Host Says She Is Not Saying No Shot Was Fired From Behind and Thinks There Were Two Shooters",
       "claim": "The host says she is not saying a shot was not fired from behind, and that her theory is two shooters, with the entry wound on the front and a smaller gun.",
       "anchored_artifacts": [],
@@ -3568,8 +3568,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13932",
-      "ref": "C-13932",
+      "@id": "C-1706",
+      "ref": "C-1706",
       "label": "Host Says She Confirmed the Finding Through Multiple People and Did Not Trust the Feds",
       "claim": "The host says she went through great hoops, confirmed the finding with multiple people the right way and did not trust the feds.",
       "anchored_artifacts": [],
@@ -3589,8 +3589,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13933",
-      "ref": "C-13933",
+      "@id": "C-1707",
+      "ref": "C-1707",
       "label": "Host Asks for Tips at tips and moretips Email Addresses",
       "claim": "The host asks viewers to send tips about the topics discussed to a tips address and a moretips address, and says she will be lurking and putting together more pieces.",
       "anchored_artifacts": [
@@ -3609,8 +3609,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13934",
-      "ref": "C-13934",
+      "@id": "C-1708",
+      "ref": "C-1708",
       "label": "Host Says She Expects More Explosive Revelations When She Returns",
       "claim": "The host says the investigation is ongoing and that when she returns she expects to have even more explosive revelations.",
       "anchored_artifacts": [],
@@ -3627,8 +3627,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13935",
-      "ref": "C-13935",
+      "@id": "C-1709",
+      "ref": "C-1709",
       "label": "Host Says People Around the World Are Joining the Decentralized Intelligence Agency and Giving Information",
       "claim": "The host says people around the world are joining her decentralized intelligence agency and giving information because they sense how evil and corrupt this is, and that she will protect them.",
       "anchored_artifacts": [

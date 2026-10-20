@@ -14,7 +14,7 @@
   - Hole-minted Nodes (reintro-ep068): N-10521
   - Tip-minted Nodes (reintro-ep068): N-10922, N-10956
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10d): C-10011–C-10058
+  - Claim Range: C-6082–C-6144
   - New Nodes Introduced: N-536, N-537, N-539, N-540, N-541, N-543, N-544, N-10478, N-10479, N-10481, N-10483, N-10484
   - Reused Nodes Appearing: N-10482, N-10477, N-3, N-9, N-11, N-50, N-199, N-366, N-497, N-534, N-10000, N-10197, N-10268, N-10397, N-10416, N-10435, N-10440, N-10441, N-10472, N-10473, N-10653, N-10900, N-10968, N-11099, N-11180, N-538, N-542, N-10480
   - (see registers)
@@ -71,7 +71,7 @@ Confidence: high
 ### Episode 68 Ledger Summary
 
 - **Artifact Families Introduced:** A-1727, A-1728, A-1729, A-1730, A-1731, A-1732, A-1733, A-1734, A-1735, A-1736, A-1737
-- **Claim Range:** C-2283 – C-2297
+- **Claim Range:** C-6103 – C-6138
 - **New People Nodes Introduced:** N-536, N-537, N-489, N-190, N-15, N-97, N-538, N-539, N-540, N-541, N-542, N-7, N-543, N-544
 - **New Investigation Target Nodes Introduced:** N-10477, N-10478, N-10479, N-10480, N-10481, N-10482, N-10483, N-10484
 - **Existing Nodes Reused:** None specified in transcript for this episode; references to recurring figures (Charlie Kirk, Erika Kirk, Candace Owens, etc.) handled through the global people ledger (N-1 series per protocol)
@@ -135,7 +135,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:23:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
-*Related: C-2283, N-489, N-10477*
+*Related: C-6103, N-489, N-10477*
 
 **A-1727.2** Erika Kirk Instagram post, 2025-09-07, showing her mother in vulnerable position with "10 days until September 16th" countdown
 Event Timestamp: 00:00:00–00:00:01
@@ -143,7 +143,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:24:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-2284, N-489, N-10479*
+*Related: C-6105, N-489, N-10479*
 
 ---
 
@@ -155,7 +155,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:25:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-2285, N-489, N-190, N-10478*
+*Related: C-6106, N-489, N-190, N-10478*
 
 ---
 
@@ -167,7 +167,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:05:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (verbatim read)
-*Related: C-2286, N-541, N-10480, N-10484*
+*Related: C-6084, N-541, N-10480, N-10484*
 
 ---
 
@@ -179,7 +179,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:10:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-2287, N-10481, N-10484*
+*Related: C-6090, N-10481, N-10484*
 
 **A-1730.2** NBC News article reporting a senior U.S. military officer's apology for damage to Babylon by U.S. Marines (helicopter pad on ruins; sandbags filled with archaeological fragments; helicopter vibration collapsing a roof)
 Event Timestamp: 00:00:00–00:00:01
@@ -187,7 +187,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:11:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-2288, N-10481*
+*Related: C-6092, N-10481*
 
 **A-1730.3** 2005 British Museum report on the use of Babylon as a military camp by multinational/coalition forces, April 2003 – December 2004, characterized as "tantamount to establishing a military camp around the Great Pyramid in Egypt or the Stonehenge in Britain"
 Event Timestamp: 00:00:00–00:00:01
@@ -195,7 +195,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:10:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-2289, N-10481*
+*Related: C-6091, N-10481*
 
 ---
 
@@ -207,7 +207,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:09:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-2290, N-536, N-10484*
+*Related: C-6086, N-536, N-10484*
 
 **A-1731.2** Headline(s) describing German geophysicists Jörg Fassbinder and Helmut Becker of the Bavarian State Conservation Office using magnetic mapping to discover ancient Iraq and Gilgamesh's tomb, May 2002 – early 2003
 Event Timestamp: 00:00:00–00:00:01
@@ -215,7 +215,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:07:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host claims to display headline; specific publication not identified)
-*Related: C-2291, N-536, N-537*
+*Related: C-6085, N-536, N-537*
 
 ---
 
@@ -227,7 +227,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:09:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-2292, N-538*
+*Related: C-6087, N-538*
 
 ---
 
@@ -239,7 +239,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:39:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip played on air)
-*Related: C-2293, N-97*
+*Related: C-6132, N-97*
 
 ---
 
@@ -251,7 +251,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:25:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-cited; underlying source not specified beyond implying it contradicts the NYT "within seconds" framing)
-*Related: C-2294, N-190, N-10482*
+*Related: C-6107, N-190, N-10482*
 
 ---
 
@@ -263,7 +263,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:26:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (described by host; not displayed in transcript)
-*Related: C-2295, N-489, N-15, N-10483*
+*Related: C-6112, N-489, N-15, N-10483*
 
 ---
 
@@ -275,7 +275,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:46:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (read from viewer comment; host pulls up article details)
-*Related: C-2296, N-539, N-543, N-544*
+*Related: C-6142, N-539, N-543, N-544*
 
 ---
 
@@ -287,7 +287,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:44:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host paraphrase)
-*Related: C-2297, N-540*
+*Related: C-6138, N-540*
 
 ---
 
@@ -302,7 +302,7 @@ Video Timestamp: 00:03:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10011, N-3*
+*Related: C-6082, N-3*
 
 ---
 
@@ -317,7 +317,7 @@ Video Timestamp: 00:33:16
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-10043, N-3*
+*Related: C-6126, N-3*
 
 ---
 
@@ -330,7 +330,7 @@ Video Timestamp: 00:45:36
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-10055, N-3*
+*Related: C-6140, N-3*
 
 ---
 
@@ -345,7 +345,7 @@ Video Timestamp: 00:36:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10047, N-3*
+*Related: C-6130, N-3*
 
 ---
 
@@ -360,7 +360,7 @@ Video Timestamp: 00:46:39
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-10056, N-3*
+*Related: C-6141, N-3*
 
 ---
 
@@ -375,7 +375,7 @@ Video Timestamp: 00:50:17
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-10058, N-3*
+*Related: C-6144, N-3*
 
 ---
 
@@ -387,7 +387,7 @@ Evidence Count: 1
 Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1731.1, A-1731.2, C-2290, C-2291*
+*Related: A-1731.1, A-1731.2, C-6086, C-6085*
 
 **N-537** Helmut Becker
 German geophysicist working alongside Jörg Fassbinder on the magnetic-mapping survey that located the Gilgamesh tomb site.
@@ -395,7 +395,7 @@ Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
-*Related: A-1731.2, C-2291*
+*Related: A-1731.2, C-6085*
 
 **N-489** Lori Frantzve
 Erika Kirk's mother; central figure in the Sept 8 / Sept 10 alibi narrative; subject of the Sept 7, 2025 Instagram post; reportedly receiving treatment at a "holistic clinic" rather than a hospital; described as having Lyme disease.
@@ -403,7 +403,7 @@ Evidence Count: 3
 Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
-*Related: A-1727.1, A-1727.2, A-1728.1, A-1735.1, C-2283, C-2284, C-2285, C-2295, N-10477, N-10478, N-10479, N-10483*
+*Related: A-1727.1, A-1727.2, A-1728.1, A-1735.1, C-6103, C-6105, C-6106, C-6112, N-10477, N-10478, N-10479, N-10483*
 
 **N-190** Mikey McCoy
 TPUSA-affiliated figure (per host's training reference); the person who placed the call to Erika Kirk on Sept 10, 2025, and who host asserts first called his wife before calling Erika.
@@ -411,7 +411,7 @@ Evidence Count: 1
 Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1728.1, A-1734.1, C-2285, C-2294, N-10482*
+*Related: A-1728.1, A-1734.1, C-6106, C-6107, N-10482*
 
 **N-15** Justin Streiff
 TPUSA-affiliated intermediary; sent text messages to the host stating Erika's mother was very sick; per host, also revised the location of Erika's sighting from "basketball game" to "football game."
@@ -419,7 +419,7 @@ Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1735.1, C-2295, N-10483*
+*Related: A-1735.1, C-6112, N-10483*
 
 **N-97** Ben Shapiro
 Daily Wire figure whose "All Access" clip mocking the host's Hogwarts-chess dream is played in the episode.
@@ -427,7 +427,7 @@ Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
-*Related: A-1733.1, C-2293*
+*Related: A-1733.1, C-6132*
 
 **N-538** Colin Powell
 Former U.S. Secretary of State; subject of Feb 5, 2003 UN Security Council address cited in the episode.
@@ -435,7 +435,7 @@ Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
-*Related: A-1732.1, C-2292*
+*Related: A-1732.1, C-6087*
 
 **N-539** William Stevenson
 77-year-old Wilmington resident, ex-husband of Jill Biden (1970–1975); indicted for first-degree murder of his ex-wife per news referenced in episode.
@@ -443,7 +443,7 @@ Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
-*Related: A-1736.1, C-2296, N-543, N-544*
+*Related: A-1736.1, C-6142, N-543, N-544*
 
 **N-540** Kevin Sorbo
 Actor referenced via tweet about leaving Hollywood because participants were pedophiles.
@@ -451,7 +451,7 @@ Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
-*Related: A-1737.1, C-2297*
+*Related: A-1737.1, C-6138*
 
 **N-541** Rob Skiba
 Researcher cited in viewer email; per email, his work documents Gilgamesh/Nimrod tomb discovery, museum raid, and missing Nephilim/resurrection tablets.
@@ -459,7 +459,7 @@ Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1729.1, C-2286, N-10480, N-10484*
+*Related: A-1729.1, C-6084, N-10480, N-10484*
 
 **N-542** Bella Hadid
 Public figure referenced re: Lyme disease treatment options overseas.
@@ -483,7 +483,7 @@ Evidence Count: 0
 Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
-*Related: A-1736.1, C-2296, N-539*
+*Related: A-1736.1, C-6142, N-539*
 
 **N-544** Jill Biden
 Subject of William Stevenson connection (Stevenson was her ex-husband, 1970–1975); declined to comment per host's read.
@@ -491,7 +491,7 @@ Evidence Count: 0
 Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
-*Related: A-1736.1, C-2296, N-539*
+*Related: A-1736.1, C-6142, N-539*
 
 ---
 
@@ -501,7 +501,7 @@ Evidence Count: 1
 Claim Count: 0 (claim admission test currently failing due to lack of clear opposing artifact for Erika's Sept 8 location)
 Episode Count: 1
 Investigative Pressure: High
-*Related: N-489, N-7, A-1735.1, C-2295*
+*Related: N-489, N-7, A-1735.1, C-6112*
 
 **N-10478** Erika Kirk Sept 10 Hospital vs. Clinic Discrepancy
 The NYT reports Erika was at the hospital; the host asserts she has confirmed for a fact that the mother was receiving treatment at a "holistic clinic," not a hospital.
@@ -509,7 +509,7 @@ Evidence Count: 2 (one per side)
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
-*Related: A-1728.1, A-1735.1, C-2285, C-2295, N-489, N-190, N-15*
+*Related: A-1728.1, A-1735.1, C-6106, C-6112, N-489, N-190, N-15*
 
 **N-10479** Sept 7, 2025 Erika Instagram Post – Manipulation Question
 The host asserts the post is exceptional in style (posting mother in vulnerable position, breaking a multi-year privacy pattern) and possibly deployed to preempt alibi scrutiny.
@@ -517,7 +517,7 @@ Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1727.2, C-2284, N-489*
+*Related: A-1727.2, C-6105, N-489*
 
 **N-10480** Nimrod / Gilgamesh Remains Extraction Question
 The host asserts that locals reported nighttime American digging and extraction operations at the tomb site; viewer email states tablets related to Nephilim/resurrection went missing from the museum after the raid.
@@ -525,7 +525,7 @@ Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1729.1, C-2286, N-541*
+*Related: A-1729.1, C-6084, N-541*
 
 **N-10481** Babylon Military Camp Activities
 Camp Alpha / coalition use of Babylon (April 2003 – December 2004); helicopter pad, sandbags filled with archaeological fragments, helicopter-induced roof collapse, museum looting; British Museum comparison to Great Pyramid / Stonehenge.
@@ -533,7 +533,7 @@ Evidence Count: 3
 Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1730.1, A-1730.2, A-1730.3, C-2287, C-2288, C-2289*
+*Related: A-1730.1, A-1730.2, A-1730.3, C-6090, C-6092, C-6091*
 
 **N-10482** Mikey McCoy Phone Call Sequence
 NYT said the call came "within seconds"; host asserts Mikey called his wife first, then Erika three-plus minutes later, while adding her to a line already in progress.
@@ -541,7 +541,7 @@ Evidence Count: 2 (NYT artifact; host claim)
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1728.1, A-1734.1, C-2294, N-190*
+*Related: A-1728.1, A-1734.1, C-6107, N-190*
 
 **N-10483** Erika's Mother Medical Narrative
 Lyme disease (verified by prior Charlie conversation); Bella Hadid comparison; treatments described as 1–2 hour sessions at a center; reportedly two different clinics (one on Sept 8, one on Sept 10).
@@ -549,7 +549,7 @@ Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1735.1, C-2295, N-489, N-15, N-542*
+*Related: A-1735.1, C-6112, N-489, N-15, N-542*
 
 **N-10484** Babylon Library / Tablet Loss Discrepancy
 UN article acknowledges contents from Hammurabi and Nebuchadnezzar museums and the Babylon library/archive were stolen and destroyed; viewer email asserts tablets concerning reincarnation and the Nephilim were specifically excluded from what the military retrieved.
@@ -557,7 +557,7 @@ Evidence Count: 2
 Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1729.1, A-1730.1, C-2286, C-2287, N-541*
+*Related: A-1729.1, A-1730.1, C-6084, C-6090, N-541*
 
 ---
 
@@ -565,7 +565,7 @@ Investigative Pressure: Medium
 
 Subject of the host's Sept 7 to 10 timeline reconstruction.
 
-*Related: C-10027, C-10030, C-10031, C-10033, C-10034, C-10035, C-10036, C-10038, C-10046, C-10047, C-10054*
+*Related: C-6109, C-6113, C-6114, C-6116, C-6117, C-6118, C-6119, C-6121, C-6129, C-6130, C-6139*
 
 ---
 
@@ -573,7 +573,7 @@ Subject of the host's Sept 7 to 10 timeline reconstruction.
 
 Widow and TPUSA CEO whose Sept 8 and Sept 10 whereabouts the host questions.
 
-*Related: C-10019, C-10021, C-10022, C-10023, C-10024, C-10025, C-10026, C-10027, C-10028, C-10029, C-10031, C-10036, C-10037, C-10038, C-10039, C-10040, C-10054, C-10056*
+*Related: C-6097, C-6099, C-6100, C-6101, C-6102, C-6104, C-6108, C-6109, C-6110, C-6111, C-6114, C-6119, C-6120, C-6121, C-6122, C-6123, C-6139, C-6141*
 
 ---
 
@@ -581,7 +581,7 @@ Widow and TPUSA CEO whose Sept 8 and Sept 10 whereabouts the host questions.
 
 Host; speaks for herself throughout.
 
-*Related: C-10018, C-10020, C-10024, C-10028, C-10029, C-10030, C-10031, C-10032, C-10039, C-10040, C-10041, C-10042, C-10043, C-10044, C-10045, C-10046, C-10047, C-10048, C-10050, C-10051, C-10052, C-10053, C-10054, C-10055*
+*Related: C-6096, C-6098, C-6102, C-6110, C-6111, C-6113, C-6114, C-6115, C-6122, C-6123, C-6124, C-6125, C-6126, C-6127, C-6128, C-6129, C-6130, C-6131, C-6134, C-6135, C-6136, C-6137, C-6139, C-6140*
 
 ---
 
@@ -589,7 +589,7 @@ Host; speaks for herself throughout.
 
 TPUSA figure the host says knows Erika's mother.
 
-*Related: C-10022*
+*Related: C-6100*
 
 ---
 
@@ -597,7 +597,7 @@ TPUSA figure the host says knows Erika's mother.
 
 Quoted by the host (rendered 'Sigmund Freud') as having said he had to be Satan.
 
-*Related: C-10057*
+*Related: C-6143*
 
 ---
 
@@ -605,7 +605,7 @@ Quoted by the host (rendered 'Sigmund Freud') as having said he had to be Satan.
 
 Named in a moderator comment about contact with Norman Finkelstein.
 
-*Related: C-10058*
+*Related: C-6144*
 
 ---
 
@@ -613,7 +613,7 @@ Named in a moderator comment about contact with Norman Finkelstein.
 
 Subject of a moderator comment praised by the host.
 
-*Related: C-10058*
+*Related: C-6144*
 
 ---
 
@@ -621,7 +621,7 @@ Subject of a moderator comment praised by the host.
 
 Transcribed 'Dershowitz' in the moderator comment read on air.
 
-*Related: C-10058*
+*Related: C-6144*
 
 ---
 
@@ -629,7 +629,7 @@ Transcribed 'Dershowitz' in the moderator comment read on air.
 
 Daily Wire co-founder, named as present when staff kept a clip file.
 
-*Related: C-10051*
+*Related: C-6135*
 
 ---
 
@@ -637,7 +637,7 @@ Daily Wire co-founder, named as present when staff kept a clip file.
 
 Transcribed 'Bassim Ysef'; subject of a remark in the Shapiro clip.
 
-*Related: C-10050*
+*Related: C-6134*
 
 ---
 
@@ -645,7 +645,7 @@ Transcribed 'Bassim Ysef'; subject of a remark in the Shapiro clip.
 
 Organization at the center of the host's military and ties claims.
 
-*Related: C-10018, C-10021, C-10022, C-10025*
+*Related: C-6096, C-6099, C-6100, C-6104*
 
 ---
 
@@ -653,7 +653,7 @@ Organization at the center of the host's military and ties claims.
 
 Existing topic reused for the host's military-operation remarks.
 
-*Related: C-10018, C-10019*
+*Related: C-6096, C-6097*
 
 ---
 
@@ -661,7 +661,7 @@ Existing topic reused for the host's military-operation remarks.
 
 Existing topic reused for the host's AmFest slot remark.
 
-*Related: C-10054*
+*Related: C-6139*
 
 ---
 
@@ -669,7 +669,7 @@ Existing topic reused for the host's AmFest slot remark.
 
 Existing topic reused for the Korea and Tokyo return.
 
-*Related: C-10033*
+*Related: C-6116*
 
 ---
 
@@ -677,14 +677,14 @@ Existing topic reused for the Korea and Tokyo return.
 
 Existing topic reused for the clip-file claim.
 
-*Related: C-10051*
+*Related: C-6135*
 
 ---
 
 **N-10435** Fort Huachuca Erika Kirk Location Investigation
 Existing topic reused for the dinner alibi and cease-and-desist claims.
 
-*Related: C-10038, C-10039, C-10041*
+*Related: C-6121, C-6122, C-6124*
 
 ---
 
@@ -692,7 +692,7 @@ Existing topic reused for the dinner alibi and cease-and-desist claims.
 
 Existing topic reused for the host's LLC remarks.
 
-*Related: C-10020*
+*Related: C-6098*
 
 ---
 
@@ -700,7 +700,7 @@ Existing topic reused for the host's LLC remarks.
 
 Existing topic reused for the Cincinnati connection.
 
-*Related: C-10020*
+*Related: C-6098*
 
 ---
 
@@ -708,7 +708,7 @@ Existing topic reused for the Cincinnati connection.
 
 Existing topic reused for the dinner alibi claim.
 
-*Related: C-10038*
+*Related: C-6121*
 
 ---
 
@@ -716,7 +716,7 @@ Existing topic reused for the dinner alibi claim.
 
 Existing topic reused for the Sept 8 schedule claims.
 
-*Related: C-10031, C-10033, C-10034, C-10035*
+*Related: C-6114, C-6116, C-6117, C-6118*
 
 ---
 
@@ -724,7 +724,7 @@ Existing topic reused for the Sept 8 schedule claims.
 
 Existing topic reused for the neighbor-verification claim.
 
-*Related: C-10037*
+*Related: C-6120*
 
 ---
 
@@ -732,7 +732,7 @@ Existing topic reused for the neighbor-verification claim.
 
 Existing topic reused for the geofencing remark.
 
-*Related: C-10021*
+*Related: C-6099*
 
 ---
 
@@ -740,7 +740,7 @@ Existing topic reused for the geofencing remark.
 
 Organization behind All Access and the clip file.
 
-*Related: C-10048, C-10051*
+*Related: C-6131, C-6135*
 
 ---
 
@@ -748,7 +748,7 @@ Organization behind All Access and the clip file.
 
 Company the host links to Erika's mother.
 
-*Related: C-10021*
+*Related: C-6099*
 
 ---
 
@@ -756,7 +756,7 @@ Company the host links to Erika's mother.
 
 Conference where the host says she will speak.
 
-*Related: C-10044, C-10047*
+*Related: C-6127, C-6130*
 
 ---
 
@@ -764,7 +764,7 @@ Conference where the host says she will speak.
 
 Outlet named among those Erika admitted.
 
-*Related: C-10054*
+*Related: C-6139*
 
 ---
 
@@ -772,7 +772,7 @@ Outlet named among those Erika admitted.
 
 Existing topic reused for the blocked tour claim.
 
-*Related: C-10045*
+*Related: C-6128*
 
 ---
 
@@ -780,13 +780,13 @@ Existing topic reused for the blocked tour claim.
 
 Existing topic reused for the cease-and-desist claim.
 
-*Related: C-10041*
+*Related: C-6124*
 
 ---
 
 ## V. Claim Register
 
-**C-2283** Last Erika Kirk Mother-Related Instagram Post Was April 2022 Mother's Day
+**C-6103** Last Erika Kirk Mother-Related Instagram Post Was April 2022 Mother's Day
 Claim Timestamp: 00:23:15
 Claim: The host says Erika Kirk had not posted anything about her mother on Instagram since April 2022 (a post the host believes was for Mother's Day) until the Sept 7, 2025 post.
 Anchored Artifacts: A-1727.1
@@ -796,7 +796,7 @@ Investigative Direction: Verify against archived Instagram data for Erika Kirk.
 
 ---
 
-**C-2284** Sept 7, 2025 Erika Kirk Post Showed Mother in Vulnerable Position with Countdown
+**C-6105** Sept 7, 2025 Erika Kirk Post Showed Mother in Vulnerable Position with Countdown
 Claim Timestamp: 00:24:00
 Claim: The host says that on Sept 7, 2025, Erika Kirk posted on Instagram showing her mother in what appears to be a sick / vulnerable state, with a countdown reading "10 days until September 16th."
 Anchored Artifacts: A-1727.2
@@ -806,7 +806,7 @@ Investigative Direction: Obtain the original post screenshot/metadata and identi
 
 ---
 
-**C-2285** NYT Reported Erika Was at the Hospital When Mikey McCoy Called
+**C-6106** NYT Reported Erika Was at the Hospital When Mikey McCoy Called
 Claim Timestamp: 00:25:00
 Claim: The host says the New York Times reported that on Sept 10, 2025, Erika Kirk was at the hospital while her mother received treatment when Mikey McCoy called her "within seconds" of the shooting, and notes the hospital wording was not a direct quotation from Erika.
 Anchored Artifacts: A-1728.1
@@ -816,7 +816,7 @@ Investigative Direction: Locate and quote the exact NYT passage to confirm wordi
 
 ---
 
-**C-2286** Viewer Email Asserted Rob Skiba Documents Gilgamesh Tomb, Tablet Disappearance
+**C-6084** Viewer Email Asserted Rob Skiba Documents Gilgamesh Tomb, Tablet Disappearance
 Claim Timestamp: 00:05:54
 Claim: A viewer email the host reads, urging her to look up Rob Skiba's research, asserted: (1) the discovery of Gilgamesh/Nimrod's tomb; (2) the first U.S. base in Iraq was set up at the museum holding the relics; (3) the museum was "raided"; (4) everything was retrieved by the military except tablets concerning reincarnation and bringing back the Nephilim.
 Anchored Artifacts: A-1729.1
@@ -826,7 +826,7 @@ Investigative Direction: Locate Rob Skiba's published work ("Babylon Rising" et 
 
 ---
 
-**C-2287** 2009 UN Article Described Babylon as Ancient Capital and Post-Invasion Site
+**C-6090** 2009 UN Article Described Babylon as Ancient Capital and Post-Invasion Site
 Claim Timestamp: 00:10:51
 Claim: A 2009 United Nations article described Babylon as the capital city for Hammurabi (Amarabi) and Nebuchadnezzar, and acknowledged that contents from the Hammurabi and Nebuchadnezzar museums and the Babylon library/archive were stolen and destroyed during the 2003 war.
 Anchored Artifacts: A-1730.1
@@ -835,7 +835,7 @@ Investigative Direction: Locate the UN article by publication/year and verify qu
 
 ---
 
-**C-2288** NBC News Reported U.S. Marines Damaged Babylon Ruins
+**C-6092** NBC News Reported U.S. Marines Damaged Babylon Ruins
 Claim Timestamp: 00:11:55
 Claim: NBC News reported that a senior U.S. military officer said he was willing to apologize for damage his troops caused to Babylon, and, citing the BBC, that U.S. Marines built a helicopter pad on the ruins and filled sandbags with archaeological fragments, with helicopter vibrations causing the roof of one building to collapse.
 Anchored Artifacts: A-1730.2
@@ -844,7 +844,7 @@ Investigative Direction: Locate the specific NBC News article and confirm.
 
 ---
 
-**C-2289** 2005 British Museum Report Compared Babylon Camp to Great Pyramid / Stonehenge
+**C-6091** 2005 British Museum Report Compared Babylon Camp to Great Pyramid / Stonehenge
 Claim Timestamp: 00:10:51
 Claim: A 2005 British Museum report characterized coalition use of Babylon (April 2003 – December 2004) as "tantamount to establishing a military camp around the Great Pyramid in Egypt or the Stonehenge in Britain."
 Anchored Artifacts: A-1730.3
@@ -853,7 +853,7 @@ Investigative Direction: Locate the British Museum report and confirm quoted lan
 
 ---
 
-**C-2290** BBC Reported Fassbinder Discovered Gilgamesh's Tomb
+**C-6086** BBC Reported Fassbinder Discovered Gilgamesh's Tomb
 Claim Timestamp: 00:09:00
 Claim: The host says the BBC reported that Jörg Fassbinder had made the discovery of Gilgamesh's tomb, with the report surfacing a couple of weeks after the March 20, 2003 invasion of Iraq.
 Anchored Artifacts: A-1731.1
@@ -863,7 +863,7 @@ Investigative Direction: Locate the specific BBC report and confirm date.
 
 ---
 
-**C-2291** Host Says German Geophysicists Located Gilgamesh Tomb Between May 2002 and Early 2003
+**C-6085** Host Says German Geophysicists Located Gilgamesh Tomb Between May 2002 and Early 2003
 Claim Timestamp: 00:08:02
 Claim: The host says, citing a headline she shows, that German geophysicists Jörg Fassbinder and Helmut Becker of the Bavarian State Conservation Office used magnetic mapping to discover ancient Iraq and became convinced they had located Gilgamesh's tomb between May 2002 and very early 2003.
 Anchored Artifacts: A-1731.2
@@ -872,7 +872,7 @@ Investigative Direction: Locate primary publications or institutional releases c
 
 ---
 
-**C-2292** Colin Powell Stated Iraq Possessed WMDs at UN on Feb 5, 2003
+**C-6087** Colin Powell Stated Iraq Possessed WMDs at UN on Feb 5, 2003
 Claim Timestamp: 00:09:03
 Claim: The host says Colin Powell publicly stated at the United Nations Security Council on Feb 5, 2003 that Iraq possessed weapons of mass destruction.
 Anchored Artifacts: A-1732.1
@@ -881,7 +881,7 @@ Investigative Direction: Reference the UN Security Council record / transcript.
 
 ---
 
-**C-2293** Ben Shapiro Mocked Host's Hogwarts-Chess Dream on All Access
+**C-6132** Ben Shapiro Mocked Host's Hogwarts-Chess Dream on All Access
 Claim Timestamp: 00:39:16
 Claim: Ben Shapiro, on a Daily Wire "All Access" segment, mocked the host's reported dream of playing "Hogwarts chess" with him, joking about whether it was "wired" or "weird."
 Anchored Artifacts: A-1733.1
@@ -890,7 +890,7 @@ Investigative Direction: Locate the specific All Access clip for verification of
 
 ---
 
-**C-2294** Mikey McCoy Called His Wife First, Then Erika ~3+ Minutes Later
+**C-6107** Mikey McCoy Called His Wife First, Then Erika ~3+ Minutes Later
 Claim Timestamp: 00:25:21
 Claim: According to the host, Mikey McCoy called his wife first, then placed a call to Erika Kirk approximately three-plus minutes later, adding Erika to a line already in progress with his wife.
 Anchored Artifacts: A-1734.1
@@ -900,7 +900,7 @@ Investigative Direction: Obtain call log records or corroborating witness / phon
 
 ---
 
-**C-2295** Justin Streiff Text Messages Asserted Erika's Mother Was Very Sick
+**C-6112** Justin Streiff Text Messages Asserted Erika's Mother Was Very Sick
 Claim Timestamp: 00:26:30
 Claim: The host says Justin Streiff told her in text messages that Erika's mother was very, very sick and that Erika was spending her days in the hospital with her mother; the host asserts she has confirmed the mother was receiving treatment at a holistic clinic rather than a hospital.
 Anchored Artifacts: A-1735.1
@@ -910,7 +910,7 @@ Investigative Direction: Obtain copies of the underlying text messages and verif
 
 ---
 
-**C-2296** Viewer Comment Says Jill Biden's Ex-Husband Was Indicted for Murder; Host Corrects Name to William Stevenson
+**C-6142** Viewer Comment Says Jill Biden's Ex-Husband Was Indicted for Murder; Host Corrects Name to William Stevenson
 Claim Timestamp: 00:47:06
 Claim: A viewer comment the host reads says Jill Biden's ex-husband, whom it names as Bill Richardson, was indicted for first-degree murder of his ex-wife; the host, reading an article, corrects the name to William Stevenson, 77, of Wilmington, married to Jill Biden 1970 to 1975, and says the woman was found unresponsive in the living room and life-saving measures were unsuccessful.
 Anchored Artifacts: A-1736.1
@@ -919,7 +919,7 @@ Investigative Direction: Verify via Delaware court records and contemporaneous n
 
 ---
 
-**C-2297** Kevin Sorbo Tweeted He Left Hollywood Because of Pedophilia
+**C-6138** Kevin Sorbo Tweeted He Left Hollywood Because of Pedophilia
 Claim Timestamp: 00:44:50
 Claim: The host says Kevin Sorbo tweeted that he left Hollywood because the people involved were pedophiles.
 Anchored Artifacts: A-1737.1
@@ -928,7 +928,7 @@ Investigative Direction: Locate the tweet and verify exact wording and date.
 
 ---
 
-**C-10011** FBI passport-found clip aired in 9/11 recap
+**C-6082** FBI passport-found clip aired in 9/11 recap
 
 Claim Timestamp: 00:03:21
 
@@ -942,7 +942,7 @@ Investigative Direction: Identify the original 2001 broadcast and the FBI statem
 
 ---
 
-**C-10012** Host says Gilgamesh epic is the Nimrod story
+**C-6083** Host says Gilgamesh epic is the Nimrod story
 
 Claim Timestamp: 00:04:56
 
@@ -957,7 +957,7 @@ Investigative Direction: Compare scholarly sources on any Gilgamesh and Nimrod i
 
 ---
 
-**C-10013** Host says US base was built at the exact tomb location
+**C-6088** Host says US base was built at the exact tomb location
 
 Claim Timestamp: 00:09:18
 
@@ -968,13 +968,13 @@ Transcript Snippet: they happen to make their b their military base at that exac
 Anchored Artifacts: 
 Mentions: N-536
 Related Nodes: N-10481, N-10480
-Supports: C-2290
+Supports: C-6086
 Tags: relevance:tangential
 Investigative Direction: Compare the coordinates of the Fassbinder survey with the coalition camp at Babylon.
 
 ---
 
-**C-10014** Host says military base was Camp Alpha atop Babylon
+**C-6089** Host says military base was Camp Alpha atop Babylon
 
 Claim Timestamp: 00:10:00
 
@@ -984,13 +984,13 @@ Transcript Snippet: set up our military base, Camp Alpha, right on top of ancien
 
 Anchored Artifacts: 
 Related Nodes: N-10481
-Supports: C-2289
+Supports: C-6091
 Tags: relevance:tangential
 Investigative Direction: Check Camp Alpha records and the 2005 British Museum report on its siting.
 
 ---
 
-**C-10015** Host says locals saw Americans digging at night
+**C-6093** Host says locals saw Americans digging at night
 
 Claim Timestamp: 00:11:55
 
@@ -1005,7 +1005,7 @@ Investigative Direction: Locate the original reports by Iraqi locals or archaeol
 
 ---
 
-**C-10016** Host says Masonic tradition calls Nimrod first grandmaster
+**C-6094** Host says Masonic tradition calls Nimrod first grandmaster
 
 Claim Timestamp: 00:13:08
 
@@ -1019,7 +1019,7 @@ Investigative Direction: Check Masonic sources such as the Old Charges for Nimro
 
 ---
 
-**C-10017** Host cites unexplained FOIA to State Dept on Gilgamesh
+**C-6095** Host cites unexplained FOIA to State Dept on Gilgamesh
 
 Claim Timestamp: 00:14:09
 
@@ -1034,7 +1034,7 @@ Investigative Direction: Locate the State Department FOIA log entry and the requ
 
 ---
 
-**C-10018** Host says TPUSA became a literal military operation
+**C-6096** Host says TPUSA became a literal military operation
 
 Claim Timestamp: 00:20:33
 
@@ -1050,7 +1050,7 @@ Investigative Direction: Document the military service records of TPUSA staff an
 
 ---
 
-**C-10019** Host says Erika and her mother have strong military ties
+**C-6097** Host says Erika and her mother have strong military ties
 
 Claim Timestamp: 00:21:12
 
@@ -1066,7 +1066,7 @@ Investigative Direction: Verify any military service or contracting history for 
 
 ---
 
-**C-10020** Host says Erika's mother has an almost incalculable number of LLCs
+**C-6098** Host says Erika's mother has an almost incalculable number of LLCs
 
 Claim Timestamp: 00:21:12
 
@@ -1082,7 +1082,7 @@ Investigative Direction: Pull Secretary of State filings for every entity listin
 
 ---
 
-**C-10021** Host says mother sits on boards of TPUSA-related companies
+**C-6099** Host says mother sits on boards of TPUSA-related companies
 
 Claim Timestamp: 00:22:16
 
@@ -1098,7 +1098,7 @@ Investigative Direction: Check board and officer records for Superfeed and relat
 
 ---
 
-**C-10022** Host says TPUSA staff do not know Erika's mother but Bowyer does
+**C-6100** Host says TPUSA staff do not know Erika's mother but Bowyer does
 
 Claim Timestamp: 00:22:16
 
@@ -1114,7 +1114,7 @@ Investigative Direction: Ask TPUSA staff and Bowyer about their dealings with Lo
 
 ---
 
-**C-10023** Host says Erika's mother stood beside her behind Trump in 2015
+**C-6101** Host says Erika's mother stood beside her behind Trump in 2015
 
 Claim Timestamp: 00:22:16
 
@@ -1129,7 +1129,7 @@ Investigative Direction: Find 2015 event photos showing Erika and her mother beh
 
 ---
 
-**C-10024** Host says only strong emotion at the Erika meeting was about her mother
+**C-6102** Host says only strong emotion at the Erika meeting was about her mother
 
 Claim Timestamp: 00:22:16
 
@@ -1144,7 +1144,7 @@ Investigative Direction: Compare with the host's earlier accounts of the private
 
 ---
 
-**C-10025** Host Says Sept 16 Was Erika's First Zoom Call As CEO And Chairman
+**C-6104** Host Says Sept 16 Was Erika's First Zoom Call As CEO And Chairman
 
 Claim Timestamp: 00:23:34
 
@@ -1160,7 +1160,7 @@ Investigative Direction: Confirm the date of Erika's first CEO Zoom with TPUSA a
 
 ---
 
-**C-10026** Host says McCoy call was brief and Erika collapsed in the parking lot
+**C-6108** Host says McCoy call was brief and Erika collapsed in the parking lot
 
 Claim Timestamp: 00:25:21
 
@@ -1171,13 +1171,13 @@ Transcript Snippet: We know that they had a very brief call a couple of minutes 
 Anchored Artifacts: 
 Mentions: N-190, N-2, N-489
 Related Nodes: N-10478, N-10482
-Supports: C-2294
+Supports: C-6107
 Tags: relevance:core
 Investigative Direction: Obtain the account of the parking lot collapse and the name of the facility.
 
 ---
 
-**C-10027** Host Mocks McCoy Call Order Against Charlie's Alleged Training
+**C-6109** Host Mocks McCoy Call Order Against Charlie's Alleged Training
 
 Claim Timestamp: 00:25:21
 
@@ -1193,7 +1193,7 @@ Investigative Direction: Find the original source of the claim that Charlie trai
 
 ---
 
-**C-10028** Host says Streiff delayed her Sept 8 alibi request
+**C-6110** Host says Streiff delayed her Sept 8 alibi request
 
 Claim Timestamp: 00:25:21
 
@@ -1204,13 +1204,13 @@ Transcript Snippet: when I was contacting Justin Streiff trying to figure out wh
 Anchored Artifacts: A-1735.1
 Mentions: N-15, N-2, N-3
 Related Nodes: N-10477
-Supports: C-2295
+Supports: C-6112
 Tags: relevance:core
 Investigative Direction: Obtain the full Streiff thread with timestamps.
 
 ---
 
-**C-10029** Host says lighting in Streiff's messages does not look like a hospital
+**C-6111** Host says lighting in Streiff's messages does not look like a hospital
 
 Claim Timestamp: 00:25:21
 
@@ -1226,7 +1226,7 @@ Investigative Direction: Examine any images in the Streiff messages and their me
 
 ---
 
-**C-10030** Host says Charlie flew Erika's mother overseas for Lyme treatment
+**C-6113** Host says Charlie flew Erika's mother overseas for Lyme treatment
 
 Claim Timestamp: 00:27:11
 
@@ -1242,7 +1242,7 @@ Investigative Direction: Verify any Charlie-funded European medical trips for Lo
 
 ---
 
-**C-10031** Host says Charlie took Erika's mother to a clinic on Sept 8
+**C-6114** Host says Charlie took Erika's mother to a clinic on Sept 8
 
 Claim Timestamp: 00:28:00
 
@@ -1258,7 +1258,7 @@ Investigative Direction: Obtain clinic records or witness accounts for September
 
 ---
 
-**C-10032** Host says these treatments last one to two hours
+**C-6115** Host says these treatments last one to two hours
 
 Claim Timestamp: 00:28:00
 
@@ -1274,7 +1274,7 @@ Investigative Direction: Ask the clinic about its typical session length.
 
 ---
 
-**C-10033** Host says Charlie returned from Korea and Tokyo late Sept 7
+**C-6116** Host says Charlie returned from Korea and Tokyo late Sept 7
 
 Claim Timestamp: 00:29:13
 
@@ -1290,7 +1290,7 @@ Investigative Direction: Obtain flight and landing records for the return from A
 
 ---
 
-**C-10034** Host says Charlie was home in his studio on Sept 8
+**C-6117** Host says Charlie was home in his studio on Sept 8
 
 Claim Timestamp: 00:29:33
 
@@ -1306,7 +1306,7 @@ Investigative Direction: Check the Sept 8 show metadata and studio location.
 
 ---
 
-**C-10035** Host says the clinic visit must fit between 12 and 3:30
+**C-6118** Host says the clinic visit must fit between 12 and 3:30
 
 Claim Timestamp: 00:29:33
 
@@ -1322,7 +1322,7 @@ Investigative Direction: Reconstruct Charlie's Sept 8 schedule against that wind
 
 ---
 
-**C-10036** Host says Turek's 'dealing with the kids' statement suggests Erika was absent
+**C-6119** Host says Turek's 'dealing with the kids' statement suggests Erika was absent
 
 Claim Timestamp: 00:29:33
 
@@ -1338,7 +1338,7 @@ Investigative Direction: Obtain Turek's original statement and its date.
 
 ---
 
-**C-10037** Host says no neighbor can confirm Erika on Sept 8
+**C-6120** Host says no neighbor can confirm Erika on Sept 8
 
 Claim Timestamp: 00:29:33
 
@@ -1354,7 +1354,7 @@ Investigative Direction: Interview residents and review building access records.
 
 ---
 
-**C-10038** Host says Erika's dinner story is the Fort Huachuca alibi
+**C-6121** Host says Erika's dinner story is the Fort Huachuca alibi
 
 Claim Timestamp: 00:30:53
 
@@ -1370,7 +1370,7 @@ Investigative Direction: Find where Erika or TPUSA stated the dinner account.
 
 ---
 
-**C-10039** Host says timeline points to Erika not being home on Sept 8
+**C-6122** Host says timeline points to Erika not being home on Sept 8
 
 Claim Timestamp: 00:30:53
 
@@ -1386,7 +1386,7 @@ Investigative Direction: Locate independent evidence of Erika's Sept 8 location.
 
 ---
 
-**C-10040** Host says Streiff switched basketball game to football game
+**C-6123** Host says Streiff switched basketball game to football game
 
 Claim Timestamp: 00:30:53
 
@@ -1402,7 +1402,7 @@ Investigative Direction: Obtain the thread and identify the fan sighting.
 
 ---
 
-**C-10041** Host says cease and desist followed her Fort Huachuca request
+**C-6124** Host says cease and desist followed her Fort Huachuca request
 
 Claim Timestamp: 00:32:06
 
@@ -1418,7 +1418,7 @@ Investigative Direction: Obtain the letter, its sender and its date.
 
 ---
 
-**C-10042** Host says she has names of two clinics for the 8th and 10th
+**C-6125** Host says she has names of two clinics for the 8th and 10th
 
 Claim Timestamp: 00:33:16
 
@@ -1434,7 +1434,7 @@ Investigative Direction: Request records for both named clinics.
 
 ---
 
-**C-10043** Host asks for tips at the tip email on the alibi
+**C-6126** Host asks for tips at the tip email on the alibi
 
 Claim Timestamp: 00:33:16
 
@@ -1449,7 +1449,7 @@ Investigative Direction: Review tips received at the tip address.
 
 ---
 
-**C-10044** Host announces speaking at Catholics for Catholics on March 19
+**C-6127** Host announces speaking at Catholics for Catholics on March 19
 
 Claim Timestamp: 00:34:12
 
@@ -1465,7 +1465,7 @@ Investigative Direction: Check the conference program for the date.
 
 ---
 
-**C-10045** Host says the Zionist lobby blocked her Australia tour
+**C-6128** Host says the Zionist lobby blocked her Australia tour
 
 Claim Timestamp: 00:34:12
 
@@ -1481,7 +1481,7 @@ Investigative Direction: Obtain the Australian visa decision.
 
 ---
 
-**C-10046** Host says she was to tour with Charlie before he died
+**C-6129** Host says she was to tour with Charlie before he died
 
 Claim Timestamp: 00:34:12
 
@@ -1496,7 +1496,7 @@ Investigative Direction: Find tour announcements or correspondence about a plann
 
 ---
 
-**C-10047** Conference promo says Charlie predicted Candace as David
+**C-6130** Conference promo says Charlie predicted Candace as David
 
 Claim Timestamp: 00:36:14
 
@@ -1512,7 +1512,7 @@ Investigative Direction: Identify who is speaking in the promo and the basis for
 
 ---
 
-**C-10048** Host says All Access producers write seed questions
+**C-6131** Host says All Access producers write seed questions
 
 Claim Timestamp: 00:37:23
 
@@ -1528,7 +1528,7 @@ Investigative Direction: Ask former Daily Wire staff about All Access practice.
 
 ---
 
-**C-10049** Shapiro clip jokes about Nazi breakfast foods
+**C-6133** Shapiro clip jokes about Nazi breakfast foods
 
 Claim Timestamp: 00:39:16
 
@@ -1543,7 +1543,7 @@ Investigative Direction: View the All Access video segment.
 
 ---
 
-**C-10050** Shapiro clip says Candace told Bassem Youssef about his childhood
+**C-6134** Shapiro clip says Candace told Bassem Youssef about his childhood
 
 Claim Timestamp: 00:40:16
 
@@ -1558,7 +1558,7 @@ Investigative Direction: Check the host's interview with Youssef for the childho
 
 ---
 
-**C-10051** Host says Daily Wire kept a file of her clips for influencers
+**C-6135** Host says Daily Wire kept a file of her clips for influencers
 
 Claim Timestamp: 00:41:18
 
@@ -1574,7 +1574,7 @@ Investigative Direction: Obtain any internal clip files sent to influencers.
 
 ---
 
-**C-10052** Host promotes signed Make a Sandwich and Blackout bundle
+**C-6136** Host promotes signed Make a Sandwich and Blackout bundle
 
 Claim Timestamp: 00:44:15
 
@@ -1589,7 +1589,7 @@ Investigative Direction: Check the merch listing.
 
 ---
 
-**C-10053** Host says subscription tiers merged into one club tier
+**C-6137** Host says subscription tiers merged into one club tier
 
 Claim Timestamp: 00:44:15
 
@@ -1604,7 +1604,7 @@ Investigative Direction: Check the subscription pricing page.
 
 ---
 
-**C-10054** Host says she first clocked Erika admitting people Charlie disliked
+**C-6139** Host says she first clocked Erika admitting people Charlie disliked
 
 Claim Timestamp: 00:45:36
 
@@ -1620,7 +1620,7 @@ Investigative Direction: Compile who bought AmFest speaking slots and Charlie's 
 
 ---
 
-**C-10055** Host again asks for tips by message and email
+**C-6140** Host again asks for tips by message and email
 
 Claim Timestamp: 00:45:36
 
@@ -1635,7 +1635,7 @@ Investigative Direction: Review the tip inbox.
 
 ---
 
-**C-10056** Commenter asks why Erika kept saying 'stay humble' in Zooms
+**C-6141** Commenter asks why Erika kept saying 'stay humble' in Zooms
 
 Claim Timestamp: 00:46:39
 
@@ -1650,7 +1650,7 @@ Investigative Direction: Review the Zoom recordings for that phrase.
 
 ---
 
-**C-10057** Host says Freud said he had to be Satan or Lucifer
+**C-6143** Host says Freud said he had to be Satan or Lucifer
 
 Claim Timestamp: 00:50:17
 
@@ -1665,7 +1665,7 @@ Investigative Direction: Locate any Freud quote matching this.
 
 ---
 
-**C-10058** Commenter says Epstein and Dershowitz contacted Finkelstein
+**C-6144** Commenter says Epstein and Dershowitz contacted Finkelstein
 
 Claim Timestamp: 00:50:17
 
@@ -1682,7 +1682,7 @@ Investigative Direction: Ask Finkelstein or find his published account of any co
 
 ## VI. Cross-Reference Rule (Summary)
 
-- Every claim (C-2283 – C-2297) carries at least one Anchored Artifact and at least one Related Node.
+- Every claim (C-6103 – C-6138) carries at least one Anchored Artifact and at least one Related Node.
 - Every artifact family (A-1727 – A-1737) carries Related claims and Related nodes.
 - Every People Node (N-536 – N-544) and Investigation Target Node (N-10477 – N-10484) carries Related artifacts and Related claims.
 - No episode-wide artifact bundle was created.

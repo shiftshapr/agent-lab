@@ -16,7 +16,7 @@
   - Hole-minted Nodes (reintro-ep019): N-190, N-268, N-10198, N-10218, N-10226, N-10338, N-10346, N-10561, N-10635, N-10806, N-393
   - Tip-minted Nodes (reintro-ep019): N-11093
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10g): C-13936–C-14002
+  - Claim Range: C-1710–C-1804
   - New Nodes Introduced: N-179, N-182, N-183, N-184, N-185, N-186, N-187, N-188, N-10191, N-10193, N-10194, N-10195
   - Reused Nodes Appearing: N-180, N-181, N-10192, N-2, N-10003, N-10004, N-10056, N-10076, N-10112, N-10148, N-10167, N-10187, N-10389, N-10799
 - **Monument Episode:** 19, N-11
@@ -33,7 +33,7 @@
 ### Episode 19 Ledger Summary
 
 - **Artifact Families Introduced:** A-1260, A-1261, A-1262, A-1263, A-1264, A-1265, A-1266, A-1267, A-1268, A-1269
-- **Claim Range:** C-1461–C-1481
+- **Claim Range:** C-1734–C-1802
 - **New People Nodes Introduced:** N-179, N-180, N-7, N-130, N-181, N-182, N-183, N-184, N-185, N-186, N-14, N-187, N-188
 - **New Investigation Targets Introduced:** N-10191, N-10192, N-10193, N-10194, N-10195
 - **Existing Nodes Reused (referenced):** Charlie Kirk, Candace Owens, Erika Kirk, Tyler Robinson, Mikey McCoy, Pastor Rob McCoy, Tyler Bowyer, Kanye West, Joe Rogan, Donald Trump Jr.
@@ -60,7 +60,7 @@ Video Timestamp: 00:07:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1467, N-Pastor Rob McCoy (existing), N-Tyler Bowyer (existing)*
+*Related: C-1726, N-Pastor Rob McCoy (existing), N-Tyler Bowyer (existing)*
 
 ---
 
@@ -74,7 +74,7 @@ Video Timestamp: 00:10:27–00:11:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (timing figure produced by host's own frame-by-frame analysis; underlying footage source not independently authenticated in episode)
 
-*Related: C-1461, N-Mikey McCoy (existing)*
+*Related: C-1734, N-Mikey McCoy (existing)*
 
 **A-1261.2** Footage showing Mikey McCoy in background at Charlie's waiting car, still on phone.
 
@@ -84,7 +84,7 @@ Video Timestamp: 00:12:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1463, N-Mikey McCoy (existing)*
+*Related: C-1738, N-Mikey McCoy (existing)*
 
 **A-1261.3** Footage showing Mikey McCoy on phone ~1 minute 45 seconds before the gunshot.
 
@@ -94,7 +94,7 @@ Video Timestamp: 00:13:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1462, N-Mikey McCoy (existing)*
+*Related: C-1741, N-Mikey McCoy (existing)*
 
 ---
 
@@ -108,7 +108,7 @@ Video Timestamp: 00:24:44–00:25:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio content preserved in transcript)
 
-*Related: C-1464, C-1465, N-180*
+*Related: C-1767, C-1768, N-180*
 
 **A-1262.2** Footage of camera operator's actions in the four minutes preceding camera takedown, sent by the operator to Candace Owens via phone.
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:23:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1466, N-180*
+*Related: C-1762, N-180*
 
 ---
 
@@ -132,7 +132,7 @@ Video Timestamp: 00:03:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (date and photographer identity not definitively confirmed in episode)
 
-*Related: C-1473, N-Candace Owens (existing), N-Charlie Kirk (existing), N-Donald Trump Jr. (existing)*
+*Related: C-1717, N-Candace Owens (existing), N-Charlie Kirk (existing), N-Donald Trump Jr. (existing)*
 
 ---
 
@@ -146,7 +146,7 @@ Video Timestamp: 00:15:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1472, N-Charlie Kirk (existing)*
+*Related: C-1746, N-Charlie Kirk (existing)*
 
 ---
 
@@ -160,7 +160,7 @@ Video Timestamp: 00:34:49–00:35:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as to trailer content); underlying text message source cited as "as we saw in those text messages" referencing prior episode
 
-*Related: C-1471, C-1476, N-Charlie Kirk (existing)*
+*Related: C-1774, C-1775, N-Charlie Kirk (existing)*
 
 ---
 
@@ -178,7 +178,7 @@ Video Timestamp: 00:38:21–00:39:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host asserts Mikey McCoy has access to all of Charlie Kirk's messages and can verify these are real; not independently verified in episode)
 
-*Related: C-1468, C-1469, C-1470, N-Charlie Kirk (existing), N-Candace Owens (existing), N-Mikey McCoy (existing)*
+*Related: C-1781, C-1782, C-1780, N-Charlie Kirk (existing), N-Candace Owens (existing), N-Mikey McCoy (existing)*
 
 ---
 
@@ -192,7 +192,7 @@ Video Timestamp: 00:35:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (read-aloud content preserved; original post URL not displayed)
 
-*Related: C-1475, N-184, N-Josh Hammer (existing if inscribed in prior episodes)*
+*Related: C-1776, N-184, N-Josh Hammer (existing if inscribed in prior episodes)*
 
 ---
 
@@ -219,7 +219,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:51:43
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-1482, N-130*
+*Related: C-1794, N-130*
 
 **A-1269.2** Amanda comment: "This is sick. Thank you, Candace, for always sharing the truth. God bless you."
 
@@ -238,7 +238,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:53:26
 
-*Related: C-1483, N-185, N-Tyler Robinson (existing)*
+*Related: C-1798, N-185, N-Tyler Robinson (existing)*
 
 **A-1269.6** Ivana Milano comment: "Keep up the great work…"
 
@@ -256,7 +256,7 @@ Video Timestamp: 00:53:26
 
 Video Timestamp: 00:56:09
 
-*Related: C-1484, N-180*
+*Related: C-1803, N-180*
 
 **A-1269.10** Bayern comment: "Come back, Candace. Everyone needs…"
 
@@ -275,7 +275,7 @@ Video Timestamp: 00:08:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-13949, C-13950, C-13951, C-13952, C-13954, N-17, N-190, N-179*
+*Related: C-1728, C-1729, C-1730, C-1731, C-1733, N-17, N-190, N-179*
 
 ---
 
@@ -288,7 +288,7 @@ Video Timestamp: 00:17:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13963, C-13964, C-13965, C-13966, C-13968, C-13969, C-13970, C-13971, C-13972, C-13973, C-13974, N-3, N-180, N-10192*
+*Related: C-1749, C-1750, C-1751, C-1752, C-1754, C-1755, C-1756, C-1757, C-1758, C-1759, C-1760, N-3, N-180, N-10192*
 
 ---
 
@@ -301,7 +301,7 @@ Video Timestamp: 00:18:42
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13967, N-3, N-180, N-1, N-10799*
+*Related: C-1753, N-3, N-180, N-1, N-10799*
 
 ---
 
@@ -314,7 +314,7 @@ Video Timestamp: 00:21:27
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13975, N-11, N-180, N-10346*
+*Related: C-1761, N-11, N-180, N-10346*
 
 ---
 
@@ -342,7 +342,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1262.1, A-1262.2, A-1269.9, C-1464, C-1465, C-1466, C-1477, N-Tyler Bowyer (existing), N-11*
+*Related: A-1262.1, A-1262.2, A-1269.9, C-1767, C-1768, C-1762, C-1765, N-Tyler Bowyer (existing), N-11*
 
 ---
 
@@ -355,7 +355,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-1481, N-Ian Carroll (N-130)*
+*Related: C-1802, N-Ian Carroll (N-130)*
 
 ---
 
@@ -368,7 +368,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1269.1, A-1269.9, C-1482, N-7*
+*Related: A-1269.1, A-1269.9, C-1794, N-7*
 
 ---
 
@@ -381,7 +381,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-1461, A-1261.1*
+*Related: C-1734, A-1261.1*
 
 ---
 
@@ -394,7 +394,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-1461, A-1261.1*
+*Related: C-1734, A-1261.1*
 
 ---
 
@@ -420,7 +420,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1267.1, C-1475*
+*Related: A-1267.1, C-1776*
 
 ---
 
@@ -433,7 +433,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1269.5, C-1483, N-Tyler Robinson (existing)*
+*Related: A-1269.5, C-1798, N-Tyler Robinson (existing)*
 
 ---
 
@@ -446,7 +446,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-1479, N-Tyler Bowyer (existing), N-11*
+*Related: C-1723, N-Tyler Bowyer (existing), N-11*
 
 ---
 
@@ -459,7 +459,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-1485*
+*Related: C-1742*
 
 ---
 
@@ -498,7 +498,7 @@ Claim Count: 1
 Episode Count: 2
 Investigative Pressure: Low
 
-*Related: C-1473*
+*Related: C-1717*
 
 ---
 
@@ -524,7 +524,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1261.1, A-1261.2, A-1261.3, C-1461, C-1462, C-1463, N-Mikey McCoy (existing)*
+*Related: A-1261.1, A-1261.2, A-1261.3, C-1734, C-1741, C-1738, N-Mikey McCoy (existing)*
 
 ---
 
@@ -537,7 +537,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1262.1, A-1262.2, A-1269.9, C-1464, C-1465, C-1466, C-1484, N-180*
+*Related: A-1262.1, A-1262.2, A-1269.9, C-1767, C-1768, C-1762, C-1803, N-180*
 
 ---
 
@@ -550,7 +550,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1261.1, A-1261.2, A-1261.3, C-1461, C-1462, C-1486, N-Mikey McCoy (existing)*
+*Related: A-1261.1, A-1261.2, A-1261.3, C-1734, C-1741, C-1739, N-Mikey McCoy (existing)*
 
 ---
 
@@ -563,7 +563,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1260.1, C-1467, N-Pastor Rob McCoy (existing), N-179*
+*Related: A-1260.1, C-1726, N-Pastor Rob McCoy (existing), N-179*
 
 ---
 
@@ -576,7 +576,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1265.1, A-1267.1, C-1476, N-184*
+*Related: A-1265.1, A-1267.1, C-1775, N-184*
 
 ---
 
@@ -585,7 +585,7 @@ Investigative Pressure: Medium
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
 
-*Related: C-1477, C-1478, C-1479*
+*Related: C-1765, C-1722, C-1723*
 
 ---
 
@@ -593,7 +593,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 Subject of the assassination; the host reports his texts, dreams and her friendship with him.
 
-*Related: C-13936, C-13937, C-13938, C-13940, C-13943, C-13945, C-13951, C-13953, C-13961, C-13962, C-13967, C-13974, C-13976, C-13977, C-13979, C-13981, C-13982, C-13983, C-13984, C-13985, C-13986, C-13987, C-13988, C-13989, C-13990, C-13992, C-13993, C-13998, C-13999*
+*Related: C-1710, C-1711, C-1712, C-1714, C-1718, C-1720, C-1730, C-1732, C-1745, C-1748, C-1753, C-1760, C-1763, C-1764, C-1769, C-1771, C-1773, C-1777, C-1778, C-1779, C-1783, C-1784, C-1785, C-1786, C-1787, C-1789, C-1790, C-1796, C-1799*
 
 ---
 
@@ -601,7 +601,7 @@ Subject of the assassination; the host reports his texts, dreams and her friends
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13937, C-13938, C-13939, C-13960, C-13988, C-13999, C-14000*
+*Related: C-1711, C-1712, C-1713, C-1744, C-1785, C-1799, C-1800*
 
 ---
 
@@ -609,7 +609,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13986, C-13998*
+*Related: C-1783, C-1796*
 
 ---
 
@@ -617,7 +617,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13982*
+*Related: C-1773*
 
 ---
 
@@ -625,7 +625,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13962, C-13963, C-13965, C-13966, C-13968, C-13969, C-13970, C-13971, C-13980*
+*Related: C-1748, C-1749, C-1751, C-1752, C-1754, C-1755, C-1756, C-1757, C-1770*
 
 ---
 
@@ -633,7 +633,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13947, C-13991, C-13994, C-13995*
+*Related: C-1724, C-1788, C-1791, C-1792*
 
 ---
 
@@ -641,7 +641,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13982*
+*Related: C-1773*
 
 ---
 
@@ -649,7 +649,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13975*
+*Related: C-1761*
 
 ---
 
@@ -657,7 +657,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13982*
+*Related: C-1773*
 
 ---
 
@@ -665,7 +665,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13936, C-13944, C-13951, C-13952, C-13953, C-13954, C-13976, C-14002*
+*Related: C-1710, C-1719, C-1730, C-1731, C-1732, C-1733, C-1763, C-1804*
 
 ---
 
@@ -673,7 +673,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13949, C-13950, C-13981*
+*Related: C-1728, C-1729, C-1771*
 
 ---
 
@@ -681,7 +681,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13955, C-13956, C-13957, C-13972*
+*Related: C-1735, C-1736, C-1737, C-1758*
 
 ---
 
@@ -689,7 +689,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13951, C-13955, C-13956*
+*Related: C-1730, C-1735, C-1736*
 
 ---
 
@@ -697,7 +697,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13975, C-13980*
+*Related: C-1761, C-1770*
 
 ---
 
@@ -705,7 +705,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13983, C-13984, C-13985, C-13986, C-13987, C-13988, C-13989, C-13990, C-13992*
+*Related: C-1777, C-1778, C-1779, C-1783, C-1784, C-1785, C-1786, C-1787, C-1789*
 
 ---
 
@@ -713,7 +713,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13945*
+*Related: C-1720*
 
 ---
 
@@ -721,7 +721,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13957*
+*Related: C-1737*
 
 ---
 
@@ -729,7 +729,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13967*
+*Related: C-1753*
 
 ---
 
@@ -737,7 +737,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13985, C-13987, C-13989, C-13990*
+*Related: C-1779, C-1784, C-1786, C-1787*
 
 ---
 
@@ -745,7 +745,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13973*
+*Related: C-1759*
 
 ---
 
@@ -753,7 +753,7 @@ Existing topic reused for new claims in this episode.
 
 Pastor whose sermon clip the host plays about Kirk's succession plan and his son Mikey's call.
 
-*Related: C-13949, C-13950, C-13951, C-13952, C-13954, C-13981*
+*Related: C-1728, C-1729, C-1730, C-1731, C-1733, C-1771*
 
 ---
 
@@ -761,7 +761,7 @@ Pastor whose sermon clip the host plays about Kirk's succession plan and his son
 
 Rob McCoy's son and TPUSA chief of staff; the host analyzes his phone use at the shooting.
 
-*Related: C-13949, C-13950, C-13951, C-13952, C-13953, C-13954, C-13955, C-13956, C-13957, C-13958, C-13959, C-13976, C-13987, C-14002*
+*Related: C-1728, C-1729, C-1730, C-1731, C-1732, C-1733, C-1735, C-1736, C-1737, C-1740, C-1743, C-1763, C-1784, C-1804*
 
 ---
 
@@ -769,7 +769,7 @@ Rob McCoy's son and TPUSA chief of staff; the host analyzes his phone use at the
 
 Widow and TPUSA CEO; the camera man tells the host he spoke only to Erika and the feds about the footage.
 
-*Related: C-13965, C-13966*
+*Related: C-1751, C-1752*
 
 ---
 
@@ -777,7 +777,7 @@ Widow and TPUSA CEO; the camera man tells the host he spoke only to Erika and th
 
 Kanye West; his album party in Wyoming and his 2018 tweet about the host are discussed.
 
-*Related: C-13939, C-13942, C-13986, C-13998*
+*Related: C-1713, C-1716, C-1783, C-1796*
 
 ---
 
@@ -785,7 +785,7 @@ Kanye West; his album party in Wyoming and his 2018 tweet about the host are dis
 
 Podcaster; the host recalls flying to Wyoming after doing his show.
 
-*Related: C-13938*
+*Related: C-1712*
 
 ---
 
@@ -793,7 +793,7 @@ Podcaster; the host recalls flying to Wyoming after doing his show.
 
 Host; speaks for herself throughout.
 
-*Related: C-13936, C-13937, C-13938, C-13939, C-13940, C-13944, C-13947, C-13948, C-13960, C-13961, C-13962, C-13963, C-13964, C-13967, C-13975, C-13981, C-13983, C-13984, C-13985, C-13986, C-13988, C-13989, C-13990, C-13991, C-13992, C-13993, C-13994, C-13995, C-13996, C-13997, C-13998, C-13999, C-14000, C-14001*
+*Related: C-1710, C-1711, C-1712, C-1713, C-1714, C-1719, C-1724, C-1725, C-1744, C-1745, C-1748, C-1749, C-1750, C-1753, C-1761, C-1771, C-1777, C-1778, C-1779, C-1783, C-1785, C-1786, C-1787, C-1788, C-1789, C-1790, C-1791, C-1792, C-1793, C-1795, C-1796, C-1799, C-1800, C-1801*
 
 ---
 
@@ -801,7 +801,7 @@ Host; speaks for herself throughout.
 
 Accused shooter; the host contrasts the prosecution with real justice.
 
-*Related: C-13995*
+*Related: C-1792*
 
 ---
 
@@ -809,7 +809,7 @@ Accused shooter; the host contrasts the prosecution with real justice.
 
 Commentator the host says lied about Kirk's Israel position and then doubled down.
 
-*Related: C-13982*
+*Related: C-1773*
 
 ---
 
@@ -817,7 +817,7 @@ Commentator the host says lied about Kirk's Israel position and then doubled dow
 
 First named by the host at 00:01:39 in episode 19. Described by the host as a big-time donor to Turning Point USA whose funeral in Wyoming was the last trip she took with Charlie Kirk.
 
-*Related: C-13940, C-13941, C-13942*
+*Related: C-1714, C-1715, C-1716*
 
 ---
 
@@ -826,13 +826,13 @@ First named by the host at 00:01:39 in episode 19. Described by the host as a bi
 Node Type: Topic
 The host's theory that handlers were sent out after Kanye West's 2018 tweet to break apart her and Charlie Kirk and then manage them.
 
-*Related: C-13998*
+*Related: C-1796*
 
 ---
 
 ## V. Claim Register
 
-**C-1461** Mikey McCoy Phone-to-Ear Timing Measured at 834 Milliseconds
+**C-1734** Mikey McCoy Phone-to-Ear Timing Measured at 834 Milliseconds
 
 Claim Timestamp: 00:10:34–00:11:27
 
@@ -847,7 +847,7 @@ Investigative Direction: Obtain raw event-day footage with synchronized audio ti
 
 ---
 
-**C-1462** Host Says Footage Shows Mikey McCoy on Phone About 1 Minute 45 Seconds Before Shot
+**C-1741** Host Says Footage Shows Mikey McCoy on Phone About 1 Minute 45 Seconds Before Shot
 
 Claim Timestamp: 00:13:17
 
@@ -862,7 +862,7 @@ Investigative Direction: Cross-reference call log timestamps with footage timest
 
 ---
 
-**C-1463** Host Says Footage Shows Mikey McCoy Still on Phone at Charlie's Waiting Car
+**C-1738** Host Says Footage Shows Mikey McCoy Still on Phone at Charlie's Waiting Car
 
 Claim Timestamp: 00:12:22
 
@@ -877,7 +877,7 @@ Investigative Direction: Verify timing continuity and identify any change in pho
 
 ---
 
-**C-1464** Host Says Camera Operator Recorded Selfie Video Post-Shot
+**C-1767** Host Says Camera Operator Recorded Selfie Video Post-Shot
 
 Claim Timestamp: 00:24:44–00:25:51
 
@@ -892,7 +892,7 @@ Investigative Direction: Obtain original selfie video metadata (timestamp, devic
 
 ---
 
-**C-1465** Camera Operator Announced Charlie Kirk Dead in Selfie Video
+**C-1768** Camera Operator Announced Charlie Kirk Dead in Selfie Video
 
 Claim Timestamp: 00:24:44–00:25:51
 
@@ -907,7 +907,7 @@ Investigative Direction: Obtain video and assess whether any medical assessment 
 
 ---
 
-**C-1466** Camera Operator Sent Pre-Takedown Footage to Candace Owens
+**C-1762** Camera Operator Sent Pre-Takedown Footage to Candace Owens
 
 Claim Timestamp: 00:23:05
 
@@ -922,7 +922,7 @@ Investigative Direction: Obtain the original sent video and metadata to authenti
 
 ---
 
-**C-1467** Pastor Rob McCoy Announced TPUSA Succession Plan on 2025-09-14
+**C-1726** Pastor Rob McCoy Announced TPUSA Succession Plan on 2025-09-14
 
 Claim Timestamp: 00:07:11
 
@@ -937,7 +937,7 @@ Investigative Direction: Identify the source of Pastor McCoy's information regar
 
 ---
 
-**C-1468** Charlie Kirk Texted Death-Prophecy Statements on 2018-04-06
+**C-1781** Charlie Kirk Texted Death-Prophecy Statements on 2018-04-06
 
 Claim Timestamp: 00:38:21–00:39:19
 
@@ -952,7 +952,7 @@ Investigative Direction: Obtain authenticated message metadata (timestamps, devi
 
 ---
 
-**C-1469** Host Says Charlie Kirk Texted Her That She Was the Piece to Finish the Fight and to "Be My David"
+**C-1782** Host Says Charlie Kirk Texted Her That She Was the Piece to Finish the Fight and to "Be My David"
 
 Claim Timestamp: 00:38:21–00:39:19
 
@@ -963,11 +963,11 @@ Mentions: N-3, N-1
 
 Related Nodes:
 
-Investigative Direction: Authenticate message metadata as for C-1468.
+Investigative Direction: Authenticate message metadata as for C-1781.
 
 ---
 
-**C-1470** Charlie Kirk Stated TPUSA Would Be the Death of Him
+**C-1780** Charlie Kirk Stated TPUSA Would Be the Death of Him
 
 Claim Timestamp: 00:37:36
 
@@ -982,7 +982,7 @@ Investigative Direction: Identify any direct verbatim text within A-1266.1 that 
 
 ---
 
-**C-1471** Host's Trailer Presents Charlie Kirk Texts on Jewish Donor Pressure on TPUSA
+**C-1774** Host's Trailer Presents Charlie Kirk Texts on Jewish Donor Pressure on TPUSA
 
 Claim Timestamp: 00:34:49–00:35:33
 
@@ -997,7 +997,7 @@ Investigative Direction: Authenticate text message source and timestamp (referen
 
 ---
 
-**C-1472** UVU Event Clip Shows Charlie Kirk and the Host Joking About a Sign Saying He Is Not Her Friend
+**C-1746** UVU Event Clip Shows Charlie Kirk and the Host Joking About a Sign Saying He Is Not Her Friend
 
 Claim Timestamp: 00:15:42
 
@@ -1012,7 +1012,7 @@ Investigative Direction: Identify the date, venue, and full transcript of the UV
 
 ---
 
-**C-1473** Candace Owens and Charlie Kirk Fished in British Columbia
+**C-1717** Candace Owens and Charlie Kirk Fished in British Columbia
 
 Claim Timestamp: 00:03:02
 
@@ -1027,7 +1027,7 @@ Investigative Direction: Confirm photograph date and photographer identity.
 
 ---
 
-**C-1474** Candace Owens Traveled to College Campuses with Charlie Kirk for Six Years
+**C-1747** Candace Owens Traveled to College Campuses with Charlie Kirk for Six Years
 
 Claim Timestamp: 00:16:16–00:17:08
 
@@ -1040,7 +1040,7 @@ Investigative Direction: Cross-reference against TPUSA event records and tour it
 
 ---
 
-**C-1475** John Miller X Post Characterized Josh Hammer as "the Good Guy" Insincerely
+**C-1776** John Miller X Post Characterized Josh Hammer as "the Good Guy" Insincerely
 
 Claim Timestamp: 00:35:33
 
@@ -1054,7 +1054,7 @@ Investigative Direction: Locate original post URL and timestamp on X.
 
 ---
 
-**C-1476** Josh Hammer Threatened Defamation Action
+**C-1775** Josh Hammer Threatened Defamation Action
 
 Claim Timestamp: 00:34:49–00:35:33
 
@@ -1069,7 +1069,7 @@ Investigative Direction: Obtain any written cease-and-desist or formal litigatio
 
 ---
 
-**C-1477** Camera Operator Brought into TPUSA by Tyler Bowyer
+**C-1765** Camera Operator Brought into TPUSA by Tyler Bowyer
 
 Claim Timestamp: 00:23:56
 
@@ -1083,7 +1083,7 @@ Investigative Direction: Obtain TPUSA hiring/contract records for the unnamed AV
 
 ---
 
-**C-1478** Host Says Kolvet and Sheridan Were Brought In by Tyler Bowyer
+**C-1722** Host Says Kolvet and Sheridan Were Brought In by Tyler Bowyer
 
 Claim Timestamp: 00:04:39
 
@@ -1097,7 +1097,7 @@ Investigative Direction: Verify via TPUSA organizational records.
 
 ---
 
-**C-1479** Stacy Sheridan Brought into TPUSA by Tyler Bowyer
+**C-1723** Stacy Sheridan Brought into TPUSA by Tyler Bowyer
 
 Claim Timestamp: 00:04:39
 
@@ -1111,7 +1111,7 @@ Investigative Direction: Verify via TPUSA organizational records.
 
 ---
 
-**C-1480** Charlie Kirk's Stated Final Words – Book Promotion
+**C-1772** Charlie Kirk's Stated Final Words – Book Promotion
 
 Claim Timestamp: 00:33:40
 
@@ -1126,7 +1126,7 @@ Investigative Direction: Obtain authoritative transcript of Kirk's on-stage rema
 
 ---
 
-**C-1481** Frank Turek's Reaction Described as Normal Post-Shot Behavior
+**C-1802** Frank Turek's Reaction Described as Normal Post-Shot Behavior
 
 Claim Timestamp: 00:56:09–00:57:03
 
@@ -1140,7 +1140,7 @@ Investigative Direction: Locate video evidence corroborating Turk's specific mov
 
 ---
 
-**C-1482** Ian Carroll Commented on Host's Return
+**C-1794** Ian Carroll Commented on Host's Return
 
 Claim Timestamp: 00:51:43
 
@@ -1154,7 +1154,7 @@ Investigative Direction: Locate original comment thread.
 
 ---
 
-**C-1483** Tyler Robinson Court Appearance via Zoom Without Face Visibility
+**C-1798** Tyler Robinson Court Appearance via Zoom Without Face Visibility
 
 Claim Timestamp: 00:53:26
 
@@ -1168,7 +1168,7 @@ Investigative Direction: Obtain court appearance records and any media coverage 
 
 ---
 
-**C-1484** Third-Party Viewer Perceived Camera Operator Reaction as Abnormal
+**C-1803** Third-Party Viewer Perceived Camera Operator Reaction as Abnormal
 
 Claim Timestamp: 00:56:09
 
@@ -1183,7 +1183,7 @@ Investigative Direction: Corroborate viewer characterization against any indepen
 
 ---
 
-**C-1485** Andrew Kolvet Did Not Respond to Comment Request
+**C-1742** Andrew Kolvet Did Not Respond to Comment Request
 
 Claim Timestamp: 00:13:46–00:14:46
 
@@ -1197,7 +1197,7 @@ Investigative Direction: Obtain any written correspondence or call records from 
 
 ---
 
-**C-1486** Host Asked for Devil's Advocate on Mikey McCoy
+**C-1739** Host Asked for Devil's Advocate on Mikey McCoy
 
 Claim Timestamp: 00:12:22
 
@@ -1212,7 +1212,7 @@ Investigative Direction: Document the scenarios considered and rejected.
 
 ---
 
-**C-1487** Host Credits Online Researchers for Viral September 10 Video
+**C-1727** Host Credits Online Researchers for Viral September 10 Video
 
 Claim Timestamp: 00:07:45
 
@@ -1226,7 +1226,7 @@ Investigative Direction: Cross-reference name spelling against prior episodes an
 
 ---
 
-**C-1488** Host referenced Scott Adams video on Kanye tweet (verbal reference)
+**C-1797** Host referenced Scott Adams video on Kanye tweet (verbal reference)
 
 Claim Timestamp: 00:52:47
 
@@ -1240,7 +1240,7 @@ Investigative Direction: Locate the referenced Scott Adams video and timestamp t
 
 ---
 
-**C-13936** Host Says Kirk's Closest Allies and the White House Moved On Quickly
+**C-1710** Host Says Kirk's Closest Allies and the White House Moved On Quickly
 
 Claim Timestamp: 00:00:00
 
@@ -1256,7 +1256,7 @@ Investigative Direction: Compare the host's account with the public statements a
 
 ---
 
-**C-13937** Host Says Kirk Knew She Alone Would Step Up to Defend Him
+**C-1711** Host Says Kirk Knew She Alone Would Step Up to Defend Him
 
 Claim Timestamp: 00:01:18
 
@@ -1272,7 +1272,7 @@ Investigative Direction: The proof would be Kirk's own messages to the host; com
 
 ---
 
-**C-13938** Host Says Kirk Paid Her Flight to Wyoming for the Rogan Appearance
+**C-1712** Host Says Kirk Paid Her Flight to Wyoming for the Rogan Appearance
 
 Claim Timestamp: 00:01:39
 
@@ -1288,7 +1288,7 @@ Investigative Direction: Check the date of the Rogan recording and any travel or
 
 ---
 
-**C-13939** Host Says Kanye Invited Her to a Wyoming Album Release Party
+**C-1713** Host Says Kanye Invited Her to a Wyoming Album Release Party
 
 Claim Timestamp: 00:01:39
 
@@ -1304,7 +1304,7 @@ Investigative Direction: Confirm the date and location of the Wyoming album list
 
 ---
 
-**C-13940** Host Says Her Last Wyoming Trip Was with Kirk for Foster Friess's Funeral
+**C-1714** Host Says Her Last Wyoming Trip Was with Kirk for Foster Friess's Funeral
 
 Claim Timestamp: 00:01:39
 
@@ -1320,7 +1320,7 @@ Investigative Direction: Locate Foster Friess's funeral notice and attendee repo
 
 ---
 
-**C-13941** Host Calls Foster Friess a Big-Time TPUSA Donor
+**C-1715** Host Calls Foster Friess a Big-Time TPUSA Donor
 
 Claim Timestamp: 00:01:39
 
@@ -1336,7 +1336,7 @@ Investigative Direction: Check TPUSA donor disclosures and press coverage for Fr
 
 ---
 
-**C-13942** Host Says Kanye's Album Party Venue Later Hosted Friess's Funeral
+**C-1716** Host Says Kanye's Album Party Venue Later Hosted Friess's Funeral
 
 Claim Timestamp: 00:01:39
 
@@ -1352,7 +1352,7 @@ Investigative Direction: Verify the venue of the album event and of the funeral 
 
 ---
 
-**C-13943** Host Says It Had Been 47 Days Since Kirk's Death
+**C-1718** Host Says It Had Been 47 Days Since Kirk's Death
 
 Claim Timestamp: 00:03:46
 
@@ -1368,7 +1368,7 @@ Investigative Direction: Count from 2025-09-10 to the episode date 2025-10-27; t
 
 ---
 
-**C-13944** Host Says She Expected the Inner Circle to Form a Group Chat for Answers
+**C-1719** Host Says She Expected the Inner Circle to Form a Group Chat for Answers
 
 Claim Timestamp: 00:03:46
 
@@ -1384,7 +1384,7 @@ Investigative Direction: Ask the named individuals whether any such group chat e
 
 ---
 
-**C-13945** Host Says Stacy Sheridan Held the Camera at the Air Force Two Casket Escort
+**C-1720** Host Says Stacy Sheridan Held the Camera at the Air Force Two Casket Escort
 
 Claim Timestamp: 00:03:46
 
@@ -1400,7 +1400,7 @@ Investigative Direction: Identify the casket-arrival footage and confirm who was
 
 ---
 
-**C-13946** Host Calls Stacy Sheridan TPUSA's Chief Money Person
+**C-1721** Host Calls Stacy Sheridan TPUSA's Chief Money Person
 
 Claim Timestamp: 00:03:46
 
@@ -1416,7 +1416,7 @@ Investigative Direction: Check Sheridan's TPUSA title and hire date in TPUSA sta
 
 ---
 
-**C-13947** Host Says a Source Reports Kirk's Circle Believes the Lone-Shooter Narrative
+**C-1724** Host Says a Source Reports Kirk's Circle Believes the Lone-Shooter Narrative
 
 Claim Timestamp: 00:05:27
 
@@ -1432,7 +1432,7 @@ Investigative Direction: Seek on-record statements from Bowyer, Kolvet and Sheri
 
 ---
 
-**C-13948** Host Says a Source Reports TPUSA Headquarters Is at Business as Usual
+**C-1725** Host Says a Source Reports TPUSA Headquarters Is at Business as Usual
 
 Claim Timestamp: 00:05:27
 
@@ -1448,7 +1448,7 @@ Investigative Direction: Ask former or current TPUSA staff about operations in t
 
 ---
 
-**C-13949** Pastor McCoy Says His Son Told Him That's Not Charlie's Plan
+**C-1728** Pastor McCoy Says His Son Told Him That's Not Charlie's Plan
 
 Claim Timestamp: 00:08:30
 
@@ -1464,7 +1464,7 @@ Investigative Direction: Obtain the full recording of the sermon and confirm whi
 
 ---
 
-**C-13950** Pastor McCoy Names His Sons' TPUSA Roles in the Sermon
+**C-1729** Pastor McCoy Names His Sons' TPUSA Roles in the Sermon
 
 Claim Timestamp: 00:08:30
 
@@ -1480,7 +1480,7 @@ Investigative Direction: Compare against TPUSA leadership listings and filings f
 
 ---
 
-**C-13951** Pastor McCoy Says Mikey Called Him the Minute Charlie Was Shot
+**C-1730** Pastor McCoy Says Mikey Called Him the Minute Charlie Was Shot
 
 Claim Timestamp: 00:08:30
 
@@ -1492,11 +1492,11 @@ Anchored Artifacts: A-3287.1
 Mentions: N-17, N-190, N-1
 Related Nodes: N-10338, N-10198
 Tags: relevance:core
-Investigative Direction: Obtain McCoy's phone records for the call time and compare them with the host's phone-timing analysis (C-1461).
+Investigative Direction: Obtain McCoy's phone records for the call time and compare them with the host's phone-timing analysis (C-1734).
 
 ---
 
-**C-13952** Host Says Mikey McCoy Had No Blood Near Him Despite the Sermon
+**C-1731** Host Says Mikey McCoy Had No Blood Near Him Despite the Sermon
 
 Claim Timestamp: 00:09:26
 
@@ -1512,7 +1512,7 @@ Investigative Direction: Re-listen to the sermon to settle whether McCoy meant M
 
 ---
 
-**C-13953** Host Says Mikey McCoy Was Behind the Tent When Charlie Was Shot
+**C-1732** Host Says Mikey McCoy Was Behind the Tent When Charlie Was Shot
 
 Claim Timestamp: 00:09:26
 
@@ -1528,7 +1528,7 @@ Investigative Direction: Map Mikey McCoy's position from stage and crowd footage
 
 ---
 
-**C-13954** Host Says Rob McCoy Said He Was Watching and Asks What He Watched
+**C-1733** Host Says Rob McCoy Said He Was Watching and Asks What He Watched
 
 Claim Timestamp: 00:09:26
 
@@ -1544,7 +1544,7 @@ Investigative Direction: Check the sermon audio wording (the clip reads "I'm wat
 
 ---
 
-**C-13955** Host Says the 834 Milliseconds Left No Time to Dial
+**C-1735** Host Says the 834 Milliseconds Left No Time to Dial
 
 Claim Timestamp: 00:10:34
 
@@ -1555,13 +1555,13 @@ Transcript Snippet: there's no dialing. Mikey didn't have time to dial.
 Anchored Artifacts: A-1261.1
 Mentions: N-190
 Related Nodes: N-10226, N-10338
-Supports: C-1461
+Supports: C-1734
 Tags: relevance:core
 Investigative Direction: Obtain the raw frame-level footage with audio sync and test whether a speed-dial is possible in that interval.
 
 ---
 
-**C-13956** Host Says Mikey Was on a Call Within Two and a Half Seconds on the Other Side of the Tent
+**C-1736** Host Says Mikey Was on a Call Within Two and a Half Seconds on the Other Side of the Tent
 
 Claim Timestamp: 00:10:34
 
@@ -1577,7 +1577,7 @@ Investigative Direction: Locate the camera angle showing both positions and conf
 
 ---
 
-**C-13957** Host Says She Tracked Mikey from Every Angle and He Does Not Dial
+**C-1737** Host Says She Tracked Mikey from Every Angle and He Does Not Dial
 
 Claim Timestamp: 00:11:34
 
@@ -1593,7 +1593,7 @@ Investigative Direction: Request the host's angle folder and verify the claim ag
 
 ---
 
-**C-13958** Host Says the Only Logical Conclusion Is That Mikey Was Already on a Call at 12:23
+**C-1740** Host Says the Only Logical Conclusion Is That Mikey Was Already on a Call at 12:23
 
 Claim Timestamp: 00:12:22
 
@@ -1604,13 +1604,13 @@ Transcript Snippet: Mikey was already on a phone call at 12:23 p. m. By 12:23 p.
 Anchored Artifacts: A-1261.1
 Mentions: N-190
 Related Nodes: N-10193
-Supports: C-1462
+Supports: C-1741
 Tags: relevance:core
 Investigative Direction: Authenticate the footage clock against the 12:23 p.m. figure and request Mikey McCoy's call log for that time.
 
 ---
 
-**C-13959** Host Says McCoy and Kolvet Have Issued No Statement
+**C-1743** Host Says McCoy and Kolvet Have Issued No Statement
 
 Claim Timestamp: 00:14:46
 
@@ -1626,7 +1626,7 @@ Investigative Direction: Search McCoy's and TPUSA's channels for any statement o
 
 ---
 
-**C-13960** Host Says She Helped Build TPUSA
+**C-1744** Host Says She Helped Build TPUSA
 
 Claim Timestamp: 00:14:46
 
@@ -1642,7 +1642,7 @@ Investigative Direction: Corroborate the host's role in TPUSA with early event l
 
 ---
 
-**C-13961** Host Says Her Tribute Clip of Kirk Was Unknowingly from UVU
+**C-1745** Host Says Her Tribute Clip of Kirk Was Unknowingly from UVU
 
 Claim Timestamp: 00:14:46
 
@@ -1658,7 +1658,7 @@ Investigative Direction: Match the tribute clip with TPUSA's UVU event archive t
 
 ---
 
-**C-13962** Host Says She Never Had the Camera Man Standing Beside Her at Any College Event
+**C-1748** Host Says She Never Had the Camera Man Standing Beside Her at Any College Event
 
 Claim Timestamp: 00:16:16
 
@@ -1674,7 +1674,7 @@ Investigative Direction: Ask other TPUSA speakers and stage crews whether an AV 
 
 ---
 
-**C-13963** Host Says the Camera Man Acknowledged New Procedures That Day
+**C-1749** Host Says the Camera Man Acknowledged New Procedures That Day
 
 Claim Timestamp: 00:17:08
 
@@ -1685,13 +1685,13 @@ Transcript Snippet: He acknowledged that a lot of new stuff was happening on tha
 Anchored Artifacts: A-3288.1
 Mentions: N-3, N-180
 Related Nodes: N-10192, N-10076
-Supports: C-9302
+Supports: C-1130
 Tags: relevance:core
 Investigative Direction: Play the host's recording of the call and list each change he describes.
 
 ---
 
-**C-13964** Host Says She Recorded Her Phone Call with the Camera Man
+**C-1750** Host Says She Recorded Her Phone Call with the Camera Man
 
 Claim Timestamp: 00:17:08
 
@@ -1707,7 +1707,7 @@ Investigative Direction: Obtain the recording, its date and the host's call note
 
 ---
 
-**C-13965** Host Says the Camera Man Said He Spoke Only to Erika and the Feds About the Footage
+**C-1751** Host Says the Camera Man Said He Spoke Only to Erika and the Feds About the Footage
 
 Claim Timestamp: 00:17:08
 
@@ -1723,7 +1723,7 @@ Investigative Direction: Compare with Erika Kirk's and the FBI's statements abou
 
 ---
 
-**C-13966** Host Says the Camera Man Said He Secured the Footage to Spare Erika
+**C-1752** Host Says the Camera Man Said He Secured the Footage to Spare Erika
 
 Claim Timestamp: 00:18:21
 
@@ -1739,7 +1739,7 @@ Investigative Direction: Ask the camera man and Erika Kirk's office whether the 
 
 ---
 
-**C-13967** Host Says FaceTime Footage Showed No Blood on Charlie
+**C-1753** Host Says FaceTime Footage Showed No Blood on Charlie
 
 Claim Timestamp: 00:18:42
 
@@ -1755,7 +1755,7 @@ Investigative Direction: Obtain the camera man's rear-camera footage and review 
 
 ---
 
-**C-13968** Host Says the Camera Man Said He Must First Consult TPUSA Lawyers
+**C-1754** Host Says the Camera Man Said He Must First Consult TPUSA Lawyers
 
 Claim Timestamp: 00:18:42
 
@@ -1771,7 +1771,7 @@ Investigative Direction: Ask TPUSA's counsel and the camera man whether lawyers 
 
 ---
 
-**C-13969** Host Says the Camera Man Then Conceded He Owns the Footage
+**C-1755** Host Says the Camera Man Then Conceded He Owns the Footage
 
 Claim Timestamp: 00:18:42
 
@@ -1787,7 +1787,7 @@ Investigative Direction: Check the camera man's contract with TPUSA on footage o
 
 ---
 
-**C-13970** Host Says the Camera Man Claimed He Did Not Know How to Send the Footage
+**C-1756** Host Says the Camera Man Claimed He Did Not Know How to Send the Footage
 
 Claim Timestamp: 00:19:28
 
@@ -1803,7 +1803,7 @@ Investigative Direction: Play the recording and ask the camera man to explain th
 
 ---
 
-**C-13971** Host Says the Camera Man Feared Google Might Hack Him
+**C-1757** Host Says the Camera Man Feared Google Might Hack Him
 
 Claim Timestamp: 00:19:28
 
@@ -1819,7 +1819,7 @@ Investigative Direction: Play the recording and confirm the exact wording.
 
 ---
 
-**C-13972** Host Says the Camera Man Said He Was on the Phone with Ops in Arizona
+**C-1758** Host Says the Camera Man Said He Was on the Phone with Ops in Arizona
 
 Claim Timestamp: 00:20:32
 
@@ -1830,13 +1830,13 @@ Transcript Snippet: he was on the phone with the ops that were back in Arizona w
 Anchored Artifacts: A-3288.1
 Mentions: N-180
 Related Nodes: N-10192, N-10226
-Supports: C-9302
+Supports: C-1130
 Tags: relevance:core
 Investigative Direction: Identify the Arizona ops and obtain call logs for the camera man's phone at the time of the shooting.
 
 ---
 
-**C-13973** Host Says the Camera Man Called the Arizona Ops Watch a First
+**C-1759** Host Says the Camera Man Called the Arizona Ops Watch a First
 
 Claim Timestamp: 00:21:27
 
@@ -1847,13 +1847,13 @@ Transcript Snippet: In fact, this was the first time we were doing it. He said t
 Anchored Artifacts: A-3288.1
 Mentions: N-180
 Related Nodes: N-10192, N-11093
-Supports: C-9302
+Supports: C-1130
 Tags: relevance:core
 Investigative Direction: Check prior tour-stop production records for any Arizona remote-watch team and identify the two operators.
 
 ---
 
-**C-13974** Host Says the Camera Man Explained the Arizona Watch as Racing to Post Clips
+**C-1760** Host Says the Camera Man Explained the Arizona Watch as Racing to Post Clips
 
 Claim Timestamp: 00:21:27
 
@@ -1869,7 +1869,7 @@ Investigative Direction: Ask TPUSA social staff whether a live-clip desk operate
 
 ---
 
-**C-13975** Host Says She Knew Bowyer Lied That Police Ordered the Cameras Down
+**C-1761** Host Says She Knew Bowyer Lied That Police Ordered the Cameras Down
 
 Claim Timestamp: 00:22:51
 
@@ -1880,13 +1880,13 @@ Transcript Snippet: It's also the reason that I knew that Tyler Bowyer was lying
 Anchored Artifacts: A-3290.1
 Mentions: N-3, N-11, N-180
 Related Nodes: N-10346, N-10167
-Contradicts: C-1366
+Contradicts: C-1363
 Tags: relevance:core
 Investigative Direction: Retrieve Bowyer's tweet and compare it with the camera man's footage and any police statement on camera removal.
 
 ---
 
-**C-13976** Host Says the Camera Man Stood in Front of Mikey McCoy When Charlie Was Shot
+**C-1763** Host Says the Camera Man Stood in Front of Mikey McCoy When Charlie Was Shot
 
 Claim Timestamp: 00:23:05
 
@@ -1902,7 +1902,7 @@ Investigative Direction: Cross-check both men's positions across angles of the t
 
 ---
 
-**C-13977** Host Says the Camera Man Saw Charlie Bleeding and Ran Only a Few Yards
+**C-1764** Host Says the Camera Man Saw Charlie Bleeding and Ran Only a Few Yards
 
 Claim Timestamp: 00:23:05
 
@@ -1918,7 +1918,7 @@ Investigative Direction: Review the rear-camera and selfie footage for his path 
 
 ---
 
-**C-13978** Host Says the Camera Man Ran a Few Yards to a Grassy Knoll and Took Out His Phone
+**C-1766** Host Says the Camera Man Ran a Few Yards to a Grassy Knoll and Took Out His Phone
 
 Claim Timestamp: 00:23:56
 
@@ -1934,7 +1934,7 @@ Investigative Direction: Locate the spot on the UVU site plan and compare with t
 
 ---
 
-**C-13979** Host Says the Selfie Was the First Announcement That Charlie Was Dead
+**C-1769** Host Says the Selfie Was the First Announcement That Charlie Was Dead
 
 Claim Timestamp: 00:25:51
 
@@ -1950,7 +1950,7 @@ Investigative Direction: Compare the selfie timestamp with the first public or m
 
 ---
 
-**C-13980** Host Says the Camera Man Went to Get the Cameras a Minute After the Selfie
+**C-1770** Host Says the Camera Man Went to Get the Cameras a Minute After the Selfie
 
 Claim Timestamp: 00:26:48
 
@@ -1966,7 +1966,7 @@ Investigative Direction: Time the selfie file's end against footage of the camer
 
 ---
 
-**C-13981** Host Says Pastor McCoy's Speech Claimed Private Words from Charlie
+**C-1771** Host Says Pastor McCoy's Speech Claimed Private Words from Charlie
 
 Claim Timestamp: 00:32:26
 
@@ -1982,7 +1982,7 @@ Investigative Direction: Locate the McCoy speech that the host means; the senten
 
 ---
 
-**C-13982** Host Says Josh Hammer Doubled Down Instead of Apologizing for Lying About Kirk and Israel
+**C-1773** Host Says Josh Hammer Doubled Down Instead of Apologizing for Lying About Kirk and Israel
 
 Claim Timestamp: 00:33:40
 
@@ -1993,13 +1993,13 @@ Transcript Snippet: You would think he would apologize for lying about Charlie's
 Anchored Artifacts: 
 Mentions: N-55, N-1
 Related Nodes: N-10187, N-10148, N-10056
-Supports: C-12096
+Supports: C-1448
 Tags: relevance:context
 Investigative Direction: Compare Hammer's public statements on Kirk's Israel position with the text messages the host aired.
 
 ---
 
-**C-13983** Host Says She Had a Dream in Which Charlie Said He Was Betrayed
+**C-1777** Host Says She Had a Dream in Which Charlie Said He Was Betrayed
 
 Claim Timestamp: 00:36:29
 
@@ -2010,13 +2010,13 @@ Transcript Snippet: a very vivid dream uh whereupon Charlie told me that he had 
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10389
-Supports: C-12064
+Supports: C-1405
 Tags: relevance:tangential
 Investigative Direction: Refer to the earlier episode where the dream was first described; no external record exists.
 
 ---
 
-**C-13984** Host Says Charlie Texted Her His Vivid Dreams
+**C-1778** Host Says Charlie Texted Her His Vivid Dreams
 
 Claim Timestamp: 00:37:09
 
@@ -2032,7 +2032,7 @@ Investigative Direction: Obtain the message thread with Charlie's dream texts, w
 
 ---
 
-**C-13985** Host Says in One April Charlie Kept Insisting He Would Die Young
+**C-1779** Host Says in One April Charlie Kept Insisting He Would Die Young
 
 Claim Timestamp: 00:37:09
 
@@ -2043,13 +2043,13 @@ Transcript Snippet: there was this period in April where Charlie kept insisting 
 Anchored Artifacts: A-1266.1
 Mentions: N-3, N-1
 Related Nodes: N-10389, N-10806
-Supports: C-1470
+Supports: C-1780
 Tags: relevance:context
 Investigative Direction: Obtain the full April message thread to verify dates, wording and frequency.
 
 ---
 
-**C-13986** Host Dates the Death-Prophecy Texts Weeks Before Kanye's Tweet
+**C-1783** Host Dates the Death-Prophecy Texts Weeks Before Kanye's Tweet
 
 Claim Timestamp: 00:38:21
 
@@ -2065,7 +2065,7 @@ Investigative Direction: Match the thread date to Kanye West's tweet date from t
 
 ---
 
-**C-13987** Host Says Mikey McCoy Has Access to All of Kirk's Messages and Could Verify Hers
+**C-1784** Host Says Mikey McCoy Has Access to All of Kirk's Messages and Could Verify Hers
 
 Claim Timestamp: 00:38:21
 
@@ -2081,7 +2081,7 @@ Investigative Direction: Ask McCoy and TPUSA whether they hold Kirk's phone data
 
 ---
 
-**C-13988** Charlie Texted the Host She Would Be the Iron Lady of America
+**C-1785** Charlie Texted the Host She Would Be the Iron Lady of America
 
 Claim Timestamp: 00:38:21
 
@@ -2097,7 +2097,7 @@ Investigative Direction: Authenticate the message as part of the April 2018 thre
 
 ---
 
-**C-13989** Charlie Texted the Host a True Prophecy He Hoped Was Wrong
+**C-1786** Charlie Texted the Host a True Prophecy He Hoped Was Wrong
 
 Claim Timestamp: 00:39:19
 
@@ -2113,7 +2113,7 @@ Investigative Direction: Authenticate the message and its place in the thread.
 
 ---
 
-**C-13990** Charlie Texted He Was Not Afraid but Telling Her What He Knew to Be True
+**C-1787** Charlie Texted He Was Not Afraid but Telling Her What He Knew to Be True
 
 Claim Timestamp: 00:39:19
 
@@ -2129,7 +2129,7 @@ Investigative Direction: Authenticate the reply and its timing against the prior
 
 ---
 
-**C-13991** Host Says Podcasters and Creators Taking Money Tell People Not to Look at the Case
+**C-1788** Host Says Podcasters and Creators Taking Money Tell People Not to Look at the Case
 
 Claim Timestamp: 00:40:42
 
@@ -2145,7 +2145,7 @@ Investigative Direction: Ask the host to name the podcasters and funding relatio
 
 ---
 
-**C-13992** Host Says People Betrayed Charlie and Are Now Scared
+**C-1789** Host Says People Betrayed Charlie and Are Now Scared
 
 Claim Timestamp: 00:40:42
 
@@ -2161,7 +2161,7 @@ Investigative Direction: The host does not name the betrayers here; request her 
 
 ---
 
-**C-13993** Host Says She Told Charlie on a Wyoming Hike She Opposes the Death Penalty
+**C-1790** Host Says She Told Charlie on a Wyoming Hike She Opposes the Death Penalty
 
 Claim Timestamp: 00:41:32
 
@@ -2177,7 +2177,7 @@ Investigative Direction: No external record; the exchange is the host's recollec
 
 ---
 
-**C-13994** Host Says Many People Are Involved Beyond the Lone Shooter
+**C-1791** Host Says Many People Are Involved Beyond the Lone Shooter
 
 Claim Timestamp: 00:42:19
 
@@ -2193,7 +2193,7 @@ Investigative Direction: Ask the host which stages and which people she means, a
 
 ---
 
-**C-13995** Host Says Real Justice Will Not Be the Tyler Robinson Kind
+**C-1792** Host Says Real Justice Will Not Be the Tyler Robinson Kind
 
 Claim Timestamp: 00:44:48
 
@@ -2209,7 +2209,7 @@ Investigative Direction: Track the Robinson prosecution record against the host'
 
 ---
 
-**C-13996** Host Urges Self-Publishing and Says Publishers Can Change History
+**C-1793** Host Urges Self-Publishing and Says Publishers Can Change History
 
 Claim Timestamp: 00:50:32
 
@@ -2225,7 +2225,7 @@ Investigative Direction: Opinion-adjacent; no verification path beyond the book'
 
 ---
 
-**C-13997** Host Says Her Book Traces the Feminist Movement to the Pale Settlement of Russia
+**C-1795** Host Says Her Book Traces the Feminist Movement to the Pale Settlement of Russia
 
 Claim Timestamp: 00:51:43
 
@@ -2241,7 +2241,7 @@ Investigative Direction: Check the chapter's sources in the book; this is a swee
 
 ---
 
-**C-13998** Host Says Handlers Were Sent After Kanye's Tweet to Break Up Her and Charlie
+**C-1796** Host Says Handlers Were Sent After Kanye's Tweet to Break Up Her and Charlie
 
 Claim Timestamp: 00:52:17
 
@@ -2257,7 +2257,7 @@ Investigative Direction: The host promises later detail; look for her specific e
 
 ---
 
-**C-13999** Host Says Critics Claimed She Had Not Spoken to Charlie Since 2017
+**C-1799** Host Says Critics Claimed She Had Not Spoken to Charlie Since 2017
 
 Claim Timestamp: 00:54:36
 
@@ -2273,7 +2273,7 @@ Investigative Direction: Compare the host's message records with Charlie against
 
 ---
 
-**C-14000** Host Says Nobody at TPUSA Defended Her Against Those Lies
+**C-1800** Host Says Nobody at TPUSA Defended Her Against Those Lies
 
 Claim Timestamp: 00:54:36
 
@@ -2289,7 +2289,7 @@ Investigative Direction: Review TPUSA statements about the host after 2025-09-10
 
 ---
 
-**C-14001** Host Says Large Money Was Spent on Lies About Her
+**C-1801** Host Says Large Money Was Spent on Lies About Her
 
 Claim Timestamp: 00:54:36
 
@@ -2305,7 +2305,7 @@ Investigative Direction: Ask the host what spending she means; compare with paid
 
 ---
 
-**C-14002** Host Says Mikey McCoy Stayed Standing and Walking After the Shot
+**C-1804** Host Says Mikey McCoy Stayed Standing and Walking After the Shot
 
 Claim Timestamp: 00:57:03
 
@@ -2492,10 +2492,10 @@ Confidence: high
 - **Artifact verbally referenced but not directly shown – Scott Adams video:** Host references a Scott Adams video about Kanye West's tweet "ripping a hole through the universe" and states she will "dig that up"; video not displayed in this episode.
 - **Timestamp uncertainty – A-1263.1 (British Columbia fishing photo):** Date and exact photographer identity (Donald Trump Jr. vs. Corey Lewandowski) not definitively confirmed.
 - **Possible transcription error – A-1268.1: "irishbaldwin" vs. "Ireland Baldwin" spelling; "Roseanne Bar" vs. "Roseanne Barr"; reference to Alec Baldwin as father is correct but spelling variations noted.**
-- **Host inference treated as candidate investigation – "Mikey was already on a phone call at 12:23 p.m." (C-1462 framing):** The 12:23 p.m. figure is introduced by host as her own inference based on footage; the timestamp itself should be authenticated against the original footage's metadata clock.
-- **Claim failed admission test – C-1474:** Six-year college tour assertion is host testimonial without documentary anchor; inscribed as claim but with no artifact and low confidence.
-- **Claim failed admission test – C-1480:** "Charlie Kirk's last words" framed sarcastically; no documentary record provided; should not be treated as factual claim.
-- **Claim failed admission test – C-1481:** Frank Turek characterization is assertion based on host/Ian Carroll recollection; no specific footage cited.
+- **Host inference treated as candidate investigation – "Mikey was already on a phone call at 12:23 p.m." (C-1741 framing):** The 12:23 p.m. figure is introduced by host as her own inference based on footage; the timestamp itself should be authenticated against the original footage's metadata clock.
+- **Claim failed admission test – C-1747:** Six-year college tour assertion is host testimonial without documentary anchor; inscribed as claim but with no artifact and low confidence.
+- **Claim failed admission test – C-1772:** "Charlie Kirk's last words" framed sarcastically; no documentary record provided; should not be treated as factual claim.
+- **Claim failed admission test – C-1802:** Frank Turek characterization is assertion based on host/Ian Carroll recollection; no specific footage cited.
 - **Requires human verification – Charlie Kirk text messages (A-1266 family):** Authentication of message metadata, device origin, and chain of custody has not been independently established in this episode. Host notes Mikey McCoy has access to all of Kirk's messages and could verify; this remains a host assertion.
 
 ---

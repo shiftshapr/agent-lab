@@ -1,7 +1,7 @@
 {
  "_doc": "Claims whose timestamp is off their snippet's spoken time. Only ep11 remains: its transcript has gaps and no markers after 00:49:16, so these wait for the ROADMAP 2 re-fetch. Fix and remove; never add.",
  "claims": [
-  "C-13860",
-  "C-13861"
+  "C-1058",
+  "C-1060"
  ]
 }

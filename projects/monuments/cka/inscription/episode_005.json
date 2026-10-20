@@ -31,7 +31,7 @@
           "ref": "A-1111.1",
           "description": "Alleged photograph of Tyler Robinson taken at a nearby Dairy Queen at 6:38 p.m. on the day of the Kirk shooting, circulated by locals and presented on screen.",
           "related_claims": [
-            "C-1186"
+            "C-403"
           ],
           "related_nodes": [
             "N-40",
@@ -58,7 +58,7 @@
           "ref": "A-1112.1",
           "description": "Doorbell-camera / outdoor-camera footage of a person running on a residential street near UVU, broadcast by TMZ on September 10, 2025.",
           "related_claims": [
-            "C-1189"
+            "C-409"
           ],
           "related_nodes": [
             "N-73",
@@ -79,8 +79,8 @@
           "ref": "A-1112.2",
           "description": "Local-news clip in which Erwin Steele is interviewed in his front yard the morning after the shooting, confirming he shared camera footage with authorities.",
           "related_claims": [
-            "C-1189",
-            "C-1198"
+            "C-409",
+            "C-429"
           ],
           "related_nodes": [
             "N-73",
@@ -106,8 +106,8 @@
           "ref": "A-1113.1",
           "description": "BBC news article in which Sherri Steele describes a large police presence outside Tyler Robinson's townhouse while she walked her dog in the evening.",
           "related_claims": [
-            "C-1190",
-            "C-1199"
+            "C-419",
+            "C-423"
           ],
           "related_nodes": [
             "N-74",
@@ -136,7 +136,7 @@
           "ref": "A-1114.1",
           "description": "Good Morning America segment the morning after the Kirk shooting featuring Tiffany Barker, her niece L Steel, and Mia Grant describing their eyewitness account from the UVU event.",
           "related_claims": [
-            "C-1191"
+            "C-425"
           ],
           "related_nodes": [
             "N-75",
@@ -166,7 +166,7 @@
           "ref": "A-1115.1",
           "description": "Video statement by Israeli PM Benjamin Netanyahu denying Israeli involvement in Charlie Kirk's murder and quoting a letter he says Kirk sent him about Christianity and Israel.",
           "related_claims": [
-            "C-1192"
+            "C-439"
           ],
           "related_nodes": [
             "N-36",
@@ -194,8 +194,8 @@
           "ref": "A-1116.1",
           "description": "Clip from the PBD Podcast in which Eric Bolling states Candace Owens has not been at TPUSA events in years and characterises the relationship between Kirk and Owens as a quiet breakup.",
           "related_claims": [
-            "C-1193",
-            "C-1204"
+            "C-460",
+            "C-462"
           ],
           "related_nodes": [
             "N-72",
@@ -226,7 +226,7 @@
           "ref": "A-1117.1",
           "description": "Text messages Bill Ackman publicly shared to rebut Candace Owens's claims about a Hamptons trip with Charlie Kirk; host notes messages lack dates/context and do not address her specific assertions.",
           "related_claims": [
-            "C-1194"
+            "C-455"
           ],
           "related_nodes": [
             "N-37",
@@ -253,7 +253,7 @@
           "ref": "A-1118.1",
           "description": "A book about Charlie Kirk's assassination that was available on Amazon prior to the September 10 event; Amazon issued a 'technical issues' statement and removed the listing.",
           "related_claims": [
-            "C-1195"
+            "C-493"
           ],
           "related_nodes": [
             "N-1",
@@ -280,7 +280,7 @@
           "ref": "A-1119.1",
           "description": "Song titled 'Charlie Kirk Dead at 31' posted online by a Utah-based artist prior to Robinson's identification as suspect; reported removed after attention.",
           "related_claims": [
-            "C-1196"
+            "C-494"
           ],
           "related_nodes": [
             "N-40",
@@ -306,7 +306,7 @@
           "ref": "A-2482.1",
           "description": "On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).",
           "related_claims": [
-            "C-3636"
+            "C-498"
           ],
           "related_nodes": [
             "N-3"
@@ -330,7 +330,7 @@
           "ref": "A-2517.1",
           "description": "Host genealogy reference to Harley Pasternak's family business in piping and valves (verbal reference; no displayed artifact)",
           "related_claims": [
-            "C-3726"
+            "C-416"
           ],
           "related_nodes": [
             "N-80"
@@ -354,7 +354,7 @@
           "ref": "A-3174.1",
           "description": "Host verbal reference to the tips line, through which the Dairy Queen photo reached her repeatedly (nothing shown)",
           "related_claims": [
-            "C-11924"
+            "C-402"
           ],
           "related_nodes": [
             "N-3"
@@ -379,7 +379,7 @@
           "ref": "A-3175.1",
           "description": "Host verbal reference to the tips email address given as tips@candice. com in the transcript (verbal call for footage and tips)",
           "related_claims": [
-            "C-11945"
+            "C-432"
           ],
           "related_nodes": [
             "N-3"
@@ -404,8 +404,8 @@
           "ref": "A-3176.1",
           "description": "Audio tribute to Charlie Kirk from Riverbend Ranch, played on air during a sponsor read",
           "related_claims": [
-            "C-11946",
-            "C-11947"
+            "C-433",
+            "C-434"
           ],
           "related_nodes": [
             "N-1",
@@ -435,12 +435,12 @@
         "A-1118.1"
       ],
       "related_claims": [
-        "C-1193",
-        "C-1194",
-        "C-1200",
-        "C-1201",
-        "C-1202",
-        "C-1204"
+        "C-460",
+        "C-455",
+        "C-464",
+        "C-480",
+        "C-400",
+        "C-462"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -460,10 +460,10 @@
         "A-1118.1"
       ],
       "related_claims": [
-        "C-1191",
-        "C-1192",
-        "C-1194",
-        "C-1195"
+        "C-425",
+        "C-439",
+        "C-455",
+        "C-493"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -483,13 +483,13 @@
         "A-1113.1"
       ],
       "related_claims": [
-        "C-1186",
-        "C-1187",
-        "C-1188",
-        "C-1190",
-        "C-1196",
-        "C-1197",
-        "C-1198"
+        "C-403",
+        "C-398",
+        "C-397",
+        "C-419",
+        "C-494",
+        "C-428",
+        "C-429"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -506,8 +506,8 @@
       "description": "Robinson's alleged housemate/co-respondent in the text-message thread.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1187",
-        "C-1188"
+        "C-398",
+        "C-397"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -526,7 +526,7 @@
         "A-1115.1"
       ],
       "related_claims": [
-        "C-1192"
+        "C-439"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -545,7 +545,7 @@
         "A-1117.1"
       ],
       "related_claims": [
-        "C-1194"
+        "C-455"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -564,8 +564,8 @@
         "A-1116.1"
       ],
       "related_claims": [
-        "C-1193",
-        "C-1204"
+        "C-460",
+        "C-462"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -584,8 +584,8 @@
         "A-1112.2"
       ],
       "related_claims": [
-        "C-1189",
-        "C-1203"
+        "C-409",
+        "C-413"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -604,8 +604,8 @@
         "A-1113.1"
       ],
       "related_claims": [
-        "C-1190",
-        "C-1199"
+        "C-419",
+        "C-423"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -624,7 +624,7 @@
         "A-1114.1"
       ],
       "related_claims": [
-        "C-1191"
+        "C-425"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -643,7 +643,7 @@
         "A-1114.1"
       ],
       "related_claims": [
-        "C-1191"
+        "C-425"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -662,7 +662,7 @@
         "A-1114.1"
       ],
       "related_claims": [
-        "C-1191"
+        "C-425"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -681,8 +681,8 @@
         "A-1112.1"
       ],
       "related_claims": [
-        "C-1189",
-        "C-1203"
+        "C-409",
+        "C-413"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -701,8 +701,8 @@
         "A-1112.1"
       ],
       "related_claims": [
-        "C-1189",
-        "C-1203"
+        "C-409",
+        "C-413"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -721,7 +721,7 @@
         "A-2517.1"
       ],
       "related_claims": [
-        "C-3726"
+        "C-416"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -741,7 +741,7 @@
         "A-1115.1"
       ],
       "related_claims": [
-        "C-1192"
+        "C-439"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -758,7 +758,7 @@
       "description": "Widow of Charlie Kirk; host claims she is in 'full control' of memorial planning but is hearing reports of donor interference.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1201"
+        "C-480"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -777,7 +777,7 @@
         "A-1116.1"
       ],
       "related_claims": [
-        "C-1204"
+        "C-462"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -796,7 +796,7 @@
         "A-1116.1"
       ],
       "related_claims": [
-        "C-1204"
+        "C-462"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -815,7 +815,7 @@
         "A-1111.1"
       ],
       "related_claims": [
-        "C-1186"
+        "C-403"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -839,8 +839,8 @@
         "A-1119.1"
       ],
       "related_claims": [
-        "C-1195",
-        "C-1196"
+        "C-493",
+        "C-494"
       ],
       "tags": [],
       "evidence_count": 6,
@@ -858,8 +858,8 @@
       "description": "Host asserts text-message phrasing ('squad car', 'outfit', 'Prince') is inconsistent with Robinson's likely profile.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1187",
-        "C-1188"
+        "C-398",
+        "C-397"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -881,11 +881,11 @@
         "A-1114.1"
       ],
       "related_claims": [
-        "C-1189",
-        "C-1190",
-        "C-1191",
-        "C-1199",
-        "C-1203"
+        "C-409",
+        "C-419",
+        "C-425",
+        "C-423",
+        "C-413"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -905,7 +905,7 @@
         "A-1111.1"
       ],
       "related_claims": [
-        "C-1186"
+        "C-403"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -926,8 +926,8 @@
         "A-1112.2"
       ],
       "related_claims": [
-        "C-1189",
-        "C-1203"
+        "C-409",
+        "C-413"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -945,8 +945,8 @@
       "description": "Local-theory claim that Robinson was a decoy who dropped the gun at a chicken coop while the real shooter entered a UVU-owned vacant house next door.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1197",
-        "C-1198"
+        "C-428",
+        "C-429"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -980,7 +980,7 @@
       "description": "Host's pattern claim that feds have pressured locals not to release any footage, drawing analogy to post-9/11 Pentagon footage controls.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1202"
+        "C-400"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1002,10 +1002,10 @@
         "A-1117.1"
       ],
       "related_claims": [
-        "C-1192",
-        "C-1193",
-        "C-1194",
-        "C-1204"
+        "C-439",
+        "C-460",
+        "C-455",
+        "C-462"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -1025,8 +1025,8 @@
         "A-1116.1"
       ],
       "related_claims": [
-        "C-1193",
-        "C-1201"
+        "C-460",
+        "C-480"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1047,10 +1047,10 @@
         "A-1114.1"
       ],
       "related_claims": [
-        "C-1186",
-        "C-1191",
-        "C-1197",
-        "C-1198"
+        "C-403",
+        "C-425",
+        "C-428",
+        "C-429"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1070,7 +1070,7 @@
         "A-1112.1"
       ],
       "related_claims": [
-        "C-1189"
+        "C-409"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1090,7 +1090,7 @@
         "A-1113.1"
       ],
       "related_claims": [
-        "C-1190"
+        "C-419"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1110,7 +1110,7 @@
         "A-1116.1"
       ],
       "related_claims": [
-        "C-1193"
+        "C-460"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1130,9 +1130,9 @@
         "A-1116.1"
       ],
       "related_claims": [
-        "C-1193",
-        "C-1200",
-        "C-1204"
+        "C-460",
+        "C-464",
+        "C-462"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1152,7 +1152,7 @@
         "A-1114.1"
       ],
       "related_claims": [
-        "C-1191"
+        "C-425"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1189,10 +1189,10 @@
         "A-1112.1"
       ],
       "related_claims": [
-        "C-1186",
-        "C-1189",
-        "C-1198",
-        "C-1203"
+        "C-403",
+        "C-409",
+        "C-429",
+        "C-413"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1212,7 +1212,7 @@
         "A-1115.1"
       ],
       "related_claims": [
-        "C-1192"
+        "C-439"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1246,7 +1246,7 @@
       "description": "Host analogizes the Kirk footage sweep to post-9/11 Pentagon footage controls.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1202"
+        "C-400"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1266,7 +1266,7 @@
         "A-1117.1"
       ],
       "related_claims": [
-        "C-1194"
+        "C-455"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1284,9 +1284,9 @@
       "description": "Netanyahu's remark that rumors may come with Qatari funding, the host's reply that his administration has been investigated over Qatari money, and her joking statement that her real funding comes from her viewers.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11957",
-        "C-11959",
-        "C-12000"
+        "C-445",
+        "C-447",
+        "C-496"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1303,7 +1303,7 @@
       "description": "A source's report relayed by the host that Tyler Robinson was seen dropping clothes into a cemetery near the Dairy Queen, with no federal account of where the clothing was left.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11928"
+        "C-407"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1320,8 +1320,8 @@
       "description": "Existing topic reused for the Arizona memorial claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11984",
-        "C-11995"
+        "C-477",
+        "C-489"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1338,12 +1338,12 @@
       "description": "Existing topic reused for claims about the Kirk and Owens relationship.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11918",
-        "C-11972",
-        "C-11976",
-        "C-11979",
-        "C-11986",
-        "C-11987"
+        "C-393",
+        "C-465",
+        "C-469",
+        "C-472",
+        "C-479",
+        "C-481"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1360,7 +1360,7 @@
       "description": "YWLS Conference; the host says she spoke there after the Daily Wire firing.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11972"
+        "C-465"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1377,9 +1377,9 @@
       "description": "Existing topic reused for the Hamptons pressure and blackmail claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11965",
-        "C-11966",
-        "C-11968"
+        "C-453",
+        "C-454",
+        "C-458"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1396,9 +1396,9 @@
       "description": "Existing topic reused for Netanyahu's invitation to Kirk.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11956",
-        "C-11962",
-        "C-11963"
+        "C-444",
+        "C-450",
+        "C-451"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1415,10 +1415,10 @@
       "description": "Existing topic reused for the outfit-change claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11920",
-        "C-11925",
-        "C-11926",
-        "C-11928"
+        "C-395",
+        "C-404",
+        "C-405",
+        "C-407"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1435,15 +1435,15 @@
       "description": "Existing topic reused for claims of Israel lobby pressure on conservatives.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11948",
-        "C-11949",
-        "C-11973",
-        "C-11974",
-        "C-11978",
-        "C-11981",
-        "C-11982",
-        "C-11993",
-        "C-11996"
+        "C-435",
+        "C-436",
+        "C-466",
+        "C-467",
+        "C-471",
+        "C-474",
+        "C-475",
+        "C-487",
+        "C-490"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1460,7 +1460,7 @@
       "description": "Existing topic reused for the decoy and pressure theory.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11943"
+        "C-430"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1477,10 +1477,10 @@
       "description": "Existing topic reused for donor pressure claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11973",
-        "C-11974",
-        "C-11981",
-        "C-11982"
+        "C-466",
+        "C-467",
+        "C-474",
+        "C-475"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1497,9 +1497,9 @@
       "description": "Existing topic reused for donor withdrawal and building-name claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11980",
-        "C-11984",
-        "C-11988"
+        "C-473",
+        "C-477",
+        "C-482"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1516,8 +1516,8 @@
       "description": "Existing topic reused for Ackman's response.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11917",
-        "C-11964"
+        "C-392",
+        "C-452"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1534,7 +1534,7 @@
       "description": "Existing topic reused for the outfit-change claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11926"
+        "C-405"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1551,7 +1551,7 @@
       "description": "Daily Mail; the host reads its wording on the lack of Kirk and Owens contact.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11986"
+        "C-479"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1568,9 +1568,9 @@
       "description": "Existing topic reused for the Robinson and Lance text claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11921",
-        "C-11922",
-        "C-11927"
+        "C-396",
+        "C-399",
+        "C-406"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1587,11 +1587,11 @@
       "description": "Existing topic reused for claims about a Kirk and Owens falling out.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11918",
-        "C-11967",
-        "C-11979",
-        "C-11986",
-        "C-11987"
+        "C-393",
+        "C-457",
+        "C-472",
+        "C-479",
+        "C-481"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1608,8 +1608,8 @@
       "description": "Riverbend Ranch; sponsor that supplied the tribute played on air.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11946",
-        "C-11947"
+        "C-433",
+        "C-434"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1626,7 +1626,7 @@
       "description": "Existing topic reused for the Hamptons retreat claim about home ownership.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11994"
+        "C-488"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1643,9 +1643,9 @@
       "description": "Existing topic reused for claims about AmFest speaker removals.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11976",
-        "C-11978",
-        "C-11979"
+        "C-469",
+        "C-471",
+        "C-472"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1662,9 +1662,9 @@
       "description": "Existing topic reused for the Brigitte Macron lawsuit claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11989",
-        "C-11990",
-        "C-11991"
+        "C-483",
+        "C-484",
+        "C-485"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1681,8 +1681,8 @@
       "description": "Existing topic reused for claims about a Netanyahu show appearance.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11962",
-        "C-11963"
+        "C-450",
+        "C-451"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1699,7 +1699,7 @@
       "description": "Existing topic reused for the claim of a takeover of Kirk's organization.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11983"
+        "C-476"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1716,7 +1716,7 @@
       "description": "New York Post; the host says it ran Bolling's breakup claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11967"
+        "C-457"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1733,7 +1733,7 @@
       "description": "Existing topic reused for the host's Australia ban remark.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11975"
+        "C-468"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1750,7 +1750,7 @@
       "description": "Dave Smith; the host says he never said Netanyahu killed Kirk.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11950"
+        "C-437"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1767,7 +1767,7 @@
       "description": "Utah Governor Spencer Cox; the host says he declared the case wrapped up.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11944"
+        "C-431"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1784,7 +1784,7 @@
       "description": "Michael Savage; the host attributes to him a remark about Trump's former allies being kept away.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11997"
+        "C-491"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1801,7 +1801,7 @@
       "description": "Megyn Kelly; the host says she never said Netanyahu killed Kirk.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11950"
+        "C-437"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1818,9 +1818,9 @@
       "description": "Donald Trump; the host says his administration is controlled by Zionists.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11993",
-        "C-11996",
-        "C-11997"
+        "C-487",
+        "C-490",
+        "C-491"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1837,7 +1837,7 @@
       "description": "Sigmund Freud; the host calls his family the real fathers of modern propaganda.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11960"
+        "C-448"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1849,8 +1849,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-1186",
-      "ref": "C-1186",
+      "@id": "C-403",
+      "ref": "C-403",
       "label": "Host Shows Photo Allegedly of Robinson at Dairy Queen at 6:38 p.m.",
       "claim": "The host says a photo that made its way around Orem and repeatedly into her tips line is a very clear image allegedly of Tyler Robinson, allegedly taken at 6:38 p.m. at a nearby Dairy Queen about a 15–17 minute drive from UVU, and that in it he is wearing jeans and the maroon shirt.",
       "anchored_artifacts": [
@@ -1872,8 +1872,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1187",
-      "ref": "C-1187",
+      "@id": "C-398",
+      "ref": "C-398",
       "label": "Robinson texts use word 'outfit'",
       "claim": "The alleged text exchange between Tyler Robinson and 'Lance' contains the word 'outfits', which the host, following a viewer comment, argues is language a woman, not a man, would use.",
       "anchored_artifacts": [],
@@ -1893,8 +1893,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1188",
-      "ref": "C-1188",
+      "@id": "C-397",
+      "ref": "C-397",
       "label": "Robinson texts use phrase 'squad car'",
       "claim": "The text exchange between Tyler Robinson and 'Lance' describes seeing a 'squad car' near the rifle, which the host argues is insider language.",
       "anchored_artifacts": [],
@@ -1914,8 +1914,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1189",
-      "ref": "C-1189",
+      "@id": "C-409",
+      "ref": "C-409",
       "label": "Host Says TMZ Aired Doorbell-Cam Footage on September 10",
       "claim": "The host says TMZ was the first, on September 10th, to show doorbell-camera footage, which she thinks was marked 8:07 a.m., though she says she does not know exactly when TMZ released it and feels it was in the morning.",
       "anchored_artifacts": [
@@ -1935,8 +1935,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1190",
-      "ref": "C-1190",
+      "@id": "C-419",
+      "ref": "C-419",
       "label": "Per BBC Article, Sherri Steele Reported Police Presence",
       "claim": "Per the BBC article the host reads, Sherri Steele, who lives across the street from the residence, came back from an evening walk to see a large police presence, and a loud voice shouting 'Freeze!' and helicopters were above her house.",
       "anchored_artifacts": [
@@ -1957,8 +1957,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1191",
-      "ref": "C-1191",
+      "@id": "C-425",
+      "ref": "C-425",
       "label": "Steel children described Kirk shooting on GMA",
       "claim": "Tiffany Barker and her nieces L Steel and Mia Grant stated on Good Morning America that they were roughly 15 feet from Charlie Kirk when he was shot and described a family group of 16.",
       "anchored_artifacts": [
@@ -1983,8 +1983,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1192",
-      "ref": "C-1192",
+      "@id": "C-439",
+      "ref": "C-439",
       "label": "Netanyahu released second video denying Israeli involvement",
       "claim": "Benjamin Netanyahu issued a second video statement denying that Israel had any role in Charlie Kirk's murder and quoted from a letter he attributes to Kirk.",
       "anchored_artifacts": [
@@ -2006,8 +2006,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1193",
-      "ref": "C-1193",
+      "@id": "C-460",
+      "ref": "C-460",
       "label": "Bolling Said Owens No Longer Speaks at TPUSA Events",
       "claim": "Eric Bolling stated on PBD Podcast that Candace Owens had not attended or spoken at Turning Point USA events in years and described her separation from Kirk as a quiet breakup.",
       "anchored_artifacts": [
@@ -2025,7 +2025,7 @@
       "transcript_snippet": "When's the last time she was at a Turning Point event? Uh, not in many years.",
       "confidence": "high",
       "contradicts_claim_refs": [
-        "C-1200"
+        "C-464"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2034,8 +2034,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1194",
-      "ref": "C-1194",
+      "@id": "C-455",
+      "ref": "C-455",
       "label": "Bill Ackman published Kirk text messages",
       "claim": "The host says Bill Ackman shared private text messages with Charlie Kirk to dispel the idea that anything happened in the Hamptons, and that the messages lack a date and context and do not dispel anything she has asserted.",
       "anchored_artifacts": [
@@ -2060,10 +2060,10 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3771",
-      "ref": "C-3771",
-      "label": "Bill Ackman is the person C-1194 calls 'Bill Ackman' (revises C-1194)",
-      "claim": "C-1194 spells the name 'Bill Ackman'; the auto-caption transcript at this beat reads 'Ackman'. The person is Bill Ackman (N-37). Bill Ackman released private text-message exchanges with Charlie Kirk to refute Owens's claims about a trip to the Hamptons; the host notes the messages lack dates and context.",
+      "@id": "C-456",
+      "ref": "C-456",
+      "label": "Bill Ackman is the person C-455 calls 'Bill Ackman' (revises C-455)",
+      "claim": "C-455 spells the name 'Bill Ackman'; the auto-caption transcript at this beat reads 'Ackman'. The person is Bill Ackman (N-37). Bill Ackman released private text-message exchanges with Charlie Kirk to refute Owens's claims about a trip to the Hamptons; the host notes the messages lack dates and context.",
       "anchored_artifacts": [
         "A-1117.1"
       ],
@@ -2073,11 +2073,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:38:26",
-      "investigative_direction": "Read with C-1194; obtain the text exchange as published by Bill Ackman.",
+      "investigative_direction": "Read with C-455; obtain the text exchange as published by Bill Ackman.",
       "transcript_snippet": "But anyways, Ackman published these private text messages",
       "confidence": "medium",
       "revises_claim_refs": [
-        "C-1194"
+        "C-455"
       ],
       "mentions_person_refs": [
         "N-37",
@@ -2087,8 +2087,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1195",
-      "ref": "C-1195",
+      "@id": "C-493",
+      "ref": "C-493",
       "label": "Viewer Comment Says Amazon Listed Kirk-Assassination Book Before Event",
       "claim": "A viewer comment the host reads says a book about Charlie's assassination was available on Amazon the day before it happened; the host then reads her producer's note saying Amazon blamed technical issues for the incorrect publication date and removed the book.",
       "anchored_artifacts": [
@@ -2112,8 +2112,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1196",
-      "ref": "C-1196",
+      "@id": "C-494",
+      "ref": "C-494",
       "label": "Host Mentions Utah Artist's 'Charlie Kirk Dead at 31' Song",
       "claim": "The host says some artist from Utah posted a song called something like 'Charlie Kirk Dead at 31', and that right when people started saying this guy looks like the person in the photo, the feds said they had Tyler Robinson.",
       "anchored_artifacts": [
@@ -2134,8 +2134,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1197",
-      "ref": "C-1197",
+      "@id": "C-428",
+      "ref": "C-428",
       "label": "Local claim: gun found near chicken coop, not 'woods'",
       "claim": "The host says a local source told her that the rifle was found in the backyard of someone the source knows, by a chicken coop, and that although you could describe it as a wooded area, it is pretty suburban, whereas the public has just been told 'in the woods'.",
       "anchored_artifacts": [],
@@ -2155,8 +2155,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1198",
-      "ref": "C-1198",
+      "@id": "C-429",
+      "ref": "C-429",
       "label": "Host Says Locals Theorize Vacant UVU-Owned House Was Real Shooter's Refuge",
       "claim": "The host says locals tell her, as an unproven theory, that a mysteriously vacant house next to where the gun was found is owned by Utah Valley University and is where the true shooter ran after the assassination, with Tyler Robinson instructed merely to drop off his gun.",
       "anchored_artifacts": [],
@@ -2176,8 +2176,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1199",
-      "ref": "C-1199",
+      "@id": "C-423",
+      "ref": "C-423",
       "label": "Host Says She Cannot Find Sherri Steele in the Building Complex",
       "claim": "The host says her team looked through databases for a 'Sherri Steele' at the building complex and contacted a family to see if they knew the name, and that she cannot find such a woman living there or the footage the BBC mentions.",
       "anchored_artifacts": [],
@@ -2195,8 +2195,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1200",
-      "ref": "C-1200",
+      "@id": "C-464",
+      "ref": "C-464",
       "label": "Owens toured with TPUSA the previous year",
       "claim": "Candace Owens states that she went on tour with Turning Point USA on college campuses the previous year, contradicting Bolling's claim that she has not spoken at TPUSA events.",
       "anchored_artifacts": [],
@@ -2209,7 +2209,7 @@
       "transcript_snippet": "I literally went on tour with Turning Point USA on college campuses last year.",
       "confidence": "medium",
       "contradicts_claim_refs": [
-        "C-1193"
+        "C-460"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2218,8 +2218,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1201",
-      "ref": "C-1201",
+      "@id": "C-480",
+      "ref": "C-480",
       "label": "Owens was not invited to speak at Kirk memorial",
       "claim": "The host says, sarcastically, that she was not invited to speak alongside President Trump and JD Vance on the stage with Tucker Carlson at a memorial event, and that this has to do with nothing.",
       "anchored_artifacts": [],
@@ -2239,8 +2239,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1202",
-      "ref": "C-1202",
+      "@id": "C-400",
+      "ref": "C-400",
       "label": "Host Says Locals Told Her Feds Pressured Them Not to Release Footage",
       "claim": "Locals emailed the host stating that any footage they possessed was sent to federal authorities who then pressured them not to release it publicly.",
       "anchored_artifacts": [],
@@ -2259,8 +2259,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1203",
-      "ref": "C-1203",
+      "@id": "C-413",
+      "ref": "C-413",
       "label": "Host Says Steele Family Owns the Doorbell-Camera House",
       "claim": "The host says her team found that Samuel Steele and his wife Carrie own the house that gave the footage that appeared on TMZ, not Erwin Steele, though Erwin says he lives in that house.",
       "anchored_artifacts": [],
@@ -2282,8 +2282,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1204",
-      "ref": "C-1204",
+      "@id": "C-462",
+      "ref": "C-462",
       "label": "Bolling Described 'Quiet Breakup' Between Kirk and Owens",
       "claim": "In a PBD Podcast clip the host plays, Eric Bolling says Candace Owens and Charlie Kirk had 'a very quiet breakup where she got too rabbit hole for him', and a speaker on the panel says she would otherwise be 'the logical heir to the TPUSA throne'.",
       "anchored_artifacts": [
@@ -2299,7 +2299,7 @@
       "transcript_snippet": "a very quiet breakup where she got too rabbit hole for him.",
       "confidence": "high",
       "contradicts_claim_refs": [
-        "C-1200"
+        "C-464"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -2309,8 +2309,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3635",
-      "ref": "C-3635",
+      "@id": "C-497",
+      "ref": "C-497",
       "label": "Host identifies show community as Decentralized Intelligence Agency",
       "claim": "The host states that the CIA stands for the Candace Intelligence Agency and that the show considers itself the 'decentralized intelligent agency' because it gets tips from viewers.",
       "anchored_artifacts": [],
@@ -2326,8 +2326,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3636",
-      "ref": "C-3636",
+      "@id": "C-498",
+      "ref": "C-498",
       "label": "CIA Merch Framed as Candace / Decentralized Intelligence Agency Brand",
       "claim": "The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.",
       "anchored_artifacts": [
@@ -2345,8 +2345,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3726",
-      "ref": "C-3726",
+      "@id": "C-416",
+      "ref": "C-416",
       "label": "Host notes Harley Pasternak family was in piping and valves",
       "claim": "The host says several people she looked into have families that manufacture valves, and that when she looked into Harley Pasternak, his family was in piping and valves.",
       "anchored_artifacts": [
@@ -2364,8 +2364,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11916",
-      "ref": "C-11916",
+      "@id": "C-391",
+      "ref": "C-391",
       "label": "Host Says Netanyahu Is Again Denying Killing Kirk Though No One She Knows Accused Him",
       "claim": "The host says Benjamin Netanyahu is again denying that he murdered Charlie Kirk even though no one she knows accused him of doing so.",
       "anchored_artifacts": [
@@ -2388,8 +2388,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11917",
-      "ref": "C-11917",
+      "@id": "C-392",
+      "ref": "C-392",
       "label": "Host Says Ackman Is Sending Press Hounds After Her",
       "claim": "The host says Bill Ackman is sending his press hounds after her.",
       "anchored_artifacts": [],
@@ -2409,8 +2409,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11918",
-      "ref": "C-11918",
+      "@id": "C-393",
+      "ref": "C-393",
       "label": "Host Says Major Publications Are Running the Narrative That She Has Not Spoken to Kirk in Years",
       "claim": "The host says Eric Bolling is lying on the PBD podcast to establish a narrative, which every major publication is now running, that she has not spoken to Charlie Kirk in years.",
       "anchored_artifacts": [
@@ -2435,8 +2435,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11919",
-      "ref": "C-11919",
+      "@id": "C-394",
+      "ref": "C-394",
       "label": "Host Says Feds Released Only a Grainy Image Despite UVU Tech Stack",
       "claim": "The host says the feds were willing to release only a grainy image of Tyler Robinson from the day of the shooting despite the camera technology on the UVU campus.",
       "anchored_artifacts": [],
@@ -2450,7 +2450,7 @@
       "investigative_direction": "Request the inventory of UVU campus cameras and the list of images released by the FBI and Utah authorities.",
       "transcript_snippet": "And we've been wondering why it seems that the feds were only willing to release a grainy image of Tyler Robinson from the day of the shooting despite the tech stack that UVU campus has.",
       "supports_claim_refs": [
-        "C-10696"
+        "C-128"
       ],
       "mentions_person_refs": [
         "N-40"
@@ -2458,8 +2458,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11920",
-      "ref": "C-11920",
+      "@id": "C-395",
+      "ref": "C-395",
       "label": "Host Says No Images of Robinson's Dodge Challenger Have Been Released",
       "claim": "The host says no released images show Robinson's Dodge Challenger, which was supposedly idling near the campus for a very long time.",
       "anchored_artifacts": [],
@@ -2478,8 +2478,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11921",
-      "ref": "C-11921",
+      "@id": "C-396",
+      "ref": "C-396",
       "label": "Host Describes Robinson-Lance Texts as Minute-by-Minute Reports Including a Police Sweep",
       "claim": "The host says the Robinson and Lance texts have Robinson reporting what he has done minute by minute, mentioning a police sweep, and waiting to retrieve the rifle he was minding.",
       "anchored_artifacts": [],
@@ -2499,8 +2499,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11922",
-      "ref": "C-11922",
+      "@id": "C-399",
+      "ref": "C-399",
       "label": "Host Asks Whether the Texts Were Written by AI or a Female Fed",
       "claim": "The host speculates that the Robinson and Lance messages may have been put together by AI or by a female federal agent, and says they do not feel like Tyler Robinson.",
       "anchored_artifacts": [],
@@ -2515,7 +2515,7 @@
       "investigative_direction": "Obtain the original message metadata and device extraction report; a forensic authorship comparison against Robinson's other writing would test the claim.",
       "transcript_snippet": "Outfit is very girly. Okay. So, is this AI or is this a female fed that put these messages together?",
       "supports_claim_refs": [
-        "C-1187"
+        "C-398"
       ],
       "mentions_person_refs": [
         "N-40",
@@ -2524,8 +2524,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11923",
-      "ref": "C-11923",
+      "@id": "C-401",
+      "ref": "C-401",
       "label": "Host Says Congress Had to Fight to Get Pentagon 9/11 Footage Released",
       "claim": "The host says it took a long time before the public saw any footage of the alleged plane that hit the Pentagon on 9/11, and that she thinks someone in Congress had to fight to get footage released.",
       "anchored_artifacts": [],
@@ -2545,8 +2545,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11924",
-      "ref": "C-11924",
+      "@id": "C-402",
+      "ref": "C-402",
       "label": "Host Says the Dairy Queen Photo Reached Her Tips Line Repeatedly",
       "claim": "The host says the Dairy Queen photo allegedly of Tyler Robinson spread around the whole town and reached her tips line repeatedly.",
       "anchored_artifacts": [
@@ -2570,8 +2570,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11925",
-      "ref": "C-11925",
+      "@id": "C-404",
+      "ref": "C-404",
       "label": "Host Says Dairy Queen Outfit Is Half of Each Official Outfit",
       "claim": "The host says the person in the Dairy Queen photo is wearing half of what the feds said Robinson wore in the morning and half of what they said he wore during the shooting.",
       "anchored_artifacts": [
@@ -2588,7 +2588,7 @@
       "investigative_direction": "Lay the official morning and shooting outfit descriptions from the indictment and Governor Cox's briefings beside the photo.",
       "transcript_snippet": "wearing half of what the feds told us he was wearing in the morning and half of what the feds told us that he was wearing during the shooting.",
       "supports_claim_refs": [
-        "C-1186"
+        "C-403"
       ],
       "mentions_person_refs": [
         "N-40"
@@ -2596,8 +2596,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11926",
-      "ref": "C-11926",
+      "@id": "C-405",
+      "ref": "C-405",
       "label": "Host Says Official Account Has Robinson Changing From Khaki Shorts and Maroon Shirt Entirely",
       "claim": "The host says the official account has Robinson wearing light khaki shorts and a maroon shirt onto campus and then completely changing hours later, and argues that changing only the shirt would have made more sense.",
       "anchored_artifacts": [],
@@ -2612,7 +2612,7 @@
       "investigative_direction": "Check the charging document and Cox's statements for the exact clothing described at each stage.",
       "transcript_snippet": "light khaki shorts and a maroon shirt, and then decided to completely change hours later.",
       "supports_claim_refs": [
-        "C-1172"
+        "C-173"
       ],
       "mentions_person_refs": [
         "N-40"
@@ -2620,8 +2620,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11927",
-      "ref": "C-11927",
+      "@id": "C-406",
+      "ref": "C-406",
       "label": "Host Says Her Timeline Predicted First Robinson-Lance Texts After 6 p.m.",
       "claim": "The host says her timeline said the first correspondence between Robinson and Lance had to have occurred after 6:00 p.m., and that the 6:38 p.m. Dairy Queen photo fits that timeline.",
       "anchored_artifacts": [
@@ -2644,8 +2644,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11928",
-      "ref": "C-11928",
+      "@id": "C-407",
+      "ref": "C-407",
       "label": "Source Says Robinson Was Seen Dropping Clothes Into a Cemetery Near the Dairy Queen",
       "claim": "The host says a source told her they saw Robinson near the Dairy Queen, where there is a cemetery, dropping clothes into that cemetery, and that the feds have said nothing about where the clothing was dropped.",
       "anchored_artifacts": [],
@@ -2665,8 +2665,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11929",
-      "ref": "C-11929",
+      "@id": "C-408",
+      "ref": "C-408",
       "label": "Host Says the TMZ Footage Carried an 8:07 a.m. Time",
       "claim": "The host says she thinks the footage TMZ showed carried a time of 8:07 a.m. and that TMZ was first on September 10 with doorbell camera footage.",
       "anchored_artifacts": [
@@ -2683,7 +2683,7 @@
       "investigative_direction": "Obtain the original TMZ broadcast and file with its embedded timestamp and publication time.",
       "transcript_snippet": "I think it was their footage said that 8:07 a.",
       "supports_claim_refs": [
-        "C-1133"
+        "C-114"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2691,8 +2691,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11930",
-      "ref": "C-11930",
+      "@id": "C-410",
+      "ref": "C-410",
       "label": "Host Says Mainstream Media Has Been CIA-Controlled Since Operation Mockingbird",
       "claim": "The host says the mainstream media has been controlled by the CIA since Operation Mockingbird.",
       "anchored_artifacts": [],
@@ -2711,8 +2711,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11931",
-      "ref": "C-11931",
+      "@id": "C-411",
+      "ref": "C-411",
       "label": "Host Says the TMZ Footage Was Obviously Not Doorbell Cam Footage",
       "claim": "The host says the footage described as doorbell camera footage was obviously not from a doorbell camera because it was shot from too high up.",
       "anchored_artifacts": [
@@ -2732,8 +2732,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11932",
-      "ref": "C-11932",
+      "@id": "C-412",
+      "ref": "C-412",
       "label": "Host Says the Footage Was Public Before the Neighbor Spoke to Local News",
       "claim": "The host says the Erwin Steele clip is from the morning after the shooting and TMZ had already publicized the footage, which she says means either the feds collected it the night before and gave it to TMZ, or Steele gave it to TMZ before the feds.",
       "anchored_artifacts": [
@@ -2756,8 +2756,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11933",
-      "ref": "C-11933",
+      "@id": "C-414",
+      "ref": "C-414",
       "label": "Host Says Erwin Steele Claims to Live in a House Owned by Others, Where Other Steeles Live",
       "claim": "The host says Erwin Steele says he lives in the house that gave the footage, but she found other Steeles living there.",
       "anchored_artifacts": [
@@ -2779,8 +2779,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11934",
-      "ref": "C-11934",
+      "@id": "C-415",
+      "ref": "C-415",
       "label": "Host Says the Steele Family Works for Caldera Engineering, a Valve Maker",
       "claim": "The host says the Steele family works for an engineering company she names as Caldera Engineering (later transcribed Calira), which she says ostensibly manufactures valves.",
       "anchored_artifacts": [],
@@ -2800,8 +2800,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11935",
-      "ref": "C-11935",
+      "@id": "C-417",
+      "ref": "C-417",
       "label": "Local Source Says Nearly Everyone on the Block Works for That Company",
       "claim": "The host says a local source told her that virtually everyone on that block works for the engineering company and that the Steels are a big family in Orem.",
       "anchored_artifacts": [],
@@ -2822,8 +2822,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11936",
-      "ref": "C-11936",
+      "@id": "C-418",
+      "ref": "C-418",
       "label": "Host Says Sherry Steele Witnessed Something Four Hours Away",
       "claim": "The host says the BBC witness Sherri Steele (spelled Sheri Steele in the transcript), who shares the Steel surname, witnessed the police swarm at the townhouse of Tyler Robinson and Lance four hours away from the Orem cluster.",
       "anchored_artifacts": [
@@ -2847,8 +2847,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11937",
-      "ref": "C-11937",
+      "@id": "C-420",
+      "ref": "C-420",
       "label": "Host Says BBC Has Not Published Sherri Steele's Video of Police Shouting Freeze",
       "claim": "Per the BBC article the host reads, Sherri Steele showed the BBC a video in which a loud voice she said belonged to the authorities can be heard shouting \"Freeze!\" and \"come out now\"; the host says the BBC is not publishing the video.",
       "anchored_artifacts": [
@@ -2869,8 +2869,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11938",
-      "ref": "C-11938",
+      "@id": "C-421",
+      "ref": "C-421",
       "label": "Host Says Feds Place the Surrender at 9 p.m. but Other Sources Say Closer to 7 p.m.",
       "claim": "The host says the federal 33-hour mark would put Robinson's surrender at about 9:00 p.m., but other sources told her it was closer to 7:00 p.m.; she says a 9:00 p.m. time would not be described as an evening dog walk.",
       "anchored_artifacts": [
@@ -2892,8 +2892,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11939",
-      "ref": "C-11939",
+      "@id": "C-422",
+      "ref": "C-422",
       "label": "Host Says Lance's Family Puts His Detention Around 11 p.m. With the Household Swarmed Overnight",
       "claim": "The host says that according to Lance's own family, Lance was brought in around 11:00 p.m. and the household was swarmed overnight, which she says conflicts with the BBC witness's evening account.",
       "anchored_artifacts": [
@@ -2915,8 +2915,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11940",
-      "ref": "C-11940",
+      "@id": "C-424",
+      "ref": "C-424",
       "label": "Host Says the Indictment Shows Children Witnessed the Shooting",
       "claim": "The host says that according to the indictment there were children present who witnessed the shooting.",
       "anchored_artifacts": [
@@ -2937,8 +2937,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11941",
-      "ref": "C-11941",
+      "@id": "C-426",
+      "ref": "C-426",
       "label": "Host Says the Barker Family Is Heavily Involved in Politics on the Right",
       "claim": "The host says Tiffany Barker's family is very heavily involved in politics, on what she calls the right side of politics, and that locally they are seen as a good family.",
       "anchored_artifacts": [
@@ -2959,8 +2959,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11942",
-      "ref": "C-11942",
+      "@id": "C-427",
+      "ref": "C-427",
       "label": "Host Says She Asked the GMA Family to Speak With Her",
       "claim": "The host says she reached out to the family that appeared on Good Morning America and asked them to speak with her.",
       "anchored_artifacts": [
@@ -2982,8 +2982,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11943",
-      "ref": "C-11943",
+      "@id": "C-430",
+      "ref": "C-430",
       "label": "Host Relays a Local Theory That Robinson and Lance Were Pressured Over Illicit Material",
       "claim": "The host relays a local theory that Tyler Robinson and Lance could have gotten mixed up in some deep internet stuff and were maybe blackmailed or threatened into leaving the weapon, with a different person as the real shooter; she says it is not her theory.",
       "anchored_artifacts": [],
@@ -3004,8 +3004,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11944",
-      "ref": "C-11944",
+      "@id": "C-431",
+      "ref": "C-431",
       "label": "Host Says Cox Declared the Case Wrapped Up",
       "claim": "The host says Governor Cox said it is all wrapped up, it is over, and Utah has him.",
       "anchored_artifacts": [],
@@ -3024,8 +3024,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11945",
-      "ref": "C-11945",
+      "@id": "C-432",
+      "ref": "C-432",
       "label": "Host Asks Viewers With Footage to Email the Tips Address",
       "claim": "The host asks anyone with information, including footage they were told not to share, to email the tips address she gives as tips@candice.com (transcribed).",
       "anchored_artifacts": [
@@ -3046,8 +3046,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11946",
-      "ref": "C-11946",
+      "@id": "C-433",
+      "ref": "C-433",
       "label": "Riverbend Ranch Tribute to Kirk Played on Air",
       "claim": "The host says her friends at Riverbend Ranch put together a tribute to honor Charlie Kirk and plays it on air.",
       "anchored_artifacts": [
@@ -3069,8 +3069,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11947",
-      "ref": "C-11947",
+      "@id": "C-434",
+      "ref": "C-434",
       "label": "Host Says She Met the Riverbend Ranch Owners With Kirk",
       "claim": "The host says she met the owners of Riverbend Ranch together with Charlie Kirk.",
       "anchored_artifacts": [
@@ -3092,8 +3092,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11948",
-      "ref": "C-11948",
+      "@id": "C-435",
+      "ref": "C-435",
       "label": "Host Says the Media Attacks Are a Coordinated Zionist Attack",
       "claim": "The host says the media attacks on her use the same talking points, that the outlets are clearly collaborating, and that she can tell it is a Zionist attack.",
       "anchored_artifacts": [],
@@ -3112,8 +3112,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11949",
-      "ref": "C-11949",
+      "@id": "C-436",
+      "ref": "C-436",
       "label": "Host Says Zionists Control a Lot of Publications in America",
       "claim": "The host says that Zionists control a lot of publications in America and calls it a reality.",
       "anchored_artifacts": [],
@@ -3132,8 +3132,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11950",
-      "ref": "C-11950",
+      "@id": "C-437",
+      "ref": "C-437",
       "label": "Host Says Neither She Nor Tucker Carlson, Megyn Kelly or Dave Smith Said Netanyahu Killed Kirk",
       "claim": "The host says she has never said that Benjamin Netanyahu murdered Charlie Kirk and that Tucker Carlson, Megyn Kelly and Dave Smith never said it either.",
       "anchored_artifacts": [],
@@ -3157,8 +3157,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11951",
-      "ref": "C-11951",
+      "@id": "C-438",
+      "ref": "C-438",
       "label": "Host Says She Is Disputing Netanyahu's Narrative of Great Terms With Kirk",
       "claim": "The host says what she and others are doing is disputing Netanyahu's narrative that he and Kirk were on great terms and really friendly and that he had just invited Kirk out.",
       "anchored_artifacts": [
@@ -3174,7 +3174,7 @@
       "investigative_direction": "Compare the content of the Kirk letter and any call records with Netanyahu's account.",
       "transcript_snippet": "Instead, what we are doing is we are disputing BB Netanyahu's narrative that him and Charlie were on great terms and really friendly had just invited him out.",
       "supports_claim_refs": [
-        "C-1126"
+        "C-72"
       ],
       "mentions_person_refs": [
         "N-36",
@@ -3184,8 +3184,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11952",
-      "ref": "C-11952",
+      "@id": "C-440",
+      "ref": "C-440",
       "label": "Netanyahu Says Kirk's Letter Called Advocating for Israel One of His Greatest Joys",
       "claim": "In the clip, Netanyahu says Kirk told him in a letter that one of his greatest joys as a Christian was advocating for Israel and forming alliances with Jews to protect Judeo-Christian civilization.",
       "anchored_artifacts": [
@@ -3202,7 +3202,7 @@
       "investigative_direction": "Obtain the full May letter text; the host has asked Netanyahu to publish it.",
       "transcript_snippet": "One of my greatest joys as a Christian, he said, is advocating for Israel and forming alliances with Jews to protect Judeo-Christian civilization.",
       "contradicts_claim_refs": [
-        "C-1126"
+        "C-72"
       ],
       "mentions_person_refs": [
         "N-36",
@@ -3211,8 +3211,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11953",
-      "ref": "C-11953",
+      "@id": "C-441",
+      "ref": "C-441",
       "label": "Netanyahu Says Kirk Urged Him to Make the Case for Israel to Americans",
       "claim": "In the clip, Netanyahu says Kirk encouraged him to make the case directly to the American people about how vital Israel is to US national security.",
       "anchored_artifacts": [
@@ -3235,8 +3235,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11954",
-      "ref": "C-11954",
+      "@id": "C-442",
+      "ref": "C-442",
       "label": "Netanyahu Quotes Kirk on the Holy Land and Slipping Support for Israel",
       "claim": "In the clip, Netanyahu quotes Kirk as saying the Holy Land is so important to his life and that it pains him to see support for Israel slip away.",
       "anchored_artifacts": [
@@ -3253,7 +3253,7 @@
       "investigative_direction": "Obtain the letter itself; the quoted lines are only excerpts and the host says the context is omitted.",
       "transcript_snippet": "He told me, \"The Holy Land is so important to my life, it pains me to see support for Israel slip away.\"",
       "contradicts_claim_refs": [
-        "C-1126"
+        "C-72"
       ],
       "mentions_person_refs": [
         "N-36",
@@ -3262,8 +3262,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11955",
-      "ref": "C-11955",
+      "@id": "C-443",
+      "ref": "C-443",
       "label": "Netanyahu Says He Welcomed Kirk's Disagreements With His Policies",
       "claim": "In the clip, Netanyahu says that when Kirk disagreed with a policy or decision of his, he did not mind and welcomed it.",
       "anchored_artifacts": [
@@ -3285,8 +3285,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11956",
-      "ref": "C-11956",
+      "@id": "C-444",
+      "ref": "C-444",
       "label": "Netanyahu Says He Invited Kirk to Visit Israel a Few Weeks Before His Death",
       "claim": "In the clip, Netanyahu says that a few weeks before Kirk's death he spoke to Kirk and invited him to visit Israel again.",
       "anchored_artifacts": [
@@ -3303,7 +3303,7 @@
       "investigative_direction": "Obtain call logs or the Kirk team's account of the call and invitation.",
       "transcript_snippet": "A few weeks before his death, I spoke to Charlie. I invited him to visit Israel again.",
       "supports_claim_refs": [
-        "C-10651"
+        "C-68"
       ],
       "mentions_person_refs": [
         "N-36",
@@ -3312,8 +3312,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11957",
-      "ref": "C-11957",
+      "@id": "C-445",
+      "ref": "C-445",
       "label": "Netanyahu Says Rumors May Come From Obsession or Qatari Funding",
       "claim": "In the clip, Netanyahu says some people are peddling these rumors perhaps out of obsession and perhaps with Qatari funding.",
       "anchored_artifacts": [
@@ -3335,8 +3335,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11958",
-      "ref": "C-11958",
+      "@id": "C-446",
+      "ref": "C-446",
       "label": "Host Says Gaza Is Being Bombarded to Make a Beachside Vacation Place for Netanyahu's Friends",
       "claim": "The host says Gaza is being bombarded because Netanyahu wants to make a beachside vacation place for his friends.",
       "anchored_artifacts": [
@@ -3358,8 +3358,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11959",
-      "ref": "C-11959",
+      "@id": "C-447",
+      "ref": "C-447",
       "label": "Host Says Netanyahu's Administration Has Been Investigated for Taking Qatari Money",
       "claim": "The host says Netanyahu's administration has been under investigation for taking money from Qataris, related to Gaza.",
       "anchored_artifacts": [
@@ -3382,8 +3382,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11960",
-      "ref": "C-11960",
+      "@id": "C-448",
+      "ref": "C-448",
       "label": "Host Says the Freud Family Are the Real Fathers of Modern Propaganda",
       "claim": "The host says Sigmund Freud's family created the system of propaganda and are the real fathers of modern propaganda, in answer to Netanyahu's Goebbels line.",
       "anchored_artifacts": [
@@ -3404,8 +3404,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11961",
-      "ref": "C-11961",
+      "@id": "C-449",
+      "ref": "C-449",
       "label": "Host Says She Told Netanyahu to Publish the Full Kirk Letter",
       "claim": "The host says she told Netanyahu to publish the full letter Kirk wrote him and not only lines of it, and that he is doubling down.",
       "anchored_artifacts": [
@@ -3421,7 +3421,7 @@
       "investigative_direction": "Ask the Prime Minister's office for the full letter and the date it was received.",
       "transcript_snippet": "And you're doubling down on your lie. I told you to publish the full letter that Charlie wrote you,",
       "supports_claim_refs": [
-        "C-1125"
+        "C-67"
       ],
       "mentions_person_refs": [
         "N-36",
@@ -3431,8 +3431,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11962",
-      "ref": "C-11962",
+      "@id": "C-450",
+      "ref": "C-450",
       "label": "Host Says Netanyahu Omits That Kirk Declined the Invitation to Israel",
       "claim": "The host says Netanyahu keeps mentioning that he invited Kirk to Israel 'just two weeks ago' without mentioning that Kirk declined to go.",
       "anchored_artifacts": [
@@ -3449,7 +3449,7 @@
       "investigative_direction": "Seek Kirk team or Netanyahu staff accounts of the invitation and the response.",
       "transcript_snippet": "to lie by omission and to stop mentioning the fact that you invited him to Israel just two weeks ago without mentioning the fact that he declined to go.",
       "supports_claim_refs": [
-        "C-1130"
+        "C-84"
       ],
       "mentions_person_refs": [
         "N-36",
@@ -3458,8 +3458,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11963",
-      "ref": "C-11963",
+      "@id": "C-451",
+      "ref": "C-451",
       "label": "Host Says Kirk Said He Would Love to Go to Israel and to Have Netanyahu on His Show",
       "claim": "The host says Charlie said he would love to go to Israel and would love to have the Prime Minister on his radio show.",
       "anchored_artifacts": [
@@ -3483,8 +3483,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11964",
-      "ref": "C-11964",
+      "@id": "C-452",
+      "ref": "C-452",
       "label": "Host Says She Offered Ackman Airtime to Discuss the Hamptons Trip",
       "claim": "The host says she told Bill Ackman she would publish whatever he says and that he can come on her program to talk about the trip to the Hamptons.",
       "anchored_artifacts": [],
@@ -3505,8 +3505,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11965",
-      "ref": "C-11965",
+      "@id": "C-453",
+      "ref": "C-453",
       "label": "Host Says She Never Said Israel Blackmailed Kirk",
       "claim": "The host says that she never said Israel blackmailed Kirk, after noting that Ackman shared text messages with Kirk to dispel claims in which 'blackmail' appears in parentheses where Israel is put.",
       "anchored_artifacts": [
@@ -3530,8 +3530,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11966",
-      "ref": "C-11966",
+      "@id": "C-454",
+      "ref": "C-454",
       "label": "Host Says a Hamptons Attendee Reported That Kirk Felt Morally Blackmailed",
       "claim": "The host says someone who was at the Hamptons published a statement saying Kirk said he felt morally blackmailed.",
       "anchored_artifacts": [
@@ -3548,7 +3548,7 @@
       "investigative_direction": "Identify the attendee and the venue of the published statement.",
       "transcript_snippet": "somebody that was at the Hampton's published a statement and said that Charlie said he felt morally blackmailed.",
       "supports_claim_refs": [
-        "C-10677"
+        "C-100"
       ],
       "mentions_person_refs": [
         "N-1"
@@ -3556,8 +3556,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11967",
-      "ref": "C-11967",
+      "@id": "C-457",
+      "ref": "C-457",
       "label": "Host Says the New York Post Ran Bolling's Claim That Kirk Had a Breakup With Owens",
       "claim": "The host says the New York Post ran Eric Bolling's claim that Charlie Kirk had a breakup with Candace Owens.",
       "anchored_artifacts": [
@@ -3581,8 +3581,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11968",
-      "ref": "C-11968",
+      "@id": "C-458",
+      "ref": "C-458",
       "label": "PBD Clip: Speaker Says Andrew Kolvet Was There in the Room",
       "claim": "In the PBD clip, speakers say Bill Ackman brought receipts and that Andrew Kolvet (transcribed Kovit) was there in the room, without the clip making clear which meeting is meant.",
       "anchored_artifacts": [
@@ -3605,8 +3605,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11969",
-      "ref": "C-11969",
+      "@id": "C-459",
+      "ref": "C-459",
       "label": "PBD Clip: Bolling Agrees He Is on the Board of Turning Point",
       "claim": "In the PBD clip, after a speaker says to Eric Bolling \"You're on the board of Turning Point\", Bolling answers yes.",
       "anchored_artifacts": [
@@ -3628,8 +3628,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11970",
-      "ref": "C-11970",
+      "@id": "C-461",
+      "ref": "C-461",
       "label": "PBD Clip: Bolling Says He Last Saw Owens in Person in 2015 or 2016",
       "claim": "In the PBD clip, Eric Bolling answers 2015 or 2016 when asked when he last saw Candace Owens in person.",
       "anchored_artifacts": [
@@ -3651,8 +3651,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11971",
-      "ref": "C-11971",
+      "@id": "C-463",
+      "ref": "C-463",
       "label": "PBD Clip: Bolling Says Owens Is Not Invited to the Funeral",
       "claim": "In the PBD clip, Eric Bolling says Candace Owens is not one of the names and is not invited, and a co-host asks whether she will be at the funeral.",
       "anchored_artifacts": [
@@ -3669,7 +3669,7 @@
       "investigative_direction": "Obtain the speaker list and invitations for the Arizona memorial.",
       "transcript_snippet": ">> Yeah, she's not she's not one of the names that >> you don't think she'll be at the funeral.",
       "supports_claim_refs": [
-        "C-1201"
+        "C-480"
       ],
       "mentions_person_refs": [
         "N-72",
@@ -3678,8 +3678,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11972",
-      "ref": "C-11972",
+      "@id": "C-465",
+      "ref": "C-465",
       "label": "Host Says Turning Point Was First to Issue a Christ Is King Statement After She Left the Daily Wire",
       "claim": "The host says that after she was fired from the Daily Wire, Turning Point USA was the first to issue a Christ is king statement of support, and that she then spoke at the YWLS conference right after.",
       "anchored_artifacts": [
@@ -3697,7 +3697,7 @@
       "investigative_direction": "Retrieve the TPUSA statement and the YWLS program from that month.",
       "transcript_snippet": "Turning Point USA is the first to issue a Christ is king statement of support.",
       "supports_claim_refs": [
-        "C-1200"
+        "C-464"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -3705,8 +3705,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11973",
-      "ref": "C-11973",
+      "@id": "C-466",
+      "ref": "C-466",
       "label": "Host Says Zionists Began Circling Kirk to Control Things Around September",
       "claim": "The host says that the Zionists started circling Charlie Kirk and trying to control things around September.",
       "anchored_artifacts": [],
@@ -3727,8 +3727,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11974",
-      "ref": "C-11974",
+      "@id": "C-467",
+      "ref": "C-467",
       "label": "Host Says Kirk Told Her He Was Pressured Not to Talk to Her Because of Israel",
       "claim": "The host says she and Kirk had a conversation in which he told her that people were putting pressure on him, saying he could not talk to her because she was talking about Israel.",
       "anchored_artifacts": [],
@@ -3743,7 +3743,7 @@
       "investigative_direction": "Obtain the text messages or call logs showing the exchange between the host and Kirk.",
       "transcript_snippet": "you can't talk to her. She's talking about Israel, blah blah.",
       "supports_claim_refs": [
-        "C-10655"
+        "C-74"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -3752,8 +3752,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11975",
-      "ref": "C-11975",
+      "@id": "C-468",
+      "ref": "C-468",
       "label": "Host Says She Is Banned From Australia",
       "claim": "The host says she is banned from Australia because she stood up to Zionists.",
       "anchored_artifacts": [],
@@ -3772,8 +3772,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11976",
-      "ref": "C-11976",
+      "@id": "C-469",
+      "ref": "C-469",
       "label": "Host Says She Told Kirk Not Speaking at AmFest Meant Nothing to Her",
       "claim": "The host says she told Kirk that not speaking at AmFest (transcribed AFest) was nothing, and that he should tell them whatever he needed to.",
       "anchored_artifacts": [],
@@ -3794,8 +3794,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11977",
-      "ref": "C-11977",
+      "@id": "C-470",
+      "ref": "C-470",
       "label": "Host Says She Was Canceled From YouTube at the End of the Previous Year",
       "claim": "The host says she was canceled from YouTube at the end of the previous year and then came back bigger and stronger.",
       "anchored_artifacts": [],
@@ -3812,8 +3812,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11978",
-      "ref": "C-11978",
+      "@id": "C-471",
+      "ref": "C-471",
       "label": "Host Says the Pressure Extended to Tucker Carlson After His AmFest Appearance",
       "claim": "The host says the pressure then extended beyond her to Tucker Carlson because Tucker went to AmFest (transcribed Amfest), and that 'they' said that could not happen again either.",
       "anchored_artifacts": [],
@@ -3828,7 +3828,7 @@
       "investigative_direction": "Compare with the AmFest speaker removal reporting and messages about Tucker Carlson and donors.",
       "transcript_snippet": "It was Tucker Carlson because Tucker went to Amfest and then they said that can't happen again either.",
       "supports_claim_refs": [
-        "C-10656"
+        "C-75"
       ],
       "mentions_person_refs": [
         "N-22",
@@ -3838,8 +3838,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11979",
-      "ref": "C-11979",
+      "@id": "C-472",
+      "ref": "C-472",
       "label": "Host Says Kirk Wanted Her Back on the Roster the Week He Was Killed",
       "claim": "The host says that in the very week Charlie Kirk was assassinated he was saying he wanted her back on the roster.",
       "anchored_artifacts": [],
@@ -3855,7 +3855,7 @@
       "investigative_direction": "Obtain messages or witnesses from Kirk's circle from the final week about the speaker roster.",
       "transcript_snippet": "in the very week that Charlie Kirk was assassinated, he was saying that he wanted me back on the roster.",
       "contradicts_claim_refs": [
-        "C-1204"
+        "C-462"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -3864,8 +3864,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11980",
-      "ref": "C-11980",
+      "@id": "C-473",
+      "ref": "C-473",
       "label": "Host Says a Donor Demanded His Name Come Off a Turning Point Building",
       "claim": "The host says a man she calls \"a Shillman guy\" (Robert Shillman) said he wanted his name off the building at Turning Point, and that in the 48 hours leading up to Charlie's assassination they were squeezing him over whom he was allowed to speak to.",
       "anchored_artifacts": [],
@@ -3880,7 +3880,7 @@
       "investigative_direction": "Identify the donor and the building and check naming or signage changes at TPUSA facilities.",
       "transcript_snippet": "\"I want my name off of the building at Turning Point.\" In the 48 hours leading up to his assassination,",
       "supports_claim_refs": [
-        "C-1174"
+        "C-269"
       ],
       "mentions_person_refs": [
         "N-1"
@@ -3888,8 +3888,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11981",
-      "ref": "C-11981",
+      "@id": "C-474",
+      "ref": "C-474",
       "label": "Host Says Kirk Was Squeezed in the Final Days on Whom He Could Speak To",
       "claim": "The host says that in the days leading up to the assassination people were squeezing Kirk and trying to control who he was allowed to speak to.",
       "anchored_artifacts": [],
@@ -3904,7 +3904,7 @@
       "investigative_direction": "Obtain Kirk's messages and calendar from September 8 to 10 and interview those present.",
       "transcript_snippet": "the couple of days leading up to his assassination, they were squeezing him, trying to control who he was allowed to speak to.",
       "supports_claim_refs": [
-        "C-10655"
+        "C-74"
       ],
       "mentions_person_refs": [
         "N-1"
@@ -3912,8 +3912,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11982",
-      "ref": "C-11982",
+      "@id": "C-475",
+      "ref": "C-475",
       "label": "Host Says the Squeeze Began in Earnest in Q4 of the Previous Year",
       "claim": "The host says the pressure on Kirk started in real earnest in the fourth quarter of the previous year and that Kirk had had enough.",
       "anchored_artifacts": [],
@@ -3933,8 +3933,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11983",
-      "ref": "C-11983",
+      "@id": "C-476",
+      "ref": "C-476",
       "label": "Host Says They Wanted to Take Over Turning Point and Turn It Into Another Outfit",
       "claim": "The host says it was almost like they wanted to take over the company Kirk built and turn it into just another outfit of the Mossad (transcribed Mossad), and that they were \"spiking the ball\" where they were spending the money.",
       "anchored_artifacts": [],
@@ -3954,8 +3954,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11984",
-      "ref": "C-11984",
+      "@id": "C-477",
+      "ref": "C-477",
       "label": "Host Says She Is Hearing Donors Are Pushing Memorial Plans",
       "claim": "The host says she hopes Erika Kirk is in full control of the memorial but is hearing stories about donors who are pushing things.",
       "anchored_artifacts": [],
@@ -3977,8 +3977,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11985",
-      "ref": "C-11985",
+      "@id": "C-478",
+      "ref": "C-478",
       "label": "Host Says Bolling Is Not a Turning Point Board Member",
       "claim": "The host says Eric Bolling is not a board member of Turning Point and that PBD should have fact-checked it.",
       "anchored_artifacts": [
@@ -3995,7 +3995,7 @@
       "investigative_direction": "Check TPUSA's public board list and Form 990 for Bolling.",
       "transcript_snippet": "Board member Eric Bolling, by the way, he's not a board member, but that would have been a good fact check for UPBD,",
       "contradicts_claim_refs": [
-        "C-11969"
+        "C-459"
       ],
       "mentions_person_refs": [
         "N-72"
@@ -4003,8 +4003,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11986",
-      "ref": "C-11986",
+      "@id": "C-479",
+      "ref": "C-479",
       "label": "Daily Mail Reports No Communication Between Kirk and Owens for Many Years",
       "claim": "In the Daily Mail wording the host reads, there has not been any communication between Kirk and Candace Owens for many years; the host calls it made up.",
       "anchored_artifacts": [],
@@ -4020,7 +4020,7 @@
       "investigative_direction": "Retrieve the Daily Mail article and compare its sourcing with messages and appearances between Kirk and Owens.",
       "transcript_snippet": "Has there been any communication between there hasn't been any communication between the two for many years?",
       "contradicts_claim_refs": [
-        "C-1200"
+        "C-464"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -4029,8 +4029,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11987",
-      "ref": "C-11987",
+      "@id": "C-481",
+      "ref": "C-481",
       "label": "Host Says She and Kirk Never Stopped Being Friends",
       "claim": "The host says she and Charlie Kirk never for a single second stopped being friends and that no one can produce evidence to the contrary.",
       "anchored_artifacts": [],
@@ -4045,7 +4045,7 @@
       "investigative_direction": "Collect the host's and Kirk's message history and joint appearances through 2025.",
       "transcript_snippet": "It could not be further from the truth. Okay, Charlie and I never for a single second stop being friends ever.",
       "contradicts_claim_refs": [
-        "C-1204"
+        "C-462"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -4054,8 +4054,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11988",
-      "ref": "C-11988",
+      "@id": "C-482",
+      "ref": "C-482",
       "label": "Host Says Turning Point Sources Are Telling Her Troubling Things About Donors",
       "claim": "The host says donors at Turning Point need to be investigated because of what she is hearing from Turning Point sources, which she says is not good.",
       "anchored_artifacts": [],
@@ -4075,8 +4075,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11989",
-      "ref": "C-11989",
+      "@id": "C-483",
+      "ref": "C-483",
       "label": "Host Says Brigitte Macron's Lawyer Claimed Scientific Evidence That She Is a Woman",
       "claim": "The host says Brigitte Macron (transcribed Brigitte Macron) comes out and says they have offered scientific evidence to the US court to prove that she is a woman.",
       "anchored_artifacts": [],
@@ -4096,8 +4096,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11990",
-      "ref": "C-11990",
+      "@id": "C-484",
+      "ref": "C-484",
       "label": "Host Says No Such Filing Is Possible Because the Case Has Not Started",
       "claim": "The host says the lawyer is a liar because the case has not started yet, so scientific proof could not have been offered to the court.",
       "anchored_artifacts": [],
@@ -4117,8 +4117,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11991",
-      "ref": "C-11991",
+      "@id": "C-485",
+      "ref": "C-485",
       "label": "Host Says Macron Has Never Sued Anyone for the Claim She Was Born Male",
       "claim": "The host says Macron has never sued anybody for the statement that she was born male, and sues instead over surrounding claims such as stealing her sister's identity.",
       "anchored_artifacts": [],
@@ -4138,8 +4138,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11992",
-      "ref": "C-11992",
+      "@id": "C-486",
+      "ref": "C-486",
       "label": "Host Relays a Commenter's Point That Robinson's Father Is More MAGA Than Ever",
       "claim": "The host mocks the narrative that the Robinson father has been more MAGA than ever and relays a commenter's question about why the dad would suddenly be more MAGA than ever and what changed to cause it.",
       "anchored_artifacts": [],
@@ -4156,8 +4156,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11993",
-      "ref": "C-11993",
+      "@id": "C-487",
+      "ref": "C-487",
       "label": "Host Says Many MAGA People Think Trump's Administration Is Controlled by Netanyahu",
       "claim": "The host says more MAGA people are saying it seems like Trump has kind of given up on free speech and that his administration seems to be controlled by Netanyahu.",
       "anchored_artifacts": [],
@@ -4178,8 +4178,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11994",
-      "ref": "C-11994",
+      "@id": "C-488",
+      "ref": "C-488",
       "label": "Host Says Ackman Told Hamptons Attendees Not to Aspire to Own a Home",
       "claim": "The host repeats that, according to one of the attendees, Bill Ackman told those at the Hamptons retreat they should not even aspire to own a home and should put money in stocks.",
       "anchored_artifacts": [],
@@ -4194,7 +4194,7 @@
       "investigative_direction": "Identify the attendee and compare against any recording or notes of the retreat.",
       "transcript_snippet": "told them that they shouldn't even aspire to own a home. They should just give money to stocks.",
       "supports_claim_refs": [
-        "C-1161"
+        "C-283"
       ],
       "mentions_person_refs": [
         "N-37"
@@ -4202,8 +4202,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11995",
-      "ref": "C-11995",
+      "@id": "C-489",
+      "ref": "C-489",
       "label": "Host Says the Arizona Memorial Is in Large Part Controlled by the White House",
       "claim": "The host says that from what she understands the Arizona memorial is in large part being controlled by the White House.",
       "anchored_artifacts": [],
@@ -4223,8 +4223,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11996",
-      "ref": "C-11996",
+      "@id": "C-490",
+      "ref": "C-490",
       "label": "Host Says Trump Is Controlled by Zionists",
       "claim": "The host says Trump is controlled by Zionists.",
       "anchored_artifacts": [],
@@ -4244,8 +4244,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11997",
-      "ref": "C-11997",
+      "@id": "C-491",
+      "ref": "C-491",
       "label": "Host Says Michael Savage Said Trump's First-Term Allies Cannot Get Close to Him",
       "claim": "The host says a rant she attributes first to Michael Malice and then corrects to Michael Savage states that people who were close to Trump in the first administration cannot get close to him.",
       "anchored_artifacts": [],
@@ -4263,8 +4263,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11998",
-      "ref": "C-11998",
+      "@id": "C-492",
+      "ref": "C-492",
       "label": "Host Says Donations Are the Largest She Has Received on YouTube",
       "claim": "The host says the donations during this stream are bigger than any she has had on YouTube.",
       "anchored_artifacts": [],
@@ -4281,8 +4281,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11999",
-      "ref": "C-11999",
+      "@id": "C-495",
+      "ref": "C-495",
       "label": "Host Says Feds Named Robinson Right When People Noted the Song Artist Resembled the Suspect Photo",
       "claim": "The host says that right when people started saying the Utah artist who posted the song looked like the person in the suspect photo, the feds suddenly said it was Tyler Robinson.",
       "anchored_artifacts": [
@@ -4298,7 +4298,7 @@
       "investigative_direction": "Compare the timing of the posts comparing the artist to the FBI photo with the announcement of Robinson's arrest.",
       "transcript_snippet": "And right when people started going, \"This guy looks like the person in the photo.\" Suddenly the Fed said,",
       "supports_claim_refs": [
-        "C-1196"
+        "C-494"
       ],
       "mentions_person_refs": [
         "N-40"
@@ -4306,8 +4306,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12000",
-      "ref": "C-12000",
+      "@id": "C-496",
+      "ref": "C-496",
       "label": "Host Says Her Real Funding Comes From Her Viewers",
       "claim": "The host says her real funding always comes from her audience, in answer to a joking comment about Qatari funding.",
       "anchored_artifacts": [],
@@ -4321,7 +4321,7 @@
       "investigative_direction": "Review the show's disclosed revenue sources, sponsors and donation records.",
       "transcript_snippet": "Anyways, you guys know my real funding always comes from you guys.",
       "supports_claim_refs": [
-        "C-10716"
+        "C-153"
       ],
       "mentions_person_refs": [
         "N-3"

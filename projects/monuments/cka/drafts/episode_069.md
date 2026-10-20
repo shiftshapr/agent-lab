@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-11341
-  - Claim Range (supplement_2026-10f): C-12587–C-12670
+  - Claim Range: C-6145–C-6244
   - New Nodes Introduced: N-545, N-546, N-547, N-548, N-549, N-550, N-10485, N-10486, N-10487, N-10489, N-10490, N-10491
   - Reused Nodes Appearing: N-2, N-377, N-14, N-40, N-46, N-55, N-190, N-217, N-237, N-261, N-270, N-389, N-520, N-521, N-10000, N-10074, N-10193, N-10246, N-10253, N-10299, N-10339, N-10340, N-10398, N-10414, N-10447, N-10470, N-10480, N-10481, N-10548, N-10554, N-11029, N-11165, N-10488
   - (see registers)
@@ -30,7 +30,6 @@
 - Analysis Date: 2026-03-11
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1738, A-1739, A-1740, A-1741, A-1742, A-1743
-  - Claim Range: C-2298–C-2311
   - New Nodes Introduced (people): N-545, N-546, N-547, N-548, N-549
   - New Nodes Introduced (investigation targets): N-10485, N-10486, N-10487, N-10488
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-377 (Emmanuel Macron)
@@ -61,7 +60,7 @@ Confidence Level: Medium (text read aloud by host)
 
 *Display/Read content: "The 23 and me kits arrived and will be delivered to Woody and Soon-Yi to their home today."*
 
-*Related: C-2298, N-9 (Epstein), N-549 (Woody Allen)*
+*Related: C-6149, N-9 (Epstein), N-549 (Woody Allen)*
 
 **A-1738.2** Epstein email to "Sultan" re: James Miller / 9E71st Street shipping
 
@@ -73,7 +72,7 @@ Confidence Level: Medium
 
 *Display/Read content: "Hi, Sultan. Can you please tell me who James Miller is? He is who you have built to. Also, do I understand the shipping address is Jeffrey's home at 9E71st Street."*
 
-*Related: C-2299, N-9 (Epstein)*
+*Related: C-6150, N-9 (Epstein)*
 
 ---
 
@@ -89,7 +88,7 @@ Confidence Level: High (audio played in full)
 
 *Display/Read content: Book of Enoch; 200 fallen angels (Watchers) landing at Mount Hermon, southern Lebanon; topographic outline resembling a goat; Azazel/goat association in Leviticus 16; David Flynn research; coordinate 33.33°N × 33.33°E from Paris prime meridian; "devil's line."*
 
-*Related: C-2300, C-2311, N-541 (Rob Skiba), N-548 (David Flynn), N-10489 (Mount Hermon 33.33 Coordinate Investigation)*
+*Related: C-6158, C-6241, N-541 (Rob Skiba), N-548 (David Flynn), N-10489 (Mount Hermon 33.33 Coordinate Investigation)*
 
 **A-1739.2** Rob Skiba segment on Gilgamesh / CERN / 666
 
@@ -101,7 +100,7 @@ Confidence Level: High (audio played in full)
 
 *Display/Read content: Gilgamesh as 1/3 man and 2/3 God (33.33% / 66.6%); carbon molecule 6/6/6 → "666"; CERN Hadron Collider stated goal of recreating Big Bang; CERN logo resembling three 6s; Shiva statue at CERN.*
 
-*Related: C-2301, C-2311, N-541 (Rob Skiba)*
+*Related: C-6170, C-6241, N-541 (Rob Skiba)*
 
 ---
 
@@ -117,7 +116,7 @@ Confidence Level: High (audio played in full)
 
 *Display/Read content: 2003 find of Gilgamesh body in Iraq; Tom Horn interjection citing a "special operations general" who stated remains were "in a state of remarkable preservation"; proposition that the U.S. military took possession of the dig; Steve Quayle's claim that "the whole point was to extract the DNA" and that the human genome project was oriented toward "locate specific genetic markers for the disembodied spirits to reanimate their host body that's brought back."*
 
-*Related: C-2302, C-2303, N-546 (Tom Horn), N-547 (Steve Quayle), N-10490 (Gilgamesh Remains DNA Extraction Claim)*
+*Related: C-6178, C-6180, N-546 (Tom Horn), N-547 (Steve Quayle), N-10490 (Gilgamesh Remains DNA Extraction Claim)*
 
 ---
 
@@ -133,7 +132,7 @@ Confidence Level: High (video clip played in full)
 
 *Display/Read content: "Erika Kirk has been a dear friend of mine for almost 15 years. We have done multiple projects together. She wrote the forward to my book. The photo that has been circulating around that says a left eye club. Um this is the cuff that she's wearing. I designed it. Those are my um jewelry pieces. This was an editorial shot that I actually styled…"; description of "Romanian Angels" gift project organized by Erika.*
 
-*Related: C-2304, C-2305, N-545 (Tracy Martin), N-2 (Erika Kirk), N-10486 (Tracy Martin Background and Husband Verification), N-10485 (Erika Kirk September 10 Alibi Investigation)*
+*Related: C-6211, C-6213, N-545 (Tracy Martin), N-2 (Erika Kirk), N-10486 (Tracy Martin Background and Husband Verification), N-10485 (Erika Kirk September 10 Alibi Investigation)*
 
 ---
 
@@ -149,7 +148,7 @@ Confidence Level: Low (verbally referenced; not visually confirmed as displayed 
 
 *Display/Read content: Host states she has reviewed text chains discussing "Macron's boyfriend" and that she was "shown a photo of Macron's boyfriend"; states additional emails reference Macron's sexuality; host references a Steve Bannon chat in the same set.*
 
-*Related: C-2306, N-377 (Emmanuel Macron)*
+*Related: C-6225, N-377 (Emmanuel Macron)*
 
 ---
 
@@ -165,7 +164,7 @@ Confidence Level: High (read aloud)
 
 *Display/Read content: "A passport in mint condition like a steel neck stopping bullets."*
 
-*Related: C-2307, N-1 (Charlie Kirk), N-2 (Erika Kirk)*
+*Related: C-6233, N-1 (Charlie Kirk), N-2 (Erika Kirk)*
 
 **A-1743.2** Moderator Marzy comment re: jmail.world
 
@@ -177,7 +176,7 @@ Confidence Level: High (read aloud)
 
 *Display/Read content: Recommendation of jmail.world as a Gmail-style interface for viewing Epstein files.*
 
-*Related: C-2308, N-9 (Epstein)*
+*Related: C-6238, N-9 (Epstein)*
 
 **A-1743.3** Tatiana comment re: "end human fight" / eternal flesh generation
 
@@ -189,7 +188,7 @@ Confidence Level: Medium (host flags possible typo)
 
 *Display/Read content: "Am I the only one who thinks that this generation will live eternal in flesh and that's why end human fight is all about?"*
 
-*Related: C-2309, N-50 (Sigmund Freud – referenced in host response)*
+*Related: C-6239, N-50 (Sigmund Freud – referenced in host response)*
 
 **A-1743.4** Angie comment addressed to "Ben" / "Benjamin"
 
@@ -201,7 +200,7 @@ Confidence Level: High (read aloud)
 
 *Display/Read content: "Hi Ben, team Candace for Life."*
 
-*Related: C-2310, N-550 (Benjamin – flag)*
+*Related: C-6240, N-550 (Benjamin – flag)*
 
 **A-1743.5** AZ Masterbaker comment re: COVID tests as DNA collection for Nimrod descendants
 
@@ -213,7 +212,7 @@ Confidence Level: High (read aloud)
 
 *Display/Read content: "Fully believe the CO tests were just to collect DNA. That's why it doesn't matter if they were accurate. Also, maybe the collecting of DNA is to find Nimrod's descendants."*
 
-*Related: C-2311, N-541 (Rob Skiba), N-10491 (COVID Test DNA Collection Hypothesis)*
+*Related: C-6241, N-541 (Rob Skiba), N-10491 (COVID Test DNA Collection Hypothesis)*
 
 **A-1743.6** Bobby comment re: Satan as counterfeiter
 
@@ -225,7 +224,7 @@ Confidence Level: High (read aloud)
 
 *Display/Read content: "Satan is the great counterfeitterter. He has never nor can he ever create anything. That is why he hates God so much."*
 
-*Related: C-2312, N-50 (Sigmund Freud – host's elaboration)*
+*Related: C-6242, N-50 (Sigmund Freud – host's elaboration)*
 
 **A-1743.7** American Jetet comment re: Rob / Babylonian ascension
 
@@ -237,7 +236,7 @@ Confidence Level: High (read aloud)
 
 *Display/Read content: "Rob was amazing and I'm so glad that you found his work. We are in a battle um thousands of years long and it is all about the Babylonian ascension."*
 
-*Related: C-2313, N-541 (Rob Skiba)*
+*Related: C-6243, N-541 (Rob Skiba)*
 
 ---
 
@@ -250,7 +249,7 @@ Video Timestamp: 00:07:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12602, N-520*
+*Related: C-6163, N-520*
 
 ---
 
@@ -265,7 +264,7 @@ Video Timestamp: 00:30:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-12655, N-3*
+*Related: C-6221, N-3*
 
 ---
 
@@ -281,7 +280,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1741.1, C-2304, C-2305, N-2 (Erika Kirk), N-10485, N-10486*
+*Related: A-1741.1, C-6211, C-6213, N-2 (Erika Kirk), N-10485, N-10486*
 
 **N-541** Rob Skiba
 
@@ -292,7 +291,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1739.1, A-1739.2, A-1743.5, A-1743.7, C-2300, C-2301, N-548 (David Flynn), N-10489, N-10491*
+*Related: A-1739.1, A-1739.2, A-1743.5, A-1743.7, C-6158, C-6170, N-548 (David Flynn), N-10489, N-10491*
 
 **N-546** Tom Horn
 
@@ -303,7 +302,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1740.1, C-2302, N-547 (Steve Quayle), N-10490*
+*Related: A-1740.1, C-6178, N-547 (Steve Quayle), N-10490*
 
 **N-547** Steve Quayle
 
@@ -314,7 +313,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1740.1, C-2303, N-546 (Tom Horn), N-10490*
+*Related: A-1740.1, C-6180, N-546 (Tom Horn), N-10490*
 
 **N-548** David Flynn
 
@@ -369,7 +368,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1742.1, C-2306, N-9 (Epstein)*
+*Related: A-1742.1, C-6225, N-9 (Epstein)*
 
 **N-50** Sigmund Freud
 
@@ -380,7 +379,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1743.3, A-1743.6, C-2309, C-2312, N-541 (Rob Skiba)*
+*Related: A-1743.3, A-1743.6, C-6239, C-6242, N-541 (Rob Skiba)*
 
 **N-17** Rob McCoy
 
@@ -402,7 +401,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1743.4, C-2310*
+*Related: A-1743.4, C-6240*
 
 ---
 
@@ -489,7 +488,7 @@ Investigative Pressure: Low
 
 Subject of the assassination; the host discusses his night-before texts, his book remark and his church involvement.
 
-*Related: C-12625, C-12626, C-12627, C-12628, C-12629, C-12639, C-12640, C-12641, C-12642, C-12645, C-12657, C-12658, C-12661, C-12668, C-12669*
+*Related: C-6189, C-6190, C-6191, C-6192, C-6193, C-6203, C-6204, C-6205, C-6206, C-6209, C-6223, C-6224, C-6228, C-6236, C-6237*
 
 ---
 
@@ -497,7 +496,7 @@ Subject of the assassination; the host discusses his night-before texts, his boo
 
 Widow and TPUSA CEO; the host disputes her accounts of the surgeon call, the tarmac and her whereabouts on September 10.
 
-*Related: C-12587, C-12622, C-12623, C-12625, C-12630, C-12634, C-12635, C-12636, C-12637, C-12638, C-12640, C-12642, C-12643, C-12647, C-12648, C-12649, C-12650, C-12654, C-12658*
+*Related: C-6145, C-6186, C-6187, C-6189, C-6194, C-6198, C-6199, C-6200, C-6201, C-6202, C-6204, C-6206, C-6207, C-6212, C-6214, C-6215, C-6216, C-6220, C-6224*
 
 ---
 
@@ -505,7 +504,7 @@ Widow and TPUSA CEO; the host disputes her accounts of the surgeon call, the tar
 
 Host; speaks for herself throughout.
 
-*Related: C-12587, C-12588, C-12589, C-12590, C-12591, C-12592, C-12593, C-12595, C-12596, C-12603, C-12604, C-12605, C-12606, C-12610, C-12611, C-12612, C-12613, C-12614, C-12616, C-12617, C-12618, C-12619, C-12620, C-12621, C-12624, C-12626, C-12631, C-12637, C-12639, C-12641, C-12643, C-12648, C-12655, C-12656, C-12662, C-12663, C-12664, C-12665, C-12666, C-12667, C-12670, A-3219.1*
+*Related: C-6145, C-6146, C-6147, C-6148, C-6152, C-6151, C-6153, C-6155, C-6156, C-6164, C-6165, C-6166, C-6167, C-6172, C-6173, C-6174, C-6175, C-6176, C-6179, C-6182, C-6181, C-6183, C-6185, C-6184, C-6188, C-6190, C-6195, C-6201, C-6203, C-6205, C-6207, C-6214, C-6221, C-6222, C-6229, C-6230, C-6231, C-6232, C-6234, C-6235, C-6244, A-3219.1*
 
 ---
 
@@ -513,7 +512,7 @@ Host; speaks for herself throughout.
 
 TPUSA spokesperson; the host recounts the Superman neck call, the night-before text and the Provo tarmac account (often rendered Kovat, Kulvat or Kovet).
 
-*Related: C-12622, C-12623, C-12624, C-12627, C-12630, C-12636, C-12637, C-12638*
+*Related: C-6186, C-6187, C-6188, C-6191, C-6194, C-6200, C-6201, C-6202*
 
 ---
 
@@ -521,7 +520,7 @@ TPUSA spokesperson; the host recounts the Superman neck call, the night-before t
 
 Tyler Robinson; the accused, referenced regarding prints on the gun.
 
-*Related: C-12666*
+*Related: C-6234*
 
 ---
 
@@ -529,7 +528,7 @@ Tyler Robinson; the accused, referenced regarding prints on the gun.
 
 Megyn Kelly; interviewer to whom Charlie described his Sabbath book.
 
-*Related: C-12639*
+*Related: C-6203*
 
 ---
 
@@ -537,7 +536,7 @@ Megyn Kelly; interviewer to whom Charlie described his Sabbath book.
 
 Josh Hammer; on the night-before call with a rabbi in Israel, per the host.
 
-*Related: C-12628, C-12629*
+*Related: C-6192, C-6193*
 
 ---
 
@@ -545,7 +544,7 @@ Josh Hammer; on the night-before call with a rabbi in Israel, per the host.
 
 Mikey McCoy; first caller after the shot, per the host's call sequence.
 
-*Related: C-12632, C-12634, C-12635, C-12647*
+*Related: C-6196, C-6198, C-6199, C-6212*
 
 ---
 
@@ -553,7 +552,7 @@ Mikey McCoy; first caller after the shot, per the host's call sequence.
 
 Elizabeth McCoy; called first by Mikey, per the host.
 
-*Related: C-12632, C-12633, C-12634, C-12647*
+*Related: C-6196, C-6197, C-6198, C-6212*
 
 ---
 
@@ -561,7 +560,7 @@ Elizabeth McCoy; called first by Mikey, per the host.
 
 Glenn Beck; interviewed Erika Kirk, per the host.
 
-*Related: C-12625*
+*Related: C-6189*
 
 ---
 
@@ -569,7 +568,7 @@ Glenn Beck; interviewed Erika Kirk, per the host.
 
 Terryl Farnsworth; the host says he was to take the cameras down (rendered Terra).
 
-*Related: C-12669*
+*Related: C-6237*
 
 ---
 
@@ -577,7 +576,7 @@ Terryl Farnsworth; the host says he was to take the cameras down (rendered Terra
 
 Dan Flood; recipient with Kolvet of Charlie's night-before text, per the host.
 
-*Related: C-12627, C-12630, C-12631*
+*Related: C-6191, C-6194, C-6195*
 
 ---
 
@@ -585,7 +584,7 @@ Dan Flood; recipient with Kolvet of Charlie's night-before text, per the host.
 
 Steve Bannon; named as appearing in other Epstein chats.
 
-*Related: C-12659*
+*Related: C-6226*
 
 ---
 
@@ -593,7 +592,7 @@ Steve Bannon; named as appearing in other Epstein chats.
 
 Rothschild Family; subject of the host's Epstein and surrealist-ball remarks.
 
-*Related: C-12601, C-12602, A-3218.1*
+*Related: C-6162, C-6163, A-3218.1*
 
 ---
 
@@ -601,7 +600,7 @@ Rothschild Family; subject of the host's Epstein and surrealist-ball remarks.
 
 Peter Thiel; the host says he discusses the Antichrist (rendered Teal).
 
-*Related: C-12619*
+*Related: C-6183*
 
 ---
 
@@ -609,7 +608,7 @@ Peter Thiel; the host says he discusses the Antichrist (rendered Teal).
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12657, C-12664*
+*Related: C-6223, C-6231*
 
 ---
 
@@ -617,7 +616,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12636*
+*Related: C-6200*
 
 ---
 
@@ -625,7 +624,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12632, C-12634, C-12635, C-12647*
+*Related: C-6196, C-6198, C-6199, C-6212*
 
 ---
 
@@ -633,7 +632,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12658*
+*Related: C-6224*
 
 ---
 
@@ -641,7 +640,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12652, C-12661, C-12664*
+*Related: C-6218, C-6228, C-6231*
 
 ---
 
@@ -649,7 +648,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12663*
+*Related: C-6230*
 
 ---
 
@@ -657,7 +656,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12633*
+*Related: C-6197*
 
 ---
 
@@ -665,7 +664,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12625, C-12626, C-12627, C-12629*
+*Related: C-6189, C-6190, C-6191, C-6193*
 
 ---
 
@@ -673,7 +672,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12646, C-12657, C-12658, C-12664*
+*Related: C-6210, C-6223, C-6224, C-6231*
 
 ---
 
@@ -681,7 +680,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12611*
+*Related: C-6173*
 
 ---
 
@@ -689,7 +688,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12622, C-12623, C-12624*
+*Related: C-6186, C-6187, C-6188*
 
 ---
 
@@ -697,7 +696,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12630, C-12631*
+*Related: C-6194, C-6195*
 
 ---
 
@@ -705,7 +704,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12592, C-12607, C-12608, C-12616, C-12618*
+*Related: C-6151, C-6168, C-6169, C-6179, C-6181*
 
 ---
 
@@ -713,7 +712,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12617*
+*Related: C-6182*
 
 ---
 
@@ -721,7 +720,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12636, C-12638*
+*Related: C-6200, C-6202*
 
 ---
 
@@ -729,7 +728,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12637*
+*Related: C-6201*
 
 ---
 
@@ -737,7 +736,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12609, C-12610, C-12611*
+*Related: C-6171, C-6172, C-6173*
 
 ---
 
@@ -745,7 +744,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12649*
+*Related: C-6215*
 
 ---
 
@@ -754,13 +753,13 @@ Existing topic reused for new claims in this episode.
 Node Type: Organization
 23andMe, the DNA-testing company the host links to the Epstein emails and to the Iraq theme.
 
-*Related: C-12589, C-12591, C-12614*
+*Related: C-6147, C-6152, C-6176*
 
 ---
 
 # Claim Register
 
-**C-2298** Epstein Emailed Woody Allen Regarding Delivery of 23andMe Kits to His and Soon-Yi's Home
+**C-6149** Epstein Emailed Woody Allen Regarding Delivery of 23andMe Kits to His and Soon-Yi's Home
 
 Claim Timestamp: 00:01:18
 
@@ -774,7 +773,7 @@ Investigative Direction: Locate the email within the public Epstein files (jmail
 
 ---
 
-**C-2299** Epstein emailed a "Sultan" referencing a person named James Miller and shipping to 9E71st Street
+**C-6150** Epstein emailed a "Sultan" referencing a person named James Miller and shipping to 9E71st Street
 
 Claim Timestamp: 00:01:55
 
@@ -788,7 +787,7 @@ Investigative Direction: Identify the redacted recipient "Sultan" within the Eps
 
 ---
 
-**C-2300** Rob Skiba posits Mount Hermon as the 33.33°N × 33.33°E landing site of 200 fallen angels
+**C-6158** Rob Skiba posits Mount Hermon as the 33.33°N × 33.33°E landing site of 200 fallen angels
 
 Claim Timestamp: 00:05:43
 
@@ -803,7 +802,7 @@ Investigative Direction: Verify David Flynn's published coordinate claim indepen
 
 ---
 
-**C-2301** Rob Skiba posits Gilgamesh as 2/3 God and 1/3 man and links CERN's logo to 666
+**C-6170** Rob Skiba posits Gilgamesh as 2/3 God and 1/3 man and links CERN's logo to 666
 
 Claim Timestamp: 00:10:17
 
@@ -818,7 +817,7 @@ Investigative Direction: Verify Epic of Gilgamesh text on divine/mortal proporti
 
 ---
 
-**C-2302** Steve Quayle Says a Special Operations General Confirmed Gilgamesh Remains in Remarkable Preservation
+**C-6178** Steve Quayle Says a Special Operations General Confirmed Gilgamesh Remains in Remarkable Preservation
 
 Claim Timestamp: 00:15:25
 
@@ -833,7 +832,7 @@ Investigative Direction: Identify the named general; verify the 2003 Iraq dig re
 
 ---
 
-**C-2303** Steve Quayle asserts human genome project aimed at genetic markers to "reanimate" Nimrod/Gilgamesh
+**C-6180** Steve Quayle asserts human genome project aimed at genetic markers to "reanimate" Nimrod/Gilgamesh
 
 Claim Timestamp: 00:15:55
 
@@ -848,7 +847,7 @@ Investigative Direction: Locate the Omega Man Radio episode and any prior Quail 
 
 ---
 
-**C-2304** Tracy Martin states she has been friends with Erika Kirk for nearly 15 years and collaborated on the Romanian Angels project
+**C-6211** Tracy Martin states she has been friends with Erika Kirk for nearly 15 years and collaborated on the Romanian Angels project
 
 Claim Timestamp: 00:27:48
 
@@ -863,7 +862,7 @@ Investigative Direction: Verify duration of friendship via independent records (
 
 ---
 
-**C-2305** Tracy Martin states she styled the "left eye club" editorial photograph and designed the cuff Erika Kirk wears
+**C-6213** Tracy Martin states she styled the "left eye club" editorial photograph and designed the cuff Erika Kirk wears
 
 Claim Timestamp: 00:28:05
 
@@ -877,7 +876,7 @@ Investigative Direction: Identify the original editorial publication to confirm 
 
 ---
 
-**C-2306** Host Reads Epstein Text Chain About Macron's Boyfriend
+**C-6225** Host Reads Epstein Text Chain About Macron's Boyfriend
 
 Claim Timestamp: 00:31:49
 
@@ -891,7 +890,7 @@ Investigative Direction: Locate the specific text chain and photo within public 
 
 ---
 
-**C-2307** Frey FA comment draws a parallel between 911 "passport in mint condition" and the "steel neck stopping bullets" narrative
+**C-6233** Frey FA comment draws a parallel between 911 "passport in mint condition" and the "steel neck stopping bullets" narrative
 
 Claim Timestamp: 00:36:50
 
@@ -905,7 +904,7 @@ Investigative Direction: Trace the historical origins of the "passport in mint c
 
 ---
 
-**C-2308** Moderator Marzy comment identifies jmail.world as a Gmail-style interface for viewing the Epstein files
+**C-6238** Moderator Marzy comment identifies jmail.world as a Gmail-style interface for viewing the Epstein files
 
 Claim Timestamp: 00:38:25
 
@@ -919,7 +918,7 @@ Investigative Direction: Verify the jmail.world site's data source, accuracy of 
 
 ---
 
-**C-2309** Tatiana comment claims this generation will "live eternal in flesh" as the rationale for an "end human fight"
+**C-6239** Tatiana comment claims this generation will "live eternal in flesh" as the rationale for an "end human fight"
 
 Claim Timestamp: 00:38:55
 
@@ -933,7 +932,7 @@ Investigative Direction: Ascertain Tatiana's intended phrase; assess consistency
 
 ---
 
-**C-2310** Host Taunts Ben Shapiro as "Benjamin" While Reading a Viewer Comment
+**C-6240** Host Taunts Ben Shapiro as "Benjamin" While Reading a Viewer Comment
 
 Claim Timestamp: 00:39:16
 
@@ -947,7 +946,7 @@ Investigative Direction: Identify the production-staff role, if any, of "Benjami
 
 ---
 
-**C-2311** AZ Masterbaker comment posits COVID tests were instruments of DNA collection for identifying Nimrod's descendants
+**C-6241** AZ Masterbaker comment posits COVID tests were instruments of DNA collection for identifying Nimrod's descendants
 
 Claim Timestamp: 00:39:30
 
@@ -962,7 +961,7 @@ Investigative Direction: Examine whether COVID PCR / antigen test protocols invo
 
 ---
 
-**C-2312** Bobby comment asserts Satan cannot create and only counterfeits, mirroring host's broader framing
+**C-6242** Bobby comment asserts Satan cannot create and only counterfeits, mirroring host's broader framing
 
 Claim Timestamp: 00:39:50
 
@@ -976,7 +975,7 @@ Investigative Direction: This is theological commentary; no factual verification
 
 ---
 
-**C-2313** American Jetet comment endorses Rob Skiba's work and frames the conflict as "Babylonian ascension"
+**C-6243** American Jetet comment endorses Rob Skiba's work and frames the conflict as "Babylonian ascension"
 
 Claim Timestamp: 00:40:08
 
@@ -990,7 +989,7 @@ Investigative Direction: Document the convergence of host and viewer framing; as
 
 ---
 
-**C-12587** Host Says She No Longer Believes Erika Was With Her Mother on the Morning of September 10
+**C-6145** Host Says She No Longer Believes Erika Was With Her Mother on the Morning of September 10
 
 Claim Timestamp: 00:00:01
 
@@ -1006,7 +1005,7 @@ Investigative Direction: Identify the host's tip sources and any record (calenda
 
 ---
 
-**C-12588** Host Says Macron Is Married to a Man and Media Now Accept Her Earlier Claim
+**C-6146** Host Says Macron Is Married to a Man and Media Now Accept Her Earlier Claim
 
 Claim Timestamp: 00:00:01
 
@@ -1016,13 +1015,13 @@ Transcript Snippet: They're willing to accept that maybe I was telling the truth
 
 Anchored Artifacts: 
 Mentions: N-377, N-3, N-9
-Supports: C-9640
+Supports: C-2481
 Tags: relevance:tangential
 Investigative Direction: Check which mainstream outlets have reported on Macron in the Epstein emails and what the emails actually say; the claim about his marriage restates the host's long-running Brigitte Macron allegation, which is contested in court.
 
 ---
 
-**C-12589** Host Says the Epstein Emails Show the Elites Sending One Another 23andMe Kits
+**C-6147** Host Says the Epstein Emails Show the Elites Sending One Another 23andMe Kits
 
 Claim Timestamp: 00:01:00
 
@@ -1033,13 +1032,13 @@ Transcript Snippet: The 23 andMe emails, the elites sending one another kits.
 Anchored Artifacts: 
 Mentions: N-9, N-3
 Related Nodes: N-11341
-Supports: C-2298
+Supports: C-6149
 Tags: relevance:tangential
 Investigative Direction: Search the public Epstein files for all 23andMe references and list senders, recipients and dates.
 
 ---
 
-**C-12590** Host Cites Allegation About Woody Allen and His Child
+**C-6148** Host Cites Allegation About Woody Allen and His Child
 
 Claim Timestamp: 00:01:00
 
@@ -1054,7 +1053,7 @@ Investigative Direction: The allegation is a matter of public record in court an
 
 ---
 
-**C-12591** Host Says 23andMe Formed in 2005 After the Iraq Invasion
+**C-6152** Host Says 23andMe Formed in 2005 After the Iraq Invasion
 
 Claim Timestamp: 00:02:54
 
@@ -1070,7 +1069,7 @@ Investigative Direction: Check 23andMe's founding and launch dates and its bankr
 
 ---
 
-**C-12592** Host Says the US Extracted Gilgamesh's Tomb Roughly Two Years After the Mid-2003 Invasion
+**C-6151** Host Says the US Extracted Gilgamesh's Tomb Roughly Two Years After the Mid-2003 Invasion
 
 Claim Timestamp: 00:02:46
 
@@ -1082,11 +1081,11 @@ Anchored Artifacts:
 Mentions: N-3
 Related Nodes: N-10480
 Tags: relevance:tangential
-Investigative Direction: Identify any record of an extraction by US forces; the German geophysicist survey cited in earlier episodes (C-2291) reported a location, not an extraction.
+Investigative Direction: Identify any record of an extraction by US forces; the German geophysicist survey cited in earlier episodes (C-6085) reported a location, not an extraction.
 
 ---
 
-**C-12593** Host Says Rob Skiba Wrote Babylon Rising and the Material Reached Her by Email Tip
+**C-6153** Host Says Rob Skiba Wrote Babylon Rising and the Material Reached Her by Email Tip
 
 Claim Timestamp: 00:03:10
 
@@ -1101,7 +1100,7 @@ Investigative Direction: Confirm the author's real name and the book's publicati
 
 ---
 
-**C-12594** Host Says It Is Alleged Rob Skiba Was Murdered for His Research
+**C-6154** Host Says It Is Alleged Rob Skiba Was Murdered for His Research
 
 Claim Timestamp: 00:03:20
 
@@ -1116,7 +1115,7 @@ Investigative Direction: Locate any death record or reporting on the cause of de
 
 ---
 
-**C-12595** Host Says Rob Skiba's Son Emailed Her to Thank Her
+**C-6155** Host Says Rob Skiba's Son Emailed Her to Thank Her
 
 Claim Timestamp: 00:03:30
 
@@ -1131,7 +1130,7 @@ Investigative Direction: Only the host can show the email; ask her to confirm it
 
 ---
 
-**C-12596** Host Says the Elites Are Obsessed With Babylon and All Her Research Leads There
+**C-6156** Host Says the Elites Are Obsessed With Babylon and All Her Research Leads There
 
 Claim Timestamp: 00:03:50
 
@@ -1146,7 +1145,7 @@ Investigative Direction: This is a sweeping thematic assertion; no specific reco
 
 ---
 
-**C-12597** Host Says Rob Skiba Posits the Tower of Babel Was a Technology to Reach the Heavenly Realm
+**C-6157** Host Says Rob Skiba Posits the Tower of Babel Was a Technology to Reach the Heavenly Realm
 
 Claim Timestamp: 00:04:38
 
@@ -1161,7 +1160,7 @@ Investigative Direction: Locate the lecture and book passage; this is Rob Skiba'
 
 ---
 
-**C-12598** Rob Skiba Says Mount Hermon's Topography Forms a Goat and Links the Fallen Angel Azazel to the Scapegoat
+**C-6159** Rob Skiba Says Mount Hermon's Topography Forms a Goat and Links the Fallen Angel Azazel to the Scapegoat
 
 Claim Timestamp: 00:05:43
 
@@ -1177,7 +1176,7 @@ Investigative Direction: Check the lecture's imagery and the Leviticus 16 readin
 
 ---
 
-**C-12599** Rob Skiba Says David Flynn Recently Passed Away
+**C-6160** Rob Skiba Says David Flynn Recently Passed Away
 
 Claim Timestamp: 00:06:31
 
@@ -1193,7 +1192,7 @@ Investigative Direction: Confirm Flynn's date of death and compare with the lect
 
 ---
 
-**C-12600** Rob Skiba Says a Line From Mount Hermon to the Paris Meridian Is Called the Devil's Line
+**C-6161** Rob Skiba Says a Line From Mount Hermon to the Paris Meridian Is Called the Devil's Line
 
 Claim Timestamp: 00:06:50
 
@@ -1209,7 +1208,7 @@ Investigative Direction: Reproduce the Google Earth measurement and find an inde
 
 ---
 
-**C-12601** Host Says Jeffrey Epstein Worked for the Rothschilds
+**C-6162** Host Says Jeffrey Epstein Worked for the Rothschilds
 
 Claim Timestamp: 00:07:28
 
@@ -1219,13 +1218,13 @@ Transcript Snippet: Jeffrey Epstein worked for the Rothschilds.
 
 Anchored Artifacts: 
 Mentions: N-9, N-520
-Supports: C-2258
+Supports: C-5987
 Tags: relevance:context
 Investigative Direction: Compare with the Epstein email on the Rothschilds cited in episode 67 and with public records of Epstein's work for the family.
 
 ---
 
-**C-12602** Host Refers to a Picture of the Rothschilds at Their Surrealist Ball
+**C-6163** Host Refers to a Picture of the Rothschilds at Their Surrealist Ball
 
 Claim Timestamp: 00:07:35
 
@@ -1240,7 +1239,7 @@ Investigative Direction: Identify the photograph shown; the 1972 Rothschild surr
 
 ---
 
-**C-12603** Host Says the Elites Are Obsessed With Goat Heads and Baal Worship
+**C-6164** Host Says the Elites Are Obsessed With Goat Heads and Baal Worship
 
 Claim Timestamp: 00:07:40
 
@@ -1255,7 +1254,7 @@ Investigative Direction: A sweeping group assertion with no single checkable rec
 
 ---
 
-**C-12604** Host Says Humans Are Not Descended From Apes
+**C-6165** Host Says Humans Are Not Descended From Apes
 
 Claim Timestamp: 00:08:00
 
@@ -1270,7 +1269,7 @@ Investigative Direction: Not a case claim; contradicted by mainstream science.
 
 ---
 
-**C-12605** Host Recaps That Satan Was Struck Down by the Archangel Michael
+**C-6166** Host Recaps That Satan Was Struck Down by the Archangel Michael
 
 Claim Timestamp: 00:08:15
 
@@ -1285,7 +1284,7 @@ Investigative Direction: Theological recap with no checkable record.
 
 ---
 
-**C-12606** Host Recaps That Fallen Angels Mated With Humans to Produce Nephilim
+**C-6167** Host Recaps That Fallen Angels Mated With Humans to Produce Nephilim
 
 Claim Timestamp: 00:08:45
 
@@ -1300,7 +1299,7 @@ Investigative Direction: Theological recap with no checkable record.
 
 ---
 
-**C-12607** Host Says Rob Skiba Theorises Nimrod Became Known as Other Names Including Gilgamesh
+**C-6168** Host Says Rob Skiba Theorises Nimrod Became Known as Other Names Including Gilgamesh
 
 Claim Timestamp: 00:09:20
 
@@ -1311,13 +1310,13 @@ Transcript Snippet: Nimrod uh became known as different names. Bal, Tamas, Gilga
 Anchored Artifacts: 
 Mentions: N-541
 Related Nodes: N-10480
-Supports: C-10012
+Supports: C-6083
 Tags: relevance:tangential
 Investigative Direction: Compare with scholarly treatments of Nimrod-Gilgamesh identification.
 
 ---
 
-**C-12608** Host Says Rob Skiba Believes the Elites Are Working to Resurrect Nimrod or Gilgamesh as the Antichrist
+**C-6169** Host Says Rob Skiba Believes the Elites Are Working to Resurrect Nimrod or Gilgamesh as the Antichrist
 
 Claim Timestamp: 00:09:45
 
@@ -1333,7 +1332,7 @@ Investigative Direction: Locate the lecture text; this is one lecturer's belief 
 
 ---
 
-**C-12609** Rob Skiba Says CERN's Stated Objective Is to Recreate the Big Bang
+**C-6171** Rob Skiba Says CERN's Stated Objective Is to Recreate the Big Bang
 
 Claim Timestamp: 00:10:50
 
@@ -1349,7 +1348,7 @@ Investigative Direction: Compare with CERN's published mission statement.
 
 ---
 
-**C-12610** Host Says CERN Has a Shiva Structure
+**C-6172** Host Says CERN Has a Shiva Structure
 
 Claim Timestamp: 00:12:10
 
@@ -1365,7 +1364,7 @@ Investigative Direction: CERN has publicly acknowledged a Shiva statue gifted by
 
 ---
 
-**C-12611** Host Says CERN Scientists Were Filmed in Robes Stabbing Someone and Gave No Answer
+**C-6173** Host Says CERN Scientists Were Filmed in Robes Stabbing Someone and Gave No Answer
 
 Claim Timestamp: 00:12:30
 
@@ -1376,13 +1375,13 @@ Transcript Snippet: These are quote unquote scientists that are dressed up in ro
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11029, N-10414
-Supports: C-2100
+Supports: C-5107
 Tags: relevance:tangential
 Investigative Direction: Find the original video and CERN's statement; it was widely reported as a staged joke video.
 
 ---
 
-**C-12612** Host Says Freud Was a Satanist Who Created Social Science to Mask Religion
+**C-6174** Host Says Freud Was a Satanist Who Created Social Science to Mask Religion
 
 Claim Timestamp: 00:12:50
 
@@ -1397,7 +1396,7 @@ Investigative Direction: Primary-source review of Freud's writings; the host's t
 
 ---
 
-**C-12613** Host Says the COVID Vaccine Did Not Protect Against COVID
+**C-6175** Host Says the COVID Vaccine Did Not Protect Against COVID
 
 Claim Timestamp: 00:13:45
 
@@ -1412,7 +1411,7 @@ Investigative Direction: Contradicted by public trial and surveillance data; not
 
 ---
 
-**C-12614** Host Says 23andMe Was a Mass Campaign to Collect Everyone's DNA
+**C-6176** Host Says 23andMe Was a Mass Campaign to Collect Everyone's DNA
 
 Claim Timestamp: 00:14:00
 
@@ -1428,7 +1427,7 @@ Investigative Direction: No evidence is presented; the host's inference.
 
 ---
 
-**C-12615** In a Played Radio Clip, Tom Horn Says Nephilim Could Be Reconstituted in a Body and Some Identify Nimrod as Gilgamesh
+**C-6177** In a Played Radio Clip, Tom Horn Says Nephilim Could Be Reconstituted in a Body and Some Identify Nimrod as Gilgamesh
 
 Claim Timestamp: 00:14:29
 
@@ -1444,7 +1443,7 @@ Investigative Direction: Obtain the original Omega Man Radio broadcast; the clip
 
 ---
 
-**C-12616** In a Clip the Host Plays, Rob Skiba Says the US Began Its Iraq Occupation Phase One Month After the Find
+**C-6179** In a Clip the Host Plays, Rob Skiba Says the US Began Its Iraq Occupation Phase One Month After the Find
 
 Claim Timestamp: 00:15:50
 
@@ -1460,7 +1459,7 @@ Investigative Direction: The transcript does not give a date for the alleged fin
 
 ---
 
-**C-12617** Rob Skiba Says the US Set Up 500 Military Bases and the Largest Embassy in Babylon
+**C-6182** Rob Skiba Says the US Set Up 500 Military Bases and the Largest Embassy in Babylon
 
 Claim Timestamp: 00:16:29
 
@@ -1476,7 +1475,7 @@ Investigative Direction: Check the Department of Defense base count in Iraq and 
 
 ---
 
-**C-12618** Rob Skiba Suspects the US Found the Weapon of Mass Destruction in Iraq
+**C-6181** Rob Skiba Suspects the US Found the Weapon of Mass Destruction in Iraq
 
 Claim Timestamp: 00:16:20
 
@@ -1492,7 +1491,7 @@ Investigative Direction: Speculation; no document is cited.
 
 ---
 
-**C-12619** Host Says Peter Thiel Constantly Discusses the Antichrist
+**C-6183** Host Says Peter Thiel Constantly Discusses the Antichrist
 
 Claim Timestamp: 00:16:45
 
@@ -1502,13 +1501,13 @@ Transcript Snippet: Peter Thiel who is like dead focused on discussing the Antic
 
 Anchored Artifacts: 
 Mentions: N-521, N-3
-Supports: C-5445
+Supports: C-5096
 Tags: relevance:context
 Investigative Direction: Review Thiel's public lectures and interviews on the Antichrist.
 
 ---
 
-**C-12620** Host Says the IVF Push Is Driven by a Wish to Be Creators
+**C-6185** Host Says the IVF Push Is Driven by a Wish to Be Creators
 
 Claim Timestamp: 00:17:20
 
@@ -1523,7 +1522,7 @@ Investigative Direction: An interpretive claim about motives with no checkable r
 
 ---
 
-**C-12621** Host Says She Has Heard the Ukraine War Could Be About Something Ancient
+**C-6184** Host Says She Has Heard the Ukraine War Could Be About Something Ancient
 
 Claim Timestamp: 00:17:09
 
@@ -1538,7 +1537,7 @@ Investigative Direction: The source is unnamed; no record cited.
 
 ---
 
-**C-12622** Host Says Erika Claimed Kolvet and the Surgeon Went Rogue
+**C-6186** Host Says Erika Claimed Kolvet and the Surgeon Went Rogue
 
 Claim Timestamp: 00:22:29
 
@@ -1549,13 +1548,13 @@ Transcript Snippet: She heard the story and she said that Andrew Kolvet and the 
 Anchored Artifacts: 
 Mentions: N-14, N-2
 Related Nodes: N-10447
-Supports: C-9918
+Supports: C-5688
 Tags: relevance:core
 Investigative Direction: Obtain Erika Kirk's original statement and compare with the surgeon's and TPUSA's accounts.
 
 ---
 
-**C-12623** Host Says Erika and Kolvet Called the Doctor Together and the Superman Quote Came From Erika
+**C-6187** Host Says Erika and Kolvet Called the Doctor Together and the Superman Quote Came From Erika
 
 Claim Timestamp: 00:22:35
 
@@ -1566,13 +1565,13 @@ Transcript Snippet: The reality is her and Andrew called the doctor together thr
 Anchored Artifacts: 
 Mentions: N-14, N-2
 Related Nodes: N-10447
-Supports: C-9920
+Supports: C-5690
 Tags: relevance:core
 Investigative Direction: Obtain call records and the surgeon's account; the host dates the call to the day of the funeral.
 
 ---
 
-**C-12624** Host Says the Surgeon Did Not Violate HIPAA
+**C-6188** Host Says the Surgeon Did Not Violate HIPAA
 
 Claim Timestamp: 00:22:45
 
@@ -1588,7 +1587,7 @@ Investigative Direction: Review the surgeon's statements and any HIPAA consent g
 
 ---
 
-**C-12625** Host Says Erika Told Glenn Beck Charlie Texted No One the Night Before in Fear
+**C-6189** Host Says Erika Told Glenn Beck Charlie Texted No One the Night Before in Fear
 
 Claim Timestamp: 00:23:00
 
@@ -1599,13 +1598,13 @@ Transcript Snippet: she told us that Charlie did not text anyone the night befor
 Anchored Artifacts: 
 Mentions: N-2, N-1, N-237
 Related Nodes: N-10340
-Supports: C-11126
+Supports: C-5452
 Tags: relevance:core
 Investigative Direction: Review the Glenn Beck interview for the exact wording.
 
 ---
 
-**C-12626** Host Says 'I Have His Phone' in Rebutting the No-Text Claim
+**C-6190** Host Says 'I Have His Phone' in Rebutting the No-Text Claim
 
 Claim Timestamp: 00:23:10
 
@@ -1621,7 +1620,7 @@ Investigative Direction: Ask the host to clarify what she means (possession of t
 
 ---
 
-**C-12627** Host Says Charlie Texted Kolvet and Flood the Night Before That He Feared Being Killed
+**C-6191** Host Says Charlie Texted Kolvet and Flood the Night Before That He Feared Being Killed
 
 Claim Timestamp: 00:23:20
 
@@ -1632,13 +1631,13 @@ Transcript Snippet: The reality is that Charlie texted both Andrew Kolvet and Da
 Anchored Artifacts: 
 Mentions: N-1, N-14, N-270
 Related Nodes: N-10340
-Supports: C-6825
+Supports: C-4543
 Tags: relevance:core
 Investigative Direction: Obtain the text messages; TPUSA conceded Kolvet received the text, per earlier episodes.
 
 ---
 
-**C-12628** Host Says Charlie Had a Middle-of-the-Night Call With a Rabbi in Israel and Josh Hammer
+**C-6192** Host Says Charlie Had a Middle-of-the-Night Call With a Rabbi in Israel and Josh Hammer
 
 Claim Timestamp: 00:23:35
 
@@ -1648,13 +1647,13 @@ Transcript Snippet: after he then had to have this call with a rabbi dead in the
 
 Anchored Artifacts: 
 Mentions: N-1, N-55
-Supports: C-9324
+Supports: C-1511
 Tags: relevance:core
 Investigative Direction: Compare with Josh Hammer's own account of the Zoom call (episode 67) and phone records.
 
 ---
 
-**C-12629** Host Relays the Account That Charlie Wanted Debate Tips, Was Happy, Then Said They Would Kill Him
+**C-6193** Host Relays the Account That Charlie Wanted Debate Tips, Was Happy, Then Said They Would Kill Him
 
 Claim Timestamp: 00:23:40
 
@@ -1670,7 +1669,7 @@ Investigative Direction: Identify who gave this account and in which statement.
 
 ---
 
-**C-12630** Host Says the Explanation Given Was a Third-Party App Set for Deletion
+**C-6194** Host Says the Explanation Given Was a Third-Party App Set for Deletion
 
 Claim Timestamp: 00:23:52
 
@@ -1686,7 +1685,7 @@ Investigative Direction: Obtain TPUSA's statement naming the app.
 
 ---
 
-**C-12631** Host Says Dan Flood Actually Messaged on iMessage
+**C-6195** Host Says Dan Flood Actually Messaged on iMessage
 
 Claim Timestamp: 00:24:05
 
@@ -1697,13 +1696,13 @@ Transcript Snippet: Dan Flood actually messaged him on iMessage.
 Anchored Artifacts: 
 Mentions: N-270, N-3, N-1
 Related Nodes: N-10470
-Supports: C-2273
+Supports: C-6053
 Tags: relevance:core
 Investigative Direction: Compare with the source cited in episode 67.
 
 ---
 
-**C-12632** Host Says Mikey McCoy Called Elizabeth McCoy First
+**C-6196** Host Says Mikey McCoy Called Elizabeth McCoy First
 
 Claim Timestamp: 00:24:15
 
@@ -1714,13 +1713,13 @@ Transcript Snippet: The reality is Mikey called Elizabeth first.
 Anchored Artifacts: 
 Mentions: N-190, N-217
 Related Nodes: N-10193
-Supports: C-1932
+Supports: C-4104
 Tags: relevance:core
 Investigative Direction: Obtain Mikey McCoy's call log for the minutes after the shot.
 
 ---
 
-**C-12633** Host Says Elizabeth McCoy Was Removed From the Story
+**C-6197** Host Says Elizabeth McCoy Was Removed From the Story
 
 Claim Timestamp: 00:24:20
 
@@ -1731,13 +1730,13 @@ Transcript Snippet: For some reason, she was completely rinsed out of the story,
 Anchored Artifacts: 
 Mentions: N-217
 Related Nodes: N-10339
-Supports: C-1936
+Supports: C-4109
 Tags: relevance:core
 Investigative Direction: Compare TPUSA's public timeline with the call sequence.
 
 ---
 
-**C-12634** Host Says They Conference Called Erika Over Three Minutes Later
+**C-6198** Host Says They Conference Called Erika Over Three Minutes Later
 
 Claim Timestamp: 00:24:25
 
@@ -1753,7 +1752,7 @@ Investigative Direction: Obtain the call log timestamps.
 
 ---
 
-**C-12635** Host Says Erika Said Mikey Called Within Seconds
+**C-6199** Host Says Erika Said Mikey Called Within Seconds
 
 Claim Timestamp: 00:24:30
 
@@ -1769,7 +1768,7 @@ Investigative Direction: Locate Erika Kirk's original statement and compare it w
 
 ---
 
-**C-12636** Host Says Kolvet Told Her He and Erika Collapsed Into Each Other's Arms at Provo
+**C-6200** Host Says Kolvet Told Her He and Erika Collapsed Into Each Other's Arms at Provo
 
 Claim Timestamp: 00:24:41
 
@@ -1780,13 +1779,13 @@ Transcript Snippet: Andrew said that when he landed in Provo, he and Erika colla
 Anchored Artifacts: 
 Mentions: N-14, N-2
 Related Nodes: N-10548, N-10074
-Supports: C-9932
+Supports: C-5702
 Tags: relevance:core
 Investigative Direction: Compare with the flight records for the two planes.
 
 ---
 
-**C-12637** Host Says Erika Could Not Say Whether Kolvet's Wife Was Aboard and She Was Later Told the Wife Was
+**C-6201** Host Says Erika Could Not Say Whether Kolvet's Wife Was Aboard and She Was Later Told the Wife Was
 
 Claim Timestamp: 00:24:50
 
@@ -1802,7 +1801,7 @@ Investigative Direction: Obtain the passenger manifest or TPUSA's written confir
 
 ---
 
-**C-12638** Host Says Erika Waited an Hour on the Tarmac for Kolvet's Plane
+**C-6202** Host Says Erika Waited an Hour on the Tarmac for Kolvet's Plane
 
 Claim Timestamp: 00:25:10
 
@@ -1813,13 +1812,13 @@ Transcript Snippet: she waited an hour on the tarmac for Andrew's Kovat's plane 
 Anchored Artifacts: 
 Mentions: N-2, N-14
 Related Nodes: N-10548
-Supports: C-9935
+Supports: C-5705
 Tags: relevance:core
 Investigative Direction: Compare with the flight records showing roughly an hour between landings.
 
 ---
 
-**C-12639** Host Says Charlie Told Megyn Kelly He Was Currently Writing a Book on the Jewish Sabbath
+**C-6203** Host Says Charlie Told Megyn Kelly He Was Currently Writing a Book on the Jewish Sabbath
 
 Claim Timestamp: 00:25:30
 
@@ -1834,7 +1833,7 @@ Investigative Direction: Find the Megyn Kelly interview and the exact wording.
 
 ---
 
-**C-12640** Host Says Erika Said on Her Tour That Charlie Finished the Book in July
+**C-6204** Host Says Erika Said on Her Tour That Charlie Finished the Book in July
 
 Claim Timestamp: 00:25:40
 
@@ -1849,7 +1848,7 @@ Investigative Direction: Obtain Erika Kirk's tour remarks and the publisher's ti
 
 ---
 
-**C-12641** Host Says Charlie Made the Sabbath Remark While Angry at People Calling Him Antisemitic
+**C-6205** Host Says Charlie Made the Sabbath Remark While Angry at People Calling Him Antisemitic
 
 Claim Timestamp: 00:25:55
 
@@ -1864,7 +1863,7 @@ Investigative Direction: Review the interview video for tone and context.
 
 ---
 
-**C-12642** Host Says Erika Never Spoke About His Pressures and Partnered With Those Applying Them
+**C-6206** Host Says Erika Never Spoke About His Pressures and Partnered With Those Applying Them
 
 Claim Timestamp: 00:26:15
 
@@ -1879,7 +1878,7 @@ Investigative Direction: Review Erika Kirk's public statements and TPUSA's partn
 
 ---
 
-**C-12643** Host Says Tips Indicate Erika Was With Tracy Martin
+**C-6207** Host Says Tips Indicate Erika Was With Tracy Martin
 
 Claim Timestamp: 00:26:54
 
@@ -1895,7 +1894,7 @@ Investigative Direction: Obtain the tips themselves or independent confirmation 
 
 ---
 
-**C-12644** Host Says Tracy Martin Is Regularly at Dream City Church
+**C-6208** Host Says Tracy Martin Is Regularly at Dream City Church
 
 Claim Timestamp: 00:27:05
 
@@ -1911,7 +1910,7 @@ Investigative Direction: Verify Martin's affiliation through church records or p
 
 ---
 
-**C-12645** Host Says Charlie Gave a Weekly Speech Series at Dream City Church Starting With COVID
+**C-6209** Host Says Charlie Gave a Weekly Speech Series at Dream City Church Starting With COVID
 
 Claim Timestamp: 00:27:15
 
@@ -1927,7 +1926,7 @@ Investigative Direction: Find the dates and recordings of Kirk's Dream City Chur
 
 ---
 
-**C-12646** Host Says the TPUSA Faith Origin Story Begins With Rob McCoy, Dream City Church and Lockdowns
+**C-6210** Host Says the TPUSA Faith Origin Story Begins With Rob McCoy, Dream City Church and Lockdowns
 
 Claim Timestamp: 00:27:25
 
@@ -1943,7 +1942,7 @@ Investigative Direction: Compare with TPUSA Faith's founding documents and the W
 
 ---
 
-**C-12647** Host Says Tracy Martin Was Allegedly With Erika When Mikey and Elizabeth Called
+**C-6212** Host Says Tracy Martin Was Allegedly With Erika When Mikey and Elizabeth Called
 
 Claim Timestamp: 00:27:48
 
@@ -1959,7 +1958,7 @@ Investigative Direction: Same as the tips behind the alibi claim.
 
 ---
 
-**C-12648** Host Says She Is Told Erika and Her Mother Were Not Together
+**C-6214** Host Says She Is Told Erika and Her Mother Were Not Together
 
 Claim Timestamp: 00:28:10
 
@@ -1975,7 +1974,7 @@ Investigative Direction: Identify the source of the report and any appointment r
 
 ---
 
-**C-12649** Tracy Martin Says Erika Started a Nonprofit at 17
+**C-6215** Tracy Martin Says Erika Started a Nonprofit at 17
 
 Claim Timestamp: 00:28:52
 
@@ -1991,7 +1990,7 @@ Investigative Direction: Verify the nonprofit's founding date.
 
 ---
 
-**C-12650** Host Says Tracy Martin Knows Erika's Mother and Has Been in Her Life Since Her Pageant Days
+**C-6216** Host Says Tracy Martin Knows Erika's Mother and Has Been in Her Life Since Her Pageant Days
 
 Claim Timestamp: 00:29:45
 
@@ -2006,7 +2005,7 @@ Investigative Direction: Locate the photograph and pageant-era records.
 
 ---
 
-**C-12651** Host Says Tracy Martin Followed Erika to Romania and Grew Up Wealthy
+**C-6217** Host Says Tracy Martin Followed Erika to Romania and Grew Up Wealthy
 
 Claim Timestamp: 00:29:58
 
@@ -2021,7 +2020,7 @@ Investigative Direction: Personal detail about a private individual; verify agai
 
 ---
 
-**C-12652** Host Says Missouri Is a Regular Stop for the Egyptian Planes
+**C-6218** Host Says Missouri Is a Regular Stop for the Egyptian Planes
 
 Claim Timestamp: 00:30:05
 
@@ -2037,7 +2036,7 @@ Investigative Direction: Check the ADS-B track of the Egyptian planes for Missou
 
 ---
 
-**C-12653** Host Says She Cannot Determine What Tracy Martin's Husband Does
+**C-6219** Host Says She Cannot Determine What Tracy Martin's Husband Does
 
 Claim Timestamp: 00:30:15
 
@@ -2053,7 +2052,7 @@ Investigative Direction: Personal detail about a private individual.
 
 ---
 
-**C-12654** Host Says She Does Not Believe Erika Was With Her Mother on September 10
+**C-6220** Host Says She Does Not Believe Erika Was With Her Mother on September 10
 
 Claim Timestamp: 00:30:25
 
@@ -2069,7 +2068,7 @@ Investigative Direction: Obtain records of the mother's treatment on that date a
 
 ---
 
-**C-12655** Host Asks Viewers to Email Tips About Tracy Martin, Her Husband and Dream City Church
+**C-6221** Host Asks Viewers to Email Tips About Tracy Martin, Her Husband and Dream City Church
 
 Claim Timestamp: 00:30:43
 
@@ -2085,7 +2084,7 @@ Investigative Direction: Review the tips received at the tip address.
 
 ---
 
-**C-12656** Host Says People Emailed Her About Dream City Church and Pastor Luke
+**C-6222** Host Says People Emailed Her About Dream City Church and Pastor Luke
 
 Claim Timestamp: 00:30:50
 
@@ -2101,7 +2100,7 @@ Investigative Direction: Obtain recordings of the pastor's remarks after the ass
 
 ---
 
-**C-12657** Host Says Turning Point Made a Radical Shift From Free Markets to Faith
+**C-6223** Host Says Turning Point Made a Radical Shift From Free Markets to Faith
 
 Claim Timestamp: 00:31:10
 
@@ -2117,7 +2116,7 @@ Investigative Direction: Compare TPUSA content and messaging before and after 20
 
 ---
 
-**C-12658** Host Says Erika Encouraged Charlie to Lean Into Pastors, Calvary Chapel and Dream City Church
+**C-6224** Host Says Erika Encouraged Charlie to Lean Into Pastors, Calvary Chapel and Dream City Church
 
 Claim Timestamp: 00:31:20
 
@@ -2133,7 +2132,7 @@ Investigative Direction: Find dated accounts of Erika Kirk's influence on Charli
 
 ---
 
-**C-12659** Host Says Other Epstein Chats Show Him Talking With Steve Bannon
+**C-6226** Host Says Other Epstein Chats Show Him Talking With Steve Bannon
 
 Claim Timestamp: 00:31:49
 
@@ -2148,7 +2147,7 @@ Investigative Direction: Find the chats in the public Epstein files.
 
 ---
 
-**C-12660** Host Says Macron's Trigger Is MK Ultra and Anyone Discussing His Wife
+**C-6227** Host Says Macron's Trigger Is MK Ultra and Anyone Discussing His Wife
 
 Claim Timestamp: 00:32:30
 
@@ -2158,13 +2157,13 @@ Transcript Snippet: I know his trigger. His trigger is MK Ultra. Um, and his tri
 
 Anchored Artifacts: 
 Mentions: N-377
-Supports: C-10837
+Supports: C-2816
 Tags: relevance:tangential
 Investigative Direction: Check the court filings referred to in episode 32.
 
 ---
 
-**C-12661** Host Says One Egyptian Plane Left the Morning of the Assassination and One Stayed Transponding
+**C-6228** Host Says One Egyptian Plane Left the Morning of the Assassination and One Stayed Transponding
 
 Claim Timestamp: 00:35:07
 
@@ -2175,13 +2174,13 @@ Transcript Snippet: there was one that left the morning of Charlie's assassinati
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10488, N-10253
-Supports: C-5158
+Supports: C-3620
 Tags: relevance:core
 Investigative Direction: Obtain ADS-B data for the Egyptian planes on September 10.
 
 ---
 
-**C-12662** Host Says Someone on the Grounded Egyptian Plane Was Communicating
+**C-6229** Host Says Someone on the Grounded Egyptian Plane Was Communicating
 
 Claim Timestamp: 00:35:25
 
@@ -2197,7 +2196,7 @@ Investigative Direction: Speculation; any evidence would be in the ADS-B and com
 
 ---
 
-**C-12663** Host Says the Egyptian Plane Panic Was Consistent, Loud and Never Stopped
+**C-6230** Host Says the Egyptian Plane Panic Was Consistent, Loud and Never Stopped
 
 Claim Timestamp: 00:35:40
 
@@ -2208,13 +2207,13 @@ Transcript Snippet: And the Egyptian plane panic was so consistent, so loud, and
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10299
-Supports: C-9638
+Supports: C-2478
 Tags: relevance:context
 Investigative Direction: Compile the public responses on the Egyptian planes.
 
 ---
 
-**C-12664** Host Says the Planes Have Been Tracking TPUSA Faith People
+**C-6231** Host Says the Planes Have Been Tracking TPUSA Faith People
 
 Claim Timestamp: 00:35:52
 
@@ -2225,13 +2224,13 @@ Transcript Snippet: And like I said, these planes have been tracking Turning Poi
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10253, N-10000, N-10398
-Supports: C-1545
+Supports: C-2074
 Tags: relevance:core
 Investigative Direction: Compare the flight tracks with TPUSA Faith event dates.
 
 ---
 
-**C-12665** Host Offers Her Documentary for Free for Two Days
+**C-6232** Host Offers Her Documentary for Free for Two Days
 
 Claim Timestamp: 00:36:40
 
@@ -2246,7 +2245,7 @@ Investigative Direction: Check the website offer.
 
 ---
 
-**C-12666** Host Says Authorities Admitted Multiple Sets of Prints on the Gun
+**C-6234** Host Says Authorities Admitted Multiple Sets of Prints on the Gun
 
 Claim Timestamp: 00:37:32
 
@@ -2256,13 +2255,13 @@ Transcript Snippet: They've had to admit something that I already told you on th
 
 Anchored Artifacts: 
 Mentions: N-3
-Supports: C-5288
+Supports: C-4292
 Tags: relevance:core
 Investigative Direction: Find the official statement or court filing from the day before this episode.
 
 ---
 
-**C-12667** Host Says Bomb Dogs Could Not Smell the Gun, Which She Takes to Mean It Was Planted
+**C-6235** Host Says Bomb Dogs Could Not Smell the Gun, Which She Takes to Mean It Was Planted
 
 Claim Timestamp: 00:37:40
 
@@ -2272,13 +2271,13 @@ Transcript Snippet: because the bomb dogs could not smell the dog, smell the gun
 
 Anchored Artifacts: 
 Mentions: N-3
-Supports: C-5280
+Supports: C-4284
 Tags: relevance:core
 Investigative Direction: Obtain the K9 deployment reports.
 
 ---
 
-**C-12668** Host Says the Gun Cannot Be Connected to Charlie Because the .30-06 Was Supposed to Go Through
+**C-6236** Host Says the Gun Cannot Be Connected to Charlie Because the .30-06 Was Supposed to Go Through
 
 Claim Timestamp: 00:37:50
 
@@ -2293,7 +2292,7 @@ Investigative Direction: Obtain the ballistics and autopsy findings on whether a
 
 ---
 
-**C-12669** Host Says Terryl Farnsworth Was Supposed to Take the Cameras Down So Nothing Would Be Seen
+**C-6237** Host Says Terryl Farnsworth Was Supposed to Take the Cameras Down So Nothing Would Be Seen
 
 Claim Timestamp: 00:38:00
 
@@ -2308,7 +2307,7 @@ Investigative Direction: Obtain the camera operator's account and TPUSA's footag
 
 ---
 
-**C-12670** Host Says the Elites Feed People Pornography as a Spiritual Weapon
+**C-6244** Host Says the Elites Feed People Pornography as a Spiritual Weapon
 
 Claim Timestamp: 00:40:40
 

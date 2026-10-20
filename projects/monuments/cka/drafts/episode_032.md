@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep032): N-226, N-10311
   - Tip-minted Nodes (reintro-ep032): N-738, N-752, N-867
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10e): C-10837–C-10890
+  - Claim Range: C-2816–C-2890
   - (see registers)
 
 # Episode Analysis: Bride of Charlie Episode 32
@@ -33,7 +33,6 @@
 - **Analysis date:** 2026-03-11
 - **Episode Ledger Summary:**
   - Artifact Families Introduced: A-1399, A-1400, A-1401, A-1402, A-1403, A-1404, A-1405, A-1406, A-1407, A-1408, A-1409, A-1410, A-1411, A-1412, A-1413, A-1414
-  - Claim Range: C-1695–C-1715
   - New Nodes Introduced: N-250, N-251, N-252, N-253, N-254, N-255, N-256, N-257, N-258, N-10249, N-10250
   - Reused Nodes Appearing: N-10251, N-10252, N-10248, N-9, N-27, N-47, N-82, N-247, N-377, N-10000, N-10001, N-10094, N-10116, N-10137, N-10164, N-10180, N-10246, N-10247, N-10465, N-11223, N-359, N-11117
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
@@ -66,7 +65,7 @@ Video Timestamp: 00:11:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1695, C-1696, C-1697, N-250, N-221, N-251*
+*Related: C-2827, C-2828, C-2829, N-250, N-221, N-251*
 
 ---
 
@@ -79,7 +78,7 @@ Video Timestamp: 00:12:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (headline read aloud)
 
-*Related: C-1698, N-250, N-252*
+*Related: C-2830, N-250, N-252*
 
 ---
 
@@ -92,7 +91,7 @@ Video Timestamp: 00:12:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (headline read aloud)
 
-*Related: C-1699, N-250, N-252*
+*Related: C-2831, N-250, N-252*
 
 ---
 
@@ -105,7 +104,7 @@ Video Timestamp: 00:12:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (referenced on air)
 
-*Related: C-1700, N-250, N-253, N-254*
+*Related: C-2832, N-250, N-253, N-254*
 
 ---
 
@@ -118,7 +117,7 @@ Video Timestamp: 00:11:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (cited by Brett Cooper)
 
-*Related: C-1697, N-252, N-250, N-251*
+*Related: C-2829, N-252, N-250, N-251*
 
 ---
 
@@ -131,7 +130,7 @@ Video Timestamp: 00:13:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played)
 
-*Related: C-1701, N-255, N-757, N-250*
+*Related: C-2834, N-255, N-757, N-250*
 
 ---
 
@@ -144,7 +143,7 @@ Video Timestamp: 00:14:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single-source, redacted, unverified)
 
-*Related: C-1702, N-250, N-251, N-10248*
+*Related: C-2835, N-250, N-251, N-10248*
 
 ---
 
@@ -157,7 +156,7 @@ Video Timestamp: 00:28:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single source; host claims to have in writing)
 
-*Related: C-1703, C-1704, C-1705, C-1706, N-253, N-256, N-10248, N-10249*
+*Related: C-2842, C-2844, C-2852, C-2853, N-253, N-256, N-10248, N-10249*
 
 ---
 
@@ -170,7 +169,7 @@ Video Timestamp: 00:25:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (verbatim read aloud)
 
-*Related: C-1707, N-257, N-250*
+*Related: C-2850, N-257, N-250*
 
 ---
 
@@ -183,7 +182,7 @@ Video Timestamp: 00:25:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (headline read aloud)
 
-*Related: C-1708, N-257*
+*Related: C-2851, N-257*
 
 ---
 
@@ -205,7 +204,7 @@ Video Timestamp: 00:45:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1709, N-10250*
+*Related: C-2867, N-10250*
 
 ---
 
@@ -219,7 +218,7 @@ Video Timestamp: 00:44:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1710, C-1711, N-258, N-10250*
+*Related: C-2872, C-2873, N-258, N-10250*
 
 ---
 
@@ -233,7 +232,7 @@ Video Timestamp: 00:45:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1712, N-246, N-1*
+*Related: C-2878, N-246, N-1*
 
 ---
 
@@ -246,7 +245,7 @@ Video Timestamp: 00:56:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (article referenced by host)
 
-*Related: C-1713, N-227, N-2*
+*Related: C-2886, N-227, N-2*
 
 ---
 
@@ -259,7 +258,7 @@ Video Timestamp: 00:57:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (referenced on air)
 
-*Related: C-1714, N-227, N-2*
+*Related: C-2888, N-227, N-2*
 
 ---
 
@@ -273,7 +272,7 @@ Video Timestamp: 00:37:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-1715, N-10251*
+*Related: C-2863, N-10251*
 
 ---
 
@@ -288,7 +287,7 @@ Video Timestamp: 00:44:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10877, N-3*
+*Related: C-2874, N-3*
 
 ---
 
@@ -301,7 +300,7 @@ Video Timestamp: 00:44:51
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10878, N-3*
+*Related: C-2875, N-3*
 
 ---
 
@@ -314,7 +313,7 @@ Video Timestamp: 00:42:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10874, N-3*
+*Related: C-2869, N-3*
 
 ---
 
@@ -325,7 +324,7 @@ Video Timestamp: 00:42:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10872, N-3*
+*Related: C-2866, N-3*
 
 ---
 
@@ -335,9 +334,9 @@ Confidence Level: Medium
 
 **N-752** Astrid Tuminez
 
-UVU president (also transcribed "Tumz"); first named in C-1711.
+UVU president (also transcribed "Tumz"); first named in C-2873.
 
-*Related: C-1711*
+*Related: C-2873*
 
 ---
 
@@ -350,7 +349,7 @@ Claim Count: 8
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1399.1, A-1399.2, A-1400.1, A-1401.1, A-1402.1, A-1403.1, A-1404.1, A-1405.1, A-1406.1, A-1407.1, C-1695, C-1696, C-1697, C-1698, C-1699, C-1700, C-1701, C-1702, C-1706, C-1707, N-251, N-252, N-10248*
+*Related: A-1399.1, A-1399.2, A-1400.1, A-1401.1, A-1402.1, A-1403.1, A-1404.1, A-1405.1, A-1406.1, A-1407.1, C-2827, C-2828, C-2829, C-2830, C-2831, C-2832, C-2834, C-2835, C-2853, C-2850, N-251, N-252, N-10248*
 
 ---
 
@@ -363,7 +362,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low (as source only)
 
-*Related: A-1399.1, A-1399.2, C-1695, C-1696, C-1697*
+*Related: A-1399.1, A-1399.2, C-2827, C-2828, C-2829*
 
 ---
 
@@ -376,7 +375,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1399.2, A-1405.1, C-1695, N-250*
+*Related: A-1399.2, A-1405.1, C-2827, N-250*
 
 ---
 
@@ -389,7 +388,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1400.1, A-1401.1, A-1403.1, C-1697, C-1698, C-1699*
+*Related: A-1400.1, A-1401.1, A-1403.1, C-2829, C-2830, C-2831*
 
 ---
 
@@ -402,7 +401,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1402.1, A-1406.1, C-1700, C-1703, C-1704, C-1705, N-10249*
+*Related: A-1402.1, A-1406.1, C-2832, C-2842, C-2844, C-2852, N-10249*
 
 ---
 
@@ -415,7 +414,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1402.1, A-1404.1, C-1700, C-1701, N-255*
+*Related: A-1402.1, A-1404.1, C-2832, C-2834, N-255*
 
 ---
 
@@ -428,7 +427,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1404.1, C-1701, N-254*
+*Related: A-1404.1, C-2834, N-254*
 
 ---
 
@@ -467,7 +466,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1407.1, A-1408.1, C-1707, C-1708, N-250*
+*Related: A-1407.1, A-1408.1, C-2850, C-2851, N-250*
 
 ---
 
@@ -480,7 +479,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1410.1, C-1710, C-1711, N-10250*
+*Related: A-1410.1, C-2872, C-2873, N-10250*
 
 ---
 
@@ -493,7 +492,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1409.1, A-1411.1, C-1712, N-1*
+*Related: A-1409.1, A-1411.1, C-2878, N-1*
 
 ---
 
@@ -506,7 +505,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low (framing dispute; not asserted by host as fact)
 
-*Related: A-1412.1, A-1413.1, C-1713, C-1714, N-2*
+*Related: A-1412.1, A-1413.1, C-2886, C-2888, N-2*
 
 ---
 
@@ -519,7 +518,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1406.1, C-1706*
+*Related: A-1406.1, C-2853*
 
 ---
 
@@ -534,7 +533,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1399.2, A-1403.1, A-1405.1, A-1406.1, C-1697, C-1702, C-1705, C-1706, N-250, N-251*
+*Related: A-1399.2, A-1403.1, A-1405.1, A-1406.1, C-2829, C-2835, C-2852, C-2853, N-250, N-251*
 
 ---
 
@@ -547,7 +546,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1406.1, C-1705, N-253*
+*Related: A-1406.1, C-2852, N-253*
 
 ---
 
@@ -560,7 +559,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1409.1, A-1409.2, A-1410.1, A-1411.1, C-1709, C-1710, N-258, N-246, N-1*
+*Related: A-1409.1, A-1409.2, A-1410.1, A-1411.1, C-2867, C-2872, N-258, N-246, N-1*
 
 ---
 
@@ -573,7 +572,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1414.1, C-1715, N-1, N-2*
+*Related: A-1414.1, C-2863, N-1, N-2*
 
 ---
 
@@ -594,7 +593,7 @@ Investigative Pressure: Medium
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10837, C-10838, C-10839, C-10840, C-10841, C-10846, C-10847, C-10848, C-10849, C-10850, C-10851, C-10852, C-10853, C-10854, C-10855, C-10856, C-10857, C-10858, C-10859, C-10860, C-10861, C-10862, C-10863, C-10864, C-10865, C-10866, C-10867, C-10868, C-10869, C-10870, C-10871, C-10872, C-10873, C-10874, C-10875, C-10876, C-10877, C-10878, C-10879, C-10880, C-10881, C-10882, C-10883, C-10884, C-10885, C-10886, C-10887, C-10888, C-10889, C-10890*
+*Related: C-2816, C-2817, C-2818, C-2819, C-2820, C-2825, C-2826, C-2833, C-2836, C-2837, C-2838, C-2839, C-2840, C-2841, C-2843, C-2845, C-2846, C-2847, C-2848, C-2849, C-2854, C-2855, C-2856, C-2857, C-2858, C-2859, C-2861, C-2860, C-2862, C-2864, C-2865, C-2866, C-2868, C-2869, C-2870, C-2871, C-2874, C-2875, C-2876, C-2877, C-2879, C-2880, C-2881, C-2882, C-2883, C-2884, C-2885, C-2887, C-2889, C-2890*
 
 ---
 
@@ -602,7 +601,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10837*
+*Related: C-2816*
 
 ---
 
@@ -610,7 +609,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10837*
+*Related: C-2816*
 
 ---
 
@@ -618,7 +617,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10837, C-10838, C-10865*
+*Related: C-2816, C-2817, C-2858*
 
 ---
 
@@ -626,7 +625,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10838, C-10854, C-10856*
+*Related: C-2817, C-2841, C-2845*
 
 ---
 
@@ -634,7 +633,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10838, C-10856*
+*Related: C-2817, C-2845*
 
 ---
 
@@ -642,7 +641,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10839*
+*Related: C-2818*
 
 ---
 
@@ -651,7 +650,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 The host's relay of Courtney Love's thesis that powerful people and companies are controlled through psychosis, lawfare, reputational attacks and untimely deaths, applied by the host to several celebrities and to Charlie Kirk.
 
-*Related: C-10839, C-10855, C-10856, C-10857, C-10858, C-10860*
+*Related: C-2818, C-2843, C-2845, C-2846, C-2847, C-2849*
 
 ---
 
@@ -659,7 +658,7 @@ The host's relay of Courtney Love's thesis that powerful people and companies ar
 
 First named by the host at 00:00:44 in episode 32. Singer whose 2008 conservatorship the host connects to Lou Taylor and Calvary Chapel.
 
-*Related: C-10840, C-10841, C-10842, C-10843, C-10845, C-10850, C-10856*
+*Related: C-2819, C-2820, C-2821, C-2822, C-2824, C-2837, C-2845*
 
 ---
 
@@ -668,7 +667,7 @@ First named by the host at 00:00:44 in episode 32. Singer whose 2008 conservator
 Node Type: Topic
 The host's and Brett Cooper's account of Lou Taylor's role in setting up the 2008 Britney Spears conservatorship, the loans, fees and church tithing around it.
 
-*Related: C-10840, C-10841, C-10842, C-10843, C-10844, C-10845, C-10848, C-10849, C-10850, C-10861*
+*Related: C-2819, C-2820, C-2821, C-2822, C-2823, C-2824, C-2833, C-2836, C-2837, C-2854*
 
 ---
 
@@ -676,7 +675,7 @@ The host's and Brett Cooper's account of Lou Taylor's role in setting up the 200
 
 First named by the host (reading Brett Cooper) at 00:06:05 in episode 32. Britney Spears's younger sister, whom Lou Taylor was first hired to help manage.
 
-*Related: C-10842*
+*Related: C-2821*
 
 ---
 
@@ -684,7 +683,7 @@ First named by the host (reading Brett Cooper) at 00:06:05 in episode 32. Britne
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10846, C-10847, C-10851, C-10853, C-10867*
+*Related: C-2825, C-2826, C-2838, C-2840, C-2861*
 
 ---
 
@@ -692,7 +691,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10846, C-10847*
+*Related: C-2825, C-2826*
 
 ---
 
@@ -700,7 +699,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10849*
+*Related: C-2836*
 
 ---
 
@@ -708,7 +707,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10849, C-10850*
+*Related: C-2836, C-2837*
 
 ---
 
@@ -716,7 +715,7 @@ Existing node reused for new claims in this episode.
 
 First named at 00:15:42 in episode 32 in an email read by the host. Former UK prime minister linked in the email to the house where Britney Spears was held in 2019.
 
-*Related: C-10850*
+*Related: C-2837*
 
 ---
 
@@ -724,7 +723,7 @@ First named at 00:15:42 in episode 32 in an email read by the host. Former UK pr
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10852, C-10867, C-10885*
+*Related: C-2839, C-2861, C-2883*
 
 ---
 
@@ -732,7 +731,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10854*
+*Related: C-2841*
 
 ---
 
@@ -740,7 +739,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10857*
+*Related: C-2846*
 
 ---
 
@@ -748,7 +747,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10858, C-10859, C-10860*
+*Related: C-2847, C-2848, C-2849*
 
 ---
 
@@ -756,7 +755,7 @@ Existing node reused for new claims in this episode.
 
 First named by the host at 00:23:46 in episode 32. Daughter of Michael Jackson, said to have lost in court over his legacy.
 
-*Related: C-10859*
+*Related: C-2848*
 
 ---
 
@@ -764,7 +763,7 @@ First named by the host at 00:23:46 in episode 32. Daughter of Michael Jackson, 
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10860, C-10868, C-10870, C-10890*
+*Related: C-2849, C-2860, C-2864, C-2890*
 
 ---
 
@@ -772,7 +771,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10861*
+*Related: C-2854*
 
 ---
 
@@ -780,7 +779,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10862, C-10863, C-10884*
+*Related: C-2855, C-2856, C-2882*
 
 ---
 
@@ -788,7 +787,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10864, C-10865, C-10866*
+*Related: C-2857, C-2858, C-2859*
 
 ---
 
@@ -796,7 +795,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10868, C-10886, C-10887*
+*Related: C-2860, C-2884, C-2885*
 
 ---
 
@@ -804,7 +803,7 @@ Existing node reused for new claims in this episode.
 
 First named by the host at 00:35:52 in episode 32. Reality-TV figure the host praises for work on the Malibu fires.
 
-*Related: C-10869*
+*Related: C-2862*
 
 ---
 
@@ -812,7 +811,7 @@ First named by the host at 00:35:52 in episode 32. Reality-TV figure the host pr
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10871, C-10873, C-10874, C-10879, C-10880*
+*Related: C-2865, C-2868, C-2869, C-2876, C-2877*
 
 ---
 
@@ -820,7 +819,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10875*
+*Related: C-2870*
 
 ---
 
@@ -828,7 +827,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10881*
+*Related: C-2879*
 
 ---
 
@@ -836,7 +835,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10886*
+*Related: C-2884*
 
 ---
 
@@ -844,7 +843,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10888*
+*Related: C-2887*
 
 ---
 
@@ -852,13 +851,13 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-10889*
+*Related: C-2889*
 
 ---
 
 ## V. Claim Register
 
-**C-1695** Lou Taylor's Husband Pastored at Calvary Chapel Brentwood
+**C-2827** Lou Taylor's Husband Pastored at Calvary Chapel Brentwood
 
 Claim Timestamp: 00:11:07
 
@@ -872,7 +871,7 @@ Investigative Direction: Verify Calvary Chapel Brentwood staff records circa 200
 
 ---
 
-**C-1696** Lou Taylor Lacked Formal Financial Qualifications
+**C-2828** Lou Taylor Lacked Formal Financial Qualifications
 
 Claim Timestamp: 00:11:07
 
@@ -886,7 +885,7 @@ Investigative Direction: Confirm via business filings (Tri Star / Tristar) and p
 
 ---
 
-**C-1697** Brett Cooper Says Jamie Spears Tithed Approximately 10% of Conservatorship Income to Calvary Chapel Brentwood
+**C-2829** Brett Cooper Says Jamie Spears Tithed Approximately 10% of Conservatorship Income to Calvary Chapel Brentwood
 
 Claim Timestamp: 00:11:07
 
@@ -901,7 +900,7 @@ Investigative Direction: Obtain the 2010 financial document referenced and confi
 
 ---
 
-**C-1698** LA Times Reported Lawyer Emails Linked Lou Taylor to Conservatorship Setup
+**C-2830** LA Times Reported Lawyer Emails Linked Lou Taylor to Conservatorship Setup
 
 Claim Timestamp: 00:12:02
 
@@ -915,7 +914,7 @@ Investigative Direction: Locate and review the LA Times article and underlying e
 
 ---
 
-**C-1699** Britney Spears Alleged Affair Between Jamie Spears and Lou Taylor
+**C-2831** Britney Spears Alleged Affair Between Jamie Spears and Lou Taylor
 
 Claim Timestamp: 00:12:02
 
@@ -929,7 +928,7 @@ Investigative Direction: Review the underlying Daily Mail reporting and court do
 
 ---
 
-**C-1700** The New Yorker Reported Lou Taylor Attempted Conservatorships of Courtney Love and Lindsay Lohan
+**C-2832** The New Yorker Reported Lou Taylor Attempted Conservatorships of Courtney Love and Lindsay Lohan
 
 Claim Timestamp: 00:12:27
 
@@ -943,7 +942,7 @@ Investigative Direction: Locate the underlying New Yorker article and review pri
 
 ---
 
-**C-1701** Michael Lohan Accused Lou Taylor of Leaking Lindsay Lohan Rehab Information
+**C-2834** Michael Lohan Accused Lou Taylor of Leaking Lindsay Lohan Rehab Information
 
 Claim Timestamp: 00:13:53
 
@@ -957,7 +956,7 @@ Investigative Direction: Compare Lohan's public statement against contemporaneou
 
 ---
 
-**C-1702** Insider Email Alleges Lou Taylor and Rob Taylor's Church Is a Front with Intelligence Links
+**C-2835** Insider Email Alleges Lou Taylor and Rob Taylor's Church Is a Front with Intelligence Links
 
 Claim Timestamp: 00:14:40
 
@@ -972,7 +971,7 @@ Investigative Direction: Identify sender through unredacted metadata; cross-refe
 
 ---
 
-**C-1703** Courtney Love Claims She Was Experimented on at Haight-Ashbury Clinic as a Toddler
+**C-2842** Courtney Love Claims She Was Experimented on at Haight-Ashbury Clinic as a Toddler
 
 Claim Timestamp: 00:21:25
 
@@ -987,7 +986,7 @@ Investigative Direction: Court Love is reportedly writing a book on this topic; 
 
 ---
 
-**C-1704** Courtney Love Claims She Did Not Kill Kurt Cobain
+**C-2844** Courtney Love Claims She Did Not Kill Kurt Cobain
 
 Claim Timestamp: 00:22:10
 
@@ -1001,7 +1000,7 @@ Investigative Direction: Standalone claim only; no corroborating artifact in thi
 
 ---
 
-**C-1705** Courtney Love Alleges "Mormon Mafia" Sits Above Hollywood and "Zionist Jews"
+**C-2852** Courtney Love Alleges "Mormon Mafia" Sits Above Hollywood and "Zionist Jews"
 
 Claim Timestamp: 00:27:26
 
@@ -1016,7 +1015,7 @@ Investigative Direction: Single-source; corroboration required before inscriptio
 
 ---
 
-**C-1706** Courtney Love Names Lou Taylor as Connected to Multiple High-Profile Figures
+**C-2853** Courtney Love Names Lou Taylor as Connected to Multiple High-Profile Figures
 
 Claim Timestamp: 00:28:30
 
@@ -1031,7 +1030,7 @@ Investigative Direction: Review corporate filings of the named "church home" ent
 
 ---
 
-**C-1707** Bob Bryar Publicly Stated Lou Taylor Was His Business Manager for 18 Years
+**C-2850** Bob Bryar Publicly Stated Lou Taylor Was His Business Manager for 18 Years
 
 Claim Timestamp: 00:25:41
 
@@ -1045,7 +1044,7 @@ Investigative Direction: Locate Bryar's original tweet; cross-reference with any
 
 ---
 
-**C-1708** Bob Bryar's Cause of Death Ruled Undetermined; Nitrous Oxide Found Near Body
+**C-2851** Bob Bryar's Cause of Death Ruled Undetermined; Nitrous Oxide Found Near Body
 
 Claim Timestamp: 00:25:41
 
@@ -1059,7 +1058,7 @@ Investigative Direction: Obtain full autopsy / coroner's report; review toxicolo
 
 ---
 
-**C-1709** Individual in Maroon Shirt Observed Near Bush at Kirk Event; Did Not Duck When Shots Fired
+**C-2867** Individual in Maroon Shirt Observed Near Bush at Kirk Event; Did Not Duck When Shots Fired
 
 Claim Timestamp: 00:41:29
 
@@ -1074,7 +1073,7 @@ Investigative Direction: Obtain high-resolution copies of all photos/video from 
 
 ---
 
-**C-1710** Samir Posted Photo with Maroon Shirt Individual; Both Alleged BYU Alumni
+**C-2872** Samir Posted Photo with Maroon Shirt Individual; Both Alleged BYU Alumni
 
 Claim Timestamp: 00:44:05
 
@@ -1089,7 +1088,7 @@ Investigative Direction: Identify the second individual in the Samir photo; conf
 
 ---
 
-**C-1711** Samir Was Permitted to Interview Astrid Tuminez
+**C-2873** Samir Was Permitted to Interview Astrid Tuminez
 
 Claim Timestamp: 00:44:05
 
@@ -1103,7 +1102,7 @@ Investigative Direction: Locate the published Samir / Tuminez interview and revi
 
 ---
 
-**C-1712** Butch Hibbs Lingered in Background During Post-Shooting Media Interview
+**C-2878** Butch Hibbs Lingered in Background During Post-Shooting Media Interview
 
 Claim Timestamp: 00:45:56
 
@@ -1117,7 +1116,7 @@ Investigative Direction: Confirm Butch Hibbs's official role/access at the event
 
 ---
 
-**C-1713** Daily Mail Headline Framed Allie Beth Stuckey as TPUSA "Heir"
+**C-2886** Daily Mail Headline Framed Allie Beth Stuckey as TPUSA "Heir"
 
 Claim Timestamp: 00:56:34
 
@@ -1131,7 +1130,7 @@ Investigative Direction: Obtain the article and verify framing language; host di
 
 ---
 
-**C-1714** Wall Street Journal Repeated "Heir Apparent" Framing of Allie Beth Stuckey
+**C-2888** Wall Street Journal Repeated "Heir Apparent" Framing of Allie Beth Stuckey
 
 Claim Timestamp: 00:56:58
 
@@ -1145,7 +1144,7 @@ Investigative Direction: Locate the WSJ article and verify framing language.
 
 ---
 
-**C-1715** Charlie Kirk Articulated Preference for Foxhole-Style Friends in On-Air Conversation
+**C-2863** Charlie Kirk Articulated Preference for Foxhole-Style Friends in On-Air Conversation
 
 Claim Timestamp: 00:37:29
 
@@ -1160,7 +1159,7 @@ Investigative Direction: Verify timestamp/date of original recording; confirm vi
 
 ---
 
-**C-10837** Host Says Macron Side Raised MK Ultra 18 Times in Lawsuit Against Her
+**C-2816** Host Says Macron Side Raised MK Ultra 18 Times in Lawsuit Against Her
 
 Claim Timestamp: 00:02:06
 
@@ -1176,7 +1175,7 @@ Investigative Direction: Count MK Ultra references in the Macron complaint as fi
 
 ---
 
-**C-10838** Host Says Kanye Was Put on a Psych 5150 Hold and MK Ultraed
+**C-2817** Host Says Kanye Was Put on a Psych 5150 Hold and MK Ultraed
 
 Claim Timestamp: 00:02:23
 
@@ -1192,7 +1191,7 @@ Investigative Direction: Obtain hospital or legal records of any 2016 or later i
 
 ---
 
-**C-10839** Host Says Weinstein Was Taken Out via Me Too and Me Too May Have Been Hostile Takeovers
+**C-2818** Host Says Weinstein Was Taken Out via Me Too and Me Too May Have Been Hostile Takeovers
 
 Claim Timestamp: 00:03:16
 
@@ -1208,7 +1207,7 @@ Investigative Direction: Trace ownership changes at Miramax and The Weinstein Co
 
 ---
 
-**C-10840** Host Says Emails Tied Calvary Chapel to Britney Spears's Conservatorship
+**C-2819** Host Says Emails Tied Calvary Chapel to Britney Spears's Conservatorship
 
 Claim Timestamp: 00:04:16
 
@@ -1224,7 +1223,7 @@ Investigative Direction: Obtain the viewer emails and conservatorship filings sh
 
 ---
 
-**C-10841** Host Says Lou Taylor Pushed for Britney's Conservatorship, as Alleged and Insinuated by Britney
+**C-2820** Host Says Lou Taylor Pushed for Britney's Conservatorship, as Alleged and Insinuated by Britney
 
 Claim Timestamp: 00:05:41
 
@@ -1240,7 +1239,7 @@ Investigative Direction: Check Britney Spears's court statements and the 2021 LA
 
 ---
 
-**C-10842** Cooper Says Lou Taylor Joined the Spears Orbit in 2007 to Manage Jamie Lynn
+**C-2821** Cooper Says Lou Taylor Joined the Spears Orbit in 2007 to Manage Jamie Lynn
 
 Claim Timestamp: 00:06:05
 
@@ -1256,7 +1255,7 @@ Investigative Direction: Check 2007 to 2008 press coverage and the Spears family
 
 ---
 
-**C-10843** Cooper Cites Lynn Spears Memoir on Conservatorship Talk With Lou Taylor
+**C-2822** Cooper Cites Lynn Spears Memoir on Conservatorship Talk With Lou Taylor
 
 Claim Timestamp: 00:06:47
 
@@ -1272,7 +1271,7 @@ Investigative Direction: Check the passage in Lynn Spears's memoir Through the S
 
 ---
 
-**C-10844** Cooper Says Lou Taylor's Firm Lent Jamie Spears $40,000 Months Before the Conservatorship
+**C-2823** Cooper Says Lou Taylor's Firm Lent Jamie Spears $40,000 Months Before the Conservatorship
 
 Claim Timestamp: 00:06:47
 
@@ -1288,7 +1287,7 @@ Investigative Direction: Look for bankruptcy filings and loan records for Jamie 
 
 ---
 
-**C-10845** Cooper Says Tri Star Managed the Circus Tour Grossing $130 Million
+**C-2824** Cooper Says Tri Star Managed the Circus Tour Grossing $130 Million
 
 Claim Timestamp: 00:08:12
 
@@ -1304,7 +1303,7 @@ Investigative Direction: Check conservatorship accountings for Circus tour gross
 
 ---
 
-**C-10846** Host Recaps Rob McCoy Stepping In as CFO of Potter's Field
+**C-2825** Host Recaps Rob McCoy Stepping In as CFO of Potter's Field
 
 Claim Timestamp: 00:09:21
 
@@ -1315,13 +1314,13 @@ Transcript Snippet: Rob McCoy steps in as the CFO and there's articles about it 
 Anchored Artifacts: 
 Mentions: N-3, N-17
 Related Nodes: N-10247
-Supports: C-6635
+Supports: C-2770
 Tags: relevance:context
 Investigative Direction: Locate the press articles and Montana filings on Potter's Field leadership and dissolution.
 
 ---
 
-**C-10847** Host Relays Source Saying McCoy Staged a Hostile Takeover of Potter's Field
+**C-2826** Host Relays Source Saying McCoy Staged a Hostile Takeover of Potter's Field
 
 Claim Timestamp: 00:09:21
 
@@ -1337,7 +1336,7 @@ Investigative Direction: Review the source's emails and backup and Potter's Fiel
 
 ---
 
-**C-10848** Host Says Two More Former Lou Taylor Associates Described a Mandatory Tithing System
+**C-2833** Host Says Two More Former Lou Taylor Associates Described a Mandatory Tithing System
 
 Claim Timestamp: 00:12:38
 
@@ -1353,7 +1352,7 @@ Investigative Direction: Interview the two sources and obtain client agreements 
 
 ---
 
-**C-10849** Email Alleges Lou Taylor Has Ties to Ghislaine Maxwell and Epstein
+**C-2836** Email Alleges Lou Taylor Has Ties to Ghislaine Maxwell and Epstein
 
 Claim Timestamp: 00:15:42
 
@@ -1369,7 +1368,7 @@ Investigative Direction: Ask the email's author for the basis; search Epstein an
 
 ---
 
-**C-10850** Email Says Britney's 2019 Location Was Tied to Epstein via Tony Blair
+**C-2837** Email Says Britney's 2019 Location Was Tied to Epstein via Tony Blair
 
 Claim Timestamp: 00:15:42
 
@@ -1385,7 +1384,7 @@ Investigative Direction: Identify the reporter and the property and check owners
 
 ---
 
-**C-10851** Email Says Lou Taylor Built a House in Thousand Oaks and Likely Knows Rob McCoy
+**C-2838** Email Says Lou Taylor Built a House in Thousand Oaks and Likely Knows Rob McCoy
 
 Claim Timestamp: 00:15:42
 
@@ -1401,7 +1400,7 @@ Investigative Direction: Check Ventura County property records and any McCoy and
 
 ---
 
-**C-10852** Email Says Robin and Lou Taylor Were Mentored by Bob Coy in Fort Lauderdale
+**C-2839** Email Says Robin and Lou Taylor Were Mentored by Bob Coy in Fort Lauderdale
 
 Claim Timestamp: 00:15:42
 
@@ -1417,7 +1416,7 @@ Investigative Direction: Check Calvary Chapel Fort Lauderdale and Brentwood chur
 
 ---
 
-**C-10853** Host Says Rob McCoy Pastored the Thousand Oaks Church Until July
+**C-2840** Host Says Rob McCoy Pastored the Thousand Oaks Church Until July
 
 Claim Timestamp: 00:16:48
 
@@ -1433,7 +1432,7 @@ Investigative Direction: Verify the date McCoy left Calvary Chapel Thousand Oaks
 
 ---
 
-**C-10854** Host Says Kanye Asked Her 'Are You an OP' When Adidas and Gap Dropped Him
+**C-2841** Host Says Kanye Asked Her 'Are You an OP' When Adidas and Gap Dropped Him
 
 Claim Timestamp: 00:19:12
 
@@ -1449,7 +1448,7 @@ Investigative Direction: Ask Kanye West or others present to corroborate; compar
 
 ---
 
-**C-10855** Host Relays Courtney Love Thesis That Powerful Targets Get Handlers Then Hostile Takeovers
+**C-2843** Host Relays Courtney Love Thesis That Powerful Targets Get Handlers Then Hostile Takeovers
 
 Claim Timestamp: 00:21:53
 
@@ -1465,7 +1464,7 @@ Investigative Direction: Obtain the Courtney Love messages and ask Love to confi
 
 ---
 
-**C-10856** Host Says Britney and Kanye Were Put on 5150 Holds and Kim Kardashian Was Fine With It
+**C-2845** Host Says Britney and Kanye Were Put on 5150 Holds and Kim Kardashian Was Fine With It
 
 Claim Timestamp: 00:23:03
 
@@ -1476,13 +1475,13 @@ Transcript Snippet: Britney's been put on a psych 5150 hold. Kanye, he said he w
 Anchored Artifacts: 
 Mentions: N-3, N-871, N-27, N-359
 Related Nodes: N-11275, N-10116
-Supports: C-10838
+Supports: C-2817
 Tags: relevance:tangential
 Investigative Direction: Obtain hospital or court records, or statements from Kardashian or West on the 2016 hospitalization.
 
 ---
 
-**C-10857** Host Cites Lawfare Bankruptcy Strategy and Says It Applies to Elijah Schaffer
+**C-2846** Host Cites Lawfare Bankruptcy Strategy and Says It Applies to Elijah Schaffer
 
 Claim Timestamp: 00:23:03
 
@@ -1498,7 +1497,7 @@ Investigative Direction: Review the legal actions against Elijah Schaffer and th
 
 ---
 
-**C-10858** Host Says Michael Jackson Was Beating Sony and Nearly Owned the Beatles Catalog
+**C-2847** Host Says Michael Jackson Was Beating Sony and Nearly Owned the Beatles Catalog
 
 Claim Timestamp: 00:23:46
 
@@ -1514,7 +1513,7 @@ Investigative Direction: Review the history of the Sony/ATV catalog and Michael 
 
 ---
 
-**C-10859** Host Says Paris Jackson Lost in Court Over Her Father's Legacy
+**C-2848** Host Says Paris Jackson Lost in Court Over Her Father's Legacy
 
 Claim Timestamp: 00:23:46
 
@@ -1529,7 +1528,7 @@ Investigative Direction: Check the court ruling reported on or about 2025-11-14 
 
 ---
 
-**C-10860** Host Lists Untimely Deaths Including Charlie Kirk as a Way to Take Over Companies
+**C-2849** Host Lists Untimely Deaths Including Charlie Kirk as a Way to Take Over Companies
 
 Claim Timestamp: 00:24:28
 
@@ -1545,7 +1544,7 @@ Investigative Direction: Treat as a theory: check who gained control of TPUSA, a
 
 ---
 
-**C-10861** Host Says She Verified Lou Taylor Owns or Sat on the Board of Church Home
+**C-2854** Host Says She Verified Lou Taylor Owns or Sat on the Board of Church Home
 
 Claim Timestamp: 00:28:30
 
@@ -1561,7 +1560,7 @@ Investigative Direction: Check Church Home's incorporation and board records for
 
 ---
 
-**C-10862** Courtney Love Text Says Lou Taylor Is LDS Born and Raised
+**C-2855** Courtney Love Text Says Lou Taylor Is LDS Born and Raised
 
 Claim Timestamp: 00:28:30
 
@@ -1577,7 +1576,7 @@ Investigative Direction: Confirm Lou Taylor's religious background from public i
 
 ---
 
-**C-10863** Host Says Courtney Love Text Names R. Todd Nielson as One of the 12 Apostles
+**C-2856** Host Says Courtney Love Text Names R. Todd Nielson as One of the 12 Apostles
 
 Claim Timestamp: 00:29:46
 
@@ -1593,7 +1592,7 @@ Investigative Direction: Check LDS Church leadership rosters for any R. Todd Nie
 
 ---
 
-**C-10864** Host Says the Church Lou Taylor's Husband Pastors Has a CIA Background
+**C-2857** Host Says the Church Lou Taylor's Husband Pastors Has a CIA Background
 
 Claim Timestamp: 00:29:46
 
@@ -1609,7 +1608,7 @@ Investigative Direction: Document the claimed CIA link of Calvary Chapel's origi
 
 ---
 
-**C-10865** Host Says the Hippie Movement Was Not Organic but a Psychological Operation
+**C-2858** Host Says the Hippie Movement Was Not Organic but a Psychological Operation
 
 Claim Timestamp: 00:30:33
 
@@ -1625,7 +1624,7 @@ Investigative Direction: Cite historical sources on CIA involvement in the 1960s
 
 ---
 
-**C-10866** Host Says Many Church Leaders Have High-Up Familial Military Ties
+**C-2859** Host Says Many Church Leaders Have High-Up Familial Military Ties
 
 Claim Timestamp: 00:30:33
 
@@ -1641,7 +1640,7 @@ Investigative Direction: Identify which Calvary Chapel leaders the host means an
 
 ---
 
-**C-10867** Host Says Rob McCoy Is Trying to Launder the Reputation of a Man Imprisoned for Child Abuse
+**C-2861** Host Says Rob McCoy Is Trying to Launder the Reputation of a Man Imprisoned for Child Abuse
 
 Claim Timestamp: 00:31:48
 
@@ -1657,7 +1656,7 @@ Investigative Direction: Identify the person and any public statements by McCoy 
 
 ---
 
-**C-10868** Host Says TPUSA Was Originally About Remarketing Capitalism and Shifted to Faith
+**C-2860** Host Says TPUSA Was Originally About Remarketing Capitalism and Shifted to Faith
 
 Claim Timestamp: 00:30:33
 
@@ -1673,7 +1672,7 @@ Investigative Direction: Compare TPUSA mission statements and programming over t
 
 ---
 
-**C-10869** Host Says Spencer Pratt Showed the Malibu Fires Were a Government Conspiracy
+**C-2862** Host Says Spencer Pratt Showed the Malibu Fires Were a Government Conspiracy
 
 Claim Timestamp: 00:35:52
 
@@ -1688,7 +1687,7 @@ Investigative Direction: Check the official Malibu fire investigation findings a
 
 ---
 
-**C-10870** Host Says the Media Tried to Rewrite History to Say She and Charlie Were Not Friends
+**C-2864** Host Says the Media Tried to Rewrite History to Say She and Charlie Were Not Friends
 
 Claim Timestamp: 00:38:38
 
@@ -1703,7 +1702,7 @@ Investigative Direction: Collect media statements disputing the friendship and c
 
 ---
 
-**C-10871** Host Says Eyewitnesses Said Butch Hibbs Talked to the Bush but She Has No Evidence
+**C-2865** Host Says Eyewitnesses Said Butch Hibbs Talked to the Bush but She Has No Evidence
 
 Claim Timestamp: 00:40:22
 
@@ -1719,7 +1718,7 @@ Investigative Direction: Identify the eyewitnesses and match their accounts to v
 
 ---
 
-**C-10872** Host Says She Could Not Identify the Maroon Shirt Man Privately and Asks the Public
+**C-2866** Host Says She Could Not Identify the Maroon Shirt Man Privately and Asks the Public
 
 Claim Timestamp: 00:40:22
 
@@ -1735,7 +1734,7 @@ Investigative Direction: Match the clip's face and clothing to event attendee li
 
 ---
 
-**C-10873** Host Says Viewers Noted People Beside the Bush Directing People to Go
+**C-2868** Host Says Viewers Noted People Beside the Bush Directing People to Go
 
 Claim Timestamp: 00:41:29
 
@@ -1751,7 +1750,7 @@ Investigative Direction: Review multi-angle video of the seconds after the shot 
 
 ---
 
-**C-10874** Host Shows Clip of People Pointing Away and a Person Texting in a Blue Shirt
+**C-2869** Host Shows Clip of People Pointing Away and a Person Texting in a Blue Shirt
 
 Claim Timestamp: 00:42:10
 
@@ -1767,7 +1766,7 @@ Investigative Direction: Identify the people in the clip and the clip's source a
 
 ---
 
-**C-10875** Host Says Police Were Looking for a Maroon Shirt Man Immediately After, per Texts She Withheld
+**C-2870** Host Says Police Were Looking for a Maroon Shirt Man Immediately After, per Texts She Withheld
 
 Claim Timestamp: 00:42:58
 
@@ -1783,7 +1782,7 @@ Investigative Direction: Obtain UVU police dispatch or BOLO records mentioning a
 
 ---
 
-**C-10876** Host Says Samir Gave the Media Much Footage Immediately Despite Not Being a Kirk Fan
+**C-2871** Host Says Samir Gave the Media Much Footage Immediately Despite Not Being a Kirk Fan
 
 Claim Timestamp: 00:42:58
 
@@ -1799,7 +1798,7 @@ Investigative Direction: Check Samir's public posts and the first outlets that a
 
 ---
 
-**C-10877** Host Asks Viewers to Email moretips@candaceowens.com About the Maroon Shirt Man
+**C-2874** Host Asks Viewers to Email moretips@candaceowens.com About the Maroon Shirt Man
 
 Claim Timestamp: 00:44:05
 
@@ -1815,7 +1814,7 @@ Investigative Direction: Review incoming tips and any identification of the man 
 
 ---
 
-**C-10878** Host Repeats the Tip Address More Tips at Candaceowens.com
+**C-2875** Host Repeats the Tip Address More Tips at Candaceowens.com
 
 Claim Timestamp: 00:44:51
 
@@ -1831,7 +1830,7 @@ Investigative Direction: Check the tip inbox volume and outcome for the maroon-s
 
 ---
 
-**C-10879** Host Says Butch Hibbs Was Not the Only Person in the Bush Before the Event
+**C-2876** Host Says Butch Hibbs Was Not the Only Person in the Bush Before the Event
 
 Claim Timestamp: 00:44:51
 
@@ -1847,7 +1846,7 @@ Investigative Direction: Identify the second man in the photo and its time and s
 
 ---
 
-**C-10880** Host Says Videos Show Butch Hibbs Moving Around the Shooting Area After Though Crime Scene Tape Was Up
+**C-2877** Host Says Videos Show Butch Hibbs Moving Around the Shooting Area After Though Crime Scene Tape Was Up
 
 Claim Timestamp: 00:44:51
 
@@ -1858,13 +1857,13 @@ Transcript Snippet: we got a flurry of videos of him after this shooting takes p
 Anchored Artifacts: 
 Mentions: N-3, N-246
 Related Nodes: N-10137
-Supports: C-6639
+Supports: C-2774
 Tags: relevance:core
 Investigative Direction: Compile the post-shooting videos with timestamps and ask UVU police who authorized entry.
 
 ---
 
-**C-10881** Witness in Clip Says Shot Sounded Like a 9 Millimeter, Not a 45, Almost a Cherry Bomb
+**C-2879** Witness in Clip Says Shot Sounded Like a 9 Millimeter, Not a 45, Almost a Cherry Bomb
 
 Claim Timestamp: 00:46:20
 
@@ -1880,7 +1879,7 @@ Investigative Direction: Identify the interviewee and the outlet; compare with a
 
 ---
 
-**C-10882** Host Reads a Comment on Seven Calvary Chapels Near Huntington Beach and the Children of God
+**C-2880** Host Reads a Comment on Seven Calvary Chapels Near Huntington Beach and the Children of God
 
 Claim Timestamp: 00:52:28
 
@@ -1896,7 +1895,7 @@ Investigative Direction: Verify the number and locations of Calvary Chapel churc
 
 ---
 
-**C-10883** Host Says Critics Pretend She Acts on a Dream With No Evidence
+**C-2881** Host Says Critics Pretend She Acts on a Dream With No Evidence
 
 Claim Timestamp: 00:53:14
 
@@ -1911,7 +1910,7 @@ Investigative Direction: Compare critics' statements with the host's cited evide
 
 ---
 
-**C-10884** Host Says Young Mormon Students Gathered Information and Phone Numbers for Her
+**C-2882** Host Says Young Mormon Students Gathered Information and Phone Numbers for Her
 
 Claim Timestamp: 00:54:30
 
@@ -1927,7 +1926,7 @@ Investigative Direction: Not independently checkable without the host's sources.
 
 ---
 
-**C-10885** Host Says a Supporter Quit Over Her Coverage of Calvary Chapel Abuse
+**C-2883** Host Says a Supporter Quit Over Her Coverage of Calvary Chapel Abuse
 
 Claim Timestamp: 00:54:30
 
@@ -1943,7 +1942,7 @@ Investigative Direction: Not independently checkable without the email.
 
 ---
 
-**C-10886** Host Says Many TPUSA Lies Centered on Faith, Including That Kirk Could Not Be Catholic
+**C-2884** Host Says Many TPUSA Lies Centered on Faith, Including That Kirk Could Not Be Catholic
 
 Claim Timestamp: 00:55:50
 
@@ -1959,7 +1958,7 @@ Investigative Direction: List the specific TPUSA statements about Kirk's Catholi
 
 ---
 
-**C-10887** Host Says the Faith-Focused Lies Were a Clue That Led Her to the Faith Angle
+**C-2885** Host Says the Faith-Focused Lies Were a Clue That Led Her to the Faith Angle
 
 Claim Timestamp: 00:56:03
 
@@ -1975,7 +1974,7 @@ Investigative Direction: Catalog the TPUSA statements the host calls lies and he
 
 ---
 
-**C-10888** Host Says Allie Beth Stuckey Is Not TPUSA's Heir but Erika Kirk Literally Was
+**C-2887** Host Says Allie Beth Stuckey Is Not TPUSA's Heir but Erika Kirk Literally Was
 
 Claim Timestamp: 00:56:52
 
@@ -1990,7 +1989,7 @@ Investigative Direction: Check the Daily Mail and WSJ articles' wording and Erik
 
 ---
 
-**C-10889** Viewer Comment Says Opioid Crisis Followed Guarding Afghan Poppy Fields and Benefited the Sacklers
+**C-2889** Viewer Comment Says Opioid Crisis Followed Guarding Afghan Poppy Fields and Benefited the Sacklers
 
 Claim Timestamp: 00:58:20
 
@@ -2006,7 +2005,7 @@ Investigative Direction: Review Afghan opium production data and Purdue and Sack
 
 ---
 
-**C-10890** Host Promises to Name the Person Who Yelled at Charlie on Monday
+**C-2890** Host Promises to Name the Person Who Yelled at Charlie on Monday
 
 Claim Timestamp: 00:58:55
 
@@ -2016,7 +2015,7 @@ Transcript Snippet: I also said to you that I would address who yelled at Charli
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Supports: C-9710
+Supports: C-2657
 Tags: relevance:core
 Investigative Direction: Watch the next episode for the named donor and compare with the earlier claims.
 
@@ -2154,7 +2153,7 @@ Confidence: high
 - **Possible transcription error (A-1406.1):** "Nsign and NGO" – uncertain. Possibly "Ensign" or other proper noun. Verify against raw screenshot.
 - **Artifact verbally referenced but not shown (A-1405.1, A-1406.1):** Both artifacts were displayed in partially redacted form; raw verification pending.
 - **Transcript ambiguity:** [32:07]–[52:28] contain no transcript content; segment likely included visuals, music, or untranscribed dialogue.
-- **Claim requires human verification (C-1702, C-1703, C-1704, C-1705, C-1706):** All claims sourced solely from single unredacted/redacted communications; flagged for corroboration.
+- **Claim requires human verification (C-2835, C-2842, C-2844, C-2852, C-2853):** All claims sourced solely from single unredacted/redacted communications; flagged for corroboration.
 - **Host framing (excluded):** Assertions that "everything is a psychological operation," "Charlie was killed," and "MK Ultra was real" are framing premises; not captured as claims in this episode absent direct on-air artifact citation in this transcript.
 
 ---

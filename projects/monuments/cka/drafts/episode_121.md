@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10f): N-920, N-11357, N-11358
   - Hole-minted Nodes (reintro-ep121): N-492
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10f): C-13056–C-13119
+  - Claim Range: C-10308–C-10395
   - New Nodes Introduced: N-10682, N-10686, N-10691, N-10693
   - Reused Nodes Appearing: N-10685, N-10687, N-10688, N-10689, N-10694, N-10683, N-10684, N-10690, N-10692, N-487, N-10695, N-1, N-3, N-9, N-69, N-97, N-190, N-221, N-270, N-366, N-594, N-666, N-730, N-10001, N-10006, N-10116, N-10239, N-10346, N-10451, N-10519, N-10532, N-10676, N-10677, N-10678, N-10681, N-10699, N-10705, N-10729, N-10737, N-10768, N-10899, N-10900, N-10977, N-10983, N-11033, N-11054, N-11099, N-11244
   - (see registers)
@@ -44,7 +44,7 @@ Video Timestamp: 00:02:31–00:03:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2945, N-10682*
+*Related: C-10310, N-10682*
 
 **A-2094** Brian Harpole Interview Audio Bundle
 
@@ -56,7 +56,7 @@ Video Timestamp: 00:06:20–00:07:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2946, N-10683*
+*Related: C-10313, N-10683*
 
 **A-2094.2** Brian Harpole describes door open, 60–80–100 mph, Rick holding him, Frank praying
 
@@ -66,7 +66,7 @@ Video Timestamp: 00:11:31–00:12:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2947, C-2948, C-2950, C-2951, N-10686*
+*Related: C-10321, C-10322, C-10323, C-10324, N-10686*
 
 **A-2094.3** Brian Harpole describes medical supplies used (36 ft dressing, 4x4s, hemostatic 4x4s)
 
@@ -76,7 +76,7 @@ Video Timestamp: 00:13:09–00:13:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2949, N-10695*
+*Related: C-10326, N-10695*
 
 **A-2094.4** Brian Harpole describes opening hemostatic gauze packs with his mouth and packing procedure
 
@@ -86,7 +86,7 @@ Video Timestamp: 00:15:21–00:15:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2957, N-10695*
+*Related: C-10330, N-10695*
 
 **A-2095** Frank Turek Interview Audio Bundle
 
@@ -98,7 +98,7 @@ Video Timestamp: 00:28:14–00:29:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2952, C-2953, N-10688*
+*Related: C-10348, C-10349, N-10688*
 
 **A-2096** Car Interior Photo Bundle
 
@@ -110,7 +110,7 @@ Video Timestamp: 00:16:18–00:16:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2957, N-10685*
+*Related: C-10330, N-10685*
 
 **A-2096.2** Car backseat photo with blood wipe marks on leather
 
@@ -120,7 +120,7 @@ Video Timestamp: 00:22:17–00:23:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2955, N-10685*
+*Related: C-10339, N-10685*
 
 **A-2096.3** Brown paper / Uber bag with blood marks
 
@@ -130,7 +130,7 @@ Video Timestamp: 00:22:50–00:23:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2956, N-10685*
+*Related: C-10340, N-10685*
 
 **A-2096.4** Shard close-up rotated to show USB logo alignment with Rode promo image
 
@@ -140,7 +140,7 @@ Video Timestamp: 00:03:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2945, N-10682*
+*Related: C-10310, N-10682*
 
 **A-2097** Medical Dressing Image Bundle
 
@@ -152,7 +152,7 @@ Video Timestamp: 00:16:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2957, N-10695*
+*Related: C-10330, N-10695*
 
 **A-2098** Dave Rubin Tweet Bundle
 
@@ -164,7 +164,7 @@ Video Timestamp: 00:41:04–00:41:49
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2959, N-10689*
+*Related: C-10363, N-10689*
 
 **A-2099** Dave Rubin Jubilee Debate Bundle
 
@@ -176,7 +176,7 @@ Video Timestamp: 00:38:45–00:39:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2961*
+*Related: C-10360*
 
 **A-2099.2** Dave Rubin clip on Israel/Gaza stating war is over and hostages are home
 
@@ -186,7 +186,7 @@ Video Timestamp: 00:40:17–00:40:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2962*
+*Related: C-10361*
 
 **A-2100** Semafor Article Bundle
 
@@ -198,7 +198,7 @@ Video Timestamp: 00:41:49–00:43:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2958, C-2963, N-10689*
+*Related: C-10364, C-10369, N-10689*
 
 **A-2100.2** Semafor chart showing Daily Wire revenue and subscriber decline
 
@@ -208,7 +208,7 @@ Video Timestamp: 00:46:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2960, N-10689*
+*Related: C-10375, N-10689*
 
 **A-2101** NHS Website Reference Bundle
 
@@ -220,7 +220,7 @@ Video Timestamp: 00:34:26–00:35:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2966, N-10690*
+*Related: C-10355, N-10690*
 
 **A-2102** Read-Aloud Comments and Emails Bundle
 
@@ -232,7 +232,7 @@ Video Timestamp: 00:51:15–00:51:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2964, N-10683*
+*Related: C-10378, N-10683*
 
 **A-2102.2** Gina Schubert comment (22-year nurse) – Brian Harpole's ER story did not happen
 
@@ -242,7 +242,7 @@ Video Timestamp: 00:51:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2965, N-10683*
+*Related: C-10382, N-10683*
 
 **A-2102.3** Anonymous high-ranking police source email re: DA authorization for evidence release
 
@@ -252,7 +252,7 @@ Video Timestamp: 00:52:00–00:52:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2967, N-10691*
+*Related: C-10380, N-10691*
 
 **A-2102.4** Marlos comment (Catholic Lebanese in Australia)
 
@@ -334,7 +334,7 @@ Video Timestamp: 00:19:32–00:20:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2954, N-10685*
+*Related: C-10335, N-10685*
 
 ---
 
@@ -347,7 +347,7 @@ Video Timestamp: 00:08:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-13064*
+*Related: C-10318*
 
 ---
 
@@ -358,7 +358,7 @@ Video Timestamp: 00:17:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-13072*
+*Related: C-10333*
 
 ---
 
@@ -373,7 +373,7 @@ Video Timestamp: 00:55:16
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-13111*
+*Related: C-10387*
 
 ---
 
@@ -388,7 +388,7 @@ Video Timestamp: 00:59:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-13118*
+*Related: C-10394*
 
 ---
 
@@ -401,7 +401,7 @@ Video Timestamp: 00:10:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13066*
+*Related: C-10320*
 
 ---
 
@@ -413,7 +413,7 @@ Confidence Level: Low
 
 First named by the host at 00:10:43 in episode 121.
 
-*Related: C-2947, C-2951*
+*Related: C-10321, C-10324*
 
 **N-10682** USB Logo on Glass Shard Identification
 
@@ -424,7 +424,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-2945, A-2093.1, A-2096.4*
+*Related: C-10310, A-2093.1, A-2096.4*
 
 **N-10683** Brian Harpole ER Story Plausibility
 
@@ -435,7 +435,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-2946, C-2964, C-2965, A-2094.1, A-2102.1, A-2102.2*
+*Related: C-10313, C-10378, C-10382, A-2094.1, A-2102.1, A-2102.2*
 
 **N-10684** Brian Harpole Shirt Removal Event Timing
 
@@ -446,7 +446,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-2946, A-2094.1*
+*Related: C-10313, A-2094.1*
 
 **N-10685** Car Interior Shards and Blood Evidence Pattern
 
@@ -457,7 +457,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-2954, C-2955, C-2956, C-2957, A-2096.1, A-2096.2, A-2096.3, A-2103.1*
+*Related: C-10335, C-10339, C-10340, C-10330, A-2096.1, A-2096.2, A-2096.3, A-2103.1*
 
 **N-10686** Hospital Transport Sequence Discrepancy
 
@@ -468,7 +468,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-2947, C-2948, C-2950, C-2951, A-2094.2*
+*Related: C-10321, C-10322, C-10323, C-10324, A-2094.2*
 
 **N-10687** Frank Turek CPR Claim Verification
 
@@ -490,7 +490,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-2952, C-2953, A-2095.1*
+*Related: C-10348, C-10349, A-2095.1*
 
 **N-10689** Daily Wire Financial Status and IPO Effort
 
@@ -501,7 +501,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: Low (peripheral to Kirk case)
 
-*Related: C-2958, C-2959, C-2960, C-2963, A-2098.1, A-2100.1, A-2100.2*
+*Related: C-10364, C-10363, C-10375, C-10369, A-2098.1, A-2100.1, A-2100.2*
 
 **N-10690** Erika Kirk Dissociative Identity Disorder Assessment
 
@@ -512,7 +512,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-2966, A-2101.1, A-2102.5, A-2102.6, A-2102.8, A-2102.10*
+*Related: C-10355, A-2101.1, A-2102.5, A-2102.6, A-2102.8, A-2102.10*
 
 **N-10691** District Attorney Release Authorization Investigation
 
@@ -523,7 +523,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-2967, A-2102.3*
+*Related: C-10380, A-2102.3*
 
 **N-10692** 911 Call Origin in Hospital Transport Vehicle
 
@@ -567,7 +567,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-2949, C-2957, A-2094.3, A-2094.4, A-2096.1, A-2097.1*
+*Related: C-10326, C-10330, A-2094.3, A-2094.4, A-2096.1, A-2097.1*
 
 ---
 
@@ -575,7 +575,7 @@ Investigative Pressure: High
 
 First named by the host at 00:56:01 in episode 121. Former biotech entrepreneur convicted of fraud, discussed in a commenter's comparison to Erika Kirk.
 
-*Related: C-13112*
+*Related: C-10388*
 
 ---
 
@@ -584,7 +584,7 @@ First named by the host at 00:56:01 in episode 121. Former biotech entrepreneur 
 Node Type: Organization
 Jubilee, the debate show on which Dave Rubin appeared and on which the host says she, Charlie Kirk and Ben Shapiro have also appeared.
 
-*Related: C-13092*
+*Related: C-10359*
 
 ---
 
@@ -593,7 +593,7 @@ Jubilee, the debate show on which Dave Rubin appeared and on which the host says
 Node Type: Organization
 Capital firm the host says the Daily Wire is turning to in order to raise money.
 
-*Related: C-13094*
+*Related: C-10365*
 
 ---
 
@@ -601,7 +601,7 @@ Capital firm the host says the Daily Wire is turning to in order to raise money.
 
 Charlie Kirk; subject of the shirt, mic and ride accounts.
 
-*Related: C-13059, C-13060, C-13061, C-13062, C-13064, C-13071, C-13074, C-13077, C-13078, C-13079, C-13080, C-13081, C-13084, C-13088, C-13092, C-13107, C-13111*
+*Related: C-10312, C-10314, C-10315, C-10316, C-10318, C-10332, C-10336, C-10341, C-10342, C-10343, C-10344, C-10345, C-10350, C-10354, C-10359, C-10383, C-10387*
 
 ---
 
@@ -609,7 +609,7 @@ Charlie Kirk; subject of the shirt, mic and ride accounts.
 
 Erika Kirk; subject of the DID, pastor and Next Model discussion.
 
-*Related: C-13085, C-13086, C-13088, C-13091, C-13109, C-13110, C-13116, C-13117, C-13119*
+*Related: C-10351, C-10352, C-10354, C-10358, C-10385, C-10386, C-10392, C-10393, C-10395*
 
 ---
 
@@ -617,7 +617,7 @@ Erika Kirk; subject of the DID, pastor and Next Model discussion.
 
 Host; speaks for herself.
 
-*Related: C-13056, C-13058, C-13059, C-13063, C-13086, C-13087, C-13092, C-13095, C-13097, C-13099, C-13102, C-13108, C-13118, C-13119*
+*Related: C-10308, C-10311, C-10312, C-10317, C-10352, C-10353, C-10359, C-10366, C-10368, C-10371, C-10374, C-10384, C-10394, C-10395*
 
 ---
 
@@ -625,7 +625,7 @@ Host; speaks for herself.
 
 Frank Turek; rode in the back seat and gave the CPR and scrubs accounts.
 
-*Related: C-13057, C-13064, C-13067, C-13071, C-13073, C-13074, C-13075, C-13076, C-13077, C-13084, C-13085*
+*Related: C-10309, C-10318, C-10325, C-10332, C-10334, C-10336, C-10337, C-10338, C-10341, C-10350, C-10351*
 
 ---
 
@@ -633,7 +633,7 @@ Frank Turek; rode in the back seat and gave the CPR and scrubs accounts.
 
 Jeffrey Epstein; named in the Next Model Management thread.
 
-*Related: C-13119*
+*Related: C-10395*
 
 ---
 
@@ -641,7 +641,7 @@ Jeffrey Epstein; named in the Next Model Management thread.
 
 Dave Rubin; Jubilee appearance and book.
 
-*Related: C-13092, C-13093*
+*Related: C-10359, C-10362*
 
 ---
 
@@ -649,7 +649,7 @@ Dave Rubin; Jubilee appearance and book.
 
 Kash Patel; his FBI team seized hospital cameras per the host.
 
-*Related: C-13081*
+*Related: C-10345*
 
 ---
 
@@ -657,7 +657,7 @@ Kash Patel; his FBI team seized hospital cameras per the host.
 
 Ben Shapiro; named as a past Jubilee guest.
 
-*Related: C-13092*
+*Related: C-10359*
 
 ---
 
@@ -665,7 +665,7 @@ Ben Shapiro; named as a past Jubilee guest.
 
 Mikey McCoy; per Turek sent a plane for Erika.
 
-*Related: C-13085*
+*Related: C-10351*
 
 ---
 
@@ -673,7 +673,7 @@ Mikey McCoy; per Turek sent a plane for Erika.
 
 Brett Cooper; former Daily Wire host.
 
-*Related: C-13100*
+*Related: C-10372*
 
 ---
 
@@ -681,7 +681,7 @@ Brett Cooper; former Daily Wire host.
 
 Terryl Farnsworth; camera removal and the Erika-relive explanation.
 
-*Related: C-13074, C-13086*
+*Related: C-10336, C-10352*
 
 ---
 
@@ -689,7 +689,7 @@ Terryl Farnsworth; camera removal and the Erika-relive explanation.
 
 Brian Harpole; ER, car and dressing accounts.
 
-*Related: C-13056, C-13057, C-13060, C-13061, C-13062, C-13064, C-13065, C-13066, C-13067, C-13068, C-13069, C-13070, C-13071, C-13072, C-13073, C-13076, C-13077, C-13079, C-13107, C-13113, C-13114*
+*Related: C-10308, C-10309, C-10314, C-10315, C-10316, C-10318, C-10319, C-10320, C-10325, C-10328, C-10329, C-10331, C-10332, C-10333, C-10334, C-10338, C-10341, C-10343, C-10383, C-10389, C-10390*
 
 ---
 
@@ -697,7 +697,7 @@ Brian Harpole; ER, car and dressing accounts.
 
 Dan Flood; front passenger, possible 911 caller, declined a promotion.
 
-*Related: C-13064, C-13115, C-13116*
+*Related: C-10318, C-10391, C-10392*
 
 ---
 
@@ -705,7 +705,7 @@ Dan Flood; front passenger, possible 911 caller, declined a promotion.
 
 Jeremy Boreing; Daily Wire co-founder, Pendragon.
 
-*Related: C-13096, C-13097, C-13098, C-13099, C-13100*
+*Related: C-10367, C-10368, C-10370, C-10371, C-10372*
 
 ---
 
@@ -713,7 +713,7 @@ Jeremy Boreing; Daily Wire co-founder, Pendragon.
 
 Justin Davis; driver per the host's seating graphic.
 
-*Related: C-13064*
+*Related: C-10318*
 
 ---
 
@@ -721,7 +721,7 @@ Justin Davis; driver per the host's seating graphic.
 
 Jordan Peterson; named in the Daily Wire firing story.
 
-*Related: C-13099*
+*Related: C-10371*
 
 ---
 
@@ -729,7 +729,7 @@ Jordan Peterson; named in the Daily Wire firing story.
 
 James Kaddis; pastor the host asks about as Erika's pastor.
 
-*Related: C-13117*
+*Related: C-10393*
 
 ---
 
@@ -737,7 +737,7 @@ James Kaddis; pastor the host asks about as Erika's pastor.
 
 Sara Tewell; witness who changed her story per the host.
 
-*Related: C-13105, C-13106*
+*Related: C-10379, C-10381*
 
 ---
 
@@ -745,7 +745,7 @@ Sara Tewell; witness who changed her story per the host.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13089, C-13090*
+*Related: C-10356, C-10357*
 
 ---
 
@@ -753,7 +753,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13110*
+*Related: C-10386*
 
 ---
 
@@ -761,7 +761,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13089*
+*Related: C-10356*
 
 ---
 
@@ -769,7 +769,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13081*
+*Related: C-10345*
 
 ---
 
@@ -777,7 +777,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13086*
+*Related: C-10352*
 
 ---
 
@@ -785,7 +785,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13103*
+*Related: C-10376*
 
 ---
 
@@ -793,7 +793,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13119*
+*Related: C-10395*
 
 ---
 
@@ -801,7 +801,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13119*
+*Related: C-10395*
 
 ---
 
@@ -809,7 +809,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13061*
+*Related: C-10315*
 
 ---
 
@@ -817,7 +817,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13105, C-13106*
+*Related: C-10379, C-10381*
 
 ---
 
@@ -825,7 +825,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13058*
+*Related: C-10311*
 
 ---
 
@@ -833,7 +833,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13114*
+*Related: C-10390*
 
 ---
 
@@ -841,7 +841,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13057, C-13071, C-13072, C-13073, C-13075*
+*Related: C-10309, C-10332, C-10333, C-10334, C-10337*
 
 ---
 
@@ -849,7 +849,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13058, C-13059, C-13078*
+*Related: C-10311, C-10312, C-10342*
 
 ---
 
@@ -857,7 +857,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13115*
+*Related: C-10391*
 
 ---
 
@@ -865,7 +865,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13071, C-13072*
+*Related: C-10332, C-10333*
 
 ---
 
@@ -873,7 +873,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13059, C-13061, C-13082*
+*Related: C-10312, C-10315, C-10346*
 
 ---
 
@@ -881,7 +881,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13068, C-13069*
+*Related: C-10328, C-10329*
 
 ---
 
@@ -889,7 +889,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13094, C-13095, C-13096, C-13097, C-13098, C-13099, C-13100, C-13101, C-13103, C-13104*
+*Related: C-10365, C-10366, C-10367, C-10368, C-10370, C-10371, C-10372, C-10373, C-10376, C-10377*
 
 ---
 
@@ -897,7 +897,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13110*
+*Related: C-10386*
 
 ---
 
@@ -905,7 +905,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13091*
+*Related: C-10358*
 
 ---
 
@@ -913,7 +913,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13089, C-13090*
+*Related: C-10356, C-10357*
 
 ---
 
@@ -921,7 +921,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13083*
+*Related: C-10347*
 
 ---
 
@@ -929,7 +929,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13108*
+*Related: C-10384*
 
 ---
 
@@ -937,13 +937,13 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-13100*
+*Related: C-10372*
 
 ---
 
 ## 5. Claim Register
 
-**C-2945** USB Logo Identified on Car Glass Shard
+**C-10310** USB Logo Identified on Car Glass Shard
 
 Claim Timestamp: 00:02:31–00:03:48
 
@@ -953,7 +953,7 @@ Anchored Artifacts: A-2093.1, A-2096.4
 Related Nodes: N-10682
 Investigative Direction: Independent forensic examination of shard images for matching geometry to a Rode mic USB icon; obtain original Rode Rode mic reference images for side-by-side comparison.
 
-**C-2946** Brian Harpole Says He Got on Top of Charlie in ER to Cut Shirt
+**C-10313** Brian Harpole Says He Got on Top of Charlie in ER to Cut Shirt
 
 Claim Timestamp: 00:06:20–00:07:24
 
@@ -964,7 +964,7 @@ Mentions: N-266
 Related Nodes: N-10683, N-10684
 Investigative Direction: Obtain full unedited Brian Harpole interview transcript; corroborate against any ER surveillance footage (if not destroyed) and ER staff testimony.
 
-**C-2947** Brian Harpole States Car Door Was Open During Hospital Transport
+**C-10321** Brian Harpole States Car Door Was Open During Hospital Transport
 
 Claim Timestamp: 00:11:31–00:12:26
 
@@ -975,7 +975,7 @@ Mentions: N-266, N-487
 Related Nodes: N-10686
 Investigative Direction: Cross-reference with dash-cam / traffic-cam / police body cam footage to verify door-open configuration.
 
-**C-2948** Brian Harpole States Speeds of 60–80–100 mph During Transport
+**C-10322** Brian Harpole States Speeds of 60–80–100 mph During Transport
 
 Claim Timestamp: 00:11:31–00:12:26
 
@@ -986,7 +986,7 @@ Mentions: N-266
 Related Nodes: N-10686
 Investigative Direction: Cross-reference with traffic-cam and police-body-cam timestamps to estimate actual travel speed.
 
-**C-2949** Brian Harpole States He Used 36 ft of Dressing on Charlie's Neck
+**C-10326** Brian Harpole States He Used 36 ft of Dressing on Charlie's Neck
 
 Claim Timestamp: 00:13:09–00:13:30
 
@@ -997,7 +997,7 @@ Mentions: N-266
 Related Nodes: N-10695
 Investigative Direction: Compare dressing count against visible dressing/pack debris in car interior photos; obtain medical supply packaging for roll length verification.
 
-**C-2950** Brian Harpole States Frank Turek Was Praying in Backseat During Transport
+**C-10323** Brian Harpole States Frank Turek Was Praying in Backseat During Transport
 
 Claim Timestamp: 00:11:31–00:12:26
 
@@ -1008,7 +1008,7 @@ Mentions: N-266, N-7
 Related Nodes: N-10686, N-10687
 Investigative Direction: Obtain Frank Turek's own account of his activity during the ride; identify any audio recording that could capture in-car speech.
 
-**C-2951** Brian Harpole States Rick Cutler Physically Held Him During Transport
+**C-10324** Brian Harpole States Rick Cutler Physically Held Him During Transport
 
 Claim Timestamp: 00:11:31–00:12:26
 
@@ -1019,7 +1019,7 @@ Mentions: N-266, N-487
 Related Nodes: N-10686
 Investigative Direction: Cross-reference with Rick Cutler's own testimony if available; review photo evidence of Rick Cutler's clothing for blood patterns inconsistent with this holding posture.
 
-**C-2952** Frank Turek States He Changed into Hospital Scrubs
+**C-10348** Frank Turek States He Changed into Hospital Scrubs
 
 Claim Timestamp: 00:28:14–00:29:18
 
@@ -1030,7 +1030,7 @@ Mentions: N-7, N-2
 Related Nodes: N-10688
 Investigative Direction: Identify how and where scrubs were obtained; determine whether scrubs were preserved as evidence or returned.
 
-**C-2953** Host Says Frank Turek Threw Away His Original Clothing
+**C-10349** Host Says Frank Turek Threw Away His Original Clothing
 
 Claim Timestamp: 00:28:14–00:29:18
 
@@ -1041,7 +1041,7 @@ Mentions: N-7
 Related Nodes: N-10688
 Investigative Direction: Locate any recording where Frank Turek directly states disposal; cross-reference with hospital chain-of-custody records for patient-adjacent personal property.
 
-**C-2954** Host Says Terryl Farnsworth Video Shows Frank Turek Entering SUV Through Trunk
+**C-10335** Host Says Terryl Farnsworth Video Shows Frank Turek Entering SUV Through Trunk
 
 Claim Timestamp: 00:19:32–00:20:25
 
@@ -1052,7 +1052,7 @@ Mentions: N-7, N-261
 Related Nodes: N-10685
 Investigative Direction: Obtain the original unedited Terryl Farnsworth video; preserve metadata for chain-of-custody purposes.
 
-**C-2955** Car Backseat Photos Show Blood Wipe Marks on Leather
+**C-10339** Car Backseat Photos Show Blood Wipe Marks on Leather
 
 Claim Timestamp: 00:22:17–00:23:11
 
@@ -1063,7 +1063,7 @@ Mentions: N-7
 Related Nodes: N-10685
 Investigative Direction: Obtain original unaltered car interior photos with metadata for forensic chain-of-custody; conduct independent review of mark patterns.
 
-**C-2956** Host Says Car Backseat Photos Show Blood Marks on Brown Paper / Uber Bag
+**C-10340** Host Says Car Backseat Photos Show Blood Marks on Brown Paper / Uber Bag
 
 Claim Timestamp: 00:22:50–00:23:11
 
@@ -1073,7 +1073,7 @@ Anchored Artifacts: A-2096.3
 Related Nodes: N-10685
 Investigative Direction: Forensic testing of the bag (if available) for blood type, DNA, and explosive residue.
 
-**C-2957** Single 4x4 Dressing Pack Visible in Car Floor Photos
+**C-10330** Single 4x4 Dressing Pack Visible in Car Floor Photos
 
 Claim Timestamp: 00:16:18–00:16:50
 
@@ -1084,7 +1084,7 @@ Mentions: N-266
 Related Nodes: N-10685, N-10695
 Investigative Direction: High-resolution review of car floor photos for additional packaging remnants; obtain official product dimensions for verification.
 
-**C-2958** Semafor Article Reports Daily Wire Pursuing $100M Strategic Investment and IPO
+**C-10364** Semafor Article Reports Daily Wire Pursuing $100M Strategic Investment and IPO
 
 Claim Timestamp: 00:41:49–00:42:51
 
@@ -1094,7 +1094,7 @@ Anchored Artifacts: A-2100.1
 Related Nodes: N-10689
 Investigative Direction: Obtain original Semafor article; verify any disclosed Highmount Capital relationship.
 
-**C-2959** Dave Rubin Tweet Characterizes Daily Wire Investment as Positive
+**C-10363** Dave Rubin Tweet Characterizes Daily Wire Investment as Positive
 
 Claim Timestamp: 00:41:04–00:41:49
 
@@ -1105,7 +1105,7 @@ Mentions: N-32
 Related Nodes: N-10689
 Investigative Direction: Verify original tweet timestamp and any subsequent clarification from Rubin.
 
-**C-2960** Host Says Semafor Chart Shows Daily Wire Revenue and Subscriber Decline
+**C-10375** Host Says Semafor Chart Shows Daily Wire Revenue and Subscriber Decline
 
 Claim Timestamp: 00:46:09
 
@@ -1115,7 +1115,7 @@ Anchored Artifacts: A-2100.2
 Related Nodes: N-10689
 Investigative Direction: Obtain underlying source data for the chart; identify methodology.
 
-**C-2961** Dave Rubin Unable to Identify a Trump Economic Metric on Jubilee
+**C-10360** Dave Rubin Unable to Identify a Trump Economic Metric on Jubilee
 
 Claim Timestamp: 00:38:45–00:39:25
 
@@ -1126,7 +1126,7 @@ Mentions: N-32
 Related Nodes:
 Investigative Direction: Obtain full unedited Jubilee episode; verify clip is not edited deceptively.
 
-**C-2962** Dave Rubin States Gaza War Is Over and Hostages Are Home
+**C-10361** Dave Rubin States Gaza War Is Over and Hostages Are Home
 
 Claim Timestamp: 00:40:17–00:40:45
 
@@ -1137,7 +1137,7 @@ Mentions: N-32
 Related Nodes:
 Investigative Direction: Verify against independent reporting on Gaza status as of debate date.
 
-**C-2963** Semafor Article States Daily Wire Spent ~$50M on Pendragon Cycle
+**C-10369** Semafor Article States Daily Wire Spent ~$50M on Pendragon Cycle
 
 Claim Timestamp: 00:42:55
 
@@ -1148,7 +1148,7 @@ Mentions: N-366
 Related Nodes: N-10689
 Investigative Direction: Obtain Daily Wire financial disclosures (if any) and verify per-episode cost comparison to HBO's first Game of Thrones season.
 
-**C-2964** Retired ER Nurse Comments Brian Harpole's ER Story Is Implausible
+**C-10378** Retired ER Nurse Comments Brian Harpole's ER Story Is Implausible
 
 Claim Timestamp: 00:51:15–00:51:45
 
@@ -1159,7 +1159,7 @@ Mentions: N-266
 Related Nodes: N-10683
 Investigative Direction: Independent verification of ER protocols from additional medical professionals; obtain hospital incident logs.
 
-**C-2965** 22-Year Nurse Comments Brian Harpole's ER Story Did Not Happen
+**C-10382** 22-Year Nurse Comments Brian Harpole's ER Story Did Not Happen
 
 Claim Timestamp: 00:53:05
 
@@ -1168,9 +1168,9 @@ Claim: Gina Schubert (22-year hospital nurse) submits a comment stating that Bri
 Anchored Artifacts: A-2102.2
 Mentions: N-266
 Related Nodes: N-10683
-Investigative Direction: Same as C-2964.
+Investigative Direction: Same as C-10378.
 
-**C-2966** NHS Website Describes Observable Eye Changes in Dissociative Disorders
+**C-10355** NHS Website Describes Observable Eye Changes in Dissociative Disorders
 
 Claim Timestamp: 00:34:26–00:35:29
 
@@ -1180,7 +1180,7 @@ Anchored Artifacts: A-2101.1
 Related Nodes: N-10690
 Investigative Direction: Obtain current NHS source page directly; verify quoted text matches original.
 
-**C-2967** Host Reads Email From Purported Police Source Saying DA Authorization Required for Evidence Release
+**C-10380** Host Reads Email From Purported Police Source Saying DA Authorization Required for Evidence Release
 
 Claim Timestamp: 00:52:00–00:52:30
 
@@ -1191,7 +1191,7 @@ Mentions: N-2
 Related Nodes: N-10691
 Investigative Direction: Identify jurisdiction and DA office handling the case; obtain chain-of-custody records for returned items.
 
-**C-2968** Brian Harpole States He Focused on Bleed Control, Not CPR
+**C-10327** Brian Harpole States He Focused on Bleed Control, Not CPR
 
 Claim Timestamp: 00:13:09–00:14:33
 
@@ -1204,7 +1204,7 @@ Investigative Direction: Obtain full Brian Harpole interview transcript; cross-r
 
 ---
 
-**C-13056** Host Refers to Harpole's Lawsuit Against Her
+**C-10308** Host Refers to Harpole's Lawsuit Against Her
 
 Claim Timestamp: 00:00:01
 
@@ -1215,13 +1215,13 @@ Transcript Snippet: And feel free, Brian, to add that statement to your lawsuit 
 Anchored Artifacts: 
 Mentions: N-266, N-3
 Related Nodes: 
-Supports: C-2810
+Supports: C-8636
 Tags: relevance:core
 Investigative Direction: Pull the docket for Harpole's complaint and any amendment to see whether it was extended to cover this statement.
 
 ---
 
-**C-13057** Host Says Harpole and Turek Tell Conflicting Stories of the Ride
+**C-10309** Host Says Harpole and Turek Tell Conflicting Stories of the Ride
 
 Claim Timestamp: 00:01:33
 
@@ -1237,7 +1237,7 @@ Investigative Direction: Compare each man's recorded account of the ride side by
 
 ---
 
-**C-13058** Opticians Reportedly Say Shards Cannot Be Sunglasses
+**C-10311** Opticians Reportedly Say Shards Cannot Be Sunglasses
 
 Claim Timestamp: 00:03:48
 
@@ -1253,7 +1253,7 @@ Investigative Direction: Ask independent opticians or lens manufacturers what le
 
 ---
 
-**C-13059** Host Believes the Floor Shards Are Charlie's Rode Mic Pieces
+**C-10312** Host Believes the Floor Shards Are Charlie's Rode Mic Pieces
 
 Claim Timestamp: 00:03:48
 
@@ -1269,7 +1269,7 @@ Investigative Direction: Obtain the Rode Rode mic product teardown and compare s
 
 ---
 
-**C-13060** Host Reads Harpole's ER Story as Admitting He Removed the Shirt
+**C-10314** Host Reads Harpole's ER Story as Admitting He Removed the Shirt
 
 Claim Timestamp: 00:07:24
 
@@ -1285,7 +1285,7 @@ Investigative Direction: Obtain the ER and EMS records for who handled the shirt
 
 ---
 
-**C-13061** Host Says Shirt Was the Biggest Explosive Residue Evidence
+**C-10315** Host Says Shirt Was the Biggest Explosive Residue Evidence
 
 Claim Timestamp: 00:08:03
 
@@ -1301,7 +1301,7 @@ Investigative Direction: Establish the shirt's chain of custody and whether it w
 
 ---
 
-**C-13062** Host Concludes the Shirt Came Off in the Car
+**C-10316** Host Concludes the Shirt Came Off in the Car
 
 Claim Timestamp: 00:08:49
 
@@ -1317,7 +1317,7 @@ Investigative Direction: Compare ER intake photos and records with the car-inter
 
 ---
 
-**C-13063** Host Says the SUV Interior Photos Were Never Meant to Be Public
+**C-10317** Host Says the SUV Interior Photos Were Never Meant to Be Public
 
 Claim Timestamp: 00:08:49
 
@@ -1333,7 +1333,7 @@ Investigative Direction: Determine who took and released the SUV interior photos
 
 ---
 
-**C-13064** Host Lays Out SUV Seating Per Harpole's Account
+**C-10318** Host Lays Out SUV Seating Per Harpole's Account
 
 Claim Timestamp: 00:08:49
 
@@ -1349,7 +1349,7 @@ Investigative Direction: Confirm seating with each occupant's first-hand account
 
 ---
 
-**C-13065** Host Estimates a Six-Minute Ride Against Eight by Google Maps
+**C-10319** Host Estimates a Six-Minute Ride Against Eight by Google Maps
 
 Claim Timestamp: 00:09:49
 
@@ -1365,7 +1365,7 @@ Investigative Direction: Use traffic-camera, dispatch and phone-location times t
 
 ---
 
-**C-13066** Host Says Departure Footage Shows the Door Ajar
+**C-10320** Host Says Departure Footage Shows the Door Ajar
 
 Claim Timestamp: 00:10:43
 
@@ -1376,13 +1376,13 @@ Transcript Snippet: If you go back and watch footage of them pulling out, you ca
 Anchored Artifacts: A-3246.1
 Mentions: N-266
 Related Nodes: N-10686
-Supports: C-2947
+Supports: C-10321
 Tags: relevance:core
 Investigative Direction: Locate and preserve the departure footage and view the door at full resolution.
 
 ---
 
-**C-13067** Harpole Says Rick Cutler Was Also Praying Out Loud
+**C-10325** Harpole Says Rick Cutler Was Also Praying Out Loud
 
 Claim Timestamp: 00:11:31
 
@@ -1398,7 +1398,7 @@ Investigative Direction: Ask Cutler and Turek independently what each did and sa
 
 ---
 
-**C-13068** Harpole Repeated the 36 ft Story to Paramount Tactical
+**C-10328** Harpole Repeated the 36 ft Story to Paramount Tactical
 
 Claim Timestamp: 00:14:33
 
@@ -1409,13 +1409,13 @@ Transcript Snippet: 36 ft of dressing. And he repeats that story to Paramount No
 Anchored Artifacts: A-2094.4
 Mentions: N-266
 Related Nodes: N-10899, N-10695
-Supports: C-2949
+Supports: C-10326
 Tags: relevance:core
 Investigative Direction: Obtain the full Paramount Tactical interview and compare the dressing quantities in both accounts.
 
 ---
 
-**C-13069** Harpole Says He Opened Hemostatic Packs With His Mouth
+**C-10329** Harpole Says He Opened Hemostatic Packs With His Mouth
 
 Claim Timestamp: 00:15:21
 
@@ -1431,7 +1431,7 @@ Investigative Direction: Check the car-interior photos for torn hemostatic packa
 
 ---
 
-**C-13070** Host Says Dressing Rolls Sell at 4 Yards, Questions Six Rolls
+**C-10331** Host Says Dressing Rolls Sell at 4 Yards, Questions Six Rolls
 
 Claim Timestamp: 00:16:18
 
@@ -1447,7 +1447,7 @@ Investigative Direction: Check roll length by product and arithmetic: 36 ft is 1
 
 ---
 
-**C-13071** Host Says CPR Is Impossible Across Two Captain Chairs
+**C-10332** Host Says CPR Is Impossible Across Two Captain Chairs
 
 Claim Timestamp: 00:17:08
 
@@ -1458,13 +1458,13 @@ Transcript Snippet: You cannot conduct emergency CPR on a person that is laying 
 Anchored Artifacts: 
 Mentions: N-7, N-1, N-266
 Related Nodes: N-10699, N-10737
-Contradicts: C-4708
+Contradicts: C-10093
 Tags: relevance:core
 Investigative Direction: Ask a trauma or EMS instructor whether CPR is feasible in that seating position and obtain Turek's full statement.
 
 ---
 
-**C-13072** Host Says Harpole Is Truthful That CPR Was Not Done
+**C-10333** Host Says Harpole Is Truthful That CPR Was Not Done
 
 Claim Timestamp: 00:18:31
 
@@ -1475,13 +1475,13 @@ Transcript Snippet: I cannot stress enough that CPR could not have been conducte
 Anchored Artifacts: A-3243.2
 Mentions: N-266
 Related Nodes: N-10699, N-10737
-Supports: C-4709
+Supports: C-10094
 Tags: relevance:core
 Investigative Direction: Compare Harpole's and Turek's accounts with hospital intake notes on what resuscitation, if any, was reported.
 
 ---
 
-**C-13073** Host Theorizes CPR Story Covers for Turek Changing Into Scrubs
+**C-10334** Host Theorizes CPR Story Covers for Turek Changing Into Scrubs
 
 Claim Timestamp: 00:18:31
 
@@ -1492,13 +1492,13 @@ Transcript Snippet: I suspect that the CPR story, which cannot be true, and whic
 Anchored Artifacts: 
 Mentions: N-7, N-266
 Related Nodes: N-10688, N-10699
-Supports: C-5790
+Supports: C-10236
 Tags: relevance:core
 Investigative Direction: Establish who supplied the scrubs and when, and whether Turek's clothing was retained.
 
 ---
 
-**C-13074** Host Says Turek Entered the SUV Clean and Did Not Carry Charlie
+**C-10336** Host Says Turek Entered the SUV Clean and Did Not Carry Charlie
 
 Claim Timestamp: 00:19:32
 
@@ -1509,13 +1509,13 @@ Transcript Snippet: Clean. Fresh, white polo shirt. So, Frank did not touch Char
 Anchored Artifacts: A-2103.1
 Mentions: N-7, N-1
 Related Nodes: N-10685
-Revises: C-8026
+Revises: C-3107
 Tags: relevance:core
 Investigative Direction: Review all footage of the loading of Charlie into the SUV for who carried him and when Turek boarded.
 
 ---
 
-**C-13075** Host Says CPR Compressions Are Done by One Person
+**C-10337** Host Says CPR Compressions Are Done by One Person
 
 Claim Timestamp: 00:20:25
 
@@ -1531,7 +1531,7 @@ Investigative Direction: Cite AHA CPR guidance on rotating rescuers and compress
 
 ---
 
-**C-13076** Host Says Turek Should Not Have Had Enough Blood to Need Scrubs
+**C-10338** Host Says Turek Should Not Have Had Enough Blood to Need Scrubs
 
 Claim Timestamp: 00:20:25
 
@@ -1542,13 +1542,13 @@ Transcript Snippet: He certainly should not have had a significant amount of blo
 Anchored Artifacts: A-2103.1
 Mentions: N-7, N-266
 Related Nodes: N-10688
-Supports: C-5790
+Supports: C-10236
 Tags: relevance:core
 Investigative Direction: Ask Turek and hospital staff who supplied scrubs and why.
 
 ---
 
-**C-13077** Host Theorizes the Shirt Was Cut in the Car With Turek Pulling
+**C-10341** Host Theorizes the Shirt Was Cut in the Car With Turek Pulling
 
 Claim Timestamp: 00:23:55
 
@@ -1564,7 +1564,7 @@ Investigative Direction: Look for cut-fabric fragments or scissors in the car ph
 
 ---
 
-**C-13078** Host Theorizes Lifting the Shirt Wiped Mic Glass to the Floor
+**C-10342** Host Theorizes Lifting the Shirt Wiped Mic Glass to the Floor
 
 Claim Timestamp: 00:24:43
 
@@ -1580,7 +1580,7 @@ Investigative Direction: Test whether shard distribution on the floor is consist
 
 ---
 
-**C-13079** Host Theorizes Quick Clot Was Added to Show Care Was Given
+**C-10343** Host Theorizes Quick Clot Was Added to Show Care Was Given
 
 Claim Timestamp: 00:24:43
 
@@ -1596,7 +1596,7 @@ Investigative Direction: Compare the quantity of dressing on the body at hospita
 
 ---
 
-**C-13080** Host Theorizes No Ambulance Was Used Because the Shirt Had to Come Off
+**C-10344** Host Theorizes No Ambulance Was Used Because the Shirt Had to Come Off
 
 Claim Timestamp: 00:24:43
 
@@ -1612,7 +1612,7 @@ Investigative Direction: Establish whether an ambulance was requested or staged 
 
 ---
 
-**C-13081** Host Links Seizure of Hospital Cameras to a Shirtless Arrival
+**C-10345** Host Links Seizure of Hospital Cameras to a Shirtless Arrival
 
 Claim Timestamp: 00:25:52
 
@@ -1623,13 +1623,13 @@ Transcript Snippet: would require well, Kash Patel's FBI team to swoop in and to
 Anchored Artifacts: 
 Mentions: N-69, N-1
 Related Nodes: N-10239
-Supports: C-5197
+Supports: C-4190
 Tags: relevance:core
 Investigative Direction: Obtain the FBI evidence log for hospital camera seizures and its date and time.
 
 ---
 
-**C-13082** Host Says Explosive Residue Transfers by Casual Contact
+**C-10346** Host Says Explosive Residue Transfers by Casual Contact
 
 Claim Timestamp: 00:26:48
 
@@ -1645,7 +1645,7 @@ Investigative Direction: Ask an explosives-trace expert how readily residue tran
 
 ---
 
-**C-13083** Host Says a Bomb Dog Would Detect Residue in Seconds
+**C-10347** Host Says a Bomb Dog Would Detect Residue in Seconds
 
 Claim Timestamp: 00:27:32
 
@@ -1661,7 +1661,7 @@ Investigative Direction: Ask canine explosive-detection trainers for detection t
 
 ---
 
-**C-13084** Turek Says the Ride Took 10 to 15 Minutes With No Lights
+**C-10350** Turek Says the Ride Took 10 to 15 Minutes With No Lights
 
 Claim Timestamp: 00:28:14
 
@@ -1677,7 +1677,7 @@ Investigative Direction: Compare Turek's 10 to 15 minutes with Harpole's 60-80-1
 
 ---
 
-**C-13085** Turek Says Mikey Had Already Sent a Plane for Erika
+**C-10351** Turek Says Mikey Had Already Sent a Plane for Erika
 
 Claim Timestamp: 00:28:14
 
@@ -1693,7 +1693,7 @@ Investigative Direction: Compare with flight logs for the plane sent to Erika an
 
 ---
 
-**C-13086** Host Says Farnsworth Told Her He Removed Cameras So Erika Would Not Relive It
+**C-10352** Host Says Farnsworth Told Her He Removed Cameras So Erika Would Not Relive It
 
 Claim Timestamp: 00:29:18
 
@@ -1704,13 +1704,13 @@ Transcript Snippet: "I didn't want Erika to relive Charlie dying." I said, "Terr
 Anchored Artifacts: 
 Mentions: N-261, N-2, N-3
 Related Nodes: N-10346
-Supports: C-10304, C-4606
+Supports: C-7690, C-9991
 Tags: relevance:core
 Investigative Direction: Obtain Farnsworth's own on-record account and any message to or from Erika about the cameras.
 
 ---
 
-**C-13087** Host Says Many People With DID Wrote In Describing the Same Pattern
+**C-10353** Host Says Many People With DID Wrote In Describing the Same Pattern
 
 Claim Timestamp: 00:33:21
 
@@ -1726,7 +1726,7 @@ Investigative Direction: These are self-reported emails; seek a licensed clinici
 
 ---
 
-**C-13088** Host Says Viewers Find Erika's Presentations Fit DID
+**C-10354** Host Says Viewers Find Erika's Presentations Fit DID
 
 Claim Timestamp: 00:33:21
 
@@ -1742,7 +1742,7 @@ Investigative Direction: A DID diagnosis cannot be made at a distance; obtain li
 
 ---
 
-**C-13089** Host Says DID Research History Goes Back to Project Monarch
+**C-10356** Host Says DID Research History Goes Back to Project Monarch
 
 Claim Timestamp: 00:35:29
 
@@ -1758,7 +1758,7 @@ Investigative Direction: Compare against declassified MKUltra records and histor
 
 ---
 
-**C-13090** Host Says CIA-Created Dissociated People Have a Handler With a Key
+**C-10357** Host Says CIA-Created Dissociated People Have a Handler With a Key
 
 Claim Timestamp: 00:36:10
 
@@ -1774,7 +1774,7 @@ Investigative Direction: Cite declassified MKUltra documents or scholarship; thi
 
 ---
 
-**C-13091** Host Says Erika Shows Memory Gaps and Reversals
+**C-10358** Host Says Erika Shows Memory Gaps and Reversals
 
 Claim Timestamp: 00:36:10
 
@@ -1790,7 +1790,7 @@ Investigative Direction: List the specific reversals (such as Israel positions) 
 
 ---
 
-**C-13092** Host Says She, Kirk and Shapiro Have Done Jubilee
+**C-10359** Host Says She, Kirk and Shapiro Have Done Jubilee
 
 Claim Timestamp: 00:37:15
 
@@ -1806,7 +1806,7 @@ Investigative Direction: Check Jubilee's channel for the listed episodes.
 
 ---
 
-**C-13093** Host Says Rubin's Book Called Ukraine a NATO Member
+**C-10362** Host Says Rubin's Book Called Ukraine a NATO Member
 
 Claim Timestamp: 00:40:17
 
@@ -1822,7 +1822,7 @@ Investigative Direction: Locate the passage in the book's text and the edition; 
 
 ---
 
-**C-13094** Host Says Daily Wire Is Turning to Highmount Capital After a Failed Private Equity Deal
+**C-10365** Host Says Daily Wire Is Turning to Highmount Capital After a Failed Private Equity Deal
 
 Claim Timestamp: 00:41:49
 
@@ -1838,7 +1838,7 @@ Investigative Direction: Read the Semafor article for what it says about High Mo
 
 ---
 
-**C-13095** Host Says Daily Wire Spent Two Years Trying to Bankrupt Her Family
+**C-10366** Host Says Daily Wire Spent Two Years Trying to Bankrupt Her Family
 
 Claim Timestamp: 00:41:49
 
@@ -1854,7 +1854,7 @@ Investigative Direction: Review the lawsuits, notices and letters between the ho
 
 ---
 
-**C-13096** Host Says the Pendragon Cycle Cost $50M for Seven Episodes
+**C-10367** Host Says the Pendragon Cycle Cost $50M for Seven Episodes
 
 Claim Timestamp: 00:42:51
 
@@ -1870,7 +1870,7 @@ Investigative Direction: Check the Semafor article for the cost and the episode 
 
 ---
 
-**C-13097** Host Says Her Own Figure Was Closer to $60M, Not $10M or $7M
+**C-10368** Host Says Her Own Figure Was Closer to $60M, Not $10M or $7M
 
 Claim Timestamp: 00:42:51
 
@@ -1886,7 +1886,7 @@ Investigative Direction: Locate the earlier reports with $10 million and $7 mill
 
 ---
 
-**C-13098** Host Says Pendragon Cost More Per Episode Than Game of Thrones Season One
+**C-10370** Host Says Pendragon Cost More Per Episode Than Game of Thrones Season One
 
 Claim Timestamp: 00:43:33
 
@@ -1897,13 +1897,13 @@ Transcript Snippet: That means they spent more per an episode than HBO spent on 
 Anchored Artifacts: A-2100.1
 Mentions: 
 Related Nodes: N-10900, N-10689
-Supports: C-3923
+Supports: C-8960
 Tags: relevance:tangential
 Investigative Direction: Compare $50M over seven episodes with published budget figures for Game of Thrones season one.
 
 ---
 
-**C-13099** Host Says the Daily Wire Fired Her to Cut Costs and It Backfired
+**C-10371** Host Says the Daily Wire Fired Her to Cut Costs and It Backfired
 
 Claim Timestamp: 00:43:33
 
@@ -1919,7 +1919,7 @@ Investigative Direction: Review contracts, payroll and subscriber figures around
 
 ---
 
-**C-13100** Host Says Brett Cooper's Exit Followed Because of Boreing
+**C-10372** Host Says Brett Cooper's Exit Followed Because of Boreing
 
 Claim Timestamp: 00:43:33
 
@@ -1935,7 +1935,7 @@ Investigative Direction: Compare Cooper's own statements about her exit.
 
 ---
 
-**C-13101** Host Alleges Daily Wire Inflated Subscriber Numbers With Giveaways
+**C-10373** Host Alleges Daily Wire Inflated Subscriber Numbers With Giveaways
 
 Claim Timestamp: 00:44:27
 
@@ -1951,7 +1951,7 @@ Investigative Direction: Look for dated Daily Wire promotions and any subscriber
 
 ---
 
-**C-13102** Host Says She Previously Worked in Private Equity on Distressed Debt
+**C-10374** Host Says She Previously Worked in Private Equity on Distressed Debt
 
 Claim Timestamp: 00:45:16
 
@@ -1967,7 +1967,7 @@ Investigative Direction: Verify against the host's professional history.
 
 ---
 
-**C-13103** Host Says the Daily Wire Editor-in-Chief Insults Teenagers Over USS Liberty
+**C-10376** Host Says the Daily Wire Editor-in-Chief Insults Teenagers Over USS Liberty
 
 Claim Timestamp: 00:46:09
 
@@ -1983,7 +1983,7 @@ Investigative Direction: Identify the editor-in-chief and locate the posts she d
 
 ---
 
-**C-13104** Host Says Daily Wire Touts 48 Million in Adjusted EBITDA
+**C-10377** Host Says Daily Wire Touts 48 Million in Adjusted EBITDA
 
 Claim Timestamp: 00:46:51
 
@@ -1999,7 +1999,7 @@ Investigative Direction: Check the Semafor article for the figure and the compan
 
 ---
 
-**C-13105** Host Says Sara Tewell Changed Her Story Three Times
+**C-10379** Host Says Sara Tewell Changed Her Story Three Times
 
 Claim Timestamp: 00:51:57
 
@@ -2010,13 +2010,13 @@ Transcript Snippet: regarding the Tool witness, Sara Tewell, who changed her sto
 Anchored Artifacts: 
 Mentions: N-730
 Related Nodes: N-10677
-Supports: C-2936, C-2937, C-2938
+Supports: C-10246, C-10249, C-10251
 Tags: relevance:core
 Investigative Direction: Compare Tool's three interviews.
 
 ---
 
-**C-13106** Host Says Sara Tewell Smiled the Whole Time
+**C-10381** Host Says Sara Tewell Smiled the Whole Time
 
 Claim Timestamp: 00:52:51
 
@@ -2032,7 +2032,7 @@ Investigative Direction: Review the three interviews for demeanor; this is the h
 
 ---
 
-**C-13107** Host Suggests Defibrillator Remark Pre-Explains Autopsy Marks
+**C-10383** Host Suggests Defibrillator Remark Pre-Explains Autopsy Marks
 
 Claim Timestamp: 00:53:40
 
@@ -2048,7 +2048,7 @@ Investigative Direction: Compare the autopsy report with hospital records on whe
 
 ---
 
-**C-13108** Host Says She Was Banned From Australia After a Zionist Lobby Pushed
+**C-10384** Host Says She Was Banned From Australia After a Zionist Lobby Pushed
 
 Claim Timestamp: 00:53:40
 
@@ -2059,13 +2059,13 @@ Transcript Snippet: I got banned from Australia because the Zionist lobby of Aus
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11099
-Supports: C-9505
+Supports: C-2249
 Tags: relevance:tangential
 Investigative Direction: Review the Australian visa decision and the lobbying letters.
 
 ---
 
-**C-13109** Host Says Cousin Mia Was Not Impressed by Erika
+**C-10385** Host Says Cousin Mia Was Not Impressed by Erika
 
 Claim Timestamp: 00:54:25
 
@@ -2081,7 +2081,7 @@ Investigative Direction: Personal impression of a private individual; tangential
 
 ---
 
-**C-13110** Host Calls Erika's Shabbat Shalom Line an Accidental Rhyme
+**C-10386** Host Calls Erika's Shabbat Shalom Line an Accidental Rhyme
 
 Claim Timestamp: 00:54:25
 
@@ -2097,7 +2097,7 @@ Investigative Direction: Locate the Fox interview and the exact words.
 
 ---
 
-**C-13111** Clip Played of the Host Answering a Question About Trans Students
+**C-10387** Clip Played of the Host Answering a Question About Trans Students
 
 Claim Timestamp: 00:55:16
 
@@ -2113,7 +2113,7 @@ Investigative Direction: Identify the speaker and event of the clip.
 
 ---
 
-**C-13112** Host Relays Comment That Elizabeth Holmes Is in a Fake Prison
+**C-10388** Host Relays Comment That Elizabeth Holmes Is in a Fake Prison
 
 Claim Timestamp: 00:56:01
 
@@ -2129,7 +2129,7 @@ Investigative Direction: Fringe; Holmes is held in a federal facility per the Bu
 
 ---
 
-**C-13113** Host Relays a Report of a Police Caller Seeing Someone Try to Jump Out
+**C-10389** Host Relays a Report of a Police Caller Seeing Someone Try to Jump Out
 
 Claim Timestamp: 00:57:02
 
@@ -2145,7 +2145,7 @@ Investigative Direction: Obtain police radio and CAD logs.
 
 ---
 
-**C-13114** Host Says Harpole Mentioned a Police Tail on the Shawn Ryan Show
+**C-10390** Host Says Harpole Mentioned a Police Tail on the Shawn Ryan Show
 
 Claim Timestamp: 00:57:02
 
@@ -2161,7 +2161,7 @@ Investigative Direction: Locate the passage in the interview and note the timest
 
 ---
 
-**C-13115** Host Says Nobody Has Admitted Calling 911 and Assumes It Was Flood
+**C-10391** Host Says Nobody Has Admitted Calling 911 and Assumes It Was Flood
 
 Claim Timestamp: 00:57:02
 
@@ -2177,7 +2177,7 @@ Investigative Direction: Request the 911 and CAD records for calls from the conv
 
 ---
 
-**C-13116** Host Says Dan Flood Declined a Promotion From Erika
+**C-10392** Host Says Dan Flood Declined a Promotion From Erika
 
 Claim Timestamp: 00:57:48
 
@@ -2188,13 +2188,13 @@ Transcript Snippet: He declined Erika offering him a promotion.
 Anchored Artifacts: 
 Mentions: N-270, N-2
 Related Nodes: N-10694
-Revises: C-5494
+Revises: C-5343
 Tags: relevance:core
 Investigative Direction: Seek TPUSA personnel records or a Flood statement.
 
 ---
 
-**C-13117** Host Says Erika Spent Two Years Seen Only by a Pastor and His Wife
+**C-10393** Host Says Erika Spent Two Years Seen Only by a Pastor and His Wife
 
 Claim Timestamp: 00:59:03
 
@@ -2210,7 +2210,7 @@ Investigative Direction: Find Erika's own statement of the two years and identif
 
 ---
 
-**C-13118** Host Asks Viewers to Email the Tips Address
+**C-10394** Host Asks Viewers to Email the Tips Address
 
 Claim Timestamp: 00:59:03
 
@@ -2226,7 +2226,7 @@ Investigative Direction: Confirm the tip address and handling.
 
 ---
 
-**C-13119** Host Says Her Next Model Management Leads Are Promising
+**C-10395** Host Says Her Next Model Management Leads Are Promising
 
 Claim Timestamp: 00:59:41
 
@@ -2237,7 +2237,7 @@ Transcript Snippet: We are particularly interested in the Epstein thread that we
 Anchored Artifacts: 
 Mentions: N-2, N-9, N-3
 Related Nodes: N-10519, N-10532
-Supports: C-4393
+Supports: C-9777
 Tags: relevance:core
 Investigative Direction: Obtain Next Model staff records.
 

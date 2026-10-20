@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10e): N-888, N-889, N-890, N-11297, N-11298
   - Hole-minted Nodes (reintro-ep092): N-10751
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10e): C-11375–C-11435
+  - Claim Range: C-8205–C-8287
   - New Nodes Introduced: N-10607, N-10608, N-10609, N-10610, N-10612, N-10614, N-10615
   - Reused Nodes Appearing: N-2, N-14, N-4, N-325, N-17, N-33, N-40, N-42, N-82, N-94, N-200, N-209, N-237, N-280, N-420, N-800, N-449, N-450, N-460, N-599, N-688, N-801, N-10000, N-10006, N-10076, N-10097, N-10127, N-10201, N-10246, N-10325, N-10340, N-10346, N-10401, N-10411, N-10419, N-10541, N-10604, N-10900, N-11145, N-11165, N-11167, N-11182, N-11238, N-10611, N-341, N-342, N-10613
   - Hole-minted Nodes (wave3): N-424
@@ -149,7 +149,7 @@ Confidence: high
 
 Artifact Families Introduced: A-1965, A-1966, A-1967, A-1968, A-1969, A-1970, A-1971, A-1972, A-1973, A-1974, A-1975, A-1976, A-1977, A-1978, A-1979, A-1980
 
-Claim Range: C-2722–C-2743
+Claim Range: C-8205–C-8237
 
 New Nodes Introduced: N-10607, N-10608, N-10609, N-10610, N-10611, N-10612, N-10613, N-10614, N-10615
 
@@ -177,7 +177,7 @@ Video Timestamp: 00:02:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2722, C-2723, N-2, N-4, N-14, N-10607*
+*Related: C-8205, C-8206, N-2, N-4, N-14, N-10607*
 
 ---
 
@@ -191,7 +191,7 @@ Video Timestamp: 00:03:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2722, C-2724, C-2743, N-2, N-4, N-14, N-10607, N-10612*
+*Related: C-8205, C-8208, C-8237, N-2, N-4, N-14, N-10607, N-10612*
 
 **A-1966.2** JD Vance on-stage response defending Erika Kirk against criticism of her grief.
 
@@ -201,7 +201,7 @@ Video Timestamp: 00:24:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2743, N-2, N-4*
+*Related: C-8237, N-2, N-4*
 
 ---
 
@@ -215,7 +215,7 @@ Video Timestamp: 00:07:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2725, C-2729, C-2742, N-2, N-14, N-10607*
+*Related: C-8213, C-8210, C-8247, N-2, N-14, N-10607*
 
 ---
 
@@ -229,7 +229,7 @@ Video Timestamp: 00:31:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2726, C-2742, N-2, N-14, N-10607, N-10612*
+*Related: C-8246, C-8247, N-2, N-14, N-10607, N-10612*
 
 ---
 
@@ -243,7 +243,7 @@ Video Timestamp: 00:08:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2727, C-2742, N-2, N-14, N-10607*
+*Related: C-8215, C-8247, N-2, N-14, N-10607*
 
 ---
 
@@ -257,7 +257,7 @@ Video Timestamp: 00:16:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2728, C-2742, N-2, N-10607*
+*Related: C-8225, C-8247, N-2, N-10607*
 
 ---
 
@@ -271,7 +271,7 @@ Video Timestamp: 00:05:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2729, C-2740, N-2, N-10611*
+*Related: C-8210, C-8211, N-2, N-10611*
 
 ---
 
@@ -285,7 +285,7 @@ Video Timestamp: 00:19:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2730, C-2731, C-2732, N-2, N-14, N-10612*
+*Related: C-8231, C-8234, C-8232, N-2, N-14, N-10612*
 
 ---
 
@@ -299,7 +299,7 @@ Video Timestamp: 00:21:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2731, N-2, N-10610*
+*Related: C-8234, N-2, N-10610*
 
 ---
 
@@ -313,7 +313,7 @@ Video Timestamp: 00:14:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2733, N-2, N-4, N-10608*
+*Related: C-8221, N-2, N-4, N-10608*
 
 ---
 
@@ -327,7 +327,7 @@ Video Timestamp: 00:39:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2734, C-2735, N-325, N-341, N-10613*
+*Related: C-8256, C-8258, N-325, N-341, N-10613*
 
 ---
 
@@ -341,7 +341,7 @@ Video Timestamp: 00:40:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2735, C-2736, N-325, N-341, N-10613, N-342*
+*Related: C-8258, C-8260, N-325, N-341, N-10613, N-342*
 
 ---
 
@@ -355,7 +355,7 @@ Video Timestamp: 00:41:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2736, N-325, N-341, N-10613, N-342*
+*Related: C-8260, N-325, N-341, N-10613, N-342*
 
 ---
 
@@ -369,7 +369,7 @@ Video Timestamp: 00:43:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2737, C-2738, N-10609*
+*Related: C-8263, C-8264, N-10609*
 
 ---
 
@@ -383,7 +383,7 @@ Video Timestamp: 00:46:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host reads categories aloud; full page not verified on-screen)
 
-*Related: C-2739, N-10609, N-10614*
+*Related: C-8267, N-10609, N-10614*
 
 ---
 
@@ -397,7 +397,7 @@ Video Timestamp: 00:42:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (anonymous sources, no displayed documentation)
 
-*Related: C-2741, N-14, N-10609*
+*Related: C-8261, N-14, N-10609*
 
 ---
 
@@ -412,7 +412,7 @@ Video Timestamp: 00:38:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11408, N-3*
+*Related: C-8253, N-3*
 
 ---
 
@@ -427,7 +427,7 @@ Video Timestamp: 00:42:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11413, N-3*
+*Related: C-8262, N-3*
 
 ---
 
@@ -440,7 +440,7 @@ Video Timestamp: 00:46:09
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11416, C-11417, C-11418, C-11419, C-11420, C-11421, C-11422, C-11423, C-11424, C-11425, C-11426, C-11427, C-11428, N-3*
+*Related: C-8268, C-8269, C-8270, C-8271, C-8272, C-8273, C-8274, C-8275, C-8276, C-8277, C-8278, C-8279, C-8280, N-3*
 
 ---
 
@@ -453,7 +453,7 @@ Video Timestamp: 00:53:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11429, N-3*
+*Related: C-8281, N-3*
 
 ---
 
@@ -463,7 +463,7 @@ Confidence Level: Low
 
 First named by the host at 00:42:41 in episode 92.
 
-*Related: C-2737, C-2738, C-2739, C-2741, A-1978.1, A-1979.1, A-1980.1*
+*Related: C-8263, C-8264, C-8267, C-8261, A-1978.1, A-1979.1, A-1980.1*
 
 **N-1** Charlie Kirk
 
@@ -487,7 +487,7 @@ Claim Count: 0
 Episode Count: (pre-existing)
 Investigative Pressure: Low
 
-*Related: A-1965.1, A-1966.1, A-1966.2, A-1974.1, C-2722, C-2743*
+*Related: A-1965.1, A-1966.1, A-1966.2, A-1974.1, C-8205, C-8237*
 
 ---
 
@@ -500,7 +500,7 @@ Claim Count: 0
 Episode Count: (pre-existing)
 Investigative Pressure: High
 
-*Related: A-1966.1, A-1967.1, A-1968.1, A-1980.1, C-2724, C-2725, C-2726, C-2742, N-10607, N-10612*
+*Related: A-1966.1, A-1967.1, A-1968.1, A-1980.1, C-8208, C-8213, C-8246, C-8247, N-10607, N-10612*
 
 ---
 
@@ -526,7 +526,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1975.1, A-1976.1, A-1977.1, C-2734, C-2735, C-2736, N-342, N-10613*
+*Related: A-1975.1, A-1976.1, A-1977.1, C-8256, C-8258, C-8260, N-342, N-10613*
 
 ---
 
@@ -539,7 +539,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1976.1, A-1977.1, C-2735, N-341, N-10613*
+*Related: A-1976.1, A-1977.1, C-8258, N-341, N-10613*
 
 ---
 
@@ -552,7 +552,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1965.1, A-1966.1, A-1967.1, A-1968.1, A-1969.1, A-1970.1, C-2724, C-2725, C-2726, C-2727, C-2728, C-2742, N-2, N-14*
+*Related: A-1965.1, A-1966.1, A-1967.1, A-1968.1, A-1969.1, A-1970.1, C-8208, C-8213, C-8246, C-8215, C-8225, C-8247, N-2, N-14*
 
 ---
 
@@ -565,7 +565,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1974.1, C-2733, N-2, N-4*
+*Related: A-1974.1, C-8221, N-2, N-4*
 
 ---
 
@@ -578,7 +578,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1978.1, A-1979.1, A-1980.1, C-2737, C-2739, C-2741*
+*Related: A-1978.1, A-1979.1, A-1980.1, C-8263, C-8267, C-8261*
 
 ---
 
@@ -591,7 +591,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1973.1, C-2731, N-2*
+*Related: A-1973.1, C-8234, N-2*
 
 ---
 
@@ -604,7 +604,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1971.1, A-1970.1, C-2728, C-2729, C-2740, N-2*
+*Related: A-1971.1, A-1970.1, C-8225, C-8210, C-8211, N-2*
 
 ---
 
@@ -617,7 +617,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1966.1, A-1968.1, A-1972.1, C-2724, C-2730, C-2732, N-2, N-14*
+*Related: A-1966.1, A-1968.1, A-1972.1, C-8208, C-8231, C-8232, N-2, N-14*
 
 ---
 
@@ -630,7 +630,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1975.1, A-1976.1, A-1977.1, C-2734, C-2735, C-2736, N-325, N-341*
+*Related: A-1975.1, A-1976.1, A-1977.1, C-8256, C-8258, C-8260, N-325, N-341*
 
 ---
 
@@ -643,7 +643,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1978.1, A-1979.1, A-1980.1, C-2737, C-2739, C-2741, N-325*
+*Related: A-1978.1, A-1979.1, A-1980.1, C-8263, C-8267, C-8261, N-325*
 
 ---
 
@@ -656,7 +656,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1967.1, C-2725, N-14*
+*Related: A-1967.1, C-8213, N-14*
 
 ---
 
@@ -664,7 +664,7 @@ Investigative Pressure: Low
 
 Widow and TPUSA CEO; subject of the no-show explanations, attendance claims and the host's allegations.
 
-*Related: C-11375, C-11376, C-11377, C-11378, C-11379, C-11380, C-11381, C-11382, C-11383, C-11385, C-11386, C-11388, C-11389, C-11391, C-11392, C-11393, C-11399, C-11400, C-11402, C-11403, C-11404, C-11417, C-11418, C-11423, C-11431, C-11433, C-11434, C-11435*
+*Related: C-8207, C-8209, C-8212, C-8214, C-8216, C-8217, C-8218, C-8219, C-8220, C-8223, C-8224, C-8227, C-8228, C-8230, C-8233, C-8235, C-8242, C-8243, C-8245, C-8248, C-8249, C-8269, C-8270, C-8275, C-8284, C-8285, C-8286, C-8287*
 
 ---
 
@@ -672,7 +672,7 @@ Widow and TPUSA CEO; subject of the no-show explanations, attendance claims and 
 
 Host; speaks for herself throughout.
 
-*Related: C-11375, C-11379, C-11383, C-11384, C-11385, C-11386, C-11387, C-11388, C-11390, C-11392, C-11393, C-11399, C-11401, C-11402, C-11405, C-11406, C-11407, C-11408, C-11409, C-11410, C-11411, C-11412, C-11413, C-11414, C-11415, C-11416, C-11417, C-11418, C-11419, C-11420, C-11421, C-11422, C-11423, C-11424, C-11425, C-11426, C-11427, C-11428, C-11429, C-11430, C-11431, C-11432, C-11433, C-11434, C-11435*
+*Related: C-8207, C-8216, C-8220, C-8222, C-8223, C-8224, C-8226, C-8227, C-8229, C-8233, C-8235, C-8242, C-8244, C-8245, C-8250, C-8251, C-8252, C-8253, C-8254, C-8255, C-8257, C-8259, C-8262, C-8265, C-8266, C-8268, C-8269, C-8270, C-8271, C-8272, C-8273, C-8274, C-8275, C-8276, C-8277, C-8278, C-8279, C-8280, C-8281, C-8282, C-8284, C-8283, C-8285, C-8286, C-8287*
 
 ---
 
@@ -680,7 +680,7 @@ Host; speaks for herself throughout.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11377, C-11395, C-11398*
+*Related: C-8212, C-8238, C-8241*
 
 ---
 
@@ -688,7 +688,7 @@ Existing node reused for new claims in this episode.
 
 First named by the host at 00:07:17 in episode 92 (via the Kolvet clip). TPUSA front-lines reporter in the Minneapolis incident cited by Kolvet and Vance.
 
-*Related: C-11378, C-11394*
+*Related: C-8214, C-8236*
 
 ---
 
@@ -696,7 +696,7 @@ First named by the host at 00:07:17 in episode 92 (via the Kolvet clip). TPUSA f
 
 Outlet carrying TPUSA's threat explanation.
 
-*Related: C-11379*
+*Related: C-8216*
 
 ---
 
@@ -704,7 +704,7 @@ Outlet carrying TPUSA's threat explanation.
 
 Organization at the center of the event and attendance claims.
 
-*Related: C-11382, C-11386, C-11387, C-11393, C-11399, C-11402, C-11413, C-11427*
+*Related: C-8219, C-8224, C-8226, C-8235, C-8242, C-8245, C-8262, C-8279*
 
 ---
 
@@ -712,7 +712,7 @@ Organization at the center of the event and attendance claims.
 
 Network whose Kolvet segment used the B-roll.
 
-*Related: C-11384*
+*Related: C-8222*
 
 ---
 
@@ -720,7 +720,7 @@ Network whose Kolvet segment used the B-roll.
 
 Co-appeared with Erika Kirk at a Washington DC event per the host.
 
-*Related: C-11385*
+*Related: C-8223*
 
 ---
 
@@ -728,7 +728,7 @@ Co-appeared with Erika Kirk at a Washington DC event per the host.
 
 Engaged to Bettina Anderson, per the host.
 
-*Related: C-11389*
+*Related: C-8228*
 
 ---
 
@@ -736,7 +736,7 @@ Engaged to Bettina Anderson, per the host.
 
 First named by the host at 00:16:56 in episode 92 (spelled Betina). Fiancee of Donald Trump Jr. whose bridal shower the host says Erika Kirk attended.
 
-*Related: C-11389*
+*Related: C-8228*
 
 ---
 
@@ -744,7 +744,7 @@ First named by the host at 00:16:56 in episode 92 (spelled Betina). Fiancee of D
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11395*
+*Related: C-8238*
 
 ---
 
@@ -752,7 +752,7 @@ Existing node reused for new claims in this episode.
 
 Cited by the host for his remarks on Jesus, the Pope, Brigitte Macron and the Easter speech.
 
-*Related: C-11396, C-11397, C-11400*
+*Related: C-8239, C-8240, C-8243*
 
 ---
 
@@ -760,7 +760,7 @@ Cited by the host for his remarks on Jesus, the Pope, Brigitte Macron and the Ea
 
 Pope whom the host says Trump attacked.
 
-*Related: C-11397*
+*Related: C-8240*
 
 ---
 
@@ -768,7 +768,7 @@ Pope whom the host says Trump attacked.
 
 Named in the host's list of Trump remarks.
 
-*Related: C-11397*
+*Related: C-8240*
 
 ---
 
@@ -776,7 +776,7 @@ Named in the host's list of Trump remarks.
 
 Treasury Secretary the host says issued a letter on demand.
 
-*Related: C-11399*
+*Related: C-8242*
 
 ---
 
@@ -784,7 +784,7 @@ Treasury Secretary the host says issued a letter on demand.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11401*
+*Related: C-8244*
 
 ---
 
@@ -792,7 +792,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11401*
+*Related: C-8244*
 
 ---
 
@@ -801,7 +801,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 The host's claim that middle and high school students are made to attend Erika Kirk and TPUSA events as mandatory assemblies, which fills auditoriums.
 
-*Related: C-11402*
+*Related: C-8245*
 
 ---
 
@@ -809,7 +809,7 @@ The host's claim that middle and high school students are made to attend Erika K
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11405*
+*Related: C-8250*
 
 ---
 
@@ -817,7 +817,7 @@ Existing node reused for new claims in this episode.
 
 Existing topic reused for new claims.
 
-*Related: C-11406, C-11407, C-11408, C-11409, C-11410, C-11411, C-11412, C-11426*
+*Related: C-8251, C-8252, C-8253, C-8254, C-8255, C-8257, C-8259, C-8278*
 
 ---
 
@@ -825,7 +825,7 @@ Existing topic reused for new claims.
 
 First named by the host at 00:40:01 in episode 92 (David Harris). Business partner in the Marx supplements, per the host.
 
-*Related: C-11411, C-11412*
+*Related: C-8257, C-8259*
 
 ---
 
@@ -833,7 +833,7 @@ First named by the host at 00:40:01 in episode 92 (David Harris). Business partn
 
 Co-owner of the 888 plane per the host and runs a charity she lists.
 
-*Related: C-11416*
+*Related: C-8268*
 
 ---
 
@@ -841,7 +841,7 @@ Co-owner of the 888 plane per the host and runs a charity she lists.
 
 Transcribed Shelaine; co-owner of the 888 plane and charity per the host.
 
-*Related: C-11416*
+*Related: C-8268*
 
 ---
 
@@ -849,7 +849,7 @@ Transcribed Shelaine; co-owner of the 888 plane and charity per the host.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11416, C-11417, C-11418*
+*Related: C-8268, C-8269, C-8270*
 
 ---
 
@@ -857,7 +857,7 @@ Existing node reused for new claims in this episode.
 
 Colonel the host links to Fort Huachuca and Romanian Angels.
 
-*Related: C-11417*
+*Related: C-8269*
 
 ---
 
@@ -865,7 +865,7 @@ Colonel the host links to Fort Huachuca and Romanian Angels.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11417*
+*Related: C-8269*
 
 ---
 
@@ -873,7 +873,7 @@ Existing node reused for new claims in this episode.
 
 Harvest pastor who toured with Erika Kirk per the host.
 
-*Related: C-11418*
+*Related: C-8270*
 
 ---
 
@@ -881,7 +881,7 @@ Harvest pastor who toured with Erika Kirk per the host.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11418*
+*Related: C-8270*
 
 ---
 
@@ -889,7 +889,7 @@ Existing node reused for new claims in this episode.
 
 Man the host calls the decoy boy; she says he was arrested with child images.
 
-*Related: C-11419*
+*Related: C-8271*
 
 ---
 
@@ -897,7 +897,7 @@ Man the host calls the decoy boy; she says he was arrested with child images.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11419*
+*Related: C-8271*
 
 ---
 
@@ -905,7 +905,7 @@ Existing node reused for new claims in this episode.
 
 Transcribed Andrew Pascadlo; detained photographer who raises trafficking alarms.
 
-*Related: C-11420*
+*Related: C-8272*
 
 ---
 
@@ -913,7 +913,7 @@ Transcribed Andrew Pascadlo; detained photographer who raises trafficking alarms
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11420*
+*Related: C-8272*
 
 ---
 
@@ -921,7 +921,7 @@ Existing node reused for new claims in this episode.
 
 Pastor named in the host's Calvary Chapel list.
 
-*Related: C-11421*
+*Related: C-8273*
 
 ---
 
@@ -929,7 +929,7 @@ Pastor named in the host's Calvary Chapel list.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11421*
+*Related: C-8273*
 
 ---
 
@@ -937,7 +937,7 @@ Existing node reused for new claims in this episode.
 
 Named with Tim Ballard in the spreadsheet.
 
-*Related: C-11422*
+*Related: C-8274*
 
 ---
 
@@ -945,7 +945,7 @@ Named with Tim Ballard in the spreadsheet.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11422*
+*Related: C-8274*
 
 ---
 
@@ -953,7 +953,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11423*
+*Related: C-8275*
 
 ---
 
@@ -961,7 +961,7 @@ Existing node reused for new claims in this episode.
 
 TPUSA adviser transcribed Paul Vallely; co-author with Aquino.
 
-*Related: C-11424*
+*Related: C-8276*
 
 ---
 
@@ -969,7 +969,7 @@ TPUSA adviser transcribed Paul Vallely; co-author with Aquino.
 
 Transcribed Michael Aquino; co-author and Temple of Set founder.
 
-*Related: C-11424, C-11425*
+*Related: C-8276, C-8277*
 
 ---
 
@@ -977,7 +977,7 @@ Transcribed Michael Aquino; co-author and Temple of Set founder.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11424, C-11425*
+*Related: C-8276, C-8277*
 
 ---
 
@@ -985,7 +985,7 @@ Existing node reused for new claims in this episode.
 
 Top TPUSA donor transcribed Nelda Buckman.
 
-*Related: C-11427*
+*Related: C-8279*
 
 ---
 
@@ -993,7 +993,7 @@ Top TPUSA donor transcribed Nelda Buckman.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11429*
+*Related: C-8281*
 
 ---
 
@@ -1001,7 +1001,7 @@ Existing node reused for new claims in this episode.
 
 Charged suspect; the host doubts he acted alone.
 
-*Related: C-11430*
+*Related: C-8282*
 
 ---
 
@@ -1009,7 +1009,7 @@ Charged suspect; the host doubts he acted alone.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11431, C-11432*
+*Related: C-8284, C-8283*
 
 ---
 
@@ -1017,7 +1017,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11431*
+*Related: C-8284*
 
 ---
 
@@ -1026,7 +1026,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 The host's allegation that Erika Kirk personally phoned people to discourage attendance at a Catholic event where the host spoke.
 
-*Related: C-11433*
+*Related: C-8285*
 
 ---
 
@@ -1034,7 +1034,7 @@ The host's allegation that Erika Kirk personally phoned people to discourage att
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11434*
+*Related: C-8286*
 
 ---
 
@@ -1042,13 +1042,13 @@ Existing node reused for new claims in this episode.
 
 Former official whose foreign-involvement inquiry the host says angered Erika Kirk.
 
-*Related: C-11435*
+*Related: C-8287*
 
 ---
 
 # V. Claim Register
 
-**C-2722** Host Says Erika Kirk Was Scheduled to Appear at UGA with VP JD Vance
+**C-8205** Host Says Erika Kirk Was Scheduled to Appear at UGA with VP JD Vance
 
 Claim Timestamp: 00:01:30
 
@@ -1062,7 +1062,7 @@ Investigative Direction: Confirm via TPUSA event listing, UGA/Akins Ford Arena b
 
 ---
 
-**C-2723** UGA TPUSA Staff Uninformed of Erika's Absence
+**C-8206** UGA TPUSA Staff Uninformed of Erika's Absence
 
 Claim Timestamp: 00:02:28
 
@@ -1077,7 +1077,7 @@ Investigative Direction: Cross-reference social-media post timestamps against TP
 
 ---
 
-**C-2724** Andrew Kolvet Cited Security Threats as Reason for Erika's UGA No-Show
+**C-8208** Andrew Kolvet Cited Security Threats as Reason for Erika's UGA No-Show
 
 Claim Timestamp: 00:03:32
 
@@ -1085,7 +1085,7 @@ Claim: In a clip the host plays, Andrew Kolvet announces on stage at the UGA eve
 
 Anchored Artifacts: A-1966.1
 Mentions: N-2, N-14
-Contradicts: C-2744
+Contradicts: C-8289
 
 Related Nodes: N-10607, N-10612
 
@@ -1093,7 +1093,7 @@ Investigative Direction: Obtain audio/video of the announcement; verify whether 
 
 ---
 
-**C-2725** TPUSA Security Team Declined to Guarantee Erika's Safety
+**C-8213** TPUSA Security Team Declined to Guarantee Erika's Safety
 
 Claim Timestamp: 00:07:17
 
@@ -1108,7 +1108,7 @@ Investigative Direction: Obtain the full Fox News segment; identify which TPUSA 
 
 ---
 
-**C-2726** Kolvet Retroactively Reclassified High School Cancellation as Security-Driven
+**C-8246** Kolvet Retroactively Reclassified High School Cancellation as Security-Driven
 
 Claim Timestamp: 00:31:13
 
@@ -1123,7 +1123,7 @@ Investigative Direction: Compare against the originally issued parent-alert noti
 
 ---
 
-**C-2727** Daily Wire Reported Travel Doxing and Direct Threats
+**C-8215** Daily Wire Reported Travel Doxing and Direct Threats
 
 Claim Timestamp: 00:08:41
 
@@ -1138,7 +1138,7 @@ Investigative Direction: Identify the named TPUSA official cited by Daily Wire; 
 
 ---
 
-**C-2728** Erika Kirk Stated Cancellation Followed Security Team Recommendation
+**C-8225** Erika Kirk Stated Cancellation Followed Security Team Recommendation
 
 Claim Timestamp: 00:16:03
 
@@ -1146,7 +1146,7 @@ Claim: Erika Kirk posted on X that she cancelled because she "takes [her] securi
 
 Anchored Artifacts: A-1970.1
 Mentions: N-2
-Contradicts: C-2744
+Contradicts: C-8289
 
 Related Nodes: N-10607, N-10611
 
@@ -1154,7 +1154,7 @@ Investigative Direction: Obtain timestamp of post relative to the on-stage annou
 
 ---
 
-**C-2729** Erika Kirk Stated She Feels Safe and Fears Nothing in Jesse Watters Interview
+**C-8210** Erika Kirk Stated She Feels Safe and Fears Nothing in Jesse Watters Interview
 
 Claim Timestamp: 00:05:40
 
@@ -1169,7 +1169,7 @@ Investigative Direction: Confirm full interview date and air date; verify whethe
 
 ---
 
-**C-2730** Per Text Host Shows, Georgia High School Event Cancelled Monday Citing "Scheduling Complications"
+**C-8231** Per Text Host Shows, Georgia High School Event Cancelled Monday Citing "Scheduling Complications"
 
 Claim Timestamp: 00:19:16
 
@@ -1184,7 +1184,7 @@ Investigative Direction: Obtain the original email/text from TPUSA to the school
 
 ---
 
-**C-2731** Per Facebook Chat Host Shows, Parents and Teachers Organizing Boycott of Erika Kirk at Pinnacle High School
+**C-8234** Per Facebook Chat Host Shows, Parents and Teachers Organizing Boycott of Erika Kirk at Pinnacle High School
 
 Claim Timestamp: 00:21:10
 
@@ -1199,7 +1199,7 @@ Investigative Direction: Confirm event status with Pinnacle High School administ
 
 ---
 
-**C-2732** Georgia High School Cancellation Text References "September 14th"
+**C-8232** Georgia High School Cancellation Text References "September 14th"
 
 Claim Timestamp: 00:19:16
 
@@ -1214,7 +1214,7 @@ Investigative Direction: Obtain original email to determine whether "September" 
 
 ---
 
-**C-2733** Akins Ford Arena Less Than 25% Filled for VP Event
+**C-8221** Akins Ford Arena Less Than 25% Filled for VP Event
 
 Claim Timestamp: 00:13:42
 
@@ -1229,7 +1229,7 @@ Investigative Direction: Cross-reference with venue ticket-issuing records and T
 
 ---
 
-**C-2734** Victor Marx Posted Video Response on Instagram/X
+**C-8256** Victor Marx Posted Video Response on Instagram/X
 
 Claim Timestamp: 00:39:35
 
@@ -1244,7 +1244,7 @@ Investigative Direction: Verify post URL, timestamp, and whether the post has si
 
 ---
 
-**C-2735** Candace Owens Invited Victor Marx to Appear with Corby Hall
+**C-8258** Candace Owens Invited Victor Marx to Appear with Corby Hall
 
 Claim Timestamp: 00:40:47
 
@@ -1259,7 +1259,7 @@ Investigative Direction: Capture timestamped screenshots of the comment thread b
 
 ---
 
-**C-2736** Candace Owens DM'd Victor Marx Privately Requesting a Phone Number
+**C-8260** Candace Owens DM'd Victor Marx Privately Requesting a Phone Number
 
 Claim Timestamp: 00:41:36
 
@@ -1274,7 +1274,7 @@ Investigative Direction: Verify DM timestamp; await Marx's response or non-respo
 
 ---
 
-**C-2737** Host Reads TPUSA Bio Identifying Marcus Wada as Director of Strategy of Productions
+**C-8263** Host Reads TPUSA Bio Identifying Marcus Wada as Director of Strategy of Productions
 
 Claim Timestamp: 00:43:46
 
@@ -1289,7 +1289,7 @@ Investigative Direction: Obtain archived copies of the TPUSA bio page; verify ag
 
 ---
 
-**C-2738** Host Reads Marcus Wada TPUSA Bio Listing Miss Universe and TPUSA Documentaries
+**C-8264** Host Reads Marcus Wada TPUSA Bio Listing Miss Universe and TPUSA Documentaries
 
 Claim Timestamp: 00:43:46
 
@@ -1304,7 +1304,7 @@ Investigative Direction: Cross-reference against IMDb / production credits; veri
 
 ---
 
-**C-2739** Host Says Marcus Wada's Brother's Consulting Firm Lists Trafficking Among Industry Areas
+**C-8267** Host Says Marcus Wada's Brother's Consulting Firm Lists Trafficking Among Industry Areas
 
 Claim Timestamp: 00:46:09
 
@@ -1319,7 +1319,7 @@ Investigative Direction: Obtain full webpage capture; identify the firm and conf
 
 ---
 
-**C-2740** Erika Kirk's Public Stance Reversed from Fearlessness to Security-Based Cancellation
+**C-8211** Erika Kirk's Public Stance Reversed from Fearlessness to Security-Based Cancellation
 
 Claim Timestamp: 00:06:30
 
@@ -1334,7 +1334,7 @@ Investigative Direction: Compile chronology of Kirk's public statements on perso
 
 ---
 
-**C-2741** Host Says Marcus Wada Reportedly Discusses Past Arms Trafficking in Poland
+**C-8261** Host Says Marcus Wada Reportedly Discusses Past Arms Trafficking in Poland
 
 Claim Timestamp: 00:42:41
 
@@ -1349,7 +1349,7 @@ Investigative Direction: Identify at least one named corroborating source; cross
 
 ---
 
-**C-2742** TPUSA Public Explanation Sequence Internally Inconsistent
+**C-8247** TPUSA Public Explanation Sequence Internally Inconsistent
 
 Claim Timestamp: 00:31:13
 
@@ -1364,7 +1364,7 @@ Investigative Direction: Construct a chronological explanation map; identify the
 
 ---
 
-**C-2743** JD Vance Defended Erika Kirk Against Criticism at UGA Event
+**C-8237** JD Vance Defended Erika Kirk Against Criticism at UGA Event
 
 Claim Timestamp: 00:24:32
 
@@ -1378,7 +1378,7 @@ Investigative Direction: Obtain full transcript of Vance's remarks; verify wheth
 
 ---
 
-**C-11375** Host Says Erika Was at Home, Not in Georgia, When the Event Was Promoted
+**C-8207** Host Says Erika Was at Home, Not in Georgia, When the Event Was Promoted
 
 Claim Timestamp: 00:02:28
 
@@ -1389,13 +1389,13 @@ Transcript Snippet: She was back home, which means that decision had to have alr
 Anchored Artifacts: A-1965.1
 Mentions: N-2, N-3
 Related Nodes: N-10607
-Supports: C-2723
+Supports: C-8206
 Tags: relevance:core
 Investigative Direction: Obtain Erika Kirk's April 14, 2026 travel records or private-aviation flight data and the time the decision was communicated to TPUSA event staff.
 
 ---
 
-**C-11376** Kolvet Blamed Critics Who Make Part-Time Jobs of Attacking Erika
+**C-8209** Kolvet Blamed Critics Who Make Part-Time Jobs of Attacking Erika
 
 Claim Timestamp: 00:03:32
 
@@ -1411,7 +1411,7 @@ Investigative Direction: Obtain the full video of the UGA stage remarks and chec
 
 ---
 
-**C-11377** Host Says Vance Had Just Returned From Iran Negotiations
+**C-8212** Host Says Vance Had Just Returned From Iran Negotiations
 
 Claim Timestamp: 00:06:30
 
@@ -1427,7 +1427,7 @@ Investigative Direction: Check the Vice President's April 2026 public schedule a
 
 ---
 
-**C-11378** Kolvet Cites Savanah Hernandez Minneapolis Incident and Says Cancellation Was a First for TPUSA
+**C-8214** Kolvet Cites Savanah Hernandez Minneapolis Incident and Says Cancellation Was a First for TPUSA
 
 Claim Timestamp: 00:07:17
 
@@ -1443,7 +1443,7 @@ Investigative Direction: Obtain the Fox News segment and reporting on the Savana
 
 ---
 
-**C-11379** Host Says Daily Wire Always Has the Inside Scoop on Erika Since the Assassination
+**C-8216** Host Says Daily Wire Always Has the Inside Scoop on Erika Since the Assassination
 
 Claim Timestamp: 00:08:41
 
@@ -1454,13 +1454,13 @@ Transcript Snippet: since Charlie's passing, the Daily Wire, you will note, alwa
 Anchored Artifacts: A-1969.1
 Mentions: N-1, N-2, N-3
 Related Nodes: N-10900, N-10607
-Supports: C-2727
+Supports: C-8215
 Tags: relevance:context
 Investigative Direction: Compile Daily Wire reports sourced to TPUSA officials since September 2025 and identify the officials cited.
 
 ---
 
-**C-11380** Host Says Erika's Plane Had Been Tracked From the Start Without Any Cancellation
+**C-8217** Host Says Erika's Plane Had Been Tracked From the Start Without Any Cancellation
 
 Claim Timestamp: 00:10:16
 
@@ -1476,7 +1476,7 @@ Investigative Direction: Collect earlier plane-tracking coverage of Erika Kirk's
 
 ---
 
-**C-11381** Host Says the Arena Holds 7,000 People
+**C-8218** Host Says the Arena Holds 7,000 People
 
 Claim Timestamp: 00:12:38
 
@@ -1492,7 +1492,7 @@ Investigative Direction: Check the venue's published capacity and UGA enrollment
 
 ---
 
-**C-11382** Host Says Free Tickets Were Opened to the General Public
+**C-8219** Host Says Free Tickets Were Opened to the General Public
 
 Claim Timestamp: 00:12:38
 
@@ -1508,7 +1508,7 @@ Investigative Direction: Obtain the event registration page, ticket terms and re
 
 ---
 
-**C-11383** Host Says Ticket Numbers for the UGA Event Were Abysmal
+**C-8220** Host Says Ticket Numbers for the UGA Event Were Abysmal
 
 Claim Timestamp: 00:12:38
 
@@ -1519,13 +1519,13 @@ Transcript Snippet: Reality, nobody wanted to attend. The ticket numbers were ab
 Anchored Artifacts: A-1974.1
 Mentions: N-2, N-3
 Related Nodes: N-10608
-Supports: C-2733
+Supports: C-8221
 Tags: relevance:core
 Investigative Direction: Obtain the event's ticket registration totals and any internal TPUSA attendance projections.
 
 ---
 
-**C-11384** Host Says Fox Segment Used B-Roll Spliced From Three Other Events
+**C-8222** Host Says Fox Segment Used B-Roll Spliced From Three Other Events
 
 Claim Timestamp: 00:14:13
 
@@ -1541,7 +1541,7 @@ Investigative Direction: Identify the source events of the three spliced B-roll 
 
 ---
 
-**C-11385** Host Says TPUSA Struggled to Move Tickets for Erika's Washington DC Event With Leavitt
+**C-8223** Host Says TPUSA Struggled to Move Tickets for Erika's Washington DC Event With Leavitt
 
 Claim Timestamp: 00:15:12
 
@@ -1557,7 +1557,7 @@ Investigative Direction: Locate the DC event's registration and attendance data 
 
 ---
 
-**C-11386** Host Says UGA Was the Worst Turnout in Turning Point History
+**C-8224** Host Says UGA Was the Worst Turnout in Turning Point History
 
 Claim Timestamp: 00:15:12
 
@@ -1568,13 +1568,13 @@ Transcript Snippet: And yesterday, it looks like was the worst audience turnout 
 Anchored Artifacts: A-1974.1
 Mentions: N-3
 Related Nodes: N-10608, N-10000
-Supports: C-2733
+Supports: C-8221
 Tags: relevance:core
 Investigative Direction: Compare the UGA attendance estimate against TPUSA's other event turnout figures.
 
 ---
 
-**C-11387** Host Says TPUSA Moved the Believers Summit for Lack of Free Tickets Taken
+**C-8226** Host Says TPUSA Moved the Believers Summit for Lack of Free Tickets Taken
 
 Claim Timestamp: 00:16:03
 
@@ -1590,7 +1590,7 @@ Investigative Direction: Check TPUSA's Believers Summit announcements and date c
 
 ---
 
-**C-11388** Host Says Erika Knew Long Before and Posted Only After the Event Began
+**C-8227** Host Says Erika Knew Long Before and Posted Only After the Event Began
 
 Claim Timestamp: 00:16:03
 
@@ -1601,13 +1601,13 @@ Transcript Snippet: Erika knew that she was not coming long before Andrew Kolvet
 Anchored Artifacts: A-1970.1
 Mentions: N-2, N-14, N-3
 Related Nodes: N-10607
-Supports: C-2723
+Supports: C-8206
 Tags: relevance:core
 Investigative Direction: Compare the timestamp of Erika Kirk's X post with the start of the event and the stage announcement.
 
 ---
 
-**C-11389** Host Says Erika Was at Bettina Anderson's Mar-a-Lago Bridal Shower That Weekend
+**C-8228** Host Says Erika Was at Bettina Anderson's Mar-a-Lago Bridal Shower That Weekend
 
 Claim Timestamp: 00:16:56
 
@@ -1623,7 +1623,7 @@ Investigative Direction: Check reporting and guest accounts of the bridal shower
 
 ---
 
-**C-11390** Host Recounts Past Threat Handling With Charlie Kirk in Nashville
+**C-8229** Host Recounts Past Threat Handling With Charlie Kirk in Nashville
 
 Claim Timestamp: 00:16:56
 
@@ -1639,7 +1639,7 @@ Investigative Direction: Identify the Nashville event date and any police record
 
 ---
 
-**C-11391** Host Says Erika Told the High School on Monday at Noon, a Day Before the Stage Announcement
+**C-8230** Host Says Erika Told the High School on Monday at Noon, a Day Before the Stage Announcement
 
 Claim Timestamp: 00:18:37
 
@@ -1650,13 +1650,13 @@ Transcript Snippet: But on Monday at noon, she had already informed the high sch
 Anchored Artifacts: A-1972.1
 Mentions: N-2
 Related Nodes: N-10612
-Supports: C-2730
+Supports: C-8231
 Tags: relevance:core
 Investigative Direction: Obtain the school's communications and the time the Parent Alert was sent.
 
 ---
 
-**C-11392** Host Says Parental Backlash Preceded the High School Cancellation
+**C-8233** Host Says Parental Backlash Preceded the High School Cancellation
 
 Claim Timestamp: 00:20:05
 
@@ -1672,7 +1672,7 @@ Investigative Direction: Obtain parent and school-administration communications 
 
 ---
 
-**C-11393** Host Says TPUSA Is Now Paying Influencers to Push the Line
+**C-8235** Host Says TPUSA Is Now Paying Influencers to Push the Line
 
 Claim Timestamp: 00:22:57
 
@@ -1688,7 +1688,7 @@ Investigative Direction: Identify the influencers and any sponsorship disclosure
 
 ---
 
-**C-11394** Vance Referred to the People Who Shot Charlie Kirk in the Plural
+**C-8236** Vance Referred to the People Who Shot Charlie Kirk in the Plural
 
 Claim Timestamp: 00:23:49
 
@@ -1704,7 +1704,7 @@ Investigative Direction: Obtain the full Vance remarks and check whether the plu
 
 ---
 
-**C-11395** Host Says the US Blew Up an Iranian School Killing 150 Girls and Lied About It
+**C-8238** Host Says the US Blew Up an Iranian School Killing 150 Girls and Lied About It
 
 Claim Timestamp: 00:26:19
 
@@ -1720,7 +1720,7 @@ Investigative Direction: Check the Minab school strike casualty reports and offi
 
 ---
 
-**C-11396** Host Says Trump Called Jesus a Red Cross Doctor Two Days Earlier
+**C-8239** Host Says Trump Called Jesus a Red Cross Doctor Two Days Earlier
 
 Claim Timestamp: 00:26:19
 
@@ -1735,7 +1735,7 @@ Investigative Direction: Locate the transcript and date of the Trump remarks abo
 
 ---
 
-**C-11397** Host Says Trump Attacked the Pope and Called Brigitte Macron Hot
+**C-8240** Host Says Trump Attacked the Pope and Called Brigitte Macron Hot
 
 Claim Timestamp: 00:26:19
 
@@ -1750,7 +1750,7 @@ Investigative Direction: Locate the Trump statements on Pope Leo XIV and on Brig
 
 ---
 
-**C-11398** Host Says the Strait of Hormuz Was Already Open Before the War
+**C-8241** Host Says the Strait of Hormuz Was Already Open Before the War
 
 Claim Timestamp: 00:26:19
 
@@ -1766,7 +1766,7 @@ Investigative Direction: Check shipping-traffic data for the Strait of Hormuz be
 
 ---
 
-**C-11399** Host Says Erika Can Get Bessent to Issue a Letter Demanding Finance Inquiries Stop
+**C-8242** Host Says Erika Can Get Bessent to Issue a Letter Demanding Finance Inquiries Stop
 
 Claim Timestamp: 00:27:21
 
@@ -1782,7 +1782,7 @@ Investigative Direction: Obtain the Bessent letter and its recipient and date, a
 
 ---
 
-**C-11400** Host Says Trump Spoke of Charlie Loving Erika in His Easter Speech
+**C-8243** Host Says Trump Spoke of Charlie Loving Erika in His Easter Speech
 
 Claim Timestamp: 00:27:21
 
@@ -1797,7 +1797,7 @@ Investigative Direction: Locate the transcript of Trump's Easter 2026 remarks.
 
 ---
 
-**C-11401** Host Says Company Employees Who Saw the Shooting Did Not Call 911 but Removed Cameras
+**C-8244** Host Says Company Employees Who Saw the Shooting Did Not Call 911 but Removed Cameras
 
 Claim Timestamp: 00:28:08
 
@@ -1813,7 +1813,7 @@ Investigative Direction: Obtain 911 call logs for the UVU shooting and timestamp
 
 ---
 
-**C-11402** Host Says Middle and High Schoolers Are Forced to Attend TPUSA Events
+**C-8245** Host Says Middle and High Schoolers Are Forced to Attend TPUSA Events
 
 Claim Timestamp: 00:29:13
 
@@ -1829,7 +1829,7 @@ Investigative Direction: Obtain school district communications and student or pa
 
 ---
 
-**C-11403** Kolvet Says the Secret Service Was Expected to Cover the Main Event
+**C-8248** Kolvet Says the Secret Service Was Expected to Cover the Main Event
 
 Claim Timestamp: 00:31:13
 
@@ -1845,7 +1845,7 @@ Investigative Direction: Obtain the Charlie Kirk Show segment and the Secret Ser
 
 ---
 
-**C-11404** Kolvet Says the Team Tried to Change Itineraries and Move Locations
+**C-8249** Kolvet Says the Team Tried to Change Itineraries and Move Locations
 
 Claim Timestamp: 00:32:09
 
@@ -1861,7 +1861,7 @@ Investigative Direction: Obtain itinerary or booking changes for the Georgia tri
 
 ---
 
-**C-11405** Host Says Charlie Texted Multiple Times the Day Before That He Thought He Would Be Killed
+**C-8250** Host Says Charlie Texted Multiple Times the Day Before That He Thought He Would Be Killed
 
 Claim Timestamp: 00:32:57
 
@@ -1872,13 +1872,13 @@ Transcript Snippet: when Charlie multiple times texted me on the security team d
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10340
-Supports: C-5114
+Supports: C-3565
 Tags: relevance:core
 Investigative Direction: Obtain the security-team text thread from September 9, 2025 and identify who received the messages (transcript wording is garbled).
 
 ---
 
-**C-11406** Host Says Marx's Daughter Accused Him of Abuse and Later Retracted
+**C-8251** Host Says Marx's Daughter Accused Him of Abuse and Later Retracted
 
 Claim Timestamp: 00:37:10
 
@@ -1894,7 +1894,7 @@ Investigative Direction: Locate the daughter's original public statements and th
 
 ---
 
-**C-11407** Host Says a Young Woman Alleges Marx Kidnapped Her From Canada
+**C-8252** Host Says a Young Woman Alleges Marx Kidnapped Her From Canada
 
 Claim Timestamp: 00:37:10
 
@@ -1910,7 +1910,7 @@ Investigative Direction: Identify the woman and the shows on which she spoke, an
 
 ---
 
-**C-11408** Host Says Marx Drew More Tips Than Anyone
+**C-8253** Host Says Marx Drew More Tips Than Anyone
 
 Claim Timestamp: 00:38:07
 
@@ -1926,7 +1926,7 @@ Investigative Direction: Ask the host for the volume of tips received and review
 
 ---
 
-**C-11409** Host Says Marx Allegedly Was the First to Announce Charlie Kirk's Death Then Deleted the Post
+**C-8254** Host Says Marx Allegedly Was the First to Announce Charlie Kirk's Death Then Deleted the Post
 
 Claim Timestamp: 00:38:07
 
@@ -1942,7 +1942,7 @@ Investigative Direction: Find archived copies of the Marx post, its timestamp re
 
 ---
 
-**C-11410** Host Says Corby Hall Noted Marx Has No Church
+**C-8255** Host Says Corby Hall Noted Marx Has No Church
 
 Claim Timestamp: 00:38:52
 
@@ -1958,7 +1958,7 @@ Investigative Direction: Check church registrations or ministry records for Vict
 
 ---
 
-**C-11411** Host Says Marx Had Supplements With David Harris
+**C-8257** Host Says Marx Had Supplements With David Harris
 
 Claim Timestamp: 00:40:01
 
@@ -1974,7 +1974,7 @@ Investigative Direction: Identify the supplement brand and its ownership records
 
 ---
 
-**C-11412** Host Says Supplement Proceeds Were Pledged to Help Trafficking Victims
+**C-8259** Host Says Supplement Proceeds Were Pledged to Help Trafficking Victims
 
 Claim Timestamp: 00:40:47
 
@@ -1990,7 +1990,7 @@ Investigative Direction: Obtain the supplement marketing claims and any charity 
 
 ---
 
-**C-11413** Host Says People Are Volunteering to Take TPUSA Jobs as Moles
+**C-8262** Host Says People Are Volunteering to Take TPUSA Jobs as Moles
 
 Claim Timestamp: 00:42:41
 
@@ -2006,7 +2006,7 @@ Investigative Direction: Ask the host for the number of such offers and whether 
 
 ---
 
-**C-11414** Host Says Wada Says His Brother Is Still Involved in the Industry
+**C-8265** Host Says Wada Says His Brother Is Still Involved in the Industry
 
 Claim Timestamp: 00:45:03
 
@@ -2017,13 +2017,13 @@ Transcript Snippet: Marcus Wada also says that his brother is still involved in 
 Anchored Artifacts: A-1980.1
 Mentions: N-424, N-3
 Related Nodes: N-10609
-Supports: C-2741
+Supports: C-8261
 Tags: relevance:context
 Investigative Direction: Identify the brother and obtain a first-hand account of what Wada said to colleagues.
 
 ---
 
-**C-11415** Host Says She Found the Brother, Who Has a Different Surname
+**C-8266** Host Says She Found the Brother, Who Has a Different Surname
 
 Claim Timestamp: 00:45:03
 
@@ -2034,13 +2034,13 @@ Transcript Snippet: Anyway, I did end up finding the guy. I'm proddding that nar
 Anchored Artifacts: A-1979.1
 Mentions: N-424, N-3
 Related Nodes: N-10609
-Supports: C-2739
+Supports: C-8267
 Tags: relevance:context
 Investigative Direction: Confirm the family relationship through public records and obtain the consulting firm's registration.
 
 ---
 
-**C-11416** Host Lists Derek and Shelaine Maxfield in Her Connecting-Themes Spreadsheet
+**C-8268** Host Lists Derek and Shelaine Maxfield in Her Connecting-Themes Spreadsheet
 
 Claim Timestamp: 00:46:09
 
@@ -2051,13 +2051,13 @@ Transcript Snippet: Derek and Shelaine Maxfield, that was that plane that left a
 Anchored Artifacts: A-3132.1
 Mentions: N-94, N-200, N-3
 Related Nodes: N-10401
-Supports: C-8155
+Supports: C-4755
 Tags: relevance:core
 Investigative Direction: Check the Maxfields' charity filings (Saprea) and the plane ownership records.
 
 ---
 
-**C-11417** Host Says Otto Busher Worked With Romanian Angels and Lists a Fort Huachuca Civilian Commander Charged With Running a Child Sex Abuse Ring
+**C-8269** Host Says Otto Busher Worked With Romanian Angels and Lists a Fort Huachuca Civilian Commander Charged With Running a Child Sex Abuse Ring
 
 Claim Timestamp: 00:46:09
 
@@ -2073,7 +2073,7 @@ Investigative Direction: Obtain Army and court records for the charge against Bu
 
 ---
 
-**C-11418** Host Says Greg Laurie's Harvest Church Is Accused of Trafficking Children From Romania
+**C-8270** Host Says Greg Laurie's Harvest Church Is Accused of Trafficking Children From Romania
 
 Claim Timestamp: 00:47:24
 
@@ -2089,7 +2089,7 @@ Investigative Direction: Review the lawsuit filings against Harvest Christian Fe
 
 ---
 
-**C-11419** Host Says George Zinn Was Arrested With Pornographic Images of Children
+**C-8271** Host Says George Zinn Was Arrested With Pornographic Images of Children
 
 Claim Timestamp: 00:47:35
 
@@ -2100,13 +2100,13 @@ Transcript Snippet: George Zinn, our decoy boy, was arrested for having pornogra
 Anchored Artifacts: A-3132.1
 Mentions: N-42, N-3
 Related Nodes: N-10097
-Supports: C-8158
+Supports: C-4757
 Tags: relevance:core
 Investigative Direction: Obtain the Zinn charging documents and booking records.
 
 ---
 
-**C-11420** Host Says Andrew Piskadlo Raises Alarms on Military Ukrainian Sex Trafficking
+**C-8272** Host Says Andrew Piskadlo Raises Alarms on Military Ukrainian Sex Trafficking
 
 Claim Timestamp: 00:47:41
 
@@ -2117,13 +2117,13 @@ Transcript Snippet: Andrew Pascadlo, uh that was the person who was detained tha
 Anchored Artifacts: A-3132.1
 Mentions: N-801, N-3
 Related Nodes: N-10325
-Supports: C-8161
+Supports: C-4760
 Tags: relevance:core
 Investigative Direction: Obtain Piscatello's public statements on the subject and the detention record.
 
 ---
 
-**C-11421** Host Says Calvary Chapel Is Riddled With Pastor Abuse Stories
+**C-8273** Host Says Calvary Chapel Is Riddled With Pastor Abuse Stories
 
 Claim Timestamp: 00:47:51
 
@@ -2134,13 +2134,13 @@ Transcript Snippet: Calvary Chapel Church is obviously riddled with pastor abuse
 Anchored Artifacts: A-3132.1
 Mentions: N-17, N-3
 Related Nodes: N-10246
-Supports: C-6619
+Supports: C-2754
 Tags: relevance:context
 Investigative Direction: Compile court and press records on Calvary Chapel pastor abuse cases.
 
 ---
 
-**C-11422** Host Says Tim Ballard's Name Came Up Early as Someone Being Met That Day
+**C-8274** Host Says Tim Ballard's Name Came Up Early as Someone Being Met That Day
 
 Claim Timestamp: 00:47:57
 
@@ -2156,7 +2156,7 @@ Investigative Direction: Identify the source for the meeting claim and any recor
 
 ---
 
-**C-11423** Host Says Erika Claims to Have Lived in China Working With Trafficking Victims but Is Quiet About It
+**C-8275** Host Says Erika Claims to Have Lived in China Working With Trafficking Victims but Is Quiet About It
 
 Claim Timestamp: 00:48:11
 
@@ -2167,13 +2167,13 @@ Transcript Snippet: Erika Kirk says that she lived in China and worked with chil
 Anchored Artifacts: A-3132.1
 Mentions: N-2, N-3
 Related Nodes: N-10419
-Supports: C-2112
+Supports: C-5178
 Tags: relevance:core
 Investigative Direction: Obtain Erika Kirk's earlier statements on China and any records of the charity she worked with.
 
 ---
 
-**C-11424** Host Says TPUSA Adviser Paul Vallely Co-Wrote a Book With Satanist Michael Aquino
+**C-8276** Host Says TPUSA Adviser Paul Vallely Co-Wrote a Book With Satanist Michael Aquino
 
 Claim Timestamp: 00:48:11
 
@@ -2184,13 +2184,13 @@ Transcript Snippet: The TPUSA adviser, Paul Vallely, retired Army general who ra
 Anchored Artifacts: A-3132.1
 Mentions: N-800, N-449, N-3
 Related Nodes: N-11238
-Supports: C-8246
+Supports: C-4865
 Tags: relevance:context
 Investigative Direction: Confirm the advisory-board listing for Paul Vallely and the authorship of Mind War.
 
 ---
 
-**C-11425** Host Says Aquino Was Accused of Abusing Children at Army Child Development Centers
+**C-8277** Host Says Aquino Was Accused of Abusing Children at Army Child Development Centers
 
 Claim Timestamp: 00:48:11
 
@@ -2201,13 +2201,13 @@ Transcript Snippet: He was accused, I'm referring to Michael Aquino, was accused
 Anchored Artifacts: A-3132.1
 Mentions: N-449, N-3
 Related Nodes: N-11238
-Supports: C-2085
+Supports: C-5033
 Tags: relevance:context
 Investigative Direction: Review the 1986-87 San Francisco police and Army records on the Aquino investigation.
 
 ---
 
-**C-11426** Host Says Victor Marx Runs a Charity for Child Sex Abuse
+**C-8278** Host Says Victor Marx Runs a Charity for Child Sex Abuse
 
 Claim Timestamp: 00:48:11
 
@@ -2223,7 +2223,7 @@ Investigative Direction: Check the charity's IRS filings and program description
 
 ---
 
-**C-11427** Host Says Nelda Buckman, TPUSA's Top Donor, Is Extensively Involved in Rescuing Trafficked Children
+**C-8279** Host Says Nelda Buckman, TPUSA's Top Donor, Is Extensively Involved in Rescuing Trafficked Children
 
 Claim Timestamp: 00:49:23
 
@@ -2239,7 +2239,7 @@ Investigative Direction: Check the Buckman foundation's filings and donations to
 
 ---
 
-**C-11428** Host Revises Wada Description to Formerly Involved in Arms Trafficking
+**C-8280** Host Revises Wada Description to Formerly Involved in Arms Trafficking
 
 Claim Timestamp: 00:49:23
 
@@ -2250,13 +2250,13 @@ Transcript Snippet: I should probably change that to more responsibly say former
 Anchored Artifacts: A-3132.1
 Mentions: N-424, N-3
 Related Nodes: N-10609
-Supports: C-2741
+Supports: C-8261
 Tags: relevance:core
 Investigative Direction: Seek independent corroboration of Wada's testimony about arms trafficking in Poland.
 
 ---
 
-**C-11429** Host Says Wada's LinkedIn Shows He Lived in Poland
+**C-8281** Host Says Wada's LinkedIn Shows He Lived in Poland
 
 Claim Timestamp: 00:53:01
 
@@ -2267,13 +2267,13 @@ Transcript Snippet: it's on his LinkedIn. He lived in Poland, so he maybe he jus
 Anchored Artifacts: A-3133.1
 Mentions: N-424, N-3
 Related Nodes: N-10127, N-10609
-Supports: C-2741
+Supports: C-8261
 Tags: relevance:core
 Investigative Direction: Capture Wada's LinkedIn page and compare the Poland residence with the dates in his TPUSA biography.
 
 ---
 
-**C-11430** Host Says Multiple People Were Involved and It Was Not Tyler Robinson Alone
+**C-8282** Host Says Multiple People Were Involved and It Was Not Tyler Robinson Alone
 
 Claim Timestamp: 00:54:46
 
@@ -2283,13 +2283,13 @@ Transcript Snippet: I do believe that there were people involved, multiple peopl
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-40
-Supports: C-3765
+Supports: C-388
 Tags: relevance:core
 Investigative Direction: Review the court filings and forensic evidence for any additional participant.
 
 ---
 
-**C-11431** Host Says Erika Declined Burial Details Because People Would Come Destroy the Grave
+**C-8284** Host Says Erika Declined Burial Details Because People Would Come Destroy the Grave
 
 Claim Timestamp: 00:56:35
 
@@ -2305,7 +2305,7 @@ Investigative Direction: Find Erika Kirk's own public statements on the burial s
 
 ---
 
-**C-11432** Host Says She Wonders Whether Charlie Was Cremated
+**C-8283** Host Says She Wonders Whether Charlie Was Cremated
 
 Claim Timestamp: 00:56:28
 
@@ -2321,7 +2321,7 @@ Investigative Direction: Obtain the death certificate, cemetery or crematorium r
 
 ---
 
-**C-11433** Host Says Erika Phoned People to Keep Them From the Catholic Event Where She Spoke
+**C-8285** Host Says Erika Phoned People to Keep Them From the Catholic Event Where She Spoke
 
 Claim Timestamp: 01:00:04
 
@@ -2337,7 +2337,7 @@ Investigative Direction: Identify the event organizers and anyone Erika Kirk con
 
 ---
 
-**C-11434** Host Says Fired Employees Told Her Erika Was Behind the PR Push
+**C-8286** Host Says Fired Employees Told Her Erika Was Behind the PR Push
 
 Claim Timestamp: 01:00:04
 
@@ -2353,7 +2353,7 @@ Investigative Direction: Identify the fired employees and compare their accounts
 
 ---
 
-**C-11435** Host Says Erika Was Angry at Joe Kent for Investigating Foreign Involvement
+**C-8287** Host Says Erika Was Angry at Joe Kent for Investigating Foreign Involvement
 
 Claim Timestamp: 01:00:49
 
@@ -2377,7 +2377,7 @@ Investigative Direction: Find any public statement by Erika Kirk about Joe Kent 
 - **Transcript ambiguity:** "September 14th" referenced in the UGA high school cancellation email (A-1972.1) is inconsistent with the April 2026 event timeline; either OCR/transcription artifact or genuine content error in the original email.
 - **Artifact verbally referenced but not shown:** Marcus Wada brother's consulting website (A-1979.1) – industry areas are read aloud but full page not verified as on-screen.
 - **Requires human verification:** A-1980.1 (anonymous insider claims regarding Marcus Wada arms-trafficking history) – anonymous sourcing requires independent corroboration.
-- **Artifact verbally referenced but not shown:** Kolvet's Fox News interview B-roll splicing (A-1967.1 → C-2725) – host describes analysis but underlying B-roll frames were not independently captured.
+- **Artifact verbally referenced but not shown:** Kolvet's Fox News interview B-roll splicing (A-1967.1 → C-8213) – host describes analysis but underlying B-roll frames were not independently captured.
 
 ---
 

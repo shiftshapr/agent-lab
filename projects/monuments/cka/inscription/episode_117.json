@@ -44,8 +44,8 @@
           "ref": "A-2677.2",
           "description": "Clip of a speaker, apparently Frank Turek, describing finding Charlie Kirk's necklace draped over his bag in the car (two versions played)",
           "related_claims": [
-            "C-4654",
-            "C-4656"
+            "C-10039",
+            "C-10041"
           ],
           "related_nodes": [
             "N-7",
@@ -65,7 +65,7 @@
           "ref": "A-2677.3",
           "description": "Clip of Andrew Kolvet on Laura Ingraham's show on the necklace's origin and removal",
           "related_claims": [
-            "C-4655"
+            "C-10040"
           ],
           "related_nodes": [
             "N-14",
@@ -93,12 +93,12 @@
           "ref": "A-2678.1",
           "description": "Recap graphic listing September 10 oddities the rigged-mic theory would explain (shown)",
           "related_claims": [
-            "C-4657",
-            "C-4661",
-            "C-4662",
-            "C-4663",
-            "C-4664",
-            "C-4665"
+            "C-10042",
+            "C-10046",
+            "C-10047",
+            "C-10048",
+            "C-10049",
+            "C-10050"
           ],
           "related_nodes": [
             "N-10768"
@@ -115,7 +115,7 @@
           "ref": "A-2678.2",
           "description": "Science article on PETN's low water solubility and high soil absorption (shown)",
           "related_claims": [
-            "C-4658"
+            "C-10043"
           ],
           "related_nodes": [
             "N-10768",
@@ -141,8 +141,8 @@
           "ref": "A-2679.1",
           "description": "Clip of paver Dan Merrell's interview with Jimmy Rex on the excavated soil",
           "related_claims": [
-            "C-4659",
-            "C-4660"
+            "C-10044",
+            "C-10045"
           ],
           "related_nodes": [
             "N-684",
@@ -169,7 +169,7 @@
           "ref": "A-2680.1",
           "description": "Image of the black Rode wireless mic and of its September 10 placement, with the magnetic clasp outside and the transmitter inside Charlie Kirk's shirt (shown)",
           "related_claims": [
-            "C-4668"
+            "C-10053"
           ],
           "related_nodes": [
             "N-1",
@@ -187,7 +187,7 @@
           "ref": "A-2680.2",
           "description": "Stills from fall 2024 \"You're Being Brainwashed\" tour stops (Wisconsin–Madison September 5, North Texas September 11, Pittsburgh September 18, Nevada–Reno October 8, then October 11 and October 30) comparing mic placement (shown)",
           "related_claims": [
-            "C-4670"
+            "C-10055"
           ],
           "related_nodes": [
             "N-1",
@@ -213,10 +213,10 @@
           "ref": "A-2681.1",
           "description": "Host verbal reference to her phone call with Terryl Farnsworth after the assassination (not played)",
           "related_claims": [
-            "C-4669",
-            "C-4698",
-            "C-4699",
-            "C-4700"
+            "C-10054",
+            "C-10083",
+            "C-10084",
+            "C-10085"
           ],
           "related_nodes": [
             "N-261",
@@ -243,8 +243,8 @@
           "ref": "A-2682.1",
           "description": "Email from an AV professional to the host's team on the Rode lavalier mic (read aloud)",
           "related_claims": [
-            "C-4667",
-            "C-4671"
+            "C-10052",
+            "C-10056"
           ],
           "related_nodes": [
             "N-10987",
@@ -270,9 +270,9 @@
           "ref": "A-2683.1",
           "description": "Video by X user Sam Parker showing Philip Goldsberry fitting the Rode Wireless Pro on Charlie Kirk on September 10",
           "related_claims": [
-            "C-4674",
-            "C-4675",
-            "C-4676"
+            "C-10059",
+            "C-10060",
+            "C-10061"
           ],
           "related_nodes": [
             "N-181",
@@ -302,7 +302,7 @@
           "ref": "A-2684.1",
           "description": "Photo of Dr. Philip Goldsberry (shown)",
           "related_claims": [
-            "C-4677"
+            "C-10062"
           ],
           "related_nodes": [
             "N-687",
@@ -320,8 +320,8 @@
           "ref": "A-2684.2",
           "description": "Dr. Philip Goldsberry's 2013 bio on the Soter Global Ministries website (shown)",
           "related_claims": [
-            "C-4679",
-            "C-4683"
+            "C-10064",
+            "C-10068"
           ],
           "related_nodes": [
             "N-687",
@@ -339,9 +339,9 @@
           "ref": "A-2684.3",
           "description": "Current Soter Global Ministries website timeline of its Eastern European work (shown and read aloud)",
           "related_claims": [
-            "C-4680",
-            "C-4681",
-            "C-4684"
+            "C-10065",
+            "C-10066",
+            "C-10069"
           ],
           "related_nodes": [
             "N-10989",
@@ -367,14 +367,14 @@
           "ref": "A-2685.1",
           "description": "Host's \"connecting themes\" spreadsheet, Eastern European connection section (shown)",
           "related_claims": [
-            "C-4688",
-            "C-4689",
-            "C-4690",
-            "C-4692",
-            "C-4693",
-            "C-4694",
-            "C-4695",
-            "C-4696"
+            "C-10073",
+            "C-10074",
+            "C-10075",
+            "C-10077",
+            "C-10078",
+            "C-10079",
+            "C-10080",
+            "C-10081"
           ],
           "related_nodes": [
             "N-2",
@@ -400,7 +400,7 @@
           "ref": "A-2685.2",
           "description": "2013 photo of Tyler Bowyer with a Ukrainian orphan named Natalia (shown)",
           "related_claims": [
-            "C-4691"
+            "C-10076"
           ],
           "related_nodes": [
             "N-11",
@@ -426,7 +426,7 @@
           "ref": "A-2686.1",
           "description": "Clip of Frank Turek describing the drive to the hospital and CPR",
           "related_claims": [
-            "C-4708"
+            "C-10093"
           ],
           "related_nodes": [
             "N-7",
@@ -445,7 +445,7 @@
           "ref": "A-2686.2",
           "description": "Clip of Brian Harpole saying CPR was not performed during the drive",
           "related_claims": [
-            "C-4709"
+            "C-10094"
           ],
           "related_nodes": [
             "N-266",
@@ -464,7 +464,7 @@
           "ref": "A-2686.3",
           "description": "Clip of Rob McCoy on stage saying Frank Turek gave Charlie Kirk CPR",
           "related_claims": [
-            "C-4710"
+            "C-10095"
           ],
           "related_nodes": [
             "N-17",
@@ -491,7 +491,7 @@
           "ref": "A-2687.1",
           "description": "X post on Erika Kirk's signature (shown and read)",
           "related_claims": [
-            "C-4712"
+            "C-10097"
           ],
           "related_nodes": [
             "N-2",
@@ -509,7 +509,7 @@
           "ref": "A-2687.2",
           "description": "Reply citing handwriting analysis of the \"scratch out effect\" (shown)",
           "related_claims": [
-            "C-4712"
+            "C-10097"
           ],
           "related_nodes": [
             "N-2",
@@ -535,7 +535,7 @@
           "ref": "A-2688.1",
           "description": "Viewer comment (Small bird) on the paver emergency (read aloud)",
           "related_claims": [
-            "C-4713"
+            "C-10098"
           ],
           "related_nodes": [
             "N-10107"
@@ -568,7 +568,7 @@
           "ref": "A-2688.3",
           "description": "Viewer comment (Cabo goes off) on an Andrew Kolvet interview about a call Erika Kirk received (read aloud)",
           "related_claims": [
-            "C-4719"
+            "C-10104"
           ],
           "related_nodes": [
             "N-14",
@@ -610,7 +610,7 @@
           "ref": "A-2689.1",
           "description": "Host verbal reference to the email on Erika Kirk being an \"emotional asset\" at the White House Correspondents' Dinner (not shown)",
           "related_claims": [
-            "C-4715"
+            "C-10100"
           ],
           "related_nodes": [
             "N-2",
@@ -637,7 +637,7 @@
           "ref": "A-2690.1",
           "description": "Host verbal reference to the $10,000 bounty for the identity of whoever recorded the Erika Kirk exit video (not shown)",
           "related_claims": [
-            "C-4716"
+            "C-10101"
           ],
           "related_nodes": [
             "N-2",
@@ -671,31 +671,31 @@
         "A-2688.4"
       ],
       "related_claims": [
-        "C-4653",
-        "C-4654",
-        "C-4655",
-        "C-4656",
-        "C-4661",
-        "C-4667",
-        "C-4668",
-        "C-4669",
-        "C-4670",
-        "C-4671",
-        "C-4673",
-        "C-4674",
-        "C-4676",
-        "C-4687",
-        "C-4698",
-        "C-4700",
-        "C-4702",
-        "C-4703",
-        "C-4704",
-        "C-4705",
-        "C-4707",
-        "C-4708",
-        "C-4710",
-        "C-4718",
-        "C-4720"
+        "C-10038",
+        "C-10039",
+        "C-10040",
+        "C-10041",
+        "C-10046",
+        "C-10052",
+        "C-10053",
+        "C-10054",
+        "C-10055",
+        "C-10056",
+        "C-10058",
+        "C-10059",
+        "C-10061",
+        "C-10072",
+        "C-10083",
+        "C-10085",
+        "C-10087",
+        "C-10088",
+        "C-10089",
+        "C-10090",
+        "C-10092",
+        "C-10093",
+        "C-10095",
+        "C-10103",
+        "C-10105"
       ],
       "tags": [],
       "evidence_count": 8,
@@ -722,22 +722,22 @@
         "A-2690.1"
       ],
       "related_claims": [
-        "C-4655",
-        "C-4656",
-        "C-4666",
-        "C-4678",
-        "C-4682",
-        "C-4686",
-        "C-4687",
-        "C-4689",
-        "C-4692",
-        "C-4697",
-        "C-4705",
-        "C-4712",
-        "C-4715",
-        "C-4716",
-        "C-4719",
-        "C-4720"
+        "C-10040",
+        "C-10041",
+        "C-10051",
+        "C-10063",
+        "C-10067",
+        "C-10071",
+        "C-10072",
+        "C-10074",
+        "C-10077",
+        "C-10082",
+        "C-10090",
+        "C-10097",
+        "C-10100",
+        "C-10101",
+        "C-10104",
+        "C-10105"
       ],
       "tags": [],
       "evidence_count": 9,
@@ -756,11 +756,11 @@
         "A-2681.1"
       ],
       "related_claims": [
-        "C-4665",
-        "C-4669",
-        "C-4698",
-        "C-4714",
-        "C-4717"
+        "C-10050",
+        "C-10054",
+        "C-10083",
+        "C-10099",
+        "C-10102"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -777,10 +777,10 @@
       "description": "Named as the person the host says called Erika Kirk on September 10 and asked Charlie Kirk to stop raising Epstein questions; former co-owner of the Miss Universe organization.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4678",
-        "C-4707",
-        "C-4719",
-        "C-4720"
+        "C-10063",
+        "C-10092",
+        "C-10104",
+        "C-10105"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -803,12 +803,12 @@
         "A-2686.3"
       ],
       "related_claims": [
-        "C-4654",
-        "C-4675",
-        "C-4708",
-        "C-4709",
-        "C-4710",
-        "C-4711"
+        "C-10039",
+        "C-10060",
+        "C-10093",
+        "C-10094",
+        "C-10095",
+        "C-10096"
       ],
       "tags": [],
       "evidence_count": 5,
@@ -825,10 +825,10 @@
       "description": "The host links his network to the assassination as her opinion, and cites the timing of his death and his emails about the Rothschilds.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4686",
-        "C-4687",
-        "C-4706",
-        "C-4707"
+        "C-10071",
+        "C-10072",
+        "C-10091",
+        "C-10092"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -848,12 +848,12 @@
         "A-2685.2"
       ],
       "related_claims": [
-        "C-4672",
-        "C-4673",
-        "C-4685",
-        "C-4690",
-        "C-4691",
-        "C-4694"
+        "C-10057",
+        "C-10058",
+        "C-10070",
+        "C-10075",
+        "C-10076",
+        "C-10079"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -874,9 +874,9 @@
         "A-2688.3"
       ],
       "related_claims": [
-        "C-4655",
-        "C-4693",
-        "C-4719"
+        "C-10040",
+        "C-10078",
+        "C-10104"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -896,8 +896,8 @@
         "A-2686.3"
       ],
       "related_claims": [
-        "C-4695",
-        "C-4710"
+        "C-10080",
+        "C-10095"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -914,9 +914,9 @@
       "description": "The accused. The host cites the missing GSR test, Erika Kirk's quick forgiveness of him, and the shirt evidence his defense should seek.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4663",
-        "C-4666",
-        "C-4702"
+        "C-10048",
+        "C-10051",
+        "C-10087"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -933,7 +933,7 @@
       "description": "Named as having called Charlie Kirk the night before he died.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4704"
+        "C-10089"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -950,7 +950,7 @@
       "description": "Said by the host's source to have appeared in a Mark Burnett Productions dating show.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4721"
+        "C-10106"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -967,8 +967,8 @@
       "description": "Transcript spelling \"Blakey Naft\" (04:43). Named as on the plane with Charlie Kirk and among staff who the host says did not call 911.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4656",
-        "C-4718"
+        "C-10041",
+        "C-10103"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -987,9 +987,9 @@
         "A-2683.1"
       ],
       "related_claims": [
-        "C-4674",
-        "C-4675",
-        "C-4676"
+        "C-10059",
+        "C-10060",
+        "C-10061"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1008,9 +1008,9 @@
         "A-2677.2"
       ],
       "related_claims": [
-        "C-4656",
-        "C-4711",
-        "C-4718"
+        "C-10041",
+        "C-10096",
+        "C-10103"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1030,15 +1030,15 @@
         "A-2683.1"
       ],
       "related_claims": [
-        "C-4653",
-        "C-4664",
-        "C-4669",
-        "C-4672",
-        "C-4674",
-        "C-4675",
-        "C-4698",
-        "C-4699",
-        "C-4700"
+        "C-10038",
+        "C-10049",
+        "C-10054",
+        "C-10057",
+        "C-10059",
+        "C-10060",
+        "C-10083",
+        "C-10084",
+        "C-10085"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1057,9 +1057,9 @@
         "A-2686.2"
       ],
       "related_claims": [
-        "C-4709",
-        "C-4710",
-        "C-4717"
+        "C-10094",
+        "C-10095",
+        "C-10102"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1076,7 +1076,7 @@
       "description": "Transcript spelling \"Andrew Cypher\". Named among TPUSA staff who the host says did not call 911.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4718"
+        "C-10103"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1093,7 +1093,7 @@
       "description": "Said to describe his wife Eileen as a mentor to Erika Kirk.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4697"
+        "C-10082"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1110,7 +1110,7 @@
       "description": "Described by Victor Marx as a mentor to Erika Kirk.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4697"
+        "C-10082"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1127,7 +1127,7 @@
       "description": "His production company is named in the Alex Clark dating-show claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4721"
+        "C-10106"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1146,7 +1146,7 @@
         "A-2685.1"
       ],
       "related_claims": [
-        "C-4692"
+        "C-10077"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1165,7 +1165,7 @@
         "A-2685.1"
       ],
       "related_claims": [
-        "C-4696"
+        "C-10081"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1182,7 +1182,7 @@
       "description": "Named as the people Epstein said in his emails he worked for.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4706"
+        "C-10091"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1201,8 +1201,8 @@
         "A-2679.1"
       ],
       "related_claims": [
-        "C-4659",
-        "C-4660"
+        "C-10044",
+        "C-10045"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1221,8 +1221,8 @@
         "A-2679.1"
       ],
       "related_claims": [
-        "C-4659",
-        "C-4660"
+        "C-10044",
+        "C-10045"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1242,11 +1242,11 @@
         "A-2684.1"
       ],
       "related_claims": [
-        "C-4674",
-        "C-4675",
-        "C-4676",
-        "C-4677",
-        "C-4683"
+        "C-10059",
+        "C-10060",
+        "C-10061",
+        "C-10062",
+        "C-10068"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1267,10 +1267,10 @@
         "A-2685.1"
       ],
       "related_claims": [
-        "C-4677",
-        "C-4679",
-        "C-4680",
-        "C-4683"
+        "C-10062",
+        "C-10064",
+        "C-10065",
+        "C-10068"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -1287,8 +1287,8 @@
       "description": "First named by the host at 00:18:27 in episode 117. Transcript spelling \"Colonel Otto Busher\"; a US military colonel the host says partnered with Erika Kirk's Romanian Angels and was accused online of trafficking. The correct spelling is unverified.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4682",
-        "C-4689"
+        "C-10067",
+        "C-10074"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1307,7 +1307,7 @@
         "A-2685.1"
       ],
       "related_claims": [
-        "C-4693"
+        "C-10078"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1341,12 +1341,12 @@
       "description": "The organization whose AV team, staff, donors and evidence handling are questioned.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4665",
-        "C-4673",
-        "C-4696",
-        "C-4701",
-        "C-4703",
-        "C-4718"
+        "C-10050",
+        "C-10058",
+        "C-10081",
+        "C-10086",
+        "C-10088",
+        "C-10103"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1363,8 +1363,8 @@
       "description": "Farnsworth's removal of the back-camera SD card is restated.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4653",
-        "C-4664"
+        "C-10038",
+        "C-10049"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1385,11 +1385,11 @@
         "A-2688.1"
       ],
       "related_claims": [
-        "C-4657",
-        "C-4658",
-        "C-4659",
-        "C-4660",
-        "C-4713"
+        "C-10042",
+        "C-10043",
+        "C-10044",
+        "C-10045",
+        "C-10098"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -1406,8 +1406,8 @@
       "description": "The missing GSR test and the lack of footage or eyewitnesses of a shot from the building.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4662",
-        "C-4663"
+        "C-10047",
+        "C-10048"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1426,7 +1426,7 @@
         "A-2685.1"
       ],
       "related_claims": [
-        "C-4688"
+        "C-10073"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1445,9 +1445,9 @@
         "A-2682.1"
       ],
       "related_claims": [
-        "C-4671",
-        "C-4700",
-        "C-4701"
+        "C-10056",
+        "C-10085",
+        "C-10086"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1464,8 +1464,8 @@
       "description": "The host's opinion linking the assassination to the Epstein network.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4706",
-        "C-4707"
+        "C-10091",
+        "C-10092"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1482,7 +1482,7 @@
       "description": "The camera removal and selfie video right after the shooting.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4653"
+        "C-10038"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1499,7 +1499,7 @@
       "description": "The Farnsworth and Bowyer families' long ties.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4672"
+        "C-10057"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1516,7 +1516,7 @@
       "description": "Bowyer's hiring role around Charlie Kirk.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4673"
+        "C-10058"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1533,7 +1533,7 @@
       "description": "Restated: Bowyer went to Romania in 2011 to work with the Romanian government.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4690"
+        "C-10075"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1554,17 +1554,17 @@
         "A-2685.2"
       ],
       "related_claims": [
-        "C-4680",
-        "C-4681",
-        "C-4682",
-        "C-4684",
-        "C-4685",
-        "C-4688",
-        "C-4689",
-        "C-4691",
-        "C-4693",
-        "C-4694",
-        "C-4695"
+        "C-10065",
+        "C-10066",
+        "C-10067",
+        "C-10069",
+        "C-10070",
+        "C-10073",
+        "C-10074",
+        "C-10076",
+        "C-10078",
+        "C-10079",
+        "C-10080"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -1581,7 +1581,7 @@
       "description": "Greg Laurie's church litigation over Romania.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4692"
+        "C-10077"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1598,7 +1598,7 @@
       "description": "Nelda Buckman as TPUSA's biggest donor.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4696"
+        "C-10081"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1615,7 +1615,7 @@
       "description": "The phone given to Erika Kirk instead of being held in evidence.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4705"
+        "C-10090"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1635,10 +1635,10 @@
         "A-2677.2"
       ],
       "related_claims": [
-        "C-4654",
-        "C-4655",
-        "C-4656",
-        "C-4676"
+        "C-10039",
+        "C-10040",
+        "C-10041",
+        "C-10061"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1655,7 +1655,7 @@
       "description": "Eileen Marx as mentor to Erika Kirk.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4697"
+        "C-10082"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1672,8 +1672,8 @@
       "description": "Dr. Philip Goldsberry's pastor background and charity.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4677",
-        "C-4679"
+        "C-10062",
+        "C-10064"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1690,7 +1690,7 @@
       "description": "The shattered black plastic or glass in the SUV.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4661"
+        "C-10046"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1710,7 +1710,7 @@
         "A-2687.2"
       ],
       "related_claims": [
-        "C-4712"
+        "C-10097"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1727,8 +1727,8 @@
       "description": "Turek's and McCoy's accounts that Turek gave CPR.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4708",
-        "C-4710"
+        "C-10093",
+        "C-10095"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1745,7 +1745,7 @@
       "description": "The scrubs account and the clothes worn in the vehicle.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4711"
+        "C-10096"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1762,7 +1762,7 @@
       "description": "The host's sourced claim that Erika Kirk used the same modeling office as a woman close to Epstein.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4686"
+        "C-10071"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1781,7 +1781,7 @@
         "A-2688.2"
       ],
       "related_claims": [
-        "C-4702"
+        "C-10087"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1798,8 +1798,8 @@
       "description": "The 911 call asserted in Harpole's filing and the staff who did not call.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4717",
-        "C-4718"
+        "C-10102",
+        "C-10103"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1820,9 +1820,9 @@
         "A-2686.3"
       ],
       "related_claims": [
-        "C-4708",
-        "C-4709",
-        "C-4710"
+        "C-10093",
+        "C-10094",
+        "C-10095"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -1843,11 +1843,11 @@
         "A-2688.4"
       ],
       "related_claims": [
-        "C-4656",
-        "C-4657",
-        "C-4658",
-        "C-4662",
-        "C-4668"
+        "C-10041",
+        "C-10042",
+        "C-10043",
+        "C-10047",
+        "C-10053"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -1864,7 +1864,7 @@
       "description": "Farnsworth's stated reasons for not sending the video file.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4699"
+        "C-10084"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1881,7 +1881,7 @@
       "description": "The night-before group text and trans-threat message.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4704"
+        "C-10089"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1898,8 +1898,8 @@
       "description": "Anti-trafficking and adoption ties around TPUSA figures.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4695",
-        "C-4696"
+        "C-10080",
+        "C-10081"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1916,7 +1916,7 @@
       "description": "No ambulance on standby at the event.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4665"
+        "C-10050"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1935,7 +1935,7 @@
         "A-2689.1"
       ],
       "related_claims": [
-        "C-4715"
+        "C-10100"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1957,15 +1957,15 @@
         "A-2683.1"
       ],
       "related_claims": [
-        "C-4667",
-        "C-4668",
-        "C-4669",
-        "C-4670",
-        "C-4671",
-        "C-4674",
-        "C-4675",
-        "C-4676",
-        "C-4698"
+        "C-10052",
+        "C-10053",
+        "C-10054",
+        "C-10055",
+        "C-10056",
+        "C-10059",
+        "C-10060",
+        "C-10061",
+        "C-10083"
       ],
       "tags": [],
       "evidence_count": 4,
@@ -1986,8 +1986,8 @@
       "description": "The pageant organization the host says Trump co-owned with NBC Universal. She says Erika Kirk won a 2006 teen crown under it and that her pageant years fall within the co-ownership.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4678",
-        "C-4720"
+        "C-10063",
+        "C-10105"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2011,11 +2011,11 @@
         "A-2684.3"
       ],
       "related_claims": [
-        "C-4679",
-        "C-4680",
-        "C-4681",
-        "C-4683",
-        "C-4684"
+        "C-10064",
+        "C-10065",
+        "C-10066",
+        "C-10068",
+        "C-10069"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -2035,9 +2035,9 @@
       "description": "US Marine rotational force the host says set up a base in Romania in 2010 that was later accused of trafficking and prostituting children. She ties it to Erika Kirk's Romanian Angels partnership with Colonel \"Otto Busher.\"",
       "related_artifacts": [],
       "related_claims": [
-        "C-4681",
-        "C-4682",
-        "C-4689"
+        "C-10066",
+        "C-10067",
+        "C-10074"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2059,8 +2059,8 @@
         "A-2681.1"
       ],
       "related_claims": [
-        "C-4698",
-        "C-4700"
+        "C-10083",
+        "C-10085"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -2082,7 +2082,7 @@
         "A-2689.1"
       ],
       "related_claims": [
-        "C-4715"
+        "C-10100"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -2105,7 +2105,7 @@
         "A-2690.1"
       ],
       "related_claims": [
-        "C-4716"
+        "C-10101"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -2120,8 +2120,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-4653",
-      "ref": "C-4653",
+      "@id": "C-10038",
+      "ref": "C-10038",
       "label": "Terryl Farnsworth removed the back camera and recorded a selfie video minutes after the shooting",
       "claim": "The host says Terryl Farnsworth raced to take down the camera behind Charlie Kirk's head minutes after he died, and recorded a selfie video of himself declaring that Charlie was dead seconds after he died.",
       "anchored_artifacts": [],
@@ -2140,8 +2140,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4654",
-      "ref": "C-4654",
+      "@id": "C-10039",
+      "ref": "C-10039",
       "label": "Clip: Charlie Kirk's necklace was found draped over a bag in the car, and police had been looking for it",
       "claim": "In a clip the host plays, a speaker (apparently Frank Turek) says that when he got back into the car he found Charlie Kirk's cross-and-medallion necklace draped over his bag, that a police officer said they had been looking for it, and that he took it.",
       "anchored_artifacts": [
@@ -2155,7 +2155,7 @@
       "investigative_direction": "Identify the source interview for the clip, and request police evidence logs showing whether the necklace was sought, logged or released.",
       "transcript_snippet": "I got into the car and I pulled out my bag and draped over my bag was Charlie's necklace that had a cross and medallions on it. And I had heard they were looking for that.",
       "supports_claim_refs": [
-        "C-1962"
+        "C-4213"
       ],
       "mentions_person_refs": [
         "N-7",
@@ -2164,8 +2164,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4655",
-      "ref": "C-4655",
+      "@id": "C-10040",
+      "ref": "C-10040",
       "label": "Clip: Andrew Kolvet says the necklace was ripped off during life-saving efforts and Erika Kirk now wears it",
       "claim": "In a clip the host later attributes to Andrew Kolvet on Laura Ingraham's show, Kolvet says Erika Kirk gave Charlie Kirk the necklace when they were dating, that the people caring for him ripped it off as they tried to save his life, and that Erika Kirk now has it on her at all times.",
       "anchored_artifacts": [
@@ -2187,8 +2187,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4656",
-      "ref": "C-4656",
+      "@id": "C-10041",
+      "ref": "C-10041",
       "label": "Host theorizes the necklace was sought and returned to the widow because it would carry explosive residue",
       "claim": "The host rejects the theory that the necklace itself was rigged. Under her rigged-microphone theory, she argues that federal agents looked for the necklace and it was given to Erika Kirk because, worn on Charlie Kirk's chest, it would have carried explosive residue.",
       "anchored_artifacts": [
@@ -2209,8 +2209,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4657",
-      "ref": "C-4657",
+      "@id": "C-10042",
+      "ref": "C-10042",
       "label": "Host says the rigged-mic theory would explain why bomb dogs were kept away and the scene was paved over",
       "claim": "Presenting a recap graphic, the host says that if Charlie Kirk's microphone was rigged, it would explain why bomb dogs were kept away from the scene and why the crime scene was immediately paved over and its soil excavated.",
       "anchored_artifacts": [
@@ -2230,8 +2230,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4658",
-      "ref": "C-4658",
+      "@id": "C-10043",
+      "ref": "C-10043",
       "label": "Article: PETN's low water solubility and high soil absorption would require digging out the soil",
       "claim": "Citing a science article she shows, the host says PETN has low water solubility and high soil absorption, so that if PETN was the explosive, the soil would have to be dug out.",
       "anchored_artifacts": [
@@ -2251,8 +2251,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4659",
-      "ref": "C-4659",
+      "@id": "C-10044",
+      "ref": "C-10044",
       "label": "Paver Dan Merrell Says a Government Team Dug Out 8 to 10 Inches of Soil Before He Arrived",
       "claim": "The host says paver Dan Merrell, in his interview with Jimmy Rex, described his crew as the second team on site that Sunday. According to Merrell, another government team had already been sent to dig out 8 to 10 inches of soil.",
       "anchored_artifacts": [
@@ -2272,8 +2272,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4660",
-      "ref": "C-4660",
+      "@id": "C-10045",
+      "ref": "C-10045",
       "label": "Clip: about 10 inches of dirt had been excavated around the scene",
       "claim": "In the Jimmy Rex interview clip, Dan Merrell says that when he arrived and photographed the site, about 10 inches of dirt had been taken out around the whole area.",
       "anchored_artifacts": [
@@ -2293,8 +2293,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4661",
-      "ref": "C-4661",
+      "@id": "C-10046",
+      "ref": "C-10046",
       "label": "Shattered black plastic or glass appears throughout the SUV that carried Charlie Kirk",
       "claim": "The host says shattered black plastic or glass appears all over the SUV that transported Charlie Kirk to the hospital, which she says fits a shattered Rode microphone.",
       "anchored_artifacts": [
@@ -2308,7 +2308,7 @@
       "investigative_direction": "Request evidence photographs and the evidence inventory for the transport SUV, and any lab analysis of the fragments.",
       "transcript_snippet": "Why there appears to be shattered black plastic or glass all over the SUV which transported Charlie to the hospital.",
       "supports_claim_refs": [
-        "C-1978"
+        "C-4276"
       ],
       "mentions_person_refs": [
         "N-1"
@@ -2316,8 +2316,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4662",
-      "ref": "C-4662",
+      "@id": "C-10047",
+      "ref": "C-10047",
       "label": "No Footage or Eyewitness Shows a Shot Fired From the Losee Building",
       "claim": "The host says there is no available footage and no eyewitness report of anyone seen firing a shot from the Losee building.",
       "anchored_artifacts": [
@@ -2337,8 +2337,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4663",
-      "ref": "C-4663",
+      "@id": "C-10048",
+      "ref": "C-10048",
       "label": "Federal agents did not perform a GSR test on Tyler Robinson",
       "claim": "The host says federal agents did not conduct a standard gunshot residue (GSR) test on Tyler Robinson when he was brought in after a 33-hour manhunt.",
       "anchored_artifacts": [
@@ -2357,8 +2357,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4664",
-      "ref": "C-4664",
+      "@id": "C-10049",
+      "ref": "C-10049",
       "label": "Farnsworth removed the SD card from the back camera at the crime scene",
       "claim": "The host says Terryl Farnsworth violated the crime scene immediately after the shooting to remove the SD card from the back camera.",
       "anchored_artifacts": [
@@ -2377,8 +2377,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4665",
-      "ref": "C-4665",
+      "@id": "C-10050",
+      "ref": "C-10050",
       "label": "No ambulance was on standby at the UVU event, unlike the host's own TPUSA tour events",
       "claim": "The host says there was unusually no ambulance on standby at the UVU event, and that she always had an ambulance on standby at her own Turning Point USA tour events.",
       "anchored_artifacts": [
@@ -2398,8 +2398,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4666",
-      "ref": "C-4666",
+      "@id": "C-10051",
+      "ref": "C-10051",
       "label": "Erika Kirk forgave Tyler Robinson faster than she forgave Druski",
       "claim": "The host says Erika Kirk publicly forgave Tyler Robinson more quickly than she forgave Druski (\"Druski\"), at whom she later said she was much angrier.",
       "anchored_artifacts": [],
@@ -2415,8 +2415,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4667",
-      "ref": "C-4667",
+      "@id": "C-10052",
+      "ref": "C-10052",
       "label": "Audio professionals emailed the show that an inside-the-shirt mic placement makes no sense",
       "claim": "The host says her show received many emails from media and audio professionals insisting that placing Charlie Kirk's wireless mic inside his shirt would be inappropriate and nonsensical.",
       "anchored_artifacts": [
@@ -2435,8 +2435,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4668",
-      "ref": "C-4668",
+      "@id": "C-10053",
+      "ref": "C-10053",
       "label": "On September 10 the Rode mic was placed inside Charlie Kirk's shirt with the magnetic clasp outside",
       "claim": "The host says that on September 10 Charlie Kirk's black Rode Wireless Pro mic, which also records, was fitted with its magnetic clasp on the outside of his shirt and the transmitter on the inside.",
       "anchored_artifacts": [
@@ -2456,8 +2456,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4669",
-      "ref": "C-4669",
+      "@id": "C-10054",
+      "ref": "C-10054",
       "label": "The wireless mic redundancy began after the host stopped touring with Charlie Kirk, as Farnsworth admitted to her",
       "claim": "The host says it seems the wireless Rode mic was added as a redundancy starting with the first campus tour on which she was not featured alongside Charlie Kirk. She says that was also admitted to her by Terryl Farnsworth on the phone.",
       "anchored_artifacts": [
@@ -2478,8 +2478,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4670",
-      "ref": "C-4670",
+      "@id": "C-10055",
+      "ref": "C-10055",
       "label": "On the fall 2024 tour the mic moved from outside to inside Charlie Kirk's shirt from October 8",
       "claim": "The host says that on the fall 2024 \"You're Being Brainwashed\" tour, the wireless mic was worn outside Charlie Kirk's shirt at North Texas (September 11) and Pittsburgh (September 18). From the University of Nevada, Reno on October 8 it was worn inside his shirt, as it was again on October 11 and October 30.",
       "anchored_artifacts": [
@@ -2498,8 +2498,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4671",
-      "ref": "C-4671",
+      "@id": "C-10056",
+      "ref": "C-10056",
       "label": "AV professional's email: two mics only make sense if one fed a broadcast or live stream",
       "claim": "An email from an AV professional, read by the host, says the only reason to rig Charlie Kirk with two mics would be to send one to a broadcast recording or live stream. It adds that running both to the venue PA would cause interference, overlap and echo.",
       "anchored_artifacts": [
@@ -2519,8 +2519,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4672",
-      "ref": "C-4672",
+      "@id": "C-10057",
+      "ref": "C-10057",
       "label": "Farnsworth has run Charlie Kirk's AV team for over 10 years and grew up with Tyler Bowyer's family",
       "claim": "The host says Terryl Farnsworth has run Charlie Kirk's audio-visual team for over 10 years, and that the Farnsworth and Tyler Bowyer families grew up together and go back generations.",
       "anchored_artifacts": [],
@@ -2539,8 +2539,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4673",
-      "ref": "C-4673",
+      "@id": "C-10058",
+      "ref": "C-10058",
       "label": "Tyler Bowyer hired the people around Charlie Kirk",
       "claim": "The host says Tyler Bowyer was the one hiring everybody around Charlie Kirk.",
       "anchored_artifacts": [],
@@ -2559,8 +2559,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4674",
-      "ref": "C-4674",
+      "@id": "C-10059",
+      "ref": "C-10059",
       "label": "Philip Goldsberry Jr. was the AV technician who mic'd Charlie Kirk",
       "claim": "The host says the member of Terryl Farnsworth's team who mic'd Charlie Kirk on September 10 was a young man named Philip Goldsberry Jr.",
       "anchored_artifacts": [
@@ -2581,8 +2581,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4675",
-      "ref": "C-4675",
+      "@id": "C-10060",
+      "ref": "C-10060",
       "label": "Video analysis: the dual charging cases identify the mic as a Rode Wireless Pro",
       "claim": "In a video by X user Sam Parker, Philip Goldsberry is shown holding the transmitter and lapel magnet behind Frank Turek, and earlier holding the mic in front of someone who looks like Terryl Farnsworth. Parker says the dual charging cases or docking stations show the mic is a Rode Wireless Pro.",
       "anchored_artifacts": [
@@ -2604,8 +2604,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4676",
-      "ref": "C-4676",
+      "@id": "C-10061",
+      "ref": "C-10061",
       "label": "Goldsberry secured the mic under Charlie Kirk's shirt next to the necklace",
       "claim": "According to Sam Parker's video, Philip Goldsberry secured the mic under Charlie Kirk's shirt next to the necklace. The host says this would explain why the necklace appears to break before Charlie is injured.",
       "anchored_artifacts": [
@@ -2627,8 +2627,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4677",
-      "ref": "C-4677",
+      "@id": "C-10062",
+      "ref": "C-10062",
       "label": "Goldsberry Jr.'s father, Dr. Philip Goldsberry, is a pastor in Arizona who studied psychology",
       "claim": "The host says Philip Goldsberry Jr.'s father, Dr. Philip Goldsberry, is a pastor and reverend in Arizona who also studied psychology.",
       "anchored_artifacts": [
@@ -2648,8 +2648,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4678",
-      "ref": "C-4678",
+      "@id": "C-10063",
+      "ref": "C-10063",
       "label": "Erika Kirk won a teen pageant crown in 2006 under the Trump Miss Universe organization",
       "claim": "The host says that in 2006 Erika Kirk won a teen pageant crown (she calls it \"Teen Miss America\") under the Trump Miss Universe organization.",
       "anchored_artifacts": [],
@@ -2667,8 +2667,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4679",
-      "ref": "C-4679",
+      "@id": "C-10064",
+      "ref": "C-10064",
       "label": "Dr. Philip Goldsberry co-founded a charity working in Eastern Europe in 2006",
       "claim": "The host says that in 2006 Dr. Philip Goldsberry co-founded a charitable organization that began doing work in Eastern Europe.",
       "anchored_artifacts": [
@@ -2688,8 +2688,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4680",
-      "ref": "C-4680",
+      "@id": "C-10065",
+      "ref": "C-10065",
       "label": "Soter Global Ministries provided medical care to orphanages in Ukraine and Romania",
       "claim": "The host says the organization, Soter Global Ministries, worked in Ukraine and in Romania, helping provide medical care to orphanages, and that her team verified the father's identity and has pictures.",
       "anchored_artifacts": [
@@ -2709,8 +2709,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4681",
-      "ref": "C-4681",
+      "@id": "C-10066",
+      "ref": "C-10066",
       "label": "Soter filed formal paperwork in 2010, the year the Black Sea Rotational Force set up in Romania",
       "claim": "The host says Soter Global Ministries did not officially file paperwork until 2010, the same year the Black Sea Rotational Force set up a base in Romania. She says that base was later accused of trafficking and prostituting children.",
       "anchored_artifacts": [
@@ -2732,8 +2732,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4682",
-      "ref": "C-4682",
+      "@id": "C-10067",
+      "ref": "C-10067",
       "label": "Erika Kirk's Romanian Angels partnered with a colonel accused online of trafficking through the base",
       "claim": "The host says Erika Kirk's Romanian Angels drew criticism online when people realized she was partnering with Colonel \"Otto Busher,\" whom the host says was accused of setting up the base and trafficking children through it. This is presented as an accusation, not an established fact.",
       "anchored_artifacts": [],
@@ -2752,8 +2752,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4683",
-      "ref": "C-4683",
+      "@id": "C-10068",
+      "ref": "C-10068",
       "label": "Dr. Goldsberry is chairman of the board of Soter Global Ministries",
       "claim": "The host says Dr. Philip Goldsberry is today the chairman of the board of Soter Global Ministries. She shows his 2013 bio from the organization's website and says her team confirmed he is Philip Goldsberry Jr.'s father.",
       "anchored_artifacts": [
@@ -2773,8 +2773,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4684",
-      "ref": "C-4684",
+      "@id": "C-10069",
+      "ref": "C-10069",
       "label": "Soter's website lists Balkan and Ukrainian work including human trafficking education and a shelter visit",
       "claim": "Reading from Soter's current website, the host says the group provided medical care in Albania (2005) and Romania (2006), and taught hygiene and gave human-trafficking education in Ukraine (2008). In 2010, she says, it trained Albanian physicians and visited a shelter for human trafficking victims.",
       "anchored_artifacts": [
@@ -2794,8 +2794,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4685",
-      "ref": "C-4685",
+      "@id": "C-10070",
+      "ref": "C-10070",
       "label": "Tyler Bowyer did missionary work in the same region in 2005–2006",
       "claim": "The host says that in 2005–2006, the years of Soter's early work, Tyler Bowyer was doing missionary work in the same region.",
       "anchored_artifacts": [],
@@ -2812,8 +2812,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4686",
-      "ref": "C-4686",
+      "@id": "C-10071",
+      "ref": "C-10071",
       "label": "Host hears Erika Kirk used the same modeling office as a woman close to Epstein",
       "claim": "The host says she is hearing from people that Erika Kirk was hanging out at the same modeling office as Jeffrey Epstein. She refers to a woman close to Epstein, through whose firm Eastern European models seem to have been trafficked. This is attributed to unnamed sources.",
       "anchored_artifacts": [],
@@ -2831,8 +2831,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4687",
-      "ref": "C-4687",
+      "@id": "C-10072",
+      "ref": "C-10072",
       "label": "Epstein went down almost to the day of Charlie and Erika Kirk's first date",
       "claim": "The host says Jeffrey Epstein \"goes down\" almost to the day that Charlie Kirk and Erika Kirk went on their first date; she says she thinks that was August 2019, when Epstein killed himself.",
       "anchored_artifacts": [],
@@ -2849,8 +2849,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4688",
-      "ref": "C-4688",
+      "@id": "C-10073",
+      "ref": "C-10073",
       "label": "Plane 888 was formerly registered in Romania and its owners help trafficking victims",
       "claim": "The host says the \"888\" plane that left on the day of the assassination was formerly registered in Romania, and that its current owners help trafficking victims.",
       "anchored_artifacts": [
@@ -2870,8 +2870,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4689",
-      "ref": "C-4689",
+      "@id": "C-10074",
+      "ref": "C-10074",
       "label": "Erika Kirk began the Romanian Angels Project in late 2012 on a US Marine base",
       "claim": "The host says that in late 2012 Erika Kirk began her Romanian Angels Project, working in some capacity with \"Otto Busher\" and, as Erika says, partnering with the US Marines on a Marine base.",
       "anchored_artifacts": [
@@ -2892,8 +2892,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4690",
-      "ref": "C-4690",
+      "@id": "C-10075",
+      "ref": "C-10075",
       "label": "Tyler Bowyer went to Romania in 2011 to work with the Romanian government",
       "claim": "The host says Tyler Bowyer went to Romania in 2011 to work with the Romanian government.",
       "anchored_artifacts": [
@@ -2912,8 +2912,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4691",
-      "ref": "C-4691",
+      "@id": "C-10076",
+      "ref": "C-10076",
       "label": "Tyler Bowyer posted a 2013 photo with a Ukrainian orphan named Natalia",
       "claim": "The host says that in 2013 Tyler Bowyer posted a photo of himself with a Ukrainian orphan named Natalia who spoke no English, saying he was helping an adoption agency program.",
       "anchored_artifacts": [
@@ -2927,7 +2927,7 @@
       "investigative_direction": "Archive the original 2013 post and identify the adoption or hosting program involved.",
       "transcript_snippet": "2013, Tyler Bowyer posts a photo of himself with a Ukrainian orphan named Natalia.",
       "supports_claim_refs": [
-        "C-2027"
+        "C-4750"
       ],
       "mentions_person_refs": [
         "N-11"
@@ -2935,8 +2935,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4692",
-      "ref": "C-4692",
+      "@id": "C-10077",
+      "ref": "C-10077",
       "label": "Greg Laurie's Harvest church is in court over accusations of trafficking from Romania",
       "claim": "The host says Erika Kirk toured with Pastor Greg Laurie after the assassination. She says his Harvest church is going through the courts over credible accusations of trafficking from Romania. According to the host, Laurie does not deny something happened there but says it was one individual, not a broader church issue.",
       "anchored_artifacts": [
@@ -2950,7 +2950,7 @@
       "investigative_direction": "Review the dockets of the lawsuits against Harvest Christian Fellowship and Laurie's public statements on them.",
       "transcript_snippet": "they are currently being taken through the court system because they are being credible credibly accused of trafficking from Romania.",
       "supports_claim_refs": [
-        "C-2087"
+        "C-5042"
       ],
       "mentions_person_refs": [
         "N-450",
@@ -2959,8 +2959,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4693",
-      "ref": "C-4693",
+      "@id": "C-10078",
+      "ref": "C-10078",
       "label": "Andrew Kolvet's brother Curtis was recently stationed in Romania as a lieutenant colonel",
       "claim": "The host says Andrew Kolvet's brother Curtis is, or recently was, stationed in Romania as a lieutenant colonel.",
       "anchored_artifacts": [
@@ -2980,8 +2980,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4694",
-      "ref": "C-4694",
+      "@id": "C-10079",
+      "ref": "C-10079",
       "label": "Tyler Bowyer holds a Russian studies degree and lived in Russia for two years",
       "claim": "The host says Tyler Bowyer holds a degree in Russian studies, is fluent in Russian, lived in Russia for two years and spent time in Ukraine during that period.",
       "anchored_artifacts": [
@@ -3000,8 +3000,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4695",
-      "ref": "C-4695",
+      "@id": "C-10080",
+      "ref": "C-10080",
       "label": "Rob McCoy adopted a 12-year-old girl named Natalia from Russia in 2006",
       "claim": "The host says Rob McCoy adopted a 12-year-old girl named Natalia from Russia in 2006.",
       "anchored_artifacts": [
@@ -3021,8 +3021,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4696",
-      "ref": "C-4696",
+      "@id": "C-10081",
+      "ref": "C-10081",
       "label": "TPUSA's biggest donor Nelda Buckman is extensively involved in anti-trafficking work",
       "claim": "The host says Nelda Buckman, whom she calls Turning Point USA's biggest donor, is extensively involved in rescuing children from sexual abuse and trafficking.",
       "anchored_artifacts": [
@@ -3043,8 +3043,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4697",
-      "ref": "C-4697",
+      "@id": "C-10082",
+      "ref": "C-10082",
       "label": "Victor Marx says his wife Eileen is like a mentor to Erika Kirk",
       "claim": "The host says Victor Marx has said his wife Eileen Marx is like a mentor to Erika Kirk.",
       "anchored_artifacts": [],
@@ -3063,8 +3063,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4698",
-      "ref": "C-4698",
+      "@id": "C-10083",
+      "ref": "C-10083",
       "label": "Farnsworth told the host his team was trying something new, so he began attending events",
       "claim": "The host says Terryl Farnsworth, CEO of Visual Impulse and long-time AV provider for Charlie Kirk and TPUSA, told her by phone after the assassination that they were trying something new. She says this was why he had started attending events where he oversaw the audio division, and that his presence on September 10 was new.",
       "anchored_artifacts": [
@@ -3086,8 +3086,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4699",
-      "ref": "C-4699",
+      "@id": "C-10084",
+      "ref": "C-10084",
       "label": "Farnsworth said he did not know how to send a video file, then that he feared Google would hack him",
       "claim": "The host says Terryl Farnsworth told her he did not know how to send a video file, and that this changed into a stated fear that Google would hack him if he sent it.",
       "anchored_artifacts": [
@@ -3106,8 +3106,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4700",
-      "ref": "C-4700",
+      "@id": "C-10085",
+      "ref": "C-10085",
       "label": "Farnsworth said the event was live-streamed to \"the ops back in Phoenix,\" not to TPUSA headquarters",
       "claim": "The host says Terryl Farnsworth told her the UVU event was being live-streamed to \"the ops back in Phoenix\" because Charlie Kirk wanted clips cut immediately. When she asked whether those ops were at Turning Point headquarters, he said no.",
       "anchored_artifacts": [
@@ -3128,8 +3128,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4701",
-      "ref": "C-4701",
+      "@id": "C-10086",
+      "ref": "C-10086",
       "label": "Current and former TPUSA employees were told it was live-streamed but no one knows where",
       "claim": "The host says her team has asked current and former Turning Point USA employees. All of them, she says, were told the event was being live-streamed, but none know where.",
       "anchored_artifacts": [],
@@ -3147,8 +3147,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4702",
-      "ref": "C-4702",
+      "@id": "C-10087",
+      "ref": "C-10087",
       "label": "Charlie Kirk's white Freedom shirt is not listed as evidence in the court hearing",
       "claim": "The host says she does not see Charlie Kirk's white Freedom shirt listed as evidence in the court hearing. She argues the defense should seek it and have it tested for explosive residue.",
       "anchored_artifacts": [],
@@ -3166,8 +3166,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4703",
-      "ref": "C-4703",
+      "@id": "C-10088",
+      "ref": "C-10088",
       "label": "The bloodied handheld mic was given to TPUSA, which displays it in a glass case to raise money",
       "claim": "The host says federal agents did not keep Charlie Kirk's handheld microphone, which carries the immediate blood spatter, as evidence. Instead, she says, it was given to Turning Point USA, which put it in a glass case and raised money off it.",
       "anchored_artifacts": [],
@@ -3184,8 +3184,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4704",
-      "ref": "C-4704",
+      "@id": "C-10089",
+      "ref": "C-10089",
       "label": "Night before: Charlie Kirk told a group text \"keep the money\" and texted that he feared a trans person would kill him",
       "claim": "The host says that on the night before he died, after Charlie Kirk said he was leaving the pro-Israel cause and a rabbi and Josh Hammer called him, he wrote on a group text, \"You guys keep the money. I don't want it.\" She says he then texted his team, about a \"trans fairy,\" \"That's who's going to kill me.\"",
       "anchored_artifacts": [],
@@ -3203,8 +3203,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4705",
-      "ref": "C-4705",
+      "@id": "C-10090",
+      "ref": "C-10090",
       "label": "Charlie Kirk's phone was given to Erika Kirk instead of being held as evidence",
       "claim": "The host says Charlie Kirk's phone was given to Erika Kirk rather than held in evidence, along with the necklace and, through TPUSA, the body microphone.",
       "anchored_artifacts": [],
@@ -3222,8 +3222,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4706",
-      "ref": "C-4706",
+      "@id": "C-10091",
+      "ref": "C-10091",
       "label": "Epstein said in his emails that he worked for the Rothschilds",
       "claim": "The host says Jeffrey Epstein ran a global trafficking ring and, according to Epstein himself and his emails, worked for the Rothschilds.",
       "anchored_artifacts": [],
@@ -3241,8 +3241,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4707",
-      "ref": "C-4707",
+      "@id": "C-10092",
+      "ref": "C-10092",
       "label": "Trump called Charlie Kirk and asked him to stop raising questions about Epstein",
       "claim": "The host says her team was working on an Epstein series when Charlie Kirk was assassinated. She says Kirk had been asking many questions about Epstein and then got a phone call from the president asking him to stop.",
       "anchored_artifacts": [],
@@ -3261,8 +3261,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4708",
-      "ref": "C-4708",
+      "@id": "C-10093",
+      "ref": "C-10093",
       "label": "Frank Turek says they gave Charlie Kirk CPR in the car",
       "claim": "In a clip the host plays, Frank Turek says that on the drive to the hospital he said they had to start CPR, and that they gave Charlie Kirk CPR but nothing was happening.",
       "anchored_artifacts": [
@@ -3283,8 +3283,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4709",
-      "ref": "C-4709",
+      "@id": "C-10094",
+      "ref": "C-10094",
       "label": "Brian Harpole says no CPR was done in the car because he had to stop the bleeding",
       "claim": "In a clip the host plays, Brian Harpole, asked whether CPR was done during the drive, says no, because he had to stop the bleeding first. In his account Turek and \"Rick\" were praying while \"Dan\" called out directions to \"Justin,\" the driver.",
       "anchored_artifacts": [
@@ -3304,8 +3304,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4710",
-      "ref": "C-4710",
+      "@id": "C-10095",
+      "ref": "C-10095",
       "label": "Rob McCoy says Frank Turek was covered in blood because he was giving Charlie Kirk CPR",
       "claim": "In a clip the host plays, Rob McCoy says on stage that Frank Turek was covered in blood because he was giving Charlie Kirk CPR. The host contrasts this with Harpole's account of Turek praying in the back seat.",
       "anchored_artifacts": [
@@ -3328,8 +3328,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4711",
-      "ref": "C-4711",
+      "@id": "C-10096",
+      "ref": "C-10096",
       "label": "Turek says hospital staff gave them scrubs because they were covered in blood",
       "claim": "The host says Frank Turek has said that at the hospital Mikey McCoy helped and they were given scrubs to change into because they were covered in blood. She questions this against video of him entering the back seat and his children being on FaceTime with him.",
       "anchored_artifacts": [],
@@ -3347,8 +3347,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4712",
-      "ref": "C-4712",
+      "@id": "C-10097",
+      "ref": "C-10097",
       "label": "Post: Erika Kirk's signature shows a \"scratch out\" stroke associated with negating one's identity",
       "claim": "An X user, in a post the host reads, says Erika Kirk signs her name in a scratched-out style. A commenter cites handwriting analysis of a \"scratch out effect\" that analysts interpret as a subconscious wish to negate, hide or alter one's identity. The host calls the post a jest.",
       "anchored_artifacts": [
@@ -3368,8 +3368,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4713",
-      "ref": "C-4713",
+      "@id": "C-10098",
+      "ref": "C-10098",
       "label": "The paver had never heard of a \"paver emergency\"",
       "claim": "Answering a viewer comment that quotes the paver's question \"what's a paver emergency?\", the host says that if a professional paver has never heard of a \"paver emergency,\" something is out of order. She adds that the paver, Dan Merrell, decided to speak out after wondering whether he was part of a cover-up, given that a team had removed the soil before he was brought in to pave.",
       "anchored_artifacts": [
@@ -3388,8 +3388,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4714",
-      "ref": "C-4714",
+      "@id": "C-10099",
+      "ref": "C-10099",
       "label": "About 90,000 people were watching the show live nine months after the assassination",
       "claim": "The host says that nine months after the assassination about 90,000 people were watching the episode live on YouTube.",
       "anchored_artifacts": [],
@@ -3404,8 +3404,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4715",
-      "ref": "C-4715",
+      "@id": "C-10100",
+      "ref": "C-10100",
       "label": "An email shows the Department of War artificially boosted Erika Kirk as an \"emotional asset\"",
       "claim": "The host says her team obtained an email about Erika Kirk being an \"emotional asset.\" According to the host, it shows that the White House Correspondents' Dinner messaging was staged and that the Department of War was artificially boosting Erika Kirk. She urges FOIA requests for the emails.",
       "anchored_artifacts": [
@@ -3425,8 +3425,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4716",
-      "ref": "C-4716",
+      "@id": "C-10101",
+      "ref": "C-10101",
       "label": "The $10,000 Bounty Has Still Not Identified Who Recorded the Erika Kirk WHCD Video",
       "claim": "The host says her team put out a $10,000 bounty and still cannot find out who recorded the video of Erika Kirk. She says it was not the CNN reporter who posted it on Instagram.",
       "anchored_artifacts": [
@@ -3440,7 +3440,7 @@
       "investigative_direction": "Archive the bounty terms and any tips received, and trace the earliest upload and original file metadata of the video.",
       "transcript_snippet": "We put out a $10,000 bounty. We still can't find out who recorded that video. It certainly wasn't the CNN woman who put it on her uh Instagram.",
       "supports_claim_refs": [
-        "C-3745"
+        "C-8578"
       ],
       "mentions_person_refs": [
         "N-2"
@@ -3448,8 +3448,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4717",
-      "ref": "C-4717",
+      "@id": "C-10102",
+      "ref": "C-10102",
       "label": "Harpole's filing asserts a 911 call that the host has not found in the released recordings",
       "claim": "The host says that in his filing against her, Brian Harpole asserted, she thinks, that he or someone else called 911. She says she has not seen such a call in the released 911 recordings.",
       "anchored_artifacts": [],
@@ -3467,8 +3467,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4718",
-      "ref": "C-4718",
+      "@id": "C-10103",
+      "ref": "C-10103",
       "label": "The TPUSA staff did not try to help Charlie Kirk or call 911",
       "claim": "The host says the Turning Point team broadly, including staff she gives as examples such as Mikey McCoy, Blake Neff and Andrew Sypher (\"Andrew Cypher\"), did not try to assist Charlie Kirk or call 911. She says they instead ran under the underpass.",
       "anchored_artifacts": [],
@@ -3489,8 +3489,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4719",
-      "ref": "C-4719",
+      "@id": "C-10104",
+      "ref": "C-10104",
       "label": "Trump was the one who called Erika Kirk within hours of the shooting",
       "claim": "Responding to a viewer comment about Andrew Kolvet's account that someone very important called Erika Kirk within a few hours and she said \"I know everything,\" the host says she knows it was Trump who called her.",
       "anchored_artifacts": [
@@ -3509,8 +3509,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4720",
-      "ref": "C-4720",
+      "@id": "C-10105",
+      "ref": "C-10105",
       "label": "Trump co-owned the Miss Universe organization with NBC Universal during Erika Kirk's pageant years",
       "claim": "The host says Erika Kirk's pageant background dates from when Trump co-owned the Miss Universe organization with NBC Universal. She suggests Erika knew Trump before Charlie Kirk did.",
       "anchored_artifacts": [],
@@ -3529,8 +3529,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4721",
-      "ref": "C-4721",
+      "@id": "C-10106",
+      "ref": "C-10106",
       "label": "Alex Clark appeared in a Mark Burnett Productions dating show",
       "claim": "The host says someone told her that Alex Clark took part in a Mark Burnett Productions dating (\"Tinder\") show in the past.",
       "anchored_artifacts": [],

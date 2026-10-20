@@ -27,9 +27,9 @@
           "ref": "A-1835.1",
           "description": "NY Post article \"Inside the New York City condo building where Jeffrey Epstein secretly kept his underage victims\"",
           "related_claims": [
-            "C-2453",
-            "C-2454",
-            "C-2455"
+            "C-6972",
+            "C-6976",
+            "C-6977"
           ],
           "related_nodes": [
             "N-2",
@@ -58,7 +58,7 @@
           "ref": "A-1836.1",
           "description": "News segment on Alexander brothers federal sex-trafficking conviction in Manhattan",
           "related_claims": [
-            "C-2456"
+            "C-6986"
           ],
           "related_nodes": [
             "N-585",
@@ -87,7 +87,7 @@
           "ref": "A-1837.1",
           "description": "Sarah Huckabee Sanders proclamation clip with Erika Kirk at her side, supporting Club America in every Arkansas high school",
           "related_claims": [
-            "C-2457"
+            "C-6996"
           ],
           "related_nodes": [
             "N-2",
@@ -116,8 +116,8 @@
           "ref": "A-1838.1",
           "description": "2017 article quoting Erika Kirk on partnership with Renee Crossman and Antonio Placement Center in Constanta",
           "related_claims": [
-            "C-2458",
-            "C-2471"
+            "C-7001",
+            "C-7002"
           ],
           "related_nodes": [
             "N-2",
@@ -137,7 +137,7 @@
           "ref": "A-1838.2",
           "description": "Erika Kirk interview clip in which she states Romanian orphans did not trust Renee Crossman",
           "related_claims": [
-            "C-2459"
+            "C-6997"
           ],
           "related_nodes": [
             "N-2",
@@ -165,9 +165,9 @@
           "ref": "A-1839.1",
           "description": "Romanian investigative article on Children of God / The Family cult, founder David Berg, history of proselytizing and sexual practices involving minors",
           "related_claims": [
-            "C-2460",
-            "C-2470",
-            "C-2475"
+            "C-7005",
+            "C-7003",
+            "C-7011"
           ],
           "related_nodes": [
             "N-583",
@@ -195,7 +195,7 @@
           "ref": "A-1840.1",
           "description": "Megyn Kelly interview with Christina Babin describing childhood sexual instruction by adult cult members",
           "related_claims": [
-            "C-2461"
+            "C-7007"
           ],
           "related_nodes": [
             "N-589",
@@ -223,8 +223,8 @@
           "ref": "A-1841.1",
           "description": "Photo of van back-seat area showing scattered material across seat",
           "related_claims": [
-            "C-2462",
-            "C-2473"
+            "C-7017",
+            "C-7018"
           ],
           "related_nodes": [
             "N-1",
@@ -243,7 +243,7 @@
           "ref": "A-1841.2",
           "description": "Photo of van interior from another angle",
           "related_claims": [
-            "C-2462"
+            "C-7017"
           ],
           "related_nodes": [
             "N-1",
@@ -287,7 +287,7 @@
           "ref": "A-1842.1",
           "description": "Video segment showing Charlie's necklace whipping upward after impact",
           "related_claims": [
-            "C-2463"
+            "C-7024"
           ],
           "related_nodes": [
             "N-1",
@@ -307,8 +307,8 @@
           "ref": "A-1842.2",
           "description": "Video segment showing Charlie falling/sliding toward the table",
           "related_claims": [
-            "C-2464",
-            "C-2472"
+            "C-7031",
+            "C-7035"
           ],
           "related_nodes": [
             "N-1",
@@ -327,7 +327,7 @@
           "ref": "A-1842.3",
           "description": "Video segment showing Charlie's hands making contact with table without grabbing any object",
           "related_claims": [
-            "C-2465"
+            "C-7037"
           ],
           "related_nodes": [
             "N-1",
@@ -346,7 +346,7 @@
           "ref": "A-1842.4",
           "description": "Video segment showing the necklace and magnet clasp still attached post-impact",
           "related_claims": [
-            "C-2463"
+            "C-7024"
           ],
           "related_nodes": [
             "N-1",
@@ -374,8 +374,8 @@
           "ref": "A-1843.1",
           "description": "Charlie Kirk video clip naming Rep. Thomas Massie as one of his favorite members of Congress",
           "related_claims": [
-            "C-2466",
-            "C-2469"
+            "C-7040",
+            "C-7046"
           ],
           "related_nodes": [
             "N-1",
@@ -402,7 +402,7 @@
           "ref": "A-1844.1",
           "description": "Turning Point Action tweet (\"MAGA rallies are back. Trump haters are on notice.\") identifying Massie as needing to be replaced",
           "related_claims": [
-            "C-2467"
+            "C-7044"
           ],
           "related_nodes": [
             "N-580",
@@ -422,7 +422,7 @@
           "ref": "A-1844.2",
           "description": "X community note fact-checking TP Action's Massie tweet: \"Rep. Thomas Massie was one of Charlie Kirk's favorite congressman\"",
           "related_claims": [
-            "C-2468"
+            "C-7045"
           ],
           "related_nodes": [
             "N-580",
@@ -449,8 +449,8 @@
           "ref": "A-1845.1",
           "description": "Thomas Massie reply tweet asking \"what has gotten into y'all\" and quoting Charlie Kirk naming Massie as a favorite congressman",
           "related_claims": [
-            "C-2469",
-            "C-2474"
+            "C-7046",
+            "C-7047"
           ],
           "related_nodes": [
             "N-580",
@@ -503,8 +503,8 @@
           "ref": "A-3220.1",
           "description": "Clip of Erika Kirk describing the Black Sea Rotational Force base move and contact at Constanța (played on air)",
           "related_claims": [
-            "C-12693",
-            "C-12694"
+            "C-6998",
+            "C-6999"
           ],
           "related_nodes": [],
           "tags": [],
@@ -527,7 +527,7 @@
           "ref": "A-3221.1",
           "description": "Host reads a top comment suggesting she run independent if Erika runs for president",
           "related_claims": [
-            "C-12727"
+            "C-7049"
           ],
           "related_nodes": [],
           "tags": [],
@@ -542,8 +542,8 @@
           "ref": "A-3221.2",
           "description": "Host reads a Project Constitution comment about student protests against Turning Point",
           "related_claims": [
-            "C-12728",
-            "C-12729"
+            "C-7050",
+            "C-7051"
           ],
           "related_nodes": [],
           "tags": [],
@@ -558,7 +558,7 @@
           "ref": "A-3221.3",
           "description": "Host reads a donor's comment about frequent TPUSA fundraising letters",
           "related_claims": [
-            "C-12730"
+            "C-7052"
           ],
           "related_nodes": [],
           "tags": [],
@@ -573,7 +573,7 @@
           "ref": "A-3221.4",
           "description": "Host reads a comment listing speakers at upcoming TPUSA events",
           "related_claims": [
-            "C-12731"
+            "C-7053"
           ],
           "related_nodes": [],
           "tags": [],
@@ -588,8 +588,8 @@
           "ref": "A-3221.5",
           "description": "Host reads a comment reporting four drones stolen from Fort Campbell",
           "related_claims": [
-            "C-12732",
-            "C-12733"
+            "C-7054",
+            "C-7055"
           ],
           "related_nodes": [],
           "tags": [],
@@ -604,8 +604,8 @@
           "ref": "A-3221.6",
           "description": "Host reads a comment about Tucker Carlson's interview with Bret Weinstein",
           "related_claims": [
-            "C-12736",
-            "C-12737"
+            "C-7058",
+            "C-7059"
           ],
           "related_nodes": [],
           "tags": [],
@@ -628,7 +628,7 @@
           "ref": "A-3222.1",
           "description": "Host verbal call for more tips at candaceowens.com",
           "related_claims": [
-            "C-12744"
+            "C-7066"
           ],
           "related_nodes": [],
           "tags": [],
@@ -643,7 +643,7 @@
           "ref": "A-3222.2",
           "description": "Host verbal call for tips from Next Model Management models and employees",
           "related_claims": [
-            "C-12745"
+            "C-7067"
           ],
           "related_nodes": [],
           "tags": [],
@@ -670,10 +670,10 @@
         "A-1845.1"
       ],
       "related_claims": [
-        "C-2466",
-        "C-2467",
-        "C-2468",
-        "C-2469"
+        "C-7040",
+        "C-7044",
+        "C-7045",
+        "C-7046"
       ],
       "tags": [],
       "evidence_count": 4,
@@ -695,7 +695,7 @@
         "A-1837.1"
       ],
       "related_claims": [
-        "C-2457"
+        "C-6996"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -741,9 +741,9 @@
         "A-1839.1"
       ],
       "related_claims": [
-        "C-2458",
-        "C-2459",
-        "C-2470"
+        "C-7001",
+        "C-6997",
+        "C-7003"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -766,7 +766,7 @@
         "A-1840.1"
       ],
       "related_claims": [
-        "C-2460"
+        "C-7005"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -788,7 +788,7 @@
         "A-1836.1"
       ],
       "related_claims": [
-        "C-2456"
+        "C-6986"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -810,7 +810,7 @@
         "A-1836.1"
       ],
       "related_claims": [
-        "C-2456"
+        "C-6986"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -832,7 +832,7 @@
         "A-1836.1"
       ],
       "related_claims": [
-        "C-2456"
+        "C-6986"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -914,7 +914,7 @@
         "A-1840.1"
       ],
       "related_claims": [
-        "C-2461"
+        "C-7007"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -936,9 +936,9 @@
         "A-1835.1"
       ],
       "related_claims": [
-        "C-2453",
-        "C-2454",
-        "C-2455"
+        "C-6972",
+        "C-6976",
+        "C-6977"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -984,7 +984,7 @@
         "A-1837.1"
       ],
       "related_claims": [
-        "C-2457"
+        "C-6996"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1011,10 +1011,10 @@
         "A-1840.1"
       ],
       "related_claims": [
-        "C-2458",
-        "C-2459",
-        "C-2460",
-        "C-2470"
+        "C-7001",
+        "C-6997",
+        "C-7005",
+        "C-7003"
       ],
       "tags": [],
       "evidence_count": 4,
@@ -1041,10 +1041,10 @@
         "A-1842.4"
       ],
       "related_claims": [
-        "C-2463",
-        "C-2464",
-        "C-2465",
-        "C-2472"
+        "C-7024",
+        "C-7031",
+        "C-7037",
+        "C-7035"
       ],
       "tags": [],
       "evidence_count": 4,
@@ -1069,8 +1069,8 @@
         "A-1841.3"
       ],
       "related_claims": [
-        "C-2462",
-        "C-2473"
+        "C-7017",
+        "C-7018"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -1093,7 +1093,7 @@
         "A-1842.4"
       ],
       "related_claims": [
-        "C-2463"
+        "C-7024"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1119,11 +1119,11 @@
         "A-1845.1"
       ],
       "related_claims": [
-        "C-2466",
-        "C-2467",
-        "C-2468",
-        "C-2469",
-        "C-2474"
+        "C-7040",
+        "C-7044",
+        "C-7045",
+        "C-7046",
+        "C-7047"
       ],
       "tags": [],
       "evidence_count": 4,
@@ -1145,22 +1145,22 @@
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12671",
-        "C-12690",
-        "C-12703",
-        "C-12704",
-        "C-12705",
-        "C-12712",
-        "C-12713",
-        "C-12714",
-        "C-12715",
-        "C-12716",
-        "C-12717",
-        "C-12720",
-        "C-12721",
-        "C-12726",
-        "C-12738",
-        "C-12748"
+        "C-6970",
+        "C-6993",
+        "C-7014",
+        "C-7015",
+        "C-7016",
+        "C-7026",
+        "C-7027",
+        "C-7028",
+        "C-7029",
+        "C-7030",
+        "C-7032",
+        "C-7036",
+        "C-7038",
+        "C-7048",
+        "C-7060",
+        "C-7070"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1178,20 +1178,20 @@
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12672",
-        "C-12692",
-        "C-12693",
-        "C-12694",
-        "C-12699",
-        "C-12702",
-        "C-12703",
-        "C-12716",
-        "C-12724",
-        "C-12727",
-        "C-12728",
-        "C-12731",
-        "C-12741",
-        "C-12745"
+        "C-6971",
+        "C-6995",
+        "C-6998",
+        "C-6999",
+        "C-7009",
+        "C-7013",
+        "C-7014",
+        "C-7030",
+        "C-7042",
+        "C-7049",
+        "C-7050",
+        "C-7053",
+        "C-7063",
+        "C-7067"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1225,11 +1225,11 @@
       "description": "Nucleus of Lutnick/Andre whistleblower thread and host's broader files thesis.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12673",
-        "C-12674",
-        "C-12675",
-        "C-12676",
-        "C-12677"
+        "C-6973",
+        "C-6974",
+        "C-6975",
+        "C-6978",
+        "C-6979"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1247,7 +1247,7 @@
       "description": "Banned subject on Elephant Clipping instructions per Atlantic.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12698"
+        "C-7008"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1281,7 +1281,7 @@
       "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12740"
+        "C-7062"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1299,13 +1299,13 @@
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12671",
-        "C-12727",
-        "C-12735",
-        "C-12744",
-        "C-12745",
-        "C-12747",
-        "C-12748"
+        "C-6970",
+        "C-7049",
+        "C-7057",
+        "C-7066",
+        "C-7067",
+        "C-7069",
+        "C-7070"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1323,7 +1323,7 @@
       "description": "Fox News host; interviewer in the Fox News interview clip of Erika Kirk discussed in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12703"
+        "C-7014"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1341,7 +1341,7 @@
       "description": "Named in a viewer comment as a speaker at upcoming TPUSA events.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12731"
+        "C-7053"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1358,9 +1358,9 @@
       "description": "President; the host discusses his stance on Massie, the Epstein files and Kushner.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12682",
-        "C-12686",
-        "C-12687"
+        "C-6984",
+        "C-6989",
+        "C-6990"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1377,8 +1377,8 @@
       "description": "Frank Turek; the host recounts his story of the necklace on the backpack.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12714",
-        "C-12715"
+        "C-7028",
+        "C-7029"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1395,7 +1395,7 @@
       "description": "TPUSA figure the host says runs Turning Point Action.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12723"
+        "C-7041"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1412,9 +1412,9 @@
       "description": "TPUSA spokesperson; the host ties him to the West Wing meeting and the fake-live episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12689",
-        "C-12690",
-        "C-12691"
+        "C-6992",
+        "C-6993",
+        "C-6994"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1431,8 +1431,8 @@
       "description": "Tucker Carlson; the host and a commenter discuss his interview with Bret Weinstein.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12736",
-        "C-12737"
+        "C-7058",
+        "C-7059"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1449,7 +1449,7 @@
       "description": "Named in a viewer comment as a speaker at upcoming TPUSA events.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12731"
+        "C-7053"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1466,7 +1466,7 @@
       "description": "Sigmund Freud; named in the host's remark about Vienna.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12746"
+        "C-7068"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1483,9 +1483,9 @@
       "description": "FBI director; the host cites his statement on trafficking evidence and alleged role in the fake-live show.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12679",
-        "C-12689",
-        "C-12690"
+        "C-6981",
+        "C-6992",
+        "C-6993"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1502,9 +1502,9 @@
       "description": "Ben Shapiro; subject of the AmFest, Levin and Boreing remarks.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12724",
-        "C-12726",
-        "C-12734"
+        "C-7042",
+        "C-7048",
+        "C-7056"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1521,7 +1521,7 @@
       "description": "Named in a viewer comment as a speaker at upcoming TPUSA events.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12731"
+        "C-7053"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1538,7 +1538,7 @@
       "description": "Stacy Sheridan; the host refers to her as Stacy the chief fundraiser (match inferred).",
       "related_artifacts": [],
       "related_claims": [
-        "C-12702"
+        "C-7013"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1555,7 +1555,7 @@
       "description": "Mark Levin; named by the host among people Charlie disliked.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12726"
+        "C-7048"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1572,9 +1572,9 @@
       "description": "Terryl Farnsworth; AV company owner the host says showed her the footage and made excuses about sending a file.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12709",
-        "C-12710",
-        "C-12711"
+        "C-7022",
+        "C-7023",
+        "C-7025"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1591,7 +1591,7 @@
       "description": "Named in a viewer comment as a speaker at upcoming TPUSA events.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12731"
+        "C-7053"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1608,8 +1608,8 @@
       "description": "Jeremy Boreing; the host discusses his interviews and his relationship with Shapiro.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12734",
-        "C-12735"
+        "C-7056",
+        "C-7057"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1626,7 +1626,7 @@
       "description": "Emmanuel Macron; the host says he is suing her.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12747"
+        "C-7069"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1643,9 +1643,9 @@
       "description": "Nelda Buckman; donor the host discusses.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12741",
-        "C-12742",
-        "C-12743"
+        "C-7063",
+        "C-7064",
+        "C-7065"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1662,8 +1662,8 @@
       "description": "Lori Frantzve; Erika's mother, linked to Superfeed and the Farnsworth family.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12710",
-        "C-12723"
+        "C-7023",
+        "C-7041"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1680,7 +1680,7 @@
       "description": "Rothschild family; named in the Corcoran presidency claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12677"
+        "C-6979"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1697,7 +1697,7 @@
       "description": "Bret Weinstein; named in a viewer comment on his interview with Tucker Carlson.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12736"
+        "C-7058"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1714,7 +1714,7 @@
       "description": "Ivanka Trump; named in the Miami mansion claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12678"
+        "C-6980"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1731,10 +1731,10 @@
       "description": "Jon Bray; investigator on the microphone theory and the Tennessee explosion.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12718",
-        "C-12719",
-        "C-12740",
-        "C-12741"
+        "C-7033",
+        "C-7034",
+        "C-7062",
+        "C-7063"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1751,7 +1751,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12747"
+        "C-7069"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1768,7 +1768,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12748"
+        "C-7070"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1785,7 +1785,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12748"
+        "C-7070"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1802,9 +1802,9 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12679",
-        "C-12681",
-        "C-12689"
+        "C-6981",
+        "C-6983",
+        "C-6992"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1821,7 +1821,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12709"
+        "C-7022"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1838,7 +1838,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12710"
+        "C-7023"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1855,8 +1855,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12734",
-        "C-12735"
+        "C-7056",
+        "C-7057"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1873,8 +1873,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12741",
-        "C-12742"
+        "C-7063",
+        "C-7064"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1891,8 +1891,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12672",
-        "C-12745"
+        "C-6971",
+        "C-7067"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1909,9 +1909,9 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12689",
-        "C-12690",
-        "C-12691"
+        "C-6992",
+        "C-6993",
+        "C-6994"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1928,7 +1928,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12677"
+        "C-6979"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1945,7 +1945,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12719"
+        "C-7034"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1962,7 +1962,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12740"
+        "C-7062"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1979,8 +1979,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12709",
-        "C-12711"
+        "C-7022",
+        "C-7025"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1997,7 +1997,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12728"
+        "C-7050"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2014,7 +2014,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12682"
+        "C-6984"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2031,7 +2031,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12723"
+        "C-7041"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2048,8 +2048,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12740",
-        "C-12743"
+        "C-7062",
+        "C-7065"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2066,8 +2066,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12718",
-        "C-12719"
+        "C-7033",
+        "C-7034"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2084,10 +2084,10 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12693",
-        "C-12694",
-        "C-12699",
-        "C-12700"
+        "C-6998",
+        "C-6999",
+        "C-7009",
+        "C-7010"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2104,7 +2104,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12722"
+        "C-7039"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2121,7 +2121,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12711"
+        "C-7025"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2138,8 +2138,8 @@
       "description": "A commenter's report that four drones were stolen from Fort Campbell and the host's guess that they went to Israel.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12732",
-        "C-12733"
+        "C-7054",
+        "C-7055"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2156,14 +2156,14 @@
       "description": "Whether the Alexander brothers' names were redacted from the Epstein files and why, set against their federal sex trafficking convictions and ties to Kushner.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12678",
-        "C-12679",
-        "C-12680",
-        "C-12681",
-        "C-12683",
-        "C-12684",
-        "C-12685",
-        "C-12688"
+        "C-6980",
+        "C-6981",
+        "C-6982",
+        "C-6983",
+        "C-6985",
+        "C-6987",
+        "C-6988",
+        "C-6991"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2175,8 +2175,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-2453",
-      "ref": "C-2453",
+      "@id": "C-6972",
+      "ref": "C-6972",
       "label": "NY Post article identifies 301 East 66th Street as building Epstein used to house underage victims",
       "claim": "The displayed New York Post article identifies 301 East 66th Street, a 16-story post-war condo between First and Second Avenues, as a building where Jeffrey Epstein kept underage victims and which functioned as a logistical hub for his operations.",
       "anchored_artifacts": [
@@ -2194,8 +2194,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2454",
-      "ref": "C-2454",
+      "@id": "C-6976",
+      "ref": "C-6976",
       "label": "Epstein's address book labeled certain apartments as \"apartments for models\"",
       "claim": "Per the displayed NY Post article, some apartments in the 301 East 66th Street building were labeled in Jeffrey Epstein's address book as \"apartments for models.\"",
       "anchored_artifacts": [
@@ -2214,8 +2214,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2455",
-      "ref": "C-2455",
+      "@id": "C-6977",
+      "ref": "C-6977",
       "label": "NY Post article photo of the building was courtesy of Corcoran real estate",
       "claim": "The photo embedded in the displayed NY Post article depicting the building was credited to Corcoran real estate.",
       "anchored_artifacts": [
@@ -2231,8 +2231,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2456",
-      "ref": "C-2456",
+      "@id": "C-6986",
+      "ref": "C-6986",
       "label": "Alexander brothers convicted on all 10 counts including sex trafficking of a minor",
       "claim": "Per the displayed news clip, a federal jury in Manhattan found Tal, Oren, and Alon Alexander guilty of all 10 counts, including sex trafficking; Tal and Alon also convicted of sex trafficking a minor; Oren and Alon also convicted of sexual abuse. Sentencing scheduled for August.",
       "anchored_artifacts": [
@@ -2250,8 +2250,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2457",
-      "ref": "C-2457",
+      "@id": "C-6996",
+      "ref": "C-6996",
       "label": "Sarah Huckabee Sanders signed proclamation supporting Club America in Arkansas high schools alongside Erika Kirk",
       "claim": "The host says Arkansas Governor Sarah Huckabee Sanders signed a proclamation with Erika Kirk at her side announcing support for every high school in Arkansas to adopt Club America (TPUSA high-school chapter program); in the clip she plays, Sanders welcomes Erika Kirk and says Club America is launching in Arkansas.",
       "anchored_artifacts": [
@@ -2270,8 +2270,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2458",
-      "ref": "C-2458",
+      "@id": "C-7001",
+      "ref": "C-7001",
       "label": "2017 article records Erika Kirk stating she partnered with Renee Crossman of United Hands Romania",
       "claim": "Per the displayed 2017 article, Erika Kirk stated: \"I am happy to collaborate with United Hands Romania Association and Renee Crossman, the president of this organization, but also with the representatives of the Antonio Placement Center.\"",
       "anchored_artifacts": [
@@ -2290,8 +2290,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2459",
-      "ref": "C-2459",
+      "@id": "C-6997",
+      "ref": "C-6997",
       "label": "Erika Says Base Staff Did Not Trust United Hands Head",
       "claim": "In a clip the host plays, Erika Kirk says the people at the base in Constanța do not trust the woman who heads United Hands Romania Association in Ohio because they have no connection to her; the host characterizes this as the Romanian orphans not trusting her.",
       "anchored_artifacts": [
@@ -2310,8 +2310,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2460",
-      "ref": "C-2460",
+      "@id": "C-7005",
+      "ref": "C-7005",
       "label": "Children of God founder David Berg advocated sexual relations with minors",
       "claim": "Per the displayed Romanian investigative article, Children of God founder David Berg claimed incest and sex involving minors were permitted; the article states Berg made his daughter Faithy a sexual partner when she reached age 12.",
       "anchored_artifacts": [
@@ -2329,8 +2329,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2461",
-      "ref": "C-2461",
+      "@id": "C-7007",
+      "ref": "C-7007",
       "label": "Christina Babin stated adult cult members showed her how to have sex as a child",
       "claim": "Per the displayed Megyn Kelly interview clip, Christina Babin described being taken by an adult couple in the night as a child and shown how to have sex, attributing the instruction to a letter sent by cult leader David Berg.",
       "anchored_artifacts": [
@@ -2350,8 +2350,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2462",
-      "ref": "C-2462",
+      "@id": "C-7017",
+      "ref": "C-7017",
       "label": "Hospital transport van photos show scattered material across back seat",
       "claim": "Per the displayed van interior photo, the host says it looks very much to her like shattered glass across the back seat, and notes some people think it could be part of Charlie Kirk's microphone.",
       "anchored_artifacts": [
@@ -2370,8 +2370,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2463",
-      "ref": "C-2463",
+      "@id": "C-7024",
+      "ref": "C-7024",
       "label": "9/10 video shows Charlie's necklace with magnet clasp still attached after impact",
       "claim": "The host says the displayed video shows Charlie Kirk's necklace whipping upward first after impact, and that the magnet clasp is still on him.",
       "anchored_artifacts": [
@@ -2391,8 +2391,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2464",
-      "ref": "C-2464",
+      "@id": "C-7031",
+      "ref": "C-7031",
       "label": "9/10 video shows no blood traveling backward from Charlie's position",
       "claim": "Per the displayed video, the host says no blood is seen heading backward from Charlie Kirk after he is hit, which she says instantly felt wrong for the .30-06 account.",
       "anchored_artifacts": [
@@ -2410,8 +2410,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2465",
-      "ref": "C-2465",
+      "@id": "C-7037",
+      "ref": "C-7037",
       "label": "9/10 video shows Charlie's hands did not grab anything from the table as he fell",
       "claim": "Per the displayed video, when Charlie Kirk's hands first make contact with the table, he does not grasp or take any object from it.",
       "anchored_artifacts": [
@@ -2429,8 +2429,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2466",
-      "ref": "C-2466",
+      "@id": "C-7040",
+      "ref": "C-7040",
       "label": "Charlie Kirk video clip names Thomas Massie as one of his favorite congressmen",
       "claim": "Per the displayed video clip, Charlie Kirk names Rep. Thomas Massie as one of his favorite members of Congress and welcomes him to discuss the new Church Committee.",
       "anchored_artifacts": [
@@ -2449,8 +2449,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2467",
-      "ref": "C-2467",
+      "@id": "C-7044",
+      "ref": "C-7044",
       "label": "Turning Point Action tweeted labeling Massie as needing to be replaced",
       "claim": "The host says Turning Point Action tweeted that Thomas Massie was a \"rhino\" who needed to be replaced, and shows the tweet.",
       "anchored_artifacts": [
@@ -2468,8 +2468,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2468",
-      "ref": "C-2468",
+      "@id": "C-7045",
+      "ref": "C-7045",
       "label": "X community note fact-checked Turning Point Action's Massie tweet",
       "claim": "Per the displayed X community note, the Massie tweet from Turning Point Action was fact-checked with the statement: \"Rep. Thomas Massie was one of Charlie Kirk's favorite congressman.\"",
       "anchored_artifacts": [
@@ -2488,8 +2488,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2469",
-      "ref": "C-2469",
+      "@id": "C-7046",
+      "ref": "C-7046",
       "label": "Charlie Kirk praised Massie as favorite congressman in multiple clips across years",
       "claim": "The host says Massie's reply shows a tweet of Charlie Kirk calling Massie one of his favorite congressmen, and that Massie had been Charlie's favorite congressman from at least 2016 through 2023.",
       "anchored_artifacts": [
@@ -2509,8 +2509,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2470",
-      "ref": "C-2470",
+      "@id": "C-7003",
+      "ref": "C-7003",
       "label": "Romanian investigative article identifies Renee Crossman as having come from the Children of God / The Family religious sect",
       "claim": "Per the displayed Romanian investigative article, Renee Crossman is identified by the Romanian investigative team as originating from the Children of God religious sect (now called The Family).",
       "anchored_artifacts": [
@@ -2528,8 +2528,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2471",
-      "ref": "C-2471",
+      "@id": "C-7002",
+      "ref": "C-7002",
       "label": "2017 article identifies Antonio Placement Center in Constanta as Erika Kirk's partnership site",
       "claim": "Per the displayed 2017 article, Erika Kirk's partnership for the benefit of Romanian children was conducted with both the Antonio Placement Center in Constanta and Renee Crossman's United Hands Romania Association.",
       "anchored_artifacts": [
@@ -2548,8 +2548,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2472",
-      "ref": "C-2472",
+      "@id": "C-7035",
+      "ref": "C-7035",
       "label": "9/10 video shows Dan pushing Charlie to the ground",
       "claim": "Per the displayed video, an individual the host identifies as \"Dan\" is observed pushing Charlie Kirk to the ground after he is hit.",
       "anchored_artifacts": [
@@ -2567,8 +2567,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2473",
-      "ref": "C-2473",
+      "@id": "C-7018",
+      "ref": "C-7018",
       "label": "Host Says Harpole SUV Story Did Not Match Circumstances",
       "claim": "The host says Baron Coleman is working on examining why \"they\" told the story that Brian Harpole was hanging out of the SUV, which she says was not the circumstance when they pulled out.",
       "anchored_artifacts": [
@@ -2588,8 +2588,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2474",
-      "ref": "C-2474",
+      "@id": "C-7047",
+      "ref": "C-7047",
       "label": "Thomas Massie publicly questioned what had \"gotten into\" Turning Point USA",
       "claim": "Per the displayed Massie reply tweet, Massie directly asked Turning Point USA what had \"gotten into y'all\" in response to their tweet targeting him.",
       "anchored_artifacts": [
@@ -2607,8 +2607,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2475",
-      "ref": "C-2475",
+      "@id": "C-7011",
+      "ref": "C-7011",
       "label": "Romanian investigative article states Children of God cult was instructed to disperse into nonprofit work",
       "claim": "The host says Renee Crossman defends the cult, which, according to the investigative piece, was subsequently instructed to disperse and hide themselves in the world of nonprofit.",
       "anchored_artifacts": [
@@ -2626,8 +2626,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12671",
-      "ref": "C-12671",
+      "@id": "C-6970",
+      "ref": "C-6970",
       "label": "Host Says Charlie Said He Would Die to Awaken Humanity",
       "claim": "The host says Charlie Kirk said he was going to die to help awaken humanity.",
       "anchored_artifacts": [],
@@ -2645,8 +2645,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12672",
-      "ref": "C-12672",
+      "@id": "C-6971",
+      "ref": "C-6971",
       "label": "Host Says Source Says Erika Was Next Model Management Point Person for Housing Models",
       "claim": "The host says she was told that Erika was the point person for Next Model Management when it came to housing young models, dealing with apartments in a white building the sources placed near 68th Street between Second and Third Avenue.",
       "anchored_artifacts": [],
@@ -2661,8 +2661,8 @@
       "investigative_direction": "Identify the sources and obtain their statements; match the white building to property-management records for Next Model Management apartments.",
       "transcript_snippet": "Erika Frantzve was, as we were told, the point person to the firm when it came to housing young models.",
       "supports_claim_refs": [
-        "C-10268",
-        "C-10270"
+        "C-6857",
+        "C-6860"
       ],
       "mentions_person_refs": [
         "N-2"
@@ -2670,8 +2670,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12673",
-      "ref": "C-12673",
+      "@id": "C-6973",
+      "ref": "C-6973",
       "label": "Host Says Viewers Sent a Building Owned by Mark Epstein Matching the White Building",
       "claim": "The host says viewers sent her a building that could match the white building description and that it was owned by Mark Epstein, Jeffrey Epstein's brother, who inherited all of his wealth.",
       "anchored_artifacts": [],
@@ -2692,8 +2692,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12674",
-      "ref": "C-12674",
+      "@id": "C-6974",
+      "ref": "C-6974",
       "label": "NY Post Article Says Trafficked Girls Cycled Between Wealthy Guests and Foreign Dignitaries",
       "claim": "The host reads from the New York Post article that, per civil complaints and sworn testimony, more than a dozen underage girls Epstein trafficked also cycled between wealthy guests, notable foreign dignitaries and Epstein staffers.",
       "anchored_artifacts": [
@@ -2714,8 +2714,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12675",
-      "ref": "C-12675",
+      "@id": "C-6975",
+      "ref": "C-6975",
       "label": "NY Post Article Quotes Victim on a Stocked Apartment Before Taken to the Townhouse",
       "claim": "The host reads from the article that one victim said in a 2022 account that the apartment was small, stocked with Danone yogurt, fruit and cookies, before she was taken about nine blocks to Epstein's townhouse at 9 East 71st Street for a massage.",
       "anchored_artifacts": [
@@ -2736,8 +2736,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12676",
-      "ref": "C-12676",
+      "@id": "C-6978",
+      "ref": "C-6978",
       "label": "NY Post Article Says Civil Filings Allege Condos Housed Women Brought From Overseas",
       "claim": "The host reads from the article that civil filings allege the condos were used to house young women brought from overseas and provided with living quarters, transportation and other benefits to secure compliance.",
       "anchored_artifacts": [
@@ -2758,8 +2758,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12677",
-      "ref": "C-12677",
+      "@id": "C-6979",
+      "ref": "C-6979",
       "label": "Host Says Epstein Files Show the Corcoran President Was a Rothschild",
       "claim": "The host says that according to Jeffrey Epstein's files the Corcoran president was a Rothschild.",
       "anchored_artifacts": [
@@ -2775,7 +2775,7 @@
       "investigative_direction": "Check the Epstein document cited and compare with Corcoran Group's published leadership records.",
       "transcript_snippet": "remember the Corcoran president, according to Jeffrey Epstein's files, was a Rothschild.",
       "supports_claim_refs": [
-        "C-2352"
+        "C-6470"
       ],
       "mentions_person_refs": [
         "N-9",
@@ -2784,8 +2784,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12678",
-      "ref": "C-12678",
+      "@id": "C-6980",
+      "ref": "C-6980",
       "label": "Host Says Alexander Brothers Are Kushner Friends Who Sold Ivanka and Jared a Miami Mansion",
       "claim": "The host says Tal, Oren and Alon Alexander are Jared Kushner's Israeli business friends who sold Ivanka and Jared their Miami mansion.",
       "anchored_artifacts": [],
@@ -2808,8 +2808,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12679",
-      "ref": "C-12679",
+      "@id": "C-6981",
+      "ref": "C-6981",
       "label": "Host Says Patel Said No Trafficking Evidence in the Files Yet the Alexanders Were in Them",
       "claim": "The host says Kash Patel said there was no evidence of trafficking in the Epstein files, yet the Alexander brothers were in the files.",
       "anchored_artifacts": [],
@@ -2832,8 +2832,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12680",
-      "ref": "C-12680",
+      "@id": "C-6982",
+      "ref": "C-6982",
       "label": "Host Says Alexander Brothers Visited the White House and Attended the Hanukkah Party",
       "claim": "The host says the Alexander brothers visited the White House multiple times and were invited to the annual Hanukkah party.",
       "anchored_artifacts": [],
@@ -2854,8 +2854,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12681",
-      "ref": "C-12681",
+      "@id": "C-6983",
+      "ref": "C-6983",
       "label": "Host Says the Alexanders' Last Names Were Redacted From the Epstein Files",
       "claim": "The host says the Alexander brothers' last names were redacted from the Epstein files, and notes the public was told redactions were limited to protecting against child pornography.",
       "anchored_artifacts": [],
@@ -2877,8 +2877,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12682",
-      "ref": "C-12682",
+      "@id": "C-6984",
+      "ref": "C-6984",
       "label": "Host Says Trump Wants Massie Primaried in Kentucky Because Israel Wants Him Out",
       "claim": "The host says Congressman Thomas Massie played a leading role in exposing the Epstein redactions and that Trump now wants him primaried in Kentucky because, she says, Israel wants him out.",
       "anchored_artifacts": [],
@@ -2899,8 +2899,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12683",
-      "ref": "C-12683",
+      "@id": "C-6985",
+      "ref": "C-6985",
       "label": "Host Says the Alexander Brothers Were Revealed Because of Massie",
       "claim": "The host says the Alexander brothers were revealed because of Massie, and had just been found guilty in a major sex trafficking case.",
       "anchored_artifacts": [],
@@ -2922,8 +2922,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12684",
-      "ref": "C-12684",
+      "@id": "C-6987",
+      "ref": "C-6987",
       "label": "Clip Says Alexander Brothers Were Arrested December 2024 and 11 Women Testified",
       "claim": "The news clip says all three Alexander brothers were arrested in December 2024 and that the jury heard from 11 women who accused them of rape or sexual assault.",
       "anchored_artifacts": [
@@ -2946,8 +2946,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12685",
-      "ref": "C-12685",
+      "@id": "C-6988",
+      "ref": "C-6988",
       "label": "Clip Says Alon and Oren Alexander Face Rape Charges in Florida and Pleaded Not Guilty",
       "claim": "The news clip says Alon and Oren Alexander still face state rape charges in Florida and have pleaded not guilty.",
       "anchored_artifacts": [
@@ -2969,8 +2969,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12686",
-      "ref": "C-12686",
+      "@id": "C-6989",
+      "ref": "C-6989",
       "label": "Host Says Trump Admitted Jared Kushner Told Him They Might Preemptively Strike",
       "claim": "The host says Trump has already admitted that Jared Kushner told him that they might preemptively strike.",
       "anchored_artifacts": [],
@@ -2988,8 +2988,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12687",
-      "ref": "C-12687",
+      "@id": "C-6990",
+      "ref": "C-6990",
       "label": "Host Says Kushner Told Trump to Lock Everything Down During COVID",
       "claim": "The host says Jared Kushner was the one who told Trump to lock everything down during COVID.",
       "anchored_artifacts": [],
@@ -3007,8 +3007,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12688",
-      "ref": "C-12688",
+      "@id": "C-6991",
+      "ref": "C-6991",
       "label": "Host Alleges Redactions Protected Alexander Brothers Because They Donate to the IDF",
       "claim": "The host alleges the administration used redactions to protect rapists and sex traffickers, which she says is because they donate to the IDF.",
       "anchored_artifacts": [],
@@ -3029,8 +3029,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12689",
-      "ref": "C-12689",
+      "@id": "C-6992",
+      "ref": "C-6992",
       "label": "Host Says Kolvet and Other TPUSA Affiliates Met West Wing Brass the Day Before the Epstein Files Dropped",
       "claim": "The host says Andrew Kolvet and other Turning Point USA affiliates had a meeting with top brass in the West Wing the day before the Epstein files dropped.",
       "anchored_artifacts": [],
@@ -3045,8 +3045,8 @@
       "investigative_direction": "Obtain White House visitor logs for the day before the Epstein file release showing Kolvet and other TPUSA attendees.",
       "transcript_snippet": "that mysterious meeting that Andrew Kolvet and other Turning Point USA affiliates had with top brass in the West Wing the literal day before the Epstein files dropped.",
       "supports_claim_refs": [
-        "C-2422",
-        "C-2420"
+        "C-6833",
+        "C-6825"
       ],
       "mentions_person_refs": [
         "N-14"
@@ -3054,8 +3054,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12690",
-      "ref": "C-12690",
+      "@id": "C-6993",
+      "ref": "C-6993",
       "label": "Host Says Patel Wanted to Help Kolvet Camouflage the Meeting by Faking a Live Kirk Episode",
       "claim": "The host says Kash Patel wanted to help Andrew Kolvet camouflage the West Wing meeting by way of faking a Charlie Kirk live episode.",
       "anchored_artifacts": [],
@@ -3069,7 +3069,7 @@
       "investigative_direction": "Obtain the episode's air time and metadata and communications between Patel's office and TPUSA about the show.",
       "transcript_snippet": "Little hush-hush meeting that Mr. 33 Patel wanted to help Andrew Kolvet camouflage by way of faking a Charlie Kirk live episode.",
       "supports_claim_refs": [
-        "C-2420"
+        "C-6825"
       ],
       "mentions_person_refs": [
         "N-69",
@@ -3079,8 +3079,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12691",
-      "ref": "C-12691",
+      "@id": "C-6994",
+      "ref": "C-6994",
       "label": "Host Says Patel Said He Was Calling In While Actually Together With Kolvet in DC",
       "claim": "The host says that on the episode Kash Patel said he was calling in and never does this, while, she says, he and Kolvet were together in DC.",
       "anchored_artifacts": [],
@@ -3094,7 +3094,7 @@
       "investigative_direction": "Compare the live show audio and call-in metadata with the participants' physical locations that day.",
       "transcript_snippet": "I'm calling in. I never do this. Haha. Meanwhile, you're together in DC.",
       "supports_claim_refs": [
-        "C-2420"
+        "C-6825"
       ],
       "mentions_person_refs": [
         "N-69",
@@ -3103,8 +3103,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12692",
-      "ref": "C-12692",
+      "@id": "C-6995",
+      "ref": "C-6995",
       "label": "Host Says Turning Point Is Pushing Into High Schools Nationally and Trying to Establish Something in Ireland",
       "claim": "The host says Erika's Turning Point is being pushed into high schools across America and that the group is also trying to establish something in Ireland.",
       "anchored_artifacts": [],
@@ -3123,8 +3123,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12693",
-      "ref": "C-12693",
+      "@id": "C-6998",
+      "ref": "C-6998",
       "label": "Clip Has Erika Saying the Black Sea Rotational Force Base Moved to Norway in 2018",
       "claim": "In the played clip Erika Kirk says the Black Sea Rotational Force base got moved to Norway in 2018 and describes the woman who is the boots on the ground in Romania for United Hands Romania Association.",
       "anchored_artifacts": [
@@ -3140,7 +3140,7 @@
       "investigative_direction": "Identify the source and date of the interview and check the Black Sea Rotational Force relocation date.",
       "transcript_snippet": "The Black Sea rotational force base got moved to Norway in 2018. Mhm. And for the past, I want to say eight to nine months, maybe even 10, um the woman that is the boots on the ground in Romania",
       "supports_claim_refs": [
-        "C-10260"
+        "C-6848"
       ],
       "mentions_person_refs": [
         "N-2",
@@ -3149,8 +3149,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12694",
-      "ref": "C-12694",
+      "@id": "C-6999",
+      "ref": "C-6999",
       "label": "Clip Has Erika Saying the People at the Base Do Not Trust the United Hands Head",
       "claim": "In the played clip Erika Kirk says her contact at the base in Constanța is no longer there and that the people who are there do not trust the United Hands head because they have no connection to her; the clip speaks of people at the base, not of the children.",
       "anchored_artifacts": [
@@ -3167,7 +3167,7 @@
       "investigative_direction": "Obtain the full interview audio and transcript to settle who 'the people who are there' refers to and whether children are discussed.",
       "transcript_snippet": "our contact who was at the base in Constanța is no longer there, and the people who are there don't trust her because they don't have a connection to her.",
       "qualifies_claim_refs": [
-        "C-2459"
+        "C-6997"
       ],
       "mentions_person_refs": [
         "N-2",
@@ -3176,8 +3176,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12695",
-      "ref": "C-12695",
+      "@id": "C-7000",
+      "ref": "C-7000",
       "label": "Host Says Crossman Has Been Involved With the Orphanage for Over a Decade",
       "claim": "The host says Renee Crossman has been involved with the Romanian orphanage and organization for over a decade.",
       "anchored_artifacts": [],
@@ -3196,8 +3196,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12696",
-      "ref": "C-12696",
+      "@id": "C-7004",
+      "ref": "C-7004",
       "label": "Article Says Berg Was Born in California in 1919 and Founded the Children of God",
       "claim": "The host reads from the Romanian article that the Children of God, now called The Family, was founded by evangelist David Berg, born in California in 1919, who around 1970 began aggressively proselytizing young hippies.",
       "anchored_artifacts": [
@@ -3218,8 +3218,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12697",
-      "ref": "C-12697",
+      "@id": "C-7006",
+      "ref": "C-7006",
       "label": "Article Says Berg Claimed Relationships With a Pantheon of Pagan Goddesses",
       "claim": "The host reads from the Romanian article that Berg mixed sexual immorality with occultism and claimed relationships with the entire pantheon of pagan goddesses including Aphrodite and Diana.",
       "anchored_artifacts": [
@@ -3240,8 +3240,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12698",
-      "ref": "C-12698",
+      "@id": "C-7008",
+      "ref": "C-7008",
       "label": "Clip Says Berg Introduced Flirty Fishing in 1976",
       "claim": "The Megyn Kelly clip narration says that in 1976 David Berg introduced flirty fishing, which encouraged female members to show God's love through sexual relationships with potential converts.",
       "anchored_artifacts": [
@@ -3263,8 +3263,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12699",
-      "ref": "C-12699",
+      "@id": "C-7009",
+      "ref": "C-7009",
       "label": "Host Says Crossman Is a Self-Admitted Cult Member and Has Not Been Accused of Wrongdoing",
       "claim": "The host says Renee Crossman, Erika's partner on the Romanian Angels project, is a self-admitted member of the Children of God cult and has not been accused of any wrongdoing.",
       "anchored_artifacts": [],
@@ -3285,8 +3285,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12700",
-      "ref": "C-12700",
+      "@id": "C-7010",
+      "ref": "C-7010",
       "label": "Host Says the Marines Crossman Partnered With Were Later Accused of Prostituting Children",
       "claim": "The host says the US Marines Crossman partnered with were going to be accused of wrongdoing, namely prostituting children.",
       "anchored_artifacts": [],
@@ -3300,7 +3300,7 @@
       "investigative_direction": "Identify the accusation, the unit and the base involved, and any charging or investigative record.",
       "transcript_snippet": "No, the US Marines that she partnered with were going to be accused of wrongdoing. They're going to be accused of prostituting uh children.",
       "supports_claim_refs": [
-        "C-10255"
+        "C-6843"
       ],
       "mentions_person_refs": [
         "N-583"
@@ -3308,8 +3308,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12701",
-      "ref": "C-12701",
+      "@id": "C-7012",
+      "ref": "C-7012",
       "label": "Host Says Crossman Defends the Cult",
       "claim": "The host says Renee Crossman defends the cult, which the article says was subsequently instructed to disperse into the world of nonprofits.",
       "anchored_artifacts": [
@@ -3330,8 +3330,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12702",
-      "ref": "C-12702",
+      "@id": "C-7013",
+      "ref": "C-7013",
       "label": "Host Says Erika Chose Stacy, the Chief Fundraiser, at Her Side Over Biological Family",
       "claim": "The host says Erika chose to have Stacy, the chief fundraiser at Turning Point, at her side rather than her biological family members after her husband was assassinated.",
       "anchored_artifacts": [],
@@ -3349,8 +3349,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12703",
-      "ref": "C-12703",
+      "@id": "C-7014",
+      "ref": "C-7014",
       "label": "Clip Has Erika Telling Watters Charlie Would Say No to Returning to Earth",
       "claim": "In the clip from her Jesse Watters interview, Erika Kirk says she believes that if the Lord gave Charlie the option to return and exchange his death for what it will catalyze, he would say no.",
       "anchored_artifacts": [
@@ -3371,8 +3371,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12704",
-      "ref": "C-12704",
+      "@id": "C-7015",
+      "ref": "C-7015",
       "label": "Host Says Zionists Are Inside Turning Point, Did Not Kill Charlie, and Will Install People He Disliked",
       "claim": "The host says Zionists are inside Turning Point, that they did not kill Charlie Kirk, but that they will now force people Charlie did not like to the helm of the organization.",
       "anchored_artifacts": [],
@@ -3389,8 +3389,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12705",
-      "ref": "C-12705",
+      "@id": "C-7016",
+      "ref": "C-7016",
       "label": "Host Says She Believes Charlie's Death Was Planned Down to the Last Detail and He Was Sacrificed",
       "claim": "The host says she believes Charlie Kirk's death and its setting were planned down to the last detail and that he was sacrificed in what she calls an occult ceremony.",
       "anchored_artifacts": [],
@@ -3407,8 +3407,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12706",
-      "ref": "C-12706",
+      "@id": "C-7019",
+      "ref": "C-7019",
       "label": "Host Says They Told a Story About Having So Much Gauze",
       "claim": "The host says the Turning Point side told a story about how they had so much gauze in the vehicle.",
       "anchored_artifacts": [
@@ -3426,8 +3426,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12707",
-      "ref": "C-12707",
+      "@id": "C-7020",
+      "ref": "C-7020",
       "label": "Host Says the Object in a Van Photo Is an Instaclot Package",
       "claim": "The host says an object in a van photo that looks like a UPS ticket is actually an Instaclot instant-gauze package.",
       "anchored_artifacts": [
@@ -3445,8 +3445,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12708",
-      "ref": "C-12708",
+      "@id": "C-7021",
+      "ref": "C-7021",
       "label": "Host Says Only One Instaclot Package Is on the Van Floor",
       "claim": "The host says there is only one Instaclot package visible on the floor, which she says would be unusual unless he opened one and put the rest of the packaging in his bag.",
       "anchored_artifacts": [
@@ -3464,8 +3464,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12709",
-      "ref": "C-12709",
+      "@id": "C-7022",
+      "ref": "C-7022",
       "label": "Host Says Farnsworth Lied on the Phone About Not Knowing How to Send a File",
       "claim": "The host says that on a phone call Terryl Farnsworth, who runs an audio-visual company, made excuse after excuse and claimed he did not know how to send a file, which she took to be a lie.",
       "anchored_artifacts": [],
@@ -3480,7 +3480,7 @@
       "investigative_direction": "Obtain the call record or the host's notes of the call and Farnsworth's own account of file handling.",
       "transcript_snippet": "just excuse after excuse, and I didn't understand why there would be any reason he was lying uh saying he didn't know how to send a file, but you run a audio-visual company, Terryl Farnsworth.",
       "supports_claim_refs": [
-        "C-6845"
+        "C-4567"
       ],
       "mentions_person_refs": [
         "N-261"
@@ -3488,8 +3488,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12710",
-      "ref": "C-12710",
+      "@id": "C-7023",
+      "ref": "C-7023",
       "label": "Host Says Farnsworth's Family Has Had a Relationship With Lori Frantzve Dating to 2013",
       "claim": "The host says she has learned about Farnsworth's father, uncles and cousins and their relationship with Lori Frantzve dating back to 2013.",
       "anchored_artifacts": [],
@@ -3509,8 +3509,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12711",
-      "ref": "C-12711",
+      "@id": "C-7025",
+      "ref": "C-7025",
       "label": "Host Says TPUSA Said It Did Not Have the Footage but Farnsworth Showed It to Her at His Office",
       "claim": "The host says she thinks that at some point Turning Point said it did not have the footage, but that it does have it, and that Terryl Farnsworth showed her the footage at his office.",
       "anchored_artifacts": [],
@@ -3530,8 +3530,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12712",
-      "ref": "C-12712",
+      "@id": "C-7026",
+      "ref": "C-7026",
       "label": "Host Says Charlie's White T-Shirt Stayed White Until He Hit the Ground",
       "claim": "The host says the footage shows no gore and that Charlie Kirk's white T-shirt stayed white until the moment he hit the ground.",
       "anchored_artifacts": [
@@ -3552,8 +3552,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12713",
-      "ref": "C-12713",
+      "@id": "C-7027",
+      "ref": "C-7027",
       "label": "Host Says the Bullet Did Not Go Through",
       "claim": "The host says that, as she said before, the bullet did not go through and did not cause any sort of mess.",
       "anchored_artifacts": [
@@ -3574,8 +3574,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12714",
-      "ref": "C-12714",
+      "@id": "C-7028",
+      "ref": "C-7028",
       "label": "Host Says Frank Told of Seeing Charlie's Necklace on His Backpack as Feds Searched the Car",
       "claim": "The host says Frank tells the story of going out to get his backpack from the car while the feds searched it at the hospital and seeing Charlie's necklace on his backpack.",
       "anchored_artifacts": [],
@@ -3589,7 +3589,7 @@
       "investigative_direction": "Locate Frank Turek's original telling and compare it with the earlier necklace account.",
       "transcript_snippet": "Frank tells the story about how he came out to get his backpack from the car as the feds were searching it at the hospital, and he saw Charlie's necklace on Char on his backpack, which was in the car.",
       "supports_claim_refs": [
-        "C-1962"
+        "C-4213"
       ],
       "mentions_person_refs": [
         "N-7",
@@ -3598,8 +3598,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12715",
-      "ref": "C-12715",
+      "@id": "C-7029",
+      "ref": "C-7029",
       "label": "Host Says Feds Told Frank They Were Looking for the Necklace",
       "claim": "The host says the feds told Frank that they were looking for that necklace, and asks how they knew he had one.",
       "anchored_artifacts": [],
@@ -3619,8 +3619,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12716",
-      "ref": "C-12716",
+      "@id": "C-7030",
+      "ref": "C-7030",
       "label": "Host Says Erika Told Several Stories About the Necklace and Her Gratitude at Getting It Back",
       "claim": "The host says Erika has told several stories about the necklace, how precious it was to Charlie and how grateful she was to get it back.",
       "anchored_artifacts": [],
@@ -3634,7 +3634,7 @@
       "investigative_direction": "Collect each public Erika account of the necklace and its return and compare them.",
       "transcript_snippet": "Erika, of course, has told several stories about the necklace, um and how precious the necklace was to him, and um how grateful she was that she got the necklace back.",
       "supports_claim_refs": [
-        "C-5551"
+        "C-5407"
       ],
       "mentions_person_refs": [
         "N-2",
@@ -3643,8 +3643,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12717",
-      "ref": "C-12717",
+      "@id": "C-7032",
+      "ref": "C-7032",
       "label": "Host Says the Visible Blood Came From an Artery Hit and Went Forward",
       "claim": "The host says that everything visible was blood from a hit artery that went forward, and that zero blood heading backward feels wrong for what she is told was a .30-06.",
       "anchored_artifacts": [
@@ -3660,7 +3660,7 @@
       "investigative_direction": "Ask a forensic pathologist to review the footage and the autopsy for the direction of blood travel.",
       "transcript_snippet": "everything you saw was blood that came because an artery got hit, and that went forward.",
       "supports_claim_refs": [
-        "C-2464"
+        "C-7031"
       ],
       "mentions_person_refs": [
         "N-1"
@@ -3668,8 +3668,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12718",
-      "ref": "C-12718",
+      "@id": "C-7033",
+      "ref": "C-7033",
       "label": "Host Says Jon Bray Explained the Magnet Clasp Would Have Stayed On While What Was Behind It Fell Off",
       "claim": "The host says Jon Bray explained to her that the magnet clasp would have stayed on while what was behind it would have fallen off.",
       "anchored_artifacts": [
@@ -3691,8 +3691,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12719",
-      "ref": "C-12719",
+      "@id": "C-7034",
+      "ref": "C-7034",
       "label": "Host Says the Rode Microphone Is What Shattered in the Back Seat",
       "claim": "The host says that in Bray's theory, which she calls well adopted, the Rode microphone is what was shattered in the back seat of the car.",
       "anchored_artifacts": [
@@ -3714,8 +3714,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12720",
-      "ref": "C-12720",
+      "@id": "C-7036",
+      "ref": "C-7036",
       "label": "Host Says Blood Drops Are Visible Only on Charlie's Hand",
       "claim": "The host says that, because blood went forward, the only place any blood drops are visible in the footage is on his hand.",
       "anchored_artifacts": [
@@ -3736,8 +3736,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12721",
-      "ref": "C-12721",
+      "@id": "C-7038",
+      "ref": "C-7038",
       "label": "Host Says a Book or Notebook Is Visible on the Table",
       "claim": "The host says that on the table there is a book and it looks like Charlie may have had a notebook.",
       "anchored_artifacts": [
@@ -3758,8 +3758,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12722",
-      "ref": "C-12722",
+      "@id": "C-7039",
+      "ref": "C-7039",
       "label": "Host Says Occult Worship Appears Under Different Names Including Frankism and Sabbatianism",
       "claim": "The host says occult worship comes up under different names, including Frankism, Sabbatianism and child of God, but is the same ideology redressed, and that children are inevitably harmed.",
       "anchored_artifacts": [],
@@ -3775,8 +3775,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12723",
-      "ref": "C-12723",
+      "@id": "C-7041",
+      "ref": "C-7041",
       "label": "Host Says Turning Point Action Is Run by Bowyer and Kicks Money to Erika's Mother via Superfeed",
       "claim": "The host says Turning Point Action is run by Tyler Bowyer and kicks money back to Erika's mother via Superfeed.",
       "anchored_artifacts": [],
@@ -3797,8 +3797,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12724",
-      "ref": "C-12724",
+      "@id": "C-7042",
+      "ref": "C-7042",
       "label": "Host Says Turning Point Had Ben Shapiro Open AmFest Behind Erika",
       "claim": "The host says Turning Point USA had Ben Shapiro open AmFest behind Erika.",
       "anchored_artifacts": [],
@@ -3816,8 +3816,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12725",
-      "ref": "C-12725",
+      "@id": "C-7043",
+      "ref": "C-7043",
       "label": "Host Says Turning Point Calls Massie a Rhino Because He Will Not Fund Ukraine and Israel",
       "claim": "The host says Turning Point shouts out Thomas Massie as a rhino because he will not vote for more funding to go to Ukraine and Israel.",
       "anchored_artifacts": [
@@ -3838,8 +3838,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12726",
-      "ref": "C-12726",
+      "@id": "C-7048",
+      "ref": "C-7048",
       "label": "Host Says Turning Point Quickly Brought Out People Charlie Disliked and Gave New York Times Interviews",
       "claim": "The host says Turning Point acted as though it were under pressure and instantly brought out the people Charlie did not like, doing interviews with the New York Times, everyone who gave him grief while he was alive; she said that if she were staging a Zionist ideology takeover she would have waited a year before introducing the Mark Levins and Ben Shapiros.",
       "anchored_artifacts": [],
@@ -3858,8 +3858,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12727",
-      "ref": "C-12727",
+      "@id": "C-7049",
+      "ref": "C-7049",
       "label": "Host Says She Has No Interest in Running for President but Would Debate or Converse With Erika",
       "claim": "The host says she has zero interest in running for president but would be interested in debating or conversing publicly with Erika Kirk.",
       "anchored_artifacts": [
@@ -3879,8 +3879,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12728",
-      "ref": "C-12728",
+      "@id": "C-7050",
+      "ref": "C-7050",
       "label": "Project Constitution Comment Says Students Nationwide Are Protesting Turning Point",
       "claim": "A comment from Project Constitution, read by the host, says students all over the country are revolting in protest of Turning Point and Erika Kirk and do not want them speaking at their schools or mandating high school chapters.",
       "anchored_artifacts": [
@@ -3902,8 +3902,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12729",
-      "ref": "C-12729",
+      "@id": "C-7051",
+      "ref": "C-7051",
       "label": "Host Says She Saw Students Protesting the Turning Point Push in Arkansas",
       "claim": "The host says she did see students protesting the Turning Point chapter push in Arkansas, and that students do not need a proclamation from a Huckabee to decide whether to open a club.",
       "anchored_artifacts": [
@@ -3924,8 +3924,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12730",
-      "ref": "C-12730",
+      "@id": "C-7052",
+      "ref": "C-7052",
       "label": "Donor Comment Says TPUSA Sent Fundraising Letters Every Couple of Weeks",
       "claim": "A viewer comment read by the host says the donor received letters at least once every couple of weeks asking for more money to continue Charlie's vision.",
       "anchored_artifacts": [
@@ -3941,8 +3941,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12731",
-      "ref": "C-12731",
+      "@id": "C-7053",
+      "ref": "C-7053",
       "label": "Comment Lists Speakers at Upcoming TPUSA Events",
       "claim": "A comment read by the host says upcoming Turning Point USA events will feature Erika, JD, Donald Jr., Karoline Leavitt, Lauren Jones, Matt Walsh and others; the host says she has not seen the schedule.",
       "anchored_artifacts": [
@@ -3965,8 +3965,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12732",
-      "ref": "C-12732",
+      "@id": "C-7054",
+      "ref": "C-7054",
       "label": "Comment Reports Four Drones Stolen From Fort Campbell",
       "claim": "A comment read by the host reports that four drones were stolen from Fort Campbell, first reported 20 hours earlier.",
       "anchored_artifacts": [
@@ -3984,8 +3984,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12733",
-      "ref": "C-12733",
+      "@id": "C-7055",
+      "ref": "C-7055",
       "label": "Host Guesses the Fort Campbell Drones Were Given to Someone, Probably Israel",
       "claim": "The host says the four drones were not stolen from a military base but were given to someone from somebody on the base, and says it is probably Israel, labelling it her guess.",
       "anchored_artifacts": [
@@ -4003,8 +4003,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12734",
-      "ref": "C-12734",
+      "@id": "C-7056",
+      "ref": "C-7056",
       "label": "Host Says Shapiro and Boreing Do Not Speak Because of Boreing's Behavior",
       "claim": "The host says she is on Ben Shapiro's side regarding Jeremy Boreing and that the two do not speak because of how insane she says Boreing is.",
       "anchored_artifacts": [],
@@ -4024,8 +4024,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12735",
-      "ref": "C-12735",
+      "@id": "C-7057",
+      "ref": "C-7057",
       "label": "Host Says Boreing Gave Five Interviews About Her and Called Her Reply a Meltdown",
       "claim": "The host says Jeremy Boreing recently gave about five interviews about her and, when she replied on X, said she was having a meltdown responding to his interviews.",
       "anchored_artifacts": [],
@@ -4045,8 +4045,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12736",
-      "ref": "C-12736",
+      "@id": "C-7058",
+      "ref": "C-7058",
       "label": "Comment Says Bret Weinstein Told Tucker the Charlie Story Does Not Add Up",
       "claim": "A comment read by the host says Tucker Carlson's latest interview with Bret Weinstein was notable because Weinstein made clear that the Charlie story does not add up.",
       "anchored_artifacts": [
@@ -4066,8 +4066,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12737",
-      "ref": "C-12737",
+      "@id": "C-7059",
+      "ref": "C-7059",
       "label": "Host Says Tucker Has Spoken Up That Some Things in the Kirk Case Make No Sense",
       "claim": "The host says Tucker Carlson has spoken up and said that some of the things in the Charlie Kirk case make entirely no sense, though she does not know how closely he follows the investigation.",
       "anchored_artifacts": [
@@ -4086,8 +4086,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12738",
-      "ref": "C-12738",
+      "@id": "C-7060",
+      "ref": "C-7060",
       "label": "Host Says the Reasonable Position Is That Officials Lie About Everything, Implying a Deep State Assassination",
       "claim": "The host says the reasonable position since early in the case is that officials are lying about everything, which she says implies a deep state assassination.",
       "anchored_artifacts": [],
@@ -4104,8 +4104,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12739",
-      "ref": "C-12739",
+      "@id": "C-7061",
+      "ref": "C-7061",
       "label": "Host Says the JFK Assassination Also Involved Israel",
       "claim": "The host says the Charlie Kirk assassination is the likes of which has not been seen since the assassination of JFK, which she says also involved Israel.",
       "anchored_artifacts": [],
@@ -4122,8 +4122,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12740",
-      "ref": "C-12740",
+      "@id": "C-7062",
+      "ref": "C-7062",
       "label": "Host Says Jon Bray Is Looking Into the Microphone Theory and the Tennessee Explosion",
       "claim": "The host says Jon Bray is looking into the microphone theory and why there was an explosion in Tennessee.",
       "anchored_artifacts": [],
@@ -4143,8 +4143,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12741",
-      "ref": "C-12741",
+      "@id": "C-7063",
+      "ref": "C-7063",
       "label": "Host Says Nelda Buckman Gave a Ton of Money to Erika Kirk and Is Involved in Trafficking Charities",
       "claim": "The host says Nelda Buckman gave a ton of money to Erika Kirk and is involved in sex trafficking charities, and suggests Jon Bray look into the Buckman family.",
       "anchored_artifacts": [],
@@ -4158,8 +4158,8 @@
       "investigative_direction": "Check the Buckman family's donations to TPUSA and to Erika Kirk and the charities Buckman chairs or funds.",
       "transcript_snippet": "you should probably look into uh, Nelda Buckman's family. I'm only saying that because, you know, that she gave a ton of money into uh, to Erika Kirk. She's involved in sex trafficking charities",
       "supports_claim_refs": [
-        "C-2114",
-        "C-2115"
+        "C-5184",
+        "C-5186"
       ],
       "mentions_person_refs": [
         "N-460",
@@ -4169,8 +4169,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12742",
-      "ref": "C-12742",
+      "@id": "C-7064",
+      "ref": "C-7064",
       "label": "Host Recounts Buckman Interview Tying Her Charity Work to Her First Husband's Infidelity",
       "claim": "The host says she saw Nelda Buckman give an interview in which she said her interest in trafficking charities began because her first husband cheated with sex workers, which made her want to understand them.",
       "anchored_artifacts": [],
@@ -4189,8 +4189,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12743",
-      "ref": "C-12743",
+      "@id": "C-7065",
+      "ref": "C-7065",
       "label": "Host Says the Buckman Family Has Factories in Tennessee",
       "claim": "The host says the Buckman family has factories in Tennessee, though not the specific one that blew up.",
       "anchored_artifacts": [],
@@ -4209,8 +4209,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12744",
-      "ref": "C-12744",
+      "@id": "C-7066",
+      "ref": "C-7066",
       "label": "Host Asks Viewers to Email More Tips at candaceowens.com",
       "claim": "The host asks viewers to email tips to the show's tips address at candaceowens.com.",
       "anchored_artifacts": [
@@ -4230,8 +4230,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12745",
-      "ref": "C-12745",
+      "@id": "C-7067",
+      "ref": "C-7067",
       "label": "Host Asks Next Model Management Models and Employees to Send Tips Directly",
       "claim": "The host asks anyone who worked in modeling and stayed in an apartment that Erika property managed or opened the keys for, and employees of Next Model Management, to send tips directly to the show.",
       "anchored_artifacts": [
@@ -4255,8 +4255,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12746",
-      "ref": "C-12746",
+      "@id": "C-7068",
+      "ref": "C-7068",
       "label": "Host Says Freud's Vienna Circle Preceded World War as Cover for Harm to Children",
       "claim": "The host says to look up old Vienna, Sigmund Freud and his associates and what they were doing to kids, and that a world war arrived just in time.",
       "anchored_artifacts": [],
@@ -4273,8 +4273,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12747",
-      "ref": "C-12747",
+      "@id": "C-7069",
+      "ref": "C-7069",
       "label": "Host Says a Sitting President Is Suing Her for Speaking About What Happened",
       "claim": "The host says another sitting president, Emmanuel Macron, is suing a podcaster, meaning her, for speaking about the reality of what happened.",
       "anchored_artifacts": [],
@@ -4288,7 +4288,7 @@
       "investigative_direction": "Check the Delaware Macron v. Owens docket for the plaintiffs and the claims pleaded.",
       "transcript_snippet": "Another sitting president is suing a podcaster for speaking about the reality of what happened.",
       "supports_claim_refs": [
-        "C-9814"
+        "C-3311"
       ],
       "mentions_person_refs": [
         "N-377",
@@ -4297,8 +4297,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12748",
-      "ref": "C-12748",
+      "@id": "C-7070",
+      "ref": "C-7070",
       "label": "Host Says France Was There on the Day of the Assassination and the White House Has Not Disputed It",
       "claim": "The host says she has repeatedly stated that France was there on the day of Charlie's assassination and that the White House has not disputed it.",
       "anchored_artifacts": [],
@@ -4313,7 +4313,7 @@
       "investigative_direction": "Request any White House or State Department statement on French personnel in the United States on September 10, 2025.",
       "transcript_snippet": "France, by the way, I have told you guys this repeatedly, was there on the day of Charles's assassination. I have made that statement, and the White House has not disputed it.",
       "supports_claim_refs": [
-        "C-5263"
+        "C-4266"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -4322,8 +4322,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12749",
-      "ref": "C-12749",
+      "@id": "C-7071",
+      "ref": "C-7071",
       "label": "Host Says Trump Pardoned Jared Kushner's Father and Then Made Him Ambassador to France",
       "claim": "The host says Trump pardoned Jared Kushner's father and then gave him power by making him ambassador to France.",
       "anchored_artifacts": [],

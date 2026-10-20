@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep022): N-10207, N-10274, N-10277, N-10299, N-10355, N-10452, N-10467, N-10549, N-10673, N-10849, N-10853
   - Tip-minted Nodes (reintro-ep022): N-11020
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10d): C-9399–C-9446
+  - Claim Range: C-1998–C-2064
   - New Nodes Introduced: N-200, N-203, N-10203, N-10204, N-10205
   - Reused Nodes Appearing: N-201, N-204, N-2, N-36, N-40, N-50, N-68, N-82, N-199, N-10000, N-10012, N-10027, N-10028, N-10047, N-10048, N-10056, N-10070, N-10074, N-10106, N-10134, N-10148, N-10185, N-10187, N-10190, N-10202, N-10345, N-10206, N-10209, N-10268, N-10454
   - (see registers)
@@ -37,7 +37,6 @@
 **Episode 22 Ledger Summary**
 
 - Artifact Families Introduced: A-1290, A-1291, A-1292, A-1293, A-1294, A-1295, A-1296, A-1297, A-1298, A-1299, A-1300
-- Claim Range: C-1527–C-1543
 - New Nodes Introduced (people):  N-200, N-201, N-14, N-203, N-204
 - New Nodes Introduced (investigation targets): N-10203, N-10204, N-10205, N-10206
 - Existing Nodes Reused: N-1 (Charlie Kirk, referenced throughout)
@@ -66,7 +65,7 @@ Video Timestamp: 00:02:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1527, C-1528, N-10203*
+*Related: C-1999, C-2001, N-10203*
 
 **A-1291** Maxfield Statement Bundle (N888KG)
 
@@ -78,7 +77,7 @@ Video Timestamp: 00:07:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1529, C-1530, C-1531, N-94, N-200, N-10205*
+*Related: C-2005, C-2007, C-2008, N-94, N-200, N-10205*
 
 **A-1292** FlightRadar Egyptian Air Force SU-BTT Bundle
 
@@ -90,7 +89,7 @@ Video Timestamp: 00:12:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1532, N-22, N-10204*
+*Related: C-2015, N-22, N-10204*
 
 **A-1292.2** FlightRadar three-year flight history for SU-BTT showing routine routing through Paris and landings in cities containing U.S. Air Force bases (Minot, ND noted for September 2025); Provo has no Air Force base.
 
@@ -100,7 +99,7 @@ Video Timestamp: 00:18:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1533, N-22, N-10204*
+*Related: C-2024, N-22, N-10204*
 
 **A-1293** Daily Mail Josh Hammer Op-Ed Bundle
 
@@ -112,7 +111,7 @@ Video Timestamp: 00:31:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1537, C-1541, N-14, N-22, N-201*
+*Related: C-2032, C-2051, N-14, N-22, N-201*
 
 **A-1294** Stop Anti-Semitism X Post Bundle
 
@@ -124,7 +123,7 @@ Video Timestamp: 00:34:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1538, N-38, N-22*
+*Related: C-2036, N-38, N-22*
 
 **A-1295** Piers Morgan Interview Clip Bundle (Seth Dillon / Dave Smith)
 
@@ -136,7 +135,7 @@ Video Timestamp: 00:35:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1539, N-38, N-39, N-22, N-201, N-204*
+*Related: C-2038, N-38, N-39, N-22, N-201, N-204*
 
 **A-1295.2** Clip of Seth Dillon on Piers Morgan asking Dave Smith about Tucker Carlson calling Christian Zionists "heretics" while having spoken glowingly at Charlie Kirk's memorial.
 
@@ -146,7 +145,7 @@ Video Timestamp: 00:38:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1540, N-38, N-39, N-22, N-1*
+*Related: C-2040, N-38, N-39, N-22, N-1*
 
 **A-1295.3** Clip of Seth Dillon on Piers Morgan describing Nick Fuentes' alleged comments including calling J.D. Vance "fat and ugly" with a "brown family," glorification of Hitler, and animosity toward Jews, women, and minorities.
 
@@ -156,7 +155,7 @@ Video Timestamp: 00:48:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1541, N-38, N-201, N-4*
+*Related: C-2051, N-38, N-201, N-4*
 
 **A-1296** TPUSA Text Chain Screenshot Bundle
 
@@ -168,7 +167,7 @@ Video Timestamp: 00:42:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1542, N-1, N-22, N-10206*
+*Related: C-2046, N-1, N-22, N-10206*
 
 **A-1297** Daily Mail Headline on Kash Patel Bundle
 
@@ -180,7 +179,7 @@ Video Timestamp: 00:21:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1536, N-69*
+*Related: C-2027, N-69*
 
 **A-1298** Viewer Email Bundle (David/Jonathan Interpretation)
 
@@ -204,7 +203,7 @@ Video Timestamp: 00:55:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1544, N-10203*
+*Related: C-2058, N-10203*
 
 **A-1300** Josh Hammer Audio Clip Bundle
 
@@ -216,7 +215,7 @@ Video Timestamp: 00:42:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1543, N-14, N-22*
+*Related: C-2047, N-14, N-22*
 
 ---
 
@@ -231,7 +230,7 @@ Video Timestamp: 00:27:23
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9419, N-3, N-10204*
+*Related: C-2029, N-3, N-10204*
 
 ---
 
@@ -244,7 +243,7 @@ Video Timestamp: 00:14:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9413, C-9414, C-9415, C-9417, N-3, N-10204*
+*Related: C-2019, C-2020, C-2023, C-2026, N-3, N-10204*
 
 ---
 
@@ -257,7 +256,7 @@ Video Timestamp: 00:56:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9442, N-67, N-10185*
+*Related: C-2060, N-67, N-10185*
 
 ---
 
@@ -270,7 +269,7 @@ Video Timestamp: 00:41:06
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9431, N-1, N-22*
+*Related: C-2045, N-1, N-22*
 
 ---
 
@@ -283,7 +282,7 @@ Video Timestamp: 00:45:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9446, N-199*
+*Related: C-2064, N-199*
 
 ---
 
@@ -296,7 +295,7 @@ Video Timestamp: 00:53:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9437, C-9438, N-3*
+*Related: C-2054, C-2056, N-3*
 
 ---
 
@@ -311,7 +310,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1536, A-1297.1*
+*Related: C-2027, A-1297.1*
 
 **N-94** Derek Maxfield
 
@@ -322,7 +321,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1529, C-1530, C-1531, A-1291.1, N-10205*
+*Related: C-2005, C-2007, C-2008, A-1291.1, N-10205*
 
 **N-200** Shelaine Maxfield
 
@@ -333,7 +332,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1530, A-1291.1, N-94*
+*Related: C-2007, A-1291.1, N-94*
 
 **N-22** Tucker Carlson
 
@@ -344,7 +343,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-1537, C-1538, C-1539, C-1540, C-1542, C-1543, A-1293.1, A-1294.1, A-1295.1, A-1295.2, A-1296.1, A-1300.1*
+*Related: C-2032, C-2036, C-2038, C-2040, C-2046, C-2047, A-1293.1, A-1294.1, A-1295.1, A-1295.2, A-1296.1, A-1300.1*
 
 **N-201** Nick Fuentes
 
@@ -355,7 +354,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-1541, A-1295.3*
+*Related: C-2051, A-1295.3*
 
 **N-38** Seth Dillon
 
@@ -366,7 +365,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1539, C-1540, C-1541, A-1295.1, A-1295.2, A-1295.3*
+*Related: C-2038, C-2040, C-2051, A-1295.1, A-1295.2, A-1295.3*
 
 **N-39** Dave Smith
 
@@ -388,7 +387,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-1538, A-1294.1*
+*Related: C-2036, A-1294.1*
 
 **N-204** Piers Morgan
 
@@ -410,7 +409,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-1541, A-1295.3, N-201*
+*Related: C-2051, A-1295.3, N-201*
 
 **N-67** Mark Herman (director, Candace show)
 
@@ -421,7 +420,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-1527*
+*Related: C-1999*
 
 **N-10203** Provo Airport Flight Anomaly Cluster
 
@@ -432,7 +431,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-1527, C-1528, C-1529, C-1532, C-1544, A-1290.1, A-1291.1, A-1292.1, A-1299.1*
+*Related: C-1999, C-2001, C-2005, C-2015, C-2058, A-1290.1, A-1291.1, A-1292.1, A-1299.1*
 
 **N-10204** Egyptian Air Force SU-BTT Provo Mission Question
 
@@ -443,7 +442,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-1532, C-1533, C-1534, C-1535, A-1292.1, A-1292.2*
+*Related: C-2015, C-2024, C-2021, C-2022, A-1292.1, A-1292.2*
 
 **N-10205** N888KG Flight Manifest Verification
 
@@ -454,7 +453,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1529, C-1530, C-1531, A-1291.1, N-94, N-200*
+*Related: C-2005, C-2007, C-2008, A-1291.1, N-94, N-200*
 
 **N-10206** TPUSA Text Chain Authenticity Verification
 
@@ -465,7 +464,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1542, A-1296.1*
+*Related: C-2046, A-1296.1*
 
 ---
 
@@ -473,7 +472,7 @@ Investigative Pressure: Medium
 
 Host; speaks for herself throughout.
 
-*Related: C-9399, C-9400, C-9401, C-9402, C-9403, C-9404, C-9405, C-9407, C-9408, C-9409, C-9410, C-9411, C-9412, C-9413, C-9414, C-9415, C-9416, C-9417, C-9418, C-9419, C-9420, C-9421, C-9423, C-9424, C-9425, C-9426, C-9427, C-9428, C-9429, C-9430, C-9432, C-9433, C-9434, C-9435, C-9436, C-9437, C-9438, C-9439, C-9440, C-9441, C-9443, C-9444, C-9445, C-9446*
+*Related: C-1998, C-2000, C-2002, C-2003, C-2004, C-2006, C-2009, C-2011, C-2012, C-2013, C-2014, C-2016, C-2017, C-2019, C-2020, C-2023, C-2025, C-2026, C-2028, C-2029, C-2030, C-2031, C-2034, C-2035, C-2037, C-2039, C-2041, C-2042, C-2043, C-2044, C-2048, C-2049, C-2050, C-2052, C-2053, C-2054, C-2056, C-2055, C-2057, C-2059, C-2061, C-2062, C-2063, C-2064*
 
 ---
 
@@ -481,7 +480,7 @@ Host; speaks for herself throughout.
 
 Subject of the assassination; his texts, views and pressure from donors are discussed.
 
-*Related: C-9399, C-9400, C-9401, C-9402, C-9403, C-9404, C-9405, C-9406, C-9407, C-9408, C-9410, C-9411, C-9412, C-9413, C-9414, C-9415, C-9416, C-9417, C-9418, C-9419, C-9420, C-9421, C-9422, C-9423, C-9424, C-9425, C-9426, C-9427, C-9428, C-9429, C-9430, C-9431, C-9432, C-9434, C-9437, C-9438, C-9440, C-9441, C-9442, C-9443, C-9445*
+*Related: C-1998, C-2000, C-2002, C-2003, C-2004, C-2006, C-2009, C-2010, C-2011, C-2012, C-2014, C-2016, C-2017, C-2019, C-2020, C-2023, C-2025, C-2026, C-2028, C-2029, C-2030, C-2031, C-2033, C-2034, C-2035, C-2037, C-2039, C-2041, C-2042, C-2043, C-2044, C-2045, C-2048, C-2050, C-2054, C-2056, C-2057, C-2059, C-2060, C-2061, C-2063*
 
 ---
 
@@ -489,7 +488,7 @@ Subject of the assassination; his texts, views and pressure from donors are disc
 
 Author of the Daily Mail op-ed about Tucker Carlson; discussed as a Hamptons and text-chain participant.
 
-*Related: C-9421, C-9422, C-9423, C-9434, C-9436, C-9445*
+*Related: C-2031, C-2033, C-2034, C-2050, C-2053, C-2063*
 
 ---
 
@@ -497,7 +496,7 @@ Author of the Daily Mail op-ed about Tucker Carlson; discussed as a Hamptons and
 
 Accused shooter; the host says he was not on the Woodbury building or campus.
 
-*Related: C-9403*
+*Related: C-2004*
 
 ---
 
@@ -505,7 +504,7 @@ Accused shooter; the host says he was not on the Woodbury building or campus.
 
 Referenced in the host's pattern comparison about defamation suits and debunks.
 
-*Related: C-9409*
+*Related: C-2013*
 
 ---
 
@@ -513,7 +512,7 @@ Referenced in the host's pattern comparison about defamation suits and debunks.
 
 Subject of the host's claim about the book Assault on Truth.
 
-*Related: C-9444*
+*Related: C-2062*
 
 ---
 
@@ -521,7 +520,7 @@ Subject of the host's claim about the book Assault on Truth.
 
 TPUSA CEO; the host expects donor pressure on her over Tucker Carlson.
 
-*Related: C-9401, C-9404, C-9405, C-9406, C-9407, C-9420, C-9421, C-9422, C-9426, C-9427, C-9430, C-9431, C-9435, C-9443, C-9446*
+*Related: C-2002, C-2006, C-2009, C-2010, C-2011, C-2030, C-2031, C-2033, C-2039, C-2041, C-2044, C-2045, C-2052, C-2061, C-2064*
 
 ---
 
@@ -529,7 +528,7 @@ TPUSA CEO; the host expects donor pressure on her over Tucker Carlson.
 
 Guest of the host's interview aired the day after this episode.
 
-*Related: C-9446*
+*Related: C-2064*
 
 ---
 
@@ -537,7 +536,7 @@ Guest of the host's interview aired the day after this episode.
 
 Named in the host's account of what Seth Dillon pressed Charlie about.
 
-*Related: C-9429*
+*Related: C-2043*
 
 ---
 
@@ -545,7 +544,7 @@ Named in the host's account of what Seth Dillon pressed Charlie about.
 
 Producer addressed by the host about where the Seth Dillon clip came from.
 
-*Related: C-9435*
+*Related: C-2052*
 
 ---
 
@@ -553,7 +552,7 @@ Producer addressed by the host about where the Seth Dillon clip came from.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9399, C-9400, C-9408, C-9416, C-9419*
+*Related: C-1998, C-2000, C-2012, C-2025, C-2029*
 
 ---
 
@@ -561,7 +560,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9401, C-9402, C-9403*
+*Related: C-2002, C-2003, C-2004*
 
 ---
 
@@ -569,7 +568,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9402*
+*Related: C-2003*
 
 ---
 
@@ -577,7 +576,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9403*
+*Related: C-2004*
 
 ---
 
@@ -585,7 +584,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9404*
+*Related: C-2006*
 
 ---
 
@@ -593,7 +592,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9408*
+*Related: C-2012*
 
 ---
 
@@ -601,7 +600,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9411*
+*Related: C-2016*
 
 ---
 
@@ -609,7 +608,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9410, C-9411*
+*Related: C-2014, C-2016*
 
 ---
 
@@ -617,7 +616,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9412*
+*Related: C-2017*
 
 ---
 
@@ -625,7 +624,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9412, C-9414*
+*Related: C-2017, C-2020*
 
 ---
 
@@ -633,7 +632,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9415, C-9418*
+*Related: C-2023, C-2028*
 
 ---
 
@@ -641,7 +640,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9416*
+*Related: C-2025*
 
 ---
 
@@ -649,7 +648,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9416*
+*Related: C-2025*
 
 ---
 
@@ -657,7 +656,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9418*
+*Related: C-2028*
 
 ---
 
@@ -665,7 +664,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9420, C-9430, C-9443, C-9445*
+*Related: C-2030, C-2044, C-2061, C-2063*
 
 ---
 
@@ -673,7 +672,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9420, C-9430, C-9431*
+*Related: C-2030, C-2044, C-2045*
 
 ---
 
@@ -681,7 +680,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9421, C-9422*
+*Related: C-2031, C-2033*
 
 ---
 
@@ -689,7 +688,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9423*
+*Related: C-2034*
 
 ---
 
@@ -697,7 +696,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9424*
+*Related: C-2035*
 
 ---
 
@@ -705,7 +704,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9425, C-9434*
+*Related: C-2037, C-2050*
 
 ---
 
@@ -713,7 +712,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9425*
+*Related: C-2037*
 
 ---
 
@@ -721,7 +720,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9426*
+*Related: C-2039*
 
 ---
 
@@ -729,7 +728,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9427*
+*Related: C-2041*
 
 ---
 
@@ -737,7 +736,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9428*
+*Related: C-2042*
 
 ---
 
@@ -745,7 +744,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9428*
+*Related: C-2042*
 
 ---
 
@@ -753,7 +752,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9429*
+*Related: C-2043*
 
 ---
 
@@ -761,7 +760,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9429*
+*Related: C-2043*
 
 ---
 
@@ -769,7 +768,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9431*
+*Related: C-2045*
 
 ---
 
@@ -777,7 +776,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9434, C-9443*
+*Related: C-2050, C-2061*
 
 ---
 
@@ -785,7 +784,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9443*
+*Related: C-2061*
 
 ---
 
@@ -793,7 +792,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9440*
+*Related: C-2057*
 
 ---
 
@@ -801,7 +800,7 @@ Existing item reused for new claims in this episode.
 
 Existing item reused for new claims in this episode.
 
-*Related: C-9441, C-9442*
+*Related: C-2059, C-2060*
 
 ---
 
@@ -809,7 +808,7 @@ Existing item reused for new claims in this episode.
 
 First named by the host at 00:03:53 in episode 22 as a co-owner of the Maxfield plane and as having his name on the Baugh Entrepreneurship Institute at UVU.
 
-*Related: C-9401, C-9402, C-9403*
+*Related: C-2002, C-2003, C-2004*
 
 ---
 
@@ -818,7 +817,7 @@ First named by the host at 00:03:53 in episode 22 as a co-owner of the Maxfield 
 Node Type: Organization
 X account the host calls the Stop Anti-Semitism account; its post tying CNN and TPUSA decisions to the start of the Holocaust is discussed, and the host says it named her top anti-Semite of the year.
 
-*Related: C-9424*
+*Related: C-2035*
 
 ---
 
@@ -827,7 +826,7 @@ X account the host calls the Stop Anti-Semitism account; its post tying CNN and 
 Node Type: Organization
 Publication where the host says Josh Hammer is editor-at-large.
 
-*Related: C-9436*
+*Related: C-2053*
 
 ---
 
@@ -836,13 +835,13 @@ Publication where the host says Josh Hammer is editor-at-large.
 Node Type: Organization
 Owner the host names for plane N1098L (transcribed once as "Lasai"); the military-contracted plane that flew from Biggs Army Airfield to Montana.
 
-*Related: C-9441*
+*Related: C-2059*
 
 ---
 
 ## V. Claim Register
 
-**C-1527** Host Says Military-Contracted Plane Dipped Low Over Provo Airport at 9:16 a.m.
+**C-1999** Host Says Military-Contracted Plane Dipped Low Over Provo Airport at 9:16 a.m.
 
 Claim Timestamp: 00:02:17
 Claim: The host says FlightRadar data shows a military-contracted plane from Biggs Army Airfield dipped to approximately 300 feet above the Provo Airport runway at 9:16 a.m. Utah time on September 10, 2025.
@@ -851,7 +850,7 @@ Mentions:
 Related Nodes: N-10203
 Investigative Direction: Obtain raw FlightRadar/ADS-B Exchange records for the plane's full track; cross-reference with FAA Biggs Army Airfield outbound logs for 9/10/2025.
 
-**C-1528** Host Says Second Low Dip Came Approximately 26 Minutes After the Assassination
+**C-2001** Host Says Second Low Dip Came Approximately 26 Minutes After the Assassination
 
 Claim Timestamp: 00:03:53
 Claim: The host says the same military-contracted plane from Biggs Army Airfield dipped again to approximately 300 feet over the Provo Airport runway approximately 26 minutes after Charlie Kirk was shot, during its return leg to El Paso.
@@ -860,7 +859,7 @@ Mentions: N-1
 Related Nodes: N-10203
 Investigative Direction: Corroborate the timing of the second dip against the publicly established time of the shooting and FAA flight records.
 
-**C-1529** Host Says N888KG Departed Provo at 1:20 p.m. on 9/10
+**C-2005** Host Says N888KG Departed Provo at 1:20 p.m. on 9/10
 
 Claim Timestamp: 00:05:46
 Claim: The host says plane N888KG, which she describes as the Baugh-Maxfield plane, departed Provo Airport at 1:20 p.m. Mountain time on September 10, 2025.
@@ -869,7 +868,7 @@ Mentions: N-94, N-835
 Related Nodes: N-10205
 Investigative Direction: Cross-check against FAA departure logs and Provo Airport (PVU) records.
 
-**C-1530** Maxfield statement on crew, passengers, and route
+**C-2007** Maxfield statement on crew, passengers, and route
 
 Claim Timestamp: 00:07:26
 Claim: Derek Maxfield publicly stated that the N888KG plane departed Provo on 9/10 at 1:20 p.m. Mountain time with two pilots and no passengers, flew to Page, Arizona (PGA), where Derek Maxfield plus seven additional passengers boarded for the return trip to Provo.
@@ -878,7 +877,7 @@ Mentions: N-94
 Related Nodes: N-10205
 Investigative Direction: Verify pilot identities and PGA passenger manifest through FAA and PGA airport records; obtain airport surveillance footage of boarding.
 
-**C-1531** Maxfield statement on FAA radar termination
+**C-2008** Maxfield statement on FAA radar termination
 
 Claim Timestamp: 00:08:12
 Claim: Derek Maxfield publicly stated that radar services with Denver FAA Center and N888KG were terminated in mutual agreement approximately 10 miles from PGA, consistent with standard practice at non-towered airports.
@@ -887,7 +886,7 @@ Mentions: N-94
 Related Nodes: N-10205
 Investigative Direction: Verify the FAA termination claim against Denver Center controller logs and FAA standard operating procedures for non-towered airports.
 
-**C-1532** Host Says Egyptian Air Force Plane SU-BTT Arrived at Provo September 4 and Departed September 10
+**C-2015** Host Says Egyptian Air Force Plane SU-BTT Arrived at Provo September 4 and Departed September 10
 
 Claim Timestamp: 00:12:53
 Claim: The host says FlightRadar data shows Egyptian Air Force plane SU-BTT arrived at Provo Airport on September 4, 2025 and departed Provo on September 10, 2025 at 7:14 a.m. local time, with an interim layover at Wilmington, Delaware before continuing to Cairo.
@@ -896,7 +895,7 @@ Mentions:
 Related Nodes: N-10204
 Investigative Direction: Confirm via raw FlightRadar history and ADS-B Exchange; cross-check Wilmington, Delaware airport logs; verify with Egyptian military public affairs and U.S. State Department foreign military landing notifications.
 
-**C-1533** Host Says SU-BTT's Three-Year Routing Pattern Runs Through Paris to Air Force Base Cities
+**C-2024** Host Says SU-BTT's Three-Year Routing Pattern Runs Through Paris to Air Force Base Cities
 
 Claim Timestamp: 00:18:38
 Claim: The host says the FlightRadar three-year history for SU-BTT shows the aircraft routinely flies through Paris, and that she noticed the trend that it always flies to an Air Force base.
@@ -904,7 +903,7 @@ Anchored Artifacts: A-1292.2
 Related Nodes: N-10204
 Investigative Direction: Compile full U.S. landing history; cross-reference landing locations with known U.S. Air Force installations.
 
-**C-1534** Email tipster claim: SU-BTT carried subcontractors dropped in Provo
+**C-2021** Email tipster claim: SU-BTT carried subcontractors dropped in Provo
 
 Claim Timestamp: 00:15:53
 Claim: The host says, citing an unnamed email tipster, that she can report as a fact that the SU-BTT flight carried Egyptian military subcontractors who were dropped off in Provo, Utah and did not make it back to Cairo when the plane departed.
@@ -913,7 +912,7 @@ Related Nodes: N-10204
 Investigative Direction: Independently verify through State Department foreign military landing records, hotel logs in Utah County 9/4–9/10, and Egyptian Air Force roster cross-checks.
 *Note: Artifact verbally referenced but not shown.*
 
-**C-1535** Email tipster claim: discreet top-secret mission in Provo
+**C-2022** Email tipster claim: discreet top-secret mission in Provo
 
 Claim Timestamp: 00:16:59
 Claim: The same unnamed email tipster claims the Egyptian military personnel were in Provo on a top-secret, discreet mission, and that the tipster was "scared for their life" in providing this information.
@@ -922,7 +921,7 @@ Related Nodes: N-10204
 Investigative Direction: Verify independently; cross-reference with any joint U.S.–Egypt military exercise notifications or State Department disclosures.
 *Note: Artifact verbally referenced but not shown.*
 
-**C-1536** Daily Mail headline on Kash Patel shutting down foreign intelligence probe
+**C-2027** Daily Mail headline on Kash Patel shutting down foreign intelligence probe
 
 Claim Timestamp: 00:21:18
 Claim: The Daily Mail published a headline stating "Kash Patel shuts down Charlie Kirk foreign intelligence probe in an explosive feud with Trump's counter terror chief."
@@ -930,7 +929,7 @@ Anchored Artifacts: A-1297.1
 Mentions: N-69, N-1
 Investigative Direction: Obtain the underlying Daily Mail article; identify what specific probe was referenced; request FBI/Patel on-record response.
 
-**C-1537** Josh Hammer op-ed "neutralize" language
+**C-2032** Josh Hammer op-ed "neutralize" language
 
 Claim Timestamp: 00:31:36
 Claim: Per the Daily Mail op-ed by Josh Hammer that the host reads, Hammer called Tucker's hosting of Nick Fuentes a "war on MAGA and the modern American right," and stated that "unless the fox is neutralized, the victim could be the entire extant GOP coalition itself."
@@ -938,7 +937,7 @@ Anchored Artifacts: A-1293.1
 Mentions: N-55, N-22, N-201
 Investigative Direction: Obtain the full op-ed in original Daily Mail publication; document the "neutralize" framing in context.
 
-**C-1538** Stop Anti-Semitism tweet equating CNN/TPUSA decisions with Holocaust origins
+**C-2036** Stop Anti-Semitism tweet equating CNN/TPUSA decisions with Holocaust origins
 
 Claim Timestamp: 00:34:20
 Claim: The Stop Anti-Semitism X account posted: "CNN platforming Ana Kasparian, Turning Point USA refusing to cut Tucker Carlson, this is how the Holocaust started. Jew hatred normalized."
@@ -946,7 +945,7 @@ Anchored Artifacts: A-1294.1
 Mentions: N-22, N-203
 Investigative Direction: Obtain original X post URL; preserve deletion history and engagement metrics.
 
-**C-1539** Seth Dillon on Tucker/Fuentes "irresponsibility"
+**C-2038** Seth Dillon on Tucker/Fuentes "irresponsibility"
 
 Claim Timestamp: 00:35:53
 Claim: On Piers Morgan, Seth Dillon stated that Tucker Carlson hosting Nick Fuentes was "extremely irresponsible," and that it would have been "a responsible thing and a good thing for the conservative movement" for Tucker to be "standing in the way of Nick Fuentes becoming more mainstream."
@@ -954,7 +953,7 @@ Anchored Artifacts: A-1295.1
 Mentions: N-22, N-38, N-201, N-204
 Investigative Direction: Obtain full unedited Piers Morgan interview; verify clip is unedited.
 
-**C-1540** Seth Dillon on Tucker and Christian Zionist "heretics" framing
+**C-2040** Seth Dillon on Tucker and Christian Zionist "heretics" framing
 
 Claim Timestamp: 00:38:02
 Claim: On Piers Morgan, Seth Dillon asked Dave Smith about Tucker Carlson calling Christian Zionists "heretics" while having spoken glowingly at Charlie Kirk's memorial, pressing Smith to reconcile these positions.
@@ -962,7 +961,7 @@ Anchored Artifacts: A-1295.2
 Mentions: N-1, N-22, N-38, N-39, N-204
 Investigative Direction: Obtain full unedited interview segment; verify context.
 
-**C-1541** Seth Dillon on Nick Fuentes' alleged statements regarding J.D. Vance
+**C-2051** Seth Dillon on Nick Fuentes' alleged statements regarding J.D. Vance
 
 Claim Timestamp: 00:48:05
 Claim: In a clip the host plays, which she indicates was from a separate show rather than Piers Morgan, Seth Dillon characterizes Nick Fuentes as having animosity toward Jews, having called J.D. Vance "fat and ugly" with a "brown family," and as having engaged in "glorification of Hitler."
@@ -970,7 +969,7 @@ Anchored Artifacts: A-1295.3
 Mentions: N-4, N-38, N-201, N-204
 Investigative Direction: Verify specific Fuentes quotes against primary source material; obtain full interview segment.
 
-**C-1542** TPUSA text chain: Jewish donor loss and Candace invitation
+**C-2046** TPUSA text chain: Jewish donor loss and Candace invitation
 
 Claim Timestamp: 00:42:04
 Claim: In a clip the host plays, a speaker describing screenshots of an internal chat Charlie Kirk was doing with TPUSA says it reads "Just lost another huge Jewish donor, 2 million a year, because we won't cancel Tucker. And I'm thinking of inviting Candace."
@@ -980,7 +979,7 @@ Related Nodes: N-10206
 Investigative Direction: Independently verify the screenshot provenance, timestamp, and participants; confirm via TPUSA records or corroborating witnesses.
 *Note: Requires human verification.*
 
-**C-1543** Josh Hammer audio clip on Tucker as "cancerous force"
+**C-2047** Josh Hammer audio clip on Tucker as "cancerous force"
 
 Claim Timestamp: 00:42:40
 Claim: In a clip the host plays, a speaker not named on air (attributed in the archive to Josh Hammer) says: "It brings me no pleasure to criticize Tucker Carlson as much as I have been doing. But he has become the leading tip of the spear of what can only be described as a cancerous force running to engulf the entire American right."
@@ -988,7 +987,7 @@ Anchored Artifacts: A-1300.1
 Mentions: N-55, N-22
 Investigative Direction: Verify original source of audio clip (interview, podcast, or other); confirm attribution.
 
-**C-1544** Viewer comment: SUBND/SUBTT at PEACE 2025; N1098L drone concerns
+**C-2058** Viewer comment: SUBND/SUBTT at PEACE 2025; N1098L drone concerns
 
 Claim Timestamp: 00:55:55
 Claim: A viewer comment from "Obsessed with sports" the host reads says Egyptian tail numbers SUBND and SUBTT were at PEACE 2025 and that tail number N1098L is concerning since Israeli defense companies are now making air-launched drones for recon and as loitering munitions; the host says the commenter is claiming the plane is being used by Israeli defense companies, which she has not checked.
@@ -999,7 +998,7 @@ Investigative Direction: Verify PEACE 2025 aircraft attendance records; independ
 
 ---
 
-**C-3646** Host identifies show community as Decentralized Intelligence Agency
+**C-2018** Host identifies show community as Decentralized Intelligence Agency
 
 Claim Timestamp: 00:14:07
 Claim: The host says she was going through the DCIA tips box, which she calls "our decentralized intelligence agency tips box," when she found an email about the Egyptian flight.
@@ -1012,7 +1011,7 @@ Investigative Direction: Preserve as brand / network framing claim; cross-link M
 
 ---
 
-**C-9399** Host says Egyptian military men were on the ground in Utah on 9/10
+**C-1998** Host says Egyptian military men were on the ground in Utah on 9/10
 
 Claim Timestamp: 00:00:00
 
@@ -1028,7 +1027,7 @@ Investigative Direction: Government or airport records of any Egyptian military 
 
 ---
 
-**C-9400** Military plane landed in Kalispell for under an hour before returning to Texas
+**C-2000** Military plane landed in Kalispell for under an hour before returning to Texas
 
 Claim Timestamp: 00:03:01
 
@@ -1039,13 +1038,13 @@ Transcript Snippet: it continued on to Kalispell, Montana, and then it lands for
 Anchored Artifacts: A-1290.1
 Mentions: N-3
 Related Nodes: N-10203, N-10074
-Supports: C-1528
+Supports: C-2001
 Tags: relevance:core
 Investigative Direction: FlightRadar history of the plane showing the Kalispell stop duration and return track.
 
 ---
 
-**C-9401** Maxfield plane co-owned by Casey Baugh
+**C-2002** Maxfield plane co-owned by Casey Baugh
 
 Claim Timestamp: 00:03:53
 
@@ -1061,7 +1060,7 @@ Investigative Direction: FAA aircraft registration and ownership records for the
 
 ---
 
-**C-9402** Casey Baugh's name is on an institute at UVU's Woodbury Building
+**C-2003** Casey Baugh's name is on an institute at UVU's Woodbury Building
 
 Claim Timestamp: 00:05:14
 
@@ -1077,7 +1076,7 @@ Investigative Direction: UVU website and records for the Baugh Entrepreneurship 
 
 ---
 
-**C-9403** Host says Tyler Robinson was not on the Woodbury building or campus
+**C-2004** Host says Tyler Robinson was not on the Woodbury building or campus
 
 Claim Timestamp: 00:05:29
 
@@ -1093,7 +1092,7 @@ Investigative Direction: Charging documents and campus video establishing where 
 
 ---
 
-**C-9404** Maxfield plane seemingly turned its transponder off
+**C-2006** Maxfield plane seemingly turned its transponder off
 
 Claim Timestamp: 00:05:46
 
@@ -1104,13 +1103,13 @@ Transcript Snippet: they seemingly turned their transponder off. That alarmed th
 Anchored Artifacts: 
 Mentions: N-94, N-200, N-835, N-3
 Related Nodes: N-10205, N-10549
-Supports: C-1529
+Supports: C-2005
 Tags: relevance:core
 Investigative Direction: ADS-B and FlightRadar coverage records for N888KG after the 1:20 p.m. departure.
 
 ---
 
-**C-9405** Maxfield statement on return flight times and purpose
+**C-2009** Maxfield statement on return flight times and purpose
 
 Claim Timestamp: 00:08:12
 
@@ -1121,13 +1120,13 @@ Transcript Snippet: We departed that PGA Airport in Arizona at approximately 1:4
 Anchored Artifacts: A-1291.1
 Mentions: N-94, N-200, N-3
 Related Nodes: N-10205
-Supports: C-1530
+Supports: C-2007
 Tags: relevance:core
 Investigative Direction: Flight logs and FAA records for N888KG's Provo-Page-Provo legs on September 10.
 
 ---
 
-**C-9406** Maxfield statement says no one on the flight was contacted by law enforcement
+**C-2010** Maxfield statement says no one on the flight was contacted by law enforcement
 
 Claim Timestamp: 00:08:12
 
@@ -1143,7 +1142,7 @@ Investigative Direction: Utah or federal law-enforcement confirmation of whether
 
 ---
 
-**C-9407** Host says pilots found the feds guarding the Maxfield flight details
+**C-2011** Host says pilots found the feds guarding the Maxfield flight details
 
 Claim Timestamp: 00:09:22
 
@@ -1159,7 +1158,7 @@ Investigative Direction: Identification of the pilots and airport staff, and any
 
 ---
 
-**C-9408** Host cites a source saying a plane shifted from Million Air FBO to another FBO
+**C-2012** Host cites a source saying a plane shifted from Million Air FBO to another FBO
 
 Claim Timestamp: 00:10:26
 
@@ -1175,7 +1174,7 @@ Investigative Direction: FBO arrival records and ramp logs for Provo for Septemb
 
 ---
 
-**C-9409** Host says the Brigitte Macron pattern is suing over side issues so the media says debunked
+**C-2013** Host says the Brigitte Macron pattern is suing over side issues so the media says debunked
 
 Claim Timestamp: 00:11:14
 
@@ -1191,7 +1190,7 @@ Investigative Direction: The court filings in the Macron defamation actions.
 
 ---
 
-**C-9410** Host says the Egyptian plane had visited the US only twice in the prior year
+**C-2014** Host says the Egyptian plane had visited the US only twice in the prior year
 
 Claim Timestamp: 00:12:09
 
@@ -1202,13 +1201,13 @@ Transcript Snippet: that Egyptian military plane had previously only ever been t
 Anchored Artifacts: A-1292.1
 Mentions: N-3, N-1
 Related Nodes: N-10204, N-10207
-Supports: C-1532
+Supports: C-2015
 Tags: relevance:core
 Investigative Direction: FlightRadar or FAA records of SU-BTT's US arrivals from September 2024 to September 2025.
 
 ---
 
-**C-9411** Host admits she misread FlightRadar times as Mountain time
+**C-2016** Host admits she misread FlightRadar times as Mountain time
 
 Claim Timestamp: 00:12:53
 
@@ -1219,13 +1218,13 @@ Transcript Snippet: I thought that I was looking at Mountain Time like a local t
 Anchored Artifacts: A-1292.1
 Mentions: N-3
 Related Nodes: N-10853, N-10207
-Supports: C-1532
+Supports: C-2015
 Tags: relevance:core
 Investigative Direction: Original FlightRadar record of SU-BTT's Provo departure time in UTC and local time.
 
 ---
 
-**C-9412** Host says the user who caught her time-zone error was boosted by the military on X
+**C-2017** Host says the user who caught her time-zone error was boosted by the military on X
 
 Claim Timestamp: 00:12:53
 
@@ -1241,7 +1240,7 @@ Investigative Direction: Engagement and amplification data for the account and p
 
 ---
 
-**C-9413** Tipster is a person from a foreign country with proximity to someone aboard
+**C-2019** Tipster is a person from a foreign country with proximity to someone aboard
 
 Claim Timestamp: 00:14:07
 
@@ -1252,13 +1251,13 @@ Transcript Snippet: it was someone from a foreign country. They wrote us claimin
 Anchored Artifacts: A-3007.1
 Mentions: N-3
 Related Nodes: N-10204
-Supports: C-1534
+Supports: C-2021
 Tags: relevance:core
 Investigative Direction: Verification of the tipster's identity and relationship to the flight, without exposing the source.
 
 ---
 
-**C-9414** Host states as fact that the 9/4 stop was not routine servicing
+**C-2020** Host states as fact that the 9/4 stop was not routine servicing
 
 Claim Timestamp: 00:15:19
 
@@ -1269,13 +1268,13 @@ Transcript Snippet: Well, I'm telling you that for a fact that plane was carryin
 Anchored Artifacts: A-3007.1
 Mentions: N-3
 Related Nodes: N-10204, N-10299
-Supports: C-1534
+Supports: C-2021
 Tags: relevance:core
 Investigative Direction: Passenger and crew manifests and customs records for SU-BTT on September 4 and 10-11, 2025.
 
 ---
 
-**C-9415** Host says she challenged Kash Patel to dispute her account of the flight
+**C-2023** Host says she challenged Kash Patel to dispute her account of the flight
 
 Claim Timestamp: 00:16:59
 
@@ -1291,7 +1290,7 @@ Investigative Direction: Any FBI or DOJ public statement about the purpose of SU
 
 ---
 
-**C-9416** SU-BTT 2025 routing: Cairo, Paris, Minot, then Provo
+**C-2025** SU-BTT 2025 routing: Cairo, Paris, Minot, then Provo
 
 Claim Timestamp: 00:18:38
 
@@ -1302,13 +1301,13 @@ Transcript Snippet: it went from Cairo to Paris to France to Minot, North Dakota
 Anchored Artifacts: A-1292.2
 Mentions: N-3
 Related Nodes: N-10274, N-10277, N-10074
-Supports: C-1533
+Supports: C-2024
 Tags: relevance:core
 Investigative Direction: FlightRadar business-account history for SU-BTT, September 2025.
 
 ---
 
-**C-9417** Tipster did not say the secret mission was tied to Charlie Kirk
+**C-2026** Tipster did not say the secret mission was tied to Charlie Kirk
 
 Claim Timestamp: 00:19:31
 
@@ -1319,13 +1318,13 @@ Transcript Snippet: this individual never ever said that the mission, the secret
 Anchored Artifacts: A-3007.1
 Mentions: N-3, N-1
 Related Nodes: N-10204
-Qualifies: C-1535
+Qualifies: C-2022
 Tags: relevance:core
 Investigative Direction: Follow-up with the tipster on the mission's nature, and any official explanation.
 
 ---
 
-**C-9418** Host says Kash Patel says only he should be looking into the case
+**C-2028** Host says Kash Patel says only he should be looking into the case
 
 Claim Timestamp: 00:21:18
 
@@ -1336,13 +1335,13 @@ Transcript Snippet: There's absolutely no reason for Kash Patel to say, "Only I'
 Anchored Artifacts: A-1297.1
 Mentions: N-3, N-69
 Related Nodes: N-10202, N-10355
-Supports: C-1536
+Supports: C-2027
 Tags: relevance:context
 Investigative Direction: Patel's public statements about who is authorized to investigate and the reported feud with the counterterrorism chief.
 
 ---
 
-**C-9419** Host asks viewers for tips on the Egyptian flight to moretips@candaceowens.com
+**C-2029** Host asks viewers for tips on the Egyptian flight to moretips@candaceowens.com
 
 Claim Timestamp: 00:27:23
 
@@ -1358,7 +1357,7 @@ Investigative Direction: Tips received at the address on the Egyptian flight and
 
 ---
 
-**C-9420** Tucker hosted Nick Fuentes, prompting calls to cancel him from TPUSA events
+**C-2030** Tucker hosted Nick Fuentes, prompting calls to cancel him from TPUSA events
 
 Claim Timestamp: 00:29:01
 
@@ -1374,7 +1373,7 @@ Investigative Direction: The Tucker Carlson-Nick Fuentes interview and statement
 
 ---
 
-**C-9421** Hammer op-ed called Tucker's act a heinous betrayal of Charlie
+**C-2031** Hammer op-ed called Tucker's act a heinous betrayal of Charlie
 
 Claim Timestamp: 00:30:52
 
@@ -1385,13 +1384,13 @@ Transcript Snippet: Tucker Carlson just hit a new low with this heinous betrayal
 Anchored Artifacts: A-1293.1
 Mentions: N-3, N-55, N-22, N-1
 Related Nodes: N-10070
-Supports: C-1537
+Supports: C-2032
 Tags: relevance:context
 Investigative Direction: The published Daily Mail op-ed text.
 
 ---
 
-**C-9422** Hammer op-ed accused Carlson of waging a jihad on the MAGA right
+**C-2033** Hammer op-ed accused Carlson of waging a jihad on the MAGA right
 
 Claim Timestamp: 00:31:36
 
@@ -1402,13 +1401,13 @@ Transcript Snippet: They hope to burn down MAGA and build a neo-pagan, anti-West
 Anchored Artifacts: A-1293.1
 Mentions: N-55, N-22
 Related Nodes: N-10070
-Supports: C-1537
+Supports: C-2032
 Tags: relevance:context
 Investigative Direction: The published Daily Mail op-ed text.
 
 ---
 
-**C-9423** Host says Hammer lied about Charlie's views on Israel despite being on the text chain
+**C-2034** Host says Hammer lied about Charlie's views on Israel despite being on the text chain
 
 Claim Timestamp: 00:31:36
 
@@ -1419,13 +1418,13 @@ Transcript Snippet: who lied about Charlie's views on Israel changing even thoug
 Anchored Artifacts: 
 Mentions: N-3, N-55, N-1
 Related Nodes: N-10187
-Supports: C-1377
+Supports: C-1352
 Tags: relevance:core
 Investigative Direction: Hammer's public statements about Charlie's Israel views compared with the text-chain messages.
 
 ---
 
-**C-9424** Host says Stop Antisemitism named her top antisemite of the year without an award
+**C-2035** Host says Stop Antisemitism named her top antisemite of the year without an award
 
 Claim Timestamp: 00:33:30
 
@@ -1441,7 +1440,7 @@ Investigative Direction: The Stop Antisemitism account's 2024 list and any award
 
 ---
 
-**C-9425** Host says Seth Dillon pressed Charlie at the Hamptons summit over his changing views
+**C-2037** Host says Seth Dillon pressed Charlie at the Hamptons summit over his changing views
 
 Claim Timestamp: 00:34:20
 
@@ -1452,13 +1451,13 @@ Transcript Snippet: this is the same Seth Dillon at that notorious Hampton's sum
 Anchored Artifacts: A-1295.1
 Mentions: N-3, N-38, N-1
 Related Nodes: N-10345, N-10027
-Supports: C-1173
+Supports: C-239
 Tags: relevance:core
 Investigative Direction: Attendee accounts of the Hamptons summit and Seth Dillon's statements about it.
 
 ---
 
-**C-9426** Dave Smith says Candace and Fuentes grew because of opposition to Gaza
+**C-2039** Dave Smith says Candace and Fuentes grew because of opposition to Gaza
 
 Claim Timestamp: 00:35:53
 
@@ -1474,7 +1473,7 @@ Investigative Direction: The full Piers Morgan or related interview with Dave Sm
 
 ---
 
-**C-9427** Dave Smith says he disagreed with Charlie on Christian Zionism
+**C-2041** Dave Smith says he disagreed with Charlie on Christian Zionism
 
 Claim Timestamp: 00:38:02
 
@@ -1485,13 +1484,13 @@ Transcript Snippet: Yeah, I disagreed with Charlie on that, too.
 Anchored Artifacts: A-1295.2
 Mentions: N-39, N-22, N-1
 Related Nodes: N-10209
-Supports: C-1540
+Supports: C-2040
 Tags: relevance:context
 Investigative Direction: The full clip and context of Smith's remarks.
 
 ---
 
-**C-9428** Host says Charlie said two days before his death he had to leave the pro-Israel cause
+**C-2042** Host says Charlie said two days before his death he had to leave the pro-Israel cause
 
 Claim Timestamp: 00:38:47
 
@@ -1507,7 +1506,7 @@ Investigative Direction: The source of Charlie's reported statement two days bef
 
 ---
 
-**C-9429** Host says the Hamptons session was August 5 and 6 and pressed Charlie on Netanyahu
+**C-2043** Host says the Hamptons session was August 5 and 6 and pressed Charlie on Netanyahu
 
 Claim Timestamp: 00:39:32
 
@@ -1523,7 +1522,7 @@ Investigative Direction: Calendar, travel and attendee records for the Hamptons 
 
 ---
 
-**C-9430** Host says Charlie fought to keep Tucker on the TPUSA speaking list in his last texts
+**C-2044** Host says Charlie fought to keep Tucker on the TPUSA speaking list in his last texts
 
 Claim Timestamp: 00:41:06
 
@@ -1534,13 +1533,13 @@ Transcript Snippet: He fought tooth and nail to make sure that Tucker Carlson st
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-22
 Related Nodes: N-10268, N-10000
-Supports: C-3736
+Supports: C-362
 Tags: relevance:core
 Investigative Direction: The text-chain messages showing Charlie's instruction to keep Tucker on the roster.
 
 ---
 
-**C-9431** Clip: Charlie did not appreciate being morally blackmailed and would dig in
+**C-2045** Clip: Charlie did not appreciate being morally blackmailed and would dig in
 
 Claim Timestamp: 00:41:06
 
@@ -1551,13 +1550,13 @@ Transcript Snippet: I don't appreciate being morally blackmailed." And, you know
 Anchored Artifacts: A-3009.1
 Mentions: N-1, N-22
 Related Nodes: N-10106, N-10268
-Supports: C-1258
+Supports: C-715
 Tags: relevance:core
 Investigative Direction: The original episode or message from which the clip is drawn and its source text.
 
 ---
 
-**C-9432** Host says she took Charlie's David remark to mean slaying Goliath
+**C-2048** Host says she took Charlie's David remark to mean slaying Goliath
 
 Claim Timestamp: 00:42:49
 
@@ -1568,13 +1567,13 @@ Transcript Snippet: What do you think Charlie meant when he said he wanted you t
 Anchored Artifacts: A-1298.1
 Mentions: N-3, N-1
 Related Nodes: 
-Supports: C-1469
+Supports: C-1782
 Tags: relevance:context
 Investigative Direction: The original message in which Charlie used the David reference.
 
 ---
 
-**C-9433** Viewer email reads David-Jonathan robe and armor as a transfer of succession
+**C-2049** Viewer email reads David-Jonathan robe and armor as a transfer of succession
 
 Claim Timestamp: 00:43:34
 
@@ -1590,7 +1589,7 @@ Investigative Direction: The biblical text (1 Samuel) and scholarship on the Jon
 
 ---
 
-**C-9434** Host says Dillon and Hammer harassed Charlie and now claim his legacy
+**C-2050** Host says Dillon and Hammer harassed Charlie and now claim his legacy
 
 Claim Timestamp: 00:44:21
 
@@ -1601,13 +1600,13 @@ Transcript Snippet: the very same people that were making Charlie ill with the t
 Anchored Artifacts: 
 Mentions: N-3, N-38, N-55, N-1
 Related Nodes: N-10345, N-10047
-Supports: C-1173
+Supports: C-239
 Tags: relevance:core
 Investigative Direction: Text-chain messages and Hamptons attendee accounts documenting the pressure.
 
 ---
 
-**C-9435** Host says the Fuentes clip was not from Piers Morgan
+**C-2052** Host says the Fuentes clip was not from Piers Morgan
 
 Claim Timestamp: 00:48:05
 
@@ -1618,13 +1617,13 @@ Transcript Snippet: Okay, it wasn't on Piers Morgan, right, Schuyler?
 Anchored Artifacts: A-1295.3
 Mentions: N-3, N-38, N-68, N-204
 Related Nodes: 
-Qualifies: C-1541
+Qualifies: C-2051
 Tags: relevance:context
 Investigative Direction: The original broadcast and date of the Seth Dillon clip about Nick Fuentes.
 
 ---
 
-**C-9436** Host says Josh Hammer is editor-at-large at Newsweek
+**C-2053** Host says Josh Hammer is editor-at-large at Newsweek
 
 Claim Timestamp: 00:49:00
 
@@ -1640,7 +1639,7 @@ Investigative Direction: Newsweek's masthead for Josh Hammer.
 
 ---
 
-**C-9437** Host says she is drip-feeding to identify the rats on the ship
+**C-2054** Host says she is drip-feeding to identify the rats on the ship
 
 Claim Timestamp: 00:53:47
 
@@ -1656,7 +1655,7 @@ Investigative Direction: The statements by those she names later, compared again
 
 ---
 
-**C-9438** Host says she knows some of the rats for certain but not everyone
+**C-2056** Host says she knows some of the rats for certain but not everyone
 
 Claim Timestamp: 00:55:00
 
@@ -1672,7 +1671,7 @@ Investigative Direction: Identification of the individuals the host has in mind 
 
 ---
 
-**C-9439** Host says her book Make Him a Sandwich is out
+**C-2055** Host says her book Make Him a Sandwich is out
 
 Claim Timestamp: 00:53:47
 
@@ -1688,7 +1687,7 @@ Investigative Direction: The book's publication record.
 
 ---
 
-**C-9440** Host says she does not know who pulled the trigger, with two investigations running
+**C-2057** Host says she does not know who pulled the trigger, with two investigations running
 
 Claim Timestamp: 00:55:17
 
@@ -1704,7 +1703,7 @@ Investigative Direction: Later statements by the host on a shooter and on the be
 
 ---
 
-**C-9441** Host identifies N1098L as the LSA LLC plane that flew to Montana and turned around
+**C-2059** Host identifies N1098L as the LSA LLC plane that flew to Montana and turned around
 
 Claim Timestamp: 00:55:55
 
@@ -1715,13 +1714,13 @@ Transcript Snippet: So, that second plane is the LSA LLC one.
 Anchored Artifacts: A-1299.1
 Mentions: N-3
 Related Nodes: N-10185, N-11222
-Supports: C-1544
+Supports: C-2058
 Tags: relevance:context
 Investigative Direction: FAA registration of N1098L and its owner LSA LLC, and any link to defense contractors.
 
 ---
 
-**C-9442** Mark says N1098L was in Idaho when Charlie was shot, about 20 minutes out
+**C-2060** Mark says N1098L was in Idaho when Charlie was shot, about 20 minutes out
 
 Claim Timestamp: 00:56:45
 
@@ -1732,13 +1731,13 @@ Transcript Snippet: here's a screenshot of where that plane was at the moment Ch
 Anchored Artifacts: A-3008.1
 Mentions: N-67, N-1
 Related Nodes: N-10185, N-10203
-Qualifies: C-1528
+Qualifies: C-2001
 Tags: relevance:core
 Investigative Direction: FlightRadar track for N1098L around 9:35 to 10:05 a.m. Mountain time.
 
 ---
 
-**C-9443** Host says Erika Kirk will face the same donor pressure Charlie did over Tucker
+**C-2061** Host says Erika Kirk will face the same donor pressure Charlie did over Tucker
 
 Claim Timestamp: 00:59:13
 
@@ -1749,13 +1748,13 @@ Transcript Snippet: it's going to be tough for Erika. It's got to be tough for E
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-1
 Related Nodes: N-10000, N-10047, N-10467
-Supports: C-6547
+Supports: C-1993
 Tags: relevance:core
 Investigative Direction: Erika Kirk and TPUSA's donor communications about Tucker Carlson's future appearances.
 
 ---
 
-**C-9444** Host says Sigmund Freud was factually defending his pedophile friends
+**C-2062** Host says Sigmund Freud was factually defending his pedophile friends
 
 Claim Timestamp: 01:00:34
 
@@ -1771,7 +1770,7 @@ Investigative Direction: The book Assault on Truth and its sourcing.
 
 ---
 
-**C-9445** Host says Hammer started the struggle session because Dave Smith beat him on the TPUSA stage
+**C-2063** Host says Hammer started the struggle session because Dave Smith beat him on the TPUSA stage
 
 Claim Timestamp: 01:01:23
 
@@ -1787,7 +1786,7 @@ Investigative Direction: Footage of the Hammer-Dave Smith TPUSA exchange and the
 
 ---
 
-**C-9446** Host announces a Norman Finkelstein interview airing the next day
+**C-2064** Host announces a Norman Finkelstein interview airing the next day
 
 Claim Timestamp: 01:02:15
 
@@ -1947,9 +1946,9 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Artifact verbally referenced but not shown:** C-1534 and C-1535 reference an email received via the "DCIA tips box" from an unnamed foreign individual. The email itself was not displayed on screen, and the host's report of its contents is the sole basis for these claims.
+- **Artifact verbally referenced but not shown:** C-2021 and C-2022 reference an email received via the "DCIA tips box" from an unnamed foreign individual. The email itself was not displayed on screen, and the host's report of its contents is the sole basis for these claims.
 
-- **Requires human verification:** C-1542 depends entirely on the authenticity of the TPUSA internal text-chain screenshot (A-1296.1). Independent verification of the screenshot's provenance, participants, and timestamp is required before this claim can be elevated.
+- **Requires human verification:** C-2046 depends entirely on the authenticity of the TPUSA internal text-chain screenshot (A-1296.1). Independent verification of the screenshot's provenance, participants, and timestamp is required before this claim can be elevated.
 
 - **Possible transcription error:** A-1299.1 contains the fragment "After and Haiti's the tail number N1098L" which appears to be a corrupted transcription. The intended reference is unclear from context.
 

@@ -27,9 +27,9 @@
           "ref": "A-2351.1",
           "description": "Journal Entry: Wyoming, mid-October (immediately post-death reflection)",
           "related_claims": [
-            "C-3406",
-            "C-3416",
-            "C-3420"
+            "C-12951",
+            "C-12958",
+            "C-12961"
           ],
           "related_nodes": [
             "N-1",
@@ -48,10 +48,10 @@
           "ref": "A-2351.2",
           "description": "Journal Entry: Subsequent entry covering foot injury, pregnancy, and Erica (\"Erika\") investigation",
           "related_claims": [
-            "C-3406",
-            "C-3414",
-            "C-3415",
-            "C-3417"
+            "C-12951",
+            "C-12974",
+            "C-12975",
+            "C-12970"
           ],
           "related_nodes": [
             "N-2",
@@ -70,9 +70,9 @@
           "ref": "A-2351.3",
           "description": "Journal Entry: Power song analysis / 2018 Israel-London retrospective",
           "related_claims": [
-            "C-3406",
-            "C-3421",
-            "C-3425"
+            "C-12951",
+            "C-12979",
+            "C-12989"
           ],
           "related_nodes": [
             "N-1",
@@ -91,10 +91,10 @@
           "ref": "A-2351.4",
           "description": "Journal Entry: Pre-anniversary / Spain laughter / Ghost Town concert reflection",
           "related_claims": [
-            "C-3406",
-            "C-3419",
-            "C-3422",
-            "C-3423"
+            "C-12951",
+            "C-12991",
+            "C-12997",
+            "C-12999"
           ],
           "related_nodes": [
             "N-3"
@@ -120,9 +120,9 @@
           "ref": "A-2352.1",
           "description": "Open letter from Irina, John Mappin, and Irina, addressed to \"the world,\" read aloud by host",
           "related_claims": [
-            "C-3407",
-            "C-3408",
-            "C-3424"
+            "C-12963",
+            "C-12966",
+            "C-12968"
           ],
           "related_nodes": [
             "N-1",
@@ -150,7 +150,7 @@
           "ref": "A-2353.1",
           "description": "Charlie Kirk text message describing his future wife (Erica) as \"paralyzing\" and \"the ideal,\" quoting her as \"Venus\" and referencing TPOSA productivity",
           "related_claims": [
-            "C-3409"
+            "C-12973"
           ],
           "related_nodes": [
             "N-1",
@@ -177,7 +177,7 @@
           "ref": "A-2354.1",
           "description": "Kanye West text reply to Candace Owens: \"it's a battle cry to be yourself\"",
           "related_claims": [
-            "C-3410"
+            "C-12985"
           ],
           "related_nodes": [
             "N-3"
@@ -195,7 +195,7 @@
           "ref": "A-2354.2",
           "description": "Kanye West public tweet: \"I love the way Candace Owens thinks\" (April–May 2018)",
           "related_claims": [
-            "C-3411"
+            "C-12981"
           ],
           "related_nodes": [
             "N-3"
@@ -221,7 +221,7 @@
           "ref": "A-2355.1",
           "description": "Donald Trump tweet featuring mock Time magazine cover depicting Candace Owens as \"most vile person of the year\"",
           "related_claims": [
-            "C-3412"
+            "C-12986"
           ],
           "related_nodes": [
             "N-3"
@@ -247,7 +247,7 @@
           "ref": "A-2356.1",
           "description": "Charlie Kirk audio clip from Turning Point USA founding: escalator introduction, \"It's Charlie Kirk\"",
           "related_claims": [
-            "C-3406"
+            "C-12951"
           ],
           "related_nodes": [
             "N-1"
@@ -273,7 +273,7 @@
           "ref": "A-2357.1",
           "description": "Kanye West \"Power\" – verse 3 audio excerpt recited in host's analysis",
           "related_claims": [
-            "C-3425"
+            "C-12989"
           ],
           "related_nodes": [],
           "tags": [],
@@ -297,7 +297,7 @@
           "ref": "A-2358.1",
           "description": "Movie 300 audio excerpt – Spartan \"beautiful death\" speech (Leonidas / Arcadian exchange)",
           "related_claims": [
-            "C-3425"
+            "C-12989"
           ],
           "related_nodes": [],
           "tags": [],
@@ -363,9 +363,9 @@
           "ref": "A-2360.1",
           "description": "Audio / description of Ye's Chicago concert during anniversary week – Kid Cudi on stage performing \"Ghost Town\"",
           "related_claims": [
-            "C-3413",
-            "C-3422",
-            "C-3423"
+            "C-12996",
+            "C-12997",
+            "C-12999"
           ],
           "related_nodes": [],
           "tags": [],
@@ -414,7 +414,7 @@
           "ref": "A-3354.1",
           "description": "Audio montage played by the host with Charlie Kirk describing starting the organization at 18 in Chicago, plus the escalator clip",
           "related_claims": [
-            "C-14958"
+            "C-12969"
           ],
           "related_nodes": [
             "N-1"
@@ -439,7 +439,7 @@
           "ref": "A-3355.1",
           "description": "Clip of the host speaking about Charlie Kirk, played after the final journal entry",
           "related_claims": [
-            "C-14978"
+            "C-13002"
           ],
           "related_nodes": [
             "N-1",
@@ -473,11 +473,11 @@
         "A-2361.1"
       ],
       "related_claims": [
-        "C-3406",
-        "C-3409",
-        "C-3416",
-        "C-3420",
-        "C-3421"
+        "C-12951",
+        "C-12973",
+        "C-12958",
+        "C-12961",
+        "C-12979"
       ],
       "tags": [],
       "evidence_count": 8,
@@ -494,29 +494,29 @@
       "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14946",
-        "C-14947",
-        "C-14948",
-        "C-14949",
-        "C-14951",
-        "C-14952",
-        "C-14957",
-        "C-14959",
-        "C-14960",
-        "C-14962",
-        "C-14963",
-        "C-14964",
-        "C-14965",
-        "C-14966",
-        "C-14967",
-        "C-14970",
-        "C-14971",
-        "C-14972",
-        "C-14973",
-        "C-14975",
-        "C-14976",
-        "C-14977",
-        "C-14978"
+        "C-12952",
+        "C-12953",
+        "C-12954",
+        "C-12955",
+        "C-12957",
+        "C-12959",
+        "C-12967",
+        "C-12971",
+        "C-12972",
+        "C-12977",
+        "C-12978",
+        "C-12980",
+        "C-12982",
+        "C-12983",
+        "C-12984",
+        "C-12990",
+        "C-12992",
+        "C-12993",
+        "C-12994",
+        "C-12998",
+        "C-13000",
+        "C-13001",
+        "C-13002"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -550,10 +550,10 @@
       "description": "Concert performer; subject of BBC interview clip (A-2342), Avengers meme (A-2343), concert footage (A-2341), and TMZ clip (A-2344).",
       "related_artifacts": [],
       "related_claims": [
-        "C-14966",
-        "C-14968",
-        "C-14969",
-        "C-14975"
+        "C-12983",
+        "C-12987",
+        "C-12988",
+        "C-12998"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -603,10 +603,10 @@
       "description": "Referenced by viewer comment \"fam\"; author of \"The Perfumed Pervert\" essay.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14954",
-        "C-14955",
-        "C-14956",
-        "C-14957"
+        "C-12962",
+        "C-12964",
+        "C-12965",
+        "C-12967"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -624,12 +624,12 @@
       "description": "Erika Kirk",
       "related_artifacts": [],
       "related_claims": [
-        "C-14959",
-        "C-14960",
-        "C-14961",
-        "C-14962",
-        "C-14963",
-        "C-14965"
+        "C-12971",
+        "C-12972",
+        "C-12976",
+        "C-12977",
+        "C-12978",
+        "C-12982"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -646,9 +646,9 @@
       "description": "Host's husband, named as present when she said Charlie was betrayed and as the person she met on the 2018 London trip.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14948",
-        "C-14952",
-        "C-14967"
+        "C-12954",
+        "C-12959",
+        "C-12984"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -665,10 +665,10 @@
       "description": "Co-author of the open letter; named with John Mappin as attending the memorial (the host also says Irina).",
       "related_artifacts": [],
       "related_claims": [
-        "C-14954",
-        "C-14955",
-        "C-14956",
-        "C-14957"
+        "C-12962",
+        "C-12964",
+        "C-12965",
+        "C-12967"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -685,7 +685,7 @@
       "description": "Named in the host's sarcastic list of new friendships attributed to Charlie.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14973"
+        "C-12994"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -702,7 +702,7 @@
       "description": "Named in the host's remark that Charlie did not favor him, so she is told.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14973"
+        "C-12994"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -719,8 +719,8 @@
       "description": "Organization whose founding the Charlie Kirk montage describes.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14958",
-        "C-14961"
+        "C-12969",
+        "C-12976"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -737,12 +737,12 @@
       "description": "Existing topic reused for the broadcast, memorial and betrayal claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14949",
-        "C-14950",
-        "C-14954",
-        "C-14972",
-        "C-14976",
-        "C-14978"
+        "C-12955",
+        "C-12956",
+        "C-12962",
+        "C-12993",
+        "C-13000",
+        "C-13002"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -759,7 +759,7 @@
       "description": "Existing topic reused for the 2018 tweet timeline.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14966"
+        "C-12983"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -776,9 +776,9 @@
       "description": "Place reused for the 2018 trip and the pressure claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14965",
-        "C-14966",
-        "C-14970"
+        "C-12982",
+        "C-12983",
+        "C-12990"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -795,7 +795,7 @@
       "description": "Existing topic reused for the political pressure claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14970"
+        "C-12990"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -812,7 +812,7 @@
       "description": "Existing topic reused for the unplanned London trip.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14967"
+        "C-12984"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -829,8 +829,8 @@
       "description": "Existing topic reused for Kirk's alleged dreams of his death.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14948",
-        "C-14964"
+        "C-12954",
+        "C-12980"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -847,8 +847,8 @@
       "description": "Existing topic reused for the 2018 statements and the written choice.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14964",
-        "C-14977"
+        "C-12980",
+        "C-13001"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -865,7 +865,7 @@
       "description": "Existing topic reused for the Truman Show remark.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14970"
+        "C-12990"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -882,8 +882,8 @@
       "description": "Existing topic reused for the sale of items in Kirk's name.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14953",
-        "C-14974"
+        "C-12960",
+        "C-12995"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -900,7 +900,7 @@
       "description": "Existing topic reused for the Russian speakers at the memorial.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14954"
+        "C-12962"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -912,8 +912,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-3406",
-      "ref": "C-3406",
+      "@id": "C-12951",
+      "ref": "C-12951",
       "label": "Candace Owens journaled to Charlie Kirk throughout the year following his death",
       "claim": "The host reads aloud journal entries she wrote to Charlie Kirk across the year after his death, saying she is sharing only some of her journaling.",
       "anchored_artifacts": [
@@ -933,8 +933,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3407",
-      "ref": "C-3407",
+      "@id": "C-12963",
+      "ref": "C-12963",
       "label": "Mappin family open letter calls Charlie's death an \"execution\" with \"far-reaching international consequences\"",
       "claim": "Irina and John Mappin co-authored an open letter, which the host reads, stating that Charlie's death was \"an assassination with potentially far-reaching political consequences\" and asserting that \"the truth, when known… will have far-reaching international consequences.\"",
       "anchored_artifacts": [
@@ -952,8 +952,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3408",
-      "ref": "C-3408",
+      "@id": "C-12966",
+      "ref": "C-12966",
       "label": "Mappin letter asserts official investigation should be ordered to share information with Candace's team",
       "claim": "The open letter states that \"the official investigation should be immediately ordered by the appropriate legal authority to proactively share everything they know with Candace and her selected team.\"",
       "anchored_artifacts": [
@@ -969,8 +969,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3409",
-      "ref": "C-3409",
+      "@id": "C-12973",
+      "ref": "C-12973",
       "label": "Charlie Kirk wrote a text message describing his future wife as \"paralyzing\" and \"the ideal\"",
       "claim": "A quoted text message from Charlie Kirk reads (in part): \"She has no freaking clue how paralyzing she is to me. And she is the ideal.\"",
       "anchored_artifacts": [
@@ -987,8 +987,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3410",
-      "ref": "C-3410",
+      "@id": "C-12985",
+      "ref": "C-12985",
       "label": "Kanye West texted Candace Owens \"it's a battle cry to be yourself\" in response to a question about \"Power\"",
       "claim": "Host quotes a direct text reply from Kanye West following Charlie's death: when asked why he wrote the song \"Power,\" he wrote back \"it's a battle cry to be yourself.\"",
       "anchored_artifacts": [
@@ -1005,8 +1005,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3411",
-      "ref": "C-3411",
+      "@id": "C-12981",
+      "ref": "C-12981",
       "label": "Kanye West publicly tweeted \"I love the way Candace Owens thinks\" in approximately April–May 2018",
       "claim": "Host references a Kanye West tweet from April–May 2018 reading \"I love the way Candace Owens thinks.\"",
       "anchored_artifacts": [
@@ -1023,8 +1023,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3412",
-      "ref": "C-3412",
+      "@id": "C-12986",
+      "ref": "C-12986",
       "label": "Donald Trump posted a tweet featuring a mock Time magazine cover calling Candace Owens \"most vile person of the year\"",
       "claim": "Host reports that Donald Trump tweeted a mock-up of a Time magazine cover depicting her as \"the most vile person of the year.\"",
       "anchored_artifacts": [
@@ -1041,8 +1041,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3413",
-      "ref": "C-3413",
+      "@id": "C-12996",
+      "ref": "C-12996",
       "label": "Candace Owens attended Ye's Chicago concert during the week of Charlie's one-year anniversary, where Kid Cudi appeared on stage",
       "claim": "Host reports that she attended Ye's Chicago concert during the week of the anniversary, at which Kid Cudi was brought on stage.",
       "anchored_artifacts": [
@@ -1059,8 +1059,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3414",
-      "ref": "C-3414",
+      "@id": "C-12974",
+      "ref": "C-12974",
       "label": "Host reports a \"scheduled will change\" regarding Charlie Kirk's estate",
       "claim": "Host asserts in her written journal: \"I know about the scheduled will change.\"",
       "anchored_artifacts": [
@@ -1077,8 +1077,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3415",
-      "ref": "C-3415",
+      "@id": "C-12975",
+      "ref": "C-12975",
       "label": "Host Reports Charlie Kirk Purchased a House in the Suburbs that Erika Kirk Avoided Moving Into",
       "claim": "Host asserts in journal that Charlie \"purchased and dreamed about moving into\" a suburban house and that Erica \"came up with a million excuses not to.\"",
       "anchored_artifacts": [
@@ -1096,8 +1096,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3416",
-      "ref": "C-3416",
+      "@id": "C-12958",
+      "ref": "C-12958",
       "label": "Host reports Ben Shapiro arrived at Charlie Kirk's studio within days of his death with $1 million claiming to \"pick up the bloody mic\"",
       "claim": "Host asserts in journal that Ben Shapiro \"slid into your studio within days, $1 million in hand,\" publicly stating he would \"pick up your bloody mic.\"",
       "anchored_artifacts": [
@@ -1114,8 +1114,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3417",
-      "ref": "C-3417",
+      "@id": "C-12970",
+      "ref": "C-12970",
       "label": "Host reports breaking her foot during the year since Charlie Kirk's death",
       "claim": "Host states in journal that \"I broke my foot\" between the Wyoming entry and the present.",
       "anchored_artifacts": [
@@ -1132,8 +1132,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3418",
-      "ref": "C-3418",
+      "@id": "C-12950",
+      "ref": "C-12950",
       "label": "Host reports being approximately eight months pregnant at time of recording",
       "claim": "Host states she is \"8 months pregnant\" at the time of recording.",
       "anchored_artifacts": [],
@@ -1148,8 +1148,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3419",
-      "ref": "C-3419",
+      "@id": "C-12991",
+      "ref": "C-12991",
       "label": "Host reports she first belly laughed since Charlie Kirk's death while in Spain",
       "claim": "Host states she first experienced a deep belly laugh since Charlie's death while in Spain.",
       "anchored_artifacts": [
@@ -1166,8 +1166,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3420",
-      "ref": "C-3420",
+      "@id": "C-12961",
+      "ref": "C-12961",
       "label": "Host reports Charlie Kirk's memorial featured Susie Wiles speaking and was characterized as \"like an RNC rally\"",
       "claim": "Host states in journal that Charlie's memorial was \"weird,\" \"like an RNC rally,\" with Susie Wiles among speakers.",
       "anchored_artifacts": [
@@ -1185,8 +1185,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3421",
-      "ref": "C-3421",
+      "@id": "C-12979",
+      "ref": "C-12979",
       "label": "Host reports Charlie Kirk told her in April–May 2018 he had dreamed his own death and its connection to Turning Point USA",
       "claim": "Host states in journal that in April–May 2018 Charlie told her \"with absolute certainty\" he had dreamed his death, that it would be associated with Turning Point USA, and that he would not live to see \"this thing through.\"",
       "anchored_artifacts": [
@@ -1203,8 +1203,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3422",
-      "ref": "C-3422",
+      "@id": "C-12997",
+      "ref": "C-12997",
       "label": "Ye performed in Chicago for the first time in six years during the week of Charlie Kirk's anniversary",
       "claim": "Host states Ye \"returned to Chicago… during the week of your anniversary\" after six years.",
       "anchored_artifacts": [
@@ -1221,8 +1221,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3423",
-      "ref": "C-3423",
+      "@id": "C-12999",
+      "ref": "C-12999",
       "label": "Kid Cudi and Kanye West had a public falling out in 2022",
       "claim": "Host states that Ye and Kid Cudi \"had a massive public falling out in 2022.\"",
       "anchored_artifacts": [
@@ -1238,8 +1238,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3424",
-      "ref": "C-3424",
+      "@id": "C-12968",
+      "ref": "C-12968",
       "label": "Mappin letter characterizes Candace's investigative actions as \"providential, divinely inspired, and metaphysical\"",
       "claim": "The open letter states Candace's actions are \"actions of the highest order of patriotism,\" \"service to the whole country and to the world,\" and \"truly providential, divinely inspired, and metaphysical.\"",
       "anchored_artifacts": [
@@ -1255,8 +1255,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3425",
-      "ref": "C-3425",
+      "@id": "C-12989",
+      "ref": "C-12989",
       "label": "Host reports the \"Ace team\" told her the movie 300 \"beautiful death\" scene inspired a portion of Kanye West's \"Power\"",
       "claim": "Host states that when meeting with the \"Ace team,\" they explained that the inspiration behind the \"beautiful death\" portion of the song came from a specific scene in the movie 300.",
       "anchored_artifacts": [
@@ -1273,8 +1273,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14946",
-      "ref": "C-14946",
+      "@id": "C-12952",
+      "ref": "C-12952",
       "label": "Host Says Charlie Ignored Her Warning That Running 10 Miles Daily Would Injure His Back",
       "claim": "The host says in her journal that she warned Charlie Kirk that running 10 miles every day was too much for his body and that he later injured his back.",
       "anchored_artifacts": [
@@ -1294,8 +1294,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14947",
-      "ref": "C-14947",
+      "@id": "C-12953",
+      "ref": "C-12953",
       "label": "Host Says Her Priest Told Her Charlie Is Likely in Purgatory",
       "claim": "The host says her priest told her Charlie Kirk is likely in purgatory and that she needs to pray for his soul.",
       "anchored_artifacts": [
@@ -1315,8 +1315,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14948",
-      "ref": "C-14948",
+      "@id": "C-12954",
+      "ref": "C-12954",
       "label": "Host Says She Told George Charlie Was Betrayed Before His Death Was Confirmed",
       "claim": "The host says that before it was confirmed Charlie Kirk had died, she told her husband George while they prayed in his office that they had betrayed him, and that George replied they did not know anything yet.",
       "anchored_artifacts": [
@@ -1339,8 +1339,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14949",
-      "ref": "C-14949",
+      "@id": "C-12955",
+      "ref": "C-12955",
       "label": "Host Says She Senses They Wanted Her to See Charlie Die",
       "claim": "The host says she has a deep sense that unnamed persons wanted her to see Charlie Kirk die and that the way the footage was broadcast globally makes no sense.",
       "anchored_artifacts": [
@@ -1362,8 +1362,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14950",
-      "ref": "C-14950",
+      "@id": "C-12956",
+      "ref": "C-12956",
       "label": "Host Says Platform Violence Filters Malfunctioned on September 10",
       "claim": "The host says the footage of Charlie Kirk's shooting defied algorithmic norms and that Facebook, TikTok and X all failed at the same time to remove violent content they are built to catch.",
       "anchored_artifacts": [
@@ -1384,8 +1384,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14951",
-      "ref": "C-14951",
+      "@id": "C-12957",
+      "ref": "C-12957",
       "label": "Host Says She Stopped Eating After Charlie's Death",
       "claim": "The host says she had not had a spell of anorexia since her early twenties but stopped eating after Charlie Kirk's death and went to Wyoming to get away.",
       "anchored_artifacts": [
@@ -1404,8 +1404,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14952",
-      "ref": "C-14952",
+      "@id": "C-12959",
+      "ref": "C-12959",
       "label": "Host Says She Floated Witness Protection to George Before Accepting Charlie Was Dead",
       "claim": "The host says she told George that perhaps Charlie Kirk was in witness protection and that George answered that he thought Charlie was dead.",
       "anchored_artifacts": [
@@ -1426,8 +1426,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14953",
-      "ref": "C-14953",
+      "@id": "C-12960",
+      "ref": "C-12960",
       "label": "Host Says People Who Hated Charlie Sold T-Shirts and Mugs in His Name",
       "claim": "The host says people in the political sphere who hated Charlie Kirk sold t-shirts and mugs in his name after his death.",
       "anchored_artifacts": [
@@ -1448,8 +1448,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14954",
-      "ref": "C-14954",
+      "@id": "C-12962",
+      "ref": "C-12962",
       "label": "Host Says Irina and John Mappin Attended the Memorial and Irina Heard Many Russian Speakers",
       "claim": "The host says Irina and John Mappin attended Charlie Kirk's memorial and that Irina told her she had never seen so many people speaking her native Russian in Arizona.",
       "anchored_artifacts": [
@@ -1473,8 +1473,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14955",
-      "ref": "C-14955",
+      "@id": "C-12964",
+      "ref": "C-12964",
       "label": "Mappin Letter Says Crime Scene Was Destroyed in Days",
       "claim": "The host reads a letter from the Mappins saying a crime scene was apparently completely destroyed in days and that there is plenty of evidence that does not add up.",
       "anchored_artifacts": [
@@ -1488,7 +1488,7 @@
       "investigative_direction": "Obtain the published letter and compare the wording; check Utah Valley University scene-release and cleanup records.",
       "transcript_snippet": "A crime scene apparently completely destroyed in days, and plenty of evidence that simply does not add up.",
       "supports_claim_refs": [
-        "C-12135"
+        "C-1497"
       ],
       "mentions_person_refs": [
         "N-154",
@@ -1497,8 +1497,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14956",
-      "ref": "C-14956",
+      "@id": "C-12965",
+      "ref": "C-12965",
       "label": "Mappin Letter Says Convicting Anyone With Any Doubt Is Anathema to Christ",
       "claim": "The host reads a letter saying that a conviction and death sentence while any shadow of doubt remains would be anathema to the teachings of Christ.",
       "anchored_artifacts": [
@@ -1518,8 +1518,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14957",
-      "ref": "C-14957",
+      "@id": "C-12967",
+      "ref": "C-12967",
       "label": "Mappin Letter Says Candace Has an Army of Truth Seekers Worldwide",
       "claim": "The host reads a letter saying she has an army of truth seekers worldwide helping her search and research, which the letter calls new and modern.",
       "anchored_artifacts": [
@@ -1540,8 +1540,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14958",
-      "ref": "C-14958",
+      "@id": "C-12969",
+      "ref": "C-12969",
       "label": "Charlie Kirk Clip Says He Started the Organization at 18 and Was Raised in Chicago",
       "claim": "An audio montage played by the host includes Charlie Kirk saying he started the organization at 18 years old and was born and raised in Chicago, Illinois.",
       "anchored_artifacts": [
@@ -1562,8 +1562,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14959",
-      "ref": "C-14959",
+      "@id": "C-12971",
+      "ref": "C-12971",
       "label": "Host Says Investigating Erika Kirk Made Her Public Enemy Number One",
       "claim": "The host says that since the first entry she has become public enemy number one for investigating Charlie Kirk's wife.",
       "anchored_artifacts": [
@@ -1583,8 +1583,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14960",
-      "ref": "C-14960",
+      "@id": "C-12972",
+      "ref": "C-12972",
       "label": "Host Says the World Was Right About Erika Kirk",
       "claim": "The host says she wanted the world to be wrong about Erika Kirk but that they were right, and that coming to terms with it broke her.",
       "anchored_artifacts": [
@@ -1604,8 +1604,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14961",
-      "ref": "C-14961",
+      "@id": "C-12976",
+      "ref": "C-12976",
       "label": "Charlie Text Says Erika Putting Him in a Weird Cage Gave TPUSA Its Most Successful Months",
       "claim": "The host reads a text she attributes to Charlie Kirk saying his future wife's treatment of him had given Turning Point the most successful few months ever and that it was an effort to impress the girl across the street, like the Tom Sawyer story.",
       "anchored_artifacts": [
@@ -1621,7 +1621,7 @@
       "investigative_direction": "Obtain the full text thread and its date from the host; compare with TPUSA fundraising and growth reporting for the period.",
       "transcript_snippet": "In a funny way, her putting me in this weird cage and box actually has given to TPOSA the most successful few months ever.",
       "supports_claim_refs": [
-        "C-3409"
+        "C-12973"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -1630,8 +1630,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14962",
-      "ref": "C-14962",
+      "@id": "C-12977",
+      "ref": "C-12977",
       "label": "Host Says a Wife Would Not Partner With Your Enemies",
       "claim": "The host says she does not know what Erika Kirk is but knows that a wife would not partner with Charlie Kirk's enemies.",
       "anchored_artifacts": [
@@ -1652,8 +1652,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14963",
-      "ref": "C-14963",
+      "@id": "C-12978",
+      "ref": "C-12978",
       "label": "Host Says Erika Kirk Has Chased Power Her Whole Life",
       "claim": "The host says Erika Kirk has been chasing power her entire life and that she thinks this is why she will never have the real kind.",
       "anchored_artifacts": [
@@ -1673,8 +1673,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14964",
-      "ref": "C-14964",
+      "@id": "C-12980",
+      "ref": "C-12980",
       "label": "Host Says Charlie Told Her They Would Not Kill Her but Would Make Stuff Up and Attack Family",
       "claim": "The host says that in spring 2018 Charlie Kirk told her not to fear death, that she was sent to fix things, that they would not kill her, and that they would make things up and then try to attack family, which would not work either.",
       "anchored_artifacts": [
@@ -1691,7 +1691,7 @@
       "investigative_direction": "Look for a contemporaneous message, recording or third party who heard Kirk say this in April or May 2018.",
       "transcript_snippet": "Don't fear death. Embrace it or else you'll lose your mind. You were sent here to fix things. They won't let it happen. They won't kill you.",
       "supports_claim_refs": [
-        "C-3421"
+        "C-12979"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -1700,8 +1700,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14965",
-      "ref": "C-14965",
+      "@id": "C-12982",
+      "ref": "C-12982",
       "label": "Host Says Erika Kirk Claims She First Saw Charlie at an Airport",
       "claim": "The host says that Erika Kirk claims the first time she laid eyes on Charlie Kirk was at an airport but that she chose not to approach him and the host.",
       "anchored_artifacts": [
@@ -1724,8 +1724,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14966",
-      "ref": "C-14966",
+      "@id": "C-12983",
+      "ref": "C-12983",
       "label": "Host Says She and Charlie Were in Israel About Two Weeks After Visiting Kanye",
       "claim": "The host says that after Kanye West's tweet about her in 2018, she and Charlie Kirk flew out to see him, and that about two weeks after that they were standing in Israel.",
       "anchored_artifacts": [
@@ -1749,8 +1749,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14967",
-      "ref": "C-14967",
+      "@id": "C-12984",
+      "ref": "C-12984",
       "label": "Host Says Meeting George on an Unplanned London Trip Saved Her Life",
       "claim": "The host says she felt a spiritual pull to be in London in 2018, told Charlie they needed to be there and that he had to find a reason to get them there, and that meeting George on that unplanned trip saved her life.",
       "anchored_artifacts": [
@@ -1773,8 +1773,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14968",
-      "ref": "C-14968",
+      "@id": "C-12987",
+      "ref": "C-12987",
       "label": "Host Says Kanye Won the Grammy for Best Rap Album for My Beautiful Dark Twisted Fantasy",
       "claim": "The host says Kanye West's album soared to number one and took home a Grammy for best rap album for My Beautiful Dark Twisted Fantasy.",
       "anchored_artifacts": [
@@ -1793,8 +1793,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14969",
-      "ref": "C-14969",
+      "@id": "C-12988",
+      "ref": "C-12988",
       "label": "Host Says the Word Exciting in Power Turns Into Suicide",
       "claim": "The host says that listening closely, the word exciting in the Power lyric turns into suicide, which she reads as Kanye West's struggle to stay true to himself.",
       "anchored_artifacts": [
@@ -1813,8 +1813,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14970",
-      "ref": "C-14970",
+      "@id": "C-12990",
+      "ref": "C-12990",
       "label": "Host Says the Whole World Knows Charlie Was Under Immense Political Pressure With Israel",
       "claim": "The host says the whole world knows Charlie Kirk was under immense political pressure with Israel, that he was surrounded and that his life became the Truman Show.",
       "anchored_artifacts": [
@@ -1838,8 +1838,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14971",
-      "ref": "C-14971",
+      "@id": "C-12992",
+      "ref": "C-12992",
       "label": "Host Says Charlie Never Let Her Drive and Set the Restroom Stops",
       "claim": "The host says she will miss Charlie Kirk never letting her drive and mandating when they could stop for restroom breaks.",
       "anchored_artifacts": [
@@ -1859,8 +1859,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14972",
-      "ref": "C-14972",
+      "@id": "C-12993",
+      "ref": "C-12993",
       "label": "Host Relays a Person's Remark That Charlie Knew He Had Helped Create a Monster",
       "claim": "The host relays what an unnamed person told her a couple of weeks earlier: that in the end Charlie Kirk knew he had accidentally helped create a monster and was unsure he had the strength to do what needed to be done, and she reflects on the pressure of his final days and a final decision.",
       "anchored_artifacts": [
@@ -1882,8 +1882,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14973",
-      "ref": "C-14973",
+      "@id": "C-12994",
+      "ref": "C-12994",
       "label": "Host Says the New Narrative Portrays Charlie as Loomer's Friend and a Neocon Fan",
       "claim": "The host says in a sarcastic passage that those reimagining Charlie Kirk's life now portray him as friends with Laura Loomer, as having loved neocons and as not favoring Tucker Carlson, while he hated her.",
       "anchored_artifacts": [
@@ -1905,8 +1905,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14974",
-      "ref": "C-14974",
+      "@id": "C-12995",
+      "ref": "C-12995",
       "label": "Host Says Personal Letters, the Tent and the Microphone Were Put Up for Sale",
       "claim": "The host says there is not a piece of Charlie Kirk that they did not try to sell, citing personal letters he wrote, the tent he died beneath and the microphone he was holding.",
       "anchored_artifacts": [
@@ -1927,8 +1927,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14975",
-      "ref": "C-14975",
+      "@id": "C-12998",
+      "ref": "C-12998",
       "label": "Host Says Charlie Flew Her to Wyoming Where Ye Recorded His Album",
       "claim": "The host says Charlie Kirk flew her out to Wyoming where Kanye West recorded the album that contains Ghost Town.",
       "anchored_artifacts": [
@@ -1949,8 +1949,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14976",
-      "ref": "C-14976",
+      "@id": "C-13000",
+      "ref": "C-13000",
       "label": "Host Says the Whole World Knows Charlie's Assassination Was Ordered by the Most Powerful People",
       "claim": "The host says the whole world knows that Charlie Kirk's assassination was ordered by the most powerful people in the world.",
       "anchored_artifacts": [
@@ -1972,8 +1972,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14977",
-      "ref": "C-14977",
+      "@id": "C-13001",
+      "ref": "C-13001",
       "label": "Host Says Charlie Wrote That He Would Have to Choose Between Loved Ones and His Mission",
       "claim": "The host says Charlie Kirk wrote that he would have to choose between those he loves and his mission, and that his death came early and he did nothing to stop it.",
       "anchored_artifacts": [
@@ -1995,8 +1995,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14978",
-      "ref": "C-14978",
+      "@id": "C-13002",
+      "ref": "C-13002",
       "label": "Host Clip Says She Will Never Unsee the Footage of Charlie's Shooting",
       "claim": "A clip of the host played at the end of the episode says Charlie Kirk was her best friend and brother, that she will never unsee the footage of what she saw, and that there is no Candace without Charlie.",
       "anchored_artifacts": [

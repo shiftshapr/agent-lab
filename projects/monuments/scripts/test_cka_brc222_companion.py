@@ -293,14 +293,14 @@ Qualifies: C-100
 
     def test_cka_rulings_file_pins_corrections_to_qualified_by(self):
         rulings = mod.load_revises_rulings(mod.DEFAULT_CKA_ROOT)
-        for cid in ("C-3737", "C-3738", "C-3739", "C-3740"):
+        for cid in ("C-848", "C-862", "C-854", "C-2449"):
             self.assertEqual(rulings.get(cid), "revises_softening")
 
     def test_cka_rulings_cite_a_source_and_cover_only_ruled_claims(self):
-        """Transit baa2ed9 G5: only the PR 60 ruling (C-3737..C-3740) exists; every row cites it."""
+        """Transit baa2ed9 G5: only the PR 60 ruling (C-848..C-2449) exists; every row cites it."""
         rulings = mod.load_revises_rulings(mod.DEFAULT_CKA_ROOT)
         sources = mod.load_revises_ruling_sources(mod.DEFAULT_CKA_ROOT)
-        self.assertEqual(sorted(rulings), ["C-3737", "C-3738", "C-3739", "C-3740"])
+        self.assertEqual(sorted(rulings), sorted(["C-848", "C-862", "C-854", "C-2449"]))
         self.assertEqual(sorted(sources), sorted(rulings))
 
     def test_ruling_without_source_is_rejected(self):

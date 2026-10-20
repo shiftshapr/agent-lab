@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10e): N-878, N-879, N-11282, N-11283, N-11284, N-11285, N-11286, N-11288
   - Hole-minted Nodes (reintro-ep044): N-538
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10e): C-11031–C-11113
+  - Claim Range: C-3800–C-3900
   - New Nodes Introduced: N-318, N-319, N-320, N-321, N-322, N-323, N-10326, N-10327, N-10328, N-10329, N-10330, N-10331
   - Tip-minted Nodes (w3-root-brands): N-10902
   - Reused Nodes Appearing: N-9, N-66, N-69, N-220, N-270, N-312, N-329, N-130, N-10000, N-10026, N-10202, N-10317, N-10325, N-10340, N-10355, N-10397, N-10398, N-10401, N-10436, N-10567, N-11191, N-11186, N-11287
@@ -42,7 +42,7 @@ Video Timestamp: 00:05:09–00:14:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (read aloud as direct quote from Harry; not independently displayed)
 
-*Related: C-1880, C-1881, C-1882, C-1883, N-318, N-323, N-10328*
+*Related: C-3805, C-3809, C-3823, C-3817, N-318, N-323, N-10328*
 
 **A-1519.2** First-person narrative account (September 8–9, 2025 Fort Huachuca encounter)
 
@@ -52,7 +52,7 @@ Video Timestamp: 00:15:10–00:28:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1884, C-1885, C-1886, C-1887, N-318, N-266, N-319, N-10326*
+*Related: C-3829, C-3833, C-3836, C-3837, N-318, N-266, N-319, N-10326*
 
 **A-1519.3** Incident Report 861-1-2025-MPC446 (Fort Huachuca, September 9, 2025)
 
@@ -62,7 +62,7 @@ Video Timestamp: 00:28:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (number only; full report not displayed)
 
-*Related: C-1889, N-318, N-319, N-10327*
+*Related: C-3852, N-318, N-319, N-10327*
 
 **A-1519.4** Candlewood Suites reservation at Fort Huachuca, September 8, 2025 ~5:37 PM
 
@@ -72,7 +72,7 @@ Video Timestamp: 00:16:14–00:17:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host states Harry provided timestamps, bookings, reservations, call logs)
 
-*Related: C-1884, N-318, N-10326*
+*Related: C-3829, N-318, N-10326*
 
 **A-1519.5** Supporting documents referenced but not displayed (army medal writeups; NDA 1990–May 2025; police records; high school graduation certificate)
 
@@ -82,7 +82,7 @@ Video Timestamp: 00:26:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (verbally referenced, not shown)
 
-*Related: C-1882, C-1883, N-318*
+*Related: C-3823, C-3817, N-318*
 
 ---
 
@@ -96,7 +96,7 @@ Video Timestamp: 00:09:29–00:11:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed news clip)
 
-*Related: C-1880, N-10328, N-323*
+*Related: C-3805, N-10328, N-323*
 
 ---
 
@@ -110,7 +110,7 @@ Video Timestamp: 00:06:44–00:07:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed clip)
 
-*Related: C-1880, N-10328*
+*Related: C-3805, N-10328*
 
 ---
 
@@ -124,7 +124,7 @@ Video Timestamp: 00:35:20–00:36:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (article cited but full display not confirmed)
 
-*Related: C-1891, C-1892, N-313, N-10330*
+*Related: C-3864, C-3865, N-313, N-10330*
 
 ---
 
@@ -138,7 +138,7 @@ Video Timestamp: 00:35:46–00:40:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host reads counts/contents; underlying emails not displayed)
 
-*Related: C-1893, C-1894, N-313, N-320, N-321, N-322, N-10330, N-10331*
+*Related: C-3866, C-3882, N-313, N-320, N-321, N-322, N-10330, N-10331*
 
 ---
 
@@ -152,7 +152,7 @@ Video Timestamp: 00:42:41–00:44:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed audio clip)
 
-*Related: C-1895, C-1896, N-267*
+*Related: C-3885, C-3886, N-267*
 
 ---
 
@@ -165,7 +165,7 @@ Video Timestamp: 00:02:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11034, N-3*
+*Related: C-3803, N-3*
 
 ---
 
@@ -178,7 +178,7 @@ Video Timestamp: 00:39:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11091, N-3*
+*Related: C-3873, N-3*
 
 ---
 
@@ -191,7 +191,7 @@ Video Timestamp: 00:40:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11094, N-3*
+*Related: C-3877, N-3*
 
 ---
 
@@ -219,7 +219,7 @@ Video Timestamp: 00:54:56
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11112, N-3*
+*Related: C-3899, N-3*
 
 ---
 
@@ -234,7 +234,7 @@ Video Timestamp: 00:34:29
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11082, N-3*
+*Related: C-3861, N-3*
 
 ---
 
@@ -249,7 +249,7 @@ Claim Count: 8
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1519.1, A-1519.2, A-1519.3, A-1519.4, A-1519.5, C-1880, C-1881, C-1882, C-1883, C-1884, C-1885, C-1886, C-1887, C-1888, C-1889*
+*Related: A-1519.1, A-1519.2, A-1519.3, A-1519.4, A-1519.5, C-3805, C-3809, C-3823, C-3817, C-3829, C-3833, C-3836, C-3837, C-3840, C-3852*
 
 ---
 
@@ -262,7 +262,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1519.2, C-1887, N-10329*
+*Related: A-1519.2, C-3837, N-10329*
 
 ---
 
@@ -275,7 +275,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1519.2, A-1519.3, C-1888, C-1889, N-10326, N-10327*
+*Related: A-1519.2, A-1519.3, C-3840, C-3852, N-10326, N-10327*
 
 ---
 
@@ -301,7 +301,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1524.1, C-1895, C-1896*
+*Related: A-1524.1, C-3885, C-3886*
 
 ---
 
@@ -314,7 +314,7 @@ Claim Count: 2
 Episode Count: 1 (in this analysis)
 Investigative Pressure: High
 
-*Related: A-1522.1, A-1523.1, C-1891, C-1892, C-1893, N-320, N-10330*
+*Related: A-1522.1, A-1523.1, C-3864, C-3865, C-3866, N-320, N-10330*
 
 ---
 
@@ -327,7 +327,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1523.1, C-1893, C-1894, N-313, N-10330*
+*Related: A-1523.1, C-3866, C-3882, N-313, N-10330*
 
 ---
 
@@ -340,7 +340,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1523.1, C-1894, N-320, N-10331*
+*Related: A-1523.1, C-3882, N-320, N-10331*
 
 ---
 
@@ -353,7 +353,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1523.1, C-1894, N-320, N-10331*
+*Related: A-1523.1, C-3882, N-320, N-10331*
 
 ---
 
@@ -368,7 +368,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1523.1, C-1894, N-320, N-10331*
+*Related: A-1523.1, C-3882, N-320, N-10331*
 
 ---
 
@@ -381,7 +381,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low (historical)
 
-*Related: A-1519.1, A-1520.1, C-1881, N-10328*
+*Related: A-1519.1, A-1520.1, C-3809, N-10328*
 
 ---
 
@@ -394,7 +394,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1519.2, A-1519.3, A-1519.4, C-1884, C-1885, C-1886, C-1887, C-1888, N-318, N-266, N-319*
+*Related: A-1519.2, A-1519.3, A-1519.4, C-3829, C-3833, C-3836, C-3837, C-3840, N-318, N-266, N-319*
 
 ---
 
@@ -407,7 +407,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1519.3, C-1889, N-319, N-10326*
+*Related: A-1519.3, C-3852, N-319, N-10326*
 
 ---
 
@@ -420,7 +420,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium (historical)
 
-*Related: A-1519.1, A-1520.1, A-1521.1, C-1880, N-318, N-323*
+*Related: A-1519.1, A-1520.1, A-1521.1, C-3805, N-318, N-323*
 
 ---
 
@@ -433,7 +433,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1519.2, C-1887, N-266, N-10326*
+*Related: A-1519.2, C-3837, N-266, N-10326*
 
 ---
 
@@ -446,7 +446,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1522.1, A-1523.1, C-1893, C-1894, N-313, N-320*
+*Related: A-1522.1, A-1523.1, C-3866, C-3882, N-313, N-320*
 
 ---
 
@@ -459,7 +459,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1523.1, C-1894, N-320, N-321, N-322, N-10902*
+*Related: A-1523.1, C-3882, N-320, N-321, N-322, N-10902*
 
 ---
 
@@ -467,7 +467,7 @@ Investigative Pressure: High
 
 Subject of the assassination; the host discusses his Asia trip, the day-before messages and Harry's meeting claims.
 
-*Related: C-11031, C-11032, C-11033, C-11064, C-11071, C-11075, C-11076, C-11077, C-11078, C-11099, C-11101, C-11102, C-11105, C-11109, C-11111*
+*Related: C-3800, C-3801, C-3802, C-3842, C-3849, C-3854, C-3855, C-3856, C-3857, C-3883, C-3887, C-3888, C-3891, C-3895, C-3898*
 
 ---
 
@@ -475,7 +475,7 @@ Subject of the assassination; the host discusses his Asia trip, the day-before m
 
 Host; speaks for herself throughout.
 
-*Related: C-11031, C-11032, C-11033, C-11034, C-11035, C-11052, C-11067, C-11068, C-11070, C-11072, C-11075, C-11077, C-11078, C-11079, C-11080, C-11081, C-11082, C-11083, C-11084, C-11087, C-11088, C-11089, C-11090, C-11091, C-11092, C-11093, C-11094, C-11095, C-11096, C-11097, C-11098, C-11099, C-11100, C-11101, C-11102, C-11103, C-11104, C-11105, C-11106, C-11107, C-11108, C-11109, C-11110, C-11111, C-11112, C-11113*
+*Related: C-3800, C-3801, C-3802, C-3803, C-3804, C-3825, C-3845, C-3846, C-3848, C-3850, C-3854, C-3856, C-3857, C-3858, C-3859, C-3860, C-3861, C-3862, C-3867, C-3870, C-3869, C-3871, C-3872, C-3873, C-3875, C-3876, C-3877, C-3878, C-3879, C-3880, C-3881, C-3883, C-3884, C-3887, C-3888, C-3889, C-3890, C-3891, C-3892, C-3893, C-3894, C-3895, C-3896, C-3898, C-3899, C-3900*
 
 ---
 
@@ -483,7 +483,7 @@ Host; speaks for herself throughout.
 
 Named by the host as involved in Iran-Contra per her Epstein series.
 
-*Related: C-11038*
+*Related: C-3808*
 
 ---
 
@@ -491,7 +491,7 @@ Named by the host as involved in Iran-Contra per her Epstein series.
 
 Researcher the host praises for focusing on the faith angle at TPUSA.
 
-*Related: C-11106*
+*Related: C-3892*
 
 ---
 
@@ -499,7 +499,7 @@ Researcher the host praises for focusing on the faith angle at TPUSA.
 
 FBI Director; the host says he is not interested in the French angle.
 
-*Related: C-11105*
+*Related: C-3891*
 
 ---
 
@@ -507,7 +507,7 @@ FBI Director; the host says he is not interested in the French angle.
 
 Guest on a long episode in which, per the host, he defended her against Tim Pool's accusation.
 
-*Related: C-11101, C-11102*
+*Related: C-3887, C-3888*
 
 ---
 
@@ -515,7 +515,7 @@ Guest on a long episode in which, per the host, he defended her against Tim Pool
 
 Kirk's aide; the host says he was with Kirk in Korea, which fits Harry not seeing him.
 
-*Related: C-11075*
+*Related: C-3854*
 
 ---
 
@@ -523,7 +523,7 @@ Kirk's aide; the host says he was with Kirk in Korea, which fits Harry not seein
 
 Angolagate figure named as Gaydamak's partner.
 
-*Related: C-11083, C-11084*
+*Related: C-3862, C-3867*
 
 ---
 
@@ -531,7 +531,7 @@ Angolagate figure named as Gaydamak's partner.
 
 Her office is the only one the host says responded to her threat report.
 
-*Related: C-11089*
+*Related: C-3871*
 
 ---
 
@@ -539,7 +539,7 @@ Her office is the only one the host says responded to her threat report.
 
 Researcher Harry says he would like to meet.
 
-*Related: C-11080*
+*Related: C-3859*
 
 ---
 
@@ -547,7 +547,7 @@ Researcher Harry says he would like to meet.
 
 Named as helping present JTF-6 as a war on drugs.
 
-*Related: C-11036*
+*Related: C-3806*
 
 ---
 
@@ -555,7 +555,7 @@ Named as helping present JTF-6 as a war on drugs.
 
 Organization the host says hired former cartel weapons traffickers and was infiltrated via its faith structure.
 
-*Related: C-11084, C-11106, C-11107, C-11108*
+*Related: C-3867, C-3892, C-3893, C-3894*
 
 ---
 
@@ -563,7 +563,7 @@ Organization the host says hired former cartel weapons traffickers and was infil
 
 Country the host says she has named in her reports of an assassination attempt coordination.
 
-*Related: C-11088, C-11097*
+*Related: C-3869, C-3880*
 
 ---
 
@@ -571,7 +571,7 @@ Country the host says she has named in her reports of an assassination attempt c
 
 Existing topic reused for the host's remarks on Patel's disinterest.
 
-*Related: C-11105*
+*Related: C-3891*
 
 ---
 
@@ -579,7 +579,7 @@ Existing topic reused for the host's remarks on Patel's disinterest.
 
 Existing topic reused for the host's question about TPUSA and Pierre.
 
-*Related: C-11084*
+*Related: C-3867*
 
 ---
 
@@ -587,7 +587,7 @@ Existing topic reused for the host's question about TPUSA and Pierre.
 
 Existing topic reused for the government-cartel and cartel-involvement remarks.
 
-*Related: C-11052, C-11111*
+*Related: C-3825, C-3898*
 
 ---
 
@@ -595,7 +595,7 @@ Existing topic reused for the government-cartel and cartel-involvement remarks.
 
 Existing topic reused for the host's reference to Kirk's day-before messages.
 
-*Related: C-11109*
+*Related: C-3895*
 
 ---
 
@@ -603,7 +603,7 @@ Existing topic reused for the host's reference to Kirk's day-before messages.
 
 Existing topic reused for the host's contact with Gabbard's office.
 
-*Related: C-11089*
+*Related: C-3871*
 
 ---
 
@@ -611,7 +611,7 @@ Existing topic reused for the host's contact with Gabbard's office.
 
 Existing topic reused for Kirk's final Korea and Japan trip.
 
-*Related: C-11031, C-11032, C-11075, C-11076, C-11077, C-11078*
+*Related: C-3800, C-3801, C-3854, C-3855, C-3856, C-3857*
 
 ---
 
@@ -619,7 +619,7 @@ Existing topic reused for Kirk's final Korea and Japan trip.
 
 Existing topic reused for the faith-infiltration remark.
 
-*Related: C-11106*
+*Related: C-3892*
 
 ---
 
@@ -627,7 +627,7 @@ Existing topic reused for the faith-infiltration remark.
 
 Existing topic reused for the Poland-to-Mexico trafficking remark.
 
-*Related: C-11108*
+*Related: C-3894*
 
 ---
 
@@ -635,7 +635,7 @@ Existing topic reused for the Poland-to-Mexico trafficking remark.
 
 Existing topic reused for the faith-infiltration remark.
 
-*Related: C-11106*
+*Related: C-3892*
 
 ---
 
@@ -643,7 +643,7 @@ Existing topic reused for the faith-infiltration remark.
 
 Existing topic reused for the host's French intelligence remarks.
 
-*Related: C-11088, C-11089, C-11097, C-11105, C-11113*
+*Related: C-3869, C-3871, C-3880, C-3891, C-3900*
 
 ---
 
@@ -651,7 +651,7 @@ Existing topic reused for the host's French intelligence remarks.
 
 Existing topic reused for Falcone and Gaydamak's involvement.
 
-*Related: C-11083*
+*Related: C-3862*
 
 ---
 
@@ -659,7 +659,7 @@ Existing topic reused for Falcone and Gaydamak's involvement.
 
 Organization advertised in the sponsor read.
 
-*Related: C-11082*
+*Related: C-3861*
 
 ---
 
@@ -667,7 +667,7 @@ Organization advertised in the sponsor read.
 
 First named by the host at 00:05:09 in episode 44. President who created JTF-6 and ran on a war on drugs; heard in a clip.
 
-*Related: C-11036, C-11037, C-11039, C-11040*
+*Related: C-3806, C-3807, C-3810, C-3811*
 
 ---
 
@@ -675,7 +675,7 @@ First named by the host at 00:05:09 in episode 44. President who created JTF-6 a
 
 First named by the host at 00:05:09 in episode 44. President during Iran-Contra, mentioned for historical context.
 
-*Related: C-11037*
+*Related: C-3807*
 
 ---
 
@@ -684,7 +684,7 @@ First named by the host at 00:05:09 in episode 44. President during Iran-Contra,
 Node Type: Topic
 The 1980s scandal the host cites as showing the CIA trafficked drugs and weapons and as a context for JTF-6 and Epstein.
 
-*Related: C-11037, C-11038, C-11039*
+*Related: C-3807, C-3808, C-3810*
 
 ---
 
@@ -693,7 +693,7 @@ The 1980s scandal the host cites as showing the CIA trafficked drugs and weapons
 Node Type: Organization
 The border command Harry says he served in during 1990 and its alleged continuation as JTF Southern Border at Fort Huachuca.
 
-*Related: C-11036, C-11041, C-11042, C-11049, C-11058, C-11059*
+*Related: C-3806, C-3812, C-3813, C-3821, C-3832, C-3834*
 
 ---
 
@@ -702,7 +702,7 @@ The border command Harry says he served in during 1990 and its alleged continuat
 Node Type: Topic
 The host's claims about a Ukrainian influx and about dangerous people entering as refugees, raised alongside the Nashville Root Brands tips.
 
-*Related: C-11092, C-11093*
+*Related: C-3875, C-3876*
 
 ---
 
@@ -711,7 +711,7 @@ The host's claims about a Ukrainian influx and about dangerous people entering a
 Node Type: Topic
 The host's statement that TPUSA hired former cartel weapons traffickers, including an alleged Poland-to-Mexico route.
 
-*Related: C-11107, C-11108*
+*Related: C-3893, C-3894*
 
 ---
 
@@ -720,7 +720,7 @@ The host's statement that TPUSA hired former cartel weapons traffickers, includi
 Node Type: Topic
 A viewer-suggested security fund that the host says she may start.
 
-*Related: C-11112*
+*Related: C-3899*
 
 ---
 
@@ -729,7 +729,7 @@ A viewer-suggested security fund that the host says she may start.
 Node Type: Topic
 The exchange in which Tim Pool's clip calls the host names and says she has no security, and the host's responses.
 
-*Related: C-11098, C-11099, C-11100, C-11101, C-11102, C-11103, C-11104*
+*Related: C-3881, C-3883, C-3884, C-3887, C-3888, C-3889, C-3890*
 
 ---
 
@@ -738,13 +738,13 @@ The exchange in which Tim Pool's clip calls the host names and says she has no s
 Node Type: Topic
 Harry's account of passing through Salt Lake City airport on September 10, 2025 and learning of the shooting.
 
-*Related: C-11064, C-11065*
+*Related: C-3842, C-3843*
 
 ---
 
 ## 5. Claim Register
 
-**C-1880** Harry Myers claims to have discovered the first Sinaloa cartel underground rail tunnel in 1990 while assigned to Joint Task Force 6 / Operation Catacomb
+**C-3805** Harry Myers claims to have discovered the first Sinaloa cartel underground rail tunnel in 1990 while assigned to Joint Task Force 6 / Operation Catacomb
 
 Claim Timestamp: 00:05:09–00:11:14
 
@@ -759,7 +759,7 @@ Investigative Direction: Cross-check DEA, CBP, and Army historical records for t
 
 ---
 
-**C-1881** Photos on the Mexican side of the 1990 tunnel allegedly showed a JTF-6 commander posing with El Chapo and other U.S. officers
+**C-3809** Photos on the Mexican side of the 1990 tunnel allegedly showed a JTF-6 commander posing with El Chapo and other U.S. officers
 
 Claim Timestamp: 00:06:44–00:09:29
 
@@ -774,7 +774,7 @@ Investigative Direction: FOIA requests to DEA, CBP, and DOJ for case files assoc
 
 ---
 
-**C-1882** Per Message Host Reads, Harry Was Placed Under an NDA Gag Order Dated 1990 to May 2025
+**C-3823** Per Message Host Reads, Harry Was Placed Under an NDA Gag Order Dated 1990 to May 2025
 
 Claim Timestamp: 00:13:49
 
@@ -788,7 +788,7 @@ Investigative Direction: Obtain copy of the NDA via FOIA or congressional inquir
 
 ---
 
-**C-1883** Harry received an army medal with writeups documenting his critical role in the 1990 mission
+**C-3817** Harry received an army medal with writeups documenting his critical role in the 1990 mission
 
 Claim Timestamp: 00:11:14–00:13:49
 
@@ -802,7 +802,7 @@ Investigative Direction: Obtain Harry's DD-214, military personnel file, and awa
 
 ---
 
-**C-1884** Host Says Harry Checked Into Candlewood Suites at Fort Huachuca on September 8, 2025 at About 5:37 PM
+**C-3829** Host Says Harry Checked Into Candlewood Suites at Fort Huachuca on September 8, 2025 at About 5:37 PM
 
 Claim Timestamp: 00:16:14–00:17:28
 
@@ -817,7 +817,7 @@ Investigative Direction: Pull Candlewood Suites Fort Huachuca guest log for Sept
 
 ---
 
-**C-1885** Harry entered a temporary JTF-SB headquarters on Fort Huachuca on September 9, 2025 at approximately 7:37 AM
+**C-3833** Harry entered a temporary JTF-SB headquarters on Fort Huachuca on September 9, 2025 at approximately 7:37 AM
 
 Claim Timestamp: 00:18:57–00:20:14
 
@@ -832,7 +832,7 @@ Investigative Direction: Cross-reference base access logs and incident report 86
 
 ---
 
-**C-1886** Harry observed approximately 12–13 lieutenant colonels / colonels at the JTF-SB meeting on September 9, 2025
+**C-3836** Harry observed approximately 12–13 lieutenant colonels / colonels at the JTF-SB meeting on September 9, 2025
 
 Claim Timestamp: 00:20:14–00:34:46
 
@@ -847,7 +847,7 @@ Investigative Direction: Verify through FOIA of incident report 861-1-2025-MPC44
 
 ---
 
-**C-1887** Harry identified Brian Harpole among those exiting the JTF-SB meeting on September 9, 2025
+**C-3837** Harry identified Brian Harpole among those exiting the JTF-SB meeting on September 9, 2025
 
 Claim Timestamp: 00:20:14–00:22:18
 
@@ -862,7 +862,7 @@ Investigative Direction: FOIA incident report 861-1-2025-MPC446 for visitor/atte
 
 ---
 
-**C-1888** Host Says Harry Reports a "Captain Neff" Conducted a 7-Hour Interrogation of Him at Fort Huachuca on September 9, 2025
+**C-3840** Host Says Harry Reports a "Captain Neff" Conducted a 7-Hour Interrogation of Him at Fort Huachuca on September 9, 2025
 
 Claim Timestamp: 00:21:39
 
@@ -877,7 +877,7 @@ Investigative Direction: FOIA incident report 861-1-2025-MPC446; identify Captai
 
 ---
 
-**C-1889** Incident report 861-1-2025-MPC446 was generated in connection with Harry's September 9, 2025 encounter at Fort Huachuca
+**C-3852** Incident report 861-1-2025-MPC446 was generated in connection with Harry's September 9, 2025 encounter at Fort Huachuca
 
 Claim Timestamp: 00:28:13
 
@@ -892,7 +892,7 @@ Investigative Direction: File FOIA request with the appropriate Army or DoD FOIA
 
 ---
 
-**C-1890** Arcadi Gaydamak was sentenced in absentia for trafficking weapons and is described as a former French intelligence agent
+**C-3863** Arcadi Gaydamak was sentenced in absentia for trafficking weapons and is described as a former French intelligence agent
 
 Claim Timestamp: 00:35:20–00:36:24
 
@@ -906,7 +906,7 @@ Investigative Direction: Locate and verify the article's primary source (court r
 
 ---
 
-**C-1891** Arcadi Gaydamak was born in Russia and subsequently moved to Israel after Israeli statehood
+**C-3864** Arcadi Gaydamak was born in Russia and subsequently moved to Israel after Israeli statehood
 
 Claim Timestamp: 00:35:20–00:36:24
 
@@ -920,7 +920,7 @@ Investigative Direction: Verify biographical details against public records and 
 
 ---
 
-**C-1892** Seven Viewer Emails the Host Describes Claim Arcadi Gaydamak Is Living in Nashville Under the Name "Jonathan Schmidt"
+**C-3865** Seven Viewer Emails the Host Describes Claim Arcadi Gaydamak Is Living in Nashville Under the Name "Jonathan Schmidt"
 
 Claim Timestamp: 00:35:46–00:40:46
 
@@ -935,7 +935,7 @@ Investigative Direction: Obtain corroborating evidence via public records, busin
 
 ---
 
-**C-1893** "Jonathan Schmidt" is alleged to work at Root Brands as a technology officer and to have hired Ukrainians including Alex Smeirnoff
+**C-3866** "Jonathan Schmidt" is alleged to work at Root Brands as a technology officer and to have hired Ukrainians including Alex Smeirnoff
 
 Claim Timestamp: 00:36:24–00:40:46
 
@@ -950,7 +950,7 @@ Investigative Direction: Obtain employment records, immigration paperwork (I-9, 
 
 ---
 
-**C-1894** Tim Pool described Candace Owens as an "evil scumbag," "degenerate," and asserted she has no security
+**C-3882** Tim Pool described Candace Owens as an "evil scumbag," "degenerate," and asserted she has no security
 
 Claim Timestamp: 00:42:41–00:44:11
 
@@ -964,7 +964,7 @@ Investigative Direction: Cross-reference Tim Pool's original broadcast to verify
 
 ---
 
-**C-1895** Tim Pool Says Someone Told Him Candace Owens' Home Has a 4-Foot Wall and One Guard
+**C-3885** Tim Pool Says Someone Told Him Candace Owens' Home Has a 4-Foot Wall and One Guard
 
 Claim Timestamp: 00:43:32–00:44:11
 
@@ -979,7 +979,7 @@ Investigative Direction: Verify Tim Pool's statement against the original broadc
 ---
 
 
-**C-1896** Tim Pool says bullets were fired at his property and strangers broke into his Maryland house
+**C-3886** Tim Pool says bullets were fired at his property and strangers broke into his Maryland house
 
 Claim Timestamp: 00:43:32–00:44:11
 Claim: In the same audio clip, Tim Pool contrasts his own situation with Candace Owens', saying bullets were fired at his property, that he had to go live in the middle of nowhere, and that strangers broke into his house in Maryland.
@@ -991,7 +991,7 @@ Investigative Direction: Check police reports or public statements for the shoot
 
 ---
 
-**C-3653** Host urges viewers to become DCIA units in their own communities
+**C-3897** Host urges viewers to become DCIA units in their own communities
 
 Claim Timestamp: 00:54:37
 Claim: The host urges viewers to "become our own little CIA units or DCIA units in our own communities and share information," because the government cannot be trusted to take care of them.
@@ -1004,7 +1004,7 @@ Investigative Direction: Preserve as brand / network framing claim; cross-linked
 
 ---
 
-**C-11031** Host Says Kirk's Final Asia Trip Was His First, Korea Then Japan
+**C-3800** Host Says Kirk's Final Asia Trip Was His First, Korea Then Japan
 
 Claim Timestamp: 00:00:00
 
@@ -1020,7 +1020,7 @@ Investigative Direction: Obtain Kirk's travel itinerary, flight manifests and TP
 
 ---
 
-**C-11032** Host Floats That the Asia Trip Timing Was Intentional
+**C-3801** Host Floats That the Asia Trip Timing Was Intentional
 
 Claim Timestamp: 00:00:00
 
@@ -1036,7 +1036,7 @@ Investigative Direction: Establish who scheduled the Korea and Japan trip and wh
 
 ---
 
-**C-11033** Host Says She Prayed at Mass for a Piece of Evidence Before the Harry Tip Arrived
+**C-3802** Host Says She Prayed at Mass for a Piece of Evidence Before the Harry Tip Arrived
 
 Claim Timestamp: 00:01:16
 
@@ -1052,7 +1052,7 @@ Investigative Direction: Not independently testable; the verifiable part is the 
 
 ---
 
-**C-11034** Host Says Harry Tip Was the First Email She Opened in the Tips Box
+**C-3803** Host Says Harry Tip Was the First Email She Opened in the Tips Box
 
 Claim Timestamp: 00:02:35
 
@@ -1068,7 +1068,7 @@ Investigative Direction: Ask the host to disclose the tip email header and times
 
 ---
 
-**C-11035** Host Says She Fact-Checked Harry and Finds Him 100 Percent Honest
+**C-3804** Host Says She Fact-Checked Harry and Finds Him 100 Percent Honest
 
 Claim Timestamp: 00:03:43
 
@@ -1084,7 +1084,7 @@ Investigative Direction: Ask the host which elements she verified and with what 
 
 ---
 
-**C-11036** Host Says JTF-6 Was Created at the Border by President George H.W. Bush as a War on Drugs
+**C-3806** Host Says JTF-6 Was Created at the Border by President George H.W. Bush as a War on Drugs
 
 Claim Timestamp: 00:05:09
 
@@ -1100,7 +1100,7 @@ Investigative Direction: Check Department of Defense and Army histories of JTF-6
 
 ---
 
-**C-11037** Host Says Iran-Contra Showed the CIA Trafficked Drugs and Weapons in South America
+**C-3807** Host Says Iran-Contra Showed the CIA Trafficked Drugs and Weapons in South America
 
 Claim Timestamp: 00:05:09
 
@@ -1116,7 +1116,7 @@ Investigative Direction: Compare with the Tower Commission and Walsh Final Repor
 
 ---
 
-**C-11038** Host Says Epstein Was Also Involved in Iran-Contra per Her Series
+**C-3808** Host Says Epstein Was Also Involved in Iran-Contra per Her Series
 
 Claim Timestamp: 00:05:09
 
@@ -1132,7 +1132,7 @@ Investigative Direction: Identify the document in the host's Epstein series that
 
 ---
 
-**C-11039** Host Says Bush Campaigned in 1988 on Hitting Hard on Border Drugs
+**C-3810** Host Says Bush Campaigned in 1988 on Hitting Hard on Border Drugs
 
 Claim Timestamp: 00:06:44
 
@@ -1148,7 +1148,7 @@ Investigative Direction: Review Bush campaign and September 1989 national drug-c
 
 ---
 
-**C-11040** Bush Clip Shows Crack Cocaine Said to Be Seized Across From the White House
+**C-3811** Bush Clip Shows Crack Cocaine Said to Be Seized Across From the White House
 
 Claim Timestamp: 00:06:44
 
@@ -1164,7 +1164,7 @@ Investigative Direction: Locate the original September 5, 1989 address and the D
 
 ---
 
-**C-11041** Harry Says He Skipped the Chain of Command to Pinpoint the First Sinaloa Tunnel in Six Days
+**C-3812** Harry Says He Skipped the Chain of Command to Pinpoint the First Sinaloa Tunnel in Six Days
 
 Claim Timestamp: 00:08:14
 
@@ -1180,7 +1180,7 @@ Investigative Direction: Obtain JTF-6 operation records and Border Patrol Dougla
 
 ---
 
-**C-11042** Harry Says Some Commanders Were Working With the Cartel
+**C-3813** Harry Says Some Commanders Were Working With the Cartel
 
 Claim Timestamp: 00:08:45
 
@@ -1196,7 +1196,7 @@ Investigative Direction: Search court records for the warrant application, the i
 
 ---
 
-**C-11043** News Clip Describes a Reinforced Tunnel 30 Feet Down From a Douglas Warehouse to an Agua Prieta House
+**C-3814** News Clip Describes a Reinforced Tunnel 30 Feet Down From a Douglas Warehouse to an Agua Prieta House
 
 Claim Timestamp: 00:09:29
 
@@ -1212,7 +1212,7 @@ Investigative Direction: Match against contemporary Arizona Daily Star and AP re
 
 ---
 
-**C-11044** News Clip Says the Tunnel Cost at Least $1 Million and Ran 6 to 12 Months
+**C-3815** News Clip Says the Tunnel Cost at Least $1 Million and Ran 6 to 12 Months
 
 Claim Timestamp: 00:10:29
 
@@ -1228,7 +1228,7 @@ Investigative Direction: Verify cost and operating-period figures against U.S. C
 
 ---
 
-**C-11045** News Clip Says 2,000 Pounds of Cocaine Seized Headed for Southern California
+**C-3816** News Clip Says 2,000 Pounds of Cocaine Seized Headed for Southern California
 
 Claim Timestamp: 00:10:29
 
@@ -1244,7 +1244,7 @@ Investigative Direction: Check seizure totals in DEA and Customs records for the
 
 ---
 
-**C-11046** Host Says the News Clip Reported Pictures of U.S. Military Men in the House
+**C-3818** Host Says the News Clip Reported Pictures of U.S. Military Men in the House
 
 Claim Timestamp: 00:11:14
 
@@ -1260,7 +1260,7 @@ Investigative Direction: Re-watch the original clip for any statement about phot
 
 ---
 
-**C-11047** Harry Says His Identity Was Given to the Cartels Days After the Bust
+**C-3819** Harry Says His Identity Was Given to the Cartels Days After the Bust
 
 Claim Timestamp: 00:11:14
 
@@ -1276,7 +1276,7 @@ Investigative Direction: Look for Army CID and U.S. Attorney (Tucson) files from
 
 ---
 
-**C-11048** Harry Says a Cartel Member in Naco, Arizona Recited His Mother's Name and Address
+**C-3820** Harry Says a Cartel Member in Naco, Arizona Recited His Mother's Name and Address
 
 Claim Timestamp: 00:11:14
 
@@ -1292,7 +1292,7 @@ Investigative Direction: Ask Harry for the town name (transcript 'Naco, Arizona'
 
 ---
 
-**C-11049** Harry Says His Clearance Packet Was in the Custody of the Commander Pictured With El Chapo
+**C-3821** Harry Says His Clearance Packet Was in the Custody of the Commander Pictured With El Chapo
 
 Claim Timestamp: 00:12:27
 
@@ -1308,7 +1308,7 @@ Investigative Direction: Identify the JTF-6 commander in 1990 and the custodian 
 
 ---
 
-**C-11050** Harry Says Army CID and a Tucson Prosecutor Debriefed Him and Promised Witness Protection
+**C-3822** Harry Says Army CID and a Tucson Prosecutor Debriefed Him and Promised Witness Protection
 
 Claim Timestamp: 00:12:56
 
@@ -1324,7 +1324,7 @@ Investigative Direction: Request Army CID report of investigation and U.S. Attor
 
 ---
 
-**C-11051** Harry Says Witness Protection Never Happened and a Deal Was Made With the Compromised Commander
+**C-3824** Harry Says Witness Protection Never Happened and a Deal Was Made With the Compromised Commander
 
 Claim Timestamp: 00:13:49
 
@@ -1340,7 +1340,7 @@ Investigative Direction: Query U.S. Marshals WITSEC for any 1990 referral; ident
 
 ---
 
-**C-11052** Host Says the Government Was Working With the Cartels Per Harry's Story
+**C-3825** Host Says the Government Was Working With the Cartels Per Harry's Story
 
 Claim Timestamp: 00:13:49
 
@@ -1356,7 +1356,7 @@ Investigative Direction: This is the host's reading of one tipster's account; se
 
 ---
 
-**C-11053** Host Says Harry Suffered Hacking, Abusive Litigation and Police Records That Vanished, Later Recovered by Clerks
+**C-3826** Host Says Harry Suffered Hacking, Abusive Litigation and Police Records That Vanished, Later Recovered by Clerks
 
 Claim Timestamp: 00:13:49
 
@@ -1372,7 +1372,7 @@ Investigative Direction: Identify the county clerks' offices and case numbers, a
 
 ---
 
-**C-11054** Host Says Harry Was Freed From the NDA in May 2025 and Has a New Name
+**C-3827** Host Says Harry Was Freed From the NDA in May 2025 and Has a New Name
 
 Claim Timestamp: 00:15:10
 
@@ -1388,7 +1388,7 @@ Investigative Direction: Obtain the NDA release document and any name-change cou
 
 ---
 
-**C-11055** Host Says Harry Traveled From Washington to Fort Huachuca for Answers About Why He Was Never Protected
+**C-3828** Host Says Harry Traveled From Washington to Fort Huachuca for Answers About Why He Was Never Protected
 
 Claim Timestamp: 00:15:10
 
@@ -1404,7 +1404,7 @@ Investigative Direction: Check Harry's airline, rental car and lodging records f
 
 ---
 
-**C-11056** Harry Says the Special Forces Man and a Young Woman Left the Lobby in a Green Pickup
+**C-3830** Harry Says the Special Forces Man and a Young Woman Left the Lobby in a Green Pickup
 
 Claim Timestamp: 00:17:28
 
@@ -1420,7 +1420,7 @@ Investigative Direction: Ask Harry who he now believes the woman was and obtain 
 
 ---
 
-**C-11057** Harry Says Soldiers With 10th Mountain Division Patches Met Him at a Sierra Vista Coffee Stop
+**C-3831** Harry Says Soldiers With 10th Mountain Division Patches Met Him at a Sierra Vista Coffee Stop
 
 Claim Timestamp: 00:17:28
 
@@ -1436,7 +1436,7 @@ Investigative Direction: Identify the soldiers and unit through Harry's descript
 
 ---
 
-**C-11058** Harry Says the Soldiers Told Him JTF-6 Is Now JTF Southern Border and Gave Directions
+**C-3832** Harry Says the Soldiers Told Him JTF-6 Is Now JTF Southern Border and Gave Directions
 
 Claim Timestamp: 00:17:28
 
@@ -1452,7 +1452,7 @@ Investigative Direction: Confirm through Department of Defense records that JTF-
 
 ---
 
-**C-11059** Harry Says the JTF-SB Element Was Borrowing a Building He Could Not Otherwise Have Found
+**C-3834** Harry Says the JTF-SB Element Was Borrowing a Building He Could Not Otherwise Have Found
 
 Claim Timestamp: 00:18:57
 
@@ -1468,7 +1468,7 @@ Investigative Direction: Identify the building and its tenant organizations on F
 
 ---
 
-**C-11060** Harry Says So Many Senior Officers Together Is Seen Only at the Pentagon or White House
+**C-3835** Harry Says So Many Senior Officers Together Is Seen Only at the Pentagon or White House
 
 Claim Timestamp: 00:19:50
 
@@ -1484,7 +1484,7 @@ Investigative Direction: Establish whether any senior JTF-SB or Army North leade
 
 ---
 
-**C-11061** Harry Describes the Central Figure Leaving the Meeting With Brian Harpole
+**C-3838** Harry Describes the Central Figure Leaving the Meeting With Brian Harpole
 
 Claim Timestamp: 00:20:14
 
@@ -1500,7 +1500,7 @@ Investigative Direction: Ask Harry for a photo lineup of the central figure; com
 
 ---
 
-**C-11062** Harry Says the Staff Were Friendly Until the Men Left, Then Someone Hit the Panic Button
+**C-3839** Harry Says the Staff Were Friendly Until the Men Left, Then Someone Hit the Panic Button
 
 Claim Timestamp: 00:21:30
 
@@ -1516,7 +1516,7 @@ Investigative Direction: FOIA the military police blotter and incident report fo
 
 ---
 
-**C-11063** Harry Says the Base Commander Was Consulted Before He Was Sent Off Post
+**C-3841** Harry Says the Base Commander Was Consulted Before He Was Sent Off Post
 
 Claim Timestamp: 00:22:40
 
@@ -1532,7 +1532,7 @@ Investigative Direction: Identify the Fort Huachuca garrison commander on duty S
 
 ---
 
-**C-11064** Harry Says He Was Flying Through Salt Lake City When He Learned of Kirk's Shooting
+**C-3842** Harry Says He Was Flying Through Salt Lake City When He Learned of Kirk's Shooting
 
 Claim Timestamp: 00:23:00
 
@@ -1548,7 +1548,7 @@ Investigative Direction: Verify Harry's rental return, boarding pass and connect
 
 ---
 
-**C-11065** Harry Says the Salt Lake Airport Was Not Very Crowded
+**C-3843** Harry Says the Salt Lake Airport Was Not Very Crowded
 
 Claim Timestamp: 00:23:20
 
@@ -1564,7 +1564,7 @@ Investigative Direction: Compare with Salt Lake City airport passenger counts an
 
 ---
 
-**C-11066** Harry Says They Debated Holding Him for 48 Hours
+**C-3844** Harry Says They Debated Holding Him for 48 Hours
 
 Claim Timestamp: 00:23:40
 
@@ -1580,7 +1580,7 @@ Investigative Direction: The incident report and any MP desk journal should reco
 
 ---
 
-**C-11067** Host Says Both Harry and the Officers Were Wrong and the Encounter Was a Coincidence
+**C-3845** Host Says Both Harry and the Officers Were Wrong and the Encounter Was a Coincidence
 
 Claim Timestamp: 00:24:02
 
@@ -1596,7 +1596,7 @@ Investigative Direction: Compare this host framing with her later 'a lot of coin
 
 ---
 
-**C-11068** Host Wonders Whether Blake Neff Has Military Connections Like Captain Neff
+**C-3846** Host Wonders Whether Blake Neff Has Military Connections Like Captain Neff
 
 Claim Timestamp: 00:25:02
 
@@ -1612,7 +1612,7 @@ Investigative Direction: Check public records for any family relationship betwee
 
 ---
 
-**C-11069** Harry Says Captain Neff Eventually Showed a Heart and Escorted Him Off Base
+**C-3847** Harry Says Captain Neff Eventually Showed a Heart and Escorted Him Off Base
 
 Claim Timestamp: 00:25:02
 
@@ -1628,7 +1628,7 @@ Investigative Direction: Identify Captain Neff through the Fort Huachuca force-p
 
 ---
 
-**C-11070** Harry Says Such Meetings Are Held Ahead of an Operation
+**C-3848** Harry Says Such Meetings Are Held Ahead of an Operation
 
 Claim Timestamp: 00:25:02
 
@@ -1644,7 +1644,7 @@ Investigative Direction: Establish what operation, if any, was in planning at JT
 
 ---
 
-**C-11071** Harry Says He Recognized the Meeting Attendees on Fox News and at the Memorial After the Assassination
+**C-3849** Harry Says He Recognized the Meeting Attendees on Fox News and at the Memorial After the Assassination
 
 Claim Timestamp: 00:25:49
 
@@ -1660,7 +1660,7 @@ Investigative Direction: Ask Harry to name or point out the people he recognized
 
 ---
 
-**C-11072** Host Says Harry Sent Her Documents Including a Diploma, Military Papers and Police Records
+**C-3850** Host Says Harry Sent Her Documents Including a Diploma, Military Papers and Police Records
 
 Claim Timestamp: 00:26:48
 
@@ -1676,7 +1676,7 @@ Investigative Direction: Publish redacted copies or have an independent party re
 
 ---
 
-**C-11073** Harry Says There Would Be No Record Unless They Had Swarmed Him as a Bomb Threat
+**C-3851** Harry Says There Would Be No Record Unless They Had Swarmed Him as a Bomb Threat
 
 Claim Timestamp: 00:26:48
 
@@ -1687,13 +1687,13 @@ Transcript Snippet: He said there would have been no record for this if they did
 Anchored Artifacts: A-1519.3
 Mentions: N-318
 Related Nodes: N-10327
-Supports: C-1889
+Supports: C-3852
 Tags: relevance:core
 Investigative Direction: File the FOIA request for the incident report and the associated MP blotter entry.
 
 ---
 
-**C-11074** Host Says Captain Neff Gave Harry the Incident Report Number
+**C-3853** Host Says Captain Neff Gave Harry the Incident Report Number
 
 Claim Timestamp: 00:28:13
 
@@ -1704,13 +1704,13 @@ Transcript Snippet: So that is the report number that was given to him by this c
 Anchored Artifacts: A-1519.3
 Mentions: N-318, N-319
 Related Nodes: N-10327
-Supports: C-1889
+Supports: C-3852
 Tags: relevance:core
 Investigative Direction: Ask Fort Huachuca Provost Marshal whether the number is a valid MPC sequence format for 2025.
 
 ---
 
-**C-11075** Host Says Harry Did Not See Dan Flood Which Fits Flood Being in Korea With Kirk
+**C-3854** Host Says Harry Did Not See Dan Flood Which Fits Flood Being in Korea With Kirk
 
 Claim Timestamp: 00:28:13
 
@@ -1726,7 +1726,7 @@ Investigative Direction: Obtain Dan Flood's September 2025 itinerary and the Kir
 
 ---
 
-**C-11076** Host Says Kirk Was at a Korea Event on September 6 and on CNN Japan on September 7
+**C-3855** Host Says Kirk Was at a Korea Event on September 6 and on CNN Japan on September 7
 
 Claim Timestamp: 00:28:13
 
@@ -1742,7 +1742,7 @@ Investigative Direction: Pull the Korea event date and the CNN Japan broadcast d
 
 ---
 
-**C-11077** Host Asks Why Kirk Went to Japan a Day Before a College Campus Event
+**C-3856** Host Asks Why Kirk Went to Japan a Day Before a College Campus Event
 
 Claim Timestamp: 00:28:45
 
@@ -1758,7 +1758,7 @@ Investigative Direction: Establish the original planned return date and who appr
 
 ---
 
-**C-11078** Host Speculates Kirk May Have Left Japan on the 9th After a 12-Hour Flight
+**C-3857** Host Speculates Kirk May Have Left Japan on the 9th After a 12-Hour Flight
 
 Claim Timestamp: 00:29:35
 
@@ -1774,7 +1774,7 @@ Investigative Direction: Obtain the Kirk party's return flight record and compar
 
 ---
 
-**C-11079** Host Says She Has a Terrifying Update About People Trying to Assassinate Her
+**C-3858** Host Says She Has a Terrifying Update About People Trying to Assassinate Her
 
 Claim Timestamp: 00:29:35
 
@@ -1785,13 +1785,13 @@ Transcript Snippet: I have a very terrifying update for you um regarding people 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: 
-Supports: C-1781
+Supports: C-3330
 Tags: relevance:core
 Investigative Direction: Ask the host to document the alleged attempts and the agencies informed; the later Gaydamak segment appears to be this update.
 
 ---
 
-**C-11080** Harry Says He Would Love to Meet Ian Carroll
+**C-3859** Harry Says He Would Love to Meet Ian Carroll
 
 Claim Timestamp: 00:31:00
 
@@ -1807,7 +1807,7 @@ Investigative Direction: Follow whether the Carroll-Harry meeting or interview w
 
 ---
 
-**C-11081** Host Says She Thinks the Feds Probably Already Knew About the Meeting
+**C-3860** Host Says She Thinks the Feds Probably Already Knew About the Meeting
 
 Claim Timestamp: 00:31:30
 
@@ -1823,7 +1823,7 @@ Investigative Direction: Not testable directly; a FOIA to FBI and Army for recor
 
 ---
 
-**C-11082** Pre-Born Ad Read Says One Ultrasound Costs $28
+**C-3861** Pre-Born Ad Read Says One Ultrasound Costs $28
 
 Claim Timestamp: 00:34:29
 
@@ -1839,7 +1839,7 @@ Investigative Direction: Compare with Pre-Born's published cost per ultrasound.
 
 ---
 
-**C-11083** Host Says Pierre Falcone Had a Partner, Arcadi Gaydamak, in Angolagate
+**C-3862** Host Says Pierre Falcone Had a Partner, Arcadi Gaydamak, in Angolagate
 
 Claim Timestamp: 00:34:46
 
@@ -1850,13 +1850,13 @@ Transcript Snippet: Pierre Falone had a partner named Arcadi Gammock didn't expe
 Anchored Artifacts: 
 Mentions: N-312, N-313, N-3
 Related Nodes: N-11186
-Supports: C-1869
+Supports: C-3751
 Tags: relevance:context
 Investigative Direction: Cite the French Angolagate judgment naming Falcone and Gaydamak as co-defendants.
 
 ---
 
-**C-11084** Host Says She Asked Viewers About TPUSA Possibly Working With Pierre
+**C-3867** Host Says She Asked Viewers About TPUSA Possibly Working With Pierre
 
 Claim Timestamp: 00:36:24
 
@@ -1872,7 +1872,7 @@ Investigative Direction: Review the viewer tip emails and any TPUSA donor record
 
 ---
 
-**C-11085** Tipsters Say Gaydamak Is From Israel and Has Been in Nashville Since June
+**C-3868** Tipsters Say Gaydamak Is From Israel and Has Been in Nashville Since June
 
 Claim Timestamp: 00:37:00
 
@@ -1888,7 +1888,7 @@ Investigative Direction: Obtain the tip emails and test any identifying detail a
 
 ---
 
-**C-11086** Tipsters Say Jonathan Schmidt Was Shopping for a Home in Brentwood
+**C-3874** Tipsters Say Jonathan Schmidt Was Shopping for a Home in Brentwood
 
 Claim Timestamp: 00:39:14
 
@@ -1904,7 +1904,7 @@ Investigative Direction: Identify the real estate agents and check Williamson Co
 
 ---
 
-**C-11087** Host Says She Reached Out to Clay Thomas and Root Brands
+**C-3870** Host Says She Reached Out to Clay Thomas and Root Brands
 
 Claim Timestamp: 00:38:00
 
@@ -1920,7 +1920,7 @@ Investigative Direction: Obtain Root Brands' and Clay Thomas' responses, if any,
 
 ---
 
-**C-11088** Host Says She Told Authorities of an Assassination Attempt Coordination, Naming Israel and France
+**C-3869** Host Says She Told Authorities of an Assassination Attempt Coordination, Naming Israel and France
 
 Claim Timestamp: 00:37:37
 
@@ -1931,13 +1931,13 @@ Transcript Snippet: I've been telling them that there's an assa like assassinati
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10567, N-10026
-Supports: C-1781
+Supports: C-3330
 Tags: relevance:core
 Investigative Direction: Ask the host for the dates and recipients of her reports to federal agencies.
 
 ---
 
-**C-11089** Host Says Tulsi Gabbard's Office Is the Only One That Responded to Her Threat Report
+**C-3871** Host Says Tulsi Gabbard's Office Is the Only One That Responded to Her Threat Report
 
 Claim Timestamp: 00:38:40
 
@@ -1953,7 +1953,7 @@ Investigative Direction: Ask ODNI for confirmation of any contact with the host 
 
 ---
 
-**C-11090** Host Says Her Husband Already Contacted Authorities That Morning
+**C-3872** Host Says Her Husband Already Contacted Authorities That Morning
 
 Claim Timestamp: 00:38:50
 
@@ -1969,7 +1969,7 @@ Investigative Direction: Not independently verifiable beyond the host's statemen
 
 ---
 
-**C-11091** Host Asks Viewers to Email More Tips About Jonathan Schmidt
+**C-3873** Host Asks Viewers to Email More Tips About Jonathan Schmidt
 
 Claim Timestamp: 00:39:10
 
@@ -1985,7 +1985,7 @@ Investigative Direction: Track tips received at the address and what was verifie
 
 ---
 
-**C-11092** Host Says There Is a Major Influx of Ukrainians Building Up in Washington
+**C-3875** Host Says There Is a Major Influx of Ukrainians Building Up in Washington
 
 Claim Timestamp: 00:39:34
 
@@ -2001,7 +2001,7 @@ Investigative Direction: Compare with State Department and DHS data on Ukrainian
 
 ---
 
-**C-11093** Host Says Dangerous People Enter Other Countries as Refugees During Wars
+**C-3876** Host Says Dangerous People Enter Other Countries as Refugees During Wars
 
 Claim Timestamp: 00:39:50
 
@@ -2017,7 +2017,7 @@ Investigative Direction: A sweeping assertion; compare with studies of refugee f
 
 ---
 
-**C-11094** Host Again Asks Viewers to Email Tips About Jonathan Schmidt
+**C-3877** Host Again Asks Viewers to Email Tips About Jonathan Schmidt
 
 Claim Timestamp: 00:40:30
 
@@ -2033,7 +2033,7 @@ Investigative Direction: Track tips received at the address and what was verifie
 
 ---
 
-**C-11095** Host Says Gaydamak Is Supposed to Be a Billionaire and She Does Not Buy the Name Schmidt
+**C-3878** Host Says Gaydamak Is Supposed to Be a Billionaire and She Does Not Buy the Name Schmidt
 
 Claim Timestamp: 00:40:46
 
@@ -2049,7 +2049,7 @@ Investigative Direction: Obtain Root Brands' employee roster and the tipsters' e
 
 ---
 
-**C-11096** Host Says She Does Not Believe the Man Is Legally Allowed in the Country
+**C-3879** Host Says She Does Not Believe the Man Is Legally Allowed in the Country
 
 Claim Timestamp: 00:40:46
 
@@ -2065,7 +2065,7 @@ Investigative Direction: Immigration status can be checked only by DHS; ask Root
 
 ---
 
-**C-11097** Host Says Her Assassination-Attempt Coordination Claim Involved Israel and French Intelligence
+**C-3880** Host Says Her Assassination-Attempt Coordination Claim Involved Israel and French Intelligence
 
 Claim Timestamp: 00:40:46
 
@@ -2076,13 +2076,13 @@ Transcript Snippet: I was always telling the truth about the coordination of an 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10567, N-10026
-Supports: C-1781
+Supports: C-3330
 Tags: relevance:core
 Investigative Direction: Ask the host for the evidence tying a coordination to Israel and French intelligence beyond the tips she has described.
 
 ---
 
-**C-11098** Host Says Tim Pool Is Signaling That She Has No Security, Which She Says Is Untrue
+**C-3881** Host Says Tim Pool Is Signaling That She Has No Security, Which She Says Is Untrue
 
 Claim Timestamp: 00:41:47
 
@@ -2093,13 +2093,13 @@ Transcript Snippet: now is trying to signal to the public that I don't have secu
 Anchored Artifacts: 
 Mentions: N-3, N-267
 Related Nodes: N-11287
-Contradicts: C-1894
+Contradicts: C-3882
 Tags: relevance:context
 Investigative Direction: Ask the host to describe her security arrangements; compare with Pool's statements about visiting her home.
 
 ---
 
-**C-11099** Tim Pool Says Candace Puts People on a Thumbnail and Claims They Benefited From the Assassination
+**C-3883** Tim Pool Says Candace Puts People on a Thumbnail and Claims They Benefited From the Assassination
 
 Claim Timestamp: 00:42:41
 
@@ -2115,7 +2115,7 @@ Investigative Direction: Locate the earlier thumbnail and episode referred to an
 
 ---
 
-**C-11100** Tim Pool Says Conservatives DM Him Thanks but Lack the Courage to Call Her Out
+**C-3884** Tim Pool Says Conservatives DM Him Thanks but Lack the Courage to Call Her Out
 
 Claim Timestamp: 00:42:41
 
@@ -2131,7 +2131,7 @@ Investigative Direction: Pool could produce the messages; otherwise the claim re
 
 ---
 
-**C-11101** Host Says Tim Pool Accused Her of Benefiting From the Assassination on an Episode With Milo
+**C-3887** Host Says Tim Pool Accused Her of Benefiting From the Assassination on an Episode With Milo
 
 Claim Timestamp: 00:44:11
 
@@ -2147,7 +2147,7 @@ Investigative Direction: Check the Pool and Yiannopoulos episode for the exact w
 
 ---
 
-**C-11102** Host Says Milo Defended Her in a Two-Hour Episode
+**C-3888** Host Says Milo Defended Her in a Two-Hour Episode
 
 Claim Timestamp: 00:44:30
 
@@ -2163,7 +2163,7 @@ Investigative Direction: Review the episode and Milo's remarks to confirm what h
 
 ---
 
-**C-11103** Host Says Tim Pool Is Under Financial Pressure and Auditioning for Zionist Funding
+**C-3889** Host Says Tim Pool Is Under Financial Pressure and Auditioning for Zionist Funding
 
 Claim Timestamp: 00:45:31
 
@@ -2179,7 +2179,7 @@ Investigative Direction: This is the host's allegation without evidence offered;
 
 ---
 
-**C-11104** Host Says She Has Not Focused Her Content on Tim Pool and Mentions Him Only After His Attacks
+**C-3890** Host Says She Has Not Focused Her Content on Tim Pool and Mentions Him Only After His Attacks
 
 Claim Timestamp: 00:45:45
 
@@ -2195,7 +2195,7 @@ Investigative Direction: Count episodes in which the host names Pool and compare
 
 ---
 
-**C-11105** Host Says Kash Patel Is Not Interested and the Feds Knew About the French Angle
+**C-3891** Host Says Kash Patel Is Not Interested and the Feds Knew About the French Angle
 
 Claim Timestamp: 00:50:53
 
@@ -2211,7 +2211,7 @@ Investigative Direction: Seek FBI statements on whether a French nexus was inves
 
 ---
 
-**C-11106** Host Says the Faith Angle Was the Infiltration of Turning Point USA
+**C-3892** Host Says the Faith Angle Was the Infiltration of Turning Point USA
 
 Claim Timestamp: 00:52:30
 
@@ -2222,13 +2222,13 @@ Transcript Snippet: I do believe that the faith was the infiltration at Turning 
 Anchored Artifacts: 
 Mentions: N-3, N-66
 Related Nodes: N-10000, N-10398, N-10436
-Supports: C-6636
+Supports: C-2771
 Tags: relevance:core
 Investigative Direction: Compare with TPUSA Faith's staffing and funding records and the earlier claims of military-linked pastors.
 
 ---
 
-**C-11107** Host Says TPUSA Recently Hired Former Cartel Weapons Traffickers Who Found God
+**C-3893** Host Says TPUSA Recently Hired Former Cartel Weapons Traffickers Who Found God
 
 Claim Timestamp: 00:52:50
 
@@ -2244,7 +2244,7 @@ Investigative Direction: Ask the host to name the hires; check TPUSA staff annou
 
 ---
 
-**C-11108** Host Says the Former Traffickers Moved Weapons and Drugs From Poland Through to Mexico
+**C-3894** Host Says the Former Traffickers Moved Weapons and Drugs From Poland Through to Mexico
 
 Claim Timestamp: 00:53:05
 
@@ -2260,7 +2260,7 @@ Investigative Direction: Identify the individuals and look for indictments or pr
 
 ---
 
-**C-11109** Host Says Charlie Messaged People the Day Before That 'They Are Going to Kill Me'
+**C-3895** Host Says Charlie Messaged People the Day Before That 'They Are Going to Kill Me'
 
 Claim Timestamp: 00:53:18
 
@@ -2271,13 +2271,13 @@ Transcript Snippet: I wonder if that's why he was fearful the day before when he
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10340
-Supports: C-9358
+Supports: C-1559
 Tags: relevance:core
 Investigative Direction: Obtain the messages themselves, recipients and timestamps from the host's source or TPUSA.
 
 ---
 
-**C-11110** Host Says the Nation Is Infiltrated and Gangs Control a Lot
+**C-3896** Host Says the Nation Is Infiltrated and Gangs Control a Lot
 
 Claim Timestamp: 00:53:50
 
@@ -2293,7 +2293,7 @@ Investigative Direction: A sweeping assertion with no specific named group; no c
 
 ---
 
-**C-11111** Host Floats That the Cartels Could Have Been Involved in the Assassination
+**C-3898** Host Floats That the Cartels Could Have Been Involved in the Assassination
 
 Claim Timestamp: 00:54:56
 
@@ -2309,7 +2309,7 @@ Investigative Direction: Seek any investigative record showing a cartel link to 
 
 ---
 
-**C-11112** Host Says She May Start a Security Fund After a Viewer Suggestion
+**C-3899** Host Says She May Start a Security Fund After a Viewer Suggestion
 
 Claim Timestamp: 00:55:30
 
@@ -2325,7 +2325,7 @@ Investigative Direction: Watch for a launched fund and its terms; verify any fun
 
 ---
 
-**C-11113** Host Says the White House Has Been Silent on the French Intelligence Angle
+**C-3900** Host Says the White House Has Been Silent on the French Intelligence Angle
 
 Claim Timestamp: 00:55:50
 

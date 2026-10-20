@@ -16,7 +16,7 @@
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Tip-minted Nodes (skeleton): N-681, N-10985
   - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-9, N-36, N-40, N-42, N-46, N-60, N-69, N-99, N-105, N-159, N-190, N-208, N-209, N-261, N-278, N-410, N-414, N-10000, N-10012, N-10014, N-10074, N-10092, N-10107, N-10110, N-10239, N-10319, N-10324, N-10334, N-10338, N-10346, N-10362, N-10381, N-10446, N-10508, N-10537, N-10551, N-10566, N-10577, N-10578, N-10581, N-10660, N-10700, N-10705, N-10724, N-10768, N-10808, N-10812, N-10888, N-10923, N-10950, N-10818, N-682, N-683, N-10730, N-10984, N-10715, N-10986
-  - Claim Range: C-4592–C-4652
+  - Claim Range: C-9977–C-10037
   - (see registers)
 
 ## 2. Executive Summary
@@ -40,7 +40,7 @@ Video Timestamp: 00:05:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4596, N-1, N-10768*
+*Related: C-9981, N-1, N-10768*
 
 **A-2668.2** Static close-up picture of the Rode wireless microphone and its magnetic clip
 
@@ -49,7 +49,7 @@ Video Timestamp: 00:06:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4597, N-1, N-10768*
+*Related: C-9982, N-1, N-10768*
 
 ---
 
@@ -64,7 +64,7 @@ Video Timestamp: 00:14:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4602, C-4603, N-10107, N-10014*
+*Related: C-9987, C-9988, N-10107, N-10014*
 
 **A-2669.2** News clip of a newscaster at the UVU courtyard reporting that the grass is being replaced with pavers
 
@@ -75,7 +75,7 @@ Video Timestamp: 00:19:42
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4604, N-10107, N-10012*
+*Related: C-9989, N-10107, N-10012*
 
 ---
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:23:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4609, C-4610, N-10768, N-10319*
+*Related: C-9994, C-9995, N-10768, N-10319*
 
 ---
 
@@ -103,7 +103,7 @@ Video Timestamp: 00:25:46
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4613, C-4615, N-682, N-10678*
+*Related: C-9998, C-10000, N-682, N-10678*
 
 ---
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:36:29
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4628, N-208, N-7, N-190*
+*Related: C-10013, N-208, N-7, N-190*
 
 **A-2672.2** Clip of Frank Turek telling Megyn Kelly his phone stayed on FaceTime with his son until he reached the hotel
 
@@ -129,7 +129,7 @@ Video Timestamp: 00:37:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4627, C-4629, N-46, N-7, N-683*
+*Related: C-10012, C-10014, N-46, N-7, N-683*
 
 ---
 
@@ -144,7 +144,7 @@ Video Timestamp: 00:44:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4634, N-3, N-10986*
+*Related: C-10019, N-3, N-10986*
 
 ---
 
@@ -159,7 +159,7 @@ Video Timestamp: 00:48:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4638, N-3, N-69, N-10700*
+*Related: C-10023, N-3, N-69, N-10700*
 
 **A-2674.2** FBI account's reply to the host's FOIA post (read aloud)
 
@@ -170,7 +170,7 @@ Video Timestamp: 00:49:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4592, C-4639, N-10014*
+*Related: C-9977, C-10024, N-10014*
 
 **A-2674.3** Host's reply to the FBI account on paraphrasing (read aloud)
 
@@ -181,7 +181,7 @@ Video Timestamp: 00:49:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4640, N-3, N-10014*
+*Related: C-10025, N-3, N-10014*
 
 **A-2674.4** FBI account's second reply calling "denied" a lie for clickbait (read aloud)
 
@@ -192,7 +192,7 @@ Video Timestamp: 00:50:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4641, N-10014*
+*Related: C-10026, N-10014*
 
 **A-2674.5** Host's show-promotion post with bullet points that the FBI objected to
 
@@ -203,7 +203,7 @@ Video Timestamp: 00:51:33
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4641, N-3, N-69*
+*Related: C-10026, N-3, N-69*
 
 **A-2674.6** Photo of influencers holding Epstein binders outside the Department of Justice, with the host's reply tweet
 
@@ -212,7 +212,7 @@ Video Timestamp: 00:52:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4642, N-10984, N-9*
+*Related: C-10027, N-10984, N-9*
 
 ---
 
@@ -225,7 +225,7 @@ Video Timestamp: 00:53:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4643, C-4644, C-4645, N-10950*
+*Related: C-10028, C-10029, C-10030, N-10950*
 
 **A-2675.2** Video of the veteran starting physical therapy
 
@@ -234,7 +234,7 @@ Video Timestamp: 00:55:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4644*
+*Related: C-10029*
 
 ---
 
@@ -249,7 +249,7 @@ Video Timestamp: 01:05:23
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4648, N-10768*
+*Related: C-10033, N-10768*
 
 **A-2676.2** Viewer comment (Easy Hammer) read on air about the necklace acting as shrapnel
 
@@ -260,7 +260,7 @@ Video Timestamp: 01:07:33
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4649, C-4650, N-2, N-10537*
+*Related: C-10034, C-10035, N-2, N-10537*
 
 **A-2676.3** Viewer comment (Amara Moussa) read on air about who received Charlie Kirk at the hospital
 
@@ -271,7 +271,7 @@ Video Timestamp: 01:09:28
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4651, C-4652, N-414, N-410*
+*Related: C-10037, C-10036, N-414, N-410*
 
 ---
 ## 4. Node Register
@@ -280,406 +280,406 @@ Confidence Level: Medium
 
 Assassination victim; the host theorizes that his clip-on wireless microphone was rigged with a shaped charge.
 
-*Related: C-4594, C-4595, C-4596, C-4597, C-4598, C-4599, C-4600, C-4601, C-4602, C-4603, C-4604, C-4605, C-4606, C-4607, C-4608, C-4611, C-4613, C-4615, C-4618, C-4624, C-4627, C-4628, C-4629, C-4630, C-4631, C-4638, C-4640, C-4650, C-4651, A-2668.1, A-2668.2*
+*Related: C-9979, C-9980, C-9981, C-9982, C-9983, C-9984, C-9985, C-9986, C-9987, C-9988, C-9989, C-9990, C-9991, C-9992, C-9993, C-9996, C-9998, C-10000, C-10003, C-10009, C-10012, C-10013, C-10014, C-10015, C-10016, C-10023, C-10025, C-10035, C-10037, A-2668.1, A-2668.2*
 
 **N-2** Erika Kirk
 
 Named for her conversation with Terryl Farnsworth about the back footage, her Zoom call remarks, her belief that Tyler Robinson acted alone, and the FOIA request for emails naming her.
 
-*Related: C-4606, C-4607, C-4618, C-4619, C-4620, C-4625, C-4636, C-4637, C-4649, A-2676.2*
+*Related: C-9991, C-9992, C-10003, C-10004, C-10005, C-10010, C-10021, C-10022, C-10034, A-2676.2*
 
 **N-3** Candace Owens
 
 Host; relays her FOIA requests and X exchange with the FBI, her call with Erika Kirk's lawyer, her tip request and her Russia trip.
 
-*Related: C-4592, C-4593, C-4594, C-4595, C-4596, C-4608, C-4610, C-4612, C-4613, C-4617, C-4620, C-4632, C-4633, C-4634, C-4635, C-4637, C-4638, C-4639, C-4640, C-4641, C-4643, C-4644, C-4645, C-4646, C-4647, C-4648, A-2673.1, A-2674.1, A-2674.3, A-2674.5*
+*Related: C-9977, C-9978, C-9979, C-9980, C-9981, C-9993, C-9995, C-9997, C-9998, C-10002, C-10005, C-10017, C-10018, C-10019, C-10020, C-10022, C-10023, C-10024, C-10025, C-10026, C-10028, C-10029, C-10030, C-10031, C-10032, C-10033, A-2673.1, A-2674.1, A-2674.3, A-2674.5*
 
 **N-7** Frank Turek
 
 Transcript spelling "Frank Turek" at 25:46. His FaceTime account is set against the Jack Hibbs interview; his necklace story is revisited.
 
-*Related: C-4614, C-4627, C-4628, C-4629, C-4649, A-2672.1, A-2672.2*
+*Related: C-9999, C-10012, C-10013, C-10014, C-10034, A-2672.1, A-2672.2*
 
 **N-9** Jeffrey Epstein
 
 Named through the Department of Justice "Epstein binders" event and the "Epstein class."
 
-*Related: C-4642, A-2674.6*
+*Related: C-10027, A-2674.6*
 
 **N-36** Benjamin Netanyahu
 
 Named as "Bibi Netanyahu"; the host says he came out to say Israel did not do it.
 
-*Related: C-4616*
+*Related: C-10001*
 
 **N-40** Tyler Robinson
 
 Accused shooter; the host lists what she says is missing from the physical evidence against him.
 
-*Related: C-4599, C-4601, C-4619, C-4621, C-4622, C-4623, C-4630, C-4640*
+*Related: C-9984, C-9986, C-10004, C-10006, C-10007, C-10008, C-10015, C-10025*
 
 **N-42** George Zinn
 
 Named as "decoy boy" number one alongside Zachariah Qureshi.
 
-*Related: C-4651*
+*Related: C-10037*
 
 **N-46** Megyn Kelly
 
 Transcript spelling "Megyn Kelly". Interviewed Frank Turek about the FaceTime call.
 
-*Related: C-4629, A-2672.2*
+*Related: C-10014, A-2672.2*
 
 **N-60** Laura Loomer
 
 Named by the host in contrasting the FBI account's tone with Loomer's.
 
-*Related: C-4641*
+*Related: C-10026*
 
 **N-69** Kash Patel
 
 Subject of the host's FOIA request for his travel itinerary; the host says he had the hospital footage taken.
 
-*Related: C-4592, C-4630, C-4638, A-2674.1, A-2674.5*
+*Related: C-9977, C-10015, C-10023, A-2674.1, A-2674.5*
 
 **N-99** Alex Clark
 
 Named as wearing a polo-style hat at the memorial.
 
-*Related: C-4624*
+*Related: C-10009*
 
 **N-105** Corey Comperatore
 
 Transcript spelling "Corey Comperatore". Butler victim whose friend Don Porter supplied leads to the host.
 
-*Related: C-4593*
+*Related: C-9978*
 
 **N-159** Blake Neff
 
 Host says he called his mother and not 911.
 
-*Related: C-4625, C-4626*
+*Related: C-10010, C-10011*
 
 **N-190** Mikey McCoy
 
 Host says he walked away and called his wife, not Erika Kirk or 911; named as "Mike" in the Jack Hibbs clip.
 
-*Related: C-4625, C-4626, C-4628, A-2672.1*
+*Related: C-10010, C-10011, C-10013, A-2672.1*
 
 **N-208** Jack Hibbs
 
 Pastor whose interview with Frank Turek the host says disrupted Turek's FaceTime account.
 
-*Related: C-4628, A-2672.1*
+*Related: C-10013, A-2672.1*
 
 **N-209** Joe Kent
 
 Host says TPUSA suggested he passed her the leaked messages.
 
-*Related: C-4617*
+*Related: C-10002*
 
 **N-261** Terryl Farnsworth
 
 Transcript spellings "Terryl", "Taral" and "Terryl Farnsworth". Removed the SD card from the camera behind Charlie Kirk's head; seen in the background of Erika Kirk's Zoom call.
 
-*Related: C-4606, C-4607, C-4611, C-4612, C-4631*
+*Related: C-9991, C-9992, C-9996, C-9997, C-10016*
 
 **N-278** Bari Weiss
 
 Interviewer to whom Erika Kirk said she believes Tyler Robinson acted alone.
 
-*Related: C-4619*
+*Related: C-10004*
 
 **N-410** Zachariah Qureshi
 
 Transcript spellings "Zachariah Qureshi" and "Sam Qureshi"; "decoy boy number two." Long-time friend of Connor Henderson.
 
-*Related: C-4651, C-4652, A-2676.3*
+*Related: C-10037, C-10036, A-2676.3*
 
 **N-414** Connor Henderson
 
 Transcript spelling also "Conor". The host says he interned in the Timpanogos emergency department.
 
-*Related: C-4651, C-4652, A-2676.3*
+*Related: C-10037, C-10036, A-2676.3*
 
 **N-681** Don Porter
 
 First named by the host at 00:02:16 in episode 116. Friend of Corey Comperatore whose leads the host credits for her prior Butler episode.
 
-*Related: C-4593*
+*Related: C-9978*
 
 **N-682** Jon Bray
 
 First named by the host at 00:03:00 in episode 116. X user the host credits with first positing the exploding-microphone theory. Aliases: John Braden; John Blake.
 
-*Related: C-4594, C-4598, C-4613, A-2671.1*
+*Related: C-9979, C-9983, C-9998, A-2671.1*
 
 **N-683** Spencer (Frank Turek's son)
 
 First named at 00:37:19 in episode 116, in Frank Turek's Megyn Kelly clip. The 35-year-old son Turek says he was FaceTiming during the event.
 
-*Related: C-4629, A-2672.2*
+*Related: C-10014, A-2672.2*
 
 **N-10000** Turning Point USA
 
 Organization whose microphone setup, responses to leaks, live-stream account and post-memorial behavior the host questions.
 
-*Related: C-4595, C-4596, C-4607, C-4617, C-4618, C-4624, C-4631*
+*Related: C-9980, C-9981, C-9992, C-10002, C-10003, C-10009, C-10016*
 
 **N-10012** Utah Valley University
 
 Site of the courtyard where the grass was replaced with pavers.
 
-*Related: C-4604, A-2669.2*
+*Related: C-9989, A-2669.2*
 
 **N-10014** Federal Bureau of Investigation
 
 Its X account sparred with the host over her FOIA post; the host also faults its handling of the bomb dogs, the car and hospital footage.
 
-*Related: C-4592, C-4599, C-4603, C-4614, C-4630, C-4638, C-4639, C-4640, C-4641, A-2669.1, A-2674.2, A-2674.3, A-2674.4*
+*Related: C-9977, C-9984, C-9988, C-9999, C-10015, C-10023, C-10024, C-10025, C-10026, A-2669.1, A-2674.2, A-2674.3, A-2674.4*
 
 **N-10074** Provo, Utah
 
 One of the paving supervisors was a maintenance groundskeeper at a facility in Provo.
 
-*Related: C-4603*
+*Related: C-9988*
 
 **N-10092** Brigham Young University
 
 Host says Connor Henderson and Zachariah Qureshi attended BYU at the same time.
 
-*Related: C-4651*
+*Related: C-10037*
 
 **N-10107** Crime Scene Pavers
 
 The Sunday paver installation at the spot where Charlie Kirk was killed.
 
-*Related: C-4602, C-4603, C-4604, A-2669.1, A-2669.2*
+*Related: C-9987, C-9988, C-9989, A-2669.1, A-2669.2*
 
 **N-10110** Tyler Robinson Evidence Gaps
 
 Untested rifle firing, five other sets of prints and no GSR test.
 
-*Related: C-4601, C-4621, C-4622*
+*Related: C-9986, C-10006, C-10007*
 
 **N-10239** Timpanogos Hospital Footage Seizure Verification
 
 Host says Kash Patel had the feds take the hospital footage.
 
-*Related: C-4630*
+*Related: C-10015*
 
 **N-10319** .30-06 Forensic Narrative Validity
 
 Host argues a .30-06 would have nearly decapitated Charlie Kirk and compares it to a PETN charge.
 
-*Related: C-4605, C-4608, C-4609, C-4610, A-2670.1*
+*Related: C-9990, C-9993, C-9994, C-9995, A-2670.1*
 
 **N-10324** Epstein Files Release Status
 
 Invoked through the empty Epstein binders event.
 
-*Related: C-4642*
+*Related: C-10027*
 
 **N-10334** CBS Bari Weiss Town Hall Production Integrity
 
 Erika Kirk's answer to Bari Weiss on Tyler Robinson acting alone.
 
-*Related: C-4619*
+*Related: C-10004*
 
 **N-10338** Mikey McCoy Post-Shooting Phone Call Sequence
 
 Mikey McCoy calling his wife rather than Erika Kirk or 911.
 
-*Related: C-4625*
+*Related: C-10010*
 
 **N-10346** Terryl Farnsworth Camera Removal Justification
 
 The SD card removal from the camera behind Charlie Kirk's head and the zoomed footage.
 
-*Related: C-4611, C-4612*
+*Related: C-9996, C-9997*
 
 **N-10362** Vehicle Disposition Question
 
 The towing, cleaning and resale of the transport SUV.
 
-*Related: C-4614*
+*Related: C-9999*
 
 **N-10381** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification
 
 Host refers to Robinson buying a steak in Panguitch.
 
-*Related: C-4623*
+*Related: C-10008*
 
 **N-10446** Hamptons Summit / Netanyahu Funding Offer Discrepancy
 
 The "lie about the Hampton Summit" and TPUSA's response to the leaked messages.
 
-*Related: C-4616, C-4617*
+*Related: C-10001, C-10002*
 
 **N-10508** Tyler Robinson Evidence Sufficiency Question
 
 Erika Kirk's lawyer told the host he had no more evidence than the public.
 
-*Related: C-4620*
+*Related: C-10005*
 
 **N-10537** Charlie Kirk Necklace / Magnet Clasp Examination
 
 The magnetic mic clip and the necklace that the host says broke first.
 
-*Related: C-4597, C-4649, C-4650, A-2676.2*
+*Related: C-9982, C-10034, C-10035, A-2676.2*
 
 **N-10551** Joe Kent Leak Accusation Chain
 
 TPUSA's suggestion that Joe Kent passed the messages to the host.
 
-*Related: C-4617*
+*Related: C-10002*
 
 **N-10566** Tyler Robinson Confession Narrative Discrepancy
 
 The alleged text confession, keyboard note and shifting Discord confession.
 
-*Related: C-4623*
+*Related: C-10008*
 
 **N-10577** Built Inc. Federal Contracting Pattern
 
 The Built organization co-founded by Zachariah Qureshi's father and a Henderson.
 
-*Related: C-4652*
+*Related: C-10036*
 
 **N-10578** Decoy Subject Investigation (Qureshi)
 
 The Qureshi–Henderson connection is restated.
 
-*Related: C-4651, C-4652*
+*Related: C-10037, C-10036*
 
 **N-10581** Tyler Robinson Defense – Chain of Custody / Documents
 
 Host says the FBI has held documents the defense requested since September.
 
-*Related: C-4640*
+*Related: C-10025*
 
 **N-10660** Hospital "No Neck Left" Narrative Discrepancy
 
 Host says outside the front wound Charlie Kirk was in very good condition.
 
-*Related: C-4608*
+*Related: C-9993*
 
 **N-10678** SUV Floorboard Shard Mic Identification
 
 The SUV shards Jon Bray says are ABS plastic from the Rode mic.
 
-*Related: C-4613, C-4615, A-2671.1*
+*Related: C-9998, C-10000, A-2671.1*
 
 **N-10685** Car Interior Shards and Blood Evidence Pattern
 
 Location of the shards in the captain chairs and seat crevices.
 
-*Related: C-4615*
+*Related: C-10000*
 
 **N-10700** Pending FOIA Requests
 
 The Kash Patel itinerary and Erika Kirk email requests, and the reduced-scope refiling.
 
-*Related: C-4635, C-4637, C-4638, C-4639, C-4647, A-2674.1*
+*Related: C-10020, C-10022, C-10023, C-10024, C-10032, A-2674.1*
 
 **N-10705** Charlie's Road Microphone Glass Origin Investigation Target
 
 Jon Bray's theory that the SUV shards are the shattered mic housing.
 
-*Related: C-4594, C-4613*
+*Related: C-9979, C-9998*
 
 **N-10715** Blake Neff September 10th Movement Discrepancy
 
 Blake Neff calling his mother rather than 911.
 
-*Related: C-4626*
+*Related: C-10011*
 
 **N-10724** Butler Shooting Insider Involvement Claim
 
 The Butler leads supplied by Don Porter.
 
-*Related: C-4593*
+*Related: C-9978*
 
 **N-10730** Frank Turek FaceTime Story Inconsistency
 
 Turek's open-FaceTime account set against the Jack Hibbs interview.
 
-*Related: C-4627, C-4628, C-4629*
+*Related: C-10012, C-10013, C-10014*
 
 **N-10756** K9 Scent Tracking Discrepancy
 
 Bomb dogs on scene not brought to where Charlie Kirk sat.
 
-*Related: C-4599, C-4600, C-4601*
+*Related: C-9984, C-9985, C-9986*
 
 **N-10768** Shaped Charge / Exploding Microphone Hypothesis
 
 Central theory of the episode.
 
-*Related: C-4594, C-4596, C-4597, C-4598, C-4609, C-4610, C-4648, C-4650, A-2668.1, A-2668.2, A-2670.1, A-2676.1*
+*Related: C-9979, C-9981, C-9982, C-9983, C-9994, C-9995, C-10033, C-10035, A-2668.1, A-2668.2, A-2670.1, A-2676.1*
 
 **N-10808** Terryl SD Card-to-Laptop Transfer Sequence
 
 Host says Terryl Farnsworth was instructed to take the SD card.
 
-*Related: C-4611*
+*Related: C-9996*
 
 **N-10812** Terryl Farnsworth Evidence-Handling Question
 
 Terryl Farnsworth's early conversation with Erika Kirk about the back footage.
 
-*Related: C-4606*
+*Related: C-9991*
 
 **N-10818** Jack Hibbs Sequence-of-Events Discrepancy
 
 Turek's account in the Jack Hibbs interview of first calls at the hospital.
 
-*Related: C-4628*
+*Related: C-10013*
 
 **N-10888** Department of War
 
 Host says the "emotional asset" email should not have been its concern.
 
-*Related: C-4636*
+*Related: C-10021*
 
 **N-10984** U.S. Department of Justice
 
 Node Type: Organization
 Federal department the host says accused her of clickbait through the FBI's rapid response account, and which she says staged the Epstein binders event; the host's FOIA requests are pending with it.
 
-*Related: C-4642, C-4647, A-2674.6*
+*Related: C-10027, C-10032, A-2674.6*
 
 **N-10985** September 10 UVU Event Live Stream to TPUSA Office Verification
 
 Node Type: Topic
 Investigation target: whether the September 10 UVU event was actually being live streamed back to the Turning Point USA office, as Terryl Farnsworth told the host. The host says no one at TPUSA has confirmed watching that live stream.
 
-*Related: C-4631, N-261, N-10000*
+*Related: C-10016, N-261, N-10000*
 
 **N-10986** Accurate Energetic Systems Explosion (Hickman County, Tennessee)
 
 Node Type: Topic
 Investigation target: the October 10 explosion at Accurate Energetic Systems, a maker of military and demolition explosives about 60 miles west of Nashville, which the host says killed 16 employees. The host says some believe it could be where a rigged device was assembled, or a way to hide evidence, and asks for tips.
 
-*Related: C-4632, C-4633, C-4634, A-2673.1*
+*Related: C-10017, C-10018, C-10019, A-2673.1*
 
 **N-10923** White House Military Office Erika Kirk Amplification Email
 
 Node Type: Topic
 Investigation target: the email the host says went out about an hour after the White House Correspondents' Dinner shooting, which sought to boost Erika Kirk's video and called her an "emotional asset," and the host's FOIA request for emails naming Erika Kirk.
 
-*Related: C-4636, C-4637, N-2, N-10888*
+*Related: C-10021, C-10022, N-2, N-10888*
 
 **N-10950** US Department of Veterans Affairs (VA)
 
 Node Type: Organization
 Agency the host says repeatedly declined an appointment for a 12-year veteran who later had a seizure in Russia, and which she says hands veterans drugs such as Xanax instead of addressing physical brain injuries.
 
-*Related: C-4643, C-4644, C-4646, A-2675.1*
+*Related: C-10028, C-10029, C-10031, A-2675.1*
 
 ## 5. Claim Register
 
-**C-4592** FBI account publicly answered the host's show promotion on X
+**C-9977** FBI account publicly answered the host's show promotion on X
 
 Claim Timestamp: 00:00:00
 
@@ -694,7 +694,7 @@ Investigative Direction: Archive the FBI rapid response account's posts addresse
 
 ---
 
-**C-4593** Don Porter, a friend of Corey Comperatore, supplied the Butler leads
+**C-9978** Don Porter, a friend of Corey Comperatore, supplied the Butler leads
 
 Claim Timestamp: 00:02:16
 
@@ -709,7 +709,7 @@ Investigative Direction: Confirm Don Porter's relationship to Corey Comperatore 
 
 ---
 
-**C-4594** Exploding-microphone theory was first posited by X user Jon Bray
+**C-9979** Exploding-microphone theory was first posited by X user Jon Bray
 
 Claim Timestamp: 00:03:00
 
@@ -724,7 +724,7 @@ Investigative Direction: Locate Jon Bray's X posts on the theory and their earli
 
 ---
 
-**C-4595** Charlie Kirk always preferred a single handheld microphone
+**C-9980** Charlie Kirk always preferred a single handheld microphone
 
 Claim Timestamp: 00:04:06
 
@@ -739,7 +739,7 @@ Investigative Direction: Review TPUSA tour production riders and AV records for 
 
 ---
 
-**C-4596** A clipped wireless mic was added during the fall 2024 You're Being Brainwashed tour
+**C-9981** A clipped wireless mic was added during the fall 2024 You're Being Brainwashed tour
 
 Claim Timestamp: 00:04:55
 
@@ -754,7 +754,7 @@ Investigative Direction: Compare event footage from spring and fall 2024 and obt
 
 ---
 
-**C-4597** A magnetic clip on Charlie Kirk's shirt held the Rode wireless mic on the inside
+**C-9982** A magnetic clip on Charlie Kirk's shirt held the Rode wireless mic on the inside
 
 Claim Timestamp: 00:07:29
 
@@ -769,7 +769,7 @@ Investigative Direction: Identify the exact microphone model used on September 1
 
 ---
 
-**C-4598** A shaped charge can act directionally like a bullet
+**C-9983** A shaped charge can act directionally like a bullet
 
 Claim Timestamp: 00:08:07
 
@@ -784,7 +784,7 @@ Investigative Direction: Consult explosives experts on whether a microphone-size
 
 ---
 
-**C-4599** Bomb dogs on scene were not brought to where Charlie Kirk sat
+**C-9984** Bomb dogs on scene were not brought to where Charlie Kirk sat
 
 Claim Timestamp: 00:13:08
 
@@ -799,7 +799,7 @@ Investigative Direction: Obtain K9 deployment logs from the agencies on scene at
 
 ---
 
-**C-4600** Bomb dogs can detect trace explosives for up to 10 days
+**C-9985** Bomb dogs can detect trace explosives for up to 10 days
 
 Claim Timestamp: 00:13:08
 
@@ -814,7 +814,7 @@ Investigative Direction: Check published K9 detection research for residue persi
 
 ---
 
-**C-4601** No evidence the rifle was fired on September 10
+**C-9986** No evidence the rifle was fired on September 10
 
 Claim Timestamp: 00:14:05
 
@@ -825,12 +825,12 @@ Transcript Snippet: It's also my belief that the reason why they didn't locate t
 Anchored Artifacts:
 Mentions: N-40
 Related Nodes: N-10756, N-10110
-Supports: C-2763
+Supports: C-8344
 Investigative Direction: Obtain the forensic report on the rifle's firing status and any K9 alert records.
 
 ---
 
-**C-4602** Contractor was called on a Sunday to install pavers at the scene
+**C-9987** Contractor was called on a Sunday to install pavers at the scene
 
 Claim Timestamp: 00:15:38
 
@@ -841,12 +841,12 @@ Transcript Snippet: And he says, "We've got to put pavers in for emergency." So,
 Anchored Artifacts: A-2669.1
 Mentions: N-1
 Related Nodes: N-10107
-Supports: C-1386
+Supports: C-1465
 Investigative Direction: Obtain UVU facilities work orders and contractor invoices for the paver installation.
 
 ---
 
-**C-4603** Contractor says the governor and the FBI wanted the paving done by Monday
+**C-9988** Contractor says the governor and the FBI wanted the paving done by Monday
 
 Claim Timestamp: 00:17:21
 
@@ -861,7 +861,7 @@ Investigative Direction: Request communications between the governor's office, t
 
 ---
 
-**C-4604** News report: UVU replacing the grass where Charlie Kirk spoke with pavers
+**C-9989** News report: UVU replacing the grass where Charlie Kirk spoke with pavers
 
 Claim Timestamp: 00:19:42
 
@@ -876,7 +876,7 @@ Investigative Direction: Identify the station and air date of the report and mat
 
 ---
 
-**C-4605** A .30-06 round would have nearly decapitated Charlie Kirk
+**C-9990** A .30-06 round would have nearly decapitated Charlie Kirk
 
 Claim Timestamp: 00:20:26
 
@@ -891,7 +891,7 @@ Investigative Direction: Obtain the medical examiner's report and independent ba
 
 ---
 
-**C-4606** Terryl Farnsworth says he spoke to Erika Kirk about the back footage
+**C-9991** Terryl Farnsworth says he spoke to Erika Kirk about the back footage
 
 Claim Timestamp: 00:21:11
 
@@ -906,7 +906,7 @@ Investigative Direction: Obtain Terryl Farnsworth's statements on when and with 
 
 ---
 
-**C-4607** Terryl Farnsworth is in the background of Erika Kirk's Zoom call six days after
+**C-9992** Terryl Farnsworth is in the background of Erika Kirk's Zoom call six days after
 
 Claim Timestamp: 00:21:11
 
@@ -917,12 +917,12 @@ Transcript Snippet: Erika is laughing at the emojis 6 days after the assassinati
 Anchored Artifacts:
 Mentions: N-261, N-2, N-1
 Related Nodes: N-10000
-Supports: C-2220
+Supports: C-5723
 Investigative Direction: Review the full September 16 TPUSA Zoom recording to identify everyone in frame.
 
 ---
 
-**C-4608** Outside the front wound, Charlie Kirk's body was in very good condition
+**C-9993** Outside the front wound, Charlie Kirk's body was in very good condition
 
 Claim Timestamp: 00:21:49
 
@@ -937,7 +937,7 @@ Investigative Direction: Obtain the autopsy report and the hospital trauma recor
 
 ---
 
-**C-4609** A 20 g PETN charge left a hole similar to a .30-06 in level 4 glass
+**C-9994** A 20 g PETN charge left a hole similar to a .30-06 in level 4 glass
 
 Claim Timestamp: 00:23:18
 
@@ -952,7 +952,7 @@ Investigative Direction: Identify the test video's source and verify the glass r
 
 ---
 
-**C-4610** A .30-06 can pierce most bulletproof glass but 20 g of PETN cannot
+**C-9995** A .30-06 can pierce most bulletproof glass but 20 g of PETN cannot
 
 Claim Timestamp: 00:23:18
 
@@ -967,7 +967,7 @@ Investigative Direction: Compare published NIJ level ratings for .30-06 penetrat
 
 ---
 
-**C-4611** Terryl Farnsworth was instructed to take the SD card from the back camera
+**C-9996** Terryl Farnsworth was instructed to take the SD card from the back camera
 
 Claim Timestamp: 00:24:11
 
@@ -982,7 +982,7 @@ Investigative Direction: Establish who instructed the SD card removal and its ch
 
 ---
 
-**C-4612** The back-camera footage shown to the host was zoomed in
+**C-9997** The back-camera footage shown to the host was zoomed in
 
 Claim Timestamp: 00:24:11
 
@@ -997,7 +997,7 @@ Investigative Direction: Obtain the original SD card file and compare its frame 
 
 ---
 
-**C-4613** Jon Bray says the SUV photos show shards of the mic's ABS plastic
+**C-9998** Jon Bray says the SUV photos show shards of the mic's ABS plastic
 
 Claim Timestamp: 00:25:01
 
@@ -1012,7 +1012,7 @@ Investigative Direction: Have the SUV shards forensically analyzed or obtain any
 
 ---
 
-**C-4614** The transport SUV was towed, cleaned, towed again and put up for resale
+**C-9999** The transport SUV was towed, cleaned, towed again and put up for resale
 
 Claim Timestamp: 00:25:46
 
@@ -1027,7 +1027,7 @@ Investigative Direction: Trace the vehicle's VIN through tow, detailing and auct
 
 ---
 
-**C-4615** Shards appear in the captain chair where Charlie Kirk's body was placed
+**C-10000** Shards appear in the captain chair where Charlie Kirk's body was placed
 
 Claim Timestamp: 00:26:45
 
@@ -1042,7 +1042,7 @@ Investigative Direction: Match the photos to the vehicle and seating positions a
 
 ---
 
-**C-4616** Netanyahu publicly said Israel did not do it
+**C-10001** Netanyahu publicly said Israel did not do it
 
 Claim Timestamp: 00:28:06
 
@@ -1057,7 +1057,7 @@ Investigative Direction: Locate Netanyahu's statement and its date relative to p
 
 ---
 
-**C-4617** TPUSA responded to the leaked messages by suggesting Joe Kent sent them
+**C-10002** TPUSA responded to the leaked messages by suggesting Joe Kent sent them
 
 Claim Timestamp: 00:28:51
 
@@ -1072,7 +1072,7 @@ Investigative Direction: Collect TPUSA staff statements attributing the leak to 
 
 ---
 
-**C-4618** Erika Kirk told staff on the Zoom call that Charlie is at the office
+**C-10003** Erika Kirk told staff on the Zoom call that Charlie is at the office
 
 Claim Timestamp: 00:29:37
 
@@ -1087,7 +1087,7 @@ Investigative Direction: Review the full recording of the September 16 TPUSA Zoo
 
 ---
 
-**C-4619** Erika Kirk told Bari Weiss she believes Tyler Robinson acted alone
+**C-10004** Erika Kirk told Bari Weiss she believes Tyler Robinson acted alone
 
 Claim Timestamp: 00:30:19
 
@@ -1102,7 +1102,7 @@ Investigative Direction: Review the CBS town hall transcript for the exact quest
 
 ---
 
-**C-4620** Erika Kirk's lawyer told the host he had no more evidence than the public
+**C-10005** Erika Kirk's lawyer told the host he had no more evidence than the public
 
 Claim Timestamp: 00:30:41
 
@@ -1117,7 +1117,7 @@ Investigative Direction: Identify the lawyer and confirm the date of the call.
 
 ---
 
-**C-4621** Five other sets of prints are on Tyler Robinson's rifle
+**C-10006** Five other sets of prints are on Tyler Robinson's rifle
 
 Claim Timestamp: 00:31:18
 
@@ -1128,12 +1128,12 @@ Transcript Snippet: they keep conveniently not wanting it to remind you that the
 Anchored Artifacts:
 Mentions: N-40
 Related Nodes: N-10110
-Supports: C-1283
+Supports: C-756
 Investigative Direction: Obtain the latent print report on the rifle from the court record.
 
 ---
 
-**C-4622** Police did not perform a gunshot residue test on Tyler Robinson
+**C-10007** Police did not perform a gunshot residue test on Tyler Robinson
 
 Claim Timestamp: 00:32:07
 
@@ -1148,7 +1148,7 @@ Investigative Direction: Check arrest and lab records for any GSR collection fro
 
 ---
 
-**C-4623** Alleged confession by text plus a note under his keyboard
+**C-10008** Alleged confession by text plus a note under his keyboard
 
 Claim Timestamp: 00:32:07
 
@@ -1163,7 +1163,7 @@ Investigative Direction: Compare the charging documents' description of the text
 
 ---
 
-**C-4624** TPUSA staff went to Charlie Kirk's favorite restaurant after the memorial
+**C-10009** TPUSA staff went to Charlie Kirk's favorite restaurant after the memorial
 
 Claim Timestamp: 00:33:34
 
@@ -1178,7 +1178,7 @@ Investigative Direction: Identify the restaurant and any photos or receipts from
 
 ---
 
-**C-4625** Mikey McCoy walked away and called his wife, not Erika Kirk or 911
+**C-10010** Mikey McCoy walked away and called his wife, not Erika Kirk or 911
 
 Claim Timestamp: 00:34:58
 
@@ -1189,12 +1189,12 @@ Transcript Snippet: He went to He went to call his wife. And he didn't call 911.
 Anchored Artifacts:
 Mentions: N-190, N-2
 Related Nodes: N-10338
-Supports: C-2294
+Supports: C-6107
 Investigative Direction: Obtain Mikey McCoy's call log for September 10, 2025.
 
 ---
 
-**C-4626** Blake Neff called his mother and did not call 911
+**C-10011** Blake Neff called his mother and did not call 911
 
 Claim Timestamp: 00:34:58
 
@@ -1209,7 +1209,7 @@ Investigative Direction: Obtain Blake Neff's call log and 911 dispatch logs for 
 
 ---
 
-**C-4627** Frank Turek's account: FaceTiming his 35-year-old son during the event
+**C-10012** Frank Turek's account: FaceTiming his 35-year-old son during the event
 
 Claim Timestamp: 00:35:43
 
@@ -1224,7 +1224,7 @@ Investigative Direction: Obtain Frank Turek's phone records for the duration of 
 
 ---
 
-**C-4628** In the Jack Hibbs interview, Turek describes phone calls at the hospital
+**C-10013** In the Jack Hibbs interview, Turek describes phone calls at the hospital
 
 Claim Timestamp: 00:37:19
 
@@ -1239,7 +1239,7 @@ Investigative Direction: Compare Turek's carrier records for incoming calls with
 
 ---
 
-**C-4629** Turek told Megyn Kelly he FaceTimed his son and the call stayed on until the hotel
+**C-10014** Turek told Megyn Kelly he FaceTimed his son and the call stayed on until the hotel
 
 Claim Timestamp: 00:37:19
 
@@ -1254,7 +1254,7 @@ Investigative Direction: Obtain the FaceTime session logs from Turek's or his so
 
 ---
 
-**C-4630** Kash Patel instructed the feds to take the hospital footage
+**C-10015** Kash Patel instructed the feds to take the hospital footage
 
 Claim Timestamp: 00:38:35
 
@@ -1269,7 +1269,7 @@ Investigative Direction: Obtain FBI evidence logs for the Timpanogos Hospital fo
 
 ---
 
-**C-4631** No one at TPUSA has confirmed watching the claimed live stream to the office
+**C-10016** No one at TPUSA has confirmed watching the claimed live stream to the office
 
 Claim Timestamp: 00:39:31
 
@@ -1284,7 +1284,7 @@ Investigative Direction: Request TPUSA's streaming platform logs for the Septemb
 
 ---
 
-**C-4632** Host will investigate the Hickman County explosion as a possible device source
+**C-10017** Host will investigate the Hickman County explosion as a possible device source
 
 Claim Timestamp: 00:44:10
 
@@ -1299,7 +1299,7 @@ Investigative Direction: Review investigative reports on the Accurate Energetic 
 
 ---
 
-**C-4633** October 10 explosion at Accurate Energetic Systems killed 16
+**C-10018** October 10 explosion at Accurate Energetic Systems killed 16
 
 Claim Timestamp: 00:44:47
 
@@ -1314,7 +1314,7 @@ Investigative Direction: Check OSHA, ATF and local news records for the date, ca
 
 ---
 
-**C-4634** Host asks for tips on the Hickman County explosion
+**C-10019** Host asks for tips on the Hickman County explosion
 
 Claim Timestamp: 00:44:47
 
@@ -1329,7 +1329,7 @@ Investigative Direction: Track tips received and any follow-up reporting on the 
 
 ---
 
-**C-4635** FOIA requires a response within 20 working days
+**C-10020** FOIA requires a response within 20 working days
 
 Claim Timestamp: 00:45:46
 
@@ -1344,7 +1344,7 @@ Investigative Direction: Check 5 U.S.C. 552(a)(6) on response deadlines and unus
 
 ---
 
-**C-4636** An email called Erika Kirk an "emotional asset" an hour after the WHCD shooting
+**C-10021** An email called Erika Kirk an "emotional asset" an hour after the WHCD shooting
 
 Claim Timestamp: 00:47:12
 
@@ -1359,7 +1359,7 @@ Investigative Direction: Obtain the email and its distribution list via FOIA.
 
 ---
 
-**C-4637** FOIA request for emails naming Erika Kirk was called too burdensome
+**C-10022** FOIA request for emails naming Erika Kirk was called too burdensome
 
 Claim Timestamp: 00:47:12
 
@@ -1374,7 +1374,7 @@ Investigative Direction: Obtain the agency's acknowledgment letter and extension
 
 ---
 
-**C-4638** FOIA request for Kash Patel's three-day itinerary was called too burdensome
+**C-10023** FOIA request for Kash Patel's three-day itinerary was called too burdensome
 
 Claim Timestamp: 00:48:22
 
@@ -1389,7 +1389,7 @@ Investigative Direction: Compare the FBI's written response with the host's summ
 
 ---
 
-**C-4639** FBI account accused the host of misquoting its FOIA response
+**C-10024** FBI account accused the host of misquoting its FOIA response
 
 Claim Timestamp: 00:49:03
 
@@ -1404,7 +1404,7 @@ Investigative Direction: Archive the FBI post and the acknowledgment letter it r
 
 ---
 
-**C-4640** FBI has held documents requested by Tyler Robinson's defense since September
+**C-10025** FBI has held documents requested by Tyler Robinson's defense since September
 
 Claim Timestamp: 00:50:52
 
@@ -1419,7 +1419,7 @@ Investigative Direction: Review defense discovery motions in the Tyler Robinson 
 
 ---
 
-**C-4641** FBI account said calling the request "denied" was a lie for clickbait
+**C-10026** FBI account said calling the request "denied" was a lie for clickbait
 
 Claim Timestamp: 00:50:52
 
@@ -1434,7 +1434,7 @@ Investigative Direction: Archive all FBI account posts addressed to the host tha
 
 ---
 
-**C-4642** DOJ staged influencers holding effectively empty Epstein binders
+**C-10027** DOJ staged influencers holding effectively empty Epstein binders
 
 Claim Timestamp: 00:52:57
 
@@ -1449,7 +1449,7 @@ Investigative Direction: Identify the DOJ event date and the binders' actual con
 
 ---
 
-**C-4643** Veteran was repeatedly denied a VA appointment and had a seizure in Russia
+**C-10028** Veteran was repeatedly denied a VA appointment and had a seizure in Russia
 
 Claim Timestamp: 00:53:52
 
@@ -1464,7 +1464,7 @@ Investigative Direction: Obtain the veteran's VA appointment request records fro
 
 ---
 
-**C-4644** Russian hospital took the veteran immediately into surgery
+**C-10029** Russian hospital took the veteran immediately into surgery
 
 Claim Timestamp: 00:53:52
 
@@ -1479,7 +1479,7 @@ Investigative Direction: Obtain the Russian hospital's treatment records (with c
 
 ---
 
-**C-4645** The host family in Russia moved from Kansas City, Missouri
+**C-10030** The host family in Russia moved from Kansas City, Missouri
 
 Claim Timestamp: 00:55:30
 
@@ -1493,7 +1493,7 @@ Investigative Direction: None needed beyond the host's correction; identity is w
 
 ---
 
-**C-4646** VA gives veterans drugs that are illegal in Russia
+**C-10031** VA gives veterans drugs that are illegal in Russia
 
 Claim Timestamp: 00:58:29
 
@@ -1508,7 +1508,7 @@ Investigative Direction: Compare VA prescribing practice for PTSD with Russia's 
 
 ---
 
-**C-4647** The host's team has already reduced the scope of the FOIA request
+**C-10032** The host's team has already reduced the scope of the FOIA request
 
 Claim Timestamp: 01:03:02
 
@@ -1523,7 +1523,7 @@ Investigative Direction: Track the refiled FOIA request and the agency's respons
 
 ---
 
-**C-4648** The host says she never dismissed the exploding-mic theory
+**C-10033** The host says she never dismissed the exploding-mic theory
 
 Claim Timestamp: 01:05:23
 
@@ -1538,7 +1538,7 @@ Investigative Direction: Review earlier episodes for the host's prior statements
 
 ---
 
-**C-4649** Turek said feds looked for the necklace and he found it on his backpack
+**C-10034** Turek said feds looked for the necklace and he found it on his backpack
 
 Claim Timestamp: 01:07:33
 
@@ -1549,12 +1549,12 @@ Transcript Snippet: The strangest story came from Frank Turek, which was like th
 Anchored Artifacts: A-2676.2
 Mentions: N-7, N-1
 Related Nodes: N-10537
-Supports: C-1962
+Supports: C-4213
 Investigative Direction: Obtain FBI evidence logs for the necklace's recovery.
 
 ---
 
-**C-4650** The necklace broke before Charlie Kirk reacted to the wound
+**C-10035** The necklace broke before Charlie Kirk reacted to the wound
 
 Claim Timestamp: 01:09:28
 
@@ -1569,7 +1569,7 @@ Investigative Direction: Frame-by-frame analysis of the back-camera and audience
 
 ---
 
-**C-4651** Connor Henderson was interning in the Timpanogos ER
+**C-10037** Connor Henderson was interning in the Timpanogos ER
 
 Claim Timestamp: 01:09:55
 
@@ -1580,12 +1580,12 @@ Transcript Snippet: and then we find out that Connor was working at the hospital
 Anchored Artifacts: A-2676.3
 Mentions: N-414, N-410
 Related Nodes: N-10578, N-10092
-Supports: C-2634
+Supports: C-7798
 Investigative Direction: Confirm Connor Henderson's Timpanogos internship dates and whether he worked September 10.
 
 ---
 
-**C-4652** Qureshi's Father Was One Half of Built With a Henderson, and Their Sons Shared a House
+**C-10036** Qureshi's Father Was One Half of Built With a Henderson, and Their Sons Shared a House
 
 Claim Timestamp: 01:09:28
 
@@ -1596,7 +1596,7 @@ Transcript Snippet: His father was one half of the Built organization, um along 
 Anchored Artifacts: A-2676.3
 Mentions: N-410, N-414
 Related Nodes: N-10577, N-10578
-Supports: C-2638
+Supports: C-7795
 Investigative Direction: Check Built Inc. corporate filings and residential records for both families.
 
 ---
@@ -1831,11 +1831,11 @@ Confidence: high
 ## 7. Optional Flags
 
 - **Artifacts verbally referenced but not shown**: A-2673.1 (tip request, nothing shown). The host also refers without showing anything to Erika Kirk's Bari Weiss interview, the September 16 TPUSA Zoom call, Kash Patel's FOIA response letter (she says it was shown on the prior day's show) and the Epstein-binders tweet ("I don't know if you have my tweet"). A-2674.6 is logged at Medium because it is unclear whether the photo was put on screen.
-- **DIA beats**: one real beat (44:47, tips@candaceowens.com for the Hickman County explosion, repeated as "More tips@candaceowens. com" in the same paragraph); it is logged as C-4634, A-2673.1 and M-12. At 01:03:56 the host thanks Evie for "a massive uh tip," which is about her hairstyle, not a DIA beat. No bounty and no CIA merch phrase aired, so M-14 is not used.
+- **DIA beats**: one real beat (44:47, tips@candaceowens.com for the Hickman County explosion, repeated as "More tips@candaceowens. com" in the same paragraph); it is logged as C-10019, A-2673.1 and M-12. At 01:03:56 the host thanks Evie for "a massive uh tip," which is about her hairstyle, not a DIA beat. No bounty and no CIA merch phrase aired, so M-14 is not used.
 - **Name matching**: "Jon Bray" (03:00), "John Braden" (08:07) and "John Blake" (25:01, 26:45) are treated as one new person, N-682 Jon Bray, because the context (X user, mic theory, SUV photos) is the same. The correct spelling is unverified. "Terryl", "Taral" and "Terryl Farnsworth" are mapped to N-261. "Frank Turek" (25:46) is mapped to N-7 Frank Turek. "Zachariah Qureshi" and "Sam Qureshi" are mapped to N-410 Zachariah Qureshi; the host corrects herself to Zachariah on air. "Blake" at 30:41 is taken as Blake Neff. "The governor" in the contractor clip is presumably Spencer Cox, but he is not named, so he is not mentioned. "Ashley" in the control room (03:00, 01:03:02) is a staff member and is not minted.
 - **Possible duplicate topic**: N-10923 reuses the staging title WHCD "Emotional Asset" Email Verification (episode 106). Other staging drafts use "White House Military Office Erika Kirk Amplification Email" for what may be the same email; the integrator may want to merge them.
 - **Transcription ambiguities**: "Rode"/"road mic"/"road bike" (the Rode wireless microphone), "PTN" (PETN), "ex-user" (X user), "Hampton Summit" (Hamptons) and "Built" (Built Inc.). Snippets keep "the.30-06" without a space, as the transcript has it.
-- **Cross-episode links left out**: C-1235 (episode 7, UVU repaved within about 48 hours) conflicts on timing with the contractor's Sunday account, but it is not clearly the same proposition, so it is not linked. C-1366 (SD card removal on law-enforcement instruction) may relate to C-4611, but the source of the instruction differs, so it is left unlinked.
+- **Cross-episode links left out**: C-609 (episode 7, UVU repaved within about 48 hours) conflicts on timing with the contractor's Sunday account, but it is not clearly the same proposition, so it is not linked. C-1363 (SD card removal on law-enforcement instruction) may relate to C-9996, but the source of the instruction differs, so it is left unlinked.
 - **Not inscribed as claims (admission test)**:
   - The host's opinion that Kash Patel's girlfriend runs the FBI rapid-response account ("my conspiracy theory of the week")
   - The view that there is "more evidentiary support" for a rigged explosive than for Tyler Robinson
