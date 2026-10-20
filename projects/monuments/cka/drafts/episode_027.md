@@ -2404,7 +2404,7 @@ Confidence: low
 ## IX. Optional Flags
 
 - **Name uncertainty:** Episode uses "Erika Kirk" throughout, while prior ledger convention (per Protocol Example) uses "Erika Kirk." Preserve as "Erika Kirk" for this episode and flag for cross-episode normalization review.
-- **Transcript ambiguity:** "Kolby Sessions" and "Coby Sessions" both appear in the transcript within the same artifact context; treat as the same person pending verification.
+- **Transcript ambiguity:** "Kolby Sessions" and "Kolby Sessions" both appear in the transcript within the same artifact context; treat as the same person pending verification.
 - **Transcript ambiguity:** Host alternately refers to "Lila Rose" and "Layla Rose" within the same segment; treat as "Lila Rose" pending verification (likely host verbal variation).
 - **Artifact verbally referenced but not shown in this episode:** Host references a previously displayed email regarding UVU event approval (from the prior day's show); Allie's tweets respond to that prior display.
 - **Claim C-1635 failed full admission test** in strict evidentiary terms (viewer opinion, not investigable falsifiable proposition); inscribed only because A-1354.2 must have a linked claim for ledger completeness; flagged here for transparency.

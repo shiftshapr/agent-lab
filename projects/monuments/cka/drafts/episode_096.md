@@ -1731,7 +1731,7 @@ Claim Timestamp: 00:46:37
 
 Claim: The host says it is giving Blake Neff wrote Erika Kirk's statement and that he is her writer for things.
 
-Transcript Snippet: this is why she's got to stop working with Blake Neff. It's giving Blakey Neff wrote it.
+Transcript Snippet: this is why she's got to stop working with Blake Neff. It's giving Blake Neff wrote it.
 
 Anchored Artifacts: A-2009.1
 Mentions: N-159, N-2, N-3

@@ -354,7 +354,7 @@ Confidence Level: Low
 
 **A-2722** Tim P Clip Bundle
 
-**A-2722.1** Host verbal reference to an X clip of Tim P saying people investigate for clicks (not shown)
+**A-2722.1** Host verbal reference to an X clip of Tim Pool saying people investigate for clicks (not shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:51:51
@@ -1822,7 +1822,7 @@ Investigative Direction: Collect and verify any submitted doorbell or traffic fo
 
 Claim Timestamp: 00:51:51
 
-Claim: The host says she saw a clip on X of Tim P saying that people were investigating for clicks when she started the investigation, and says she has no response.
+Claim: The host says she saw a clip on X of Tim Pool saying that people were investigating for clicks when she started the investigation, and says she has no response.
 
 Transcript Snippet: I did see a clip on X that when we started this investigation of him saying people were doing it for clicks
 

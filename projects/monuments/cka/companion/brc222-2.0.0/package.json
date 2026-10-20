@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-20T17:48:34Z",
+  "generated_at": "2026-10-20T19:32:26Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -45808,21 +45808,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1919",
-      "label": "AllieBeth Stuckey accused Candace Owens of using BLM \"Kafka trap\" tactics",
+      "label": "Allie Beth Stuckey accused Candace Owens of using BLM \"Kafka trap\" tactics",
       "node_kind": "claim",
       "episode": 46
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1920",
-      "label": "AllieBeth Stuckey publicly defended Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth",
+      "label": "Allie Beth Stuckey publicly defended Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth",
       "node_kind": "claim",
       "episode": 46
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1921",
-      "label": "AllieBeth Stuckey indicated her content is \"not for you\" if you question her biblical authority framing",
+      "label": "Allie Beth Stuckey indicated her content is \"not for you\" if you question her biblical authority framing",
       "node_kind": "claim",
       "episode": 46
     },
@@ -49175,7 +49175,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2426",
-      "label": "Host Says Background Document Lists Linda Rothschild as Corcoran Group President with Multiple Aliases",
+      "label": "Host Says Background Document Lists Lynn Forester de Rothschild as Corcoran Group President with Multiple Aliases",
       "node_kind": "claim",
       "episode": 76
     },
@@ -50148,7 +50148,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2565",
-      "label": "Stacey Sheridan Was Not at TPUSA Offices on September 10",
+      "label": "Stacy Sheridan Was Not at TPUSA Offices on September 10",
       "node_kind": "claim",
       "episode": 83
     },
@@ -104657,7 +104657,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1213.1",
-      "label": "Local news segment featuring Olivia Robertson cub Bishop recounting her close-encounter sighting of the alleged limping shooter",
+      "label": "Local news segment featuring Olivia Robertson Cobb Bishop recounting her close-encounter sighting of the alleged limping shooter",
       "node_kind": "artifact",
       "episode": 14
     },
@@ -110390,35 +110390,35 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1536",
-      "label": "AllieBeth Stuckey Social Media Bundle",
+      "label": "Allie Beth Stuckey Social Media Bundle",
       "node_kind": "artifact",
       "episode": 46
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1536.1",
-      "label": "AllieBeth Stuckey Instagram post comparing Candace to 2020 BLM Kafka-trap tactics (read aloud by host)",
+      "label": "Allie Beth Stuckey Instagram post comparing Candace to 2020 BLM Kafka-trap tactics (read aloud by host)",
       "node_kind": "artifact",
       "episode": 46
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1536.2",
-      "label": "AllieBeth Stuckey Instagram comment reply: \"You don't see value in learning how to decipher truth logically and biblically, and that's okay. My content is not for you then.\"",
+      "label": "Allie Beth Stuckey Instagram comment reply: \"You don't see value in learning how to decipher truth logically and biblically, and that's okay. My content is not for you then.\"",
       "node_kind": "artifact",
       "episode": 46
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1537",
-      "label": "AllieBeth Stuckey Show Clip Bundle",
+      "label": "Allie Beth Stuckey Show Clip Bundle",
       "node_kind": "artifact",
       "episode": 46
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1537.1",
-      "label": "AllieBeth Stuckey on-camera defense of Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth against Candace Owens' accusations; reference to Lila Rose's military-connected husband; reference to A",
+      "label": "Allie Beth Stuckey on-camera defense of Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth against Candace Owens' accusations; reference to Lila Rose's military-connected husband; reference to ",
       "node_kind": "artifact",
       "episode": 46
     },
@@ -114373,7 +114373,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1765.1",
-      "label": "Epstein Document Official Name Search Entry for Lynn Forester / Lindy Rothschild Listing Her as Corcoran Group Inc. President with Redacted Work Email",
+      "label": "Epstein Document Official Name Search Entry for Lynn Forester / Lynn Forester de Rothschild Listing Her as Corcoran Group Inc. President with Redacted Work Email",
       "node_kind": "artifact",
       "episode": 72
     },
@@ -114989,7 +114989,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1814.1",
-      "label": "Background document (per host) listing Linda Rothschild's alternate names and her position as president of the Corcoran Group, tied to Epstein's files.",
+      "label": "Background document (per host) listing Lynn Forester de Rothschild's alternate names and her position as president of the Corcoran Group, tied to Epstein's files.",
       "node_kind": "artifact",
       "episode": 76
     },
@@ -131313,7 +131313,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2722.1",
-      "label": "Host verbal reference to an X clip of Tim P saying people investigate for clicks (not shown)",
+      "label": "Host verbal reference to an X clip of Tim Pool saying people investigate for clicks (not shown)",
       "node_kind": "artifact",
       "episode": 34
     },

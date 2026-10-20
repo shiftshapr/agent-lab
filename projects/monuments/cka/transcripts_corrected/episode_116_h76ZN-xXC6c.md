@@ -48,7 +48,7 @@ Uh I think that uh there's a lot to unpack here. We should think while it is sti
 
 [02:16]
 
->> Okay, so I want to say at the top of the show that there there are a lot of people who should be credited for yesterday's episode. It was Corey Comparators a friend who refused to let the circumstances go regarding the Butler assassination. He's actually the one that reached out to me and put together various pieces and leads for me to chase down. His name is Don Porter. So, I do want to shout out Don Porter at top of the show. I thought he wanted me to keep him anonymous and he was perfectly fine with me sharing that information. And I do want to say to you Don Porter, it is absolutely heroic what you have done and what you are doing to keep the story Corey Comparator alive. That's all we can do to honor people that we care about is to not allow fed slop to be served universally.
+>> Okay, so I want to say at the top of the show that there there are a lot of people who should be credited for yesterday's episode. It was Corey Comparators a friend who refused to let the circumstances go regarding the Butler assassination. He's actually the one that reached out to me and put together various pieces and leads for me to chase down. His name is Don Porter. So, I do want to shout out Don Porter at top of the show. I thought he wanted me to keep him anonymous and he was perfectly fine with me sharing that information. And I do want to say to you Don Porter, it is absolutely heroic what you have done and what you are doing to keep the story Corey Comperatore alive. That's all we can do to honor people that we care about is to not allow fed slop to be served universally.
 
 [03:00]
 

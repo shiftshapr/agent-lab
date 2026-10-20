@@ -935,8 +935,8 @@ Reused node cited by new claims in this episode.
 **N-833** Macklemore
 
 Node Type: Person
-First named by the host at 00:44:26 in episode 160 (spelled McLemore in the transcript). Rapper the host says said Free Palestine on stage at the Gillette Stadium Ed Sheeran show.
-Aliases: McLemore
+First named by the host at 00:44:26 in episode 160 (spelled Macklemore in the transcript). Rapper the host says said Free Palestine on stage at the Gillette Stadium Ed Sheeran show.
+Aliases: Macklemore
 
 *Related: C-9252*
 
@@ -1833,7 +1833,7 @@ Claim Timestamp: 00:45:05
 
 Claim: The host says Ed Sheeran knew what he was getting into when he offered Macklemore, a longtime friend, the opening slot, because Macklemore always brings up a cause on stage.
 
-Transcript Snippet: Ed Sheeran knew what he was getting into when he offered for McLemore, who he has been friends with for a long time, to open for him.
+Transcript Snippet: Ed Sheeran knew what he was getting into when he offered for Macklemore, who he has been friends with for a long time, to open for him.
 
 Anchored Artifacts: 
 Mentions: N-833, N-834
@@ -1850,7 +1850,7 @@ Claim Timestamp: 00:45:05
 
 Claim: The host says Robert Kraft, on a technicality, got a case dropped against him, and adds that he is not guilty of anything.
 
-Transcript Snippet: Robert Craft kind of, you know, on a technicality got a case dropped against him.
+Transcript Snippet: Robert Kraft kind of, you know, on a technicality got a case dropped against him.
 
 Anchored Artifacts: 
 Mentions: N-194

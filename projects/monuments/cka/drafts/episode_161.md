@@ -453,7 +453,7 @@ Head of media production at an Enclave subsidiary; Atlantic says company and per
 **N-298** Miriam Adelson
 
 Node Type: Person
-Host "Miriam Medson" ASR jab about purchasing the presidency for $300M; Vegas/Adelson thread.
+Host "Miriam Adelson" ASR jab about purchasing the presidency for $300M; Vegas/Adelson thread.
 
 *Related: C-3696, N-10887*
 
@@ -783,9 +783,9 @@ First named by the host at 00:30:50 in episode 161 (reading the Atlantic article
 
 **N-870** Steve Witkoff
 
-First named by the host at 00:30:50 in episode 161 (transcribed "Steve Witco"). Trump's friend and special envoy, listed in the same Mar-a-Lago election-night account.
+First named by the host at 00:30:50 in episode 161 (transcribed "Steve Witkoff"). Trump's friend and special envoy, listed in the same Mar-a-Lago election-night account.
 
-Aliases: Steve Witco
+Aliases: Steve Witkoff
 
 *Related: C-10611*
 
@@ -1164,7 +1164,7 @@ Claim Timestamp: 00:06:40
 
 Claim: The host says groups who deny paying attackers often pay through a PR firm in the middle, and that in Jennica Pounds' case the Department of War is paying her.
 
-Transcript Snippet: in the case of Genica, the Department of War is paying Genica. Um, in many other circumstances, it's a PR firm that's in the middle.
+Transcript Snippet: in the case of Jennica, the Department of War is paying Jennica. Um, in many other circumstances, it's a PR firm that's in the middle.
 
 Anchored Artifacts: A-2497.1
 Mentions: N-281
@@ -1341,7 +1341,7 @@ Claim Timestamp: 00:17:50
 
 Claim: The host reads that Discord budget records go back only to April but Servius said in a video that the campaign had run for about a year, and the host notes that dates it to September 2025, the month Charlie Kirk was assassinated.
 
-Transcript Snippet: Discord records for Elephant Clipping's budget go back only to April, but the campaign has been going on for about a year now, Cervius said in a video posted that month.
+Transcript Snippet: Discord records for Elephant Clipping's budget go back only to April, but the campaign has been going on for about a year now, Servius said in a video posted that month.
 
 Anchored Artifacts: A-2499.1
 Mentions: N-351, N-354, N-1
@@ -1390,7 +1390,7 @@ Claim Timestamp: 00:25:30
 
 Claim: The host reads that Enclave and Key's CEO and founder is Blake Wynn, a 26-year-old nephew of billionaire donor Steve Wynn.
 
-Transcript Snippet: Enclave Keys CEO and founder is Blake Wynn, the 26-year-old nephew of the billionaire and conservative mega donor Steve Wyn.
+Transcript Snippet: Enclave Keys CEO and founder is Blake Wynn, the 26-year-old nephew of the billionaire and conservative mega donor Steve Wynn.
 
 Anchored Artifacts: A-2500.1
 Mentions: N-352, N-353
@@ -1470,7 +1470,7 @@ Claim Timestamp: 00:30:50
 
 Claim: The host reads that Blake Wynn recounted sitting next to Trump at Mar-a-Lago on election night 2024 alongside Elon Musk, UFC CEO Dana White and Steve Witkoff.
 
-Transcript Snippet: recounted sitting next to Trump at Mar-a-Lago on election night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witco, Trump's friend and special envoy.
+Transcript Snippet: recounted sitting next to Trump at Mar-a-Lago on election night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witkoff, Trump's friend and special envoy.
 
 Anchored Artifacts: A-2500.1
 Mentions: N-352, N-5, N-118, N-869, N-870
@@ -2239,7 +2239,7 @@ Confidence: high
 - Sponsor reads (PreBorn, Wellness Company / spike detox, Cozy Earth, Tax Network USA, American Financing) left as non-claim content.
 - Jeff Fargo, Dana White, Steve Witkoff ("Witco"), Edson (clipping-economy interviewer), Jessica Reed Kraus / House Inhabit, and assorted commenters appear in prose only (not minted as Person nodes).
 - Mark Herman (N-67) is not named; on-air "Chris" mapped to existing N-102 Chris.
-- Miriam Adelson minted at N-298 (ASR "Miriam Medson"); distinct from existing Miriam Deed N-287.
+- Miriam Adelson minted at N-298 (ASR "Miriam Adelson"); distinct from existing Miriam Deed N-287.
 - Title omits "| Ep N"; Candace Ep 398 inferred from sequence after Ep 397.
 - Claim/artifact IDs begin at C-3680 / A-2497 after open PR #56 ranges to avoid claim_fork on merge.
 - Soft ASR spellings normalized in nodes (Servius, Breland, Wynn) with aliases for transcript variants.

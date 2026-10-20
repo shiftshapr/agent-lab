@@ -146,7 +146,7 @@ Confidence Level: Medium
 
 **A-3147.1** Biography text for Dr. Ashley Brown Guajardo read aloud by the host
 
-Quoted text: "previously Dr. Kowhardo was faculty at Brunel University in London and then the University of Utah."
+Quoted text: "previously Dr. Guajardo was faculty at Brunel University in London and then the University of Utah."
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:07:46
@@ -677,7 +677,7 @@ Existing topic node reused for new claims in this episode.
 
 First named by the host at 00:00:50 in episode 135 as Dr. Andrew Guajardo, the deputy chief medical examiner who signed off on Charlie Kirk's autopsy. Transcript spellings: Gohardo, Gerhardt, Guajardo.
 
-Aliases: Andrew Gohardo; Andrew Gerhardt; Dr. Andrew Guajardo
+Aliases: Andrew Guajardo; Andrew Guajardo; Dr. Andrew Guajardo
 
 *Related: C-11638, C-11641, C-11642, C-11648, C-11649, C-11660*
 
@@ -687,7 +687,7 @@ Aliases: Andrew Gohardo; Andrew Gerhardt; Dr. Andrew Guajardo
 
 First named by the host at 00:05:07 in episode 135 as Dr. Ashley Brown Guajardo, a sociologist and game-culture researcher married to Dr. Andrew Guajardo. Transcript also spells her Kowhardo.
 
-Aliases: Dr. Ashley Brown Guajardo; Dr. Ashley; Dr. Kowhardo
+Aliases: Dr. Ashley Brown Guajardo; Dr. Ashley; Dr. Guajardo
 
 *Related: C-11648, C-11649, C-11650, C-11651, C-11652, C-11653, C-11654, C-11655, C-11656, C-11658, C-11660, C-11661*
 
@@ -1260,7 +1260,7 @@ Claim Timestamp: 00:07:46
 
 Claim: The host reads from Dr. Ashley Brown Guajardo's bio that she was previously faculty at Brunel University in London and then the University of Utah, and won awards for innovative and inclusive teaching at both institutions.
 
-Transcript Snippet: previously Dr. Kowhardo was faculty at Brunel University in London and then the University of Utah.
+Transcript Snippet: previously Dr. Guajardo was faculty at Brunel University in London and then the University of Utah.
 
 Anchored Artifacts: A-3147.1
 Mentions: N-896

@@ -1572,7 +1572,7 @@ Investigative Direction: Identify the person in Kolvet's orbit and obtain a stat
 
 Claim Timestamp: 00:29:52
 
-Claim: The host says Marissa Streit, the Prager University CEO, is working on a documentary with a man she names as Shabazz Kestenbaum, who is telling people it will be a takedown of Candace Owens.
+Claim: The host says Marissa Streit, the Prager University CEO, is working on a documentary with a man she names as Shabbos Kestenbaum, who is telling people it will be a takedown of Candace Owens.
 
 Transcript Snippet: And uh he's going around telling everybody it's going to be a takedown of Candace Owens and that's what her new focus is at Prager University
 

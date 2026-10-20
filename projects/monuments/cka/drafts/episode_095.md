@@ -268,7 +268,7 @@ Said by the host to have introduced Epstein into the Iran-Contra affair.
 
 **N-54** Lance Twiggs
 
-Transcript spelling "Lance Twig". His phone is cited as one secured by federal agents; recipient of the "pooch" message.
+Transcript spelling "Lance Twiggs". His phone is cited as one secured by federal agents; recipient of the "pooch" message.
 
 *Related: C-3838, C-3881*
 
@@ -292,7 +292,7 @@ Host of the show on which the Loomer clip was recorded.
 
 **N-159** Blake Neff
 
-Transcript spellings "Blake enough" and "Blakey Neff". Called the host dishonest on X about the Robinson charging document; she presses him on the Aspen video.
+Transcript spellings "Blake enough" and "Blake Neff". Called the host dishonest on X about the Robinson charging document; she presses him on the Aspen video.
 
 *Related: C-3828, C-3858, C-3861, C-3862, A-2541.1*
 
@@ -1484,7 +1484,7 @@ Confidence: high
 
 Video Timestamp: 00:43:49
 Speaker: N-3
-Quote: you can head to candaceowens. com and grab yourself some kit, maybe some kit that we're going to send to Blakey Neff.
+Quote: you can head to candaceowens. com and grab yourself some kit, maybe some kit that we're going to send to Blake Neff.
 Context: Host reprises the bit in the merch plug.
 Tags: roast, merch, running_bit
 Confidence: high

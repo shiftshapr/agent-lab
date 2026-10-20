@@ -945,7 +945,7 @@
       "ref": "N-715",
       "name": "Abdel Fattah el-Sisi",
       "type": "person",
-      "description": "First named by the host as the Egyptian president (transcript spelling Elsis, Elsisi) at 00:17:13 in episode 41.",
+      "description": "First named by the host as the Egyptian president (transcript spelling el-Sisi, Elsisi) at 00:17:13 in episode 41.",
       "related_artifacts": [],
       "related_claims": [
         "C-5166",
@@ -1241,7 +1241,7 @@
       "tags": [],
       "claim_timestamp": "00:03:07",
       "investigative_direction": "Obtain employment, contractor or payment records, or a TPUSA staff announcement, showing whether and when Higby was engaged by TPUSA.",
-      "transcript_snippet": "Well, Cam Higgby is on the payroll of Turning Point USA beginning in August of this year.",
+      "transcript_snippet": "Well, Cam Higby is on the payroll of Turning Point USA beginning in August of this year.",
       "mentions_person_refs": [
         "N-302",
         "N-3"

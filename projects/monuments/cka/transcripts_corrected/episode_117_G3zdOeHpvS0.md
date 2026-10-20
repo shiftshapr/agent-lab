@@ -120,7 +120,7 @@ Now we're going to see Philip Goldsberry sneak from behind Frank Turek there and
 
 [16:48]
 
-Want to focus here on the person you might have in Philip Goldsberry Jr. I was already aware that it was Philip Goldsberry Jr. who had miked Charlie. I figured that out pretty soon whoever nobody was on the team and really very early on because I was running, you know, down so many different pathways. I really just did a tiny bit of digging into who he was and I of course immediately rolled my eyes when I discovered that his father was a pastor, a reverend who also happened to study psychology. You know, I just was like, "Okay, we get it. Everybody is a pastor. We got Frank Turek here. We got Rob McCoy. We got everybody here is like the TPUSA faith. And so Phillips Goldsberry being raised by a pastor, just like I said, made me give an eye roll.
+Want to focus here on the person you might have in Philip Goldsberry Jr. I was already aware that it was Philip Goldsberry Jr. who had miked Charlie. I figured that out pretty soon whoever nobody was on the team and really very early on because I was running, you know, down so many different pathways. I really just did a tiny bit of digging into who he was and I of course immediately rolled my eyes when I discovered that his father was a pastor, a reverend who also happened to study psychology. You know, I just was like, "Okay, we get it. Everybody is a pastor. We got Frank Turek here. We got Rob McCoy. We got everybody here is like the TPUSA faith. And so Philip Goldsberry Jr. being raised by a pastor, just like I said, made me give an eye roll.
 
 [17:32]
 

@@ -533,7 +533,7 @@ Investigative Pressure: Low
 
 **N-460** Nelda Buckman
 
-Co-donor (with Carl Buckman) identified as TPUSA's number-one donor with a $10 million check; New Braunfels resident.
+Co-donor (with Karl Buckman) identified as TPUSA's number-one donor with a $10 million check; New Braunfels resident.
 
 Evidence Count: 0 (host narrative only)
 Claim Count: 0
@@ -544,7 +544,7 @@ Investigative Pressure: Low
 
 **N-461** Karl Buckman
 
-Co-donor (with NDA Buckman) identified as TPUSA's number-one donor; New Braunfels resident.
+Co-donor (with Nelda Buckman) identified as TPUSA's number-one donor; New Braunfels resident.
 
 Evidence Count: 0 (host narrative only)
 Claim Count: 0
@@ -2379,7 +2379,7 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty**: "NDA Buckman" preserved as spoken (first name not provided); "Elizabeth McCoy" mentioned in passing but no artifact backing (omitted from nodes).
+- **Name uncertainty**: "Nelda Buckman" preserved as spoken (first name not provided); "Elizabeth McCoy" mentioned in passing but no artifact backing (omitted from nodes).
 - **Artifact verbally referenced but not shown**: TPUSA's official email response about China (A-1650.2) is paraphrased only; the real-estate profile tying "Everyday Heroes Like You" to the China work is mentioned but not displayed; the unverified emailer's narrative about the Cattleman's Ball money-laundering scheme is host narrative only (Cattleman's Ball website artifact A-1646.1 supports the organization's existence and scope, not the corruption allegations).
 - **Transcript ambiguity**: The exact date of the cease-and-desist letter and Andrew Kolvet interview clip are not specified.
 - **Claim failed admission test**: Host's framing premises that "the feds are doing nothing," "you're all lying," "the TPUSA drone story is a cover-up," and "Elizabeth McCoy is sabotaging Erika Kirk" do not pass the artifact anchor test in this episode and are not inscribed as claims. The unverified emailer's allegations about JFK, Golda Meir, and the Cattleman's Ball money-laundering operation are explicitly noted by the host as unconfirmed and are not inscribed.

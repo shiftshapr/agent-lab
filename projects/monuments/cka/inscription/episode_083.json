@@ -445,9 +445,9 @@
       "@type": "InvestigationTarget",
       "@id": "N-10561",
       "ref": "N-10561",
-      "name": "Stacey Sheridan September 10 Location Verification",
+      "name": "Stacy Sheridan September 10 Location Verification",
       "type": "investigation_target",
-      "description": "Stacey Sheridan allegedly not at the TPUSA Scottsdale office on September 10 and \"allegedly home in Scottsdale.\" Host issues an \"APB\" for sightings.",
+      "description": "Stacy Sheridan allegedly not at the TPUSA Scottsdale office on September 10 and \"allegedly home in Scottsdale.\" Host issues an \"APB\" for sightings.",
       "related_artifacts": [
         "A-1902.1"
       ],
@@ -1746,8 +1746,8 @@
       "@type": "Claim",
       "@id": "C-2565",
       "ref": "C-2565",
-      "label": "Stacey Sheridan Was Not at TPUSA Offices on September 10",
-      "claim": "The host says she can confirm Stacey Sheridan was not at the Turning Point USA office on September 10, 2025, and that she was allegedly at home in Scottsdale.",
+      "label": "Stacy Sheridan Was Not at TPUSA Offices on September 10",
+      "claim": "The host says she can confirm Stacy Sheridan was not at the Turning Point USA office on September 10, 2025, and that she was allegedly at home in Scottsdale.",
       "anchored_artifacts": [
         "A-1902.1"
       ],
@@ -2473,7 +2473,7 @@
       ],
       "claim_timestamp": "00:14:00",
       "investigative_direction": "Confirm through lease or building contacts when Sheridan moved in, without publishing addresses.",
-      "transcript_snippet": "Stacey Sheridan lives with Erika and Charlie the same apartment complex not in the same apartment units",
+      "transcript_snippet": "Stacy Sheridan lives with Erika and Charlie the same apartment complex not in the same apartment units",
       "mentions_person_refs": [
         "N-186",
         "N-2",

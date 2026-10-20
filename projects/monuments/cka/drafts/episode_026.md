@@ -903,7 +903,7 @@ Existing topic reused for the first-aid claims.
 
 First named by the host at 00:09:05 in episode 26. Former New York governor who ran against Zohran Mamdani in the 2025 NYC mayoral race; the host says Republicans earlier called him corrupt.
 
-Aliases: Kuomo
+Aliases: Cuomo
 
 *Related: C-9524, C-9527*
 
@@ -919,9 +919,9 @@ First named by the host at 00:10:00 in episode 26. Billionaire the host says gav
 
 **N-843** Joe Gebbia
 
-First named by the host at 00:10:00 in episode 26 as the Airbnb co-founder "Joseph Gbia", whom she says gave $3.1 million against Mamdani.
+First named by the host at 00:10:00 in episode 26 as the Airbnb co-founder "Joe Gebbia", whom she says gave $3.1 million against Mamdani.
 
-Aliases: Joseph Gbia
+Aliases: Joe Gebbia
 
 *Related: C-9526*
 
@@ -939,9 +939,9 @@ Aliases: Jeffrey Masson; Jeffrey Masson
 
 **N-845** Theodor Herzl
 
-First named by the host at 00:54:27 in episode 26 (transcribed "Theodore Herzel"). Founder of political Zionism whom the host links to Freud.
+First named by the host at 00:54:27 in episode 26 (transcribed "Theodor Herzl"). Founder of political Zionism whom the host links to Freud.
 
-Aliases: Theodore Herzel
+Aliases: Theodor Herzl
 
 *Related: C-9575*
 

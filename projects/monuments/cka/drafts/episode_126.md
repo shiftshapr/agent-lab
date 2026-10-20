@@ -839,7 +839,7 @@ First named by the host at 00:27:44 in episode 126 (spelled Corey Comparetor and
 
 **N-818** Helen Comperatore
 
-First named by the host at 00:28:31 in episode 126 (spelled Helen Compator and Helen Gambadoro in the transcript). Widow of Corey Comperatore, interviewed on NewsNation. Aliases: Helen Compator; Helen Gambadoro.
+First named by the host at 00:28:31 in episode 126 (spelled Helen Comperatore and Helen Comperatore in the transcript). Widow of Corey Comperatore, interviewed on NewsNation. Aliases: Helen Comperatore; Helen Comperatore.
 
 *Related: C-8966, C-8968, C-8969, C-8970, C-8971*
 
@@ -2053,7 +2053,7 @@ Claim Timestamp: 00:46:25
 
 Claim: The host says Erika Kirk's account blamed Andrew Kolvet and the surgeon, with one said to have violated HIPAA and one to have gone rogue on the day of Charlie's funeral, and she asks why Erika will not address it.
 
-Transcript Snippet: why you hung Andrew Colbet out to dry and the surgeon saying one violated HIPAA, one went rogue on the day of Charlie's funeral.
+Transcript Snippet: why you hung Andrew Kolvet out to dry and the surgeon saying one violated HIPAA, one went rogue on the day of Charlie's funeral.
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-14
@@ -2442,7 +2442,7 @@ Confidence: high
 
 Video Timestamp: 00:46:25
 Speaker: N-3
-Quote: Make that make sense of why you hung Andrew Colbet out to dry
+Quote: Make that make sense of why you hung Andrew Kolvet out to dry
 Context: Host demands that Erika Kirk address the surgeon-call account.
 Tags: Erika Kirk, surgeon
 Confidence: high
@@ -2517,7 +2517,7 @@ Confidence: high
 # VI. Optional Flags
 
 - **Name uncertainty – Frank Cherico vs. Frank Turek:** Transcript renders the host as saying "Frank Cherico" repeatedly while the read Christian Post article (A-2142.1) explicitly names "Dr. Frank Turek." Possible auto-caption transcription error for the spoken "Turek," or possible verbal mix by host. Requires verification against audio.
-- **Name uncertainty – Helen Comperatore:** Transcript renders "Helen Compator" (A-2143) and "Helen Gambadoro" (31:50 narration) for the same person. Both are likely auto-caption errors for "Helen Comperatore."
+- **Name uncertainty – Helen Comperatore:** Transcript renders "Helen Comperatore" (A-2143) and "Helen Comperatore" (31:50 narration) for the same person. Both are likely auto-caption errors for "Helen Comperatore."
 - **Name uncertainty – Corey Comperatore:** Transcript renders "Corey Comparetor" and "Corey Comstocker." Both likely auto-caption errors for "Corey Comperatore."
 - **Building name variations – Losee Center / Lozi / Loews / Eloise Center:** Transcript contains multiple variants; the canonical UVU building name is "Losee Center." Preserve transcript spellings where artifact-bound.
 - **Building name variations – Folsom / Fulton / Foltin Library:** Transcript variants; canonical UVU name is "Fulton Library." Preserve transcript spellings.

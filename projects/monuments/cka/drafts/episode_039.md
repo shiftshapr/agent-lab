@@ -1173,7 +1173,7 @@ Investigative Direction: Cross-link M-16 Mommy Sleuth meme when register present
 
 Claim Timestamp: 00:03:44
 Claim: Candace states that the FBI was founded by Charles Joseph Bonaparte, whose great-uncle was Napoleon Bonaparte, as part of her claim that the FBI was founded by the French.
-Transcript Snippet: did you know that our FBI was founded by Charles Joseph Bonapart?
+Transcript Snippet: did you know that our FBI was founded by Charles Joseph Bonaparte?
 Anchored Artifacts: A-2513.1
 Mentions: N-3, N-291
 Related Nodes: N-10014

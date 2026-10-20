@@ -856,7 +856,7 @@ Named by the host in connection with a real estate deal in Gaza.
 
 **N-199** Norman Finkelstein
 
-Interview guest the host cites for his parents' account and his review of the New York Times rape reporting. Transcript spelling: Norm Finkelestein.
+Interview guest the host cites for his parents' account and his review of the New York Times rape reporting. Transcript spelling: Norman Finkelstein.
 
 *Related: C-5614, C-5647*
 
@@ -896,7 +896,7 @@ Daily Wire head the host says sent her the lawsuit on his birthday. Transcript s
 
 **N-449** Michael Aquino
 
-Subject of the host's Temple of Set and Fort Huachuca statements. Transcript spelling: Michael Aino.
+Subject of the host's Temple of Set and Fort Huachuca statements. Transcript spelling: Michael Aquino.
 
 *Related: C-5658, C-5659*
 

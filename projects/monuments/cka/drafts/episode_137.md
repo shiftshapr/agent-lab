@@ -1294,7 +1294,7 @@ Claim Timestamp: 00:15:33
 
 Claim: The host says the consistent public messaging from Dan Bongino, Kash Patel, Erika Kirk and Turning Point USA was that they wanted nothing but transparency, and says her own team did not edit the videos or lie about what was on the footage.
 
-Transcript Snippet: Dan Bonino, Kash Patel, Erika Kirk, Turning Point USA. We didn't edit the videos. We don't lie about what was on the footage.
+Transcript Snippet: Dan Bongino, Kash Patel, Erika Kirk, Turning Point USA. We didn't edit the videos. We don't lie about what was on the footage.
 
 Anchored Artifacts: 
 Mentions: N-378, N-69, N-2, N-3
@@ -1326,7 +1326,7 @@ Claim Timestamp: 00:17:01
 
 Claim: The host says blue-collar readers revolted against the CNN screwdriver story, and that four days later Kash Patel and Dan Bongino clarified that the footage is grainy but the screwdriver was found on the rooftop.
 
-Transcript Snippet: 4 days later we hear from Kash Patel and Dan Bonino and they clarify that you know the footage is grainy uh but the screwdriver was actually found on the rooftop
+Transcript Snippet: 4 days later we hear from Kash Patel and Dan Bongino and they clarify that you know the footage is grainy uh but the screwdriver was actually found on the rooftop
 
 Anchored Artifacts: A-2238.1
 Mentions: N-69, N-378, N-3
@@ -2140,7 +2140,7 @@ Confidence: high
 ## VI. Optional Flags
 
 - **Name uncertainty:** "Allan Robertson" (USU officer) – host clarifies spelling as A-L-A-N, distinct from "Allen" (A-L-L-E-N) and a verbal slip "Allan Robinson" appears at one point (autocorrected on air). Preservation: "Allan Robertson."
-- **Name uncertainty:** "Blake Neff" (Turning Point) – host uses both "Blake Neff" (in displayed X post text) and "Blakey Nef" (rhetorical). Preservation: "Blake Neff" per displayed artifact.
+- **Name uncertainty:** "Blake Neff" (Turning Point) – host uses both "Blake Neff" (in displayed X post text) and "Blake Neff" (rhetorical). Preservation: "Blake Neff" per displayed artifact.
 - **Name uncertainty:** "Frank Turek" (commentator) – host uses both "Frank Turek" and "Frank Turek" interchangeably; standard spelling is "Turek." Preservation: "Frank Turek."
 - **Artifact verbally referenced but not shown:** UVU Sept 9 scoping incident (source described but no document/screenshot shown); Allan Robertson Brady list / San Bernardino emails (described but not displayed); Country music donor paying for Ian's rehab (described but no document shown).
 - **Spelling variant on hotel:** Host refers to "Andrew Kolvet" (rhetorical) vs "Andrew Kolvet" (proper name in screenshot context). Preservation: "Andrew Kolvet."

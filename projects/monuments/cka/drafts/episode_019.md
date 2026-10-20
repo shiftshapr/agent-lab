@@ -709,7 +709,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10561** Stacey Sheridan September 10 Location Verification
+**N-10561** Stacy Sheridan September 10 Location Verification
 
 Existing topic reused for new claims in this episode.
 

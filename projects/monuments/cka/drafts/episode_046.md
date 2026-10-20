@@ -46,7 +46,7 @@
 
 Episode 46 centers on the host's reaction to a coordinated media push featuring Erika Kirk. Three primary evidentiary streams are presented: (1) clips from a CBS town hall hosted by Bari Weiss in which Erika Kirk was prompted to say "Stop" to Candace Owens, with the host asserting the questions were pre-recorded and pre-selected; (2) clips from a Glenn Beck / Blaze TV interview in which Erika Kirk repeated the phrases "the truth is very clear," "none of us are involved in my husband's murder," described skepticism as "mental illness," and pivoted to a "legacy / bigger mission" framing; and (3) Tyler Robinson's first in-person court appearance on December 11, 2025, presented briefly as confirming his physical existence.
 
-The episode also surfaces a social-media dispute between the host and AllieBeth Stuckey, including a Stuckey Instagram post accusing the host of using a "Kafka trap" rhetorical tactic lifted from BLM, and a Stuckey show clip in which she defends Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth against the host's prior accusations of lying. A commentator's quote of the host's 2018 text to Charlie Kirk is also read aloud. The episode's structural importance lies in the consolidation of the "PR campaign" framing through multiple artifact-anchored Erika Kirk quotes, and in introducing a new public defender (Stuckey) whose statements now become part of the comparative record.
+The episode also surfaces a social-media dispute between the host and Allie Beth Stuckey, including a Stuckey Instagram post accusing the host of using a "Kafka trap" rhetorical tactic lifted from BLM, and a Stuckey show clip in which she defends Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth against the host's prior accusations of lying. A commentator's quote of the host's 2018 text to Charlie Kirk is also read aloud. The episode's structural importance lies in the consolidation of the "PR campaign" framing through multiple artifact-anchored Erika Kirk quotes, and in introducing a new public defender (Stuckey) whose statements now become part of the comparative record.
 
 ---
 
@@ -154,9 +154,9 @@ Confidence Level: High
 
 ---
 
-**A-1536** AllieBeth Stuckey Social Media Bundle
+**A-1536** Allie Beth Stuckey Social Media Bundle
 
-**A-1536.1** AllieBeth Stuckey Instagram post comparing Candace to 2020 BLM Kafka-trap tactics (read aloud by host)
+**A-1536.1** Allie Beth Stuckey Instagram post comparing Candace to 2020 BLM Kafka-trap tactics (read aloud by host)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -166,7 +166,7 @@ Confidence Level: High
 
 *Related: C-1919, N-227, N-3*
 
-**A-1536.2** AllieBeth Stuckey Instagram comment reply: "You don't see value in learning how to decipher truth logically and biblically, and that's okay. My content is not for you then."
+**A-1536.2** Allie Beth Stuckey Instagram comment reply: "You don't see value in learning how to decipher truth logically and biblically, and that's okay. My content is not for you then."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -178,9 +178,9 @@ Confidence Level: High
 
 ---
 
-**A-1537** AllieBeth Stuckey Show Clip Bundle
+**A-1537** Allie Beth Stuckey Show Clip Bundle
 
-**A-1537.1** AllieBeth Stuckey on-camera defense of Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth against Candace Owens' accusations; reference to Lila Rose's military-connected husband; reference to Alex Clark's WSJ interview one week after Kirk's death
+**A-1537.1** Allie Beth Stuckey on-camera defense of Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth against Candace Owens' accusations; reference to Lila Rose's military-connected husband; reference to Alex Clark's WSJ interview one week after Kirk's death
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -338,7 +338,7 @@ Investigative Pressure: Medium
 
 **N-99** Alex Clark
 
-Podcaster named by host and defended by AllieBeth Stuckey (A-1537.1) against host's accusation of misrepresenting Charlie Kirk's stance on architecture.
+Podcaster named by host and defended by Allie Beth Stuckey (A-1537.1) against host's accusation of misrepresenting Charlie Kirk's stance on architecture.
 
 Evidence Count: 1
 Claim Count: 1
@@ -351,7 +351,7 @@ Investigative Pressure: Low
 
 **N-228** Lila Rose
 
-Live Action founder; subject of AllieBeth Stuckey defense (A-1537.1) and host's prior accusation regarding military connections.
+Live Action founder; subject of Allie Beth Stuckey defense (A-1537.1) and host's prior accusation regarding military connections.
 
 Evidence Count: 1
 Claim Count: 1
@@ -364,7 +364,7 @@ Investigative Pressure: Low
 
 **N-97** Ben Shapiro
 
-Commentator defended by AllieBeth Stuckey (A-1537.1) and subject of host's prior accusation of lying about lack of issues with Charlie Kirk.
+Commentator defended by Allie Beth Stuckey (A-1537.1) and subject of host's prior accusation of lying about lack of issues with Charlie Kirk.
 
 Evidence Count: 1
 Claim Count: 1
@@ -983,11 +983,11 @@ Investigative Direction: Obtain the official docket entry and any released court
 
 ---
 
-**C-1919** AllieBeth Stuckey accused Candace Owens of using BLM "Kafka trap" tactics
+**C-1919** Allie Beth Stuckey accused Candace Owens of using BLM "Kafka trap" tactics
 
 Claim Timestamp: 00:38:00
 
-Claim: In an Instagram post, AllieBeth Stuckey asserted that "Candace has taken a page out of their [BLM's] book," characterizing the host's insistence that critics are part of a psyop or are paid as a 2020-style Kafka trap.
+Claim: In an Instagram post, Allie Beth Stuckey asserted that "Candace has taken a page out of their [BLM's] book," characterizing the host's insistence that critics are part of a psyop or are paid as a 2020-style Kafka trap.
 
 Anchored Artifacts: A-1536.1
 Mentions: N-3, N-227
@@ -997,11 +997,11 @@ Investigative Direction: Verify the post is still publicly available and capture
 
 ---
 
-**C-1920** AllieBeth Stuckey publicly defended Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth
+**C-1920** Allie Beth Stuckey publicly defended Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth
 
 Claim Timestamp: 00:44:45
 
-Claim: In a show clip the host plays, AllieBeth Stuckey defended Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth against Candace Owens' accusations, stating she knows them personally and that they do not deserve to be "implicated in this way"; the host then mockingly adds that they do not deserve "to be called out when they're lying."
+Claim: In a show clip the host plays, Allie Beth Stuckey defended Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth against Candace Owens' accusations, stating she knows them personally and that they do not deserve to be "implicated in this way"; the host then mockingly adds that they do not deserve "to be called out when they're lying."
 
 Anchored Artifacts: A-1537.1
 Mentions: N-55, N-97, N-99, N-227, N-228, N-3
@@ -1011,11 +1011,11 @@ Investigative Direction: Catalog each prior host accusation against these five i
 
 ---
 
-**C-1921** AllieBeth Stuckey indicated her content is "not for you" if you question her biblical authority framing
+**C-1921** Allie Beth Stuckey indicated her content is "not for you" if you question her biblical authority framing
 
 Claim Timestamp: 00:40:13
 
-Claim: In an Instagram comment reply, AllieBeth Stuckey wrote: "You don't see value in learning how to decipher truth logically and biblically, and that's okay. My content is not for you then."
+Claim: In an Instagram comment reply, Allie Beth Stuckey wrote: "You don't see value in learning how to decipher truth logically and biblically, and that's okay. My content is not for you then."
 
 Anchored Artifacts: A-1536.2
 Mentions: N-3, N-227
@@ -1601,7 +1601,7 @@ Claim Timestamp: 00:18:20
 
 Claim: The host says she has never seen, though maybe she missed it, a commentator explicitly accuse Erika Kirk of killing Charlie, and that she has only seen people looking into Erika's background, her Romanian charity and her mother.
 
-Transcript Snippet: I've seen a lot, somebody come out and say Ericka Kirk murdered Charlie.
+Transcript Snippet: I've seen a lot, somebody come out and say Erika Kirk murdered Charlie.
 
 Anchored Artifacts: A-1534.1
 Mentions: N-3, N-2
@@ -2279,7 +2279,7 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Transcript ambiguity (Seth):** A-1537.1 references an individual identified only as "Seth" by AllieBeth Stuckey. No full name or role provided. Requires human verification.
+- **Transcript ambiguity (Seth):** A-1537.1 references an individual identified only as "Seth" by Allie Beth Stuckey. No full name or role provided. Requires human verification.
 - **Transcript ambiguity (Michael Knowles):** Transcript at [35:58] reads "Michael knows, nicest people ever," which is likely a transcription error for "Michael Knowles." Preserved as likely transcription artifact.
 - **Name uncertainty (DC Jewish Museum shooting victim):** The host at [15:32] references the father of a young woman shot at a DC Jewish Museum and speculates the victim was an IDF soldier but states "I might be wrong about that." Flag as unverified.
 - **Referenced but not shown (Saturday CBS interview):** The host references a Saturday Erika Kirk / Bari Weiss CBS interview scheduled to air after this episode's recording. The content is anticipated rather than artifact-present.

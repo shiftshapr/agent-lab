@@ -242,7 +242,7 @@ If you can just pause and just take a minute and ask yourself, how would you fee
 
 [46:37]
 
-Okay? They're doing the thing where they pretend that it's it's an exist a joke is existential. A clear and obvious joke is as existential and now uh the source of shootings. That's that it this happened because Jimmy Kimmel made a joke. She may not like the joke. I don't love everything that's said about me. Uh oh well. Oh well. But the big news, of course, uh is that as she got toward the end of this pre-written monologue not written by her, is that she name-dropped Druski and she name-dropped me and that was supposed to be, I think, as they planned it and this is why she's got to stop working with Blake Neff. It's giving Blakey Neff wrote it. I know he's her writer for things. This was supposed to be a moment of bravery or something and it's going to backfire. Take a listen.
+Okay? They're doing the thing where they pretend that it's it's an exist a joke is existential. A clear and obvious joke is as existential and now uh the source of shootings. That's that it this happened because Jimmy Kimmel made a joke. She may not like the joke. I don't love everything that's said about me. Uh oh well. Oh well. But the big news, of course, uh is that as she got toward the end of this pre-written monologue not written by her, is that she name-dropped Druski and she name-dropped me and that was supposed to be, I think, as they planned it and this is why she's got to stop working with Blake Neff. It's giving Blake Neff wrote it. I know he's her writer for things. This was supposed to be a moment of bravery or something and it's going to backfire. Take a listen.
 
 [47:25]
 

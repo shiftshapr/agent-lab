@@ -1972,7 +1972,7 @@ Confidence: high
 
 - **Author unidentified**: The "top comment" read at 54:34 ("Charlie's neck was made of steel...") is not attributed to a specific commenter handle.
 
-- **Name preservation**: "Erica" vs. "Erika" usage alternates throughout (including host's own introduction "Erikica Kirk"); protocol preserves both as appearing in source.
+- **Name preservation**: "Erica" vs. "Erika" usage alternates throughout (including host's own introduction "Erika Kirk"); protocol preserves both as appearing in source.
 
 - **Possible transcription error**: "Huachuca" appears multiple times in the transcript where context indicates "Huachuca" (Fort Huachuca); preserved as transcribed.
 

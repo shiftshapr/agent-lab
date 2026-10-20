@@ -312,7 +312,7 @@ First named by the host at 00:12:14 in episode 110. Aliases: Bradley Hansell, Br
 
 **N-434** Christoph Schweizer
 
-First named by the host at 00:18:28 in episode 110. Aliases: Christoph Schweizer, Kristoff Schweiser.
+First named by the host at 00:18:28 in episode 110. Aliases: Christoph Schweizer, Christoph Schweizer.
 
 *Related: C-2919, C-2920, C-2921, C-2922, C-2923, C-2932, C-2934*
 
@@ -405,7 +405,7 @@ Investigative Pressure: Medium
 
 **N-10674** June 18 White House Meeting on Iran Involvement
 
-Persistent investigation target: per host (confirmed by Brett Weinstein), Charlie Kirk entered White House to argue against US involvement in Israel's Iran war against Zionist lobbyists; emerged as temporary winner; Trump moved to limit involvement.
+Persistent investigation target: per host (confirmed by Bret Weinstein), Charlie Kirk entered White House to argue against US involvement in Israel's Iran war against Zionist lobbyists; emerged as temporary winner; Trump moved to limit involvement.
 
 Evidence Count: 1
 Claim Count: 0
@@ -1769,7 +1769,7 @@ Claim Timestamp: 00:28:10
 
 Claim: The host says that on June 18, 2025 Charlie Kirk went to the White House and argued against the US getting involved in Israel's war with Iran, debating pro-Israel lobbyists acting on Netanyahu's behalf, with the dates confirmed thanks to Bret Weinstein.
 
-Transcript Snippet: June 18th. That is when Charlie goes into the White House. We have confirmed those dates thanks to Brett Weinstein. Goes into the White House and he is arguing for us not to get involved in Israel's war with Iran.
+Transcript Snippet: June 18th. That is when Charlie goes into the White House. We have confirmed those dates thanks to Bret Weinstein. Goes into the White House and he is arguing for us not to get involved in Israel's war with Iran.
 
 Anchored Artifacts: A-2076.2
 Mentions: N-1, N-591, N-36

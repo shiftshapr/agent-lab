@@ -583,7 +583,7 @@ Author referenced by host as having traced Ashkenazi origins to the Khazars and 
 *Related: A-2515.1, C-3720*
 
 Confidence: low
-Uncertainty: Transcript 'Abraham Pollock'; canonical name uncertain (possibly Arthur Koestler 'The Thirteenth Tribe' or similar).
+Uncertainty: Transcript 'Abraham Poliak'; canonical name uncertain (possibly Arthur Koestler 'The Thirteenth Tribe' or similar).
 
 
 
@@ -1207,7 +1207,7 @@ Investigative Direction: Preserve as brand / network framing claim; cross-link M
 **C-3720** Host recommends David Bakan, Shlomo Sand and Abraham Poliak to viewers
 
 Claim Timestamp: 01:02:29
-Claim: The host recommends reading David Bakan's book on Sigmund Freud and the Jewish mystical tradition, Shlomo Sand's The Invention of the Jewish People, and Abraham Poliak (transcript: "Abraham Pollock"), whom she says won awards for tracing Ashkenazi Jews to the Khazars.
+Claim: The host recommends reading David Bakan's book on Sigmund Freud and the Jewish mystical tradition, Shlomo Sand's The Invention of the Jewish People, and Abraham Poliak (transcript: "Abraham Poliak"), whom she says won awards for tracing Ashkenazi Jews to the Khazars.
 Transcript Snippet: I would recommend you read David Bakan,
 Anchored Artifacts: A-2515.1
 Mentions: N-50, N-51, N-52, N-53

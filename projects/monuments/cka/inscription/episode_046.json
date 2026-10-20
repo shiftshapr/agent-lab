@@ -218,13 +218,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1536",
       "family_ref": "A-1536",
-      "bundle_name": "AllieBeth Stuckey Social Media Bundle",
+      "bundle_name": "Allie Beth Stuckey Social Media Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1536.1",
           "ref": "A-1536.1",
-          "description": "AllieBeth Stuckey Instagram post comparing Candace to 2020 BLM Kafka-trap tactics (read aloud by host)",
+          "description": "Allie Beth Stuckey Instagram post comparing Candace to 2020 BLM Kafka-trap tactics (read aloud by host)",
           "related_claims": [
             "C-1919"
           ],
@@ -243,7 +243,7 @@
           "@type": "Artifact",
           "@id": "A-1536.2",
           "ref": "A-1536.2",
-          "description": "AllieBeth Stuckey Instagram comment reply: \"You don't see value in learning how to decipher truth logically and biblically, and that's okay. My content is not for you then.\"",
+          "description": "Allie Beth Stuckey Instagram comment reply: \"You don't see value in learning how to decipher truth logically and biblically, and that's okay. My content is not for you then.\"",
           "related_claims": [
             "C-1921"
           ],
@@ -264,13 +264,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1537",
       "family_ref": "A-1537",
-      "bundle_name": "AllieBeth Stuckey Show Clip Bundle",
+      "bundle_name": "Allie Beth Stuckey Show Clip Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1537.1",
           "ref": "A-1537.1",
-          "description": "AllieBeth Stuckey on-camera defense of Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth against Candace Owens' accusations; reference to Lila Rose's military-connected husband; reference to Alex Clark's WSJ interview one week after Kirk's death",
+          "description": "Allie Beth Stuckey on-camera defense of Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth against Candace Owens' accusations; reference to Lila Rose's military-connected husband; reference to Alex Clark's WSJ interview one week after Kirk's death",
           "related_claims": [
             "C-1920"
           ],
@@ -569,7 +569,7 @@
       "ref": "N-99",
       "name": "Alex Clark",
       "type": "person",
-      "description": "Podcaster named by host and defended by AllieBeth Stuckey (A-1537.1) against host's accusation of misrepresenting Charlie Kirk's stance on architecture.",
+      "description": "Podcaster named by host and defended by Allie Beth Stuckey (A-1537.1) against host's accusation of misrepresenting Charlie Kirk's stance on architecture.",
       "related_artifacts": [
         "A-1537.1"
       ],
@@ -591,7 +591,7 @@
       "ref": "N-228",
       "name": "Lila Rose",
       "type": "person",
-      "description": "Live Action founder; subject of AllieBeth Stuckey defense (A-1537.1) and host's prior accusation regarding military connections.",
+      "description": "Live Action founder; subject of Allie Beth Stuckey defense (A-1537.1) and host's prior accusation regarding military connections.",
       "related_artifacts": [
         "A-1537.1"
       ],
@@ -613,7 +613,7 @@
       "ref": "N-97",
       "name": "Ben Shapiro",
       "type": "person",
-      "description": "Commentator defended by AllieBeth Stuckey (A-1537.1) and subject of host's prior accusation of lying about lack of issues with Charlie Kirk.",
+      "description": "Commentator defended by Allie Beth Stuckey (A-1537.1) and subject of host's prior accusation of lying about lack of issues with Charlie Kirk.",
       "related_artifacts": [
         "A-1537.1"
       ],
@@ -1966,8 +1966,8 @@
       "@type": "Claim",
       "@id": "C-1919",
       "ref": "C-1919",
-      "label": "AllieBeth Stuckey accused Candace Owens of using BLM \"Kafka trap\" tactics",
-      "claim": "In an Instagram post, AllieBeth Stuckey asserted that \"Candace has taken a page out of their [BLM's] book,\" characterizing the host's insistence that critics are part of a psyop or are paid as a 2020-style Kafka trap.",
+      "label": "Allie Beth Stuckey accused Candace Owens of using BLM \"Kafka trap\" tactics",
+      "claim": "In an Instagram post, Allie Beth Stuckey asserted that \"Candace has taken a page out of their [BLM's] book,\" characterizing the host's insistence that critics are part of a psyop or are paid as a 2020-style Kafka trap.",
       "anchored_artifacts": [
         "A-1536.1"
       ],
@@ -1984,8 +1984,8 @@
       "@type": "Claim",
       "@id": "C-1920",
       "ref": "C-1920",
-      "label": "AllieBeth Stuckey publicly defended Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth",
-      "claim": "In a show clip the host plays, AllieBeth Stuckey defended Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth against Candace Owens' accusations, stating she knows them personally and that they do not deserve to be \"implicated in this way\"; the host then mockingly adds that they do not deserve \"to be called out when they're lying.\"",
+      "label": "Allie Beth Stuckey publicly defended Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth",
+      "claim": "In a show clip the host plays, Allie Beth Stuckey defended Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth against Candace Owens' accusations, stating she knows them personally and that they do not deserve to be \"implicated in this way\"; the host then mockingly adds that they do not deserve \"to be called out when they're lying.\"",
       "anchored_artifacts": [
         "A-1537.1"
       ],
@@ -2006,8 +2006,8 @@
       "@type": "Claim",
       "@id": "C-1921",
       "ref": "C-1921",
-      "label": "AllieBeth Stuckey indicated her content is \"not for you\" if you question her biblical authority framing",
-      "claim": "In an Instagram comment reply, AllieBeth Stuckey wrote: \"You don't see value in learning how to decipher truth logically and biblically, and that's okay. My content is not for you then.\"",
+      "label": "Allie Beth Stuckey indicated her content is \"not for you\" if you question her biblical authority framing",
+      "claim": "In an Instagram comment reply, Allie Beth Stuckey wrote: \"You don't see value in learning how to decipher truth logically and biblically, and that's okay. My content is not for you then.\"",
       "anchored_artifacts": [
         "A-1536.2"
       ],
@@ -2890,7 +2890,7 @@
       ],
       "claim_timestamp": "00:18:20",
       "investigative_direction": "Survey high-profile commentators for any explicit accusation to test the host's statement; compare with later statements by TPUSA allies.",
-      "transcript_snippet": "I've seen a lot, somebody come out and say Ericka Kirk murdered Charlie.",
+      "transcript_snippet": "I've seen a lot, somebody come out and say Erika Kirk murdered Charlie.",
       "mentions_person_refs": [
         "N-3",
         "N-2"

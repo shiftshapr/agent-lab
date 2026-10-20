@@ -381,7 +381,7 @@ Confidence Level: Medium
 
 **N-378** Dan Bongino
 
-First named by the host at 00:38:08 in episode 15. Aliases: Dan Bonino.
+First named by the host at 00:38:08 in episode 15. Aliases: Dan Bongino.
 
 *Related: C-1373, A-1222.1*
 

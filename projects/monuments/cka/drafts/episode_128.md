@@ -2760,7 +2760,7 @@ Claim Timestamp: 00:51:15
 
 Claim: The host says Tucker Carlson, Bret Weinstein and Joe Kent have all confirmed that Charlie Kirk was fighting hard behind the scenes to stop the Iran war.
 
-Transcript Snippet: Tucker, Brett Weinstein, Joe Kent have all confirmed that he was fighting hard behind the scenes to stop it.
+Transcript Snippet: Tucker, Bret Weinstein, Joe Kent have all confirmed that he was fighting hard behind the scenes to stop it.
 
 Anchored Artifacts: 
 Mentions: N-22, N-591, N-209, N-1, N-3

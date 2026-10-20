@@ -56,7 +56,7 @@ So, we have a storyline which involves trans furry gamers to be specific. Now, o
 
 [05:07]
 
-The Discord element just feels a little fetty, right? Just a little federal trappy, I might say. So, who is this Dr. Andrew Gohardo? Right? Anything that might be of interest in his background? That was kind of how Ashley began. She's like, "Oh, I wonder about the medical examiner." I wonder who he is. I said, "Yeah, we should get to that." And it turns out there's something very interesting to know about him. And it's who he's married to. His wife is someone who might be of interest, who might be an expert in this category. Honestly, they might bring her in as an expert, because Dr. Andrew Gohardo is married to a furry. I kid you not. Or at least the very least we can assert is that he's married to someone who encourages, supports, works with, and propagates the culture of furries, and occasionally dresses up as one herself. He's married to a woman named Dr. Ashley Brown Guajardo. And here she is. Meet Ashley.
+The Discord element just feels a little fetty, right? Just a little federal trappy, I might say. So, who is this Dr. Andrew Guajardo? Right? Anything that might be of interest in his background? That was kind of how Ashley began. She's like, "Oh, I wonder about the medical examiner." I wonder who he is. I said, "Yeah, we should get to that." And it turns out there's something very interesting to know about him. And it's who he's married to. His wife is someone who might be of interest, who might be an expert in this category. Honestly, they might bring her in as an expert, because Dr. Andrew Guajardo is married to a furry. I kid you not. Or at least the very least we can assert is that he's married to someone who encourages, supports, works with, and propagates the culture of furries, and occasionally dresses up as one herself. He's married to a woman named Dr. Ashley Brown Guajardo. And here she is. Meet Ashley.
 
 [06:16]
 
@@ -68,7 +68,7 @@ How do cosplayers, modders, fan artists, fan fiction authors, and TikTok content
 
 [07:46]
 
-Now, you're probably wondering how Ashley became a doctor. How did she become a doctor? Well, sociology, right? Uh sociology is uh how she climbed the teaching ladder after achieving her degree and guess where she achieved it? At Arizona State University, uh she then earned her PhD in sociology overseas at the University of Manchester and then she became a teacher. She's access to preschool kids. Um what we learn from her bio is that uh {quote} previously Dr. Kowhardo was faculty at Brunel University in London and then the University of Utah. Been there for um almost 10 years, last 10 years. She won awards for innovative and inclusive teaching at both institutions. Since 2017, she's hosted a weekly educational Twitch stream on games user research models. Uh methods, pardon.
+Now, you're probably wondering how Ashley became a doctor. How did she become a doctor? Well, sociology, right? Uh sociology is uh how she climbed the teaching ladder after achieving her degree and guess where she achieved it? At Arizona State University, uh she then earned her PhD in sociology overseas at the University of Manchester and then she became a teacher. She's access to preschool kids. Um what we learn from her bio is that uh {quote} previously Dr. Guajardo was faculty at Brunel University in London and then the University of Utah. Been there for um almost 10 years, last 10 years. She won awards for innovative and inclusive teaching at both institutions. Since 2017, she's hosted a weekly educational Twitch stream on games user research models. Uh methods, pardon.
 
 [08:43]
 
@@ -96,7 +96,7 @@ So again, I'll ask the question, how big can this particular gaming furry create
 
 [14:48]
 
-Andrew Gerhardt, I guess. I don't know he what he's married to. He's got to be remotely into this. Too many coincidences.
+Andrew Guajardo, I guess. I don't know he what he's married to. He's got to be remotely into this. Too many coincidences.
 
 ## What happened at the hospital.
 

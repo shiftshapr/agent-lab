@@ -726,7 +726,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10523** Linda Rothschild Corcoran Group Presidency Verification
+**N-10523** Lynn Forester de Rothschild Corcoran Group Presidency Verification
 
 Existing node reused for new claims in this episode.
 

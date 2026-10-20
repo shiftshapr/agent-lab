@@ -40,7 +40,7 @@ Existing Nodes Reused: N-1 (Charlie Kirk), N-3 (Candace Owens), N-6 (Elizabeth L
 
 Episode 14 advances several investigative threads anchored primarily to (a) publicly posted source material read aloud by the host and (b) news and podcast clips played in-episode. The dominant evidentiary thread concerns the announced split between the FBI and the Anti-Defamation League, introduced through a posted statement from FBI Director Kash Patel (A-1209.1) and a corresponding ADL response statement (A-1210.1). The host correlates this announcement with a previously published X thread by investigator Kyle Undercover documenting that the ADL shares Connecticut office space with the FBI (A-1211.1), and links it to a tip that the FBI's Connecticut field office – rather than a geographically closer bureau – was dispatched to UVU post-assassination (A-1218.1, verbally referenced only).
 
-The episode continues the "witness tree" line of inquiry with two artifact-backed contributions: a news interview in which Orem resident Olivia Robertson cub Bishop describes seeing the alleged shooter limping (A-1213.1), and a witness clip from a member of the Lyman family discussing a possible female accomplice (A-1214.1). A USA Today/AP compilation clip of multiple witnesses is also played (A-1215.1).
+The episode continues the "witness tree" line of inquiry with two artifact-backed contributions: a news interview in which Orem resident Olivia Robertson Cobb Bishop describes seeing the alleged shooter limping (A-1213.1), and a witness clip from a member of the Lyman family discussing a possible female accomplice (A-1214.1). A USA Today/AP compilation clip of multiple witnesses is also played (A-1215.1).
 
 The Tyler Robinson defense-selection thread is advanced through an audio clip of journalist Elizabeth Lane on the Redacted podcast (A-1212.1), in which Lane describes her pro bono outreach efforts and the unusual involvement of Utah state prosecutor Skordas in identifying defense counsel. The episode concludes with two display artifacts – a public denial of suicidal intent from Marjorie Taylor Greene (A-1216.1) and a clip of podcaster Theo Von making a similar statement (A-1217.1) – used by the host as a connective thread across multiple public figures.
 
@@ -181,9 +181,9 @@ Captured content includes Lane's description of approaching Utah firms for pro b
 
 ---
 
-### A-1213 Olivia Robertson cub Bishop News Interview
+### A-1213 Olivia Robertson Cobb Bishop News Interview
 
-**A-1213.1** Local news segment featuring Olivia Robertson cub Bishop recounting her close-encounter sighting of the alleged limping shooter
+**A-1213.1** Local news segment featuring Olivia Robertson Cobb Bishop recounting her close-encounter sighting of the alleged limping shooter
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -2445,7 +2445,7 @@ Confidence: high
 ## VI. Optional Flags
 
 - **Artifact verbally referenced but not shown (A-1218.1):** The Connecticut FBI deployment claim relies on host-described tip content; the proof the host references was not displayed on screen. Independent corroboration required before treating as evidentiary.
-- **Name uncertainty:** "Skordas" / "Skordas" / "Skordas" appears inconsistently in transcript for the Utah state prosecutor (canonical spelling unknown). "Olivia Robertson cub Bishop" preserved as read; possible transcription error (e.g., "cub" likely a YouTube auto-caption artifact for an unstated middle component – possibly "Robertson Cobb Bishop" or similar).
+- **Name uncertainty:** "Skordas" / "Skordas" / "Skordas" appears inconsistently in transcript for the Utah state prosecutor (canonical spelling unknown). "Olivia Robertson Cobb Bishop" preserved as read; possible transcription error (e.g., "cub" likely a YouTube auto-caption artifact for an unstated middle component – possibly "Robertson Cobb Bishop" or similar).
 - **Name uncertainty:** "Skordas" / "Skordas" / "Skordas" – same entity.
 - **Name uncertainty:** "Brderick Lyman" – preserved as transcribed; canonical spelling of witness name uncertain.
 - **Name uncertainty:** "Emma(nuel)" witness and "Gernot Ohner" witness referenced in passing; no artifact anchor established.

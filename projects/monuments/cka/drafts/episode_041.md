@@ -510,8 +510,8 @@ Existing topic reused for the debate-terms claims.
 
 **N-715** Abdel Fattah el-Sisi
 
-First named by the host as the Egyptian president (transcript spelling Elsis, Elsisi) at 00:17:13 in episode 41.
-Aliases: Elsisi; Elsis; LCC (transcript read of a post)
+First named by the host as the Egyptian president (transcript spelling el-Sisi, Elsisi) at 00:17:13 in episode 41.
+Aliases: Elsisi; el-Sisi; LCC (transcript read of a post)
 
 *Related: C-5166, C-5167*
 
@@ -720,7 +720,7 @@ Claim Timestamp: 00:03:07
 
 Claim: The host says Cam Higby has been on the payroll of Turning Point USA beginning in August of 2025 and asks who directed him to ask the Pentagon question.
 
-Transcript Snippet: Well, Cam Higgby is on the payroll of Turning Point USA beginning in August of this year.
+Transcript Snippet: Well, Cam Higby is on the payroll of Turning Point USA beginning in August of this year.
 
 Anchored Artifacts: 
 Mentions: N-302, N-3

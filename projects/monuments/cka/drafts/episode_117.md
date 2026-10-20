@@ -526,7 +526,7 @@ First named by the host at 00:06:08 in episode 117. Interviewer of paver Dan Mer
 
 **N-686** Philip Goldsberry Jr.
 
-First named by the host at 00:14:08 in episode 117. Member of Terryl Farnsworth's AV team whom the host identifies as the person who mic'd Charlie Kirk on September 10. Aliases: Philip Goldsberry; Phillips Goldsberry.
+First named by the host at 00:14:08 in episode 117. Member of Terryl Farnsworth's AV team whom the host identifies as the person who mic'd Charlie Kirk on September 10. Aliases: Philip Goldsberry; Philip Goldsberry Jr..
 
 *Related: C-4674, C-4675, C-4676, C-4677, C-4683, A-2683.1, A-2684.1*
 

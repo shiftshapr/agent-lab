@@ -600,7 +600,7 @@ Charlie's chief of staff whose statement was taken by an ICAC officer.
 
 **N-194** Robert Kraft
 
-Patriots owner the host accuses of lobbying (transcribed Robert Craft).
+Patriots owner the host accuses of lobbying (transcribed Robert Kraft).
 
 *Related: C-10569*
 
@@ -752,7 +752,7 @@ Named by the host as running trafficking-related work in Poland.
 
 **N-449** Michael Aquino
 
-Temple of Set founder named by the host (transcribed Michael Aino).
+Temple of Set founder named by the host (transcribed Michael Aquino).
 
 *Related: C-10510, C-10511*
 
@@ -872,7 +872,7 @@ TPUSA adviser and retired army general named by the host (transcribed Paul Valle
 
 **N-833** Macklemore
 
-Rapper dropped from the tour (transcribed McLemore).
+Rapper dropped from the tour (transcribed Macklemore).
 
 *Related: C-10569, C-10570, C-10571, C-10572, C-10573*
 
@@ -1473,7 +1473,7 @@ Claim Timestamp: 00:06:14
 
 Claim: The host says TPUSA adviser Paul Vallely (transcribed Valle) is a retired army general who ran psychological operations and co-wrote a book with Michael Aquino (transcribed Aino), a former Satanist who founded the Temple of Set.
 
-Transcript Snippet: TPUSA adviser Paul Valle is the retired army general who ran psychological operations and co-wrote a book with Michael Aino who was a Satanist and a founder of the Temple of Set
+Transcript Snippet: TPUSA adviser Paul Valle is the retired army general who ran psychological operations and co-wrote a book with Michael Aquino who was a Satanist and a founder of the Temple of Set
 
 Anchored Artifacts: A-2382.1
 Mentions: N-800, N-449
@@ -2647,7 +2647,7 @@ Claim Timestamp: 00:59:30
 
 Claim: The host says the interview with John Mappin and Brandon Tatum (a commenter said it was with Piers Morgan) was trending over the weekend.
 
-Transcript Snippet: that was trending over the weekend, that interview with John Mappen and Brandon Tatum.
+Transcript Snippet: that was trending over the weekend, that interview with John Mappin and Brandon Tatum.
 
 Anchored Artifacts: A-3086.4
 Mentions: N-154, N-58, N-204
@@ -2662,7 +2662,7 @@ Claim Timestamp: 00:59:33
 
 Claim: The host says John Mappin was with her when she spoke to Brandon Tatum while she was in Iceland, fishing with Mappin and her husband, and that the call lasted about an hour and a half.
 
-Transcript Snippet: John Mappen was with me when I uh spoke to Brandon Tatum when I was in Iceland just because of the time difference. So I was literally fishing in Iceland with John Mappen and my husband.
+Transcript Snippet: John Mappin was with me when I uh spoke to Brandon Tatum when I was in Iceland just because of the time difference. So I was literally fishing in Iceland with John Mappin and my husband.
 
 Anchored Artifacts: 
 Mentions: N-154, N-58, N-3, N-30
@@ -2827,7 +2827,7 @@ Confidence: high
 ## VI. Optional Flags Summary
 
 - **Name uncertainty** (judge name): transcript spells "Graph" / "Judge Graf" – likely "Tony Graf" pending verification.
-- **Name uncertainty**: "Colonel Otto Busher" / "Bobusher"; "Michael Aino"; "David Frausham"; "Phil Goldsberry" – spellings preserved as transcript.
+- **Name uncertainty**: "Colonel Otto Busher" / "Bobusher"; "Michael Aquino"; "David Frausham"; "Phil Goldsberry" – spellings preserved as transcript.
 - **Artifact verbally referenced but not shown**: New York Post George Zinn article (C-3449); HSI whistleblower case materials (C-3455); 151-page Leavitt victim statement (C-3456); Bagley body cam records (C-3462); George Zinn sentencing (C-3463).
 - **Claim failed admission test (Artifact Anchor)**: C-3447 (Mitchell background), C-3448 (Bagley background), C-3453 (ICAC/AG administrative control), C-3454 (DOJ 1998 ICAC founding), C-3461 (Mitchell's role in surrender). These are captured as host assertions only.
 - **Transcript ambiguity**: Spelling inconsistencies across names of trafficking-era and roster-connected figures preserved exactly.

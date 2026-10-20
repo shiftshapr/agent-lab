@@ -977,7 +977,7 @@ Claim Timestamp: 00:03:32
 
 Claim: The host says Andrew Kolvet later explained that Farnsworth acted heroically because students were going to steal items from the table, and she says this is false because Farnsworth left the expensive camera and took only the roughly $15 SD card.
 
-Transcript Snippet: Yeah, we we know Andrew Kolvats lying because Tarro did not take the expensive camera.
+Transcript Snippet: Yeah, we we know Andrew Kolvet lying because Tarro did not take the expensive camera.
 
 Anchored Artifacts: 
 Mentions: N-14, N-261
@@ -2009,5 +2009,5 @@ Confidence: high
 - **Testimonial recount, no artifact displayed**: Host's recounting of FBI calls to Justin Streiff and Frank Carni regarding the back-footage FaceTime recording is not artifact-anchored in this episode.
 - **Testimonial recount, no artifact displayed**: Host's recounting of the September 19, 2025 FaceTime with Terryl Farnsworth is not artifact-anchored in this episode.
 - **Transcript ambiguity**: The Atlanta news clip's air date and originating station are not specified; "Chris Nakamoto" is identified by name only.
-- **Name preservation**: "Terryl Farnsworth" appears consistently across the transcript; "Andrew Kolvats" and "Andrew Kolvet" both appear; "Dr. Lee Trotter" appears consistently; preserved as written.
+- **Name preservation**: "Terryl Farnsworth" appears consistently across the transcript; "Andrew Kolvet" and "Andrew Kolvet" both appear; "Dr. Lee Trotter" appears consistently; preserved as written.
 - **Requires human verification**: Numerical specifics inside the defense filing (file counts, page counts, hours, dates) should be cross-verified against the filed PDF and any court docket entries before being treated as authoritative.

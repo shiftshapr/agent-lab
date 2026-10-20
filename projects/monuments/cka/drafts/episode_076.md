@@ -47,7 +47,7 @@
 
 This episode advances two parallel investigative tracks: (1) alleged intersections between Erika Kirk's biography and Jeffrey Epstein's documented network (pageant world, Romania/ASU, Next Model Management, Corcoran Group, the Rothschilds), and (2) tightening of the September 8, 2025 timeline to argue that Erika was not present in the Kirk home on the day of Charlie Kirk's assassination. The host frames these as cumulative "coincidences" surrounding a subject she accuses of "dancing around" Epstein.
 
-Evidentiary material presented in-episode includes a quoted 2012 Epstein–Märtha Louise of Norway email about designing humans in labs, a host-authored January 29, 2026 tweet about Andrew Kolvet and Mikey McCoy's West Wing presence, a Father Ripperger clip discussing occult family pedigrees, references to specific Epstein emails (Faith Kates correspondence; Corcoran Group references; Linda Rothschild background), the host's unanswered email to Erika Kirk and TPUSA spokesperson Andrew Kolvet, a Jezebel article timestamped at 9:49 AM Arizona time on September 8, Erika Kirk's Ephesians 4:5 tweet timestamped at 10:49 AM Arizona time that same day, multiple Charlie Kirk Show segments from September 8 (including a Bears game discussion), a Frank Turek interview describing a Monday night walk, and a Blake Neff clip from the Charlie Kirk podcast.
+Evidentiary material presented in-episode includes a quoted 2012 Epstein–Märtha Louise of Norway email about designing humans in labs, a host-authored January 29, 2026 tweet about Andrew Kolvet and Mikey McCoy's West Wing presence, a Father Ripperger clip discussing occult family pedigrees, references to specific Epstein emails (Faith Kates correspondence; Corcoran Group references; Lynn Forester de Rothschild background), the host's unanswered email to Erika Kirk and TPUSA spokesperson Andrew Kolvet, a Jezebel article timestamped at 9:49 AM Arizona time on September 8, Erika Kirk's Ephesians 4:5 tweet timestamped at 10:49 AM Arizona time that same day, multiple Charlie Kirk Show segments from September 8 (including a Bears game discussion), a Frank Turek interview describing a Monday night walk, and a Blake Neff clip from the Charlie Kirk podcast.
 
 Structurally, this episode pivots the Bride of Charlie investigation toward a specific named-figure linkage hypothesis (Erika ↔ Epstein) and develops the September 8 alibi-skeptic narrative introduced in prior episodes.
 
@@ -127,9 +127,9 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 
 ---
 
-### **A-1814** Linda Rothschild Background Document Bundle
+### **A-1814** Lynn Forester de Rothschild Background Document Bundle
 
-**A-1814.1** Background document (per host) listing Linda Rothschild's alternate names and her position as president of the Corcoran Group, tied to Epstein's files.
+**A-1814.1** Background document (per host) listing Lynn Forester de Rothschild's alternate names and her position as president of the Corcoran Group, tied to Epstein's files.
 
 - Event Timestamp: Prior to 2026-03-10
 - Source Timestamp: Prior to 2026-03-10
@@ -572,9 +572,9 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10523** Linda Rothschild Corcoran Group Presidency Verification
+**N-10523** Lynn Forester de Rothschild Corcoran Group Presidency Verification
 
-Investigation target: verification that Linda Rothschild was/is president of the Corcoran Group and the scope of her Epstein-file exposure.
+Investigation target: verification that Lynn Forester de Rothschild was/is president of the Corcoran Group and the scope of her Epstein-file exposure.
 
 Evidence Count: 1
 Claim Count: 1
@@ -710,7 +710,7 @@ Neighbors reportedly saw the Kirk children with her husband.
 
 **N-557** Lynn Forester de Rothschild
 
-Transcribed Linda Rothschild; the host says she is president of the Corcoran Group.
+Transcribed Lynn Forester de Rothschild; the host says she is president of the Corcoran Group.
 
 *Related: C-10277*
 
@@ -1057,20 +1057,20 @@ Claim: The host says the Corcoran real estate group is referenced repeatedly acr
 
 Anchored Artifacts: A-1813.1
 Mentions: N-9
-Investigative Direction: Search Epstein-files email corpus for Corcoran/Linda Rothschild references.
+Investigative Direction: Search Epstein-files email corpus for Corcoran/Lynn Forester de Rothschild references.
 
 ---
 
-**C-2426** Host Says Background Document Lists Linda Rothschild as Corcoran Group President with Multiple Aliases
+**C-2426** Host Says Background Document Lists Lynn Forester de Rothschild as Corcoran Group President with Multiple Aliases
 
 Claim Timestamp: 00:28:26
 
-Claim: The host says a background document on Linda Rothschild, tied to Epstein's files, lists her alternate names and identifies her as president of the Corcoran Group.
+Claim: The host says a background document on Lynn Forester de Rothschild, tied to Epstein's files, lists her alternate names and identifies her as president of the Corcoran Group.
 
 Anchored Artifacts: A-1814.1
 Mentions: N-557
 Related Nodes: N-10523
-Investigative Direction: Verify Linda Rothschild's Corcoran role via corporate filings; obtain the background document referenced.
+Investigative Direction: Verify Lynn Forester de Rothschild's Corcoran role via corporate filings; obtain the background document referenced.
 
 ---
 
@@ -2529,7 +2529,7 @@ Confidence: high
 ### Artifact Verbally Referenced but Not Displayed
 - 1997 pageant lawsuit referencing Epstein's presence at a meeting (C-1997-lawsuit not inscribed due to no anchor; flagged for human verification).
 - Text messages between Erika Kirk and Charlie Kirk on September 8 (alleged dinner texts) referenced but not shown. Flag for human verification.
-- "Someone read a background on Linda Rothschild" (A-1814.1) – underlying background document not displayed; only cited.
+- "Someone read a background on Lynn Forester de Rothschild" (A-1814.1) – underlying background document not displayed; only cited.
 - Specific Epstein–Kates emails (A-1812.1, A-1812.2) – referenced but not displayed; sample email containing the bar mitzvah invitation not shown.
 - Tip about Erika at Next Model Management (referred to but the underlying tip correspondence not shown).
 
@@ -2551,7 +2551,7 @@ Confidence: high
 ### Requires Human Verification
 - Verification that the September 8, 2025 Bears–Vikings game second half timing aligns with the Bears Show commentary timestamps.
 - Verification of Next Model Management's actual office locations and documented Epstein presence dates.
-- Verification of Linda Rothschild's Corcoran Group role via NY corporate filings.
+- Verification of Lynn Forester de Rothschild's Corcoran Group role via NY corporate filings.
 - Verification of the January 29, 2026 White House visitor logs (N-10522).
 
 ---

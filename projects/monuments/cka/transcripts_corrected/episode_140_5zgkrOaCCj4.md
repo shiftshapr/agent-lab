@@ -280,7 +280,7 @@ By the way, I do want to shout out the stop anti-Candacism account. I love it. I
 
 [52:08]
 
-We need you guys to acknowledge and say you'd throw money toward it, whatever. You guys are already paying him to debate. We don't really need it formalized in paper. We know that they are they always are they're cowards. They're never going to do that. They're never going to acknowledge that they are empowering all of these influencers and psychopaths in my view, my opinion, people like Brita who are just unwell. Uh that's what they're left with. They have to find people who are unwell, um don't have any purpose in their life, and will just commit to 4,040 tweets in the span of 11 months. Uh Patricia Pelly writes, "You're my hero. Each day I race home to watch you without a doubt one of the smartest people on the planet and definitely not I do work hard though. Thank you for all of your hard work. Love you to bits.
+We need you guys to acknowledge and say you'd throw money toward it, whatever. You guys are already paying him to debate. We don't really need it formalized in paper. We know that they are they always are they're cowards. They're never going to do that. They're never going to acknowledge that they are empowering all of these influencers and psychopaths in my view, my opinion, people like Britta who are just unwell. Uh that's what they're left with. They have to find people who are unwell, um don't have any purpose in their life, and will just commit to 4,040 tweets in the span of 11 months. Uh Patricia Pelly writes, "You're my hero. Each day I race home to watch you without a doubt one of the smartest people on the planet and definitely not I do work hard though. Thank you for all of your hard work. Love you to bits.
 
 [52:51]
 

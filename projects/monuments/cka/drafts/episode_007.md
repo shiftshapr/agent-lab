@@ -182,7 +182,7 @@ Transcript Snippet: Something about Dr. Frank Turek isn't sitting right with me.
 **A-1145.3** Comment asking whether Jack Posobiec is trustworthy given his Navy intelligence background, read on air and answered by the host
 Video Timestamp: 00:48:31–00:49:57
 *Related: C-3717, N-3, N-95*
-Transcript Snippet: Candace, is Jack Pobiac trustworthy? I find it odd that a Navy intelligence officer
+Transcript Snippet: Candace, is Jack Posobiec trustworthy? I find it odd that a Navy intelligence officer
 
 ---
 

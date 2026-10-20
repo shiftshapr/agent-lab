@@ -1358,7 +1358,7 @@
       "ref": "N-71",
       "name": "Matt Gaetz",
       "type": "person",
-      "description": "Matt Gaetz, named by the host (as Matt Gates) among trusted Pentagon press corps additions.",
+      "description": "Matt Gaetz, named by the host (as Matt Gaetz) among trusted Pentagon press corps additions.",
       "related_artifacts": [],
       "related_claims": [
         "C-5118"
@@ -1395,7 +1395,7 @@
       "ref": "N-712",
       "name": "Kamala Harris",
       "type": "person",
-      "description": "First named by the host (as 'Camala') at 00:26:31 in episode 40.",
+      "description": "First named by the host (as 'Kamala') at 00:26:31 in episode 40.",
       "related_artifacts": [],
       "related_claims": [
         "C-5108"
@@ -1412,7 +1412,7 @@
       "ref": "N-713",
       "name": "Russell Brand",
       "type": "person",
-      "description": "First named by the host (as 'Russell Brandon') at 00:57:05 in episode 40.",
+      "description": "First named by the host (as 'Russell Brand') at 00:57:05 in episode 40.",
       "related_artifacts": [],
       "related_claims": [
         "C-5138"
@@ -2945,7 +2945,7 @@
       "tags": [],
       "claim_timestamp": "00:40:14",
       "investigative_direction": "Locate Loomer's post sharing the Higby clip and its time.",
-      "transcript_snippet": "she was beside herself with Glee this morning sharing news that another Zionist influencer named Cam Higgby, who has also now been credentialed by the Pentagon",
+      "transcript_snippet": "she was beside herself with Glee this morning sharing news that another Zionist influencer named Cam Higby, who has also now been credentialed by the Pentagon",
       "mentions_person_refs": [
         "N-3",
         "N-60",
@@ -3224,7 +3224,7 @@
       "tags": [],
       "claim_timestamp": "00:57:05",
       "investigative_direction": "Find the Russell Brand episode featuring the host and its air date.",
-      "transcript_snippet": "I spoke about it more at length with Russell Brandon uh on his show. So that should be coming out soon.",
+      "transcript_snippet": "I spoke about it more at length with Russell Brand uh on his show. So that should be coming out soon.",
       "mentions_person_refs": [
         "N-3",
         "N-713"

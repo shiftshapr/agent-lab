@@ -716,9 +716,9 @@ Existing topic reused for new claims in this episode.
 
 **N-803** Savannah Guthrie
 
-First named by the host at 00:46:33 in episode 73 (transcript: 'Savannah Guthri'). Television host whose mother's reported abduction the host discusses.
+First named by the host at 00:46:33 in episode 73 (transcript: 'Savannah Guthrie'). Television host whose mother's reported abduction the host discusses.
 
-Aliases: Savannah Guthri
+Aliases: Savannah Guthrie
 
 *Related: C-8496, C-8497, C-8498*
 
