@@ -15,6 +15,16 @@
     ],
     "reviewed": [
       {
+        "claim": "C-15621",
+        "node": "N-128",
+        "reason": "claim text: 'the nephew' of Phil Lyman = Shaner Broderick (called Shane Lyman in ep11); ep11 restore 2026-10-20"
+      },
+      {
+        "claim": "C-13950",
+        "node": "N-179",
+        "reason": "claim text: 'Justin is the chief CFO' = TPUSA CFO Justin Olson (energyandpolicy.org/justin-olson-turning-point-usa); names re-run 2026-10-20"
+      },
+      {
         "claim": "C-15568",
         "node": "N-27",
         "reason": "claim text: 'a Ye song' (Ye = Kanye West; two-letter alias is below the grounding matcher's length); daily 2026-10-20"

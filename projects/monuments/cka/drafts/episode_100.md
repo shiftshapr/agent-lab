@@ -404,7 +404,7 @@ Harpole's lawyers sought his address; the host says he guest-hosted during her m
 
 **N-601** Douglas Blake Bednarz
 
-First named by the host at 00:06:29 in episode 100 (in a Baron Coleman clip). He publicly accuses Brian Harpole of detonating a charge that killed Charlie Kirk; per the host he was served a preservation order rather than sued, and earlier offered her UVU footage. Aliases: Blake Bednarz; Blake Bendaris.
+First named by the host at 00:06:29 in episode 100 (in a Baron Coleman clip). He publicly accuses Brian Harpole of detonating a charge that killed Charlie Kirk; per the host he was served a preservation order rather than sued, and earlier offered her UVU footage. Aliases: Blake Bednarz; Douglas Blake Bednarz.
 
 *Related: C-3891, C-3892, C-3893, C-3894, C-3895, C-3897, C-3898, C-3899, C-3948, A-2544.2, A-2545.1, A-2546.1, A-2546.2*
 
@@ -794,7 +794,7 @@ Claim Timestamp: 00:09:54
 
 Claim: The host says Blake Bednarz contacted her and told her that Dhillon Law Group had served him a preservation order rather than a lawsuit, because the firm believes he may hold material that could help its defamation case against her.
 
-Transcript Snippet: I learned that Blake Bendaris had been served by Dhillon Law Group. But not with the lawsuit, but with a simple preservation order because they think he might have something that might help to prosecute me in a defamation suit.
+Transcript Snippet: I learned that Douglas Blake Bednarz had been served by Dhillon Law Group. But not with the lawsuit, but with a simple preservation order because they think he might have something that might help to prosecute me in a defamation suit.
 
 Anchored Artifacts: A-2544.2
 Mentions: N-601, N-3
@@ -1786,7 +1786,7 @@ Confidence: high
 
 - **Artifacts verbally referenced but not shown**: A-2544.1 (preservation orders and the lawyers' email requesting Ian Carroll's address), A-2544.2 (the preservation order served on Bednarz), A-2547.1 (the earlier tips-email request) and A-2554.1 (the Zachary Lewis case details the host says she posted on X). The Harpole complaint itself is described but not shown in this episode.
 - **DIA beat**: the only keyword hit is the recalled request "please send it to us tips@kcsun. com" (00:11:02). It was treated as a DIA beat (C-3896, A-2547.1, M-12), although it is a retrospective account of an earlier call for footage rather than a new request. The address is kept as transcribed and is likely a caption error for the show's tips address. The "interesting lead today about Blake Bednarz" (01:06:06) is a tip received but matched no keyword; it is recorded as C-3948 without an M-12 occurrence. M-14 does not air.
-- **Name matching**: Harpole is transcribed as "Bryan Harsin" (00:00:01, 00:01:19), "Brian Hopple", "Bryant Harpole", "Brett Harrelson", "Brian Hurlbut", "Brian Harpool" and "Brian Harp"; all are mapped to N-266 from context. "Barron"/"Baron Coleman" is mapped to N-330 Baron Coleman, and "Andrew Kolvet" (comments) to N-14. "Blake Bendaris" and "Blake Bednarz" are treated as the same new person, N-601 Douglas Blake Bednarz. "Dhillon Law Group" is minted as N-10910 Dhillon Law Group; the integrator should reconcile it with the existing topic "Dhillon Law Group / Show Faith by Works Connection".
+- **Name matching**: Harpole is transcribed as "Bryan Harsin" (00:00:01, 00:01:19), "Brian Hopple", "Bryant Harpole", "Brett Harrelson", "Brian Hurlbut", "Brian Harpool" and "Brian Harp"; all are mapped to N-266 from context. "Barron"/"Baron Coleman" is mapped to N-330 Baron Coleman, and "Andrew Kolvet" (comments) to N-14. "Douglas Blake Bednarz" and "Blake Bednarz" are treated as the same new person, N-601 Douglas Blake Bednarz. "Dhillon Law Group" is minted as N-10910 Dhillon Law Group; the integrator should reconcile it with the existing topic "Dhillon Law Group / Show Faith by Works Connection".
 - **Uncertain identities**: "Caleb Robinson" (N-604), the Daily Wire interim CEO, is kept in the transcript spelling and is likely Caleb Robinson; the integrator should verify. "Father Klein" (N-602) could not be matched to any existing node. "Gary" of Paramount Tactical is folded into N-10899 rather than minted, because only his first name is given (the existing Gary Hamrick node is a different person, a pastor). "Mark Meadows, the Secretary of Homeland Security" (C-3932) is kept as transcribed; the name is likely wrong and no person node was minted. "Matt Saracens" (00:52:31, named as someone who could speak to Loomer for Boreing) is unmatched; it may be Matt Sarelson, who appears in prior claim C-2850. It is not inscribed.
 - **Internal inconsistency**: Coleman's clip says Bednarz "is not listed in this lawsuit" (00:07:17), but at 00:11:02 the host says "They're listing him in the lawsuit." This may mean the complaint shows his material without naming him as a defendant; it is preserved as spoken.
 - **Defamation safety**: Bednarz's accusations against Harpole (C-3891, C-3894), the YouTuber's allegations about Mitch Snow's past (C-3901), the George Farmer arrest allegations (C-3920, C-3921, C-3930) and the Zachary Lewis charges (C-3936 to C-3940; not convicted) are all attributed and none is stated as fact.

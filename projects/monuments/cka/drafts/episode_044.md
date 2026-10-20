@@ -22,7 +22,7 @@
 
 ## 2. Executive Summary
 
-This episode introduces a new tipster – "Harry Meyers," a former U.S. military sensor operator – whose account, presented as read-aloud documentary evidence, connects three threads: (1) a 1990 Joint Task Force 6 / Operation Catacomb discovery of a Sinaloa cartel rail tunnel at the Arizona–Mexico border, with photos allegedly implicating a JTF-6 commander with El Chapo; (2) Harry's September 8–9, 2025 visit to Fort Huachuca, during which he reportedly walked into a high-level Joint Task Force Southern Border (JTF-SB) meeting, observed ~12–13 lieutenant colonels, identified Brian Harpole exiting the meeting, and was detained for a 7-hour interrogation by a "Captain Neff" that generated incident report 861-1-2025-MPC446; and (3) an alleged surveillance/intelligence presence in Nashville, where seven tipsters claim Arcadi Gaydamak (recently sentenced in absentia) is operating as "Jonathan Schmidt" at Root Brands.
+This episode introduces a new tipster – "Harry Myers," a former U.S. military sensor operator – whose account, presented as read-aloud documentary evidence, connects three threads: (1) a 1990 Joint Task Force 6 / Operation Catacomb discovery of a Sinaloa cartel rail tunnel at the Arizona–Mexico border, with photos allegedly implicating a JTF-6 commander with El Chapo; (2) Harry's September 8–9, 2025 visit to Fort Huachuca, during which he reportedly walked into a high-level Joint Task Force Southern Border (JTF-SB) meeting, observed ~12–13 lieutenant colonels, identified Brian Harpole exiting the meeting, and was detained for a 7-hour interrogation by a "Captain Neff" that generated incident report 861-1-2025-MPC446; and (3) an alleged surveillance/intelligence presence in Nashville, where seven tipsters claim Arcadi Gaydamak (recently sentenced in absentia) is operating as "Jonathan Schmidt" at Root Brands.
 
 The episode also plays a 1990 news clip about the Douglas, Arizona tunnel bust, a George H.W. Bush war-on-drugs clip, and a Tim Pool audio segment criticizing Candace Owens. The central structural importance is that it converts an unverified tip (with documents and an incident report number) into a formally inscribed investigative record requiring FOIA verification of the Fort Huachuca incident report.
 
@@ -30,7 +30,7 @@ The episode also plays a 1990 news clip about the Douglas, Arizona tunnel bust, 
 
 ## 3. Artifact Register
 
-**A-1519** Harry Meyers Tipster Document Bundle
+**A-1519** Harry Myers Tipster Document Bundle
 
 Verbal/documents presented by host as supporting Harry's account. Mix of read-aloud verbatim quotes and document references.
 
@@ -240,7 +240,7 @@ Confidence Level: High
 
 ## 4. Node Register
 
-**N-318** Harry Meyers
+**N-318** Harry Myers
 
 Former U.S. Army sensor operator assigned to Joint Task Force 6 / Operation Catacomb in 1990 who claims to have discovered the first Sinaloa cartel underground rail tunnel at the Arizona–Mexico border. Placed under NDA 1990–May 2025. Now operates under a different name. Per his account, walked into a JTF-SB meeting at Fort Huachuca on September 9, 2025 and was detained for 7 hours.
 
@@ -255,7 +255,7 @@ Investigative Pressure: High
 
 **N-266** Brian Harpole
 
-Allegedly identified by Harry Meyers exiting the JTF-SB meeting at Fort Huachuca on September 9, 2025. Host later references this identification in connection with Charlie Kirk's assassination coverage.
+Allegedly identified by Harry Myers exiting the JTF-SB meeting at Fort Huachuca on September 9, 2025. Host later references this identification in connection with Charlie Kirk's assassination coverage.
 
 Evidence Count: 1
 Claim Count: 1
@@ -268,7 +268,7 @@ Investigative Pressure: High
 
 **N-319** Captain Adam Neff
 
-Military officer (Captain) identified by Harry Meyers as the lead interrogator during the 7-hour detention at Fort Huachuca on September 9, 2025. Described as ~36 years old, brown hair, commander of force protection. Spelling of surname as heard by Harry; uncertain.
+Military officer (Captain) identified by Harry Myers as the lead interrogator during the 7-hour detention at Fort Huachuca on September 9, 2025. Described as ~36 years old, brown hair, commander of force protection. Spelling of surname as heard by Harry; uncertain.
 
 Evidence Count: 2
 Claim Count: 2
@@ -387,7 +387,7 @@ Investigative Pressure: Low (historical)
 
 **N-10326** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
 
-Persistent target: whether a high-level JTF-SB command meeting occurred at Fort Huachuca on September 9, 2025, whether 12–13 lieutenant colonels were present, and whether Harry Meyers' account is corroborated by incident report 861-1-2025-MPC446.
+Persistent target: whether a high-level JTF-SB command meeting occurred at Fort Huachuca on September 9, 2025, whether 12–13 lieutenant colonels were present, and whether Harry Myers' account is corroborated by incident report 861-1-2025-MPC446.
 
 Evidence Count: 2
 Claim Count: 5
@@ -400,7 +400,7 @@ Investigative Pressure: High
 
 **N-10327** Incident Report 861-1-2025-MPC446 FOIA Verification
 
-Persistent target: verifiable existence and contents of Fort Huachuca incident report 861-1-2025-MPC446 generated on September 9, 2025 in connection with Harry Meyers' detention.
+Persistent target: verifiable existence and contents of Fort Huachuca incident report 861-1-2025-MPC446 generated on September 9, 2025 in connection with Harry Myers' detention.
 
 Evidence Count: 1
 Claim Count: 1
@@ -413,7 +413,7 @@ Investigative Pressure: High
 
 **N-10328** 1990 Douglas, Arizona / Operation Catacomb Verification
 
-Persistent target: verifiable history of Joint Task Force 6, Operation Catacomb, the Douglas–Agua Prieta tunnel discovery, and the alleged JTF-6 commander / El Chapo photographs. Connects to Harry Meyers' 35-year claim of retaliation and his NDA.
+Persistent target: verifiable history of Joint Task Force 6, Operation Catacomb, the Douglas–Agua Prieta tunnel discovery, and the alleged JTF-6 commander / El Chapo photographs. Connects to Harry Myers' 35-year claim of retaliation and his NDA.
 
 Evidence Count: 2
 Claim Count: 1
@@ -733,7 +733,7 @@ The exchange in which Tim Pool's clip calls the host names and says she has no s
 
 ---
 
-**N-11288** Harry Meyers September 10 Salt Lake City Airport Layover
+**N-11288** Harry Myers September 10 Salt Lake City Airport Layover
 
 Node Type: Topic
 Harry's account of passing through Salt Lake City airport on September 10, 2025 and learning of the shooting.
@@ -744,7 +744,7 @@ Harry's account of passing through Salt Lake City airport on September 10, 2025 
 
 ## 5. Claim Register
 
-**C-1880** Harry Meyers claims to have discovered the first Sinaloa cartel underground rail tunnel in 1990 while assigned to Joint Task Force 6 / Operation Catacomb
+**C-1880** Harry Myers claims to have discovered the first Sinaloa cartel underground rail tunnel in 1990 while assigned to Joint Task Force 6 / Operation Catacomb
 
 Claim Timestamp: 00:05:09–00:11:14
 
@@ -806,7 +806,7 @@ Investigative Direction: Obtain Harry's DD-214, military personnel file, and awa
 
 Claim Timestamp: 00:16:14–00:17:28
 
-Claim: The host says Harry Meyers told her he arrived at Candlewood Suites on Fort Huachuca at approximately 5:37 PM on September 8, 2025, and observed a person he identified as special forces in the lobby.
+Claim: The host says Harry Myers told her he arrived at Candlewood Suites on Fort Huachuca at approximately 5:37 PM on September 8, 2025, and observed a person he identified as special forces in the lobby.
 
 Anchored Artifacts: A-1519.2, A-1519.4
 Mentions: N-318
@@ -1376,9 +1376,9 @@ Investigative Direction: Identify the county clerks' offices and case numbers, a
 
 Claim Timestamp: 00:15:10
 
-Claim: The host says that in May 2025 Harry Meyers, who now has a new name she is not disclosing, was finally released from the 35-year military NDA.
+Claim: The host says that in May 2025 Harry Myers, who now has a new name she is not disclosing, was finally released from the 35-year military NDA.
 
-Transcript Snippet: Harry Meyers, who now has a new name, by the way, which I'm not saying, but he is finally released from this 35-year militaryra NDA.
+Transcript Snippet: Harry Myers, who now has a new name, by the way, which I'm not saying, but he is finally released from this 35-year militaryra NDA.
 
 Anchored Artifacts: A-1519.5
 Mentions: N-318

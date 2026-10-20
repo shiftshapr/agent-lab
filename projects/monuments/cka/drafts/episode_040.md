@@ -244,7 +244,7 @@ Investigative Pressure: Low
 
 **N-67** Mark Herman (director, Candace show)
 
-In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here, in comments, the host names him with Skyler as the small-team members who push back on sources ("Mark will be like I don't know about this") before a story goes out. No claim anchor; registered for cross-episode continuity.
+In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here, in comments, the host names him with Schuyler as the small-team members who push back on sources ("Mark will be like I don't know about this") before a story goes out. No claim anchor; registered for cross-episode continuity.
 
 Evidence Count: 0
 Claim Count: 0
@@ -642,9 +642,9 @@ Laura Loomer, discussed over her Pentagon credential and tweets about Charlie.
 
 ---
 
-**N-68** Skyler
+**N-68** Schuyler
 
-Skyler, named by the host as a staffer who pushes back on sources.
+Schuyler, named by the host as a staffer who pushes back on sources.
 
 *Related: C-5139*
 
@@ -660,7 +660,7 @@ Frank Turek, named in Neff's statement as an alleged part of a military infiltra
 
 **N-71** Matt Gaetz
 
-Matt Gaetz, named by the host (as Matt Gates) among trusted Pentagon press corps additions.
+Matt Gaetz, named by the host (as Matt Gaetz) among trusted Pentagon press corps additions.
 
 *Related: C-5118*
 
@@ -676,8 +676,8 @@ Brigitte Macron, subject of the host's lawsuit and schedule-gap questions.
 
 **N-712** Kamala Harris
 
-First named by the host (as 'Camala') at 00:26:31 in episode 40.
-Aliases: Camala
+First named by the host (as 'Kamala') at 00:26:31 in episode 40.
+Aliases: Kamala
 
 *Related: C-5108*
 
@@ -685,8 +685,8 @@ Aliases: Camala
 
 **N-713** Russell Brand
 
-First named by the host (as 'Russell Brandon') at 00:57:05 in episode 40.
-Aliases: Russell Brandon
+First named by the host (as 'Russell Brand') at 00:57:05 in episode 40.
+Aliases: Russell Brand
 
 *Related: C-5138*
 
@@ -1796,7 +1796,7 @@ Claim Timestamp: 00:40:14
 
 Claim: The host says Laura Loomer shared, with glee, the news that Cam Higby, also credentialed by the Pentagon, asked the press secretary about the foreign angle of Charlie's assassination.
 
-Transcript Snippet: she was beside herself with Glee this morning sharing news that another Zionist influencer named Cam Higgby, who has also now been credentialed by the Pentagon
+Transcript Snippet: she was beside herself with Glee this morning sharing news that another Zionist influencer named Cam Higby, who has also now been credentialed by the Pentagon
 
 Anchored Artifacts: A-1490.1
 Mentions: N-3, N-60, N-302, N-303
@@ -2005,7 +2005,7 @@ Claim Timestamp: 00:57:05
 
 Claim: The host says she spoke at length with Russell Brand on his show, which should be coming out soon.
 
-Transcript Snippet: I spoke about it more at length with Russell Brandon uh on his show. So that should be coming out soon.
+Transcript Snippet: I spoke about it more at length with Russell Brand uh on his show. So that should be coming out soon.
 
 Anchored Artifacts: 
 Mentions: N-3, N-713
@@ -2017,9 +2017,9 @@ Investigative Direction: Find the Russell Brand episode featuring the host and i
 
 Claim Timestamp: 00:59:08
 
-Claim: The host says staff such as Mark and Skyler push back on sources before stories air, and that they have not made a public mistake from a planted source.
+Claim: The host says staff such as Mark and Schuyler push back on sources before stories air, and that they have not made a public mistake from a planted source.
 
-Transcript Snippet: I think this is good and then Mark will be like I don't know about this or Skyler be like I don't know about this
+Transcript Snippet: I think this is good and then Mark will be like I don't know about this or Schuyler be like I don't know about this
 
 Anchored Artifacts: 
 Mentions: N-3, N-67, N-68

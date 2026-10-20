@@ -232,7 +232,7 @@ Confidence Level: High
 
 **A-2036** FARA Filing – Show Faith by Works LLC Bundle
 
-**A-2036.1** FARA registration filed by Show Faith by Works LLC; principal listed as Israel's Ministry of Foreign Affairs; U.S. representative: Chad Schnitker; geofencing partnership: Havas Media; legal representative: Dhillon Law Group
+**A-2036.1** FARA registration filed by Show Faith by Works LLC; principal listed as Israel's Ministry of Foreign Affairs; U.S. representative: Chad Schnitger; geofencing partnership: Havas Media; legal representative: Dhillon Law Group
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -523,7 +523,7 @@ Confidence Level: High
 
 ## 4. Node Register
 
-**N-429** Chad Schnitker
+**N-429** Chad Schnitger
 
 First named by the host at 00:37:02 in episode 98.
 
@@ -1143,11 +1143,11 @@ Investigative Direction: Cross-check against the original FARA filing in DOJ FAR
 
 ---
 
-**C-2844** Host Reads Times of Israel Saying Show Faith by Works Is Run by Chad Schnitker
+**C-2844** Host Reads Times of Israel Saying Show Faith by Works Is Run by Chad Schnitger
 
 Claim Timestamp: 00:37:43
 
-Claim: Per a Times of Israel article the host reads, Show Faith by Works LLC, which filed under FARA, is run by Chad Schnitker, a prominent Christian conservative activist in California.
+Claim: Per a Times of Israel article the host reads, Show Faith by Works LLC, which filed under FARA, is run by Chad Schnitger, a prominent Christian conservative activist in California.
 
 Anchored Artifacts: A-2035.1, A-2036.1
 Mentions: N-429

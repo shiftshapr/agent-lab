@@ -235,13 +235,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2734",
       "family_ref": "A-2734",
-      "bundle_name": "Skyler Text Exchange Bundle",
+      "bundle_name": "Schuyler Text Exchange Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2734.1",
           "ref": "A-2734.1",
-          "description": "Text exchange between the host and her executive producer Skyler from that morning, shown on air, in which he writes that he is sure she saw the Turning Point post",
+          "description": "Text exchange between the host and her executive producer Schuyler from that morning, shown on air, in which he writes that he is sure she saw the Turning Point post",
           "related_claims": [
             "C-5151"
           ],
@@ -739,7 +739,7 @@
       "@type": "Person",
       "@id": "N-68",
       "ref": "N-68",
-      "name": "Skyler",
+      "name": "Schuyler",
       "type": "person",
       "description": "Host's executive producer who texted her about the TPUSA post.",
       "related_artifacts": [],
@@ -945,7 +945,7 @@
       "ref": "N-715",
       "name": "Abdel Fattah el-Sisi",
       "type": "person",
-      "description": "First named by the host as the Egyptian president (transcript spelling Elsis, Elsisi) at 00:17:13 in episode 41.",
+      "description": "First named by the host as the Egyptian president (transcript spelling el-Sisi, Elsisi) at 00:17:13 in episode 41.",
       "related_artifacts": [],
       "related_claims": [
         "C-5166",
@@ -1241,7 +1241,7 @@
       "tags": [],
       "claim_timestamp": "00:03:07",
       "investigative_direction": "Obtain employment, contractor or payment records, or a TPUSA staff announcement, showing whether and when Higby was engaged by TPUSA.",
-      "transcript_snippet": "Well, Cam Higgby is on the payroll of Turning Point USA beginning in August of this year.",
+      "transcript_snippet": "Well, Cam Higby is on the payroll of Turning Point USA beginning in August of this year.",
       "mentions_person_refs": [
         "N-302",
         "N-3"
@@ -1251,8 +1251,8 @@
       "@type": "Claim",
       "@id": "C-5151",
       "ref": "C-5151",
-      "label": "Host Says She Learned of the Announcement From Skyler Nine Hours Into the Countdown",
-      "claim": "The host says her executive producer Skyler texted her that morning and that she was already nine hours into a 24-hour countdown, and she shows the text exchange.",
+      "label": "Host Says She Learned of the Announcement From Schuyler Nine Hours Into the Countdown",
+      "claim": "The host says her executive producer Schuyler texted her that morning and that she was already nine hours into a 24-hour countdown, and she shows the text exchange.",
       "anchored_artifacts": [
         "A-2734.1"
       ],
@@ -1262,8 +1262,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:03:51",
-      "investigative_direction": "Capture the Skyler text exchange with its timestamps and compare it to the posting time of the Blake Neff announcement.",
-      "transcript_snippet": "I heard from Skyler, my executive producer, this morning via text, which I'm going to show you, that I was somehow already 9 hours into a 24-hour countdown",
+      "investigative_direction": "Capture the Schuyler text exchange with its timestamps and compare it to the posting time of the Blake Neff announcement.",
+      "transcript_snippet": "I heard from Schuyler, my executive producer, this morning via text, which I'm going to show you, that I was somehow already 9 hours into a 24-hour countdown",
       "mentions_person_refs": [
         "N-3",
         "N-68"

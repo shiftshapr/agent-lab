@@ -1656,7 +1656,7 @@
       "ref": "N-818",
       "name": "Helen Comperatore",
       "type": "person",
-      "description": "First named by the host at 00:28:31 in episode 126 (spelled Helen Compator and Helen Gambadoro in the transcript). Widow of Corey Comperatore, interviewed on NewsNation. Aliases: Helen Compator; Helen Gambadoro.",
+      "description": "First named by the host at 00:28:31 in episode 126 (spelled Helen Comperatore and Helen Comperatore in the transcript). Widow of Corey Comperatore, interviewed on NewsNation. Aliases: Helen Comperatore; Helen Comperatore.",
       "related_artifacts": [],
       "related_claims": [
         "C-8966",
@@ -3401,7 +3401,7 @@
       ],
       "claim_timestamp": "00:46:25",
       "investigative_direction": "Find any on-record statement by Erika Kirk or TPUSA on who is responsible for the surgeon quote.",
-      "transcript_snippet": "why you hung Andrew Colbet out to dry and the surgeon saying one violated HIPAA, one went rogue on the day of Charlie's funeral.",
+      "transcript_snippet": "why you hung Andrew Kolvet out to dry and the surgeon saying one violated HIPAA, one went rogue on the day of Charlie's funeral.",
       "supports_claim_refs": [
         "C-6779"
       ],
@@ -3956,7 +3956,7 @@
           "episode": 126,
           "video_timestamp": "00:46:25",
           "speaker_node_ref": "N-3",
-          "quote": "Make that make sense of why you hung Andrew Colbet out to dry",
+          "quote": "Make that make sense of why you hung Andrew Kolvet out to dry",
           "context": "Host demands that Erika Kirk address the surgeon-call account.",
           "confidence": "high",
           "tags": [

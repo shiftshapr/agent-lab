@@ -1273,7 +1273,7 @@ Claim Timestamp: 00:52:41
 
 Claim: The host says Alex Clark is engaged to Vance Voetberg, seven years younger, who runs a health blog where he calls readers his "fellow buttercups."
 
-Transcript Snippet: they learned that she was engaged to a man seven years her junior, um who no person in their right mind would accuse of being masculine, a man named Vance Voytberg
+Transcript Snippet: they learned that she was engaged to a man seven years her junior, um who no person in their right mind would accuse of being masculine, a man named Vance Voetberg
 
 Anchored Artifacts: A-2623.5
 Mentions: N-99, N-659

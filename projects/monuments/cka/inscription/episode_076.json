@@ -175,7 +175,7 @@
           "@type": "Artifact",
           "@id": "A-1814.1",
           "ref": "A-1814.1",
-          "description": "Background document (per host) listing Linda Rothschild's alternate names and her position as president of the Corcoran Group, tied to Epstein's files.",
+          "description": "Background document (per host) listing Lynn Forester de Rothschild's alternate names and her position as president of the Corcoran Group, tied to Epstein's files.",
           "related_claims": [
             "C-2426"
           ],
@@ -1057,9 +1057,9 @@
       "@type": "InvestigationTarget",
       "@id": "N-10523",
       "ref": "N-10523",
-      "name": "Linda Rothschild Corcoran Group Presidency Verification",
+      "name": "Lynn Forester de Rothschild Corcoran Group Presidency Verification",
       "type": "investigation_target",
-      "description": "Investigation target: verification that Linda Rothschild was/is president of the Corcoran Group and the scope of her Epstein-file exposure.",
+      "description": "Investigation target: verification that Lynn Forester de Rothschild was/is president of the Corcoran Group and the scope of her Epstein-file exposure.",
       "related_artifacts": [
         "A-1814.1"
       ],
@@ -2088,7 +2088,7 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:27:39–00:28:26",
-      "investigative_direction": "Search Epstein-files email corpus for Corcoran/Linda Rothschild references.",
+      "investigative_direction": "Search Epstein-files email corpus for Corcoran/Lynn Forester de Rothschild references.",
       "mentions_person_refs": [
         "N-9"
       ]
@@ -2097,8 +2097,8 @@
       "@type": "Claim",
       "@id": "C-2426",
       "ref": "C-2426",
-      "label": "Host Says Background Document Lists Linda Rothschild as Corcoran Group President with Multiple Aliases",
-      "claim": "The host says a background document on Linda Rothschild, tied to Epstein's files, lists her alternate names and identifies her as president of the Corcoran Group.",
+      "label": "Host Says Background Document Lists Lynn Forester de Rothschild as Corcoran Group President with Multiple Aliases",
+      "claim": "The host says a background document on Lynn Forester de Rothschild, tied to Epstein's files, lists her alternate names and identifies her as president of the Corcoran Group.",
       "anchored_artifacts": [
         "A-1814.1"
       ],
@@ -2107,7 +2107,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:28:26",
-      "investigative_direction": "Verify Linda Rothschild's Corcoran role via corporate filings; obtain the background document referenced.",
+      "investigative_direction": "Verify Lynn Forester de Rothschild's Corcoran role via corporate filings; obtain the background document referenced.",
       "mentions_person_refs": [
         "N-557"
       ]

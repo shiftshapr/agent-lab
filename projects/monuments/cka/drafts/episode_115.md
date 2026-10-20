@@ -306,7 +306,7 @@ Referred to only through "the Crooks family"; the host says Mark Liti was Facebo
 
 **N-105** Corey Comperatore
 
-Transcript spellings "Corey Comparator" and "Cory Comparator". Described as Mark Liti's high school friend and confidant, killed at the Butler rally; his family is said to be dissatisfied with the investigation.
+Transcript spellings "Corey Comperatore" and "Cory Comparator". Described as Mark Liti's high school friend and confidant, killed at the Butler rally; his family is said to be dissatisfied with the investigation.
 
 *Related: C-4541, C-4551, C-4554, C-4555, C-4556, C-4570*
 
@@ -336,13 +336,13 @@ The host says Erika Kirk gave him a raise after the assassination.
 
 **N-378** Dan Bongino
 
-Transcript spelling "Dan Bonino". The host calls his reaction to Butler strange.
+Transcript spelling "Dan Bongino". The host calls his reaction to Butler strange.
 
 *Related: C-4569*
 
 **N-676** Mark Liti
 
-First named by the host at 00:06:04 in episode 115. Supervisor at Surefire Wireline LLC who died on August 23, 2022, aged 48, in what was reported as a burn-barrel explosion; the host says he allegedly took explosives from work. Aliases: Mark A. Leiti; Mark Ley; Mark Le; Mark A. Ley; Mark a lady.
+First named by the host at 00:06:04 in episode 115. Supervisor at Surefire Wireline LLC who died on August 23, 2022, aged 48, in what was reported as a burn-barrel explosion; the host says he allegedly took explosives from work. Aliases: Mark A. Leiti; Mark Liti; Mark Le; Mark Liti; Mark a lady.
 
 *Related: C-4547, C-4548, C-4549, C-4550, C-4551, C-4552, C-4554, C-4557, A-2659.1*
 
@@ -352,7 +352,7 @@ First named by the host at 00:07:01 in episode 115. Named in the news clip as Ma
 
 *Related: C-4548, A-2659.1*
 
-**N-678** Courtney Thief
+**N-678** Courtney Fife
 
 First named by the host at 00:08:45 in episode 115. Described as a former ATF agent through whom word of Liti's confession and the ATF investigation reportedly passed; the name spelling is uncertain.
 
@@ -366,7 +366,7 @@ First named by the host at 00:21:38 in episode 115 (as "President Biden"). The h
 
 **N-680** Cameron Hanes
 
-First named by the host at 00:33:58 in episode 115. Joe Rogan's podcast guest in the clip played. Aliases: Cameron Haynes.
+First named by the host at 00:33:58 in episode 115. Joe Rogan's podcast guest in the clip played. Aliases: Cameron Hanes.
 
 *Related: C-4579, A-2664.1*
 
@@ -602,7 +602,7 @@ Claim Timestamp: 00:00:01
 
 Claim: The host says that after she brought up Butler she was immediately contacted by people who knew Corey Comperatore, whom she calls the real victim of that evening.
 
-Transcript Snippet: I mean, I was contacted immediately by people who knew the real victim of that evening, and it wasn't Donald J. Trump. It was actually a firefighter named Corey Comparator.
+Transcript Snippet: I mean, I was contacted immediately by people who knew the real victim of that evening, and it wasn't Donald J. Trump. It was actually a firefighter named Corey Comperatore.
 
 Anchored Artifacts:
 Mentions: N-105, N-3
@@ -723,7 +723,7 @@ Claim Timestamp: 00:07:51
 
 Claim: The host says Mark Liti was a supervisor at Surefire Wireline LLC in Kittanning, Pennsylvania, a company that does pump-down perforating of oil and gas wells.
 
-Transcript Snippet: Mark Ley, not mentioned here in that news clip, was a supervisor for a company called Surefire Wireline LLC. that is in Kittening, Pennsylvania.
+Transcript Snippet: Mark Liti, not mentioned here in that news clip, was a supervisor for a company called Surefire Wireline LLC. that is in Kittening, Pennsylvania.
 
 Anchored Artifacts:
 Mentions: N-676
@@ -753,7 +753,7 @@ Claim Timestamp: 00:08:45
 
 Claim: The host alleges that a week before he died, Mark Liti confessed to his longtime high school friend that he had illegally taken explosives from his job.
 
-Transcript Snippet: Allegedly, Mark A. Ley had confessed to his longtime high school friend just a week before he died um that he had illegally taken some explosives from his job.
+Transcript Snippet: Allegedly, Mark Liti had confessed to his longtime high school friend just a week before he died um that he had illegally taken some explosives from his job.
 
 Anchored Artifacts:
 Mentions: N-676
@@ -766,7 +766,7 @@ Investigative Direction: Identify the source of the confession account and any A
 
 Claim Timestamp: 00:08:45
 
-Claim: The host says the ATF was apparently investigating Mark Liti over the explosives, according to what a former ATF agent named Courtney Thief reportedly confided.
+Claim: The host says the ATF was apparently investigating Mark Liti over the explosives, according to what a former ATF agent named Courtney Fife reportedly confided.
 
 Transcript Snippet: The ATF was apparently investigating for this, investigating him for this.
 
@@ -798,7 +798,7 @@ Claim Timestamp: 00:10:45
 
 Claim: The host says Mark Liti's longtime high school friend, to whom he confided taking the explosives, was Corey Comperatore.
 
-Transcript Snippet: Mark Le's friend's name was Cory Comparator. Yes, it was Cory Comparator who Mark Ley had confided his secret to that he had done something that he wasn't supposed to.
+Transcript Snippet: Mark Le's friend's name was Cory Comparator. Yes, it was Cory Comparator who Mark Liti had confided his secret to that he had done something that he wasn't supposed to.
 
 Anchored Artifacts:
 Mentions: N-105, N-676
@@ -1024,7 +1024,7 @@ Claim Timestamp: 00:23:20
 
 Claim: The host says Trump is satisfied with the Butler investigation and wants it shut down, and calls Dan Bongino's reaction to Butler strange.
 
-Transcript Snippet: Most of all, Dan Bonino's strange reaction to it, uh, Trump's reaction to it. He's satisfied. He wants it shut down.
+Transcript Snippet: Most of all, Dan Bongino's strange reaction to it, uh, Trump's reaction to it. He's satisfied. He wants it shut down.
 
 Anchored Artifacts:
 Mentions: N-5, N-378
@@ -1040,7 +1040,7 @@ Claim Timestamp: 00:23:20
 
 Claim: The host says she has it on authority that Corey Comperatore's widow and family are not satisfied with the investigation or the answers they have received, and are unhappy that Secret Service agents never lost their jobs.
 
-Transcript Snippet: The widow of Corey Comparator and the family of Cory Comparator is not like Trump. They are not satisfied with the investigation.
+Transcript Snippet: The widow of Corey Comperatore and the family of Cory Comparator is not like Trump. They are not satisfied with the investigation.
 
 Anchored Artifacts:
 Mentions: N-105
@@ -1611,7 +1611,7 @@ Confidence: medium
 
 - **Artifacts verbally referenced but not shown**: A-2666.1 (the Department of War / White House "emotional asset" email). A-2662.1 (FBI plane flight) is described in detail, but the transcript does not show whether flight data was on screen.
 - **DIA scan**: the only hit is "candace Owens. com" (51:13), a merch plug, so it is not a DIA beat. There are no tip requests or bounties; M-12 is not used.
-- **Name matching**: The skeleton's "Mark Liti" (transcript "Mark A. Leiti", "Mark Ley", "Mark Le", "Mark A. Ley", "Mark a lady") is minted as N-676. His brother is minted as N-677 under the transcript spelling "Chris Liti"; the surname may also be Liti. "Courtney Thief" (N-678, described as a former ATF agent) comes from a garbled sentence, so both the name and the role are uncertain. "Corey/Cory Comparator" is mapped to N-105 Corey Comperatore. "Cameron Haynes" is minted as N-680 Cameron Hanes. "James Kaddis" (N-666) and "Vladimir Putin" (N-625) reuse titles from staging episodes 112 and 105/111. "Blick Nef" is mapped to N-159, "Andrew Kolvet" to N-14, "Dan Bonino" to N-378, "Bill Ackman" to N-37 and "Rob McCoyy" to N-17. "The Crooks family" is linked to N-104 only as the family name.
+- **Name matching**: The skeleton's "Mark Liti" (transcript "Mark A. Leiti", "Mark Liti", "Mark Le", "Mark Liti", "Mark a lady") is minted as N-676. His brother is minted as N-677 under the transcript spelling "Chris Liti"; the surname may also be Liti. "Courtney Fife" (N-678, described as a former ATF agent) comes from a garbled sentence, so both the name and the role are uncertain. "Corey/Cory Comparator" is mapped to N-105 Corey Comperatore. "Cameron Hanes" is minted as N-680 Cameron Hanes. "James Kaddis" (N-666) and "Vladimir Putin" (N-625) reuse titles from staging episodes 112 and 105/111. "Blick Nef" is mapped to N-159, "Andrew Kolvet" to N-14, "Dan Bongino" to N-378, "Bill Ackman" to N-37 and "Rob McCoyy" to N-17. "The Crooks family" is linked to N-104 only as the family name.
 - **Meme title spellings**: The merch meme appears in staging as "Stop Anti-Candism" (112), "Stop Anti-Candaceism" (111) and "Anti-Candacism" (113). This episode uses the 112 spelling. "Punt the Chihuahua" (M-115) also aired in episodes 111 and 116 but has not been minted in staging before, so the integrator may need to merge it.
 - **Transcription ambiguities**: "PE TN", "PN", "PET and" and "PE10" all refer to PETN. "Ken Kiddening" and "Kittening" refer to Kittanning. "Mossad" is the transcript's spelling of Mossad. "306" is .30-06. "Sar Jafal" and "Hussein Teny" are survivors named in the pager clip; no nodes were made for them. X user "Crystal Smalland" is credited with finding the Charlie Kirk video and is treated as a handle, not a node.
 - **Garbled passage**: around 11:53–12:21 the transcript reads "Just 2. Months after the Butler shooting, um Cory Comparator loses his life" before turning to the pager attack "on September 17th. And on September 18th of 2024"; the sentence seems to have lost words and was not inscribed.

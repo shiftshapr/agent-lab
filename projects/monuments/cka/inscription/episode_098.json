@@ -187,7 +187,7 @@
           "@type": "Artifact",
           "@id": "A-2036.1",
           "ref": "A-2036.1",
-          "description": "FARA registration filed by Show Faith by Works LLC; principal listed as Israel's Ministry of Foreign Affairs; U.S. representative: Chad Schnitker; geofencing partnership: Havas Media; legal representative: Dhillon Law Group",
+          "description": "FARA registration filed by Show Faith by Works LLC; principal listed as Israel's Ministry of Foreign Affairs; U.S. representative: Chad Schnitger; geofencing partnership: Havas Media; legal representative: Dhillon Law Group",
           "related_claims": [
             "C-2845",
             "C-2846",
@@ -1072,7 +1072,7 @@
       "@type": "Person",
       "@id": "N-429",
       "ref": "N-429",
-      "name": "Chad Schnitker",
+      "name": "Chad Schnitger",
       "type": "person",
       "description": "First named by the host at 00:37:02 in episode 98.",
       "related_artifacts": [],
@@ -1990,8 +1990,8 @@
       "@type": "Claim",
       "@id": "C-2844",
       "ref": "C-2844",
-      "label": "Host Reads Times of Israel Saying Show Faith by Works Is Run by Chad Schnitker",
-      "claim": "Per a Times of Israel article the host reads, Show Faith by Works LLC, which filed under FARA, is run by Chad Schnitker, a prominent Christian conservative activist in California.",
+      "label": "Host Reads Times of Israel Saying Show Faith by Works Is Run by Chad Schnitger",
+      "claim": "Per a Times of Israel article the host reads, Show Faith by Works LLC, which filed under FARA, is run by Chad Schnitger, a prominent Christian conservative activist in California.",
       "anchored_artifacts": [
         "A-2035.1",
         "A-2036.1"

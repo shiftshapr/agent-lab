@@ -771,9 +771,9 @@ First named by the host at 00:29:36 in episode 140. Man the host says was arrest
 
 **N-864** Britta Weidner
 
-First named by the host at 00:31:45 in episode 140 (spelled Britta Weidner and Brita in the transcript). Owner of the No Soup for Knowles / No Soup for Knowles X account.
+First named by the host at 00:31:45 in episode 140 (spelled Britta Weidner and Britta in the transcript). Owner of the No Soup for Knowles / No Soup for Knowles X account.
 
-Aliases: No Soup for Knowles; No Soup for Knowles; Britta Weidner; Brita
+Aliases: No Soup for Knowles; No Soup for Knowles; Britta Weidner; Britta
 
 *Related: C-10462, C-10463, C-10464*
 

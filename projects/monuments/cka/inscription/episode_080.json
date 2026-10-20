@@ -1001,7 +1001,7 @@
       "@type": "Person",
       "@id": "N-68",
       "ref": "N-68",
-      "name": "Skyler",
+      "name": "Schuyler",
       "type": "person",
       "description": "Show staffer or associate the host asks about Netanyahu's reported location.",
       "related_artifacts": [],
@@ -3367,7 +3367,7 @@
       "@id": "C-14440",
       "ref": "C-14440",
       "label": "Host Says Netanyahu Was Reportedly at an Air Force Base Greeting People",
-      "claim": "The host says, citing Skyler, that Netanyahu was at an Air Force base that day greeting people while the show was live.",
+      "claim": "The host says, citing Schuyler, that Netanyahu was at an Air Force base that day greeting people while the show was live.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10544"
@@ -3377,7 +3377,7 @@
       ],
       "claim_timestamp": "00:54:12",
       "investigative_direction": "Check Israeli government releases for any air base visit on March 17.",
-      "transcript_snippet": "Where'd you say he was, Skyler? Like at the Air Force base today greeting people.",
+      "transcript_snippet": "Where'd you say he was, Schuyler? Like at the Air Force base today greeting people.",
       "mentions_person_refs": [
         "N-68",
         "N-36"

@@ -302,7 +302,7 @@ Placed by the host on the Superfeed board with Lori Frantzve.
 
 **N-14** Andrew Kolvet
 
-Transcript spellings "Andrew Colbet", "Andrew Cole" and "Andrew Kolvet". The host says he coordinated Erika Kirk's Fort Huachuca alibi with Gary Melton and said TPUSA declined deepfake offers.
+Transcript spellings "Andrew Kolvet", "Andrew Cole" and "Andrew Kolvet". The host says he coordinated Erika Kirk's Fort Huachuca alibi with Gary Melton and said TPUSA declined deepfake offers.
 
 *Related: C-4039, C-4040, C-4042, C-4043, C-4053, C-4057, A-2570.2, A-2570.3, A-2572.3*
 
@@ -367,7 +367,7 @@ Erika Kirk's mother; the host places her on the Superfeed board and ties her to 
 
 **N-615** Gary Melton
 
-First named by the host at 00:00:56 in episode 103. Self-described former Green Beret who runs the Paramount Tactical show and read Erika Kirk's September 9 alibi on air. Aliases: Gary Moulton; Gary Mountain.
+First named by the host at 00:00:56 in episode 103. Self-described former Green Beret who runs the Paramount Tactical show and read Erika Kirk's September 9 alibi on air. Aliases: Gary Melton; Gary Melton.
 
 *Related: C-4040, C-4041, C-4042, C-4045, C-4046, A-2570.2, A-2570.3, A-2570.4*
 
@@ -379,13 +379,13 @@ First named by the host at 00:09:26 in episode 103. Founder of Charis Bible Coll
 
 **N-617** Desmond Holly
 
-First named by the host at 00:13:00 in episode 103. The 16-year-old Evergreen High School student named in the official account as the September 10 shooter. Aliases: Deshaun Holly.
+First named by the host at 00:13:00 in episode 103. The 16-year-old Evergreen High School student named in the official account as the September 10 shooter. Aliases: Desmond Holly.
 
 *Related: C-4028, C-4029, C-4030, A-2569.3*
 
 **N-618** Matthew Silverstone
 
-First named by the host at 00:13:00 in episode 103. The second Evergreen High School student shot near South Olive Road and Buffalo Park Road. Aliases: Matt Silverstone; Matthew Stone.
+First named by the host at 00:13:00 in episode 103. The second Evergreen High School student shot near South Olive Road and Buffalo Park Road. Aliases: Matt Silverstone; Matthew Silverstone.
 
 *Related: C-4029, A-2569.3*
 
@@ -917,7 +917,7 @@ Claim Timestamp: 00:13:58
 
 Claim: The host says Desmond Holly shot a second student, Matthew Silverstone, at the intersection of South Olive Road and Buffalo Park Road, and that roofer Delmer Martinez filmed the confrontation.
 
-Transcript Snippet: And he does this at the intersection of South Olive Road and Buffalo Park Road. Uh a roofer, a guy who's literally working on roofs in construction, a man named Delmar Martinez, filmed this initial confrontation.
+Transcript Snippet: And he does this at the intersection of South Olive Road and Buffalo Park Road. Uh a roofer, a guy who's literally working on roofs in construction, a man named Delmer Martinez, filmed this initial confrontation.
 
 Anchored Artifacts: A-2569.3
 Mentions: N-617, N-618, N-619
@@ -1061,7 +1061,7 @@ Claim Timestamp: 00:27:27
 
 Claim: The host says Andrew Kolvet was supposed to have been moved away from PR and that crisis PR was brought in, at least according to what Erika Kirk told her.
 
-Transcript Snippet: Andrew Colbet, who was supposed to have been, you know, moved away from PR because he was failing miserably at it. They brought in crisis PR, at least that's what Erika told me.
+Transcript Snippet: Andrew Kolvet, who was supposed to have been, you know, moved away from PR because he was failing miserably at it. They brought in crisis PR, at least that's what Erika told me.
 
 Anchored Artifacts:
 Mentions: N-14, N-2, N-3
@@ -1076,7 +1076,7 @@ Claim Timestamp: 00:27:27
 
 Claim: The host alleges that Erika Kirk and Andrew Kolvet coordinated with Paramount Tactical's Gary Melton to put out an alibi for Erika Kirk's Fort Huachuca whereabouts.
 
-Transcript Snippet: Erika coordinating with Andrew Colbet to get an alibi for Fort Wat Chuca to this obscure YouTuber. Paramount Tactical, Gary Melton.
+Transcript Snippet: Erika coordinating with Andrew Kolvet to get an alibi for Fort Wat Chuca to this obscure YouTuber. Paramount Tactical, Gary Melton.
 
 Anchored Artifacts: A-2570.2
 Mentions: N-2, N-14, N-615
@@ -1525,9 +1525,9 @@ Confidence: high
 - **Artifacts referenced but not shown**: Victor Marx's Instagram reply to the host (01:59) and his video announcing Charlie Kirk's death are mentioned only. Trump's Time magazine post (00:01) is described, not shown. The September 10 flight data for N582MM (A-2568.1) is described with "you can see", but no on-screen text is read, so it carries Medium confidence. The Evergreen sheriff's document release and October 10 update are described, not shown.
 - **Possible duplicate node**: N-10903 (N582MM TPUSA-Associated Plane Flight Pattern) matches N-10903 in staged episode 084, which also tracked N582MM's Pierre–Chicago–Provo route on September 10. That node has no global id in nodes.tsv yet, so the integrator should merge the two. Ep 084's placeholder claims on the same route (Baron Coleman's tracking) cannot be linked as Supports until they have global ids.
 - **Inconsistency in the host's account**: she says Charlie Kirk used N582MM for "basically all of 2023" and then "all through 2025" (09:26–10:19). The tail number is first read as "9582 MM" and later as "N582 MM". Both are preserved as spoken.
-- **Name matching**: "Andrew Colbet", "Andrew Cole" and "Andrew Kolvet" are mapped to N-14 Andrew Kolvet. "Justin Streiff" maps to N-15 (alias). "Jesse Watters" maps to N-211. Gary Melton is also transcribed "Gary Moulton" and "Gary Mountain" and is minted as N-615; Paramount Tactical is matched to the org N-10899 Paramount Tactical Valhalla. "Colby Hall" (22:06) is taken as Corby Hall but is not cited. "Victor Marx" (22:50) is Victor Marx. "Larry Loomer" (00:01) is presumably Laura Loomer, but she is not cited. "Dick Shirley" (45:48) is presumably Nick Shirley, also not cited. "Ericka" is Erika Kirk.
-- **Name correction**: the host says "Jessica Garza" ("I believe her name was"); the Aurora victim who survived the 2012 Toronto Eaton Centre food-court shooting is Jessica Ghawi (Redfield), already node N-478 from episode 60. Transcript spelling kept in snippets; "Jessica Garza" is an alias.
-- **Transcription ambiguities**: "Fort Wat Chuca" is Fort Huachuca. "Smith & Wesson.38" is kept as written. "Deshaun Holly" and "Holly Desmond Holly" refer to Desmond Holly. "Matthew Stone" (18:49) is taken as Matthew Silverstone. "Delmer Martinez" is Delmer Martinez. The email address is transcribed "more tips@canasown. com". "Pride of Charlie" (50:23) is probably the Bride of Charlie series. "they act Superfeed" is garbled.
+- **Name matching**: "Andrew Kolvet", "Andrew Cole" and "Andrew Kolvet" are mapped to N-14 Andrew Kolvet. "Justin Streiff" maps to N-15 (alias). "Jesse Watters" maps to N-211. Gary Melton is also transcribed "Gary Melton" and "Gary Melton" and is minted as N-615; Paramount Tactical is matched to the org N-10899 Paramount Tactical Valhalla. "Colby Hall" (22:06) is taken as Corby Hall but is not cited. "Victor Marx" (22:50) is Victor Marx. "Larry Loomer" (00:01) is presumably Laura Loomer, but she is not cited. "Dick Shirley" (45:48) is presumably Nick Shirley, also not cited. "Ericka" is Erika Kirk.
+- **Name correction**: the host says "Jessica Ghawi" ("I believe her name was"); the Aurora victim who survived the 2012 Toronto Eaton Centre food-court shooting is Jessica Ghawi (Redfield), already node N-478 from episode 60. Transcript spelling kept in snippets; "Jessica Ghawi" is an alias.
+- **Transcription ambiguities**: "Fort Wat Chuca" is Fort Huachuca. "Smith & Wesson.38" is kept as written. "Desmond Holly" and "Holly Desmond Holly" refer to Desmond Holly. "Matthew Silverstone" (18:49) is taken as Matthew Silverstone. "Delmer Martinez" is Delmer Martinez. The email address is transcribed "more tips@canasown. com". "Pride of Charlie" (50:23) is probably the Bride of Charlie series. "they act Superfeed" is garbled.
 - **DIA scan**: one real hit, "more tips@canasown. com" at 53:58 (C-4059, A-2573.1, M-12). The 04:29 remark "I received a few tips into our inbox" relays tips already received rather than asking for or paying off a tip, and matches none of the scan phrases, so it is recorded only as C-4012, not as a DIA beat. The Candace Intelligence Agency merch phrase does not air (no M-14).
 - **Not inscribed as claims (admission test)**: The following were left out as opinion, framing or rhetoric:
   - "I don't really buy his pastoral act"

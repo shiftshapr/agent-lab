@@ -85,7 +85,7 @@ You can confirm that 500 Delaware A is the burough's public facing spot, but Goo
 
 [16:45]
 
-Multiple agents of multiple different agencies in one suite is not common or typical in the slightest. A joint office is common, but there's a line to draw between a joint office and at least three different agencies alongside contractors all operating in one place. Also, take a look at the bureau's own press release from December 5th, 2024. Christopher Ray, quote, "Met with key partners and stressed how critical FBI partnerships are to protecting our communities." They chose to mention partners. They didn't say that he met with agents that were assigned in Wilmington. They foregrounded partnerships. That's the vocabulary that they use when the space is not purely FBI and it lines up with what is actually happening at 920 North King Street, which is the FBI, the DEA, and the USS, United States Secret Service, and others are working together in a commercial tower. Here is the link for that press release.
+Multiple agents of multiple different agencies in one suite is not common or typical in the slightest. A joint office is common, but there's a line to draw between a joint office and at least three different agencies alongside contractors all operating in one place. Also, take a look at the bureau's own press release from December 5th, 2024. Christopher Wray, quote, "Met with key partners and stressed how critical FBI partnerships are to protecting our communities." They chose to mention partners. They didn't say that he met with agents that were assigned in Wilmington. They foregrounded partnerships. That's the vocabulary that they use when the space is not purely FBI and it lines up with what is actually happening at 920 North King Street, which is the FBI, the DEA, and the USS, United States Secret Service, and others are working together in a commercial tower. Here is the link for that press release.
 
 [17:46]
 
@@ -127,7 +127,7 @@ I am curious about who was on that plane because we can attach that to Turning P
 
 [29:34]
 
-That person is just leaving Santa Barbara. Passengers don't know. Here are the passengers that we know came from Arizona and uh potentially Santa Barbara. Andrew Kolvet, Andrew Kolvet's wife. We have a priest. We have Stacy Sheridan who's the chief finance person. We have u I mean uh the fundraiser over there. The we have Elizabeth McCoy, Mikey McCoyy's the amazing Mike McCoy's wife. Uh we have Tyler Bowyer. We have Erikica Kirk. This there could be more people. We need to focus here. There's a there's a fact that's not connecting for me when I look at this. A fact that I have about how things were running that day. And so if you have information, maybe you're at Turning Point USA at who left at what time. Turning point headquarters. I Elizabeth McCoy screamed. She grabbed her phone. She ran out.
+That person is just leaving Santa Barbara. Passengers don't know. Here are the passengers that we know came from Arizona and uh potentially Santa Barbara. Andrew Kolvet, Andrew Kolvet's wife. We have a priest. We have Stacy Sheridan who's the chief finance person. We have u I mean uh the fundraiser over there. The we have Elizabeth McCoy, Mikey McCoy's the amazing Mike McCoy's wife. Uh we have Tyler Bowyer. We have Erika Kirk. This there could be more people. We need to focus here. There's a there's a fact that's not connecting for me when I look at this. A fact that I have about how things were running that day. And so if you have information, maybe you're at Turning Point USA at who left at what time. Turning point headquarters. I Elizabeth McCoy screamed. She grabbed her phone. She ran out.
 
 [30:25]
 
@@ -163,7 +163,7 @@ And so you are left to believe that this really was a modern-day miracle. And he
 
 [36:19]
 
-Obviously, this is a conspiracy. Okay, it is a conspiracy. And I was so happy to hear Joe Rogan spell out and acknowledge that not only are conspiracies real, but they're actually common. Okay. He sat down uh with comedian Theo Vaughn and they discussed just that thing. Take a listen. >> What makes me nervous is the people that are not aware that all of our assumptions of how the government works, we're all based on The people that still believe that are like true believers of one side or the other, true faith in government and experts, those people make me more nervous because some of them are smart. That's what's crazy. when smart people are completely unwilling to recognize that conspiracies are not just real, but they're also not rare. They're they're very common.
+Obviously, this is a conspiracy. Okay, it is a conspiracy. And I was so happy to hear Joe Rogan spell out and acknowledge that not only are conspiracies real, but they're actually common. Okay. He sat down uh with comedian Theo Von and they discussed just that thing. Take a listen. >> What makes me nervous is the people that are not aware that all of our assumptions of how the government works, we're all based on The people that still believe that are like true believers of one side or the other, true faith in government and experts, those people make me more nervous because some of them are smart. That's what's crazy. when smart people are completely unwilling to recognize that conspiracies are not just real, but they're also not rare. They're they're very common.
 
 [37:12]
 

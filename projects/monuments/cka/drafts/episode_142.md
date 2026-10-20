@@ -929,8 +929,8 @@ First named by the host at 00:08:20 in episode 142. Camera operator the host say
 
 **N-827** Kathy Nester
 
-First named in this episode by the host at 00:24:49 (transcribed Kathy Netor). Defense attorney in the Tyler Robinson case, as recorded in episode 94.
-Aliases: Kathy Netor
+First named in this episode by the host at 00:24:49 (transcribed Kathy Nester). Defense attorney in the Tyler Robinson case, as recorded in episode 94.
+Aliases: Kathy Nester
 
 *Related: C-9182*
 
@@ -1661,7 +1661,7 @@ Claim Timestamp: 00:24:49
 
 Claim: The host says defense attorney Kathy Nester (transcribed Netor) asked questions and asserted that the defense does not know whether the footage was edited.
 
-Transcript Snippet: The questions that Kathy Netor asked thereafter um things that she asserted about they don't know whether or not that footage was edited.
+Transcript Snippet: The questions that Kathy Nester asked thereafter um things that she asserted about they don't know whether or not that footage was edited.
 
 Anchored Artifacts: 
 Mentions: N-827

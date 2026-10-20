@@ -24,7 +24,7 @@
 
 ## 2. Executive Summary
 
-Building on the Vanity Fair critique, this episode presents leaked Telegram traffic from a “Dominate 2.0” group in which Erika Kirk asks staff for “big hitters” / full donor lists ahead of a Mar-a-Lago fundraising event (Taylor Scornovako replies with six-figure donors sorted by MGO). The host then publishes Yrefy (Yrefy) sponsorship contracts with TPUSA: a detailed February 2025 ~$2.25M agreement through early 2026, plus a sparse July 25, 2025 addendum adding ~$1.25M for Charlie’s fall campus tour (branded wall, presenting sponsorship, short mainstage speaking)–timings the host ties to Zionist-donor pullouts after Charlie’s Israel shift and to the UVU booking chain. A long concurrent timeline overlays Yrefy, Macron/Brigitte pressure calls (Feb), BCG/Gaza Humanitarian Foundation / Johnnie Moore–Kolvet Kairos links (June), UVU mass-casualty drill, White House Iran debate, Instagram purge, July Netanyahu visit + Candace college-video archive, July 10 UVU courtyard ask, SAS/Tucker Epstein remarks and Bob Shaman pullout, Charlie’s Epstein walk-back, Egyptian-plane movements, Hamptons BB call, and repeated New York Times–reported Epstein “situation room” meetings (JD Vance, Susie Wiles, Kash Patel, Pam Bondi, Todd Blanche, et al., often without Trump). The host floats that Charlie may have been killed over Epstein-network panic. Final third covers Brian Cole Jr., the autistic man federal authorities present as the J6 pipe-bomb suspect: Tucker-hosted parent interview / interrogation transcript describing coerced confession, then the coincidence that the same Scripps Media journalists who aired obscure Tyler Robinson traffic bodycam also aired Cole’s minor 2024 crash bodycam–plus Erika’s childhood daycare in a Cincinnati Scripps building. Closing comments revisit Mikey McCoy office optics, Israel narrative betrayal, Andrew Wilson text-leaks vs heaven-focused branding, and dual Telegram accounts.
+Building on the Vanity Fair critique, this episode presents leaked Telegram traffic from a “Dominate 2.0” group in which Erika Kirk asks staff for “big hitters” / full donor lists ahead of a Mar-a-Lago fundraising event (Taylor Scornovako replies with six-figure donors sorted by MGO). The host then publishes Yrefy (Yrefy) sponsorship contracts with TPUSA: a detailed February 2025 ~$2.25M agreement through early 2026, plus a sparse July 25, 2025 addendum adding ~$1.25M for Charlie’s fall campus tour (branded wall, presenting sponsorship, short mainstage speaking)–timings the host ties to Zionist-donor pullouts after Charlie’s Israel shift and to the UVU booking chain. A long concurrent timeline overlays Yrefy, Macron/Brigitte pressure calls (Feb), BCG/Gaza Humanitarian Foundation / Johnnie Moore–Kolvet Kairos links (June), UVU mass-casualty drill, White House Iran debate, Instagram purge, July Netanyahu visit + Candace college-video archive, July 10 UVU courtyard ask, SAS/Tucker Epstein remarks and Robert Shillman pullout, Charlie’s Epstein walk-back, Egyptian-plane movements, Hamptons BB call, and repeated New York Times–reported Epstein “situation room” meetings (JD Vance, Susie Wiles, Kash Patel, Pam Bondi, Todd Blanche, et al., often without Trump). The host floats that Charlie may have been killed over Epstein-network panic. Final third covers Brian Cole Jr., the autistic man federal authorities present as the J6 pipe-bomb suspect: Tucker-hosted parent interview / interrogation transcript describing coerced confession, then the coincidence that the same Scripps Media journalists who aired obscure Tyler Robinson traffic bodycam also aired Cole’s minor 2024 crash bodycam–plus Erika’s childhood daycare in a Cincinnati Scripps building. Closing comments revisit Mikey McCoy office optics, Israel narrative betrayal, Andrew Wilson text-leaks vs heaven-focused branding, and dual Telegram accounts.
 
 ## 6. Meme Register
 
@@ -1180,7 +1180,7 @@ Trump-world aide named by the host among Epstein-file situation-room attendees.
 **N-158** Stanley Woodward
 
 Node Type: Person
-Trump-world lawyer. Host's attendee read (ASR Woodwick) places him with Susie Wiles, Taylor Budowich, David Warrington, and James Blair.
+Trump-world lawyer. Host's attendee read (ASR Woodward) places him with Susie Wiles, Taylor Budowich, David Warrington, and James Blair.
 
 *Related: C-3612*
 
@@ -1283,7 +1283,7 @@ Listed among proposed influencers in the Yrefy social media blitz.
 
 **N-95** Jack Posobiec
 
-Listed among proposed influencers in the Yrefy social media blitz (transcribed Jack Pobic).
+Listed among proposed influencers in the Yrefy social media blitz (transcribed Jack Posobiec).
 
 *Related: C-6380*
 
@@ -1315,7 +1315,7 @@ Daily Wire figure who asked on August 14 to speak at UVU (transcribed Kabat Phil
 
 **N-378** Dan Bongino
 
-Named with Kash Patel as announcing the Brian Cole Jr. arrest (transcribed Dan Bonino).
+Named with Kash Patel as announcing the Brian Cole Jr. arrest (transcribed Dan Bongino).
 
 *Related: C-6436*
 
@@ -2205,7 +2205,7 @@ Claim Timestamp: 00:17:29
 
 Claim: The host reads the contract's list of proposed social media blitz influencers, subject to availability: Alex Clark, Riley, Morgonn McMichael, Benny Johnson, Jack Posobiec, Anthony Watson, Isabel Brown, Lauren Chen, Chrissy Clark and Savanah Hernandez, and says she cannot tell whether any besides Riley took up the offer.
 
-Transcript Snippet: These are their proposed influencers. May vary on availability. Alex Clark, Riley, Morgan Mcichael, Benny Johnson, Jack Pobic, Anthony Watson, Isabel Brown, Lauren Chen, Chrissy Clark.
+Transcript Snippet: These are their proposed influencers. May vary on availability. Alex Clark, Riley, Morgan Mcichael, Benny Johnson, Jack Posobiec, Anthony Watson, Isabel Brown, Lauren Chen, Chrissy Clark.
 
 Anchored Artifacts: A-2467.1
 Mentions: N-99, N-24, N-89, N-95, N-848, N-888
@@ -3051,7 +3051,7 @@ Claim Timestamp: 00:45:54
 
 Claim: The host says Kash Patel and Dan Bongino found the J6 pipe-bomb suspect, an autistic black man named Brian Cole Jr., arrested five years after the events, and that the FBI says he confessed while his legal team says he has autism.
 
-Transcript Snippet: And suddenly Kash Patel and Dan Bonino, they found the guy and it's an autistic black man named Brian Cole Jr.
+Transcript Snippet: And suddenly Kash Patel and Dan Bongino, they found the guy and it's an autistic black man named Brian Cole Jr.
 
 Anchored Artifacts: 
 Mentions: N-69, N-378, N-25

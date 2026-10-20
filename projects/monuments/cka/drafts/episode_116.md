@@ -350,7 +350,7 @@ Named as wearing a polo-style hat at the memorial.
 
 **N-105** Corey Comperatore
 
-Transcript spelling "Corey Comparator". Butler victim whose friend Don Porter supplied leads to the host.
+Transcript spelling "Corey Comperatore". Butler victim whose friend Don Porter supplied leads to the host.
 
 *Related: C-4593*
 

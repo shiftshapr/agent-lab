@@ -270,7 +270,7 @@ Transcript spelling "Blake Neff". Co-host of the May 8 Charlie Kirk Show clip on
 
 **N-160** Steven Cheung
 
-Transcript spelling "Steven Chong". Named by the host as a recipient of the email.
+Transcript spelling "Steven Cheung". Named by the host as a recipient of the email.
 
 *Related: C-4125, A-2581.2*
 
@@ -336,7 +336,7 @@ First named by the host at 00:11:19 in episode 105. Described as Navy and a reci
 
 **N-628** Kevin O'Leary
 
-First named by the host at 00:18:48 in episode 105. Shark Tank venture capitalist backing the Stratos data center; interviewed by Tucker Carlson. Aliases: Kevin Olirri; Olyri; Kevin Liry.
+First named by the host at 00:18:48 in episode 105. Shark Tank venture capitalist backing the Stratos data center; interviewed by Tucker Carlson. Aliases: Kevin O'Leary; O'Leary; Kevin O'Leary.
 
 *Related: C-4137, C-4139, C-4141, A-2584.1, A-2585.1*
 
@@ -639,7 +639,7 @@ Claim Timestamp: 00:06:45
 
 Claim: The host says Sara Sidner of CNN uploaded the video of Erika Kirk at 9:25 p.m.
 
-Transcript Snippet: Sydney Sidner of CNN uploaded the video of Erikica Kirk at 9:25 p. m.
+Transcript Snippet: Sydney Sidner of CNN uploaded the video of Erika Kirk at 9:25 p. m.
 
 Anchored Artifacts:
 Mentions: N-370, N-2
@@ -775,7 +775,7 @@ Claim Timestamp: 00:10:20
 
 Claim: The host says White House communications director Steven Cheung and Richard Smale, a WHCA communications officer and information assurance engineer, were recipients of the email.
 
-Transcript Snippet: We covered some of this yesterday with Steven Chong who is the White House communications director. Richard Smale who is the communications officer
+Transcript Snippet: We covered some of this yesterday with Steven Cheung who is the White House communications director. Richard Smale who is the communications officer
 
 Anchored Artifacts: A-2581.2
 Mentions: N-160, N-626
@@ -955,7 +955,7 @@ Claim Timestamp: 00:18:48
 
 Claim: The article says the project is backed by Shark Tank venture capitalist Kevin O'Leary, who has claimed Stratos will deliver thousands of jobs.
 
-Transcript Snippet: the proposed project is backed by Kevin Olirri, the venture capitalist who appeared on the TV show Shark Tank.
+Transcript Snippet: the proposed project is backed by Kevin O'Leary, the venture capitalist who appeared on the TV show Shark Tank.
 
 Anchored Artifacts: A-2584.1
 Mentions: N-628
@@ -985,7 +985,7 @@ Claim Timestamp: 00:19:54
 
 Claim: The article says Kevin O'Leary claimed in social media posts that most protesters do not live locally and were paid to object to the project.
 
-Transcript Snippet: Olyri has claimed in social media posts that most of the protesters don't live locally and have been paid to object to the project.
+Transcript Snippet: O'Leary has claimed in social media posts that most of the protesters don't live locally and have been paid to object to the project.
 
 Anchored Artifacts: A-2584.1
 Mentions: N-628
@@ -1619,7 +1619,7 @@ Confidence: high
 - **DIA beats**: a scan for the required tip/bounty phrases found no hits (the only "tip" match is inside "multiple" in a sponsor read). No DIA claim, artifact or M-12 occurrence was inscribed, and M-14 does not air.
 - **Artifacts verbally referenced but not shown**: A-2587.2 (earlier Paramount Tactical stream clip, not replayed) and A-2588.1 (Tracy Martin's statement). Sara Sidner's CNN upload of the Erika Kirk clip is referenced but not re-shown, so no artifact was made for it. The host says the email shown (A-2581.1) is her own retyping, not the original document.
 - **Duration discrepancy**: the skeleton meta gave 00:56:29; the transcript front matter gives 53:39, which is used here.
-- **Name matching**: "Sydney Sidner" is mapped to N-370 Sara Sidner (CNN). "Steven Chong" is mapped to N-160 Steven Cheung. "Harit Dylan" and "Dhillon Law Group" are mapped to N-373 Harmeet Dhillon and N-10652. "Caroline Lev" (15:44) is read as Karoline Leavitt. "Andrew Kolvet", "Kolvet" and "Kovat" are mapped to N-14. The email recipients "Richard Smale", "Gustav Anderly", "Ryan Rippeon" and "Michaela Mott" are minted as new persons with the transcript spellings, which are unverified auto-caption renderings. "Kevin Olirri", "Olyri" and "Kevin Liry" are treated as Kevin O'Leary. Gary Melton is minted as a person (N-615) separate from the org node N-10899 Paramount Tactical Valhalla, and the integrator may wish to link them.
+- **Name matching**: "Sydney Sidner" is mapped to N-370 Sara Sidner (CNN). "Steven Cheung" is mapped to N-160 Steven Cheung. "Harit Dylan" and "Dhillon Law Group" are mapped to N-373 Harmeet Dhillon and N-10652. "Caroline Lev" (15:44) is read as Karoline Leavitt. "Andrew Kolvet", "Kolvet" and "Kovat" are mapped to N-14. The email recipients "Richard Smale", "Gustav Anderly", "Ryan Rippeon" and "Michaela Mott" are minted as new persons with the transcript spellings, which are unverified auto-caption renderings. "Kevin O'Leary", "O'Leary" and "Kevin O'Leary" are treated as Kevin O'Leary. Gary Melton is minted as a person (N-615) separate from the org node N-10899 Paramount Tactical Valhalla, and the integrator may wish to link them.
 - **Transcription ambiguities**: "White House Correspondence Agency" in the read quote (09:00) is taken to mean the White House Communications Agency. "acidic"/"acetic" Jews is kept as written and read as Hasidic. "Fort Huachuca" means Fort Huachuca. "Charlie Cook" (26:33, 35:20) is read as Charlie Kirk. The host says "Department of Justice" at 12:19 where context suggests Defense. "SCOPS" and "scops" are probably "psyops."
 - **Factual caveat**: C-4110 records the host's statement that Putin has been president for 22 years as spoken, without correction.
 - **Not inscribed as claims (admission test)**: "We are living inside of an episode of Black Mirror"; "operation mockingbird on steroids"; "We, all of us, we were the actual targets"; Erika Kirk as "a piece of military technology" or "Israeli tech"; "she socially engineered Charlie"; the military controlling X and trends; the aim of data centers being a surveillance state; Trump as "the ultimate Trojan horse"; the Charlie Kirk Show hosts "maybe kind of hate Charlie Kirk"; Erika Kirk having trouble producing real tears; the ballroom "surrogates" gut feeling; and rhetorical questions about Erika's West Wing visit.

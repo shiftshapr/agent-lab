@@ -440,7 +440,7 @@ Author of the post urging that Kent's allies be fired.
 
 ---
 
-**N-68** Skyler
+**N-68** Schuyler
 
 Show staffer or associate the host asks about Netanyahu's reported location.
 
@@ -2073,9 +2073,9 @@ Investigative Direction: Verify wording against the original video.
 
 Claim Timestamp: 00:54:12
 
-Claim: The host says, citing Skyler, that Netanyahu was at an Air Force base that day greeting people while the show was live.
+Claim: The host says, citing Schuyler, that Netanyahu was at an Air Force base that day greeting people while the show was live.
 
-Transcript Snippet: Where'd you say he was, Skyler? Like at the Air Force base today greeting people.
+Transcript Snippet: Where'd you say he was, Schuyler? Like at the Air Force base today greeting people.
 
 Anchored Artifacts: 
 Mentions: N-68, N-36

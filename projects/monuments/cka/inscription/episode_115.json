@@ -661,7 +661,7 @@
       "ref": "N-105",
       "name": "Corey Comperatore",
       "type": "person",
-      "description": "Transcript spellings \"Corey Comparator\" and \"Cory Comparator\". Described as Mark Liti's high school friend and confidant, killed at the Butler rally; his family is said to be dissatisfied with the investigation.",
+      "description": "Transcript spellings \"Corey Comperatore\" and \"Cory Comparator\". Described as Mark Liti's high school friend and confidant, killed at the Butler rally; his family is said to be dissatisfied with the investigation.",
       "related_artifacts": [],
       "related_claims": [
         "C-4541",
@@ -755,7 +755,7 @@
       "ref": "N-378",
       "name": "Dan Bongino",
       "type": "person",
-      "description": "Transcript spelling \"Dan Bonino\". The host calls his reaction to Butler strange.",
+      "description": "Transcript spelling \"Dan Bongino\". The host calls his reaction to Butler strange.",
       "related_artifacts": [],
       "related_claims": [
         "C-4569"
@@ -772,7 +772,7 @@
       "ref": "N-676",
       "name": "Mark Liti",
       "type": "person",
-      "description": "First named by the host at 00:06:04 in episode 115. Supervisor at Surefire Wireline LLC who died on August 23, 2022, aged 48, in what was reported as a burn-barrel explosion; the host says he allegedly took explosives from work. Aliases: Mark A. Leiti; Mark Ley; Mark Le; Mark A. Ley; Mark a lady.",
+      "description": "First named by the host at 00:06:04 in episode 115. Supervisor at Surefire Wireline LLC who died on August 23, 2022, aged 48, in what was reported as a burn-barrel explosion; the host says he allegedly took explosives from work. Aliases: Mark A. Leiti; Mark Liti; Mark Le; Mark Liti; Mark a lady.",
       "related_artifacts": [
         "A-2659.1"
       ],
@@ -815,7 +815,7 @@
       "@type": "Person",
       "@id": "N-678",
       "ref": "N-678",
-      "name": "Courtney Thief",
+      "name": "Courtney Fife",
       "type": "person",
       "description": "First named by the host at 00:08:45 in episode 115. Described as a former ATF agent through whom word of Liti's confession and the ATF investigation reportedly passed; the name spelling is uncertain.",
       "related_artifacts": [],
@@ -852,7 +852,7 @@
       "ref": "N-680",
       "name": "Cameron Hanes",
       "type": "person",
-      "description": "First named by the host at 00:33:58 in episode 115. Joe Rogan's podcast guest in the clip played. Aliases: Cameron Haynes.",
+      "description": "First named by the host at 00:33:58 in episode 115. Joe Rogan's podcast guest in the clip played. Aliases: Cameron Hanes.",
       "related_artifacts": [
         "A-2664.1"
       ],
@@ -1601,7 +1601,7 @@
       "tags": [],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Identify the sources who contacted the host and confirm their relationship to Corey Comperatore.",
-      "transcript_snippet": "I mean, I was contacted immediately by people who knew the real victim of that evening, and it wasn't Donald J. Trump. It was actually a firefighter named Corey Comparator.",
+      "transcript_snippet": "I mean, I was contacted immediately by people who knew the real victim of that evening, and it wasn't Donald J. Trump. It was actually a firefighter named Corey Comperatore.",
       "mentions_person_refs": [
         "N-105",
         "N-3"
@@ -1765,7 +1765,7 @@
       "tags": [],
       "claim_timestamp": "00:07:51",
       "investigative_direction": "Confirm Liti's employment and role through Surefire Wireline, his obituary or Pennsylvania business records.",
-      "transcript_snippet": "Mark Ley, not mentioned here in that news clip, was a supervisor for a company called Surefire Wireline LLC. that is in Kittening, Pennsylvania.",
+      "transcript_snippet": "Mark Liti, not mentioned here in that news clip, was a supervisor for a company called Surefire Wireline LLC. that is in Kittening, Pennsylvania.",
       "mentions_person_refs": [
         "N-676"
       ]
@@ -1800,7 +1800,7 @@
       "tags": [],
       "claim_timestamp": "00:08:45",
       "investigative_direction": "Identify the source of the confession account and any ATF or employer record of missing explosives in 2022.",
-      "transcript_snippet": "Allegedly, Mark A. Ley had confessed to his longtime high school friend just a week before he died um that he had illegally taken some explosives from his job.",
+      "transcript_snippet": "Allegedly, Mark Liti had confessed to his longtime high school friend just a week before he died um that he had illegally taken some explosives from his job.",
       "mentions_person_refs": [
         "N-676"
       ]
@@ -1810,7 +1810,7 @@
       "@id": "C-4552",
       "ref": "C-4552",
       "label": "The ATF was reportedly investigating Liti",
-      "claim": "The host says the ATF was apparently investigating Mark Liti over the explosives, according to what a former ATF agent named Courtney Thief reportedly confided.",
+      "claim": "The host says the ATF was apparently investigating Mark Liti over the explosives, according to what a former ATF agent named Courtney Fife reportedly confided.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10975",
@@ -1856,7 +1856,7 @@
       "tags": [],
       "claim_timestamp": "00:10:45",
       "investigative_direction": "Confirm the friendship through school records, social media and the families, and identify who relayed the confession.",
-      "transcript_snippet": "Mark Le's friend's name was Cory Comparator. Yes, it was Cory Comparator who Mark Ley had confided his secret to that he had done something that he wasn't supposed to.",
+      "transcript_snippet": "Mark Le's friend's name was Cory Comparator. Yes, it was Cory Comparator who Mark Liti had confided his secret to that he had done something that he wasn't supposed to.",
       "mentions_person_refs": [
         "N-105",
         "N-676"
@@ -2162,7 +2162,7 @@
       "tags": [],
       "claim_timestamp": "00:23:20",
       "investigative_direction": "Collect Trump's and Bongino's public statements on the Butler investigation and the FBI's closure status.",
-      "transcript_snippet": "Most of all, Dan Bonino's strange reaction to it, uh, Trump's reaction to it. He's satisfied. He wants it shut down.",
+      "transcript_snippet": "Most of all, Dan Bongino's strange reaction to it, uh, Trump's reaction to it. He's satisfied. He wants it shut down.",
       "supports_claim_refs": [
         "C-2677"
       ],
@@ -2184,7 +2184,7 @@
       "tags": [],
       "claim_timestamp": "00:23:20",
       "investigative_direction": "Seek public statements from Corey Comperatore's widow or the family's representatives.",
-      "transcript_snippet": "The widow of Corey Comparator and the family of Cory Comparator is not like Trump. They are not satisfied with the investigation.",
+      "transcript_snippet": "The widow of Corey Comperatore and the family of Cory Comparator is not like Trump. They are not satisfied with the investigation.",
       "mentions_person_refs": [
         "N-105"
       ]

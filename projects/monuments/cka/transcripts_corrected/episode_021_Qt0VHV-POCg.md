@@ -193,7 +193,7 @@ Anyways, moving on from that, I do on the topic of Israel want to let you know t
 
 [40:13]
 
-We all grew up with that, right? Um, we grew up being indoctrinated not to ask a single question when it comes to Israel. That's the reality. And Norm Finkelestein, whose parents survived, uh, one of his parents survived, Awitz, was the reason I had him on my show right after October 7th, sometime shortly thereafter when I was at the Daily Wire. And what he told me horrified me and it pushed me to become more educated on the topic. And I was so grateful that I was able to sit down with him again, this time on my totally owned own show. And uh I'm just going to show you a little trailer for that. Take a listen. >> The Economist magazine, it describes Gaza as quote a human rubbish heap. The leading UN official on Gaza describes it as quote a toxic dump for the people of Israel. Gazins are vermin.
+We all grew up with that, right? Um, we grew up being indoctrinated not to ask a single question when it comes to Israel. That's the reality. And Norman Finkelstein, whose parents survived, uh, one of his parents survived, Awitz, was the reason I had him on my show right after October 7th, sometime shortly thereafter when I was at the Daily Wire. And what he told me horrified me and it pushed me to become more educated on the topic. And I was so grateful that I was able to sit down with him again, this time on my totally owned own show. And uh I'm just going to show you a little trailer for that. Take a listen. >> The Economist magazine, it describes Gaza as quote a human rubbish heap. The leading UN official on Gaza describes it as quote a toxic dump for the people of Israel. Gazins are vermin.
 
 [41:11]
 

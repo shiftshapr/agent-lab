@@ -81,7 +81,7 @@
           "@type": "Artifact",
           "@id": "A-1765.1",
           "ref": "A-1765.1",
-          "description": "Epstein Document Official Name Search Entry for Lynn Forester / Lindy Rothschild Listing Her as Corcoran Group Inc. President with Redacted Work Email",
+          "description": "Epstein Document Official Name Search Entry for Lynn Forester / Lynn Forester de Rothschild Listing Her as Corcoran Group Inc. President with Redacted Work Email",
           "related_claims": [
             "C-2352"
           ],
@@ -2225,7 +2225,7 @@
       "@id": "C-2352",
       "ref": "C-2352",
       "label": "Epstein Document Lists Lynn Forester de Rothschild as Corcoran Group Inc. President",
-      "claim": "In a TikTok clip the host plays, an unnamed TikToker says an Epstein document performing an official name search for Lynn Forester (aka Lindy Rothschild) lists her as the Corcoran Group Inc. President, with a redacted email.",
+      "claim": "In a TikTok clip the host plays, an unnamed TikToker says an Epstein document performing an official name search for Lynn Forester (aka Lynn Forester de Rothschild) lists her as the Corcoran Group Inc. President, with a redacted email.",
       "anchored_artifacts": [
         "A-1765.1",
         "A-1769.1"

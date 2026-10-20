@@ -1013,7 +1013,7 @@ Named in the host's reference to Harpole's lawyer commenting on the Mitch story.
 
 **N-378** Dan Bongino
 
-Named by Charlie Kirk in the July 14 clip (transcript spelling Dan Bonino).
+Named by Charlie Kirk in the July 14 clip (transcript spelling Dan Bongino).
 
 *Related: C-6245*
 

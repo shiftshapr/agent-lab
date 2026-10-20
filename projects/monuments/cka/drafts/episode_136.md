@@ -758,7 +758,7 @@ Anchored Artifacts: A-2226.1
 Mentions: N-69
 Related Nodes:
 
-Investigative Direction: Verify the 12:39 PM arrival timestamp against UVU campus entry logs, FBI case file timestamps, and Patel/Dan Bonino interview transcripts.
+Investigative Direction: Verify the 12:39 PM arrival timestamp against UVU campus entry logs, FBI case file timestamps, and Patel/Dan Bongino interview transcripts.
 
 ---
 

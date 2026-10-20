@@ -436,7 +436,7 @@ First in family to homeschool; recipient of bee-warning text.
 
 ---
 
-**N-68** Skyler
+**N-68** Schuyler
 
 Node Type: Person
 Producer who corrects promo code on-air (Blackout15).

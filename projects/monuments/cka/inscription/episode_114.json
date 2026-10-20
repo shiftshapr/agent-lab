@@ -996,7 +996,7 @@
       "ref": "N-378",
       "name": "Dan Bongino",
       "type": "person",
-      "description": "Transcript spelling \"Dan Bonino\". According to Carlson, he said Trump shut down the Butler investigation; his response video and texts are played.",
+      "description": "Transcript spelling \"Dan Bongino\". According to Carlson, he said Trump shut down the Butler investigation; his response video and texts are played.",
       "related_artifacts": [
         "A-2646.1",
         "A-2647.1",
@@ -1087,7 +1087,7 @@
       "ref": "N-674",
       "name": "Brooke Singman",
       "type": "person",
-      "description": "First named at 00:07:15 in episode 114, by Dan Bongino in his response clip. Fox reporter whose November 21 article on the FBI's Crooks conclusion Bongino cites. Aliases: Brook Singman.",
+      "description": "First named at 00:07:15 in episode 114, by Dan Bongino in his response clip. Fox reporter whose November 21 article on the FBI's Crooks conclusion Bongino cites. Aliases: Brooke Singman.",
       "related_artifacts": [
         "A-2647.2"
       ],
@@ -1833,7 +1833,7 @@
       "tags": [],
       "claim_timestamp": "00:04:34",
       "investigative_direction": "Obtain Carlson's full account and Bongino's response; compare FBI statements on Crooks's online history against what was later disclosed.",
-      "transcript_snippet": "this story, the butler story, perhaps the butler cover up, whatever it is, terrified Dan Bonino and terrified Kash Patel.",
+      "transcript_snippet": "this story, the butler story, perhaps the butler cover up, whatever it is, terrified Dan Bongino and terrified Kash Patel.",
       "mentions_person_refs": [
         "N-3",
         "N-22",
@@ -2982,7 +2982,7 @@
           "episode": 114,
           "video_timestamp": "00:08:17",
           "speaker_node_ref": "N-3",
-          "quote": "Take a listen to Dan Bonino pull the Paramount not so tactical.",
+          "quote": "Take a listen to Dan Bongino pull the Paramount not so tactical.",
           "context": "Host reuses her nickname as a verb for Bongino accidentally confirming Carlson's point with his own texts.",
           "confidence": "high",
           "tags": [

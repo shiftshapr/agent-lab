@@ -35,7 +35,7 @@
 - Claim Range: C-2560–C-2580
   - New Nodes Introduced: N-10562, N-10563, N-10564, N-10565
   - Reused Nodes Appearing: N-11, N-10560, N-10561, N-5, N-15, N-40, N-69, N-186, N-227, N-268, N-489, N-494, N-580, N-10000, N-10015, N-10074, N-10110, N-10190, N-10193, N-10198, N-10202, N-10245, N-10307, N-10324, N-10355, N-10362, N-10483, N-10546, N-10548, N-10551, N-10554, N-10555, N-10866, N-10925, N-10956, N-11218
-- Existing Nodes Reused: N-1 Charlie Kirk; N-2 Erika Kirk; N-3 Candace Owens; Andrew Kolvet; Frank Turek; Frank (TPUSA counsel); Nick Searcy; Stacey Sheridan; Joe Rogan; Alexis Wilkins; Kash Patel; Joe Kent; General Michael Flynn; Tucker Carlson; Allie Stuckey; Yair Netanyahu; Tim Dillon; Tyler Bowyer; Pam Bondi; Thomas Massie; Vladimir Putin; Alexander Dugin; Bibi Netanyahu; Turning Point USA (institution)
+- Existing Nodes Reused: N-1 Charlie Kirk; N-2 Erika Kirk; N-3 Candace Owens; Andrew Kolvet; Frank Turek; Frank (TPUSA counsel); Nick Searcy; Stacy Sheridan; Joe Rogan; Alexis Wilkins; Kash Patel; Joe Kent; General Michael Flynn; Tucker Carlson; Allie Stuckey; Yair Netanyahu; Tim Dillon; Tyler Bowyer; Pam Bondi; Thomas Massie; Vladimir Putin; Alexander Dugin; Bibi Netanyahu; Turning Point USA (institution)
 
 ## 6. Meme Register
 
@@ -121,7 +121,7 @@ Confidence: high
 
 # Executive Summary
 
-This episode presents evidentiary and testimonial material advancing three parallel lines of inquiry: (1) a reconciliation problem surrounding the timing of the "tarmac hug" between Erika Kirk and Andrew Kolvet, against Frank Turek's estimate of Erica's hospital arrival time; (2) a first-person timeline of September 10 drawn from Elizabeth Kravchuk McCoy, describing TPUSA Arizona office activity, the call chain, and the drive to Scottsdale airport; and (3) the publication of a 13-part Alexis Wilkins X thread alleging a coordinated foreign-influence network. The Frank Turek audio clip and Alexis Wilkins thread are read aloud on air and inscribed as artifacts. A separate phone call to a Hopkinson Aircraft employee who would "neither confirm nor deny" seeing Erica is also captured. The episode also presents a Daily Wire article and supporting news items on Catholic Church growth, with a prior Allie Stuckey tweet denial cited as a discourse artifact. Investigative questions introduced include the September 10 whereabouts of Stacey Sheridan, the precise call chain sequence, and verification of multiple Erika Kirk alibis.
+This episode presents evidentiary and testimonial material advancing three parallel lines of inquiry: (1) a reconciliation problem surrounding the timing of the "tarmac hug" between Erika Kirk and Andrew Kolvet, against Frank Turek's estimate of Erica's hospital arrival time; (2) a first-person timeline of September 10 drawn from Elizabeth Kravchuk McCoy, describing TPUSA Arizona office activity, the call chain, and the drive to Scottsdale airport; and (3) the publication of a 13-part Alexis Wilkins X thread alleging a coordinated foreign-influence network. The Frank Turek audio clip and Alexis Wilkins thread are read aloud on air and inscribed as artifacts. A separate phone call to a Hopkinson Aircraft employee who would "neither confirm nor deny" seeing Erica is also captured. The episode also presents a Daily Wire article and supporting news items on Catholic Church growth, with a prior Allie Stuckey tweet denial cited as a discourse artifact. Investigative questions introduced include the September 10 whereabouts of Stacy Sheridan, the precise call chain sequence, and verification of multiple Erika Kirk alibis.
 
 ---
 
@@ -336,9 +336,9 @@ Investigative Pressure: High
 
 *Related: A-1895.1, C-2560, C-2580, N-2, N-10565*
 
-**N-10561** Stacey Sheridan September 10 Location Verification
+**N-10561** Stacy Sheridan September 10 Location Verification
 
-Stacey Sheridan allegedly not at the TPUSA Scottsdale office on September 10 and "allegedly home in Scottsdale." Host issues an "APB" for sightings.
+Stacy Sheridan allegedly not at the TPUSA Scottsdale office on September 10 and "allegedly home in Scottsdale." Host issues an "APB" for sightings.
 
 Evidence Count: 1
 Claim Count: 1
@@ -879,11 +879,11 @@ Related Nodes:
 
 Investigative Direction: Confirm via Lauren Tonchech or vehicle records; cross-check with airport arrival records.
 
-**C-2565** Stacey Sheridan Was Not at TPUSA Offices on September 10
+**C-2565** Stacy Sheridan Was Not at TPUSA Offices on September 10
 
 Claim Timestamp: 00:14:00
 
-Claim: The host says she can confirm Stacey Sheridan was not at the Turning Point USA office on September 10, 2025, and that she was allegedly at home in Scottsdale.
+Claim: The host says she can confirm Stacy Sheridan was not at the Turning Point USA office on September 10, 2025, and that she was allegedly at home in Scottsdale.
 
 Anchored Artifacts: A-1902.1
 Mentions: N-186
@@ -1368,7 +1368,7 @@ Claim Timestamp: 00:14:00
 
 Claim: The host says Stacy Sheridan, whom she calls a de facto mom to Erika, lives in the same apartment complex as Erika and Charlie, though not in the same unit, and moved in shortly before the assassination.
 
-Transcript Snippet: Stacey Sheridan lives with Erika and Charlie the same apartment complex not in the same apartment units
+Transcript Snippet: Stacy Sheridan lives with Erika and Charlie the same apartment complex not in the same apartment units
 
 Anchored Artifacts: 
 Mentions: N-186, N-2, N-1, N-3

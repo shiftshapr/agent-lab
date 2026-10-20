@@ -31,7 +31,7 @@ Source: yt-dlp-manual; cleaned (lexicon + paragraph merge). Music cues dropped. 
 
 [00:01]
 
-All right, you guys, happy Tuesday. So, rather unexpectedly yesterday, I was informed by a Daily Mail reporter who seeking comment that Ericka Kirk was about to go on the attack against me in the press. The article did drop yesterday evening, and it is quite shocking. Ericka, according to a family friend, refers to me as that b i t c h, that b in the privacy, I guess, of her own comfort of her home and at the office. I actually quite appreciated the article, and I'm going to tell you why that is. But, first, we have two more never-before-seen photos of the SUV that Charlie was transported to the hospital in, and there's another interesting object that might complicate, or perhaps further clarify, matters of what happened.
+All right, you guys, happy Tuesday. So, rather unexpectedly yesterday, I was informed by a Daily Mail reporter who seeking comment that Erika Kirk was about to go on the attack against me in the press. The article did drop yesterday evening, and it is quite shocking. Ericka, according to a family friend, refers to me as that b i t c h, that b in the privacy, I guess, of her own comfort of her home and at the office. I actually quite appreciated the article, and I'm going to tell you why that is. But, first, we have two more never-before-seen photos of the SUV that Charlie was transported to the hospital in, and there's another interesting object that might complicate, or perhaps further clarify, matters of what happened.
 
 [00:51]
 

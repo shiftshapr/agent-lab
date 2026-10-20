@@ -133,7 +133,7 @@ That's what's hap there's no foreign operatives that are working on this case. S
 
 [23:23]
 
-Speaking of which, I have a question for Blakey Nef. Public challenge. Just one question, Blake. Let's see if you can remember. Oh, so transparent one. you, Danny Phillip, Mikey McCoy, and uh Nate Walker all walked into Temponogus Hospital together. My question for you is simple. Did you all travel there together? Did all four of you arrive at Temponogus Hospital in the same car? Yes or no? I'm asking for a reason. Another question and that's regarding Nate Walker because look what a new thing like to be just a new assistant the one who supplied Charles with that freedom t-shirt. The internet has taken notice and we would appreciate a clarification on his movements before the explosive goes off.
+Speaking of which, I have a question for Blake Neff. Public challenge. Just one question, Blake. Let's see if you can remember. Oh, so transparent one. you, Danny Phillip, Mikey McCoy, and uh Nate Walker all walked into Temponogus Hospital together. My question for you is simple. Did you all travel there together? Did all four of you arrive at Temponogus Hospital in the same car? Yes or no? I'm asking for a reason. Another question and that's regarding Nate Walker because look what a new thing like to be just a new assistant the one who supplied Charles with that freedom t-shirt. The internet has taken notice and we would appreciate a clarification on his movements before the explosive goes off.
 
 [24:20]
 

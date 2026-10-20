@@ -12,13 +12,16 @@
 e8c1a85c85a914d7ab71315326ce9f09344096413e804ca240db71899ffb485
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (ep11-restore-2026-10-20): N-973, N-11448
+  - Hole-minted Nodes (reintro-ep011): N-272, N-10146, N-10147, N-10319, N-10566, N-10633, N-10634, N-10713, N-10768
+  - Tip-minted Nodes (reintro-ep011): N-10987, N-11009, N-11012, N-11053, N-11139, N-11217, N-11274
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (ep11-restore-2026-10-20): C-15571–C-15621
   - Tip-minted Nodes (supplement_2026-10g): N-11372, N-11373, N-11374
-  - Hole-minted Nodes (reintro-ep011): N-272, N-10146, N-10319, N-10566, N-10713, N-10768
-  - Tip-minted Nodes (reintro-ep011): N-10987, N-11053, N-11217
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-13822–C-13870
   - New Nodes Introduced: N-125, N-126, N-128, N-129, N-130, N-10141, N-10142, N-10143, N-10144, N-10145
-  - Reused Nodes Appearing: N-41, N-49, N-75, N-10011, N-10012, N-10021, N-10022, N-10028, N-10029, N-10038, N-10047, N-10048, N-10051, N-10060, N-10138, N-10343
+  - Reused Nodes Appearing: N-41, N-49, N-75, N-10011, N-10012, N-10021, N-10022, N-10028, N-10029, N-10038, N-10047, N-10048, N-10051, N-10060, N-10138, N-10343, N-10000, N-10034, N-10042, N-10043, N-10044, N-10077, N-10094
 - Episode Number: Monument Ep 11 (Batch 1), N-11
 - Channel / Creator: Candace Owens (@RealCandaceO)
 - Episode Date: 2025-09-29
@@ -344,6 +347,99 @@ Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
 *Related: C-13867, C-13868, N-3*
+
+---
+
+**A-3418** Blurry Stairs Suspect Image Bundle
+
+**A-3418.1** The blurry released image of a young man coming up the stairs, discussed by the host as the image the Robinson family says is not Tyler Robinson (referred to on screen; display not certain from the transcript)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:14:15
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-15580, C-15581, C-15582, N-40, N-11139*
+
+---
+
+**A-3419** Tips Address Requests Bundle
+
+**A-3419.1** Host verbal request for tips about former deputy Mike Mitchell at the show's tips address (verbal call for tips)
+
+Quoted text: "If you have any more information about this individual, if he is your boy scout leader or he works for your church, please send us um tips at candaceowens.com."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:20:43
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-15595, C-15596, N-3, N-125*
+
+**A-3419.2** Host verbal request that the tips address be kept for actual tips while she asks the public to identify the people in the Lyman nephew's photos (verbal call for tips)
+
+Quoted text: "Again, please reserve the tips at candaceowens.com for actual tips related to the questions that we are asking."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:47:23
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-15621, N-3, N-128*
+
+---
+
+**A-3420** Live Paid Tip on a Woman With the Shooter Bundle
+
+**A-3420.1** Host verbal reference to a paid tip she received live on an earlier show saying there is more footage of the shooter, that he was with a woman and seen changing clothes, and that the footage was cut out (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:37:42
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-15604, C-15605, N-3, N-61, N-10042*
+
+---
+
+**A-3421** Phil Lyman Tips-Box Message Bundle
+
+**A-3421.1** Host verbal reference to an early tips-box message urging her to ask more questions about Phil Lyman because he and his family members keep coming up locally, and pointing to his nephew's public route tour (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:42:41
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-15614, N-3, N-61, N-128, N-10144*
+
+---
+
+**A-3422** Nick Account of Phil Lyman Contacts Bundle
+
+**A-3422.1** Host verbal reference to Nick's phone accounts of Phil Lyman's visit to his home, the photo request and Lyman's later call (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:39:37
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-15608, C-15609, C-15610, C-15611, C-15612, C-15613, C-15615, C-15616, C-15617, C-15618, N-126, N-61, N-11, N-41, N-973*
+
+---
+
+**A-3423** Shane Lyman Route Walkthrough Video Bundle
+
+**A-3423.1** Video posted by Phil Lyman's nephew Shane and his friends walking through the shooter's route, with a post saying his uncle was with Charlie (shown on air)
+
+Quoted text: "he even posted he posted Phil Lyman and my uncle was with Charlie. This is the video that they posted."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:46:48
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-15621, N-128, N-61, N-1*
 
 ---
 
@@ -733,6 +829,143 @@ Node Type: Topic
 The host's stated gut instinct that the assassination was a military operation, based on what she has seen, lingering questions and further leads.
 
 *Related: C-13860*
+
+---
+
+**N-11012** Tyler Robinson Surrender Narrative Dispute
+
+Existing topic reused for new claims in this episode: Brooksby's surrender account versus the host's source.
+
+*Related: C-15571, C-15572, C-15573*
+
+---
+
+**N-11448** Robinson Family Witness Protection Claim
+
+Node Type: Topic
+The host's report, via a third party, that federal agents told Tyler Robinson's parents their lives could be at risk if they spoke out and persuaded the family to go into witness protection.
+
+*Related: C-15574*
+
+---
+
+**N-54** Lance Twiggs
+
+Tyler Robinson's roommate and, per the Instagram posts the host shows, his boyfriend; the host questions his quick clearance and the apartment staging.
+
+*Related: C-15576, C-15577, C-15584, C-15585, C-15586, C-15587*
+
+---
+
+**N-10077** Robinson-Lance Text Chain Authenticity
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-15579*
+
+---
+
+**N-11139** Manhunt Blurry Still Image Release Question
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-15580, C-15581, C-15582*
+
+---
+
+**N-10634** Tyler Robinson Roommate Question
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-15576, C-15577*
+
+---
+
+**N-10043** Two-Person Theory (Maroon vs Stairs)
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-15580*
+
+---
+
+**N-10633** Tyler Robinson Look-alike Theory
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-15581*
+
+---
+
+**N-10147** Unidentified Goth Person in Broderick Companion Photo
+
+Existing topic reused; the host asks the public to identify the nephew's two companions.
+
+*Related: C-15621*
+
+---
+
+**N-10034** Lance Twiggs Family Allegations
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-15584, C-15587*
+
+---
+
+**N-10044** Lance Twiggs Protection Allegation
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-15585*
+
+---
+
+**N-10094** LDS Church
+
+Existing organization reused; the host says Mike Mitchell is involved in the LDS church.
+
+*Related: C-15592*
+
+---
+
+**N-10000** Turning Point USA
+
+Existing organization reused; the host says TPUSA accepted the narrative, and Nick reports Lyman speaking with Tyler Bowyer about a TPUSA event at USU.
+
+*Related: C-15598, C-15611, C-15612*
+
+---
+
+**N-11009** Hall of Flags Activity Question
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-15603*
+
+---
+
+**N-10042** Outfit Change Claim
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-15604*
+
+---
+
+**N-973** Taylor Hansen
+
+First named at 00:45:30 in episode 11, in the host's relay of Nick's account that Phil Lyman said he had already given his photos to Taylor Hansen. Identity not established from the transcript.
+
+*Related: C-15617, A-3422.1*
+
+---
+
+**N-11274** Shaner Broderick Account Deletion
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-15619*
 
 ---
 
@@ -1749,6 +1982,829 @@ Investigative Direction: Hold the host to specifics: list each 'first time' item
 
 ---
 
+**C-15571** Brooksby Clip: Friend Drove Tyler and His Parents to His Office Within the Hour
+
+Claim Timestamp: 00:10:30
+
+Claim: In the Brooksby clip the host plays, Nate Brooksby says that within the hour his friend drove Tyler Robinson and his parents to his office, where Tyler was greeted by plain-clothes detectives.
+
+Transcript Snippet: Within the hour, um, my friend, uh, drove Tyler and his parents to my office where he was greeted by, uh, plain clothes detectives.
+
+Anchored Artifacts: A-1172.3
+Mentions: N-272, N-40
+Related Nodes: N-11012, N-10029
+Tags: relevance:core
+Investigative Direction: Washington County Sheriff's Office intake records and building logs for the evening of September 11, 2025; the full Brooksby press-conference video.
+
+---
+
+**C-15572** Brooksby Clip: Tyler Knew Capture Was Inevitable Given His Picture and the Gun in the News
+
+Claim Timestamp: 00:10:45
+
+Claim: In the same clip, Brooksby says Tyler knew it was inevitable he would be caught, given the law-enforcement pressure and his picture and the gun being in the news.
+
+Transcript Snippet: Tyler knew it was just inevitable with all the law enforcement pressure that he, you know, his picture in the news, the gun, the gun on the news
+
+Anchored Artifacts: A-1172.3
+Mentions: N-272, N-40
+Related Nodes: N-11012
+Tags: relevance:core
+Investigative Direction: Timing of the FBI's public release of the suspect images and rifle photo versus the 8:02 call; full Brooksby press-conference recording.
+
+---
+
+**C-15573** Host Says Brooksby's Suicidal and Fear-of-Being-Shot Accounts Cannot Both Be True
+
+Claim Timestamp: 00:11:20
+
+Claim: The host says Brooksby's two accounts conflict: Tyler cannot have been both suicidal and wanting to die and also worried about dying, and she says she did not catch this early on.
+
+Transcript Snippet: Was he suicidal and wanting to die or was he worried about dying? It can't be both. And I didn't catch on to that early on.
+
+Anchored Artifacts: A-1172.2, A-1172.3
+Mentions: N-272, N-40, N-3
+Related Nodes: N-10142, N-11012
+Supports: C-1306
+Tags: relevance:core
+Investigative Direction: Compare Brooksby's full press-conference statements with the probable cause affidavit and any later court testimony on Tyler Robinson's state when he surrendered.
+
+---
+
+**C-15574** Host Says Feds Told Robinson's Parents Their Lives Were at Risk and Convinced Them to Enter Witness Protection
+
+Claim Timestamp: 00:11:45
+
+Claim: The host says she is told Tyler Robinson's parents did not speak out to assert his innocence because federal agents told them their lives could be at risk if they did, and convinced the family to go into witness protection; she says the family agreed in the fog of it all.
+
+Transcript Snippet: I'm told that it's because the feds told them that if they spoke out, their lives could be at risk.
+
+Anchored Artifacts: A-3280.1
+Mentions: N-40, N-3
+Related Nodes: N-11448, N-11012
+Tags: relevance:core
+Investigative Direction: Any statement from the Robinson family or their counsel; US Marshals or FBI victim-witness records on protective placement of the family.
+
+---
+
+**C-15575** Host Says Robinson's Father Had No Idea Tyler Was Gay and Is Learning It Through the Media
+
+Claim Timestamp: 00:12:30
+
+Claim: The host says she is told Tyler Robinson's father had no idea Tyler was gay, and that the family is learning this through the media.
+
+Transcript Snippet: His father had no idea that Tyler was gay.
+
+Anchored Artifacts: A-3280.1
+Mentions: N-40
+Related Nodes: N-11012
+Tags: relevance:context
+Investigative Direction: Statements by the Robinson family or their counsel; the snippet is under 8 words and should be read with the following block ("That's what I'm told. They are learning this in and through the media.").
+
+---
+
+**C-15576** Host Says Robinson's Parents Thought Lance Was Only His Roommate and Tyler Kept Mentioning a Girl
+
+Claim Timestamp: 00:12:38
+
+Claim: The host says she is told Tyler Robinson's parents thought Lance was just his roommate, and were shocked because Tyler kept telling them he wanted them to meet a girl he was seeing; she gives her own opinion that the "girl" was likely Lance.
+
+Transcript Snippet: They thought that Lance was just his roommate and they were especially shocked because apparently Tyler kept mentioning to them that he wanted them to meet some girl that he was seeing.
+
+Anchored Artifacts: A-3280.1
+Mentions: N-40, N-54
+Related Nodes: N-10634
+Tags: relevance:context
+Investigative Direction: Statements by the Robinson family; the host's opinion that the girl was Lance is labelled as opinion on air.
+
+---
+
+**C-15577** Host Says Tyler's Instagram Handle Has Been Taken Down and Did Not Carry His Name
+
+Claim Timestamp: 00:13:20
+
+Claim: Showing Lance's Instagram posts, the host says the handle Tyler used has since been taken down, and that it did not contain his name, which she suggests may have been to hide the relationship.
+
+Transcript Snippet: that handle has since been taken down of what Tyler's handle was, but he's got a handle that doesn't have his name in it
+
+Anchored Artifacts: A-1173.1, A-1173.2
+Mentions: N-40, N-54
+Related Nodes: N-10634
+Tags: relevance:context
+Investigative Direction: Archived captures of Lance Twiggs's Instagram posts and the tagged handle; Instagram account history.
+
+---
+
+**C-15578** Host Says She Was Told Tyler Is Highly Intelligent and Had a Perfect High-School GPA
+
+Claim Timestamp: 00:13:44
+
+Claim: The host says she was told Tyler Robinson is "off the charts intelligent", and says he had a perfect GPA in high school.
+
+Transcript Snippet: We know this. He had a perfect GPA in high school.
+
+Anchored Artifacts: A-3280.1
+Mentions: N-40
+Related Nodes: N-10566
+Tags: relevance:context
+Investigative Direction: Washington County School District academic records as reported in news coverage; scholarship records at Utah State University.
+
+---
+
+**C-15579** Host Says the Confession Texts Are Absurd for Someone of Tyler's Intelligence and Were Likely Offered by Feds
+
+Claim Timestamp: 00:14:00
+
+Claim: The host says it is absurd that someone as intelligent as Tyler would write a full confession in text messages with every detail, and says whoever offered those messages was likely the feds.
+
+Transcript Snippet: apparently whoever offered those messages, likely feds, didn't have a modicum of intelligence
+
+Anchored Artifacts:
+Mentions: N-40
+Related Nodes: N-10077, N-10038
+Supports: C-1224
+Tags: relevance:core
+Investigative Direction: Forensic extraction reports for the Robinson-Twiggs messages produced in discovery (N-10713); the defense's challenge to their provenance.
+
+---
+
+**C-15580** Host Says the Robinson Family Says the Blurry Stairs Image Is Definitively Not Tyler
+
+Claim Timestamp: 00:14:15
+
+Claim: The host says the Robinson family says the blurry released photo of the young man coming up the stairs is definitively not Tyler Robinson.
+
+Transcript Snippet: the family says that the photo of the young man that is coming up the stairs which was shared that blurry image is definitively not Tyler Robinson.
+
+Anchored Artifacts: A-3418.1, A-3280.1
+Mentions: N-40
+Related Nodes: N-11139, N-10043
+Tags: relevance:core
+Investigative Direction: Unblurred original surveillance frames from UVU; FBI Salt Lake City release notes for the stills.
+
+---
+
+**C-15581** Host Says the Stairs Figure Looks Narrower, Taller and Slighter Than Robinson
+
+Claim Timestamp: 00:14:32
+
+Claim: The host says she never thought the stairs image looked like Tyler Robinson: the face looks narrower, the person looks taller, and Robinson appears to have fuller lips and a broader build.
+
+Transcript Snippet: Face looks more narrow. Also that person looks taller.
+
+Anchored Artifacts: A-3418.1
+Mentions: N-40, N-3
+Related Nodes: N-11139, N-10633
+Tags: relevance:core
+Investigative Direction: Photogrammetric height estimate from the stairwell stills against Robinson's booking height.
+
+---
+
+**C-15582** Host Says the Image Was Intentionally Blurred and the Footage Never Released
+
+Claim Timestamp: 00:14:55
+
+Claim: The host says she feels the stairs image was intentionally blurred, and that the footage itself was never released, probably because blurring required a static image.
+
+Transcript Snippet: They also never gave us the footage at all because in order to blur it, they probably needed a static image.
+
+Anchored Artifacts: A-3418.1
+Mentions: N-3
+Related Nodes: N-11139
+Supports: C-4881
+Tags: relevance:core
+Investigative Direction: FOIA or court discovery for the native UVU surveillance video behind the FBI stills.
+
+---
+
+**C-15583** Host Says the Robinson Family Believes Tyler's Apartment Was Staged After His Arrest
+
+Claim Timestamp: 00:15:05
+
+Claim: The host says the Robinson family believes Tyler Robinson's apartment was staged after his arrest.
+
+Transcript Snippet: Tyler Robinson's apartment was staged after his arrest.
+
+Anchored Artifacts: A-3280.1
+Mentions: N-40
+Related Nodes: N-10143
+Tags: relevance:core
+Investigative Direction: Search-warrant return and evidence photos from the apartment search; the family's own account through counsel.
+
+---
+
+**C-15584** Host Says Lance's Family Told Her They Own the Apartment, Receive Rent and Never Met Tyler
+
+Claim Timestamp: 00:15:12
+
+Claim: The host recalls that Lance Twiggs's family told her they own the apartment, that rent is paid to them, and that they had never met Tyler Robinson; she says it seems an effort was made to hide that the apartment was raided.
+
+Transcript Snippet: Hey, we own that apartment. They pay rent to us. I've never we've never met Tyler Robinson.
+
+Anchored Artifacts:
+Mentions: N-54, N-40
+Related Nodes: N-10034
+Supports: C-1170, C-13542
+Tags: relevance:core
+Investigative Direction: County property records for the St. George unit; lease or rent records.
+
+---
+
+**C-15585** Host Says Department Insiders Told Her the Raid Was Kept Hush-Hush and Lance Was Cleared Immediately
+
+Claim Timestamp: 00:15:34
+
+Claim: The host says it is strange that Lance was immediately cleared as a suspect, and that other people in the department told her they wanted to keep the apartment raid very hush-hush, with no mention of it made.
+
+Transcript Snippet: And I was told by other people in the department that they wanted to keep that raid very hush hush.
+
+Anchored Artifacts:
+Mentions: N-54, N-3
+Related Nodes: N-10044, N-10029
+Supports: C-1181
+Tags: relevance:core
+Investigative Direction: Search-warrant filings and police reports for the apartment raid; any official statement on Lance Twiggs's status.
+
+---
+
+**C-15586** Host Says the Robinson Family Found a Furry Bed Placed in Tyler's Room
+
+Claim Timestamp: 00:15:50
+
+Claim: The host says that, according to Tyler's family, they went to the apartment after his arrest, felt it was staged, and found a furry bed placed in Tyler's room, which she reads as an attempt to transfer Lance's attributes onto Tyler.
+
+Transcript Snippet: in Tyler's room, a furry bed was placed, almost sort of implying that they're trying to transfer the attributes of Lance onto Tyler
+
+Anchored Artifacts: A-3280.1
+Mentions: N-40, N-54
+Related Nodes: N-10143
+Tags: relevance:core
+Investigative Direction: Police evidence photos of the bedroom at the time of the search, compared with later photos or the family's account.
+
+---
+
+**C-15587** Host Says the Lance Family and Robinson Family Accounts Match
+
+Claim Timestamp: 00:16:15
+
+Claim: The host says that what Lance's family tells her and what she hears from the Robinson family through a third party match: one family questions why Lance was cleared, the other says Tyler is not the shooter.
+
+Transcript Snippet: I will say that it matches. It kind of seems like they're agreeing.
+
+Anchored Artifacts: A-3280.1
+Mentions: N-54, N-40
+Related Nodes: N-10034
+Supports: C-4867
+Tags: relevance:core
+Investigative Direction: Direct statements from both families; note the Robinson account reaches the host through a third party.
+
+---
+
+**C-15588** Host Says the Media and Sheriff's Department Went to Unusual Lengths to Protect the Friend's Identity
+
+Claim Timestamp: 00:16:45
+
+Claim: The host says the media and the sheriff's department went to unusual lengths to protect the identity of the former sheriff's friend who convinced Tyler to turn himself in, and that Brooksby over-explains how the call came about.
+
+Transcript Snippet: They've gone through all of these lengths I would say to protect the identity of that former sheriff friend who was the one who convinced Tyler to turn himself in.
+
+Anchored Artifacts: A-1172.1
+Mentions: N-272, N-125
+Related Nodes: N-10141, N-10029
+Tags: relevance:core
+Investigative Direction: Court filings naming the retired deputy; media coverage of the surrender that withheld the name.
+
+---
+
+**C-15589** Brooksby Clip: The Caller Was a Retired Detective Who Worked for Him for Many Years
+
+Claim Timestamp: 00:17:25
+
+Claim: In the clip the host plays, Brooksby says that at exactly 8:02 on the 11th he received a call from a friend who is a retired detective who worked for him for many years, and that court documents referenced the friend as a retired Washington County deputy.
+
+Transcript Snippet: At exactly 8:02 on the 11th, I received a call from a friend of mine who happens to be a retired detective that worked for me for many years.
+
+Anchored Artifacts: A-1172.1
+Mentions: N-272, N-125
+Related Nodes: N-10029
+Tags: relevance:core
+Investigative Direction: Charging documents and probable cause statement in State v. Robinson describing the retired Washington County deputy.
+
+---
+
+**C-15590** Host Says Brooksby Answered That the Friend Had Been Off the Force About Three Years
+
+Claim Timestamp: 00:18:30
+
+Claim: The host says that when a journalist asked how long the former detective had been off the force, Brooksby said about three years (the clip is not played).
+
+Transcript Snippet: how long has he been off the force and he says I don't know if we have that clip or maybe we didn't cut that Skyler but he's like three years.
+
+Anchored Artifacts:
+Mentions: N-272, N-125
+Related Nodes: N-10141
+Tags: relevance:core
+Investigative Direction: Full press-conference Q&A recording to confirm Brooksby's exact answer.
+
+---
+
+**C-15591** Host Names the Retired Friend as Former Deputy Mike Mitchell and Says Her Team Tried to Reach Him
+
+Claim Timestamp: 00:18:45
+
+Claim: The host says her team figured out who the retired friend is, names him as former Deputy Mike Mitchell, and says they have tried to get in touch with him.
+
+Transcript Snippet: the name of that individual is is former Deputy Mike Mitchell.
+
+Anchored Artifacts:
+Mentions: N-125, N-3
+Related Nodes: N-10141, N-10029
+Tags: relevance:core
+Investigative Direction: Washington County Sheriff's Office personnel records; confirmation from court filings or Mitchell himself.
+
+---
+
+**C-15592** Host Says Mitchell Knows Tyler Through the Boy Scouts and the LDS Church
+
+Claim Timestamp: 00:19:10
+
+Claim: The host says she understands Mike Mitchell knows Tyler through the Boy Scouts, that he is involved in the LDS church, and that she thinks he was the Boy Scout leader.
+
+Transcript Snippet: I understand that he knows Tyler through the Boy Scouts. He's involved in the LDS church.
+
+Anchored Artifacts:
+Mentions: N-125, N-40
+Related Nodes: N-10094, N-10141
+Tags: relevance:core
+Investigative Direction: Local Scouting or ward records; Brooksby's statement that the friend knows the family "through religious association" (C-13843).
+
+---
+
+**C-15593** Host Says Her Team Confirmed Mitchell Lives Near the Robinsons
+
+Claim Timestamp: 00:19:25
+
+Claim: The host says her team confirmed through other sources that Mike Mitchell lives on the block, nearby.
+
+Transcript Snippet: We were able to confirm that this Mike Mitchell lives on the block, uh, lives nearby, um, as was told via via other sources.
+
+Anchored Artifacts:
+Mentions: N-125, N-3
+Related Nodes: N-10141
+Tags: relevance:core
+Investigative Direction: Brooksby's description of the friend as a "family friend" and neighbor; no address is to be recorded.
+
+---
+
+**C-15594** Host Says the Retirement Post Shows Mitchell Retired Last January, So Brooksby Lied a Little
+
+Claim Timestamp: 00:19:40
+
+Claim: The host says that, according to the retirement post she shows, Mitchell retired last January, which would mean Brooksby (who said about three years) lied a little; she says one usually lies a little when afraid of something bigger.
+
+Transcript Snippet: And that again, which would mean Brooksby lied a little bit.
+
+Anchored Artifacts: A-1174.1
+Mentions: N-272, N-125
+Related Nodes: N-10141
+Tags: relevance:core
+Investigative Direction: Date of the Washington County Sheriff's Office retirement post; Mitchell's official separation date.
+
+---
+
+**C-15595** Host Asks for Tips on Mike Mitchell From People Who Know Him Through Scouts or Church
+
+Claim Timestamp: 00:20:40
+
+Claim: The host says her team has had no luck reaching Mitchell and asks anyone with information about him, including people whose Boy Scout leader he is or for whose church he works, to send tips to the show's tips address.
+
+Transcript Snippet: If you have any more information about this individual, if he is your boy scout leader or he works for your church, please send us um tips at candaceowens.com.
+
+Anchored Artifacts: A-3419.1
+Mentions: N-125, N-3
+Related Nodes: N-10141
+Tags: relevance:core, dia
+Investigative Direction: Tips received at the tips address on Mitchell.
+
+---
+
+**C-15596** Host Says Her Team Is Four People and Asks That Theories Go to Social Media, Not the Tips Box
+
+Claim Timestamp: 00:20:55
+
+Claim: The host says her team is very small, "literally four of us", asks viewers not to send other people's videos and theories to the tips box but to tag the show on social media, and says they would not have got this far without the tips box.
+
+Transcript Snippet: we are it's we're very small team. There's literally four of us
+
+Anchored Artifacts: A-3419.1
+Mentions: N-3
+Related Nodes:
+Supports: C-13815
+Tags: relevance:context, dia
+Investigative Direction: Statements from the show's staff on team size.
+
+---
+
+**C-15597** Host Says She Is the Only Person Publicly Demanding a Further Investigation
+
+Claim Timestamp: 00:21:47
+
+Claim: The host says that despite all the friends Charlie Kirk made, including presidents and department heads, she is the only person publicly demanding further investigation into his assassination.
+
+Transcript Snippet: I am the only person that is publicly demanding further investigation into his assassination.
+
+Anchored Artifacts:
+Mentions: N-1, N-3
+Related Nodes: N-10048
+Tags: relevance:context
+Investigative Direction: Public statements by Kirk associates and officials calling for further inquiry as of late September 2025.
+
+---
+
+**C-15598** Host Says Turning Point USA Has Accepted the Narrative and Is Just Keeping His Show Going
+
+Claim Timestamp: 00:22:05
+
+Claim: The host says that even Turning Point USA has accepted the official narrative despite its holes and is simply continuing Kirk's show.
+
+Transcript Snippet: Even Even Turning Point USA, they're just like, "We've accepted.
+
+Anchored Artifacts:
+Mentions: N-1
+Related Nodes: N-10000
+Tags: relevance:core
+Investigative Direction: TPUSA public statements on the investigation after September 10, 2025.
+
+---
+
+**C-15599** Host Says Lyman's Proximity Is Not Conclusive and May Be a Strange Coincidence
+
+Claim Timestamp: 00:35:51
+
+Claim: The host says what she has laid out about Phil Lyman is by no means conclusive of anything other than perhaps a strange coincidence, notes he is a gubernatorial candidate, and says she set it aside and kept following public leads.
+
+Transcript Snippet: let's be clear, by no means conclusive of anything other than perhaps a strange coincidence
+
+Anchored Artifacts:
+Mentions: N-61
+Related Nodes: N-10144, N-10146
+Tags: relevance:core
+Investigative Direction: None required; this hedge frames claims C-15600 to C-15621.
+
+---
+
+**C-15600** Host Says Lyman, Tiffany Barker and a Shamway Neighbor Kept Urging Her to Look Into Governor Cox
+
+Claim Timestamp: 00:36:15
+
+Claim: The host says Phil Lyman, Tiffany Barker and another person on that street with the last name Shamway kept trying to get her to look into Governor Cox, with Barker and the Shamway emails citing Cox's support for trans issues.
+
+Transcript Snippet: both Phil and Tiffany Barker and as it would turn out another person that lives on that street with the last name Shamway kept trying to get me to look into Governor Cox
+
+Anchored Artifacts:
+Mentions: N-61, N-75, N-41
+Related Nodes: N-10144
+Tags: relevance:core
+Investigative Direction: The host's emails and messages from Barker and the Shamway sender; spelling of the Shamway surname to be confirmed.
+
+---
+
+**C-15601** Host Says Nothing in Her Investigation Has Raised Questions About Governor Cox on That Day
+
+Claim Timestamp: 00:36:50
+
+Claim: The host says the push toward Cox feels like "fed bait", that nothing in her investigation has organically raised a question about Governor Cox on that day, and corrects herself that Cox is not a Democrat but the candidate Lyman is warring with.
+
+Transcript Snippet: Nothing in my investigation has made me ha ask a question further about Governor Cox on that day.
+
+Anchored Artifacts:
+Mentions: N-41, N-61
+Related Nodes:
+Tags: relevance:context
+Investigative Direction: Cox's published schedule for September 10, 2025.
+
+---
+
+**C-15602** Host Says Lyman Is Pushing Cox Because Cox Is His Political Rival
+
+Claim Timestamp: 00:37:10
+
+Claim: The host says Lyman pushes Governor Cox because Cox is the candidate he is warring with and wants to go after.
+
+Transcript Snippet: pushing that because Governor Cox is his, uh, sorry, I said Democrat because he's his, you know, he's waring with him
+
+Anchored Artifacts:
+Mentions: N-61, N-41
+Related Nodes: N-10144
+Tags: relevance:context
+Investigative Direction: The 2024 Utah Republican gubernatorial primary between Cox and Lyman.
+
+---
+
+**C-15603** Host Says the Witness Who Spotted the Shooter on the Roof and the Hall of Flags Witness Are Military
+
+Claim Timestamp: 00:37:20
+
+Claim: The host says she noticed that everyone involved that day is military, naming the person who spotted the shooter on the roof and the person who said he saw him running in the Hall of Flags, and asks whether it could be a military hit.
+
+Transcript Snippet: literally the person who spots the shooter um on the roof, military
+
+Anchored Artifacts:
+Mentions: N-3
+Related Nodes: N-11374, N-11009
+Tags: relevance:core
+Investigative Direction: Identities and service records of the rooftop spotter and the Hall of Flags witness as given in charging documents and media interviews.
+
+---
+
+**C-15604** Host Says a Paid Live Tip Said the Shooter Was With a Woman and Changed Clothes on Cut Footage
+
+Claim Timestamp: 00:37:45
+
+Claim: The host says she received a paid tip live on the show from a woman saying there is more footage of the shooter, that he was with a woman and seen changing clothes, and that this footage was cut out.
+
+Transcript Snippet: That that woman that the shooter was with a woman and he was seen changing clothes and that they've cut out that footage.
+
+Anchored Artifacts: A-3420.1
+Mentions: N-3
+Related Nodes: N-10042
+Tags: relevance:core, dia
+Investigative Direction: The live-chat record of the paid message; any neighborhood camera footage from the house the tipster named.
+
+---
+
+**C-15605** Host Says the House the Tipster Named Is Owned by a Lyman
+
+Claim Timestamp: 00:38:10
+
+Claim: The host says she reached the tipster, who named the house where this took place, and she confirmed the nearby property is owned by "Lyman Branch"; she says she could not yet establish whether this person is related to Phil Lyman, who has said his family lives around there.
+
+Transcript Snippet: I'm able to confirm that this property is nearby is owned by Lyman Branch.
+
+Anchored Artifacts: A-3420.1
+Mentions: N-61
+Related Nodes: N-10144
+Tags: relevance:core
+Investigative Direction: Utah County property records for the named house; whether "Lyman Branch" is an owner's name or a branch of the Lyman family (see Doubts). No address to be recorded.
+
+---
+
+**C-15606** Host Says She Cannot Find Who Phil Lyman's Parents Are
+
+Claim Timestamp: 00:38:50
+
+Claim: The host says a basic search could not tell her who Phil Lyman's mother and father are, which she finds odd for a gubernatorial candidate; she says she was checking whether his family is in the military.
+
+Transcript Snippet: I'm quite surprised that it's impossible for me to find out who his mother and father are.
+
+Anchored Artifacts:
+Mentions: N-61
+Related Nodes: N-10144
+Tags: relevance:context
+Investigative Direction: Published obituaries and biographies of the Lyman family of Blanding, Utah.
+
+---
+
+**C-15607** Host Says Nick Did Not Know Who Lyman's Parents Are, and She Had Shared Nothing With Him
+
+Claim Timestamp: 00:39:10
+
+Claim: The host says she asked Nick, who said he did not know who Lyman's parents are, and that she had not shared any of her questions about Lyman with Nick because he had worked for Lyman.
+
+Transcript Snippet: So, I just simply ask Nick. I haven't shared any of this with Nick because I know that he worked for Phil Lyman
+
+Anchored Artifacts:
+Mentions: N-126, N-61
+Related Nodes: N-10144
+Tags: relevance:context
+Investigative Direction: Nick's own account.
+
+---
+
+**C-15608** Host Says Nick, a 20-Year-Old Lyman Super Fan, Called Her Uneasy After Lyman Showed Up at His House
+
+Claim Timestamp: 00:39:40
+
+Claim: The host says Nick, a 20-year-old UVU student and Phil Lyman super fan, called her uneasy after Lyman showed up at his house, having messaged that he was in town; she says Nick naively expected a job offer.
+
+Transcript Snippet: Nick is 20 years old. He's a 20-year-old UVU student and a major super fan of Phil as of 48 hours ago
+
+Anchored Artifacts: A-3422.1
+Mentions: N-126, N-61
+Related Nodes: N-10144
+Tags: relevance:core
+Investigative Direction: Nick's messages from Lyman; Lyman's own account of the visit.
+
+---
+
+**C-15609** Host Says She Had Shared Nothing With Nick That Lyman Could Ask About
+
+Claim Timestamp: 00:40:40
+
+Claim: The host says that although Lyman asked Nick about her investigation, she had shared nothing with Nick and had only asked him to run errands such as going somewhere to pick something up.
+
+Transcript Snippet: I'm like, I shared nothing with Nick. I literally was asking him, "Can you go here?
+
+Anchored Artifacts: A-3422.1
+Mentions: N-126, N-61, N-3
+Related Nodes: N-10144
+Tags: relevance:context
+Investigative Direction: Host's message history with Nick.
+
+---
+
+**C-15610** Host Says Ian Carroll Publicized His Utah Trip and Is Not Collaborating With Her
+
+Claim Timestamp: 00:41:00
+
+Claim: The host says Ian Carroll is conducting a separate investigation, is not collaborating with her, and publicized that he was going to Utah to be on the ground; per Nick, this was two weeks after the shooting and Lyman lives four hours away.
+
+Transcript Snippet: Ian Carroll is conducting his own separate investigation. and we are not collaborating at all
+
+Anchored Artifacts: A-3422.1
+Mentions: N-130, N-61, N-126
+Related Nodes: N-10144
+Tags: relevance:context
+Investigative Direction: Ian Carroll's public posts announcing his Utah trip.
+
+---
+
+**C-15611** Nick Says Lyman Told Him He and Tyler Bowyer of TPUSA Have Been Speaking
+
+Claim Timestamp: 00:41:30
+
+Claim: The host relays Nick's account that Lyman mentioned Governor Cox and Tyler Bowyer of Turning Point USA during the visit, and said Bowyer and Lyman have been speaking.
+
+Transcript Snippet: he mentions Governor Cox and he mentions Tyler Bowyer of Turning Point USA and says that again this is according to Nick that Tyler Bowyer and the the lineman have been speaking
+
+Anchored Artifacts: A-3422.1
+Mentions: N-11, N-61, N-41, N-126
+Related Nodes: N-10000, N-10144
+Tags: relevance:core
+Investigative Direction: Communications between Phil Lyman and Tyler Bowyer; Bowyer's and Lyman's public statements.
+
+---
+
+**C-15612** Nick Says Lyman Intimated Cox Would Not Look Good at an Upcoming TPUSA Event at USU
+
+Claim Timestamp: 00:41:50
+
+Claim: The host relays, paraphrasing Nick, that with a TPUSA event at Utah State University coming up where Governor Cox was to speak, Lyman intimated that Cox "isn't going to look great" there.
+
+Transcript Snippet: apparently there's a a another Utah event USU event coming up and Governor Cox is supposed to speak
+
+Anchored Artifacts: A-3422.1
+Mentions: N-61, N-41, N-126
+Related Nodes: N-11217, N-10000, N-10144
+Tags: relevance:core
+Investigative Direction: The TPUSA Utah State University event schedule (autumn 2025) and Cox's appearance there.
+
+---
+
+**C-15613** Nick Says Lyman Took a Phone Call Idling in His Driveway and Nick Called the Host Panicking
+
+Claim Timestamp: 00:42:09
+
+Claim: The host relays Nick's account that Lyman left to take a phone call in his car, idling in Nick's driveway, and that Nick then called her panicking about why Lyman was asking about the investigation.
+
+Transcript Snippet: He then tells him I'm going to go if you don't mind I'm going to go take a phone call in my car.
+
+Anchored Artifacts: A-3422.1
+Mentions: N-61, N-126
+Related Nodes: N-10144
+Tags: relevance:core
+Investigative Direction: Nick's call log with the host; Lyman's own account.
+
+---
+
+**C-15614** Host Says an Early Tip Said Lyman and His Family Keep Popping Up and Pointed to the Nephew's Route Tour
+
+Claim Timestamp: 00:42:45
+
+Claim: The host says she searched her tips box for Lyman and found an early message saying that every time the sender looked into the case locally, Lyman and his family members were popping up, and pointing to the public tour by Lyman's nephew of the shooter's route near his grandmother's house.
+
+Transcript Snippet: every time I look into this investigation locally, him and his family members are popping up.
+
+Anchored Artifacts: A-3421.1
+Mentions: N-61
+Related Nodes: N-10144
+Tags: relevance:core, dia
+Investigative Direction: The original tips-box message and its date.
+
+---
+
+**C-15615** Host Says She Asked Nick Whether Lyman Had Sent Him Any Images or Videos
+
+Claim Timestamp: 00:44:35
+
+Claim: The host says she asked Nick whether he had ever received images or videos from Lyman directly, to establish Lyman's line of sight and where he was when the shots rang out, and for metadata for her timeline.
+
+Transcript Snippet: I asked him whether or not he had ever received any images or videos from Phil directly.
+
+Anchored Artifacts: A-3422.1
+Mentions: N-126, N-61
+Related Nodes: N-10146
+Tags: relevance:core
+Investigative Direction: Any photos or video Lyman took on September 10, 2025, with metadata.
+
+---
+
+**C-15616** Nick Says Lyman Refused to Share His Photos and Asked Whose Side He Was On
+
+Claim Timestamp: 00:45:05
+
+Claim: The host relays Nick's account that Lyman did not want to share those photos and asked him explicitly whose side he was on.
+
+Transcript Snippet: Phil kind of freaks out. He doesn't want to share those photos with Nick.
+
+Anchored Artifacts: A-3422.1
+Mentions: N-61, N-126
+Related Nodes: N-10144
+Tags: relevance:core
+Investigative Direction: Text messages between Lyman and Nick.
+
+---
+
+**C-15617** Nick Says Lyman Called and Shouted at Him, Saying He Already Gave His Photos to Taylor Hansen
+
+Claim Timestamp: 00:45:35
+
+Claim: The host relays Nick's account that the day before the episode Lyman called Nick and shouted at him, asking who he thought he was, and said he had already given his photos to Taylor Hansen.
+
+Transcript Snippet: he tells me that yesterday Phil Lyman just calls him and he shouts at him like who the f do you think you are
+
+Anchored Artifacts: A-3422.1
+Mentions: N-61, N-126, N-973
+Related Nodes: N-10144
+Tags: relevance:core
+Investigative Direction: Identify Taylor Hansen and whether he or she holds Lyman's September 10 photos; Nick's call log.
+
+---
+
+**C-15618** Host Says She Asked Nick to Withdraw From On-the-Ground Work
+
+Claim Timestamp: 00:45:50
+
+Claim: The host says she told Nick to remove himself entirely from the on-the-ground part of her investigation because she does not perceive Lyman to be acting in a stable way.
+
+Transcript Snippet: I would like you to just remove yourself entirely from the boots on the ground elements of this investigation
+
+Anchored Artifacts: A-3422.1
+Mentions: N-126, N-61, N-3
+Related Nodes: N-10144
+Tags: relevance:context
+Investigative Direction: Host's messages to Nick.
+
+---
+
+**C-15619** Host Says She Asked Lyman and His Nephew to Identify the People in the Photo and Shane Made His Profile Private
+
+Claim Timestamp: 00:46:25
+
+Claim: The host says she reached out to Phil Lyman and to his nephew Shane, asking them to identify the people in the staircase photos, and that in response Shane immediately made his profile private.
+
+Transcript Snippet: And in response, Shane immediately takes his profile private.
+
+Anchored Artifacts: A-1181.2
+Mentions: N-61, N-128
+Related Nodes: N-11274, N-10144
+Tags: relevance:core
+Investigative Direction: Archived captures of Shaner Broderick's Instagram before and after the change; the host's sent messages.
+
+---
+
+**C-15620** Host Says Phil Lyman Left Her Message Unanswered
+
+Claim Timestamp: 00:46:45
+
+Claim: The host says Phil Lyman left her on read when she asked him to identify the people in the photos.
+
+Transcript Snippet: And Lyman, Phil Lyman, leaves me on read.
+
+Anchored Artifacts:
+Mentions: N-61
+Related Nodes: N-10144
+Tags: relevance:core
+Investigative Direction: The host's message to Lyman and its read receipt; the snippet is under 8 words because the beat is one sentence.
+
+---
+
+**C-15621** Host Asks the Two Friends in the Photos to Come Forward and Says the Nephew Posted That His Uncle Was With Charlie
+
+Claim Timestamp: 00:46:55
+
+Claim: The host asks the two young men in the photos to contact her, says they publicized a full video walking the shooter's route, and says the nephew posted that his uncle Phil Lyman was with Charlie; she says she is being met with radio silence and is turning to the public.
+
+Transcript Snippet: he even posted he posted Phil Lyman and my uncle was with Charlie. This is the video that they posted.
+
+Anchored Artifacts: A-3423.1, A-3419.2
+Mentions: N-128, N-61, N-1
+Related Nodes: N-10144, N-10147
+Tags: relevance:core, dia
+Investigative Direction: Archived copy of the nephew's walkthrough video and post; identities of the two companions (N-10147).
+
+---
+
 ## 6. Meme Register
 
 **M-15** (meme) We Don't Know But We Know
@@ -1773,6 +2829,37 @@ Speaker: N-3
 Quote: Jeffrey Epstein didn't kill himself. Tyler&nbsp; Robinson didn't kill himself.
 Context: Host cites the 'didn't kill himself' phrases as what people say when they expect the federal government is lying, and applies it to Tyler Robinson.
 Tags: relevance:context, epstein
+Confidence: high
+
+---
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:20:43
+Speaker: N-3
+Quote: If you have any more information about this individual, if he is your boy scout leader or he works for your church, please send us um tips at candaceowens.com.
+Context: Host asks for tips on former deputy Mike Mitchell.
+Tags: dia, tips, relevance:core
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:37:42
+Speaker: N-3
+Quote: Next came a tip that you guys saw me receive live on the show.
+Context: Host follows up a paid live tip about a woman with the shooter and a clothes change.
+Tags: dia, tips, relevance:core
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 00:47:23
+Speaker: N-3
+Quote: Again, please reserve the tips at candaceowens.com for actual tips related to the questions that we are asking.
+Context: Host asks the public to identify the nephew's companions and keep the tips box for real tips.
+Tags: dia, tips, relevance:core
 Confidence: high
 
 ---

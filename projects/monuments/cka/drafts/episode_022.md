@@ -541,7 +541,7 @@ Named in the host's account of what Seth Dillon pressed Charlie about.
 
 ---
 
-**N-68** Skyler
+**N-68** Schuyler
 
 Producer addressed by the host about where the Seth Dillon clip came from.
 
@@ -1613,7 +1613,7 @@ Claim Timestamp: 00:48:05
 
 Claim: Asking her producer, the host says the clip of Seth Dillon on Nick Fuentes was not on Piers Morgan but on a separate show of his.
 
-Transcript Snippet: Okay, it wasn't on Piers Morgan, right, Skyler?
+Transcript Snippet: Okay, it wasn't on Piers Morgan, right, Schuyler?
 
 Anchored Artifacts: A-1295.3
 Mentions: N-3, N-38, N-68, N-204

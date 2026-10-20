@@ -33,7 +33,7 @@ In shorter segments the host says the White House is still not answering her FOI
 
 **A-2599.1** Victor Marx video posted on X after his interview with the host (played)
 
-Quoted text: "Hey everybody, Victor Mark here. I just finished a podcast with Candace Owens that I think will never be forgotten. I want to appreciate my team here."
+Quoted text: "Hey everybody, Victor Marx here. I just finished a podcast with Candace Owens that I think will never be forgotten. I want to appreciate my team here."
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:02:47
@@ -374,7 +374,7 @@ Named only as "Dan" alongside Brian Harpole when the host speculates about the s
 
 **N-341** Victor Marx
 
-Transcript spellings "Victor Mark" and "Victor March". Colorado gubernatorial candidate interviewed the day before. His early, later-deleted post announcing Charlie Kirk's death, his text to Erika Kirk and his team's takeover of security are scrutinized; the host has sent him a preservation letter.
+Transcript spellings "Victor Marx" and "Victor March". Colorado gubernatorial candidate interviewed the day before. His early, later-deleted post announcing Charlie Kirk's death, his text to Erika Kirk and his team's takeover of security are scrutinized; the host has sent him a preservation letter.
 
 *Related: C-4214, C-4215, C-4216, C-4217, C-4218, C-4219, C-4220, C-4221, C-4222, C-4226, C-4227, C-4228, C-4229, C-4230, C-4264, A-2599.1, A-2600.1, A-2600.2, A-2600.3, A-2602.1, A-2608.2*
 
@@ -789,7 +789,7 @@ Claim Timestamp: 00:12:44
 
 Claim: The host says that because she is being sued for defamation, her side sent Victor Marx a legal preservation letter earlier that day. She says his communications with the security team during the critical hours, possibly with Brian or Dan, may be relevant.
 
-Transcript Snippet: I'm being sued for defamation, which is why we sent earlier today Victor Mark's legal preservation letter.
+Transcript Snippet: I'm being sued for defamation, which is why we sent earlier today Victor Marx's legal preservation letter.
 
 Anchored Artifacts: A-2602.1
 Mentions: N-341, N-266, N-3, N-270
@@ -1586,7 +1586,7 @@ Confidence: high
 
 - **DIA beats**: no qualifying hits. The only keyword hit is "CandaceOwens. com" (55:53), a merch plug rather than a tip request, so no M-12 occurrence was added. The host's invitations to investigators to contact her for the names of the people Erika Kirk told (21:59, 27:25) offer information rather than ask for tips, so they were not treated as DIA beats.
 - **Artifacts verbally referenced but not shown**: A-2602.1 (Marx preservation letter), A-2602.2 (Paramount preservation letter), A-2603.1 (the host's evidence and sources on the September 15 appointment), A-2605.1 (the "emotional asset" communication) and A-2605.2 (the FOIA request). The host also cites a Daily Mail article on a TPUSA board member and the AI video without showing it.
-- **Name matching**: "Frank Chirico" (11:12) is mapped to N-7 Frank Turek, as he and the security team drove Kirk to the hospital; the alias list includes "Frank Turek." "Dan" (12:44) is mapped to N-270 Dan Flood from context (named with Brian Harpole as security). "Ed Gallrein" (52:19, 55:09) is minted as N-638 in the transcript spelling; context (Massie's loss, victory party) suggests Massie's primary opponent, possibly Ed Gallrein, but this is unconfirmed and the integrator should check. "Victor Mark"/"Victor March" are mapped to N-341; "Bryan Harpold" to N-266; "Andrew Kolvet" to N-14; "Megyn Kelly" to N-46.
+- **Name matching**: "Frank Chirico" (11:12) is mapped to N-7 Frank Turek, as he and the security team drove Kirk to the hospital; the alias list includes "Frank Turek." "Dan" (12:44) is mapped to N-270 Dan Flood from context (named with Brian Harpole as security). "Ed Gallrein" (52:19, 55:09) is minted as N-638 in the transcript spelling; context (Massie's loss, victory party) suggests Massie's primary opponent, possibly Ed Gallrein, but this is unconfirmed and the integrator should check. "Victor Marx"/"Victor March" are mapped to N-341; "Bryan Harpold" to N-266; "Andrew Kolvet" to N-14; "Megyn Kelly" to N-46.
 - **Reused staging titles**: N-10916 uses the episode 104 title "Thomas Massie Kentucky Primary Outside Spending". N-10923 and M-95 use the episode 105 titles "White House Military Office Erika Kirk Amplification Email" and "Emotional Response Asset". M-92 uses the episodes 103/105 title "Paramount Not So Tactical". Episode 104 names the same email "White House Military Office "I Want to Go Home" Amplification Email", so the integrator should reconcile the two.
 - **Transcription ambiguities**: "an aspirin three weeks before" (17:28) is likely "an aspiration"; kept as transcribed. "Eric Richens" vs "Kouri Richins" and "Kouri D. Richins" kept as spoken. "in combat minutes" (06:34) is unclear. The 28:40–30:40 and 46:20–47:58 gaps are breaks with no transcript.
 - **Duration**: the skeleton meta gave 00:56:29; the range was reset to the transcript front-matter duration 57:23.

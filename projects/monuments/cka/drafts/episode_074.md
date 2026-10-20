@@ -1214,7 +1214,7 @@ Topic reused for the toddler alibi recap and the alleged fight.
 
 ---
 
-**N-10561** Stacey Sheridan September 10 Location Verification
+**N-10561** Stacy Sheridan September 10 Location Verification
 
 Topic reused for the Sept 10 travel account.
 

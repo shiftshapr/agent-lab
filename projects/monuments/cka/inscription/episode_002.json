@@ -1224,7 +1224,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "confidence": "low",
-      "uncertainty_note": "Transcript 'Abraham Pollock'; canonical name uncertain (possibly Arthur Koestler 'The Thirteenth Tribe' or similar).",
+      "uncertainty_note": "Transcript 'Abraham Poliak'; canonical name uncertain (possibly Arthur Koestler 'The Thirteenth Tribe' or similar).",
       "related_nodes": []
     },
     {
@@ -2419,7 +2419,7 @@
       "@id": "C-3720",
       "ref": "C-3720",
       "label": "Host recommends David Bakan, Shlomo Sand and Abraham Poliak to viewers",
-      "claim": "The host recommends reading David Bakan's book on Sigmund Freud and the Jewish mystical tradition, Shlomo Sand's The Invention of the Jewish People, and Abraham Poliak (transcript: \"Abraham Pollock\"), whom she says won awards for tracing Ashkenazi Jews to the Khazars.",
+      "claim": "The host recommends reading David Bakan's book on Sigmund Freud and the Jewish mystical tradition, Shlomo Sand's The Invention of the Jewish People, and Abraham Poliak (transcript: \"Abraham Poliak\"), whom she says won awards for tracing Ashkenazi Jews to the Khazars.",
       "anchored_artifacts": [
         "A-2515.1"
       ],

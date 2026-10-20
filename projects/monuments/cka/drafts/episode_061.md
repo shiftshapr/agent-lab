@@ -681,9 +681,9 @@ First named by the host at 00:49:30 in episode 61. Lawyer the host says Nicola P
 
 **N-883** Nelson Peltz
 
-First named by the host at 00:51:35 in episode 61 (transcribed 'Nelson Pelts'). Father of Nicola Peltz; the host says he sued over a wedding contract.
+First named by the host at 00:51:35 in episode 61 (transcribed 'Nelson Peltz'). Father of Nicola Peltz; the host says he sued over a wedding contract.
 
-Aliases: Nelson Pelts
+Aliases: Nelson Peltz
 
 *Related: C-11166*
 

@@ -1277,7 +1277,7 @@ Investigative Direction: Identify the original interview (outlet, date, reporter
 
 Claim Timestamp: 00:46:40
 
-Claim: In the played clip, Tim Dillon performs a comedy bit involving imagined lyrics from Alexis Wilkins, references Tel Aviv, "Kash Mattel," and "Jeff" files, and jokes about a country-music release.
+Claim: In the played clip, Tim Dillon performs a comedy bit involving imagined lyrics from Alexis Wilkins, references Tel Aviv, "Kash Patel," and "Jeff" files, and jokes about a country-music release.
 
 Anchored Artifacts: A-1396.1
 Mentions: N-277, N-212, N-69

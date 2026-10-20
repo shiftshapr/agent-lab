@@ -344,7 +344,7 @@ FBI-named suspect whose description (jeans, flag shirt) is contested by the roof
 
 ---
 
-**N-68** Skyler
+**N-68** Schuyler
 
 Node Type: Person
 Production team member referenced while pulling the timeline graphic on screen.

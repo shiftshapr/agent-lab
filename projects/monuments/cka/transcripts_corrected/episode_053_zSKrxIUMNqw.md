@@ -44,7 +44,7 @@ He is the person who has been running Turning Point USA. He staffed nearly every
 
 [02:12]
 
-All right, buckle up, boys and girls, because we are going on a journey. It was yesterday, just yesterday, that we scooped the Daily Wire's cringe news show designed quite literally with the intention to mock me and Tucker Carlson. It's always got to be Tuck Carlson, Cameron Sewins together, we're partners. Even the typical standard Daily Wire Stan accounts had to admit that it was it was cringe. so cringe that some of them were actually hoping that it was fake, that it was just bait, that the show wasn't real or was not actually happening or that it was just a segment and I was taking it out of context because no, the company can't actually be this obsessed with a former employee two years later.
+All right, buckle up, boys and girls, because we are going on a journey. It was yesterday, just yesterday, that we scooped the Daily Wire's cringe news show designed quite literally with the intention to mock me and Tucker Carlson. It's always got to be Tucker Carlson, Cameron Sewins together, we're partners. Even the typical standard Daily Wire Stan accounts had to admit that it was it was cringe. so cringe that some of them were actually hoping that it was fake, that it was just bait, that the show wasn't real or was not actually happening or that it was just a segment and I was taking it out of context because no, the company can't actually be this obsessed with a former employee two years later.
 
 [02:57]
 

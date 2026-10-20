@@ -3,8 +3,8 @@
   "updated": "2026-10-08T20:15:25Z",
   "monument": "cka",
   "remap_note": "2026-10-13 (Daveed): ids compacted with no holes and no tombstones. Persons N-1..N-607, topic/org/place N-10000..N-10902; old to new ids in audits/id_compaction_2026-10-13/id_map.csv. Earlier remap history (BoC remap, batches 1-2, catch-up, waves 1-3) is in git history and the audits folders, which keep the ids of their time.",
-  "next_person_id": 973,
-  "next_investigation_id": 11448,
+  "next_person_id": 974,
+  "next_investigation_id": 11449,
   "nodes": {
     "N-1": {
       "canonical_name": "Charlie Kirk",
@@ -186,9 +186,7 @@
       "canonical_name": "Erika Kirk",
       "type": "person",
       "aliases": [
-        "Erika Frantzve",
-        "Ericka Kirk",
-        "Erikica Kirk"
+        "Erika Frantzve"
       ],
       "episodes": [
         1,
@@ -345,9 +343,7 @@
     "N-3": {
       "canonical_name": "Candace Owens",
       "type": "person",
-      "aliases": [
-        "Candace Owen"
-      ],
+      "aliases": [],
       "episodes": [
         1,
         2,
@@ -825,13 +821,7 @@
     "N-10": {
       "canonical_name": "Caleb Chilcutt",
       "type": "person",
-      "aliases": [
-        "Caleb Chilikut",
-        "Chilikut",
-        "Chiliket",
-        "Chilikit",
-        "Chilikate"
-      ],
+      "aliases": [],
       "episodes": [
         156,
         157,
@@ -911,9 +901,7 @@
     "N-12": {
       "canonical_name": "Kip Crofts",
       "type": "person",
-      "aliases": [
-        "Kip Cross"
-      ],
+      "aliases": [],
       "episodes": [
         157,
         165
@@ -922,10 +910,7 @@
     "N-13": {
       "canonical_name": "Clara Molot",
       "type": "person",
-      "aliases": [
-        "Clara Malo",
-        "Claraara Malo"
-      ],
+      "aliases": [],
       "episodes": [
         158,
         159
@@ -934,14 +919,7 @@
     "N-14": {
       "canonical_name": "Andrew Kolvet",
       "type": "person",
-      "aliases": [
-        "Andrew Kolvet (also spelled Kolvetz in transcript)",
-        "Andrew Kovvette",
-        "Andrew Kvette",
-        "Andrew Colbet",
-        "Andrew Kolvats",
-        "Andrew Kovacs"
-      ],
+      "aliases": [],
       "episodes": [
         1,
         5,
@@ -1108,9 +1086,7 @@
     "N-16": {
       "canonical_name": "Sergio Gor",
       "type": "person",
-      "aliases": [
-        "Sergio Gore"
-      ],
+      "aliases": [],
       "episodes": [
         36,
         45,
@@ -1198,9 +1174,7 @@
     "N-19": {
       "canonical_name": "Laine Schoneberger",
       "type": "person",
-      "aliases": [
-        "Lane Shonberger"
-      ],
+      "aliases": [],
       "episodes": [
         93,
         157,
@@ -1210,9 +1184,7 @@
     "N-20": {
       "canonical_name": "Dylan Erickson",
       "type": "person",
-      "aliases": [
-        "Dylan Ericson"
-      ],
+      "aliases": [],
       "episodes": [
         30,
         159
@@ -1221,10 +1193,7 @@
     "N-21": {
       "canonical_name": "Dennis Fenstermaker",
       "type": "person",
-      "aliases": [
-        "Dennis Foster",
-        "Dennis Fster maker"
-      ],
+      "aliases": [],
       "episodes": [
         159
       ]
@@ -1232,9 +1201,7 @@
     "N-22": {
       "canonical_name": "Tucker Carlson",
       "type": "person",
-      "aliases": [
-        "Tuck Carlson"
-      ],
+      "aliases": [],
       "episodes": [
         2,
         3,
@@ -1327,10 +1294,7 @@
     "N-23": {
       "canonical_name": "Alan Collinge",
       "type": "person",
-      "aliases": [
-        "Allan Khan",
-        "Allan Kh"
-      ],
+      "aliases": [],
       "episodes": [
         159
       ]
@@ -1338,9 +1302,7 @@
     "N-24": {
       "canonical_name": "Riley Gaines",
       "type": "person",
-      "aliases": [
-        "Riley Gains"
-      ],
+      "aliases": [],
       "episodes": [
         159,
         161
@@ -1350,7 +1312,6 @@
       "canonical_name": "Brian Cole Jr.",
       "type": "person",
       "aliases": [
-        "Brian J. poll",
         "Brian J. Cole Jr."
       ],
       "episodes": [
@@ -1363,9 +1324,7 @@
     "N-26": {
       "canonical_name": "Lori Jane Gliha",
       "type": "person",
-      "aliases": [
-        "Lori Jane Gleha"
-      ],
+      "aliases": [],
       "episodes": [
         159
       ]
@@ -1628,9 +1587,7 @@
     "N-37": {
       "canonical_name": "Bill Ackman",
       "type": "person",
-      "aliases": [
-        "Bill Blackman"
-      ],
+      "aliases": [],
       "episodes": [
         2,
         3,
@@ -2078,10 +2035,7 @@
     "N-53": {
       "canonical_name": "Abraham Poliak",
       "type": "person",
-      "aliases": [
-        "Abraham Polokoff",
-        "Abraham Pollock"
-      ],
+      "aliases": [],
       "episodes": [
         2
       ]
@@ -2090,8 +2044,7 @@
       "canonical_name": "Lance Twiggs",
       "type": "person",
       "aliases": [
-        "Lance",
-        "Lance Twig"
+        "Lance"
       ],
       "episodes": [
         3,
@@ -2099,6 +2052,7 @@
         5,
         6,
         10,
+        11,
         16,
         52,
         87,
@@ -2288,7 +2242,7 @@
       ]
     },
     "N-63": {
-      "canonical_name": "Sarah Stockton",
+      "canonical_name": "Sarah Stock",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -2298,9 +2252,7 @@
     "N-64": {
       "canonical_name": "Brian Mast",
       "type": "person",
-      "aliases": [
-        "Brian Mass"
-      ],
+      "aliases": [],
       "episodes": [
         3,
         7,
@@ -2362,11 +2314,9 @@
       ]
     },
     "N-68": {
-      "canonical_name": "Skyler",
+      "canonical_name": "Schuyler",
       "type": "person",
-      "aliases": [
-        "Charlie Skyler"
-      ],
+      "aliases": [],
       "episodes": [
         3,
         4,
@@ -2386,9 +2336,7 @@
     "N-69": {
       "canonical_name": "Kash Patel",
       "type": "person",
-      "aliases": [
-        "Kash Mattel"
-      ],
+      "aliases": [],
       "episodes": [
         4,
         7,
@@ -2473,9 +2421,7 @@
     "N-71": {
       "canonical_name": "Matt Gaetz",
       "type": "person",
-      "aliases": [
-        "Matt Gates"
-      ],
+      "aliases": [],
       "episodes": [
         4,
         17,
@@ -2769,10 +2715,7 @@
     "N-95": {
       "canonical_name": "Jack Posobiec",
       "type": "person",
-      "aliases": [
-        "Jack Pobic",
-        "Jack Pobiac"
-      ],
+      "aliases": [],
       "episodes": [
         7,
         26,
@@ -2855,7 +2798,6 @@
       "canonical_name": "Robert Shillman",
       "type": "person",
       "aliases": [
-        "Bob Shaman",
         "Bob Shillman"
       ],
       "episodes": [
@@ -2967,9 +2909,7 @@
     "N-105": {
       "canonical_name": "Corey Comperatore",
       "type": "person",
-      "aliases": [
-        "Corey Comparator"
-      ],
+      "aliases": [],
       "episodes": [
         9,
         115,
@@ -3007,9 +2947,7 @@
     "N-109": {
       "canonical_name": "Rand Paul",
       "type": "person",
-      "aliases": [
-        "Ran Paul"
-      ],
+      "aliases": [],
       "episodes": [
         9
       ]
@@ -3017,9 +2955,7 @@
     "N-110": {
       "canonical_name": "Thomas Sowell",
       "type": "person",
-      "aliases": [
-        "Thomas Soul"
-      ],
+      "aliases": [],
       "episodes": [
         9,
         50
@@ -3064,10 +3000,7 @@
     "N-115": {
       "canonical_name": "Xaviaer DuRousseau",
       "type": "person",
-      "aliases": [
-        "Xavier Daruso",
-        "Xavier Duso"
-      ],
+      "aliases": [],
       "episodes": [
         10
       ]
@@ -3129,11 +3062,7 @@
     "N-120": {
       "canonical_name": "Taylor Lorenz",
       "type": "person",
-      "aliases": [
-        "Taylor Lorent",
-        "Taylor Ren",
-        "Taylor Loren"
-      ],
+      "aliases": [],
       "episodes": [
         10,
         30
@@ -3259,10 +3188,7 @@
     "N-131": {
       "canonical_name": "Susie Wiles",
       "type": "person",
-      "aliases": [
-        "Susie Wilds",
-        "Susy Wilds"
-      ],
+      "aliases": [],
       "episodes": [
         20,
         21,
@@ -3392,7 +3318,6 @@
       "canonical_name": "Olivia Robertson Cobb Bishop",
       "type": "person",
       "aliases": [
-        "Olivia Robertson cub Bishop",
         "Olivia Bishop",
         "Olivia Robertson"
       ],
@@ -3417,9 +3342,7 @@
     "N-146": {
       "canonical_name": "Theo Von",
       "type": "person",
-      "aliases": [
-        "Theo Vaughn"
-      ],
+      "aliases": [],
       "episodes": [
         14,
         35,
@@ -3460,10 +3383,7 @@
     "N-150": {
       "canonical_name": "Taylor Budowich",
       "type": "person",
-      "aliases": [
-        "Taylor Budawick",
-        "Budawick"
-      ],
+      "aliases": [],
       "episodes": [
         80,
         159
@@ -3503,9 +3423,7 @@
     "N-154": {
       "canonical_name": "John Mappin",
       "type": "person",
-      "aliases": [
-        "John Mappen"
-      ],
+      "aliases": [],
       "episodes": [
         16,
         17,
@@ -3555,10 +3473,7 @@
     "N-158": {
       "canonical_name": "Stanley Woodward",
       "type": "person",
-      "aliases": [
-        "Stanley Woodwick",
-        "Woodwick"
-      ],
+      "aliases": [],
       "episodes": [
         159
       ]
@@ -3567,9 +3482,7 @@
       "canonical_name": "Blake Neff",
       "type": "person",
       "aliases": [
-        "Blake",
-        "Blakey Neff",
-        "Blakey Nef"
+        "Blake"
       ],
       "episodes": [
         16,
@@ -3651,11 +3564,7 @@
     "N-160": {
       "canonical_name": "Steven Cheung",
       "type": "person",
-      "aliases": [
-        "Steven Chung",
-        "Steven Chong",
-        "Stephen Cheung"
-      ],
+      "aliases": [],
       "episodes": [
         104,
         105,
@@ -3820,9 +3729,7 @@
     "N-176": {
       "canonical_name": "Deirdre Amaro",
       "type": "person",
-      "aliases": [
-        "Deidra Weiss"
-      ],
+      "aliases": [],
       "episodes": [
         18,
         20,
@@ -3835,9 +3742,7 @@
     "N-177": {
       "canonical_name": "Zach Bryan",
       "type": "person",
-      "aliases": [
-        "Zack Bryan"
-      ],
+      "aliases": [],
       "episodes": [
         160
       ]
@@ -3845,9 +3750,7 @@
     "N-178": {
       "canonical_name": "Jared Kushner",
       "type": "person",
-      "aliases": [
-        "Jared Kushner (presumed prior node, reused)"
-      ],
+      "aliases": [],
       "episodes": [
         18,
         21,
@@ -3866,7 +3769,7 @@
       ]
     },
     "N-179": {
-      "canonical_name": "Justin McCoy",
+      "canonical_name": "Justin Olson",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -3933,9 +3836,7 @@
     "N-186": {
       "canonical_name": "Stacy Sheridan",
       "type": "person",
-      "aliases": [
-        "Stacey Sheridan"
-      ],
+      "aliases": [],
       "episodes": [
         19,
         35,
@@ -3991,7 +3892,6 @@
       "canonical_name": "Mikey McCoy",
       "type": "person",
       "aliases": [
-        "Mikey McCoyy",
         "Mike McCoy"
       ],
       "episodes": [
@@ -4105,9 +4005,7 @@
     "N-194": {
       "canonical_name": "Robert Kraft",
       "type": "person",
-      "aliases": [
-        "Robert Craft"
-      ],
+      "aliases": [],
       "episodes": [
         152,
         160
@@ -4161,8 +4059,7 @@
       "canonical_name": "Norman Finkelstein",
       "type": "person",
       "aliases": [
-        "Norm Finkelstein",
-        "Norm Finkelestein"
+        "Norm Finkelstein"
       ],
       "episodes": [
         21,
@@ -4187,9 +4084,7 @@
     "N-201": {
       "canonical_name": "Nick Fuentes",
       "type": "person",
-      "aliases": [
-        "Nick Fentes"
-      ],
+      "aliases": [],
       "episodes": [
         15,
         16,
@@ -4214,10 +4109,7 @@
     "N-202": {
       "canonical_name": "Lindsay Clancy",
       "type": "person",
-      "aliases": [
-        "Lindsey Clancy",
-        "Lindsy Clancy"
-      ],
+      "aliases": [],
       "episodes": [
         139,
         147,
@@ -4282,9 +4174,7 @@
     "N-208": {
       "canonical_name": "Jack Hibbs",
       "type": "person",
-      "aliases": [
-        "Jack Hibs"
-      ],
+      "aliases": [],
       "episodes": [
         23,
         30,
@@ -4359,9 +4249,7 @@
     "N-212": {
       "canonical_name": "Alexis Wilkins",
       "type": "person",
-      "aliases": [
-        "Alex Wilkins"
-      ],
+      "aliases": [],
       "episodes": [
         24,
         30,
@@ -4578,10 +4466,8 @@
       "canonical_name": "Allie Beth Stuckey",
       "type": "person",
       "aliases": [
-        "AllieBeth Stuckey",
         "Allie Beth",
-        "Allie Stuckey",
-        "Ali Beth Stucky"
+        "Allie Stuckey"
       ],
       "episodes": [
         27,
@@ -4621,9 +4507,7 @@
     "N-230": {
       "canonical_name": "Kolby Sessions",
       "type": "person",
-      "aliases": [
-        "Coby Sessions"
-      ],
+      "aliases": [],
       "episodes": [
         27
       ]
@@ -4712,9 +4596,7 @@
     "N-238": {
       "canonical_name": "Shauni Kerkhoff",
       "type": "person",
-      "aliases": [
-        "Shawnie Kirkup"
-      ],
+      "aliases": [],
       "episodes": [
         29
       ]
@@ -4790,9 +4672,7 @@
     "N-246": {
       "canonical_name": "Butch Hibbs",
       "type": "person",
-      "aliases": [
-        "Butch Hibs"
-      ],
+      "aliases": [],
       "episodes": [
         30,
         31,
@@ -5007,9 +4887,7 @@
     "N-265": {
       "canonical_name": "Christopher Wray",
       "type": "person",
-      "aliases": [
-        "Christopher Ray"
-      ],
+      "aliases": [],
       "episodes": [
         35,
         114
@@ -5018,11 +4896,7 @@
     "N-266": {
       "canonical_name": "Brian Harpole",
       "type": "person",
-      "aliases": [
-        "Brian Herpolsheimer",
-        "Brian Harpool",
-        "Brian Harpo"
-      ],
+      "aliases": [],
       "episodes": [
         34,
         35,
@@ -5091,9 +4965,7 @@
     "N-267": {
       "canonical_name": "Tim Pool",
       "type": "person",
-      "aliases": [
-        "Tim P"
-      ],
+      "aliases": [],
       "episodes": [
         34,
         35,
@@ -5135,8 +5007,7 @@
       "type": "person",
       "aliases": [
         "Pepper Williams",
-        "Derek Pepper",
-        "Chester Barnes"
+        "Derek Pepper"
       ],
       "episodes": [
         149
@@ -5224,9 +5095,7 @@
     "N-273": {
       "canonical_name": "Mike Huckabee",
       "type": "person",
-      "aliases": [
-        "Mike Huckabe"
-      ],
+      "aliases": [],
       "episodes": [
         37,
         78,
@@ -5263,8 +5132,7 @@
       "canonical_name": "Tim Dillon",
       "type": "person",
       "aliases": [
-        "Tim Dillon (comedian)",
-        "Tim Dylon"
+        "Tim Dillon (comedian)"
       ],
       "episodes": [
         31,
@@ -5352,9 +5220,7 @@
       "type": "person",
       "aliases": [
         "data republican",
-        "Data Republican",
-        "Genica",
-        "D Republican"
+        "Data Republican"
       ],
       "episodes": [
         145,
@@ -5446,9 +5312,7 @@
     "N-291": {
       "canonical_name": "Charles Joseph Bonaparte",
       "type": "person",
-      "aliases": [
-        "Charles Joseph Bonapart"
-      ],
+      "aliases": [],
       "episodes": [
         39
       ]
@@ -5506,9 +5370,7 @@
     "N-298": {
       "canonical_name": "Miriam Adelson",
       "type": "person",
-      "aliases": [
-        "Miriam Medson"
-      ],
+      "aliases": [],
       "episodes": [
         20,
         31,
@@ -5534,9 +5396,7 @@
     "N-300": {
       "canonical_name": "Judge Jan Jurden",
       "type": "person",
-      "aliases": [
-        "Jan Jordan"
-      ],
+      "aliases": [],
       "episodes": [
         39
       ]
@@ -5552,9 +5412,7 @@
     "N-302": {
       "canonical_name": "Cam Higby",
       "type": "person",
-      "aliases": [
-        "Cam Higgby"
-      ],
+      "aliases": [],
       "episodes": [
         40,
         41
@@ -5696,7 +5554,7 @@
       ]
     },
     "N-318": {
-      "canonical_name": "Harry Meyers",
+      "canonical_name": "Harry Myers",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -5707,9 +5565,7 @@
       "canonical_name": "Captain Adam Neff",
       "type": "person",
       "aliases": [
-        "Captain Nef",
-        "Captain Neff",
-        "Adam Nef"
+        "Captain Neff"
       ],
       "episodes": [
         44,
@@ -5822,9 +5678,7 @@
     "N-330": {
       "canonical_name": "Baron Coleman",
       "type": "person",
-      "aliases": [
-        "Bar Coleman"
-      ],
+      "aliases": [],
       "episodes": [
         47,
         48,
@@ -5957,9 +5811,7 @@
     "N-341": {
       "canonical_name": "Victor Marx",
       "type": "person",
-      "aliases": [
-        "Victor Mark"
-      ],
+      "aliases": [],
       "episodes": [
         91,
         92,
@@ -6070,9 +5922,7 @@
       "type": "person",
       "aliases": [
         "Servas",
-        "Cervius",
-        "Matt Servas",
-        "Matt Servious"
+        "Matt Servas"
       ],
       "episodes": [
         161,
@@ -6082,9 +5932,7 @@
     "N-352": {
       "canonical_name": "Blake Wynn",
       "type": "person",
-      "aliases": [
-        "Blake Win"
-      ],
+      "aliases": [],
       "episodes": [
         130,
         161,
@@ -6095,10 +5943,7 @@
     "N-353": {
       "canonical_name": "Steve Wynn",
       "type": "person",
-      "aliases": [
-        "Steve Wyn",
-        "Steve Wind"
-      ],
+      "aliases": [],
       "episodes": [
         130,
         133,
@@ -6109,9 +5954,7 @@
     "N-354": {
       "canonical_name": "Ali Breland",
       "type": "person",
-      "aliases": [
-        "Ali Breeland"
-      ],
+      "aliases": [],
       "episodes": [
         161
       ]
@@ -6119,10 +5962,7 @@
     "N-355": {
       "canonical_name": "Jules Katz",
       "type": "person",
-      "aliases": [
-        "Cats",
-        "Jules Cats"
-      ],
+      "aliases": [],
       "episodes": [
         161
       ]
@@ -6139,7 +5979,6 @@
       "canonical_name": "Jack O'Hara",
       "type": "person",
       "aliases": [
-        "Ohara",
         "O'Hara"
       ],
       "episodes": [
@@ -6182,7 +6021,6 @@
       "canonical_name": "Mitch Snow",
       "type": "person",
       "aliases": [
-        "Mitch\" (Eyewitness, Pseudonym)",
         "Mitch",
         "Mitch Snow (witness, veteran)"
       ],
@@ -6288,9 +6126,7 @@
     "N-367": {
       "canonical_name": "Danny Philip",
       "type": "person",
-      "aliases": [
-        "Danny Phillip"
-      ],
+      "aliases": [],
       "episodes": [
         125,
         129,
@@ -6361,9 +6197,7 @@
     "N-374": {
       "canonical_name": "Lara Trump",
       "type": "person",
-      "aliases": [
-        "Laura Trump"
-      ],
+      "aliases": [],
       "episodes": [
         28,
         99,
@@ -6412,9 +6246,7 @@
     "N-378": {
       "canonical_name": "Dan Bongino",
       "type": "person",
-      "aliases": [
-        "Dan Bonino"
-      ],
+      "aliases": [],
       "episodes": [
         15,
         48,
@@ -6506,7 +6338,6 @@
       "canonical_name": "Larry Guinta",
       "type": "person",
       "aliases": [
-        "Larry Gwinta",
         "Larry Guinta (referred to as \"Larry Lawrence Guinta\")"
       ],
       "episodes": [
@@ -6703,9 +6534,7 @@
     "N-410": {
       "canonical_name": "Zachariah Qureshi",
       "type": "person",
-      "aliases": [
-        "Zachariah Karashi"
-      ],
+      "aliases": [],
       "episodes": [
         85,
         87,
@@ -6882,7 +6711,7 @@
       ]
     },
     "N-429": {
-      "canonical_name": "Chad Schnitker",
+      "canonical_name": "Chad Schnitger",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -6942,9 +6771,7 @@
     "N-434": {
       "canonical_name": "Christoph Schweizer",
       "type": "person",
-      "aliases": [
-        "Kristoff Schweiser"
-      ],
+      "aliases": [],
       "episodes": [
         110
       ]
@@ -7037,7 +6864,7 @@
       "canonical_name": "Shinz\u014d Abe",
       "type": "person",
       "aliases": [
-        "Shinszo Abbe"
+        "Shinzo Abe"
       ],
       "episodes": [
         55,
@@ -7081,9 +6908,7 @@
     "N-449": {
       "canonical_name": "Michael Aquino",
       "type": "person",
-      "aliases": [
-        "Michael Aino"
-      ],
+      "aliases": [],
       "episodes": [
         54,
         56,
@@ -7194,9 +7019,7 @@
     "N-460": {
       "canonical_name": "Nelda Buckman",
       "type": "person",
-      "aliases": [
-        "NDA Buckman"
-      ],
+      "aliases": [],
       "episodes": [
         58,
         59,
@@ -7210,9 +7033,7 @@
     "N-461": {
       "canonical_name": "Karl Buckman",
       "type": "person",
-      "aliases": [
-        "Carl Buckman"
-      ],
+      "aliases": [],
       "episodes": [
         58,
         59
@@ -7361,7 +7182,6 @@
       "canonical_name": "Jessica Ghawi",
       "type": "person",
       "aliases": [
-        "Jessica Garza",
         "Jessica Redfield"
       ],
       "episodes": [
@@ -7489,7 +7309,6 @@
       "type": "person",
       "aliases": [
         "Lori Frantzve (a.k.a. \"Lorin Frantzve\" in Desert Spirit Tech filing)",
-        "Lori France Feay (transcript spelling)",
         "Lorin Frantzve"
       ],
       "episodes": [
@@ -8162,8 +7981,6 @@
       "canonical_name": "Lynn Forester de Rothschild",
       "type": "person",
       "aliases": [
-        "Lindy Rothschild",
-        "Linda Rothschild",
         "Lynn Forester"
       ],
       "episodes": [
@@ -8471,9 +8288,7 @@
     "N-591": {
       "canonical_name": "Bret Weinstein",
       "type": "person",
-      "aliases": [
-        "Brett Weinstein"
-      ],
+      "aliases": [],
       "episodes": [
         78,
         79,
@@ -8486,9 +8301,7 @@
     "N-592": {
       "canonical_name": "Pete Hegseth",
       "type": "person",
-      "aliases": [
-        "Pete Hegsth"
-      ],
+      "aliases": [],
       "episodes": [
         76,
         79,
@@ -8593,8 +8406,7 @@
       "canonical_name": "Douglas Blake Bednarz",
       "type": "person",
       "aliases": [
-        "Blake Bednarz",
-        "Blake Bendaris"
+        "Blake Bednarz"
       ],
       "episodes": [
         100
@@ -8666,9 +8478,7 @@
     "N-608": {
       "canonical_name": "Mikhaila Peterson",
       "type": "person",
-      "aliases": [
-        "Michaela Peterson"
-      ],
+      "aliases": [],
       "episodes": [
         101
       ]
@@ -8693,9 +8503,7 @@
       "canonical_name": "Jessica Reed Kraus",
       "type": "person",
       "aliases": [
-        "House In Habit",
-        "House Inhabit",
-        "house and habit"
+        "House Inhabit"
       ],
       "episodes": [
         85,
@@ -8734,10 +8542,7 @@
     "N-615": {
       "canonical_name": "Gary Melton",
       "type": "person",
-      "aliases": [
-        "Gary Moulton",
-        "Gary Mountain"
-      ],
+      "aliases": [],
       "episodes": [
         100,
         103,
@@ -8757,9 +8562,7 @@
     "N-617": {
       "canonical_name": "Desmond Holly",
       "type": "person",
-      "aliases": [
-        "Deshaun Holly"
-      ],
+      "aliases": [],
       "episodes": [
         103
       ]
@@ -8768,8 +8571,7 @@
       "canonical_name": "Matthew Silverstone",
       "type": "person",
       "aliases": [
-        "Matt Silverstone",
-        "Matthew Stone"
+        "Matt Silverstone"
       ],
       "episodes": [
         103
@@ -8778,9 +8580,7 @@
     "N-619": {
       "canonical_name": "Delmer Martinez",
       "type": "person",
-      "aliases": [
-        "Delmar Martinez"
-      ],
+      "aliases": [],
       "episodes": [
         103
       ]
@@ -8826,13 +8626,7 @@
     "N-624": {
       "canonical_name": "Golshifteh Farahani",
       "type": "person",
-      "aliases": [
-        "Farhani",
-        "Gosh Fani",
-        "Gosh Farani",
-        "Verahani",
-        "Verhani"
-      ],
+      "aliases": [],
       "episodes": [
         104
       ]
@@ -8870,11 +8664,7 @@
     "N-628": {
       "canonical_name": "Kevin O'Leary",
       "type": "person",
-      "aliases": [
-        "Kevin Liry",
-        "Kevin Olirri",
-        "Olyri"
-      ],
+      "aliases": [],
       "episodes": [
         105
       ]
@@ -9141,9 +8931,7 @@
     "N-659": {
       "canonical_name": "Vance Voetberg",
       "type": "person",
-      "aliases": [
-        "Vance Voytberg"
-      ],
+      "aliases": [],
       "episodes": [
         111
       ]
@@ -9207,9 +8995,7 @@
     "N-666": {
       "canonical_name": "James Kaddis",
       "type": "person",
-      "aliases": [
-        "James Katis"
-      ],
+      "aliases": [],
       "episodes": [
         110,
         112,
@@ -9282,9 +9068,7 @@
     "N-674": {
       "canonical_name": "Brooke Singman",
       "type": "person",
-      "aliases": [
-        "Brook Singman"
-      ],
+      "aliases": [],
       "episodes": [
         114
       ]
@@ -9303,12 +9087,7 @@
       "canonical_name": "Mark Liti",
       "type": "person",
       "aliases": [
-        "Mark A. Leiti",
-        "Mark A. Ley",
-        "Mark A. Liti",
-        "Mark Le",
-        "Mark Ley",
-        "Mark a lady"
+        "Mark A. Liti"
       ],
       "episodes": [
         115
@@ -9317,15 +9096,13 @@
     "N-677": {
       "canonical_name": "Chris Liti",
       "type": "person",
-      "aliases": [
-        "Chris Ley"
-      ],
+      "aliases": [],
       "episodes": [
         115
       ]
     },
     "N-678": {
-      "canonical_name": "Courtney Thief",
+      "canonical_name": "Courtney Fife",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -9344,9 +9121,7 @@
     "N-680": {
       "canonical_name": "Cameron Hanes",
       "type": "person",
-      "aliases": [
-        "Cameron Haynes"
-      ],
+      "aliases": [],
       "episodes": [
         115
       ]
@@ -9362,10 +9137,7 @@
     "N-682": {
       "canonical_name": "Jon Bray",
       "type": "person",
-      "aliases": [
-        "John Blake",
-        "John Braden"
-      ],
+      "aliases": [],
       "episodes": [
         54,
         78,
@@ -9406,8 +9178,7 @@
       "canonical_name": "Philip Goldsberry Jr.",
       "type": "person",
       "aliases": [
-        "Philip Goldsberry",
-        "Phillips Goldsberry"
+        "Philip Goldsberry"
       ],
       "episodes": [
         117,
@@ -9664,9 +9435,7 @@
     "N-712": {
       "canonical_name": "Kamala Harris",
       "type": "person",
-      "aliases": [
-        "Camala"
-      ],
+      "aliases": [],
       "episodes": [
         40,
         76
@@ -9675,9 +9444,7 @@
     "N-713": {
       "canonical_name": "Russell Brand",
       "type": "person",
-      "aliases": [
-        "Russell Brandon"
-      ],
+      "aliases": [],
       "episodes": [
         40
       ]
@@ -9695,9 +9462,7 @@
       "canonical_name": "Abdel Fattah el-Sisi",
       "type": "person",
       "aliases": [
-        "Elsisi",
-        "Elsis",
-        "LCC (transcript read of a post)"
+        "Elsisi"
       ],
       "episodes": [
         41
@@ -9730,9 +9495,7 @@
     "N-719": {
       "canonical_name": "Shabbos Kestenbaum",
       "type": "person",
-      "aliases": [
-        "Shabazz Kestenbaum"
-      ],
+      "aliases": [],
       "episodes": [
         60
       ]
@@ -10015,9 +9778,7 @@
     "N-752": {
       "canonical_name": "Astrid Tuminez",
       "type": "person",
-      "aliases": [
-        "Tumz"
-      ],
+      "aliases": [],
       "episodes": [
         32,
         54,
@@ -10466,9 +10227,7 @@
     "N-803": {
       "canonical_name": "Savannah Guthrie",
       "type": "person",
-      "aliases": [
-        "Savannah Guthri"
-      ],
+      "aliases": [],
       "episodes": [
         73
       ]
@@ -10594,10 +10353,7 @@
     "N-818": {
       "canonical_name": "Helen Comperatore",
       "type": "person",
-      "aliases": [
-        "Helen Compator",
-        "Helen Gambadoro"
-      ],
+      "aliases": [],
       "episodes": [
         126
       ]
@@ -10669,9 +10425,7 @@
     "N-827": {
       "canonical_name": "Kathy Nester",
       "type": "person",
-      "aliases": [
-        "Kathy Netor"
-      ],
+      "aliases": [],
       "episodes": [
         94,
         142
@@ -10720,9 +10474,7 @@
     "N-833": {
       "canonical_name": "Macklemore",
       "type": "person",
-      "aliases": [
-        "McLemore"
-      ],
+      "aliases": [],
       "episodes": [
         152,
         153,
@@ -10791,9 +10543,7 @@
     "N-841": {
       "canonical_name": "Andrew Cuomo",
       "type": "person",
-      "aliases": [
-        "Kuomo"
-      ],
+      "aliases": [],
       "episodes": [
         26
       ]
@@ -10809,9 +10559,7 @@
     "N-843": {
       "canonical_name": "Joe Gebbia",
       "type": "person",
-      "aliases": [
-        "Joseph Gbia"
-      ],
+      "aliases": [],
       "episodes": [
         26
       ]
@@ -10819,10 +10567,7 @@
     "N-844": {
       "canonical_name": "Jeffrey Moussaieff Masson",
       "type": "person",
-      "aliases": [
-        "Jeffrey Mason",
-        "Jeffrey Mone"
-      ],
+      "aliases": [],
       "episodes": [
         26,
         67
@@ -10831,9 +10576,7 @@
     "N-845": {
       "canonical_name": "Theodor Herzl",
       "type": "person",
-      "aliases": [
-        "Theodore Herzel"
-      ],
+      "aliases": [],
       "episodes": [
         26
       ]
@@ -10999,8 +10742,7 @@
       "canonical_name": "Britta Weidner",
       "type": "person",
       "aliases": [
-        "No Soup For You",
-        "Brita"
+        "No Soup For You"
       ],
       "episodes": [
         16,
@@ -11052,9 +10794,7 @@
     "N-870": {
       "canonical_name": "Steve Witkoff",
       "type": "person",
-      "aliases": [
-        "Steve Witco"
-      ],
+      "aliases": [],
       "episodes": [
         18,
         161
@@ -11163,9 +10903,7 @@
     "N-883": {
       "canonical_name": "Nelson Peltz",
       "type": "person",
-      "aliases": [
-        "Nelson Pelts"
-      ],
+      "aliases": [],
       "episodes": [
         61
       ]
@@ -11265,8 +11003,6 @@
       "canonical_name": "Andrew Guajardo",
       "type": "person",
       "aliases": [
-        "Andrew Gohardo",
-        "Andrew Gerhardt",
         "Dr. Andrew Guajardo"
       ],
       "episodes": [
@@ -11278,8 +11014,7 @@
       "type": "person",
       "aliases": [
         "Dr. Ashley Brown Guajardo",
-        "Dr. Ashley",
-        "Dr. Kowhardo"
+        "Dr. Ashley"
       ],
       "episodes": [
         135
@@ -11572,6 +11307,7 @@
         8,
         9,
         10,
+        11,
         12,
         13,
         14,
@@ -12367,6 +12103,7 @@
       "episodes": [
         3,
         4,
+        11,
         16,
         94,
         139
@@ -12451,7 +12188,8 @@
       "aliases": [],
       "episodes": [
         4,
-        5
+        5,
+        11
       ]
     },
     "N-10043": {
@@ -12460,6 +12198,7 @@
       "aliases": [],
       "episodes": [
         4,
+        11,
         16,
         34,
         139,
@@ -12473,6 +12212,7 @@
       "aliases": [],
       "episodes": [
         4,
+        11,
         16,
         139
       ]
@@ -12930,6 +12670,7 @@
         3,
         5,
         6,
+        11,
         16,
         24,
         52,
@@ -13127,6 +12868,7 @@
       "episodes": [
         7,
         8,
+        11,
         12,
         23,
         32,
@@ -13772,6 +13514,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
+        11,
         12,
         13
       ]
@@ -18050,7 +17793,7 @@
       ]
     },
     "N-10523": {
-      "canonical_name": "Linda Rothschild Corcoran Group Presidency Verification",
+      "canonical_name": "Lynn Forester de Rothschild Corcoran Group Presidency Verification",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -18468,7 +18211,7 @@
       ]
     },
     "N-10561": {
-      "canonical_name": "Stacey Sheridan September 10 Location Verification",
+      "canonical_name": "Stacy Sheridan September 10 Location Verification",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -19196,6 +18939,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
+        11,
         94
       ]
     },
@@ -19204,6 +18948,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
+        11,
         94,
         137,
         139
@@ -23066,6 +22811,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
+        11,
         25,
         36,
         153,
@@ -23101,6 +22847,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
+        11,
         36,
         46,
         82,
@@ -24296,6 +24043,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
+        11,
         133
       ]
     },
@@ -25511,6 +25259,7 @@
       "type": "topic",
       "aliases": [],
       "episodes": [
+        11,
         13
       ]
     },
@@ -25624,7 +25373,7 @@
       ]
     },
     "N-11288": {
-      "canonical_name": "Harry Meyers September 10 Salt Lake City Airport Layover",
+      "canonical_name": "Harry Myers September 10 Salt Lake City Airport Layover",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -26807,7 +26556,6 @@
       "canonical_name": "Matiss Tabuns",
       "type": "person",
       "aliases": [
-        "Maddis",
         "Matiss"
       ],
       "episodes": [
@@ -27295,6 +27043,22 @@
       "aliases": [],
       "episodes": [
         167
+      ]
+    },
+    "N-11448": {
+      "canonical_name": "Robinson Family Witness Protection Claim",
+      "type": "topic",
+      "aliases": [],
+      "episodes": [
+        11
+      ]
+    },
+    "N-973": {
+      "canonical_name": "Taylor Hansen",
+      "type": "person",
+      "aliases": [],
+      "episodes": [
+        11
       ]
     }
   }

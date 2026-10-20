@@ -244,7 +244,7 @@ Named as White House chief of staff, with Sergio Gor as her second in command.
 
 **N-159** Blake Neff
 
-Transcript spelling "Blakey Neff" / "Blake". Asked on X about "Commander Neff" and said Adam Neff was harassed by the host's followers.
+Transcript spelling "Blake Neff" / "Blake". Asked on X about "Commander Neff" and said Adam Neff was harassed by the host's followers.
 
 *Related: C-4103, A-2580.1*
 
@@ -395,7 +395,7 @@ First named by the host at 00:29:22 in episode 104. Writer whose posts relayed p
 
 **N-624** Golshifteh Farahani
 
-First named by the host at 00:35:22 in episode 104. Exiled Iranian actress named in the Times account of the Macron slap. Aliases: Gosh Farani; Gosh Fani; Farhani; Verahani; Verhani.
+First named by the host at 00:35:22 in episode 104. Exiled Iranian actress named in the Times account of the Macron slap. Aliases: Golshifteh Farahani; Golshifteh Farahani; Farahani; Farahani; Farahani.
 
 *Related: C-4101, A-2579.2*
 
@@ -1390,8 +1390,8 @@ Confidence: high
 
 - **Artifacts verbally referenced but not shown**: A-2574.1 (the White House Military Office email is read aloud but deliberately not shown, which the host attributes to canary watermarking), A-2574.2 (deletion-order emails), A-2576.1 (tips-line receipts) and A-2580.1 (Blake Neff's X posts).
 - **Skeleton handling**: The existing N-16 and N-160 rows and the M-42 occurrence are kept with their ids and text; only their placeholder *Related:* lines were filled in. The N-160 description mentions an "Epstein situation-room attendee read", which does not appear in this transcript; it is kept verbatim from the skeleton. The skeleton's ledger line "Hole-minted Nodes (remap-ep104): N-160" was replaced by "(see registers)" per the spec. Its Video Timestamp Range (00:56:29) was corrected to the transcript duration, 49:46.
-- **Name matching**: "Justin Streiff" (chapter title "Justin Streiff") is mapped to N-15. "Blakey Neff" is N-159 Blake Neff. "Captain Adam Neff" / "Commander Neff" is N-319. "Sarah Seidner" is N-370 Sara Sidner. "Don Trump Jr." is N-33. The "mysterious Pierre" is linked only to topic N-10493; he is not matched to the existing Pierre S. du Pont person node, because the transcript gives no surname.
-- **New-person spellings**: "Ryan Rippeon" and "Gustav Anderly" are kept as spoken; real spellings are unverified. N-611 is named Jessica Reed Kraus (transcript "Jessica Reed Krauss", handle rendered "House and Drinking Habit"). For N-624, the host says she is "definitely not saying this name right" ("Gosh Farani", "Gosh Fani", "Farhani", "Verahani", "Verhani"). The node is named Golshifteh Farahani, the exiled Iranian actress whose name these spellings appear to render; the integrator should verify this. "Ike Cromoter" (21:13), named as someone whose "guy" Gor is, could not be matched and was not minted.
+- **Name matching**: "Justin Streiff" (chapter title "Justin Streiff") is mapped to N-15. "Blake Neff" is N-159 Blake Neff. "Captain Adam Neff" / "Commander Neff" is N-319. "Sarah Seidner" is N-370 Sara Sidner. "Don Trump Jr." is N-33. The "mysterious Pierre" is linked only to topic N-10493; he is not matched to the existing Pierre S. du Pont person node, because the transcript gives no surname.
+- **New-person spellings**: "Ryan Rippeon" and "Gustav Anderly" are kept as spoken; real spellings are unverified. N-611 is named Jessica Reed Kraus (transcript "Jessica Reed Krauss", handle rendered "House and Drinking Habit"). For N-624, the host says she is "definitely not saying this name right" ("Golshifteh Farahani", "Golshifteh Farahani", "Farahani", "Farahani", "Farahani"). The node is named Golshifteh Farahani, the exiled Iranian actress whose name these spellings appear to render; the integrator should verify this. "Ike Cromoter" (21:13), named as someone whose "guy" Gor is, could not be matched and was not minted.
 - **Transcription ambiguities**: "rescend" / "resend" for rescind, and "plat platforms", are kept as written. "Brigitte / Brigitte / Brigitte Macron" (Brigitte Macron), "Emmanuel Macron", "capta" (CAPTCHA) and "Vavlla" (favela) are kept as written. The host says Streiff "he's not just the CEO" (20:14) but elsewhere calls him COO; COO is used.
 - **Possible cross-episode links left out**: C-4064 was not linked to C-2791 (Washington Post: Secret Service fired at the WHCD suspect), because the host says the agents fired "at one another", a different proposition. C-4097–C-4099 were not linked to C-2901/C-2552 (Nick Shirley's own infiltration claims), because they concern teacher praise, not the infiltration. C-4081–C-4083 were not linked to C-2114 (Buckmans' $10 million gift), which is a different proposition.
 - **Not inscribed as claims (admission test)**: Several statements were not inscribed:

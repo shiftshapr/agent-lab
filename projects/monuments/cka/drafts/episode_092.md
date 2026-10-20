@@ -967,7 +967,7 @@ TPUSA adviser transcribed Paul Vallely; co-author with Aquino.
 
 **N-449** Michael Aquino
 
-Transcribed Michael Aino; co-author and Temple of Set founder.
+Transcribed Michael Aquino; co-author and Temple of Set founder.
 
 *Related: C-11424, C-11425*
 
@@ -2179,7 +2179,7 @@ Claim Timestamp: 00:48:11
 
 Claim: The host says TPUSA adviser Paul Vallely, a retired Army general who ran psychological operations, co-wrote a book with Michael Aquino, whom she calls the Satanist founder of the Temple of Set.
 
-Transcript Snippet: The TPUSA adviser, Paul Vallely, retired Army general who ran psychological operations and co-wrote the book with Michael Aino, the Satanist and founder of the Temple of Set.
+Transcript Snippet: The TPUSA adviser, Paul Vallely, retired Army general who ran psychological operations and co-wrote the book with Michael Aquino, the Satanist and founder of the Temple of Set.
 
 Anchored Artifacts: A-3132.1
 Mentions: N-800, N-449, N-3
@@ -2196,7 +2196,7 @@ Claim Timestamp: 00:48:11
 
 Claim: The host says Michael Aquino was accused of abusing children at Army Child Development Centers.
 
-Transcript Snippet: He was accused, I'm referring to Michael Aino, was accused of abusing children at Army Child Development Centers.
+Transcript Snippet: He was accused, I'm referring to Michael Aquino, was accused of abusing children at Army Child Development Centers.
 
 Anchored Artifacts: A-3132.1
 Mentions: N-449, N-3

@@ -1880,7 +1880,7 @@ Claim Timestamp: 01:11:21
 
 Claim: The host says Blake Neff and Andrew Kolvet retweeted Wilson as he went after her and offered more and more money.
 
-Transcript Snippet: Blake Neff and Andrew Kvette were retweeting him as he was going after me and offering more and more money.
+Transcript Snippet: Blake Neff and Andrew Kolvet were retweeting him as he was going after me and offering more and more money.
 
 Anchored Artifacts: 
 Mentions: N-3, N-159, N-14, N-18

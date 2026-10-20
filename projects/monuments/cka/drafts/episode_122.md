@@ -678,7 +678,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-68** Skyler
+**N-68** Schuyler
 
 Existing node reused for new claims in this episode.
 
@@ -726,7 +726,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10523** Linda Rothschild Corcoran Group Presidency Verification
+**N-10523** Lynn Forester de Rothschild Corcoran Group Presidency Verification
 
 Existing node reused for new claims in this episode.
 
@@ -2434,7 +2434,7 @@ Investigative Direction: Compare the sources' dates with the New York licensing 
 
 Claim Timestamp: 00:38:01
 
-Claim: The host says she believes Erika was licensed in 2019 in the same month she met Charlie, then, thanking Skyler, says August 2018, and that Erika received the license immediately after meeting Charlie.
+Claim: The host says she believes Erika was licensed in 2019 in the same month she met Charlie, then, thanking Schuyler, says August 2018, and that Erika received the license immediately after meeting Charlie.
 
 Transcript Snippet: I believe she was licensed in 2019 the same month that she met Charlie.
 

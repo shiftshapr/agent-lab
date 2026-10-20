@@ -320,7 +320,7 @@ Confidence Level: Low
 
 ## IV. Node Register
 
-**N-179** Justin McCoy
+**N-179** Justin Olson
 
 Son of Pastor Rob McCoy. Identified in episode as TPUSA Chief Financial Officer ("chief CFO, chief financial officer"). Referenced in Pastor McCoy's A-1260.1 sermon regarding succession.
 
@@ -709,7 +709,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10561** Stacey Sheridan September 10 Location Verification
+**N-10561** Stacy Sheridan September 10 Location Verification
 
 Existing topic reused for new claims in this episode.
 

@@ -46,7 +46,7 @@ Everything feels different in this post Charlie Kirk world. Where to begin? How 
 
 [03:44]
 
-That's what I'm starting to realize. That's why America never really had an appetite for Orthodox or Catholicism because the Catholics and the Orthodox have kept history. They know what was going on in Europe, not the fake history that's packaged and sold to Americans. They know what the Freemasons were up to. Freemasons who caused all of those revolutions against really the Christian Empire across Europe. The idea really I now think is keep Americans fat and dumb and drugged and propagandized, right? And then when we need to use their men to mass murder other Christians overseas. That's the big picture that I'm beginning to see. All of this to say, did you know that our FBI was founded by Charles Joseph Bonapart?
+That's what I'm starting to realize. That's why America never really had an appetite for Orthodox or Catholicism because the Catholics and the Orthodox have kept history. They know what was going on in Europe, not the fake history that's packaged and sold to Americans. They know what the Freemasons were up to. Freemasons who caused all of those revolutions against really the Christian Empire across Europe. The idea really I now think is keep Americans fat and dumb and drugged and propagandized, right? And then when we need to use their men to mass murder other Christians overseas. That's the big picture that I'm beginning to see. All of this to say, did you know that our FBI was founded by Charles Joseph Bonaparte?
 
 [04:36]
 

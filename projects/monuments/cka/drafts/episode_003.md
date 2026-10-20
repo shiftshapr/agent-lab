@@ -522,7 +522,7 @@ Charlie's widow; one of two people Candace cites as able to silence her.
 
 ---
 
-**N-63** Sarah Stockton
+**N-63** Sarah Stock
 
 Node Type: Person
 Hamptons attendee whose engagement ring generated drama.
@@ -587,7 +587,7 @@ X poster who broke down Bill Ackman's itinerary.
 **N-67** Mark Herman (director, Candace show)
 
 Node Type: Person
-In-house director on Candace Owens' show, called on air by first name (seq 27 roster line: "Chris in editing, Mark mansplaining, and also being our director, Skyler, the producer"). Here the host brings him in ("Go ahead, Mark. Yeah. He's a guy that's always in my ear") and he points out ellipses above the indictment's Robinson-Lance text exchanges, saying the exchanges look cherry-picked.
+In-house director on Candace Owens' show, called on air by first name (seq 27 roster line: "Chris in editing, Mark mansplaining, and also being our director, Schuyler, the producer"). Here the host brings him in ("Go ahead, Mark. Yeah. He's a guy that's always in my ear") and he points out ellipses above the indictment's Robinson-Lance text exchanges, saying the exchanges look cherry-picked.
 
 *Related: A-1095.8*
 
@@ -595,7 +595,7 @@ In-house director on Candace Owens' show, called on air by first name (seq 27 ro
 
 ---
 
-**N-68** Skyler
+**N-68** Schuyler
 
 Node Type: Person
 Producer referenced retrieving tweet screenshots.

@@ -342,7 +342,7 @@ Named in the ballroom talking point. Thomas Massie says Miriam Adelson has given
 
 **N-14** Andrew Kolvet
 
-Transcript spellings "Andrew Cole", "Andrew Kolvats" and "Andrew Kolvet that". He posted the ballroom line. The host says he works with Jessica Reed Kraus and once asked her if she was a witch. She also says there is evidence he was in contact with Brian Harpole.
+Transcript spellings "Andrew Cole", "Andrew Kolvet" and "Andrew Kolvet that". He posted the ballroom line. The host says he works with Jessica Reed Kraus and once asked her if she was a witch. She also says there is evidence he was in contact with Brian Harpole.
 
 *Related: C-3972, C-3981, C-3982, C-3996, C-3998, C-3999, A-2561.2*
 
@@ -438,7 +438,7 @@ First named by the host at 00:07:24 in episode 101. Posted that viewers could he
 
 **N-608** Mikhaila Peterson
 
-First named by the host at 00:07:24 in episode 101. Posted that the Erika Kirk video showed "what PTSD looks like." Aliases: Michaela Peterson.
+First named by the host at 00:07:24 in episode 101. Posted that the Erika Kirk video showed "what PTSD looks like." Aliases: Mikhaila Peterson.
 
 *Related: C-3960, A-2559.2*
 
@@ -462,7 +462,7 @@ First named by the host at 00:23:39 in episode 101. Named by Thomas Massie as on
 
 **N-611** Jessica Reed Kraus
 
-First named by the host at 00:26:58 in episode 101. Influencer known as House Inhabit. The host says she works with Andrew Kolvet, posted an AI photo of the host's husband, and is the subject of a Daily Mail article on her marriage. Aliases: House In Habit; house and habit; House Inhabit.
+First named by the host at 00:26:58 in episode 101. Influencer known as House Inhabit. The host says she works with Andrew Kolvet, posted an AI photo of the host's husband, and is the subject of a Daily Mail article on her marriage. Aliases: House Inhabit; House Inhabit; House Inhabit.
 
 *Related: C-3981, C-3986, C-3988, C-3989, C-3990, C-3991, C-3992, C-3993, A-2563.1, A-2564.1*
 
@@ -969,7 +969,7 @@ Claim Timestamp: 00:16:21
 
 Claim: The host says Andrew Kolvet posted that the shooting is why the president needs to build the White House ballroom.
 
-Transcript Snippet: The shooting made you think about a ballroom, Randy Fine, Andrew Kolvats? This is why the president needs to build the White House ballroom?
+Transcript Snippet: The shooting made you think about a ballroom, Randy Fine, Andrew Kolvet? This is why the president needs to build the White House ballroom?
 
 Anchored Artifacts: A-2561.2
 Mentions: N-14
@@ -1104,7 +1104,7 @@ Claim Timestamp: 00:26:58
 
 Claim: The host alleges that Andrew Kolvet works with YouTubers and "really nasty people", including Jessica Reed Kraus (House Inhabit). She says this was revealed a few weeks earlier.
 
-Transcript Snippet: One of these people being House In Habit, Jessica Reed Kraus, right? Uh she's been working with her.
+Transcript Snippet: One of these people being House Inhabit, Jessica Reed Kraus, right? Uh she's been working with her.
 
 Anchored Artifacts:
 Mentions: N-14, N-611
@@ -1673,7 +1673,7 @@ Confidence: high
 
 - **DIA beats**: five beats received the full treatment (claim, verbal-reference artifact, M-12 occurrence): 00:00:54 (C-3951, A-2556.1), 00:05:41 (C-3956, A-2556.2), 00:11:18 (C-3964, A-2556.3), 00:20:38–00:21:21 (C-3974, A-2556.4; "More tips at candaceowens. com" at 21:21) and 00:47:36–00:48:17 (C-4004, A-2556.5; "More tips at candaceowens. com" at 48:17). The 21:21 and 48:17 tip-line hits are each treated as part of the offer they close, not as separate beats. The "10K bounty" mention at 11:18 ("So, we put out that 10K bounty") is in the same beat as the payoff. Related beats without a keyword hit were not given an M-12 occurrence: the host's possible partial payment to the second tipster (13:49, "I might be out a couple of thousand dollars") and the viewer comment "let's gamble" with the host's reply (39:44–40:21). The CIA / Candace Intelligence Agency phrase does not air, so M-14 is not used.
 - **Artifacts verbally referenced but not shown**: A-2556.1–A-2556.5 (bounty and tip-line beats) and A-2560.1 (the first tipster's account; the operative's name is withheld). A-2560.2 (second tipster's still) may have been shown; the transcript only says it was sent and checked.
-- **Name matching**: "Andrew Cole" (14:37), "Andrew Kolvats" (16:21), "Andrew Kolvet that"/"Andrew Kolvet" (26:58 onward) and "Andrew Kolvet" (32:44) are all mapped to N-14. "Sara Sidner" maps to N-370 Sara Sidner. "Michaela Peterson" ("vilified for her father") is taken to be Mikhaila Peterson (N-608); her father (Jordan Peterson) is not named, so he is not cited. "House In Habit"/"house and habit" is kept as written and aliased to N-611 Jessica Reed Kraus (House Inhabit). "Milo" is matched to N-220 Milo Yiannopoulos. "Taro" (17:46, "Get the camera behind Charlie's head") is probably the existing node for Terryl Farnsworth, but the line is sarcasm, so it is not inscribed. "General Flynn" (26:58) is not matched to any node (nodes.tsv has only Conrad Flynn and David Flynn) and is not cited. "Ian" and "Baron" in a viewer comment (40:21) are probably Ian Carroll and Baron Coleman but are not cited.
+- **Name matching**: "Andrew Cole" (14:37), "Andrew Kolvet" (16:21), "Andrew Kolvet that"/"Andrew Kolvet" (26:58 onward) and "Andrew Kolvet" (32:44) are all mapped to N-14. "Sara Sidner" maps to N-370 Sara Sidner. "Mikhaila Peterson" ("vilified for her father") is taken to be Mikhaila Peterson (N-608); her father (Jordan Peterson) is not named, so he is not cited. "House Inhabit"/"House Inhabit" is kept as written and aliased to N-611 Jessica Reed Kraus (House Inhabit). "Milo" is matched to N-220 Milo Yiannopoulos. "Taro" (17:46, "Get the camera behind Charlie's head") is probably the existing node for Terryl Farnsworth, but the line is sarcasm, so it is not inscribed. "General Flynn" (26:58) is not matched to any node (nodes.tsv has only Conrad Flynn and David Flynn) and is not cited. "Ian" and "Baron" in a viewer comment (40:21) are probably Ian Carroll and Baron Coleman but are not cited.
 - **Transcription ambiguities**: "this Tommy Robinson story" and "Katie Hopkins trying to free Tommy Robinson" (26:16) probably refer to Tyler Robinson and the official Charlie Kirk case narrative. They are kept as written and not inscribed. "Mercel's and hot cells" (14:37) is unclear. "Daily Hit Mail" (30:36) is kept as written. "Standis cup" (36:02) is presumably a Stanley-style merch cup. "Dr. Stephanie Van Watson" is in a sponsor read and is excluded.
 - **Not inscribed as claims (admission test)**: the host's speculation that Andrew Kolvet might have texted someone to get the shot and that "someone sold her grief" (14:37); "my every instinct is that the video was staged" (opinion, though the tipster allegations are inscribed); the forecast that proof of staging would be "really bad" for MAGA (18:34); the question of why Trump needs a ballroom when he holds events at Mar-a-Lago and did not need one after Butler (17:05); "Israel is at war with American minds"/"America's occupied" (21:42, 25:30); the host's call to vote for Massie; Massie's description of Christians United for Israel as "another wing of AIPAC and RJC" (characterization); insults of Graham Allen, Jessica Reed Kraus and Blake Neff ("Chex Mix maniac" was Neff's insult of the host); the Matilda Wormwood and "nobody puts baby in the corner" bits; the claim that Kraus's co-workers called her a "manic drunk" (attributed hearsay without an artifact); the host's statement that she is "completely embarrassed" to have supported Trump; and grief reflections about Charlie Kirk.
 - **Possible cross-episode links left out**: C-3998 (steel neck "lie") is related to C-1941/C-2619 (Kolvet posted the surgeon "man of steel" quote) but does not contradict that the post existed, so it is not linked. C-4000 (donors say the video is AI) may be in tension with C-2181 (ep 61, an Aspen donor recalls Charlie saying Erika would "know what to do"), but it is not the same proposition, so it is not linked. C-3975–C-3980 (Massie primary) are related to the ep 78 Turning Point Action / Massie claims (C-2467, C-2474) but make different propositions. C-3995 (Erika said lawsuits against Harpole were being prepared) is the reverse of C-2810 (Harpole's suit against the host) and is not linked.
